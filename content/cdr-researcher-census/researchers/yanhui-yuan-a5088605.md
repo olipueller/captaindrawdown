@@ -1,7 +1,7 @@
 ---
 title: "Yanhui Yuan"
-description: "Yanhui Yuan is a Mid-career General CDR researcher at Bridgewater College in US. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.463976
+description: "Yanhui Yuan is a Mid-career DAC researcher at Bridgewater College in US. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.388201
 url: "/cdr-researcher-census/researchers/yanhui-yuan-a5088605/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Bridgewater College · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

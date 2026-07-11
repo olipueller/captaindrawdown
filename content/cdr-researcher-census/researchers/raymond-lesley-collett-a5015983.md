@@ -1,7 +1,7 @@
 ---
 title: "Raymond Lesley Collett"
 description: "Raymond Lesley Collett is an Early-career Soil Carbon researcher at Julius Kühn-Institut in DE. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.536401
+date: 2026-07-11T22:39:17.460500
 url: "/cdr-researcher-census/researchers/raymond-lesley-collett-a5015983/"
 layout: "researcher"
 hiddenInHomeList: true

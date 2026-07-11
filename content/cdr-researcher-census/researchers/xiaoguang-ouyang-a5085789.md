@@ -1,7 +1,7 @@
 ---
 title: "Xiaoguang Ouyang"
 description: "Xiaoguang Ouyang is a Mid-career Soil Carbon researcher at Southern Marine Science and Engineering Guangdong Laboratory (Guangzhou) in CN. With 61 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.095443
+date: 2026-07-11T22:39:16.195814
 url: "/cdr-researcher-census/researchers/xiaoguang-ouyang-a5085789/"
 layout: "researcher"
 hiddenInHomeList: true

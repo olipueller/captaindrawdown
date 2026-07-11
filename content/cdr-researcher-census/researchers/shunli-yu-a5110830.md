@@ -1,7 +1,7 @@
 ---
 title: "Shunli Yu"
 description: "Shunli Yu is a Mid-career Biochar researcher at Ministry of Education of the People's Republic of China in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.256676
+date: 2026-07-11T22:39:17.174480
 url: "/cdr-researcher-census/researchers/shunli-yu-a5110830/"
 layout: "researcher"
 hiddenInHomeList: true

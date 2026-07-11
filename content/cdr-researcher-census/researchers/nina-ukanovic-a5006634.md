@@ -1,7 +1,7 @@
 ---
 title: "Nina Đukanović"
 description: "Nina Đukanović is a Mid-career Biochar researcher at University of Novi Sad in RS. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.329549
+date: 2026-07-11T22:39:17.247240
 url: "/cdr-researcher-census/researchers/nina-ukanovic-a5006634/"
 layout: "researcher"
 hiddenInHomeList: true

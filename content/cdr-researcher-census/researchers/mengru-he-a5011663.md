@@ -1,7 +1,7 @@
 ---
 title: "Mengru He"
-description: "Mengru He is a Mid-career Soil Carbon researcher at Ministry of Agriculture in CZ. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.224529
+description: "Mengru He is a Mid-career Biochar researcher at Ministry of Agriculture in CZ. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.141131
 url: "/cdr-researcher-census/researchers/mengru-he-a5011663/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Ministry of Agriculture ·  CZ
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

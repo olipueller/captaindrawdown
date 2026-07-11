@@ -1,7 +1,7 @@
 ---
 title: "Youn-Jun Lee"
 description: "Youn-Jun Lee is a Mid-career Biochar researcher at Hanyang University in KR. With 37 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.404528
+date: 2026-07-11T22:39:16.498673
 url: "/cdr-researcher-census/researchers/youn-jun-lee-a5041345/"
 layout: "researcher"
 hiddenInHomeList: true

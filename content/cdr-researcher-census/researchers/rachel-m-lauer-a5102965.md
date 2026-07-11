@@ -1,7 +1,7 @@
 ---
 title: "Rachel M. Lauer"
-description: "Rachel M. Lauer is a Senior General CDR researcher at University of Calgary in CA. With 34 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.064091
+description: "Rachel M. Lauer is a Senior Enhanced Weathering researcher at University of Calgary in CA. With 34 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.054058
 url: "/cdr-researcher-census/researchers/rachel-m-lauer-a5102965/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Calgary · 🇨🇦 CA
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

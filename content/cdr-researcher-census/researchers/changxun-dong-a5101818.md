@@ -1,7 +1,7 @@
 ---
 title: "Changxun Dong"
 description: "Changxun Dong is a Senior Biochar researcher at Nanjing Agricultural University in CN. With 39 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.115326
+date: 2026-07-11T22:39:16.214017
 url: "/cdr-researcher-census/researchers/changxun-dong-a5101818/"
 layout: "researcher"
 hiddenInHomeList: true

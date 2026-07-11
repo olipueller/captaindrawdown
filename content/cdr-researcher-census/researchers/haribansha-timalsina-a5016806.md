@@ -1,7 +1,7 @@
 ---
 title: "Haribansha Timalsina"
 description: "Haribansha Timalsina is a Mid-career Biochar researcher at University of Illinois Urbana-Champaign in US. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.422231
+date: 2026-07-11T22:39:17.345662
 url: "/cdr-researcher-census/researchers/haribansha-timalsina-a5016806/"
 layout: "researcher"
 hiddenInHomeList: true

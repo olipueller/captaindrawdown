@@ -1,7 +1,7 @@
 ---
 title: "Shruti Shah"
-description: "Shruti Shah is a Senior Soil Carbon researcher at Kumaun University in IN. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.416971
+description: "Shruti Shah is a Senior BECCS researcher at Kumaun University in IN. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.339924
 url: "/cdr-researcher-census/researchers/shruti-shah-a5102894/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Kumaun University · 🇮🇳 IN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**BECCS**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

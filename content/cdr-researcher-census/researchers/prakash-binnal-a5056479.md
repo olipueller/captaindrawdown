@@ -1,7 +1,7 @@
 ---
 title: "Prakash Binnal"
 description: "Prakash Binnal is a Mid-career Biochar researcher at Siddaganga Institute of Technology in IN. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.510685
+date: 2026-07-11T22:39:16.605081
 url: "/cdr-researcher-census/researchers/prakash-binnal-a5056479/"
 layout: "researcher"
 hiddenInHomeList: true

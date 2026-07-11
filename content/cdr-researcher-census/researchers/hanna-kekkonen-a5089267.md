@@ -1,7 +1,7 @@
 ---
 title: "Hanna Kekkonen"
 description: "Hanna Kekkonen is a Mid-career Soil Carbon researcher at Natural Resources Institute Finland in FI. With 39 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.375344
+date: 2026-07-11T22:39:17.295465
 url: "/cdr-researcher-census/researchers/hanna-kekkonen-a5089267/"
 layout: "researcher"
 hiddenInHomeList: true

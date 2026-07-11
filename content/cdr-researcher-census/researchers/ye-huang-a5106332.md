@@ -1,7 +1,7 @@
 ---
 title: "Ye Huang"
 description: "Ye Huang is a Mid-career Soil Carbon researcher. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.280357
+date: 2026-07-11T22:39:17.197946
 url: "/cdr-researcher-census/researchers/ye-huang-a5106332/"
 layout: "researcher"
 hiddenInHomeList: true

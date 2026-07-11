@@ -1,7 +1,7 @@
 ---
 title: "Yihao Wang"
-description: "Yihao Wang is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.949945
+description: "Yihao Wang is a Mid-career Biochar researcher at Institute of Agricultural Resources and Regional Planning in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.002196
 url: "/cdr-researcher-census/researchers/yihao-wang-a5046786/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Institute of Agricultural Resources and Regional Planning · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

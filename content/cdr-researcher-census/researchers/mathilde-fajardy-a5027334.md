@@ -1,7 +1,7 @@
 ---
 title: "Mathilde Fajardy"
-description: "Mathilde Fajardy is a Mid-career General CDR researcher at University of Cambridge in GB. With 39 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.140948
+description: "Mathilde Fajardy is a Mid-career BECCS researcher at University of Cambridge in GB. With 39 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.237353
 url: "/cdr-researcher-census/researchers/mathilde-fajardy-a5027334/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Cambridge · 🇬🇧 GB
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

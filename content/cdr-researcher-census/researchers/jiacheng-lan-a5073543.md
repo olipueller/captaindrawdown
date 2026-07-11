@@ -1,7 +1,7 @@
 ---
 title: "Jiacheng Lan"
-description: "Jiacheng Lan is a Mid-career Soil Carbon researcher at Guizhou Normal University in CN. With 32 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.468018
+description: "Jiacheng Lan is a Mid-career Enhanced Weathering researcher at Guizhou Normal University in CN. With 32 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.562308
 url: "/cdr-researcher-census/researchers/jiacheng-lan-a5073543/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Guizhou Normal University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Enhanced Weathering**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

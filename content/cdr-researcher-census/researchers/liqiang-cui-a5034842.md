@@ -1,7 +1,7 @@
 ---
 title: "Liqiang Cui"
-description: "Liqiang Cui is a Mid-career Soil Carbon researcher at Spinal Research in GB. With 44 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.361010
+description: "Liqiang Cui is a Mid-career Biochar researcher at Spinal Research in GB. With 44 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.451975
 url: "/cdr-researcher-census/researchers/liqiang-cui-a5034842/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Spinal Research · 🇬🇧 GB
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

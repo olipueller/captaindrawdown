@@ -1,7 +1,7 @@
 ---
 title: "Dabin Zhang"
 description: "Dabin Zhang is a Mid-career Soil Carbon researcher. With 22 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.423655
+date: 2026-07-11T22:39:16.518187
 url: "/cdr-researcher-census/researchers/dabin-zhang-a5103070/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mohammed Rizwan"
 description: "Mohammed Rizwan is a Senior General CDR researcher at Heidelberg University in DE. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.454279
+date: 2026-07-11T22:39:17.379013
 url: "/cdr-researcher-census/researchers/mohammed-rizwan-a5102478/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Gonzalo Rodriguez-García"
 description: "Gonzalo Rodriguez-García is a Mid-career General CDR researcher at National Institute of Standards and Technology in US. With 28 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.190505
+date: 2026-07-11T22:39:16.283447
 url: "/cdr-researcher-census/researchers/gonzalo-rodriguez-garcia-a5037010/"
 layout: "researcher"
 hiddenInHomeList: true

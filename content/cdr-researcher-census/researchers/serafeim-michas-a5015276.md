@@ -1,7 +1,7 @@
 ---
 title: "Serafeim Michas"
-description: "Serafeim Michas is a Mid-career General CDR researcher at University of Piraeus in GR. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.400706
+description: "Serafeim Michas is a Mid-career BECCS researcher at University of Piraeus in GR. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.322765
 url: "/cdr-researcher-census/researchers/serafeim-michas-a5015276/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Piraeus · 🇬🇷 GR
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

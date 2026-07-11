@@ -1,7 +1,7 @@
 ---
 title: "Michael Asiedu Kumi"
 description: "Michael Asiedu Kumi is a Mid-career General CDR researcher at Beijing Normal University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.717605
+date: 2026-07-11T22:39:16.800538
 url: "/cdr-researcher-census/researchers/michael-asiedu-kumi-a5018882/"
 layout: "researcher"
 hiddenInHomeList: true

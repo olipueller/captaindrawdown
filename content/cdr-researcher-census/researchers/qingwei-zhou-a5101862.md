@@ -1,7 +1,7 @@
 ---
 title: "Qingwei Zhou"
 description: "Qingwei Zhou is a Senior Biochar researcher at Hangzhou Dianzi University in CN. With 49 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.149595
+date: 2026-07-11T22:39:16.245343
 url: "/cdr-researcher-census/researchers/qingwei-zhou-a5101862/"
 layout: "researcher"
 hiddenInHomeList: true

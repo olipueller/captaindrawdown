@@ -1,7 +1,7 @@
 ---
 title: "Amin Sharififar"
 description: "Amin Sharififar is a Mid-career Soil Carbon researcher at International Labour Organization in CH. With 37 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.379374
+date: 2026-07-11T22:39:16.471813
 url: "/cdr-researcher-census/researchers/amin-sharififar-a5044592/"
 layout: "researcher"
 hiddenInHomeList: true

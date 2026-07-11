@@ -1,7 +1,7 @@
 ---
 title: "Asif Ali"
-description: "Asif Ali is a Senior General CDR researcher at Nanyang Technological University in SG. With 51 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.279777
+description: "Asif Ali is a Senior Enhanced Weathering researcher at Nanyang Technological University in SG. With 51 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.369957
 url: "/cdr-researcher-census/researchers/asif-ali-a5087034/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Nanyang Technological University · 🇸🇬 SG
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

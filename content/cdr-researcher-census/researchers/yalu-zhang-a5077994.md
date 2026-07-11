@@ -1,7 +1,7 @@
 ---
 title: "Yalu Zhang"
 description: "Yalu Zhang is a Mid-career Soil Carbon researcher at Inner Mongolia University of Finance and Economics in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.453900
+date: 2026-07-11T22:39:17.378637
 url: "/cdr-researcher-census/researchers/yalu-zhang-a5077994/"
 layout: "researcher"
 hiddenInHomeList: true

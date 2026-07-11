@@ -1,7 +1,7 @@
 ---
 title: "Xin Zhao"
 description: "Xin Zhao is an Eminent Soil Carbon researcher at China Agricultural University in CN. With 129 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.010188
+date: 2026-07-11T22:39:16.125184
 url: "/cdr-researcher-census/researchers/xin-zhao-a5083475/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Howard J. Herzog"
 description: "Howard J. Herzog is an Eminent General CDR researcher at Massachusetts Institute of Technology in US. With 175 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:39.957793
+date: 2026-07-11T22:39:16.088616
 url: "/cdr-researcher-census/researchers/howard-j-herzog-a5108415/"
 layout: "researcher"
 hiddenInHomeList: true

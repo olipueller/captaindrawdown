@@ -1,7 +1,7 @@
 ---
 title: "Tongqian Zhao"
 description: "Tongqian Zhao is a Senior General CDR researcher at Henan Polytechnic University in CN. With 36 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.398805
+date: 2026-07-11T22:39:17.320838
 url: "/cdr-researcher-census/researchers/tongqian-zhao-a5102218/"
 layout: "researcher"
 hiddenInHomeList: true

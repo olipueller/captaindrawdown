@@ -1,7 +1,7 @@
 ---
 title: "Ram L. Ray"
 description: "Ram L. Ray is a Senior Soil Carbon researcher at Prairie View A&M University in US. With 205 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:39.999980
+date: 2026-07-11T22:39:16.116294
 url: "/cdr-researcher-census/researchers/ram-l-ray-a5085883/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Francisco Flores"
 description: "Francisco Flores is a Mid-career General CDR researcher at Pontificia Universidad Católica de Valparaíso in CL. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.422970
+date: 2026-07-11T22:39:17.346462
 url: "/cdr-researcher-census/researchers/francisco-flores-a5083590/"
 layout: "researcher"
 hiddenInHomeList: true

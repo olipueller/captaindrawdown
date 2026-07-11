@@ -1,7 +1,7 @@
 ---
 title: "Yuanqiang Wan"
 description: "Yuanqiang Wan is a Mid-career Soil Carbon researcher at Ministry of Natural Resources in CN. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.862193
+date: 2026-07-11T22:39:16.937999
 url: "/cdr-researcher-census/researchers/yuanqiang-wan-a5006278/"
 layout: "researcher"
 hiddenInHomeList: true

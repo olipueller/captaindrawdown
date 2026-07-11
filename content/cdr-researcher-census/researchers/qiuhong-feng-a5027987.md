@@ -1,7 +1,7 @@
 ---
 title: "Qiuhong Feng"
 description: "Qiuhong Feng is a Senior Soil Carbon researcher at Chengdu Research Base of Giant Panda Breeding in CN. With 52 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.553590
+date: 2026-07-11T22:39:16.646737
 url: "/cdr-researcher-census/researchers/qiuhong-feng-a5027987/"
 layout: "researcher"
 hiddenInHomeList: true

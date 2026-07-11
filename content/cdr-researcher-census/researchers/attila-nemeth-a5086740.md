@@ -1,7 +1,7 @@
 ---
 title: "Attila Németh"
-description: "Attila Németh is a Senior Soil Carbon researcher at Széchenyi István University in HU. With 12 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.167322
+description: "Attila Németh is a Senior Ocean CDR researcher at Széchenyi István University in HU. With 12 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.101418
 url: "/cdr-researcher-census/researchers/attila-nemeth-a5086740/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Széchenyi István University ·  HU
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Ocean CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
 
 ## Metrics
 

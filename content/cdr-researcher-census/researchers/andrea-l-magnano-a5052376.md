@@ -1,7 +1,7 @@
 ---
 title: "Andrea L. Magnano"
 description: "Andrea L. Magnano is a Mid-career Soil Carbon researcher at Consejo Nacional de Investigaciones Científicas y Técnicas in AR. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.632446
+date: 2026-07-11T22:39:17.551742
 url: "/cdr-researcher-census/researchers/andrea-l-magnano-a5052376/"
 layout: "researcher"
 hiddenInHomeList: true

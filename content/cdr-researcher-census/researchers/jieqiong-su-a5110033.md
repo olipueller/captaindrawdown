@@ -1,7 +1,7 @@
 ---
 title: "Jieqiong Su"
 description: "Jieqiong Su is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 44 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.322539
+date: 2026-07-11T22:39:16.413156
 url: "/cdr-researcher-census/researchers/jieqiong-su-a5110033/"
 layout: "researcher"
 hiddenInHomeList: true

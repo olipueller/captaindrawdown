@@ -1,7 +1,7 @@
 ---
 title: "Wanjie Lv"
 description: "Wanjie Lv is a Mid-career Soil Carbon researcher at Zhejiang A & F University in CN. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.630260
+date: 2026-07-11T22:39:17.549520
 url: "/cdr-researcher-census/researchers/wanjie-lv-a5076619/"
 layout: "researcher"
 hiddenInHomeList: true

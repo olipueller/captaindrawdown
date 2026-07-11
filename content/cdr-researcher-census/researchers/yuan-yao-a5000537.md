@@ -1,7 +1,7 @@
 ---
 title: "Yuan Yao"
 description: "Yuan Yao is a Senior General CDR researcher at Yale University in US. With 114 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.002140
+date: 2026-07-11T22:39:16.118150
 url: "/cdr-researcher-census/researchers/yuan-yao-a5000537/"
 layout: "researcher"
 hiddenInHomeList: true

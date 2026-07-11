@@ -1,7 +1,7 @@
 ---
 title: "Verena Groß"
 description: "Verena Groß is a Mid-career Soil Carbon researcher at Universitätsmedizin Greifswald in DE. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.708411
+date: 2026-07-11T22:39:16.791930
 url: "/cdr-researcher-census/researchers/verena-gro-a5034948/"
 layout: "researcher"
 hiddenInHomeList: true

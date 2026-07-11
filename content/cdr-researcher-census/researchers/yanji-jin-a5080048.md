@@ -1,7 +1,7 @@
 ---
 title: "Yanji Jin"
-description: "Yanji Jin is an Early-career General CDR researcher at Southeast University in CN. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.616565
+description: "Yanji Jin is an Early-career Biochar researcher at Southeast University in CN. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.535699
 url: "/cdr-researcher-census/researchers/yanji-jin-a5080048/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Southeast University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

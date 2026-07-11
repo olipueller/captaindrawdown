@@ -1,7 +1,7 @@
 ---
 title: "Emílio Berghahn"
-description: "Emílio Berghahn is a Mid-career Soil Carbon researcher at Univates in BR. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.630030
+description: "Emílio Berghahn is a Mid-career Biochar researcher at Univates in BR. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.549279
 url: "/cdr-researcher-census/researchers/emilio-berghahn-a5005410/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Univates · 🇧🇷 BR
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

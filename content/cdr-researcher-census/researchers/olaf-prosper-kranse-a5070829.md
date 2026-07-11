@@ -1,7 +1,7 @@
 ---
 title: "Olaf Prosper Kranse"
 description: "Olaf Prosper Kranse is a Mid-career Soil Carbon researcher at University of Cambridge in GB. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.947789
+date: 2026-07-11T22:39:17.000324
 url: "/cdr-researcher-census/researchers/olaf-prosper-kranse-a5070829/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Piao Xue"
 description: "Piao Xue is an Early-career Soil Carbon researcher at Tokyo University of the Arts in JP. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.430995
+date: 2026-07-11T22:39:17.355019
 url: "/cdr-researcher-census/researchers/piao-xue-a5036584/"
 layout: "researcher"
 hiddenInHomeList: true

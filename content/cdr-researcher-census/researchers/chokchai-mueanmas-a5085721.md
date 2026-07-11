@@ -1,7 +1,7 @@
 ---
 title: "Chokchai Mueanmas"
-description: "Chokchai Mueanmas is a Senior Biochar researcher. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.103796
+description: "Chokchai Mueanmas is a Senior BECCS researcher. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.075861
 url: "/cdr-researcher-census/researchers/chokchai-mueanmas-a5085721/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**Biochar**
+**BECCS**
 
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

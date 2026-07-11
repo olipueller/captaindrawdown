@@ -1,7 +1,7 @@
 ---
 title: "Lucas Hoof"
-description: "Lucas Hoof is a Mid-career General CDR researcher at Fraunhofer Institute for Environmental, Safety and Energy Technology UMSICHT in DE. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.182331
+description: "Lucas Hoof is a Mid-career DAC researcher at Fraunhofer Institute for Environmental, Safety and Energy Technology UMSICHT in DE. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.107681
 url: "/cdr-researcher-census/researchers/lucas-hoof-a5073755/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Fraunhofer Institute for Environmental, Safety and Energy Technology UMSICHT · 
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

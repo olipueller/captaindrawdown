@@ -1,7 +1,7 @@
 ---
 title: "Huijun Wu"
 description: "Huijun Wu is a Senior Soil Carbon researcher at China University of Petroleum, Beijing in CN. With 50 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.150937
+date: 2026-07-11T22:39:16.246390
 url: "/cdr-researcher-census/researchers/huijun-wu-a5102745/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Madhuwanthi Rupasinghe"
-description: "Madhuwanthi Rupasinghe is a Mid-career General CDR researcher at The University of Melbourne in AU. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.512547
+description: "Madhuwanthi Rupasinghe is a Mid-career Biochar researcher at The University of Melbourne in AU. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.607023
 url: "/cdr-researcher-census/researchers/madhuwanthi-rupasinghe-a5040926/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ The University of Melbourne · 🇦🇺 AU
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

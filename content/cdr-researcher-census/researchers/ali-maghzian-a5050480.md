@@ -1,7 +1,7 @@
 ---
 title: "Ali Maghzian"
 description: "Ali Maghzian is a Mid-career Ocean CDR researcher at University of British Columbia in CA. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.297167
+date: 2026-07-11T22:39:17.214258
 url: "/cdr-researcher-census/researchers/ali-maghzian-a5050480/"
 layout: "researcher"
 hiddenInHomeList: true

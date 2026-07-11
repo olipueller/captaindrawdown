@@ -1,7 +1,7 @@
 ---
 title: "Camila Aquije"
-description: "Camila Aquije is an Early-career General CDR researcher. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.562049
+description: "Camila Aquije is an Early-career Biochar researcher. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.485154
 url: "/cdr-researcher-census/researchers/camila-aquije-a5030909/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,9 +26,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

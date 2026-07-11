@@ -1,7 +1,7 @@
 ---
 title: "Nimra Rajput"
-description: "Nimra Rajput is a Mid-career Soil Carbon researcher at Yangzhou University in CN. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.294045
+description: "Nimra Rajput is a Mid-career Biochar researcher at Yangzhou University in CN. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.211058
 url: "/cdr-researcher-census/researchers/nimra-rajput-a5035332/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Yangzhou University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

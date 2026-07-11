@@ -1,7 +1,7 @@
 ---
 title: "Chinmoy Baroi"
-description: "Chinmoy Baroi is a Senior General CDR researcher at Idaho National Laboratory in US. With 38 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.271604
+description: "Chinmoy Baroi is a Senior DAC researcher at Idaho National Laboratory in US. With 38 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.361289
 url: "/cdr-researcher-census/researchers/chinmoy-baroi-a5040576/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Idaho National Laboratory · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

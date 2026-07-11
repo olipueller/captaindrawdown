@@ -1,7 +1,7 @@
 ---
 title: "Adel T. Osman"
-description: "Adel T. Osman is a Mid-career Soil Carbon researcher at Al-Azhar University in EG. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.516161
+description: "Adel T. Osman is a Mid-career Biochar researcher at Al-Azhar University in EG. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.441182
 url: "/cdr-researcher-census/researchers/adel-t-osman-a5006662/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Al-Azhar University ·  EG
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

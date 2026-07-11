@@ -1,7 +1,7 @@
 ---
 title: "Fangfang Li"
 description: "Fangfang Li is a Mid-career Soil Carbon researcher at Kunming University of Science and Technology in CN. With 80 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.209811
+date: 2026-07-11T22:39:16.301427
 url: "/cdr-researcher-census/researchers/fangfang-li-a5100404/"
 layout: "researcher"
 hiddenInHomeList: true

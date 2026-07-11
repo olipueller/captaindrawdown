@@ -1,7 +1,7 @@
 ---
 title: "Aamir Raza"
 description: "Aamir Raza is a Senior Soil Carbon researcher at University of Minnesota in US. With 40 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.638286
+date: 2026-07-11T22:39:16.728522
 url: "/cdr-researcher-census/researchers/aamir-raza-a5078695/"
 layout: "researcher"
 hiddenInHomeList: true

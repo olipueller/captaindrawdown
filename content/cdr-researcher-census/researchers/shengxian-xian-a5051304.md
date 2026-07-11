@@ -1,7 +1,7 @@
 ---
 title: "Shengxian Xian"
-description: "Shengxian Xian is a Mid-career Ocean CDR researcher. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.231787
+description: "Shengxian Xian is a Mid-career BECCS researcher. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.148817
 url: "/cdr-researcher-census/researchers/shengxian-xian-a5051304/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,9 +26,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**Ocean CDR**
+**BECCS**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

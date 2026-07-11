@@ -1,7 +1,7 @@
 ---
 title: "Jinhu Cui"
 description: "Jinhu Cui is a Mid-career Soil Carbon researcher at Anhui University in CN. With 28 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.973155
+date: 2026-07-11T22:39:17.018308
 url: "/cdr-researcher-census/researchers/jinhu-cui-a5113321/"
 layout: "researcher"
 hiddenInHomeList: true

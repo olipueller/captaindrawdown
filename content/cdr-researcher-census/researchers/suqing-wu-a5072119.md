@@ -1,7 +1,7 @@
 ---
 title: "Suqing Wu"
 description: "Suqing Wu is an Early-career Biochar researcher at Wenzhou University in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.563659
+date: 2026-07-11T22:39:17.486690
 url: "/cdr-researcher-census/researchers/suqing-wu-a5072119/"
 layout: "researcher"
 hiddenInHomeList: true

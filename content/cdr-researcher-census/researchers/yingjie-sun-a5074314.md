@@ -1,7 +1,7 @@
 ---
 title: "Yingjie Sun"
 description: "Yingjie Sun is a Senior Soil Carbon researcher at Harvard University in US. With 74 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.079407
+date: 2026-07-11T22:39:16.182053
 url: "/cdr-researcher-census/researchers/yingjie-sun-a5074314/"
 layout: "researcher"
 hiddenInHomeList: true

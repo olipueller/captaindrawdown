@@ -1,7 +1,7 @@
 ---
 title: "José Liétor"
 description: "José Liétor is a Senior Soil Carbon researcher at Universidad de Jaén in ES. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.599339
+date: 2026-07-11T22:39:17.520003
 url: "/cdr-researcher-census/researchers/jose-lietor-a5005761/"
 layout: "researcher"
 hiddenInHomeList: true

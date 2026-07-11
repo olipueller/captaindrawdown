@@ -1,7 +1,7 @@
 ---
 title: "Sivarethinamohan Rajamanickam"
 description: "Sivarethinamohan Rajamanickam is a Mid-career Biochar researcher at Symbiosis International University in IN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.412867
+date: 2026-07-11T22:39:16.506920
 url: "/cdr-researcher-census/researchers/sivarethinamohan-rajamanickam-a5085191/"
 layout: "researcher"
 hiddenInHomeList: true

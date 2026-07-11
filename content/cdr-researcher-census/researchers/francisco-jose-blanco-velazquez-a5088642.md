@@ -1,7 +1,7 @@
 ---
 title: "Francisco José Blanco Velázquez"
-description: "Francisco José Blanco Velázquez is a Mid-career Soil Carbon researcher at Aut Even Hospital in IE. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.452884
+description: "Francisco José Blanco Velázquez is a Mid-career Biochar researcher at Aut Even Hospital in IE. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.377624
 url: "/cdr-researcher-census/researchers/francisco-jose-blanco-velazquez-a5088642/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Aut Even Hospital ·  IE
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

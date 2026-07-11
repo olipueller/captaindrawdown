@@ -1,7 +1,7 @@
 ---
 title: "Heather E. Preisendanz"
 description: "Heather E. Preisendanz is a Mid-career Biochar researcher at Pennsylvania State University in US. With 45 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.433662
+date: 2026-07-11T22:39:16.528123
 url: "/cdr-researcher-census/researchers/heather-e-preisendanz-a5058121/"
 layout: "researcher"
 hiddenInHomeList: true

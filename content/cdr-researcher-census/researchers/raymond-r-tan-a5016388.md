@@ -1,7 +1,7 @@
 ---
 title: "Raymond R. Tan"
 description: "Raymond R. Tan is an Eminent General CDR researcher at Hefei University of Technology in CN. With 648 publications and an h-index of 66, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:39.950394
+date: 2026-07-11T22:39:16.085173
 url: "/cdr-researcher-census/researchers/raymond-r-tan-a5016388/"
 layout: "researcher"
 hiddenInHomeList: true

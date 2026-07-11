@@ -1,7 +1,7 @@
 ---
 title: "Ramu Meena"
-description: "Ramu Meena is a Senior Soil Carbon researcher at Sri Karan Narendra Agriculture University, Jobner in IN. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.623692
+description: "Ramu Meena is a Senior Biochar researcher at Sri Karan Narendra Agriculture University, Jobner in IN. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.542694
 url: "/cdr-researcher-census/researchers/ramu-meena-a5102052/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Sri Karan Narendra Agriculture University, Jobner · 🇮🇳 IN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

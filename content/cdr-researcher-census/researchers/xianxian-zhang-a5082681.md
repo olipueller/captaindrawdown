@@ -1,7 +1,7 @@
 ---
 title: "Xianxian Zhang"
 description: "Xianxian Zhang is a Senior Soil Carbon researcher at Shenyang Pharmaceutical University in CN. With 143 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.127852
+date: 2026-07-11T22:39:16.225401
 url: "/cdr-researcher-census/researchers/xianxian-zhang-a5082681/"
 layout: "researcher"
 hiddenInHomeList: true

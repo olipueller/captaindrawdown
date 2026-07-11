@@ -1,7 +1,7 @@
 ---
 title: "Yousif A. Tokhy"
 description: "Yousif A. Tokhy is an Early-career Biochar researcher at Helwan University in EG. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.654469
+date: 2026-07-11T22:39:17.583002
 url: "/cdr-researcher-census/researchers/yousif-a-tokhy-a5075517/"
 layout: "researcher"
 hiddenInHomeList: true

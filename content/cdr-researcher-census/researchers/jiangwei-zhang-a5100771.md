@@ -1,7 +1,7 @@
 ---
 title: "Jiangwei Zhang"
-description: "Jiangwei Zhang is a Senior General CDR researcher at First Affiliated Hospital of Xi'an Jiaotong University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.455155
+description: "Jiangwei Zhang is a Senior DAC researcher at First Affiliated Hospital of Xi'an Jiaotong University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.549827
 url: "/cdr-researcher-census/researchers/jiangwei-zhang-a5100771/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ First Affiliated Hospital of Xi'an Jiaotong University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

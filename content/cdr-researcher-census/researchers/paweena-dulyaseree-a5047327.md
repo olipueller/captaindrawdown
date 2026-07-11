@@ -1,7 +1,7 @@
 ---
 title: "Paweena Dulyaseree"
-description: "Paweena Dulyaseree is a Mid-career General CDR researcher. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.986896
+description: "Paweena Dulyaseree is a Mid-career Biochar researcher. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.022620
 url: "/cdr-researcher-census/researchers/paweena-dulyaseree-a5047327/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

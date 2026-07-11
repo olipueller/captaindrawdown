@@ -1,7 +1,7 @@
 ---
 title: "Sunita Kumari Meena"
 description: "Sunita Kumari Meena is a Senior Soil Carbon researcher at Tamil Nadu Agricultural University in IN. With 74 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.077355
+date: 2026-07-11T22:39:16.180194
 url: "/cdr-researcher-census/researchers/sunita-kumari-meena-a5059480/"
 layout: "researcher"
 hiddenInHomeList: true

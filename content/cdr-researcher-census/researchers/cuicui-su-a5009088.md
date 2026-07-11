@@ -1,7 +1,7 @@
 ---
 title: "Cuicui Su"
 description: "Cuicui Su is a Mid-career Soil Carbon researcher at Ningbo University in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.439590
+date: 2026-07-11T22:39:17.363498
 url: "/cdr-researcher-census/researchers/cuicui-su-a5009088/"
 layout: "researcher"
 hiddenInHomeList: true

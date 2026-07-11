@@ -1,7 +1,7 @@
 ---
 title: "Yanghua Duan"
-description: "Yanghua Duan is a Mid-career General CDR researcher at Colorado State University in US. With 27 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.339152
+description: "Yanghua Duan is a Mid-career Enhanced Weathering researcher at Colorado State University in US. With 27 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.429172
 url: "/cdr-researcher-census/researchers/yanghua-duan-a5051604/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Colorado State University · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

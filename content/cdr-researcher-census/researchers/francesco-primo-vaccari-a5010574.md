@@ -1,7 +1,7 @@
 ---
 title: "Francesco Primo Vaccari"
 description: "Francesco Primo Vaccari is an Eminent Biochar researcher at National Research Council in IT. With 129 publications and an h-index of 43, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:39.961028
+date: 2026-07-11T22:39:16.089913
 url: "/cdr-researcher-census/researchers/francesco-primo-vaccari-a5010574/"
 layout: "researcher"
 hiddenInHomeList: true

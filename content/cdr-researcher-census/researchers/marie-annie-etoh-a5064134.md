@@ -1,7 +1,7 @@
 ---
 title: "Marie Annie Etoh"
 description: "Marie Annie Etoh is a Mid-career Biochar researcher at University of Douala in CM. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.017953
+date: 2026-07-11T22:39:17.033767
 url: "/cdr-researcher-census/researchers/marie-annie-etoh-a5064134/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Adugna Bayata"
 description: "Adugna Bayata is a Mid-career Soil Carbon researcher at Jimma University in ET. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.316244
+date: 2026-07-11T22:39:17.233172
 url: "/cdr-researcher-census/researchers/adugna-bayata-a5040413/"
 layout: "researcher"
 hiddenInHomeList: true

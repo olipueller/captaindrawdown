@@ -1,7 +1,7 @@
 ---
 title: "Jin Hua Li"
 description: "Jin Hua Li is a Senior Soil Carbon researcher at Lanzhou University in CN. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.471029
+date: 2026-07-11T22:39:16.565675
 url: "/cdr-researcher-census/researchers/jin-hua-li-a5101729/"
 layout: "researcher"
 hiddenInHomeList: true

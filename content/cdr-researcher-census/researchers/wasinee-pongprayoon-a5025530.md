@@ -1,7 +1,7 @@
 ---
 title: "Wasinee Pongprayoon"
-description: "Wasinee Pongprayoon is a Mid-career Soil Carbon researcher at Burapha University in TH. With 26 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.694015
+description: "Wasinee Pongprayoon is a Mid-career DAC researcher at Burapha University in TH. With 26 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.778224
 url: "/cdr-researcher-census/researchers/wasinee-pongprayoon-a5025530/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Burapha University · 🇹🇭 TH
 
 ## CDR Specialization
 
-**Soil Carbon**
+**DAC**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

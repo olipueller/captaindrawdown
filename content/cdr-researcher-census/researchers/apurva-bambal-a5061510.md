@@ -1,7 +1,7 @@
 ---
 title: "Apurva Bambal"
 description: "Apurva Bambal is a Mid-career Biochar researcher. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.207068
+date: 2026-07-11T22:39:17.124523
 url: "/cdr-researcher-census/researchers/apurva-bambal-a5061510/"
 layout: "researcher"
 hiddenInHomeList: true

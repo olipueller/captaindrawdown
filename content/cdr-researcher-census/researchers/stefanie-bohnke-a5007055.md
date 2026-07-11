@@ -1,7 +1,7 @@
 ---
 title: "Stefanie Böhnke"
-description: "Stefanie Böhnke is a Mid-career Ocean CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.713539
+description: "Stefanie Böhnke is a Mid-career Enhanced Weathering researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.797015
 url: "/cdr-researcher-census/researchers/stefanie-bohnke-a5007055/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ GEOMAR Helmholtz Centre for Ocean Research Kiel · 🇩🇪 DE
 
 ## CDR Specialization
 
-**Ocean CDR**
+**Enhanced Weathering**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

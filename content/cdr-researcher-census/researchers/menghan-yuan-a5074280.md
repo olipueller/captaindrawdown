@@ -1,7 +1,7 @@
 ---
 title: "Menghan Yuan"
 description: "Menghan Yuan is a Mid-career Soil Carbon researcher at Lanzhou University in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.603556
+date: 2026-07-11T22:39:17.523658
 url: "/cdr-researcher-census/researchers/menghan-yuan-a5074280/"
 layout: "researcher"
 hiddenInHomeList: true

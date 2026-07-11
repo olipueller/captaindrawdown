@@ -1,7 +1,7 @@
 ---
 title: "Michael Francis D. Benjamin"
 description: "Michael Francis D. Benjamin is a Mid-career General CDR researcher at University of Santo Tomas in PH. With 48 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.391433
+date: 2026-07-11T22:39:16.484808
 url: "/cdr-researcher-census/researchers/michael-francis-d-benjamin-a5055109/"
 layout: "researcher"
 hiddenInHomeList: true

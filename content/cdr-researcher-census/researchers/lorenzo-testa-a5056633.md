@@ -1,7 +1,7 @@
 ---
 title: "Lorenzo Testa"
 description: "Lorenzo Testa is a Mid-career General CDR researcher at Polytechnic University of Turin in IT. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.515577
+date: 2026-07-11T22:39:17.440621
 url: "/cdr-researcher-census/researchers/lorenzo-testa-a5056633/"
 layout: "researcher"
 hiddenInHomeList: true

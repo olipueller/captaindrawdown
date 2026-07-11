@@ -1,7 +1,7 @@
 ---
 title: "Penghui Jin"
-description: "Penghui Jin is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.364611
+description: "Penghui Jin is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.283760
 url: "/cdr-researcher-census/researchers/penghui-jin-a5075936/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Chinese Academy of Sciences · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

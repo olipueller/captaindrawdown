@@ -1,7 +1,7 @@
 ---
 title: "Jin Tang"
 description: "Jin Tang is a Senior Soil Carbon researcher at University of Science and Technology Beijing in CN. With 40 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.309616
+date: 2026-07-11T22:39:16.400020
 url: "/cdr-researcher-census/researchers/jin-tang-a5102910/"
 layout: "researcher"
 hiddenInHomeList: true

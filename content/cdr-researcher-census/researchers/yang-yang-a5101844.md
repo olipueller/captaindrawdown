@@ -1,7 +1,7 @@
 ---
 title: "Yang Yang"
-description: "Yang Yang is a Senior General CDR researcher at Shanghai Jiao Tong University in CN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.387002
+description: "Yang Yang is a Senior Enhanced Weathering researcher at Shanghai Jiao Tong University in CN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.308063
 url: "/cdr-researcher-census/researchers/yang-yang-a5101844/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Shanghai Jiao Tong University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

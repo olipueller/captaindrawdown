@@ -1,7 +1,7 @@
 ---
 title: "Carl Lim"
 description: "Carl Lim is an Early-career Ocean CDR researcher at Universität Hamburg in DE. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.867248
+date: 2026-07-11T22:39:16.942982
 url: "/cdr-researcher-census/researchers/carl-lim-a5015184/"
 layout: "researcher"
 hiddenInHomeList: true

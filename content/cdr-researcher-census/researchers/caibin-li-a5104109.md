@@ -1,7 +1,7 @@
 ---
 title: "Caibin Li"
 description: "Caibin Li is a Mid-career Biochar researcher at IE University in ES. With 59 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.324067
+date: 2026-07-11T22:39:16.414309
 url: "/cdr-researcher-census/researchers/caibin-li-a5104109/"
 layout: "researcher"
 hiddenInHomeList: true

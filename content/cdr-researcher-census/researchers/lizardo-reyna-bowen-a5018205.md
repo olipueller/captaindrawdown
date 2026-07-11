@@ -1,7 +1,7 @@
 ---
 title: "Lizardo Reyna-Bowen"
 description: "Lizardo Reyna-Bowen is a Mid-career Soil Carbon researcher at Escuela Superior Politécnica Agropecuaria de Manabí Manuel Félix López in EC. With 27 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.638758
+date: 2026-07-11T22:39:17.560157
 url: "/cdr-researcher-census/researchers/lizardo-reyna-bowen-a5018205/"
 layout: "researcher"
 hiddenInHomeList: true

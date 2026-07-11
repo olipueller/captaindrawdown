@@ -1,7 +1,7 @@
 ---
 title: "Seth Kane"
 description: "Seth Kane is a Senior General CDR researcher at University of California System in US. With 40 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.414161
+date: 2026-07-11T22:39:16.508327
 url: "/cdr-researcher-census/researchers/seth-kane-a5044052/"
 layout: "researcher"
 hiddenInHomeList: true

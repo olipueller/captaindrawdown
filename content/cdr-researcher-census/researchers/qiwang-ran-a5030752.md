@@ -1,7 +1,7 @@
 ---
 title: "Qiwang Ran"
-description: "Qiwang Ran is an Early-career Soil Carbon researcher at Guangdong Academy of Sciences in CN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.227946
+description: "Qiwang Ran is an Early-career Biochar researcher at Guangdong Academy of Sciences in CN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.144623
 url: "/cdr-researcher-census/researchers/qiwang-ran-a5030752/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Guangdong Academy of Sciences · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

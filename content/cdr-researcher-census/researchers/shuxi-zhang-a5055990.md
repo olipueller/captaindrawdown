@@ -1,7 +1,7 @@
 ---
 title: "Shuxi Zhang"
 description: "Shuxi Zhang is a Senior Biochar researcher at Ningbo University in CN. With 29 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.270856
+date: 2026-07-11T22:39:17.188440
 url: "/cdr-researcher-census/researchers/shuxi-zhang-a5055990/"
 layout: "researcher"
 hiddenInHomeList: true

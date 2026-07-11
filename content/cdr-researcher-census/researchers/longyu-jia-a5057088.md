@@ -1,7 +1,7 @@
 ---
 title: "Longyu Jia"
 description: "Longyu Jia is a Mid-career Soil Carbon researcher at Institute of Geochemistry in CN. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.320105
+date: 2026-07-11T22:39:17.237362
 url: "/cdr-researcher-census/researchers/longyu-jia-a5057088/"
 layout: "researcher"
 hiddenInHomeList: true

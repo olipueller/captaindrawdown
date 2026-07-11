@@ -1,7 +1,7 @@
 ---
 title: "Abdulkareem Raheem"
 description: "Abdulkareem Raheem is a Mid-career Soil Carbon researcher at Dalhousie University in CA. With 22 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.597921
+date: 2026-07-11T22:39:16.690301
 url: "/cdr-researcher-census/researchers/abdulkareem-raheem-a5088988/"
 layout: "researcher"
 hiddenInHomeList: true

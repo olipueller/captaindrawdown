@@ -1,7 +1,7 @@
 ---
 title: "Yasong Zhang"
 description: "Yasong Zhang is a Mid-career Soil Carbon researcher at China Aerospace Science and Technology Corporation in CN. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.435656
+date: 2026-07-11T22:39:17.359448
 url: "/cdr-researcher-census/researchers/yasong-zhang-a5019319/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Dan Dong"
-description: "Dan Dong is a Senior Soil Carbon researcher at Huaiyin Normal University in CN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.560976
+description: "Dan Dong is a Senior Biochar researcher at Huaiyin Normal University in CN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.653675
 url: "/cdr-researcher-census/researchers/dan-dong-a5103695/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Huaiyin Normal University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

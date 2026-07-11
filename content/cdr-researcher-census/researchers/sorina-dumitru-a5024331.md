@@ -1,7 +1,7 @@
 ---
 title: "Sorina Dumitru"
 description: "Sorina Dumitru is a Mid-career Soil Carbon researcher at National Institute for Research and Development in Environmental Protection in RO. With 51 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.591469
+date: 2026-07-11T22:39:17.512535
 url: "/cdr-researcher-census/researchers/sorina-dumitru-a5024331/"
 layout: "researcher"
 hiddenInHomeList: true

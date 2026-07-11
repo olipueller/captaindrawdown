@@ -1,7 +1,7 @@
 ---
 title: "Suvana Sukumaran"
 description: "Suvana Sukumaran is a Mid-career Soil Carbon researcher at Central Research Institute for Dryland Agriculture in IN. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.508279
+date: 2026-07-11T22:39:16.602753
 url: "/cdr-researcher-census/researchers/suvana-sukumaran-a5041427/"
 layout: "researcher"
 hiddenInHomeList: true

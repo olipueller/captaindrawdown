@@ -1,7 +1,7 @@
 ---
 title: "Claudia M. Grisales-Cifuentes"
 description: "Claudia M. Grisales-Cifuentes is an Early-career Biochar researcher at Universidad Nacional de Colombia in CO. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.609085
+date: 2026-07-11T22:39:17.528545
 url: "/cdr-researcher-census/researchers/claudia-m-grisales-cifuentes-a5008065/"
 layout: "researcher"
 hiddenInHomeList: true

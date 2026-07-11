@@ -1,7 +1,7 @@
 ---
 title: "Sabbie A. Miller"
 description: "Sabbie A. Miller is a Senior General CDR researcher at University of California, Davis in US. With 100 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:39.968529
+date: 2026-07-11T22:39:16.095029
 url: "/cdr-researcher-census/researchers/sabbie-a-miller-a5030953/"
 layout: "researcher"
 hiddenInHomeList: true

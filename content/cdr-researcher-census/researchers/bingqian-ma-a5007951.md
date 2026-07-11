@@ -1,7 +1,7 @@
 ---
 title: "Bingqian Ma"
 description: "Bingqian Ma is a Mid-career Soil Carbon researcher at Beijing Forestry University in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.749449
+date: 2026-07-11T22:39:16.831006
 url: "/cdr-researcher-census/researchers/bingqian-ma-a5007951/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Man Zhang"
-description: "Man Zhang is an Early-career General CDR researcher at Shanghai Jiao Tong University in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.506239
+description: "Man Zhang is an Early-career DAC researcher at Shanghai Jiao Tong University in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.600697
 url: "/cdr-researcher-census/researchers/man-zhang-a5053529/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Shanghai Jiao Tong University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

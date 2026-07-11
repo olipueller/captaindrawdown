@@ -1,7 +1,7 @@
 ---
 title: "Hayat I. Adawi"
 description: "Hayat I. Adawi is a Mid-career Biochar researcher at Leidos (United States) in US. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.522794
+date: 2026-07-11T22:39:17.447739
 url: "/cdr-researcher-census/researchers/hayat-i-adawi-a5090483/"
 layout: "researcher"
 hiddenInHomeList: true

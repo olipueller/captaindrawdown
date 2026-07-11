@@ -1,7 +1,7 @@
 ---
 title: "Yoon Park"
 description: "Yoon Park is a Senior Biochar researcher. With 14 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.641831
+date: 2026-07-11T22:39:17.563757
 url: "/cdr-researcher-census/researchers/yoon-park-a5089694/"
 layout: "researcher"
 hiddenInHomeList: true

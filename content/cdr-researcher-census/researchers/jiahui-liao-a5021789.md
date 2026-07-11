@@ -1,7 +1,7 @@
 ---
 title: "Jiahui Liao"
 description: "Jiahui Liao is a Mid-career Soil Carbon researcher at Nanjing Forestry University in CN. With 22 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.452819
+date: 2026-07-11T22:39:16.547465
 url: "/cdr-researcher-census/researchers/jiahui-liao-a5021789/"
 layout: "researcher"
 hiddenInHomeList: true

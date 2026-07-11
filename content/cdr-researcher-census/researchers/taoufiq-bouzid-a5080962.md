@@ -1,7 +1,7 @@
 ---
 title: "Taoufiq Bouzid"
 description: "Taoufiq Bouzid is a Mid-career Biochar researcher at Cadi Ayyad University in MA. With 37 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.271846
+date: 2026-07-11T22:39:16.361508
 url: "/cdr-researcher-census/researchers/taoufiq-bouzid-a5080962/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Reshmi Sarkar"
 description: "Reshmi Sarkar is a Senior Soil Carbon researcher at Prairie View A&M University in US. With 36 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.734555
+date: 2026-07-11T22:39:16.817185
 url: "/cdr-researcher-census/researchers/reshmi-sarkar-a5009083/"
 layout: "researcher"
 hiddenInHomeList: true

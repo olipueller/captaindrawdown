@@ -1,7 +1,7 @@
 ---
 title: "Chenghao Xie"
-description: "Chenghao Xie is a Mid-career Soil Carbon researcher at Ministry of Natural Resources in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.386702
+description: "Chenghao Xie is a Mid-career Biochar researcher at Ministry of Natural Resources in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.307716
 url: "/cdr-researcher-census/researchers/chenghao-xie-a5102380/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Ministry of Natural Resources · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

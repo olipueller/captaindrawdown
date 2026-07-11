@@ -1,7 +1,7 @@
 ---
 title: "Elise F. Keister"
 description: "Elise F. Keister is a Mid-career Ocean CDR researcher at University of Alabama at Birmingham in US. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.581236
+date: 2026-07-11T22:39:17.503360
 url: "/cdr-researcher-census/researchers/elise-f-keister-a5042308/"
 layout: "researcher"
 hiddenInHomeList: true

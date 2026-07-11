@@ -1,7 +1,7 @@
 ---
 title: "Zijing Guo"
 description: "Zijing Guo is a Mid-career Biochar researcher at The University of Tokyo in JP. With 28 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.429179
+date: 2026-07-11T22:39:16.523670
 url: "/cdr-researcher-census/researchers/zijing-guo-a5069920/"
 layout: "researcher"
 hiddenInHomeList: true

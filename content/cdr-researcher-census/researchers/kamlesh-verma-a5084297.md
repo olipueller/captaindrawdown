@@ -1,7 +1,7 @@
 ---
 title: "Kamlesh Verma"
 description: "Kamlesh Verma is a Mid-career Soil Carbon researcher at Central Soil Salinity Research Institute in IN. With 54 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.446521
+date: 2026-07-11T22:39:16.541315
 url: "/cdr-researcher-census/researchers/kamlesh-verma-a5084297/"
 layout: "researcher"
 hiddenInHomeList: true

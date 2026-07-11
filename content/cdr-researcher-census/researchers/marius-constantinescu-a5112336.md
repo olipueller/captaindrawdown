@@ -1,7 +1,7 @@
 ---
 title: "Marius Constantinescu"
 description: "Marius Constantinescu is a Senior Biochar researcher at National Institute for Research and Development of Isotopic and Molecular Technologies in RO. With 57 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.450289
+date: 2026-07-11T22:39:16.545072
 url: "/cdr-researcher-census/researchers/marius-constantinescu-a5112336/"
 layout: "researcher"
 hiddenInHomeList: true

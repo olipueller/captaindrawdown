@@ -1,7 +1,7 @@
 ---
 title: "Shobha Jawaheer"
 description: "Shobha Jawaheer is a Senior Soil Carbon researcher at University of Technology, Mauritius in MU. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.421539
+date: 2026-07-11T22:39:17.344913
 url: "/cdr-researcher-census/researchers/shobha-jawaheer-a5007327/"
 layout: "researcher"
 hiddenInHomeList: true

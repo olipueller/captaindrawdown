@@ -1,7 +1,7 @@
 ---
 title: "Michael L. Barsoum"
 description: "Michael L. Barsoum is a Mid-career DAC researcher at Northwestern University in US. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.671069
+date: 2026-07-11T22:39:16.757940
 url: "/cdr-researcher-census/researchers/michael-l-barsoum-a5012999/"
 layout: "researcher"
 hiddenInHomeList: true

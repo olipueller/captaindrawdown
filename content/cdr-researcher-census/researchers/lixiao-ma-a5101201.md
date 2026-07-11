@@ -1,7 +1,7 @@
 ---
 title: "Lixiao Ma"
 description: "Lixiao Ma is a Senior Soil Carbon researcher at Hebei Eye Hospital in CN. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.666170
+date: 2026-07-11T22:39:16.753899
 url: "/cdr-researcher-census/researchers/lixiao-ma-a5101201/"
 layout: "researcher"
 hiddenInHomeList: true

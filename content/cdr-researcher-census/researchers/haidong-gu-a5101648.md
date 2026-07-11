@@ -1,7 +1,7 @@
 ---
 title: "Haidong Gu"
 description: "Haidong Gu is a Senior Soil Carbon researcher at Xinjiang Institute of Ecology and Geography in CN. With 68 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.049638
+date: 2026-07-11T22:39:16.156426
 url: "/cdr-researcher-census/researchers/haidong-gu-a5101648/"
 layout: "researcher"
 hiddenInHomeList: true

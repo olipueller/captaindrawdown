@@ -1,7 +1,7 @@
 ---
 title: "Alexandre Tisserant"
-description: "Alexandre Tisserant is a Mid-career General CDR researcher at Norwegian University of Science and Technology in NO. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.223165
+description: "Alexandre Tisserant is a Mid-career Biochar researcher at Norwegian University of Science and Technology in NO. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.313819
 url: "/cdr-researcher-census/researchers/alexandre-tisserant-a5077376/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Norwegian University of Science and Technology · 🇳🇴 NO
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

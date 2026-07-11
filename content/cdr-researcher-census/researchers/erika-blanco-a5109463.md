@@ -1,7 +1,7 @@
 ---
 title: "Erika Blanco"
-description: "Erika Blanco is a Mid-career General CDR researcher at University of the Coast in CO. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.228733
+description: "Erika Blanco is a Mid-career Enhanced Weathering researcher at University of the Coast in CO. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.145564
 url: "/cdr-researcher-census/researchers/erika-blanco-a5109463/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ University of the Coast ·  CO
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

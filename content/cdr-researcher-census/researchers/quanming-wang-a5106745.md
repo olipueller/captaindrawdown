@@ -1,7 +1,7 @@
 ---
 title: "Quanming Wang"
-description: "Quanming Wang is a Senior Soil Carbon researcher. With 53 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.799157
+description: "Quanming Wang is a Senior Ocean CDR researcher. With 53 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.880041
 url: "/cdr-researcher-census/researchers/quanming-wang-a5106745/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Ocean CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
 
 ## Metrics
 

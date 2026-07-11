@@ -1,7 +1,7 @@
 ---
 title: "Linxi Chang"
 description: "Linxi Chang is a Mid-career Soil Carbon researcher at Yunnan Agricultural University in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.855792
+date: 2026-07-11T22:39:16.932191
 url: "/cdr-researcher-census/researchers/linxi-chang-a5015271/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Leiliane Bozzi Zeferino"
 description: "Leiliane Bozzi Zeferino is a Mid-career Soil Carbon researcher at Universidade Federal de Viçosa in BR. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.421158
+date: 2026-07-11T22:39:17.344508
 url: "/cdr-researcher-census/researchers/leiliane-bozzi-zeferino-a5043006/"
 layout: "researcher"
 hiddenInHomeList: true

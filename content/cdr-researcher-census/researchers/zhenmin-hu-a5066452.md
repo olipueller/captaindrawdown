@@ -1,7 +1,7 @@
 ---
 title: "Zhenmin Hu"
 description: "Zhenmin Hu is a Mid-career Soil Carbon researcher at Jiangsu Academy of Agricultural Sciences in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.530472
+date: 2026-07-11T22:39:17.454752
 url: "/cdr-researcher-census/researchers/zhenmin-hu-a5066452/"
 layout: "researcher"
 hiddenInHomeList: true

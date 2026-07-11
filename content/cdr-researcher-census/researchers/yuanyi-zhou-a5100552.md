@@ -1,7 +1,7 @@
 ---
 title: "Yuanyi Zhou"
 description: "Yuanyi Zhou is a Mid-career Biochar researcher at Jinan University in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.282863
+date: 2026-07-11T22:39:16.372904
 url: "/cdr-researcher-census/researchers/yuanyi-zhou-a5100552/"
 layout: "researcher"
 hiddenInHomeList: true

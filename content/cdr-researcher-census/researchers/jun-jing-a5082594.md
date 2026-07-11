@@ -1,7 +1,7 @@
 ---
 title: "Jun Jing"
 description: "Jun Jing is a Mid-career Soil Carbon researcher at Beijing Normal University in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.110137
+date: 2026-07-11T22:39:17.076461
 url: "/cdr-researcher-census/researchers/jun-jing-a5082594/"
 layout: "researcher"
 hiddenInHomeList: true

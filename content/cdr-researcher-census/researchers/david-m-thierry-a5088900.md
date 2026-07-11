@@ -1,7 +1,7 @@
 ---
 title: "David M. Thierry"
-description: "David M. Thierry is a Mid-career General CDR researcher at Georgia Institute of Technology in US. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.446739
+description: "David M. Thierry is a Mid-career DAC researcher at Georgia Institute of Technology in US. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.371311
 url: "/cdr-researcher-census/researchers/david-m-thierry-a5088900/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Georgia Institute of Technology · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

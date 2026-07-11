@@ -1,7 +1,7 @@
 ---
 title: "Prashant Nagapurkar"
-description: "Prashant Nagapurkar is a Mid-career General CDR researcher at Oak Ridge National Laboratory in US. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.829784
+description: "Prashant Nagapurkar is a Mid-career DAC researcher at Oak Ridge National Laboratory in US. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.907221
 url: "/cdr-researcher-census/researchers/prashant-nagapurkar-a5027361/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Oak Ridge National Laboratory · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "Torsten Graf"
 description: "Torsten Graf is a Senior Soil Carbon researcher at Thüringer Landesanstalt für Landwirtschaft in DE. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.379403
+date: 2026-07-11T22:39:17.300051
 url: "/cdr-researcher-census/researchers/torsten-graf-a5113568/"
 layout: "researcher"
 hiddenInHomeList: true

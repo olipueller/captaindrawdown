@@ -1,7 +1,7 @@
 ---
 title: "Yao Liang"
 description: "Yao Liang is a Senior Soil Carbon researcher at Sun Yat-sen University in CN. With 41 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.302568
+date: 2026-07-11T22:39:16.393282
 url: "/cdr-researcher-census/researchers/yao-liang-a5100750/"
 layout: "researcher"
 hiddenInHomeList: true

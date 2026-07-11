@@ -1,7 +1,7 @@
 ---
 title: "Usman Bala Soja"
 description: "Usman Bala Soja is a Mid-career Biochar researcher at Newcastle University in GB. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.527409
+date: 2026-07-11T22:39:16.621558
 url: "/cdr-researcher-census/researchers/usman-bala-soja-a5039270/"
 layout: "researcher"
 hiddenInHomeList: true

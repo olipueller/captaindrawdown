@@ -1,7 +1,7 @@
 ---
 title: "Po-Yen Wang"
-description: "Po-Yen Wang is a Mid-career Soil Carbon researcher at Widener University in US. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.570151
+description: "Po-Yen Wang is a Mid-career Biochar researcher at Widener University in US. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.492727
 url: "/cdr-researcher-census/researchers/po-yen-wang-a5110765/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Widener University · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

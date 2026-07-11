@@ -1,7 +1,7 @@
 ---
 title: "Namra Mir"
-description: "Namra Mir is a Mid-career General CDR researcher at Hamad bin Khalifa University in QA. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.483167
+description: "Namra Mir is a Mid-career DAC researcher at Hamad bin Khalifa University in QA. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.577674
 url: "/cdr-researcher-census/researchers/namra-mir-a5042055/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Hamad bin Khalifa University ·  QA
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

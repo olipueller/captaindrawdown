@@ -1,7 +1,7 @@
 ---
 title: "Derek Pierson"
-description: "Derek Pierson is a Mid-career General CDR researcher at Rocky Mountain Research Station in US. With 58 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.270398
+description: "Derek Pierson is a Mid-career Biochar researcher at Rocky Mountain Research Station in US. With 58 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.360199
 url: "/cdr-researcher-census/researchers/derek-pierson-a5015158/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Rocky Mountain Research Station · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

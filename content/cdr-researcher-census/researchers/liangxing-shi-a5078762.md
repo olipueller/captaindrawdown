@@ -1,7 +1,7 @@
 ---
 title: "Liangxing Shi"
 description: "Liangxing Shi is a Senior Enhanced Weathering researcher at Tianjin University in CN. With 61 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.402525
+date: 2026-07-11T22:39:16.496665
 url: "/cdr-researcher-census/researchers/liangxing-shi-a5078762/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Daniel F. Petticord"
 description: "Daniel F. Petticord is a Mid-career Soil Carbon researcher at Cornell University in US. With 32 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.946646
+date: 2026-07-11T22:39:16.999444
 url: "/cdr-researcher-census/researchers/daniel-f-petticord-a5060505/"
 layout: "researcher"
 hiddenInHomeList: true

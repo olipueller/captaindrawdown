@@ -1,7 +1,7 @@
 ---
 title: "Sihoon Choi"
-description: "Sihoon Choi is a Mid-career General CDR researcher at Georgia Institute of Technology in US. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.066971
+description: "Sihoon Choi is a Mid-career DAC researcher at Georgia Institute of Technology in US. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.056377
 url: "/cdr-researcher-census/researchers/sihoon-choi-a5035684/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Georgia Institute of Technology · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

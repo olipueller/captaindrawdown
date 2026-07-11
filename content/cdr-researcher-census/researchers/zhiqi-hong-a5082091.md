@@ -1,7 +1,7 @@
 ---
 title: "Zhiqi Hong"
 description: "Zhiqi Hong is a Mid-career Biochar researcher at Zhejiang University in CN. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.963960
+date: 2026-07-11T22:39:17.012354
 url: "/cdr-researcher-census/researchers/zhiqi-hong-a5082091/"
 layout: "researcher"
 hiddenInHomeList: true

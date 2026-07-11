@@ -1,7 +1,7 @@
 ---
 title: "Bishal Mukherjee"
-description: "Bishal Mukherjee is a Senior Soil Carbon researcher at Bidhan Chandra Krishi Viswavidyalaya in IN. With 31 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.754492
+description: "Bishal Mukherjee is a Senior Biochar researcher at Bidhan Chandra Krishi Viswavidyalaya in IN. With 31 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.835834
 url: "/cdr-researcher-census/researchers/bishal-mukherjee-a5055959/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Bidhan Chandra Krishi Viswavidyalaya · 🇮🇳 IN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

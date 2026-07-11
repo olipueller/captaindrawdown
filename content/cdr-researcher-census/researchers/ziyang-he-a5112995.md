@@ -1,7 +1,7 @@
 ---
 title: "Zi‐Yang He"
 description: "Zi‐Yang He is a Mid-career Soil Carbon researcher at China Institute of Atomic Energy in CN. With 32 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.202076
+date: 2026-07-11T22:39:17.119907
 url: "/cdr-researcher-census/researchers/ziyang-he-a5112995/"
 layout: "researcher"
 hiddenInHomeList: true

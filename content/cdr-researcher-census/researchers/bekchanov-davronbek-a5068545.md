@@ -1,7 +1,7 @@
 ---
 title: "Bekchanov Davronbek"
 description: "Bekchanov Davronbek is a Mid-career Biochar researcher at National University of Uzbekistan in UZ. With 40 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.742387
+date: 2026-07-11T22:39:16.824675
 url: "/cdr-researcher-census/researchers/bekchanov-davronbek-a5068545/"
 layout: "researcher"
 hiddenInHomeList: true

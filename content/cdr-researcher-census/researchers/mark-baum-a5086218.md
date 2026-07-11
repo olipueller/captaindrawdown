@@ -1,7 +1,7 @@
 ---
 title: "Mark Baum"
-description: "Mark Baum is a Senior General CDR researcher. With 28 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.961799
+description: "Mark Baum is a Senior Enhanced Weathering researcher. With 28 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.010657
 url: "/cdr-researcher-census/researchers/mark-baum-a5086218/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

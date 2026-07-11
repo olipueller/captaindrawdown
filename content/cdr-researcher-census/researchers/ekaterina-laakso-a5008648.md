@@ -1,7 +1,7 @@
 ---
 title: "Ekaterina Laakso"
 description: "Ekaterina Laakso is a Mid-career Biochar researcher at Lappeenranta-Lahti University of Technology in FI. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.082787
+date: 2026-07-11T22:39:17.059287
 url: "/cdr-researcher-census/researchers/ekaterina-laakso-a5008648/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yanjie Niu"
 description: "Yanjie Niu is a Mid-career Biochar researcher at Hefei University of Technology in CN. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.582974
+date: 2026-07-11T22:39:16.675588
 url: "/cdr-researcher-census/researchers/yanjie-niu-a5019939/"
 layout: "researcher"
 hiddenInHomeList: true

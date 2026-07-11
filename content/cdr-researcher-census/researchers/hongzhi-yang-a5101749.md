@@ -1,7 +1,7 @@
 ---
 title: "Hongzhi Yang"
-description: "Hongzhi Yang is a Senior Soil Carbon researcher at Jiangsu University in CN. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.636491
+description: "Hongzhi Yang is a Senior Biochar researcher at Jiangsu University in CN. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.557652
 url: "/cdr-researcher-census/researchers/hongzhi-yang-a5101749/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Jiangsu University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

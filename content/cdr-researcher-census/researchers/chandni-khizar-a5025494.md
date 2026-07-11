@@ -1,7 +1,7 @@
 ---
 title: "Chandni Khizar"
 description: "Chandni Khizar is an Early-career Soil Carbon researcher at University of Lahore in PK. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.491442
+date: 2026-07-11T22:39:16.585730
 url: "/cdr-researcher-census/researchers/chandni-khizar-a5025494/"
 layout: "researcher"
 hiddenInHomeList: true

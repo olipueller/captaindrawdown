@@ -1,7 +1,7 @@
 ---
 title: "Ivan Kozyatnyk"
 description: "Ivan Kozyatnyk is a Senior Biochar researcher at Linköping University in SE. With 29 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.398364
+date: 2026-07-11T22:39:16.492407
 url: "/cdr-researcher-census/researchers/ivan-kozyatnyk-a5005722/"
 layout: "researcher"
 hiddenInHomeList: true

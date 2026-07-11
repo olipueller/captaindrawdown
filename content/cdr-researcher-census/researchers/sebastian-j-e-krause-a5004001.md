@@ -1,7 +1,7 @@
 ---
 title: "Sebastian J. E. Krause"
 description: "Sebastian J. E. Krause is a Mid-career Ocean CDR researcher at Planetary Science Institute in US. With 29 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.760001
+date: 2026-07-11T22:39:16.841281
 url: "/cdr-researcher-census/researchers/sebastian-j-e-krause-a5004001/"
 layout: "researcher"
 hiddenInHomeList: true

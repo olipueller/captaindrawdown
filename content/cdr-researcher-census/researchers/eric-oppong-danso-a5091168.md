@@ -1,7 +1,7 @@
 ---
 title: "Eric Oppong Danso"
-description: "Eric Oppong Danso is a Mid-career Soil Carbon researcher at University of Ghana in GH. With 38 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.788352
+description: "Eric Oppong Danso is a Mid-career Enhanced Weathering researcher at University of Ghana in GH. With 38 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.869912
 url: "/cdr-researcher-census/researchers/eric-oppong-danso-a5091168/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Ghana ·  GH
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Enhanced Weathering**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

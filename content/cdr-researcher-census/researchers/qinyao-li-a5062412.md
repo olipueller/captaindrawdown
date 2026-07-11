@@ -1,7 +1,7 @@
 ---
 title: "Qinyao Li"
 description: "Qinyao Li is a Mid-career Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.495073
+date: 2026-07-11T22:39:17.420064
 url: "/cdr-researcher-census/researchers/qinyao-li-a5062412/"
 layout: "researcher"
 hiddenInHomeList: true

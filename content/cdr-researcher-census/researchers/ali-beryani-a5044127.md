@@ -1,7 +1,7 @@
 ---
 title: "Ali Beryani"
-description: "Ali Beryani is a Mid-career General CDR researcher at Luleå University of Technology in SE. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.223988
+description: "Ali Beryani is a Mid-career Biochar researcher at Luleå University of Technology in SE. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.140572
 url: "/cdr-researcher-census/researchers/ali-beryani-a5044127/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Luleå University of Technology · 🇸🇪 SE
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

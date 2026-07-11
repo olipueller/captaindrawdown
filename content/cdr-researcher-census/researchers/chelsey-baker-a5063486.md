@@ -1,7 +1,7 @@
 ---
 title: "Chelsey Baker"
 description: "Chelsey Baker is a Mid-career Ocean CDR researcher at National Oceanography Centre in GB. With 88 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.667626
+date: 2026-07-11T22:39:16.754920
 url: "/cdr-researcher-census/researchers/chelsey-baker-a5063486/"
 layout: "researcher"
 hiddenInHomeList: true

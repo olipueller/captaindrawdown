@@ -1,7 +1,7 @@
 ---
 title: "Hanen Zaier"
 description: "Hanen Zaier is a Senior Biochar researcher at Olive tree institute in TN. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.347290
+date: 2026-07-11T22:39:16.437430
 url: "/cdr-researcher-census/researchers/hanen-zaier-a5019457/"
 layout: "researcher"
 hiddenInHomeList: true

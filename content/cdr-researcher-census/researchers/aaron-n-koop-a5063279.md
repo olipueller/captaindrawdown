@@ -1,7 +1,7 @@
 ---
 title: "Aaron N. Koop"
-description: "Aaron N. Koop is a Mid-career Soil Carbon researcher at University of Kansas in US. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.584151
+description: "Aaron N. Koop is a Mid-career Enhanced Weathering researcher at University of Kansas in US. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.505604
 url: "/cdr-researcher-census/researchers/aaron-n-koop-a5063279/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Kansas · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Enhanced Weathering**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

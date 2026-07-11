@@ -1,7 +1,7 @@
 ---
 title: "Giulio Buffo"
-description: "Giulio Buffo is a Mid-career General CDR researcher at Politecnico di Torino in IT. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.611654
+description: "Giulio Buffo is a Mid-career DAC researcher at Politecnico di Torino in IT. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.703511
 url: "/cdr-researcher-census/researchers/giulio-buffo-a5038077/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Politecnico di Torino · 🇮🇹 IT
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

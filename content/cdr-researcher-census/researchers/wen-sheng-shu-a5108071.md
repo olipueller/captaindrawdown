@@ -1,7 +1,7 @@
 ---
 title: "Wen-sheng Shu"
 description: "Wen-sheng Shu is a Senior Biochar researcher at South China Normal University in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.444105
+date: 2026-07-11T22:39:16.538884
 url: "/cdr-researcher-census/researchers/wen-sheng-shu-a5108071/"
 layout: "researcher"
 hiddenInHomeList: true

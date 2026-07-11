@@ -1,7 +1,7 @@
 ---
 title: "Azad Singh Panwar"
 description: "Azad Singh Panwar is a Mid-career Soil Carbon researcher at Indian Council of Agricultural Research in IN. With 20 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.487937
+date: 2026-07-11T22:39:16.582250
 url: "/cdr-researcher-census/researchers/azad-singh-panwar-a5104088/"
 layout: "researcher"
 hiddenInHomeList: true

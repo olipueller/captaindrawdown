@@ -1,7 +1,7 @@
 ---
 title: "Michael Abraha"
 description: "Michael Abraha is a Senior Soil Carbon researcher at LI-COR Biosciences (United States) in US. With 71 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.135705
+date: 2026-07-11T22:39:16.232214
 url: "/cdr-researcher-census/researchers/michael-abraha-a5090504/"
 layout: "researcher"
 hiddenInHomeList: true

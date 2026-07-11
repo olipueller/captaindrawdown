@@ -1,7 +1,7 @@
 ---
 title: "Pedro Martinez"
 description: "Pedro Martinez is a Mid-career Soil Carbon researcher at University of California, Riverside in US. With 23 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.298669
+date: 2026-07-11T22:39:17.215787
 url: "/cdr-researcher-census/researchers/pedro-martinez-a5024299/"
 layout: "researcher"
 hiddenInHomeList: true

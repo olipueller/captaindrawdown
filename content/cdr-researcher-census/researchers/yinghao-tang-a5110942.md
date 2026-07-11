@@ -1,7 +1,7 @@
 ---
 title: "Yinghao Tang"
 description: "Yinghao Tang is a Mid-career Biochar researcher at Boston University in US. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.841354
+date: 2026-07-11T22:39:16.918546
 url: "/cdr-researcher-census/researchers/yinghao-tang-a5110942/"
 layout: "researcher"
 hiddenInHomeList: true

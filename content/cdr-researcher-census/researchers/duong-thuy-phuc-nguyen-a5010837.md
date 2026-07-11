@@ -1,7 +1,7 @@
 ---
 title: "Duong Thuy Phuc Nguyen"
 description: "Duong Thuy Phuc Nguyen is a Mid-career Biochar researcher at Trường ĐH Nguyễn Tất Thành in VN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.091522
+date: 2026-07-11T22:39:17.065087
 url: "/cdr-researcher-census/researchers/duong-thuy-phuc-nguyen-a5010837/"
 layout: "researcher"
 hiddenInHomeList: true

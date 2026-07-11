@@ -1,7 +1,7 @@
 ---
 title: "Amanda Simson"
-description: "Amanda Simson is a Senior General CDR researcher at Cornell University in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.882831
+description: "Amanda Simson is a Senior DAC researcher at Cornell University in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.972869
 url: "/cdr-researcher-census/researchers/amanda-simson-a5085352/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Cornell University · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "Wantao Zhang"
 description: "Wantao Zhang is a Mid-career Soil Carbon researcher at University of Science and Technology Liaoning in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.537753
+date: 2026-07-11T22:39:17.461877
 url: "/cdr-researcher-census/researchers/wantao-zhang-a5035975/"
 layout: "researcher"
 hiddenInHomeList: true

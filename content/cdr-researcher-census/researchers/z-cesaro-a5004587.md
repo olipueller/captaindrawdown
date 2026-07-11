@@ -1,7 +1,7 @@
 ---
 title: "Z. Cesaro"
 description: "Z. Cesaro is a Mid-career General CDR researcher at University of Oxford in GB. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.607728
+date: 2026-07-11T22:39:16.699891
 url: "/cdr-researcher-census/researchers/z-cesaro-a5004587/"
 layout: "researcher"
 hiddenInHomeList: true

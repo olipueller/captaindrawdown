@@ -1,7 +1,7 @@
 ---
 title: "B.G. Fouda-Mbanga"
 description: "B.G. Fouda-Mbanga is a Mid-career Biochar researcher at Nelson Mandela University in ZA. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.336990
+date: 2026-07-11T22:39:16.426768
 url: "/cdr-researcher-census/researchers/bg-fouda-mbanga-a5007339/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Pragya Paudel"
-description: "Pragya Paudel is an Early-career Soil Carbon researcher at Purbanchal University in NP. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.850531
+description: "Pragya Paudel is an Early-career Biochar researcher at Purbanchal University in NP. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.927170
 url: "/cdr-researcher-census/researchers/pragya-paudel-a5012782/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Purbanchal University ·  NP
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

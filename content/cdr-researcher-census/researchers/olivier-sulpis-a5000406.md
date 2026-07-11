@@ -1,7 +1,7 @@
 ---
 title: "Olivier Sulpis"
 description: "Olivier Sulpis is a Mid-career Ocean CDR researcher at Centre National de la Recherche Scientifique in FR. With 66 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.345821
+date: 2026-07-11T22:39:16.436169
 url: "/cdr-researcher-census/researchers/olivier-sulpis-a5000406/"
 layout: "researcher"
 hiddenInHomeList: true

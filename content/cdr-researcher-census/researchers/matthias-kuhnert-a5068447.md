@@ -1,7 +1,7 @@
 ---
 title: "Matthias Kuhnert"
 description: "Matthias Kuhnert is a Senior Soil Carbon researcher at University of Aberdeen in GB. With 153 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.053476
+date: 2026-07-11T22:39:16.159966
 url: "/cdr-researcher-census/researchers/matthias-kuhnert-a5068447/"
 layout: "researcher"
 hiddenInHomeList: true

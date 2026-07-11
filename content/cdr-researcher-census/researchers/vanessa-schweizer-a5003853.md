@@ -1,7 +1,7 @@
 ---
 title: "Vanessa Schweizer"
-description: "Vanessa Schweizer is a Senior General CDR researcher at University of Waterloo in CA. With 57 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.146248
+description: "Vanessa Schweizer is a Senior DAC researcher at University of Waterloo in CA. With 57 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.242358
 url: "/cdr-researcher-census/researchers/vanessa-schweizer-a5003853/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Waterloo · 🇨🇦 CA
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

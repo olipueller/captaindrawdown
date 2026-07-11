@@ -1,7 +1,7 @@
 ---
 title: "Fangchao Zhang"
 description: "Fangchao Zhang is a Mid-career Soil Carbon researcher at Peking University in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.384851
+date: 2026-07-11T22:39:17.305596
 url: "/cdr-researcher-census/researchers/fangchao-zhang-a5022794/"
 layout: "researcher"
 hiddenInHomeList: true

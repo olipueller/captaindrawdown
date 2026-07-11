@@ -1,7 +1,7 @@
 ---
 title: "Ibrahim Gbolahan Hakeem"
 description: "Ibrahim Gbolahan Hakeem is a Mid-career Biochar researcher at RMIT University in AU. With 48 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.226465
+date: 2026-07-11T22:39:16.317026
 url: "/cdr-researcher-census/researchers/ibrahim-gbolahan-hakeem-a5037995/"
 layout: "researcher"
 hiddenInHomeList: true

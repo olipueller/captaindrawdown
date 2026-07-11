@@ -1,7 +1,7 @@
 ---
 title: "Leandro Zancanaro"
 description: "Leandro Zancanaro is a Mid-career Soil Carbon researcher at Elabora Consultoria (Brazil) in BR. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.878306
+date: 2026-07-11T22:39:16.968463
 url: "/cdr-researcher-census/researchers/leandro-zancanaro-a5000898/"
 layout: "researcher"
 hiddenInHomeList: true

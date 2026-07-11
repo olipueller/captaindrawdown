@@ -1,7 +1,7 @@
 ---
 title: "Wenao Wu"
 description: "Wenao Wu is a Mid-career Soil Carbon researcher at Peking University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.214142
+date: 2026-07-11T22:39:17.130876
 url: "/cdr-researcher-census/researchers/wenao-wu-a5082109/"
 layout: "researcher"
 hiddenInHomeList: true

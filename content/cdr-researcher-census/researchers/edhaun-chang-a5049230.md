@@ -1,7 +1,7 @@
 ---
 title: "Ed‐Haun Chang"
-description: "Ed‐Haun Chang is a Senior Soil Carbon researcher at Mackay Junior College of Medicine, Nursing and Management in TW. With 33 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.170814
+description: "Ed‐Haun Chang is a Senior Biochar researcher at Mackay Junior College of Medicine, Nursing and Management in TW. With 33 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.264797
 url: "/cdr-researcher-census/researchers/edhaun-chang-a5049230/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Mackay Junior College of Medicine, Nursing and Management · 🇹🇼 TW
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "Peng Huang"
 description: "Peng Huang is a Senior Biochar researcher at Nankai University in CN. With 46 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.110607
+date: 2026-07-11T22:39:16.209741
 url: "/cdr-researcher-census/researchers/peng-huang-a5101432/"
 layout: "researcher"
 hiddenInHomeList: true

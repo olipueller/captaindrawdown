@@ -1,7 +1,7 @@
 ---
 title: "Victoria Morgan"
-description: "Victoria Morgan is a Mid-career General CDR researcher at University of Illinois Urbana-Champaign in US. With 21 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.861361
+description: "Victoria Morgan is a Mid-career Biochar researcher at University of Illinois Urbana-Champaign in US. With 21 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.937207
 url: "/cdr-researcher-census/researchers/victoria-morgan-a5016304/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Illinois Urbana-Champaign · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

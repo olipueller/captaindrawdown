@@ -1,7 +1,7 @@
 ---
 title: "Tianshu Xu"
 description: "Tianshu Xu is a Mid-career General CDR researcher at Shandong University in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.426783
+date: 2026-07-11T22:39:17.350728
 url: "/cdr-researcher-census/researchers/tianshu-xu-a5045485/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Wenwen Lv"
 description: "Wenwen Lv is a Mid-career Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.339335
+date: 2026-07-11T22:39:17.256974
 url: "/cdr-researcher-census/researchers/wenwen-lv-a5066352/"
 layout: "researcher"
 hiddenInHomeList: true

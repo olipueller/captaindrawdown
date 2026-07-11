@@ -1,7 +1,7 @@
 ---
 title: "Frisa Irawan Ginting"
 description: "Frisa Irawan Ginting is a Mid-career Soil Carbon researcher at Universiti Malaysia Terengganu in MY. With 40 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.855006
+date: 2026-07-11T22:39:16.931497
 url: "/cdr-researcher-census/researchers/frisa-irawan-ginting-a5053763/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jinjin Liu"
 description: "Jinjin Liu is a Mid-career DAC researcher at Tiangong University in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.364241
+date: 2026-07-11T22:39:16.455364
 url: "/cdr-researcher-census/researchers/jinjin-liu-a5046934/"
 layout: "researcher"
 hiddenInHomeList: true

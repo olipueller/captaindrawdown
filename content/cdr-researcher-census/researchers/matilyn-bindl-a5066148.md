@@ -1,7 +1,7 @@
 ---
 title: "Matilyn Bindl"
 description: "Matilyn Bindl is a Mid-career General CDR researcher at University of Wisconsin–Madison in US. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.336590
+date: 2026-07-11T22:39:17.254009
 url: "/cdr-researcher-census/researchers/matilyn-bindl-a5066148/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Songxiong Zhong"
 description: "Songxiong Zhong is a Mid-career Soil Carbon researcher at Guangdong Academy of Sciences in CN. With 40 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.426862
+date: 2026-07-11T22:39:16.521289
 url: "/cdr-researcher-census/researchers/songxiong-zhong-a5101249/"
 layout: "researcher"
 hiddenInHomeList: true

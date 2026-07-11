@@ -1,7 +1,7 @@
 ---
 title: "Guoyong Huang"
 description: "Guoyong Huang is a Mid-career Biochar researcher at South China Normal University in CN. With 35 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.192243
+date: 2026-07-11T22:39:16.285051
 url: "/cdr-researcher-census/researchers/guoyong-huang-a5054529/"
 layout: "researcher"
 hiddenInHomeList: true

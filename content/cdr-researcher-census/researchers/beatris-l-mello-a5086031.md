@@ -1,7 +1,7 @@
 ---
 title: "Beatris L. Mello"
 description: "Beatris L. Mello is a Mid-career Biochar researcher at Universidade Federal do Rio Grande do Sul in BR. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.803386
+date: 2026-07-11T22:39:16.883815
 url: "/cdr-researcher-census/researchers/beatris-l-mello-a5086031/"
 layout: "researcher"
 hiddenInHomeList: true

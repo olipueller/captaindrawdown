@@ -1,7 +1,7 @@
 ---
 title: "Amit Kumar Rathoure"
 description: "Amit Kumar Rathoure is a Mid-career Biochar researcher. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.136438
+date: 2026-07-11T22:39:17.085512
 url: "/cdr-researcher-census/researchers/amit-kumar-rathoure-a5059968/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Walter Mucha"
-description: "Walter Mucha is a Senior General CDR researcher at Silesian University of Technology in PL. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.374184
+description: "Walter Mucha is a Senior Biochar researcher at Silesian University of Technology in PL. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.294229
 url: "/cdr-researcher-census/researchers/walter-mucha-a5062327/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Silesian University of Technology ·  PL
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

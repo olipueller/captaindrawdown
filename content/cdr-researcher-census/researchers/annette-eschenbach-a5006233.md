@@ -1,7 +1,7 @@
 ---
 title: "Annette Eschenbach"
 description: "Annette Eschenbach is a Senior Biochar researcher at Universität Hamburg in DE. With 127 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.187830
+date: 2026-07-11T22:39:16.280898
 url: "/cdr-researcher-census/researchers/annette-eschenbach-a5006233/"
 layout: "researcher"
 hiddenInHomeList: true

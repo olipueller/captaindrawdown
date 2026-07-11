@@ -1,7 +1,7 @@
 ---
 title: "Annette Schneegans"
 description: "Annette Schneegans is an Early-career Soil Carbon researcher at European Commission in BE. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.228545
+date: 2026-07-11T22:39:17.145339
 url: "/cdr-researcher-census/researchers/annette-schneegans-a5070878/"
 layout: "researcher"
 hiddenInHomeList: true

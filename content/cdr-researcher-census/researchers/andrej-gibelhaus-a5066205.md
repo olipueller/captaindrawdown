@@ -1,7 +1,7 @@
 ---
 title: "Andrej Gibelhaus"
-description: "Andrej Gibelhaus is a Mid-career General CDR researcher at RWTH Aachen University in DE. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.049000
+description: "Andrej Gibelhaus is a Mid-career DAC researcher at RWTH Aachen University in DE. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.046156
 url: "/cdr-researcher-census/researchers/andrej-gibelhaus-a5066205/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ RWTH Aachen University · 🇩🇪 DE
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "Shuocun Chen"
 description: "Shuocun Chen is an Early-career Soil Carbon researcher at Duke University in US. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.513700
+date: 2026-07-11T22:39:17.438810
 url: "/cdr-researcher-census/researchers/shuocun-chen-a5003494/"
 layout: "researcher"
 hiddenInHomeList: true

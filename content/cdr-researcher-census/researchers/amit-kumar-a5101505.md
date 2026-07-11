@@ -1,7 +1,7 @@
 ---
 title: "Amit Kumar"
-description: "Amit Kumar is an Early-career General CDR researcher at Shri Mata Vaishno Devi University in IN. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.520923
+description: "Amit Kumar is an Early-career DAC researcher at Shri Mata Vaishno Devi University in IN. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.445761
 url: "/cdr-researcher-census/researchers/amit-kumar-a5101505/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Shri Mata Vaishno Devi University · 🇮🇳 IN
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

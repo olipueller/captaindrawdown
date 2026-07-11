@@ -1,7 +1,7 @@
 ---
 title: "Yan Duan"
 description: "Yan Duan is a Senior Soil Carbon researcher at Inner Mongolia Agricultural University in CN. With 124 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.188087
+date: 2026-07-11T22:39:16.281123
 url: "/cdr-researcher-census/researchers/yan-duan-a5060992/"
 layout: "researcher"
 hiddenInHomeList: true

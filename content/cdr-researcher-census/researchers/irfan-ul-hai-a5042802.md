@@ -1,7 +1,7 @@
 ---
 title: "Irfan Ul Hai"
-description: "Irfan Ul Hai is a Mid-career General CDR researcher at Nottingham Trent University in GB. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.521441
+description: "Irfan Ul Hai is a Mid-career BECCS researcher at Nottingham Trent University in GB. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.615935
 url: "/cdr-researcher-census/researchers/irfan-ul-hai-a5042802/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Nottingham Trent University · 🇬🇧 GB
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

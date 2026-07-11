@@ -1,7 +1,7 @@
 ---
 title: "Mary Farina"
 description: "Mary Farina is a Mid-career Soil Carbon researcher at Montana State University in US. With 32 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.038155
+date: 2026-07-11T22:39:16.146527
 url: "/cdr-researcher-census/researchers/mary-farina-a5073267/"
 layout: "researcher"
 hiddenInHomeList: true

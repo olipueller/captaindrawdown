@@ -1,7 +1,7 @@
 ---
 title: "Ariani C. Wartenberg"
 description: "Ariani C. Wartenberg is a Mid-career Soil Carbon researcher. With 28 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.427506
+date: 2026-07-11T22:39:16.521985
 url: "/cdr-researcher-census/researchers/ariani-c-wartenberg-a5022348/"
 layout: "researcher"
 hiddenInHomeList: true

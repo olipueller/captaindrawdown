@@ -1,7 +1,7 @@
 ---
 title: "Haoqi Wang"
-description: "Haoqi Wang is a Mid-career Soil Carbon researcher at The University of British Columbia in CA. With 40 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.579062
+description: "Haoqi Wang is a Mid-career BECCS researcher at The University of British Columbia in CA. With 40 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.671894
 url: "/cdr-researcher-census/researchers/haoqi-wang-a5101467/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ The University of British Columbia · 🇨🇦 CA
 
 ## CDR Specialization
 
-**Soil Carbon**
+**BECCS**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "Ahmed Abdulla"
 description: "Ahmed Abdulla is a Senior General CDR researcher at Carleton University in CA. With 57 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.248966
+date: 2026-07-11T22:39:16.339199
 url: "/cdr-researcher-census/researchers/ahmed-abdulla-a5037298/"
 layout: "researcher"
 hiddenInHomeList: true

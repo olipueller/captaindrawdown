@@ -1,7 +1,7 @@
 ---
 title: "Zhonghao Wan"
 description: "Zhonghao Wan is a Senior Biochar researcher at Yale University in US. With 27 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.029539
+date: 2026-07-11T22:39:16.139830
 url: "/cdr-researcher-census/researchers/zhonghao-wan-a5069468/"
 layout: "researcher"
 hiddenInHomeList: true

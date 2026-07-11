@@ -1,7 +1,7 @@
 ---
 title: "Ghada Eshaq"
 description: "Ghada Eshaq is a Mid-career Biochar researcher at Egyptian Petroleum Research Institute in EG. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.443305
+date: 2026-07-11T22:39:16.538000
 url: "/cdr-researcher-census/researchers/ghada-eshaq-a5032296/"
 layout: "researcher"
 hiddenInHomeList: true

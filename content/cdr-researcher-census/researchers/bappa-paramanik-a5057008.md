@@ -1,7 +1,7 @@
 ---
 title: "Bappa Paramanik"
 description: "Bappa Paramanik is a Mid-career Soil Carbon researcher at Jawaharlal Nehru Krishi Vishwa Vidyalaya in IN. With 59 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.937190
+date: 2026-07-11T22:39:16.997707
 url: "/cdr-researcher-census/researchers/bappa-paramanik-a5057008/"
 layout: "researcher"
 hiddenInHomeList: true

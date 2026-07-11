@@ -1,7 +1,7 @@
 ---
 title: "Ariadna C. Nocera"
 description: "Ariadna C. Nocera is a Mid-career Ocean CDR researcher at Centre National de la Recherche Scientifique in FR. With 22 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.285753
+date: 2026-07-11T22:39:17.202862
 url: "/cdr-researcher-census/researchers/ariadna-c-nocera-a5085330/"
 layout: "researcher"
 hiddenInHomeList: true

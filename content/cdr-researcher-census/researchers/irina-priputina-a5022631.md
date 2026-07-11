@@ -1,7 +1,7 @@
 ---
 title: "Irina Priputina"
 description: "Irina Priputina is a Senior Soil Carbon researcher at Institute of Physical-Chemical and Biological Problems in Soil Science in RU. With 59 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.617341
+date: 2026-07-11T22:39:16.708721
 url: "/cdr-researcher-census/researchers/irina-priputina-a5022631/"
 layout: "researcher"
 hiddenInHomeList: true

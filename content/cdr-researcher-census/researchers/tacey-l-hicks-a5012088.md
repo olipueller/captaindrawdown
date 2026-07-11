@@ -1,7 +1,7 @@
 ---
 title: "Tacey L. Hicks"
 description: "Tacey L. Hicks is a Mid-career Ocean CDR researcher at Texas A&M University in US. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.349566
+date: 2026-07-11T22:39:17.268263
 url: "/cdr-researcher-census/researchers/tacey-l-hicks-a5012088/"
 layout: "researcher"
 hiddenInHomeList: true

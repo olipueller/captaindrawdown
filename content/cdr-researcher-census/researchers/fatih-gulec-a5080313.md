@@ -1,7 +1,7 @@
 ---
 title: "Fatih Güleç"
-description: "Fatih Güleç is a Senior General CDR researcher at University of Nottingham in GB. With 59 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.171388
+description: "Fatih Güleç is a Senior BECCS researcher at University of Nottingham in GB. With 59 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.265332
 url: "/cdr-researcher-census/researchers/fatih-gulec-a5080313/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Nottingham · 🇬🇧 GB
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

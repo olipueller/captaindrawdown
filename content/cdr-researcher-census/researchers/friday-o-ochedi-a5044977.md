@@ -1,7 +1,7 @@
 ---
 title: "Friday O. Ochedi"
-description: "Friday O. Ochedi is a Mid-career General CDR researcher at Heriot-Watt University in GB. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.245555
+description: "Friday O. Ochedi is a Mid-career DAC researcher at Heriot-Watt University in GB. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.336036
 url: "/cdr-researcher-census/researchers/friday-o-ochedi-a5044977/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Heriot-Watt University · 🇬🇧 GB
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

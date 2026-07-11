@@ -1,7 +1,7 @@
 ---
 title: "Qudsia Saeed"
 description: "Qudsia Saeed is a Senior Soil Carbon researcher at Nishtar Medical College and Hospital in PK. With 39 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.085075
+date: 2026-07-11T22:39:16.187264
 url: "/cdr-researcher-census/researchers/qudsia-saeed-a5037031/"
 layout: "researcher"
 hiddenInHomeList: true

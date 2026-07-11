@@ -1,7 +1,7 @@
 ---
 title: "Freddy S. Navarro‐Pineda"
-description: "Freddy S. Navarro‐Pineda is a Mid-career General CDR researcher at Autonomous University of Yucatán in MX. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.559792
+description: "Freddy S. Navarro‐Pineda is a Mid-career DAC researcher at Autonomous University of Yucatán in MX. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.652628
 url: "/cdr-researcher-census/researchers/freddy-s-navarropineda-a5055607/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Autonomous University of Yucatán · 🇲🇽 MX
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

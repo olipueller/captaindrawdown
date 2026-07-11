@@ -1,7 +1,7 @@
 ---
 title: "Yuan Tang"
-description: "Yuan Tang is a Senior Soil Carbon researcher at Ministry of Agriculture in CN. With 41 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.384420
+description: "Yuan Tang is a Senior Biochar researcher at Ministry of Agriculture in CN. With 41 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.477190
 url: "/cdr-researcher-census/researchers/yuan-tang-a5101769/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Ministry of Agriculture · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

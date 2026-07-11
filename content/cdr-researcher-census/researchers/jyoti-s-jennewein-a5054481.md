@@ -1,7 +1,7 @@
 ---
 title: "Jyoti S. Jennewein"
 description: "Jyoti S. Jennewein is a Senior Soil Carbon researcher at Agricultural Research Service in US. With 40 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.489578
+date: 2026-07-11T22:39:16.583870
 url: "/cdr-researcher-census/researchers/jyoti-s-jennewein-a5054481/"
 layout: "researcher"
 hiddenInHomeList: true

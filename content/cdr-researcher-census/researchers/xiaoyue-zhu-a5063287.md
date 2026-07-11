@@ -1,7 +1,7 @@
 ---
 title: "Xiaoyue Zhu"
 description: "Xiaoyue Zhu is a Mid-career Soil Carbon researcher at Beijing University of Chemical Technology in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.517696
+date: 2026-07-11T22:39:17.442655
 url: "/cdr-researcher-census/researchers/xiaoyue-zhu-a5063287/"
 layout: "researcher"
 hiddenInHomeList: true

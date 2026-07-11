@@ -1,7 +1,7 @@
 ---
 title: "Longlong Xia"
-description: "Longlong Xia is an Eminent Soil Carbon researcher at Karlsruhe Institute of Technology in DE. With 93 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:39.986631
+description: "Longlong Xia is an Eminent Biochar researcher at Karlsruhe Institute of Technology in DE. With 93 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.106124
 url: "/cdr-researcher-census/researchers/longlong-xia-a5055554/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Karlsruhe Institute of Technology · 🇩🇪 DE
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

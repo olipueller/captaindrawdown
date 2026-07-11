@@ -1,7 +1,7 @@
 ---
 title: "Vanessa Álvarez‐López"
 description: "Vanessa Álvarez‐López is a Mid-career Soil Carbon researcher at University of A Coruña in ES. With 53 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.351802
+date: 2026-07-11T22:39:16.441923
 url: "/cdr-researcher-census/researchers/vanessa-alvarezlopez-a5067850/"
 layout: "researcher"
 hiddenInHomeList: true

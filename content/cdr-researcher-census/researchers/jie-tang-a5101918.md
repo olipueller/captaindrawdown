@@ -1,7 +1,7 @@
 ---
 title: "Jie Tang"
 description: "Jie Tang is a Senior Soil Carbon researcher at Ministry of Education of the People's Republic of China in CN. With 33 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.464691
+date: 2026-07-11T22:39:16.558937
 url: "/cdr-researcher-census/researchers/jie-tang-a5101918/"
 layout: "researcher"
 hiddenInHomeList: true

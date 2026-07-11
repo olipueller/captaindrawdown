@@ -1,7 +1,7 @@
 ---
 title: "Mattias Cape"
 description: "Mattias Cape is a Mid-career Ocean CDR researcher at Environmental Defense Fund in US. With 52 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.236928
+date: 2026-07-11T22:39:16.328006
 url: "/cdr-researcher-census/researchers/mattias-cape-a5069559/"
 layout: "researcher"
 hiddenInHomeList: true

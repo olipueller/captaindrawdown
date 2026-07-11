@@ -1,7 +1,7 @@
 ---
 title: "Mingwei Xia"
 description: "Mingwei Xia is a Mid-career Biochar researcher at Huazhong University of Science and Technology in CN. With 31 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.044784
+date: 2026-07-11T22:39:16.152229
 url: "/cdr-researcher-census/researchers/mingwei-xia-a5009997/"
 layout: "researcher"
 hiddenInHomeList: true

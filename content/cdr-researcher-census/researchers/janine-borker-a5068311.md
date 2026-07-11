@@ -1,7 +1,7 @@
 ---
 title: "Janine Börker"
-description: "Janine Börker is a Mid-career Ocean CDR researcher at Universität Hamburg in DE. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.420097
+description: "Janine Börker is a Mid-career Enhanced Weathering researcher at Universität Hamburg in DE. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.514734
 url: "/cdr-researcher-census/researchers/janine-borker-a5068311/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Universität Hamburg · 🇩🇪 DE
 
 ## CDR Specialization
 
-**Ocean CDR**
+**Enhanced Weathering**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

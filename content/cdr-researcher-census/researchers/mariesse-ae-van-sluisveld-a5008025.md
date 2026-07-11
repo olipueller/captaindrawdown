@@ -1,7 +1,7 @@
 ---
 title: "Mariësse A.E. van Sluisveld"
 description: "Mariësse A.E. van Sluisveld is a Senior General CDR researcher at Netherlands Environmental Assessment Agency in NL. With 36 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.088694
+date: 2026-07-11T22:39:16.190092
 url: "/cdr-researcher-census/researchers/mariesse-ae-van-sluisveld-a5008025/"
 layout: "researcher"
 hiddenInHomeList: true

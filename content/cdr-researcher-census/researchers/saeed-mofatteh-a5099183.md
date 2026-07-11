@@ -1,7 +1,7 @@
 ---
 title: "Saeed Mofatteh"
-description: "Saeed Mofatteh is an Early-career General CDR researcher at University of Tehran in IR. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.196350
+description: "Saeed Mofatteh is an Early-career Biochar researcher at University of Tehran in IR. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.115181
 url: "/cdr-researcher-census/researchers/saeed-mofatteh-a5099183/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ University of Tehran ·  IR
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

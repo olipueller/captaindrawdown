@@ -1,7 +1,7 @@
 ---
 title: "Sebastian U. Busby"
 description: "Sebastian U. Busby is a Senior Soil Carbon researcher. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.710466
+date: 2026-07-11T22:39:16.793997
 url: "/cdr-researcher-census/researchers/sebastian-u-busby-a5014945/"
 layout: "researcher"
 hiddenInHomeList: true

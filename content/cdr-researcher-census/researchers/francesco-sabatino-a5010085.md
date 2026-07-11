@@ -1,7 +1,7 @@
 ---
 title: "Francesco Sabatino"
-description: "Francesco Sabatino is a Mid-career General CDR researcher at Eindhoven University of Technology in NL. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.351904
+description: "Francesco Sabatino is a Mid-career DAC researcher at Eindhoven University of Technology in NL. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.442041
 url: "/cdr-researcher-census/researchers/francesco-sabatino-a5010085/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Eindhoven University of Technology · 🇳🇱 NL
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

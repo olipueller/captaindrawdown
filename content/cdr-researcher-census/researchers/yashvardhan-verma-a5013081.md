@@ -1,7 +1,7 @@
 ---
 title: "Yashvardhan Verma"
 description: "Yashvardhan Verma is a Mid-career General CDR researcher at Indian Institute of Technology Bombay in IN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.791393
+date: 2026-07-11T22:39:16.872739
 url: "/cdr-researcher-census/researchers/yashvardhan-verma-a5013081/"
 layout: "researcher"
 hiddenInHomeList: true

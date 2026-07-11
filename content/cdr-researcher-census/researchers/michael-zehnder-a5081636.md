@@ -1,7 +1,7 @@
 ---
 title: "Michael Zehnder"
 description: "Michael Zehnder is a Senior Soil Carbon researcher at Committee on Climate Change in GB. With 33 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.958993
+date: 2026-07-11T22:39:17.008344
 url: "/cdr-researcher-census/researchers/michael-zehnder-a5081636/"
 layout: "researcher"
 hiddenInHomeList: true

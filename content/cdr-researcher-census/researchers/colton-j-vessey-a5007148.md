@@ -1,7 +1,7 @@
 ---
 title: "Colton J. Vessey"
-description: "Colton J. Vessey is a Mid-career General CDR researcher at University of Alberta in CA. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.170093
+description: "Colton J. Vessey is a Mid-career Enhanced Weathering researcher at University of Alberta in CA. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.103619
 url: "/cdr-researcher-census/researchers/colton-j-vessey-a5007148/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Alberta · 🇨🇦 CA
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

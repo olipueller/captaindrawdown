@@ -1,7 +1,7 @@
 ---
 title: "Adnan Mustafa"
 description: "Adnan Mustafa is an Eminent Soil Carbon researcher at Brno University of Technology in CZ. With 191 publications and an h-index of 47, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:39.976578
+date: 2026-07-11T22:39:16.099912
 url: "/cdr-researcher-census/researchers/adnan-mustafa-a5031833/"
 layout: "researcher"
 hiddenInHomeList: true

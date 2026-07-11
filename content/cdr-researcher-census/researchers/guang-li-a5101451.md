@@ -1,7 +1,7 @@
 ---
 title: "Guang Li"
-description: "Guang Li is a Mid-career Soil Carbon researcher at Gansu Agricultural University in CN. With 26 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.817786
+description: "Guang Li is a Mid-career Biochar researcher at Gansu Agricultural University in CN. With 26 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.896954
 url: "/cdr-researcher-census/researchers/guang-li-a5101451/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Gansu Agricultural University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

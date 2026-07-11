@@ -1,7 +1,7 @@
 ---
 title: "Fanjiang Zeng"
 description: "Fanjiang Zeng is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 158 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.044419
+date: 2026-07-11T22:39:16.151886
 url: "/cdr-researcher-census/researchers/fanjiang-zeng-a5101834/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ram A. Jat"
 description: "Ram A. Jat is a Mid-career Soil Carbon researcher at Chaudhary Charan Singh Haryana Agricultural University in IN. With 39 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.636998
+date: 2026-07-11T22:39:16.727412
 url: "/cdr-researcher-census/researchers/ram-a-jat-a5102709/"
 layout: "researcher"
 hiddenInHomeList: true

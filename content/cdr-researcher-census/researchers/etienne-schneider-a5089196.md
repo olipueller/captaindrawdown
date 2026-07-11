@@ -1,7 +1,7 @@
 ---
 title: "Etienne Schneider"
 description: "Etienne Schneider is a Mid-career General CDR researcher. With 42 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.420829
+date: 2026-07-11T22:39:16.515424
 url: "/cdr-researcher-census/researchers/etienne-schneider-a5089196/"
 layout: "researcher"
 hiddenInHomeList: true

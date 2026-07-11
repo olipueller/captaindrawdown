@@ -1,7 +1,7 @@
 ---
 title: "Somasundaram Jayaraman"
 description: "Somasundaram Jayaraman is a Senior Soil Carbon researcher at ICAR-Indian Institute of Soil and Water Conservation, Dehradun, India in IN. With 72 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.100089
+date: 2026-07-11T22:39:16.199707
 url: "/cdr-researcher-census/researchers/somasundaram-jayaraman-a5025981/"
 layout: "researcher"
 hiddenInHomeList: true

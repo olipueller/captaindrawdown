@@ -1,7 +1,7 @@
 ---
 title: "Ashvin L. Karemore"
-description: "Ashvin L. Karemore is a Mid-career General CDR researcher at Bharat Petroleum (India) in IN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.628225
+description: "Ashvin L. Karemore is a Mid-career DAC researcher at Bharat Petroleum (India) in IN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.547341
 url: "/cdr-researcher-census/researchers/ashvin-l-karemore-a5075823/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Bharat Petroleum (India) · 🇮🇳 IN
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "Valérie Jeanne‐Rose"
 description: "Valérie Jeanne‐Rose is a Senior Ocean CDR researcher at Université des Antilles in GP. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.775965
+date: 2026-07-11T22:39:16.857556
 url: "/cdr-researcher-census/researchers/valerie-jeannerose-a5080199/"
 layout: "researcher"
 hiddenInHomeList: true

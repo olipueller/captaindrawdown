@@ -1,7 +1,7 @@
 ---
 title: "Shifeng Fu"
 description: "Shifeng Fu is a Mid-career Soil Carbon researcher at Shenyang Agricultural University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.679732
+date: 2026-07-11T22:39:16.765681
 url: "/cdr-researcher-census/researchers/shifeng-fu-a5100967/"
 layout: "researcher"
 hiddenInHomeList: true

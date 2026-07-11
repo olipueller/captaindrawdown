@@ -1,7 +1,7 @@
 ---
 title: "Qiongchao Wang"
-description: "Qiongchao Wang is a Mid-career General CDR researcher at Hunan Agricultural University in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.257010
+description: "Qiongchao Wang is a Mid-career Biochar researcher at Hunan Agricultural University in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.174794
 url: "/cdr-researcher-census/researchers/qiongchao-wang-a5111530/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Hunan Agricultural University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

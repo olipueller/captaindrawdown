@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Aamir Hafeez"
 description: "Muhammad Aamir Hafeez is a Mid-career Biochar researcher at Pohang University of Science and Technology in KR. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.856603
+date: 2026-07-11T22:39:16.932946
 url: "/cdr-researcher-census/researchers/muhammad-aamir-hafeez-a5008237/"
 layout: "researcher"
 hiddenInHomeList: true

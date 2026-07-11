@@ -1,7 +1,7 @@
 ---
 title: "Cristina-Maria Iordan"
-description: "Cristina-Maria Iordan is a Mid-career Soil Carbon researcher at SINTEF in NO. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.542603
+description: "Cristina-Maria Iordan is a Mid-career BECCS researcher at SINTEF in NO. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.636075
 url: "/cdr-researcher-census/researchers/cristina-maria-iordan-a5025568/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ SINTEF · 🇳🇴 NO
 
 ## CDR Specialization
 
-**Soil Carbon**
+**BECCS**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

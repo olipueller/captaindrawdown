@@ -1,7 +1,7 @@
 ---
 title: "Oviyanti Mulyani"
 description: "Oviyanti Mulyani is a Senior Biochar researcher at Padjadjaran University in ID. With 56 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.003205
+date: 2026-07-11T22:39:17.030014
 url: "/cdr-researcher-census/researchers/oviyanti-mulyani-a5035833/"
 layout: "researcher"
 hiddenInHomeList: true

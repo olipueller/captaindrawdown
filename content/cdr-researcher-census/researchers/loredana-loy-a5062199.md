@@ -1,7 +1,7 @@
 ---
 title: "Loredana Loy"
 description: "Loredana Loy is a Mid-career General CDR researcher at University of Miami in US. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.292997
+date: 2026-07-11T22:39:17.209929
 url: "/cdr-researcher-census/researchers/loredana-loy-a5062199/"
 layout: "researcher"
 hiddenInHomeList: true

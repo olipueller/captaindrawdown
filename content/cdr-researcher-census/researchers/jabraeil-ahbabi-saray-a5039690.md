@@ -1,7 +1,7 @@
 ---
 title: "Jabraeil Ahbabi Saray"
-description: "Jabraeil Ahbabi Saray is a Mid-career General CDR researcher at Iran University of Science and Technology in IR. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.266929
+description: "Jabraeil Ahbabi Saray is a Mid-career DAC researcher at Iran University of Science and Technology in IR. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.184305
 url: "/cdr-researcher-census/researchers/jabraeil-ahbabi-saray-a5039690/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Iran University of Science and Technology ·  IR
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

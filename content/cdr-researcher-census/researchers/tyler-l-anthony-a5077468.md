@@ -1,7 +1,7 @@
 ---
 title: "Tyler L. Anthony"
 description: "Tyler L. Anthony is a Mid-career Soil Carbon researcher at University of California, Berkeley in US. With 26 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.391562
+date: 2026-07-11T22:39:16.484950
 url: "/cdr-researcher-census/researchers/tyler-l-anthony-a5077468/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Joana Madeira Krieger"
-description: "Joana Madeira Krieger is a Mid-career Soil Carbon researcher at Conservation International in US. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.539936
+description: "Joana Madeira Krieger is a Mid-career Biochar researcher at Conservation International in US. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.464012
 url: "/cdr-researcher-census/researchers/joana-madeira-krieger-a5082365/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Conservation International · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

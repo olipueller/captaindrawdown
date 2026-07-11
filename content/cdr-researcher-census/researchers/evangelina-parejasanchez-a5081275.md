@@ -1,7 +1,7 @@
 ---
 title: "Evangelina Pareja‐Sánchez"
 description: "Evangelina Pareja‐Sánchez is a Mid-career Soil Carbon researcher at Olivet University in US. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.621707
+date: 2026-07-11T22:39:16.712916
 url: "/cdr-researcher-census/researchers/evangelina-parejasanchez-a5081275/"
 layout: "researcher"
 hiddenInHomeList: true

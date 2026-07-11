@@ -1,7 +1,7 @@
 ---
 title: "S. Villasante"
 description: "S. Villasante is a Mid-career Ocean CDR researcher at Universidade de Santiago de Compostela in ES. With 26 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.431927
+date: 2026-07-11T22:39:17.355867
 url: "/cdr-researcher-census/researchers/s-villasante-a5112263/"
 layout: "researcher"
 hiddenInHomeList: true

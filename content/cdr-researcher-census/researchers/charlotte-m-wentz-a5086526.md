@@ -1,7 +1,7 @@
 ---
 title: "Charlotte M. Wentz"
-description: "Charlotte M. Wentz is a Mid-career General CDR researcher at National Institute of Standards and Technology in US. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.852215
+description: "Charlotte M. Wentz is a Mid-career DAC researcher at National Institute of Standards and Technology in US. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.928759
 url: "/cdr-researcher-census/researchers/charlotte-m-wentz-a5086526/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ National Institute of Standards and Technology · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

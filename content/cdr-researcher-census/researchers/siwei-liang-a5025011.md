@@ -1,7 +1,7 @@
 ---
 title: "Siwei Liang"
 description: "Siwei Liang is a Mid-career Soil Carbon researcher at Liaoning Academy of Agricultural Sciences in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.129862
+date: 2026-07-11T22:39:17.080442
 url: "/cdr-researcher-census/researchers/siwei-liang-a5025011/"
 layout: "researcher"
 hiddenInHomeList: true

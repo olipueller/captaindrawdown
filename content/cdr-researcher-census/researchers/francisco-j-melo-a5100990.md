@@ -1,7 +1,7 @@
 ---
 title: "Francisco J. Melo"
 description: "Francisco J. Melo is a Mid-career Soil Carbon researcher. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.831783
+date: 2026-07-11T22:39:16.909077
 url: "/cdr-researcher-census/researchers/francisco-j-melo-a5100990/"
 layout: "researcher"
 hiddenInHomeList: true

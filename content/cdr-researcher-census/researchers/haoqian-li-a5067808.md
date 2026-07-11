@@ -1,7 +1,7 @@
 ---
 title: "Haoqian Li"
 description: "Haoqian Li is a Mid-career Biochar researcher at Hebei Agricultural University in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.463539
+date: 2026-07-11T22:39:17.387734
 url: "/cdr-researcher-census/researchers/haoqian-li-a5067808/"
 layout: "researcher"
 hiddenInHomeList: true

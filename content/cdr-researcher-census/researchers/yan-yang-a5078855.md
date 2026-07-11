@@ -1,7 +1,7 @@
 ---
 title: "Yan Yang"
 description: "Yan Yang is a Mid-career Soil Carbon researcher at University of Delaware in US. With 31 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.201651
+date: 2026-07-11T22:39:16.294133
 url: "/cdr-researcher-census/researchers/yan-yang-a5078855/"
 layout: "researcher"
 hiddenInHomeList: true

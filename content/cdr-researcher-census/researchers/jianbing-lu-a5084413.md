@@ -1,7 +1,7 @@
 ---
 title: "Jianbing Lu"
 description: "Jianbing Lu is a Senior Biochar researcher at National University of Defense Technology in CN. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.280915
+date: 2026-07-11T22:39:17.198436
 url: "/cdr-researcher-census/researchers/jianbing-lu-a5084413/"
 layout: "researcher"
 hiddenInHomeList: true

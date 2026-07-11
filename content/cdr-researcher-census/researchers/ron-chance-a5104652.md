@@ -1,7 +1,7 @@
 ---
 title: "Ron Chance"
-description: "Ron Chance is a Senior General CDR researcher at Brighton Hospital in US. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.182212
+description: "Ron Chance is a Senior DAC researcher at Brighton Hospital in US. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.107583
 url: "/cdr-researcher-census/researchers/ron-chance-a5104652/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Brighton Hospital · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "Paola A. Sáenz-Cavazos"
 description: "Paola A. Sáenz-Cavazos is a Mid-career General CDR researcher at Imperial College London in GB. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.394881
+date: 2026-07-11T22:39:17.316709
 url: "/cdr-researcher-census/researchers/paola-a-saenz-cavazos-a5033008/"
 layout: "researcher"
 hiddenInHomeList: true

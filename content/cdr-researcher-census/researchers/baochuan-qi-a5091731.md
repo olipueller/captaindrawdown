@@ -1,7 +1,7 @@
 ---
 title: "Baochuan Qi"
 description: "Baochuan Qi is a Mid-career Biochar researcher at Chongqing University in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.569053
+date: 2026-07-11T22:39:17.491762
 url: "/cdr-researcher-census/researchers/baochuan-qi-a5091731/"
 layout: "researcher"
 hiddenInHomeList: true

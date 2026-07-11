@@ -1,7 +1,7 @@
 ---
 title: "Edmund A. Halfyard"
-description: "Edmund A. Halfyard is a Mid-career Ocean CDR researcher at Nova Scotia Department of Agriculture in CA. With 35 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.390494
+description: "Edmund A. Halfyard is a Mid-career Enhanced Weathering researcher at Nova Scotia Department of Agriculture in CA. With 35 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.483733
 url: "/cdr-researcher-census/researchers/edmund-a-halfyard-a5060224/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Nova Scotia Department of Agriculture · 🇨🇦 CA
 
 ## CDR Specialization
 
-**Ocean CDR**
+**Enhanced Weathering**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

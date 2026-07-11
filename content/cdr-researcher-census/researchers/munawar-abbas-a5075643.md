@@ -1,7 +1,7 @@
 ---
 title: "Munawar Abbas"
-description: "Munawar Abbas is a Mid-career General CDR researcher at Henan University of Technology in CN. With 13 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.593764
+description: "Munawar Abbas is a Mid-career BECCS researcher at Henan University of Technology in CN. With 13 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.514570
 url: "/cdr-researcher-census/researchers/munawar-abbas-a5075643/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Henan University of Technology · 🇨🇳 CN
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

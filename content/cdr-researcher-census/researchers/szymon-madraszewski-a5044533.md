@@ -1,7 +1,7 @@
 ---
 title: "Szymon Mądraszewski"
-description: "Szymon Mądraszewski is a Mid-career General CDR researcher at Technische Universität Berlin in DE. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.041350
+description: "Szymon Mądraszewski is a Mid-career Biochar researcher at Technische Universität Berlin in DE. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.043489
 url: "/cdr-researcher-census/researchers/szymon-madraszewski-a5044533/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Technische Universität Berlin · 🇩🇪 DE
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

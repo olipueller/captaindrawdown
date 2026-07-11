@@ -1,7 +1,7 @@
 ---
 title: "Ritesh Saha"
 description: "Ritesh Saha is a Mid-career Soil Carbon researcher at Central Research Institute for Jute and Allied Fibres in IN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.814579
+date: 2026-07-11T22:39:16.894427
 url: "/cdr-researcher-census/researchers/ritesh-saha-a5058382/"
 layout: "researcher"
 hiddenInHomeList: true

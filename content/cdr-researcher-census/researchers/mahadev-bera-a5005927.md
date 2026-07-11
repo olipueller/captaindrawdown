@@ -1,7 +1,7 @@
 ---
 title: "Mahadev Bera"
 description: "Mahadev Bera is a Mid-career General CDR researcher at Ramakrishna Mission Vidyamandira in IN. With 36 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.821801
+date: 2026-07-11T22:39:16.899851
 url: "/cdr-researcher-census/researchers/mahadev-bera-a5005927/"
 layout: "researcher"
 hiddenInHomeList: true

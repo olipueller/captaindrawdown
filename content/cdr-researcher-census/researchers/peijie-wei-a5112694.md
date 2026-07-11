@@ -1,7 +1,7 @@
 ---
 title: "Peijie Wei"
 description: "Peijie Wei is a Mid-career Soil Carbon researcher at Northwest Institute of Eco-Environment and Resources in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.753433
+date: 2026-07-11T22:39:16.834856
 url: "/cdr-researcher-census/researchers/peijie-wei-a5112694/"
 layout: "researcher"
 hiddenInHomeList: true

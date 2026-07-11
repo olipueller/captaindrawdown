@@ -1,7 +1,7 @@
 ---
 title: "Amber Hardy"
 description: "Amber Hardy is a Mid-career Soil Carbon researcher at University of Rhode Island in US. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.453469
+date: 2026-07-11T22:39:17.378210
 url: "/cdr-researcher-census/researchers/amber-hardy-a5109226/"
 layout: "researcher"
 hiddenInHomeList: true

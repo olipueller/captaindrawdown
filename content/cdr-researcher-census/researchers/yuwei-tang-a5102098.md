@@ -1,7 +1,7 @@
 ---
 title: "Yuwei Tang"
 description: "Yuwei Tang is a Mid-career Biochar researcher at Jilin Jianzhu University in CN. With 31 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.754251
+date: 2026-07-11T22:39:16.835612
 url: "/cdr-researcher-census/researchers/yuwei-tang-a5102098/"
 layout: "researcher"
 hiddenInHomeList: true

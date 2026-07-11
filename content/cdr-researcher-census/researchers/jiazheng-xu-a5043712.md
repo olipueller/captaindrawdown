@@ -1,7 +1,7 @@
 ---
 title: "Jiazheng Xu"
 description: "Jiazheng Xu is an Early-career Soil Carbon researcher at Northeast Normal University in CN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.444879
+date: 2026-07-11T22:39:17.369466
 url: "/cdr-researcher-census/researchers/jiazheng-xu-a5043712/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Helen S. Findlay"
 description: "Helen S. Findlay is a Senior Ocean CDR researcher at Plymouth Marine Laboratory in GB. With 124 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:39.991800
+date: 2026-07-11T22:39:16.110014
 url: "/cdr-researcher-census/researchers/helen-s-findlay-a5034359/"
 layout: "researcher"
 hiddenInHomeList: true

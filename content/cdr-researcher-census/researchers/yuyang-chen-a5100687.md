@@ -1,7 +1,7 @@
 ---
 title: "Yuyang Chen"
 description: "Yuyang Chen is a Mid-career Biochar researcher at Jilin University in CN. With 36 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.444432
+date: 2026-07-11T22:39:16.539256
 url: "/cdr-researcher-census/researchers/yuyang-chen-a5100687/"
 layout: "researcher"
 hiddenInHomeList: true

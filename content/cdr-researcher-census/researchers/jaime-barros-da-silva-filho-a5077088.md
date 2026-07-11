@@ -1,7 +1,7 @@
 ---
 title: "Jaime Barros da Silva Filho"
-description: "Jaime Barros da Silva Filho is a Mid-career Soil Carbon researcher at Pacific Southwest Research Station in US. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.448259
+description: "Jaime Barros da Silva Filho is a Mid-career Biochar researcher at Pacific Southwest Research Station in US. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.372748
 url: "/cdr-researcher-census/researchers/jaime-barros-da-silva-filho-a5077088/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Pacific Southwest Research Station · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

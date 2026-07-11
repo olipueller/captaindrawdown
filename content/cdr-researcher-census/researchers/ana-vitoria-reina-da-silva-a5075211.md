@@ -1,7 +1,7 @@
 ---
 title: "Ana Vitória Reina da Silva"
 description: "Ana Vitória Reina da Silva is a Mid-career Soil Carbon researcher at Universidade de São Paulo in BR. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.549407
+date: 2026-07-11T22:39:17.473508
 url: "/cdr-researcher-census/researchers/ana-vitoria-reina-da-silva-a5075211/"
 layout: "researcher"
 hiddenInHomeList: true

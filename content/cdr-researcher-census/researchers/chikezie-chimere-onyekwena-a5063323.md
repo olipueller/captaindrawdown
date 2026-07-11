@@ -1,7 +1,7 @@
 ---
 title: "Chikezie Chimere Onyekwena"
-description: "Chikezie Chimere Onyekwena is a Mid-career Soil Carbon researcher at Wuhan Institute of Geo-Environmental Industry and Technology (China) in CN. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.676626
+description: "Chikezie Chimere Onyekwena is a Mid-career Ocean CDR researcher at Wuhan Institute of Geo-Environmental Industry and Technology (China) in CN. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.762675
 url: "/cdr-researcher-census/researchers/chikezie-chimere-onyekwena-a5063323/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Wuhan Institute of Geo-Environmental Industry and Technology (China) · 🇨🇳
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Ocean CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
 
 ## Metrics
 

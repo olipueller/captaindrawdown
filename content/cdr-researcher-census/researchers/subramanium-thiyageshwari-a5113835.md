@@ -1,7 +1,7 @@
 ---
 title: "Subramanium Thiyageshwari"
 description: "Subramanium Thiyageshwari is a Mid-career Soil Carbon researcher at Tamil Nadu Agricultural University in IN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.645247
+date: 2026-07-11T22:39:17.569002
 url: "/cdr-researcher-census/researchers/subramanium-thiyageshwari-a5113835/"
 layout: "researcher"
 hiddenInHomeList: true

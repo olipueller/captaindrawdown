@@ -1,7 +1,7 @@
 ---
 title: "Anežka Borčinová Radková"
 description: "Anežka Borčinová Radková is a Mid-career Enhanced Weathering researcher. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.784552
+date: 2026-07-11T22:39:16.865658
 url: "/cdr-researcher-census/researchers/anezka-borcinova-radkova-a5037816/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Wolfgang A. Obermeier"
 description: "Wolfgang A. Obermeier is a Mid-career General CDR researcher at Ludwig Maximilian University of Munich in DE. With 58 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.212103
+date: 2026-07-11T22:39:16.303433
 url: "/cdr-researcher-census/researchers/wolfgang-a-obermeier-a5003672/"
 layout: "researcher"
 hiddenInHomeList: true

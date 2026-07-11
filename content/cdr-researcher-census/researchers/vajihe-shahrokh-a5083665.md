@@ -1,7 +1,7 @@
 ---
 title: "Vajihe Shahrokh"
 description: "Vajihe Shahrokh is a Mid-career Soil Carbon researcher at Teagasc - The Irish Agriculture and Food Development Authority in IE. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.062753
+date: 2026-07-11T22:39:17.052954
 url: "/cdr-researcher-census/researchers/vajihe-shahrokh-a5083665/"
 layout: "researcher"
 hiddenInHomeList: true

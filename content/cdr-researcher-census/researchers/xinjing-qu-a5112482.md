@@ -1,7 +1,7 @@
 ---
 title: "Xinjing Qu"
 description: "Xinjing Qu is a Mid-career Soil Carbon researcher at Nanjing Forestry University in CN. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.654879
+date: 2026-07-11T22:39:16.744173
 url: "/cdr-researcher-census/researchers/xinjing-qu-a5112482/"
 layout: "researcher"
 hiddenInHomeList: true

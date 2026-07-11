@@ -1,7 +1,7 @@
 ---
 title: "Manon Berger"
 description: "Manon Berger is a Mid-career Ocean CDR researcher at University of Liège in BE. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.948800
+date: 2026-07-11T22:39:17.001152
 url: "/cdr-researcher-census/researchers/manon-berger-a5062362/"
 layout: "researcher"
 hiddenInHomeList: true

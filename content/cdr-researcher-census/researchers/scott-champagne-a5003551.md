@@ -1,7 +1,7 @@
 ---
 title: "Scott Champagne"
-description: "Scott Champagne is a Senior General CDR researcher at Natural Resources Canada in CA. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.742982
+description: "Scott Champagne is a Senior BECCS researcher at Natural Resources Canada in CA. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.825216
 url: "/cdr-researcher-census/researchers/scott-champagne-a5003551/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Natural Resources Canada · 🇨🇦 CA
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

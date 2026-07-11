@@ -1,7 +1,7 @@
 ---
 title: "Mirko Gregor"
 description: "Mirko Gregor is a Senior Soil Carbon researcher. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.752917
+date: 2026-07-11T22:39:16.834372
 url: "/cdr-researcher-census/researchers/mirko-gregor-a5037296/"
 layout: "researcher"
 hiddenInHomeList: true

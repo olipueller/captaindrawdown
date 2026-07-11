@@ -1,7 +1,7 @@
 ---
 title: "Mónica Ballinas"
 description: "Mónica Ballinas is a Mid-career General CDR researcher at Centro Nacional de Información Geográfica in ES. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.780709
+date: 2026-07-11T22:39:16.862040
 url: "/cdr-researcher-census/researchers/monica-ballinas-a5077720/"
 layout: "researcher"
 hiddenInHomeList: true

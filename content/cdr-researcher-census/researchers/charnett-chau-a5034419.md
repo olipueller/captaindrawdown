@@ -1,7 +1,7 @@
 ---
 title: "Charnett Chau"
 description: "Charnett Chau is a Mid-career General CDR researcher at University College London in GB. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.062624
+date: 2026-07-11T22:39:17.052852
 url: "/cdr-researcher-census/researchers/charnett-chau-a5034419/"
 layout: "researcher"
 hiddenInHomeList: true

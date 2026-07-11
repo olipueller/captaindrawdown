@@ -1,7 +1,7 @@
 ---
 title: "Dominic Kain"
 description: "Dominic Kain is a Senior Soil Carbon researcher at Housing Quality Network (United Kingdom) in GB. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.885921
+date: 2026-07-11T22:39:16.975893
 url: "/cdr-researcher-census/researchers/dominic-kain-a5060347/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Chinnappan Ravinder Singh"
 description: "Chinnappan Ravinder Singh is a Mid-career General CDR researcher. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.287495
+date: 2026-07-11T22:39:17.204517
 url: "/cdr-researcher-census/researchers/chinnappan-ravinder-singh-a5048860/"
 layout: "researcher"
 hiddenInHomeList: true

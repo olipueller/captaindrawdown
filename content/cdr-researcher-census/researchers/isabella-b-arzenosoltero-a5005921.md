@@ -1,7 +1,7 @@
 ---
 title: "Isabella B. Arzeno‐Soltero"
 description: "Isabella B. Arzeno‐Soltero is a Mid-career Ocean CDR researcher at University of California, Los Angeles in US. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.649105
+date: 2026-07-11T22:39:16.738460
 url: "/cdr-researcher-census/researchers/isabella-b-arzenosoltero-a5005921/"
 layout: "researcher"
 hiddenInHomeList: true

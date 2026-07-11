@@ -1,7 +1,7 @@
 ---
 title: "Xuancan Zhu"
 description: "Xuancan Zhu is a Senior DAC researcher at Shanghai Jiao Tong University in CN. With 44 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.047004
+date: 2026-07-11T22:39:16.154041
 url: "/cdr-researcher-census/researchers/xuancan-zhu-a5072713/"
 layout: "researcher"
 hiddenInHomeList: true

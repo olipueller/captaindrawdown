@@ -1,7 +1,7 @@
 ---
 title: "Erika Tobiašová"
 description: "Erika Tobiašová is a Senior Soil Carbon researcher at Slovak University of Agriculture in Nitra in SK. With 41 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.610935
+date: 2026-07-11T22:39:16.702874
 url: "/cdr-researcher-census/researchers/erika-tobiasova-a5089460/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Kate Scott"
 description: "Kate Scott is a Senior General CDR researcher at The University of Sydney in AU. With 60 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.041898
+date: 2026-07-11T22:39:16.149701
 url: "/cdr-researcher-census/researchers/kate-scott-a5047280/"
 layout: "researcher"
 hiddenInHomeList: true

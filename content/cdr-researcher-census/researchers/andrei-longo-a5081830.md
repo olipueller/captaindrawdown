@@ -1,7 +1,7 @@
 ---
 title: "Andrei Longo"
 description: "Andrei Longo is a Mid-career Biochar researcher at Polytechnic Institute of Portalegre in PT. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.841451
+date: 2026-07-11T22:39:16.918639
 url: "/cdr-researcher-census/researchers/andrei-longo-a5081830/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Kalina C. Grabb"
 description: "Kalina C. Grabb is a Mid-career General CDR researcher at Dalhousie University in CA. With 30 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.572674
+date: 2026-07-11T22:39:16.664822
 url: "/cdr-researcher-census/researchers/kalina-c-grabb-a5071547/"
 layout: "researcher"
 hiddenInHomeList: true

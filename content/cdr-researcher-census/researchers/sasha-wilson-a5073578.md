@@ -1,7 +1,7 @@
 ---
 title: "Sasha Wilson"
 description: "Sasha Wilson is a Senior Enhanced Weathering researcher at University of Alberta in CA. With 166 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:39.992636
+date: 2026-07-11T22:39:16.110599
 url: "/cdr-researcher-census/researchers/sasha-wilson-a5073578/"
 layout: "researcher"
 hiddenInHomeList: true

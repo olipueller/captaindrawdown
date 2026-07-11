@@ -1,7 +1,7 @@
 ---
 title: "Anna Walkiewicz"
 description: "Anna Walkiewicz is a Mid-career Soil Carbon researcher at Institute of Agrophysics, Polish Academy of Sciences in PL. With 51 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.299194
+date: 2026-07-11T22:39:16.390078
 url: "/cdr-researcher-census/researchers/anna-walkiewicz-a5080201/"
 layout: "researcher"
 hiddenInHomeList: true

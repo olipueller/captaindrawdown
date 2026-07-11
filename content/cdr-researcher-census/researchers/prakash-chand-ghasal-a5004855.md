@@ -1,7 +1,7 @@
 ---
 title: "Prakash Chand Ghasal"
 description: "Prakash Chand Ghasal is a Mid-career Soil Carbon researcher at Sardar Vallabhbhai Patel University of Agriculture & Technology in IN. With 52 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.347805
+date: 2026-07-11T22:39:16.437917
 url: "/cdr-researcher-census/researchers/prakash-chand-ghasal-a5004855/"
 layout: "researcher"
 hiddenInHomeList: true

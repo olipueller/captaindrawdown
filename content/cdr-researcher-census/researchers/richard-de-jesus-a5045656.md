@@ -1,7 +1,7 @@
 ---
 title: "Richard De Jesus"
-description: "Richard De Jesus is a Mid-career General CDR researcher at De La Salle University in PH. With 20 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.410212
+description: "Richard De Jesus is a Mid-career Biochar researcher at De La Salle University in PH. With 20 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.332597
 url: "/cdr-researcher-census/researchers/richard-de-jesus-a5045656/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ De La Salle University · 🇵🇭 PH
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

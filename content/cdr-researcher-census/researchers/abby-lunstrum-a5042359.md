@@ -1,7 +1,7 @@
 ---
 title: "Abby Lunstrum"
-description: "Abby Lunstrum is a Mid-career Ocean CDR researcher at Yale University in US. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.473217
+description: "Abby Lunstrum is a Mid-career Enhanced Weathering researcher at Yale University in US. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.567960
 url: "/cdr-researcher-census/researchers/abby-lunstrum-a5042359/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Yale University · 🇺🇸 US
 
 ## CDR Specialization
 
-**Ocean CDR**
+**Enhanced Weathering**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

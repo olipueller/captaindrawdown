@@ -1,7 +1,7 @@
 ---
 title: "Jianghu Cui"
-description: "Jianghu Cui is a Senior Soil Carbon researcher at Dongguan University of Technology in CN. With 68 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.007525
+description: "Jianghu Cui is a Senior Biochar researcher at Dongguan University of Technology in CN. With 68 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.122860
 url: "/cdr-researcher-census/researchers/jianghu-cui-a5018501/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Dongguan University of Technology · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

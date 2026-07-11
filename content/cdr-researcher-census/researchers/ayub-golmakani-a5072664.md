@@ -1,7 +1,7 @@
 ---
 title: "Ayub Golmakani"
-description: "Ayub Golmakani is a Mid-career General CDR researcher at Cranfield University in GB. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.467025
+description: "Ayub Golmakani is a Mid-career DAC researcher at Cranfield University in GB. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.561304
 url: "/cdr-researcher-census/researchers/ayub-golmakani-a5072664/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Cranfield University · 🇬🇧 GB
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

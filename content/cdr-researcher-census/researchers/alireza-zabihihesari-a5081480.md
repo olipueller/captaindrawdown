@@ -1,7 +1,7 @@
 ---
 title: "Alireza Zabihihesari"
 description: "Alireza Zabihihesari is a Mid-career Ocean CDR researcher at Dalhousie University in CA. With 30 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.733575
+date: 2026-07-11T22:39:16.816075
 url: "/cdr-researcher-census/researchers/alireza-zabihihesari-a5081480/"
 layout: "researcher"
 hiddenInHomeList: true

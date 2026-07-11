@@ -1,7 +1,7 @@
 ---
 title: "Hong-Xuan Duan"
 description: "Hong-Xuan Duan is an Early-career Soil Carbon researcher at Fonctionnement et Conduite des Systèmes de Culture Tropicaux et Méditerranéens in FR. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.619647
+date: 2026-07-11T22:39:17.538617
 url: "/cdr-researcher-census/researchers/hong-xuan-duan-a5113418/"
 layout: "researcher"
 hiddenInHomeList: true

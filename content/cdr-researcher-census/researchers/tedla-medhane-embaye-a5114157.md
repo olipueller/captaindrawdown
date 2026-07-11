@@ -1,7 +1,7 @@
 ---
 title: "Tedla Medhane Embaye"
 description: "Tedla Medhane Embaye is a Mid-career Biochar researcher at Anglian Water Services (United Kingdom) in GB. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.552146
+date: 2026-07-11T22:39:17.476017
 url: "/cdr-researcher-census/researchers/tedla-medhane-embaye-a5114157/"
 layout: "researcher"
 hiddenInHomeList: true

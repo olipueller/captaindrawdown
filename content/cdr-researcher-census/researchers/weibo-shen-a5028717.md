@@ -1,7 +1,7 @@
 ---
 title: "Weibo Shen"
-description: "Weibo Shen is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 38 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.294839
+description: "Weibo Shen is a Senior Biochar researcher at Chinese Academy of Sciences in CN. With 38 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.385835
 url: "/cdr-researcher-census/researchers/weibo-shen-a5028717/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Chinese Academy of Sciences · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

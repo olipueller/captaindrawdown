@@ -1,7 +1,7 @@
 ---
 title: "Pongpipat Anantanasakul"
 description: "Pongpipat Anantanasakul is a Mid-career Soil Carbon researcher at Mahidol University in TH. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.496111
+date: 2026-07-11T22:39:17.421159
 url: "/cdr-researcher-census/researchers/pongpipat-anantanasakul-a5073608/"
 layout: "researcher"
 hiddenInHomeList: true

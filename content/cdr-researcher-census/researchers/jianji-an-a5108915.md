@@ -1,7 +1,7 @@
 ---
 title: "Jianji An"
 description: "Jianji An is an Early-career General CDR researcher at Chinese Academy of Sciences in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.357306
+date: 2026-07-11T22:39:17.276574
 url: "/cdr-researcher-census/researchers/jianji-an-a5108915/"
 layout: "researcher"
 hiddenInHomeList: true

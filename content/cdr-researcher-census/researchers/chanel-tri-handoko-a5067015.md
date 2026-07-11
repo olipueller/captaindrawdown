@@ -1,7 +1,7 @@
 ---
 title: "Chanel Tri Handoko"
 description: "Chanel Tri Handoko is a Mid-career Soil Carbon researcher. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.959224
+date: 2026-07-11T22:39:17.008533
 url: "/cdr-researcher-census/researchers/chanel-tri-handoko-a5067015/"
 layout: "researcher"
 hiddenInHomeList: true

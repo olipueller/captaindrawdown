@@ -1,7 +1,7 @@
 ---
 title: "Zhengang Wang"
 description: "Zhengang Wang is a Senior Soil Carbon researcher at Sun Yat-sen University in CN. With 98 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.063606
+date: 2026-07-11T22:39:16.167834
 url: "/cdr-researcher-census/researchers/zhengang-wang-a5005405/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Nora Gallarotti"
 description: "Nora Gallarotti is a Mid-career Soil Carbon researcher at Planetary Science Institute in US. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.426433
+date: 2026-07-11T22:39:17.350371
 url: "/cdr-researcher-census/researchers/nora-gallarotti-a5084041/"
 layout: "researcher"
 hiddenInHomeList: true

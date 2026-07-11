@@ -1,7 +1,7 @@
 ---
 title: "M.B. Noor mohamed"
 description: "M.B. Noor mohamed is a Mid-career General CDR researcher at Central Arid Zone Research Institute in IN. With 38 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.246318
+date: 2026-07-11T22:39:17.163512
 url: "/cdr-researcher-census/researchers/mb-noor-mohamed-a5088141/"
 layout: "researcher"
 hiddenInHomeList: true

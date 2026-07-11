@@ -1,7 +1,7 @@
 ---
 title: "Yu-Chen Wang"
-description: "Yu-Chen Wang is a Senior Soil Carbon researcher at Asia University in TW. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.007356
+description: "Yu-Chen Wang is a Senior Biochar researcher at Asia University in TW. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.031279
 url: "/cdr-researcher-census/researchers/yu-chen-wang-a5112399/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Asia University · 🇹🇼 TW
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

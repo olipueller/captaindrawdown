@@ -1,7 +1,7 @@
 ---
 title: "Yiming Guo"
 description: "Yiming Guo is a Senior Ocean CDR researcher at Illinois State University in US. With 79 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.281330
+date: 2026-07-11T22:39:17.198808
 url: "/cdr-researcher-census/researchers/yiming-guo-a5100723/"
 layout: "researcher"
 hiddenInHomeList: true

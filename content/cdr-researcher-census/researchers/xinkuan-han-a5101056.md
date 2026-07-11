@@ -1,7 +1,7 @@
 ---
 title: "Xinkuan Han"
-description: "Xinkuan Han is a Mid-career Soil Carbon researcher at Luoyang Normal University in CN. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.372390
+description: "Xinkuan Han is a Mid-career Enhanced Weathering researcher at Luoyang Normal University in CN. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.465053
 url: "/cdr-researcher-census/researchers/xinkuan-han-a5101056/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Luoyang Normal University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Enhanced Weathering**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

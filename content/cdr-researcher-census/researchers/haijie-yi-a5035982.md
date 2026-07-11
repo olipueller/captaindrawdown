@@ -1,7 +1,7 @@
 ---
 title: "Haijie Yi"
 description: "Haijie Yi is a Mid-career Soil Carbon researcher at Henan Polytechnic University in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.857001
+date: 2026-07-11T22:39:16.933247
 url: "/cdr-researcher-census/researchers/haijie-yi-a5035982/"
 layout: "researcher"
 hiddenInHomeList: true

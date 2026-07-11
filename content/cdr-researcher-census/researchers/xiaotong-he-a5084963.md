@@ -1,7 +1,7 @@
 ---
 title: "Xiaotong He"
-description: "Xiaotong He is a Senior Soil Carbon researcher at Wenzhou University in CN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.512779
+description: "Xiaotong He is a Senior Biochar researcher at Wenzhou University in CN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.437851
 url: "/cdr-researcher-census/researchers/xiaotong-he-a5084963/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Wenzhou University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

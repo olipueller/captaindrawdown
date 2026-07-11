@@ -1,7 +1,7 @@
 ---
 title: "Saba Babar"
 description: "Saba Babar is a Mid-career Biochar researcher at Huazhong Agricultural University in CN. With 43 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.432570
+date: 2026-07-11T22:39:16.526948
 url: "/cdr-researcher-census/researchers/saba-babar-a5037380/"
 layout: "researcher"
 hiddenInHomeList: true

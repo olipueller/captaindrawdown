@@ -1,7 +1,7 @@
 ---
 title: "Hélène Aubault"
 description: "Hélène Aubault is a Mid-career Soil Carbon researcher at Bush Heritage Australia in AU. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.987957
+date: 2026-07-11T22:39:17.023441
 url: "/cdr-researcher-census/researchers/helene-aubault-a5058137/"
 layout: "researcher"
 hiddenInHomeList: true

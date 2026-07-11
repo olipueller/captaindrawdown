@@ -1,7 +1,7 @@
 ---
 title: "Taifeng Zhu"
-description: "Taifeng Zhu is a Mid-career Soil Carbon researcher at Chinese Academy of Medical Sciences & Peking Union Medical College in CN. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.508447
+description: "Taifeng Zhu is a Mid-career Biochar researcher at Chinese Academy of Medical Sciences & Peking Union Medical College in CN. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.433650
 url: "/cdr-researcher-census/researchers/taifeng-zhu-a5100516/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Chinese Academy of Medical Sciences & Peking Union Medical College · 🇨🇳 C
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

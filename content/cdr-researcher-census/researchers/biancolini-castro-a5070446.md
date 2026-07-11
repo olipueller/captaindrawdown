@@ -1,7 +1,7 @@
 ---
 title: "Biancolini Castro"
 description: "Biancolini Castro is a Mid-career Soil Carbon researcher at Smithsonian Tropical Research Institute in PA. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.851652
+date: 2026-07-11T22:39:16.928209
 url: "/cdr-researcher-census/researchers/biancolini-castro-a5070446/"
 layout: "researcher"
 hiddenInHomeList: true

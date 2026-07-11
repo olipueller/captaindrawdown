@@ -1,7 +1,7 @@
 ---
 title: "Mookhor Khishigjargal"
 description: "Mookhor Khishigjargal is a Senior General CDR researcher at Mongolian University of Life Sciences in MN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.602631
+date: 2026-07-11T22:39:16.695342
 url: "/cdr-researcher-census/researchers/mookhor-khishigjargal-a5051424/"
 layout: "researcher"
 hiddenInHomeList: true

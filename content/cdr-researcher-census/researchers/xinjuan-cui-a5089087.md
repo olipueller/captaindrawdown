@@ -1,7 +1,7 @@
 ---
 title: "Xinjuan Cui"
 description: "Xinjuan Cui is a Mid-career Biochar researcher at Shandong Center for Disease Control and Prevention in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.810972
+date: 2026-07-11T22:39:16.890945
 url: "/cdr-researcher-census/researchers/xinjuan-cui-a5089087/"
 layout: "researcher"
 hiddenInHomeList: true

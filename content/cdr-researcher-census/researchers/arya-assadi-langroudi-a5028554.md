@@ -1,7 +1,7 @@
 ---
 title: "Arya Assadi Langroudi"
-description: "Arya Assadi Langroudi is a Senior Soil Carbon researcher at University of London in GB. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.213179
+description: "Arya Assadi Langroudi is a Senior Enhanced Weathering researcher at University of London in GB. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.130025
 url: "/cdr-researcher-census/researchers/arya-assadi-langroudi-a5028554/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ University of London · 🇬🇧 GB
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Enhanced Weathering**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

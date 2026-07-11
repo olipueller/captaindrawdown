@@ -1,7 +1,7 @@
 ---
 title: "Adam O’Toole"
 description: "Adam O’Toole is a Mid-career General CDR researcher at Norwegian Institute of Bioeconomy Research in NO. With 34 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.240257
+date: 2026-07-11T22:39:16.331004
 url: "/cdr-researcher-census/researchers/adam-otoole-a5026418/"
 layout: "researcher"
 hiddenInHomeList: true

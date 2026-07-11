@@ -1,7 +1,7 @@
 ---
 title: "N. Akhtar"
-description: "N. Akhtar is a Senior General CDR researcher at Lahore College for Women University in PK. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.299887
+description: "N. Akhtar is a Senior DAC researcher at Lahore College for Women University in PK. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.390716
 url: "/cdr-researcher-census/researchers/n-akhtar-a5081948/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Lahore College for Women University · 🇵🇰 PK
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

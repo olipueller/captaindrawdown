@@ -1,7 +1,7 @@
 ---
 title: "Sang-Ho Jeon"
 description: "Sang-Ho Jeon is a Mid-career Soil Carbon researcher at Rural Development Administration in KR. With 72 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.519154
+date: 2026-07-11T22:39:16.613364
 url: "/cdr-researcher-census/researchers/sang-ho-jeon-a5107908/"
 layout: "researcher"
 hiddenInHomeList: true

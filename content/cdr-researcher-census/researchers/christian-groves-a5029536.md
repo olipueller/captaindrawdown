@@ -1,7 +1,7 @@
 ---
 title: "Christian Groves"
-description: "Christian Groves is an Early-career General CDR researcher at Fraunhofer Institute for Environmental, Safety and Energy Technology UMSICHT in DE. With 28 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.569946
+description: "Christian Groves is an Early-career BECCS researcher at Fraunhofer Institute for Environmental, Safety and Energy Technology UMSICHT in DE. With 28 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.492532
 url: "/cdr-researcher-census/researchers/christian-groves-a5029536/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Fraunhofer Institute for Environmental, Safety and Energy Technology UMSICHT · 
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "Shaozhuang Guo"
-description: "Shaozhuang Guo is a Mid-career Soil Carbon researcher at Anqing Normal University in CN. With 21 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.573312
+description: "Shaozhuang Guo is a Mid-career Biochar researcher at Anqing Normal University in CN. With 21 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.665703
 url: "/cdr-researcher-census/researchers/shaozhuang-guo-a5058453/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Anqing Normal University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

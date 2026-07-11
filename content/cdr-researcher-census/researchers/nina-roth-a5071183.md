@@ -1,7 +1,7 @@
 ---
 title: "Nina Roth"
 description: "Nina Roth is a Mid-career Soil Carbon researcher at Stockholm University in SE. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.889065
+date: 2026-07-11T22:39:16.979198
 url: "/cdr-researcher-census/researchers/nina-roth-a5071183/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Wo Bin Bae"
 description: "Wo Bin Bae is a Mid-career DAC researcher at Rowan University in US. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.799717
+date: 2026-07-11T22:39:16.880572
 url: "/cdr-researcher-census/researchers/wo-bin-bae-a5049218/"
 layout: "researcher"
 hiddenInHomeList: true

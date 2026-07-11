@@ -1,7 +1,7 @@
 ---
 title: "Matthew Gidden"
 description: "Matthew Gidden is a Senior General CDR researcher at Climate Analytics in DE. With 184 publications and an h-index of 39, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:39.967131
+date: 2026-07-11T22:39:16.093739
 url: "/cdr-researcher-census/researchers/matthew-gidden-a5012881/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zhichao Shi"
 description: "Zhichao Shi is a Mid-career Biochar researcher at State Ethnic Affairs Commission in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.182974
+date: 2026-07-11T22:39:17.108191
 url: "/cdr-researcher-census/researchers/zhichao-shi-a5112859/"
 layout: "researcher"
 hiddenInHomeList: true

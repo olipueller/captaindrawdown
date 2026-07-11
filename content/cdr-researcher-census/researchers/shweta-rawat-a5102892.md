@@ -1,7 +1,7 @@
 ---
 title: "Shweta Rawat"
-description: "Shweta Rawat is a Mid-career General CDR researcher at Kumaun University in IN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.644465
+description: "Shweta Rawat is a Mid-career Biochar researcher at Kumaun University in IN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.734158
 url: "/cdr-researcher-census/researchers/shweta-rawat-a5102892/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Kumaun University · 🇮🇳 IN
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "Maarten van den Berg"
 description: "Maarten van den Berg is a Senior General CDR researcher at Netherlands Environmental Assessment Agency in NL. With 57 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:39.991250
+date: 2026-07-11T22:39:16.109630
 url: "/cdr-researcher-census/researchers/maarten-van-den-berg-a5077857/"
 layout: "researcher"
 hiddenInHomeList: true

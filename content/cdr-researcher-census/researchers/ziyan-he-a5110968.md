@@ -1,7 +1,7 @@
 ---
 title: "Ziyan He"
 description: "Ziyan He is an Early-career Biochar researcher at Johns Hopkins University in US. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.588183
+date: 2026-07-11T22:39:17.509270
 url: "/cdr-researcher-census/researchers/ziyan-he-a5110968/"
 layout: "researcher"
 hiddenInHomeList: true

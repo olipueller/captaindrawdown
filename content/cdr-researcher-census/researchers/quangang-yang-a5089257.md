@@ -1,7 +1,7 @@
 ---
 title: "Quangang Yang"
 description: "Quangang Yang is a Senior Soil Carbon researcher at Soil and Fertilizer Institute of Hunan Province in CN. With 53 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.264337
+date: 2026-07-11T22:39:16.354700
 url: "/cdr-researcher-census/researchers/quangang-yang-a5089257/"
 layout: "researcher"
 hiddenInHomeList: true

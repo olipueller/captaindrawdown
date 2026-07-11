@@ -1,7 +1,7 @@
 ---
 title: "Wenxiu Sang"
 description: "Wenxiu Sang is a Mid-career Soil Carbon researcher at East China Normal University in CN. With 6 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.548518
+date: 2026-07-11T22:39:16.641802
 url: "/cdr-researcher-census/researchers/wenxiu-sang-a5113014/"
 layout: "researcher"
 hiddenInHomeList: true

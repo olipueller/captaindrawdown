@@ -1,7 +1,7 @@
 ---
 title: "Mario A. Heredia Salgado"
 description: "Mario A. Heredia Salgado is a Senior Biochar researcher at XLAB (Slovenia) in SI. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.972897
+date: 2026-07-11T22:39:17.018104
 url: "/cdr-researcher-census/researchers/mario-a-heredia-salgado-a5042479/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Emily S. Hope"
-description: "Emily S. Hope is a Senior General CDR researcher at Canadian Forest Service in CA. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.621274
+description: "Emily S. Hope is a Senior BECCS researcher at Canadian Forest Service in CA. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.712506
 url: "/cdr-researcher-census/researchers/emily-s-hope-a5023039/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Canadian Forest Service · 🇨🇦 CA
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

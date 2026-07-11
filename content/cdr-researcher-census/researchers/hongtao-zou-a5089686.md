@@ -1,7 +1,7 @@
 ---
 title: "Hongtao Zou"
 description: "Hongtao Zou is a Senior Soil Carbon researcher at Shenyang Agricultural University in CN. With 125 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.131074
+date: 2026-07-11T22:39:16.228165
 url: "/cdr-researcher-census/researchers/hongtao-zou-a5089686/"
 layout: "researcher"
 hiddenInHomeList: true

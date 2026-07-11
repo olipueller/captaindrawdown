@@ -1,7 +1,7 @@
 ---
 title: "Rajeswari Das"
 description: "Rajeswari Das is a Mid-career Soil Carbon researcher at GIET University in IN. With 27 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.275282
+date: 2026-07-11T22:39:17.192619
 url: "/cdr-researcher-census/researchers/rajeswari-das-a5103034/"
 layout: "researcher"
 hiddenInHomeList: true

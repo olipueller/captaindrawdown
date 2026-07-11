@@ -1,7 +1,7 @@
 ---
 title: "Antonella Abbà"
 description: "Antonella Abbà is a Senior Ocean CDR researcher at Politecnico di Milano in IT. With 74 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.595912
+date: 2026-07-11T22:39:16.688291
 url: "/cdr-researcher-census/researchers/antonella-abba-a5014370/"
 layout: "researcher"
 hiddenInHomeList: true

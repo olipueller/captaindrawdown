@@ -1,7 +1,7 @@
 ---
 title: "Matt Aitkenhead"
 description: "Matt Aitkenhead is a Senior Soil Carbon researcher at James Hutton Institute in GB. With 125 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.023548
+date: 2026-07-11T22:39:16.134927
 url: "/cdr-researcher-census/researchers/matt-aitkenhead-a5029381/"
 layout: "researcher"
 hiddenInHomeList: true

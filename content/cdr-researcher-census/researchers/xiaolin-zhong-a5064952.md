@@ -1,7 +1,7 @@
 ---
 title: "Xiaolin Zhong"
 description: "Xiaolin Zhong is an Early-career Soil Carbon researcher at Central South University in CN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.626129
+date: 2026-07-11T22:39:17.545225
 url: "/cdr-researcher-census/researchers/xiaolin-zhong-a5064952/"
 layout: "researcher"
 hiddenInHomeList: true

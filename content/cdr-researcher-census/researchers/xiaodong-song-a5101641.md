@@ -1,7 +1,7 @@
 ---
 title: "Xiaodong Song"
 description: "Xiaodong Song is a Senior Soil Carbon researcher at Institute of Soil Science Chinese Academy of Sciences in CN. With 54 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.056496
+date: 2026-07-11T22:39:16.162544
 url: "/cdr-researcher-census/researchers/xiaodong-song-a5101641/"
 layout: "researcher"
 hiddenInHomeList: true

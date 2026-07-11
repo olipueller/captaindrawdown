@@ -1,7 +1,7 @@
 ---
 title: "G. Canneto"
 description: "G. Canneto is a Mid-career BECCS researcher at National Agency for New Technologies, Energy and Sustainable Economic Development in IT. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.238046
+date: 2026-07-11T22:39:17.154889
 url: "/cdr-researcher-census/researchers/g-canneto-a5021192/"
 layout: "researcher"
 hiddenInHomeList: true

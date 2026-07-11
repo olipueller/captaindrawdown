@@ -1,7 +1,7 @@
 ---
 title: "Giulia Ischia"
 description: "Giulia Ischia is a Mid-career Biochar researcher at Max Planck Institute of Colloids and Interfaces in DE. With 23 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.326213
+date: 2026-07-11T22:39:16.416274
 url: "/cdr-researcher-census/researchers/giulia-ischia-a5002457/"
 layout: "researcher"
 hiddenInHomeList: true

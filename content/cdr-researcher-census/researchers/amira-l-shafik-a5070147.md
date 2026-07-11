@@ -1,7 +1,7 @@
 ---
 title: "Amira L. Shafik"
 description: "Amira L. Shafik is a Mid-career Biochar researcher at Mansoura University in EG. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.447627
+date: 2026-07-11T22:39:17.372154
 url: "/cdr-researcher-census/researchers/amira-l-shafik-a5070147/"
 layout: "researcher"
 hiddenInHomeList: true

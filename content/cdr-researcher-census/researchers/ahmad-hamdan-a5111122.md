@@ -1,7 +1,7 @@
 ---
 title: "Ahmad Hamdan"
 description: "Ahmad Hamdan is a Mid-career General CDR researcher at Hamad Medical Corporation in QA. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.463046
+date: 2026-07-11T22:39:16.557292
 url: "/cdr-researcher-census/researchers/ahmad-hamdan-a5111122/"
 layout: "researcher"
 hiddenInHomeList: true

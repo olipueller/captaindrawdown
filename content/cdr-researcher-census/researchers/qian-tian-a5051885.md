@@ -1,7 +1,7 @@
 ---
 title: "Qian Tian"
 description: "Qian Tian is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 52 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.308600
+date: 2026-07-11T22:39:16.399120
 url: "/cdr-researcher-census/researchers/qian-tian-a5051885/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Prerna Chauhan"
-description: "Prerna Chauhan is an Early-career Soil Carbon researcher at M.J.P. Rohilkhand University in IN. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.609846
+description: "Prerna Chauhan is an Early-career Biochar researcher at M.J.P. Rohilkhand University in IN. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.529269
 url: "/cdr-researcher-census/researchers/prerna-chauhan-a5111335/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ M.J.P. Rohilkhand University · 🇮🇳 IN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

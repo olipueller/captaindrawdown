@@ -1,7 +1,7 @@
 ---
 title: "Payam Sadrolodabaee"
 description: "Payam Sadrolodabaee is a Mid-career Biochar researcher at AstraZeneca (United Kingdom) in GB. With 25 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.438723
+date: 2026-07-11T22:39:16.533295
 url: "/cdr-researcher-census/researchers/payam-sadrolodabaee-a5026089/"
 layout: "researcher"
 hiddenInHomeList: true

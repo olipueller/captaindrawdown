@@ -1,7 +1,7 @@
 ---
 title: "Neha Chausali"
-description: "Neha Chausali is an Early-career General CDR researcher. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.461676
+description: "Neha Chausali is an Early-career Biochar researcher. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.556044
 url: "/cdr-researcher-census/researchers/neha-chausali-a5048805/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

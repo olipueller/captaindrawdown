@@ -1,7 +1,7 @@
 ---
 title: "Prashant Sharma"
 description: "Prashant Sharma is a Senior Soil Carbon researcher at Dr. Yashwant Singh Parmar University of Horticulture and Forestry in IN. With 124 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.181060
+date: 2026-07-11T22:39:16.274943
 url: "/cdr-researcher-census/researchers/prashant-sharma-a5039235/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Siyu Ren"
-description: "Siyu Ren is a Mid-career Soil Carbon researcher at Tongji University in CN. With 29 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.392918
+description: "Siyu Ren is a Mid-career Biochar researcher at Tongji University in CN. With 29 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.314462
 url: "/cdr-researcher-census/researchers/siyu-ren-a5111078/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Tongji University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

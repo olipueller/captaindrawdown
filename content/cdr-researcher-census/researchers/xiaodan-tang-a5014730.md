@@ -1,7 +1,7 @@
 ---
 title: "Xiaodan Tang"
 description: "Xiaodan Tang is a Mid-career Biochar researcher at Jilin Province Science and Technology Department in CN. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.152495
+date: 2026-07-11T22:39:17.096606
 url: "/cdr-researcher-census/researchers/xiaodan-tang-a5014730/"
 layout: "researcher"
 hiddenInHomeList: true

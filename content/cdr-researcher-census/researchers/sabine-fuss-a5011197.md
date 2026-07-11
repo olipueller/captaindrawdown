@@ -1,7 +1,7 @@
 ---
 title: "Sabine Fuss"
 description: "Sabine Fuss is an Eminent General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 228 publications and an h-index of 48, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:39.947112
+date: 2026-07-11T22:39:16.084160
 url: "/cdr-researcher-census/researchers/sabine-fuss-a5011197/"
 layout: "researcher"
 hiddenInHomeList: true

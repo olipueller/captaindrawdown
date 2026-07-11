@@ -1,7 +1,7 @@
 ---
 title: "D. S. Goldberg"
-description: "D. S. Goldberg is a Senior General CDR researcher at Lamont-Doherty Earth Observatory in US. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.931903
+description: "D. S. Goldberg is a Senior Enhanced Weathering researcher at Lamont-Doherty Earth Observatory in US. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.992381
 url: "/cdr-researcher-census/researchers/d-s-goldberg-a5103910/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Lamont-Doherty Earth Observatory · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

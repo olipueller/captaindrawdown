@@ -1,7 +1,7 @@
 ---
 title: "Sofia Rauzi"
 description: "Sofia Rauzi is a Mid-career Enhanced Weathering researcher at University of Waikato in NZ. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.104166
+date: 2026-07-11T22:39:17.076158
 url: "/cdr-researcher-census/researchers/sofia-rauzi-a5082142/"
 layout: "researcher"
 hiddenInHomeList: true

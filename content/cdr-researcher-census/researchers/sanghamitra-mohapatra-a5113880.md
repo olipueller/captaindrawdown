@@ -1,7 +1,7 @@
 ---
 title: "Sanghamitra Mohapatra"
-description: "Sanghamitra Mohapatra is a Mid-career General CDR researcher at GITAM University in IN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.064559
+description: "Sanghamitra Mohapatra is a Mid-career Biochar researcher at GITAM University in IN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.054450
 url: "/cdr-researcher-census/researchers/sanghamitra-mohapatra-a5113880/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ GITAM University · 🇮🇳 IN
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

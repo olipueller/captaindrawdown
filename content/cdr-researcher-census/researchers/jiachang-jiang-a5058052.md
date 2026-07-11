@@ -1,7 +1,7 @@
 ---
 title: "Jiachang Jiang"
 description: "Jiachang Jiang is a Mid-career Soil Carbon researcher at Gansu Agricultural University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.530832
+date: 2026-07-11T22:39:17.455105
 url: "/cdr-researcher-census/researchers/jiachang-jiang-a5058052/"
 layout: "researcher"
 hiddenInHomeList: true

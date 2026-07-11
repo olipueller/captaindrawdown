@@ -1,7 +1,7 @@
 ---
 title: "Asma Amjlef"
 description: "Asma Amjlef is a Mid-career Biochar researcher at Université Ibn Zohr in MA. With 15 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.601803
+date: 2026-07-11T22:39:16.694476
 url: "/cdr-researcher-census/researchers/asma-amjlef-a5036006/"
 layout: "researcher"
 hiddenInHomeList: true

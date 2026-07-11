@@ -1,7 +1,7 @@
 ---
 title: "Jialei Kang"
-description: "Jialei Kang is a Senior Soil Carbon researcher at Qingdao University of Science and Technology in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.655085
+description: "Jialei Kang is a Senior Biochar researcher at Qingdao University of Science and Technology in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.583720
 url: "/cdr-researcher-census/researchers/jialei-kang-a5054493/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Qingdao University of Science and Technology · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

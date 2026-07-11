@@ -1,7 +1,7 @@
 ---
 title: "Emilio Borrego-Marin"
-description: "Emilio Borrego-Marin is an Early-career General CDR researcher at Universidad de Granada in ES. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.805890
+description: "Emilio Borrego-Marin is an Early-career DAC researcher at Universidad de Granada in ES. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.886035
 url: "/cdr-researcher-census/researchers/emilio-borrego-marin-a5093417/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Universidad de Granada · 🇪🇸 ES
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "Xiaojun Yu"
 description: "Xiaojun Yu is a Senior Soil Carbon researcher at Gansu Agricultural University in CN. With 72 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.429797
+date: 2026-07-11T22:39:16.524313
 url: "/cdr-researcher-census/researchers/xiaojun-yu-a5102008/"
 layout: "researcher"
 hiddenInHomeList: true

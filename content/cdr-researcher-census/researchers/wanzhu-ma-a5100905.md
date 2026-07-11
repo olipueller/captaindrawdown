@@ -1,7 +1,7 @@
 ---
 title: "Wanzhu Ma"
 description: "Wanzhu Ma is a Senior Soil Carbon researcher at ZheJiang Academy of Agricultural Sciences in CN. With 26 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.366556
+date: 2026-07-11T22:39:16.458238
 url: "/cdr-researcher-census/researchers/wanzhu-ma-a5100905/"
 layout: "researcher"
 hiddenInHomeList: true

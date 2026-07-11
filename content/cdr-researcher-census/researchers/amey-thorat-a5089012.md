@@ -1,7 +1,7 @@
 ---
 title: "Amey Thorat"
 description: "Amey Thorat is a Mid-career General CDR researcher at Oklahoma State University in US. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.151500
+date: 2026-07-11T22:39:17.095768
 url: "/cdr-researcher-census/researchers/amey-thorat-a5089012/"
 layout: "researcher"
 hiddenInHomeList: true

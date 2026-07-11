@@ -1,7 +1,7 @@
 ---
 title: "Lvjun Chen"
 description: "Lvjun Chen is a Senior Biochar researcher at Nanjing University of Science and Technology in CN. With 42 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.418539
+date: 2026-07-11T22:39:16.513081
 url: "/cdr-researcher-census/researchers/lvjun-chen-a5050173/"
 layout: "researcher"
 hiddenInHomeList: true

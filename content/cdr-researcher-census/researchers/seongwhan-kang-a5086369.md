@@ -1,7 +1,7 @@
 ---
 title: "Seongwhan Kang"
 description: "Seongwhan Kang is a Mid-career BECCS researcher. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.568111
+date: 2026-07-11T22:39:17.490883
 url: "/cdr-researcher-census/researchers/seongwhan-kang-a5086369/"
 layout: "researcher"
 hiddenInHomeList: true

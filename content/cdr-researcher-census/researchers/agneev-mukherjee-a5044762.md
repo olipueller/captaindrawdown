@@ -1,7 +1,7 @@
 ---
 title: "Agneev Mukherjee"
-description: "Agneev Mukherjee is a Mid-career General CDR researcher at Flemish Institute for Technological Research in BE. With 17 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.233220
+description: "Agneev Mukherjee is a Mid-career DAC researcher at Flemish Institute for Technological Research in BE. With 17 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.324340
 url: "/cdr-researcher-census/researchers/agneev-mukherjee-a5044762/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Flemish Institute for Technological Research · 🇧🇪 BE
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

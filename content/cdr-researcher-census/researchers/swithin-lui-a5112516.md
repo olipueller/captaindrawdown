@@ -1,7 +1,7 @@
 ---
 title: "Swithin Lui"
 description: "Swithin Lui is a Senior General CDR researcher at Ontario Tech University in CA. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.568157
+date: 2026-07-11T22:39:16.660577
 url: "/cdr-researcher-census/researchers/swithin-lui-a5112516/"
 layout: "researcher"
 hiddenInHomeList: true

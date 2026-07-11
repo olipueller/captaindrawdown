@@ -1,7 +1,7 @@
 ---
 title: "Jing-Ping Zhao"
-description: "Jing-Ping Zhao is a Senior General CDR researcher at China University of Mining and Technology in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.528622
+description: "Jing-Ping Zhao is a Senior BECCS researcher at China University of Mining and Technology in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.622661
 url: "/cdr-researcher-census/researchers/jing-ping-zhao-a5102367/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ China University of Mining and Technology · 🇨🇳 CN
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

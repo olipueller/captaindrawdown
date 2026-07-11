@@ -1,7 +1,7 @@
 ---
 title: "Sajjad Zaheer"
-description: "Sajjad Zaheer is a Senior Soil Carbon researcher at The University of Agriculture, Peshawar in PK. With 34 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.780125
+description: "Sajjad Zaheer is a Senior Biochar researcher at The University of Agriculture, Peshawar in PK. With 34 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.861494
 url: "/cdr-researcher-census/researchers/sajjad-zaheer-a5003066/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ The University of Agriculture, Peshawar · 🇵🇰 PK
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

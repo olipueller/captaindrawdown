@@ -1,7 +1,7 @@
 ---
 title: "Kaiwen Cao"
 description: "Kaiwen Cao is a Mid-career Biochar researcher at Nanchang Hangkong University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.863722
+date: 2026-07-11T22:39:16.939576
 url: "/cdr-researcher-census/researchers/kaiwen-cao-a5010587/"
 layout: "researcher"
 hiddenInHomeList: true

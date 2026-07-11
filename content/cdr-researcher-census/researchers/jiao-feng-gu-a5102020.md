@@ -1,7 +1,7 @@
 ---
 title: "Jiao-Feng Gu"
 description: "Jiao-Feng Gu is a Mid-career Biochar researcher at Central South University of Forestry and Technology in CN. With 31 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.434604
+date: 2026-07-11T22:39:16.529020
 url: "/cdr-researcher-census/researchers/jiao-feng-gu-a5102020/"
 layout: "researcher"
 hiddenInHomeList: true

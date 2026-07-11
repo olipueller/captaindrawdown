@@ -1,7 +1,7 @@
 ---
 title: "Miranda Boettcher"
 description: "Miranda Boettcher is a Mid-career General CDR researcher at Stiftung Wissenschaft und Politik Deutsches Institut für Internationale Politik und Sicherheit in DE. With 50 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.346704
+date: 2026-07-11T22:39:16.436893
 url: "/cdr-researcher-census/researchers/miranda-boettcher-a5061263/"
 layout: "researcher"
 hiddenInHomeList: true

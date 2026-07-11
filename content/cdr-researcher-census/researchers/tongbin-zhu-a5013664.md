@@ -1,7 +1,7 @@
 ---
 title: "Tongbin Zhu"
 description: "Tongbin Zhu is a Senior Soil Carbon researcher at Chinese Academy of Geological Sciences in CN. With 118 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.016413
+date: 2026-07-11T22:39:16.129445
 url: "/cdr-researcher-census/researchers/tongbin-zhu-a5013664/"
 layout: "researcher"
 hiddenInHomeList: true

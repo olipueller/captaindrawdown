@@ -1,7 +1,7 @@
 ---
 title: "Yonggui Tang"
 description: "Yonggui Tang is a Mid-career Biochar researcher at Institute of New Materials in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.094981
+date: 2026-07-11T22:39:17.067907
 url: "/cdr-researcher-census/researchers/yonggui-tang-a5071809/"
 layout: "researcher"
 hiddenInHomeList: true

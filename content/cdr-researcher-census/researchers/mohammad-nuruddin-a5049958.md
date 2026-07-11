@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Nuruddin"
-description: "Mohammad Nuruddin is an Early-career General CDR researcher at National Institute of Technology Warangal in IN. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.596331
+description: "Mohammad Nuruddin is an Early-career Biochar researcher at National Institute of Technology Warangal in IN. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.516942
 url: "/cdr-researcher-census/researchers/mohammad-nuruddin-a5049958/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ National Institute of Technology Warangal · 🇮🇳 IN
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

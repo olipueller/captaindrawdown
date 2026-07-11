@@ -1,7 +1,7 @@
 ---
 title: "Baljeet Singh"
-description: "Baljeet Singh is a Senior General CDR researcher at University of Helsinki in FI. With 50 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.127154
+description: "Baljeet Singh is a Senior DAC researcher at University of Helsinki in FI. With 50 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.224744
 url: "/cdr-researcher-census/researchers/baljeet-singh-a5027576/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ University of Helsinki ·  FI
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

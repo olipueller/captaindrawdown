@@ -1,7 +1,7 @@
 ---
 title: "Aditya Anil Bhandari"
-description: "Aditya Anil Bhandari is a Mid-career General CDR researcher at TU Wien in AT. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.359109
+description: "Aditya Anil Bhandari is a Mid-career DAC researcher at TU Wien in AT. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.278096
 url: "/cdr-researcher-census/researchers/aditya-anil-bhandari-a5111546/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ TU Wien · 🇦🇹 AT
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

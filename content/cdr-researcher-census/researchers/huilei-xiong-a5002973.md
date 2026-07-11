@@ -1,7 +1,7 @@
 ---
 title: "Huilei Xiong"
 description: "Huilei Xiong is a Senior Biochar researcher at South China Institute of Collaborative Innovation in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.924501
+date: 2026-07-11T22:39:16.986589
 url: "/cdr-researcher-census/researchers/huilei-xiong-a5002973/"
 layout: "researcher"
 hiddenInHomeList: true

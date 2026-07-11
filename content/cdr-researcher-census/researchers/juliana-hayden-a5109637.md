@@ -1,7 +1,7 @@
 ---
 title: "Juliana Hayden"
-description: "Juliana Hayden is a Senior Soil Carbon researcher at Universidade Federal de Santa Catarina in BR. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.077774
+description: "Juliana Hayden is a Senior Ocean CDR researcher at Universidade Federal de Santa Catarina in BR. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.057981
 url: "/cdr-researcher-census/researchers/juliana-hayden-a5109637/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Universidade Federal de Santa Catarina · 🇧🇷 BR
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Ocean CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
 
 ## Metrics
 

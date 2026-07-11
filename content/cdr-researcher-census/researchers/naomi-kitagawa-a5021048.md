@@ -1,7 +1,7 @@
 ---
 title: "Naomi Kitagawa"
 description: "Naomi Kitagawa is a Senior General CDR researcher at Furukawa Electric (Japan) in JP. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.966226
+date: 2026-07-11T22:39:17.014215
 url: "/cdr-researcher-census/researchers/naomi-kitagawa-a5021048/"
 layout: "researcher"
 hiddenInHomeList: true

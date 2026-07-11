@@ -1,7 +1,7 @@
 ---
 title: "Ednaldo A. Borgato"
 description: "Ednaldo A. Borgato is a Mid-career Biochar researcher at University of Florida in US. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.132529
+date: 2026-07-11T22:39:17.082581
 url: "/cdr-researcher-census/researchers/ednaldo-a-borgato-a5052668/"
 layout: "researcher"
 hiddenInHomeList: true

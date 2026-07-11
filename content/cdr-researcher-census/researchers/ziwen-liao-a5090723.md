@@ -1,7 +1,7 @@
 ---
 title: "Ziwen Liao"
 description: "Ziwen Liao is a Mid-career Biochar researcher at East China Jiaotong University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.337371
+date: 2026-07-11T22:39:17.254893
 url: "/cdr-researcher-census/researchers/ziwen-liao-a5090723/"
 layout: "researcher"
 hiddenInHomeList: true

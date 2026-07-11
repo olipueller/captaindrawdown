@@ -1,7 +1,7 @@
 ---
 title: "Renjie Hou"
 description: "Renjie Hou is a Senior Soil Carbon researcher at Northeast Agricultural University in CN. With 120 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.036242
+date: 2026-07-11T22:39:16.145127
 url: "/cdr-researcher-census/researchers/renjie-hou-a5108886/"
 layout: "researcher"
 hiddenInHomeList: true

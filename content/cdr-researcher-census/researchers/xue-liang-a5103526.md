@@ -1,7 +1,7 @@
 ---
 title: "Xue Liang"
 description: "Xue Liang is a Mid-career Soil Carbon researcher at Shanghai University in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.929773
+date: 2026-07-11T22:39:16.990150
 url: "/cdr-researcher-census/researchers/xue-liang-a5103526/"
 layout: "researcher"
 hiddenInHomeList: true

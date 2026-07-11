@@ -1,7 +1,7 @@
 ---
 title: "Yan Zhou"
 description: "Yan Zhou is a Senior Soil Carbon researcher at Zhejiang A & F University in CN. With 42 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.302431
+date: 2026-07-11T22:39:16.393146
 url: "/cdr-researcher-census/researchers/yan-zhou-a5001435/"
 layout: "researcher"
 hiddenInHomeList: true

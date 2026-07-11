@@ -1,7 +1,7 @@
 ---
 title: "Poonam Poonia"
 description: "Poonam Poonia is a Mid-career Biochar researcher at University of Engineering & Management in IN. With 34 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.641968
+date: 2026-07-11T22:39:17.563911
 url: "/cdr-researcher-census/researchers/poonam-poonia-a5008384/"
 layout: "researcher"
 hiddenInHomeList: true

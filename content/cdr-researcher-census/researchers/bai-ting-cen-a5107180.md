@@ -1,7 +1,7 @@
 ---
 title: "Bai-ting Cen"
 description: "Bai-ting Cen is an Early-career Biochar researcher at South China Agricultural University in CN. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.643230
+date: 2026-07-11T22:39:17.566455
 url: "/cdr-researcher-census/researchers/bai-ting-cen-a5107180/"
 layout: "researcher"
 hiddenInHomeList: true

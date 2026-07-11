@@ -1,7 +1,7 @@
 ---
 title: "Vincent Ebhohime Ehiaguina"
 description: "Vincent Ebhohime Ehiaguina is a Mid-career General CDR researcher at Centre for Healthy Start Initiative in NG. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.610194
+date: 2026-07-11T22:39:17.529588
 url: "/cdr-researcher-census/researchers/vincent-ebhohime-ehiaguina-a5090254/"
 layout: "researcher"
 hiddenInHomeList: true

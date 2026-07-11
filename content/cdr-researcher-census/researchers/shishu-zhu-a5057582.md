@@ -1,7 +1,7 @@
 ---
 title: "Shishu Zhu"
 description: "Shishu Zhu is a Senior Biochar researcher at South China University of Technology in CN. With 66 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:39.991682
+date: 2026-07-11T22:39:16.109901
 url: "/cdr-researcher-census/researchers/shishu-zhu-a5057582/"
 layout: "researcher"
 hiddenInHomeList: true

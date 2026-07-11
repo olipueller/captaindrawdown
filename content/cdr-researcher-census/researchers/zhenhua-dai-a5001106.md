@@ -1,7 +1,7 @@
 ---
 title: "Zhenhua Dai"
 description: "Zhenhua Dai is a Senior Biochar researcher at East China Normal University in CN. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.297248
+date: 2026-07-11T22:39:16.388115
 url: "/cdr-researcher-census/researchers/zhenhua-dai-a5001106/"
 layout: "researcher"
 hiddenInHomeList: true

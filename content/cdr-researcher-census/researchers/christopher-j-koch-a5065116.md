@@ -1,7 +1,7 @@
 ---
 title: "Christopher J. Koch"
-description: "Christopher J. Koch is a Mid-career General CDR researcher at University of Southern California in US. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.868281
+description: "Christopher J. Koch is a Mid-career DAC researcher at University of Southern California in US. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.943766
 url: "/cdr-researcher-census/researchers/christopher-j-koch-a5065116/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Southern California · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

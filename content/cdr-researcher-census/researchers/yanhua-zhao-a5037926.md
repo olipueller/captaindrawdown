@@ -1,7 +1,7 @@
 ---
 title: "Yanhua Zhao"
 description: "Yanhua Zhao is an Early-career Soil Carbon researcher at China Automotive Technology and Research Center in CN. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.644311
+date: 2026-07-11T22:39:17.567875
 url: "/cdr-researcher-census/researchers/yanhua-zhao-a5037926/"
 layout: "researcher"
 hiddenInHomeList: true

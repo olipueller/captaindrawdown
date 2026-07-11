@@ -1,7 +1,7 @@
 ---
 title: "Klaus Lorenz"
 description: "Klaus Lorenz is a Senior Soil Carbon researcher at The Ohio State University in US. With 115 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:39.988399
+date: 2026-07-11T22:39:16.107703
 url: "/cdr-researcher-census/researchers/klaus-lorenz-a5046739/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Fang Zheng"
 description: "Fang Zheng is a Senior Biochar researcher at Capital Medical University in CN. With 36 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.850391
+date: 2026-07-11T22:39:16.927043
 url: "/cdr-researcher-census/researchers/fang-zheng-a5101404/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Robyn White"
-description: "Robyn White is a Mid-career Soil Carbon researcher at Human Growth Foundation in US. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.554205
+description: "Robyn White is a Mid-career Enhanced Weathering researcher at Human Growth Foundation in US. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.477855
 url: "/cdr-researcher-census/researchers/robyn-white-a5091204/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Human Growth Foundation · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Enhanced Weathering**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

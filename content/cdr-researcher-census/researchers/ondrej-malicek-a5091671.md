@@ -1,7 +1,7 @@
 ---
 title: "Ondrej Malíček"
 description: "Ondrej Malíček is a Mid-career Soil Carbon researcher at Mendel University in Brno in CZ. With 32 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.710363
+date: 2026-07-11T22:39:16.793885
 url: "/cdr-researcher-census/researchers/ondrej-malicek-a5091671/"
 layout: "researcher"
 hiddenInHomeList: true

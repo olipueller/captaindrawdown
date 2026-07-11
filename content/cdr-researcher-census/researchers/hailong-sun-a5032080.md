@@ -1,7 +1,7 @@
 ---
 title: "Hailong Sun"
 description: "Hailong Sun is a Senior Ocean CDR researcher at Institute of Geochemistry in CN. With 95 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.117915
+date: 2026-07-11T22:39:16.216365
 url: "/cdr-researcher-census/researchers/hailong-sun-a5032080/"
 layout: "researcher"
 hiddenInHomeList: true

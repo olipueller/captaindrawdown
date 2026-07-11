@@ -1,7 +1,7 @@
 ---
 title: "Marjangul Nuramkhaan"
 description: "Marjangul Nuramkhaan is a Mid-career Biochar researcher at Mongolian Academy of Sciences in MN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.061037
+date: 2026-07-11T22:39:17.051631
 url: "/cdr-researcher-census/researchers/marjangul-nuramkhaan-a5002539/"
 layout: "researcher"
 hiddenInHomeList: true

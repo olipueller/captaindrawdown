@@ -1,7 +1,7 @@
 ---
 title: "S. S. Nasreen"
 description: "S. S. Nasreen is a Mid-career Soil Carbon researcher at Bangladesh Agricultural Research Institute in BD. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.303532
+date: 2026-07-11T22:39:17.220982
 url: "/cdr-researcher-census/researchers/s-s-nasreen-a5103941/"
 layout: "researcher"
 hiddenInHomeList: true

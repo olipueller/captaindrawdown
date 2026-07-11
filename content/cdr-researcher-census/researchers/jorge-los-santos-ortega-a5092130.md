@@ -1,7 +1,7 @@
 ---
 title: "Jorge Los Santos-Ortega"
-description: "Jorge Los Santos-Ortega is a Mid-career General CDR researcher at Universidad Tecnológica de Panamá in PA. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.569405
+description: "Jorge Los Santos-Ortega is a Mid-career Biochar researcher at Universidad Tecnológica de Panamá in PA. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.492060
 url: "/cdr-researcher-census/researchers/jorge-los-santos-ortega-a5092130/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Universidad Tecnológica de Panamá ·  PA
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

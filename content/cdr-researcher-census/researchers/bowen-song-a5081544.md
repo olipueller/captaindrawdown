@@ -1,7 +1,7 @@
 ---
 title: "Bowen Song"
 description: "Bowen Song is a Mid-career Soil Carbon researcher at Nano Carbon (Poland) in PL. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.401726
+date: 2026-07-11T22:39:17.323931
 url: "/cdr-researcher-census/researchers/bowen-song-a5081544/"
 layout: "researcher"
 hiddenInHomeList: true

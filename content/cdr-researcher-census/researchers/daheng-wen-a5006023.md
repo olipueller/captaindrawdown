@@ -1,7 +1,7 @@
 ---
 title: "Daheng Wen"
 description: "Daheng Wen is a Mid-career General CDR researcher at Shanghai Research Institute of Chemical Industry in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.662148
+date: 2026-07-11T22:39:16.750420
 url: "/cdr-researcher-census/researchers/daheng-wen-a5006023/"
 layout: "researcher"
 hiddenInHomeList: true

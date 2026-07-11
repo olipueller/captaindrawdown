@@ -1,7 +1,7 @@
 ---
 title: "Hao Zheng"
-description: "Hao Zheng is a Mid-career Soil Carbon researcher at Tianjin University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.738460
+description: "Hao Zheng is a Mid-career Biochar researcher at Tianjin University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.821025
 url: "/cdr-researcher-census/researchers/hao-zheng-a5004210/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Tianjin University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

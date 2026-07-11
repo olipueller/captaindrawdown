@@ -1,7 +1,7 @@
 ---
 title: "Divyesh Patel"
 description: "Divyesh Patel is a Mid-career Biochar researcher at Maharaja Sayajirao University of Baroda in IN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.856395
+date: 2026-07-11T22:39:16.932750
 url: "/cdr-researcher-census/researchers/divyesh-patel-a5031665/"
 layout: "researcher"
 hiddenInHomeList: true

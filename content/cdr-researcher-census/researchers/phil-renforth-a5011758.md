@@ -1,7 +1,7 @@
 ---
 title: "Phil Renforth"
 description: "Phil Renforth is an Eminent General CDR researcher at Heriot-Watt University in GB. With 151 publications and an h-index of 44, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:39.969008
+date: 2026-07-11T22:39:16.095288
 url: "/cdr-researcher-census/researchers/phil-renforth-a5011758/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Meiniu Yang"
 description: "Meiniu Yang is a Mid-career Soil Carbon researcher at Institute of Ecology and Geography in MD. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.258720
+date: 2026-07-11T22:39:17.176462
 url: "/cdr-researcher-census/researchers/meiniu-yang-a5077000/"
 layout: "researcher"
 hiddenInHomeList: true

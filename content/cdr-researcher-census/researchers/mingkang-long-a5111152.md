@@ -1,7 +1,7 @@
 ---
 title: "Mingkang Long"
-description: "Mingkang Long is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.544726
+description: "Mingkang Long is a Mid-career Enhanced Weathering researcher at Chinese Academy of Sciences in CN. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.638174
 url: "/cdr-researcher-census/researchers/mingkang-long-a5111152/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Chinese Academy of Sciences · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Enhanced Weathering**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "Camelia Algora"
 description: "Camelia Algora is a Senior Soil Carbon researcher at Instituto de Recursos Naturales y Agrobiología de Sevilla in ES. With 25 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.371078
+date: 2026-07-11T22:39:16.463648
 url: "/cdr-researcher-census/researchers/camelia-algora-a5076125/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Will R. Turner"
-description: "Will R. Turner is a Senior General CDR researcher at Conservation International in US. With 96 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:39.977545
+description: "Will R. Turner is a Senior Enhanced Weathering researcher at Conservation International in US. With 96 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.100627
 url: "/cdr-researcher-census/researchers/will-r-turner-a5059333/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Conservation International · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

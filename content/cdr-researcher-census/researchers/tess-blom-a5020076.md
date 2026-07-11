@@ -1,7 +1,7 @@
 ---
 title: "Tess Blom"
 description: "Tess Blom is a Mid-career General CDR researcher at Delft University of Technology in NL. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.224845
+date: 2026-07-11T22:39:17.141441
 url: "/cdr-researcher-census/researchers/tess-blom-a5020076/"
 layout: "researcher"
 hiddenInHomeList: true

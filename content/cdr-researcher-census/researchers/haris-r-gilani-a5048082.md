@@ -1,7 +1,7 @@
 ---
 title: "Haris R. Gilani"
 description: "Haris R. Gilani is a Mid-career General CDR researcher at University of California Division of Agriculture and Natural Resources in US. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.808153
+date: 2026-07-11T22:39:16.888128
 url: "/cdr-researcher-census/researchers/haris-r-gilani-a5048082/"
 layout: "researcher"
 hiddenInHomeList: true

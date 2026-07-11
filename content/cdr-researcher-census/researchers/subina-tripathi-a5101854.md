@@ -1,7 +1,7 @@
 ---
 title: "Subina Tripathi"
-description: "Subina Tripathi is a Mid-career Soil Carbon researcher at Texas A&M in US. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.135178
+description: "Subina Tripathi is a Mid-career Ocean CDR researcher at Texas A&M in US. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.084510
 url: "/cdr-researcher-census/researchers/subina-tripathi-a5101854/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Texas A&M · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Ocean CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
 
 ## Metrics
 

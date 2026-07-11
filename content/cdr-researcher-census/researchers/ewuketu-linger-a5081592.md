@@ -1,7 +1,7 @@
 ---
 title: "Ewuketu Linger"
 description: "Ewuketu Linger is a Mid-career General CDR researcher at Hainan University in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.292170
+date: 2026-07-11T22:39:17.209104
 url: "/cdr-researcher-census/researchers/ewuketu-linger-a5081592/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zhengwei Ye"
 description: "Zhengwei Ye is a Senior Soil Carbon researcher at Huaiyin Normal University in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.370758
+date: 2026-07-11T22:39:17.290554
 url: "/cdr-researcher-census/researchers/zhengwei-ye-a5037803/"
 layout: "researcher"
 hiddenInHomeList: true

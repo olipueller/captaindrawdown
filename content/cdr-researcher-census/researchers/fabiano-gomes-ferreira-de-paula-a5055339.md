@@ -1,7 +1,7 @@
 ---
 title: "Fabiano Gomes Ferreira de Paula"
 description: "Fabiano Gomes Ferreira de Paula is a Mid-career Biochar researcher. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.759885
+date: 2026-07-11T22:39:16.841154
 url: "/cdr-researcher-census/researchers/fabiano-gomes-ferreira-de-paula-a5055339/"
 layout: "researcher"
 hiddenInHomeList: true

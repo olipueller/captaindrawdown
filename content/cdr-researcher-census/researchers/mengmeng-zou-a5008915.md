@@ -1,7 +1,7 @@
 ---
 title: "Mengmeng Zou"
 description: "Mengmeng Zou is a Mid-career Soil Carbon researcher. With 17 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.162346
+date: 2026-07-11T22:39:16.256673
 url: "/cdr-researcher-census/researchers/mengmeng-zou-a5008915/"
 layout: "researcher"
 hiddenInHomeList: true

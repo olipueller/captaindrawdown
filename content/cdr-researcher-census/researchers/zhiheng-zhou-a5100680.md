@@ -1,7 +1,7 @@
 ---
 title: "Zhiheng Zhou"
 description: "Zhiheng Zhou is a Senior Biochar researcher at Aarhus University in DK. With 44 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.542500
+date: 2026-07-11T22:39:16.635970
 url: "/cdr-researcher-census/researchers/zhiheng-zhou-a5100680/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Pingan Zhang"
 description: "Pingan Zhang is a Senior Soil Carbon researcher at Northeast Agricultural University in CN. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.271275
+date: 2026-07-11T22:39:17.188864
 url: "/cdr-researcher-census/researchers/pingan-zhang-a5101811/"
 layout: "researcher"
 hiddenInHomeList: true

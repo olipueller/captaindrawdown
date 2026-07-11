@@ -1,7 +1,7 @@
 ---
 title: "Jeremy K. Domen"
-description: "Jeremy K. Domen is a Mid-career General CDR researcher at Healthy Start in US. With 30 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.255930
+description: "Jeremy K. Domen is a Mid-career DAC researcher at Healthy Start in US. With 30 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.346128
 url: "/cdr-researcher-census/researchers/jeremy-k-domen-a5061193/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Healthy Start · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

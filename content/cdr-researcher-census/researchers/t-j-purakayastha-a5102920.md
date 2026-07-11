@@ -1,7 +1,7 @@
 ---
 title: "T. J. Purakayastha"
 description: "T. J. Purakayastha is a Senior Soil Carbon researcher at Indian Agricultural Research Institute in IN. With 66 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.064009
+date: 2026-07-11T22:39:16.168107
 url: "/cdr-researcher-census/researchers/t-j-purakayastha-a5102920/"
 layout: "researcher"
 hiddenInHomeList: true

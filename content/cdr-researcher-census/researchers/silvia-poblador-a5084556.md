@@ -1,7 +1,7 @@
 ---
 title: "Sílvia Poblador"
 description: "Sílvia Poblador is a Mid-career Enhanced Weathering researcher at Global Ecology Unit CREAF-CSIC-UAB in ES. With 64 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.325227
+date: 2026-07-11T22:39:16.415430
 url: "/cdr-researcher-census/researchers/silvia-poblador-a5084556/"
 layout: "researcher"
 hiddenInHomeList: true

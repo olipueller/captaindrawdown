@@ -1,7 +1,7 @@
 ---
 title: "Pam Vervoort"
-description: "Pam Vervoort is a Mid-career Ocean CDR researcher at University of Birmingham in GB. With 48 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.249913
+description: "Pam Vervoort is a Mid-career Enhanced Weathering researcher at University of Birmingham in GB. With 48 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.167254
 url: "/cdr-researcher-census/researchers/pam-vervoort-a5087682/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Birmingham · 🇬🇧 GB
 
 ## CDR Specialization
 
-**Ocean CDR**
+**Enhanced Weathering**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

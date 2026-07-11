@@ -1,7 +1,7 @@
 ---
 title: "Archw Promraksa"
-description: "Archw Promraksa is a Mid-career Biochar researcher at Walailak University in TH. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.356107
+description: "Archw Promraksa is a Mid-career BECCS researcher at Walailak University in TH. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.275341
 url: "/cdr-researcher-census/researchers/archw-promraksa-a5044932/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Walailak University · 🇹🇭 TH
 
 ## CDR Specialization
 
-**Biochar**
+**BECCS**
 
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

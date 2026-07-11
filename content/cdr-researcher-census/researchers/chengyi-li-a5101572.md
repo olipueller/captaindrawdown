@@ -1,7 +1,7 @@
 ---
 title: "Chengyi Li"
 description: "Chengyi Li is a Senior Soil Carbon researcher at Qinghai University in CN. With 60 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.637602
+date: 2026-07-11T22:39:16.727944
 url: "/cdr-researcher-census/researchers/chengyi-li-a5101572/"
 layout: "researcher"
 hiddenInHomeList: true

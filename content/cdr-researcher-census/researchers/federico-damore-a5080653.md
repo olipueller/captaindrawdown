@@ -1,7 +1,7 @@
 ---
 title: "Federico d’Amore"
-description: "Federico d’Amore is a Mid-career General CDR researcher at Università degli Studi di Padova in IT. With 38 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.324539
+description: "Federico d’Amore is a Mid-career DAC researcher at Università degli Studi di Padova in IT. With 38 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.414738
 url: "/cdr-researcher-census/researchers/federico-damore-a5080653/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Università degli Studi di Padova · 🇮🇹 IT
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

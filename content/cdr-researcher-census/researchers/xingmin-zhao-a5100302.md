@@ -1,7 +1,7 @@
 ---
 title: "Xingmin Zhao"
 description: "Xingmin Zhao is a Senior Soil Carbon researcher at Ministry of Agriculture and Rural Affairs in CN. With 41 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.282448
+date: 2026-07-11T22:39:16.372495
 url: "/cdr-researcher-census/researchers/xingmin-zhao-a5100302/"
 layout: "researcher"
 hiddenInHomeList: true

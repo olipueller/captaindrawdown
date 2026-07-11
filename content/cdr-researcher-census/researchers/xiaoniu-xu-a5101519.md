@@ -1,7 +1,7 @@
 ---
 title: "Xiaoniu Xu"
 description: "Xiaoniu Xu is a Senior Soil Carbon researcher at Anhui Agricultural University in CN. With 60 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.530182
+date: 2026-07-11T22:39:16.624062
 url: "/cdr-researcher-census/researchers/xiaoniu-xu-a5101519/"
 layout: "researcher"
 hiddenInHomeList: true

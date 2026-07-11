@@ -1,7 +1,7 @@
 ---
 title: "Yunfeng Tan"
 description: "Yunfeng Tan is a Mid-career Biochar researcher at Ningbo University in CN. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.328508
+date: 2026-07-11T22:39:16.418287
 url: "/cdr-researcher-census/researchers/yunfeng-tan-a5114063/"
 layout: "researcher"
 hiddenInHomeList: true

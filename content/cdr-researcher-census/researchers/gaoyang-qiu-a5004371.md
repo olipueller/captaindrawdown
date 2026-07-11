@@ -1,7 +1,7 @@
 ---
 title: "Gaoyang Qiu"
-description: "Gaoyang Qiu is a Mid-career Soil Carbon researcher at ZheJiang Academy of Agricultural Sciences in CN. With 16 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.390913
+description: "Gaoyang Qiu is a Mid-career Enhanced Weathering researcher at ZheJiang Academy of Agricultural Sciences in CN. With 16 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.484184
 url: "/cdr-researcher-census/researchers/gaoyang-qiu-a5004371/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ ZheJiang Academy of Agricultural Sciences · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Enhanced Weathering**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

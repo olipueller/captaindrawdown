@@ -1,7 +1,7 @@
 ---
 title: "Mesnan Silalahi"
-description: "Mesnan Silalahi is a Senior General CDR researcher. With 26 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.451781
+description: "Mesnan Silalahi is a Senior BECCS researcher. With 26 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.376632
 url: "/cdr-researcher-census/researchers/mesnan-silalahi-a5065841/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

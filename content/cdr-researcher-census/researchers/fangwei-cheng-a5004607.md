@@ -1,7 +1,7 @@
 ---
 title: "Fangwei Cheng"
-description: "Fangwei Cheng is a Mid-career General CDR researcher at China Agricultural University in CN. With 37 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.227330
+description: "Fangwei Cheng is a Mid-career BECCS researcher at China Agricultural University in CN. With 37 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.317886
 url: "/cdr-researcher-census/researchers/fangwei-cheng-a5004607/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ China Agricultural University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

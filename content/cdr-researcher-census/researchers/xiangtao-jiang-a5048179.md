@@ -1,7 +1,7 @@
 ---
 title: "Xiangtao Jiang"
 description: "Xiangtao Jiang is a Mid-career Ocean CDR researcher at Multichannel (China) in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.780818
+date: 2026-07-11T22:39:16.862137
 url: "/cdr-researcher-census/researchers/xiangtao-jiang-a5048179/"
 layout: "researcher"
 hiddenInHomeList: true

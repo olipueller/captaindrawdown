@@ -1,7 +1,7 @@
 ---
 title: "André Rovai"
 description: "André Rovai is a Senior Soil Carbon researcher at Smithsonian Environmental Research Center in US. With 108 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.085206
+date: 2026-07-11T22:39:16.187391
 url: "/cdr-researcher-census/researchers/andre-rovai-a5029054/"
 layout: "researcher"
 hiddenInHomeList: true

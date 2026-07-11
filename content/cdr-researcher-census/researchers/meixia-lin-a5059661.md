@@ -1,7 +1,7 @@
 ---
 title: "Meixia Lin"
-description: "Meixia Lin is a Mid-career Soil Carbon researcher at Hunan Agricultural University in CN. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.850735
+description: "Meixia Lin is a Mid-career Biochar researcher at Hunan Agricultural University in CN. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.927354
 url: "/cdr-researcher-census/researchers/meixia-lin-a5059661/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Hunan Agricultural University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

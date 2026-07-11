@@ -1,7 +1,7 @@
 ---
 title: "Valeria Verrone"
 description: "Valeria Verrone is a Mid-career Soil Carbon researcher at National University of Singapore in SG. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.886519
+date: 2026-07-11T22:39:16.976462
 url: "/cdr-researcher-census/researchers/valeria-verrone-a5056171/"
 layout: "researcher"
 hiddenInHomeList: true

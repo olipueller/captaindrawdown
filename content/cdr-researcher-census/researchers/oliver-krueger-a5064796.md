@@ -1,7 +1,7 @@
 ---
 title: "Oliver Krueger"
-description: "Oliver Krueger is a Mid-career Soil Carbon researcher at Berliner Hochschule für Technik in DE. With 28 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.315928
+description: "Oliver Krueger is a Mid-career Biochar researcher at Berliner Hochschule für Technik in DE. With 28 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.406645
 url: "/cdr-researcher-census/researchers/oliver-krueger-a5064796/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Berliner Hochschule für Technik · 🇩🇪 DE
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

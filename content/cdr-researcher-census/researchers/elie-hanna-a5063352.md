@@ -1,7 +1,7 @@
 ---
 title: "Elie Hanna"
 description: "Elie Hanna is an Early-career Soil Carbon researcher at Consejo Superior de Investigaciones Científicas in ES. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.343403
+date: 2026-07-11T22:39:17.261340
 url: "/cdr-researcher-census/researchers/elie-hanna-a5063352/"
 layout: "researcher"
 hiddenInHomeList: true

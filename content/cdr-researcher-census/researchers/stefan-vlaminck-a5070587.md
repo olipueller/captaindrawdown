@@ -1,7 +1,7 @@
 ---
 title: "Stefan Vlaminck"
-description: "Stefan Vlaminck is a Senior General CDR researcher at University of Antwerp in BE. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.395252
+description: "Stefan Vlaminck is a Senior Enhanced Weathering researcher at University of Antwerp in BE. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.317098
 url: "/cdr-researcher-census/researchers/stefan-vlaminck-a5070587/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ University of Antwerp · 🇧🇪 BE
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

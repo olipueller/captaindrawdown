@@ -1,7 +1,7 @@
 ---
 title: "Fazhu Zhao"
 description: "Fazhu Zhao is a Senior Soil Carbon researcher at Northwest University in CN. With 103 publications and an h-index of 39, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.000459
+date: 2026-07-11T22:39:16.116600
 url: "/cdr-researcher-census/researchers/fazhu-zhao-a5031907/"
 layout: "researcher"
 hiddenInHomeList: true

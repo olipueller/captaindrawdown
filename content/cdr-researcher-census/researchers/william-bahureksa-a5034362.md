@@ -1,7 +1,7 @@
 ---
 title: "William Bahureksa"
 description: "William Bahureksa is a Mid-career Soil Carbon researcher at New Mexico State University in US. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.559230
+date: 2026-07-11T22:39:16.652127
 url: "/cdr-researcher-census/researchers/william-bahureksa-a5034362/"
 layout: "researcher"
 hiddenInHomeList: true

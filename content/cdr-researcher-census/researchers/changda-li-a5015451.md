@@ -1,7 +1,7 @@
 ---
 title: "Changda Li"
-description: "Changda Li is a Mid-career Soil Carbon researcher at Qinghai University in CN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.735137
+description: "Changda Li is a Mid-career Ocean CDR researcher at Qinghai University in CN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.817773
 url: "/cdr-researcher-census/researchers/changda-li-a5015451/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Qinghai University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Ocean CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
 
 ## Metrics
 

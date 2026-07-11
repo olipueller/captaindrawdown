@@ -1,7 +1,7 @@
 ---
 title: "Yihe Miao"
 description: "Yihe Miao is a Mid-career DAC researcher at Shanghai Jiao Tong University in CN. With 22 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.242001
+date: 2026-07-11T22:39:16.332594
 url: "/cdr-researcher-census/researchers/yihe-miao-a5086130/"
 layout: "researcher"
 hiddenInHomeList: true

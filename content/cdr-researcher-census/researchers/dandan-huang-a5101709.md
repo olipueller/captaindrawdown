@@ -1,7 +1,7 @@
 ---
 title: "Dandan Huang"
 description: "Dandan Huang is a Senior Biochar researcher at East China University of Technology in CN. With 114 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.134072
+date: 2026-07-11T22:39:16.230636
 url: "/cdr-researcher-census/researchers/dandan-huang-a5101709/"
 layout: "researcher"
 hiddenInHomeList: true

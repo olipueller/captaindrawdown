@@ -1,7 +1,7 @@
 ---
 title: "Brian Wilson"
 description: "Brian Wilson is a Senior Soil Carbon researcher at University of New England in AU. With 159 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.014636
+date: 2026-07-11T22:39:16.127850
 url: "/cdr-researcher-census/researchers/brian-wilson-a5033678/"
 layout: "researcher"
 hiddenInHomeList: true

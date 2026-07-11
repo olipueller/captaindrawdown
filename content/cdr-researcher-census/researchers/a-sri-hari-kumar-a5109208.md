@@ -1,7 +1,7 @@
 ---
 title: "A. Sri Hari Kumar"
 description: "A. Sri Hari Kumar is a Mid-career Biochar researcher at University of Nizwa in OM. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.519927
+date: 2026-07-11T22:39:16.614236
 url: "/cdr-researcher-census/researchers/a-sri-hari-kumar-a5109208/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Pierre Barré"
 description: "Pierre Barré is a Mid-career Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.711298
+date: 2026-07-11T22:39:16.794824
 url: "/cdr-researcher-census/researchers/pierre-barre-a5024844/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yiyun Hu"
-description: "Yiyun Hu is a Senior Soil Carbon researcher. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.986769
+description: "Yiyun Hu is a Senior Biochar researcher. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.022532
 url: "/cdr-researcher-census/researchers/yiyun-hu-a5101257/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,9 +26,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "Yuwen Shen"
 description: "Yuwen Shen is a Senior Soil Carbon researcher at Shandong University in CN. With 40 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.218325
+date: 2026-07-11T22:39:16.308972
 url: "/cdr-researcher-census/researchers/yuwen-shen-a5035314/"
 layout: "researcher"
 hiddenInHomeList: true

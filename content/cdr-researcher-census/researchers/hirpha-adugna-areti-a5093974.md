@@ -1,7 +1,7 @@
 ---
 title: "Hirpha Adugna Areti"
 description: "Hirpha Adugna Areti is a Mid-career Biochar researcher at Haramaya University in ET. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.293837
+date: 2026-07-11T22:39:17.210819
 url: "/cdr-researcher-census/researchers/hirpha-adugna-areti-a5093974/"
 layout: "researcher"
 hiddenInHomeList: true

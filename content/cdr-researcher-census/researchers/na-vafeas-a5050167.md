@@ -1,7 +1,7 @@
 ---
 title: "N.A. Vafeas"
-description: "N.A. Vafeas is a Mid-career General CDR researcher. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.621906
+description: "N.A. Vafeas is a Mid-career Enhanced Weathering researcher. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.540782
 url: "/cdr-researcher-census/researchers/na-vafeas-a5050167/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

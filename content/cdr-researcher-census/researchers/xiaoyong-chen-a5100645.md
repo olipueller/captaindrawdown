@@ -1,7 +1,7 @@
 ---
 title: "Xiaoyong Chen"
 description: "Xiaoyong Chen is a Senior Soil Carbon researcher at Governors State University in US. With 95 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.091958
+date: 2026-07-11T22:39:16.192608
 url: "/cdr-researcher-census/researchers/xiaoyong-chen-a5100645/"
 layout: "researcher"
 hiddenInHomeList: true

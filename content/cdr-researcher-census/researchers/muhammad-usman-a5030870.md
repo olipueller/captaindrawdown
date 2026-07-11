@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Usman"
 description: "Muhammad Usman is a Mid-career General CDR researcher at King Abdullah University of Science and Technology in SA. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.812919
+date: 2026-07-11T22:39:16.892981
 url: "/cdr-researcher-census/researchers/muhammad-usman-a5030870/"
 layout: "researcher"
 hiddenInHomeList: true

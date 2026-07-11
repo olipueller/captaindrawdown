@@ -1,7 +1,7 @@
 ---
 title: "Bilal Kazmi"
 description: "Bilal Kazmi is a Mid-career General CDR researcher at NED University of Engineering and Technology in PK. With 47 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.275964
+date: 2026-07-11T22:39:16.365941
 url: "/cdr-researcher-census/researchers/bilal-kazmi-a5024008/"
 layout: "researcher"
 hiddenInHomeList: true

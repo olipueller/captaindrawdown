@@ -1,7 +1,7 @@
 ---
 title: "Biwan Shi"
 description: "Biwan Shi is an Early-career Soil Carbon researcher at Lanzhou University in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.558533
+date: 2026-07-11T22:39:17.481945
 url: "/cdr-researcher-census/researchers/biwan-shi-a5029358/"
 layout: "researcher"
 hiddenInHomeList: true

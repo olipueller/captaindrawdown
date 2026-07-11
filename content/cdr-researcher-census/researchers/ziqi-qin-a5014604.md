@@ -1,7 +1,7 @@
 ---
 title: "Ziqi Qin"
 description: "Ziqi Qin is a Mid-career Soil Carbon researcher at University of Illinois Urbana-Champaign in US. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.293395
+date: 2026-07-11T22:39:16.384517
 url: "/cdr-researcher-census/researchers/ziqi-qin-a5014604/"
 layout: "researcher"
 hiddenInHomeList: true

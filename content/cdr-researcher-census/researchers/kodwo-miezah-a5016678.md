@@ -1,7 +1,7 @@
 ---
 title: "Kodwo Miezah"
-description: "Kodwo Miezah is a Mid-career Soil Carbon researcher at Kwame Nkrumah University of Science and Technology in GH. With 34 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.272489
+description: "Kodwo Miezah is a Mid-career Biochar researcher at Kwame Nkrumah University of Science and Technology in GH. With 34 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.362072
 url: "/cdr-researcher-census/researchers/kodwo-miezah-a5016678/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Kwame Nkrumah University of Science and Technology ·  GH
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

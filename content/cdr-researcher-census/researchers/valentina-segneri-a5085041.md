@@ -1,7 +1,7 @@
 ---
 title: "Valentina Segneri"
 description: "Valentina Segneri is a Mid-career General CDR researcher at Sapienza University of Rome in IT. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.377390
+date: 2026-07-11T22:39:17.297920
 url: "/cdr-researcher-census/researchers/valentina-segneri-a5085041/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zanbu Geng"
-description: "Zanbu Geng is a Mid-career General CDR researcher at Chinese Academy of Sciences in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.775355
+description: "Zanbu Geng is a Mid-career Enhanced Weathering researcher at Chinese Academy of Sciences in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.856983
 url: "/cdr-researcher-census/researchers/zanbu-geng-a5041610/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Chinese Academy of Sciences · 🇨🇳 CN
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

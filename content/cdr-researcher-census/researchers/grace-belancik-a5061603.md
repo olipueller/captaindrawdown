@@ -1,7 +1,7 @@
 ---
 title: "Grace Belancik"
-description: "Grace Belancik is a Mid-career General CDR researcher at Ames Research Center in US. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.621426
+description: "Grace Belancik is a Mid-career DAC researcher at Ames Research Center in US. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.540325
 url: "/cdr-researcher-census/researchers/grace-belancik-a5061603/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Ames Research Center · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

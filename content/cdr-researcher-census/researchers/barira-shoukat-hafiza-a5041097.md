@@ -1,7 +1,7 @@
 ---
 title: "Barira Shoukat Hafiza"
-description: "Barira Shoukat Hafiza is a Mid-career Soil Carbon researcher at International Atomic Energy Agency in AT. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.298258
+description: "Barira Shoukat Hafiza is a Mid-career Biochar researcher at International Atomic Energy Agency in AT. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.215354
 url: "/cdr-researcher-census/researchers/barira-shoukat-hafiza-a5041097/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ International Atomic Energy Agency · 🇦🇹 AT
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

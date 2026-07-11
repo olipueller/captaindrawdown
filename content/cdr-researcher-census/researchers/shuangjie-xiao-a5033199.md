@@ -1,7 +1,7 @@
 ---
 title: "Shuangjie Xiao"
 description: "Shuangjie Xiao is a Mid-career Biochar researcher at Hunan University in CN. With 22 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.211713
+date: 2026-07-11T22:39:16.303085
 url: "/cdr-researcher-census/researchers/shuangjie-xiao-a5033199/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Kwangmin Kim"
-description: "Kwangmin Kim is a Senior General CDR researcher at University of North Carolina at Charlotte in US. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.561550
+description: "Kwangmin Kim is a Senior DAC researcher at University of North Carolina at Charlotte in US. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.654226
 url: "/cdr-researcher-census/researchers/kwangmin-kim-a5085360/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of North Carolina at Charlotte · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

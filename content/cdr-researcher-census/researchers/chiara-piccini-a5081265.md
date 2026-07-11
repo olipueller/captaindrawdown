@@ -1,7 +1,7 @@
 ---
 title: "Chiara Piccini"
 description: "Chiara Piccini is a Senior Soil Carbon researcher at CREA-AA in IT. With 69 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.360437
+date: 2026-07-11T22:39:16.451356
 url: "/cdr-researcher-census/researchers/chiara-piccini-a5081265/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Alice Favero"
 description: "Alice Favero is a Senior General CDR researcher at RTI International in US. With 59 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.232688
+date: 2026-07-11T22:39:16.323778
 url: "/cdr-researcher-census/researchers/alice-favero-a5034923/"
 layout: "researcher"
 hiddenInHomeList: true

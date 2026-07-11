@@ -1,7 +1,7 @@
 ---
 title: "Shulan Cheng"
 description: "Shulan Cheng is a Senior Soil Carbon researcher at University of Chinese Academy of Sciences in CN. With 50 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.155705
+date: 2026-07-11T22:39:16.250674
 url: "/cdr-researcher-census/researchers/shulan-cheng-a5111795/"
 layout: "researcher"
 hiddenInHomeList: true

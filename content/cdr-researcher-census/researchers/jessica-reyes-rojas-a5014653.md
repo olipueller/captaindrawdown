@@ -1,7 +1,7 @@
 ---
 title: "Jessica Reyes Rojas"
 description: "Jessica Reyes Rojas is a Mid-career Soil Carbon researcher at Czech University of Life Sciences Prague in CZ. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.430474
+date: 2026-07-11T22:39:17.354528
 url: "/cdr-researcher-census/researchers/jessica-reyes-rojas-a5014653/"
 layout: "researcher"
 hiddenInHomeList: true

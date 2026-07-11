@@ -1,7 +1,7 @@
 ---
 title: "Sergio Picó"
 description: "Sergio Picó is a Mid-career Soil Carbon researcher at Universidad de Cádiz in ES. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.728847
+date: 2026-07-11T22:39:16.811319
 url: "/cdr-researcher-census/researchers/sergio-pico-a5046468/"
 layout: "researcher"
 hiddenInHomeList: true

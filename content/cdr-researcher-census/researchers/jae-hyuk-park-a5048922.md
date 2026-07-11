@@ -1,7 +1,7 @@
 ---
 title: "Jae-Hyuk Park"
-description: "Jae-Hyuk Park is a Mid-career Soil Carbon researcher at Rural Development Administration in KR. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.630367
+description: "Jae-Hyuk Park is a Mid-career Biochar researcher at Rural Development Administration in KR. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.549637
 url: "/cdr-researcher-census/researchers/jae-hyuk-park-a5048922/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Rural Development Administration · 🇰🇷 KR
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

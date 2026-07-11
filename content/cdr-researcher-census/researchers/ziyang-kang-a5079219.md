@@ -1,7 +1,7 @@
 ---
 title: "Ziyang Kang"
 description: "Ziyang Kang is an Early-career Biochar researcher at North China University of Science and Technology in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.203849
+date: 2026-07-11T22:39:17.121560
 url: "/cdr-researcher-census/researchers/ziyang-kang-a5079219/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yuan Shen"
-description: "Yuan Shen is a Senior Soil Carbon researcher at University of California Santa Cruz in US. With 70 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.073931
+description: "Yuan Shen is a Senior Biochar researcher at University of California Santa Cruz in US. With 70 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.176654
 url: "/cdr-researcher-census/researchers/yuan-shen-a5047395/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of California Santa Cruz · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

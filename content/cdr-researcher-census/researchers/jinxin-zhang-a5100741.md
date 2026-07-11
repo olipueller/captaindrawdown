@@ -1,7 +1,7 @@
 ---
 title: "Jinxin Zhang"
 description: "Jinxin Zhang is a Senior General CDR researcher at Shandong University in CN. With 26 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.465286
+date: 2026-07-11T22:39:16.559557
 url: "/cdr-researcher-census/researchers/jinxin-zhang-a5100741/"
 layout: "researcher"
 hiddenInHomeList: true

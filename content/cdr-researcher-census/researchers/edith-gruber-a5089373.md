@@ -1,7 +1,7 @@
 ---
 title: "Edith Gruber"
 description: "Edith Gruber is a Senior Soil Carbon researcher at Gregor Mendel Institute of Molecular Plant Biology in AT. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.352314
+date: 2026-07-11T22:39:16.442489
 url: "/cdr-researcher-census/researchers/edith-gruber-a5089373/"
 layout: "researcher"
 hiddenInHomeList: true

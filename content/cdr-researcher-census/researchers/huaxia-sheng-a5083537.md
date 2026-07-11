@@ -1,7 +1,7 @@
 ---
 title: "Huaxia Sheng"
-description: "Huaxia Sheng is a Mid-career Soil Carbon researcher. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.513407
+description: "Huaxia Sheng is a Mid-career Ocean CDR researcher. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.607643
 url: "/cdr-researcher-census/researchers/huaxia-sheng-a5083537/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,9 +26,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Ocean CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
 
 ## Metrics
 

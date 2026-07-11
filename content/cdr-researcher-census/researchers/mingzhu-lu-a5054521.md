@@ -1,7 +1,7 @@
 ---
 title: "Mingzhu Lu"
 description: "Mingzhu Lu is a Mid-career Soil Carbon researcher at Hubei Academy of Forestry in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.096435
+date: 2026-07-11T22:39:17.069134
 url: "/cdr-researcher-census/researchers/mingzhu-lu-a5054521/"
 layout: "researcher"
 hiddenInHomeList: true

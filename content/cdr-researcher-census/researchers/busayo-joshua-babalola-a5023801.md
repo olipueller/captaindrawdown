@@ -1,7 +1,7 @@
 ---
 title: "Busayo Joshua Babalola"
 description: "Busayo Joshua Babalola is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 11 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.927124
+date: 2026-07-11T22:39:16.987861
 url: "/cdr-researcher-census/researchers/busayo-joshua-babalola-a5023801/"
 layout: "researcher"
 hiddenInHomeList: true

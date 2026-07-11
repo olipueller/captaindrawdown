@@ -1,7 +1,7 @@
 ---
 title: "V. Girija Veni"
 description: "V. Girija Veni is a Mid-career Soil Carbon researcher at Central Research Institute for Dryland Agriculture in IN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.560631
+date: 2026-07-11T22:39:17.483783
 url: "/cdr-researcher-census/researchers/v-girija-veni-a5112576/"
 layout: "researcher"
 hiddenInHomeList: true

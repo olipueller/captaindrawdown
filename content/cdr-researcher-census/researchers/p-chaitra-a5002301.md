@@ -1,7 +1,7 @@
 ---
 title: "P. Chaitra"
 description: "P. Chaitra is an Early-career Biochar researcher at Punjab Agricultural University in IN. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.443248
+date: 2026-07-11T22:39:17.367775
 url: "/cdr-researcher-census/researchers/p-chaitra-a5002301/"
 layout: "researcher"
 hiddenInHomeList: true

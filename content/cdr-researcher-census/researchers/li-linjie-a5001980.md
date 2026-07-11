@@ -1,7 +1,7 @@
 ---
 title: "Li Linjie"
 description: "Li Linjie is a Senior Biochar researcher at Huaqiao University in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.614450
+date: 2026-07-11T22:39:17.533612
 url: "/cdr-researcher-census/researchers/li-linjie-a5001980/"
 layout: "researcher"
 hiddenInHomeList: true

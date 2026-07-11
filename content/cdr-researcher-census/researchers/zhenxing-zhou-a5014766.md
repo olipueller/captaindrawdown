@@ -1,7 +1,7 @@
 ---
 title: "Zhenxing Zhou"
 description: "Zhenxing Zhou is a Senior Soil Carbon researcher at Luoyang Institute of Science and Technology in CN. With 59 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.119514
+date: 2026-07-11T22:39:16.217929
 url: "/cdr-researcher-census/researchers/zhenxing-zhou-a5014766/"
 layout: "researcher"
 hiddenInHomeList: true

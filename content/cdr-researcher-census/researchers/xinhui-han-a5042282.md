@@ -1,7 +1,7 @@
 ---
 title: "Xinhui Han"
 description: "Xinhui Han is an Eminent Soil Carbon researcher at Agriculture and Forestry University in NP. With 174 publications and an h-index of 55, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:39.969821
+date: 2026-07-11T22:39:16.095891
 url: "/cdr-researcher-census/researchers/xinhui-han-a5042282/"
 layout: "researcher"
 hiddenInHomeList: true

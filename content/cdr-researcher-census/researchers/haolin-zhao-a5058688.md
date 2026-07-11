@@ -1,7 +1,7 @@
 ---
 title: "Haolin Zhao"
-description: "Haolin Zhao is a Mid-career Soil Carbon researcher at University of Aberdeen in GB. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.680800
+description: "Haolin Zhao is a Mid-career Biochar researcher at University of Aberdeen in GB. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.766802
 url: "/cdr-researcher-census/researchers/haolin-zhao-a5058688/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ University of Aberdeen · 🇬🇧 GB
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

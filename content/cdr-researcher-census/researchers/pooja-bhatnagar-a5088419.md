@@ -1,7 +1,7 @@
 ---
 title: "Pooja Bhatnagar"
 description: "Pooja Bhatnagar is a Mid-career Biochar researcher at Graphic Era University in IN. With 20 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.264228
+date: 2026-07-11T22:39:16.354589
 url: "/cdr-researcher-census/researchers/pooja-bhatnagar-a5088419/"
 layout: "researcher"
 hiddenInHomeList: true

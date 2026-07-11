@@ -1,7 +1,7 @@
 ---
 title: "Kiah Eng Lim"
-description: "Kiah Eng Lim is a Mid-career Soil Carbon researcher at National University of Singapore in SG. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.566241
+description: "Kiah Eng Lim is a Mid-career Ocean CDR researcher at National University of Singapore in SG. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.489087
 url: "/cdr-researcher-census/researchers/kiah-eng-lim-a5006677/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ National University of Singapore · 🇸🇬 SG
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Ocean CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
 
 ## Metrics
 

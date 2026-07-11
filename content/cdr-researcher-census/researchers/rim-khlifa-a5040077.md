@@ -1,7 +1,7 @@
 ---
 title: "Rim Khlifa"
 description: "Rim Khlifa is a Mid-career Soil Carbon researcher at Université du Québec à Montréal in CA. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.710894
+date: 2026-07-11T22:39:16.794420
 url: "/cdr-researcher-census/researchers/rim-khlifa-a5040077/"
 layout: "researcher"
 hiddenInHomeList: true

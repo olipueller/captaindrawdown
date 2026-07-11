@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Nadeem Ashraf"
 description: "Muhammad Nadeem Ashraf is a Senior Soil Carbon researcher at University of Agriculture Faisalabad in PK. With 69 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.112995
+date: 2026-07-11T22:39:16.211822
 url: "/cdr-researcher-census/researchers/muhammad-nadeem-ashraf-a5033061/"
 layout: "researcher"
 hiddenInHomeList: true

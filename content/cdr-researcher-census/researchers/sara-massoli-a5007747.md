@@ -1,7 +1,7 @@
 ---
 title: "Sara Massoli"
-description: "Sara Massoli is a Mid-career General CDR researcher at University of Perugia in IT. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.738054
+description: "Sara Massoli is a Mid-career BECCS researcher at University of Perugia in IT. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.820621
 url: "/cdr-researcher-census/researchers/sara-massoli-a5007747/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ University of Perugia · 🇮🇹 IT
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

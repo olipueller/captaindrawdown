@@ -1,7 +1,7 @@
 ---
 title: "Sonia Choudhary"
-description: "Sonia Choudhary is a Mid-career General CDR researcher at Indian Institute of Technology Roorkee in IN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.962550
+description: "Sonia Choudhary is a Mid-career BECCS researcher at Indian Institute of Technology Roorkee in IN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.011229
 url: "/cdr-researcher-census/researchers/sonia-choudhary-a5000849/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Indian Institute of Technology Roorkee · 🇮🇳 IN
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

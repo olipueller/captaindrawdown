@@ -1,7 +1,7 @@
 ---
 title: "Jeff Price"
 description: "Jeff Price is a Senior General CDR researcher at University of East Anglia in GB. With 68 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:39.969668
+date: 2026-07-11T22:39:16.095752
 url: "/cdr-researcher-census/researchers/jeff-price-a5073398/"
 layout: "researcher"
 hiddenInHomeList: true

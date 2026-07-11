@@ -1,7 +1,7 @@
 ---
 title: "Paloma Campos"
 description: "Paloma Campos is a Mid-career Soil Carbon researcher at Instituto de Recursos Naturales y Agrobiología de Sevilla in ES. With 40 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.483389
+date: 2026-07-11T22:39:16.577888
 url: "/cdr-researcher-census/researchers/paloma-campos-a5014465/"
 layout: "researcher"
 hiddenInHomeList: true

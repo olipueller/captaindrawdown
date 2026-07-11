@@ -1,7 +1,7 @@
 ---
 title: "Hyungseop Ahn"
 description: "Hyungseop Ahn is a Mid-career DAC researcher at Korea University in KR. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.115698
+date: 2026-07-11T22:39:17.078353
 url: "/cdr-researcher-census/researchers/hyungseop-ahn-a5024975/"
 layout: "researcher"
 hiddenInHomeList: true

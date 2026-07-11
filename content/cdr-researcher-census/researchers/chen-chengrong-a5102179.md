@@ -1,7 +1,7 @@
 ---
 title: "Chen Chengrong"
-description: "Chen Chengrong is an Early-career Soil Carbon researcher at Griffith University in AU. With 9 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.231551
+description: "Chen Chengrong is an Early-career Biochar researcher at Griffith University in AU. With 9 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.148596
 url: "/cdr-researcher-census/researchers/chen-chengrong-a5102179/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Griffith University · 🇦🇺 AU
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "Beatrice Malchiodi"
-description: "Beatrice Malchiodi is a Mid-career General CDR researcher at École Polytechnique Fédérale de Lausanne in CH. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.276729
+description: "Beatrice Malchiodi is a Mid-career Biochar researcher at École Polytechnique Fédérale de Lausanne in CH. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.194137
 url: "/cdr-researcher-census/researchers/beatrice-malchiodi-a5060534/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

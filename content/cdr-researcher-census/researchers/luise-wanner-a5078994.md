@@ -1,7 +1,7 @@
 ---
 title: "Luise Wanner"
 description: "Luise Wanner is a Mid-career Soil Carbon researcher at National Institute of Meteorology in TN. With 38 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.795459
+date: 2026-07-11T22:39:16.876609
 url: "/cdr-researcher-census/researchers/luise-wanner-a5078994/"
 layout: "researcher"
 hiddenInHomeList: true

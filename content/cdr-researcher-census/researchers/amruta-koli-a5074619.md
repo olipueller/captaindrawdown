@@ -1,7 +1,7 @@
 ---
 title: "Amruta Koli"
-description: "Amruta Koli is a Mid-career General CDR researcher at Jodhpur National University in IN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.057409
+description: "Amruta Koli is a Mid-career Biochar researcher at Jodhpur National University in IN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.048500
 url: "/cdr-researcher-census/researchers/amruta-koli-a5074619/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Jodhpur National University · 🇮🇳 IN
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

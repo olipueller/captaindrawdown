@@ -1,7 +1,7 @@
 ---
 title: "Minxuan Sun"
 description: "Minxuan Sun is a Mid-career General CDR researcher at Ministry of Education in ME. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.659159
+date: 2026-07-11T22:39:16.748001
 url: "/cdr-researcher-census/researchers/minxuan-sun-a5026638/"
 layout: "researcher"
 hiddenInHomeList: true

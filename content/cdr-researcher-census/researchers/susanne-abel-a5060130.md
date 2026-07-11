@@ -1,7 +1,7 @@
 ---
 title: "Susanne Abel"
-description: "Susanne Abel is a Mid-career Soil Carbon researcher at Universität Greifswald in DE. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.248008
+description: "Susanne Abel is a Mid-career BECCS researcher at Universität Greifswald in DE. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.165291
 url: "/cdr-researcher-census/researchers/susanne-abel-a5060130/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Universität Greifswald · 🇩🇪 DE
 
 ## CDR Specialization
 
-**Soil Carbon**
+**BECCS**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

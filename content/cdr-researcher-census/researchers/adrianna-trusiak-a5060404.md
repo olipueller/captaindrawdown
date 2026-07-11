@@ -1,7 +1,7 @@
 ---
 title: "Adrianna Trusiak"
-description: "Adrianna Trusiak is a Mid-career Soil Carbon researcher at Great Lakes Bioenergy Research Center in US. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.717291
+description: "Adrianna Trusiak is a Mid-career BECCS researcher at Great Lakes Bioenergy Research Center in US. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.800228
 url: "/cdr-researcher-census/researchers/adrianna-trusiak-a5060404/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Great Lakes Bioenergy Research Center · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**BECCS**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

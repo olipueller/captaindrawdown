@@ -1,7 +1,7 @@
 ---
 title: "Gijs Staats"
 description: "Gijs Staats is an Early-career Soil Carbon researcher at Avans University of Applied Sciences in NL. With 6 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.612497
+date: 2026-07-11T22:39:17.531626
 url: "/cdr-researcher-census/researchers/gijs-staats-a5017480/"
 layout: "researcher"
 hiddenInHomeList: true

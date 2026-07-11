@@ -1,7 +1,7 @@
 ---
 title: "Nikita Rao"
 description: "Nikita Rao is a Senior General CDR researcher at Indian Institute of Science Bangalore in IN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.862793
+date: 2026-07-11T22:39:16.938658
 url: "/cdr-researcher-census/researchers/nikita-rao-a5059161/"
 layout: "researcher"
 hiddenInHomeList: true

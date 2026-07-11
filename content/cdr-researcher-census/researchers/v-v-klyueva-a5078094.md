@@ -1,7 +1,7 @@
 ---
 title: "V. V. Klyueva"
 description: "V. V. Klyueva is a Mid-career Soil Carbon researcher at V.V. Dokuchaev Soil Science Institute in RU. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.393768
+date: 2026-07-11T22:39:17.315434
 url: "/cdr-researcher-census/researchers/v-v-klyueva-a5078094/"
 layout: "researcher"
 hiddenInHomeList: true

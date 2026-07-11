@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Abuzar Jaffar"
-description: "Muhammad Abuzar Jaffar is a Mid-career Soil Carbon researcher at Lasbela University of Agriculture Water and Marine Science in PK. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.334086
+description: "Muhammad Abuzar Jaffar is a Mid-career Biochar researcher at Lasbela University of Agriculture Water and Marine Science in PK. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.251579
 url: "/cdr-researcher-census/researchers/muhammad-abuzar-jaffar-a5028208/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Lasbela University of Agriculture Water and Marine Science · 🇵🇰 PK
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "Boyuan Bi"
 description: "Boyuan Bi is a Mid-career Soil Carbon researcher at Northwestern Polytechnical University in CN. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.518136
+date: 2026-07-11T22:39:16.612314
 url: "/cdr-researcher-census/researchers/boyuan-bi-a5047206/"
 layout: "researcher"
 hiddenInHomeList: true

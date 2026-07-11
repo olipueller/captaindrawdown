@@ -1,7 +1,7 @@
 ---
 title: "Injun Park"
-description: "Injun Park is a Senior Enhanced Weathering researcher at Korea Advanced Institute of Science and Technology in KR. With 34 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.597074
+description: "Injun Park is a Senior DAC researcher at Korea Advanced Institute of Science and Technology in KR. With 34 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.689403
 url: "/cdr-researcher-census/researchers/injun-park-a5065407/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Korea Advanced Institute of Science and Technology · 🇰🇷 KR
 
 ## CDR Specialization
 
-**Enhanced Weathering**
+**DAC**
 
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

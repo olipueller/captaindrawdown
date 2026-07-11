@@ -1,7 +1,7 @@
 ---
 title: "Mark Ram"
 description: "Mark Ram is a Mid-career Soil Carbon researcher at James Cook University in AU. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.647174
+date: 2026-07-11T22:39:17.571301
 url: "/cdr-researcher-census/researchers/mark-ram-a5022635/"
 layout: "researcher"
 hiddenInHomeList: true

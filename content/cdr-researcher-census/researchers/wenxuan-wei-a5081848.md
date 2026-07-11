@@ -1,7 +1,7 @@
 ---
 title: "Wenxuan Wei"
 description: "Wenxuan Wei is a Mid-career Biochar researcher at State Key Laboratory of Pollution Control and Resource Reuse in CN. With 32 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.503437
+date: 2026-07-11T22:39:16.597939
 url: "/cdr-researcher-census/researchers/wenxuan-wei-a5081848/"
 layout: "researcher"
 hiddenInHomeList: true

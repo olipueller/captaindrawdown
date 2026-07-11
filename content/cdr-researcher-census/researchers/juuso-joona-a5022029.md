@@ -1,7 +1,7 @@
 ---
 title: "Juuso Joona"
 description: "Juuso Joona is a Mid-career Soil Carbon researcher. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.990242
+date: 2026-07-11T22:39:17.025297
 url: "/cdr-researcher-census/researchers/juuso-joona-a5022029/"
 layout: "researcher"
 hiddenInHomeList: true

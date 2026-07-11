@@ -1,7 +1,7 @@
 ---
 title: "Wenjun Liu"
 description: "Wenjun Liu is a Senior Soil Carbon researcher at Yunnan University in CN. With 13 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.951292
+date: 2026-07-11T22:39:17.003336
 url: "/cdr-researcher-census/researchers/wenjun-liu-a5114860/"
 layout: "researcher"
 hiddenInHomeList: true

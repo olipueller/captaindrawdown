@@ -1,7 +1,7 @@
 ---
 title: "Xiangcheng Ma"
-description: "Xiangcheng Ma is a Mid-career Soil Carbon researcher at Ningxia University in CN. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.459268
+description: "Xiangcheng Ma is a Mid-career Biochar researcher at Ningxia University in CN. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.553547
 url: "/cdr-researcher-census/researchers/xiangcheng-ma-a5088955/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Ningxia University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

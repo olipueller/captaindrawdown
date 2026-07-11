@@ -1,7 +1,7 @@
 ---
 title: "Yang Huo"
 description: "Yang Huo is a Mid-career Biochar researcher at Northeast Normal University in CN. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.504601
+date: 2026-07-11T22:39:17.429788
 url: "/cdr-researcher-census/researchers/yang-huo-a5067682/"
 layout: "researcher"
 hiddenInHomeList: true

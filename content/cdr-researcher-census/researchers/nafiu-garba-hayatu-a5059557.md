@@ -1,7 +1,7 @@
 ---
 title: "Nafiu Garba Hayatu"
 description: "Nafiu Garba Hayatu is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.063168
+date: 2026-07-11T22:39:17.053285
 url: "/cdr-researcher-census/researchers/nafiu-garba-hayatu-a5059557/"
 layout: "researcher"
 hiddenInHomeList: true

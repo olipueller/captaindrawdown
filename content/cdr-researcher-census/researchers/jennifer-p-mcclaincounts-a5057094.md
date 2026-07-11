@@ -1,7 +1,7 @@
 ---
 title: "Jennifer P. McClain‐Counts"
 description: "Jennifer P. McClain‐Counts is a Senior Soil Carbon researcher at United States Geological Survey in US. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.554166
+date: 2026-07-11T22:39:16.647259
 url: "/cdr-researcher-census/researchers/jennifer-p-mcclaincounts-a5057094/"
 layout: "researcher"
 hiddenInHomeList: true

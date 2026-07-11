@@ -1,7 +1,7 @@
 ---
 title: "Davide Faedo"
-description: "Davide Faedo is a Mid-career General CDR researcher at Istituto Nazionale di Fisica Nucleare, Galileo Galilei Institute for Theoretical Physics in IT. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.547180
+description: "Davide Faedo is a Mid-career DAC researcher at Istituto Nazionale di Fisica Nucleare, Galileo Galilei Institute for Theoretical Physics in IT. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.640332
 url: "/cdr-researcher-census/researchers/davide-faedo-a5012044/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Istituto Nazionale di Fisica Nucleare, Galileo Galilei Institute for Theoretical
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

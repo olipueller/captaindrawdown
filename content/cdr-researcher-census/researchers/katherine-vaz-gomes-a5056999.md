@@ -1,7 +1,7 @@
 ---
 title: "Katherine Vaz Gomes"
-description: "Katherine Vaz Gomes is an Early-career General CDR researcher at University of Pennsylvania in US. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.344018
+description: "Katherine Vaz Gomes is an Early-career DAC researcher at University of Pennsylvania in US. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.434198
 url: "/cdr-researcher-census/researchers/katherine-vaz-gomes-a5056999/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Pennsylvania · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

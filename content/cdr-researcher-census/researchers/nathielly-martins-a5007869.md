@@ -1,7 +1,7 @@
 ---
 title: "Nathielly Martins"
-description: "Nathielly Martins is a Mid-career Soil Carbon researcher at Technical University of Munich in DE. With 29 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.811309
+description: "Nathielly Martins is a Mid-career Enhanced Weathering researcher at Technical University of Munich in DE. With 29 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.891288
 url: "/cdr-researcher-census/researchers/nathielly-martins-a5007869/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Technical University of Munich · 🇩🇪 DE
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Enhanced Weathering**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

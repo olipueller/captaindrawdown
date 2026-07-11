@@ -1,7 +1,7 @@
 ---
 title: "Chengqing Liu"
 description: "Chengqing Liu is a Mid-career General CDR researcher at Shandong Normal University in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.743311
+date: 2026-07-11T22:39:16.825516
 url: "/cdr-researcher-census/researchers/chengqing-liu-a5103169/"
 layout: "researcher"
 hiddenInHomeList: true

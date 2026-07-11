@@ -1,7 +1,7 @@
 ---
 title: "Xiaole Zhao"
 description: "Xiaole Zhao is a Mid-career Soil Carbon researcher at Peking University in CN. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.839013
+date: 2026-07-11T22:39:16.916166
 url: "/cdr-researcher-census/researchers/xiaole-zhao-a5113983/"
 layout: "researcher"
 hiddenInHomeList: true

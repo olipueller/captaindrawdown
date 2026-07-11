@@ -1,7 +1,7 @@
 ---
 title: "Amy L. Lewis"
-description: "Amy L. Lewis is a Mid-career General CDR researcher at University of Sheffield in GB. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.362802
+description: "Amy L. Lewis is a Mid-career Enhanced Weathering researcher at University of Sheffield in GB. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.453806
 url: "/cdr-researcher-census/researchers/amy-l-lewis-a5050000/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Sheffield · 🇬🇧 GB
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

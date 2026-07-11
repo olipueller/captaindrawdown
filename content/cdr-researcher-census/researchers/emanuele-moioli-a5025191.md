@@ -1,7 +1,7 @@
 ---
 title: "Emanuele Moioli"
 description: "Emanuele Moioli is a Mid-career General CDR researcher at Politecnico di MILANO in IT. With 75 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.149483
+date: 2026-07-11T22:39:16.245236
 url: "/cdr-researcher-census/researchers/emanuele-moioli-a5025191/"
 layout: "researcher"
 hiddenInHomeList: true

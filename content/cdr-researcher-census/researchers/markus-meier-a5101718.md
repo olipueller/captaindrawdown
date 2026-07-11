@@ -1,7 +1,7 @@
 ---
 title: "Markus Meier"
 description: "Markus Meier is a Mid-career Ocean CDR researcher at Air Liquide (France) in FR. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.150901
+date: 2026-07-11T22:39:17.095297
 url: "/cdr-researcher-census/researchers/markus-meier-a5101718/"
 layout: "researcher"
 hiddenInHomeList: true

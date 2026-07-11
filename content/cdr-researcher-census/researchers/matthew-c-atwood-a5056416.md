@@ -1,7 +1,7 @@
 ---
 title: "Matthew C. Atwood"
-description: "Matthew C. Atwood is a Senior General CDR researcher at Berkeley Air Monitoring Group (United States) in US. With 8 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.263690
+description: "Matthew C. Atwood is a Senior DAC researcher at Berkeley Air Monitoring Group (United States) in US. With 8 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.181193
 url: "/cdr-researcher-census/researchers/matthew-c-atwood-a5056416/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Berkeley Air Monitoring Group (United States) · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

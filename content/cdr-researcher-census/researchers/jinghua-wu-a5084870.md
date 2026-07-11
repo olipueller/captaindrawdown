@@ -1,7 +1,7 @@
 ---
 title: "Jinghua Wu"
-description: "Jinghua Wu is a Mid-career Soil Carbon researcher at Zhaoqing University in CN. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.621817
+description: "Jinghua Wu is a Mid-career Biochar researcher at Zhaoqing University in CN. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.713016
 url: "/cdr-researcher-census/researchers/jinghua-wu-a5084870/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Zhaoqing University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

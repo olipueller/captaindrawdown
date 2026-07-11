@@ -1,7 +1,7 @@
 ---
 title: "Sijin Dong"
 description: "Sijin Dong is a Mid-career DAC researcher at Dalian University of Technology in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.388980
+date: 2026-07-11T22:39:17.310120
 url: "/cdr-researcher-census/researchers/sijin-dong-a5075044/"
 layout: "researcher"
 hiddenInHomeList: true

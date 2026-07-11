@@ -1,7 +1,7 @@
 ---
 title: "Kelly Barta"
 description: "Kelly Barta is a Mid-career Soil Carbon researcher at Health Awareness (United States) in US. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.451678
+date: 2026-07-11T22:39:17.376534
 url: "/cdr-researcher-census/researchers/kelly-barta-a5060079/"
 layout: "researcher"
 hiddenInHomeList: true

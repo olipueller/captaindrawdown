@@ -1,7 +1,7 @@
 ---
 title: "Anne‐Lise Santoni"
-description: "Anne‐Lise Santoni is a Senior General CDR researcher at Centre National de la Recherche Scientifique in FR. With 35 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.576262
+description: "Anne‐Lise Santoni is a Senior Enhanced Weathering researcher at Centre National de la Recherche Scientifique in FR. With 35 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.668961
 url: "/cdr-researcher-census/researchers/annelise-santoni-a5014936/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Centre National de la Recherche Scientifique · 🇫🇷 FR
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

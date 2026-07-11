@@ -1,7 +1,7 @@
 ---
 title: "Lumin Sun"
 description: "Lumin Sun is a Mid-career Soil Carbon researcher at Xiamen University in CN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.751644
+date: 2026-07-11T22:39:16.833151
 url: "/cdr-researcher-census/researchers/lumin-sun-a5053215/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Elizabeth T. Miller"
-description: "Elizabeth T. Miller is a Senior Soil Carbon researcher at Planetary Science Institute in US. With 20 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.173112
+description: "Elizabeth T. Miller is a Senior Ocean CDR researcher at Planetary Science Institute in US. With 20 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.267086
 url: "/cdr-researcher-census/researchers/elizabeth-t-miller-a5056520/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Planetary Science Institute · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Ocean CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
 
 ## Metrics
 

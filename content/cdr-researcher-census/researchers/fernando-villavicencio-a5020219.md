@@ -1,7 +1,7 @@
 ---
 title: "Fernando Villavicencio"
 description: "Fernando Villavicencio is a Senior Ocean CDR researcher at Central University of Ecuador in EC. With 55 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.184172
+date: 2026-07-11T22:39:16.277815
 url: "/cdr-researcher-census/researchers/fernando-villavicencio-a5020219/"
 layout: "researcher"
 hiddenInHomeList: true

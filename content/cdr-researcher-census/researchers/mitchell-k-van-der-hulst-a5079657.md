@@ -1,7 +1,7 @@
 ---
 title: "Mitchell K. van der Hulst"
-description: "Mitchell K. van der Hulst is a Mid-career General CDR researcher. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.478007
+description: "Mitchell K. van der Hulst is a Mid-career DAC researcher. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.572715
 url: "/cdr-researcher-census/researchers/mitchell-k-van-der-hulst-a5079657/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

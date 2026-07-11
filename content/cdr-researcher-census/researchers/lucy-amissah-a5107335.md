@@ -1,7 +1,7 @@
 ---
 title: "Lucy Amissah"
 description: "Lucy Amissah is a Mid-career Soil Carbon researcher at Twitter (United States) in US. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.235899
+date: 2026-07-11T22:39:16.327019
 url: "/cdr-researcher-census/researchers/lucy-amissah-a5107335/"
 layout: "researcher"
 hiddenInHomeList: true

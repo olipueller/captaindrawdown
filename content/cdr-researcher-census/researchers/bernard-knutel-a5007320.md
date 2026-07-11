@@ -1,7 +1,7 @@
 ---
 title: "Bernard Knutel"
-description: "Bernard Knutel is a Mid-career General CDR researcher at Wrocław University of Environmental and Life Sciences in PL. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.522694
+description: "Bernard Knutel is a Mid-career Biochar researcher at Wrocław University of Environmental and Life Sciences in PL. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.447637
 url: "/cdr-researcher-census/researchers/bernard-knutel-a5007320/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Wrocław University of Environmental and Life Sciences ·  PL
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

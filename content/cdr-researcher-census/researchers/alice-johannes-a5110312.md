@@ -1,7 +1,7 @@
 ---
 title: "Alice Johannes"
 description: "Alice Johannes is a Mid-career Soil Carbon researcher at Agroscope in CH. With 31 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.537929
+date: 2026-07-11T22:39:16.631221
 url: "/cdr-researcher-census/researchers/alice-johannes-a5110312/"
 layout: "researcher"
 hiddenInHomeList: true

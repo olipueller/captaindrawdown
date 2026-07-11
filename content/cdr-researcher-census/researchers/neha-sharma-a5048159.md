@@ -1,7 +1,7 @@
 ---
 title: "Neha Sharma"
 description: "Neha Sharma is a Mid-career Soil Carbon researcher at Lovely Professional University in IN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.851285
+date: 2026-07-11T22:39:16.927853
 url: "/cdr-researcher-census/researchers/neha-sharma-a5048159/"
 layout: "researcher"
 hiddenInHomeList: true

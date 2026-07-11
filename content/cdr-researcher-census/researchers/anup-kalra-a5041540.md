@@ -1,7 +1,7 @@
 ---
 title: "Anup Kalra"
 description: "Anup Kalra is a Mid-career Soil Carbon researcher at Ayurvet Research Foundation in IN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.505744
+date: 2026-07-11T22:39:17.430888
 url: "/cdr-researcher-census/researchers/anup-kalra-a5041540/"
 layout: "researcher"
 hiddenInHomeList: true

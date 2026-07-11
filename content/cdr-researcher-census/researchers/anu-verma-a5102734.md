@@ -1,7 +1,7 @@
 ---
 title: "Anu Verma"
 description: "Anu Verma is a Mid-career Biochar researcher at Indian Institute of Technology Kharagpur in IN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.302320
+date: 2026-07-11T22:39:17.219659
 url: "/cdr-researcher-census/researchers/anu-verma-a5102734/"
 layout: "researcher"
 hiddenInHomeList: true

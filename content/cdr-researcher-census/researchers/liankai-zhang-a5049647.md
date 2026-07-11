@@ -1,7 +1,7 @@
 ---
 title: "Liankai Zhang"
 description: "Liankai Zhang is a Senior Soil Carbon researcher. With 64 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.381302
+date: 2026-07-11T22:39:16.473732
 url: "/cdr-researcher-census/researchers/liankai-zhang-a5049647/"
 layout: "researcher"
 hiddenInHomeList: true

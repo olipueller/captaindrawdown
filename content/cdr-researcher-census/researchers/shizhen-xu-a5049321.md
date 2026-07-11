@@ -1,7 +1,7 @@
 ---
 title: "Shizhen Xu"
 description: "Shizhen Xu is a Senior Soil Carbon researcher at Shandong Academy of Agricultural Sciences in CN. With 31 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.391220
+date: 2026-07-11T22:39:16.484552
 url: "/cdr-researcher-census/researchers/shizhen-xu-a5049321/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Rustam Singh"
-description: "Rustam Singh is a Mid-career General CDR researcher at Haramaya University in ET. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.394645
+description: "Rustam Singh is a Mid-career Biochar researcher at Haramaya University in ET. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.488482
 url: "/cdr-researcher-census/researchers/rustam-singh-a5069880/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Haramaya University ·  ET
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

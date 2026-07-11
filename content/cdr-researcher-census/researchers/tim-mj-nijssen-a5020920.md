@@ -1,7 +1,7 @@
 ---
 title: "Tim M.J. Nijssen"
 description: "Tim M.J. Nijssen is a Mid-career DAC researcher at Delft University of Technology in NL. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.747928
+date: 2026-07-11T22:39:16.829698
 url: "/cdr-researcher-census/researchers/tim-mj-nijssen-a5020920/"
 layout: "researcher"
 hiddenInHomeList: true

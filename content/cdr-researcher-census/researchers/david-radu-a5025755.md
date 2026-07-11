@@ -1,7 +1,7 @@
 ---
 title: "David Radu"
-description: "David Radu is a Mid-career General CDR researcher at University of Liège in BE. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.210637
+description: "David Radu is a Mid-career DAC researcher at University of Liège in BE. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.127845
 url: "/cdr-researcher-census/researchers/david-radu-a5025755/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Liège · 🇧🇪 BE
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

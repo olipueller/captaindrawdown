@@ -1,7 +1,7 @@
 ---
 title: "Qingdian Shu"
-description: "Qingdian Shu is a Mid-career General CDR researcher at Water Technology (Australia) in AU. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.628047
+description: "Qingdian Shu is a Mid-career DAC researcher at Water Technology (Australia) in AU. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.719084
 url: "/cdr-researcher-census/researchers/qingdian-shu-a5056252/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Water Technology (Australia) · 🇦🇺 AU
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

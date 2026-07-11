@@ -1,7 +1,7 @@
 ---
 title: "Ssu-Ching Chen"
 description: "Ssu-Ching Chen is a Mid-career Biochar researcher at National Central University in TW. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.067570
+date: 2026-07-11T22:39:17.056869
 url: "/cdr-researcher-census/researchers/ssu-ching-chen-a5058589/"
 layout: "researcher"
 hiddenInHomeList: true

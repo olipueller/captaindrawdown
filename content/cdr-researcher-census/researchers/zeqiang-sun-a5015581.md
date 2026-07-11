@@ -1,7 +1,7 @@
 ---
 title: "Zeqiang Sun"
 description: "Zeqiang Sun is a Senior Soil Carbon researcher at Ministry of Agriculture in BW. With 45 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.700015
+date: 2026-07-11T22:39:16.783665
 url: "/cdr-researcher-census/researchers/zeqiang-sun-a5015581/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xinghong Cao"
 description: "Xinghong Cao is a Senior Soil Carbon researcher at Beijing Normal University in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.092111
+date: 2026-07-11T22:39:17.065583
 url: "/cdr-researcher-census/researchers/xinghong-cao-a5109736/"
 layout: "researcher"
 hiddenInHomeList: true

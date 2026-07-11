@@ -1,7 +1,7 @@
 ---
 title: "Yuki Kohno"
 description: "Yuki Kohno is a Senior DAC researcher at Sendai National College of Technology in JP. With 65 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.081116
+date: 2026-07-11T22:39:16.183541
 url: "/cdr-researcher-census/researchers/yuki-kohno-a5008607/"
 layout: "researcher"
 hiddenInHomeList: true

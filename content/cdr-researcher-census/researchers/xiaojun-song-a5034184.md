@@ -1,7 +1,7 @@
 ---
 title: "Xiaojun Song"
 description: "Xiaojun Song is a Senior Soil Carbon researcher at Ministry of Natural Resources in CN. With 66 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.137917
+date: 2026-07-11T22:39:16.234287
 url: "/cdr-researcher-census/researchers/xiaojun-song-a5034184/"
 layout: "researcher"
 hiddenInHomeList: true

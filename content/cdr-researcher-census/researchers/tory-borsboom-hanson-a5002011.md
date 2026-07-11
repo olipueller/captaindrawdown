@@ -1,7 +1,7 @@
 ---
 title: "Tory Borsboom-Hanson"
 description: "Tory Borsboom-Hanson is a Mid-career General CDR researcher at University of British Columbia in CA. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.955777
+date: 2026-07-11T22:39:17.006914
 url: "/cdr-researcher-census/researchers/tory-borsboom-hanson-a5002011/"
 layout: "researcher"
 hiddenInHomeList: true

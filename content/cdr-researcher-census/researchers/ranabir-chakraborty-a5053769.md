@@ -1,7 +1,7 @@
 ---
 title: "Ranabir Chakraborty"
 description: "Ranabir Chakraborty is a Mid-career Soil Carbon researcher at Indian Institute of Water Management in IN. With 29 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.730427
+date: 2026-07-11T22:39:16.812856
 url: "/cdr-researcher-census/researchers/ranabir-chakraborty-a5053769/"
 layout: "researcher"
 hiddenInHomeList: true

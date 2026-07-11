@@ -1,7 +1,7 @@
 ---
 title: "Zohreh Khoshraftar"
 description: "Zohreh Khoshraftar is a Mid-career General CDR researcher at Islamic Azad University Rasht Branch in IR. With 34 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.377415
+date: 2026-07-11T22:39:16.469772
 url: "/cdr-researcher-census/researchers/zohreh-khoshraftar-a5043625/"
 layout: "researcher"
 hiddenInHomeList: true

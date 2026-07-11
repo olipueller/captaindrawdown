@@ -1,7 +1,7 @@
 ---
 title: "Maria N.P. Olsen"
-description: "Maria N.P. Olsen is an Early-career Soil Carbon researcher at SINTEF in NO. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.650034
+description: "Maria N.P. Olsen is an Early-career Biochar researcher at SINTEF in NO. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.574597
 url: "/cdr-researcher-census/researchers/maria-np-olsen-a5024592/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ SINTEF · 🇳🇴 NO
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "Chunhong Hu"
 description: "Chunhong Hu is a Mid-career Soil Carbon researcher at China National Offshore Oil Corporation (China) in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.653126
+date: 2026-07-11T22:39:16.742380
 url: "/cdr-researcher-census/researchers/chunhong-hu-a5100624/"
 layout: "researcher"
 hiddenInHomeList: true

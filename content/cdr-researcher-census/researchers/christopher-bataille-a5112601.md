@@ -1,7 +1,7 @@
 ---
 title: "Christopher Bataille"
 description: "Christopher Bataille is a Mid-career General CDR researcher at Institut du Développement Durable et des Relations Internationales in FR. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.295183
+date: 2026-07-11T22:39:16.386147
 url: "/cdr-researcher-census/researchers/christopher-bataille-a5112601/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Pornphimol Winyuchakrit"
 description: "Pornphimol Winyuchakrit is a Mid-career General CDR researcher at Sustainable Energy and Built Environment, Thammasat University in TH. With 30 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.570694
+date: 2026-07-11T22:39:16.662829
 url: "/cdr-researcher-census/researchers/pornphimol-winyuchakrit-a5031396/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jie Yang"
-description: "Jie Yang is a Senior Soil Carbon researcher at Chinese Center For Disease Control and Prevention in CN. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.770094
+description: "Jie Yang is a Senior Enhanced Weathering researcher at Chinese Center For Disease Control and Prevention in CN. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.851712
 url: "/cdr-researcher-census/researchers/jie-yang-a5012112/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Chinese Center For Disease Control and Prevention · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Enhanced Weathering**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

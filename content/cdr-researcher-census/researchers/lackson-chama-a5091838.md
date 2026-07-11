@@ -1,7 +1,7 @@
 ---
 title: "Lackson Chama"
 description: "Lackson Chama is a Mid-career General CDR researcher at Copperbelt University in ZM. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.847176
+date: 2026-07-11T22:39:16.923973
 url: "/cdr-researcher-census/researchers/lackson-chama-a5091838/"
 layout: "researcher"
 hiddenInHomeList: true

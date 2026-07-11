@@ -1,7 +1,7 @@
 ---
 title: "Alex Zoelle"
-description: "Alex Zoelle is a Mid-career General CDR researcher at National Energy Technology Laboratory in US. With 21 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.608213
+description: "Alex Zoelle is a Mid-career DAC researcher at National Energy Technology Laboratory in US. With 21 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.527705
 url: "/cdr-researcher-census/researchers/alex-zoelle-a5062239/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ National Energy Technology Laboratory · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

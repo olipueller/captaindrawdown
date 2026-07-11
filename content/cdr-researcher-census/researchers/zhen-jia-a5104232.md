@@ -1,7 +1,7 @@
 ---
 title: "Zhen Jia"
-description: "Zhen Jia is a Senior Soil Carbon researcher at Heilongjiang Earthquake Agency in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.369484
+description: "Zhen Jia is a Senior Biochar researcher at Heilongjiang Earthquake Agency in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.289201
 url: "/cdr-researcher-census/researchers/zhen-jia-a5104232/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Heilongjiang Earthquake Agency · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

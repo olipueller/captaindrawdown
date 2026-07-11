@@ -1,7 +1,7 @@
 ---
 title: "James Custer"
-description: "James Custer is a Mid-career General CDR researcher at University of North Carolina at Chapel Hill in US. With 38 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.618783
+description: "James Custer is a Mid-career DAC researcher at University of North Carolina at Chapel Hill in US. With 38 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.710119
 url: "/cdr-researcher-census/researchers/james-custer-a5080736/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of North Carolina at Chapel Hill · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

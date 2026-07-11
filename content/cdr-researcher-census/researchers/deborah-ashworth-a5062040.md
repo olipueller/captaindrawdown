@@ -1,7 +1,7 @@
 ---
 title: "Deborah Ashworth"
 description: "Deborah Ashworth is a Mid-career Soil Carbon researcher at University of Manchester in GB. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.362197
+date: 2026-07-11T22:39:17.281135
 url: "/cdr-researcher-census/researchers/deborah-ashworth-a5062040/"
 layout: "researcher"
 hiddenInHomeList: true

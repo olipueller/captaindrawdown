@@ -1,7 +1,7 @@
 ---
 title: "Wolfram Buss"
-description: "Wolfram Buss is a Senior Soil Carbon researcher at Australian National University in AU. With 74 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.017474
+description: "Wolfram Buss is a Senior Biochar researcher at Australian National University in AU. With 74 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.130163
 url: "/cdr-researcher-census/researchers/wolfram-buss-a5038598/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Australian National University · 🇦🇺 AU
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

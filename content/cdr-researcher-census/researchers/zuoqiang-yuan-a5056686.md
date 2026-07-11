@@ -1,7 +1,7 @@
 ---
 title: "Zuoqiang Yuan"
 description: "Zuoqiang Yuan is a Senior Soil Carbon researcher at Northwestern Polytechnical University in CN. With 120 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.002740
+date: 2026-07-11T22:39:16.118718
 url: "/cdr-researcher-census/researchers/zuoqiang-yuan-a5056686/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ye‐Jin Son"
 description: "Ye‐Jin Son is a Mid-career Soil Carbon researcher at Chungbuk National University in KR. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.459595
+date: 2026-07-11T22:39:17.383985
 url: "/cdr-researcher-census/researchers/yejin-son-a5010490/"
 layout: "researcher"
 hiddenInHomeList: true

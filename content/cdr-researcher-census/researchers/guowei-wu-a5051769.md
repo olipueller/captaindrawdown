@@ -1,7 +1,7 @@
 ---
 title: "Guowei Wu"
 description: "Guowei Wu is a Mid-career Biochar researcher at Huangshan University in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.423862
+date: 2026-07-11T22:39:17.347419
 url: "/cdr-researcher-census/researchers/guowei-wu-a5051769/"
 layout: "researcher"
 hiddenInHomeList: true

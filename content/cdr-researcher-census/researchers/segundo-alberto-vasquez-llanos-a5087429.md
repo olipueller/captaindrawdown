@@ -1,7 +1,7 @@
 ---
 title: "Segundo Alberto Vásquez Llanos"
-description: "Segundo Alberto Vásquez Llanos is a Mid-career General CDR researcher at Universidad Nacional Pedro Ruíz Gallo in PE. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.609961
+description: "Segundo Alberto Vásquez Llanos is a Mid-career Biochar researcher at Universidad Nacional Pedro Ruíz Gallo in PE. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.529378
 url: "/cdr-researcher-census/researchers/segundo-alberto-vasquez-llanos-a5087429/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Universidad Nacional Pedro Ruíz Gallo ·  PE
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

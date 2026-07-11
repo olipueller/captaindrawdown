@@ -1,7 +1,7 @@
 ---
 title: "Hui Henry Teng"
-description: "Hui Henry Teng is a Senior Soil Carbon researcher at Tianjin University in CN. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.777937
+description: "Hui Henry Teng is a Senior DAC researcher at Tianjin University in CN. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.859412
 url: "/cdr-researcher-census/researchers/hui-henry-teng-a5103387/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Tianjin University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**DAC**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

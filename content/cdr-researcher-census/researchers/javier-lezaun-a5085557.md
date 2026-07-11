@@ -1,7 +1,7 @@
 ---
 title: "Javier Lezaun"
 description: "Javier Lezaun is a Senior General CDR researcher at Ethnographic Museum in HU. With 116 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.005725
+date: 2026-07-11T22:39:16.121367
 url: "/cdr-researcher-census/researchers/javier-lezaun-a5085557/"
 layout: "researcher"
 hiddenInHomeList: true

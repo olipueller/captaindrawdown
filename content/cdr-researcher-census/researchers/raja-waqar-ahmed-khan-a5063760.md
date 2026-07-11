@@ -1,7 +1,7 @@
 ---
 title: "Raja Waqar Ahmed Khan"
 description: "Raja Waqar Ahmed Khan is a Mid-career Soil Carbon researcher at University of Azad Jammu and Kashmir in PK. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.453567
+date: 2026-07-11T22:39:17.378311
 url: "/cdr-researcher-census/researchers/raja-waqar-ahmed-khan-a5063760/"
 layout: "researcher"
 hiddenInHomeList: true

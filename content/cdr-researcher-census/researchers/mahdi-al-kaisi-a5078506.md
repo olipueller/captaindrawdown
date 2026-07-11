@@ -1,7 +1,7 @@
 ---
 title: "Mahdi Al-Kaisi"
-description: "Mahdi Al-Kaisi is a Mid-career Soil Carbon researcher at Iowa State University in US. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.989869
+description: "Mahdi Al-Kaisi is a Mid-career Biochar researcher at Iowa State University in US. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.024981
 url: "/cdr-researcher-census/researchers/mahdi-al-kaisi-a5078506/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Iowa State University · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

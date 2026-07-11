@@ -1,7 +1,7 @@
 ---
 title: "Mirjana Petronijević"
 description: "Mirjana Petronijević is a Mid-career Biochar researcher at University of Novi Sad in RS. With 31 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.827719
+date: 2026-07-11T22:39:16.905092
 url: "/cdr-researcher-census/researchers/mirjana-petronijevic-a5005226/"
 layout: "researcher"
 hiddenInHomeList: true

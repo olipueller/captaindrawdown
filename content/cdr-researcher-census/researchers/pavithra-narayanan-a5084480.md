@@ -1,7 +1,7 @@
 ---
 title: "Pavithra Narayanan"
 description: "Pavithra Narayanan is a Mid-career BECCS researcher at Georgia Institute of Technology in US. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.219581
+date: 2026-07-11T22:39:17.136160
 url: "/cdr-researcher-census/researchers/pavithra-narayanan-a5084480/"
 layout: "researcher"
 hiddenInHomeList: true

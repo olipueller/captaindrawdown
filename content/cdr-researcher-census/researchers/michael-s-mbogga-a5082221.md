@@ -1,7 +1,7 @@
 ---
 title: "Michael S. Mbogga"
 description: "Michael S. Mbogga is a Senior General CDR researcher at Makerere University in UG. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.513196
+date: 2026-07-11T22:39:16.607434
 url: "/cdr-researcher-census/researchers/michael-s-mbogga-a5082221/"
 layout: "researcher"
 hiddenInHomeList: true

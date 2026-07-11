@@ -1,7 +1,7 @@
 ---
 title: "Renate Døving Osvik"
 description: "Renate Døving Osvik is a Mid-career Ocean CDR researcher at Norwegian University of Life Sciences in NO. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.491938
+date: 2026-07-11T22:39:17.416726
 url: "/cdr-researcher-census/researchers/renate-dving-osvik-a5087631/"
 layout: "researcher"
 hiddenInHomeList: true

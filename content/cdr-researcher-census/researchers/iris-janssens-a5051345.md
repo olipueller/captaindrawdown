@@ -1,7 +1,7 @@
 ---
 title: "Iris Janssens"
 description: "Iris Janssens is a Mid-career Enhanced Weathering researcher at University of Antwerp in BE. With 30 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.955517
+date: 2026-07-11T22:39:17.006710
 url: "/cdr-researcher-census/researchers/iris-janssens-a5051345/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xinyang Xu"
 description: "Xinyang Xu is a Senior Biochar researcher at Shandong University in CN. With 42 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.728288
+date: 2026-07-11T22:39:16.810769
 url: "/cdr-researcher-census/researchers/xinyang-xu-a5100954/"
 layout: "researcher"
 hiddenInHomeList: true

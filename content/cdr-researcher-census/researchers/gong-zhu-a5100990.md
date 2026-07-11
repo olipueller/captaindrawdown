@@ -1,7 +1,7 @@
 ---
 title: "Gong Zhu"
 description: "Gong Zhu is a Senior Biochar researcher at Chinese Academy of Sciences in CN. With 11 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.457632
+date: 2026-07-11T22:39:17.382129
 url: "/cdr-researcher-census/researchers/gong-zhu-a5100990/"
 layout: "researcher"
 hiddenInHomeList: true

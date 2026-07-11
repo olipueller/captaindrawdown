@@ -1,7 +1,7 @@
 ---
 title: "Shihang Wang"
 description: "Shihang Wang is a Mid-career Soil Carbon researcher at Beihang University in CN. With 35 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.840311
+date: 2026-07-11T22:39:16.917528
 url: "/cdr-researcher-census/researchers/shihang-wang-a5101951/"
 layout: "researcher"
 hiddenInHomeList: true

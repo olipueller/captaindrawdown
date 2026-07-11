@@ -1,7 +1,7 @@
 ---
 title: "Guo Chen"
 description: "Guo Chen is a Mid-career Soil Carbon researcher at China University of Mining and Technology in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.954145
+date: 2026-07-11T22:39:17.005560
 url: "/cdr-researcher-census/researchers/guo-chen-a5101872/"
 layout: "researcher"
 hiddenInHomeList: true

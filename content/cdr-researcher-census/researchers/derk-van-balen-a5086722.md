@@ -1,7 +1,7 @@
 ---
 title: "Derk van Balen"
 description: "Derk van Balen is a Mid-career Soil Carbon researcher at Wageningen University & Research in NL. With 20 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.970071
+date: 2026-07-11T22:39:17.015883
 url: "/cdr-researcher-census/researchers/derk-van-balen-a5086722/"
 layout: "researcher"
 hiddenInHomeList: true

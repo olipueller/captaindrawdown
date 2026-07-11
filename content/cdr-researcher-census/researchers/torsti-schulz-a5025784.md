@@ -1,7 +1,7 @@
 ---
 title: "Torsti Schulz"
-description: "Torsti Schulz is a Mid-career Soil Carbon researcher at University of Helsinki in FI. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.548736
+description: "Torsti Schulz is a Mid-career BECCS researcher at University of Helsinki in FI. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.642049
 url: "/cdr-researcher-census/researchers/torsti-schulz-a5025784/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Helsinki ·  FI
 
 ## CDR Specialization
 
-**Soil Carbon**
+**BECCS**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

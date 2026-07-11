@@ -1,7 +1,7 @@
 ---
 title: "Marisol Yglesias-González"
 description: "Marisol Yglesias-González is a Mid-career General CDR researcher at Universidad Peruana Cayetano Heredia in PE. With 13 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.007144
+date: 2026-07-11T22:39:16.122562
 url: "/cdr-researcher-census/researchers/marisol-yglesias-gonzalez-a5047684/"
 layout: "researcher"
 hiddenInHomeList: true

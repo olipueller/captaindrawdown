@@ -1,7 +1,7 @@
 ---
 title: "Matthias M. May"
 description: "Matthias M. May is a Senior General CDR researcher at Universität Tübingen in DE. With 124 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.056775
+date: 2026-07-11T22:39:16.162807
 url: "/cdr-researcher-census/researchers/matthias-m-may-a5010478/"
 layout: "researcher"
 hiddenInHomeList: true

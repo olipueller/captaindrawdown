@@ -1,7 +1,7 @@
 ---
 title: "Yanfang Zhou"
 description: "Yanfang Zhou is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 36 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.512653
+date: 2026-07-11T22:39:16.607126
 url: "/cdr-researcher-census/researchers/yanfang-zhou-a5101124/"
 layout: "researcher"
 hiddenInHomeList: true

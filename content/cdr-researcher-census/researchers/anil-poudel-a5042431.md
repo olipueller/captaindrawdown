@@ -1,7 +1,7 @@
 ---
 title: "Anil Poudel"
 description: "Anil Poudel is a Mid-career Soil Carbon researcher at Hankyong National University in KR. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.566556
+date: 2026-07-11T22:39:17.489403
 url: "/cdr-researcher-census/researchers/anil-poudel-a5042431/"
 layout: "researcher"
 hiddenInHomeList: true

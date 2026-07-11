@@ -1,7 +1,7 @@
 ---
 title: "Priyanka Lohani"
 description: "Priyanka Lohani is a Mid-career Soil Carbon researcher at G.B. Pant Institute of Himalayan Environment and Development in IN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.393962
+date: 2026-07-11T22:39:17.315669
 url: "/cdr-researcher-census/researchers/priyanka-lohani-a5003895/"
 layout: "researcher"
 hiddenInHomeList: true

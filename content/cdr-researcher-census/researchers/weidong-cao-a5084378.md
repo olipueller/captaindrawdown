@@ -1,7 +1,7 @@
 ---
 title: "Weidong Cao"
 description: "Weidong Cao is an Eminent Soil Carbon researcher. With 281 publications and an h-index of 52, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:39.977782
+date: 2026-07-11T22:39:16.100786
 url: "/cdr-researcher-census/researchers/weidong-cao-a5084378/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Nuno R. Rodrigues"
 description: "Nuno R. Rodrigues is a Mid-career Soil Carbon researcher at Universidade do Porto in PT. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.995114
+date: 2026-07-11T22:39:17.029254
 url: "/cdr-researcher-census/researchers/nuno-r-rodrigues-a5001505/"
 layout: "researcher"
 hiddenInHomeList: true

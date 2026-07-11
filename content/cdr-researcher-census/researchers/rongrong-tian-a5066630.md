@@ -1,7 +1,7 @@
 ---
 title: "Rongrong Tian"
-description: "Rongrong Tian is a Mid-career Soil Carbon researcher at Northwest A&F University in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.090336
+description: "Rongrong Tian is a Mid-career Biochar researcher at Northwest A&F University in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.064092
 url: "/cdr-researcher-census/researchers/rongrong-tian-a5066630/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Northwest A&F University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

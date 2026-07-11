@@ -1,7 +1,7 @@
 ---
 title: "Laicong Luo"
-description: "Laicong Luo is a Mid-career Soil Carbon researcher at Jiangxi Agricultural University in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.254080
+description: "Laicong Luo is a Mid-career BECCS researcher at Jiangxi Agricultural University in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.171906
 url: "/cdr-researcher-census/researchers/laicong-luo-a5011054/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Jiangxi Agricultural University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**BECCS**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

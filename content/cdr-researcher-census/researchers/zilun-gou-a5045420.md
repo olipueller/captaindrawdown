@@ -1,7 +1,7 @@
 ---
 title: "Zilun Gou"
 description: "Zilun Gou is a Mid-career Soil Carbon researcher at Chinese Research Academy of Environmental Sciences in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.206204
+date: 2026-07-11T22:39:17.123712
 url: "/cdr-researcher-census/researchers/zilun-gou-a5045420/"
 layout: "researcher"
 hiddenInHomeList: true

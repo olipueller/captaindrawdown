@@ -1,7 +1,7 @@
 ---
 title: "Qifeng Mo"
 description: "Qifeng Mo is a Senior Soil Carbon researcher at South China Agricultural University in CN. With 50 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.174770
+date: 2026-07-11T22:39:16.268636
 url: "/cdr-researcher-census/researchers/qifeng-mo-a5042303/"
 layout: "researcher"
 hiddenInHomeList: true

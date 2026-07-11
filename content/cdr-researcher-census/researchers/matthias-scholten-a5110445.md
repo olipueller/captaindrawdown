@@ -1,7 +1,7 @@
 ---
 title: "Matthias Scholten"
-description: "Matthias Scholten is a Senior General CDR researcher. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.456860
+description: "Matthias Scholten is a Senior DAC researcher. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.381372
 url: "/cdr-researcher-census/researchers/matthias-scholten-a5110445/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,9 +26,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

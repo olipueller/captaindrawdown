@@ -1,7 +1,7 @@
 ---
 title: "Shuyun Zhang"
 description: "Shuyun Zhang is a Senior Biochar researcher at Tianjin University in CN. With 54 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.489281
+date: 2026-07-11T22:39:16.583586
 url: "/cdr-researcher-census/researchers/shuyun-zhang-a5102810/"
 layout: "researcher"
 hiddenInHomeList: true

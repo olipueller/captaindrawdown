@@ -1,7 +1,7 @@
 ---
 title: "Dan Wang"
-description: "Dan Wang is a Mid-career Soil Carbon researcher at University of Science and Technology Liaoning in CN. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.283927
+description: "Dan Wang is a Mid-career Enhanced Weathering researcher at University of Science and Technology Liaoning in CN. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.373971
 url: "/cdr-researcher-census/researchers/dan-wang-a5035631/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Science and Technology Liaoning · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Enhanced Weathering**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

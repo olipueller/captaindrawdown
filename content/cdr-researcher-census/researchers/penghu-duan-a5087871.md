@@ -1,7 +1,7 @@
 ---
 title: "Penghu Duan"
 description: "Penghu Duan is a Mid-career Biochar researcher at Jilin University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.583204
+date: 2026-07-11T22:39:17.504817
 url: "/cdr-researcher-census/researchers/penghu-duan-a5087871/"
 layout: "researcher"
 hiddenInHomeList: true

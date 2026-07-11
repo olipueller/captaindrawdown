@@ -1,7 +1,7 @@
 ---
 title: "Yang Guo"
 description: "Yang Guo is a Senior Soil Carbon researcher at Ministry of Ecology and Environment in CN. With 56 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.337610
+date: 2026-07-11T22:39:16.427390
 url: "/cdr-researcher-census/researchers/yang-guo-a5059284/"
 layout: "researcher"
 hiddenInHomeList: true

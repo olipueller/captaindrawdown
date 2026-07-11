@@ -1,7 +1,7 @@
 ---
 title: "Anna Grobelak"
 description: "Anna Grobelak is a Senior Soil Carbon researcher at Czestochowa University of Technology in PL. With 133 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.021658
+date: 2026-07-11T22:39:16.133226
 url: "/cdr-researcher-census/researchers/anna-grobelak-a5025511/"
 layout: "researcher"
 hiddenInHomeList: true

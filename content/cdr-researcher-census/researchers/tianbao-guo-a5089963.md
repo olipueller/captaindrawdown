@@ -1,7 +1,7 @@
 ---
 title: "Tianbao Guo"
 description: "Tianbao Guo is an Early-career Biochar researcher at Nankai University in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.305366
+date: 2026-07-11T22:39:17.222905
 url: "/cdr-researcher-census/researchers/tianbao-guo-a5089963/"
 layout: "researcher"
 hiddenInHomeList: true

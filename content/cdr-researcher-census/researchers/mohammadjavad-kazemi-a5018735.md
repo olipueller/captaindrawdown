@@ -1,7 +1,7 @@
 ---
 title: "Mohammadjavad Kazemi"
-description: "Mohammadjavad Kazemi is a Mid-career Soil Carbon researcher at Arizona State University in US. With 30 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.385447
+description: "Mohammadjavad Kazemi is a Mid-career Biochar researcher at Arizona State University in US. With 30 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.478301
 url: "/cdr-researcher-census/researchers/mohammadjavad-kazemi-a5018735/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Arizona State University · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

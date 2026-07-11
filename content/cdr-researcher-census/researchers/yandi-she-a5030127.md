@@ -1,7 +1,7 @@
 ---
 title: "Yandi She"
 description: "Yandi She is a Mid-career Soil Carbon researcher at Qinghai University in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.933187
+date: 2026-07-11T22:39:16.993681
 url: "/cdr-researcher-census/researchers/yandi-she-a5030127/"
 layout: "researcher"
 hiddenInHomeList: true

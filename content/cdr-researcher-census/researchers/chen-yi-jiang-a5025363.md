@@ -1,7 +1,7 @@
 ---
 title: "Chen-Yi Jiang"
 description: "Chen-Yi Jiang is a Mid-career Biochar researcher at Harbin Institute of Technology in CN. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.823054
+date: 2026-07-11T22:39:16.900904
 url: "/cdr-researcher-census/researchers/chen-yi-jiang-a5025363/"
 layout: "researcher"
 hiddenInHomeList: true

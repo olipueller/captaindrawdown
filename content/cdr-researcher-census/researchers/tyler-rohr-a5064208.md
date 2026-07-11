@@ -1,7 +1,7 @@
 ---
 title: "Tyler Rohr"
 description: "Tyler Rohr is a Mid-career Ocean CDR researcher at CSIRO Oceans and Atmosphere in AU. With 59 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.486846
+date: 2026-07-11T22:39:16.581251
 url: "/cdr-researcher-census/researchers/tyler-rohr-a5064208/"
 layout: "researcher"
 hiddenInHomeList: true

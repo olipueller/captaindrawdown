@@ -1,7 +1,7 @@
 ---
 title: "Kirttiranjan Baral"
 description: "Kirttiranjan Baral is a Mid-career Soil Carbon researcher at National Academy of Agricultural Research Management in IN. With 42 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.671766
+date: 2026-07-11T22:39:16.758459
 url: "/cdr-researcher-census/researchers/kirttiranjan-baral-a5066684/"
 layout: "researcher"
 hiddenInHomeList: true

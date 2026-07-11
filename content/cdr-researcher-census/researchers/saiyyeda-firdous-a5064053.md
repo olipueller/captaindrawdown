@@ -1,7 +1,7 @@
 ---
 title: "Saiyyeda Firdous"
 description: "Saiyyeda Firdous is a Mid-career Biochar researcher at Vellore Institute of Technology in IN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.648052
+date: 2026-07-11T22:39:17.572355
 url: "/cdr-researcher-census/researchers/saiyyeda-firdous-a5064053/"
 layout: "researcher"
 hiddenInHomeList: true

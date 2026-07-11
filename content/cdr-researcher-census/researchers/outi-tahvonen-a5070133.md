@@ -1,7 +1,7 @@
 ---
 title: "Outi Tahvonen"
 description: "Outi Tahvonen is a Mid-career General CDR researcher at Häme University of Applied Sciences in FI. With 27 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.212841
+date: 2026-07-11T22:39:17.129724
 url: "/cdr-researcher-census/researchers/outi-tahvonen-a5070133/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Geomar Vallejos-Torres"
 description: "Geomar Vallejos-Torres is a Mid-career Soil Carbon researcher at National Agrarian University in NI. With 44 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.732024
+date: 2026-07-11T22:39:16.814432
 url: "/cdr-researcher-census/researchers/geomar-vallejos-torres-a5055329/"
 layout: "researcher"
 hiddenInHomeList: true

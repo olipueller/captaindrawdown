@@ -1,7 +1,7 @@
 ---
 title: "Longtian Huang"
-description: "Longtian Huang is a Mid-career Soil Carbon researcher at Fudan University in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.387496
+description: "Longtian Huang is a Mid-career Ocean CDR researcher at Fudan University in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.308621
 url: "/cdr-researcher-census/researchers/longtian-huang-a5018232/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Fudan University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Ocean CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
 
 ## Metrics
 

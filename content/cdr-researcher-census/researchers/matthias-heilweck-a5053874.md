@@ -1,7 +1,7 @@
 ---
 title: "Matthias Heilweck"
 description: "Matthias Heilweck is a Mid-career Ocean CDR researcher at Alcon (China) in CN. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.610661
+date: 2026-07-11T22:39:17.530001
 url: "/cdr-researcher-census/researchers/matthias-heilweck-a5053874/"
 layout: "researcher"
 hiddenInHomeList: true

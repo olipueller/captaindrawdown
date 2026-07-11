@@ -1,7 +1,7 @@
 ---
 title: "Guanchu Lu"
-description: "Guanchu Lu is a Mid-career General CDR researcher at Chinese University of Hong Kong, Shenzhen in CN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.834402
+description: "Guanchu Lu is a Mid-career DAC researcher at Chinese University of Hong Kong, Shenzhen in CN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.911646
 url: "/cdr-researcher-census/researchers/guanchu-lu-a5104234/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Chinese University of Hong Kong, Shenzhen · 🇨🇳 CN
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

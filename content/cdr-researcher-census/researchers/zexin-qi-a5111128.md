@@ -1,7 +1,7 @@
 ---
 title: "Zexin Qi"
 description: "Zexin Qi is a Mid-career Soil Carbon researcher at Jilin Agricultural Science and Technology University in CN. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.601270
+date: 2026-07-11T22:39:17.521744
 url: "/cdr-researcher-census/researchers/zexin-qi-a5111128/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Despina Magiri-Skouloudi"
-description: "Despina Magiri-Skouloudi is a Mid-career General CDR researcher at National Technical University of Athens in GR. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.325189
+description: "Despina Magiri-Skouloudi is a Mid-career BECCS researcher at National Technical University of Athens in GR. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.242564
 url: "/cdr-researcher-census/researchers/despina-magiri-skouloudi-a5005670/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ National Technical University of Athens · 🇬🇷 GR
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

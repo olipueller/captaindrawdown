@@ -1,7 +1,7 @@
 ---
 title: "Kaiyi Zhang"
 description: "Kaiyi Zhang is a Mid-career Soil Carbon researcher at Texas A&M University in US. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.221042
+date: 2026-07-11T22:39:17.137563
 url: "/cdr-researcher-census/researchers/kaiyi-zhang-a5101947/"
 layout: "researcher"
 hiddenInHomeList: true

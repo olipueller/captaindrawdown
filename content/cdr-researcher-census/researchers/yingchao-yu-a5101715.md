@@ -1,7 +1,7 @@
 ---
 title: "Yingchao Yu"
 description: "Yingchao Yu is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.479247
+date: 2026-07-11T22:39:16.573952
 url: "/cdr-researcher-census/researchers/yingchao-yu-a5101715/"
 layout: "researcher"
 hiddenInHomeList: true

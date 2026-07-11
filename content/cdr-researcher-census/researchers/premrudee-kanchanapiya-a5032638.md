@@ -1,7 +1,7 @@
 ---
 title: "Premrudee Kanchanapiya"
 description: "Premrudee Kanchanapiya is a Senior BECCS researcher at National Science and Technology Development Agency in TH. With 38 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.561661
+date: 2026-07-11T22:39:16.654336
 url: "/cdr-researcher-census/researchers/premrudee-kanchanapiya-a5032638/"
 layout: "researcher"
 hiddenInHomeList: true

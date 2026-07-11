@@ -1,7 +1,7 @@
 ---
 title: "Abdallah Abdelfattah"
 description: "Abdallah Abdelfattah is a Mid-career Biochar researcher at Tanta University in EG. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.233802
+date: 2026-07-11T22:39:16.324931
 url: "/cdr-researcher-census/researchers/abdallah-abdelfattah-a5041452/"
 layout: "researcher"
 hiddenInHomeList: true

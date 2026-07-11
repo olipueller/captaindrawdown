@@ -1,7 +1,7 @@
 ---
 title: "Taotao Wang"
 description: "Taotao Wang is a Senior Soil Carbon researcher at Jiangsu University in CN. With 37 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.602539
+date: 2026-07-11T22:39:16.695245
 url: "/cdr-researcher-census/researchers/taotao-wang-a5101850/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xuehui Jia"
 description: "Xuehui Jia is a Mid-career Biochar researcher at Guangxi University in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.329438
+date: 2026-07-11T22:39:17.247141
 url: "/cdr-researcher-census/researchers/xuehui-jia-a5090912/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Rida Khellouk"
 description: "Rida Khellouk is a Mid-career Soil Carbon researcher. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.303207
+date: 2026-07-11T22:39:16.393964
 url: "/cdr-researcher-census/researchers/rida-khellouk-a5031594/"
 layout: "researcher"
 hiddenInHomeList: true

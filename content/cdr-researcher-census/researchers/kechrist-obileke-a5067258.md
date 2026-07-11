@@ -1,7 +1,7 @@
 ---
 title: "KeChrist Obileke"
-description: "KeChrist Obileke is a Mid-career General CDR researcher at University of Fort Hare in ZA. With 55 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.080528
+description: "KeChrist Obileke is a Mid-career BECCS researcher at University of Fort Hare in ZA. With 55 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.183178
 url: "/cdr-researcher-census/researchers/kechrist-obileke-a5067258/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Fort Hare · 🇿🇦 ZA
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "Hong Wei"
 description: "Hong Wei is a Senior Biochar researcher at Xi'an University of Technology in CN. With 67 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.346315
+date: 2026-07-11T22:39:16.436593
 url: "/cdr-researcher-census/researchers/hong-wei-a5100644/"
 layout: "researcher"
 hiddenInHomeList: true

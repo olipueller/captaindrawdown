@@ -1,7 +1,7 @@
 ---
 title: "Weiwei Meng"
-description: "Weiwei Meng is a Senior Soil Carbon researcher at Shandong Academy of Agricultural Sciences in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.235185
+description: "Weiwei Meng is a Senior Biochar researcher at Shandong Academy of Agricultural Sciences in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.152236
 url: "/cdr-researcher-census/researchers/weiwei-meng-a5100962/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Shandong Academy of Agricultural Sciences · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

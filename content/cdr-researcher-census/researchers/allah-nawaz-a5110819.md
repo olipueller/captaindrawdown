@@ -1,7 +1,7 @@
 ---
 title: "Allah Nawaz"
 description: "Allah Nawaz is a Mid-career Soil Carbon researcher at Ayub Agriculture Research Institute in PK. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.366301
+date: 2026-07-11T22:39:17.285604
 url: "/cdr-researcher-census/researchers/allah-nawaz-a5110819/"
 layout: "researcher"
 hiddenInHomeList: true

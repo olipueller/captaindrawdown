@@ -1,7 +1,7 @@
 ---
 title: "Xiaobai Ruan"
 description: "Xiaobai Ruan is a Mid-career Enhanced Weathering researcher at Centre National de la Recherche Scientifique in FR. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.095491
+date: 2026-07-11T22:39:17.068320
 url: "/cdr-researcher-census/researchers/xiaobai-ruan-a5054522/"
 layout: "researcher"
 hiddenInHomeList: true

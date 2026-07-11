@@ -1,7 +1,7 @@
 ---
 title: "Victor Brun"
 description: "Victor Brun is a Mid-career Ocean CDR researcher at Centre National de la Recherche Scientifique in FR. With 22 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.434186
+date: 2026-07-11T22:39:16.528586
 url: "/cdr-researcher-census/researchers/victor-brun-a5068117/"
 layout: "researcher"
 hiddenInHomeList: true

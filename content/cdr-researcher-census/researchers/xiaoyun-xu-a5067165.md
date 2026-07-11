@@ -1,7 +1,7 @@
 ---
 title: "Xiaoyun Xu"
 description: "Xiaoyun Xu is an Eminent Biochar researcher at Shanghai Jiao Tong University in CN. With 161 publications and an h-index of 56, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:39.962827
+date: 2026-07-11T22:39:16.091141
 url: "/cdr-researcher-census/researchers/xiaoyun-xu-a5067165/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Wenxiu Teng"
 description: "Wenxiu Teng is a Mid-career Soil Carbon researcher. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.201956
+date: 2026-07-11T22:39:17.119810
 url: "/cdr-researcher-census/researchers/wenxiu-teng-a5079196/"
 layout: "researcher"
 hiddenInHomeList: true

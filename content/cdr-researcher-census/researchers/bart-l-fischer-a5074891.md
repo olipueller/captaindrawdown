@@ -1,7 +1,7 @@
 ---
 title: "Bart L. Fischer"
 description: "Bart L. Fischer is a Mid-career Soil Carbon researcher at Texas A&M University – Central Texas in US. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.212172
+date: 2026-07-11T22:39:17.129151
 url: "/cdr-researcher-census/researchers/bart-l-fischer-a5074891/"
 layout: "researcher"
 hiddenInHomeList: true

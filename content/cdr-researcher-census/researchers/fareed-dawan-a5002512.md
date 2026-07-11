@@ -1,7 +1,7 @@
 ---
 title: "Fareed Dawan"
 description: "Fareed Dawan is a Senior General CDR researcher at Southern University and Agricultural and Mechanical College in US. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.416633
+date: 2026-07-11T22:39:16.511018
 url: "/cdr-researcher-census/researchers/fareed-dawan-a5002512/"
 layout: "researcher"
 hiddenInHomeList: true

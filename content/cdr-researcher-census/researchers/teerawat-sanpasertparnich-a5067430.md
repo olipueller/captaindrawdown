@@ -1,7 +1,7 @@
 ---
 title: "Teerawat Sanpasertparnich"
-description: "Teerawat Sanpasertparnich is a Senior General CDR researcher. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.657564
+description: "Teerawat Sanpasertparnich is a Senior BECCS researcher. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.746626
 url: "/cdr-researcher-census/researchers/teerawat-sanpasertparnich-a5067430/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,9 +26,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

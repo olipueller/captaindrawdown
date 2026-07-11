@@ -1,7 +1,7 @@
 ---
 title: "Shalini Shalini"
 description: "Shalini Shalini is a Mid-career Soil Carbon researcher at University of Agricultural Sciences, Bangalore in IN. With 39 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.101893
+date: 2026-07-11T22:39:17.074165
 url: "/cdr-researcher-census/researchers/shalini-shalini-a5101532/"
 layout: "researcher"
 hiddenInHomeList: true

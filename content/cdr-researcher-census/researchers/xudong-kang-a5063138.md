@@ -1,7 +1,7 @@
 ---
 title: "Xudong Kang"
 description: "Xudong Kang is a Mid-career Biochar researcher at Hohai University in CN. With 24 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.471828
+date: 2026-07-11T22:39:16.566567
 url: "/cdr-researcher-census/researchers/xudong-kang-a5063138/"
 layout: "researcher"
 hiddenInHomeList: true

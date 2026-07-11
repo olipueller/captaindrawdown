@@ -1,7 +1,7 @@
 ---
 title: "Wenqin Li"
 description: "Wenqin Li is a Senior General CDR researcher at Universidad de Valladolid in ES. With 60 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.143151
+date: 2026-07-11T22:39:16.239387
 url: "/cdr-researcher-census/researchers/wenqin-li-a5101551/"
 layout: "researcher"
 hiddenInHomeList: true

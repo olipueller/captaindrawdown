@@ -1,7 +1,7 @@
 ---
 title: "Svend Vendelbo Nielsen"
 description: "Svend Vendelbo Nielsen is a Mid-career Soil Carbon researcher at Danish Technological Institute in DK. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.570065
+date: 2026-07-11T22:39:16.662426
 url: "/cdr-researcher-census/researchers/svend-vendelbo-nielsen-a5103733/"
 layout: "researcher"
 hiddenInHomeList: true

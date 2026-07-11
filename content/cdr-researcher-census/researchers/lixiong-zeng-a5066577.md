@@ -1,7 +1,7 @@
 ---
 title: "Lixiong Zeng"
 description: "Lixiong Zeng is a Senior Soil Carbon researcher at Central South University in CN. With 125 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.070288
+date: 2026-07-11T22:39:16.173855
 url: "/cdr-researcher-census/researchers/lixiong-zeng-a5066577/"
 layout: "researcher"
 hiddenInHomeList: true

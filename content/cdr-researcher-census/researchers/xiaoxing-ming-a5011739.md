@@ -1,7 +1,7 @@
 ---
 title: "Xiaoxing Ming"
 description: "Xiaoxing Ming is a Mid-career Enhanced Weathering researcher at China University of Geosciences (Beijing) in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.062374
+date: 2026-07-11T22:39:17.052668
 url: "/cdr-researcher-census/researchers/xiaoxing-ming-a5011739/"
 layout: "researcher"
 hiddenInHomeList: true

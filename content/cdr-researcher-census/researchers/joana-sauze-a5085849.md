@@ -1,7 +1,7 @@
 ---
 title: "Joana Sauze"
 description: "Joana Sauze is a Mid-career Soil Carbon researcher at CNRS, Ecotron  in FR. With 75 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.426758
+date: 2026-07-11T22:39:16.521169
 url: "/cdr-researcher-census/researchers/joana-sauze-a5085849/"
 layout: "researcher"
 hiddenInHomeList: true

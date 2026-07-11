@@ -1,7 +1,7 @@
 ---
 title: "Iza Lantgios"
 description: "Iza Lantgios is an Early-career DAC researcher at Idaho National Laboratory in US. With 7 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.764650
+date: 2026-07-11T22:39:16.846420
 url: "/cdr-researcher-census/researchers/iza-lantgios-a5084466/"
 layout: "researcher"
 hiddenInHomeList: true

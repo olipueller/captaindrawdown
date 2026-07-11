@@ -1,7 +1,7 @@
 ---
 title: "Adam Goff"
-description: "Adam Goff is a Mid-career General CDR researcher at Luna Innovations (United States) in US. With 25 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.497369
+description: "Adam Goff is a Mid-career DAC researcher at Luna Innovations (United States) in US. With 25 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.422578
 url: "/cdr-researcher-census/researchers/adam-goff-a5002373/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Luna Innovations (United States) · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

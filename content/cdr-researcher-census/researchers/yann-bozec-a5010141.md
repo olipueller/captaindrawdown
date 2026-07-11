@@ -1,7 +1,7 @@
 ---
 title: "Yann Bozec"
 description: "Yann Bozec is a Senior Ocean CDR researcher at Centre National de la Recherche Scientifique in FR. With 73 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.001209
+date: 2026-07-11T22:39:16.117259
 url: "/cdr-researcher-census/researchers/yann-bozec-a5010141/"
 layout: "researcher"
 hiddenInHomeList: true

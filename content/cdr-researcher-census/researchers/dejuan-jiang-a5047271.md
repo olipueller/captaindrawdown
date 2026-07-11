@@ -1,7 +1,7 @@
 ---
 title: "Dejuan Jiang"
-description: "Dejuan Jiang is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 31 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.274337
+description: "Dejuan Jiang is a Senior Biochar researcher at Chinese Academy of Sciences in CN. With 31 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.363980
 url: "/cdr-researcher-census/researchers/dejuan-jiang-a5047271/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Chinese Academy of Sciences · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

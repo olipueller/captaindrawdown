@@ -1,7 +1,7 @@
 ---
 title: "Christopher T. Reinhard"
 description: "Christopher T. Reinhard is an Eminent General CDR researcher at Georgia Institute of Technology in US. With 287 publications and an h-index of 58, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:39.958040
+date: 2026-07-11T22:39:16.088863
 url: "/cdr-researcher-census/researchers/christopher-t-reinhard-a5061963/"
 layout: "researcher"
 hiddenInHomeList: true

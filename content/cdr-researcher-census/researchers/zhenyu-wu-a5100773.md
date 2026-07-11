@@ -1,7 +1,7 @@
 ---
 title: "Zhenyu Wu"
 description: "Zhenyu Wu is a Mid-career Biochar researcher at Guilin University of Technology in CN. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.938806
+date: 2026-07-11T22:39:16.999019
 url: "/cdr-researcher-census/researchers/zhenyu-wu-a5100773/"
 layout: "researcher"
 hiddenInHomeList: true

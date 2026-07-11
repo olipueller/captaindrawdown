@@ -1,7 +1,7 @@
 ---
 title: "Xingmei Jiang"
 description: "Xingmei Jiang is a Mid-career Biochar researcher at Animal Husbandry & Veterinary in IN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.498677
+date: 2026-07-11T22:39:17.424083
 url: "/cdr-researcher-census/researchers/xingmei-jiang-a5077924/"
 layout: "researcher"
 hiddenInHomeList: true

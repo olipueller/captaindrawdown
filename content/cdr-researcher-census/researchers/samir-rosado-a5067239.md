@@ -1,7 +1,7 @@
 ---
 title: "Samir Rosado"
 description: "Samir Rosado is a Mid-career Ocean CDR researcher at Central America Health Sciences University in BZ. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.365054
+date: 2026-07-11T22:39:16.456249
 url: "/cdr-researcher-census/researchers/samir-rosado-a5067239/"
 layout: "researcher"
 hiddenInHomeList: true

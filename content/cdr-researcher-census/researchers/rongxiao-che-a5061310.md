@@ -1,7 +1,7 @@
 ---
 title: "Rongxiao Che"
 description: "Rongxiao Che is a Senior Soil Carbon researcher at Yunnan University in CN. With 99 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.018122
+date: 2026-07-11T22:39:16.130585
 url: "/cdr-researcher-census/researchers/rongxiao-che-a5061310/"
 layout: "researcher"
 hiddenInHomeList: true

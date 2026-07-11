@@ -1,7 +1,7 @@
 ---
 title: "Dominic Woolf"
 description: "Dominic Woolf is a Senior General CDR researcher at Cornell University in US. With 53 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:39.994572
+date: 2026-07-11T22:39:16.111896
 url: "/cdr-researcher-census/researchers/dominic-woolf-a5010625/"
 layout: "researcher"
 hiddenInHomeList: true

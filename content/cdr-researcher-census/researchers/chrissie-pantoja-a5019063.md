@@ -1,7 +1,7 @@
 ---
 title: "Chrissie Pantoja"
 description: "Chrissie Pantoja is a Mid-career General CDR researcher at Duke University in US. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.207535
+date: 2026-07-11T22:39:17.124979
 url: "/cdr-researcher-census/researchers/chrissie-pantoja-a5019063/"
 layout: "researcher"
 hiddenInHomeList: true

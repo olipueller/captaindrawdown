@@ -1,7 +1,7 @@
 ---
 title: "Arslan Asim"
-description: "Arslan Asim is a Mid-career General CDR researcher at Niğde Ömer Halisdemir Üniversitesi in TR. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.025136
+description: "Arslan Asim is a Mid-career Biochar researcher at Niğde Ömer Halisdemir Üniversitesi in TR. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.037757
 url: "/cdr-researcher-census/researchers/arslan-asim-a5085669/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Niğde Ömer Halisdemir Üniversitesi ·  TR
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

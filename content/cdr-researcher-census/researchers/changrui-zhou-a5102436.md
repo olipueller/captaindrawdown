@@ -1,7 +1,7 @@
 ---
 title: "Changrui Zhou"
 description: "Changrui Zhou is a Mid-career Soil Carbon researcher at Henan University of Urban Construction in CN. With 30 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.685383
+date: 2026-07-11T22:39:16.770997
 url: "/cdr-researcher-census/researchers/changrui-zhou-a5102436/"
 layout: "researcher"
 hiddenInHomeList: true

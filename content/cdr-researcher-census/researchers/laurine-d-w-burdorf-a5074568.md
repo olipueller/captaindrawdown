@@ -1,7 +1,7 @@
 ---
 title: "Laurine D. W. Burdorf"
-description: "Laurine D. W. Burdorf is a Mid-career Ocean CDR researcher at University of Antwerp in BE. With 35 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.247821
+description: "Laurine D. W. Burdorf is a Mid-career Enhanced Weathering researcher at University of Antwerp in BE. With 35 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.338096
 url: "/cdr-researcher-census/researchers/laurine-d-w-burdorf-a5074568/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Antwerp · 🇧🇪 BE
 
 ## CDR Specialization
 
-**Ocean CDR**
+**Enhanced Weathering**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

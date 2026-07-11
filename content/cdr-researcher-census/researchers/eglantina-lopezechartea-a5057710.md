@@ -1,7 +1,7 @@
 ---
 title: "Eglantina Lopez‐Echartea"
-description: "Eglantina Lopez‐Echartea is a Mid-career General CDR researcher at Dakota State University in US. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.322223
+description: "Eglantina Lopez‐Echartea is a Mid-career Biochar researcher at Dakota State University in US. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.239580
 url: "/cdr-researcher-census/researchers/eglantina-lopezechartea-a5057710/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Dakota State University · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

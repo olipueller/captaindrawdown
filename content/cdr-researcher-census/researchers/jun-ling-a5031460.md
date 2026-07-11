@@ -1,7 +1,7 @@
 ---
 title: "Jun Ling"
 description: "Jun Ling is a Mid-career Soil Carbon researcher at China Agricultural University in CN. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.442458
+date: 2026-07-11T22:39:16.537050
 url: "/cdr-researcher-census/researchers/jun-ling-a5031460/"
 layout: "researcher"
 hiddenInHomeList: true

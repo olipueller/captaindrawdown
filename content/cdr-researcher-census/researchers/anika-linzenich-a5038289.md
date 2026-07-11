@@ -1,7 +1,7 @@
 ---
 title: "Anika Linzenich"
-description: "Anika Linzenich is a Mid-career General CDR researcher at RWTH Aachen University in DE. With 23 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.416406
+description: "Anika Linzenich is a Mid-career DAC researcher at RWTH Aachen University in DE. With 23 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.510774
 url: "/cdr-researcher-census/researchers/anika-linzenich-a5038289/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ RWTH Aachen University · 🇩🇪 DE
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

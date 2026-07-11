@@ -1,7 +1,7 @@
 ---
 title: "Tamanna Mamun Novera"
 description: "Tamanna Mamun Novera is a Mid-career Biochar researcher at University of Alberta in CA. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.773608
+date: 2026-07-11T22:39:16.855184
 url: "/cdr-researcher-census/researchers/tamanna-mamun-novera-a5015068/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shengnan Zhuo"
 description: "Shengnan Zhuo is a Mid-career Biochar researcher at Henan Academy of Sciences in CN. With 22 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.218565
+date: 2026-07-11T22:39:16.309200
 url: "/cdr-researcher-census/researchers/shengnan-zhuo-a5073409/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Chawannat Jaroenkhasemmeesuk"
-description: "Chawannat Jaroenkhasemmeesuk is a Mid-career General CDR researcher at Chiang Mai University in TH. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.835937
+description: "Chawannat Jaroenkhasemmeesuk is a Mid-career DAC researcher at Chiang Mai University in TH. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.913155
 url: "/cdr-researcher-census/researchers/chawannat-jaroenkhasemmeesuk-a5074697/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Chiang Mai University · 🇹🇭 TH
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "Timothy F. Baars"
-description: "Timothy F. Baars is a Mid-career General CDR researcher at Union Bank of Switzerland in CH. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.627368
+description: "Timothy F. Baars is a Mid-career Biochar researcher at Union Bank of Switzerland in CH. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.546472
 url: "/cdr-researcher-census/researchers/timothy-f-baars-a5017531/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Union Bank of Switzerland · 🇨🇭 CH
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

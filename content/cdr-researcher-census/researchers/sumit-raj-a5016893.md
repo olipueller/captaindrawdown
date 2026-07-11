@@ -1,7 +1,7 @@
 ---
 title: "Sumit Raj"
 description: "Sumit Raj is a Mid-career Soil Carbon researcher at All India Institute of Medical Sciences Bhopal in IN. With 48 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.160655
+date: 2026-07-11T22:39:17.099028
 url: "/cdr-researcher-census/researchers/sumit-raj-a5016893/"
 layout: "researcher"
 hiddenInHomeList: true

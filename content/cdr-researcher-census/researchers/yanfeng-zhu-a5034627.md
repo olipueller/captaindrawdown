@@ -1,7 +1,7 @@
 ---
 title: "Yanfeng Zhu"
 description: "Yanfeng Zhu is a Senior Soil Carbon researcher at Hebei University of Architecture in CN. With 46 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.319003
+date: 2026-07-11T22:39:16.409823
 url: "/cdr-researcher-census/researchers/yanfeng-zhu-a5034627/"
 layout: "researcher"
 hiddenInHomeList: true

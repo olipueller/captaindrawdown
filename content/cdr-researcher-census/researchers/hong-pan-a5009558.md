@@ -1,7 +1,7 @@
 ---
 title: "Hong Pan"
 description: "Hong Pan is a Senior Soil Carbon researcher at Shandong Agricultural University in CN. With 131 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.067564
+date: 2026-07-11T22:39:16.171098
 url: "/cdr-researcher-census/researchers/hong-pan-a5009558/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Heikki Kiheri"
 description: "Heikki Kiheri is a Mid-career Soil Carbon researcher at University of Helsinki in FI. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.362523
+date: 2026-07-11T22:39:17.281495
 url: "/cdr-researcher-census/researchers/heikki-kiheri-a5069890/"
 layout: "researcher"
 hiddenInHomeList: true

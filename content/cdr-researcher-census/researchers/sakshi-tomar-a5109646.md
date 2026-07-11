@@ -1,7 +1,7 @@
 ---
 title: "Sakshi Tomar"
 description: "Sakshi Tomar is a Senior Soil Carbon researcher at Amicable Knowledge Solution University in IN. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.190877
+date: 2026-07-11T22:39:17.112998
 url: "/cdr-researcher-census/researchers/sakshi-tomar-a5109646/"
 layout: "researcher"
 hiddenInHomeList: true

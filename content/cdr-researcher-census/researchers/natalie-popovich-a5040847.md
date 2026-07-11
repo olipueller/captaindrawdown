@@ -1,7 +1,7 @@
 ---
 title: "Natalie Popovich"
-description: "Natalie Popovich is a Mid-career General CDR researcher at Lawrence Berkeley National Laboratory in US. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.340921
+description: "Natalie Popovich is a Mid-career DAC researcher at Lawrence Berkeley National Laboratory in US. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.431313
 url: "/cdr-researcher-census/researchers/natalie-popovich-a5040847/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Lawrence Berkeley National Laboratory · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

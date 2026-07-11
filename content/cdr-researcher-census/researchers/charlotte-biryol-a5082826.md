@@ -1,7 +1,7 @@
 ---
 title: "Charlotte Biryol"
 description: "Charlotte Biryol is a Mid-career Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 21 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.096194
+date: 2026-07-11T22:39:17.068925
 url: "/cdr-researcher-census/researchers/charlotte-biryol-a5082826/"
 layout: "researcher"
 hiddenInHomeList: true

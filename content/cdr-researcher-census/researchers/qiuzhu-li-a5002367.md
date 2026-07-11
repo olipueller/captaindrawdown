@@ -1,7 +1,7 @@
 ---
 title: "Qiuzhu Li"
 description: "Qiuzhu Li is a Senior Soil Carbon researcher at Jilin University in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.249557
+date: 2026-07-11T22:39:17.166874
 url: "/cdr-researcher-census/researchers/qiuzhu-li-a5002367/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Anthony J. Giarrusso"
-description: "Anthony J. Giarrusso is a Senior General CDR researcher at Georgia Institute of Technology in US. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.328759
+description: "Anthony J. Giarrusso is a Senior DAC researcher at Georgia Institute of Technology in US. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.246503
 url: "/cdr-researcher-census/researchers/anthony-j-giarrusso-a5022281/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Georgia Institute of Technology · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

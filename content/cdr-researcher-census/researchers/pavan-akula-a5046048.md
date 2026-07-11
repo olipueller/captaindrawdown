@@ -1,7 +1,7 @@
 ---
 title: "Pavan Akula"
 description: "Pavan Akula is a Mid-career Soil Carbon researcher at United States Army Corps of Engineers in US. With 36 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.839766
+date: 2026-07-11T22:39:16.916892
 url: "/cdr-researcher-census/researchers/pavan-akula-a5046048/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zepeng Yang"
 description: "Zepeng Yang is a Mid-career Soil Carbon researcher at China University of Petroleum, Beijing in CN. With 53 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.631978
+date: 2026-07-11T22:39:16.722714
 url: "/cdr-researcher-census/researchers/zepeng-yang-a5008748/"
 layout: "researcher"
 hiddenInHomeList: true

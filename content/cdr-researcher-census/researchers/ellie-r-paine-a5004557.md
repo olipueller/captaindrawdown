@@ -1,7 +1,7 @@
 ---
 title: "Ellie R. Paine"
 description: "Ellie R. Paine is a Mid-career Ocean CDR researcher at University of Tasmania in AU. With 14 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.394543
+date: 2026-07-11T22:39:16.488366
 url: "/cdr-researcher-census/researchers/ellie-r-paine-a5004557/"
 layout: "researcher"
 hiddenInHomeList: true

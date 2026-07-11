@@ -1,7 +1,7 @@
 ---
 title: "Chaofan Xu"
-description: "Chaofan Xu is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.553004
+description: "Chaofan Xu is a Mid-career Biochar researcher at Nanjing Agricultural University in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.476775
 url: "/cdr-researcher-census/researchers/chaofan-xu-a5056150/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Nanjing Agricultural University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

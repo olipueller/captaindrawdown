@@ -1,7 +1,7 @@
 ---
 title: "Gabriele Antoniella"
 description: "Gabriele Antoniella is a Mid-career Soil Carbon researcher at Università degli Studi della Tuscia in IT. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.273297
+date: 2026-07-11T22:39:17.190611
 url: "/cdr-researcher-census/researchers/gabriele-antoniella-a5009009/"
 layout: "researcher"
 hiddenInHomeList: true

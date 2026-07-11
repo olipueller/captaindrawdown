@@ -1,7 +1,7 @@
 ---
 title: "Baiba Ieviņa"
-description: "Baiba Ieviņa is a Senior General CDR researcher at Riga Technical University in LV. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.115320
+description: "Baiba Ieviņa is a Senior BECCS researcher at Riga Technical University in LV. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.078199
 url: "/cdr-researcher-census/researchers/baiba-ievina-a5040495/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Riga Technical University ·  LV
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "Angela Maffia"
 description: "Angela Maffia is a Mid-career Soil Carbon researcher at Centro di Terapia Metacognitiva Interpersonale in IT. With 49 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.603052
+date: 2026-07-11T22:39:16.695758
 url: "/cdr-researcher-census/researchers/angela-maffia-a5050621/"
 layout: "researcher"
 hiddenInHomeList: true

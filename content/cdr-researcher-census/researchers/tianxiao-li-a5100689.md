@@ -1,7 +1,7 @@
 ---
 title: "Tianxiao Li"
 description: "Tianxiao Li is a Senior Soil Carbon researcher at Northeast Agricultural University in CN. With 72 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.199088
+date: 2026-07-11T22:39:16.291555
 url: "/cdr-researcher-census/researchers/tianxiao-li-a5100689/"
 layout: "researcher"
 hiddenInHomeList: true

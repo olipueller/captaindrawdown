@@ -1,7 +1,7 @@
 ---
 title: "C. B. Shivayogimath"
 description: "C. B. Shivayogimath is a Senior Biochar researcher at Association for Machine Translation in the Americas in US. With 25 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.705244
+date: 2026-07-11T22:39:16.788452
 url: "/cdr-researcher-census/researchers/c-b-shivayogimath-a5075611/"
 layout: "researcher"
 hiddenInHomeList: true

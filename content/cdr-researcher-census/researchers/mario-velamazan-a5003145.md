@@ -1,7 +1,7 @@
 ---
 title: "Mario Velamazán"
 description: "Mario Velamazán is a Mid-career Soil Carbon researcher at Universitat de Miguel Hernández d'Elx in ES. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.323748
+date: 2026-07-11T22:39:17.241052
 url: "/cdr-researcher-census/researchers/mario-velamazan-a5003145/"
 layout: "researcher"
 hiddenInHomeList: true

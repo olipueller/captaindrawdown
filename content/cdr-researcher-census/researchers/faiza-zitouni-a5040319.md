@@ -1,7 +1,7 @@
 ---
 title: "Faiza Zitouni"
-description: "Faiza Zitouni is a Senior General CDR researcher at Aswan University in EG. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.341443
+description: "Faiza Zitouni is a Senior Biochar researcher at Aswan University in EG. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.259103
 url: "/cdr-researcher-census/researchers/faiza-zitouni-a5040319/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Aswan University ·  EG
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

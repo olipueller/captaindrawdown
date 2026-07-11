@@ -1,7 +1,7 @@
 ---
 title: "Shakirah Nakasagga"
 description: "Shakirah Nakasagga is a Mid-career Soil Carbon researcher at Missouri State University in US. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.384103
+date: 2026-07-11T22:39:17.304768
 url: "/cdr-researcher-census/researchers/shakirah-nakasagga-a5029611/"
 layout: "researcher"
 hiddenInHomeList: true

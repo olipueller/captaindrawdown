@@ -1,7 +1,7 @@
 ---
 title: "Zhenzhong Dai"
 description: "Zhenzhong Dai is a Mid-career General CDR researcher at North West Agriculture and Forestry University in CN. With 11 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.168712
+date: 2026-07-11T22:39:17.102515
 url: "/cdr-researcher-census/researchers/zhenzhong-dai-a5078197/"
 layout: "researcher"
 hiddenInHomeList: true

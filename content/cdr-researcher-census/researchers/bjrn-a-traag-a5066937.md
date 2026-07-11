@@ -1,7 +1,7 @@
 ---
 title: "Bjørn A. Traag"
-description: "Bjørn A. Traag is a Senior Soil Carbon researcher at Alameda Hospital in US. With 23 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.290407
+description: "Bjørn A. Traag is a Senior Enhanced Weathering researcher at Alameda Hospital in US. With 23 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.381178
 url: "/cdr-researcher-census/researchers/bjrn-a-traag-a5066937/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Alameda Hospital · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Enhanced Weathering**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

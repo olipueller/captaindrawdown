@@ -1,7 +1,7 @@
 ---
 title: "M. D. Amarasinghe"
-description: "M. D. Amarasinghe is a Senior Soil Carbon researcher at University of Kelaniya in LK. With 39 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.145610
+description: "M. D. Amarasinghe is a Senior Biochar researcher at University of Kelaniya in LK. With 39 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.241830
 url: "/cdr-researcher-census/researchers/m-d-amarasinghe-a5011968/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Kelaniya ·  LK
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

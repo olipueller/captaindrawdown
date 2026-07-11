@@ -1,7 +1,7 @@
 ---
 title: "Zhenfu Wu"
 description: "Zhenfu Wu is a Mid-career Soil Carbon researcher at Gannan Medical University in CN. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.571438
+date: 2026-07-11T22:39:17.494316
 url: "/cdr-researcher-census/researchers/zhenfu-wu-a5110363/"
 layout: "researcher"
 hiddenInHomeList: true

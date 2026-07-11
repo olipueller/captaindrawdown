@@ -1,7 +1,7 @@
 ---
 title: "Phung-Ngoc-Thao Ho"
 description: "Phung-Ngoc-Thao Ho is an Early-career Ocean CDR researcher at National Kaohsiung University of Science and Technology. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.563046
+date: 2026-07-11T22:39:17.486149
 url: "/cdr-researcher-census/researchers/phung-ngoc-thao-ho-a5110959/"
 layout: "researcher"
 hiddenInHomeList: true

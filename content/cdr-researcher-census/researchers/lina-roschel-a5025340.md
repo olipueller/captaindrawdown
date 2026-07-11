@@ -1,7 +1,7 @@
 ---
 title: "Lina Röschel"
 description: "Lina Röschel is a Mid-career Ocean CDR researcher. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.674200
+date: 2026-07-11T22:39:16.760572
 url: "/cdr-researcher-census/researchers/lina-roschel-a5025340/"
 layout: "researcher"
 hiddenInHomeList: true

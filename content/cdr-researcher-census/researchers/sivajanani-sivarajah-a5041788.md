@@ -1,7 +1,7 @@
 ---
 title: "Sivajanani Sivarajah"
 description: "Sivajanani Sivarajah is a Mid-career Soil Carbon researcher at Center for Northern Studies in CA. With 11 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.466730
+date: 2026-07-11T22:39:17.391019
 url: "/cdr-researcher-census/researchers/sivajanani-sivarajah-a5041788/"
 layout: "researcher"
 hiddenInHomeList: true

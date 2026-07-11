@@ -1,7 +1,7 @@
 ---
 title: "Yongxiang Gao"
 description: "Yongxiang Gao is a Mid-career Soil Carbon researcher at Shandong Agricultural University in CN. With 15 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.430992
+date: 2026-07-11T22:39:16.525508
 url: "/cdr-researcher-census/researchers/yongxiang-gao-a5021063/"
 layout: "researcher"
 hiddenInHomeList: true

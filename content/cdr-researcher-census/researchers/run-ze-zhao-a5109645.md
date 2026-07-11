@@ -1,7 +1,7 @@
 ---
 title: "Run-Ze Zhao"
 description: "Run-Ze Zhao is an Early-career Biochar researcher at University of South China in CN. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.607081
+date: 2026-07-11T22:39:17.526680
 url: "/cdr-researcher-census/researchers/run-ze-zhao-a5109645/"
 layout: "researcher"
 hiddenInHomeList: true

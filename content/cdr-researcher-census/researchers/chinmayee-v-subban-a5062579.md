@@ -1,7 +1,7 @@
 ---
 title: "Chinmayee V. Subban"
 description: "Chinmayee V. Subban is a Senior Ocean CDR researcher at Pacific Northwest National Laboratory in US. With 56 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.300511
+date: 2026-07-11T22:39:16.391340
 url: "/cdr-researcher-census/researchers/chinmayee-v-subban-a5062579/"
 layout: "researcher"
 hiddenInHomeList: true

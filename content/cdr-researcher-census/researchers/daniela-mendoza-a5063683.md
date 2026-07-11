@@ -1,7 +1,7 @@
 ---
 title: "Daniela Mendoza"
 description: "Daniela Mendoza is a Mid-career Soil Carbon researcher at Universidad de La Frontera in CL. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.261893
+date: 2026-07-11T22:39:16.352443
 url: "/cdr-researcher-census/researchers/daniela-mendoza-a5063683/"
 layout: "researcher"
 hiddenInHomeList: true

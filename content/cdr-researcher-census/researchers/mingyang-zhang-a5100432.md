@@ -1,7 +1,7 @@
 ---
 title: "Mingyang Zhang"
 description: "Mingyang Zhang is a Mid-career Biochar researcher at Ministry of Ecology and Environment in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.594240
+date: 2026-07-11T22:39:17.514993
 url: "/cdr-researcher-census/researchers/mingyang-zhang-a5100432/"
 layout: "researcher"
 hiddenInHomeList: true

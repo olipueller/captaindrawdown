@@ -1,7 +1,7 @@
 ---
 title: "Jeanette Whitaker"
 description: "Jeanette Whitaker is a Senior Soil Carbon researcher at UK Centre for Ecology & Hydrology in GB. With 104 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:39.975868
+date: 2026-07-11T22:39:16.099443
 url: "/cdr-researcher-census/researchers/jeanette-whitaker-a5079699/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Tansu Galimova"
-description: "Tansu Galimova is a Mid-career General CDR researcher at LUT University in FI. With 27 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.267301
+description: "Tansu Galimova is a Mid-career DAC researcher at LUT University in FI. With 27 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.357391
 url: "/cdr-researcher-census/researchers/tansu-galimova-a5075741/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ LUT University ·  FI
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

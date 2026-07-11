@@ -1,7 +1,7 @@
 ---
 title: "Maren Haug Gvein"
 description: "Maren Haug Gvein is an Early-career BECCS researcher at Norwegian University of Science and Technology in NO. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.438534
+date: 2026-07-11T22:39:17.362350
 url: "/cdr-researcher-census/researchers/maren-haug-gvein-a5036066/"
 layout: "researcher"
 hiddenInHomeList: true

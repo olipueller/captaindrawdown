@@ -1,7 +1,7 @@
 ---
 title: "Theodore A. Chavkin"
 description: "Theodore A. Chavkin is a Senior Ocean CDR researcher at University of Wisconsin–Madison in US. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.191235
+date: 2026-07-11T22:39:16.284075
 url: "/cdr-researcher-census/researchers/theodore-a-chavkin-a5030355/"
 layout: "researcher"
 hiddenInHomeList: true

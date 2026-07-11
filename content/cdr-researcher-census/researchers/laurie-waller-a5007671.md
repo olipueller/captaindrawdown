@@ -1,7 +1,7 @@
 ---
 title: "Laurie Waller"
 description: "Laurie Waller is a Mid-career General CDR researcher at University of Manchester in GB. With 28 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.097011
+date: 2026-07-11T22:39:17.069651
 url: "/cdr-researcher-census/researchers/laurie-waller-a5007671/"
 layout: "researcher"
 hiddenInHomeList: true

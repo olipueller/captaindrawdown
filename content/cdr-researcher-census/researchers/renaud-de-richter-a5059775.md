@@ -1,7 +1,7 @@
 ---
 title: "Renaud de Richter"
 description: "Renaud de Richter is a Senior General CDR researcher. With 78 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.059792
+date: 2026-07-11T22:39:16.165401
 url: "/cdr-researcher-census/researchers/renaud-de-richter-a5059775/"
 layout: "researcher"
 hiddenInHomeList: true

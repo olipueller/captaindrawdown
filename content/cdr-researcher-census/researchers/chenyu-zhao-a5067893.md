@@ -1,7 +1,7 @@
 ---
 title: "Chenyu Zhao"
 description: "Chenyu Zhao is a Mid-career Soil Carbon researcher at Jilin Agricultural University in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.643923
+date: 2026-07-11T22:39:17.567399
 url: "/cdr-researcher-census/researchers/chenyu-zhao-a5067893/"
 layout: "researcher"
 hiddenInHomeList: true

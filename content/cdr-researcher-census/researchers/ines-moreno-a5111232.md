@@ -1,7 +1,7 @@
 ---
 title: "Inés Moreno"
 description: "Inés Moreno is a Senior Biochar researcher. With 31 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.229731
+date: 2026-07-11T22:39:16.320446
 url: "/cdr-researcher-census/researchers/ines-moreno-a5111232/"
 layout: "researcher"
 hiddenInHomeList: true

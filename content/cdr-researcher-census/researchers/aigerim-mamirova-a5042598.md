@@ -1,7 +1,7 @@
 ---
 title: "Aigerim Mamirova"
-description: "Aigerim Mamirova is a Mid-career Soil Carbon researcher at Al-Farabi Kazakh National University in KZ. With 53 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.522687
+description: "Aigerim Mamirova is a Mid-career Biochar researcher at Al-Farabi Kazakh National University in KZ. With 53 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.617278
 url: "/cdr-researcher-census/researchers/aigerim-mamirova-a5042598/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Al-Farabi Kazakh National University · 🇰🇿 KZ
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "Isabella Cristina Dall’Oglio"
 description: "Isabella Cristina Dall’Oglio is a Mid-career Biochar researcher at Universidade Estadual do Oeste do Paraná - Campus de Toledo in BR. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.404513
+date: 2026-07-11T22:39:17.326837
 url: "/cdr-researcher-census/researchers/isabella-cristina-dalloglio-a5028013/"
 layout: "researcher"
 hiddenInHomeList: true

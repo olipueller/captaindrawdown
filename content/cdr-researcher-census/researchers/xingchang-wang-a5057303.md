@@ -1,7 +1,7 @@
 ---
 title: "Xingchang Wang"
 description: "Xingchang Wang is a Senior Soil Carbon researcher at 东北林业大学 in CN. With 64 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.253659
+date: 2026-07-11T22:39:16.344154
 url: "/cdr-researcher-census/researchers/xingchang-wang-a5057303/"
 layout: "researcher"
 hiddenInHomeList: true

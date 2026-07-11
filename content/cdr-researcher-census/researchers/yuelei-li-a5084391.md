@@ -1,7 +1,7 @@
 ---
 title: "Yuelei Li"
 description: "Yuelei Li is a Senior Soil Carbon researcher at California Institute of Technology in US. With 56 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.162960
+date: 2026-07-11T22:39:16.257287
 url: "/cdr-researcher-census/researchers/yuelei-li-a5084391/"
 layout: "researcher"
 hiddenInHomeList: true

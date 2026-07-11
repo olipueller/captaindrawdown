@@ -1,7 +1,7 @@
 ---
 title: "Jie Zhou"
 description: "Jie Zhou is a Mid-career Soil Carbon researcher at Hubei University of Chinese Medicine in CN. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.669084
+date: 2026-07-11T22:39:16.756089
 url: "/cdr-researcher-census/researchers/jie-zhou-a5107006/"
 layout: "researcher"
 hiddenInHomeList: true

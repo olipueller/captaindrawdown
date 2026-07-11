@@ -1,7 +1,7 @@
 ---
 title: "Cui Deng"
 description: "Cui Deng is a Mid-career Soil Carbon researcher at Fujian Normal University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.351563
+date: 2026-07-11T22:39:17.270657
 url: "/cdr-researcher-census/researchers/cui-deng-a5090795/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Assefa Abegaz"
 description: "Assefa Abegaz is a Senior Soil Carbon researcher at Addis Ababa University in ET. With 69 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.178823
+date: 2026-07-11T22:39:16.272611
 url: "/cdr-researcher-census/researchers/assefa-abegaz-a5019517/"
 layout: "researcher"
 hiddenInHomeList: true

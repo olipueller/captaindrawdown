@@ -1,7 +1,7 @@
 ---
 title: "Hao Zhang"
 description: "Hao Zhang is a Senior Soil Carbon researcher at Dalian University in CN. With 36 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.419539
+date: 2026-07-11T22:39:16.514131
 url: "/cdr-researcher-census/researchers/hao-zhang-a5100396/"
 layout: "researcher"
 hiddenInHomeList: true

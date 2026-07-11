@@ -1,7 +1,7 @@
 ---
 title: "Slyvester Yew Wang Chai"
-description: "Slyvester Yew Wang Chai is a Mid-career General CDR researcher at Jinan University in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.360194
+description: "Slyvester Yew Wang Chai is a Mid-career Enhanced Weathering researcher at Jinan University in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.451090
 url: "/cdr-researcher-census/researchers/slyvester-yew-wang-chai-a5064148/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Jinan University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

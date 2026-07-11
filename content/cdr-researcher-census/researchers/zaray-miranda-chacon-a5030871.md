@@ -1,7 +1,7 @@
 ---
 title: "Zaray Miranda-Chacón"
 description: "Zaray Miranda-Chacón is a Mid-career General CDR researcher at Universidad de Costa Rica in CR. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.528303
+date: 2026-07-11T22:39:16.622367
 url: "/cdr-researcher-census/researchers/zaray-miranda-chacon-a5030871/"
 layout: "researcher"
 hiddenInHomeList: true

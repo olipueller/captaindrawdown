@@ -1,7 +1,7 @@
 ---
 title: "Lingzhi Zhu"
 description: "Lingzhi Zhu is a Mid-career Biochar researcher at Fudan University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.890473
+date: 2026-07-11T22:39:16.980583
 url: "/cdr-researcher-census/researchers/lingzhi-zhu-a5070912/"
 layout: "researcher"
 hiddenInHomeList: true

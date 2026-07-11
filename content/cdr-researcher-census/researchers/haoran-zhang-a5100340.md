@@ -1,7 +1,7 @@
 ---
 title: "Haoran Zhang"
 description: "Haoran Zhang is a Senior Biochar researcher at Al-Farabi Kazakh National University in KZ. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.223683
+date: 2026-07-11T22:39:16.314349
 url: "/cdr-researcher-census/researchers/haoran-zhang-a5100340/"
 layout: "researcher"
 hiddenInHomeList: true

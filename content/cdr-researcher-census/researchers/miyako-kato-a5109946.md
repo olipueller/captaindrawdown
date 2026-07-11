@@ -1,7 +1,7 @@
 ---
 title: "Miyako Kato"
-description: "Miyako Kato is a Senior General CDR researcher at Mizuho (Japan) in JP. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.339357
+description: "Miyako Kato is a Senior DAC researcher at Mizuho (Japan) in JP. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.429421
 url: "/cdr-researcher-census/researchers/miyako-kato-a5109946/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Mizuho (Japan) · 🇯🇵 JP
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

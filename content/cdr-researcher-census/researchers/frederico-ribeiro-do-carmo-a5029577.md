@@ -1,7 +1,7 @@
 ---
 title: "Frederico Ribeiro do Carmo"
 description: "Frederico Ribeiro do Carmo is a Mid-career Biochar researcher at Universidade Federal Rural do Semi-Árido in BR. With 41 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.668093
+date: 2026-07-11T22:39:16.755282
 url: "/cdr-researcher-census/researchers/frederico-ribeiro-do-carmo-a5029577/"
 layout: "researcher"
 hiddenInHomeList: true

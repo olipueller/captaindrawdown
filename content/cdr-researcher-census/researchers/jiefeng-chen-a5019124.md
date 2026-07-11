@@ -1,7 +1,7 @@
 ---
 title: "Jiefeng Chen"
 description: "Jiefeng Chen is a Mid-career Biochar researcher at Central South University in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.448342
+date: 2026-07-11T22:39:16.543135
 url: "/cdr-researcher-census/researchers/jiefeng-chen-a5019124/"
 layout: "researcher"
 hiddenInHomeList: true

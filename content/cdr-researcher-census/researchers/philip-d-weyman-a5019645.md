@@ -1,7 +1,7 @@
 ---
 title: "Philip D. Weyman"
 description: "Philip D. Weyman is a Senior Enhanced Weathering researcher at J. Craig Venter Institute in US. With 49 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.124114
+date: 2026-07-11T22:39:16.222040
 url: "/cdr-researcher-census/researchers/philip-d-weyman-a5019645/"
 layout: "researcher"
 hiddenInHomeList: true

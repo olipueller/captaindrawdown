@@ -1,7 +1,7 @@
 ---
 title: "Hans Sloterdijk"
 description: "Hans Sloterdijk is a Mid-career Ocean CDR researcher at Kiel Institute for the World Economy in DE. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.253965
+date: 2026-07-11T22:39:17.171779
 url: "/cdr-researcher-census/researchers/hans-sloterdijk-a5005707/"
 layout: "researcher"
 hiddenInHomeList: true

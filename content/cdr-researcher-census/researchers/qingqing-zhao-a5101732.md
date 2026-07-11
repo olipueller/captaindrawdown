@@ -1,7 +1,7 @@
 ---
 title: "Qingqing Zhao"
-description: "Qingqing Zhao is a Mid-career Soil Carbon researcher at Chinese Academy of Agricultural Sciences in CN. With 37 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.167672
+description: "Qingqing Zhao is a Mid-career Biochar researcher at Chinese Academy of Agricultural Sciences in CN. With 37 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.261677
 url: "/cdr-researcher-census/researchers/qingqing-zhao-a5101732/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Chinese Academy of Agricultural Sciences · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

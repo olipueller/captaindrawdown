@@ -1,7 +1,7 @@
 ---
 title: "Yanqi Wu"
 description: "Yanqi Wu is a Mid-career Ocean CDR researcher at Massachusetts Institute of Technology in US. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.450243
+date: 2026-07-11T22:39:17.375073
 url: "/cdr-researcher-census/researchers/yanqi-wu-a5079308/"
 layout: "researcher"
 hiddenInHomeList: true

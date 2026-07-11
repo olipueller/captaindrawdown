@@ -1,7 +1,7 @@
 ---
 title: "Zheng Zhao"
 description: "Zheng Zhao is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.920724
+date: 2026-07-11T22:39:16.983403
 url: "/cdr-researcher-census/researchers/zheng-zhao-a5100528/"
 layout: "researcher"
 hiddenInHomeList: true

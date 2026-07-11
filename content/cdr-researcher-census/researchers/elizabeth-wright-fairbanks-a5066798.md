@@ -1,7 +1,7 @@
 ---
 title: "Elizabeth Wright-Fairbanks"
 description: "Elizabeth Wright-Fairbanks is a Mid-career Ocean CDR researcher at Rutgers, The State University of New Jersey in US. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.514782
+date: 2026-07-11T22:39:17.439861
 url: "/cdr-researcher-census/researchers/elizabeth-wright-fairbanks-a5066798/"
 layout: "researcher"
 hiddenInHomeList: true

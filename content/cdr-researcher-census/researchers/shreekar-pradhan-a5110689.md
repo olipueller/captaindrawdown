@@ -1,7 +1,7 @@
 ---
 title: "Shreekar Pradhan"
-description: "Shreekar Pradhan is a Senior General CDR researcher at University of Virginia in US. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.594207
+description: "Shreekar Pradhan is a Senior DAC researcher at University of Virginia in US. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.686655
 url: "/cdr-researcher-census/researchers/shreekar-pradhan-a5110689/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ University of Virginia · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

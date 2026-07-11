@@ -1,7 +1,7 @@
 ---
 title: "Jintao Zhou"
 description: "Jintao Zhou is a Mid-career Enhanced Weathering researcher at Guizhou University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.505002
+date: 2026-07-11T22:39:17.430161
 url: "/cdr-researcher-census/researchers/jintao-zhou-a5112617/"
 layout: "researcher"
 hiddenInHomeList: true

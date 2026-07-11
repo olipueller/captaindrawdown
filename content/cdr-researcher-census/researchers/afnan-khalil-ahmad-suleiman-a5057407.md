@@ -1,7 +1,7 @@
 ---
 title: "Afnan Khalil Ahmad Suleiman"
-description: "Afnan Khalil Ahmad Suleiman is a Senior Soil Carbon researcher at Bioclear Earth (Netherlands) in NL. With 32 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.179180
+description: "Afnan Khalil Ahmad Suleiman is a Senior BECCS researcher at Bioclear Earth (Netherlands) in NL. With 32 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.272967
 url: "/cdr-researcher-census/researchers/afnan-khalil-ahmad-suleiman-a5057407/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Bioclear Earth (Netherlands) · 🇳🇱 NL
 
 ## CDR Specialization
 
-**Soil Carbon**
+**BECCS**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

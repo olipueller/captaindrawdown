@@ -1,7 +1,7 @@
 ---
 title: "Huanhao Han"
 description: "Huanhao Han is a Mid-career Soil Carbon researcher at Kunming University of Science and Technology in CN. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.261841
+date: 2026-07-11T22:39:17.179313
 url: "/cdr-researcher-census/researchers/huanhao-han-a5035535/"
 layout: "researcher"
 hiddenInHomeList: true

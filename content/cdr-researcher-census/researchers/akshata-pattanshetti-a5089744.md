@@ -1,7 +1,7 @@
 ---
 title: "Akshata Pattanshetti"
-description: "Akshata Pattanshetti is a Mid-career General CDR researcher at Shivaji University in IN. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.233613
+description: "Akshata Pattanshetti is a Mid-career Biochar researcher at Shivaji University in IN. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.150708
 url: "/cdr-researcher-census/researchers/akshata-pattanshetti-a5089744/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Shivaji University · 🇮🇳 IN
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

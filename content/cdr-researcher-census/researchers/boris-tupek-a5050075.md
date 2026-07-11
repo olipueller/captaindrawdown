@@ -1,7 +1,7 @@
 ---
 title: "Boris Ťupek"
 description: "Boris Ťupek is a Senior Soil Carbon researcher at Natural Resources Institute Finland in FI. With 96 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.400399
+date: 2026-07-11T22:39:16.494316
 url: "/cdr-researcher-census/researchers/boris-tupek-a5050075/"
 layout: "researcher"
 hiddenInHomeList: true

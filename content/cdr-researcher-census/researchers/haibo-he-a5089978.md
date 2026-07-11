@@ -1,7 +1,7 @@
 ---
 title: "Haibo He"
-description: "Haibo He is a Mid-career Ocean CDR researcher at Chinese Academy of Sciences in CN. With 55 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.279545
+description: "Haibo He is a Mid-career Enhanced Weathering researcher at Chinese Academy of Sciences in CN. With 55 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.369744
 url: "/cdr-researcher-census/researchers/haibo-he-a5089978/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Chinese Academy of Sciences · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Ocean CDR**
+**Enhanced Weathering**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

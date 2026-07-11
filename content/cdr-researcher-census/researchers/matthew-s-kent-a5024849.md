@@ -1,7 +1,7 @@
 ---
 title: "Matthew S. Kent"
 description: "Matthew S. Kent is a Mid-career Soil Carbon researcher at University of Nottingham in GB. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.854483
+date: 2026-07-11T22:39:16.931029
 url: "/cdr-researcher-census/researchers/matthew-s-kent-a5024849/"
 layout: "researcher"
 hiddenInHomeList: true

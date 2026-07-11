@@ -1,7 +1,7 @@
 ---
 title: "Benjamin Shindel"
 description: "Benjamin Shindel is a Mid-career General CDR researcher. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.972153
+date: 2026-07-11T22:39:17.017506
 url: "/cdr-researcher-census/researchers/benjamin-shindel-a5047719/"
 layout: "researcher"
 hiddenInHomeList: true

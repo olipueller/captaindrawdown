@@ -1,7 +1,7 @@
 ---
 title: "Vikas Kumar"
 description: "Vikas Kumar is a Mid-career Soil Carbon researcher. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.472678
+date: 2026-07-11T22:39:17.397110
 url: "/cdr-researcher-census/researchers/vikas-kumar-a5101567/"
 layout: "researcher"
 hiddenInHomeList: true

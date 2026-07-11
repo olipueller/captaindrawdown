@@ -1,7 +1,7 @@
 ---
 title: "Sadikshya Sharma"
-description: "Sadikshya Sharma is a Mid-career Soil Carbon researcher at Landscape Institute in GB. With 11 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.620014
+description: "Sadikshya Sharma is a Mid-career Ocean CDR researcher at Landscape Institute in GB. With 11 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.711220
 url: "/cdr-researcher-census/researchers/sadikshya-sharma-a5101453/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Landscape Institute · 🇬🇧 GB
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Ocean CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
 
 ## Metrics
 

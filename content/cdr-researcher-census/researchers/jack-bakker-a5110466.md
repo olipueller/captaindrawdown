@@ -1,7 +1,7 @@
 ---
 title: "Jack Bakker"
-description: "Jack Bakker is an Early-career General CDR researcher at Wageningen University & Research in NL. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.621625
+description: "Jack Bakker is an Early-career Enhanced Weathering researcher at Wageningen University & Research in NL. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.540511
 url: "/cdr-researcher-census/researchers/jack-bakker-a5110466/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Wageningen University & Research · 🇳🇱 NL
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

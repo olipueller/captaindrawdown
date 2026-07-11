@@ -1,7 +1,7 @@
 ---
 title: "Jie Zhou"
 description: "Jie Zhou is a Senior Soil Carbon researcher at Nanjing Agricultural University in CN. With 100 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.004278
+date: 2026-07-11T22:39:16.120101
 url: "/cdr-researcher-census/researchers/jie-zhou-a5039847/"
 layout: "researcher"
 hiddenInHomeList: true

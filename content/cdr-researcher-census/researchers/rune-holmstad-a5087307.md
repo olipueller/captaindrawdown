@@ -1,7 +1,7 @@
 ---
 title: "Rune Holmstad"
 description: "Rune Holmstad is a Senior Biochar researcher. With 22 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.108447
+date: 2026-07-11T22:39:16.207443
 url: "/cdr-researcher-census/researchers/rune-holmstad-a5087307/"
 layout: "researcher"
 hiddenInHomeList: true

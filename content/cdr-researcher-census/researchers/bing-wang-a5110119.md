@@ -1,7 +1,7 @@
 ---
 title: "Bing Wang"
-description: "Bing Wang is a Senior General CDR researcher at Cornell University in US. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.301065
+description: "Bing Wang is a Senior Enhanced Weathering researcher at Cornell University in US. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.218223
 url: "/cdr-researcher-census/researchers/bing-wang-a5110119/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Cornell University · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

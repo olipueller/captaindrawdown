@@ -1,7 +1,7 @@
 ---
 title: "Xunyang He"
 description: "Xunyang He is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 93 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.052876
+date: 2026-07-11T22:39:16.159371
 url: "/cdr-researcher-census/researchers/xunyang-he-a5100842/"
 layout: "researcher"
 hiddenInHomeList: true

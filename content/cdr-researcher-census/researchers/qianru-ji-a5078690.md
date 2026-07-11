@@ -1,7 +1,7 @@
 ---
 title: "Qianru Ji"
 description: "Qianru Ji is a Mid-career Soil Carbon researcher at Zhejiang A & F University in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.501225
+date: 2026-07-11T22:39:17.426434
 url: "/cdr-researcher-census/researchers/qianru-ji-a5078690/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Haotian Yang"
 description: "Haotian Yang is a Senior Soil Carbon researcher at Shapotou Desert Research and Experiment Station, Northwest Institute of Eco-environment and Resources, Chinese Academy of Sciences in CN. With 68 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.239922
+date: 2026-07-11T22:39:16.330667
 url: "/cdr-researcher-census/researchers/haotian-yang-a5053700/"
 layout: "researcher"
 hiddenInHomeList: true

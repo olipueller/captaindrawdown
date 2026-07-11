@@ -1,7 +1,7 @@
 ---
 title: "Rajib Sarkar"
 description: "Rajib Sarkar is a Mid-career General CDR researcher at Virginia Commonwealth University in US. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.285640
+date: 2026-07-11T22:39:17.202753
 url: "/cdr-researcher-census/researchers/rajib-sarkar-a5091585/"
 layout: "researcher"
 hiddenInHomeList: true

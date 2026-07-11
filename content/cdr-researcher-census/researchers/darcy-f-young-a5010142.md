@@ -1,7 +1,7 @@
 ---
 title: "Darcy F. Young"
 description: "Darcy F. Young is a Mid-career Soil Carbon researcher at Sarasota University in US. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.091585
+date: 2026-07-11T22:39:16.192369
 url: "/cdr-researcher-census/researchers/darcy-f-young-a5010142/"
 layout: "researcher"
 hiddenInHomeList: true

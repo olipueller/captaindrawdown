@@ -1,7 +1,7 @@
 ---
 title: "Lauren Lutzke"
 description: "Lauren Lutzke is a Mid-career General CDR researcher at University of Southern California in US. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.737949
+date: 2026-07-11T22:39:16.820521
 url: "/cdr-researcher-census/researchers/lauren-lutzke-a5068090/"
 layout: "researcher"
 hiddenInHomeList: true

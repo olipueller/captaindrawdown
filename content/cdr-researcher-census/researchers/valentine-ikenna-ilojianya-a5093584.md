@@ -1,7 +1,7 @@
 ---
 title: "Valentine Ikenna Ilojianya"
 description: "Valentine Ikenna Ilojianya is a Senior General CDR researcher at University of Alabama in US. With 33 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.146033
+date: 2026-07-11T22:39:16.242148
 url: "/cdr-researcher-census/researchers/valentine-ikenna-ilojianya-a5093584/"
 layout: "researcher"
 hiddenInHomeList: true

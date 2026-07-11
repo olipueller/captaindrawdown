@@ -1,7 +1,7 @@
 ---
 title: "Marion Stöhr"
-description: "Marion Stöhr is a Senior General CDR researcher at Leibniz Institute for Catalysis in DE. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.962421
+description: "Marion Stöhr is a Senior DAC researcher at Leibniz Institute for Catalysis in DE. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.011135
 url: "/cdr-researcher-census/researchers/marion-stohr-a5014316/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Leibniz Institute for Catalysis · 🇩🇪 DE
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

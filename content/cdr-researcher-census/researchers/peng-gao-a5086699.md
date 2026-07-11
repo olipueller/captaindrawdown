@@ -1,7 +1,7 @@
 ---
 title: "Peng Gao"
 description: "Peng Gao is a Senior Soil Carbon researcher at Xinjiang Agricultural University in CN. With 34 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.345620
+date: 2026-07-11T22:39:16.435939
 url: "/cdr-researcher-census/researchers/peng-gao-a5086699/"
 layout: "researcher"
 hiddenInHomeList: true

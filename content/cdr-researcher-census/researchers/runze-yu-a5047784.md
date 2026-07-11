@@ -1,7 +1,7 @@
 ---
 title: "Runze Yu"
 description: "Runze Yu is a Mid-career Soil Carbon researcher at California State University Fresno in US. With 28 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.384626
+date: 2026-07-11T22:39:16.477415
 url: "/cdr-researcher-census/researchers/runze-yu-a5047784/"
 layout: "researcher"
 hiddenInHomeList: true

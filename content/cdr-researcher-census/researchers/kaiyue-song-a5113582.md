@@ -1,7 +1,7 @@
 ---
 title: "Kaiyue Song"
 description: "Kaiyue Song is a Senior Biochar researcher at Nanjing Agricultural University in CN. With 78 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.315699
+date: 2026-07-11T22:39:16.406311
 url: "/cdr-researcher-census/researchers/kaiyue-song-a5113582/"
 layout: "researcher"
 hiddenInHomeList: true

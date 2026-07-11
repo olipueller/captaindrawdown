@@ -1,7 +1,7 @@
 ---
 title: "Siddharth Jayaprakash"
 description: "Siddharth Jayaprakash is a Mid-career Biochar researcher at Aalto University in FI. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.231686
+date: 2026-07-11T22:39:17.148722
 url: "/cdr-researcher-census/researchers/siddharth-jayaprakash-a5007988/"
 layout: "researcher"
 hiddenInHomeList: true

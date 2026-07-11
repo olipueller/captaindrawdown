@@ -1,7 +1,7 @@
 ---
 title: "Mahmoud Farrokhi"
 description: "Mahmoud Farrokhi is a Senior General CDR researcher at Hakim Sabzevari University in IR. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.090584
+date: 2026-07-11T22:39:17.064298
 url: "/cdr-researcher-census/researchers/mahmoud-farrokhi-a5037349/"
 layout: "researcher"
 hiddenInHomeList: true

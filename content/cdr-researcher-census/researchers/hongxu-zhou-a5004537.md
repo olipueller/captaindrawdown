@@ -1,7 +1,7 @@
 ---
 title: "Hongxu Zhou"
-description: "Hongxu Zhou is a Senior General CDR researcher at University of Illinois Urbana-Champaign in US. With 52 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.221775
+description: "Hongxu Zhou is a Senior Biochar researcher at University of Illinois Urbana-Champaign in US. With 52 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.312405
 url: "/cdr-researcher-census/researchers/hongxu-zhou-a5004537/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Illinois Urbana-Champaign · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

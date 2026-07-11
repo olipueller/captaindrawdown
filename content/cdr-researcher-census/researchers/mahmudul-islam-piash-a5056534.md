@@ -1,7 +1,7 @@
 ---
 title: "Mahmudul Islam Piash"
 description: "Mahmudul Islam Piash is a Mid-career Biochar researcher at Hokkaido University in JP. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.967501
+date: 2026-07-11T22:39:17.015360
 url: "/cdr-researcher-census/researchers/mahmudul-islam-piash-a5056534/"
 layout: "researcher"
 hiddenInHomeList: true

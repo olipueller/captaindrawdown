@@ -1,7 +1,7 @@
 ---
 title: "Noah J. Planavsky"
 description: "Noah J. Planavsky is an Eminent Enhanced Weathering researcher at Planetary Science Institute in US. With 540 publications and an h-index of 84, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:39.936291
+date: 2026-07-11T22:39:16.080863
 url: "/cdr-researcher-census/researchers/noah-j-planavsky-a5031830/"
 layout: "researcher"
 hiddenInHomeList: true

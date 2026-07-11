@@ -1,7 +1,7 @@
 ---
 title: "Chong Li"
 description: "Chong Li is a Senior Soil Carbon researcher at University of Alberta in CA. With 135 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.110500
+date: 2026-07-11T22:39:16.209624
 url: "/cdr-researcher-census/researchers/chong-li-a5100424/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Filip Gil"
-description: "Filip Gil is a Mid-career Soil Carbon researcher at Wrocław University of Science and Technology in PL. With 28 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.199488
+description: "Filip Gil is a Mid-career Biochar researcher at Wrocław University of Science and Technology in PL. With 28 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.117760
 url: "/cdr-researcher-census/researchers/filip-gil-a5030706/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Wrocław University of Science and Technology ·  PL
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

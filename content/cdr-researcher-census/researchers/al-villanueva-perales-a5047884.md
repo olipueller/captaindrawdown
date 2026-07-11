@@ -1,7 +1,7 @@
 ---
 title: "A.L. Villanueva Perales"
-description: "A.L. Villanueva Perales is a Senior General CDR researcher at Universidad de Sevilla in ES. With 38 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.265939
+description: "A.L. Villanueva Perales is a Senior BECCS researcher at Universidad de Sevilla in ES. With 38 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.356220
 url: "/cdr-researcher-census/researchers/al-villanueva-perales-a5047884/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Universidad de Sevilla · 🇪🇸 ES
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

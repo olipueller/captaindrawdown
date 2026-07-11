@@ -1,7 +1,7 @@
 ---
 title: "Zhimei Huang"
 description: "Zhimei Huang is an Early-career Soil Carbon researcher at Sun Yat-sen University in CN. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.478339
+date: 2026-07-11T22:39:17.402860
 url: "/cdr-researcher-census/researchers/zhimei-huang-a5032901/"
 layout: "researcher"
 hiddenInHomeList: true

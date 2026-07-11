@@ -1,7 +1,7 @@
 ---
 title: "Orlando Salcedo-Puerto"
-description: "Orlando Salcedo-Puerto is a Mid-career General CDR researcher at Lappeenranta-Lahti University of Technology in FI. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.232404
+description: "Orlando Salcedo-Puerto is a Mid-career BECCS researcher at Lappeenranta-Lahti University of Technology in FI. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.149420
 url: "/cdr-researcher-census/researchers/orlando-salcedo-puerto-a5059094/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Lappeenranta-Lahti University of Technology ·  FI
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

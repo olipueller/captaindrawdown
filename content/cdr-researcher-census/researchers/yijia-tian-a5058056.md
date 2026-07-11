@@ -1,7 +1,7 @@
 ---
 title: "Yijia Tian"
 description: "Yijia Tian is a Mid-career Soil Carbon researcher at Shenyang Agricultural University in CN. With 24 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.208683
+date: 2026-07-11T22:39:17.126092
 url: "/cdr-researcher-census/researchers/yijia-tian-a5058056/"
 layout: "researcher"
 hiddenInHomeList: true

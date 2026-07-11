@@ -1,7 +1,7 @@
 ---
 title: "Nick Macaluso"
-description: "Nick Macaluso is a Mid-career General CDR researcher at Environment and Climate Change Canada in CA. With 25 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.304289
+description: "Nick Macaluso is a Mid-career DAC researcher at Environment and Climate Change Canada in CA. With 25 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.395241
 url: "/cdr-researcher-census/researchers/nick-macaluso-a5070154/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Environment and Climate Change Canada · 🇨🇦 CA
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

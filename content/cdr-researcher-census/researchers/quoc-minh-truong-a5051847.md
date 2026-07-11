@@ -1,7 +1,7 @@
 ---
 title: "Quoc-Minh Truong"
 description: "Quoc-Minh Truong is a Mid-career Biochar researcher at Bình Dương University in VN. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.402166
+date: 2026-07-11T22:39:16.496260
 url: "/cdr-researcher-census/researchers/quoc-minh-truong-a5051847/"
 layout: "researcher"
 hiddenInHomeList: true

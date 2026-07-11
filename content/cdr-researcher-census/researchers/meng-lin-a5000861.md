@@ -1,7 +1,7 @@
 ---
 title: "Meng Lin"
 description: "Meng Lin is a Senior Ocean CDR researcher at Energy Institute in GB. With 134 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.050276
+date: 2026-07-11T22:39:16.157079
 url: "/cdr-researcher-census/researchers/meng-lin-a5000861/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Getachew Eshete"
-description: "Getachew Eshete is a Senior Soil Carbon researcher at Deutsches Biomasseforschungszentrum in DE. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.372568
+description: "Getachew Eshete is a Senior Biochar researcher at Deutsches Biomasseforschungszentrum in DE. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.465249
 url: "/cdr-researcher-census/researchers/getachew-eshete-a5087167/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Deutsches Biomasseforschungszentrum · 🇩🇪 DE
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

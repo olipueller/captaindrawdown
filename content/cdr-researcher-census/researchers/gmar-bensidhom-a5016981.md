@@ -1,7 +1,7 @@
 ---
 title: "Gmar Bensidhom"
 description: "Gmar Bensidhom is a Mid-career Biochar researcher at Research and Technology Center of Energy in TN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.792077
+date: 2026-07-11T22:39:16.873336
 url: "/cdr-researcher-census/researchers/gmar-bensidhom-a5016981/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jing-Jing Luo"
 description: "Jing-Jing Luo is an Early-career Biochar researcher at Xuzhou Medical College in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.233391
+date: 2026-07-11T22:39:17.150478
 url: "/cdr-researcher-census/researchers/jing-jing-luo-a5090517/"
 layout: "researcher"
 hiddenInHomeList: true

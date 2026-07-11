@@ -1,7 +1,7 @@
 ---
 title: "Suchanya Kojinok"
-description: "Suchanya Kojinok is a Mid-career General CDR researcher at Maejo University in TH. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.263297
+description: "Suchanya Kojinok is a Mid-career Enhanced Weathering researcher at Maejo University in TH. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.180781
 url: "/cdr-researcher-census/researchers/suchanya-kojinok-a5080768/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Maejo University · 🇹🇭 TH
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "Huixia Yang"
 description: "Huixia Yang is a Mid-career Soil Carbon researcher at Beijing Institute of Technology in CN. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.774724
+date: 2026-07-11T22:39:16.856373
 url: "/cdr-researcher-census/researchers/huixia-yang-a5115590/"
 layout: "researcher"
 hiddenInHomeList: true

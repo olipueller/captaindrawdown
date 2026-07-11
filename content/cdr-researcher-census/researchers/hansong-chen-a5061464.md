@@ -1,7 +1,7 @@
 ---
 title: "Hansong Chen"
-description: "Hansong Chen is a Senior Soil Carbon researcher at Center for Drug Evaluation and Research in US. With 53 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.131409
+description: "Hansong Chen is a Senior Biochar researcher at Center for Drug Evaluation and Research in US. With 53 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.228398
 url: "/cdr-researcher-census/researchers/hansong-chen-a5061464/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Center for Drug Evaluation and Research · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

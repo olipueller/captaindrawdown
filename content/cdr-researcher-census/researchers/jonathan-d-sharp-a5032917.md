@@ -1,7 +1,7 @@
 ---
 title: "Jonathan D. Sharp"
 description: "Jonathan D. Sharp is a Mid-career Ocean CDR researcher at University of Washington in US. With 63 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.264127
+date: 2026-07-11T22:39:16.354491
 url: "/cdr-researcher-census/researchers/jonathan-d-sharp-a5032917/"
 layout: "researcher"
 hiddenInHomeList: true

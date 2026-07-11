@@ -1,7 +1,7 @@
 ---
 title: "Monserrat Cascante"
 description: "Monserrat Cascante is a Mid-career Soil Carbon researcher at National Taiwan University in TW. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.961065
+date: 2026-07-11T22:39:17.010060
 url: "/cdr-researcher-census/researchers/monserrat-cascante-a5079725/"
 layout: "researcher"
 hiddenInHomeList: true

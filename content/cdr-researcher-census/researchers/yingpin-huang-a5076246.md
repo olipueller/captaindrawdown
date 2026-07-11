@@ -1,7 +1,7 @@
 ---
 title: "Ying‐Pin Huang"
-description: "Ying‐Pin Huang is a Senior Soil Carbon researcher at Industrial Technology Research Institute in TW. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.439798
+description: "Ying‐Pin Huang is a Senior Biochar researcher at Industrial Technology Research Institute in TW. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.534420
 url: "/cdr-researcher-census/researchers/yingpin-huang-a5076246/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Industrial Technology Research Institute · 🇹🇼 TW
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

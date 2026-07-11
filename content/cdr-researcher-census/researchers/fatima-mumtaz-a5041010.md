@@ -1,7 +1,7 @@
 ---
 title: "Fatima Mumtaz"
-description: "Fatima Mumtaz is a Mid-career Ocean CDR researcher at Khalifa University  in AE. With 19 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.537540
+description: "Fatima Mumtaz is a Mid-career DAC researcher at Khalifa University  in AE. With 19 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.630792
 url: "/cdr-researcher-census/researchers/fatima-mumtaz-a5041010/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Khalifa University  · 🇦🇪 AE
 
 ## CDR Specialization
 
-**Ocean CDR**
+**DAC**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "Zhenlin Mo"
 description: "Zhenlin Mo is a Mid-career Biochar researcher at Guizhou University in CN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.425466
+date: 2026-07-11T22:39:16.519887
 url: "/cdr-researcher-census/researchers/zhenlin-mo-a5013500/"
 layout: "researcher"
 hiddenInHomeList: true

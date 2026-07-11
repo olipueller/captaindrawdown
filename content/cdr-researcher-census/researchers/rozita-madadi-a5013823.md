@@ -1,7 +1,7 @@
 ---
 title: "Rozita Madadi"
 description: "Rozita Madadi is a Mid-career Biochar researcher at University of Tehran in IR. With 9 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.311008
+date: 2026-07-11T22:39:16.401424
 url: "/cdr-researcher-census/researchers/rozita-madadi-a5013823/"
 layout: "researcher"
 hiddenInHomeList: true

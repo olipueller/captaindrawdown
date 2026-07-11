@@ -1,7 +1,7 @@
 ---
 title: "Nakum Divyangkumar"
-description: "Nakum Divyangkumar is a Mid-career General CDR researcher at Junagadh Agricultural University in IN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.415138
+description: "Nakum Divyangkumar is a Mid-career Biochar researcher at Junagadh Agricultural University in IN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.337747
 url: "/cdr-researcher-census/researchers/nakum-divyangkumar-a5007863/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Junagadh Agricultural University · 🇮🇳 IN
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

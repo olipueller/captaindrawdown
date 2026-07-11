@@ -1,7 +1,7 @@
 ---
 title: "Guangxin Ren"
 description: "Guangxin Ren is a Mid-career Soil Carbon researcher at Huainan Normal University in CN. With 30 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.266181
+date: 2026-07-11T22:39:16.356440
 url: "/cdr-researcher-census/researchers/guangxin-ren-a5025533/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Donghui Li"
 description: "Donghui Li is a Mid-career Biochar researcher. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.301251
+date: 2026-07-11T22:39:17.218425
 url: "/cdr-researcher-census/researchers/donghui-li-a5078348/"
 layout: "researcher"
 hiddenInHomeList: true

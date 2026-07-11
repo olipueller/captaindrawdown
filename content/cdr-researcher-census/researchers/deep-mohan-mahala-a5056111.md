@@ -1,7 +1,7 @@
 ---
 title: "Deep Mohan Mahala"
 description: "Deep Mohan Mahala is a Mid-career Soil Carbon researcher at ICAR-Indian Institute of Maize Research in IN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.675659
+date: 2026-07-11T22:39:16.761786
 url: "/cdr-researcher-census/researchers/deep-mohan-mahala-a5056111/"
 layout: "researcher"
 hiddenInHomeList: true

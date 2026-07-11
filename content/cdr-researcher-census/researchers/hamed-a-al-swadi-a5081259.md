@@ -1,7 +1,7 @@
 ---
 title: "Hamed A. Al-Swadi"
-description: "Hamed A. Al-Swadi is a Mid-career Soil Carbon researcher at Sana'a University in YE. With 22 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.678719
+description: "Hamed A. Al-Swadi is a Mid-career Biochar researcher at Sana'a University in YE. With 22 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.764632
 url: "/cdr-researcher-census/researchers/hamed-a-al-swadi-a5081259/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Sana'a University ·  YE
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

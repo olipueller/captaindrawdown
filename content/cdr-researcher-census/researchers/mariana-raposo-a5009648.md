@@ -1,7 +1,7 @@
 ---
 title: "Mariana Raposo"
 description: "Mariana Raposo is a Mid-career Soil Carbon researcher at University of Aveiro in PT. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.269547
+date: 2026-07-11T22:39:17.187115
 url: "/cdr-researcher-census/researchers/mariana-raposo-a5009648/"
 layout: "researcher"
 hiddenInHomeList: true

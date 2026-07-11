@@ -1,7 +1,7 @@
 ---
 title: "Shinichiro Asayama"
 description: "Shinichiro Asayama is a Senior General CDR researcher at National Institute for Environmental Studies in JP. With 45 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.289047
+date: 2026-07-11T22:39:16.379804
 url: "/cdr-researcher-census/researchers/shinichiro-asayama-a5088972/"
 layout: "researcher"
 hiddenInHomeList: true

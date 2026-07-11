@@ -1,7 +1,7 @@
 ---
 title: "Shangwei Zhang"
 description: "Shangwei Zhang is a Senior Biochar researcher at Beijing Normal University in CN. With 40 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.292569
+date: 2026-07-11T22:39:16.383732
 url: "/cdr-researcher-census/researchers/shangwei-zhang-a5013976/"
 layout: "researcher"
 hiddenInHomeList: true

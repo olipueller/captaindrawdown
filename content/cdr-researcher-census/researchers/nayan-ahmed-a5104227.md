@@ -1,7 +1,7 @@
 ---
 title: "Nayan Ahmed"
 description: "Nayan Ahmed is a Senior Soil Carbon researcher at Academy of Sciences Republic of Uzbekistan in UZ. With 56 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.429315
+date: 2026-07-11T22:39:16.523809
 url: "/cdr-researcher-census/researchers/nayan-ahmed-a5104227/"
 layout: "researcher"
 hiddenInHomeList: true

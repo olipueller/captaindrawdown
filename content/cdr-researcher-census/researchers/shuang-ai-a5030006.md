@@ -1,7 +1,7 @@
 ---
 title: "Shuang Ai"
 description: "Shuang Ai is a Mid-career Soil Carbon researcher. With 37 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.752395
+date: 2026-07-11T22:39:16.833876
 url: "/cdr-researcher-census/researchers/shuang-ai-a5030006/"
 layout: "researcher"
 hiddenInHomeList: true

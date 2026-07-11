@@ -1,7 +1,7 @@
 ---
 title: "Judith Hauck"
 description: "Judith Hauck is an Eminent Ocean CDR researcher at Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung in DE. With 310 publications and an h-index of 41, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:39.945593
+date: 2026-07-11T22:39:16.083801
 url: "/cdr-researcher-census/researchers/judith-hauck-a5068651/"
 layout: "researcher"
 hiddenInHomeList: true

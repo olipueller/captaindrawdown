@@ -1,7 +1,7 @@
 ---
 title: "Xiaoqin Lai"
-description: "Xiaoqin Lai is a Senior Soil Carbon researcher at Zhongshan Hospital of Xiamen University in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.249557
+description: "Xiaoqin Lai is a Senior BECCS researcher at Zhongshan Hospital of Xiamen University in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.339850
 url: "/cdr-researcher-census/researchers/xiaoqin-lai-a5062094/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Zhongshan Hospital of Xiamen University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**BECCS**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

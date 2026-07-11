@@ -1,7 +1,7 @@
 ---
 title: "Hengji Qin"
-description: "Hengji Qin is a Mid-career Soil Carbon researcher at Hohai University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.608991
+description: "Hengji Qin is a Mid-career Biochar researcher at Hohai University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.528453
 url: "/cdr-researcher-census/researchers/hengji-qin-a5059309/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Hohai University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

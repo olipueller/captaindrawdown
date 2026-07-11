@@ -1,7 +1,7 @@
 ---
 title: "Qihui Xu"
 description: "Qihui Xu is a Mid-career Biochar researcher at Yancheng Teachers University in CN. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.506127
+date: 2026-07-11T22:39:16.600574
 url: "/cdr-researcher-census/researchers/qihui-xu-a5102961/"
 layout: "researcher"
 hiddenInHomeList: true

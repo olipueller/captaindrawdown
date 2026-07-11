@@ -1,7 +1,7 @@
 ---
 title: "Wenjuan Xu"
 description: "Wenjuan Xu is a Mid-career Soil Carbon researcher at China West Normal University in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.361713
+date: 2026-07-11T22:39:16.452631
 url: "/cdr-researcher-census/researchers/wenjuan-xu-a5010701/"
 layout: "researcher"
 hiddenInHomeList: true

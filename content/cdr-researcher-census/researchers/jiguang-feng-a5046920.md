@@ -1,7 +1,7 @@
 ---
 title: "Jiguang Feng"
 description: "Jiguang Feng is a Senior Soil Carbon researcher at Inner Mongolia University in CN. With 77 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.049889
+date: 2026-07-11T22:39:16.156684
 url: "/cdr-researcher-census/researchers/jiguang-feng-a5046920/"
 layout: "researcher"
 hiddenInHomeList: true

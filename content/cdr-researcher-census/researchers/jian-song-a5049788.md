@@ -1,7 +1,7 @@
 ---
 title: "Jian Song"
-description: "Jian Song is a Mid-career General CDR researcher at University of Birmingham in GB. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.471540
+description: "Jian Song is a Mid-career DAC researcher at University of Birmingham in GB. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.566241
 url: "/cdr-researcher-census/researchers/jian-song-a5049788/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Birmingham · 🇬🇧 GB
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

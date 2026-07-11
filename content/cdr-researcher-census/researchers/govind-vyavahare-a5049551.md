@@ -1,7 +1,7 @@
 ---
 title: "Govind Vyavahare"
-description: "Govind Vyavahare is a Mid-career Soil Carbon researcher at Chungbuk National University in KR. With 37 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.339571
+description: "Govind Vyavahare is a Mid-career Biochar researcher at Chungbuk National University in KR. With 37 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.429676
 url: "/cdr-researcher-census/researchers/govind-vyavahare-a5049551/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Chungbuk National University · 🇰🇷 KR
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

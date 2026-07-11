@@ -1,7 +1,7 @@
 ---
 title: "Suphatra Hiranphinyophat"
 description: "Suphatra Hiranphinyophat is a Mid-career General CDR researcher at Chulalongkorn University in TH. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.404841
+date: 2026-07-11T22:39:17.327136
 url: "/cdr-researcher-census/researchers/suphatra-hiranphinyophat-a5013924/"
 layout: "researcher"
 hiddenInHomeList: true

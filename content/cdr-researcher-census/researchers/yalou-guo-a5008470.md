@@ -1,7 +1,7 @@
 ---
 title: "Yalou Guo"
 description: "Yalou Guo is a Mid-career DAC researcher at Institute of Process Engineering in CN. With 30 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.527191
+date: 2026-07-11T22:39:16.621358
 url: "/cdr-researcher-census/researchers/yalou-guo-a5008470/"
 layout: "researcher"
 hiddenInHomeList: true

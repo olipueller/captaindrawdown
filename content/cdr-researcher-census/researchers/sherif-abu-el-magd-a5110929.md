@@ -1,7 +1,7 @@
 ---
 title: "Sherif Abu El-Magd"
 description: "Sherif Abu El-Magd is a Mid-career Biochar researcher at Suez University in EG. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.652767
+date: 2026-07-11T22:39:17.581001
 url: "/cdr-researcher-census/researchers/sherif-abu-el-magd-a5110929/"
 layout: "researcher"
 hiddenInHomeList: true

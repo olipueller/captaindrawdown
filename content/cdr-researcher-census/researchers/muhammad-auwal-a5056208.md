@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Auwal"
-description: "Muhammad Auwal is a Mid-career Soil Carbon researcher at Kano State University of Technology in NG. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.443903
+description: "Muhammad Auwal is a Mid-career Biochar researcher at Kano State University of Technology in NG. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.368459
 url: "/cdr-researcher-census/researchers/muhammad-auwal-a5056208/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Kano State University of Technology ·  NG
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "Xueying Zhao"
 description: "Xueying Zhao is a Senior Biochar researcher at Hebei Medical University in CN. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.573617
+date: 2026-07-11T22:39:16.666051
 url: "/cdr-researcher-census/researchers/xueying-zhao-a5070727/"
 layout: "researcher"
 hiddenInHomeList: true

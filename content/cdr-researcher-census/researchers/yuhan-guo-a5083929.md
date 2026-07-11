@@ -1,7 +1,7 @@
 ---
 title: "Yuhan Guo"
 description: "Yuhan Guo is a Senior Biochar researcher at Hubei University of Arts and Science in CN. With 39 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.288231
+date: 2026-07-11T22:39:16.378989
 url: "/cdr-researcher-census/researchers/yuhan-guo-a5083929/"
 layout: "researcher"
 hiddenInHomeList: true

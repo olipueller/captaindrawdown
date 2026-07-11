@@ -1,7 +1,7 @@
 ---
 title: "Shuhan Yu"
 description: "Shuhan Yu is a Mid-career Soil Carbon researcher at China University of Geosciences (Beijing) in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.088189
+date: 2026-07-11T22:39:17.062247
 url: "/cdr-researcher-census/researchers/shuhan-yu-a5007543/"
 layout: "researcher"
 hiddenInHomeList: true

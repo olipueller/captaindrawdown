@@ -1,7 +1,7 @@
 ---
 title: "Dharma Raj Kandel"
 description: "Dharma Raj Kandel is a Mid-career Biochar researcher at Jeonbuk National University in KR. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.436695
+date: 2026-07-11T22:39:16.531159
 url: "/cdr-researcher-census/researchers/dharma-raj-kandel-a5073103/"
 layout: "researcher"
 hiddenInHomeList: true

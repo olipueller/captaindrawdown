@@ -1,7 +1,7 @@
 ---
 title: "Steven Pearce"
-description: "Steven Pearce is a Senior General CDR researcher. With 20 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.643138
+description: "Steven Pearce is a Senior Enhanced Weathering researcher. With 20 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.566319
 url: "/cdr-researcher-census/researchers/steven-pearce-a5005712/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,9 +26,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

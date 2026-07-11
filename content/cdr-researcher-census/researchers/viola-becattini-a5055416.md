@@ -1,7 +1,7 @@
 ---
 title: "Viola Becattini"
 description: "Viola Becattini is a Mid-career General CDR researcher at ETH Zurich in CH. With 57 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.127561
+date: 2026-07-11T22:39:16.225115
 url: "/cdr-researcher-census/researchers/viola-becattini-a5055416/"
 layout: "researcher"
 hiddenInHomeList: true

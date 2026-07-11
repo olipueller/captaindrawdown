@@ -1,7 +1,7 @@
 ---
 title: "Isimemen Osemwegie"
-description: "Isimemen Osemwegie is a Mid-career Soil Carbon researcher at University of Bonn in DE. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.242726
+description: "Isimemen Osemwegie is a Mid-career Biochar researcher at University of Bonn in DE. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.159792
 url: "/cdr-researcher-census/researchers/isimemen-osemwegie-a5043287/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Bonn · 🇩🇪 DE
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

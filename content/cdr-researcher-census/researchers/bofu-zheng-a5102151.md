@@ -1,7 +1,7 @@
 ---
 title: "Bofu Zheng"
 description: "Bofu Zheng is a Senior Soil Carbon researcher at Ministry of Natural Resources and Environment in RU. With 33 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.627263
+date: 2026-07-11T22:39:16.718285
 url: "/cdr-researcher-census/researchers/bofu-zheng-a5102151/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hakim Djafer Khodja"
 description: "Hakim Djafer Khodja is a Mid-career Biochar researcher at University of Bouira in DZ. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.384646
+date: 2026-07-11T22:39:17.305361
 url: "/cdr-researcher-census/researchers/hakim-djafer-khodja-a5055183/"
 layout: "researcher"
 hiddenInHomeList: true

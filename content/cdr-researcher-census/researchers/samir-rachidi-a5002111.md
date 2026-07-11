@@ -1,7 +1,7 @@
 ---
 title: "Samir Rachidi"
-description: "Samir Rachidi is a Mid-career General CDR researcher at Institut of Research in Solar Energy and New Energies in MA. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.258900
+description: "Samir Rachidi is a Mid-career Biochar researcher at Institut of Research in Solar Energy and New Energies in MA. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.349315
 url: "/cdr-researcher-census/researchers/samir-rachidi-a5002111/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Institut of Research in Solar Energy and New Energies ·  MA
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

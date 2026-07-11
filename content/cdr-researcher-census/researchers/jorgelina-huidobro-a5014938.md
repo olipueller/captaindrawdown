@@ -1,7 +1,7 @@
 ---
 title: "Jorgelina Huidobro"
 description: "Jorgelina Huidobro is a Mid-career Soil Carbon researcher at National University of Salta in AR. With 10 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.804886
+date: 2026-07-11T22:39:16.885208
 url: "/cdr-researcher-census/researchers/jorgelina-huidobro-a5014938/"
 layout: "researcher"
 hiddenInHomeList: true

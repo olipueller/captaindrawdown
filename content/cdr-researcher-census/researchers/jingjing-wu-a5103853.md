@@ -1,7 +1,7 @@
 ---
 title: "Jingjing Wu"
-description: "Jingjing Wu is a Senior Soil Carbon researcher at Sichuan Agricultural University in CN. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.678818
+description: "Jingjing Wu is a Senior Biochar researcher at Sichuan Agricultural University in CN. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.764737
 url: "/cdr-researcher-census/researchers/jingjing-wu-a5103853/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Sichuan Agricultural University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

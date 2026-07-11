@@ -1,7 +1,7 @@
 ---
 title: "Karolina Petela"
-description: "Karolina Petela is a Mid-career General CDR researcher at Silesian University of Technology in PL. With 30 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.224098
+description: "Karolina Petela is a Mid-career BECCS researcher at Silesian University of Technology in PL. With 30 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.140673
 url: "/cdr-researcher-census/researchers/karolina-petela-a5018426/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Silesian University of Technology ·  PL
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

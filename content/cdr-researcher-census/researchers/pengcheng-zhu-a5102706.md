@@ -1,7 +1,7 @@
 ---
 title: "Pengcheng Zhu"
-description: "Pengcheng Zhu is a Senior General CDR researcher at Army Medical University in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.452638
+description: "Pengcheng Zhu is a Senior Biochar researcher at Army Medical University in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.377389
 url: "/cdr-researcher-census/researchers/pengcheng-zhu-a5102706/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Army Medical University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

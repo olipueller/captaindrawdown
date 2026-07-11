@@ -1,7 +1,7 @@
 ---
 title: "Yongen Min"
 description: "Yongen Min is a Mid-career Soil Carbon researcher at Northeast Normal University in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.542184
+date: 2026-07-11T22:39:17.466155
 url: "/cdr-researcher-census/researchers/yongen-min-a5074810/"
 layout: "researcher"
 hiddenInHomeList: true

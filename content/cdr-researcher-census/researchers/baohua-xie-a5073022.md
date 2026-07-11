@@ -1,7 +1,7 @@
 ---
 title: "Baohua Xie"
 description: "Baohua Xie is a Senior Soil Carbon researcher at Liaocheng University in CN. With 70 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.052755
+date: 2026-07-11T22:39:16.159260
 url: "/cdr-researcher-census/researchers/baohua-xie-a5073022/"
 layout: "researcher"
 hiddenInHomeList: true

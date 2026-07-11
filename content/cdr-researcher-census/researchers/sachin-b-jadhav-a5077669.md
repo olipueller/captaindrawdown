@@ -1,7 +1,7 @@
 ---
 title: "Sachin B. Jadhav"
 description: "Sachin B. Jadhav is a Mid-career Soil Carbon researcher at Jawaharlal Nehru University in IN. With 31 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.600676
+date: 2026-07-11T22:39:16.693324
 url: "/cdr-researcher-census/researchers/sachin-b-jadhav-a5077669/"
 layout: "researcher"
 hiddenInHomeList: true

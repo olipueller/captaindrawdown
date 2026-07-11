@@ -1,7 +1,7 @@
 ---
 title: "Alpana Singh"
-description: "Alpana Singh is a Mid-career General CDR researcher at Rajiv Gandhi Institute of Petroleum Technology in IN. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.787672
+description: "Alpana Singh is a Mid-career DAC researcher at Rajiv Gandhi Institute of Petroleum Technology in IN. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.869165
 url: "/cdr-researcher-census/researchers/alpana-singh-a5101904/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Rajiv Gandhi Institute of Petroleum Technology · 🇮🇳 IN
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

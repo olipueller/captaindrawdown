@@ -1,7 +1,7 @@
 ---
 title: "Xuejia Gu"
-description: "Xuejia Gu is an Early-career Soil Carbon researcher at Jiangnan University in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.655414
+description: "Xuejia Gu is an Early-career Biochar researcher at Jiangnan University in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.584099
 url: "/cdr-researcher-census/researchers/xuejia-gu-a5016046/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Jiangnan University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

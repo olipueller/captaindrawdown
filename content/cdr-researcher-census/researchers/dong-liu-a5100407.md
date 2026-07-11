@@ -1,7 +1,7 @@
 ---
 title: "Dong Liu"
 description: "Dong Liu is a Senior Soil Carbon researcher at South China Agricultural University in CN. With 86 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.079636
+date: 2026-07-11T22:39:16.182280
 url: "/cdr-researcher-census/researchers/dong-liu-a5100407/"
 layout: "researcher"
 hiddenInHomeList: true

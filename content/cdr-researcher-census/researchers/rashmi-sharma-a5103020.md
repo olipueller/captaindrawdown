@@ -1,7 +1,7 @@
 ---
 title: "Rashmi Sharma"
 description: "Rashmi Sharma is a Senior Biochar researcher at Govind Ballabh Pant University of Agriculture and Technology in IN. With 66 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.291620
+date: 2026-07-11T22:39:16.382731
 url: "/cdr-researcher-census/researchers/rashmi-sharma-a5103020/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Marjia Afroz Sharno"
-description: "Marjia Afroz Sharno is an Early-career General CDR researcher at University of Dhaka in BD. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.325290
+description: "Marjia Afroz Sharno is an Early-career BECCS researcher at University of Dhaka in BD. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.242673
 url: "/cdr-researcher-census/researchers/marjia-afroz-sharno-a5026750/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ University of Dhaka · 🇧🇩 BD
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

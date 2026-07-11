@@ -1,7 +1,7 @@
 ---
 title: "ShouWei Han"
 description: "ShouWei Han is a Senior Soil Carbon researcher at Ministry of Agriculture and Rural Affairs in CN. With 64 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.077480
+date: 2026-07-11T22:39:16.180332
 url: "/cdr-researcher-census/researchers/shouwei-han-a5110428/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Katharina Keiblinger"
 description: "Katharina Keiblinger is a Senior Soil Carbon researcher at Institute for Biodiversity in AT. With 172 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:39.991558
+date: 2026-07-11T22:39:16.109777
 url: "/cdr-researcher-census/researchers/katharina-keiblinger-a5001652/"
 layout: "researcher"
 hiddenInHomeList: true

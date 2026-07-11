@@ -1,7 +1,7 @@
 ---
 title: "Katja Fennel"
 description: "Katja Fennel is an Eminent Ocean CDR researcher at Dalhousie University in CA. With 358 publications and an h-index of 51, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:39.964000
+date: 2026-07-11T22:39:16.092004
 url: "/cdr-researcher-census/researchers/katja-fennel-a5000863/"
 layout: "researcher"
 hiddenInHomeList: true

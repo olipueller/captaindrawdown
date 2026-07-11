@@ -1,7 +1,7 @@
 ---
 title: "Chenggong Xia"
 description: "Chenggong Xia is a Mid-career Biochar researcher. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.641528
+date: 2026-07-11T22:39:17.563413
 url: "/cdr-researcher-census/researchers/chenggong-xia-a5087098/"
 layout: "researcher"
 hiddenInHomeList: true

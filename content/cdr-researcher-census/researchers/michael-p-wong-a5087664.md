@@ -1,7 +1,7 @@
 ---
 title: "Michael P. Wong"
 description: "Michael P. Wong is a Senior Soil Carbon researcher at University of California, Davis in US. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.469210
+date: 2026-07-11T22:39:16.563630
 url: "/cdr-researcher-census/researchers/michael-p-wong-a5087664/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jixian Ding"
 description: "Jixian Ding is a Mid-career Soil Carbon researcher at Institute of Soil Science in CN. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.335154
+date: 2026-07-11T22:39:16.424896
 url: "/cdr-researcher-census/researchers/jixian-ding-a5109596/"
 layout: "researcher"
 hiddenInHomeList: true

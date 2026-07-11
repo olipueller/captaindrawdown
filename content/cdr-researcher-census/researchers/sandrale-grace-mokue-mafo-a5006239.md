@@ -1,7 +1,7 @@
 ---
 title: "Sandrale Grace Mokue Mafo"
 description: "Sandrale Grace Mokue Mafo is a Mid-career Biochar researcher at University of Douala in CM. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.561818
+date: 2026-07-11T22:39:17.484920
 url: "/cdr-researcher-census/researchers/sandrale-grace-mokue-mafo-a5006239/"
 layout: "researcher"
 hiddenInHomeList: true

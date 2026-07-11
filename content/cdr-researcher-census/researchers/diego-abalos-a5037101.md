@@ -1,7 +1,7 @@
 ---
 title: "Diego Ábalos"
 description: "Diego Ábalos is a Senior Soil Carbon researcher at Aarhus University in DK. With 137 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:39.994430
+date: 2026-07-11T22:39:16.111753
 url: "/cdr-researcher-census/researchers/diego-abalos-a5037101/"
 layout: "researcher"
 hiddenInHomeList: true

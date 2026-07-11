@@ -1,7 +1,7 @@
 ---
 title: "Xiaoge Wu"
 description: "Xiaoge Wu is a Senior Biochar researcher at Ministry of Agriculture in ID. With 51 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.145503
+date: 2026-07-11T22:39:16.241722
 url: "/cdr-researcher-census/researchers/xiaoge-wu-a5101461/"
 layout: "researcher"
 hiddenInHomeList: true

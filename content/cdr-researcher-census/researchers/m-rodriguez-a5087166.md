@@ -1,7 +1,7 @@
 ---
 title: "M. Rodríguez"
-description: "M. Rodríguez is a Senior Soil Carbon researcher at University of California, Riverside in US. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.498993
+description: "M. Rodríguez is a Senior Biochar researcher at University of California, Riverside in US. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.424384
 url: "/cdr-researcher-census/researchers/m-rodriguez-a5087166/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of California, Riverside · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

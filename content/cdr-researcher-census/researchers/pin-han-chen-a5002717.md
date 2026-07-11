@@ -1,7 +1,7 @@
 ---
 title: "Pin-Han Chen"
-description: "Pin-Han Chen is a Mid-career Soil Carbon researcher at Providence University in TW. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.345933
+description: "Pin-Han Chen is a Mid-career Enhanced Weathering researcher at Providence University in TW. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.264260
 url: "/cdr-researcher-census/researchers/pin-han-chen-a5002717/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Providence University · 🇹🇼 TW
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Enhanced Weathering**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

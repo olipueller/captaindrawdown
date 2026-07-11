@@ -1,7 +1,7 @@
 ---
 title: "Beatrice Giannetta"
 description: "Beatrice Giannetta is a Mid-career Soil Carbon researcher at University of Foggia in IT. With 56 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.310169
+date: 2026-07-11T22:39:16.400575
 url: "/cdr-researcher-census/researchers/beatrice-giannetta-a5026234/"
 layout: "researcher"
 hiddenInHomeList: true

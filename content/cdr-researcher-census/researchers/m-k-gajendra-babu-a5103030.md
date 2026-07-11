@@ -1,7 +1,7 @@
 ---
 title: "M. K. Gajendra Babu"
-description: "M. K. Gajendra Babu is a Senior General CDR researcher at University of California, Riverside in US. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.285972
+description: "M. K. Gajendra Babu is a Senior DAC researcher at University of California, Riverside in US. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.203071
 url: "/cdr-researcher-census/researchers/m-k-gajendra-babu-a5103030/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of California, Riverside · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

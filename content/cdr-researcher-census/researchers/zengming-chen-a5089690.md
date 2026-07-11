@@ -1,7 +1,7 @@
 ---
 title: "Zengming Chen"
 description: "Zengming Chen is a Senior Soil Carbon researcher at Institute of Soil Science Chinese Academy of Sciences in CN. With 76 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.059186
+date: 2026-07-11T22:39:16.164798
 url: "/cdr-researcher-census/researchers/zengming-chen-a5089690/"
 layout: "researcher"
 hiddenInHomeList: true

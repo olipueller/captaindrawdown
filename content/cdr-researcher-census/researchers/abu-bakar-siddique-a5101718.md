@@ -1,7 +1,7 @@
 ---
 title: "Abu Bakar Siddique"
 description: "Abu Bakar Siddique is a Mid-career Soil Carbon researcher at Visayas State University in PH. With 11 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.537430
+date: 2026-07-11T22:39:17.461561
 url: "/cdr-researcher-census/researchers/abu-bakar-siddique-a5101718/"
 layout: "researcher"
 hiddenInHomeList: true

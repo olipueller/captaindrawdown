@@ -1,7 +1,7 @@
 ---
 title: "Jiahao Mei"
 description: "Jiahao Mei is a Mid-career Biochar researcher at China University of Geosciences in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.863819
+date: 2026-07-11T22:39:16.939679
 url: "/cdr-researcher-census/researchers/jiahao-mei-a5109458/"
 layout: "researcher"
 hiddenInHomeList: true

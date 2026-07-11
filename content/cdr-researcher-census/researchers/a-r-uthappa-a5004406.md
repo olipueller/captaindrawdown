@@ -1,7 +1,7 @@
 ---
 title: "A. R. Uthappa"
 description: "A. R. Uthappa is a Mid-career Soil Carbon researcher at Central Coastal Agricultural Research Institute in IN. With 51 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.253508
+date: 2026-07-11T22:39:16.344005
 url: "/cdr-researcher-census/researchers/a-r-uthappa-a5004406/"
 layout: "researcher"
 hiddenInHomeList: true

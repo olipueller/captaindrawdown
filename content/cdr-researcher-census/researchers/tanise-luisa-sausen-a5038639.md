@@ -1,7 +1,7 @@
 ---
 title: "Tanise Luisa Sausen"
 description: "Tanise Luisa Sausen is a Senior Soil Carbon researcher at Universidade Federal do Rio Grande in BR. With 53 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.688276
+date: 2026-07-11T22:39:16.773560
 url: "/cdr-researcher-census/researchers/tanise-luisa-sausen-a5038639/"
 layout: "researcher"
 hiddenInHomeList: true

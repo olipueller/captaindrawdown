@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Ahmed Waqas"
 description: "Muhammad Ahmed Waqas is a Mid-career Soil Carbon researcher at Aarhus University in DK. With 38 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.148188
+date: 2026-07-11T22:39:16.244126
 url: "/cdr-researcher-census/researchers/muhammad-ahmed-waqas-a5101955/"
 layout: "researcher"
 hiddenInHomeList: true

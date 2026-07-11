@@ -1,7 +1,7 @@
 ---
 title: "Ali Abdelshafy"
-description: "Ali Abdelshafy is a Mid-career General CDR researcher at Delft University of Technology in NL. With 29 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.422625
+description: "Ali Abdelshafy is a Mid-career Biochar researcher at Delft University of Technology in NL. With 29 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.346098
 url: "/cdr-researcher-census/researchers/ali-abdelshafy-a5067012/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Delft University of Technology · 🇳🇱 NL
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

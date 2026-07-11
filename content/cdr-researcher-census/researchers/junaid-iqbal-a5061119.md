@@ -1,7 +1,7 @@
 ---
 title: "Junaid Iqbal"
-description: "Junaid Iqbal is a Mid-career General CDR researcher at Lahore Leads University in PK. With 12 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.487702
+description: "Junaid Iqbal is a Mid-career Biochar researcher at Lahore Leads University in PK. With 12 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.412155
 url: "/cdr-researcher-census/researchers/junaid-iqbal-a5061119/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Lahore Leads University · 🇵🇰 PK
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

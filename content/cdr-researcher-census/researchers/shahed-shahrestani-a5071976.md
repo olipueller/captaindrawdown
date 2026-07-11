@@ -1,7 +1,7 @@
 ---
 title: "Shahed Shahrestani"
 description: "Shahed Shahrestani is a Mid-career Enhanced Weathering researcher at James Cook University in AU. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.261074
+date: 2026-07-11T22:39:17.178613
 url: "/cdr-researcher-census/researchers/shahed-shahrestani-a5071976/"
 layout: "researcher"
 hiddenInHomeList: true

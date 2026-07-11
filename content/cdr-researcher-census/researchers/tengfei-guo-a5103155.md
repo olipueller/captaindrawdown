@@ -1,7 +1,7 @@
 ---
 title: "Tengfei Guo"
 description: "Tengfei Guo is a Mid-career Biochar researcher at China Metallurgical Geology Bureau in CN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.486687
+date: 2026-07-11T22:39:17.411099
 url: "/cdr-researcher-census/researchers/tengfei-guo-a5103155/"
 layout: "researcher"
 hiddenInHomeList: true

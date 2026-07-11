@@ -1,7 +1,7 @@
 ---
 title: "Lifang Deng"
-description: "Lifang Deng is a Senior Soil Carbon researcher at South China Agricultural University College of Agriculture in CN. With 47 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.121522
+description: "Lifang Deng is a Senior Biochar researcher at South China Agricultural University College of Agriculture in CN. With 47 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.219437
 url: "/cdr-researcher-census/researchers/lifang-deng-a5030416/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ South China Agricultural University College of Agriculture · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

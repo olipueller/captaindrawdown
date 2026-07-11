@@ -1,7 +1,7 @@
 ---
 title: "Audil Rashid"
 description: "Audil Rashid is a Senior Biochar researcher at Pir Mehr Ali Shah Arid Agriculture University in PK. With 76 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.113114
+date: 2026-07-11T22:39:16.211937
 url: "/cdr-researcher-census/researchers/audil-rashid-a5111385/"
 layout: "researcher"
 hiddenInHomeList: true

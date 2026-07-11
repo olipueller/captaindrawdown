@@ -1,7 +1,7 @@
 ---
 title: "Raul Gheorghe Radu"
 description: "Raul Gheorghe Radu is a Senior Soil Carbon researcher at National Institute for Research and Development in Forestry \"Marin Drăcea\" in RO. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.460817
+date: 2026-07-11T22:39:17.385145
 url: "/cdr-researcher-census/researchers/raul-gheorghe-radu-a5044941/"
 layout: "researcher"
 hiddenInHomeList: true

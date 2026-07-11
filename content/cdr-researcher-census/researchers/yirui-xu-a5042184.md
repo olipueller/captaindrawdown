@@ -1,7 +1,7 @@
 ---
 title: "Yirui Xu"
 description: "Yirui Xu is a Mid-career Soil Carbon researcher at Zhejiang A & F University in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.606122
+date: 2026-07-11T22:39:17.525824
 url: "/cdr-researcher-census/researchers/yirui-xu-a5042184/"
 layout: "researcher"
 hiddenInHomeList: true

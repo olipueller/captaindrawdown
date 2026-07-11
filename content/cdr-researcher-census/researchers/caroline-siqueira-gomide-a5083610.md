@@ -1,7 +1,7 @@
 ---
 title: "Caroline Siqueira Gomide"
-description: "Caroline Siqueira Gomide is a Senior Soil Carbon researcher at Conselho Nacional de Desenvolvimento Científico e Tecnológico in BR. With 24 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.579509
+description: "Caroline Siqueira Gomide is a Senior Enhanced Weathering researcher at Conselho Nacional de Desenvolvimento Científico e Tecnológico in BR. With 24 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.501874
 url: "/cdr-researcher-census/researchers/caroline-siqueira-gomide-a5083610/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Conselho Nacional de Desenvolvimento Científico e Tecnológico · 🇧🇷 BR
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Enhanced Weathering**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "Séguy Enock"
 description: "Séguy Enock is a Mid-career Soil Carbon researcher at Université de Yaoundé I in CM. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.326785
+date: 2026-07-11T22:39:17.244281
 url: "/cdr-researcher-census/researchers/seguy-enock-a5029902/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xuehong Ma"
 description: "Xuehong Ma is a Mid-career Soil Carbon researcher at University of Copenhagen in DK. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.618346
+date: 2026-07-11T22:39:16.709705
 url: "/cdr-researcher-census/researchers/xuehong-ma-a5086465/"
 layout: "researcher"
 hiddenInHomeList: true

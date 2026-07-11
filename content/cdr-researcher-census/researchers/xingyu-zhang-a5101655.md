@@ -1,7 +1,7 @@
 ---
 title: "Xingyu Zhang"
 description: "Xingyu Zhang is a Senior Biochar researcher at Tianjin University of Science and Technology in CN. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.492507
+date: 2026-07-11T22:39:17.417351
 url: "/cdr-researcher-census/researchers/xingyu-zhang-a5101655/"
 layout: "researcher"
 hiddenInHomeList: true

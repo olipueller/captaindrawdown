@@ -1,7 +1,7 @@
 ---
 title: "Cipriano Díaz-Gaona"
 description: "Cipriano Díaz-Gaona is a Mid-career General CDR researcher at University of Córdoba in ES. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.446625
+date: 2026-07-11T22:39:16.541417
 url: "/cdr-researcher-census/researchers/cipriano-diaz-gaona-a5032103/"
 layout: "researcher"
 hiddenInHomeList: true

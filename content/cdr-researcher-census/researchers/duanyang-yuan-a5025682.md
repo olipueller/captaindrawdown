@@ -1,7 +1,7 @@
 ---
 title: "Duanyang Yuan"
 description: "Duanyang Yuan is a Mid-career Soil Carbon researcher at Yunnan University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.494460
+date: 2026-07-11T22:39:17.419417
 url: "/cdr-researcher-census/researchers/duanyang-yuan-a5025682/"
 layout: "researcher"
 hiddenInHomeList: true

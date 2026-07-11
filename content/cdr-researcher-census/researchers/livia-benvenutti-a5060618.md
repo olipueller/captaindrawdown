@@ -1,7 +1,7 @@
 ---
 title: "Lívia Benvenutti"
-description: "Lívia Benvenutti is a Mid-career Soil Carbon researcher at Argonne National Laboratory in US. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.449621
+description: "Lívia Benvenutti is a Mid-career BECCS researcher at Argonne National Laboratory in US. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.374320
 url: "/cdr-researcher-census/researchers/livia-benvenutti-a5060618/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Argonne National Laboratory · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**BECCS**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

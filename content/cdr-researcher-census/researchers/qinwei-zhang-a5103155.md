@@ -1,7 +1,7 @@
 ---
 title: "Qinwei Zhang"
 description: "Qinwei Zhang is a Senior Soil Carbon researcher at Zhengzhou University in CN. With 32 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.516586
+date: 2026-07-11T22:39:16.610761
 url: "/cdr-researcher-census/researchers/qinwei-zhang-a5103155/"
 layout: "researcher"
 hiddenInHomeList: true

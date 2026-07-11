@@ -1,7 +1,7 @@
 ---
 title: "Yoora Cho"
 description: "Yoora Cho is a Mid-career Biochar researcher at Korea University in KR. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.863500
+date: 2026-07-11T22:39:16.939340
 url: "/cdr-researcher-census/researchers/yoora-cho-a5021123/"
 layout: "researcher"
 hiddenInHomeList: true

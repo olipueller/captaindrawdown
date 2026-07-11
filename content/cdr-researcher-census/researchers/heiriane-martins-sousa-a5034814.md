@@ -1,7 +1,7 @@
 ---
 title: "Heiriane Martins Sousa"
 description: "Heiriane Martins Sousa is a Mid-career Biochar researcher at Instituto Federal do Amazonas in BR. With 21 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.253393
+date: 2026-07-11T22:39:17.171181
 url: "/cdr-researcher-census/researchers/heiriane-martins-sousa-a5034814/"
 layout: "researcher"
 hiddenInHomeList: true

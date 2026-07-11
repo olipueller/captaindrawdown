@@ -1,7 +1,7 @@
 ---
 title: "Alex Cabral"
-description: "Alex Cabral is a Mid-career Soil Carbon researcher at Trinity College Dublin in IE. With 43 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.337718
+description: "Alex Cabral is a Mid-career Ocean CDR researcher at Trinity College Dublin in IE. With 43 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.427506
 url: "/cdr-researcher-census/researchers/alex-cabral-a5053593/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Trinity College Dublin ·  IE
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Ocean CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "Huiwei Zhao"
-description: "Huiwei Zhao is a Mid-career Soil Carbon researcher at Hebei Science and Technology Department in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.929569
+description: "Huiwei Zhao is a Mid-career Biochar researcher at Hebei Science and Technology Department in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.989971
 url: "/cdr-researcher-census/researchers/huiwei-zhao-a5101184/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Hebei Science and Technology Department · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

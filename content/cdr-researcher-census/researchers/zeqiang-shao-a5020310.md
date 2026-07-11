@@ -1,7 +1,7 @@
 ---
 title: "Zeqiang Shao"
 description: "Zeqiang Shao is a Mid-career Soil Carbon researcher at Jilin University of Chemical Technology in CN. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.510076
+date: 2026-07-11T22:39:16.604483
 url: "/cdr-researcher-census/researchers/zeqiang-shao-a5020310/"
 layout: "researcher"
 hiddenInHomeList: true

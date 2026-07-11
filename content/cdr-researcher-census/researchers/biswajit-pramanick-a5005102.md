@@ -1,7 +1,7 @@
 ---
 title: "Biswajit Pramanick"
 description: "Biswajit Pramanick is a Senior Soil Carbon researcher at Dr. Rajendra Prasad Central Agriculture University in IN. With 122 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.103211
+date: 2026-07-11T22:39:16.202391
 url: "/cdr-researcher-census/researchers/biswajit-pramanick-a5005102/"
 layout: "researcher"
 hiddenInHomeList: true

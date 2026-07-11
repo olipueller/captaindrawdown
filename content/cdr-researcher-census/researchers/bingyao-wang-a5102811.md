@@ -1,7 +1,7 @@
 ---
 title: "Bingyao Wang"
 description: "Bingyao Wang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 44 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.251495
+date: 2026-07-11T22:39:16.341919
 url: "/cdr-researcher-census/researchers/bingyao-wang-a5102811/"
 layout: "researcher"
 hiddenInHomeList: true

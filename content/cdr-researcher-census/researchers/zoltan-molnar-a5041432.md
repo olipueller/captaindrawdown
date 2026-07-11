@@ -1,7 +1,7 @@
 ---
 title: "Zoltán Molnár"
 description: "Zoltán Molnár is a Senior Soil Carbon researcher at Széchenyi István University in HU. With 86 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.140138
+date: 2026-07-11T22:39:16.236471
 url: "/cdr-researcher-census/researchers/zoltan-molnar-a5041432/"
 layout: "researcher"
 hiddenInHomeList: true

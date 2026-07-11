@@ -1,7 +1,7 @@
 ---
 title: "Shihe Xing"
 description: "Shihe Xing is a Senior Soil Carbon researcher at Fujian Agriculture and Forestry University in CN. With 77 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.112734
+date: 2026-07-11T22:39:16.211578
 url: "/cdr-researcher-census/researchers/shihe-xing-a5102661/"
 layout: "researcher"
 hiddenInHomeList: true

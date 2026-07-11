@@ -1,7 +1,7 @@
 ---
 title: "Yincai Xie"
-description: "Yincai Xie is an Early-career Soil Carbon researcher at RS Dynamics (Czechia) in CZ. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.643038
+description: "Yincai Xie is an Early-career Enhanced Weathering researcher at RS Dynamics (Czechia) in CZ. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.566173
 url: "/cdr-researcher-census/researchers/yincai-xie-a5042908/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ RS Dynamics (Czechia) ·  CZ
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Enhanced Weathering**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

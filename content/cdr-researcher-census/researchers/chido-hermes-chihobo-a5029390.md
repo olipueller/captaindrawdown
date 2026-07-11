@@ -1,7 +1,7 @@
 ---
 title: "Chido Hermes Chihobo"
-description: "Chido Hermes Chihobo is a Mid-career General CDR researcher at Chinhoyi University of Technology in ZW. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.315357
+description: "Chido Hermes Chihobo is a Mid-career BECCS researcher at Chinhoyi University of Technology in ZW. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.405905
 url: "/cdr-researcher-census/researchers/chido-hermes-chihobo-a5029390/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Chinhoyi University of Technology ·  ZW
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

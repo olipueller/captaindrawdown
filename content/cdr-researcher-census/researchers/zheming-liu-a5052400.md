@@ -1,7 +1,7 @@
 ---
 title: "Zheming Liu"
 description: "Zheming Liu is a Mid-career Biochar researcher. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.778234
+date: 2026-07-11T22:39:16.859697
 url: "/cdr-researcher-census/researchers/zheming-liu-a5052400/"
 layout: "researcher"
 hiddenInHomeList: true

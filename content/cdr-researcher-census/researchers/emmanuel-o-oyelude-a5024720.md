@@ -1,7 +1,7 @@
 ---
 title: "Emmanuel O. Oyelude"
-description: "Emmanuel O. Oyelude is a Mid-career Soil Carbon researcher at Biochemical Society in GB. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.848430
+description: "Emmanuel O. Oyelude is a Mid-career Biochar researcher at Biochemical Society in GB. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.925205
 url: "/cdr-researcher-census/researchers/emmanuel-o-oyelude-a5024720/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Biochemical Society · 🇬🇧 GB
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

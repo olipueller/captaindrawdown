@@ -1,7 +1,7 @@
 ---
 title: "Victor D. N. Santos"
-description: "Victor D. N. Santos is a Senior General CDR researcher at Universidade Federal de Pelotas in BR. With 59 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.597713
+description: "Victor D. N. Santos is a Senior DAC researcher at Universidade Federal de Pelotas in BR. With 59 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.690079
 url: "/cdr-researcher-census/researchers/victor-d-n-santos-a5050342/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Universidade Federal de Pelotas · 🇧🇷 BR
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

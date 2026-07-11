@@ -1,7 +1,7 @@
 ---
 title: "Victória Santos Souza"
 description: "Victória Santos Souza is a Mid-career Soil Carbon researcher at Universidade de São Paulo in BR. With 26 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.584375
+date: 2026-07-11T22:39:17.505798
 url: "/cdr-researcher-census/researchers/victoria-santos-souza-a5010435/"
 layout: "researcher"
 hiddenInHomeList: true

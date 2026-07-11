@@ -1,7 +1,7 @@
 ---
 title: "Yuhui Geng"
 description: "Yuhui Geng is a Senior Soil Carbon researcher at Jilin Agricultural University in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.622046
+date: 2026-07-11T22:39:16.713250
 url: "/cdr-researcher-census/researchers/yuhui-geng-a5007632/"
 layout: "researcher"
 hiddenInHomeList: true

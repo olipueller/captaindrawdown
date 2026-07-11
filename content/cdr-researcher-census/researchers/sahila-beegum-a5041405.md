@@ -1,7 +1,7 @@
 ---
 title: "Sahila Beegum"
 description: "Sahila Beegum is a Mid-career Soil Carbon researcher. With 40 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.593237
+date: 2026-07-11T22:39:16.685723
 url: "/cdr-researcher-census/researchers/sahila-beegum-a5041405/"
 layout: "researcher"
 hiddenInHomeList: true

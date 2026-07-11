@@ -1,7 +1,7 @@
 ---
 title: "Irene Criscuoli"
 description: "Irene Criscuoli is a Mid-career Soil Carbon researcher at Ministry of Agricultural, Food and Forestry Policies in IT. With 33 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.635543
+date: 2026-07-11T22:39:16.725975
 url: "/cdr-researcher-census/researchers/irene-criscuoli-a5033074/"
 layout: "researcher"
 hiddenInHomeList: true

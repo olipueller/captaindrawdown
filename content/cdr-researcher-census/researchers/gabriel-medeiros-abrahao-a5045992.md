@@ -1,7 +1,7 @@
 ---
 title: "Gabriel Medeiros Abrahão"
 description: "Gabriel Medeiros Abrahão is a Mid-career General CDR researcher at Potsdam-Institut für Klimafolgenforschung (PIK) e V in DE. With 34 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.241427
+date: 2026-07-11T22:39:16.332071
 url: "/cdr-researcher-census/researchers/gabriel-medeiros-abrahao-a5045992/"
 layout: "researcher"
 hiddenInHomeList: true

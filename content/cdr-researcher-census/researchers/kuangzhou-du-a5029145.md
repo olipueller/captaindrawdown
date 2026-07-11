@@ -1,7 +1,7 @@
 ---
 title: "Kuangzhou Du"
 description: "Kuangzhou Du is a Senior Biochar researcher at Sichuan Agricultural University in CN. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.387750
+date: 2026-07-11T22:39:16.480712
 url: "/cdr-researcher-census/researchers/kuangzhou-du-a5029145/"
 layout: "researcher"
 hiddenInHomeList: true

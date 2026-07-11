@@ -1,7 +1,7 @@
 ---
 title: "Ben Donnelly"
 description: "Ben Donnelly is a Mid-career General CDR researcher at Bryn Mawr College in US. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.402884
+date: 2026-07-11T22:39:16.497015
 url: "/cdr-researcher-census/researchers/ben-donnelly-a5066075/"
 layout: "researcher"
 hiddenInHomeList: true

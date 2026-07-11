@@ -1,7 +1,7 @@
 ---
 title: "Shiv Vendra Singh"
-description: "Shiv Vendra Singh is a Mid-career Soil Carbon researcher at Central Agricultural University in IN. With 57 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.345965
+description: "Shiv Vendra Singh is a Mid-career Biochar researcher at Central Agricultural University in IN. With 57 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.436322
 url: "/cdr-researcher-census/researchers/shiv-vendra-singh-a5001338/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Central Agricultural University · 🇮🇳 IN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

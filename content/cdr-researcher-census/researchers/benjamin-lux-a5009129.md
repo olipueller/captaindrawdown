@@ -1,7 +1,7 @@
 ---
 title: "Benjamin Lux"
 description: "Benjamin Lux is a Senior General CDR researcher at Fraunhofer Institute for Systems and Innovation Research in DE. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.466461
+date: 2026-07-11T22:39:16.560736
 url: "/cdr-researcher-census/researchers/benjamin-lux-a5009129/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "B. L. Manjunath"
-description: "B. L. Manjunath is a Senior Soil Carbon researcher at Indian Institute of Horticultural Research in IN. With 49 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.593366
+description: "B. L. Manjunath is a Senior Biochar researcher at Indian Institute of Horticultural Research in IN. With 49 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.685846
 url: "/cdr-researcher-census/researchers/b-l-manjunath-a5109876/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Indian Institute of Horticultural Research · 🇮🇳 IN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

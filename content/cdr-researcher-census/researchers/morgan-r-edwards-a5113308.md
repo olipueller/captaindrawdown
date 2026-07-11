@@ -1,7 +1,7 @@
 ---
 title: "Morgan R. Edwards"
 description: "Morgan R. Edwards is a Mid-career General CDR researcher at University of Wisconsin–Madison in US. With 64 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.197265
+date: 2026-07-11T22:39:16.289751
 url: "/cdr-researcher-census/researchers/morgan-r-edwards-a5113308/"
 layout: "researcher"
 hiddenInHomeList: true

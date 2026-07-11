@@ -1,7 +1,7 @@
 ---
 title: "Yahui Song"
 description: "Yahui Song is a Senior Soil Carbon researcher at South China Agricultural University in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.620478
+date: 2026-07-11T22:39:17.539414
 url: "/cdr-researcher-census/researchers/yahui-song-a5100587/"
 layout: "researcher"
 hiddenInHomeList: true

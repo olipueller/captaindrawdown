@@ -1,7 +1,7 @@
 ---
 title: "Aboubakr Ben Hamou"
 description: "Aboubakr Ben Hamou is a Mid-career Biochar researcher at Université Ibn Zohr in MA. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.808362
+date: 2026-07-11T22:39:16.888336
 url: "/cdr-researcher-census/researchers/aboubakr-ben-hamou-a5059965/"
 layout: "researcher"
 hiddenInHomeList: true

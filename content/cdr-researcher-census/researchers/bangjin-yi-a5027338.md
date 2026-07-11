@@ -1,7 +1,7 @@
 ---
 title: "Bangjin Yi"
 description: "Bangjin Yi is a Mid-career General CDR researcher at Yunnan Institute of Environmental Sciences in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.557966
+date: 2026-07-11T22:39:17.481431
 url: "/cdr-researcher-census/researchers/bangjin-yi-a5027338/"
 layout: "researcher"
 hiddenInHomeList: true

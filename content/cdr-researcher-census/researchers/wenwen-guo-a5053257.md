@@ -1,7 +1,7 @@
 ---
 title: "Wenwen Guo"
 description: "Wenwen Guo is a Mid-career Biochar researcher at Tibet University in CN. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.634624
+date: 2026-07-11T22:39:16.725080
 url: "/cdr-researcher-census/researchers/wenwen-guo-a5053257/"
 layout: "researcher"
 hiddenInHomeList: true

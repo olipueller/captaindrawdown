@@ -1,7 +1,7 @@
 ---
 title: "Wenqiang Pei"
-description: "Wenqiang Pei is a Mid-career General CDR researcher. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.773965
+description: "Wenqiang Pei is a Mid-career Enhanced Weathering researcher. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.855559
 url: "/cdr-researcher-census/researchers/wenqiang-pei-a5017872/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,9 +26,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

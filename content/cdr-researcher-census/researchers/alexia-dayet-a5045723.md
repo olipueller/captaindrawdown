@@ -1,7 +1,7 @@
 ---
 title: "Alexia Dayet"
 description: "Alexia Dayet is a Mid-career Soil Carbon researcher at Centre de Coopération Internationale en Recherche Agronomique pour le Développement in FR. With 15 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.240318
+date: 2026-07-11T22:39:17.157444
 url: "/cdr-researcher-census/researchers/alexia-dayet-a5045723/"
 layout: "researcher"
 hiddenInHomeList: true

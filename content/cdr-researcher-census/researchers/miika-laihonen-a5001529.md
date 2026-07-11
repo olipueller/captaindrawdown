@@ -1,7 +1,7 @@
 ---
 title: "Miika Laihonen"
 description: "Miika Laihonen is a Mid-career Soil Carbon researcher at Universidade dos Açores in PT. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.934560
+date: 2026-07-11T22:39:16.995111
 url: "/cdr-researcher-census/researchers/miika-laihonen-a5001529/"
 layout: "researcher"
 hiddenInHomeList: true

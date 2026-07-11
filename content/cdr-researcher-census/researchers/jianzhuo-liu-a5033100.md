@@ -1,7 +1,7 @@
 ---
 title: "Jianzhuo Liu"
 description: "Jianzhuo Liu is a Senior Biochar researcher at Chinese Academy of Sciences in CN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.447251
+date: 2026-07-11T22:39:17.371793
 url: "/cdr-researcher-census/researchers/jianzhuo-liu-a5033100/"
 layout: "researcher"
 hiddenInHomeList: true

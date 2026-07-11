@@ -1,7 +1,7 @@
 ---
 title: "Yongxing Qian"
 description: "Yongxing Qian is a Senior Biochar researcher at Ningbo University of Technology in CN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.649624
+date: 2026-07-11T22:39:16.738961
 url: "/cdr-researcher-census/researchers/yongxing-qian-a5110549/"
 layout: "researcher"
 hiddenInHomeList: true

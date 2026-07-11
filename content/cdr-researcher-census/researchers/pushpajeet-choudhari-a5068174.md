@@ -1,7 +1,7 @@
 ---
 title: "Pushpajeet Choudhari"
 description: "Pushpajeet Choudhari is a Mid-career Soil Carbon researcher at International Crops Research Institute for the Semi-Arid Tropics in IN. With 30 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.066623
+date: 2026-07-11T22:39:17.056087
 url: "/cdr-researcher-census/researchers/pushpajeet-choudhari-a5068174/"
 layout: "researcher"
 hiddenInHomeList: true

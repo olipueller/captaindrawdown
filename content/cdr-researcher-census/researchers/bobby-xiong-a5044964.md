@@ -1,7 +1,7 @@
 ---
 title: "Bobby Xiong"
-description: "Bobby Xiong is a Mid-career General CDR researcher at Technische Universität Berlin in DE. With 13 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.390650
+description: "Bobby Xiong is a Mid-career DAC researcher at Technische Universität Berlin in DE. With 13 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.311811
 url: "/cdr-researcher-census/researchers/bobby-xiong-a5044964/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Technische Universität Berlin · 🇩🇪 DE
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

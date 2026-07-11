@@ -1,7 +1,7 @@
 ---
 title: "Dolamani Amat"
 description: "Dolamani Amat is a Mid-career Soil Carbon researcher at Indian Institute of Soil Science in IN. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.083719
+date: 2026-07-11T22:39:17.059567
 url: "/cdr-researcher-census/researchers/dolamani-amat-a5078888/"
 layout: "researcher"
 hiddenInHomeList: true

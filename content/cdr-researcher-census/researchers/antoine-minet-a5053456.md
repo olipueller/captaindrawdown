@@ -1,7 +1,7 @@
 ---
 title: "Antoine Minet"
 description: "Antoine Minet is a Mid-career Biochar researcher at Oak Ridge National Laboratory in US. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.314123
+date: 2026-07-11T22:39:17.231229
 url: "/cdr-researcher-census/researchers/antoine-minet-a5053456/"
 layout: "researcher"
 hiddenInHomeList: true

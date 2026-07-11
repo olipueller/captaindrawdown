@@ -1,7 +1,7 @@
 ---
 title: "Shaomin Huang"
 description: "Shaomin Huang is a Senior Soil Carbon researcher at Henan Academy of Agricultural Sciences in CN. With 50 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.069062
+date: 2026-07-11T22:39:16.172696
 url: "/cdr-researcher-census/researchers/shaomin-huang-a5036607/"
 layout: "researcher"
 hiddenInHomeList: true

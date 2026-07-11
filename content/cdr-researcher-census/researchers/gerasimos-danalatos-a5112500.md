@@ -1,7 +1,7 @@
 ---
 title: "Gerasimos Danalatos"
 description: "Gerasimos Danalatos is a Mid-career Soil Carbon researcher at Iowa State University in US. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.755568
+date: 2026-07-11T22:39:16.836844
 url: "/cdr-researcher-census/researchers/gerasimos-danalatos-a5112500/"
 layout: "researcher"
 hiddenInHomeList: true

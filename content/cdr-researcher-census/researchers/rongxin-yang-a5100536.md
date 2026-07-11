@@ -1,7 +1,7 @@
 ---
 title: "Rongxin Yang"
-description: "Rongxin Yang is a Senior Soil Carbon researcher at Shanxi University of Finance and Economics in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.357217
+description: "Rongxin Yang is a Senior Biochar researcher at Shanxi University of Finance and Economics in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.447840
 url: "/cdr-researcher-census/researchers/rongxin-yang-a5100536/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Shanxi University of Finance and Economics · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

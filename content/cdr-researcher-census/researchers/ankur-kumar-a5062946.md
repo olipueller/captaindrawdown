@@ -1,7 +1,7 @@
 ---
 title: "Ankur Kumar"
 description: "Ankur Kumar is a Mid-career Soil Carbon researcher at National Institute of Food Technology Entrepreneurship and Management in IN. With 28 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.546300
+date: 2026-07-11T22:39:16.639355
 url: "/cdr-researcher-census/researchers/ankur-kumar-a5062946/"
 layout: "researcher"
 hiddenInHomeList: true

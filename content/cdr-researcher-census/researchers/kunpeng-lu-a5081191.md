@@ -1,7 +1,7 @@
 ---
 title: "Kunpeng Lu"
 description: "Kunpeng Lu is a Mid-career Enhanced Weathering researcher at Ministry of Natural Resources in CN. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.444399
+date: 2026-07-11T22:39:17.368976
 url: "/cdr-researcher-census/researchers/kunpeng-lu-a5081191/"
 layout: "researcher"
 hiddenInHomeList: true

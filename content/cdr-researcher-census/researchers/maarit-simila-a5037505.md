@@ -1,7 +1,7 @@
 ---
 title: "Maarit Similä"
 description: "Maarit Similä is a Senior Soil Carbon researcher at Metsähallitus (Finland) in FI. With 13 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.267858
+date: 2026-07-11T22:39:16.357895
 url: "/cdr-researcher-census/researchers/maarit-simila-a5037505/"
 layout: "researcher"
 hiddenInHomeList: true

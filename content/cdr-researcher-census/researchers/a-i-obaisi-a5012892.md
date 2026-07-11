@@ -1,7 +1,7 @@
 ---
 title: "A. I. Obaisi"
 description: "A. I. Obaisi is a Mid-career General CDR researcher at University of Essex in GB. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.708217
+date: 2026-07-11T22:39:16.791690
 url: "/cdr-researcher-census/researchers/a-i-obaisi-a5012892/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Pavel Suran"
 description: "Pavel Suran is a Mid-career Soil Carbon researcher at Czech University of Life Sciences Prague in CZ. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.524106
+date: 2026-07-11T22:39:17.448878
 url: "/cdr-researcher-census/researchers/pavel-suran-a5039611/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Laura Bentley"
 description: "Laura Bentley is a Mid-career Soil Carbon researcher at UK Centre for Ecology & Hydrology in GB. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.379616
+date: 2026-07-11T22:39:17.300251
 url: "/cdr-researcher-census/researchers/laura-bentley-a5102556/"
 layout: "researcher"
 hiddenInHomeList: true

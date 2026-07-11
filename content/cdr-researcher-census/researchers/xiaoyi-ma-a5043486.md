@@ -1,7 +1,7 @@
 ---
 title: "Xiaoyi Ma"
 description: "Xiaoyi Ma is a Mid-career Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.262560
+date: 2026-07-11T22:39:17.180033
 url: "/cdr-researcher-census/researchers/xiaoyi-ma-a5043486/"
 layout: "researcher"
 hiddenInHomeList: true

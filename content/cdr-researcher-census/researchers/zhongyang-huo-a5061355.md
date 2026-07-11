@@ -1,7 +1,7 @@
 ---
 title: "Zhongyang Huo"
 description: "Zhongyang Huo is a Mid-career Biochar researcher at Yangzhou University in CN. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.433556
+date: 2026-07-11T22:39:16.528011
 url: "/cdr-researcher-census/researchers/zhongyang-huo-a5061355/"
 layout: "researcher"
 hiddenInHomeList: true

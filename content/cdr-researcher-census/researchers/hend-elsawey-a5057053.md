@@ -1,7 +1,7 @@
 ---
 title: "Hend Elsawey"
-description: "Hend Elsawey is a Mid-career General CDR researcher at Heliopolis University in EG. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.030551
+description: "Hend Elsawey is a Mid-career Enhanced Weathering researcher at Heliopolis University in EG. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.039584
 url: "/cdr-researcher-census/researchers/hend-elsawey-a5057053/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Heliopolis University ·  EG
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

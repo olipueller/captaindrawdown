@@ -1,7 +1,7 @@
 ---
 title: "Yangfan Yuan"
 description: "Yangfan Yuan is a Mid-career Biochar researcher at Ministry of Agriculture and Rural Affairs in CN. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.639110
+date: 2026-07-11T22:39:16.729254
 url: "/cdr-researcher-census/researchers/yangfan-yuan-a5069194/"
 layout: "researcher"
 hiddenInHomeList: true

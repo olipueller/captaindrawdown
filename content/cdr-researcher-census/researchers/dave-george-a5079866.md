@@ -1,7 +1,7 @@
 ---
 title: "Dave George"
-description: "Dave George is a Senior Soil Carbon researcher at Newcastle University in GB. With 12 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.158662
+description: "Dave George is a Senior Enhanced Weathering researcher at Newcastle University in GB. With 12 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.253476
 url: "/cdr-researcher-census/researchers/dave-george-a5079866/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Newcastle University · 🇬🇧 GB
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Enhanced Weathering**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

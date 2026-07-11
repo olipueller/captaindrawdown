@@ -1,7 +1,7 @@
 ---
 title: "Rong Wang"
 description: "Rong Wang is a Senior Soil Carbon researcher at SGIDI Engineering Consulting (China) in CN. With 29 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.153110
+date: 2026-07-11T22:39:16.248182
 url: "/cdr-researcher-census/researchers/rong-wang-a5100737/"
 layout: "researcher"
 hiddenInHomeList: true

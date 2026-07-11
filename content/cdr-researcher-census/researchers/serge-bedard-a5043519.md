@@ -1,7 +1,7 @@
 ---
 title: "Serge Bédard"
 description: "Serge Bédard is a Senior General CDR researcher at Natural Resources Canada in CA. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.702669
+date: 2026-07-11T22:39:16.786054
 url: "/cdr-researcher-census/researchers/serge-bedard-a5043519/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Alaa Salma"
-description: "Alaa Salma is a Mid-career General CDR researcher at École des Métiers de l’Environnement in FR. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.417737
+description: "Alaa Salma is a Mid-career Biochar researcher at École des Métiers de l’Environnement in FR. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.340897
 url: "/cdr-researcher-census/researchers/alaa-salma-a5034640/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

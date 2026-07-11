@@ -1,7 +1,7 @@
 ---
 title: "Parisa Yekan Motlagh"
 description: "Parisa Yekan Motlagh is a Mid-career Biochar researcher. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.480589
+date: 2026-07-11T22:39:16.575457
 url: "/cdr-researcher-census/researchers/parisa-yekan-motlagh-a5065139/"
 layout: "researcher"
 hiddenInHomeList: true

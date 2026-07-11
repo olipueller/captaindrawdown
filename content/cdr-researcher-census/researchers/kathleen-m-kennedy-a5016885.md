@@ -1,7 +1,7 @@
 ---
 title: "Kathleen M. Kennedy"
-description: "Kathleen M. Kennedy is a Senior General CDR researcher. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.672666
+description: "Kathleen M. Kennedy is a Senior DAC researcher. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.759248
 url: "/cdr-researcher-census/researchers/kathleen-m-kennedy-a5016885/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "Wilson Gardner"
-description: "Wilson Gardner is a Senior General CDR researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.641343
+description: "Wilson Gardner is a Senior DAC researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.563187
 url: "/cdr-researcher-census/researchers/wilson-gardner-a5087363/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Commonwealth Scientific and Industrial Research Organisation · 🇦🇺 AU
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

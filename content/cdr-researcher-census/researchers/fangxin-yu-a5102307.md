@@ -1,7 +1,7 @@
 ---
 title: "Fangxin Yu"
 description: "Fangxin Yu is a Senior Biochar researcher at Chang'an University in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.200334
+date: 2026-07-11T22:39:17.118463
 url: "/cdr-researcher-census/researchers/fangxin-yu-a5102307/"
 layout: "researcher"
 hiddenInHomeList: true

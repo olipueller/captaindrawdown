@@ -1,7 +1,7 @@
 ---
 title: "Fernando Lopes"
 description: "Fernando Lopes is a Mid-career Soil Carbon researcher at Universidade dos Açores in PT. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.876786
+date: 2026-07-11T22:39:16.966840
 url: "/cdr-researcher-census/researchers/fernando-lopes-a5101819/"
 layout: "researcher"
 hiddenInHomeList: true

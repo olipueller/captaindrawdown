@@ -1,7 +1,7 @@
 ---
 title: "Khaled A. Abd El-Rahem"
 description: "Khaled A. Abd El-Rahem is a Mid-career Biochar researcher at Al-Azhar University in EG. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.249139
+date: 2026-07-11T22:39:17.166444
 url: "/cdr-researcher-census/researchers/khaled-a-abd-el-rahem-a5035340/"
 layout: "researcher"
 hiddenInHomeList: true

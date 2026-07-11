@@ -1,7 +1,7 @@
 ---
 title: "Ayaka W. Kishimoto‐Mo"
 description: "Ayaka W. Kishimoto‐Mo is a Mid-career Biochar researcher at National Agriculture and Food Research Organization in JP. With 36 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.278668
+date: 2026-07-11T22:39:16.368844
 url: "/cdr-researcher-census/researchers/ayaka-w-kishimotomo-a5066869/"
 layout: "researcher"
 hiddenInHomeList: true

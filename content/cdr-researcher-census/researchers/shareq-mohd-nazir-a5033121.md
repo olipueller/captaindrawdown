@@ -1,7 +1,7 @@
 ---
 title: "Shareq Mohd Nazir"
 description: "Shareq Mohd Nazir is a Mid-career General CDR researcher at KTH Royal Institute of Technology in SE. With 45 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.284138
+date: 2026-07-11T22:39:16.374216
 url: "/cdr-researcher-census/researchers/shareq-mohd-nazir-a5033121/"
 layout: "researcher"
 hiddenInHomeList: true

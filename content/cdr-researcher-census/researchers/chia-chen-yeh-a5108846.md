@@ -1,7 +1,7 @@
 ---
 title: "Chia-Chen Yeh"
-description: "Chia-Chen Yeh is a Mid-career Biochar researcher at National Sun Yat-sen University in TW. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.727748
+description: "Chia-Chen Yeh is a Mid-career BECCS researcher at National Sun Yat-sen University in TW. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.810256
 url: "/cdr-researcher-census/researchers/chia-chen-yeh-a5108846/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ National Sun Yat-sen University · 🇹🇼 TW
 
 ## CDR Specialization
 
-**Biochar**
+**BECCS**
 
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

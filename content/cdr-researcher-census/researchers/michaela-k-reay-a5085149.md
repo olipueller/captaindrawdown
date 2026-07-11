@@ -1,7 +1,7 @@
 ---
 title: "Michaela K. Reay"
 description: "Michaela K. Reay is a Mid-career Soil Carbon researcher at The University of Bristol in GB. With 71 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.381804
+date: 2026-07-11T22:39:16.474299
 url: "/cdr-researcher-census/researchers/michaela-k-reay-a5085149/"
 layout: "researcher"
 hiddenInHomeList: true

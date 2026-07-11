@@ -1,7 +1,7 @@
 ---
 title: "Yuan Wen"
 description: "Yuan Wen is a Senior Soil Carbon researcher at China Agricultural University in CN. With 74 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.042388
+date: 2026-07-11T22:39:16.150335
 url: "/cdr-researcher-census/researchers/yuan-wen-a5066340/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zhuo Zhang"
-description: "Zhuo Zhang is a Mid-career Soil Carbon researcher at Ministry of Natural Resources in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.460717
+description: "Zhuo Zhang is a Mid-career Biochar researcher at Ministry of Natural Resources in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.555094
 url: "/cdr-researcher-census/researchers/zhuo-zhang-a5041260/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Ministry of Natural Resources · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

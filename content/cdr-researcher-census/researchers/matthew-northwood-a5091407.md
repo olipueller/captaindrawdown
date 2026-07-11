@@ -1,7 +1,7 @@
 ---
 title: "Matthew Northwood"
 description: "Matthew Northwood is a Mid-career Soil Carbon researcher at Charles Darwin University in AU. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.092330
+date: 2026-07-11T22:39:16.192950
 url: "/cdr-researcher-census/researchers/matthew-northwood-a5091407/"
 layout: "researcher"
 hiddenInHomeList: true

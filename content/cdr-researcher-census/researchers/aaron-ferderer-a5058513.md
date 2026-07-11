@@ -1,7 +1,7 @@
 ---
 title: "Aaron Ferderer"
 description: "Aaron Ferderer is a Mid-career Ocean CDR researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.743198
+date: 2026-07-11T22:39:16.825414
 url: "/cdr-researcher-census/researchers/aaron-ferderer-a5058513/"
 layout: "researcher"
 hiddenInHomeList: true

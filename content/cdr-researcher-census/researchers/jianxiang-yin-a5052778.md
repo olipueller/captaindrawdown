@@ -1,7 +1,7 @@
 ---
 title: "Jianxiang Yin"
 description: "Jianxiang Yin is a Senior Biochar researcher at Hunan University in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.535008
+date: 2026-07-11T22:39:16.628333
 url: "/cdr-researcher-census/researchers/jianxiang-yin-a5052778/"
 layout: "researcher"
 hiddenInHomeList: true

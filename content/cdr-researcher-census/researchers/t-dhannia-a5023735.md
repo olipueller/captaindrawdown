@@ -1,7 +1,7 @@
 ---
 title: "T. Dhannia"
 description: "T. Dhannia is a Senior Biochar researcher at Cochin University of Science and Technology in IN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.245639
+date: 2026-07-11T22:39:17.162834
 url: "/cdr-researcher-census/researchers/t-dhannia-a5023735/"
 layout: "researcher"
 hiddenInHomeList: true

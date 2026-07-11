@@ -1,7 +1,7 @@
 ---
 title: "Tao Long"
-description: "Tao Long is a Mid-career Soil Carbon researcher at Xi'an University of Architecture and Technology in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.271373
+description: "Tao Long is a Mid-career Biochar researcher at Xi'an University of Architecture and Technology in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.188962
 url: "/cdr-researcher-census/researchers/tao-long-a5103235/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Xi'an University of Architecture and Technology · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

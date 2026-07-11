@@ -1,7 +1,7 @@
 ---
 title: "Lena Rohe"
 description: "Lena Rohe is a Senior Soil Carbon researcher. With 55 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.271478
+date: 2026-07-11T22:39:16.361173
 url: "/cdr-researcher-census/researchers/lena-rohe-a5063380/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Christoph Beuttler"
-description: "Christoph Beuttler is an Early-career General CDR researcher. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.758114
+description: "Christoph Beuttler is an Early-career DAC researcher. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.839307
 url: "/cdr-researcher-census/researchers/christoph-beuttler-a5063518/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,9 +26,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

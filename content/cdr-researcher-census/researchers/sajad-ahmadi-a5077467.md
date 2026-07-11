@@ -1,7 +1,7 @@
 ---
 title: "Sajad Ahmadi"
 description: "Sajad Ahmadi is a Mid-career Biochar researcher at University of Oulu in FI. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.836837
+date: 2026-07-11T22:39:16.914023
 url: "/cdr-researcher-census/researchers/sajad-ahmadi-a5077467/"
 layout: "researcher"
 hiddenInHomeList: true

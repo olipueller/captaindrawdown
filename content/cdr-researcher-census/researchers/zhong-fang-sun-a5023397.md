@@ -1,7 +1,7 @@
 ---
 title: "Zhong-Fang Sun"
 description: "Zhong-Fang Sun is a Mid-career Biochar researcher at Harbin Institute of Technology in CN. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.344111
+date: 2026-07-11T22:39:16.434297
 url: "/cdr-researcher-census/researchers/zhong-fang-sun-a5023397/"
 layout: "researcher"
 hiddenInHomeList: true

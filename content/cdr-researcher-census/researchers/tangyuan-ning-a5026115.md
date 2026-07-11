@@ -1,7 +1,7 @@
 ---
 title: "Tangyuan Ning"
 description: "Tangyuan Ning is a Senior Soil Carbon researcher at Shandong Agricultural University in CN. With 101 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.056364
+date: 2026-07-11T22:39:16.162428
 url: "/cdr-researcher-census/researchers/tangyuan-ning-a5026115/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Raquel Portes"
 description: "Raquel Portes is a Senior Soil Carbon researcher at University of British Columbia in CA. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.203653
+date: 2026-07-11T22:39:16.296071
 url: "/cdr-researcher-census/researchers/raquel-portes-a5059285/"
 layout: "researcher"
 hiddenInHomeList: true

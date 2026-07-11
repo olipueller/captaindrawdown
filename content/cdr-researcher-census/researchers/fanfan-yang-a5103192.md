@@ -1,7 +1,7 @@
 ---
 title: "Fanfan Yang"
 description: "Fanfan Yang is a Mid-career Soil Carbon researcher at Lanzhou Jiaotong University in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.833915
+date: 2026-07-11T22:39:16.911156
 url: "/cdr-researcher-census/researchers/fanfan-yang-a5103192/"
 layout: "researcher"
 hiddenInHomeList: true

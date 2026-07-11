@@ -1,7 +1,7 @@
 ---
 title: "G. S. Cambareri"
 description: "G. S. Cambareri is a Senior Soil Carbon researcher at National Agricultural Technology Institute in AR. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.343196
+date: 2026-07-11T22:39:17.261112
 url: "/cdr-researcher-census/researchers/g-s-cambareri-a5053105/"
 layout: "researcher"
 hiddenInHomeList: true

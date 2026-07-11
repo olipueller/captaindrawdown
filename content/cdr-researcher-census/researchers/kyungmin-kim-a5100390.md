@@ -1,7 +1,7 @@
 ---
 title: "Kyungmin Kim"
 description: "Kyungmin Kim is a Mid-career Soil Carbon researcher at Atkins (United States) in US. With 48 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.634514
+date: 2026-07-11T22:39:16.724968
 url: "/cdr-researcher-census/researchers/kyungmin-kim-a5100390/"
 layout: "researcher"
 hiddenInHomeList: true

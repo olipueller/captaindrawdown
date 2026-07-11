@@ -1,7 +1,7 @@
 ---
 title: "Justine Courboulès"
 description: "Justine Courboulès is a Mid-career Ocean CDR researcher. With 22 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.543963
+date: 2026-07-11T22:39:17.467923
 url: "/cdr-researcher-census/researchers/justine-courboules-a5045979/"
 layout: "researcher"
 hiddenInHomeList: true

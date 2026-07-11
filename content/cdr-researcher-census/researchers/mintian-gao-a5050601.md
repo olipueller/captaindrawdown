@@ -1,7 +1,7 @@
 ---
 title: "Min‐Tian Gao"
 description: "Min‐Tian Gao is a Senior Biochar researcher at Shanghai University in CN. With 109 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.096972
+date: 2026-07-11T22:39:16.197102
 url: "/cdr-researcher-census/researchers/mintian-gao-a5050601/"
 layout: "researcher"
 hiddenInHomeList: true

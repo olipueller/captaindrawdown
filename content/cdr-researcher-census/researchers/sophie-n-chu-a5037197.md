@@ -1,7 +1,7 @@
 ---
 title: "Sophie N. Chu"
 description: "Sophie N. Chu is a Senior Ocean CDR researcher at California Institute of Technology in US. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.433275
+date: 2026-07-11T22:39:16.527686
 url: "/cdr-researcher-census/researchers/sophie-n-chu-a5037197/"
 layout: "researcher"
 hiddenInHomeList: true

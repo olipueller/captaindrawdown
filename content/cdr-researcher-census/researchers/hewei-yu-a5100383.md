@@ -1,7 +1,7 @@
 ---
 title: "Hewei Yu"
 description: "Hewei Yu is a Senior Biochar researcher at Qilu University of Technology in CN. With 56 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.549135
+date: 2026-07-11T22:39:16.642478
 url: "/cdr-researcher-census/researchers/hewei-yu-a5100383/"
 layout: "researcher"
 hiddenInHomeList: true

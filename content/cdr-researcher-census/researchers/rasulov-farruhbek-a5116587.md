@@ -1,7 +1,7 @@
 ---
 title: "Rasulov Farruhbek"
-description: "Rasulov Farruhbek is an Early-career Soil Carbon researcher at Andijan State Medical Institute in UZ. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.282545
+description: "Rasulov Farruhbek is an Early-career Biochar researcher at Andijan State Medical Institute in UZ. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.199874
 url: "/cdr-researcher-census/researchers/rasulov-farruhbek-a5116587/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Andijan State Medical Institute ·  UZ
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

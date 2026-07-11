@@ -1,7 +1,7 @@
 ---
 title: "Erich Inselsbacher"
 description: "Erich Inselsbacher is a Senior Soil Carbon researcher at BOKU University in AT. With 89 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.075361
+date: 2026-07-11T22:39:16.178101
 url: "/cdr-researcher-census/researchers/erich-inselsbacher-a5086647/"
 layout: "researcher"
 hiddenInHomeList: true

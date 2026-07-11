@@ -1,7 +1,7 @@
 ---
 title: "Narges Hemati Matin"
-description: "Narges Hemati Matin is a Mid-career Soil Carbon researcher at Slovak University of Agriculture in Nitra in SK. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.758404
+description: "Narges Hemati Matin is a Mid-career Biochar researcher at Slovak University of Agriculture in Nitra in SK. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.839596
 url: "/cdr-researcher-census/researchers/narges-hemati-matin-a5038823/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Slovak University of Agriculture in Nitra ·  SK
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

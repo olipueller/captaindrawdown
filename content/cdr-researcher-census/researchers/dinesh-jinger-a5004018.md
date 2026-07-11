@@ -1,7 +1,7 @@
 ---
 title: "Dinesh Jinger"
 description: "Dinesh Jinger is a Senior Soil Carbon researcher at ICAR Indian Institute of Soil and Water Conservation in IN. With 96 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.104945
+date: 2026-07-11T22:39:16.204072
 url: "/cdr-researcher-census/researchers/dinesh-jinger-a5004018/"
 layout: "researcher"
 hiddenInHomeList: true

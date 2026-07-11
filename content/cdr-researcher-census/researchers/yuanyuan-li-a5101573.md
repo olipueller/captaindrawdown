@@ -1,7 +1,7 @@
 ---
 title: "Yuanyuan Li"
 description: "Yuanyuan Li is a Senior Soil Carbon researcher at Sinopec (China) in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.525276
+date: 2026-07-11T22:39:17.449897
 url: "/cdr-researcher-census/researchers/yuanyuan-li-a5101573/"
 layout: "researcher"
 hiddenInHomeList: true

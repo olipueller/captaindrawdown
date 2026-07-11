@@ -1,7 +1,7 @@
 ---
 title: "Thushara Addanki"
-description: "Thushara Addanki is a Mid-career General CDR researcher. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.141893
+description: "Thushara Addanki is a Mid-career DAC researcher. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.090187
 url: "/cdr-researcher-census/researchers/thushara-addanki-a5074483/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

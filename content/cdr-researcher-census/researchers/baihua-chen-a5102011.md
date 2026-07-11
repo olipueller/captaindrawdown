@@ -1,7 +1,7 @@
 ---
 title: "Baihua Chen"
 description: "Baihua Chen is a Mid-career General CDR researcher at Institute of Urban Environment in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.445762
+date: 2026-07-11T22:39:17.370368
 url: "/cdr-researcher-census/researchers/baihua-chen-a5102011/"
 layout: "researcher"
 hiddenInHomeList: true

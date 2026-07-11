@@ -1,7 +1,7 @@
 ---
 title: "Han Na Kim"
 description: "Han Na Kim is a Mid-career Biochar researcher at Chungbuk National University in KR. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.427523
+date: 2026-07-11T22:39:17.351524
 url: "/cdr-researcher-census/researchers/han-na-kim-a5083570/"
 layout: "researcher"
 hiddenInHomeList: true

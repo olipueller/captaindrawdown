@@ -1,7 +1,7 @@
 ---
 title: "Rosalie Tostevin"
-description: "Rosalie Tostevin is a Mid-career General CDR researcher at University of Oxford in GB. With 75 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.086380
+description: "Rosalie Tostevin is a Mid-career Enhanced Weathering researcher at University of Oxford in GB. With 75 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.188603
 url: "/cdr-researcher-census/researchers/rosalie-tostevin-a5030649/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Oxford · 🇬🇧 GB
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "Simon Rufer"
-description: "Simon Rufer is a Mid-career Ocean CDR researcher at Massachusetts Institute of Technology in US. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.341087
+description: "Simon Rufer is a Mid-career DAC researcher at Massachusetts Institute of Technology in US. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.258724
 url: "/cdr-researcher-census/researchers/simon-rufer-a5012886/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Massachusetts Institute of Technology · 🇺🇸 US
 
 ## CDR Specialization
 
-**Ocean CDR**
+**DAC**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

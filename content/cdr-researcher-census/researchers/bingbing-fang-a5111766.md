@@ -1,7 +1,7 @@
 ---
 title: "Bingbing Fang"
-description: "Bingbing Fang is a Senior General CDR researcher at Xinjiang Medical University in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.280111
+description: "Bingbing Fang is a Senior BECCS researcher at Xinjiang Medical University in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.370307
 url: "/cdr-researcher-census/researchers/bingbing-fang-a5111766/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Xinjiang Medical University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

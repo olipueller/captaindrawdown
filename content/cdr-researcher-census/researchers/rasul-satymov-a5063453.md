@@ -1,7 +1,7 @@
 ---
 title: "Rasul Satymov"
-description: "Rasul Satymov is a Mid-career General CDR researcher at Lappeenranta-Lahti University of Technology in FI. With 39 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.435798
+description: "Rasul Satymov is a Mid-career DAC researcher at Lappeenranta-Lahti University of Technology in FI. With 39 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.530235
 url: "/cdr-researcher-census/researchers/rasul-satymov-a5063453/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Lappeenranta-Lahti University of Technology ·  FI
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

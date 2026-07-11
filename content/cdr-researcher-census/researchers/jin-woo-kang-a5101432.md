@@ -1,7 +1,7 @@
 ---
 title: "Jin Woo Kang"
 description: "Jin Woo Kang is a Senior Ocean CDR researcher at Institute for Basic Science in KR. With 36 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.851068
+date: 2026-07-11T22:39:16.927647
 url: "/cdr-researcher-census/researchers/jin-woo-kang-a5101432/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yutaro Akimoto"
-description: "Yutaro Akimoto is a Senior General CDR researcher at University of Tsukuba in JP. With 65 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.563439
+description: "Yutaro Akimoto is a Senior Enhanced Weathering researcher at University of Tsukuba in JP. With 65 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.655829
 url: "/cdr-researcher-census/researchers/yutaro-akimoto-a5065451/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Tsukuba · 🇯🇵 JP
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

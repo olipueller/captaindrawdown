@@ -1,7 +1,7 @@
 ---
 title: "Eya Ben Khalifa"
 description: "Eya Ben Khalifa is a Mid-career Biochar researcher at University of Turin in IT. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.171543
+date: 2026-07-11T22:39:17.104717
 url: "/cdr-researcher-census/researchers/eya-ben-khalifa-a5070390/"
 layout: "researcher"
 hiddenInHomeList: true

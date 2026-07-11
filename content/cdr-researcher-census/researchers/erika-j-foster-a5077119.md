@@ -1,7 +1,7 @@
 ---
 title: "Erika J. Foster"
 description: "Erika J. Foster is a Mid-career Soil Carbon researcher at Point Blue Conservation Science in US. With 34 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.368469
+date: 2026-07-11T22:39:16.460696
 url: "/cdr-researcher-census/researchers/erika-j-foster-a5077119/"
 layout: "researcher"
 hiddenInHomeList: true

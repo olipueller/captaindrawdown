@@ -1,7 +1,7 @@
 ---
 title: "Kristin McElligott"
 description: "Kristin McElligott is a Mid-career Soil Carbon researcher at Virginia Tech in US. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.477999
+date: 2026-07-11T22:39:17.402507
 url: "/cdr-researcher-census/researchers/kristin-mcelligott-a5059333/"
 layout: "researcher"
 hiddenInHomeList: true

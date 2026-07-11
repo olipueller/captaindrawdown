@@ -1,7 +1,7 @@
 ---
 title: "Shiwen Hu"
 description: "Shiwen Hu is a Mid-career Soil Carbon researcher at Guangdong Academy of Sciences in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.154835
+date: 2026-07-11T22:39:17.098698
 url: "/cdr-researcher-census/researchers/shiwen-hu-a5102862/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Lezhu Su"
 description: "Lezhu Su is a Mid-career Biochar researcher at Hunan Agricultural University in CN. With 19 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.827116
+date: 2026-07-11T22:39:16.904542
 url: "/cdr-researcher-census/researchers/lezhu-su-a5055429/"
 layout: "researcher"
 hiddenInHomeList: true

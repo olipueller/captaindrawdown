@@ -1,7 +1,7 @@
 ---
 title: "Kyle S. Hemes"
 description: "Kyle S. Hemes is a Senior Soil Carbon researcher. With 73 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.075242
+date: 2026-07-11T22:39:16.177977
 url: "/cdr-researcher-census/researchers/kyle-s-hemes-a5003296/"
 layout: "researcher"
 hiddenInHomeList: true

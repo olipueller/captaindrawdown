@@ -1,7 +1,7 @@
 ---
 title: "Haoze Zhang"
 description: "Haoze Zhang is a Mid-career Soil Carbon researcher at Institute of Tibetan Plateau Research in CN. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.640296
+date: 2026-07-11T22:39:17.561982
 url: "/cdr-researcher-census/researchers/haoze-zhang-a5102503/"
 layout: "researcher"
 hiddenInHomeList: true

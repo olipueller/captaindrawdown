@@ -1,7 +1,7 @@
 ---
 title: "Gonzalo del Alamo Serrano"
-description: "Gonzalo del Alamo Serrano is a Senior General CDR researcher at SINTEF in NO. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.579952
+description: "Gonzalo del Alamo Serrano is a Senior BECCS researcher at SINTEF in NO. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.672696
 url: "/cdr-researcher-census/researchers/gonzalo-del-alamo-serrano-a5060714/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ SINTEF · 🇳🇴 NO
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

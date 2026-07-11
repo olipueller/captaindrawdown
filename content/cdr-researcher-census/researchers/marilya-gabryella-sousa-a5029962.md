@@ -1,7 +1,7 @@
 ---
 title: "Marilya Gabryella Sousa"
 description: "Marilya Gabryella Sousa is a Mid-career Soil Carbon researcher at Universidade Federal Rural de Pernambuco in BR. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.624053
+date: 2026-07-11T22:39:17.543075
 url: "/cdr-researcher-census/researchers/marilya-gabryella-sousa-a5029962/"
 layout: "researcher"
 hiddenInHomeList: true

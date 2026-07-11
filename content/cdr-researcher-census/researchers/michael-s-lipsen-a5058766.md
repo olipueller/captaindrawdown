@@ -1,7 +1,7 @@
 ---
 title: "Michael S. Lipsen"
 description: "Michael S. Lipsen is a Senior Ocean CDR researcher at University of British Columbia in CA. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.018609
+date: 2026-07-11T22:39:17.034297
 url: "/cdr-researcher-census/researchers/michael-s-lipsen-a5058766/"
 layout: "researcher"
 hiddenInHomeList: true

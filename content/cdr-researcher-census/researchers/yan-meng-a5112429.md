@@ -1,7 +1,7 @@
 ---
 title: "Yan Meng"
-description: "Yan Meng is a Mid-career Soil Carbon researcher at Shandong Academy of Agricultural Sciences in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.290021
+description: "Yan Meng is a Mid-career Biochar researcher at Shandong Academy of Agricultural Sciences in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.207058
 url: "/cdr-researcher-census/researchers/yan-meng-a5112429/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Shandong Academy of Agricultural Sciences · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

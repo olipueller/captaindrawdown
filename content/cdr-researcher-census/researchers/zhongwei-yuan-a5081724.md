@@ -1,7 +1,7 @@
 ---
 title: "Zhongwei Yuan"
 description: "Zhongwei Yuan is a Mid-career Ocean CDR researcher at Xiamen University in CN. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.328638
+date: 2026-07-11T22:39:17.246370
 url: "/cdr-researcher-census/researchers/zhongwei-yuan-a5081724/"
 layout: "researcher"
 hiddenInHomeList: true

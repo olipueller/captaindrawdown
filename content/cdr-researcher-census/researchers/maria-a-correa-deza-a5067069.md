@@ -1,7 +1,7 @@
 ---
 title: "María A. Correa Deza"
 description: "María A. Correa Deza is a Senior Biochar researcher at National University of Tucumán in AR. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.548832
+date: 2026-07-11T22:39:16.642157
 url: "/cdr-researcher-census/researchers/maria-a-correa-deza-a5067069/"
 layout: "researcher"
 hiddenInHomeList: true

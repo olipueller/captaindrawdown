@@ -1,7 +1,7 @@
 ---
 title: "Grzegorz Gałko"
-description: "Grzegorz Gałko is a Mid-career General CDR researcher at Institute For Ecology of Industrial Areas in PL. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.042019
+description: "Grzegorz Gałko is a Mid-career Biochar researcher at Institute For Ecology of Industrial Areas in PL. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.043933
 url: "/cdr-researcher-census/researchers/grzegorz-gako-a5003508/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Institute For Ecology of Industrial Areas ·  PL
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

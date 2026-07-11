@@ -1,7 +1,7 @@
 ---
 title: "P Ashoka"
 description: "P Ashoka is a Mid-career Soil Carbon researcher at University of Agricultural Sciences, Dharwad in IN. With 89 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.664821
+date: 2026-07-11T22:39:16.752759
 url: "/cdr-researcher-census/researchers/p-ashoka-a5070588/"
 layout: "researcher"
 hiddenInHomeList: true

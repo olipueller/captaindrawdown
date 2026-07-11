@@ -1,7 +1,7 @@
 ---
 title: "Viniti Vaidya"
 description: "Viniti Vaidya is a Mid-career Biochar researcher at Dr. D.Y. Patil Vidyapeeth, Pune in IN. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.340289
+date: 2026-07-11T22:39:17.257882
 url: "/cdr-researcher-census/researchers/viniti-vaidya-a5022511/"
 layout: "researcher"
 hiddenInHomeList: true

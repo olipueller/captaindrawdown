@@ -1,7 +1,7 @@
 ---
 title: "María Toledo‐Garibaldi"
 description: "María Toledo‐Garibaldi is a Senior Soil Carbon researcher at Instituto de Ecología in MX. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.869180
+date: 2026-07-11T22:39:16.944510
 url: "/cdr-researcher-census/researchers/maria-toledogaribaldi-a5055139/"
 layout: "researcher"
 hiddenInHomeList: true

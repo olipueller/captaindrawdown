@@ -1,7 +1,7 @@
 ---
 title: "Priyadarshani A. Khambalkar"
 description: "Priyadarshani A. Khambalkar is a Mid-career Soil Carbon researcher at Jawaharlal Nehru Krishi Vishwa Vidyalaya in IN. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.645645
+date: 2026-07-11T22:39:17.569489
 url: "/cdr-researcher-census/researchers/priyadarshani-a-khambalkar-a5082431/"
 layout: "researcher"
 hiddenInHomeList: true

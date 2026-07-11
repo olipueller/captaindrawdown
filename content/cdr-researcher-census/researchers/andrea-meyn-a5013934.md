@@ -1,7 +1,7 @@
 ---
 title: "Andrea Meyn"
 description: "Andrea Meyn is a Senior General CDR researcher at Karlsruhe Institute of Technology in DE. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.191914
+date: 2026-07-11T22:39:16.284709
 url: "/cdr-researcher-census/researchers/andrea-meyn-a5013934/"
 layout: "researcher"
 hiddenInHomeList: true

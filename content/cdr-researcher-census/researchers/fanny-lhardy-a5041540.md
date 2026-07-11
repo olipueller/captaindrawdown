@@ -1,7 +1,7 @@
 ---
 title: "Fanny Lhardy"
-description: "Fanny Lhardy is a Mid-career Ocean CDR researcher at Laboratoire de Sciences de la Terre in FR. With 39 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.476410
+description: "Fanny Lhardy is a Mid-career Enhanced Weathering researcher at Laboratoire de Sciences de la Terre in FR. With 39 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.571230
 url: "/cdr-researcher-census/researchers/fanny-lhardy-a5041540/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Laboratoire de Sciences de la Terre · 🇫🇷 FR
 
 ## CDR Specialization
 
-**Ocean CDR**
+**Enhanced Weathering**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

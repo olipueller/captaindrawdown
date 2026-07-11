@@ -1,7 +1,7 @@
 ---
 title: "Huili Feng"
 description: "Huili Feng is a Mid-career Soil Carbon researcher at Tropical Crops Genetic Resources Institute in CN. With 31 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.271031
+date: 2026-07-11T22:39:16.360737
 url: "/cdr-researcher-census/researchers/huili-feng-a5033717/"
 layout: "researcher"
 hiddenInHomeList: true

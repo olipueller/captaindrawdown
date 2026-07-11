@@ -1,7 +1,7 @@
 ---
 title: "Anna Emanuelsson"
-description: "Anna Emanuelsson is a Senior General CDR researcher. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.203036
+description: "Anna Emanuelsson is a Senior DAC researcher. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.120780
 url: "/cdr-researcher-census/researchers/anna-emanuelsson-a5045778/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "Jing Sheng"
 description: "Jing Sheng is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 107 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.332015
+date: 2026-07-11T22:39:16.421640
 url: "/cdr-researcher-census/researchers/jing-sheng-a5110945/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mei Zhang"
 description: "Mei Zhang is a Mid-career Soil Carbon researcher at Henan University of Science and Technology in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.315536
+date: 2026-07-11T22:39:17.232518
 url: "/cdr-researcher-census/researchers/mei-zhang-a5083366/"
 layout: "researcher"
 hiddenInHomeList: true

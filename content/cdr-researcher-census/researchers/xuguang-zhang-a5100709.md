@@ -1,7 +1,7 @@
 ---
 title: "Xuguang Zhang"
 description: "Xuguang Zhang is a Mid-career Soil Carbon researcher at Shinshu University in JP. With 26 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.852331
+date: 2026-07-11T22:39:16.928877
 url: "/cdr-researcher-census/researchers/xuguang-zhang-a5100709/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xuqing Cai"
-description: "Xuqing Cai is a Mid-career General CDR researcher at Georgia Institute of Technology in US. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.138378
+description: "Xuqing Cai is a Mid-career DAC researcher at Georgia Institute of Technology in US. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.087209
 url: "/cdr-researcher-census/researchers/xuqing-cai-a5036632/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Georgia Institute of Technology · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "Kyungjin Min"
 description: "Kyungjin Min is a Senior Soil Carbon researcher at Seoul National University of Science and Technology in KR. With 62 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.251810
+date: 2026-07-11T22:39:16.342408
 url: "/cdr-researcher-census/researchers/kyungjin-min-a5087212/"
 layout: "researcher"
 hiddenInHomeList: true

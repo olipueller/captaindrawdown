@@ -1,7 +1,7 @@
 ---
 title: "Alex Woodley"
 description: "Alex Woodley is a Mid-career Enhanced Weathering researcher at Agriculture and Agri-Food Canada in CA. With 51 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.366990
+date: 2026-07-11T22:39:16.458776
 url: "/cdr-researcher-census/researchers/alex-woodley-a5067604/"
 layout: "researcher"
 hiddenInHomeList: true

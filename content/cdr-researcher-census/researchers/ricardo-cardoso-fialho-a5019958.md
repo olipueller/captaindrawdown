@@ -1,7 +1,7 @@
 ---
 title: "Ricardo Cardoso Fialho"
 description: "Ricardo Cardoso Fialho is a Mid-career Soil Carbon researcher at Universidade Federal de Viçosa in BR. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.272214
+date: 2026-07-11T22:39:17.189804
 url: "/cdr-researcher-census/researchers/ricardo-cardoso-fialho-a5019958/"
 layout: "researcher"
 hiddenInHomeList: true

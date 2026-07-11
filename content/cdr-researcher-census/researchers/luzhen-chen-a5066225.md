@@ -1,7 +1,7 @@
 ---
 title: "Luzhen Chen"
 description: "Luzhen Chen is a Senior Soil Carbon researcher at Xiamen University in CN. With 85 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.059298
+date: 2026-07-11T22:39:16.164909
 url: "/cdr-researcher-census/researchers/luzhen-chen-a5066225/"
 layout: "researcher"
 hiddenInHomeList: true

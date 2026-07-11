@@ -1,7 +1,7 @@
 ---
 title: "Mohammed Awad Mousa"
-description: "Mohammed Awad Mousa is a Senior Soil Carbon researcher at University of Waterloo in CA. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.725258
+description: "Mohammed Awad Mousa is a Senior Biochar researcher at University of Waterloo in CA. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.807904
 url: "/cdr-researcher-census/researchers/mohammed-awad-mousa-a5037227/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Waterloo · 🇨🇦 CA
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

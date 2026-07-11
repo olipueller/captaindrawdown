@@ -1,7 +1,7 @@
 ---
 title: "Xiaoli Cheng"
 description: "Xiaoli Cheng is an Eminent Soil Carbon researcher at Yunnan University in CN. With 183 publications and an h-index of 47, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:39.976871
+date: 2026-07-11T22:39:16.100050
 url: "/cdr-researcher-census/researchers/xiaoli-cheng-a5101867/"
 layout: "researcher"
 hiddenInHomeList: true

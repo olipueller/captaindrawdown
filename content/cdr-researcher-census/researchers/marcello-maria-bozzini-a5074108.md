@@ -1,7 +1,7 @@
 ---
 title: "Marcello Maria Bozzini"
-description: "Marcello Maria Bozzini is a Senior General CDR researcher at Politecnico di Milano in IT. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.601841
+description: "Marcello Maria Bozzini is a Senior DAC researcher at Politecnico di Milano in IT. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.522221
 url: "/cdr-researcher-census/researchers/marcello-maria-bozzini-a5074108/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Politecnico di Milano · 🇮🇹 IT
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

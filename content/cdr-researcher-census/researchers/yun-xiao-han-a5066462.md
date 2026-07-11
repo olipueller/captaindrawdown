@@ -1,7 +1,7 @@
 ---
 title: "Yun-Xiao Han"
 description: "Yun-Xiao Han is an Early-career Soil Carbon researcher at Hainan Normal University in CN. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.652969
+date: 2026-07-11T22:39:17.581237
 url: "/cdr-researcher-census/researchers/yun-xiao-han-a5066462/"
 layout: "researcher"
 hiddenInHomeList: true

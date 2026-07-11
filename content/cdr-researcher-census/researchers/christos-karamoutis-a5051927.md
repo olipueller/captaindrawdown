@@ -1,7 +1,7 @@
 ---
 title: "Christos Karamoutis"
 description: "Christos Karamoutis is a Mid-career Soil Carbon researcher at University of Thessaly in GR. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.604666
+date: 2026-07-11T22:39:17.524599
 url: "/cdr-researcher-census/researchers/christos-karamoutis-a5051927/"
 layout: "researcher"
 hiddenInHomeList: true

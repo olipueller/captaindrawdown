@@ -1,7 +1,7 @@
 ---
 title: "Nazanin Rahimi"
-description: "Nazanin Rahimi is a Mid-career General CDR researcher at Shell (United States) in US. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.255286
+description: "Nazanin Rahimi is a Mid-career DAC researcher at Shell (United States) in US. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.345500
 url: "/cdr-researcher-census/researchers/nazanin-rahimi-a5110625/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Shell (United States) · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

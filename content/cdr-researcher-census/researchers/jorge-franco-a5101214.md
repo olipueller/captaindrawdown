@@ -1,7 +1,7 @@
 ---
 title: "Jorge Franco"
 description: "Jorge Franco is a Mid-career General CDR researcher at North Carolina State University in US. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.651479
+date: 2026-07-11T22:39:17.577673
 url: "/cdr-researcher-census/researchers/jorge-franco-a5101214/"
 layout: "researcher"
 hiddenInHomeList: true

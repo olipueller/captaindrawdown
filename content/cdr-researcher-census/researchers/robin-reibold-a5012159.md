@@ -1,7 +1,7 @@
 ---
 title: "Robin Reibold"
 description: "Robin Reibold is a Senior Soil Carbon researcher at United States Geological Survey in US. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.789188
+date: 2026-07-11T22:39:16.870717
 url: "/cdr-researcher-census/researchers/robin-reibold-a5012159/"
 layout: "researcher"
 hiddenInHomeList: true

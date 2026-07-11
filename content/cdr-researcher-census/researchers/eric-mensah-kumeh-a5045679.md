@@ -1,7 +1,7 @@
 ---
 title: "Eric Mensah Kumeh"
 description: "Eric Mensah Kumeh is a Mid-career Soil Carbon researcher at University of British Columbia in CA. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.688630
+date: 2026-07-11T22:39:16.773857
 url: "/cdr-researcher-census/researchers/eric-mensah-kumeh-a5045679/"
 layout: "researcher"
 hiddenInHomeList: true

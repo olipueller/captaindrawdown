@@ -1,7 +1,7 @@
 ---
 title: "Kailou Liu"
 description: "Kailou Liu is a Senior Soil Carbon researcher at Jiangxi Institute of Red Soil in CN. With 79 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.130471
+date: 2026-07-11T22:39:16.227592
 url: "/cdr-researcher-census/researchers/kailou-liu-a5070875/"
 layout: "researcher"
 hiddenInHomeList: true

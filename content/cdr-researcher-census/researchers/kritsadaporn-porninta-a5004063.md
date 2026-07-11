@@ -1,7 +1,7 @@
 ---
 title: "Kritsadaporn Porninta"
-description: "Kritsadaporn Porninta is a Mid-career General CDR researcher at Chiang Mai University in TH. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.355903
+description: "Kritsadaporn Porninta is a Mid-career Biochar researcher at Chiang Mai University in TH. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.275136
 url: "/cdr-researcher-census/researchers/kritsadaporn-porninta-a5004063/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Chiang Mai University · 🇹🇭 TH
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

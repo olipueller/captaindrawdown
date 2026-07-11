@@ -1,7 +1,7 @@
 ---
 title: "Jianmin Zhao"
 description: "Jianmin Zhao is a Senior Ocean CDR researcher at Jiangsu University in CN. With 38 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.422415
+date: 2026-07-11T22:39:16.516899
 url: "/cdr-researcher-census/researchers/jianmin-zhao-a5081305/"
 layout: "researcher"
 hiddenInHomeList: true

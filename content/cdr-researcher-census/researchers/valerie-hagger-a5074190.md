@@ -1,7 +1,7 @@
 ---
 title: "Valerie Hagger"
 description: "Valerie Hagger is a Mid-career Soil Carbon researcher at The University of Queensland in AU. With 36 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.144208
+date: 2026-07-11T22:39:16.240546
 url: "/cdr-researcher-census/researchers/valerie-hagger-a5074190/"
 layout: "researcher"
 hiddenInHomeList: true

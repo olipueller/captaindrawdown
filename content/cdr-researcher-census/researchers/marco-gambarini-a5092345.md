@@ -1,7 +1,7 @@
 ---
 title: "Marco Gambarini"
-description: "Marco Gambarini is an Early-career General CDR researcher at Centro Euro-Mediterraneo sui Cambiamenti Climatici in IT. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.277023
+description: "Marco Gambarini is an Early-career BECCS researcher at Centro Euro-Mediterraneo sui Cambiamenti Climatici in IT. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.194479
 url: "/cdr-researcher-census/researchers/marco-gambarini-a5092345/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Centro Euro-Mediterraneo sui Cambiamenti Climatici · 🇮🇹 IT
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

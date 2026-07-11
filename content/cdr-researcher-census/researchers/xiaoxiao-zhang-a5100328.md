@@ -1,7 +1,7 @@
 ---
 title: "Xiaoxiao Zhang"
 description: "Xiaoxiao Zhang is a Senior Biochar researcher at Ningbo University in CN. With 58 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.246516
+date: 2026-07-11T22:39:16.336795
 url: "/cdr-researcher-census/researchers/xiaoxiao-zhang-a5100328/"
 layout: "researcher"
 hiddenInHomeList: true

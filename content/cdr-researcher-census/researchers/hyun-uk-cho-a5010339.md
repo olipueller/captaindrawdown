@@ -1,7 +1,7 @@
 ---
 title: "Hyun Uk Cho"
 description: "Hyun Uk Cho is a Senior Biochar researcher at Chungnam National University in KR. With 38 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.184054
+date: 2026-07-11T22:39:16.277715
 url: "/cdr-researcher-census/researchers/hyun-uk-cho-a5010339/"
 layout: "researcher"
 hiddenInHomeList: true

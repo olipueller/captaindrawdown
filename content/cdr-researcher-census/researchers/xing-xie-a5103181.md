@@ -1,7 +1,7 @@
 ---
 title: "Xing Xie"
 description: "Xing Xie is a Mid-career Biochar researcher at Jiangsu University in CN. With 36 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.175052
+date: 2026-07-11T22:39:16.268834
 url: "/cdr-researcher-census/researchers/xing-xie-a5103181/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Songjuan Gao"
 description: "Songjuan Gao is a Senior Soil Carbon researcher at Nanjing Agricultural University in CN. With 69 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.100969
+date: 2026-07-11T22:39:16.200456
 url: "/cdr-researcher-census/researchers/songjuan-gao-a5101127/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Tom C. Kaspar"
-description: "Tom C. Kaspar is a Senior Soil Carbon researcher at National Laboratory for Agriculture and the Environment in US. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.718558
+description: "Tom C. Kaspar is a Senior BECCS researcher at National Laboratory for Agriculture and the Environment in US. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.801461
 url: "/cdr-researcher-census/researchers/tom-c-kaspar-a5112103/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ National Laboratory for Agriculture and the Environment · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**BECCS**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

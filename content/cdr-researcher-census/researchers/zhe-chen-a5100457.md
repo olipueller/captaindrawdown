@@ -1,7 +1,7 @@
 ---
 title: "Zhe Chen"
 description: "Zhe Chen is a Senior Soil Carbon researcher at Yunnan University in CN. With 188 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.010012
+date: 2026-07-11T22:39:16.125023
 url: "/cdr-researcher-census/researchers/zhe-chen-a5100457/"
 layout: "researcher"
 hiddenInHomeList: true

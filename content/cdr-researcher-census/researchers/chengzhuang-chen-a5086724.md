@@ -1,7 +1,7 @@
 ---
 title: "Chengzhuang Chen"
 description: "Chengzhuang Chen is a Mid-career Ocean CDR researcher at Shandong University in CN. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.493854
+date: 2026-07-11T22:39:16.588084
 url: "/cdr-researcher-census/researchers/chengzhuang-chen-a5086724/"
 layout: "researcher"
 hiddenInHomeList: true

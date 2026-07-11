@@ -1,7 +1,7 @@
 ---
 title: "Chongping Huang"
 description: "Chongping Huang is a Senior Enhanced Weathering researcher at Guizhou University in CN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.804135
+date: 2026-07-11T22:39:16.884519
 url: "/cdr-researcher-census/researchers/chongping-huang-a5089334/"
 layout: "researcher"
 hiddenInHomeList: true

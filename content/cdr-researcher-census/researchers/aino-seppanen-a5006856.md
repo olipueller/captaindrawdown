@@ -1,7 +1,7 @@
 ---
 title: "Aino Seppänen"
-description: "Aino Seppänen is an Early-career Soil Carbon researcher at University of Helsinki in FI. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.409926
+description: "Aino Seppänen is an Early-career Biochar researcher at University of Helsinki in FI. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.332293
 url: "/cdr-researcher-census/researchers/aino-seppanen-a5006856/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ University of Helsinki ·  FI
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

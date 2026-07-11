@@ -1,7 +1,7 @@
 ---
 title: "Marcelo Javier Beltrán"
 description: "Marcelo Javier Beltrán is a Mid-career Soil Carbon researcher. With 26 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.637571
+date: 2026-07-11T22:39:17.558800
 url: "/cdr-researcher-census/researchers/marcelo-javier-beltran-a5101403/"
 layout: "researcher"
 hiddenInHomeList: true

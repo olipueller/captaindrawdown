@@ -1,7 +1,7 @@
 ---
 title: "Geeta Kumari"
 description: "Geeta Kumari is a Senior General CDR researcher at Dr. Rajendra Prasad Central Agriculture University in IN. With 37 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.080201
+date: 2026-07-11T22:39:17.058400
 url: "/cdr-researcher-census/researchers/geeta-kumari-a5009345/"
 layout: "researcher"
 hiddenInHomeList: true

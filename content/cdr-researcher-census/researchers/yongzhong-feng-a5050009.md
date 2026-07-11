@@ -1,7 +1,7 @@
 ---
 title: "Yongzhong Feng"
 description: "Yongzhong Feng is a Senior Soil Carbon researcher at Yangon Technological University in MM. With 100 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:39.989816
+date: 2026-07-11T22:39:16.108610
 url: "/cdr-researcher-census/researchers/yongzhong-feng-a5050009/"
 layout: "researcher"
 hiddenInHomeList: true

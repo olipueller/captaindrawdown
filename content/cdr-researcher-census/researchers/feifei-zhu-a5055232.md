@@ -1,7 +1,7 @@
 ---
 title: "Feifei Zhu"
 description: "Feifei Zhu is a Senior Enhanced Weathering researcher at Rice Research Institute in CN. With 59 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.145396
+date: 2026-07-11T22:39:16.241616
 url: "/cdr-researcher-census/researchers/feifei-zhu-a5055232/"
 layout: "researcher"
 hiddenInHomeList: true

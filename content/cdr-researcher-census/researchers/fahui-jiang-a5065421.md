@@ -1,7 +1,7 @@
 ---
 title: "Fahui Jiang"
 description: "Fahui Jiang is a Mid-career Soil Carbon researcher at Anhui Academy of Agricultural Sciences in CN. With 28 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.308722
+date: 2026-07-11T22:39:16.399237
 url: "/cdr-researcher-census/researchers/fahui-jiang-a5065421/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Pankaj Bhardwaj"
-description: "Pankaj Bhardwaj is a Mid-career Soil Carbon researcher at Government College Bahu in IN. With 33 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.434500
+description: "Pankaj Bhardwaj is a Mid-career Biochar researcher at Government College Bahu in IN. With 33 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.528910
 url: "/cdr-researcher-census/researchers/pankaj-bhardwaj-a5101936/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Government College Bahu · 🇮🇳 IN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

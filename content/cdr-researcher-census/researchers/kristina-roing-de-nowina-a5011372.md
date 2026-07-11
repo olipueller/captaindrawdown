@@ -1,7 +1,7 @@
 ---
 title: "Kristina Röing de Nowina"
-description: "Kristina Röing de Nowina is a Senior Soil Carbon researcher at Swedish University of Agricultural Sciences in SE. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.475590
+description: "Kristina Röing de Nowina is a Senior Biochar researcher at Swedish University of Agricultural Sciences in SE. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.570419
 url: "/cdr-researcher-census/researchers/kristina-roing-de-nowina-a5011372/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Swedish University of Agricultural Sciences · 🇸🇪 SE
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

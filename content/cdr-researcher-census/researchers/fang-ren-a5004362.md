@@ -1,7 +1,7 @@
 ---
 title: "Fang Ren"
 description: "Fang Ren is a Senior Biochar researcher at Minzu University of China in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.130262
+date: 2026-07-11T22:39:17.080757
 url: "/cdr-researcher-census/researchers/fang-ren-a5004362/"
 layout: "researcher"
 hiddenInHomeList: true

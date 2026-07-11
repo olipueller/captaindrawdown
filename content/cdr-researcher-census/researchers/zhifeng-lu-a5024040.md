@@ -1,7 +1,7 @@
 ---
 title: "Zhifeng Lu"
 description: "Zhifeng Lu is a Senior Soil Carbon researcher at Huazhong Agricultural University in CN. With 103 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.062291
+date: 2026-07-11T22:39:16.167525
 url: "/cdr-researcher-census/researchers/zhifeng-lu-a5024040/"
 layout: "researcher"
 hiddenInHomeList: true

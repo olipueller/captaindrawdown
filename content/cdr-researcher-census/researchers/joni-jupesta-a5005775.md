@@ -1,7 +1,7 @@
 ---
 title: "Joni Jupesta"
 description: "Joni Jupesta is a Senior General CDR researcher at IPB University in ID. With 61 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.385251
+date: 2026-07-11T22:39:16.478091
 url: "/cdr-researcher-census/researchers/joni-jupesta-a5005775/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mohamed H. Abdallah"
 description: "Mohamed H. Abdallah is a Mid-career Biochar researcher at Al-Azhar University in EG. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.931808
+date: 2026-07-11T22:39:16.992280
 url: "/cdr-researcher-census/researchers/mohamed-h-abdallah-a5104075/"
 layout: "researcher"
 hiddenInHomeList: true

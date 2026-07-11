@@ -1,7 +1,7 @@
 ---
 title: "Xingang Bai"
 description: "Xingang Bai is a Mid-career Biochar researcher at Henan Normal University in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.972399
+date: 2026-07-11T22:39:17.017696
 url: "/cdr-researcher-census/researchers/xingang-bai-a5038107/"
 layout: "researcher"
 hiddenInHomeList: true

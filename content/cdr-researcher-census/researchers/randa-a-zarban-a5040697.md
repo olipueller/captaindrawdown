@@ -1,7 +1,7 @@
 ---
 title: "Randa A. Zarban"
 description: "Randa A. Zarban is a Mid-career Soil Carbon researcher at King Faisal University in SA. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.991435
+date: 2026-07-11T22:39:17.026323
 url: "/cdr-researcher-census/researchers/randa-a-zarban-a5040697/"
 layout: "researcher"
 hiddenInHomeList: true

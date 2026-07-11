@@ -1,7 +1,7 @@
 ---
 title: "Enze Kang"
 description: "Enze Kang is a Mid-career Soil Carbon researcher at Beijing Botanical Garden in CN. With 40 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.263496
+date: 2026-07-11T22:39:16.353866
 url: "/cdr-researcher-census/researchers/enze-kang-a5103208/"
 layout: "researcher"
 hiddenInHomeList: true

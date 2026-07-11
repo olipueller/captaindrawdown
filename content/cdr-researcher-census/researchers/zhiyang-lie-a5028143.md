@@ -1,7 +1,7 @@
 ---
 title: "Zhiyang Lie"
-description: "Zhiyang Lie is a Mid-career Soil Carbon researcher at South China Botanical Garden in CN. With 52 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.286338
+description: "Zhiyang Lie is a Mid-career Enhanced Weathering researcher at South China Botanical Garden in CN. With 52 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.376664
 url: "/cdr-researcher-census/researchers/zhiyang-lie-a5028143/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ South China Botanical Garden · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Enhanced Weathering**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

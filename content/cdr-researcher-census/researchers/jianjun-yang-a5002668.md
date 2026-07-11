@@ -1,7 +1,7 @@
 ---
 title: "Jianjun Yang"
 description: "Jianjun Yang is a Senior Soil Carbon researcher at Xinjiang University in CN. With 50 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.124579
+date: 2026-07-11T22:39:16.222488
 url: "/cdr-researcher-census/researchers/jianjun-yang-a5002668/"
 layout: "researcher"
 hiddenInHomeList: true

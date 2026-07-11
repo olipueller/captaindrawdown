@@ -1,7 +1,7 @@
 ---
 title: "Andrea L. Ambrosio"
-description: "Andrea L. Ambrosio is a Senior General CDR researcher at Colorado State University in US. With 22 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.236498
+description: "Andrea L. Ambrosio is a Senior Biochar researcher at Colorado State University in US. With 22 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.327592
 url: "/cdr-researcher-census/researchers/andrea-l-ambrosio-a5047136/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Colorado State University · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

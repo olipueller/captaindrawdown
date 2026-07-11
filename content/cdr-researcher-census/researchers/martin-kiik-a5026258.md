@@ -1,7 +1,7 @@
 ---
 title: "Martin Kiik"
 description: "Martin Kiik is a Mid-career Soil Carbon researcher at King's College London in GB. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.652922
+date: 2026-07-11T22:39:16.742172
 url: "/cdr-researcher-census/researchers/martin-kiik-a5026258/"
 layout: "researcher"
 hiddenInHomeList: true

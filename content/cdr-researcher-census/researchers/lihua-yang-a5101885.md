@@ -1,7 +1,7 @@
 ---
 title: "Lihua Yang"
-description: "Lihua Yang is a Senior General CDR researcher at Xiamen Tobacco Industry (China) in CN. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.539020
+description: "Lihua Yang is a Senior DAC researcher at Xiamen Tobacco Industry (China) in CN. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.463124
 url: "/cdr-researcher-census/researchers/lihua-yang-a5101885/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Xiamen Tobacco Industry (China) · 🇨🇳 CN
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

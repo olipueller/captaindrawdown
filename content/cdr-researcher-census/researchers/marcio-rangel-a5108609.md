@@ -1,7 +1,7 @@
 ---
 title: "Marcio Rangel"
-description: "Marcio Rangel is a Senior Soil Carbon researcher at Texas Tech University in US. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.956178
+description: "Marcio Rangel is a Senior Biochar researcher at Texas Tech University in US. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.007229
 url: "/cdr-researcher-census/researchers/marcio-rangel-a5108609/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Texas Tech University · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

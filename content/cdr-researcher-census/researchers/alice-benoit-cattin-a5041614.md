@@ -1,7 +1,7 @@
 ---
 title: "Alice Benoit-Cattin"
 description: "Alice Benoit-Cattin is a Senior Ocean CDR researcher. With 47 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.054181
+date: 2026-07-11T22:39:16.160541
 url: "/cdr-researcher-census/researchers/alice-benoit-cattin-a5041614/"
 layout: "researcher"
 hiddenInHomeList: true

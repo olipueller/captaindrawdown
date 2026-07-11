@@ -1,7 +1,7 @@
 ---
 title: "Biswajit Samal"
 description: "Biswajit Samal is a Mid-career Biochar researcher at Indian Institute of Technology Kharagpur in IN. With 39 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.125966
+date: 2026-07-11T22:39:16.223832
 url: "/cdr-researcher-census/researchers/biswajit-samal-a5002583/"
 layout: "researcher"
 hiddenInHomeList: true

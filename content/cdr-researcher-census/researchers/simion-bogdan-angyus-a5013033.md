@@ -1,7 +1,7 @@
 ---
 title: "Simion Bogdan Angyus"
 description: "Simion Bogdan Angyus is a Mid-career Biochar researcher at Research Institute for Analytical Instrumentation in RO. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.100168
+date: 2026-07-11T22:39:17.072522
 url: "/cdr-researcher-census/researchers/simion-bogdan-angyus-a5013033/"
 layout: "researcher"
 hiddenInHomeList: true

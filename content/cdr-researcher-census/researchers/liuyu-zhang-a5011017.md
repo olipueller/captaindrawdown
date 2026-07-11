@@ -1,7 +1,7 @@
 ---
 title: "Liuyu Zhang"
 description: "Liuyu Zhang is a Mid-career Soil Carbon researcher at Shenyang Ligong University in CN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.754715
+date: 2026-07-11T22:39:16.836031
 url: "/cdr-researcher-census/researchers/liuyu-zhang-a5011017/"
 layout: "researcher"
 hiddenInHomeList: true

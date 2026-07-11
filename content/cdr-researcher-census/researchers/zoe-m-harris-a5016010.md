@@ -1,7 +1,7 @@
 ---
 title: "Zoe M. Harris"
-description: "Zoe M. Harris is a Senior General CDR researcher at University of Surrey in GB. With 51 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.205774
+description: "Zoe M. Harris is a Senior BECCS researcher at University of Surrey in GB. With 51 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.297922
 url: "/cdr-researcher-census/researchers/zoe-m-harris-a5016010/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Surrey · 🇬🇧 GB
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "Jess Sustarich"
-description: "Jess Sustarich is a Mid-career General CDR researcher at Sandia National Laboratories California in US. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.645570
+description: "Jess Sustarich is a Mid-career BECCS researcher at Sandia National Laboratories California in US. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.735179
 url: "/cdr-researcher-census/researchers/jess-sustarich-a5064016/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Sandia National Laboratories California · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

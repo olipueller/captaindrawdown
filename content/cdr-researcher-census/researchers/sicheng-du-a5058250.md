@@ -1,7 +1,7 @@
 ---
 title: "Sicheng Du"
 description: "Sicheng Du is a Mid-career Soil Carbon researcher at Kunming Medical University in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.036471
+date: 2026-07-11T22:39:17.041330
 url: "/cdr-researcher-census/researchers/sicheng-du-a5058250/"
 layout: "researcher"
 hiddenInHomeList: true

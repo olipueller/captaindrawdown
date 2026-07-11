@@ -1,7 +1,7 @@
 ---
 title: "Krishna Pal Singh"
-description: "Krishna Pal Singh is a Senior Soil Carbon researcher at M.J.P. Rohilkhand University in IN. With 40 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.305944
+description: "Krishna Pal Singh is a Senior Biochar researcher at M.J.P. Rohilkhand University in IN. With 40 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.396759
 url: "/cdr-researcher-census/researchers/krishna-pal-singh-a5101432/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ M.J.P. Rohilkhand University · 🇮🇳 IN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

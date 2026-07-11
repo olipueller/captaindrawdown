@@ -1,7 +1,7 @@
 ---
 title: "Wenyao Xiao"
 description: "Wenyao Xiao is a Senior Enhanced Weathering researcher at Research Institute of Petroleum Exploration and Development in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.932567
+date: 2026-07-11T22:39:16.993060
 url: "/cdr-researcher-census/researchers/wenyao-xiao-a5112892/"
 layout: "researcher"
 hiddenInHomeList: true

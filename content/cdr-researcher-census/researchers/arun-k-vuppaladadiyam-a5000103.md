@@ -1,7 +1,7 @@
 ---
 title: "Arun K. Vuppaladadiyam"
 description: "Arun K. Vuppaladadiyam is a Senior Biochar researcher at Curtin University in AU. With 36 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.078901
+date: 2026-07-11T22:39:16.181629
 url: "/cdr-researcher-census/researchers/arun-k-vuppaladadiyam-a5000103/"
 layout: "researcher"
 hiddenInHomeList: true

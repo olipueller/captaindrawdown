@@ -1,7 +1,7 @@
 ---
 title: "Himanshu Mishra"
 description: "Himanshu Mishra is a Senior Soil Carbon researcher at Chhatrapati Shahu Ji Maharaj University in IN. With 39 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.818359
+date: 2026-07-11T22:39:16.897386
 url: "/cdr-researcher-census/researchers/himanshu-mishra-a5077443/"
 layout: "researcher"
 hiddenInHomeList: true

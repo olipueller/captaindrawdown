@@ -1,7 +1,7 @@
 ---
 title: "Martino Fungi"
 description: "Martino Fungi is a Senior Biochar researcher at Telecom Italia (Italy) in IT. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.764872
+date: 2026-07-11T22:39:16.846651
 url: "/cdr-researcher-census/researchers/martino-fungi-a5021224/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xinrui He"
 description: "Xinrui He is a Mid-career Soil Carbon researcher at South China Agricultural University in CN. With 40 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.332116
+date: 2026-07-11T22:39:16.421746
 url: "/cdr-researcher-census/researchers/xinrui-he-a5028641/"
 layout: "researcher"
 hiddenInHomeList: true

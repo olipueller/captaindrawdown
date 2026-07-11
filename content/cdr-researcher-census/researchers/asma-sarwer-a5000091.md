@@ -1,7 +1,7 @@
 ---
 title: "Asma Sarwer"
-description: "Asma Sarwer is an Early-career Soil Carbon researcher at COMSATS University Islamabad in PK. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.537318
+description: "Asma Sarwer is an Early-career BECCS researcher at COMSATS University Islamabad in PK. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.630568
 url: "/cdr-researcher-census/researchers/asma-sarwer-a5000091/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ COMSATS University Islamabad · 🇵🇰 PK
 
 ## CDR Specialization
 
-**Soil Carbon**
+**BECCS**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "Mirjam Röder"
 description: "Mirjam Röder is a Senior General CDR researcher at Aston University in GB. With 66 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.137777
+date: 2026-07-11T22:39:16.234157
 url: "/cdr-researcher-census/researchers/mirjam-roder-a5033669/"
 layout: "researcher"
 hiddenInHomeList: true

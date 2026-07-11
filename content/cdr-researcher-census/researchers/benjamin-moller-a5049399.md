@@ -1,7 +1,7 @@
 ---
 title: "Benjamin Möller"
-description: "Benjamin Möller is a Mid-career General CDR researcher at Fraunhofer Institute for Structural Durability and System Reliability in DE. With 47 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.260816
+description: "Benjamin Möller is a Mid-career Enhanced Weathering researcher at Fraunhofer Institute for Structural Durability and System Reliability in DE. With 47 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.351332
 url: "/cdr-researcher-census/researchers/benjamin-moller-a5049399/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Fraunhofer Institute for Structural Durability and System Reliability · 🇩�
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

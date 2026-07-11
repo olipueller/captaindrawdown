@@ -1,7 +1,7 @@
 ---
 title: "H. L. Zhang"
-description: "H. L. Zhang is a Mid-career General CDR researcher at Line Corporation (Japan) in JP. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.180640
+description: "H. L. Zhang is a Mid-career DAC researcher at Line Corporation (Japan) in JP. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.274556
 url: "/cdr-researcher-census/researchers/h-l-zhang-a5076411/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Line Corporation (Japan) · 🇯🇵 JP
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

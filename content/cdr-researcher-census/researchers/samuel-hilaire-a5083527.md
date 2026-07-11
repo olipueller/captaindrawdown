@@ -1,7 +1,7 @@
 ---
 title: "Samuel Hilaire"
 description: "Samuel Hilaire is a Mid-career Soil Carbon researcher. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.345145
+date: 2026-07-11T22:39:16.435418
 url: "/cdr-researcher-census/researchers/samuel-hilaire-a5083527/"
 layout: "researcher"
 hiddenInHomeList: true

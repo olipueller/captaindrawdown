@@ -1,7 +1,7 @@
 ---
 title: "Pamela Sofia Fabian"
 description: "Pamela Sofia Fabian is an Early-career Biochar researcher at University of Seoul in KR. With 7 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.410117
+date: 2026-07-11T22:39:17.332494
 url: "/cdr-researcher-census/researchers/pamela-sofia-fabian-a5020541/"
 layout: "researcher"
 hiddenInHomeList: true

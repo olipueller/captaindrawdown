@@ -1,7 +1,7 @@
 ---
 title: "Daniel Schmider"
-description: "Daniel Schmider is a Mid-career General CDR researcher at European Institute for Energy Research in DE. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.716663
+description: "Daniel Schmider is a Mid-career DAC researcher at European Institute for Energy Research in DE. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.799598
 url: "/cdr-researcher-census/researchers/daniel-schmider-a5069947/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ European Institute for Energy Research · 🇩🇪 DE
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

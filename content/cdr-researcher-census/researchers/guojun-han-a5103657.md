@@ -1,7 +1,7 @@
 ---
 title: "Guojun Han"
 description: "Guojun Han is a Senior Soil Carbon researcher at Gansu Agricultural University in CN. With 38 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.357008
+date: 2026-07-11T22:39:17.276261
 url: "/cdr-researcher-census/researchers/guojun-han-a5103657/"
 layout: "researcher"
 hiddenInHomeList: true

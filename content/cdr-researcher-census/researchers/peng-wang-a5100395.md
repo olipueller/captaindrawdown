@@ -1,7 +1,7 @@
 ---
 title: "Peng Wang"
 description: "Peng Wang is a Mid-career Soil Carbon researcher at Nanjing Tech University in CN. With 26 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.385550
+date: 2026-07-11T22:39:16.478411
 url: "/cdr-researcher-census/researchers/peng-wang-a5100395/"
 layout: "researcher"
 hiddenInHomeList: true

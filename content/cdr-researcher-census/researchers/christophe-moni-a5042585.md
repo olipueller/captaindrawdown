@@ -1,7 +1,7 @@
 ---
 title: "Christophe Moni"
 description: "Christophe Moni is a Senior Soil Carbon researcher at Norwegian Institute of Bioeconomy Research in NO. With 34 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.260471
+date: 2026-07-11T22:39:16.350944
 url: "/cdr-researcher-census/researchers/christophe-moni-a5042585/"
 layout: "researcher"
 hiddenInHomeList: true

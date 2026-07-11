@@ -1,7 +1,7 @@
 ---
 title: "Roxanna S. Delima"
 description: "Roxanna S. Delima is a Mid-career General CDR researcher at University of British Columbia in CA. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.376599
+date: 2026-07-11T22:39:16.468886
 url: "/cdr-researcher-census/researchers/roxanna-s-delima-a5002065/"
 layout: "researcher"
 hiddenInHomeList: true

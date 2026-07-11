@@ -1,7 +1,7 @@
 ---
 title: "Imtiaz Ashraf"
 description: "Imtiaz Ashraf is a Mid-career Biochar researcher at Aligarh Muslim University in IN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.794051
+date: 2026-07-11T22:39:16.875204
 url: "/cdr-researcher-census/researchers/imtiaz-ashraf-a5000457/"
 layout: "researcher"
 hiddenInHomeList: true

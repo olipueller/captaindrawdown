@@ -1,7 +1,7 @@
 ---
 title: "Chuanqin Huang"
 description: "Chuanqin Huang is a Senior Soil Carbon researcher at Huazhong Agricultural University in CN. With 25 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.228131
+date: 2026-07-11T22:39:16.318593
 url: "/cdr-researcher-census/researchers/chuanqin-huang-a5112411/"
 layout: "researcher"
 hiddenInHomeList: true

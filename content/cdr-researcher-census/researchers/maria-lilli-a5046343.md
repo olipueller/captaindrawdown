@@ -1,7 +1,7 @@
 ---
 title: "Maria Α. Lilli"
 description: "Maria Α. Lilli is a Mid-career Soil Carbon researcher at Health Innovations (United States) in US. With 44 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.495854
+date: 2026-07-11T22:39:16.590327
 url: "/cdr-researcher-census/researchers/maria-lilli-a5046343/"
 layout: "researcher"
 hiddenInHomeList: true

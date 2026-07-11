@@ -1,7 +1,7 @@
 ---
 title: "Zhen Liu"
 description: "Zhen Liu is a Senior Soil Carbon researcher at Jiamusi University in CN. With 58 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.320557
+date: 2026-07-11T22:39:16.411321
 url: "/cdr-researcher-census/researchers/zhen-liu-a5007282/"
 layout: "researcher"
 hiddenInHomeList: true

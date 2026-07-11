@@ -1,7 +1,7 @@
 ---
 title: "Avriel Díaz"
 description: "Avriel Díaz is a Mid-career General CDR researcher at National Council for Science and the Environment in US. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.015748
+date: 2026-07-11T22:39:17.033427
 url: "/cdr-researcher-census/researchers/avriel-diaz-a5014199/"
 layout: "researcher"
 hiddenInHomeList: true

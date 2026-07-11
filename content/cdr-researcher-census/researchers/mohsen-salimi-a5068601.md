@@ -1,7 +1,7 @@
 ---
 title: "Mohsen Salimi"
-description: "Mohsen Salimi is a Senior General CDR researcher at Aarhus University in DK. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.555142
+description: "Mohsen Salimi is a Senior DAC researcher at Aarhus University in DK. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.648166
 url: "/cdr-researcher-census/researchers/mohsen-salimi-a5068601/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Aarhus University · 🇩🇰 DK
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

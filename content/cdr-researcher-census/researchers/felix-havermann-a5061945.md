@@ -1,7 +1,7 @@
 ---
 title: "Felix Havermann"
 description: "Felix Havermann is a Mid-career General CDR researcher at LMU Munich in DE. With 53 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.408226
+date: 2026-07-11T22:39:16.502213
 url: "/cdr-researcher-census/researchers/felix-havermann-a5061945/"
 layout: "researcher"
 hiddenInHomeList: true

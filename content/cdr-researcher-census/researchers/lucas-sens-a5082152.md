@@ -1,7 +1,7 @@
 ---
 title: "Lucas Sens"
-description: "Lucas Sens is a Mid-career General CDR researcher at Universität Hamburg in DE. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.485385
+description: "Lucas Sens is a Mid-career DAC researcher at Universität Hamburg in DE. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.579863
 url: "/cdr-researcher-census/researchers/lucas-sens-a5082152/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Universität Hamburg · 🇩🇪 DE
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "Zhenxiao Shang"
-description: "Zhenxiao Shang is a Senior Soil Carbon researcher at China University of Petroleum, East China in CN. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.628358
+description: "Zhenxiao Shang is a Senior Biochar researcher at China University of Petroleum, East China in CN. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.719379
 url: "/cdr-researcher-census/researchers/zhenxiao-shang-a5033178/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ China University of Petroleum, East China · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

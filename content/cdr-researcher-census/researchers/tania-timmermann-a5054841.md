@@ -1,7 +1,7 @@
 ---
 title: "Tania Timmermann"
 description: "Tania Timmermann is a Senior Enhanced Weathering researcher. With 22 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.217705
+date: 2026-07-11T22:39:16.308385
 url: "/cdr-researcher-census/researchers/tania-timmermann-a5054841/"
 layout: "researcher"
 hiddenInHomeList: true

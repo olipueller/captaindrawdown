@@ -1,7 +1,7 @@
 ---
 title: "Tim Tear"
 description: "Tim Tear is a Senior Soil Carbon researcher at Biodiversity Research Institute in US. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.329524
+date: 2026-07-11T22:39:16.419269
 url: "/cdr-researcher-census/researchers/tim-tear-a5073760/"
 layout: "researcher"
 hiddenInHomeList: true

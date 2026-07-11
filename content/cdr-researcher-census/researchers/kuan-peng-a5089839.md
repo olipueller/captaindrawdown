@@ -1,7 +1,7 @@
 ---
 title: "Kuan Peng"
-description: "Kuan Peng is a Senior Soil Carbon researcher at Central South University of Forestry and Technology in CN. With 38 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.425702
+description: "Kuan Peng is a Senior Biochar researcher at Central South University of Forestry and Technology in CN. With 38 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.520118
 url: "/cdr-researcher-census/researchers/kuan-peng-a5089839/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Central South University of Forestry and Technology · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

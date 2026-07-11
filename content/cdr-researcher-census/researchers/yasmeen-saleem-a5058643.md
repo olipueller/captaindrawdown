@@ -1,7 +1,7 @@
 ---
 title: "Yasmeen Saleem"
-description: "Yasmeen Saleem is a Mid-career General CDR researcher at Florida Department of Citrus in US. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.461453
+description: "Yasmeen Saleem is a Mid-career Biochar researcher at Florida Department of Citrus in US. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.555821
 url: "/cdr-researcher-census/researchers/yasmeen-saleem-a5058643/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Florida Department of Citrus · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

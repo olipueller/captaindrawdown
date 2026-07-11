@@ -1,7 +1,7 @@
 ---
 title: "Waselin Salomon"
 description: "Waselin Salomon is a Mid-career Soil Carbon researcher at University of Haiti in HT. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.502612
+date: 2026-07-11T22:39:17.427848
 url: "/cdr-researcher-census/researchers/waselin-salomon-a5053124/"
 layout: "researcher"
 hiddenInHomeList: true

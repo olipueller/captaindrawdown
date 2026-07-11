@@ -1,7 +1,7 @@
 ---
 title: "Mahmoud Yousry"
-description: "Mahmoud Yousry is an Early-career General CDR researcher at Ain Shams University Hospital in EG. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.444316
+description: "Mahmoud Yousry is an Early-career Biochar researcher at Ain Shams University Hospital in EG. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.539126
 url: "/cdr-researcher-census/researchers/mahmoud-yousry-a5058213/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Ain Shams University Hospital ·  EG
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

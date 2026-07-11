@@ -1,7 +1,7 @@
 ---
 title: "Wenhui Sun"
 description: "Wenhui Sun is a Mid-career Biochar researcher at Central South University of Forestry and Technology in CN. With 22 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.462122
+date: 2026-07-11T22:39:16.556473
 url: "/cdr-researcher-census/researchers/wenhui-sun-a5101724/"
 layout: "researcher"
 hiddenInHomeList: true

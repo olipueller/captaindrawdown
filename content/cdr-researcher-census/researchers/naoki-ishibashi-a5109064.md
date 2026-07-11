@@ -1,7 +1,7 @@
 ---
 title: "Naoki Ishibashi"
-description: "Naoki Ishibashi is a Senior General CDR researcher at Musashino University in JP. With 30 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.451569
+description: "Naoki Ishibashi is a Senior DAC researcher at Musashino University in JP. With 30 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.376425
 url: "/cdr-researcher-census/researchers/naoki-ishibashi-a5109064/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Musashino University · 🇯🇵 JP
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

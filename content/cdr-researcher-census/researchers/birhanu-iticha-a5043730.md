@@ -1,7 +1,7 @@
 ---
 title: "Birhanu Iticha"
 description: "Birhanu Iticha is a Mid-career Soil Carbon researcher at University of South Australia in AU. With 25 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.781256
+date: 2026-07-11T22:39:16.862541
 url: "/cdr-researcher-census/researchers/birhanu-iticha-a5043730/"
 layout: "researcher"
 hiddenInHomeList: true

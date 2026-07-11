@@ -1,7 +1,7 @@
 ---
 title: "Shujing Zhu"
-description: "Shujing Zhu is a Senior Soil Carbon researcher at Fujian Medical University in CN. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.262856
+description: "Shujing Zhu is a Senior Biochar researcher at Fujian Medical University in CN. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.353232
 url: "/cdr-researcher-census/researchers/shujing-zhu-a5100533/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Fujian Medical University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

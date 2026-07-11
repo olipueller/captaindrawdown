@@ -1,7 +1,7 @@
 ---
 title: "Hengfeng Miao"
 description: "Hengfeng Miao is a Mid-career Biochar researcher at Jiangnan University in CN. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.401006
+date: 2026-07-11T22:39:17.323111
 url: "/cdr-researcher-census/researchers/hengfeng-miao-a5055554/"
 layout: "researcher"
 hiddenInHomeList: true

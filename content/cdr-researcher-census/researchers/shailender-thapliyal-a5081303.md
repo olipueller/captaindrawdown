@@ -1,7 +1,7 @@
 ---
 title: "Shailender Thapliyal"
 description: "Shailender Thapliyal is a Mid-career Soil Carbon researcher at Uttaranchal University in IN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.392482
+date: 2026-07-11T22:39:17.313934
 url: "/cdr-researcher-census/researchers/shailender-thapliyal-a5081303/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xiaojing Chu"
 description: "Xiaojing Chu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 42 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.224945
+date: 2026-07-11T22:39:16.315598
 url: "/cdr-researcher-census/researchers/xiaojing-chu-a5101558/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Karan Pinto"
 description: "Karan Pinto is a Mid-career General CDR researcher at Terra Quantum (Switzerland) in CH. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.466101
+date: 2026-07-11T22:39:17.390399
 url: "/cdr-researcher-census/researchers/karan-pinto-a5073136/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Chunhuo Zhou"
-description: "Chunhuo Zhou is a Senior Soil Carbon researcher at Ministry of Natural Resources in CN. With 47 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.423130
+description: "Chunhuo Zhou is a Senior Biochar researcher at Ministry of Natural Resources in CN. With 47 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.517631
 url: "/cdr-researcher-census/researchers/chunhuo-zhou-a5034179/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Ministry of Natural Resources · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

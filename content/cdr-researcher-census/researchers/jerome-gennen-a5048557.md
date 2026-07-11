@@ -1,7 +1,7 @@
 ---
 title: "Jérôme Gennen"
-description: "Jérôme Gennen is a Senior Soil Carbon researcher. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.335419
+description: "Jérôme Gennen is a Senior Biochar researcher. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.425154
 url: "/cdr-researcher-census/researchers/jerome-gennen-a5048557/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

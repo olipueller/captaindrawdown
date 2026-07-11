@@ -1,7 +1,7 @@
 ---
 title: "Yunxiang Zhang"
 description: "Yunxiang Zhang is a Senior Soil Carbon researcher at University of Michigan in US. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.592680
+date: 2026-07-11T22:39:17.513610
 url: "/cdr-researcher-census/researchers/yunxiang-zhang-a5100774/"
 layout: "researcher"
 hiddenInHomeList: true

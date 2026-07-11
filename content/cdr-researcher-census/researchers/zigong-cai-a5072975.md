@@ -1,7 +1,7 @@
 ---
 title: "Zigong Cai"
-description: "Zigong Cai is a Mid-career General CDR researcher at Hainan University in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.390748
+description: "Zigong Cai is a Mid-career BECCS researcher at Hainan University in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.311922
 url: "/cdr-researcher-census/researchers/zigong-cai-a5072975/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Hainan University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "Liang He"
 description: "Liang He is a Mid-career Soil Carbon researcher at Beijing Forestry University in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.056746
+date: 2026-07-11T22:39:17.047995
 url: "/cdr-researcher-census/researchers/liang-he-a5084878/"
 layout: "researcher"
 hiddenInHomeList: true

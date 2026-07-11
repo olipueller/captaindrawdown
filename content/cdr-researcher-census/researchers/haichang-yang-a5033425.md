@@ -1,7 +1,7 @@
 ---
 title: "Haichang Yang"
 description: "Haichang Yang is a Mid-career Soil Carbon researcher at Shihezi University in CN. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.950933
+date: 2026-07-11T22:39:17.003054
 url: "/cdr-researcher-census/researchers/haichang-yang-a5033425/"
 layout: "researcher"
 hiddenInHomeList: true

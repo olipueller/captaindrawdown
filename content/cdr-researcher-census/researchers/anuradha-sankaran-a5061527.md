@@ -1,7 +1,7 @@
 ---
 title: "Anuradha Sankaran"
 description: "Anuradha Sankaran is a Mid-career Biochar researcher at University of Madras in IN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.231437
+date: 2026-07-11T22:39:17.148497
 url: "/cdr-researcher-census/researchers/anuradha-sankaran-a5061527/"
 layout: "researcher"
 hiddenInHomeList: true

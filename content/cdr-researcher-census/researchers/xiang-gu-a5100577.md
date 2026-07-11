@@ -1,7 +1,7 @@
 ---
 title: "Xiang Gu"
 description: "Xiang Gu is a Senior Biochar researcher at Nantong University in CN. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.234556
+date: 2026-07-11T22:39:17.151654
 url: "/cdr-researcher-census/researchers/xiang-gu-a5100577/"
 layout: "researcher"
 hiddenInHomeList: true

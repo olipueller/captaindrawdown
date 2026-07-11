@@ -1,7 +1,7 @@
 ---
 title: "Sumanta Kundu"
 description: "Sumanta Kundu is a Senior Soil Carbon researcher at Central Research Institute for Dryland Agriculture in IN. With 97 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.156619
+date: 2026-07-11T22:39:16.251562
 url: "/cdr-researcher-census/researchers/sumanta-kundu-a5103127/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "George K.D. Ametsitsi"
 description: "George K.D. Ametsitsi is a Mid-career Soil Carbon researcher at The Forestry Commission of Ghana in GH. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.028967
+date: 2026-07-11T22:39:17.038951
 url: "/cdr-researcher-census/researchers/george-kd-ametsitsi-a5068371/"
 layout: "researcher"
 hiddenInHomeList: true

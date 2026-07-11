@@ -1,7 +1,7 @@
 ---
 title: "A. B. Singh"
 description: "A. B. Singh is a Senior Soil Carbon researcher at Banaras Hindu University in IN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.060319
+date: 2026-07-11T22:39:17.051078
 url: "/cdr-researcher-census/researchers/a-b-singh-a5103180/"
 layout: "researcher"
 hiddenInHomeList: true

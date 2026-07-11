@@ -1,7 +1,7 @@
 ---
 title: "Weidong Zhang"
 description: "Weidong Zhang is a Mid-career Soil Carbon researcher at Jilin Academy of Agricultural Sciences in CN. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.368677
+date: 2026-07-11T22:39:16.460954
 url: "/cdr-researcher-census/researchers/weidong-zhang-a5100428/"
 layout: "researcher"
 hiddenInHomeList: true

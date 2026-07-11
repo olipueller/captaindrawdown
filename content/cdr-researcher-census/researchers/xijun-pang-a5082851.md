@@ -1,7 +1,7 @@
 ---
 title: "Xijun Pang"
 description: "Xijun Pang is a Mid-career Biochar researcher at Minzu University of China in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.611057
+date: 2026-07-11T22:39:16.702976
 url: "/cdr-researcher-census/researchers/xijun-pang-a5082851/"
 layout: "researcher"
 hiddenInHomeList: true

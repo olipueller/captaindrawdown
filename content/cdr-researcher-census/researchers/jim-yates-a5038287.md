@@ -1,7 +1,7 @@
 ---
 title: "Jim Yates"
 description: "Jim Yates is a Senior General CDR researcher at The Nature Conservancy in US. With 24 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.594950
+date: 2026-07-11T22:39:16.687368
 url: "/cdr-researcher-census/researchers/jim-yates-a5038287/"
 layout: "researcher"
 hiddenInHomeList: true

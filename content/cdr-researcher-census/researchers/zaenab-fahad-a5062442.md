@@ -1,7 +1,7 @@
 ---
 title: "Zaenab Fahad"
-description: "Zaenab Fahad is a Mid-career Soil Carbon researcher at Swedish University of Agricultural Sciences in SE. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.934934
+description: "Zaenab Fahad is a Mid-career Enhanced Weathering researcher at Swedish University of Agricultural Sciences in SE. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.995517
 url: "/cdr-researcher-census/researchers/zaenab-fahad-a5062442/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Swedish University of Agricultural Sciences · 🇸🇪 SE
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Enhanced Weathering**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

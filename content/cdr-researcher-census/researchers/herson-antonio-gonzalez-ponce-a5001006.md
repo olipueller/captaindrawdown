@@ -1,7 +1,7 @@
 ---
 title: "Herson Antonio González-Ponce"
 description: "Herson Antonio González-Ponce is a Mid-career Biochar researcher at University Medical Center Groningen in NL. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.604681
+date: 2026-07-11T22:39:16.697036
 url: "/cdr-researcher-census/researchers/herson-antonio-gonzalez-ponce-a5001006/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xiang Tu"
 description: "Xiang Tu is a Mid-career Biochar researcher at Jiangxi Provincial Institute of Water Resources Planning and Design in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.628904
+date: 2026-07-11T22:39:17.548078
 url: "/cdr-researcher-census/researchers/xiang-tu-a5062716/"
 layout: "researcher"
 hiddenInHomeList: true

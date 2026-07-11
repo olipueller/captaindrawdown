@@ -1,7 +1,7 @@
 ---
 title: "Kerri L. Dobson"
 description: "Kerri L. Dobson is a Senior Ocean CDR researcher at University of North Carolina at Chapel Hill in US. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.649210
+date: 2026-07-11T22:39:16.738561
 url: "/cdr-researcher-census/researchers/kerri-l-dobson-a5072311/"
 layout: "researcher"
 hiddenInHomeList: true

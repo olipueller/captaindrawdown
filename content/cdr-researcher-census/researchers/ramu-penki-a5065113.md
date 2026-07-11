@@ -1,7 +1,7 @@
 ---
 title: "Ramu Penki"
 description: "Ramu Penki is a Mid-career Biochar researcher at Siksha O Anusandhan University in IN. With 30 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.183474
+date: 2026-07-11T22:39:17.108571
 url: "/cdr-researcher-census/researchers/ramu-penki-a5065113/"
 layout: "researcher"
 hiddenInHomeList: true

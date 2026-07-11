@@ -1,7 +1,7 @@
 ---
 title: "Nallagatla Vinod Kumar"
-description: "Nallagatla Vinod Kumar is an Early-career Soil Carbon researcher at Central Research Institute for Dryland Agriculture in IN. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.481963
+description: "Nallagatla Vinod Kumar is an Early-career Biochar researcher at Central Research Institute for Dryland Agriculture in IN. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.406487
 url: "/cdr-researcher-census/researchers/nallagatla-vinod-kumar-a5034140/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Central Research Institute for Dryland Agriculture · 🇮🇳 IN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

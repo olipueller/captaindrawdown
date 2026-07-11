@@ -1,7 +1,7 @@
 ---
 title: "Yinliu Wang"
 description: "Yinliu Wang is a Mid-career Soil Carbon researcher at Beijing Botanical Garden in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.864521
+date: 2026-07-11T22:39:16.940373
 url: "/cdr-researcher-census/researchers/yinliu-wang-a5026504/"
 layout: "researcher"
 hiddenInHomeList: true

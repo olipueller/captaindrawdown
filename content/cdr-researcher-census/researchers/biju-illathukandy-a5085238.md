@@ -1,7 +1,7 @@
 ---
 title: "Biju Illathukandy"
 description: "Biju Illathukandy is a Mid-career General CDR researcher at National Cheng Kung University in TW. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.628656
+date: 2026-07-11T22:39:16.719655
 url: "/cdr-researcher-census/researchers/biju-illathukandy-a5085238/"
 layout: "researcher"
 hiddenInHomeList: true

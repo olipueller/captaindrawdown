@@ -1,7 +1,7 @@
 ---
 title: "Louise Giles"
 description: "Louise Giles is a Mid-career Soil Carbon researcher at University of Chicago in US. With 14 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.439510
+date: 2026-07-11T22:39:16.534121
 url: "/cdr-researcher-census/researchers/louise-giles-a5112647/"
 layout: "researcher"
 hiddenInHomeList: true

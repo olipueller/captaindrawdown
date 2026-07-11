@@ -1,7 +1,7 @@
 ---
 title: "Asghar Sadeghi"
-description: "Asghar Sadeghi is a Mid-career General CDR researcher at Entergy (United States). With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.245353
+description: "Asghar Sadeghi is a Mid-career DAC researcher at Entergy (United States). With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.162537
 url: "/cdr-researcher-census/researchers/asghar-sadeghi-a5112663/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Entergy (United States)
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

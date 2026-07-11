@@ -1,7 +1,7 @@
 ---
 title: "Yeye Zhang"
-description: "Yeye Zhang is a Mid-career Soil Carbon researcher at Shanxi Agricultural University in CN. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.583271
+description: "Yeye Zhang is a Mid-career Biochar researcher at Shanxi Agricultural University in CN. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.675895
 url: "/cdr-researcher-census/researchers/yeye-zhang-a5064833/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Shanxi Agricultural University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

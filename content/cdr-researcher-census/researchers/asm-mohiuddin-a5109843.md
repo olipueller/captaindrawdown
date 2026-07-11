@@ -1,7 +1,7 @@
 ---
 title: "A.S.M. Mohiuddin"
 description: "A.S.M. Mohiuddin is a Mid-career Soil Carbon researcher at Sylhet Agricultural University in BD. With 25 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.542949
+date: 2026-07-11T22:39:17.466926
 url: "/cdr-researcher-census/researchers/asm-mohiuddin-a5109843/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yuxin Zhao"
 description: "Yuxin Zhao is a Mid-career Biochar researcher. With 25 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.728072
+date: 2026-07-11T22:39:16.810563
 url: "/cdr-researcher-census/researchers/yuxin-zhao-a5057246/"
 layout: "researcher"
 hiddenInHomeList: true

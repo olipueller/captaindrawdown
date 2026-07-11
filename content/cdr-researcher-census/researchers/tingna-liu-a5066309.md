@@ -1,7 +1,7 @@
 ---
 title: "Tingna Liu"
 description: "Tingna Liu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.558754
+date: 2026-07-11T22:39:17.482129
 url: "/cdr-researcher-census/researchers/tingna-liu-a5066309/"
 layout: "researcher"
 hiddenInHomeList: true

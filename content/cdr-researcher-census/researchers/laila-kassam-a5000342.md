@@ -1,7 +1,7 @@
 ---
 title: "Laila Kassam"
 description: "Laila Kassam is a Mid-career Soil Carbon researcher. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.781899
+date: 2026-07-11T22:39:16.863154
 url: "/cdr-researcher-census/researchers/laila-kassam-a5000342/"
 layout: "researcher"
 hiddenInHomeList: true

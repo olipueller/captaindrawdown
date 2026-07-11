@@ -1,7 +1,7 @@
 ---
 title: "Yajuan Xing"
 description: "Yajuan Xing is a Senior Soil Carbon researcher at Qufu Normal University in CN. With 71 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.158403
+date: 2026-07-11T22:39:16.253226
 url: "/cdr-researcher-census/researchers/yajuan-xing-a5102985/"
 layout: "researcher"
 hiddenInHomeList: true

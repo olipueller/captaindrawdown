@@ -1,7 +1,7 @@
 ---
 title: "Christine H. Bielski"
 description: "Christine H. Bielski is a Mid-career Soil Carbon researcher at University of Nebraska–Lincoln in US. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.755768
+date: 2026-07-11T22:39:16.837039
 url: "/cdr-researcher-census/researchers/christine-h-bielski-a5010328/"
 layout: "researcher"
 hiddenInHomeList: true

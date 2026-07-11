@@ -1,7 +1,7 @@
 ---
 title: "Lena Katharina Öttl"
 description: "Lena Katharina Öttl is a Mid-career Soil Carbon researcher. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.536712
+date: 2026-07-11T22:39:17.460809
 url: "/cdr-researcher-census/researchers/lena-katharina-ottl-a5061209/"
 layout: "researcher"
 hiddenInHomeList: true

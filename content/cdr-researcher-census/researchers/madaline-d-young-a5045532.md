@@ -1,7 +1,7 @@
 ---
 title: "Madaline D. Young"
 description: "Madaline D. Young is a Mid-career Soil Carbon researcher at Wageningen University & Research in NL. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.408448
+date: 2026-07-11T22:39:16.502442
 url: "/cdr-researcher-census/researchers/madaline-d-young-a5045532/"
 layout: "researcher"
 hiddenInHomeList: true

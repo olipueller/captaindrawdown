@@ -1,7 +1,7 @@
 ---
 title: "Lingling Shi"
 description: "Lingling Shi is a Senior Soil Carbon researcher at University of Tuebingen in DE. With 137 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.020304
+date: 2026-07-11T22:39:16.132166
 url: "/cdr-researcher-census/researchers/lingling-shi-a5033376/"
 layout: "researcher"
 hiddenInHomeList: true

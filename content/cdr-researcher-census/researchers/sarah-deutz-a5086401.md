@@ -1,7 +1,7 @@
 ---
 title: "Sarah Deutz"
-description: "Sarah Deutz is a Mid-career General CDR researcher at Forschungszentrum Jülich in DE. With 35 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.102495
+description: "Sarah Deutz is a Mid-career DAC researcher at Forschungszentrum Jülich in DE. With 35 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.201815
 url: "/cdr-researcher-census/researchers/sarah-deutz-a5086401/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Forschungszentrum Jülich · 🇩🇪 DE
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

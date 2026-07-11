@@ -1,7 +1,7 @@
 ---
 title: "Christoph Voelker"
 description: "Christoph Voelker is a Senior Ocean CDR researcher at Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung in DE. With 42 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.631353
+date: 2026-07-11T22:39:17.550629
 url: "/cdr-researcher-census/researchers/christoph-voelker-a5024370/"
 layout: "researcher"
 hiddenInHomeList: true

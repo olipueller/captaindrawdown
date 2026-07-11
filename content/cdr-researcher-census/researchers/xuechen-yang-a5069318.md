@@ -1,7 +1,7 @@
 ---
 title: "Xuechen Yang"
 description: "Xuechen Yang is a Mid-career Soil Carbon researcher at Xinjiang Institute of Ecology and Geography in CN. With 78 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.187332
+date: 2026-07-11T22:39:16.280448
 url: "/cdr-researcher-census/researchers/xuechen-yang-a5069318/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Horacio Ivancich"
 description: "Horacio Ivancich is a Mid-career Soil Carbon researcher at US Forest Service in US. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.891849
+date: 2026-07-11T22:39:16.981759
 url: "/cdr-researcher-census/researchers/horacio-ivancich-a5038368/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yunfei Zhao"
 description: "Yunfei Zhao is a Senior Soil Carbon researcher at Lanzhou University in CN. With 74 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.162250
+date: 2026-07-11T22:39:16.256572
 url: "/cdr-researcher-census/researchers/yunfei-zhao-a5013517/"
 layout: "researcher"
 hiddenInHomeList: true

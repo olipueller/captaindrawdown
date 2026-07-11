@@ -1,7 +1,7 @@
 ---
 title: "Xiaona Liang"
 description: "Xiaona Liang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 39 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.332215
+date: 2026-07-11T22:39:16.421846
 url: "/cdr-researcher-census/researchers/xiaona-liang-a5102025/"
 layout: "researcher"
 hiddenInHomeList: true

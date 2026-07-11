@@ -1,7 +1,7 @@
 ---
 title: "Huanhuan Xu"
-description: "Huanhuan Xu is a Senior Soil Carbon researcher at Innovation Team (China) in CN. With 33 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.311539
+description: "Huanhuan Xu is a Senior Biochar researcher at Innovation Team (China) in CN. With 33 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.402020
 url: "/cdr-researcher-census/researchers/huanhuan-xu-a5101906/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Innovation Team (China) · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

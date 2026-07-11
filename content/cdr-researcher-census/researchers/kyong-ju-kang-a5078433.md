@@ -1,7 +1,7 @@
 ---
 title: "Kyong Ju Kang"
-description: "Kyong Ju Kang is a Mid-career Biochar researcher at Zhejiang University in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.728176
+description: "Kyong Ju Kang is a Mid-career BECCS researcher at Zhejiang University in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.810661
 url: "/cdr-researcher-census/researchers/kyong-ju-kang-a5078433/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Zhejiang University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Biochar**
+**BECCS**
 
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

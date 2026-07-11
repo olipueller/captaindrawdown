@@ -1,7 +1,7 @@
 ---
 title: "Chinmayee Acharya"
-description: "Chinmayee Acharya is a Mid-career General CDR researcher at Biotech Park in IN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.722756
+description: "Chinmayee Acharya is a Mid-career Biochar researcher at Biotech Park in IN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.805261
 url: "/cdr-researcher-census/researchers/chinmayee-acharya-a5000218/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Biotech Park · 🇮🇳 IN
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

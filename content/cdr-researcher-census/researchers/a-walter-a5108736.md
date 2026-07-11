@@ -1,7 +1,7 @@
 ---
 title: "A. Walter"
 description: "A. Walter is a Senior BECCS researcher at Universidade Estadual de Campinas (UNICAMP) in BR. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.574585
+date: 2026-07-11T22:39:17.497424
 url: "/cdr-researcher-census/researchers/a-walter-a5108736/"
 layout: "researcher"
 hiddenInHomeList: true

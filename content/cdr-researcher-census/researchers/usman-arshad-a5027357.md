@@ -1,7 +1,7 @@
 ---
 title: "Usman Arshad"
 description: "Usman Arshad is a Mid-career Biochar researcher at Tobacco Research Institute in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.350907
+date: 2026-07-11T22:39:17.269827
 url: "/cdr-researcher-census/researchers/usman-arshad-a5027357/"
 layout: "researcher"
 hiddenInHomeList: true

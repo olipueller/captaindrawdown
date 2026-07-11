@@ -1,7 +1,7 @@
 ---
 title: "Emily E. Bockmon"
 description: "Emily E. Bockmon is a Senior Ocean CDR researcher. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.452589
+date: 2026-07-11T22:39:16.547248
 url: "/cdr-researcher-census/researchers/emily-e-bockmon-a5057006/"
 layout: "researcher"
 hiddenInHomeList: true

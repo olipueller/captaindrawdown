@@ -1,7 +1,7 @@
 ---
 title: "Kai Graf"
 description: "Kai Graf is a Senior Ocean CDR researcher at Hochschule für Angewandte Wissenschaften Kiel in DE. With 38 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.491648
+date: 2026-07-11T22:39:17.416417
 url: "/cdr-researcher-census/researchers/kai-graf-a5112791/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yasir Talib Hameed"
 description: "Yasir Talib Hameed is a Mid-career Biochar researcher at Mustansiriyah University in IQ. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.890777
+date: 2026-07-11T22:39:16.980869
 url: "/cdr-researcher-census/researchers/yasir-talib-hameed-a5075285/"
 layout: "researcher"
 hiddenInHomeList: true

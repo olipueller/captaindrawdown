@@ -1,7 +1,7 @@
 ---
 title: "Serge Wiltshire"
 description: "Serge Wiltshire is a Senior Soil Carbon researcher at The Nature Conservancy in US. With 28 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.610018
+date: 2026-07-11T22:39:16.702056
 url: "/cdr-researcher-census/researchers/serge-wiltshire-a5051287/"
 layout: "researcher"
 hiddenInHomeList: true

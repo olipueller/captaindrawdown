@@ -1,7 +1,7 @@
 ---
 title: "Anwesha Banerjee"
 description: "Anwesha Banerjee is a Senior General CDR researcher at Indian Institute of Technology Bombay in IN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.777824
+date: 2026-07-11T22:39:16.859307
 url: "/cdr-researcher-census/researchers/anwesha-banerjee-a5022904/"
 layout: "researcher"
 hiddenInHomeList: true

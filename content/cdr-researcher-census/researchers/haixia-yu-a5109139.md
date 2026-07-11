@@ -1,7 +1,7 @@
 ---
 title: "Haixia Yu"
 description: "Haixia Yu is a Mid-career Soil Carbon researcher at Guangxi Medicinal Botanical Garden in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.427413
+date: 2026-07-11T22:39:17.351411
 url: "/cdr-researcher-census/researchers/haixia-yu-a5109139/"
 layout: "researcher"
 hiddenInHomeList: true

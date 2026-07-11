@@ -1,7 +1,7 @@
 ---
 title: "Jialong Wu"
-description: "Jialong Wu is a Senior Soil Carbon researcher at Shandong University in CN. With 39 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.569290
+description: "Jialong Wu is a Senior Biochar researcher at Shandong University in CN. With 39 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.661675
 url: "/cdr-researcher-census/researchers/jialong-wu-a5100560/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Shandong University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

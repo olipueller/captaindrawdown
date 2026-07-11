@@ -1,7 +1,7 @@
 ---
 title: "Lachlan M. Robertson"
-description: "Lachlan M. Robertson is a Mid-career Soil Carbon researcher at The University of Queensland in AU. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.522902
+description: "Lachlan M. Robertson is a Mid-career Enhanced Weathering researcher at The University of Queensland in AU. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.617480
 url: "/cdr-researcher-census/researchers/lachlan-m-robertson-a5059649/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ The University of Queensland · 🇦🇺 AU
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Enhanced Weathering**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

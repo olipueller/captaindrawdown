@@ -1,7 +1,7 @@
 ---
 title: "Saurav Saha"
 description: "Saurav Saha is a Senior Soil Carbon researcher at University of Pittsburgh in US. With 97 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.252121
+date: 2026-07-11T22:39:16.342744
 url: "/cdr-researcher-census/researchers/saurav-saha-a5027956/"
 layout: "researcher"
 hiddenInHomeList: true

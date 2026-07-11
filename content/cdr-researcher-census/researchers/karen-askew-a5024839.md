@@ -1,7 +1,7 @@
 ---
 title: "Karen Askew"
 description: "Karen Askew is a Mid-career Soil Carbon researcher at Institute of Biological, Environmental and Rural Sciences in GB. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.339864
+date: 2026-07-11T22:39:17.257483
 url: "/cdr-researcher-census/researchers/karen-askew-a5024839/"
 layout: "researcher"
 hiddenInHomeList: true

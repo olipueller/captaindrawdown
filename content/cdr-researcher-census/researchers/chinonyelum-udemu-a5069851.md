@@ -1,7 +1,7 @@
 ---
 title: "Chinonyelum Udemu"
-description: "Chinonyelum Udemu is a Mid-career General CDR researcher at University of Hull in GB. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.649306
+description: "Chinonyelum Udemu is a Mid-career DAC researcher at University of Hull in GB. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.738659
 url: "/cdr-researcher-census/researchers/chinonyelum-udemu-a5069851/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Hull · 🇬🇧 GB
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

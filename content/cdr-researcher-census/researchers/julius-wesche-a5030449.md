@@ -1,7 +1,7 @@
 ---
 title: "Julius Wesche"
 description: "Julius Wesche is a Mid-career General CDR researcher at Norwegian University of Science and Technology in NO. With 35 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.199718
+date: 2026-07-11T22:39:17.117952
 url: "/cdr-researcher-census/researchers/julius-wesche-a5030449/"
 layout: "researcher"
 hiddenInHomeList: true

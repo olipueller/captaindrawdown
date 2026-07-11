@@ -1,7 +1,7 @@
 ---
 title: "Michael Mirtl"
 description: "Michael Mirtl is a Senior Soil Carbon researcher at Helmholtz Centre for Environmental Research in DE. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.200255
+date: 2026-07-11T22:39:16.292664
 url: "/cdr-researcher-census/researchers/michael-mirtl-a5108098/"
 layout: "researcher"
 hiddenInHomeList: true

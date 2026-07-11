@@ -1,7 +1,7 @@
 ---
 title: "Spencer Liddicoat"
 description: "Spencer Liddicoat is a Senior General CDR researcher at Met Office in GB. With 61 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:39.973469
+date: 2026-07-11T22:39:16.097932
 url: "/cdr-researcher-census/researchers/spencer-liddicoat-a5032464/"
 layout: "researcher"
 hiddenInHomeList: true

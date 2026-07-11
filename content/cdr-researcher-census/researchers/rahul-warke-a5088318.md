@@ -1,7 +1,7 @@
 ---
 title: "Rahul Warke"
 description: "Rahul Warke is an Early-career Soil Carbon researcher at Ipca Laboratories (India) in IN. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.598448
+date: 2026-07-11T22:39:17.519099
 url: "/cdr-researcher-census/researchers/rahul-warke-a5088318/"
 layout: "researcher"
 hiddenInHomeList: true

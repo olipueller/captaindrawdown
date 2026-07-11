@@ -1,7 +1,7 @@
 ---
 title: "William Shobe"
 description: "William Shobe is a Senior General CDR researcher at University of Virginia in US. With 77 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.169099
+date: 2026-07-11T22:39:16.263204
 url: "/cdr-researcher-census/researchers/william-shobe-a5025016/"
 layout: "researcher"
 hiddenInHomeList: true

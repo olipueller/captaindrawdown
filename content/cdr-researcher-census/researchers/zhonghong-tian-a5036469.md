@@ -1,7 +1,7 @@
 ---
 title: "Zhonghong Tian"
-description: "Zhonghong Tian is a Mid-career Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.465279
+description: "Zhonghong Tian is a Mid-career Biochar researcher at North West Agriculture and Forestry University in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.389551
 url: "/cdr-researcher-census/researchers/zhonghong-tian-a5036469/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ North West Agriculture and Forestry University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

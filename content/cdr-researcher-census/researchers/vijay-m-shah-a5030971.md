@@ -1,7 +1,7 @@
 ---
 title: "Vijay M. Shah"
-description: "Vijay M. Shah is a Mid-career General CDR researcher at University of Illinois Urbana-Champaign in US. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.562627
+description: "Vijay M. Shah is a Mid-career DAC researcher at University of Illinois Urbana-Champaign in US. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.485720
 url: "/cdr-researcher-census/researchers/vijay-m-shah-a5030971/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Illinois Urbana-Champaign · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

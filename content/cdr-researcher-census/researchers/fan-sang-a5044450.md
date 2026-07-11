@@ -1,7 +1,7 @@
 ---
 title: "Fan Sang"
 description: "Fan Sang is a Mid-career Biochar researcher at State Forestry and Grassland Administration in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.252354
+date: 2026-07-11T22:39:17.169953
 url: "/cdr-researcher-census/researchers/fan-sang-a5044450/"
 layout: "researcher"
 hiddenInHomeList: true

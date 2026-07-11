@@ -1,7 +1,7 @@
 ---
 title: "Oriol Gutiérrez‐Sánchez"
-description: "Oriol Gutiérrez‐Sánchez is a Mid-career General CDR researcher at Umicore (Belgium) in BE. With 10 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.418236
+description: "Oriol Gutiérrez‐Sánchez is a Mid-career DAC researcher at Umicore (Belgium) in BE. With 10 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.512717
 url: "/cdr-researcher-census/researchers/oriol-gutierrezsanchez-a5081524/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Umicore (Belgium) · 🇧🇪 BE
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "Munmun Basak"
 description: "Munmun Basak is a Mid-career Soil Carbon researcher at North Carolina State University in US. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.363527
+date: 2026-07-11T22:39:16.454571
 url: "/cdr-researcher-census/researchers/munmun-basak-a5058405/"
 layout: "researcher"
 hiddenInHomeList: true

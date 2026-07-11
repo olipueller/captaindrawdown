@@ -1,7 +1,7 @@
 ---
 title: "Zhiyang Sun"
 description: "Zhiyang Sun is a Mid-career Biochar researcher at Changji University in CN. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.498882
+date: 2026-07-11T22:39:17.424273
 url: "/cdr-researcher-census/researchers/zhiyang-sun-a5004449/"
 layout: "researcher"
 hiddenInHomeList: true

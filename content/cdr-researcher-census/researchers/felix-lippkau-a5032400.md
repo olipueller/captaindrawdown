@@ -1,7 +1,7 @@
 ---
 title: "Felix Lippkau"
-description: "Felix Lippkau is an Early-career General CDR researcher at University of Stuttgart in DE. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.203610
+description: "Felix Lippkau is an Early-career DAC researcher at University of Stuttgart in DE. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.121329
 url: "/cdr-researcher-census/researchers/felix-lippkau-a5032400/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ University of Stuttgart · 🇩🇪 DE
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

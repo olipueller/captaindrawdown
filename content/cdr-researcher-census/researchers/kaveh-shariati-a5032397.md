@@ -1,7 +1,7 @@
 ---
 title: "Kaveh Shariati"
 description: "Kaveh Shariati is a Mid-career Biochar researcher at University of South Carolina in US. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.390433
+date: 2026-07-11T22:39:17.311576
 url: "/cdr-researcher-census/researchers/kaveh-shariati-a5032397/"
 layout: "researcher"
 hiddenInHomeList: true

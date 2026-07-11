@@ -1,7 +1,7 @@
 ---
 title: "Mathew J. Rasmussen"
-description: "Mathew J. Rasmussen is a Senior General CDR researcher at National Laboratory of the Rockies in US. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.390018
+description: "Mathew J. Rasmussen is a Senior DAC researcher at National Laboratory of the Rockies in US. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.483183
 url: "/cdr-researcher-census/researchers/mathew-j-rasmussen-a5021879/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ National Laboratory of the Rockies · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

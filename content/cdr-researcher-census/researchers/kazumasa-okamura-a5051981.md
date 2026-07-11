@@ -1,7 +1,7 @@
 ---
 title: "Kazumasa Okamura"
-description: "Kazumasa Okamura is a Senior General CDR researcher at Toyota Motor Corporation (Japan) in JP. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.647366
+description: "Kazumasa Okamura is a Senior DAC researcher at Toyota Motor Corporation (Japan) in JP. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.736820
 url: "/cdr-researcher-census/researchers/kazumasa-okamura-a5051981/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Toyota Motor Corporation (Japan) · 🇯🇵 JP
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

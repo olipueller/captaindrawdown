@@ -1,7 +1,7 @@
 ---
 title: "Jorge Duque-Rivera"
-description: "Jorge Duque-Rivera is a Senior General CDR researcher at Escuela Superior Politecnica del Litoral in EC. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.748059
+description: "Jorge Duque-Rivera is a Senior BECCS researcher at Escuela Superior Politecnica del Litoral in EC. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.829809
 url: "/cdr-researcher-census/researchers/jorge-duque-rivera-a5080967/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Escuela Superior Politecnica del Litoral ·  EC
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

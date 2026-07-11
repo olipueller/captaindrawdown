@@ -1,7 +1,7 @@
 ---
 title: "Xuejuan Bai"
 description: "Xuejuan Bai is a Senior Soil Carbon researcher. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.709168
+date: 2026-07-11T22:39:16.792695
 url: "/cdr-researcher-census/researchers/xuejuan-bai-a5102080/"
 layout: "researcher"
 hiddenInHomeList: true

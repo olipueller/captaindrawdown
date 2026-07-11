@@ -1,7 +1,7 @@
 ---
 title: "Fuxing Guo"
 description: "Fuxing Guo is a Mid-career Enhanced Weathering researcher at Northwest A&F University in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.321632
+date: 2026-07-11T22:39:17.238961
 url: "/cdr-researcher-census/researchers/fuxing-guo-a5052860/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shuimiao Liu"
 description: "Shuimiao Liu is a Mid-career Soil Carbon researcher at Henan Agricultural University in CN. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.397004
+date: 2026-07-11T22:39:17.318974
 url: "/cdr-researcher-census/researchers/shuimiao-liu-a5113039/"
 layout: "researcher"
 hiddenInHomeList: true

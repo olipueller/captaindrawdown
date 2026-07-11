@@ -1,7 +1,7 @@
 ---
 title: "Keivan Khaleghi"
-description: "Keivan Khaleghi is a Mid-career General CDR researcher at The University of Texas at Austin in US. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.395720
+description: "Keivan Khaleghi is a Mid-career DAC researcher at The University of Texas at Austin in US. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.317606
 url: "/cdr-researcher-census/researchers/keivan-khaleghi-a5089993/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ The University of Texas at Austin · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

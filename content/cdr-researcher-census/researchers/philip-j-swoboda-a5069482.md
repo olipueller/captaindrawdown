@@ -1,7 +1,7 @@
 ---
 title: "Philip J. Swoboda"
-description: "Philip J. Swoboda is a Senior General CDR researcher at Serviceplan (Germany) in DE. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.872594
+description: "Philip J. Swoboda is a Senior Enhanced Weathering researcher at Serviceplan (Germany) in DE. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.962541
 url: "/cdr-researcher-census/researchers/philip-j-swoboda-a5069482/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Serviceplan (Germany) · 🇩🇪 DE
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

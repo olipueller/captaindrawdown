@@ -1,7 +1,7 @@
 ---
 title: "Felix Schreyer"
 description: "Felix Schreyer is a Mid-career General CDR researcher at Leibniz Association in DE. With 35 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.200928
+date: 2026-07-11T22:39:16.293379
 url: "/cdr-researcher-census/researchers/felix-schreyer-a5082226/"
 layout: "researcher"
 hiddenInHomeList: true

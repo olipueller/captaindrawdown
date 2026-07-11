@@ -1,7 +1,7 @@
 ---
 title: "Olga Pastushok"
 description: "Olga Pastushok is a Mid-career Biochar researcher at Lappeenranta-Lahti University of Technology in FI. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.423770
+date: 2026-07-11T22:39:17.347315
 url: "/cdr-researcher-census/researchers/olga-pastushok-a5061508/"
 layout: "researcher"
 hiddenInHomeList: true

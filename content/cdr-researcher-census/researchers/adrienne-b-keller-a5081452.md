@@ -1,7 +1,7 @@
 ---
 title: "Adrienne B. Keller"
 description: "Adrienne B. Keller is a Mid-career Soil Carbon researcher at Michigan Technological University in US. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.186368
+date: 2026-07-11T22:39:16.279718
 url: "/cdr-researcher-census/researchers/adrienne-b-keller-a5081452/"
 layout: "researcher"
 hiddenInHomeList: true

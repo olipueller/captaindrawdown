@@ -1,7 +1,7 @@
 ---
 title: "Lening Hu"
-description: "Lening Hu is a Senior Soil Carbon researcher at Ministry of Ecology and Environment in CN. With 48 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.628546
+description: "Lening Hu is a Senior Biochar researcher at Ministry of Ecology and Environment in CN. With 48 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.719550
 url: "/cdr-researcher-census/researchers/lening-hu-a5025163/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Ministry of Ecology and Environment · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

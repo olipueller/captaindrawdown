@@ -1,7 +1,7 @@
 ---
 title: "Barkat Ullah"
-description: "Barkat Ullah is a Mid-career Soil Carbon researcher at University of Peshawar in PK. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.103647
+description: "Barkat Ullah is a Mid-career Biochar researcher at University of Peshawar in PK. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.075733
 url: "/cdr-researcher-census/researchers/barkat-ullah-a5062083/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Peshawar · 🇵🇰 PK
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

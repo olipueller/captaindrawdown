@@ -1,7 +1,7 @@
 ---
 title: "Xiaowei Gan"
 description: "Xiaowei Gan is a Mid-career General CDR researcher at Kunming University of Science and Technology in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.293740
+date: 2026-07-11T22:39:17.210708
 url: "/cdr-researcher-census/researchers/xiaowei-gan-a5108839/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ingrid Busch"
 description: "Ingrid Busch is a Senior General CDR researcher at Oak Ridge National Laboratory in US. With 26 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.991700
+date: 2026-07-11T22:39:17.026555
 url: "/cdr-researcher-census/researchers/ingrid-busch-a5015056/"
 layout: "researcher"
 hiddenInHomeList: true

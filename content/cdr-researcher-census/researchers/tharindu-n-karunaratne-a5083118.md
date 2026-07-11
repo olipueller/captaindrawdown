@@ -1,7 +1,7 @@
 ---
 title: "Tharindu N. Karunaratne"
 description: "Tharindu N. Karunaratne is a Mid-career Biochar researcher at Mississippi State University in US. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.274030
+date: 2026-07-11T22:39:17.191320
 url: "/cdr-researcher-census/researchers/tharindu-n-karunaratne-a5083118/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jieqin Li"
 description: "Jieqin Li is a Senior Soil Carbon researcher at Southwest University in CN. With 11 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.639615
+date: 2026-07-11T22:39:17.561170
 url: "/cdr-researcher-census/researchers/jieqin-li-a5102648/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Allen A. Fawcett"
 description: "Allen A. Fawcett is a Senior General CDR researcher at University of Maryland, College Park in US. With 56 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.058871
+date: 2026-07-11T22:39:16.164555
 url: "/cdr-researcher-census/researchers/allen-a-fawcett-a5069581/"
 layout: "researcher"
 hiddenInHomeList: true

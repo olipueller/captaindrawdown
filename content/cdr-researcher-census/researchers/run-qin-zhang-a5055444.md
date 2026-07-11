@@ -1,7 +1,7 @@
 ---
 title: "Run-Qin Zhang"
 description: "Run-Qin Zhang is an Early-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 4 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.545904
+date: 2026-07-11T22:39:17.469919
 url: "/cdr-researcher-census/researchers/run-qin-zhang-a5055444/"
 layout: "researcher"
 hiddenInHomeList: true

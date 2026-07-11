@@ -1,7 +1,7 @@
 ---
 title: "Liting Zheng"
-description: "Liting Zheng is an Early-career Soil Carbon researcher at Leipzig University of Applied Sciences in DE. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.630474
+description: "Liting Zheng is an Early-career Biochar researcher at Leipzig University of Applied Sciences in DE. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.549750
 url: "/cdr-researcher-census/researchers/liting-zheng-a5010083/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Leipzig University of Applied Sciences · 🇩🇪 DE
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

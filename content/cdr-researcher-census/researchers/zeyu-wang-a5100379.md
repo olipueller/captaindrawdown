@@ -1,7 +1,7 @@
 ---
 title: "Zeyu Wang"
 description: "Zeyu Wang is a Mid-career Biochar researcher at Changchun University of Science and Technology in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.629699
+date: 2026-07-11T22:39:16.720629
 url: "/cdr-researcher-census/researchers/zeyu-wang-a5100379/"
 layout: "researcher"
 hiddenInHomeList: true

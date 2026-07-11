@@ -1,7 +1,7 @@
 ---
 title: "Jabulani I. Mnyango"
 description: "Jabulani I. Mnyango is a Mid-career Biochar researcher at Nelson Mandela University in ZA. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.373540
+date: 2026-07-11T22:39:17.293519
 url: "/cdr-researcher-census/researchers/jabulani-i-mnyango-a5093988/"
 layout: "researcher"
 hiddenInHomeList: true

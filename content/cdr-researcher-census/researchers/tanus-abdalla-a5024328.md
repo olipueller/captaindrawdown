@@ -1,7 +1,7 @@
 ---
 title: "Tanus Abdalla"
 description: "Tanus Abdalla is a Mid-career General CDR researcher. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.225385
+date: 2026-07-11T22:39:16.316039
 url: "/cdr-researcher-census/researchers/tanus-abdalla-a5024328/"
 layout: "researcher"
 hiddenInHomeList: true

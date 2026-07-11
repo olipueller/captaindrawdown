@@ -1,7 +1,7 @@
 ---
 title: "Temitope Fausat Ajibade"
-description: "Temitope Fausat Ajibade is a Senior General CDR researcher at Federal University of Technology Akure School of Engineering and Engineering Technology in NG. With 63 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.177919
+description: "Temitope Fausat Ajibade is a Senior Biochar researcher at Federal University of Technology Akure School of Engineering and Engineering Technology in NG. With 63 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.271705
 url: "/cdr-researcher-census/researchers/temitope-fausat-ajibade-a5063923/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Federal University of Technology Akure School of Engineering and Engineering Tec
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

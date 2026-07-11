@@ -1,7 +1,7 @@
 ---
 title: "Murilo G. Veloso"
 description: "Murilo G. Veloso is a Mid-career Soil Carbon researcher at Universidade La Salle in BR. With 37 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.401851
+date: 2026-07-11T22:39:16.495903
 url: "/cdr-researcher-census/researchers/murilo-g-veloso-a5013923/"
 layout: "researcher"
 hiddenInHomeList: true

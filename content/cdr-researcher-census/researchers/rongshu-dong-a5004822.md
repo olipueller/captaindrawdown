@@ -1,7 +1,7 @@
 ---
 title: "Rongshu Dong"
 description: "Rongshu Dong is a Mid-career Soil Carbon researcher at Chinese Academy of Tropical Agricultural Sciences in CN. With 38 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.384729
+date: 2026-07-11T22:39:16.477526
 url: "/cdr-researcher-census/researchers/rongshu-dong-a5004822/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Isla Hodgkinson"
-description: "Isla Hodgkinson is an Early-career General CDR researcher at Technische Universität Dresden in DE. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.974561
+description: "Isla Hodgkinson is an Early-career Biochar researcher at Technische Universität Dresden in DE. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.019430
 url: "/cdr-researcher-census/researchers/isla-hodgkinson-a5035773/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Technische Universität Dresden · 🇩🇪 DE
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

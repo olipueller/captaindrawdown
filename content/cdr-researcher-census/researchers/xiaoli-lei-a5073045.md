@@ -1,7 +1,7 @@
 ---
 title: "Xiaoli Lei"
 description: "Xiaoli Lei is a Senior Biochar researcher at Changchun Observatory in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.865876
+date: 2026-07-11T22:39:16.941675
 url: "/cdr-researcher-census/researchers/xiaoli-lei-a5073045/"
 layout: "researcher"
 hiddenInHomeList: true

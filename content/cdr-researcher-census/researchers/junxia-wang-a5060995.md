@@ -1,7 +1,7 @@
 ---
 title: "Junxia Wang"
 description: "Junxia Wang is a Senior Soil Carbon researcher at Tianjin University in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.554794
+date: 2026-07-11T22:39:16.647828
 url: "/cdr-researcher-census/researchers/junxia-wang-a5060995/"
 layout: "researcher"
 hiddenInHomeList: true

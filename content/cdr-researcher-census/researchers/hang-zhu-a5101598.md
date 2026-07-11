@@ -1,7 +1,7 @@
 ---
 title: "Hang Zhu"
-description: "Hang Zhu is a Mid-career Soil Carbon researcher at Ministry of Agriculture in PS. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.469931
+description: "Hang Zhu is a Mid-career Biochar researcher at Ministry of Agriculture in PS. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.564450
 url: "/cdr-researcher-census/researchers/hang-zhu-a5101598/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Ministry of Agriculture ·  PS
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

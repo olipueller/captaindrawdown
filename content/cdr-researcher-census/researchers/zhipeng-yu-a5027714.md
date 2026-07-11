@@ -1,7 +1,7 @@
 ---
 title: "Zhipeng Yu"
-description: "Zhipeng Yu is a Senior General CDR researcher at Hefei University of Technology in CN. With 39 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.471635
+description: "Zhipeng Yu is a Senior DAC researcher at Hefei University of Technology in CN. With 39 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.566356
 url: "/cdr-researcher-census/researchers/zhipeng-yu-a5027714/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Hefei University of Technology · 🇨🇳 CN
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

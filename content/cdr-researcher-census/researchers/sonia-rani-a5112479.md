@@ -1,7 +1,7 @@
 ---
 title: "Sonia Rani"
 description: "Sonia Rani is a Mid-career Soil Carbon researcher at Chaudhary Charan Singh Haryana Agricultural University in IN. With 35 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.767140
+date: 2026-07-11T22:39:16.848816
 url: "/cdr-researcher-census/researchers/sonia-rani-a5112479/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hongbo He"
 description: "Hongbo He is an Eminent Soil Carbon researcher at University of Chinese Academy of Sciences in CN. With 157 publications and an h-index of 44, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:39.992267
+date: 2026-07-11T22:39:16.110310
 url: "/cdr-researcher-census/researchers/hongbo-he-a5109304/"
 layout: "researcher"
 hiddenInHomeList: true

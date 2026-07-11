@@ -1,7 +1,7 @@
 ---
 title: "Atcharaporn Youngwilai"
 description: "Atcharaporn Youngwilai is a Mid-career Biochar researcher. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.396001
+date: 2026-07-11T22:39:17.317913
 url: "/cdr-researcher-census/researchers/atcharaporn-youngwilai-a5041587/"
 layout: "researcher"
 hiddenInHomeList: true

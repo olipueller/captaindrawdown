@@ -1,7 +1,7 @@
 ---
 title: "Jingwen Chen"
 description: "Jingwen Chen is a Senior Soil Carbon researcher at Institute of Genetics and Developmental Biology in CN. With 33 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.682285
+date: 2026-07-11T22:39:16.768225
 url: "/cdr-researcher-census/researchers/jingwen-chen-a5107539/"
 layout: "researcher"
 hiddenInHomeList: true

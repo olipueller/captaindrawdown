@@ -1,7 +1,7 @@
 ---
 title: "Huanqin Guan"
-description: "Huanqin Guan is a Mid-career General CDR researcher at Brown University in US. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.518349
+description: "Huanqin Guan is a Mid-career DAC researcher at Brown University in US. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.612522
 url: "/cdr-researcher-census/researchers/huanqin-guan-a5036138/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Brown University · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

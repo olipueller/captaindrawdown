@@ -1,7 +1,7 @@
 ---
 title: "Hengxi Zhu"
 description: "Hengxi Zhu is a Mid-career Biochar researcher at Zhejiang Sci-Tech University in CN. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.500281
+date: 2026-07-11T22:39:16.594802
 url: "/cdr-researcher-census/researchers/hengxi-zhu-a5070315/"
 layout: "researcher"
 hiddenInHomeList: true

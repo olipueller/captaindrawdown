@@ -1,7 +1,7 @@
 ---
 title: "Thomas Pioch"
 description: "Thomas Pioch is a Mid-career General CDR researcher at University of Bamberg in DE. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.621591
+date: 2026-07-11T22:39:16.712804
 url: "/cdr-researcher-census/researchers/thomas-pioch-a5087362/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Farzad Namvar"
-description: "Farzad Namvar is a Mid-career General CDR researcher at Taibah University in SA. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.745612
+description: "Farzad Namvar is a Mid-career DAC researcher at Taibah University in SA. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.827660
 url: "/cdr-researcher-census/researchers/farzad-namvar-a5042489/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Taibah University · 🇸🇦 SA
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

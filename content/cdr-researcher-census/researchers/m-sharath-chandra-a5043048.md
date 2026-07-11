@@ -1,7 +1,7 @@
 ---
 title: "M. Sharath Chandra"
 description: "M. Sharath Chandra is a Mid-career Soil Carbon researcher. With 79 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.764984
+date: 2026-07-11T22:39:16.846767
 url: "/cdr-researcher-census/researchers/m-sharath-chandra-a5043048/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zicong Xu"
 description: "Zicong Xu is a Mid-career Biochar researcher. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.242428
+date: 2026-07-11T22:39:17.159456
 url: "/cdr-researcher-census/researchers/zicong-xu-a5079518/"
 layout: "researcher"
 hiddenInHomeList: true

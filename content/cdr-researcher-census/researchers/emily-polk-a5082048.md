@@ -1,7 +1,7 @@
 ---
 title: "Emily Polk"
-description: "Emily Polk is a Mid-career General CDR researcher at Stanford University in US. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.955373
+description: "Emily Polk is a Mid-career DAC researcher at Stanford University in US. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.006585
 url: "/cdr-researcher-census/researchers/emily-polk-a5082048/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Stanford University · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

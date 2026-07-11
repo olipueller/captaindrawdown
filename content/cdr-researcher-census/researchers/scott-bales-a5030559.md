@@ -1,7 +1,7 @@
 ---
 title: "Scott Bales"
 description: "Scott Bales is a Mid-career Soil Carbon researcher at Michigan State University in US. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.864125
+date: 2026-07-11T22:39:16.939992
 url: "/cdr-researcher-census/researchers/scott-bales-a5030559/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sara Pascual"
 description: "Sara Pascual is a Mid-career BECCS researcher at Silesian University of Technology in PL. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.750046
+date: 2026-07-11T22:39:16.831564
 url: "/cdr-researcher-census/researchers/sara-pascual-a5045109/"
 layout: "researcher"
 hiddenInHomeList: true

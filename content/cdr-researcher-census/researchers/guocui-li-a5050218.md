@@ -1,7 +1,7 @@
 ---
 title: "Guocui Li"
-description: "Guocui Li is a Senior Soil Carbon researcher at University of Science and Technology Beijing in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.637105
+description: "Guocui Li is a Senior Biochar researcher at University of Science and Technology Beijing in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.558303
 url: "/cdr-researcher-census/researchers/guocui-li-a5050218/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ University of Science and Technology Beijing · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

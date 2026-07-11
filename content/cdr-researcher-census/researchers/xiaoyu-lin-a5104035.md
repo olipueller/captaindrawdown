@@ -1,7 +1,7 @@
 ---
 title: "Xiaoyu Lin"
 description: "Xiaoyu Lin is a Mid-career Soil Carbon researcher at Nanjing Tech University in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.861979
+date: 2026-07-11T22:39:16.937783
 url: "/cdr-researcher-census/researchers/xiaoyu-lin-a5104035/"
 layout: "researcher"
 hiddenInHomeList: true

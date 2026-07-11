@@ -1,7 +1,7 @@
 ---
 title: "Chetram Meena"
 description: "Chetram Meena is a Senior Soil Carbon researcher at Swami Keshwanand Rajasthan Agricultural University in IN. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.496769
+date: 2026-07-11T22:39:17.421887
 url: "/cdr-researcher-census/researchers/chetram-meena-a5001774/"
 layout: "researcher"
 hiddenInHomeList: true

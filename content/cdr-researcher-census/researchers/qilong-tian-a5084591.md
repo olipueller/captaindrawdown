@@ -1,7 +1,7 @@
 ---
 title: "Qilong Tian"
 description: "Qilong Tian is a Mid-career Soil Carbon researcher at Air Force Medical University in CN. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.752823
+date: 2026-07-11T22:39:16.834280
 url: "/cdr-researcher-census/researchers/qilong-tian-a5084591/"
 layout: "researcher"
 hiddenInHomeList: true

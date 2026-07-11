@@ -1,7 +1,7 @@
 ---
 title: "Yujia Zhai"
 description: "Yujia Zhai is a Mid-career Soil Carbon researcher at Tongji University in CN. With 19 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.774605
+date: 2026-07-11T22:39:16.856256
 url: "/cdr-researcher-census/researchers/yujia-zhai-a5101639/"
 layout: "researcher"
 hiddenInHomeList: true

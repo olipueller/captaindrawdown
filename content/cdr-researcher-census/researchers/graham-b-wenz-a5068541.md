@@ -1,7 +1,7 @@
 ---
 title: "Graham B. Wenz"
-description: "Graham B. Wenz is a Mid-career General CDR researcher. With 14 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.207890
+description: "Graham B. Wenz is a Mid-career DAC researcher. With 14 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.299945
 url: "/cdr-researcher-census/researchers/graham-b-wenz-a5068541/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,9 +26,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

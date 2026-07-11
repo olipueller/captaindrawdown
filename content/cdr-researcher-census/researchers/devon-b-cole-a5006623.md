@@ -1,7 +1,7 @@
 ---
 title: "Devon B. Cole"
-description: "Devon B. Cole is a Senior General CDR researcher at Climate Central in US. With 58 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.074436
+description: "Devon B. Cole is a Senior Enhanced Weathering researcher at Climate Central in US. With 58 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.177153
 url: "/cdr-researcher-census/researchers/devon-b-cole-a5006623/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Climate Central · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

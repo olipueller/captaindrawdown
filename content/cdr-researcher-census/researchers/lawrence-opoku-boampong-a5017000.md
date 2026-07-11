@@ -1,7 +1,7 @@
 ---
 title: "Lawrence Opoku Boampong"
-description: "Lawrence Opoku Boampong is a Mid-career General CDR researcher at Los Alamos National Laboratory in US. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.594908
+description: "Lawrence Opoku Boampong is a Mid-career Enhanced Weathering researcher at Los Alamos National Laboratory in US. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.515603
 url: "/cdr-researcher-census/researchers/lawrence-opoku-boampong-a5017000/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Los Alamos National Laboratory · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

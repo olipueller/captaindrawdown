@@ -1,7 +1,7 @@
 ---
 title: "Carole Causserand"
 description: "Carole Causserand is a Senior Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.627012
+date: 2026-07-11T22:39:16.718017
 url: "/cdr-researcher-census/researchers/carole-causserand-a5059787/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Vaira Obuka"
-description: "Vaira Obuka is a Mid-career General CDR researcher at University of Latvia in LV. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.340616
+description: "Vaira Obuka is a Mid-career Biochar researcher at University of Latvia in LV. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.258212
 url: "/cdr-researcher-census/researchers/vaira-obuka-a5005547/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Latvia ·  LV
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

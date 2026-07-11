@@ -1,7 +1,7 @@
 ---
 title: "Tianran Sun"
 description: "Tianran Sun is a Senior Soil Carbon researcher at Cornell University in US. With 38 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.074754
+date: 2026-07-11T22:39:16.177486
 url: "/cdr-researcher-census/researchers/tianran-sun-a5103267/"
 layout: "researcher"
 hiddenInHomeList: true

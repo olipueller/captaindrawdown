@@ -1,7 +1,7 @@
 ---
 title: "Hamidreza Sharifan"
 description: "Hamidreza Sharifan is a Senior Biochar researcher at The University of Texas at El Paso in US. With 71 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.099940
+date: 2026-07-11T22:39:16.199561
 url: "/cdr-researcher-census/researchers/hamidreza-sharifan-a5082751/"
 layout: "researcher"
 hiddenInHomeList: true

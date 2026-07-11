@@ -1,7 +1,7 @@
 ---
 title: "Zhaoyu Kong"
 description: "Zhaoyu Kong is a Senior Soil Carbon researcher at Nanchang University in CN. With 37 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.157721
+date: 2026-07-11T22:39:16.252585
 url: "/cdr-researcher-census/researchers/zhaoyu-kong-a5113723/"
 layout: "researcher"
 hiddenInHomeList: true

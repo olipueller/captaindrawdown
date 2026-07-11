@@ -1,7 +1,7 @@
 ---
 title: "Daniela Zalazar-García"
 description: "Daniela Zalazar-García is a Mid-career Biochar researcher at National University of San Juan in AR. With 27 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.670674
+date: 2026-07-11T22:39:16.757579
 url: "/cdr-researcher-census/researchers/daniela-zalazar-garcia-a5025452/"
 layout: "researcher"
 hiddenInHomeList: true

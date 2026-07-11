@@ -1,7 +1,7 @@
 ---
 title: "Ho Ngoc Son"
 description: "Ho Ngoc Son is a Mid-career Soil Carbon researcher at Thai Nguyen University of Agriculture and Forestry in VN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.039543
+date: 2026-07-11T22:39:17.042105
 url: "/cdr-researcher-census/researchers/ho-ngoc-son-a5043471/"
 layout: "researcher"
 hiddenInHomeList: true

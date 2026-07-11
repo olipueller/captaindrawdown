@@ -1,7 +1,7 @@
 ---
 title: "Ai‐Tian Ren"
 description: "Ai‐Tian Ren is a Mid-career Soil Carbon researcher at Yangtze University in CN. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.483618
+date: 2026-07-11T22:39:16.578113
 url: "/cdr-researcher-census/researchers/aitian-ren-a5001454/"
 layout: "researcher"
 hiddenInHomeList: true

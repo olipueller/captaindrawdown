@@ -1,7 +1,7 @@
 ---
 title: "Farzain Ud Din Kirmani"
 description: "Farzain Ud Din Kirmani is a Mid-career BECCS researcher at NFC Institute of Engineering & Technology in PK. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.389178
+date: 2026-07-11T22:39:17.310319
 url: "/cdr-researcher-census/researchers/farzain-ud-din-kirmani-a5053020/"
 layout: "researcher"
 hiddenInHomeList: true

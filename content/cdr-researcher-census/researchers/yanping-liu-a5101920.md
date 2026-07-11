@@ -1,7 +1,7 @@
 ---
 title: "Yanping Liu"
-description: "Yanping Liu is a Senior Soil Carbon researcher at Guizhou University of Finance and Economics in CN. With 40 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.459954
+description: "Yanping Liu is a Senior Biochar researcher at Guizhou University of Finance and Economics in CN. With 40 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.554267
 url: "/cdr-researcher-census/researchers/yanping-liu-a5101920/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Guizhou University of Finance and Economics · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

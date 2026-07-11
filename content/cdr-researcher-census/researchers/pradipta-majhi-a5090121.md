@@ -1,7 +1,7 @@
 ---
 title: "Pradipta Majhi"
 description: "Pradipta Majhi is a Mid-career Soil Carbon researcher at Odisha University of Agriculture and Technology in IN. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.638863
+date: 2026-07-11T22:39:17.560285
 url: "/cdr-researcher-census/researchers/pradipta-majhi-a5090121/"
 layout: "researcher"
 hiddenInHomeList: true

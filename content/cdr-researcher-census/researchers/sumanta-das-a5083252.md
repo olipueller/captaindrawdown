@@ -1,7 +1,7 @@
 ---
 title: "Sumanta Das"
 description: "Sumanta Das is a Senior General CDR researcher at The University of Queensland in AU. With 78 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.220039
+date: 2026-07-11T22:39:16.310612
 url: "/cdr-researcher-census/researchers/sumanta-das-a5083252/"
 layout: "researcher"
 hiddenInHomeList: true

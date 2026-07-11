@@ -1,7 +1,7 @@
 ---
 title: "Michela Gallo"
 description: "Michela Gallo is a Senior Soil Carbon researcher at University of Genoa in IT. With 68 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.114576
+date: 2026-07-11T22:39:16.213362
 url: "/cdr-researcher-census/researchers/michela-gallo-a5005158/"
 layout: "researcher"
 hiddenInHomeList: true

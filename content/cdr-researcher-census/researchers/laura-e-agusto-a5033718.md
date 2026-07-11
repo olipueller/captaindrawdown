@@ -1,7 +1,7 @@
 ---
 title: "Laura E Agusto"
 description: "Laura E Agusto is a Mid-career Soil Carbon researcher at Istituto di Scienze Marine del Consiglio Nazionale delle Ricerche in IT. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.604441
+date: 2026-07-11T22:39:17.524410
 url: "/cdr-researcher-census/researchers/laura-e-agusto-a5033718/"
 layout: "researcher"
 hiddenInHomeList: true

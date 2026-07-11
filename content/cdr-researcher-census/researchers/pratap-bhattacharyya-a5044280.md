@@ -1,7 +1,7 @@
 ---
 title: "Pratap Bhattacharyya"
 description: "Pratap Bhattacharyya is an Eminent Soil Carbon researcher at Central Rice Research Institute in IN. With 171 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.001597
+date: 2026-07-11T22:39:16.117566
 url: "/cdr-researcher-census/researchers/pratap-bhattacharyya-a5044280/"
 layout: "researcher"
 hiddenInHomeList: true

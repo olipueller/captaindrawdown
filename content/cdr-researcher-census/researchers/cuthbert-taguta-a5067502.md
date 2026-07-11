@@ -1,7 +1,7 @@
 ---
 title: "Cuthbert Taguta"
 description: "Cuthbert Taguta is a Mid-career Soil Carbon researcher at University of KwaZulu-Natal in ZA. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.975653
+date: 2026-07-11T22:39:17.020309
 url: "/cdr-researcher-census/researchers/cuthbert-taguta-a5067502/"
 layout: "researcher"
 hiddenInHomeList: true

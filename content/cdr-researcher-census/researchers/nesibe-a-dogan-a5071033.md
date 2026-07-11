@@ -1,7 +1,7 @@
 ---
 title: "Nesibe A. Dogan"
-description: "Nesibe A. Dogan is a Mid-career General CDR researcher at Korea Advanced Institute of Science and Technology in KR. With 16 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.399157
+description: "Nesibe A. Dogan is a Mid-career DAC researcher at Korea Advanced Institute of Science and Technology in KR. With 16 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.493236
 url: "/cdr-researcher-census/researchers/nesibe-a-dogan-a5071033/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Korea Advanced Institute of Science and Technology · 🇰🇷 KR
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

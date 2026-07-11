@@ -1,7 +1,7 @@
 ---
 title: "Susanne Arens"
 description: "Susanne Arens is a Senior Soil Carbon researcher at University of Copenhagen in DK. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.547504
+date: 2026-07-11T22:39:16.640674
 url: "/cdr-researcher-census/researchers/susanne-arens-a5018495/"
 layout: "researcher"
 hiddenInHomeList: true

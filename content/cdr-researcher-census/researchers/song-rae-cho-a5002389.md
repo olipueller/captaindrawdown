@@ -1,7 +1,7 @@
 ---
 title: "Song Rae Cho"
 description: "Song Rae Cho is a Mid-career Biochar researcher at Rural Development Administration in KR. With 31 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.522261
+date: 2026-07-11T22:39:16.616857
 url: "/cdr-researcher-census/researchers/song-rae-cho-a5002389/"
 layout: "researcher"
 hiddenInHomeList: true

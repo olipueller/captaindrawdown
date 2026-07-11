@@ -1,7 +1,7 @@
 ---
 title: "Kai G. Schulz"
 description: "Kai G. Schulz is an Eminent Ocean CDR researcher at Southern Cross University in AU. With 344 publications and an h-index of 51, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:39.969217
+date: 2026-07-11T22:39:16.095481
 url: "/cdr-researcher-census/researchers/kai-g-schulz-a5091734/"
 layout: "researcher"
 hiddenInHomeList: true

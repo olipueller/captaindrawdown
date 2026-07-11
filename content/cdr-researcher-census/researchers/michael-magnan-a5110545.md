@@ -1,7 +1,7 @@
 ---
 title: "Michael Magnan"
 description: "Michael Magnan is a Mid-career General CDR researcher at Natural Resources Canada in CA. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.333069
+date: 2026-07-11T22:39:17.250631
 url: "/cdr-researcher-census/researchers/michael-magnan-a5110545/"
 layout: "researcher"
 hiddenInHomeList: true

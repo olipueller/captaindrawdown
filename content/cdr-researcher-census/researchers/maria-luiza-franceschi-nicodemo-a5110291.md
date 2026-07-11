@@ -1,7 +1,7 @@
 ---
 title: "Maria Luiza Franceschi Nicodemo"
 description: "Maria Luiza Franceschi Nicodemo is a Senior Soil Carbon researcher at Brazilian Agricultural Research Corporation in BR. With 36 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.553128
+date: 2026-07-11T22:39:16.646329
 url: "/cdr-researcher-census/researchers/maria-luiza-franceschi-nicodemo-a5110291/"
 layout: "researcher"
 hiddenInHomeList: true

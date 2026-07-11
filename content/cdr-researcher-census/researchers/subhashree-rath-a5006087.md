@@ -1,7 +1,7 @@
 ---
 title: "Subhashree Rath"
-description: "Subhashree Rath is a Mid-career General CDR researcher at Siksha O Anusandhan University in IN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.817496
+description: "Subhashree Rath is a Mid-career Biochar researcher at Siksha O Anusandhan University in IN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.896739
 url: "/cdr-researcher-census/researchers/subhashree-rath-a5006087/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Siksha O Anusandhan University · 🇮🇳 IN
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

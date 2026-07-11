@@ -1,7 +1,7 @@
 ---
 title: "Yunzhu Qin"
-description: "Yunzhu Qin is a Mid-career General CDR researcher at Hong Kong Polytechnic University in HK. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.245537
+description: "Yunzhu Qin is a Mid-career Biochar researcher at Hong Kong Polytechnic University in HK. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.162732
 url: "/cdr-researcher-census/researchers/yunzhu-qin-a5048726/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Hong Kong Polytechnic University · 🇭🇰 HK
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

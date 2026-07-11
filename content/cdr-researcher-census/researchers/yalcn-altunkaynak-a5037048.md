@@ -1,7 +1,7 @@
 ---
 title: "Yalçın Altunkaynak"
 description: "Yalçın Altunkaynak is a Senior Biochar researcher at Batman University in TR. With 32 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.224220
+date: 2026-07-11T22:39:16.314887
 url: "/cdr-researcher-census/researchers/yalcn-altunkaynak-a5037048/"
 layout: "researcher"
 hiddenInHomeList: true

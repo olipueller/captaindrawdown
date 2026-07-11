@@ -1,7 +1,7 @@
 ---
 title: "Mads Heuckendorff"
-description: "Mads Heuckendorff is a Senior General CDR researcher at Cowi (Denmark) in DK. With 28 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.398591
+description: "Mads Heuckendorff is a Senior DAC researcher at Cowi (Denmark) in DK. With 28 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.492651
 url: "/cdr-researcher-census/researchers/mads-heuckendorff-a5000970/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Cowi (Denmark) · 🇩🇰 DK
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

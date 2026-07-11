@@ -1,7 +1,7 @@
 ---
 title: "Ali Kiani"
 description: "Ali Kiani is a Mid-career DAC researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.399732
+date: 2026-07-11T22:39:16.493790
 url: "/cdr-researcher-census/researchers/ali-kiani-a5070604/"
 layout: "researcher"
 hiddenInHomeList: true

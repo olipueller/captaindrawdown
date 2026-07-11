@@ -1,7 +1,7 @@
 ---
 title: "Zongmu Yao"
 description: "Zongmu Yao is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.670464
+date: 2026-07-11T22:39:16.757385
 url: "/cdr-researcher-census/researchers/zongmu-yao-a5082504/"
 layout: "researcher"
 hiddenInHomeList: true

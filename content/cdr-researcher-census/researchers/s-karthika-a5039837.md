@@ -1,7 +1,7 @@
 ---
 title: "S. Karthika"
 description: "S. Karthika is a Senior Soil Carbon researcher at Anna University, Chennai in IN. With 71 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.501770
+date: 2026-07-11T22:39:16.596274
 url: "/cdr-researcher-census/researchers/s-karthika-a5039837/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mengyu Cai"
 description: "Mengyu Cai is a Mid-career Biochar researcher at Naval Medical Research Command in US. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.989506
+date: 2026-07-11T22:39:17.024669
 url: "/cdr-researcher-census/researchers/mengyu-cai-a5048278/"
 layout: "researcher"
 hiddenInHomeList: true

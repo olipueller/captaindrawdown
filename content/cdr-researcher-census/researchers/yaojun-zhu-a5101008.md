@@ -1,7 +1,7 @@
 ---
 title: "Yaojun Zhu"
-description: "Yaojun Zhu is a Mid-career Soil Carbon researcher at Zhanjiang Experimental Station in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.512366
+description: "Yaojun Zhu is a Mid-career Ocean CDR researcher at Zhanjiang Experimental Station in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.437420
 url: "/cdr-researcher-census/researchers/yaojun-zhu-a5101008/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Zhanjiang Experimental Station · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Ocean CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
 
 ## Metrics
 

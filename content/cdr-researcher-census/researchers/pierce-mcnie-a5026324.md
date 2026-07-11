@@ -1,7 +1,7 @@
 ---
 title: "Pierce McNie"
 description: "Pierce McNie is a Mid-career Soil Carbon researcher at Memorial University of Newfoundland in CA. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.765371
+date: 2026-07-11T22:39:16.847169
 url: "/cdr-researcher-census/researchers/pierce-mcnie-a5026324/"
 layout: "researcher"
 hiddenInHomeList: true

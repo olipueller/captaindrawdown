@@ -1,7 +1,7 @@
 ---
 title: "Jiehuizi Wen"
-description: "Jiehuizi Wen is an Early-career General CDR researcher at Sichuan University in CN. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.650151
+description: "Jiehuizi Wen is an Early-career Biochar researcher at Sichuan University in CN. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.574719
 url: "/cdr-researcher-census/researchers/jiehuizi-wen-a5109612/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Sichuan University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "Jing Chen"
 description: "Jing Chen is a Mid-career Ocean CDR researcher at Ankang University in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.610549
+date: 2026-07-11T22:39:17.529899
 url: "/cdr-researcher-census/researchers/jing-chen-a5115602/"
 layout: "researcher"
 hiddenInHomeList: true

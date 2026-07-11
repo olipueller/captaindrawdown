@@ -1,7 +1,7 @@
 ---
 title: "Surat Semmad"
 description: "Surat Semmad is a Mid-career Biochar researcher at Rajamangala University of Technology Isan in TH. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.629103
+date: 2026-07-11T22:39:17.548311
 url: "/cdr-researcher-census/researchers/surat-semmad-a5030410/"
 layout: "researcher"
 hiddenInHomeList: true

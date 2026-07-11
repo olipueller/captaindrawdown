@@ -1,7 +1,7 @@
 ---
 title: "Abel Adekanmi Adeyi"
 description: "Abel Adekanmi Adeyi is a Mid-career Biochar researcher at Universiti Putra Malaysia in MY. With 51 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.522579
+date: 2026-07-11T22:39:16.617174
 url: "/cdr-researcher-census/researchers/abel-adekanmi-adeyi-a5036867/"
 layout: "researcher"
 hiddenInHomeList: true

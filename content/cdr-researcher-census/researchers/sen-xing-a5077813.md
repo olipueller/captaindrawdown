@@ -1,7 +1,7 @@
 ---
 title: "Sen Xing"
-description: "Sen Xing is a Mid-career Soil Carbon researcher at Chongqing University in CN. With 30 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.316406
+description: "Sen Xing is a Mid-career Biochar researcher at Chongqing University in CN. With 30 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.407138
 url: "/cdr-researcher-census/researchers/sen-xing-a5077813/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Chongqing University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "Linjia Li"
 description: "Linjia Li is a Mid-career General CDR researcher at Shanghai Jiao Tong University in CN. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.764538
+date: 2026-07-11T22:39:16.846302
 url: "/cdr-researcher-census/researchers/linjia-li-a5082224/"
 layout: "researcher"
 hiddenInHomeList: true

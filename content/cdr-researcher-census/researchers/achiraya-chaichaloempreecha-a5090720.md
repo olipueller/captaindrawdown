@@ -1,7 +1,7 @@
 ---
 title: "Achiraya Chaichaloempreecha"
 description: "Achiraya Chaichaloempreecha is a Mid-career General CDR researcher at Mahidol University in TH. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.100936
+date: 2026-07-11T22:39:17.073261
 url: "/cdr-researcher-census/researchers/achiraya-chaichaloempreecha-a5090720/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hongqing Zhu"
 description: "Hongqing Zhu is a Mid-career Biochar researcher at Chengdu University of Technology in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.116393
+date: 2026-07-11T22:39:17.078655
 url: "/cdr-researcher-census/researchers/hongqing-zhu-a5059363/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shuai Xue"
 description: "Shuai Xue is a Mid-career Soil Carbon researcher at Hunan Agricultural University in CN. With 57 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.313596
+date: 2026-07-11T22:39:16.404184
 url: "/cdr-researcher-census/researchers/shuai-xue-a5018969/"
 layout: "researcher"
 hiddenInHomeList: true

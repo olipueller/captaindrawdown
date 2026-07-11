@@ -1,7 +1,7 @@
 ---
 title: "Hussien A. El Sayed"
-description: "Hussien A. El Sayed is a Mid-career General CDR researcher at Egyptian Petroleum Research Institute in EG. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.796216
+description: "Hussien A. El Sayed is a Mid-career Biochar researcher at Egyptian Petroleum Research Institute in EG. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.877343
 url: "/cdr-researcher-census/researchers/hussien-a-el-sayed-a5067613/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Egyptian Petroleum Research Institute ·  EG
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

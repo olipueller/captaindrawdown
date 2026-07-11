@@ -1,7 +1,7 @@
 ---
 title: "Subarno"
 description: "Subarno is an Early-career Soil Carbon researcher at Binus University in ID. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.079364
+date: 2026-07-11T22:39:17.058171
 url: "/cdr-researcher-census/researchers/subarno-a5046401/"
 layout: "researcher"
 hiddenInHomeList: true

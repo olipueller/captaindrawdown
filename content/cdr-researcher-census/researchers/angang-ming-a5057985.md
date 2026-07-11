@@ -1,7 +1,7 @@
 ---
 title: "Angang Ming"
 description: "Angang Ming is a Mid-career Soil Carbon researcher at Experimental Center of Tropical Forestry in CN. With 69 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.224110
+date: 2026-07-11T22:39:16.314777
 url: "/cdr-researcher-census/researchers/angang-ming-a5057985/"
 layout: "researcher"
 hiddenInHomeList: true

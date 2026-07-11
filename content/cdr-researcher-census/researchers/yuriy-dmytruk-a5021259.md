@@ -1,7 +1,7 @@
 ---
 title: "Yuriy Dmytruk"
 description: "Yuriy Dmytruk is a Mid-career Soil Carbon researcher at Human Growth Foundation in US. With 31 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.459116
+date: 2026-07-11T22:39:17.383528
 url: "/cdr-researcher-census/researchers/yuriy-dmytruk-a5021259/"
 layout: "researcher"
 hiddenInHomeList: true

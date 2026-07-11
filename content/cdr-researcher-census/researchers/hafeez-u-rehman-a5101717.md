@@ -1,7 +1,7 @@
 ---
 title: "Hafeez-u- Rehman"
 description: "Hafeez-u- Rehman is a Mid-career Soil Carbon researcher at Purdue University West Lafayette in US. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.380790
+date: 2026-07-11T22:39:17.301401
 url: "/cdr-researcher-census/researchers/hafeez-u-rehman-a5101717/"
 layout: "researcher"
 hiddenInHomeList: true

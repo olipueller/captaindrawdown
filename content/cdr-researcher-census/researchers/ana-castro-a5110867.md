@@ -1,7 +1,7 @@
 ---
 title: "Ana Castro"
-description: "Ana Castro is a Mid-career Soil Carbon researcher at Instituto Politecnico de Setubal in PT. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.302616
+description: "Ana Castro is a Mid-career Biochar researcher at Instituto Politecnico de Setubal in PT. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.219997
 url: "/cdr-researcher-census/researchers/ana-castro-a5110867/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Instituto Politecnico de Setubal · 🇵🇹 PT
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

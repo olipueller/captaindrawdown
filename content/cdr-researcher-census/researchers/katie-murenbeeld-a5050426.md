@@ -1,7 +1,7 @@
 ---
 title: "Katie Murenbeeld"
-description: "Katie Murenbeeld is an Early-career Soil Carbon researcher at Boise State University in US. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.149563
+description: "Katie Murenbeeld is an Early-career Enhanced Weathering researcher at Boise State University in US. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.094240
 url: "/cdr-researcher-census/researchers/katie-murenbeeld-a5050426/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Boise State University · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Enhanced Weathering**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

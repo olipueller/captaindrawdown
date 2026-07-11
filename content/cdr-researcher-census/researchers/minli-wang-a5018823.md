@@ -1,7 +1,7 @@
 ---
 title: "Minli Wang"
 description: "Minli Wang is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.551286
+date: 2026-07-11T22:39:17.475200
 url: "/cdr-researcher-census/researchers/minli-wang-a5018823/"
 layout: "researcher"
 hiddenInHomeList: true

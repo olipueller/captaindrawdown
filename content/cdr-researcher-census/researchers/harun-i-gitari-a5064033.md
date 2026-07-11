@@ -1,7 +1,7 @@
 ---
 title: "Harun I. Gitari"
 description: "Harun I. Gitari is a Senior Soil Carbon researcher at Kenyatta University in KE. With 134 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.027083
+date: 2026-07-11T22:39:16.137983
 url: "/cdr-researcher-census/researchers/harun-i-gitari-a5064033/"
 layout: "researcher"
 hiddenInHomeList: true

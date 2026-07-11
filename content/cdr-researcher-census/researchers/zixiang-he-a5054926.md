@@ -1,7 +1,7 @@
 ---
 title: "Zixiang He"
-description: "Zixiang He is a Mid-career General CDR researcher at Harbin Institute of Technology in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.590295
+description: "Zixiang He is a Mid-career BECCS researcher at Harbin Institute of Technology in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.682808
 url: "/cdr-researcher-census/researchers/zixiang-he-a5054926/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Harbin Institute of Technology · 🇨🇳 CN
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

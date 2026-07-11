@@ -1,7 +1,7 @@
 ---
 title: "Marcel Lorenz"
-description: "Marcel Lorenz is a Mid-career Soil Carbon researcher at Helmholtz Centre for Environmental Research in DE. With 25 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.891425
+description: "Marcel Lorenz is a Mid-career Enhanced Weathering researcher at Helmholtz Centre for Environmental Research in DE. With 25 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.981365
 url: "/cdr-researcher-census/researchers/marcel-lorenz-a5084559/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Helmholtz Centre for Environmental Research · 🇩🇪 DE
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Enhanced Weathering**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

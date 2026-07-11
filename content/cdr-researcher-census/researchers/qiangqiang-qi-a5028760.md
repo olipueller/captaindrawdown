@@ -1,7 +1,7 @@
 ---
 title: "Qiangqiang Qi"
 description: "Qiangqiang Qi is a Mid-career Soil Carbon researcher at Shanxi Agricultural University in CN. With 19 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.358664
+date: 2026-07-11T22:39:16.449406
 url: "/cdr-researcher-census/researchers/qiangqiang-qi-a5028760/"
 layout: "researcher"
 hiddenInHomeList: true

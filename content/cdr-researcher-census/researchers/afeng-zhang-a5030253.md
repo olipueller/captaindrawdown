@@ -1,7 +1,7 @@
 ---
 title: "Afeng Zhang"
 description: "Afeng Zhang is a Senior Soil Carbon researcher at Ministry of Agriculture in BW. With 68 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:39.992390
+date: 2026-07-11T22:39:16.110430
 url: "/cdr-researcher-census/researchers/afeng-zhang-a5030253/"
 layout: "researcher"
 hiddenInHomeList: true

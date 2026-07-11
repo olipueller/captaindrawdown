@@ -1,7 +1,7 @@
 ---
 title: "Yajie Sun"
 description: "Yajie Sun is a Mid-career Soil Carbon researcher at Shandong Agricultural University in CN. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.950691
+date: 2026-07-11T22:39:17.002845
 url: "/cdr-researcher-census/researchers/yajie-sun-a5101815/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Linus Onwuemezie"
-description: "Linus Onwuemezie is a Mid-career General CDR researcher at University of Staffordshire in GB. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.234154
+description: "Linus Onwuemezie is a Mid-career DAC researcher at University of Staffordshire in GB. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.151248
 url: "/cdr-researcher-census/researchers/linus-onwuemezie-a5031862/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Staffordshire · 🇬🇧 GB
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

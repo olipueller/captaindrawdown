@@ -1,7 +1,7 @@
 ---
 title: "Shujie Hu"
-description: "Shujie Hu is a Senior General CDR researcher at Chongqing University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.480754
+description: "Shujie Hu is a Senior DAC researcher at Chongqing University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.405234
 url: "/cdr-researcher-census/researchers/shujie-hu-a5102102/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Chongqing University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

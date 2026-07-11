@@ -1,7 +1,7 @@
 ---
 title: "Libing Gao"
-description: "Libing Gao is a Mid-career Soil Carbon researcher at Taiyuan University of Science and Technology in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.417061
+description: "Libing Gao is a Mid-career Biochar researcher at Taiyuan University of Science and Technology in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.340043
 url: "/cdr-researcher-census/researchers/libing-gao-a5008629/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Taiyuan University of Science and Technology · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

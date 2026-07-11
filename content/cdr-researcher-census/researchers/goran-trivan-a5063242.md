@@ -1,7 +1,7 @@
 ---
 title: "Goran Trivan"
 description: "Goran Trivan is a Mid-career Soil Carbon researcher at University of Belgrade in RS. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.889276
+date: 2026-07-11T22:39:16.979393
 url: "/cdr-researcher-census/researchers/goran-trivan-a5063242/"
 layout: "researcher"
 hiddenInHomeList: true

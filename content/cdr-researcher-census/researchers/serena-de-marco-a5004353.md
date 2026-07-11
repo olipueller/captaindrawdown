@@ -1,7 +1,7 @@
 ---
 title: "Serena De Marco"
 description: "Serena De Marco is a Mid-career Ocean CDR researcher at Politecnico di Milano in IT. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.296559
+date: 2026-07-11T22:39:17.213663
 url: "/cdr-researcher-census/researchers/serena-de-marco-a5004353/"
 layout: "researcher"
 hiddenInHomeList: true

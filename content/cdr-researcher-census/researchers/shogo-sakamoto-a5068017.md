@@ -1,7 +1,7 @@
 ---
 title: "Shogo Sakamoto"
-description: "Shogo Sakamoto is a Mid-career General CDR researcher at Central Research Institute of Electric Power Industry in JP. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.521132
+description: "Shogo Sakamoto is a Mid-career BECCS researcher at Central Research Institute of Electric Power Industry in JP. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.445976
 url: "/cdr-researcher-census/researchers/shogo-sakamoto-a5068017/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Central Research Institute of Electric Power Industry · 🇯🇵 JP
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

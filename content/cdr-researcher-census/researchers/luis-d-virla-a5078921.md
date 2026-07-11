@@ -1,7 +1,7 @@
 ---
 title: "Luis D. Virla"
 description: "Luis D. Virla is a Mid-career General CDR researcher. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.503916
+date: 2026-07-11T22:39:16.598373
 url: "/cdr-researcher-census/researchers/luis-d-virla-a5078921/"
 layout: "researcher"
 hiddenInHomeList: true

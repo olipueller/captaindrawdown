@@ -1,7 +1,7 @@
 ---
 title: "Matti J. Salmela"
 description: "Matti J. Salmela is a Senior Biochar researcher at Natural Resources Institute Finland in FI. With 32 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.462231
+date: 2026-07-11T22:39:16.556568
 url: "/cdr-researcher-census/researchers/matti-j-salmela-a5022728/"
 layout: "researcher"
 hiddenInHomeList: true

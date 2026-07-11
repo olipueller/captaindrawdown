@@ -1,7 +1,7 @@
 ---
 title: "Jiahou Hao"
 description: "Jiahou Hao is an Early-career Biochar researcher at Nanyang Normal University in CN. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.535289
+date: 2026-07-11T22:39:17.459389
 url: "/cdr-researcher-census/researchers/jiahou-hao-a5060422/"
 layout: "researcher"
 hiddenInHomeList: true

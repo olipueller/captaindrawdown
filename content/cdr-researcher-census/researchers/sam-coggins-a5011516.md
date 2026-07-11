@@ -1,7 +1,7 @@
 ---
 title: "Sam Coggins"
 description: "Sam Coggins is a Senior Soil Carbon researcher. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.028397
+date: 2026-07-11T22:39:17.038518
 url: "/cdr-researcher-census/researchers/sam-coggins-a5011516/"
 layout: "researcher"
 hiddenInHomeList: true

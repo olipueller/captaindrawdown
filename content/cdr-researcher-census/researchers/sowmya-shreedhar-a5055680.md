@@ -1,7 +1,7 @@
 ---
 title: "Sowmya Shreedhar"
-description: "Sowmya Shreedhar is a Mid-career Soil Carbon researcher at Delft University of Technology in NL. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.718968
+description: "Sowmya Shreedhar is a Mid-career Biochar researcher at Delft University of Technology in NL. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.801871
 url: "/cdr-researcher-census/researchers/sowmya-shreedhar-a5055680/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Delft University of Technology · 🇳🇱 NL
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

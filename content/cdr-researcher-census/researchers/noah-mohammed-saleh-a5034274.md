@@ -1,7 +1,7 @@
 ---
 title: "Noah Mohammed Saleh"
 description: "Noah Mohammed Saleh is a Mid-career Biochar researcher at University of Tabriz in IR. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.870921
+date: 2026-07-11T22:39:16.946058
 url: "/cdr-researcher-census/researchers/noah-mohammed-saleh-a5034274/"
 layout: "researcher"
 hiddenInHomeList: true

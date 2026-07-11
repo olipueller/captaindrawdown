@@ -1,7 +1,7 @@
 ---
 title: "Hans Meerman"
-description: "Hans Meerman is a Senior General CDR researcher at Hogeschool van Arnhem en Nijmegen in NL. With 36 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.176793
+description: "Hans Meerman is a Senior BECCS researcher at Hogeschool van Arnhem en Nijmegen in NL. With 36 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.270563
 url: "/cdr-researcher-census/researchers/hans-meerman-a5050679/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Hogeschool van Arnhem en Nijmegen · 🇳🇱 NL
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

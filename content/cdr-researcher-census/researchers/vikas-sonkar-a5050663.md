@@ -1,7 +1,7 @@
 ---
 title: "Vikas Sonkar"
-description: "Vikas Sonkar is a Mid-career Soil Carbon researcher at Indian Institute of Technology Hyderabad in IN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.083438
+description: "Vikas Sonkar is a Mid-career Biochar researcher at Indian Institute of Technology Hyderabad in IN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.059476
 url: "/cdr-researcher-census/researchers/vikas-sonkar-a5050663/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Indian Institute of Technology Hyderabad · 🇮🇳 IN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

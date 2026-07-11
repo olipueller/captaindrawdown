@@ -1,7 +1,7 @@
 ---
 title: "Anatoli Chatzipanagi"
-description: "Anatoli Chatzipanagi is a Senior General CDR researcher at Joint Research Centre in IT. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.810645
+description: "Anatoli Chatzipanagi is a Senior DAC researcher at Joint Research Centre in IT. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.890615
 url: "/cdr-researcher-census/researchers/anatoli-chatzipanagi-a5065066/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Joint Research Centre · 🇮🇹 IT
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

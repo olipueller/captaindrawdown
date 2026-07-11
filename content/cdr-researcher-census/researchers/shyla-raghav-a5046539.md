@@ -1,7 +1,7 @@
 ---
 title: "Shyla Raghav"
 description: "Shyla Raghav is a Mid-career General CDR researcher at Conservation International in US. With 3 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.226201
+date: 2026-07-11T22:39:17.142848
 url: "/cdr-researcher-census/researchers/shyla-raghav-a5046539/"
 layout: "researcher"
 hiddenInHomeList: true

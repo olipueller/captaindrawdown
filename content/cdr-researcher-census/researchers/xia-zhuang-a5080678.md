@@ -1,7 +1,7 @@
 ---
 title: "Xia Zhuang"
 description: "Xia Zhuang is a Mid-career Soil Carbon researcher at Gannan Normal University in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.784023
+date: 2026-07-11T22:39:16.865132
 url: "/cdr-researcher-census/researchers/xia-zhuang-a5080678/"
 layout: "researcher"
 hiddenInHomeList: true

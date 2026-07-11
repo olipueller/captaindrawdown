@@ -1,7 +1,7 @@
 ---
 title: "Milton Halder"
 description: "Milton Halder is a Senior Soil Carbon researcher at Khulna University in BD. With 47 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.525506
+date: 2026-07-11T22:39:16.619802
 url: "/cdr-researcher-census/researchers/milton-halder-a5006496/"
 layout: "researcher"
 hiddenInHomeList: true

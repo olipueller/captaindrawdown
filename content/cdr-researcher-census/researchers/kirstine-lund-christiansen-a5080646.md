@@ -1,7 +1,7 @@
 ---
 title: "Kirstine Lund Christiansen"
 description: "Kirstine Lund Christiansen is a Mid-career General CDR researcher at University of Copenhagen in DK. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.394768
+date: 2026-07-11T22:39:17.316583
 url: "/cdr-researcher-census/researchers/kirstine-lund-christiansen-a5080646/"
 layout: "researcher"
 hiddenInHomeList: true

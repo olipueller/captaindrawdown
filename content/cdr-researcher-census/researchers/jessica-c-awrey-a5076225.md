@@ -1,7 +1,7 @@
 ---
 title: "Jessica C. Awrey"
 description: "Jessica C. Awrey is an Early-career Soil Carbon researcher at University of Guelph in CA. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.536507
+date: 2026-07-11T22:39:17.460600
 url: "/cdr-researcher-census/researchers/jessica-c-awrey-a5076225/"
 layout: "researcher"
 hiddenInHomeList: true

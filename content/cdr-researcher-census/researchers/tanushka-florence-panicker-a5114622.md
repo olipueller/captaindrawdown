@@ -1,7 +1,7 @@
 ---
 title: "Tanushka Florence Panicker"
-description: "Tanushka Florence Panicker is a Mid-career General CDR researcher at Manipal Academy of Higher Education in IN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.278383
+description: "Tanushka Florence Panicker is a Mid-career Biochar researcher at Manipal Academy of Higher Education in IN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.195985
 url: "/cdr-researcher-census/researchers/tanushka-florence-panicker-a5114622/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Manipal Academy of Higher Education · 🇮🇳 IN
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

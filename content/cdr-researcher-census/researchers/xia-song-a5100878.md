@@ -1,7 +1,7 @@
 ---
 title: "Xia Song"
 description: "Xia Song is a Senior Soil Carbon researcher at San Diego State University in US. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.654985
+date: 2026-07-11T22:39:16.744266
 url: "/cdr-researcher-census/researchers/xia-song-a5100878/"
 layout: "researcher"
 hiddenInHomeList: true

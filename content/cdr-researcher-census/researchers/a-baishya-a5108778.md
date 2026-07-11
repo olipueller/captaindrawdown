@@ -1,7 +1,7 @@
 ---
 title: "A. Baishya"
 description: "A. Baishya is a Senior Soil Carbon researcher at International Foundation for Integrated Care in GB. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.397092
+date: 2026-07-11T22:39:17.319070
 url: "/cdr-researcher-census/researchers/a-baishya-a5108778/"
 layout: "researcher"
 hiddenInHomeList: true

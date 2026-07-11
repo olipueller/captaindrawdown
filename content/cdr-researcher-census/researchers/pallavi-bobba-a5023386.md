@@ -1,7 +1,7 @@
 ---
 title: "Pallavi Bobba"
-description: "Pallavi Bobba is a Mid-career General CDR researcher at Argonne National Laboratory in US. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.882926
+description: "Pallavi Bobba is a Mid-career DAC researcher at Argonne National Laboratory in US. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.972964
 url: "/cdr-researcher-census/researchers/pallavi-bobba-a5023386/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Argonne National Laboratory · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

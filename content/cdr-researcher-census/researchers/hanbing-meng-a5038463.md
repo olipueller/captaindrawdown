@@ -1,7 +1,7 @@
 ---
 title: "Hanbing Meng"
 description: "Hanbing Meng is a Mid-career Soil Carbon researcher at Bethune International Peace Hospital in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.545003
+date: 2026-07-11T22:39:16.638454
 url: "/cdr-researcher-census/researchers/hanbing-meng-a5038463/"
 layout: "researcher"
 hiddenInHomeList: true

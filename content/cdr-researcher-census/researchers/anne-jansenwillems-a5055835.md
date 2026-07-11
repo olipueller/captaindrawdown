@@ -1,7 +1,7 @@
 ---
 title: "Anne Jansen‐Willems"
 description: "Anne Jansen‐Willems is a Mid-career Soil Carbon researcher at University College Dublin in IE. With 33 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.502765
+date: 2026-07-11T22:39:16.597332
 url: "/cdr-researcher-census/researchers/anne-jansenwillems-a5055835/"
 layout: "researcher"
 hiddenInHomeList: true

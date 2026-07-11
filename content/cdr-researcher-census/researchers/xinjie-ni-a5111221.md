@@ -1,7 +1,7 @@
 ---
 title: "Xinjie Ni"
 description: "Xinjie Ni is a Senior Biochar researcher at Nanning Normal University in CN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.635948
+date: 2026-07-11T22:39:17.557071
 url: "/cdr-researcher-census/researchers/xinjie-ni-a5111221/"
 layout: "researcher"
 hiddenInHomeList: true

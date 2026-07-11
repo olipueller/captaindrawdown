@@ -1,7 +1,7 @@
 ---
 title: "Mohsen Hosseini"
 description: "Mohsen Hosseini is a Senior Soil Carbon researcher at Shahid Beheshti University in IR. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.479165
+date: 2026-07-11T22:39:17.403715
 url: "/cdr-researcher-census/researchers/mohsen-hosseini-a5102093/"
 layout: "researcher"
 hiddenInHomeList: true

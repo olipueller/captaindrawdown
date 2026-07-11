@@ -1,7 +1,7 @@
 ---
 title: "Karoline L. Hebisch"
 description: "Karoline L. Hebisch is a Mid-career DAC researcher at Korea Advanced Institute of Science and Technology in KR. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.004607
+date: 2026-07-11T22:39:17.030539
 url: "/cdr-researcher-census/researchers/karoline-l-hebisch-a5025006/"
 layout: "researcher"
 hiddenInHomeList: true

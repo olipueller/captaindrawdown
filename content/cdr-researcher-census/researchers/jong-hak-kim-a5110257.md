@@ -1,7 +1,7 @@
 ---
 title: "Jong Hak Kim"
 description: "Jong Hak Kim is a Senior Ocean CDR researcher at Yonsei University in KR. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.887668
+date: 2026-07-11T22:39:16.977687
 url: "/cdr-researcher-census/researchers/jong-hak-kim-a5110257/"
 layout: "researcher"
 hiddenInHomeList: true

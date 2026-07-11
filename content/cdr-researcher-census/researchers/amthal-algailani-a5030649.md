@@ -1,7 +1,7 @@
 ---
 title: "Amthal Al‐Gailani"
-description: "Amthal Al‐Gailani is a Mid-career General CDR researcher at University of Hull in GB. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.266785
+description: "Amthal Al‐Gailani is a Mid-career Biochar researcher at University of Hull in GB. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.184165
 url: "/cdr-researcher-census/researchers/amthal-algailani-a5030649/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Hull · 🇬🇧 GB
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

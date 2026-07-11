@@ -1,7 +1,7 @@
 ---
 title: "Shivani Ranjan"
 description: "Shivani Ranjan is a Mid-career Soil Carbon researcher at Dr. Rajendra Prasad Central Agriculture University in IN. With 42 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.635670
+date: 2026-07-11T22:39:16.726120
 url: "/cdr-researcher-census/researchers/shivani-ranjan-a5067267/"
 layout: "researcher"
 hiddenInHomeList: true

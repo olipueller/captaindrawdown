@@ -1,7 +1,7 @@
 ---
 title: "Rodine Tchiofo Lontsi"
 description: "Rodine Tchiofo Lontsi is a Mid-career Soil Carbon researcher. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.620377
+date: 2026-07-11T22:39:17.539317
 url: "/cdr-researcher-census/researchers/rodine-tchiofo-lontsi-a5066985/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jessica Cross"
 description: "Jessica Cross is a Senior Ocean CDR researcher at Pacific Northwest National Laboratory in US. With 100 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.028137
+date: 2026-07-11T22:39:16.138825
 url: "/cdr-researcher-census/researchers/jessica-cross-a5031991/"
 layout: "researcher"
 hiddenInHomeList: true

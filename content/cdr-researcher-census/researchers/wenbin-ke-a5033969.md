@@ -1,7 +1,7 @@
 ---
 title: "Wenbin Ke"
 description: "Wenbin Ke is a Mid-career Soil Carbon researcher at Lanzhou University in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.027121
+date: 2026-07-11T22:39:17.038300
 url: "/cdr-researcher-census/researchers/wenbin-ke-a5033969/"
 layout: "researcher"
 hiddenInHomeList: true

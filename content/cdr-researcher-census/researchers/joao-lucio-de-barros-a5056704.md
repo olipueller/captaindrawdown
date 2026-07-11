@@ -1,7 +1,7 @@
 ---
 title: "João Lúcio de Barros"
 description: "João Lúcio de Barros is a Mid-career Biochar researcher at Federal Institute of São Paulo in BR. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.655291
+date: 2026-07-11T22:39:17.583959
 url: "/cdr-researcher-census/researchers/joao-lucio-de-barros-a5056704/"
 layout: "researcher"
 hiddenInHomeList: true

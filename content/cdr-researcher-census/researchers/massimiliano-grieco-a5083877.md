@@ -1,7 +1,7 @@
 ---
 title: "Massimiliano Grieco"
 description: "Massimiliano Grieco is a Mid-career BECCS researcher at National Agency for New Technologies, Energy and Sustainable Economic Development in IT. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.469605
+date: 2026-07-11T22:39:17.393638
 url: "/cdr-researcher-census/researchers/massimiliano-grieco-a5083877/"
 layout: "researcher"
 hiddenInHomeList: true

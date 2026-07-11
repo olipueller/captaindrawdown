@@ -1,7 +1,7 @@
 ---
 title: "Patricia Y. Oikawa"
 description: "Patricia Y. Oikawa is a Senior Soil Carbon researcher at Cal State East Bay in US. With 66 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.089574
+date: 2026-07-11T22:39:16.190781
 url: "/cdr-researcher-census/researchers/patricia-y-oikawa-a5056649/"
 layout: "researcher"
 hiddenInHomeList: true

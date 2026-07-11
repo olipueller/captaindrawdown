@@ -1,7 +1,7 @@
 ---
 title: "Huan Deng"
-description: "Huan Deng is a Senior General CDR researcher at Nanjing Normal University in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.256910
+description: "Huan Deng is a Senior Biochar researcher at Nanjing Normal University in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.174694
 url: "/cdr-researcher-census/researchers/huan-deng-a5014435/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Nanjing Normal University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

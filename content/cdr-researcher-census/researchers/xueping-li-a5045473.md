@@ -1,7 +1,7 @@
 ---
 title: "Xueping Li"
 description: "Xueping Li is an Early-career Biochar researcher at Shandong University in CN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.386515
+date: 2026-07-11T22:39:17.307471
 url: "/cdr-researcher-census/researchers/xueping-li-a5045473/"
 layout: "researcher"
 hiddenInHomeList: true

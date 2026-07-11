@@ -1,7 +1,7 @@
 ---
 title: "Sana Rehman"
 description: "Sana Rehman is a Senior Soil Carbon researcher at CMH Lahore Medical College and Institute of Dentistry in PK. With 108 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.523020
+date: 2026-07-11T22:39:16.617595
 url: "/cdr-researcher-census/researchers/sana-rehman-a5101700/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Moritz Wagner"
 description: "Moritz Wagner is a Senior General CDR researcher at Hochschule Geisenheim University in DE. With 51 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.133021
+date: 2026-07-11T22:39:16.229674
 url: "/cdr-researcher-census/researchers/moritz-wagner-a5082155/"
 layout: "researcher"
 hiddenInHomeList: true

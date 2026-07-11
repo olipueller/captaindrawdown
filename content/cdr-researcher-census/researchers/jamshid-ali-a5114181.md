@@ -1,7 +1,7 @@
 ---
 title: "Jamshid Ali"
 description: "Jamshid Ali is a Mid-career Soil Carbon researcher at Beijing Forestry University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.307625
+date: 2026-07-11T22:39:17.225064
 url: "/cdr-researcher-census/researchers/jamshid-ali-a5114181/"
 layout: "researcher"
 hiddenInHomeList: true

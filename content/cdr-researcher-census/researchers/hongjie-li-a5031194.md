@@ -1,7 +1,7 @@
 ---
 title: "Hongjie Li"
-description: "Hongjie Li is a Mid-career Soil Carbon researcher at Qilu University of Technology in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.662744
+description: "Hongjie Li is a Mid-career Biochar researcher at Qilu University of Technology in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.750924
 url: "/cdr-researcher-census/researchers/hongjie-li-a5031194/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Qilu University of Technology · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

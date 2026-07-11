@@ -1,7 +1,7 @@
 ---
 title: "Daniel Burt"
 description: "Daniel Burt is an Early-career Ocean CDR researcher at Flanders Marine Institute in BE. With 12 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.637792
+date: 2026-07-11T22:39:17.559053
 url: "/cdr-researcher-census/researchers/daniel-burt-a5048967/"
 layout: "researcher"
 hiddenInHomeList: true

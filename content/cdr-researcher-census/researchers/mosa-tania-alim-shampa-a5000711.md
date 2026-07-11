@@ -1,7 +1,7 @@
 ---
 title: "Mosa. Tania Alim Shampa"
-description: "Mosa. Tania Alim Shampa is a Mid-career Soil Carbon researcher at University of Dhaka in BD. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.484182
+description: "Mosa. Tania Alim Shampa is a Mid-career Ocean CDR researcher at University of Dhaka in BD. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.408755
 url: "/cdr-researcher-census/researchers/mosa-tania-alim-shampa-a5000711/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ University of Dhaka · 🇧🇩 BD
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Ocean CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
 
 ## Metrics
 

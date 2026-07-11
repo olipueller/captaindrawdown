@@ -1,7 +1,7 @@
 ---
 title: "Yanyan Lu"
 description: "Yanyan Lu is a Senior Biochar researcher at Jiangsu University in CN. With 73 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.114779
+date: 2026-07-11T22:39:16.213564
 url: "/cdr-researcher-census/researchers/yanyan-lu-a5040574/"
 layout: "researcher"
 hiddenInHomeList: true

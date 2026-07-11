@@ -1,7 +1,7 @@
 ---
 title: "Carolyn‐Monika Görres"
-description: "Carolyn‐Monika Görres is a Mid-career Soil Carbon researcher at Hochschule Geisenheim University in DE. With 44 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.467352
+description: "Carolyn‐Monika Görres is a Mid-career Biochar researcher at Hochschule Geisenheim University in DE. With 44 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.561638
 url: "/cdr-researcher-census/researchers/carolynmonika-gorres-a5073000/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Hochschule Geisenheim University · 🇩🇪 DE
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

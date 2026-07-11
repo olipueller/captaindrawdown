@@ -1,7 +1,7 @@
 ---
 title: "Sahely Kanthal"
 description: "Sahely Kanthal is a Mid-career Soil Carbon researcher. With 35 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.225541
+date: 2026-07-11T22:39:17.142185
 url: "/cdr-researcher-census/researchers/sahely-kanthal-a5088400/"
 layout: "researcher"
 hiddenInHomeList: true

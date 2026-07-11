@@ -1,7 +1,7 @@
 ---
 title: "Carmen Salinas‐Salazar"
 description: "Carmen Salinas‐Salazar is a Senior General CDR researcher at Tecnológico de Monterrey in MX. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.367088
+date: 2026-07-11T22:39:16.458908
 url: "/cdr-researcher-census/researchers/carmen-salinassalazar-a5083468/"
 layout: "researcher"
 hiddenInHomeList: true

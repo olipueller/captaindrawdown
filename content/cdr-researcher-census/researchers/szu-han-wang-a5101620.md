@@ -1,7 +1,7 @@
 ---
 title: "Szu-Han Wang"
-description: "Szu-Han Wang is a Mid-career General CDR researcher at National Taiwan University in TW. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.530771
+description: "Szu-Han Wang is a Mid-career Biochar researcher at National Taiwan University in TW. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.624633
 url: "/cdr-researcher-census/researchers/szu-han-wang-a5101620/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ National Taiwan University · 🇹🇼 TW
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

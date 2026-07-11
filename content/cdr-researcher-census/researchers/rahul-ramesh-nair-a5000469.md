@@ -1,7 +1,7 @@
 ---
 title: "Rahul Ramesh Nair"
 description: "Rahul Ramesh Nair is a Mid-career Biochar researcher at Leibniz University Hannover in DE. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.583077
+date: 2026-07-11T22:39:16.675692
 url: "/cdr-researcher-census/researchers/rahul-ramesh-nair-a5000469/"
 layout: "researcher"
 hiddenInHomeList: true

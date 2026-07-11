@@ -1,7 +1,7 @@
 ---
 title: "Mohammed Ouikhalfan"
-description: "Mohammed Ouikhalfan is a Mid-career General CDR researcher at Université Mohammed VI Polytechnique in MA. With 16 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.338315
+description: "Mohammed Ouikhalfan is a Mid-career DAC researcher at Université Mohammed VI Polytechnique in MA. With 16 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.428162
 url: "/cdr-researcher-census/researchers/mohammed-ouikhalfan-a5044970/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Université Mohammed VI Polytechnique ·  MA
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "Komalkant Adlak"
-description: "Komalkant Adlak is a Mid-career Soil Carbon researcher at The Center For Rural Development in US. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.571849
+description: "Komalkant Adlak is a Mid-career Biochar researcher at The Center For Rural Development in US. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.663953
 url: "/cdr-researcher-census/researchers/komalkant-adlak-a5060125/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ The Center For Rural Development · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

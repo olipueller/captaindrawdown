@@ -1,7 +1,7 @@
 ---
 title: "Camila Negrete‐Vergara"
 description: "Camila Negrete‐Vergara is a Mid-career Biochar researcher at University of Bern in CH. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.510729
+date: 2026-07-11T22:39:17.435776
 url: "/cdr-researcher-census/researchers/camila-negretevergara-a5045317/"
 layout: "researcher"
 hiddenInHomeList: true

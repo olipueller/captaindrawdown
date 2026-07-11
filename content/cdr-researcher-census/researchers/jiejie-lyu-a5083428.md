@@ -1,7 +1,7 @@
 ---
 title: "Jiejie Lyu"
-description: "Jiejie Lyu is a Mid-career General CDR researcher at Fuyang Normal University in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.258929
+description: "Jiejie Lyu is a Mid-career Enhanced Weathering researcher at Fuyang Normal University in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.176649
 url: "/cdr-researcher-census/researchers/jiejie-lyu-a5083428/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Fuyang Normal University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

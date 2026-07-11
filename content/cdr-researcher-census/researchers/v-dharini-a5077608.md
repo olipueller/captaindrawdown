@@ -1,7 +1,7 @@
 ---
 title: "V. Dharini"
 description: "V. Dharini is a Mid-career Biochar researcher at SRM Institute of Science and Technology in IN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.883123
+date: 2026-07-11T22:39:16.973158
 url: "/cdr-researcher-census/researchers/v-dharini-a5077608/"
 layout: "researcher"
 hiddenInHomeList: true

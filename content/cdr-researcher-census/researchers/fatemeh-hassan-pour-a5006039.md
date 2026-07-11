@@ -1,7 +1,7 @@
 ---
 title: "Fatemeh Hassan Pour"
 description: "Fatemeh Hassan Pour is a Mid-career Biochar researcher at Lakehead University in CA. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.800404
+date: 2026-07-11T22:39:16.881217
 url: "/cdr-researcher-census/researchers/fatemeh-hassan-pour-a5006039/"
 layout: "researcher"
 hiddenInHomeList: true

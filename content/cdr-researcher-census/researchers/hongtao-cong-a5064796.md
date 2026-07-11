@@ -1,7 +1,7 @@
 ---
 title: "Hong‐Tao Cong"
 description: "Hong‐Tao Cong is a Senior Ocean CDR researcher at Xiamen University in CN. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.928469
+date: 2026-07-11T22:39:16.989113
 url: "/cdr-researcher-census/researchers/hongtao-cong-a5064796/"
 layout: "researcher"
 hiddenInHomeList: true

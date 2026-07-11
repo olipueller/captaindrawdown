@@ -1,7 +1,7 @@
 ---
 title: "Freydoon Vafaie"
-description: "Freydoon Vafaie is a Mid-career General CDR researcher at K.N.Toosi University of Technology in IR. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.646203
+description: "Freydoon Vafaie is a Mid-career Biochar researcher at K.N.Toosi University of Technology in IR. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.735773
 url: "/cdr-researcher-census/researchers/freydoon-vafaie-a5052407/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ K.N.Toosi University of Technology ·  IR
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

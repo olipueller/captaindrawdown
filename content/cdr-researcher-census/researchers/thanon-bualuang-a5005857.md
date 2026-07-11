@@ -1,7 +1,7 @@
 ---
 title: "Thanon Bualuang"
 description: "Thanon Bualuang is a Mid-career Biochar researcher at Mae Fah Luang University in TH. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.527923
+date: 2026-07-11T22:39:17.452387
 url: "/cdr-researcher-census/researchers/thanon-bualuang-a5005857/"
 layout: "researcher"
 hiddenInHomeList: true

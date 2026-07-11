@@ -1,7 +1,7 @@
 ---
 title: "G. Rathi Bhuvaneswari"
 description: "G. Rathi Bhuvaneswari is a Senior Soil Carbon researcher at Central Institute of Fisheries Education in IN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.884086
+date: 2026-07-11T22:39:16.974077
 url: "/cdr-researcher-census/researchers/g-rathi-bhuvaneswari-a5023422/"
 layout: "researcher"
 hiddenInHomeList: true

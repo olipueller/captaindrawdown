@@ -1,7 +1,7 @@
 ---
 title: "Enrica Allevato"
 description: "Enrica Allevato is a Mid-career Biochar researcher at University of Ferrara in IT. With 34 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.290943
+date: 2026-07-11T22:39:16.382079
 url: "/cdr-researcher-census/researchers/enrica-allevato-a5022590/"
 layout: "researcher"
 hiddenInHomeList: true

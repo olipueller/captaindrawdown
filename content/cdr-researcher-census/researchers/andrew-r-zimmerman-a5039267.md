@@ -1,7 +1,7 @@
 ---
 title: "Andrew R. Zimmerman"
 description: "Andrew R. Zimmerman is an Eminent Biochar researcher at University of Florida in US. With 233 publications and an h-index of 76, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:39.936781
+date: 2026-07-11T22:39:16.081044
 url: "/cdr-researcher-census/researchers/andrew-r-zimmerman-a5039267/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Meina Zhu"
 description: "Meina Zhu is a Senior Soil Carbon researcher at Wayne State College in US. With 102 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.085447
+date: 2026-07-11T22:39:16.187639
 url: "/cdr-researcher-census/researchers/meina-zhu-a5024999/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Chengde Sun"
 description: "Chengde Sun is a Mid-career General CDR researcher at Suzhou University of Science and Technology in CN. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.382546
+date: 2026-07-11T22:39:17.303174
 url: "/cdr-researcher-census/researchers/chengde-sun-a5114243/"
 layout: "researcher"
 hiddenInHomeList: true

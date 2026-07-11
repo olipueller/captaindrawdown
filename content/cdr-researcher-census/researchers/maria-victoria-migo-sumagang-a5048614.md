@@ -1,7 +1,7 @@
 ---
 title: "Maria Victoria Migo-Sumagang"
 description: "Maria Victoria Migo-Sumagang is a Mid-career General CDR researcher at University of the Philippines Los Baños in PH. With 35 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.571423
+date: 2026-07-11T22:39:16.663536
 url: "/cdr-researcher-census/researchers/maria-victoria-migo-sumagang-a5048614/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Masahiro Sugiyama"
 description: "Masahiro Sugiyama is a Senior General CDR researcher at University of Tokyo in JP. With 132 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.061680
+date: 2026-07-11T22:39:16.167016
 url: "/cdr-researcher-census/researchers/masahiro-sugiyama-a5064075/"
 layout: "researcher"
 hiddenInHomeList: true

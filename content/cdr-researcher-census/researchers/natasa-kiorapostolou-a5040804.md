@@ -1,7 +1,7 @@
 ---
 title: "Natasa Kiorapostolou"
 description: "Natasa Kiorapostolou is a Mid-career Soil Carbon researcher at Bridge University in SS. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.446300
+date: 2026-07-11T22:39:16.541097
 url: "/cdr-researcher-census/researchers/natasa-kiorapostolou-a5040804/"
 layout: "researcher"
 hiddenInHomeList: true

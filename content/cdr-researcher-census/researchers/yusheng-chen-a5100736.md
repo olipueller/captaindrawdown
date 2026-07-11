@@ -1,7 +1,7 @@
 ---
 title: "Yusheng Chen"
-description: "Yusheng Chen is a Mid-career General CDR researcher at National Taiwan University of Science and Technology in TW. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.654085
+description: "Yusheng Chen is a Mid-career DAC researcher at National Taiwan University of Science and Technology in TW. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.582583
 url: "/cdr-researcher-census/researchers/yusheng-chen-a5100736/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ National Taiwan University of Science and Technology · 🇹🇼 TW
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

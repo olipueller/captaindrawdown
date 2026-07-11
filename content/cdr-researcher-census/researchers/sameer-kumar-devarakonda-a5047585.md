@@ -1,7 +1,7 @@
 ---
 title: "Sameer Kumar Devarakonda"
 description: "Sameer Kumar Devarakonda is a Mid-career Biochar researcher at Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology in IN. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.318313
+date: 2026-07-11T22:39:17.235329
 url: "/cdr-researcher-census/researchers/sameer-kumar-devarakonda-a5047585/"
 layout: "researcher"
 hiddenInHomeList: true

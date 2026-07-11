@@ -1,7 +1,7 @@
 ---
 title: "Ying Wang"
 description: "Ying Wang is a Senior Soil Carbon researcher at Nanjing Agricultural University in CN. With 56 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.153961
+date: 2026-07-11T22:39:16.248932
 url: "/cdr-researcher-census/researchers/ying-wang-a5100347/"
 layout: "researcher"
 hiddenInHomeList: true

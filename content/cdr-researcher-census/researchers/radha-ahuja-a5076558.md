@@ -1,7 +1,7 @@
 ---
 title: "Radha Ahuja"
 description: "Radha Ahuja is a Mid-career Biochar researcher. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.691706
+date: 2026-07-11T22:39:16.776319
 url: "/cdr-researcher-census/researchers/radha-ahuja-a5076558/"
 layout: "researcher"
 hiddenInHomeList: true

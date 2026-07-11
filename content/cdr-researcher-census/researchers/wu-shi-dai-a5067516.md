@@ -1,7 +1,7 @@
 ---
 title: "WU Shi-dai"
 description: "WU Shi-dai is a Senior Soil Carbon researcher at Fujian Normal University in CN. With 37 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.407917
+date: 2026-07-11T22:39:16.501883
 url: "/cdr-researcher-census/researchers/wu-shi-dai-a5067516/"
 layout: "researcher"
 hiddenInHomeList: true

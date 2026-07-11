@@ -1,7 +1,7 @@
 ---
 title: "Danwyn J. Aranha"
-description: "Danwyn J. Aranha is an Early-career Biochar researcher at The Ohio State University in US. With 7 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.412902
+description: "Danwyn J. Aranha is an Early-career BECCS researcher at The Ohio State University in US. With 7 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.335422
 url: "/cdr-researcher-census/researchers/danwyn-j-aranha-a5027557/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ The Ohio State University · 🇺🇸 US
 
 ## CDR Specialization
 
-**Biochar**
+**BECCS**
 
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

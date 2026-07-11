@@ -1,7 +1,7 @@
 ---
 title: "Yurong Gao"
 description: "Yurong Gao is a Senior Biochar researcher at Chaohu University in CN. With 43 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.223062
+date: 2026-07-11T22:39:16.313721
 url: "/cdr-researcher-census/researchers/yurong-gao-a5100602/"
 layout: "researcher"
 hiddenInHomeList: true

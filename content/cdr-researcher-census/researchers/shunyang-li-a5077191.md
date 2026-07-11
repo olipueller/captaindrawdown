@@ -1,7 +1,7 @@
 ---
 title: "Shunyang Li"
 description: "Shunyang Li is a Mid-career Biochar researcher at Tongji University in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.056992
+date: 2026-07-11T22:39:17.048183
 url: "/cdr-researcher-census/researchers/shunyang-li-a5077191/"
 layout: "researcher"
 hiddenInHomeList: true

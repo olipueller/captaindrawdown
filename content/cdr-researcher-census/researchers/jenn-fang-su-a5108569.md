@@ -1,7 +1,7 @@
 ---
 title: "Jenn-Fang Su"
 description: "Jenn-Fang Su is a Senior Biochar researcher at Chang Gung University in TW. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.516391
+date: 2026-07-11T22:39:17.441396
 url: "/cdr-researcher-census/researchers/jenn-fang-su-a5108569/"
 layout: "researcher"
 hiddenInHomeList: true

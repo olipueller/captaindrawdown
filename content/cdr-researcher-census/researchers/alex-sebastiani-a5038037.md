@@ -1,7 +1,7 @@
 ---
 title: "Alex Sebastiani"
 description: "Alex Sebastiani is a Mid-career General CDR researcher at University College London in GB. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.702564
+date: 2026-07-11T22:39:16.785950
 url: "/cdr-researcher-census/researchers/alex-sebastiani-a5038037/"
 layout: "researcher"
 hiddenInHomeList: true

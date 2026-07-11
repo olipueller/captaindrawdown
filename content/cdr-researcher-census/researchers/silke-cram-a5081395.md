@@ -1,7 +1,7 @@
 ---
 title: "Silke Cram"
 description: "Silke Cram is a Senior Soil Carbon researcher at Universidad Nacional Autónoma de México in MX. With 56 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.276501
+date: 2026-07-11T22:39:16.366553
 url: "/cdr-researcher-census/researchers/silke-cram-a5081395/"
 layout: "researcher"
 hiddenInHomeList: true

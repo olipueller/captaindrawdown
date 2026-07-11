@@ -1,7 +1,7 @@
 ---
 title: "Xianyue Li"
-description: "Xianyue Li is a Mid-career Soil Carbon researcher at Shenyang Ligong University in CN. With 14 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.413403
+description: "Xianyue Li is a Mid-career Biochar researcher at Shenyang Ligong University in CN. With 14 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.507496
 url: "/cdr-researcher-census/researchers/xianyue-li-a5101765/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Shenyang Ligong University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

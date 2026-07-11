@@ -1,7 +1,7 @@
 ---
 title: "Fei Fei Chen"
-description: "Fei Fei Chen is a Senior General CDR researcher at Jeonju University in KR. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.758597
+description: "Fei Fei Chen is a Senior Enhanced Weathering researcher at Jeonju University in KR. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.839784
 url: "/cdr-researcher-census/researchers/fei-fei-chen-a5112724/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Jeonju University · 🇰🇷 KR
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

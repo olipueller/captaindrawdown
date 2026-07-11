@@ -1,7 +1,7 @@
 ---
 title: "Zixian Feng"
 description: "Zixian Feng is a Mid-career Soil Carbon researcher at Hunan Normal University in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.417256
+date: 2026-07-11T22:39:17.340288
 url: "/cdr-researcher-census/researchers/zixian-feng-a5025394/"
 layout: "researcher"
 hiddenInHomeList: true

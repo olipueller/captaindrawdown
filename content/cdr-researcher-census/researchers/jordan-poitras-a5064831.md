@@ -1,7 +1,7 @@
 ---
 title: "Jordan Poitras"
 description: "Jordan Poitras is a Mid-career Enhanced Weathering researcher. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.024858
+date: 2026-07-11T22:39:17.037652
 url: "/cdr-researcher-census/researchers/jordan-poitras-a5064831/"
 layout: "researcher"
 hiddenInHomeList: true

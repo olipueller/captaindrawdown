@@ -1,7 +1,7 @@
 ---
 title: "Gaurav Pant"
-description: "Gaurav Pant is a Mid-career General CDR researcher at Gurukul Kangri Vishwavidyalaya in IN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.302519
+description: "Gaurav Pant is a Mid-career Biochar researcher at Gurukul Kangri Vishwavidyalaya in IN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.219883
 url: "/cdr-researcher-census/researchers/gaurav-pant-a5036424/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Gurukul Kangri Vishwavidyalaya · 🇮🇳 IN
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

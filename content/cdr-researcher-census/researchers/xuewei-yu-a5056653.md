@@ -1,7 +1,7 @@
 ---
 title: "Xuewei Yu"
 description: "Xuewei Yu is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.951173
+date: 2026-07-11T22:39:17.003249
 url: "/cdr-researcher-census/researchers/xuewei-yu-a5056653/"
 layout: "researcher"
 hiddenInHomeList: true

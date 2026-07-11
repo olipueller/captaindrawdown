@@ -1,7 +1,7 @@
 ---
 title: "Arati Ray"
-description: "Arati Ray is an Early-career Soil Carbon researcher at Institute of Minerals and Materials Technology in IN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.325679
+description: "Arati Ray is an Early-career Biochar researcher at Institute of Minerals and Materials Technology in IN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.243083
 url: "/cdr-researcher-census/researchers/arati-ray-a5078573/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Institute of Minerals and Materials Technology · 🇮🇳 IN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

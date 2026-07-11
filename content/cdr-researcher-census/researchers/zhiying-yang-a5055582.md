@@ -1,7 +1,7 @@
 ---
 title: "Zhiying Yang"
 description: "Zhiying Yang is a Mid-career Soil Carbon researcher at Beijing Botanical Garden in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.488005
+date: 2026-07-11T22:39:17.412487
 url: "/cdr-researcher-census/researchers/zhiying-yang-a5055582/"
 layout: "researcher"
 hiddenInHomeList: true

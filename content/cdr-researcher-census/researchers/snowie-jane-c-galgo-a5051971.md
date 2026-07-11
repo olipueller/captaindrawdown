@@ -1,7 +1,7 @@
 ---
 title: "Snowie Jane C. Galgo"
 description: "Snowie Jane C. Galgo is a Mid-career Soil Carbon researcher. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.752058
+date: 2026-07-11T22:39:16.833539
 url: "/cdr-researcher-census/researchers/snowie-jane-c-galgo-a5051971/"
 layout: "researcher"
 hiddenInHomeList: true

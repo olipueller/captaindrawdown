@@ -1,7 +1,7 @@
 ---
 title: "Christian Dertmann"
 description: "Christian Dertmann is a Mid-career Enhanced Weathering researcher. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.581295
+date: 2026-07-11T22:39:16.673954
 url: "/cdr-researcher-census/researchers/christian-dertmann-a5001659/"
 layout: "researcher"
 hiddenInHomeList: true

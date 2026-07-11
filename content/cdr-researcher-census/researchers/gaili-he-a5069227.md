@@ -1,7 +1,7 @@
 ---
 title: "Gaili He"
 description: "Gaili He is a Mid-career Soil Carbon researcher at Ministry of Natural Resources in CN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.561929
+date: 2026-07-11T22:39:17.485034
 url: "/cdr-researcher-census/researchers/gaili-he-a5069227/"
 layout: "researcher"
 hiddenInHomeList: true

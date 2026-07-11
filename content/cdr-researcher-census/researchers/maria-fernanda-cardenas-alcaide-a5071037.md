@@ -1,7 +1,7 @@
 ---
 title: "María Fernanda Cárdenas-Alcaide"
 description: "María Fernanda Cárdenas-Alcaide is a Mid-career Biochar researcher at Tecnológico de Monterrey in MX. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.135306
+date: 2026-07-11T22:39:17.084611
 url: "/cdr-researcher-census/researchers/maria-fernanda-cardenas-alcaide-a5071037/"
 layout: "researcher"
 hiddenInHomeList: true

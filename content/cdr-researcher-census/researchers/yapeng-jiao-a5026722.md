@@ -1,7 +1,7 @@
 ---
 title: "Yapeng Jiao"
 description: "Yapeng Jiao is a Mid-career Soil Carbon researcher at Northwest A&F University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.684357
+date: 2026-07-11T22:39:16.770095
 url: "/cdr-researcher-census/researchers/yapeng-jiao-a5026722/"
 layout: "researcher"
 hiddenInHomeList: true

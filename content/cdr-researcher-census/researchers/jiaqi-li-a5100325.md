@@ -1,7 +1,7 @@
 ---
 title: "Jiaqi Li"
 description: "Jiaqi Li is a Mid-career Soil Carbon researcher at Ludong University in CN. With 39 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.882087
+date: 2026-07-11T22:39:16.972167
 url: "/cdr-researcher-census/researchers/jiaqi-li-a5100325/"
 layout: "researcher"
 hiddenInHomeList: true

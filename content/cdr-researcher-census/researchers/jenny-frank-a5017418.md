@@ -1,7 +1,7 @@
 ---
 title: "Jenny Frank"
-description: "Jenny Frank is a Mid-career General CDR researcher at Purchase College in US. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.354623
+description: "Jenny Frank is a Mid-career DAC researcher at Purchase College in US. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.273854
 url: "/cdr-researcher-census/researchers/jenny-frank-a5017418/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Purchase College · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

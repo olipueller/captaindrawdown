@@ -1,7 +1,7 @@
 ---
 title: "Manqian Wang"
 description: "Manqian Wang is a Mid-career Biochar researcher at Beijing Institute of Fashion Technology in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.834710
+date: 2026-07-11T22:39:16.911951
 url: "/cdr-researcher-census/researchers/manqian-wang-a5044448/"
 layout: "researcher"
 hiddenInHomeList: true

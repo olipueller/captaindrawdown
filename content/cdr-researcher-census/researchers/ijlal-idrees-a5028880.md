@@ -1,7 +1,7 @@
 ---
 title: "Ijlal Idrees"
 description: "Ijlal Idrees is a Mid-career Biochar researcher at COMSATS University Islamabad in PK. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.522004
+date: 2026-07-11T22:39:17.446906
 url: "/cdr-researcher-census/researchers/ijlal-idrees-a5028880/"
 layout: "researcher"
 hiddenInHomeList: true

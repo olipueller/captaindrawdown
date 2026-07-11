@@ -1,7 +1,7 @@
 ---
 title: "Priya P. Gurav"
 description: "Priya P. Gurav is a Mid-career Soil Carbon researcher at Central Research Institute for Dryland Agriculture in IN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.437278
+date: 2026-07-11T22:39:17.361049
 url: "/cdr-researcher-census/researchers/priya-p-gurav-a5109517/"
 layout: "researcher"
 hiddenInHomeList: true

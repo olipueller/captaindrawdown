@@ -1,7 +1,7 @@
 ---
 title: "Xiangzhou Yuan"
 description: "Xiangzhou Yuan is a Senior Biochar researcher at Southeast University in CN. With 119 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.004613
+date: 2026-07-11T22:39:16.120329
 url: "/cdr-researcher-census/researchers/xiangzhou-yuan-a5042621/"
 layout: "researcher"
 hiddenInHomeList: true

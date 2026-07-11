@@ -1,7 +1,7 @@
 ---
 title: "Leonardo Colelli"
 description: "Leonardo Colelli is a Mid-career General CDR researcher at Sapienza University of Rome in IT. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.313290
+date: 2026-07-11T22:39:17.230653
 url: "/cdr-researcher-census/researchers/leonardo-colelli-a5091964/"
 layout: "researcher"
 hiddenInHomeList: true

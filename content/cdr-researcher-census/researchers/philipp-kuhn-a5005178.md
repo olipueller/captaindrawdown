@@ -1,7 +1,7 @@
 ---
 title: "Philipp Kuhn"
 description: "Philipp Kuhn is a Senior General CDR researcher at LMU Klinikum in DE. With 31 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.436801
+date: 2026-07-11T22:39:16.531268
 url: "/cdr-researcher-census/researchers/philipp-kuhn-a5005178/"
 layout: "researcher"
 hiddenInHomeList: true

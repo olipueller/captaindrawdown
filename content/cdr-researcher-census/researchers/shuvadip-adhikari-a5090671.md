@@ -1,7 +1,7 @@
 ---
 title: "Shuvadip Adhikari"
 description: "Shuvadip Adhikari is a Mid-career Soil Carbon researcher at University of Burdwan in IN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.398903
+date: 2026-07-11T22:39:17.320937
 url: "/cdr-researcher-census/researchers/shuvadip-adhikari-a5090671/"
 layout: "researcher"
 hiddenInHomeList: true

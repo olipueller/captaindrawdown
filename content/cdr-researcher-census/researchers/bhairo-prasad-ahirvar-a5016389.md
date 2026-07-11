@@ -1,7 +1,7 @@
 ---
 title: "Bhairo Prasad Ahirvar"
 description: "Bhairo Prasad Ahirvar is a Mid-career Enhanced Weathering researcher at Indira Gandhi National Tribal University in IN. With 7 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.466002
+date: 2026-07-11T22:39:17.390300
 url: "/cdr-researcher-census/researchers/bhairo-prasad-ahirvar-a5016389/"
 layout: "researcher"
 hiddenInHomeList: true

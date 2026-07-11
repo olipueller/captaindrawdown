@@ -1,7 +1,7 @@
 ---
 title: "Pankaj Dahiya"
 description: "Pankaj Dahiya is a Mid-career General CDR researcher at Lovely Professional University in IN. With 38 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.547698
+date: 2026-07-11T22:39:16.640890
 url: "/cdr-researcher-census/researchers/pankaj-dahiya-a5067059/"
 layout: "researcher"
 hiddenInHomeList: true

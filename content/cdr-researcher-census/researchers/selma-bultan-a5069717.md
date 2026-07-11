@@ -1,7 +1,7 @@
 ---
 title: "Selma Bultan"
 description: "Selma Bultan is a Mid-career General CDR researcher at Ludwig-Maximilians-Universität München in DE. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.050616
+date: 2026-07-11T22:39:16.157437
 url: "/cdr-researcher-census/researchers/selma-bultan-a5069717/"
 layout: "researcher"
 hiddenInHomeList: true

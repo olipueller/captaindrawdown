@@ -1,7 +1,7 @@
 ---
 title: "Kwon Rausis"
-description: "Kwon Rausis is a Mid-career General CDR researcher at Trent University in CA. With 25 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.640800
+description: "Kwon Rausis is a Mid-career Enhanced Weathering researcher at Trent University in CA. With 25 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.730720
 url: "/cdr-researcher-census/researchers/kwon-rausis-a5026373/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Trent University · 🇨🇦 CA
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

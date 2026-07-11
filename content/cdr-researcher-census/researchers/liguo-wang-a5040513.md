@@ -1,7 +1,7 @@
 ---
 title: "Liguo Wang"
 description: "Liguo Wang is a Mid-career General CDR researcher at Dongbei University of Finance and Economics in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.511329
+date: 2026-07-11T22:39:17.436354
 url: "/cdr-researcher-census/researchers/liguo-wang-a5040513/"
 layout: "researcher"
 hiddenInHomeList: true

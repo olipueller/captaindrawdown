@@ -1,7 +1,7 @@
 ---
 title: "Ziba Fathi"
 description: "Ziba Fathi is a Mid-career Biochar researcher at Aalto University in FI. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.458338
+date: 2026-07-11T22:39:17.382812
 url: "/cdr-researcher-census/researchers/ziba-fathi-a5111363/"
 layout: "researcher"
 hiddenInHomeList: true

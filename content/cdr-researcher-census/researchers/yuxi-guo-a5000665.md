@@ -1,7 +1,7 @@
 ---
 title: "Yuxi Guo"
 description: "Yuxi Guo is a Mid-career Soil Carbon researcher at University of Florida in US. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.360861
+date: 2026-07-11T22:39:17.279647
 url: "/cdr-researcher-census/researchers/yuxi-guo-a5000665/"
 layout: "researcher"
 hiddenInHomeList: true

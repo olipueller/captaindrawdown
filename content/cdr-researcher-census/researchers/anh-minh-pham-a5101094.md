@@ -1,7 +1,7 @@
 ---
 title: "Anh Minh Pham"
-description: "Anh Minh Pham is a Senior Soil Carbon researcher at Hanoi National University of Education in VN. With 6 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.606230
+description: "Anh Minh Pham is a Senior Enhanced Weathering researcher at Hanoi National University of Education in VN. With 6 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.525912
 url: "/cdr-researcher-census/researchers/anh-minh-pham-a5101094/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Hanoi National University of Education · 🇻🇳 VN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Enhanced Weathering**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

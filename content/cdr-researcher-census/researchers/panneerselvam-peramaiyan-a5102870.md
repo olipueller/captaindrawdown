@@ -1,7 +1,7 @@
 ---
 title: "Panneerselvam Peramaiyan"
 description: "Panneerselvam Peramaiyan is a Mid-career Soil Carbon researcher at International Life Sciences Institute India in IN. With 55 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.063035
+date: 2026-07-11T22:39:17.053172
 url: "/cdr-researcher-census/researchers/panneerselvam-peramaiyan-a5102870/"
 layout: "researcher"
 hiddenInHomeList: true

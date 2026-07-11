@@ -1,7 +1,7 @@
 ---
 title: "María González‐Hourcade"
 description: "María González‐Hourcade is a Mid-career Biochar researcher at Swedish University of Agricultural Sciences in ES. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.822364
+date: 2026-07-11T22:39:16.900307
 url: "/cdr-researcher-census/researchers/maria-gonzalezhourcade-a5082656/"
 layout: "researcher"
 hiddenInHomeList: true

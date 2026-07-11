@@ -1,7 +1,7 @@
 ---
 title: "Mauro Zampilli"
-description: "Mauro Zampilli is a Mid-career General CDR researcher at University of Perugia in IT. With 31 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.511479
+description: "Mauro Zampilli is a Mid-career BECCS researcher at University of Perugia in IT. With 31 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.605893
 url: "/cdr-researcher-census/researchers/mauro-zampilli-a5040458/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Perugia · 🇮🇹 IT
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

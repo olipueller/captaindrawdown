@@ -1,7 +1,7 @@
 ---
 title: "Qiang Lyu"
 description: "Qiang Lyu is a Mid-career BECCS researcher at China Automotive Engineering Research Institute in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.585366
+date: 2026-07-11T22:39:16.678036
 url: "/cdr-researcher-census/researchers/qiang-lyu-a5018097/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Abdellatif Selmi"
-description: "Abdellatif Selmi is a Mid-career General CDR researcher at Prince Sattam Bin Abdulaziz University in SA. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.305500
+description: "Abdellatif Selmi is a Mid-career Biochar researcher at Prince Sattam Bin Abdulaziz University in SA. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.223030
 url: "/cdr-researcher-census/researchers/abdellatif-selmi-a5113063/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Prince Sattam Bin Abdulaziz University · 🇸🇦 SA
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

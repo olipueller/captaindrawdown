@@ -1,7 +1,7 @@
 ---
 title: "Yihong Tang"
 description: "Yihong Tang is a Senior Biochar researcher at Hong Kong University of Science and Technology in HK. With 51 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.200606
+date: 2026-07-11T22:39:16.293045
 url: "/cdr-researcher-census/researchers/yihong-tang-a5066451/"
 layout: "researcher"
 hiddenInHomeList: true

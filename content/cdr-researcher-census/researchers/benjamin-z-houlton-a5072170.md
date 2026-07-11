@@ -1,7 +1,7 @@
 ---
 title: "Benjamin Z. Houlton"
-description: "Benjamin Z. Houlton is an Eminent General CDR researcher at Cornell University in US. With 209 publications and an h-index of 44, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:39.961274
+description: "Benjamin Z. Houlton is an Eminent Enhanced Weathering researcher at Cornell University in US. With 209 publications and an h-index of 44, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.090084
 url: "/cdr-researcher-census/researchers/benjamin-z-houlton-a5072170/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Cornell University · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

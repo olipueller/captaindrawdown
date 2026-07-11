@@ -1,7 +1,7 @@
 ---
 title: "Renjie Niu"
 description: "Renjie Niu is a Mid-career Biochar researcher at Central South University in CN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.929461
+date: 2026-07-11T22:39:16.989881
 url: "/cdr-researcher-census/researchers/renjie-niu-a5080227/"
 layout: "researcher"
 hiddenInHomeList: true

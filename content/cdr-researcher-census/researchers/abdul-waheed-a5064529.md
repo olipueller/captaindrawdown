@@ -1,7 +1,7 @@
 ---
 title: "Abdul Waheed"
-description: "Abdul Waheed is a Mid-career Soil Carbon researcher. With 49 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.244959
+description: "Abdul Waheed is a Mid-career Biochar researcher. With 49 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.335475
 url: "/cdr-researcher-census/researchers/abdul-waheed-a5064529/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,9 +26,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

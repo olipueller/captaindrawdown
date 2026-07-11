@@ -1,7 +1,7 @@
 ---
 title: "Xu MingGang"
 description: "Xu MingGang is a Senior Soil Carbon researcher at North China University of Technology in CN. With 54 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.622861
+date: 2026-07-11T22:39:16.714038
 url: "/cdr-researcher-census/researchers/xu-minggang-a5103343/"
 layout: "researcher"
 hiddenInHomeList: true

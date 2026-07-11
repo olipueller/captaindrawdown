@@ -1,7 +1,7 @@
 ---
 title: "C. Cordovil"
 description: "C. Cordovil is a Mid-career Biochar researcher at University of Lisbon in PT. With 27 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.561205
+date: 2026-07-11T22:39:16.653893
 url: "/cdr-researcher-census/researchers/c-cordovil-a5064869/"
 layout: "researcher"
 hiddenInHomeList: true

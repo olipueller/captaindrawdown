@@ -1,7 +1,7 @@
 ---
 title: "Ying Liu"
-description: "Ying Liu is a Senior Soil Carbon researcher at Jinan University in CN. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.405301
+description: "Ying Liu is a Senior Biochar researcher at Jinan University in CN. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.499435
 url: "/cdr-researcher-census/researchers/ying-liu-a5100414/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Jinan University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

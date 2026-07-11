@@ -1,7 +1,7 @@
 ---
 title: "Adam Comeau"
 description: "Adam Comeau is a Senior Ocean CDR researcher. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.318413
+date: 2026-07-11T22:39:17.235459
 url: "/cdr-researcher-census/researchers/adam-comeau-a5045885/"
 layout: "researcher"
 hiddenInHomeList: true

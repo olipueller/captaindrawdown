@@ -1,7 +1,7 @@
 ---
 title: "Chengyang Li"
 description: "Chengyang Li is a Senior General CDR researcher at Chinese Academy of Sciences in CN. With 35 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.440241
+date: 2026-07-11T22:39:16.534898
 url: "/cdr-researcher-census/researchers/chengyang-li-a5100646/"
 layout: "researcher"
 hiddenInHomeList: true

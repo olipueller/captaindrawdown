@@ -1,7 +1,7 @@
 ---
 title: "Sunanda Biswas"
 description: "Sunanda Biswas is a Senior Soil Carbon researcher at University College of Technology in CM. With 66 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.151599
+date: 2026-07-11T22:39:16.246982
 url: "/cdr-researcher-census/researchers/sunanda-biswas-a5102958/"
 layout: "researcher"
 hiddenInHomeList: true

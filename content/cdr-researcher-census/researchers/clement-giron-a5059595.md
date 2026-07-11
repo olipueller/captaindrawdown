@@ -1,7 +1,7 @@
 ---
 title: "Clément Giron"
 description: "Clément Giron is a Mid-career General CDR researcher. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.186570
+date: 2026-07-11T22:39:16.279927
 url: "/cdr-researcher-census/researchers/clement-giron-a5059595/"
 layout: "researcher"
 hiddenInHomeList: true

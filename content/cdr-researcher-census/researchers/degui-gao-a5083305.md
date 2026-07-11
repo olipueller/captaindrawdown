@@ -1,7 +1,7 @@
 ---
 title: "Degui Gao"
 description: "Degui Gao is a Mid-career Biochar researcher at Tsinghua University in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.889785
+date: 2026-07-11T22:39:16.979906
 url: "/cdr-researcher-census/researchers/degui-gao-a5083305/"
 layout: "researcher"
 hiddenInHomeList: true

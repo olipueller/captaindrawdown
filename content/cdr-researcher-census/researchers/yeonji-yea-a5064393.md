@@ -1,7 +1,7 @@
 ---
 title: "Yeonji Yea"
 description: "Yeonji Yea is a Mid-career Biochar researcher at Kyungpook National University in KR. With 20 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.281053
+date: 2026-07-11T22:39:16.371278
 url: "/cdr-researcher-census/researchers/yeonji-yea-a5064393/"
 layout: "researcher"
 hiddenInHomeList: true

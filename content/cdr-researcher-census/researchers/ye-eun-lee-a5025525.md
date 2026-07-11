@@ -1,7 +1,7 @@
 ---
 title: "Ye-Eun Lee"
 description: "Ye-Eun Lee is a Mid-career Biochar researcher. With 54 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.445137
+date: 2026-07-11T22:39:16.539893
 url: "/cdr-researcher-census/researchers/ye-eun-lee-a5025525/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mingjun Xie"
 description: "Mingjun Xie is a Mid-career Soil Carbon researcher at Gansu Agricultural University in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.314767
+date: 2026-07-11T22:39:17.231824
 url: "/cdr-researcher-census/researchers/mingjun-xie-a5102781/"
 layout: "researcher"
 hiddenInHomeList: true

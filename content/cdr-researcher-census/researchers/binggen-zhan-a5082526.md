@@ -1,7 +1,7 @@
 ---
 title: "Binggen Zhan"
 description: "Binggen Zhan is a Senior Biochar researcher at Hefei University of Technology in CN. With 93 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.227869
+date: 2026-07-11T22:39:16.318334
 url: "/cdr-researcher-census/researchers/binggen-zhan-a5082526/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Kunxian Tang"
-description: "Kunxian Tang is a Senior Ocean CDR researcher at Ministry of Natural Resources in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.947550
+description: "Kunxian Tang is a Senior Enhanced Weathering researcher at Ministry of Natural Resources in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.000135
 url: "/cdr-researcher-census/researchers/kunxian-tang-a5053566/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Ministry of Natural Resources · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Ocean CDR**
+**Enhanced Weathering**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "Licida M. Giuliani"
 description: "Licida M. Giuliani is a Mid-career Soil Carbon researcher at University of Aberdeen in GB. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.840417
+date: 2026-07-11T22:39:16.917634
 url: "/cdr-researcher-census/researchers/licida-m-giuliani-a5064810/"
 layout: "researcher"
 hiddenInHomeList: true

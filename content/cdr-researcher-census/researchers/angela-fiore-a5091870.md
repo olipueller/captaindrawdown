@@ -1,7 +1,7 @@
 ---
 title: "Angela Fiore"
 description: "Angela Fiore is a Senior Soil Carbon researcher at Istituto Superiore per la Protezione e la Ricerca Ambientale in IT. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.300359
+date: 2026-07-11T22:39:17.217481
 url: "/cdr-researcher-census/researchers/angela-fiore-a5091870/"
 layout: "researcher"
 hiddenInHomeList: true

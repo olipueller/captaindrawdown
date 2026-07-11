@@ -1,7 +1,7 @@
 ---
 title: "Jinlong He"
 description: "Jinlong He is a Mid-career Biochar researcher at Sinopec (China) in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.468305
+date: 2026-07-11T22:39:16.562614
 url: "/cdr-researcher-census/researchers/jinlong-he-a5113034/"
 layout: "researcher"
 hiddenInHomeList: true

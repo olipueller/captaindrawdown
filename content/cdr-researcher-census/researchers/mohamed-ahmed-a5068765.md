@@ -1,7 +1,7 @@
 ---
 title: "Mohamed Ahmed"
 description: "Mohamed Ahmed is a Senior General CDR researcher at University of Calgary in CA. With 57 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.467674
+date: 2026-07-11T22:39:16.561963
 url: "/cdr-researcher-census/researchers/mohamed-ahmed-a5068765/"
 layout: "researcher"
 hiddenInHomeList: true

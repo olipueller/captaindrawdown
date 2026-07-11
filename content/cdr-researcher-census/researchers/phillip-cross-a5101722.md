@@ -1,7 +1,7 @@
 ---
 title: "Phillip Cross"
-description: "Phillip Cross is a Senior General CDR researcher at 8 Rivers Capital (United States) in US. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.625766
+description: "Phillip Cross is a Senior DAC researcher at 8 Rivers Capital (United States) in US. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.716700
 url: "/cdr-researcher-census/researchers/phillip-cross-a5101722/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

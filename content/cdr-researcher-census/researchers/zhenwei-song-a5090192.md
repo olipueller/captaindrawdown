@@ -1,7 +1,7 @@
 ---
 title: "Zhenwei Song"
 description: "Zhenwei Song is a Senior Soil Carbon researcher at Institute of Crop Sciences, Chinese Academy of Agricultural Sciences in CN. With 108 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.040026
+date: 2026-07-11T22:39:16.147958
 url: "/cdr-researcher-census/researchers/zhenwei-song-a5090192/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Rafidah Husen"
-description: "Rafidah Husen is a Senior General CDR researcher at Universiti Malaysia Sarawak in MY. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.531351
+description: "Rafidah Husen is a Senior Biochar researcher at Universiti Malaysia Sarawak in MY. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.625213
 url: "/cdr-researcher-census/researchers/rafidah-husen-a5008541/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Universiti Malaysia Sarawak · 🇲🇾 MY
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

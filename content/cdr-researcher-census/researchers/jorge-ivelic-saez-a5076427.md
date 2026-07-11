@@ -1,7 +1,7 @@
 ---
 title: "Jorge Ivelic-Sáez"
 description: "Jorge Ivelic-Sáez is a Mid-career Soil Carbon researcher at Austral University of Chile in CL. With 35 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.030017
+date: 2026-07-11T22:39:17.039383
 url: "/cdr-researcher-census/researchers/jorge-ivelic-saez-a5076427/"
 layout: "researcher"
 hiddenInHomeList: true

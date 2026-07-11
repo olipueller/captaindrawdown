@@ -1,7 +1,7 @@
 ---
 title: "Virpi Junttila"
-description: "Virpi Junttila is a Senior Soil Carbon researcher at Finnish Environment Institute in FI. With 38 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.469825
+description: "Virpi Junttila is a Senior BECCS researcher at Finnish Environment Institute in FI. With 38 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.564333
 url: "/cdr-researcher-census/researchers/virpi-junttila-a5071231/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Finnish Environment Institute ·  FI
 
 ## CDR Specialization
 
-**Soil Carbon**
+**BECCS**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "Shuwei Fang"
 description: "Shuwei Fang is a Senior Biochar researcher. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.630601
+date: 2026-07-11T22:39:17.549879
 url: "/cdr-researcher-census/researchers/shuwei-fang-a5029177/"
 layout: "researcher"
 hiddenInHomeList: true

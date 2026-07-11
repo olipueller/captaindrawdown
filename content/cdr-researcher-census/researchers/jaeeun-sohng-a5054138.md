@@ -1,7 +1,7 @@
 ---
 title: "Jaeeun Sohng"
 description: "Jaeeun Sohng is a Mid-career Enhanced Weathering researcher at University of California, Davis in US. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.014067
+date: 2026-07-11T22:39:17.032911
 url: "/cdr-researcher-census/researchers/jaeeun-sohng-a5054138/"
 layout: "researcher"
 hiddenInHomeList: true

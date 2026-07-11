@@ -1,7 +1,7 @@
 ---
 title: "Danny Otto"
 description: "Danny Otto is a Mid-career General CDR researcher. With 44 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.571557
+date: 2026-07-11T22:39:16.663670
 url: "/cdr-researcher-census/researchers/danny-otto-a5034418/"
 layout: "researcher"
 hiddenInHomeList: true

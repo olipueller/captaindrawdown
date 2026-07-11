@@ -1,7 +1,7 @@
 ---
 title: "Chengfang Li"
 description: "Chengfang Li is a Senior Soil Carbon researcher at College of Plant Science and Technology in CN. With 135 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.053200
+date: 2026-07-11T22:39:16.159701
 url: "/cdr-researcher-census/researchers/chengfang-li-a5101811/"
 layout: "researcher"
 hiddenInHomeList: true

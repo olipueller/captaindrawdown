@@ -1,7 +1,7 @@
 ---
 title: "Xiaodong Nie"
 description: "Xiaodong Nie is a Senior Soil Carbon researcher at China University of Mining and Technology in CN. With 109 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.012050
+date: 2026-07-11T22:39:16.126228
 url: "/cdr-researcher-census/researchers/xiaodong-nie-a5101202/"
 layout: "researcher"
 hiddenInHomeList: true

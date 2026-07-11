@@ -1,7 +1,7 @@
 ---
 title: "David Lefebvre"
-description: "David Lefebvre is a Mid-career General CDR researcher at University of British Columbia in CA. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.378829
+description: "David Lefebvre is a Mid-career Biochar researcher at University of British Columbia in CA. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.471362
 url: "/cdr-researcher-census/researchers/david-lefebvre-a5079413/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of British Columbia · 🇨🇦 CA
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

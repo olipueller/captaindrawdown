@@ -1,7 +1,7 @@
 ---
 title: "Junkang Guo"
 description: "Junkang Guo is an Eminent Biochar researcher at Xi'an Jiaotong University in CN. With 121 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.017811
+date: 2026-07-11T22:39:16.130299
 url: "/cdr-researcher-census/researchers/junkang-guo-a5110599/"
 layout: "researcher"
 hiddenInHomeList: true

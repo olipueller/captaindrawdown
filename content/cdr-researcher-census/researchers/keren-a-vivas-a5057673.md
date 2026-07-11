@@ -1,7 +1,7 @@
 ---
 title: "Keren A. Vivas"
-description: "Keren A. Vivas is a Mid-career Soil Carbon researcher at North Carolina State University in US. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.725820
+description: "Keren A. Vivas is a Mid-career BECCS researcher at North Carolina State University in US. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.808487
 url: "/cdr-researcher-census/researchers/keren-a-vivas-a5057673/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ North Carolina State University · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**BECCS**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

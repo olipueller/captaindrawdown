@@ -1,7 +1,7 @@
 ---
 title: "Shelby C. McClelland"
 description: "Shelby C. McClelland is a Senior Soil Carbon researcher at Stony Brook University in US. With 39 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.125632
+date: 2026-07-11T22:39:16.223507
 url: "/cdr-researcher-census/researchers/shelby-c-mcclelland-a5043807/"
 layout: "researcher"
 hiddenInHomeList: true

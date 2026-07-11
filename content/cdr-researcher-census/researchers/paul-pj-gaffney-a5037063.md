@@ -1,7 +1,7 @@
 ---
 title: "Paul P.J. Gaffney"
 description: "Paul P.J. Gaffney is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 54 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.376707
+date: 2026-07-11T22:39:16.469002
 url: "/cdr-researcher-census/researchers/paul-pj-gaffney-a5037063/"
 layout: "researcher"
 hiddenInHomeList: true

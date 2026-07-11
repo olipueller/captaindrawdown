@@ -1,7 +1,7 @@
 ---
 title: "A. R. Chichaghare"
 description: "A. R. Chichaghare is a Mid-career Soil Carbon researcher. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.379805
+date: 2026-07-11T22:39:16.472268
 url: "/cdr-researcher-census/researchers/a-r-chichaghare-a5082976/"
 layout: "researcher"
 hiddenInHomeList: true

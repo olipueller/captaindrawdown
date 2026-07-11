@@ -1,7 +1,7 @@
 ---
 title: "Matteo Bosaro"
 description: "Matteo Bosaro is a Mid-career Biochar researcher at Novatea (Italy) in IT. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.486914
+date: 2026-07-11T22:39:17.411304
 url: "/cdr-researcher-census/researchers/matteo-bosaro-a5090323/"
 layout: "researcher"
 hiddenInHomeList: true

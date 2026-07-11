@@ -1,7 +1,7 @@
 ---
 title: "Kay Khine Soe"
-description: "Kay Khine Soe is a Mid-career Soil Carbon researcher at College of Micronesia-FSM in FM. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.404185
+description: "Kay Khine Soe is a Mid-career Ocean CDR researcher at College of Micronesia-FSM in FM. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.326533
 url: "/cdr-researcher-census/researchers/kay-khine-soe-a5061974/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ College of Micronesia-FSM ·  FM
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Ocean CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
 
 ## Metrics
 

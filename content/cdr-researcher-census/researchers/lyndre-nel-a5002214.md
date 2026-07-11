@@ -1,7 +1,7 @@
 ---
 title: "Lyndré Nel"
 description: "Lyndré Nel is a Senior Soil Carbon researcher at Magyar Agrár- és Élettudományi Egyetem in HU. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.644210
+date: 2026-07-11T22:39:17.567753
 url: "/cdr-researcher-census/researchers/lyndre-nel-a5002214/"
 layout: "researcher"
 hiddenInHomeList: true

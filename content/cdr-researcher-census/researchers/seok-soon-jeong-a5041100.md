@@ -1,7 +1,7 @@
 ---
 title: "Seok Soon Jeong"
-description: "Seok Soon Jeong is a Mid-career Soil Carbon researcher at Kangwon National University in KR. With 22 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.635832
+description: "Seok Soon Jeong is a Mid-career Enhanced Weathering researcher at Kangwon National University in KR. With 22 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.556949
 url: "/cdr-researcher-census/researchers/seok-soon-jeong-a5041100/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Kangwon National University · 🇰🇷 KR
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Enhanced Weathering**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

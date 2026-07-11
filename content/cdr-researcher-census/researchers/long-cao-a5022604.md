@@ -1,7 +1,7 @@
 ---
 title: "Long Cao"
 description: "Long Cao is a Senior General CDR researcher at Soochow University in CN. With 158 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:39.985059
+date: 2026-07-11T22:39:16.104761
 url: "/cdr-researcher-census/researchers/long-cao-a5022604/"
 layout: "researcher"
 hiddenInHomeList: true

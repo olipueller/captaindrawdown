@@ -1,7 +1,7 @@
 ---
 title: "Coline Le Noir de Carlan"
-description: "Coline Le Noir de Carlan is a Mid-career Soil Carbon researcher at University of Antwerp in BE. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.581400
+description: "Coline Le Noir de Carlan is a Mid-career Enhanced Weathering researcher at University of Antwerp in BE. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.674051
 url: "/cdr-researcher-census/researchers/coline-le-noir-de-carlan-a5081680/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Antwerp · 🇧🇪 BE
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Enhanced Weathering**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

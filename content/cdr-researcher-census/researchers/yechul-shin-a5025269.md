@@ -1,7 +1,7 @@
 ---
 title: "Yechul Shin"
 description: "Yechul Shin is a Mid-career General CDR researcher at Seoul National University in KR. With 55 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.460602
+date: 2026-07-11T22:39:16.554967
 url: "/cdr-researcher-census/researchers/yechul-shin-a5025269/"
 layout: "researcher"
 hiddenInHomeList: true

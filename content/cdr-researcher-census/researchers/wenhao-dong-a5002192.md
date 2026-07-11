@@ -1,7 +1,7 @@
 ---
 title: "Wenhao Dong"
 description: "Wenhao Dong is a Mid-career General CDR researcher at Nanjing University of Chinese Medicine in CN. With 46 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.632530
+date: 2026-07-11T22:39:16.723204
 url: "/cdr-researcher-census/researchers/wenhao-dong-a5002192/"
 layout: "researcher"
 hiddenInHomeList: true

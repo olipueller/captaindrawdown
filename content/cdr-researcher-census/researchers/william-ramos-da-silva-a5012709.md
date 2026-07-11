@@ -1,7 +1,7 @@
 ---
 title: "William Ramos da Silva"
 description: "William Ramos da Silva is a Mid-career Soil Carbon researcher at Universidade Federal Rural de Pernambuco in BR. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.872297
+date: 2026-07-11T22:39:16.962076
 url: "/cdr-researcher-census/researchers/william-ramos-da-silva-a5012709/"
 layout: "researcher"
 hiddenInHomeList: true

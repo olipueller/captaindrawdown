@@ -1,7 +1,7 @@
 ---
 title: "Chenglong Yu"
 description: "Chenglong Yu is a Mid-career Biochar researcher at Central South University in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.082211
+date: 2026-07-11T22:39:17.058983
 url: "/cdr-researcher-census/researchers/chenglong-yu-a5019026/"
 layout: "researcher"
 hiddenInHomeList: true

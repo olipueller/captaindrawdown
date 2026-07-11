@@ -1,7 +1,7 @@
 ---
 title: "Melani Cortijos‐López"
 description: "Melani Cortijos‐López is a Mid-career Soil Carbon researcher at Instituto Pirenaico de Ecología in ES. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.425729
+date: 2026-07-11T22:39:17.349540
 url: "/cdr-researcher-census/researchers/melani-cortijoslopez-a5047443/"
 layout: "researcher"
 hiddenInHomeList: true

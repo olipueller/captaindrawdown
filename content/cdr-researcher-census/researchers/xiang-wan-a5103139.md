@@ -1,7 +1,7 @@
 ---
 title: "Xiang Wan"
-description: "Xiang Wan is a Mid-career Ocean CDR researcher at Huazhong Agricultural University in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.259986
+description: "Xiang Wan is a Mid-career DAC researcher at Huazhong Agricultural University in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.177622
 url: "/cdr-researcher-census/researchers/xiang-wan-a5103139/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Huazhong Agricultural University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Ocean CDR**
+**DAC**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

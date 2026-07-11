@@ -1,7 +1,7 @@
 ---
 title: "Amir Behzad Bazrgar"
 description: "Amir Behzad Bazrgar is a Mid-career Soil Carbon researcher at University of Guelph in CA. With 25 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.284038
+date: 2026-07-11T22:39:17.201226
 url: "/cdr-researcher-census/researchers/amir-behzad-bazrgar-a5049062/"
 layout: "researcher"
 hiddenInHomeList: true

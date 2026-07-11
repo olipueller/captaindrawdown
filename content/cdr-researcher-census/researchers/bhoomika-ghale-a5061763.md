@@ -1,7 +1,7 @@
 ---
 title: "Bhoomika Ghale"
 description: "Bhoomika Ghale is a Mid-career Soil Carbon researcher at Forest Research Institute in IN. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.644109
+date: 2026-07-11T22:39:17.567637
 url: "/cdr-researcher-census/researchers/bhoomika-ghale-a5061763/"
 layout: "researcher"
 hiddenInHomeList: true

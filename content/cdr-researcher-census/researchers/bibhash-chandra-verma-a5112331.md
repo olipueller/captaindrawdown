@@ -1,7 +1,7 @@
 ---
 title: "Bibhash Chandra Verma"
-description: "Bibhash Chandra Verma is a Senior Soil Carbon researcher at Indian Institute of Rice Research in IN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.566112
+description: "Bibhash Chandra Verma is a Senior Biochar researcher at Indian Institute of Rice Research in IN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.658613
 url: "/cdr-researcher-census/researchers/bibhash-chandra-verma-a5112331/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Indian Institute of Rice Research · 🇮🇳 IN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

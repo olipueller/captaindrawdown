@@ -1,7 +1,7 @@
 ---
 title: "Xiaozeng Han"
 description: "Xiaozeng Han is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 94 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.041631
+date: 2026-07-11T22:39:16.149283
 url: "/cdr-researcher-census/researchers/xiaozeng-han-a5104005/"
 layout: "researcher"
 hiddenInHomeList: true

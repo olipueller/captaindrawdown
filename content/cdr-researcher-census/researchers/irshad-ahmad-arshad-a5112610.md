@@ -1,7 +1,7 @@
 ---
 title: "Irshad Ahmad Arshad"
 description: "Irshad Ahmad Arshad is a Mid-career Soil Carbon researcher at Allama Iqbal Open University in PK. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.506046
+date: 2026-07-11T22:39:17.431214
 url: "/cdr-researcher-census/researchers/irshad-ahmad-arshad-a5112610/"
 layout: "researcher"
 hiddenInHomeList: true

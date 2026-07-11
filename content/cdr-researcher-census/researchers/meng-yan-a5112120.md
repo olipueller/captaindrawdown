@@ -1,7 +1,7 @@
 ---
 title: "Meng Yan"
 description: "Meng Yan is a Senior Soil Carbon researcher at Chinese Academy of Medical Sciences & Peking Union Medical College in CN. With 26 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.730116
+date: 2026-07-11T22:39:16.812559
 url: "/cdr-researcher-census/researchers/meng-yan-a5112120/"
 layout: "researcher"
 hiddenInHomeList: true

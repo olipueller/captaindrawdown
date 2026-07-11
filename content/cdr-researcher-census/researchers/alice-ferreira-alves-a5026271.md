@@ -1,7 +1,7 @@
 ---
 title: "Alice Ferreira Alves"
 description: "Alice Ferreira Alves is a Mid-career Soil Carbon researcher at Universidade de São Paulo Escola Superior de Agricultura Luiz de Queiroz in BR. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.600253
+date: 2026-07-11T22:39:17.520854
 url: "/cdr-researcher-census/researchers/alice-ferreira-alves-a5026271/"
 layout: "researcher"
 hiddenInHomeList: true

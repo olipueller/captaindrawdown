@@ -1,7 +1,7 @@
 ---
 title: "Chih‐Hsin Cheng"
 description: "Chih‐Hsin Cheng is a Senior Soil Carbon researcher at National Taiwan University in TW. With 52 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.042492
+date: 2026-07-11T22:39:16.150433
 url: "/cdr-researcher-census/researchers/chihhsin-cheng-a5050544/"
 layout: "researcher"
 hiddenInHomeList: true

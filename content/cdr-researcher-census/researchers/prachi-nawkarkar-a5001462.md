@@ -1,7 +1,7 @@
 ---
 title: "Prachi Nawkarkar"
 description: "Prachi Nawkarkar is a Mid-career General CDR researcher at International Centre for Genetic Engineering and Biotechnology in IN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.322020
+date: 2026-07-11T22:39:17.239373
 url: "/cdr-researcher-census/researchers/prachi-nawkarkar-a5001462/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Huifeng Sun"
 description: "Huifeng Sun is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 61 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.099453
+date: 2026-07-11T22:39:16.199177
 url: "/cdr-researcher-census/researchers/huifeng-sun-a5012245/"
 layout: "researcher"
 hiddenInHomeList: true

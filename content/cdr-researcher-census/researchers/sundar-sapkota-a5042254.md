@@ -1,7 +1,7 @@
 ---
 title: "Sundar Sapkota"
 description: "Sundar Sapkota is a Mid-career Soil Carbon researcher at New Mexico State University in US. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.620419
+date: 2026-07-11T22:39:16.711638
 url: "/cdr-researcher-census/researchers/sundar-sapkota-a5042254/"
 layout: "researcher"
 hiddenInHomeList: true

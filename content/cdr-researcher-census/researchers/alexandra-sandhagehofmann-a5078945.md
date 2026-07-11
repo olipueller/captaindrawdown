@@ -1,7 +1,7 @@
 ---
 title: "Alexandra Sandhage‐Hofmann"
 description: "Alexandra Sandhage‐Hofmann is a Senior Soil Carbon researcher at University of Bonn in DE. With 40 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.206271
+date: 2026-07-11T22:39:16.298401
 url: "/cdr-researcher-census/researchers/alexandra-sandhagehofmann-a5078945/"
 layout: "researcher"
 hiddenInHomeList: true

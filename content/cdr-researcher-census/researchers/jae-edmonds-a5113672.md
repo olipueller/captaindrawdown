@@ -1,7 +1,7 @@
 ---
 title: "JAE EDMONDS"
-description: "JAE EDMONDS is a Mid-career General CDR researcher at Joint Global Change Research Institute in US. With 7 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.491063
+description: "JAE EDMONDS is a Mid-career BECCS researcher at Joint Global Change Research Institute in US. With 7 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.415785
 url: "/cdr-researcher-census/researchers/jae-edmonds-a5113672/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Joint Global Change Research Institute · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

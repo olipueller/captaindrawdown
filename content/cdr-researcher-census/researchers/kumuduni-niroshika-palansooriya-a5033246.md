@@ -1,7 +1,7 @@
 ---
 title: "Kumuduni Niroshika Palansooriya"
 description: "Kumuduni Niroshika Palansooriya is a Senior Biochar researcher at University of Regina in CA. With 54 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:39.979614
+date: 2026-07-11T22:39:16.102023
 url: "/cdr-researcher-census/researchers/kumuduni-niroshika-palansooriya-a5033246/"
 layout: "researcher"
 hiddenInHomeList: true

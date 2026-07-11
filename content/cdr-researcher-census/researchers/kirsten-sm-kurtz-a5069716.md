@@ -1,7 +1,7 @@
 ---
 title: "Kirsten S.M. Kurtz"
 description: "Kirsten S.M. Kurtz is a Mid-career Soil Carbon researcher at Cornell University in US. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.328132
+date: 2026-07-11T22:39:16.417930
 url: "/cdr-researcher-census/researchers/kirsten-sm-kurtz-a5069716/"
 layout: "researcher"
 hiddenInHomeList: true

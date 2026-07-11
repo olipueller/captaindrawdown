@@ -1,7 +1,7 @@
 ---
 title: "Mehedi Amin"
-description: "Mehedi Amin is an Early-career Soil Carbon researcher at Sher-e-Bangla Agricultural University in BD. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.200561
+description: "Mehedi Amin is an Early-career Biochar researcher at Sher-e-Bangla Agricultural University in BD. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.118657
 url: "/cdr-researcher-census/researchers/mehedi-amin-a5101717/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Sher-e-Bangla Agricultural University · 🇧🇩 BD
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

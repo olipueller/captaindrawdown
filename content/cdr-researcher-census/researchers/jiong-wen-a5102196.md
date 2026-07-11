@@ -1,7 +1,7 @@
 ---
 title: "Jiong Wen"
 description: "Jiong Wen is a Senior Soil Carbon researcher at Anyang Academy of Agricultural Sciences in CN. With 36 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.486383
+date: 2026-07-11T22:39:16.580794
 url: "/cdr-researcher-census/researchers/jiong-wen-a5102196/"
 layout: "researcher"
 hiddenInHomeList: true

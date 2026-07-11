@@ -1,7 +1,7 @@
 ---
 title: "Erick O. Arwa"
-description: "Erick O. Arwa is a Mid-career General CDR researcher at Carleton University in CA. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.263589
+description: "Erick O. Arwa is a Mid-career DAC researcher at Carleton University in CA. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.181086
 url: "/cdr-researcher-census/researchers/erick-o-arwa-a5074083/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Carleton University · 🇨🇦 CA
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

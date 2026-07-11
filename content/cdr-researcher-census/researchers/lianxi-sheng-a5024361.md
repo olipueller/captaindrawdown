@@ -1,7 +1,7 @@
 ---
 title: "Lianxi Sheng"
 description: "Lianxi Sheng is a Senior Soil Carbon researcher at Northeast Normal University in CN. With 105 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.021066
+date: 2026-07-11T22:39:16.132694
 url: "/cdr-researcher-census/researchers/lianxi-sheng-a5024361/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "B. P. Meena"
 description: "B. P. Meena is a Mid-career Soil Carbon researcher at Indian Institute of Soil Science in IN. With 89 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.215620
+date: 2026-07-11T22:39:16.306686
 url: "/cdr-researcher-census/researchers/b-p-meena-a5044056/"
 layout: "researcher"
 hiddenInHomeList: true

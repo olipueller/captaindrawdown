@@ -1,7 +1,7 @@
 ---
 title: "Susmita Saha"
 description: "Susmita Saha is a Senior Soil Carbon researcher at Indian Institute of Technology Roorkee in IN. With 39 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.490345
+date: 2026-07-11T22:39:17.415022
 url: "/cdr-researcher-census/researchers/susmita-saha-a5101512/"
 layout: "researcher"
 hiddenInHomeList: true

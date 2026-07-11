@@ -1,7 +1,7 @@
 ---
 title: "Getachew Mulatu"
 description: "Getachew Mulatu is a Mid-career Soil Carbon researcher at Jimma University in ET. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.342291
+date: 2026-07-11T22:39:17.260077
 url: "/cdr-researcher-census/researchers/getachew-mulatu-a5073033/"
 layout: "researcher"
 hiddenInHomeList: true

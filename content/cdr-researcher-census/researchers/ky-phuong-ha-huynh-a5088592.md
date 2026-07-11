@@ -1,7 +1,7 @@
 ---
 title: "Ky-Phuong-Ha Huynh"
 description: "Ky-Phuong-Ha Huynh is a Mid-career Biochar researcher at Vietnam National University Ho Chi Minh City in VN. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.728390
+date: 2026-07-11T22:39:16.810871
 url: "/cdr-researcher-census/researchers/ky-phuong-ha-huynh-a5088592/"
 layout: "researcher"
 hiddenInHomeList: true

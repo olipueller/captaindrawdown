@@ -1,7 +1,7 @@
 ---
 title: "Aliya Naz"
 description: "Aliya Naz is a Mid-career Soil Carbon researcher at OP Jindal Global University in IN. With 47 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.244323
+date: 2026-07-11T22:39:16.334907
 url: "/cdr-researcher-census/researchers/aliya-naz-a5024916/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Naoya Takeda"
 description: "Naoya Takeda is a Mid-career Soil Carbon researcher at Queensland University of Technology in AU. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.279196
+date: 2026-07-11T22:39:17.196787
 url: "/cdr-researcher-census/researchers/naoya-takeda-a5072581/"
 layout: "researcher"
 hiddenInHomeList: true

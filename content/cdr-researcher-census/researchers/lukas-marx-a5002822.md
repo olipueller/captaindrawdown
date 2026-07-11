@@ -1,7 +1,7 @@
 ---
 title: "Lukas Marx"
 description: "Lukas Marx is a Mid-career Ocean CDR researcher at Marine and Freshwater Research Institute in IS. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.526912
+date: 2026-07-11T22:39:17.451444
 url: "/cdr-researcher-census/researchers/lukas-marx-a5002822/"
 layout: "researcher"
 hiddenInHomeList: true

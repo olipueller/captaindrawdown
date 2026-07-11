@@ -1,7 +1,7 @@
 ---
 title: "Yongcan Jiang"
 description: "Yongcan Jiang is a Mid-career Biochar researcher at PowerChina (China) in CN. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.836641
+date: 2026-07-11T22:39:16.913832
 url: "/cdr-researcher-census/researchers/yongcan-jiang-a5045362/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Johanna Hoppe"
 description: "Johanna Hoppe is an Early-career General CDR researcher at Leibniz Association in DE. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.451109
+date: 2026-07-11T22:39:17.375951
 url: "/cdr-researcher-census/researchers/johanna-hoppe-a5108609/"
 layout: "researcher"
 hiddenInHomeList: true

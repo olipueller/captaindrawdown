@@ -1,7 +1,7 @@
 ---
 title: "Andrés Carranza-Abaíd"
 description: "Andrés Carranza-Abaíd is a Mid-career Ocean CDR researcher at Equinor (Norway) in NO. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.317879
+date: 2026-07-11T22:39:17.234829
 url: "/cdr-researcher-census/researchers/andres-carranza-abaid-a5064650/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Martha Carlin"
-description: "Martha Carlin is a Mid-career Soil Carbon researcher at Australian National University in AU. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.188361
+description: "Martha Carlin is a Mid-career Ocean CDR researcher at Australian National University in AU. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.112586
 url: "/cdr-researcher-census/researchers/martha-carlin-a5009381/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Australian National University · 🇦🇺 AU
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Ocean CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
 
 ## Metrics
 

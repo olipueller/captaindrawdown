@@ -1,7 +1,7 @@
 ---
 title: "Yalong Liu"
 description: "Yalong Liu is a Mid-career Soil Carbon researcher at Shenyang Agricultural University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.239724
+date: 2026-07-11T22:39:17.156815
 url: "/cdr-researcher-census/researchers/yalong-liu-a5078130/"
 layout: "researcher"
 hiddenInHomeList: true

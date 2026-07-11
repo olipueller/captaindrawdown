@@ -1,7 +1,7 @@
 ---
 title: "Qian Ran"
 description: "Qian Ran is a Senior General CDR researcher at Shanghai Center for Brain Science and Brain-Inspired Technology in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.294838
+date: 2026-07-11T22:39:17.211939
 url: "/cdr-researcher-census/researchers/qian-ran-a5057366/"
 layout: "researcher"
 hiddenInHomeList: true

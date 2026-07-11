@@ -1,7 +1,7 @@
 ---
 title: "Cristina Antonini"
-description: "Cristina Antonini is a Mid-career General CDR researcher at ETH Zurich in CH. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.240485
+description: "Cristina Antonini is a Mid-career BECCS researcher at ETH Zurich in CH. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.331219
 url: "/cdr-researcher-census/researchers/cristina-antonini-a5017639/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ ETH Zurich · 🇨🇭 CH
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

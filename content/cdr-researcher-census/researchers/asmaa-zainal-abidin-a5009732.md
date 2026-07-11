@@ -1,7 +1,7 @@
 ---
 title: "Asmaa Zainal Abidin"
 description: "Asmaa Zainal Abidin is a Mid-career Biochar researcher at King Abdulaziz University in SA. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.782712
+date: 2026-07-11T22:39:16.863921
 url: "/cdr-researcher-census/researchers/asmaa-zainal-abidin-a5009732/"
 layout: "researcher"
 hiddenInHomeList: true

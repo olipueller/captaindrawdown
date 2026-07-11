@@ -1,7 +1,7 @@
 ---
 title: "Light I. Nwobia"
-description: "Light I. Nwobia is a Mid-career Soil Carbon researcher. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.140081
+description: "Light I. Nwobia is a Mid-career BECCS researcher. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.088703
 url: "/cdr-researcher-census/researchers/light-i-nwobia-a5060172/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**Soil Carbon**
+**BECCS**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

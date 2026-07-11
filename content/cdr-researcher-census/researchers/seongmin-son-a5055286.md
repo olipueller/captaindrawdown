@@ -1,7 +1,7 @@
 ---
 title: "Seongmin Son"
 description: "Seongmin Son is a Senior DAC researcher at Kyungpook National University - Sangju Campus in KR. With 66 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.211094
+date: 2026-07-11T22:39:16.302544
 url: "/cdr-researcher-census/researchers/seongmin-son-a5055286/"
 layout: "researcher"
 hiddenInHomeList: true

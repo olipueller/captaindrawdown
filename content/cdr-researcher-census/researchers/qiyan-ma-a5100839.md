@@ -1,7 +1,7 @@
 ---
 title: "Qiyan Ma"
 description: "Qiyan Ma is a Mid-career Biochar researcher at Beijing University of Chemical Technology in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.186867
+date: 2026-07-11T22:39:17.111299
 url: "/cdr-researcher-census/researchers/qiyan-ma-a5100839/"
 layout: "researcher"
 hiddenInHomeList: true

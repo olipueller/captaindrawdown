@@ -1,7 +1,7 @@
 ---
 title: "Stephanie M. Herbstritt"
-description: "Stephanie M. Herbstritt is a Mid-career Soil Carbon researcher at Pennsylvania State University in US. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.234261
+description: "Stephanie M. Herbstritt is a Mid-career BECCS researcher at Pennsylvania State University in US. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.151348
 url: "/cdr-researcher-census/researchers/stephanie-m-herbstritt-a5079216/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Pennsylvania State University · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**BECCS**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

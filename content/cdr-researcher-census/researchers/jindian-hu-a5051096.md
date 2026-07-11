@@ -1,7 +1,7 @@
 ---
 title: "Jindian Hu"
 description: "Jindian Hu is a Mid-career Soil Carbon researcher at Shanghai First Maternity and Infant Hospital in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.494268
+date: 2026-07-11T22:39:17.419221
 url: "/cdr-researcher-census/researchers/jindian-hu-a5051096/"
 layout: "researcher"
 hiddenInHomeList: true

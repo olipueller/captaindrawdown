@@ -1,7 +1,7 @@
 ---
 title: "Caio Fernandes Zani"
 description: "Caio Fernandes Zani is a Mid-career Soil Carbon researcher at UK Centre for Ecology & Hydrology in GB. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.165867
+date: 2026-07-11T22:39:17.100288
 url: "/cdr-researcher-census/researchers/caio-fernandes-zani-a5034795/"
 layout: "researcher"
 hiddenInHomeList: true

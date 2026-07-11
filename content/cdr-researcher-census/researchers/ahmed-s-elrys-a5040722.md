@@ -1,7 +1,7 @@
 ---
 title: "Ahmed S. Elrys"
 description: "Ahmed S. Elrys is a Mid-career Soil Carbon researcher at Zagazig University in EG. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.538241
+date: 2026-07-11T22:39:16.631545
 url: "/cdr-researcher-census/researchers/ahmed-s-elrys-a5040722/"
 layout: "researcher"
 hiddenInHomeList: true

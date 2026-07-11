@@ -1,7 +1,7 @@
 ---
 title: "Pengzhen Duan"
 description: "Pengzhen Duan is a Mid-career Enhanced Weathering researcher at Research Institute of Petroleum Exploration and Development in CN. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.322754
+date: 2026-07-11T22:39:17.240003
 url: "/cdr-researcher-census/researchers/pengzhen-duan-a5071740/"
 layout: "researcher"
 hiddenInHomeList: true

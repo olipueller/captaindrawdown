@@ -1,7 +1,7 @@
 ---
 title: "Julie Shahan"
-description: "Julie Shahan is a Mid-career Soil Carbon researcher at Stanford University in US. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.334415
+description: "Julie Shahan is a Mid-career Ocean CDR researcher at Stanford University in US. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.251900
 url: "/cdr-researcher-census/researchers/julie-shahan-a5051293/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Stanford University · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Ocean CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
 
 ## Metrics
 

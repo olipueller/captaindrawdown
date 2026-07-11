@@ -1,7 +1,7 @@
 ---
 title: "Wei Zhang"
 description: "Wei Zhang is an Eminent Soil Carbon researcher at Shihezi University in CN. With 240 publications and an h-index of 49, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:39.981302
+date: 2026-07-11T22:39:16.102707
 url: "/cdr-researcher-census/researchers/wei-zhang-a5091025/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "DU Minghui"
-description: "DU Minghui is a Mid-career Soil Carbon researcher at East China Normal University in CN. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.592371
+description: "DU Minghui is a Mid-career Ocean CDR researcher at East China Normal University in CN. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.513329
 url: "/cdr-researcher-census/researchers/du-minghui-a5100529/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ East China Normal University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Ocean CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
 
 ## Metrics
 

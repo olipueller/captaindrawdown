@@ -1,7 +1,7 @@
 ---
 title: "Othusitse Lekoko"
 description: "Othusitse Lekoko is an Early-career General CDR researcher at Human Growth Foundation in US. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.513206
+date: 2026-07-11T22:39:17.438301
 url: "/cdr-researcher-census/researchers/othusitse-lekoko-a5067966/"
 layout: "researcher"
 hiddenInHomeList: true

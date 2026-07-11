@@ -1,7 +1,7 @@
 ---
 title: "D. Alexander Wait"
 description: "D. Alexander Wait is a Senior Soil Carbon researcher at Missouri State University in US. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.271132
+date: 2026-07-11T22:39:16.360837
 url: "/cdr-researcher-census/researchers/d-alexander-wait-a5046929/"
 layout: "researcher"
 hiddenInHomeList: true

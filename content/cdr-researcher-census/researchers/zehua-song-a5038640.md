@@ -1,7 +1,7 @@
 ---
 title: "Zehua Song"
 description: "Zehua Song is a Mid-career Enhanced Weathering researcher at Chinese Academy of Sciences in CN. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.711943
+date: 2026-07-11T22:39:16.795465
 url: "/cdr-researcher-census/researchers/zehua-song-a5038640/"
 layout: "researcher"
 hiddenInHomeList: true

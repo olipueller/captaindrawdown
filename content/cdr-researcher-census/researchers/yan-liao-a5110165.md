@@ -1,7 +1,7 @@
 ---
 title: "Yan Liao"
 description: "Yan Liao is a Senior Soil Carbon researcher at Guangxi University in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.348112
+date: 2026-07-11T22:39:17.266663
 url: "/cdr-researcher-census/researchers/yan-liao-a5110165/"
 layout: "researcher"
 hiddenInHomeList: true

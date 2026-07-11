@@ -1,7 +1,7 @@
 ---
 title: "Zhuoran Zhang"
 description: "Zhuoran Zhang is a Mid-career Biochar researcher at University of Science and Technology Beijing in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.803277
+date: 2026-07-11T22:39:16.883715
 url: "/cdr-researcher-census/researchers/zhuoran-zhang-a5100652/"
 layout: "researcher"
 hiddenInHomeList: true

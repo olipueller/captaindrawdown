@@ -1,7 +1,7 @@
 ---
 title: "Bulcha Jifara Daba"
 description: "Bulcha Jifara Daba is a Mid-career Biochar researcher at Haramaya University in ET. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.091171
+date: 2026-07-11T22:39:17.064791
 url: "/cdr-researcher-census/researchers/bulcha-jifara-daba-a5066664/"
 layout: "researcher"
 hiddenInHomeList: true

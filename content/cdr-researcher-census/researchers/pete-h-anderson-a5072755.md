@@ -1,7 +1,7 @@
 ---
 title: "Pete H. Anderson"
 description: "Pete H. Anderson is a Mid-career Soil Carbon researcher at Triangle in US. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.198024
+date: 2026-07-11T22:39:17.116556
 url: "/cdr-researcher-census/researchers/pete-h-anderson-a5072755/"
 layout: "researcher"
 hiddenInHomeList: true

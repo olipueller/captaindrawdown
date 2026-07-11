@@ -1,7 +1,7 @@
 ---
 title: "Shuangling Xie"
 description: "Shuangling Xie is a Mid-career Biochar researcher at Zhejiang A & F University in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.949451
+date: 2026-07-11T22:39:17.001755
 url: "/cdr-researcher-census/researchers/shuangling-xie-a5082689/"
 layout: "researcher"
 hiddenInHomeList: true

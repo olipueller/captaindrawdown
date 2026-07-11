@@ -1,7 +1,7 @@
 ---
 title: "Ruoyang Hu"
 description: "Ruoyang Hu is a Mid-career Biochar researcher at Hebei Agricultural University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.314658
+date: 2026-07-11T22:39:17.231725
 url: "/cdr-researcher-census/researchers/ruoyang-hu-a5088536/"
 layout: "researcher"
 hiddenInHomeList: true

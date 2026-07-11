@@ -1,7 +1,7 @@
 ---
 title: "Nicole Buckley Biggs"
 description: "Nicole Buckley Biggs is an Early-career Soil Carbon researcher at Environmental and Water Resources Engineering in IL. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.644439
+date: 2026-07-11T22:39:17.568025
 url: "/cdr-researcher-census/researchers/nicole-buckley-biggs-a5081331/"
 layout: "researcher"
 hiddenInHomeList: true

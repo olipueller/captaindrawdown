@@ -1,7 +1,7 @@
 ---
 title: "Saadatullah Malghani"
-description: "Saadatullah Malghani is a Senior Soil Carbon researcher at University of Copenhagen in DK. With 40 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.173575
+description: "Saadatullah Malghani is a Senior Biochar researcher at University of Copenhagen in DK. With 40 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.267605
 url: "/cdr-researcher-census/researchers/saadatullah-malghani-a5082767/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Copenhagen · 🇩🇰 DK
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

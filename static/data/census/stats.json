@@ -5,13 +5,13 @@
   "institutions": 20746,
   "pathways": {
     "Unknown": 53051,
-    "Soil Carbon": 43316,
-    "General CDR": 15879,
-    "Biochar": 15026,
-    "Ocean CDR": 3696,
-    "Enhanced Weathering": 1687,
-    "DAC": 1027,
-    "BECCS": 715
+    "Soil Carbon": 37926,
+    "Biochar": 20518,
+    "General CDR": 9941,
+    "Ocean CDR": 3778,
+    "DAC": 3573,
+    "Enhanced Weathering": 3243,
+    "BECCS": 2367
   },
   "top_countries": {
     "CN": 46011,

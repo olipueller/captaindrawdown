@@ -1,7 +1,7 @@
 ---
 title: "Onur Kırtel"
 description: "Onur Kırtel is a Mid-career General CDR researcher at Danmarks Tekniske Universitet in DK. With 37 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.421558
+date: 2026-07-11T22:39:16.516204
 url: "/cdr-researcher-census/researchers/onur-krtel-a5047957/"
 layout: "researcher"
 hiddenInHomeList: true

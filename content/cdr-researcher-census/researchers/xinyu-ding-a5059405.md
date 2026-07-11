@@ -1,7 +1,7 @@
 ---
 title: "Xinyu Ding"
-description: "Xinyu Ding is an Early-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.355589
+description: "Xinyu Ding is an Early-career Biochar researcher at Institute of Agricultural Resources and Regional Planning in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.274813
 url: "/cdr-researcher-census/researchers/xinyu-ding-a5059405/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Institute of Agricultural Resources and Regional Planning · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

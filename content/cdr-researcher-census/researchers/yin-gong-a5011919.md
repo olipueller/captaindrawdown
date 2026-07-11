@@ -1,7 +1,7 @@
 ---
 title: "Yin Gong"
-description: "Yin Gong is a Mid-career General CDR researcher. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.211842
+description: "Yin Gong is a Mid-career Enhanced Weathering researcher. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.128871
 url: "/cdr-researcher-census/researchers/yin-gong-a5011919/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

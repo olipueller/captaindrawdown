@@ -1,7 +1,7 @@
 ---
 title: "Jia Zeng"
 description: "Jia Zeng is a Mid-career Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 29 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.462538
+date: 2026-07-11T22:39:16.556792
 url: "/cdr-researcher-census/researchers/jia-zeng-a5031954/"
 layout: "researcher"
 hiddenInHomeList: true

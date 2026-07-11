@@ -1,7 +1,7 @@
 ---
 title: "Paloma Pinilla"
 description: "Paloma Pinilla is a Senior Soil Carbon researcher at Universidad de Alcalá in ES. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.831227
+date: 2026-07-11T22:39:16.908623
 url: "/cdr-researcher-census/researchers/paloma-pinilla-a5058096/"
 layout: "researcher"
 hiddenInHomeList: true

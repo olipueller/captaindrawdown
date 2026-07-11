@@ -1,7 +1,7 @@
 ---
 title: "Friedrich A. Burger"
 description: "Friedrich A. Burger is a Mid-career Ocean CDR researcher at University of Bern in CH. With 80 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.232016
+date: 2026-07-11T22:39:16.323007
 url: "/cdr-researcher-census/researchers/friedrich-a-burger-a5063499/"
 layout: "researcher"
 hiddenInHomeList: true

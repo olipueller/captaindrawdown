@@ -1,7 +1,7 @@
 ---
 title: "Asfandyar Shahab"
 description: "Asfandyar Shahab is a Senior Biochar researcher at Hainan University in CN. With 91 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.048780
+date: 2026-07-11T22:39:16.155525
 url: "/cdr-researcher-census/researchers/asfandyar-shahab-a5087014/"
 layout: "researcher"
 hiddenInHomeList: true

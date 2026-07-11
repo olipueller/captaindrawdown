@@ -1,7 +1,7 @@
 ---
 title: "Yanmin Teng"
 description: "Yanmin Teng is a Mid-career General CDR researcher at Hebei University in CN. With 42 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.243006
+date: 2026-07-11T22:39:16.333549
 url: "/cdr-researcher-census/researchers/yanmin-teng-a5015883/"
 layout: "researcher"
 hiddenInHomeList: true

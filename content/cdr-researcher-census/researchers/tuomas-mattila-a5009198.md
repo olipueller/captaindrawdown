@@ -1,7 +1,7 @@
 ---
 title: "Tuomas Mattila"
 description: "Tuomas Mattila is a Senior Soil Carbon researcher at Finnish Environment Institute in FI. With 181 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.026075
+date: 2026-07-11T22:39:16.136967
 url: "/cdr-researcher-census/researchers/tuomas-mattila-a5009198/"
 layout: "researcher"
 hiddenInHomeList: true

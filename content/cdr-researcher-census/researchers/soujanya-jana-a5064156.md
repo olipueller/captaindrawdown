@@ -1,7 +1,7 @@
 ---
 title: "Soujanya Jana"
 description: "Soujanya Jana is a Mid-career General CDR researcher. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.269237
+date: 2026-07-11T22:39:17.186782
 url: "/cdr-researcher-census/researchers/soujanya-jana-a5064156/"
 layout: "researcher"
 hiddenInHomeList: true

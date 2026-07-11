@@ -1,7 +1,7 @@
 ---
 title: "Sifatun Nur"
 description: "Sifatun Nur is a Mid-career Ocean CDR researcher at Rangamati Science and Technology University in BD. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.455258
+date: 2026-07-11T22:39:17.379893
 url: "/cdr-researcher-census/researchers/sifatun-nur-a5102626/"
 layout: "researcher"
 hiddenInHomeList: true

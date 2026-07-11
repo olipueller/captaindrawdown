@@ -1,7 +1,7 @@
 ---
 title: "Neil V. Ress"
-description: "Neil V. Ress is an Early-career General CDR researcher at University of Birmingham in GB. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.040587
+description: "Neil V. Ress is an Early-career Biochar researcher at University of Birmingham in GB. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.042907
 url: "/cdr-researcher-census/researchers/neil-v-ress-a5067247/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ University of Birmingham · 🇬🇧 GB
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "Laura F. Gentry"
 description: "Laura F. Gentry is a Senior Soil Carbon researcher at Illinois Department of Natural Resources in US. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.431436
+date: 2026-07-11T22:39:16.525928
 url: "/cdr-researcher-census/researchers/laura-f-gentry-a5033509/"
 layout: "researcher"
 hiddenInHomeList: true

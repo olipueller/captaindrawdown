@@ -1,7 +1,7 @@
 ---
 title: "Jennifer Kriese"
 description: "Jennifer Kriese is a Mid-career Soil Carbon researcher at Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR) in DE. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.862596
+date: 2026-07-11T22:39:16.938443
 url: "/cdr-researcher-census/researchers/jennifer-kriese-a5015914/"
 layout: "researcher"
 hiddenInHomeList: true

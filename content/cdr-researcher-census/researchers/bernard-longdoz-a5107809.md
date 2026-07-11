@@ -1,7 +1,7 @@
 ---
 title: "Bernard Longdoz"
 description: "Bernard Longdoz is a Senior Soil Carbon researcher at University of Liège in BE. With 107 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:39.971839
+date: 2026-07-11T22:39:16.097080
 url: "/cdr-researcher-census/researchers/bernard-longdoz-a5107809/"
 layout: "researcher"
 hiddenInHomeList: true

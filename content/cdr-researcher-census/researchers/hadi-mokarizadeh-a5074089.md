@@ -1,7 +1,7 @@
 ---
 title: "Hadi Mokarizadeh"
 description: "Hadi Mokarizadeh is a Mid-career Biochar researcher at University of Alberta in CA. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.794241
+date: 2026-07-11T22:39:16.875400
 url: "/cdr-researcher-census/researchers/hadi-mokarizadeh-a5074089/"
 layout: "researcher"
 hiddenInHomeList: true

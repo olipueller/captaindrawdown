@@ -1,7 +1,7 @@
 ---
 title: "Suman Dutta"
 description: "Suman Dutta is a Senior General CDR researcher at Ramakrishna Mission Vivekananda Educational and Research Institute in IN. With 118 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.246882
+date: 2026-07-11T22:39:16.337163
 url: "/cdr-researcher-census/researchers/suman-dutta-a5102895/"
 layout: "researcher"
 hiddenInHomeList: true

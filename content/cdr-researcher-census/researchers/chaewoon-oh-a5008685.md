@@ -1,7 +1,7 @@
 ---
 title: "Chaewoon Oh"
 description: "Chaewoon Oh is a Mid-career General CDR researcher at Applied Science Private University in JO. With 43 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.353919
+date: 2026-07-11T22:39:17.273135
 url: "/cdr-researcher-census/researchers/chaewoon-oh-a5008685/"
 layout: "researcher"
 hiddenInHomeList: true

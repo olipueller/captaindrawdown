@@ -1,7 +1,7 @@
 ---
 title: "Yuchun Yan"
 description: "Yuchun Yan is a Senior Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 46 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.192862
+date: 2026-07-11T22:39:16.285670
 url: "/cdr-researcher-census/researchers/yuchun-yan-a5102904/"
 layout: "researcher"
 hiddenInHomeList: true

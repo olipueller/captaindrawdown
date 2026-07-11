@@ -1,7 +1,7 @@
 ---
 title: "O. O. Agboola"
 description: "O. O. Agboola is a Mid-career Soil Carbon researcher at Department of Biological Sciences in RU. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.445853
+date: 2026-07-11T22:39:17.370467
 url: "/cdr-researcher-census/researchers/o-o-agboola-a5101695/"
 layout: "researcher"
 hiddenInHomeList: true

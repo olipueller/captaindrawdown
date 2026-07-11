@@ -1,7 +1,7 @@
 ---
 title: "Andrew Langendam"
-description: "Andrew Langendam is a Mid-career General CDR researcher at Australian Nuclear Science and Technology Organisation in AU. With 33 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.769238
+description: "Andrew Langendam is a Mid-career Enhanced Weathering researcher at Australian Nuclear Science and Technology Organisation in AU. With 33 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.850815
 url: "/cdr-researcher-census/researchers/andrew-langendam-a5001848/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Australian Nuclear Science and Technology Organisation · 🇦🇺 AU
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

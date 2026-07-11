@@ -1,7 +1,7 @@
 ---
 title: "Chunrong Qian"
 description: "Chunrong Qian is a Senior Soil Carbon researcher at Army Medical University in CN. With 44 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.191712
+date: 2026-07-11T22:39:16.284518
 url: "/cdr-researcher-census/researchers/chunrong-qian-a5059956/"
 layout: "researcher"
 hiddenInHomeList: true

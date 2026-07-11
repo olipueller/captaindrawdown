@@ -1,7 +1,7 @@
 ---
 title: "Yierfan Maierdan"
 description: "Yierfan Maierdan is a Mid-career Biochar researcher at Columbia University in US. With 19 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.452483
+date: 2026-07-11T22:39:16.547141
 url: "/cdr-researcher-census/researchers/yierfan-maierdan-a5090964/"
 layout: "researcher"
 hiddenInHomeList: true

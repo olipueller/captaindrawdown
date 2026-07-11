@@ -1,7 +1,7 @@
 ---
 title: "Nadia Shakoor"
 description: "Nadia Shakoor is a Senior Soil Carbon researcher at Donald Danforth Plant Science Center in US. With 65 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.084847
+date: 2026-07-11T22:39:16.187029
 url: "/cdr-researcher-census/researchers/nadia-shakoor-a5078368/"
 layout: "researcher"
 hiddenInHomeList: true

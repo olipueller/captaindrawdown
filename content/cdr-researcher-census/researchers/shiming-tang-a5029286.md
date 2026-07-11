@@ -1,7 +1,7 @@
 ---
 title: "Shiming Tang"
 description: "Shiming Tang is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 60 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.263613
+date: 2026-07-11T22:39:16.353978
 url: "/cdr-researcher-census/researchers/shiming-tang-a5029286/"
 layout: "researcher"
 hiddenInHomeList: true

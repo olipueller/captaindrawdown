@@ -1,7 +1,7 @@
 ---
 title: "Lili Niu"
 description: "Lili Niu is a Mid-career Soil Carbon researcher at Guizhou University in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.477090
+date: 2026-07-11T22:39:17.401692
 url: "/cdr-researcher-census/researchers/lili-niu-a5108089/"
 layout: "researcher"
 hiddenInHomeList: true

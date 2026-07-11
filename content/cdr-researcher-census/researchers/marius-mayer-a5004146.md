@@ -1,7 +1,7 @@
 ---
 title: "Marius Mayer"
 description: "Marius Mayer is a Senior Soil Carbon researcher at Forschungsinstitut für Biologischen Landbau in CH. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.489772
+date: 2026-07-11T22:39:16.584072
 url: "/cdr-researcher-census/researchers/marius-mayer-a5004146/"
 layout: "researcher"
 hiddenInHomeList: true

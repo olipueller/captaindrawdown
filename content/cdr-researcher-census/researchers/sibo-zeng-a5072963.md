@@ -1,7 +1,7 @@
 ---
 title: "Sibo Zeng"
 description: "Sibo Zeng is a Mid-career Enhanced Weathering researcher at Southwest University in CN. With 40 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.248472
+date: 2026-07-11T22:39:16.338665
 url: "/cdr-researcher-census/researchers/sibo-zeng-a5072963/"
 layout: "researcher"
 hiddenInHomeList: true

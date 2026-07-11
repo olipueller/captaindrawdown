@@ -1,7 +1,7 @@
 ---
 title: "Ziqi Lin"
 description: "Ziqi Lin is a Mid-career Soil Carbon researcher at Xi'an University of Architecture and Technology in CN. With 60 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.212233
+date: 2026-07-11T22:39:16.303541
 url: "/cdr-researcher-census/researchers/ziqi-lin-a5082169/"
 layout: "researcher"
 hiddenInHomeList: true

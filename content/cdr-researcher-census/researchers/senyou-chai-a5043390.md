@@ -1,7 +1,7 @@
 ---
 title: "Senyou Chai"
 description: "Senyou Chai is a Mid-career Biochar researcher at Qingdao Center of Resource Chemistry and New Materials in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.784994
+date: 2026-07-11T22:39:16.866153
 url: "/cdr-researcher-census/researchers/senyou-chai-a5043390/"
 layout: "researcher"
 hiddenInHomeList: true

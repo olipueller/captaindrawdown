@@ -1,7 +1,7 @@
 ---
 title: "Meng Mei"
 description: "Meng Mei is a Senior Biochar researcher at Wuhan Textile University in CN. With 52 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.123366
+date: 2026-07-11T22:39:16.221396
 url: "/cdr-researcher-census/researchers/meng-mei-a5101947/"
 layout: "researcher"
 hiddenInHomeList: true

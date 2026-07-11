@@ -1,7 +1,7 @@
 ---
 title: "John M. Findley"
 description: "John M. Findley is a Mid-career DAC researcher at National Energy Technology Laboratory in US. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.992368
+date: 2026-07-11T22:39:17.027101
 url: "/cdr-researcher-census/researchers/john-m-findley-a5013824/"
 layout: "researcher"
 hiddenInHomeList: true

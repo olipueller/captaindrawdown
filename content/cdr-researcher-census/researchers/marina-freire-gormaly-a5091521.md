@@ -1,7 +1,7 @@
 ---
 title: "Marina Freire-Gormaly"
-description: "Marina Freire-Gormaly is a Mid-career General CDR researcher at York University in CA. With 35 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.553708
+description: "Marina Freire-Gormaly is a Mid-career DAC researcher at York University in CA. With 35 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.646850
 url: "/cdr-researcher-census/researchers/marina-freire-gormaly-a5091521/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ York University · 🇨🇦 CA
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

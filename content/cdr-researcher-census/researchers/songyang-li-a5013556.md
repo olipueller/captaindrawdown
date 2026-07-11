@@ -1,7 +1,7 @@
 ---
 title: "Songyang Li"
 description: "Songyang Li is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.435136
+date: 2026-07-11T22:39:17.358910
 url: "/cdr-researcher-census/researchers/songyang-li-a5013556/"
 layout: "researcher"
 hiddenInHomeList: true

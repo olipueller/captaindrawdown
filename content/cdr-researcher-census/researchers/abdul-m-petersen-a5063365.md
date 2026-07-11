@@ -1,7 +1,7 @@
 ---
 title: "Abdul M. Petersen"
 description: "Abdul M. Petersen is a Mid-career General CDR researcher at Stellenbosch University in ZA. With 35 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.344844
+date: 2026-07-11T22:39:16.435091
 url: "/cdr-researcher-census/researchers/abdul-m-petersen-a5063365/"
 layout: "researcher"
 hiddenInHomeList: true

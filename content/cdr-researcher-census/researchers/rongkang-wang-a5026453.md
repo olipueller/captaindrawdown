@@ -1,7 +1,7 @@
 ---
 title: "Rongkang Wang"
 description: "Rongkang Wang is a Mid-career Biochar researcher at Nanjing Forestry University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.465524
+date: 2026-07-11T22:39:17.389797
 url: "/cdr-researcher-census/researchers/rongkang-wang-a5026453/"
 layout: "researcher"
 hiddenInHomeList: true

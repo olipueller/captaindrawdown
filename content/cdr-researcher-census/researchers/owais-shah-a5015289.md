@@ -1,7 +1,7 @@
 ---
 title: "Owais Shah"
-description: "Owais Shah is an Early-career Soil Carbon researcher at Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir in IN. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.636601
+description: "Owais Shah is an Early-career Biochar researcher at Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir in IN. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.557768
 url: "/cdr-researcher-census/researchers/owais-shah-a5015289/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir · 
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

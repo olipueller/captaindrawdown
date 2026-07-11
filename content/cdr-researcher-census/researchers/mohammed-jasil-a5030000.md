@@ -1,7 +1,7 @@
 ---
 title: "Mohammed Jasil"
 description: "Mohammed Jasil is an Early-career General CDR researcher at New York University Abu Dhabi in AE. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.597230
+date: 2026-07-11T22:39:17.517846
 url: "/cdr-researcher-census/researchers/mohammed-jasil-a5030000/"
 layout: "researcher"
 hiddenInHomeList: true

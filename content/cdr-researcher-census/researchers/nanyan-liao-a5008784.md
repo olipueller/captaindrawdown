@@ -1,7 +1,7 @@
 ---
 title: "Nanyan Liao"
 description: "Nanyan Liao is a Mid-career Soil Carbon researcher at Fanjingshan National Nature Reserve in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.561201
+date: 2026-07-11T22:39:17.484329
 url: "/cdr-researcher-census/researchers/nanyan-liao-a5008784/"
 layout: "researcher"
 hiddenInHomeList: true

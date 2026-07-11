@@ -1,7 +1,7 @@
 ---
 title: "Yan Yang"
 description: "Yan Yang is a Senior Biochar researcher at Minzu University of China in CN. With 124 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.005851
+date: 2026-07-11T22:39:16.121494
 url: "/cdr-researcher-census/researchers/yan-yang-a5101582/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mohammed A.A. Elgzoly"
 description: "Mohammed A.A. Elgzoly is a Mid-career Biochar researcher at King Fahd University of Petroleum and Minerals in SA. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.572453
+date: 2026-07-11T22:39:16.664573
 url: "/cdr-researcher-census/researchers/mohammed-aa-elgzoly-a5024285/"
 layout: "researcher"
 hiddenInHomeList: true

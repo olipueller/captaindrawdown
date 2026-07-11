@@ -1,7 +1,7 @@
 ---
 title: "Rolando Cruz Encarnación"
 description: "Rolando Cruz Encarnación is a Mid-career Soil Carbon researcher at Instituto Nacional del Agua in AR. With 32 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.771564
+date: 2026-07-11T22:39:16.853200
 url: "/cdr-researcher-census/researchers/rolando-cruz-encarnacion-a5077799/"
 layout: "researcher"
 hiddenInHomeList: true

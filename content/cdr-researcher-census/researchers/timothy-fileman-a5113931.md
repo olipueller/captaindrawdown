@@ -1,7 +1,7 @@
 ---
 title: "Timothy Fileman"
 description: "Timothy Fileman is a Senior Ocean CDR researcher at PML Applications (United Kingdom) in GB. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.766218
+date: 2026-07-11T22:39:16.847960
 url: "/cdr-researcher-census/researchers/timothy-fileman-a5113931/"
 layout: "researcher"
 hiddenInHomeList: true

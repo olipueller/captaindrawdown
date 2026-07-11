@@ -1,7 +1,7 @@
 ---
 title: "Mengdi Xie"
 description: "Mengdi Xie is a Mid-career Soil Carbon researcher at Zhejiang Chinese Medical University in CN. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.511843
+date: 2026-07-11T22:39:16.606278
 url: "/cdr-researcher-census/researchers/mengdi-xie-a5100981/"
 layout: "researcher"
 hiddenInHomeList: true

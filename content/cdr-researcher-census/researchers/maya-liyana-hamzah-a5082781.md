@@ -1,7 +1,7 @@
 ---
 title: "Maya Liyana Hamzah"
 description: "Maya Liyana Hamzah is a Mid-career Soil Carbon researcher. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.370660
+date: 2026-07-11T22:39:17.290450
 url: "/cdr-researcher-census/researchers/maya-liyana-hamzah-a5082781/"
 layout: "researcher"
 hiddenInHomeList: true

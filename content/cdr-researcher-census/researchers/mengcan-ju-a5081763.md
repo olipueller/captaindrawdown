@@ -1,7 +1,7 @@
 ---
 title: "Mengcan Ju"
 description: "Mengcan Ju is an Early-career Biochar researcher at Shanghai University of Engineering Science in CN. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.582720
+date: 2026-07-11T22:39:17.504406
 url: "/cdr-researcher-census/researchers/mengcan-ju-a5081763/"
 layout: "researcher"
 hiddenInHomeList: true

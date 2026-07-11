@@ -1,7 +1,7 @@
 ---
 title: "Katsumasa Tanaka"
 description: "Katsumasa Tanaka is a Senior General CDR researcher at LSCE in FR. With 300 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:39.989972
+date: 2026-07-11T22:39:16.108773
 url: "/cdr-researcher-census/researchers/katsumasa-tanaka-a5033739/"
 layout: "researcher"
 hiddenInHomeList: true

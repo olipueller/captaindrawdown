@@ -1,7 +1,7 @@
 ---
 title: "Michael O. Dioha"
 description: "Michael O. Dioha is a Senior General CDR researcher at Clean Air Task Force in US. With 69 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.182216
+date: 2026-07-11T22:39:16.276026
 url: "/cdr-researcher-census/researchers/michael-o-dioha-a5061421/"
 layout: "researcher"
 hiddenInHomeList: true

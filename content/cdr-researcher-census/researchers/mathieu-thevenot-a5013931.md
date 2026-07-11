@@ -1,7 +1,7 @@
 ---
 title: "Mathieu Thévenot"
 description: "Mathieu Thévenot is a Senior Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 36 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.200821
+date: 2026-07-11T22:39:16.293271
 url: "/cdr-researcher-census/researchers/mathieu-thevenot-a5013931/"
 layout: "researcher"
 hiddenInHomeList: true

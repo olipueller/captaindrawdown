@@ -1,7 +1,7 @@
 ---
 title: "W. Turner"
-description: "W. Turner is a Mid-career General CDR researcher at UNDO Carbon in GB. With 33 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.031999
+description: "W. Turner is a Mid-career Enhanced Weathering researcher at UNDO Carbon in GB. With 33 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.142030
 url: "/cdr-researcher-census/researchers/w-turner-a5018150/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ UNDO Carbon · 🇬🇧 GB
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

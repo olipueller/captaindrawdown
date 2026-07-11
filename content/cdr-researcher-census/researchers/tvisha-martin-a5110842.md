@@ -1,7 +1,7 @@
 ---
 title: "Tvisha Martin"
 description: "Tvisha Martin is a Mid-career Soil Carbon researcher at Michigan State University in US. With 24 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.570908
+date: 2026-07-11T22:39:16.663038
 url: "/cdr-researcher-census/researchers/tvisha-martin-a5110842/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shakeel Ahmad"
 description: "Shakeel Ahmad is a Senior Biochar researcher at Kunming University of Science and Technology in CN. With 79 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.067170
+date: 2026-07-11T22:39:16.170759
 url: "/cdr-researcher-census/researchers/shakeel-ahmad-a5038093/"
 layout: "researcher"
 hiddenInHomeList: true

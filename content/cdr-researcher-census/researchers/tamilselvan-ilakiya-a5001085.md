@@ -1,7 +1,7 @@
 ---
 title: "Tamilselvan Ilakiya"
-description: "Tamilselvan Ilakiya is a Mid-career Soil Carbon researcher at SRM Institute of Science and Technology in IN. With 33 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.646087
+description: "Tamilselvan Ilakiya is a Mid-career Ocean CDR researcher at SRM Institute of Science and Technology in IN. With 33 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.735671
 url: "/cdr-researcher-census/researchers/tamilselvan-ilakiya-a5001085/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ SRM Institute of Science and Technology · 🇮🇳 IN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Ocean CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "Liqun Lian"
 description: "Liqun Lian is a Mid-career Biochar researcher at Jiangsu University in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.386243
+date: 2026-07-11T22:39:17.307133
 url: "/cdr-researcher-census/researchers/liqun-lian-a5014169/"
 layout: "researcher"
 hiddenInHomeList: true

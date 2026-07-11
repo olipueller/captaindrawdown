@@ -1,7 +1,7 @@
 ---
 title: "You Jin Kim"
 description: "You Jin Kim is a Senior Soil Carbon researcher at Hallym University in KR. With 52 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.447641
+date: 2026-07-11T22:39:16.542441
 url: "/cdr-researcher-census/researchers/you-jin-kim-a5112494/"
 layout: "researcher"
 hiddenInHomeList: true

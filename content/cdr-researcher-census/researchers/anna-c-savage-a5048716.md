@@ -1,7 +1,7 @@
 ---
 title: "Anna C. Savage"
 description: "Anna C. Savage is a Mid-career Ocean CDR researcher at Annexon Biosciences (United States) in US. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.389103
+date: 2026-07-11T22:39:16.482134
 url: "/cdr-researcher-census/researchers/anna-c-savage-a5048716/"
 layout: "researcher"
 hiddenInHomeList: true

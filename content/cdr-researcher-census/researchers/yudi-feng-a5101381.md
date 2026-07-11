@@ -1,7 +1,7 @@
 ---
 title: "Yudi Feng"
-description: "Yudi Feng is a Mid-career Soil Carbon researcher at Jilin University in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.091750
+description: "Yudi Feng is a Mid-career Biochar researcher at Jilin University in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.065292
 url: "/cdr-researcher-census/researchers/yudi-feng-a5101381/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Jilin University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "Wenbo Luo"
 description: "Wenbo Luo is a Senior Soil Carbon researcher at Northeast Normal University in CN. With 40 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.345518
+date: 2026-07-11T22:39:16.435827
 url: "/cdr-researcher-census/researchers/wenbo-luo-a5102970/"
 layout: "researcher"
 hiddenInHomeList: true

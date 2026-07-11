@@ -1,7 +1,7 @@
 ---
 title: "Wenjuan Huang"
 description: "Wenjuan Huang is a Senior Soil Carbon researcher at Northwestern Polytechnical University in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.450014
+date: 2026-07-11T22:39:17.374799
 url: "/cdr-researcher-census/researchers/wenjuan-huang-a5113253/"
 layout: "researcher"
 hiddenInHomeList: true

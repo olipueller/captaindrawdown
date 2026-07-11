@@ -1,7 +1,7 @@
 ---
 title: "Chunjie Shu"
 description: "Chunjie Shu is a Mid-career Soil Carbon researcher at Sun Yat-sen University in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.265731
+date: 2026-07-11T22:39:17.183145
 url: "/cdr-researcher-census/researchers/chunjie-shu-a5020935/"
 layout: "researcher"
 hiddenInHomeList: true

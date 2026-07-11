@@ -1,7 +1,7 @@
 ---
 title: "Jingke Sima"
-description: "Jingke Sima is a Mid-career General CDR researcher at Shanghai Academy of Environmental Sciences in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.411959
+description: "Jingke Sima is a Mid-career Biochar researcher at Shanghai Academy of Environmental Sciences in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.505978
 url: "/cdr-researcher-census/researchers/jingke-sima-a5070992/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Shanghai Academy of Environmental Sciences · 🇨🇳 CN
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

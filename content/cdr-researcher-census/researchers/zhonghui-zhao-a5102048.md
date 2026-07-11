@@ -1,7 +1,7 @@
 ---
 title: "Zhonghui Zhao"
 description: "Zhonghui Zhao is a Senior Soil Carbon researcher at Shandong University of Science and Technology in CN. With 39 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.280314
+date: 2026-07-11T22:39:16.370516
 url: "/cdr-researcher-census/researchers/zhonghui-zhao-a5102048/"
 layout: "researcher"
 hiddenInHomeList: true

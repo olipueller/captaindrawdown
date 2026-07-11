@@ -1,7 +1,7 @@
 ---
 title: "Lukas Hallberg"
 description: "Lukas Hallberg is a Mid-career Soil Carbon researcher at École Polytechnique Fédérale de Lausanne in CH. With 36 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.972019
+date: 2026-07-11T22:39:17.017398
 url: "/cdr-researcher-census/researchers/lukas-hallberg-a5075785/"
 layout: "researcher"
 hiddenInHomeList: true

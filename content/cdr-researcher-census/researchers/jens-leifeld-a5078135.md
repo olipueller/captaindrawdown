@@ -1,7 +1,7 @@
 ---
 title: "Jens Leifeld"
 description: "Jens Leifeld is an Eminent General CDR researcher at Federal Office for Agriculture in CH. With 297 publications and an h-index of 67, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:39.952402
+date: 2026-07-11T22:39:16.086179
 url: "/cdr-researcher-census/researchers/jens-leifeld-a5078135/"
 layout: "researcher"
 hiddenInHomeList: true

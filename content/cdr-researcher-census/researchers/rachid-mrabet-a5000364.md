@@ -1,7 +1,7 @@
 ---
 title: "Rachid Mrabet"
 description: "Rachid Mrabet is a Senior Soil Carbon researcher at Institut National de la Recherche Agronomique in MA. With 115 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.068406
+date: 2026-07-11T22:39:16.171997
 url: "/cdr-researcher-census/researchers/rachid-mrabet-a5000364/"
 layout: "researcher"
 hiddenInHomeList: true

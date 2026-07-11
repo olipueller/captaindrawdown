@@ -1,7 +1,7 @@
 ---
 title: "Yuhui Huang"
 description: "Yuhui Huang is a Mid-career Soil Carbon researcher at Center for Excellence in Molecular Plant Sciences in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.804685
+date: 2026-07-11T22:39:16.885019
 url: "/cdr-researcher-census/researchers/yuhui-huang-a5077204/"
 layout: "researcher"
 hiddenInHomeList: true

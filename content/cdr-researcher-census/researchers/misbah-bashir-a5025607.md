@@ -1,7 +1,7 @@
 ---
 title: "Misbah Bashir"
 description: "Misbah Bashir is a Mid-career Biochar researcher. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.183100
+date: 2026-07-11T22:39:17.108287
 url: "/cdr-researcher-census/researchers/misbah-bashir-a5025607/"
 layout: "researcher"
 hiddenInHomeList: true

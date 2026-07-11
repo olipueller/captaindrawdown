@@ -1,7 +1,7 @@
 ---
 title: "Gayoung Yoo"
 description: "Gayoung Yoo is a Senior Soil Carbon researcher at Kyung Hee University in KR. With 111 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.109400
+date: 2026-07-11T22:39:16.208463
 url: "/cdr-researcher-census/researchers/gayoung-yoo-a5102767/"
 layout: "researcher"
 hiddenInHomeList: true

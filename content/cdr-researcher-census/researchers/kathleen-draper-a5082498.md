@@ -1,7 +1,7 @@
 ---
 title: "Kathleen Draper"
-description: "Kathleen Draper is a Mid-career General CDR researcher. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.580067
+description: "Kathleen Draper is a Mid-career Biochar researcher. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.672804
 url: "/cdr-researcher-census/researchers/kathleen-draper-a5082498/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,9 +26,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

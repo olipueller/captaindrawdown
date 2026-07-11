@@ -1,7 +1,7 @@
 ---
 title: "Yasna Mortezaei"
-description: "Yasna Mortezaei is a Mid-career General CDR researcher at Central Michigan University in US. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.313697
+description: "Yasna Mortezaei is a Mid-career BECCS researcher at Central Michigan University in US. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.230844
 url: "/cdr-researcher-census/researchers/yasna-mortezaei-a5067583/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Central Michigan University · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

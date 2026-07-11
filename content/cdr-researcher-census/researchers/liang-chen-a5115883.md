@@ -1,7 +1,7 @@
 ---
 title: "Liang Chen"
 description: "Liang Chen is a Mid-career Soil Carbon researcher at Central South University of Forestry and Technology in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.776918
+date: 2026-07-11T22:39:16.858461
 url: "/cdr-researcher-census/researchers/liang-chen-a5115883/"
 layout: "researcher"
 hiddenInHomeList: true

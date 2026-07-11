@@ -1,7 +1,7 @@
 ---
 title: "Xiao Liu"
 description: "Xiao Liu is a Mid-career Biochar researcher at Hainan University in CN. With 25 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.375594
+date: 2026-07-11T22:39:16.467994
 url: "/cdr-researcher-census/researchers/xiao-liu-a5100441/"
 layout: "researcher"
 hiddenInHomeList: true

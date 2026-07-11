@@ -1,7 +1,7 @@
 ---
 title: "Richardson M. Abraham-A"
-description: "Richardson M. Abraham-A is a Mid-career General CDR researcher. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.186620
+description: "Richardson M. Abraham-A is a Mid-career BECCS researcher. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.111094
 url: "/cdr-researcher-census/researchers/richardson-m-abraham-a-a5035245/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

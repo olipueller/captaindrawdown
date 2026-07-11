@@ -1,7 +1,7 @@
 ---
 title: "Zijuan Zhong"
 description: "Zijuan Zhong is a Mid-career Biochar researcher at South China University of Technology in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.286289
+date: 2026-07-11T22:39:17.203370
 url: "/cdr-researcher-census/researchers/zijuan-zhong-a5074178/"
 layout: "researcher"
 hiddenInHomeList: true

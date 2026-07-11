@@ -1,7 +1,7 @@
 ---
 title: "Zengrun Xie"
 description: "Zengrun Xie is a Mid-career Biochar researcher at China University of Petroleum, East China in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.510086
+date: 2026-07-11T22:39:17.435192
 url: "/cdr-researcher-census/researchers/zengrun-xie-a5025571/"
 layout: "researcher"
 hiddenInHomeList: true

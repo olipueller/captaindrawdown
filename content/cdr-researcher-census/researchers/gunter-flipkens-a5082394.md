@@ -1,7 +1,7 @@
 ---
 title: "Gunter Flipkens"
-description: "Gunter Flipkens is a Mid-career Ocean CDR researcher at University of Antwerp in BE. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.272694
+description: "Gunter Flipkens is a Mid-career Enhanced Weathering researcher at University of Antwerp in BE. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.190277
 url: "/cdr-researcher-census/researchers/gunter-flipkens-a5082394/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Antwerp · 🇧🇪 BE
 
 ## CDR Specialization
 
-**Ocean CDR**
+**Enhanced Weathering**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

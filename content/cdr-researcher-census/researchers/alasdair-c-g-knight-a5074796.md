@@ -1,7 +1,7 @@
 ---
 title: "Alasdair C. G. Knight"
-description: "Alasdair C. G. Knight is a Mid-career General CDR researcher at University of Cambridge in GB. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.363223
+description: "Alasdair C. G. Knight is a Mid-career Enhanced Weathering researcher at University of Cambridge in GB. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.282312
 url: "/cdr-researcher-census/researchers/alasdair-c-g-knight-a5074796/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Cambridge · 🇬🇧 GB
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

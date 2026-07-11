@@ -1,7 +1,7 @@
 ---
 title: "Marie‐Liesse Aubertin"
-description: "Marie‐Liesse Aubertin is a Mid-career Soil Carbon researcher at IFP Énergies nouvelles in FR. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.298058
+description: "Marie‐Liesse Aubertin is a Mid-career Biochar researcher at IFP Énergies nouvelles in FR. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.215155
 url: "/cdr-researcher-census/researchers/marieliesse-aubertin-a5084976/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ IFP Énergies nouvelles · 🇫🇷 FR
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

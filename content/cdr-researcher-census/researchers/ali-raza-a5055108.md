@@ -1,7 +1,7 @@
 ---
 title: "Ali Raza"
-description: "Ali Raza is a Senior General CDR researcher at University of Engineering and Technology Taxila in PK. With 13 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.773398
+description: "Ali Raza is a Senior Biochar researcher at University of Engineering and Technology Taxila in PK. With 13 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.854968
 url: "/cdr-researcher-census/researchers/ali-raza-a5055108/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ University of Engineering and Technology Taxila · 🇵🇰 PK
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

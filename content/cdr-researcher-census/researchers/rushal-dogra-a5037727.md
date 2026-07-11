@@ -1,7 +1,7 @@
 ---
 title: "Rushal Dogra"
 description: "Rushal Dogra is a Mid-career Soil Carbon researcher at Dr. Rajendra Prasad Central Agriculture University in IN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.625405
+date: 2026-07-11T22:39:17.544502
 url: "/cdr-researcher-census/researchers/rushal-dogra-a5037727/"
 layout: "researcher"
 hiddenInHomeList: true

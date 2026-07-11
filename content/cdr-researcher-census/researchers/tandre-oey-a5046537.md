@@ -1,7 +1,7 @@
 ---
 title: "Tandré Oey"
 description: "Tandré Oey is a Senior Enhanced Weathering researcher at Teknologian Tutkimuskeskus VTT in FI. With 31 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.102971
+date: 2026-07-11T22:39:16.202268
 url: "/cdr-researcher-census/researchers/tandre-oey-a5046537/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sofi Buzukashvili"
 description: "Sofi Buzukashvili is an Early-career DAC researcher at McGill University in CA. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.614247
+date: 2026-07-11T22:39:17.533397
 url: "/cdr-researcher-census/researchers/sofi-buzukashvili-a5043945/"
 layout: "researcher"
 hiddenInHomeList: true

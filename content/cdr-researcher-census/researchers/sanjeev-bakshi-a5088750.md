@@ -1,7 +1,7 @@
 ---
 title: "Sanjeev Bakshi"
 description: "Sanjeev Bakshi is a Senior Soil Carbon researcher at Diabetes Care and Research Foundation in IN. With 37 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.695213
+date: 2026-07-11T22:39:16.779236
 url: "/cdr-researcher-census/researchers/sanjeev-bakshi-a5088750/"
 layout: "researcher"
 hiddenInHomeList: true

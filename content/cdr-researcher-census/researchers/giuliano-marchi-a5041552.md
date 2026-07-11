@@ -1,7 +1,7 @@
 ---
 title: "Giuliano Marchi"
 description: "Giuliano Marchi is a Senior Enhanced Weathering researcher at Empresa Brasileira de Pesquisa Agropecuária in BR. With 76 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.414413
+date: 2026-07-11T22:39:16.508607
 url: "/cdr-researcher-census/researchers/giuliano-marchi-a5041552/"
 layout: "researcher"
 hiddenInHomeList: true

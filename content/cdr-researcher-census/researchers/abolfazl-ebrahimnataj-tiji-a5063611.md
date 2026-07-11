@@ -1,7 +1,7 @@
 ---
 title: "Abolfazl Ebrahimnataj Tiji"
 description: "Abolfazl Ebrahimnataj Tiji is a Mid-career Biochar researcher. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.634366
+date: 2026-07-11T22:39:17.555303
 url: "/cdr-researcher-census/researchers/abolfazl-ebrahimnataj-tiji-a5063611/"
 layout: "researcher"
 hiddenInHomeList: true

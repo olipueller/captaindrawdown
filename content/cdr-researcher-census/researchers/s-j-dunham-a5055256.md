@@ -1,7 +1,7 @@
 ---
 title: "S. J. Dunham"
-description: "S. J. Dunham is a Senior General CDR researcher at Rothamsted Research in GB. With 40 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.017234
+description: "S. J. Dunham is a Senior Enhanced Weathering researcher at Rothamsted Research in GB. With 40 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.130021
 url: "/cdr-researcher-census/researchers/s-j-dunham-a5055256/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Rothamsted Research · 🇬🇧 GB
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

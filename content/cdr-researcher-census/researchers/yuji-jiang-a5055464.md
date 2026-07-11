@@ -1,7 +1,7 @@
 ---
 title: "Yuji Jiang"
 description: "Yuji Jiang is an Eminent Soil Carbon researcher at Fujian Agriculture and Forestry University in CN. With 111 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:39.993056
+date: 2026-07-11T22:39:16.110843
 url: "/cdr-researcher-census/researchers/yuji-jiang-a5055464/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Tianlong Hu"
-description: "Tianlong Hu is a Senior Soil Carbon researcher at Hohai University in CN. With 30 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.337506
+description: "Tianlong Hu is a Senior Biochar researcher at Hohai University in CN. With 30 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.427285
 url: "/cdr-researcher-census/researchers/tianlong-hu-a5113094/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Hohai University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "Naelmo de Souza Oliveira"
 description: "Naelmo de Souza Oliveira is a Mid-career Soil Carbon researcher. With 23 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.327379
+date: 2026-07-11T22:39:17.244987
 url: "/cdr-researcher-census/researchers/naelmo-de-souza-oliveira-a5090825/"
 layout: "researcher"
 hiddenInHomeList: true

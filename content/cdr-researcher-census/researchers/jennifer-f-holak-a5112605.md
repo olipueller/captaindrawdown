@@ -1,7 +1,7 @@
 ---
 title: "Jennifer F. Holak"
-description: "Jennifer F. Holak is a Senior General CDR researcher. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.359214
+description: "Jennifer F. Holak is a Senior DAC researcher. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.278193
 url: "/cdr-researcher-census/researchers/jennifer-f-holak-a5112605/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,9 +26,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "Javier Ordoñez-Loza"
-description: "Javier Ordoñez-Loza is a Mid-career General CDR researcher at Western University in CA. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.419021
+description: "Javier Ordoñez-Loza is a Mid-career Biochar researcher at Western University in CA. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.342337
 url: "/cdr-researcher-census/researchers/javier-ordonez-loza-a5000547/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Western University · 🇨🇦 CA
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

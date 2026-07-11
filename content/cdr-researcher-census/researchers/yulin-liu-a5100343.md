@@ -1,7 +1,7 @@
 ---
 title: "Yulin Liu"
 description: "Yulin Liu is a Senior Soil Carbon researcher. With 61 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.118163
+date: 2026-07-11T22:39:16.216613
 url: "/cdr-researcher-census/researchers/yulin-liu-a5100343/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jelena Beljin"
 description: "Jelena Beljin is a Mid-career Biochar researcher at University of Novi Sad in RS. With 49 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.326930
+date: 2026-07-11T22:39:16.416855
 url: "/cdr-researcher-census/researchers/jelena-beljin-a5014629/"
 layout: "researcher"
 hiddenInHomeList: true

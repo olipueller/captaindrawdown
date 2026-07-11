@@ -1,7 +1,7 @@
 ---
 title: "Animesh Debnath"
 description: "Animesh Debnath is a Senior Biochar researcher at National Institute of Technology Agartala in IN. With 97 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.044890
+date: 2026-07-11T22:39:16.152336
 url: "/cdr-researcher-census/researchers/animesh-debnath-a5033511/"
 layout: "researcher"
 hiddenInHomeList: true

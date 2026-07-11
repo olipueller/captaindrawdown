@@ -1,7 +1,7 @@
 ---
 title: "Chengxuan Zhou"
 description: "Chengxuan Zhou is a Mid-career Biochar researcher at Hunan Agricultural University in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.443714
+date: 2026-07-11T22:39:17.368256
 url: "/cdr-researcher-census/researchers/chengxuan-zhou-a5000549/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sadie Shelton"
 description: "Sadie Shelton is a Mid-career Soil Carbon researcher at University of Vermont in US. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.098793
+date: 2026-07-11T22:39:17.071237
 url: "/cdr-researcher-census/researchers/sadie-shelton-a5074502/"
 layout: "researcher"
 hiddenInHomeList: true

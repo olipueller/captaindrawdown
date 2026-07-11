@@ -1,7 +1,7 @@
 ---
 title: "Shangchen Zhang"
 description: "Shangchen Zhang is a Mid-career General CDR researcher at Ministry of Education in ME. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.586133
+date: 2026-07-11T22:39:16.678726
 url: "/cdr-researcher-census/researchers/shangchen-zhang-a5056909/"
 layout: "researcher"
 hiddenInHomeList: true

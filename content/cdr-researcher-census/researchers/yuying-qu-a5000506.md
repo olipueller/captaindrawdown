@@ -1,7 +1,7 @@
 ---
 title: "Yuying Qu"
-description: "Yuying Qu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.621720
+description: "Yuying Qu is a Mid-career Enhanced Weathering researcher at Chinese Academy of Sciences in CN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.540599
 url: "/cdr-researcher-census/researchers/yuying-qu-a5000506/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Chinese Academy of Sciences · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Enhanced Weathering**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

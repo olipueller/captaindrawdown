@@ -1,7 +1,7 @@
 ---
 title: "Zhipeng Shu"
-description: "Zhipeng Shu is a Mid-career Soil Carbon researcher at Fudan University in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.803694
+description: "Zhipeng Shu is a Mid-career Biochar researcher at Fudan University in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.884109
 url: "/cdr-researcher-census/researchers/zhipeng-shu-a5023261/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Fudan University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

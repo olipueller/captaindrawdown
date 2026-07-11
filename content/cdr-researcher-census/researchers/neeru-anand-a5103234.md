@@ -1,7 +1,7 @@
 ---
 title: "Neeru Anand"
 description: "Neeru Anand is a Senior Biochar researcher. With 30 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.589885
+date: 2026-07-11T22:39:16.682402
 url: "/cdr-researcher-census/researchers/neeru-anand-a5103234/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Juanjuan Han"
 description: "Juanjuan Han is a Mid-career General CDR researcher at Southwest University in CN. With 18 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.445618
+date: 2026-07-11T22:39:16.540404
 url: "/cdr-researcher-census/researchers/juanjuan-han-a5036508/"
 layout: "researcher"
 hiddenInHomeList: true

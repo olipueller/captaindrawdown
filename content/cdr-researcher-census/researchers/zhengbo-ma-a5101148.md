@@ -1,7 +1,7 @@
 ---
 title: "Zhengbo Ma"
 description: "Zhengbo Ma is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.224958
+date: 2026-07-11T22:39:17.141556
 url: "/cdr-researcher-census/researchers/zhengbo-ma-a5101148/"
 layout: "researcher"
 hiddenInHomeList: true

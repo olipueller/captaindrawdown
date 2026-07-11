@@ -1,7 +1,7 @@
 ---
 title: "Sami Bawazeer"
-description: "Sami Bawazeer is a Mid-career Soil Carbon researcher at Umm al-Qura University in SA. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.483271
+description: "Sami Bawazeer is a Mid-career Biochar researcher at Umm al-Qura University in SA. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.577770
 url: "/cdr-researcher-census/researchers/sami-bawazeer-a5109600/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Umm al-Qura University · 🇸🇦 SA
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

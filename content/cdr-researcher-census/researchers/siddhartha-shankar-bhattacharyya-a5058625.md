@@ -1,7 +1,7 @@
 ---
 title: "Siddhartha Shankar Bhattacharyya"
 description: "Siddhartha Shankar Bhattacharyya is a Mid-career Soil Carbon researcher at Texas A&M University in US. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.324861
+date: 2026-07-11T22:39:16.415056
 url: "/cdr-researcher-census/researchers/siddhartha-shankar-bhattacharyya-a5058625/"
 layout: "researcher"
 hiddenInHomeList: true

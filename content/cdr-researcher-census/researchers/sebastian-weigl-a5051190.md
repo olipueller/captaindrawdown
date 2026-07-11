@@ -1,7 +1,7 @@
 ---
 title: "Sebastian Weigl"
 description: "Sebastian Weigl is an Early-career Soil Carbon researcher. With 3 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.218992
+date: 2026-07-11T22:39:17.135576
 url: "/cdr-researcher-census/researchers/sebastian-weigl-a5051190/"
 layout: "researcher"
 hiddenInHomeList: true

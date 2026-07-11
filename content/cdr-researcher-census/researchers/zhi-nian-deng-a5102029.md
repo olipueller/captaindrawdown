@@ -1,7 +1,7 @@
 ---
 title: "Zhi-Nian Deng"
-description: "Zhi-Nian Deng is a Senior Soil Carbon researcher at Guangxi Academy of Agricultural Science in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.391553
+description: "Zhi-Nian Deng is a Senior Biochar researcher at Guangxi Academy of Agricultural Science in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.312841
 url: "/cdr-researcher-census/researchers/zhi-nian-deng-a5102029/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Guangxi Academy of Agricultural Science · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

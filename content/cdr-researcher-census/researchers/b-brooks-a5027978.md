@@ -1,7 +1,7 @@
 ---
 title: "B. Brooks"
-description: "B. Brooks is a Senior General CDR researcher at Carbon Solutions (United States) in US. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.762185
+description: "B. Brooks is a Senior DAC researcher at Carbon Solutions (United States) in US. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.843857
 url: "/cdr-researcher-census/researchers/b-brooks-a5027978/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Carbon Solutions (United States) · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

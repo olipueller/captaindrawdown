@@ -1,7 +1,7 @@
 ---
 title: "Prabhansu Shrivastav"
 description: "Prabhansu Shrivastav is a Mid-career Biochar researcher at S. V. National Institute of Technology Surat in IN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.011948
+date: 2026-07-11T22:39:17.032673
 url: "/cdr-researcher-census/researchers/prabhansu-shrivastav-a5056417/"
 layout: "researcher"
 hiddenInHomeList: true

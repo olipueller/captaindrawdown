@@ -1,7 +1,7 @@
 ---
 title: "Luciana Miu"
-description: "Luciana Miu is a Mid-career General CDR researcher. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.615842
+description: "Luciana Miu is a Mid-career DAC researcher. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.535001
 url: "/cdr-researcher-census/researchers/luciana-miu-a5024261/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

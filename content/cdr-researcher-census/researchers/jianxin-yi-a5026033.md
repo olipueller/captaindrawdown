@@ -1,7 +1,7 @@
 ---
 title: "Jianxin Yi"
 description: "Jianxin Yi is an Early-career Biochar researcher at Universidad Autónoma de Madrid in ES. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.594028
+date: 2026-07-11T22:39:17.514802
 url: "/cdr-researcher-census/researchers/jianxin-yi-a5026033/"
 layout: "researcher"
 hiddenInHomeList: true

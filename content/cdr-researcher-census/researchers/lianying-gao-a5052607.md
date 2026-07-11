@@ -1,7 +1,7 @@
 ---
 title: "Lianying Gao"
-description: "Lianying Gao is a Senior Soil Carbon researcher at Tongji University in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.368999
+description: "Lianying Gao is a Senior Ocean CDR researcher at Tongji University in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.461347
 url: "/cdr-researcher-census/researchers/lianying-gao-a5052607/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Tongji University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Ocean CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
 
 ## Metrics
 

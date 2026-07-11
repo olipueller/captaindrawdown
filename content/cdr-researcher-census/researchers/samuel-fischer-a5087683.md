@@ -1,7 +1,7 @@
 ---
 title: "Samuel Fischer"
 description: "Samuel Fischer is a Mid-career General CDR researcher at OTH Regensburg in DE. With 36 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.558532
+date: 2026-07-11T22:39:16.651459
 url: "/cdr-researcher-census/researchers/samuel-fischer-a5087683/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Avirup Panja"
-description: "Avirup Panja is a Mid-career General CDR researcher. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.888400
+description: "Avirup Panja is a Mid-career Biochar researcher. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.978507
 url: "/cdr-researcher-census/researchers/avirup-panja-a5061929/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "Christopher M. Murray"
 description: "Christopher M. Murray is a Senior Ocean CDR researcher. With 69 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.315147
+date: 2026-07-11T22:39:16.405703
 url: "/cdr-researcher-census/researchers/christopher-m-murray-a5009725/"
 layout: "researcher"
 hiddenInHomeList: true

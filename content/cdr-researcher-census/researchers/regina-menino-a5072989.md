@@ -1,7 +1,7 @@
 ---
 title: "Regina Menino"
-description: "Regina Menino is a Senior Soil Carbon researcher at Instituto Nacional de Investigação Agrária e Veterinária in PT. With 30 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.812598
+description: "Regina Menino is a Senior BECCS researcher at Instituto Nacional de Investigação Agrária e Veterinária in PT. With 30 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.892632
 url: "/cdr-researcher-census/researchers/regina-menino-a5072989/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Instituto Nacional de Investigação Agrária e Veterinária · 🇵🇹 PT
 
 ## CDR Specialization
 
-**Soil Carbon**
+**BECCS**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

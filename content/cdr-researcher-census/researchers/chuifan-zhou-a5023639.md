@@ -1,7 +1,7 @@
 ---
 title: "Chuifan Zhou"
 description: "Chuifan Zhou is a Senior Soil Carbon researcher at Nanjing Forestry University in CN. With 47 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.183711
+date: 2026-07-11T22:39:16.277414
 url: "/cdr-researcher-census/researchers/chuifan-zhou-a5023639/"
 layout: "researcher"
 hiddenInHomeList: true

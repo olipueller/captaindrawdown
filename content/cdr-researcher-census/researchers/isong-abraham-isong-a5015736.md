@@ -1,7 +1,7 @@
 ---
 title: "Isong Abraham Isong"
 description: "Isong Abraham Isong is a Mid-career Soil Carbon researcher at University of Calabar in NG. With 34 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.585580
+date: 2026-07-11T22:39:16.678224
 url: "/cdr-researcher-census/researchers/isong-abraham-isong-a5015736/"
 layout: "researcher"
 hiddenInHomeList: true

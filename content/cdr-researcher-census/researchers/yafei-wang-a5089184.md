@@ -1,7 +1,7 @@
 ---
 title: "Yafei Wang"
 description: "Yafei Wang is a Senior Soil Carbon researcher at North China University of Water Resources and Electric Power in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.340098
+date: 2026-07-11T22:39:16.430293
 url: "/cdr-researcher-census/researchers/yafei-wang-a5089184/"
 layout: "researcher"
 hiddenInHomeList: true

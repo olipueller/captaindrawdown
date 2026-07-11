@@ -1,7 +1,7 @@
 ---
 title: "María Martínez‐Mena"
 description: "María Martínez‐Mena is an Eminent Soil Carbon researcher at centro de edafología y biología aplicada del segura in ES. With 134 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:39.991127
+date: 2026-07-11T22:39:16.109509
 url: "/cdr-researcher-census/researchers/maria-martinezmena-a5005380/"
 layout: "researcher"
 hiddenInHomeList: true

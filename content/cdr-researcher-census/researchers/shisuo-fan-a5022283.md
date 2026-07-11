@@ -1,7 +1,7 @@
 ---
 title: "Shisuo Fan"
 description: "Shisuo Fan is a Senior Biochar researcher at Anhui Agricultural University in CN. With 74 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.002621
+date: 2026-07-11T22:39:16.118585
 url: "/cdr-researcher-census/researchers/shisuo-fan-a5022283/"
 layout: "researcher"
 hiddenInHomeList: true

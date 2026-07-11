@@ -1,7 +1,7 @@
 ---
 title: "Duaa H. Altamer"
 description: "Duaa H. Altamer is a Mid-career Biochar researcher at College of Science/Mosul University in IQ. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.606980
+date: 2026-07-11T22:39:17.526586
 url: "/cdr-researcher-census/researchers/duaa-h-altamer-a5027040/"
 layout: "researcher"
 hiddenInHomeList: true

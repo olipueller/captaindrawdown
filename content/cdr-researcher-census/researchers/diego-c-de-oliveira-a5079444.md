@@ -1,7 +1,7 @@
 ---
 title: "Diego C. de Oliveira"
-description: "Diego C. de Oliveira is a Mid-career Biochar researcher at São Paulo State University - UNESP in BR. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.538270
+description: "Diego C. de Oliveira is a Mid-career BECCS researcher at São Paulo State University - UNESP in BR. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.462406
 url: "/cdr-researcher-census/researchers/diego-c-de-oliveira-a5079444/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ São Paulo State University - UNESP · 🇧🇷 BR
 
 ## CDR Specialization
 
-**Biochar**
+**BECCS**
 
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

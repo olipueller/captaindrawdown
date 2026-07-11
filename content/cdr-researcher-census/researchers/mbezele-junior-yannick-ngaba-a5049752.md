@@ -1,7 +1,7 @@
 ---
 title: "Mbezele Junior Yannick Ngaba"
 description: "Mbezele Junior Yannick Ngaba is a Mid-career Soil Carbon researcher at Southwest University in CN. With 54 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.542826
+date: 2026-07-11T22:39:16.636296
 url: "/cdr-researcher-census/researchers/mbezele-junior-yannick-ngaba-a5049752/"
 layout: "researcher"
 hiddenInHomeList: true

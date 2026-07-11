@@ -1,7 +1,7 @@
 ---
 title: "Anthony M. Kennedy"
 description: "Anthony M. Kennedy is a Mid-career Biochar researcher at Brown and Caldwell (United States) in US. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.496382
+date: 2026-07-11T22:39:16.590835
 url: "/cdr-researcher-census/researchers/anthony-m-kennedy-a5080103/"
 layout: "researcher"
 hiddenInHomeList: true

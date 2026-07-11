@@ -1,7 +1,7 @@
 ---
 title: "Baolin He"
 description: "Baolin He is a Senior Soil Carbon researcher at Gansu Academy of Agricultural Sciences in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.211946
+date: 2026-07-11T22:39:17.128962
 url: "/cdr-researcher-census/researchers/baolin-he-a5110376/"
 layout: "researcher"
 hiddenInHomeList: true

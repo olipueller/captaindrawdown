@@ -1,7 +1,7 @@
 ---
 title: "Abubakar Sadiq Lawi"
 description: "Abubakar Sadiq Lawi is a Mid-career Soil Carbon researcher at Anhui University of Science and Technology in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.358496
+date: 2026-07-11T22:39:17.277511
 url: "/cdr-researcher-census/researchers/abubakar-sadiq-lawi-a5086492/"
 layout: "researcher"
 hiddenInHomeList: true

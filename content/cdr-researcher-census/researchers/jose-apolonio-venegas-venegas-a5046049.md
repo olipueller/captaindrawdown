@@ -1,7 +1,7 @@
 ---
 title: "José Apolonio Venegas Venegas"
 description: "José Apolonio Venegas Venegas is a Mid-career Soil Carbon researcher. With 38 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.370557
+date: 2026-07-11T22:39:17.290342
 url: "/cdr-researcher-census/researchers/jose-apolonio-venegas-venegas-a5046049/"
 layout: "researcher"
 hiddenInHomeList: true

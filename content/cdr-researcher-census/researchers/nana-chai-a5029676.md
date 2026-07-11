@@ -1,7 +1,7 @@
 ---
 title: "Nana Chai"
 description: "Nana Chai is a Mid-career Biochar researcher at Hunan University in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.890667
+date: 2026-07-11T22:39:16.980771
 url: "/cdr-researcher-census/researchers/nana-chai-a5029676/"
 layout: "researcher"
 hiddenInHomeList: true

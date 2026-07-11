@@ -1,7 +1,7 @@
 ---
 title: "Gabriel Talero"
-description: "Gabriel Talero is a Mid-career General CDR researcher at Universidad Nacional de Colombia in CO. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.438645
+description: "Gabriel Talero is a Mid-career BECCS researcher at Universidad Nacional de Colombia in CO. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.362466
 url: "/cdr-researcher-census/researchers/gabriel-talero-a5050090/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Universidad Nacional de Colombia ·  CO
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

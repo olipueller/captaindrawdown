@@ -1,7 +1,7 @@
 ---
 title: "T. Bhagavathi Pushpa"
 description: "T. Bhagavathi Pushpa is a Mid-career Biochar researcher at Anna University, Chennai in IN. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.301820
+date: 2026-07-11T22:39:16.392563
 url: "/cdr-researcher-census/researchers/t-bhagavathi-pushpa-a5025876/"
 layout: "researcher"
 hiddenInHomeList: true

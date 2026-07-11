@@ -1,7 +1,7 @@
 ---
 title: "Yiting Lian"
 description: "Yiting Lian is a Mid-career Biochar researcher at Zhejiang A & F University in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.195875
+date: 2026-07-11T22:39:17.114810
 url: "/cdr-researcher-census/researchers/yiting-lian-a5111258/"
 layout: "researcher"
 hiddenInHomeList: true

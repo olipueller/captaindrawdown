@@ -1,7 +1,7 @@
 ---
 title: "Alex Santos da Silva"
 description: "Alex Santos da Silva is a Mid-career Soil Carbon researcher at Universidade Federal do Oeste do Pará in BR. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.622346
+date: 2026-07-11T22:39:17.541195
 url: "/cdr-researcher-census/researchers/alex-santos-da-silva-a5003993/"
 layout: "researcher"
 hiddenInHomeList: true

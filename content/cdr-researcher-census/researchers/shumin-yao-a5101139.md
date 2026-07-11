@@ -1,7 +1,7 @@
 ---
 title: "Shumin Yao"
 description: "Shumin Yao is a Senior Biochar researcher at Qufu Normal University in CN. With 31 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.796017
+date: 2026-07-11T22:39:16.877151
 url: "/cdr-researcher-census/researchers/shumin-yao-a5101139/"
 layout: "researcher"
 hiddenInHomeList: true

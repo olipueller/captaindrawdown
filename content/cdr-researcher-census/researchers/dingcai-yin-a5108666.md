@@ -1,7 +1,7 @@
 ---
 title: "Dingcai Yin"
 description: "Dingcai Yin is a Mid-career Soil Carbon researcher at Hunan University of Science and Technology in CN. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.831428
+date: 2026-07-11T22:39:16.908810
 url: "/cdr-researcher-census/researchers/dingcai-yin-a5108666/"
 layout: "researcher"
 hiddenInHomeList: true

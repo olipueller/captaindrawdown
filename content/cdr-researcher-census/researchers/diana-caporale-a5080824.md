@@ -1,7 +1,7 @@
 ---
 title: "Diana Caporale"
 description: "Diana Caporale is a Mid-career Soil Carbon researcher at University of Bari Aldo Moro in IT. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.849566
+date: 2026-07-11T22:39:16.926291
 url: "/cdr-researcher-census/researchers/diana-caporale-a5080824/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yingxue Xuan"
-description: "Yingxue Xuan is a Mid-career Soil Carbon researcher at Southern Marine Science and Engineering Guangdong Laboratory (Guangzhou) in CN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.538587
+description: "Yingxue Xuan is a Mid-career Biochar researcher at Southern Marine Science and Engineering Guangdong Laboratory (Guangzhou) in CN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.631899
 url: "/cdr-researcher-census/researchers/yingxue-xuan-a5004454/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Southern Marine Science and Engineering Guangdong Laboratory (Guangzhou) · 🇨
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

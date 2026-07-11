@@ -1,7 +1,7 @@
 ---
 title: "Oreofe Toyin. A"
 description: "Oreofe Toyin. A is an Early-career Biochar researcher at Landmark College in US. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.203494
+date: 2026-07-11T22:39:17.121221
 url: "/cdr-researcher-census/researchers/oreofe-toyin-a-a5072269/"
 layout: "researcher"
 hiddenInHomeList: true

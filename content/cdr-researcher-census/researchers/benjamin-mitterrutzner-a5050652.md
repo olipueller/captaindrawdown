@@ -1,7 +1,7 @@
 ---
 title: "Benjamin Mitterrutzner"
-description: "Benjamin Mitterrutzner is a Mid-career General CDR researcher at Norwegian University of Science and Technology in NO. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.442501
+description: "Benjamin Mitterrutzner is a Mid-career DAC researcher at Norwegian University of Science and Technology in NO. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.367033
 url: "/cdr-researcher-census/researchers/benjamin-mitterrutzner-a5050652/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Norwegian University of Science and Technology · 🇳🇴 NO
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

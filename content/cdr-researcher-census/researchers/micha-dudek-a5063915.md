@@ -1,7 +1,7 @@
 ---
 title: "Michał Dudek"
-description: "Michał Dudek is a Mid-career Soil Carbon researcher at Geological Institute in RU. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.861256
+description: "Michał Dudek is a Mid-career Biochar researcher at Geological Institute in RU. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.937109
 url: "/cdr-researcher-census/researchers/micha-dudek-a5063915/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Geological Institute · 🇷🇺 RU
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

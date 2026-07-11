@@ -1,7 +1,7 @@
 ---
 title: "Waqar Ashiq"
 description: "Waqar Ashiq is a Mid-career Soil Carbon researcher at University of Guelph in CA. With 19 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.504375
+date: 2026-07-11T22:39:16.598795
 url: "/cdr-researcher-census/researchers/waqar-ashiq-a5078040/"
 layout: "researcher"
 hiddenInHomeList: true

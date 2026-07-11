@@ -1,7 +1,7 @@
 ---
 title: "Laura Heimsch"
 description: "Laura Heimsch is a Mid-career Soil Carbon researcher. With 24 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.493473
+date: 2026-07-11T22:39:17.418398
 url: "/cdr-researcher-census/researchers/laura-heimsch-a5049180/"
 layout: "researcher"
 hiddenInHomeList: true

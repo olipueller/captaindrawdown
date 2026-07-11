@@ -1,7 +1,7 @@
 ---
 title: "Michaël Fonder"
-description: "Michaël Fonder is a Mid-career General CDR researcher at University of Liège in BE. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.336892
+description: "Michaël Fonder is a Mid-career DAC researcher at University of Liège in BE. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.254343
 url: "/cdr-researcher-census/researchers/michael-fonder-a5063464/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ University of Liège · 🇧🇪 BE
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

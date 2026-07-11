@@ -1,7 +1,7 @@
 ---
 title: "Jianli He"
 description: "Jianli He is a Senior Soil Carbon researcher at Mongolian University of Science and Technology in MN. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.612271
+date: 2026-07-11T22:39:16.703997
 url: "/cdr-researcher-census/researchers/jianli-he-a5101069/"
 layout: "researcher"
 hiddenInHomeList: true

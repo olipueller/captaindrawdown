@@ -1,7 +1,7 @@
 ---
 title: "Murat Yılmaz"
 description: "Murat Yılmaz is an Eminent Biochar researcher at Osmaniye Korkut Ata University in TR. With 137 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.031867
+date: 2026-07-11T22:39:16.141904
 url: "/cdr-researcher-census/researchers/murat-ylmaz-a5100637/"
 layout: "researcher"
 hiddenInHomeList: true

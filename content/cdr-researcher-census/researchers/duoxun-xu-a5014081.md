@@ -1,7 +1,7 @@
 ---
 title: "Duoxun Xu"
 description: "Duoxun Xu is an Early-career Soil Carbon researcher at China Geological Survey in CN. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.446350
+date: 2026-07-11T22:39:17.370944
 url: "/cdr-researcher-census/researchers/duoxun-xu-a5014081/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shuang Tian"
 description: "Shuang Tian is a Mid-career Soil Carbon researcher at Guangxi University in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.214247
+date: 2026-07-11T22:39:17.130973
 url: "/cdr-researcher-census/researchers/shuang-tian-a5031332/"
 layout: "researcher"
 hiddenInHomeList: true

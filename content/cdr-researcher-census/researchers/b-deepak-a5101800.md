@@ -1,7 +1,7 @@
 ---
 title: "B. Deepak"
-description: "B. Deepak is a Mid-career General CDR researcher at Almas Hospital in IN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.487429
+description: "B. Deepak is a Mid-career Biochar researcher at Almas Hospital in IN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.581743
 url: "/cdr-researcher-census/researchers/b-deepak-a5101800/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Almas Hospital · 🇮🇳 IN
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

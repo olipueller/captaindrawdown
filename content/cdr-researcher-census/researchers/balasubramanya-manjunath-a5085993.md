@@ -1,7 +1,7 @@
 ---
 title: "Balasubramanya Manjunath"
 description: "Balasubramanya Manjunath is a Mid-career Biochar researcher at National Institute of Technology Karnataka in IN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.596440
+date: 2026-07-11T22:39:17.517059
 url: "/cdr-researcher-census/researchers/balasubramanya-manjunath-a5085993/"
 layout: "researcher"
 hiddenInHomeList: true

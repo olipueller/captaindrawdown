@@ -1,7 +1,7 @@
 ---
 title: "Mesut Sırrı"
 description: "Mesut Sırrı is a Mid-career Soil Carbon researcher at Siirt Üniversitesi in TR. With 36 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.531030
+date: 2026-07-11T22:39:17.455295
 url: "/cdr-researcher-census/researchers/mesut-srr-a5047358/"
 layout: "researcher"
 hiddenInHomeList: true

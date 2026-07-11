@@ -1,7 +1,7 @@
 ---
 title: "Hanfeng Jiang"
-description: "Hanfeng Jiang is a Mid-career Soil Carbon researcher at Nanjing University of Science and Technology in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.848334
+description: "Hanfeng Jiang is a Mid-career Biochar researcher at Nanjing University of Science and Technology in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.925112
 url: "/cdr-researcher-census/researchers/hanfeng-jiang-a5030464/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Nanjing University of Science and Technology · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

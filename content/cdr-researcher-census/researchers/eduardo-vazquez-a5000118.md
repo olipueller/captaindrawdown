@@ -1,7 +1,7 @@
 ---
 title: "Eduardo Vázquez"
 description: "Eduardo Vázquez is a Senior Soil Carbon researcher at Technical University of Madrid in ES. With 64 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.211220
+date: 2026-07-11T22:39:16.302662
 url: "/cdr-researcher-census/researchers/eduardo-vazquez-a5000118/"
 layout: "researcher"
 hiddenInHomeList: true

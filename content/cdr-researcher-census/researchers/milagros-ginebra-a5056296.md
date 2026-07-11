@@ -1,7 +1,7 @@
 ---
 title: "Milagros Ginebra"
-description: "Milagros Ginebra is a Mid-career Soil Carbon researcher at Consejo Nacional de Investigaciones Científicas y Técnicas in AR. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.406293
+description: "Milagros Ginebra is a Mid-career Biochar researcher at Consejo Nacional de Investigaciones Científicas y Técnicas in AR. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.328612
 url: "/cdr-researcher-census/researchers/milagros-ginebra-a5056296/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Consejo Nacional de Investigaciones Científicas y Técnicas ·  AR
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

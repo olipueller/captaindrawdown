@@ -1,7 +1,7 @@
 ---
 title: "Xinle Tong"
 description: "Xinle Tong is a Senior Soil Carbon researcher at Nanjing University of Finance and Economics in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.265628
+date: 2026-07-11T22:39:17.183046
 url: "/cdr-researcher-census/researchers/xinle-tong-a5082841/"
 layout: "researcher"
 hiddenInHomeList: true

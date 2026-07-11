@@ -1,7 +1,7 @@
 ---
 title: "Khaled Baamran"
 description: "Khaled Baamran is a Mid-career DAC researcher at Defense Logistics Agency in US. With 34 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.396066
+date: 2026-07-11T22:39:16.489859
 url: "/cdr-researcher-census/researchers/khaled-baamran-a5051419/"
 layout: "researcher"
 hiddenInHomeList: true

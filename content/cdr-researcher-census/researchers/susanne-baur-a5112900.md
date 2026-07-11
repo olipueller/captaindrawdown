@@ -1,7 +1,7 @@
 ---
 title: "Susanne Baur"
 description: "Susanne Baur is a Senior General CDR researcher at Centre National de la Recherche Scientifique in FR. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.784691
+date: 2026-07-11T22:39:16.865809
 url: "/cdr-researcher-census/researchers/susanne-baur-a5112900/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "David Baah"
-description: "David Baah is a Senior General CDR researcher at Tuskegee University in US. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.472601
+description: "David Baah is a Senior Biochar researcher at Tuskegee University in US. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.567356
 url: "/cdr-researcher-census/researchers/david-baah-a5084521/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Tuskegee University · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

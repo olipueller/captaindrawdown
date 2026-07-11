@@ -1,7 +1,7 @@
 ---
 title: "Thanh Ngoc-Dan Cao"
-description: "Thanh Ngoc-Dan Cao is a Mid-career Soil Carbon researcher at National Taiwan University in TW. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.474264
+description: "Thanh Ngoc-Dan Cao is a Mid-career Biochar researcher at National Taiwan University in TW. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.569017
 url: "/cdr-researcher-census/researchers/thanh-ngoc-dan-cao-a5109600/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ National Taiwan University · 🇹🇼 TW
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

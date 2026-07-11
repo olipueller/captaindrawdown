@@ -1,7 +1,7 @@
 ---
 title: "Laksanara Khwanchum"
 description: "Laksanara Khwanchum is a Mid-career Soil Carbon researcher at Walailak University in TH. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.627890
+date: 2026-07-11T22:39:17.547005
 url: "/cdr-researcher-census/researchers/laksanara-khwanchum-a5084845/"
 layout: "researcher"
 hiddenInHomeList: true

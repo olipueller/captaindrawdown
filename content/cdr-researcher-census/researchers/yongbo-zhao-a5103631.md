@@ -1,7 +1,7 @@
 ---
 title: "Yongbo Zhao"
 description: "Yongbo Zhao is a Senior Soil Carbon researcher at Obstetrics and Gynecology Hospital of Fudan University in CN. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.351370
+date: 2026-07-11T22:39:16.441455
 url: "/cdr-researcher-census/researchers/yongbo-zhao-a5103631/"
 layout: "researcher"
 hiddenInHomeList: true

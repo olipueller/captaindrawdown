@@ -1,7 +1,7 @@
 ---
 title: "Jinghua Huang"
 description: "Jinghua Huang is a Mid-career Soil Carbon researcher at Guangzhou Experimental Station in CN. With 24 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.198725
+date: 2026-07-11T22:39:17.117120
 url: "/cdr-researcher-census/researchers/jinghua-huang-a5106038/"
 layout: "researcher"
 hiddenInHomeList: true

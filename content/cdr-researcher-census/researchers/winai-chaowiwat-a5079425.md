@@ -1,7 +1,7 @@
 ---
 title: "Winai Chaowiwat"
 description: "Winai Chaowiwat is a Mid-career Soil Carbon researcher. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.506800
+date: 2026-07-11T22:39:16.601327
 url: "/cdr-researcher-census/researchers/winai-chaowiwat-a5079425/"
 layout: "researcher"
 hiddenInHomeList: true

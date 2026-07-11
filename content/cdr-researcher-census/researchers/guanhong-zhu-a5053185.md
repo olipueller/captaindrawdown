@@ -1,7 +1,7 @@
 ---
 title: "Guanhong Zhu"
 description: "Guanhong Zhu is a Mid-career Enhanced Weathering researcher at Chinese Academy of Sciences in CN. With 28 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.771447
+date: 2026-07-11T22:39:16.853092
 url: "/cdr-researcher-census/researchers/guanhong-zhu-a5053185/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Wenhao Feng"
 description: "Wenhao Feng is a Senior Soil Carbon researcher at Hebei Agricultural University in CN. With 62 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.607847
+date: 2026-07-11T22:39:16.700008
 url: "/cdr-researcher-census/researchers/wenhao-feng-a5102507/"
 layout: "researcher"
 hiddenInHomeList: true

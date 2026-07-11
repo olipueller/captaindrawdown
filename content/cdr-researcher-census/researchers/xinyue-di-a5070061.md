@@ -1,7 +1,7 @@
 ---
 title: "Xinyue Di"
 description: "Xinyue Di is a Mid-career Soil Carbon researcher. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.436310
+date: 2026-07-11T22:39:17.360128
 url: "/cdr-researcher-census/researchers/xinyue-di-a5070061/"
 layout: "researcher"
 hiddenInHomeList: true

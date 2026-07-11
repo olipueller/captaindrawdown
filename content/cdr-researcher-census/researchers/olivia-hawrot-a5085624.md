@@ -1,7 +1,7 @@
 ---
 title: "Olivia Hawrot"
 description: "Olivia Hawrot is a Mid-career General CDR researcher at Nano Carbon (Poland) in PL. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.565243
+date: 2026-07-11T22:39:16.657665
 url: "/cdr-researcher-census/researchers/olivia-hawrot-a5085624/"
 layout: "researcher"
 hiddenInHomeList: true

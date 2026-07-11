@@ -1,7 +1,7 @@
 ---
 title: "Robert W. Brown"
 description: "Robert W. Brown is a Senior Biochar researcher at Bangor University in GB. With 49 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.174536
+date: 2026-07-11T22:39:16.268394
 url: "/cdr-researcher-census/researchers/robert-w-brown-a5003791/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Haotian Zhang"
-description: "Haotian Zhang is a Mid-career Soil Carbon researcher at Zhejiang University in CN. With 53 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.225684
+description: "Haotian Zhang is a Mid-career BECCS researcher at Zhejiang University in CN. With 53 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.316343
 url: "/cdr-researcher-census/researchers/haotian-zhang-a5100392/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Zhejiang University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**BECCS**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "Santosh Kumar Sahu"
 description: "Santosh Kumar Sahu is a Senior Biochar researcher at Hemchandracharya North Gujarat University in IN. With 55 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.446854
+date: 2026-07-11T22:39:16.541652
 url: "/cdr-researcher-census/researchers/santosh-kumar-sahu-a5016337/"
 layout: "researcher"
 hiddenInHomeList: true

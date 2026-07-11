@@ -1,7 +1,7 @@
 ---
 title: "Carmen Segura"
 description: "Carmen Segura is a Senior Soil Carbon researcher at Rothamsted Research in GB. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.731680
+date: 2026-07-11T22:39:16.814103
 url: "/cdr-researcher-census/researchers/carmen-segura-a5083523/"
 layout: "researcher"
 hiddenInHomeList: true

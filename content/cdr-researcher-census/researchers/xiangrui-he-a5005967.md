@@ -1,7 +1,7 @@
 ---
 title: "Xiangrui He"
-description: "Xiangrui He is a Mid-career General CDR researcher at Huazhong University of Science and Technology in CN. With 25 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.538795
+description: "Xiangrui He is a Mid-career Biochar researcher at Huazhong University of Science and Technology in CN. With 25 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.632104
 url: "/cdr-researcher-census/researchers/xiangrui-he-a5005967/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Huazhong University of Science and Technology · 🇨🇳 CN
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

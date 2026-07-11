@@ -1,7 +1,7 @@
 ---
 title: "Soheil Abdpour"
 description: "Soheil Abdpour is a Mid-career Biochar researcher at Heinrich Heine University Düsseldorf in DE. With 12 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.525171
+date: 2026-07-11T22:39:16.619482
 url: "/cdr-researcher-census/researchers/soheil-abdpour-a5066714/"
 layout: "researcher"
 hiddenInHomeList: true

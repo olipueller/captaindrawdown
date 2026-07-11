@@ -1,7 +1,7 @@
 ---
 title: "Simone Cristina Braga Bertini"
 description: "Simone Cristina Braga Bertini is a Mid-career Soil Carbon researcher at University of Tehran in IR. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.807517
+date: 2026-07-11T22:39:16.887524
 url: "/cdr-researcher-census/researchers/simone-cristina-braga-bertini-a5055618/"
 layout: "researcher"
 hiddenInHomeList: true

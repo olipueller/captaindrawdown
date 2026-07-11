@@ -1,7 +1,7 @@
 ---
 title: "Zhiguo Hao"
 description: "Zhiguo Hao is a Senior Soil Carbon researcher at Xi'an Jiaotong University in CN. With 30 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.761229
+date: 2026-07-11T22:39:16.842765
 url: "/cdr-researcher-census/researchers/zhiguo-hao-a5112043/"
 layout: "researcher"
 hiddenInHomeList: true

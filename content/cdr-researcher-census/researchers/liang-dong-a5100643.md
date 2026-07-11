@@ -1,7 +1,7 @@
 ---
 title: "Liang Dong"
 description: "Liang Dong is a Mid-career Soil Carbon researcher at Ministry of Agriculture and Rural Affairs in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.287393
+date: 2026-07-11T22:39:17.204425
 url: "/cdr-researcher-census/researchers/liang-dong-a5100643/"
 layout: "researcher"
 hiddenInHomeList: true

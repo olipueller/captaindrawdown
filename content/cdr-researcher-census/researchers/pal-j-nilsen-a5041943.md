@@ -1,7 +1,7 @@
 ---
 title: "Pål J. Nilsen"
 description: "Pål J. Nilsen is a Senior Biochar researcher. With 26 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.422106
+date: 2026-07-11T22:39:16.516794
 url: "/cdr-researcher-census/researchers/pal-j-nilsen-a5041943/"
 layout: "researcher"
 hiddenInHomeList: true

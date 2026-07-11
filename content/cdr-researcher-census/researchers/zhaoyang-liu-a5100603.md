@@ -1,7 +1,7 @@
 ---
 title: "Zhaoyang Liu"
-description: "Zhaoyang Liu is a Senior General CDR researcher at Jilin University in CN. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.394143
+description: "Zhaoyang Liu is a Senior Biochar researcher at Jilin University in CN. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.487915
 url: "/cdr-researcher-census/researchers/zhaoyang-liu-a5100603/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Jilin University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

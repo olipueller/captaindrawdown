@@ -1,7 +1,7 @@
 ---
 title: "Jost Kemper"
 description: "Jost Kemper is a Senior Ocean CDR researcher at Hochschule für Angewandte Wissenschaften Kiel in DE. With 25 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.959589
+date: 2026-07-11T22:39:17.008834
 url: "/cdr-researcher-census/researchers/jost-kemper-a5007782/"
 layout: "researcher"
 hiddenInHomeList: true

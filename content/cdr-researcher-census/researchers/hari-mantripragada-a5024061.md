@@ -1,7 +1,7 @@
 ---
 title: "Hari Mantripragada"
 description: "Hari Mantripragada is a Senior General CDR researcher at University of Pittsburgh in US. With 29 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.224803
+date: 2026-07-11T22:39:16.315451
 url: "/cdr-researcher-census/researchers/hari-mantripragada-a5024061/"
 layout: "researcher"
 hiddenInHomeList: true

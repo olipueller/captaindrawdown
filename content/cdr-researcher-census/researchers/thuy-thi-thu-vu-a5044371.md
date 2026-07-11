@@ -1,7 +1,7 @@
 ---
 title: "Thuy Thi Thu Vu"
-description: "Thuy Thi Thu Vu is a Senior General CDR researcher at Thai Nguyen University in VN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.655739
+description: "Thuy Thi Thu Vu is a Senior Enhanced Weathering researcher at Thai Nguyen University in VN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.584466
 url: "/cdr-researcher-census/researchers/thuy-thi-thu-vu-a5044371/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Thai Nguyen University · 🇻🇳 VN
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

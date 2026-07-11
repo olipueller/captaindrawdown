@@ -1,7 +1,7 @@
 ---
 title: "Weiyu Huang"
 description: "Weiyu Huang is a Senior Soil Carbon researcher at Central South University in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.571337
+date: 2026-07-11T22:39:17.494186
 url: "/cdr-researcher-census/researchers/weiyu-huang-a5101389/"
 layout: "researcher"
 hiddenInHomeList: true

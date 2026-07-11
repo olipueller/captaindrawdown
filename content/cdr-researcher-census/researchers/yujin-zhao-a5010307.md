@@ -1,7 +1,7 @@
 ---
 title: "Yujin Zhao"
 description: "Yujin Zhao is a Senior Soil Carbon researcher at Institute of Botany in CN. With 57 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.225290
+date: 2026-07-11T22:39:16.315947
 url: "/cdr-researcher-census/researchers/yujin-zhao-a5010307/"
 layout: "researcher"
 hiddenInHomeList: true

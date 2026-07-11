@@ -1,7 +1,7 @@
 ---
 title: "Xinran Zheng"
 description: "Xinran Zheng is a Mid-career Soil Carbon researcher at Xi’an Jiaotong-Liverpool University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.958864
+date: 2026-07-11T22:39:17.008243
 url: "/cdr-researcher-census/researchers/xinran-zheng-a5046076/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Haiyang Ma"
 description: "Haiyang Ma is a Mid-career Soil Carbon researcher at Chinese Academy of Tropical Agricultural Sciences in CN. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.790444
+date: 2026-07-11T22:39:16.871920
 url: "/cdr-researcher-census/researchers/haiyang-ma-a5102213/"
 layout: "researcher"
 hiddenInHomeList: true

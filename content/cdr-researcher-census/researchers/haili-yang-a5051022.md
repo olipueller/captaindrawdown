@@ -1,7 +1,7 @@
 ---
 title: "Haili Yang"
 description: "Haili Yang is a Senior Biochar researcher at China Three Gorges University in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.670092
+date: 2026-07-11T22:39:16.757052
 url: "/cdr-researcher-census/researchers/haili-yang-a5051022/"
 layout: "researcher"
 hiddenInHomeList: true

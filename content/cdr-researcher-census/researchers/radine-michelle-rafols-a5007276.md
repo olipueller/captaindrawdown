@@ -1,7 +1,7 @@
 ---
 title: "Radine Michelle Rafols"
-description: "Radine Michelle Rafols is a Mid-career General CDR researcher at Center for Global Development in US. With 11 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.615480
+description: "Radine Michelle Rafols is a Mid-career Enhanced Weathering researcher at Center for Global Development in US. With 11 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.534658
 url: "/cdr-researcher-census/researchers/radine-michelle-rafols-a5007276/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Center for Global Development · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

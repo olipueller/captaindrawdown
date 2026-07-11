@@ -1,7 +1,7 @@
 ---
 title: "Mutondwa M. Phophi"
 description: "Mutondwa M. Phophi is a Mid-career Soil Carbon researcher at North-West University in ZA. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.217796
+date: 2026-07-11T22:39:17.134415
 url: "/cdr-researcher-census/researchers/mutondwa-m-phophi-a5032434/"
 layout: "researcher"
 hiddenInHomeList: true

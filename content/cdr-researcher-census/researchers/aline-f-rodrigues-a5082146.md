@@ -1,7 +1,7 @@
 ---
 title: "Aline F. Rodrigues"
-description: "Aline F. Rodrigues is a Senior Soil Carbon researcher at Pontifícia Universidade Católica do Rio de Janeiro in BR. With 32 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.524297
+description: "Aline F. Rodrigues is a Senior Biochar researcher at Pontifícia Universidade Católica do Rio de Janeiro in BR. With 32 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.618746
 url: "/cdr-researcher-census/researchers/aline-f-rodrigues-a5082146/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Pontifícia Universidade Católica do Rio de Janeiro · 🇧🇷 BR
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

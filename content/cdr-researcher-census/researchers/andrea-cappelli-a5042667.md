@@ -1,7 +1,7 @@
 ---
 title: "Andrea Cappelli"
-description: "Andrea Cappelli is a Senior General CDR researcher at Sapienza University of Rome in IT. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.313160
+description: "Andrea Cappelli is a Senior Biochar researcher at Sapienza University of Rome in IT. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.230519
 url: "/cdr-researcher-census/researchers/andrea-cappelli-a5042667/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Sapienza University of Rome · 🇮🇹 IT
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

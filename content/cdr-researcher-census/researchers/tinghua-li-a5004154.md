@@ -1,7 +1,7 @@
 ---
 title: "Tinghua Li"
 description: "Tinghua Li is a Senior Soil Carbon researcher at University of Groningen in NL. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.199245
+date: 2026-07-11T22:39:17.117563
 url: "/cdr-researcher-census/researchers/tinghua-li-a5004154/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Isaac Sánchez-Montes"
 description: "Isaac Sánchez-Montes is a Mid-career Biochar researcher at Universidade de São Paulo Câmpus de São Carlos in BR. With 51 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.321636
+date: 2026-07-11T22:39:16.412327
 url: "/cdr-researcher-census/researchers/isaac-sanchez-montes-a5074033/"
 layout: "researcher"
 hiddenInHomeList: true

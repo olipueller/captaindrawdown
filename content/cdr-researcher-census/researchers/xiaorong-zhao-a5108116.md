@@ -1,7 +1,7 @@
 ---
 title: "Xiaorong Zhao"
 description: "Xiaorong Zhao is a Senior Soil Carbon researcher at China Three Gorges University in CN. With 66 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.054636
+date: 2026-07-11T22:39:16.160967
 url: "/cdr-researcher-census/researchers/xiaorong-zhao-a5108116/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Rubenildo Viera Andrade"
-description: "Rubenildo Viera Andrade is a Mid-career Biochar researcher at Universidade Federal de Itajubá in BR. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.810093
+description: "Rubenildo Viera Andrade is a Mid-career BECCS researcher at Universidade Federal de Itajubá in BR. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.890069
 url: "/cdr-researcher-census/researchers/rubenildo-viera-andrade-a5108201/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Universidade Federal de Itajubá · 🇧🇷 BR
 
 ## CDR Specialization
 
-**Biochar**
+**BECCS**
 
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

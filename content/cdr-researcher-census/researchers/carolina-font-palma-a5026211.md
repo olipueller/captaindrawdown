@@ -1,7 +1,7 @@
 ---
 title: "Carolina Font-Palma"
-description: "Carolina Font-Palma is a Senior General CDR researcher at University of Hull in GB. With 56 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.102610
+description: "Carolina Font-Palma is a Senior DAC researcher at University of Hull in GB. With 56 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.201922
 url: "/cdr-researcher-census/researchers/carolina-font-palma-a5026211/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Hull · 🇬🇧 GB
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "Pasquale Napoletano"
 description: "Pasquale Napoletano is a Mid-career Soil Carbon researcher at The Graduate Center, CUNY in US. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.237529
+date: 2026-07-11T22:39:17.154410
 url: "/cdr-researcher-census/researchers/pasquale-napoletano-a5086617/"
 layout: "researcher"
 hiddenInHomeList: true

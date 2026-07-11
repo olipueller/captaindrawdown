@@ -1,7 +1,7 @@
 ---
 title: "Havalend E. Steinmuller"
 description: "Havalend E. Steinmuller is a Mid-career Soil Carbon researcher at The University of Texas Rio Grande Valley in US. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.408016
+date: 2026-07-11T22:39:16.501992
 url: "/cdr-researcher-census/researchers/havalend-e-steinmuller-a5090241/"
 layout: "researcher"
 hiddenInHomeList: true

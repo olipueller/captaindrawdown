@@ -1,7 +1,7 @@
 ---
 title: "Tianqi Zhao"
 description: "Tianqi Zhao is a Mid-career Soil Carbon researcher at China Institute of Water Resources and Hydropower Research in CN. With 33 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.950563
+date: 2026-07-11T22:39:17.002730
 url: "/cdr-researcher-census/researchers/tianqi-zhao-a5010981/"
 layout: "researcher"
 hiddenInHomeList: true

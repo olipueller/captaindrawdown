@@ -1,7 +1,7 @@
 ---
 title: "Omosalewa Odebiri"
 description: "Omosalewa Odebiri is a Mid-career Soil Carbon researcher at Deakin University in AU. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.457432
+date: 2026-07-11T22:39:16.551988
 url: "/cdr-researcher-census/researchers/omosalewa-odebiri-a5087827/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Liyu Chen"
 description: "Liyu Chen is a Mid-career Soil Carbon researcher at Research Institute of Animal Husbandry in MN. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.229792
+date: 2026-07-11T22:39:17.146728
 url: "/cdr-researcher-census/researchers/liyu-chen-a5100698/"
 layout: "researcher"
 hiddenInHomeList: true

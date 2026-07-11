@@ -1,7 +1,7 @@
 ---
 title: "Jing-Jing Luo"
 description: "Jing-Jing Luo is a Mid-career Biochar researcher at University of Bristol in GB. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.658650
+date: 2026-07-11T22:39:17.589569
 url: "/cdr-researcher-census/researchers/jing-jing-luo-a5034982/"
 layout: "researcher"
 hiddenInHomeList: true

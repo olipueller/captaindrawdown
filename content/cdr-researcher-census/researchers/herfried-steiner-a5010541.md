@@ -1,7 +1,7 @@
 ---
 title: "Herfried Steiner"
 description: "Herfried Steiner is a Mid-career Soil Carbon researcher at Austrian Research Centre for Forests in AT. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.640102
+date: 2026-07-11T22:39:17.561751
 url: "/cdr-researcher-census/researchers/herfried-steiner-a5010541/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xinyuan Zhu"
 description: "Xinyuan Zhu is a Senior Biochar researcher at Xi'an Jiaotong University in CN. With 16 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.527645
+date: 2026-07-11T22:39:16.621773
 url: "/cdr-researcher-census/researchers/xinyuan-zhu-a5101971/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mariangela Diacono"
 description: "Mariangela Diacono is a Senior Soil Carbon researcher at Consiglio per la ricerca in agricoltura e l'analisi dell'economia agraria in IT. With 106 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.020774
+date: 2026-07-11T22:39:16.132567
 url: "/cdr-researcher-census/researchers/mariangela-diacono-a5068266/"
 layout: "researcher"
 hiddenInHomeList: true

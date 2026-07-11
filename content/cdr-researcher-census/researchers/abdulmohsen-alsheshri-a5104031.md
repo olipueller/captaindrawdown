@@ -1,7 +1,7 @@
 ---
 title: "Abdulmohsen Alsheshri"
 description: "Abdulmohsen Alsheshri is an Early-career Biochar researcher at King Abdulaziz University in SA. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.318604
+date: 2026-07-11T22:39:17.235700
 url: "/cdr-researcher-census/researchers/abdulmohsen-alsheshri-a5104031/"
 layout: "researcher"
 hiddenInHomeList: true

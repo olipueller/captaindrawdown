@@ -1,7 +1,7 @@
 ---
 title: "Peng-Yang Wang"
 description: "Peng-Yang Wang is a Mid-career Soil Carbon researcher at State Key Laboratory of Herbage Improvement and Grassland Agro-ecosystems. With 13 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.769884
+date: 2026-07-11T22:39:16.851498
 url: "/cdr-researcher-census/researchers/peng-yang-wang-a5027710/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shuming Li"
 description: "Shuming Li is a Mid-career General CDR researcher at Jilin University in CN. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.604245
+date: 2026-07-11T22:39:16.696657
 url: "/cdr-researcher-census/researchers/shuming-li-a5104181/"
 layout: "researcher"
 hiddenInHomeList: true

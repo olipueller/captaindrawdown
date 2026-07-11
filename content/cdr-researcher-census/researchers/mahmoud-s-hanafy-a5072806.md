@@ -1,7 +1,7 @@
 ---
 title: "Mahmoud S. Hanafy"
 description: "Mahmoud S. Hanafy is a Mid-career Biochar researcher at Integrated DNA Technologies (United States) in US. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.516372
+date: 2026-07-11T22:39:16.610541
 url: "/cdr-researcher-census/researchers/mahmoud-s-hanafy-a5072806/"
 layout: "researcher"
 hiddenInHomeList: true

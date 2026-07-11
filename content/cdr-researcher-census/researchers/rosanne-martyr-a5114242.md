@@ -1,7 +1,7 @@
 ---
 title: "Rosanne Martyr"
 description: "Rosanne Martyr is an Early-career General CDR researcher at Humboldt-Universität zu Berlin in DE. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.367389
+date: 2026-07-11T22:39:17.286861
 url: "/cdr-researcher-census/researchers/rosanne-martyr-a5114242/"
 layout: "researcher"
 hiddenInHomeList: true

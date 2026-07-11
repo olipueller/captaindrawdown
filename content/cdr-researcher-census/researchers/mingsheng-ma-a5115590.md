@@ -1,7 +1,7 @@
 ---
 title: "Mingsheng Ma"
 description: "Mingsheng Ma is a Senior Soil Carbon researcher at Chinese Academy of Medical Sciences & Peking Union Medical College in CN. With 39 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.684468
+date: 2026-07-11T22:39:16.770195
 url: "/cdr-researcher-census/researchers/mingsheng-ma-a5115590/"
 layout: "researcher"
 hiddenInHomeList: true

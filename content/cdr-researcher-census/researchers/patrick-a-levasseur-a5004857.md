@@ -1,7 +1,7 @@
 ---
 title: "Patrick A. Levasseur"
 description: "Patrick A. Levasseur is a Senior Soil Carbon researcher at Natural Resources Canada in CA. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.440964
+date: 2026-07-11T22:39:17.365193
 url: "/cdr-researcher-census/researchers/patrick-a-levasseur-a5004857/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Bruno Salarini Peixoto"
 description: "Bruno Salarini Peixoto is a Mid-career Biochar researcher at Universidade Federal Fluminense in BR. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.369066
+date: 2026-07-11T22:39:17.288730
 url: "/cdr-researcher-census/researchers/bruno-salarini-peixoto-a5076796/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ingrid Schulte"
 description: "Ingrid Schulte is a Senior General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.130781
+date: 2026-07-11T22:39:17.081171
 url: "/cdr-researcher-census/researchers/ingrid-schulte-a5044212/"
 layout: "researcher"
 hiddenInHomeList: true

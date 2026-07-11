@@ -1,7 +1,7 @@
 ---
 title: "Abhijeet Anand"
 description: "Abhijeet Anand is a Mid-career Biochar researcher at Indian Institute of Technology Delhi in IN. With 24 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.222949
+date: 2026-07-11T22:39:16.313604
 url: "/cdr-researcher-census/researchers/abhijeet-anand-a5034335/"
 layout: "researcher"
 hiddenInHomeList: true

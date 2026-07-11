@@ -1,7 +1,7 @@
 ---
 title: "Mário Muniz Tagliari"
-description: "Mário Muniz Tagliari is a Mid-career General CDR researcher at Universidade Tecnológica Federal do Paraná in BR. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.471182
+description: "Mário Muniz Tagliari is a Mid-career Biochar researcher at Universidade Tecnológica Federal do Paraná in BR. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.395224
 url: "/cdr-researcher-census/researchers/mario-muniz-tagliari-a5061155/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Universidade Tecnológica Federal do Paraná · 🇧🇷 BR
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

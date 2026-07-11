@@ -1,7 +1,7 @@
 ---
 title: "Silke Stöber"
 description: "Silke Stöber is a Mid-career Soil Carbon researcher. With 35 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.469119
+date: 2026-07-11T22:39:16.563527
 url: "/cdr-researcher-census/researchers/silke-stober-a5085179/"
 layout: "researcher"
 hiddenInHomeList: true

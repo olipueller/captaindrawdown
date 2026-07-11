@@ -1,7 +1,7 @@
 ---
 title: "Filip Gamoń"
 description: "Filip Gamoń is a Mid-career Biochar researcher at Gdańsk University of Technology in PL. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.813225
+date: 2026-07-11T22:39:16.893271
 url: "/cdr-researcher-census/researchers/filip-gamon-a5036777/"
 layout: "researcher"
 hiddenInHomeList: true

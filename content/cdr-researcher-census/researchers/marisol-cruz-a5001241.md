@@ -1,7 +1,7 @@
 ---
 title: "Marisol Cruz"
 description: "Marisol Cruz is a Senior Soil Carbon researcher at Universidad de Los Andes in CO. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.291343
+date: 2026-07-11T22:39:17.208286
 url: "/cdr-researcher-census/researchers/marisol-cruz-a5001241/"
 layout: "researcher"
 hiddenInHomeList: true

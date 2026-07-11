@@ -1,7 +1,7 @@
 ---
 title: "Sidney Vasconcelos do Nascimento"
 description: "Sidney Vasconcelos do Nascimento is a Mid-career General CDR researcher at Vale Technological Institute in BR. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.218356
+date: 2026-07-11T22:39:17.134954
 url: "/cdr-researcher-census/researchers/sidney-vasconcelos-do-nascimento-a5016447/"
 layout: "researcher"
 hiddenInHomeList: true

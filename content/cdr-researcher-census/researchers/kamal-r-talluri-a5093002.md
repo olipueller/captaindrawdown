@@ -1,7 +1,7 @@
 ---
 title: "Kamal R. Talluri"
-description: "Kamal R. Talluri is an Early-career General CDR researcher at University of California, Riverside in US. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.470297
+description: "Kamal R. Talluri is an Early-career DAC researcher at University of California, Riverside in US. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.394350
 url: "/cdr-researcher-census/researchers/kamal-r-talluri-a5093002/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ University of California, Riverside · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

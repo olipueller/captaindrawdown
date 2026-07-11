@@ -1,7 +1,7 @@
 ---
 title: "Abhimanyu Goel"
 description: "Abhimanyu Goel is an Early-career Biochar researcher at National University of Singapore in SG. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.603003
+date: 2026-07-11T22:39:17.523167
 url: "/cdr-researcher-census/researchers/abhimanyu-goel-a5034806/"
 layout: "researcher"
 hiddenInHomeList: true

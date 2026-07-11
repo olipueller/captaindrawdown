@@ -1,7 +1,7 @@
 ---
 title: "Erik van Doorn"
 description: "Erik van Doorn is a Mid-career Ocean CDR researcher at University of Wollongong in AU. With 34 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.662036
+date: 2026-07-11T22:39:16.750327
 url: "/cdr-researcher-census/researchers/erik-van-doorn-a5054214/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "J. Poorna Bindu"
-description: "J. Poorna Bindu is a Mid-career Soil Carbon researcher at Central Tobacco Research Institute in IN. With 17 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.264216
+description: "J. Poorna Bindu is a Mid-career Biochar researcher at Central Tobacco Research Institute in IN. With 17 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.181721
 url: "/cdr-researcher-census/researchers/j-poorna-bindu-a5109791/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Central Tobacco Research Institute · 🇮🇳 IN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

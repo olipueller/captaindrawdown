@@ -1,7 +1,7 @@
 ---
 title: "Jayashree Ghosh"
 description: "Jayashree Ghosh is a Mid-career Ocean CDR researcher at University of East Anglia in GB. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.792199
+date: 2026-07-11T22:39:16.873440
 url: "/cdr-researcher-census/researchers/jayashree-ghosh-a5014071/"
 layout: "researcher"
 hiddenInHomeList: true

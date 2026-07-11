@@ -1,7 +1,7 @@
 ---
 title: "Hyun Min Jang"
 description: "Hyun Min Jang is a Senior Biochar researcher at Jeonbuk National University in KR. With 54 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.037876
+date: 2026-07-11T22:39:16.146243
 url: "/cdr-researcher-census/researchers/hyun-min-jang-a5086393/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Usama"
 description: "Muhammad Usama is a Mid-career Biochar researcher at Government College University, Faisalabad in PK. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.249240
+date: 2026-07-11T22:39:17.166547
 url: "/cdr-researcher-census/researchers/muhammad-usama-a5101510/"
 layout: "researcher"
 hiddenInHomeList: true

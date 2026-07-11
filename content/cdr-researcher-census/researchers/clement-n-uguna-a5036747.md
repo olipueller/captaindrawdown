@@ -1,7 +1,7 @@
 ---
 title: "Clement N. Uguna"
-description: "Clement N. Uguna is a Senior General CDR researcher at University of Nottingham in GB. With 49 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.253042
+description: "Clement N. Uguna is a Senior Biochar researcher at University of Nottingham in GB. With 49 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.343663
 url: "/cdr-researcher-census/researchers/clement-n-uguna-a5036747/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Nottingham · 🇬🇧 GB
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

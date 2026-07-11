@@ -1,7 +1,7 @@
 ---
 title: "Jon Lloyd"
 description: "Jon Lloyd is a Senior Soil Carbon researcher at The University of Western Australia in AU. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.793164
+date: 2026-07-11T22:39:16.874314
 url: "/cdr-researcher-census/researchers/jon-lloyd-a5111477/"
 layout: "researcher"
 hiddenInHomeList: true

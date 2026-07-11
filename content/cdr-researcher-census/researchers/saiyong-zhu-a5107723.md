@@ -1,7 +1,7 @@
 ---
 title: "Saiyong Zhu"
 description: "Saiyong Zhu is a Mid-career Biochar researcher at Zhejiang Ecological Civilization Academy in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.865111
+date: 2026-07-11T22:39:16.940917
 url: "/cdr-researcher-census/researchers/saiyong-zhu-a5107723/"
 layout: "researcher"
 hiddenInHomeList: true

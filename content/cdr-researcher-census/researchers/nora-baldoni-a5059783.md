@@ -1,7 +1,7 @@
 ---
 title: "Nora Baldoni"
 description: "Nora Baldoni is a Mid-career General CDR researcher at United Arab Emirates University in AE. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.356003
+date: 2026-07-11T22:39:17.275244
 url: "/cdr-researcher-census/researchers/nora-baldoni-a5059783/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zhengjun Guan"
 description: "Zhengjun Guan is a Senior Soil Carbon researcher at Southwest University in CN. With 31 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.383446
+date: 2026-07-11T22:39:16.476135
 url: "/cdr-researcher-census/researchers/zhengjun-guan-a5103278/"
 layout: "researcher"
 hiddenInHomeList: true

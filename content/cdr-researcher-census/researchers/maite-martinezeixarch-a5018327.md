@@ -1,7 +1,7 @@
 ---
 title: "Maite Martínez‐Eixarch"
 description: "Maite Martínez‐Eixarch is a Mid-career Soil Carbon researcher at IRTA in ES. With 44 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.213303
+date: 2026-07-11T22:39:16.304486
 url: "/cdr-researcher-census/researchers/maite-martinezeixarch-a5018327/"
 layout: "researcher"
 hiddenInHomeList: true

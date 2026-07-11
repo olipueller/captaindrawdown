@@ -1,7 +1,7 @@
 ---
 title: "Rowan Eisner"
 description: "Rowan Eisner is a Senior Soil Carbon researcher at University of Tasmania in AU. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.375161
+date: 2026-07-11T22:39:16.467576
 url: "/cdr-researcher-census/researchers/rowan-eisner-a5042783/"
 layout: "researcher"
 hiddenInHomeList: true

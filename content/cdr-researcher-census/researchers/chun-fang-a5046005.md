@@ -1,7 +1,7 @@
 ---
 title: "Chun Fang"
 description: "Chun Fang is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.133338
+date: 2026-07-11T22:39:17.083244
 url: "/cdr-researcher-census/researchers/chun-fang-a5046005/"
 layout: "researcher"
 hiddenInHomeList: true

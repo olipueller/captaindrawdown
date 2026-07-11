@@ -1,7 +1,7 @@
 ---
 title: "Rajan Ghimire"
 description: "Rajan Ghimire is a Senior Soil Carbon researcher at New Mexico State University in US. With 149 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.025620
+date: 2026-07-11T22:39:16.136602
 url: "/cdr-researcher-census/researchers/rajan-ghimire-a5049277/"
 layout: "researcher"
 hiddenInHomeList: true

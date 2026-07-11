@@ -1,7 +1,7 @@
 ---
 title: "Max Fancourt"
 description: "Max Fancourt is a Mid-career Soil Carbon researcher at Natural England in GB. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.143840
+date: 2026-07-11T22:39:17.091757
 url: "/cdr-researcher-census/researchers/max-fancourt-a5014986/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Luis D. Loor-Úrgilés"
 description: "Luis D. Loor-Úrgilés is a Mid-career General CDR researcher at Serviço Nacional de Aprendizagem Industrial in BR. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.402250
+date: 2026-07-11T22:39:17.324516
 url: "/cdr-researcher-census/researchers/luis-d-loor-urgiles-a5013267/"
 layout: "researcher"
 hiddenInHomeList: true

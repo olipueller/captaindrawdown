@@ -1,7 +1,7 @@
 ---
 title: "Lingxianzi He"
 description: "Lingxianzi He is a Mid-career Soil Carbon researcher at Institute of Forest Ecology, Environment and Protection in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.283907
+date: 2026-07-11T22:39:17.201098
 url: "/cdr-researcher-census/researchers/lingxianzi-he-a5100561/"
 layout: "researcher"
 hiddenInHomeList: true

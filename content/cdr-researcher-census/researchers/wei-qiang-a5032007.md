@@ -1,7 +1,7 @@
 ---
 title: "Wei Qiang"
 description: "Wei Qiang is a Mid-career Soil Carbon researcher at Guizhou Normal University in CN. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.584521
+date: 2026-07-11T22:39:16.677221
 url: "/cdr-researcher-census/researchers/wei-qiang-a5032007/"
 layout: "researcher"
 hiddenInHomeList: true

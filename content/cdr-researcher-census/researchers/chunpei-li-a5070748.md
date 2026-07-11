@@ -1,7 +1,7 @@
 ---
 title: "Chunpei Li"
 description: "Chunpei Li is a Mid-career Enhanced Weathering researcher at Yunnan Agricultural University in CN. With 62 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.285172
+date: 2026-07-11T22:39:16.375395
 url: "/cdr-researcher-census/researchers/chunpei-li-a5070748/"
 layout: "researcher"
 hiddenInHomeList: true

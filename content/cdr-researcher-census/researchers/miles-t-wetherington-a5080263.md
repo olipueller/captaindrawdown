@@ -1,7 +1,7 @@
 ---
 title: "Miles T. Wetherington"
 description: "Miles T. Wetherington is a Mid-career Soil Carbon researcher at Georgia Institute of Technology in US. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.592916
+date: 2026-07-11T22:39:17.513821
 url: "/cdr-researcher-census/researchers/miles-t-wetherington-a5080263/"
 layout: "researcher"
 hiddenInHomeList: true

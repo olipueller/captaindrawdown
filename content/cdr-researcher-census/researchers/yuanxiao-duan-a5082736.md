@@ -1,7 +1,7 @@
 ---
 title: "Yuanxiao Duan"
 description: "Yuanxiao Duan is a Mid-career Biochar researcher at Ministry of Ecology and Environment in CN. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.501298
+date: 2026-07-11T22:39:16.595844
 url: "/cdr-researcher-census/researchers/yuanxiao-duan-a5082736/"
 layout: "researcher"
 hiddenInHomeList: true

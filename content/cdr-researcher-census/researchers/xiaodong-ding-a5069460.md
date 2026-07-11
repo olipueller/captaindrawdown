@@ -1,7 +1,7 @@
 ---
 title: "Xiaodong Ding"
 description: "Xiaodong Ding is a Senior Soil Carbon researcher at Qingdao Agricultural University in CN. With 96 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.037500
+date: 2026-07-11T22:39:16.145880
 url: "/cdr-researcher-census/researchers/xiaodong-ding-a5069460/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Haojun Zhou"
-description: "Haojun Zhou is a Mid-career General CDR researcher at Guangdong Shunde Innovative Design Institute in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.463176
+description: "Haojun Zhou is a Mid-career Enhanced Weathering researcher at Guangdong Shunde Innovative Design Institute in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.387363
 url: "/cdr-researcher-census/researchers/haojun-zhou-a5110848/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Guangdong Shunde Innovative Design Institute · 🇨🇳 CN
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

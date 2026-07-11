@@ -1,7 +1,7 @@
 ---
 title: "Gongxiang Song"
-description: "Gongxiang Song is a Mid-career General CDR researcher at Yangtze River Pharmaceutical Group (China) in CN. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.852744
+description: "Gongxiang Song is a Mid-career Biochar researcher at Yangtze River Pharmaceutical Group (China) in CN. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.929296
 url: "/cdr-researcher-census/researchers/gongxiang-song-a5102546/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Yangtze River Pharmaceutical Group (China) · 🇨🇳 CN
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

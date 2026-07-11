@@ -1,7 +1,7 @@
 ---
 title: "Xijun Cui"
-description: "Xijun Cui is a Mid-career Soil Carbon researcher at Shenyang Environmental Protection Bureau in CN. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.297450
+description: "Xijun Cui is a Mid-career Biochar researcher at Shenyang Environmental Protection Bureau in CN. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.214541
 url: "/cdr-researcher-census/researchers/xijun-cui-a5056337/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Shenyang Environmental Protection Bureau · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

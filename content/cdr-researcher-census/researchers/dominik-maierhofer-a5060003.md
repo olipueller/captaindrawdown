@@ -1,7 +1,7 @@
 ---
 title: "Dominik Maierhofer"
 description: "Dominik Maierhofer is a Mid-career General CDR researcher at Graz University of Technology in AT. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.849767
+date: 2026-07-11T22:39:16.926474
 url: "/cdr-researcher-census/researchers/dominik-maierhofer-a5060003/"
 layout: "researcher"
 hiddenInHomeList: true

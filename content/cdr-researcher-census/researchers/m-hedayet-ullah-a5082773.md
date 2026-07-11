@@ -1,7 +1,7 @@
 ---
 title: "M. Hedayet Ullah"
 description: "M. Hedayet Ullah is a Mid-career Biochar researcher at Bangladesh University of Engineering and Technology in BD. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.960130
+date: 2026-07-11T22:39:17.009294
 url: "/cdr-researcher-census/researchers/m-hedayet-ullah-a5082773/"
 layout: "researcher"
 hiddenInHomeList: true

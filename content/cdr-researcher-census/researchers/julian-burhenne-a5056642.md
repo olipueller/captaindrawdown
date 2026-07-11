@@ -1,7 +1,7 @@
 ---
 title: "Julian Burhenne"
-description: "Julian Burhenne is an Early-career General CDR researcher at Universität Hamburg in DE. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.503107
+description: "Julian Burhenne is an Early-career DAC researcher at Universität Hamburg in DE. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.428332
 url: "/cdr-researcher-census/researchers/julian-burhenne-a5056642/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Universität Hamburg · 🇩🇪 DE
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

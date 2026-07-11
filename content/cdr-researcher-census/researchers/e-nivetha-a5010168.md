@@ -1,7 +1,7 @@
 ---
 title: "E. Nivetha"
-description: "E. Nivetha is a Mid-career Soil Carbon researcher at Kerala Veterinary and Animal Sciences University in IN. With 8 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.401529
+description: "E. Nivetha is a Mid-career Biochar researcher at Kerala Veterinary and Animal Sciences University in IN. With 8 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.323708
 url: "/cdr-researcher-census/researchers/e-nivetha-a5010168/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Kerala Veterinary and Animal Sciences University · 🇮🇳 IN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

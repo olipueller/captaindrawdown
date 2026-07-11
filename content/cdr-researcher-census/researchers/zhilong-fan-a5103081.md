@@ -1,7 +1,7 @@
 ---
 title: "Zhilong Fan"
 description: "Zhilong Fan is a Senior Soil Carbon researcher at Gansu Agricultural University in CN. With 91 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.107326
+date: 2026-07-11T22:39:16.206225
 url: "/cdr-researcher-census/researchers/zhilong-fan-a5103081/"
 layout: "researcher"
 hiddenInHomeList: true

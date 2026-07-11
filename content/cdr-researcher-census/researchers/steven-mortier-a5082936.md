@@ -1,7 +1,7 @@
 ---
 title: "Steven Mortier"
-description: "Steven Mortier is a Mid-career General CDR researcher at University of Antwerp in BE. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.428821
+description: "Steven Mortier is a Mid-career Enhanced Weathering researcher at University of Antwerp in BE. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.352878
 url: "/cdr-researcher-census/researchers/steven-mortier-a5082936/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Antwerp · 🇧🇪 BE
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

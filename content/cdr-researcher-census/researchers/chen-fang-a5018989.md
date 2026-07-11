@@ -1,7 +1,7 @@
 ---
 title: "Chen Fang"
 description: "Chen Fang is an Early-career General CDR researcher at Peking University in CN. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.309455
+date: 2026-07-11T22:39:17.226724
 url: "/cdr-researcher-census/researchers/chen-fang-a5018989/"
 layout: "researcher"
 hiddenInHomeList: true

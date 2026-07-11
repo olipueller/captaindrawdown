@@ -1,7 +1,7 @@
 ---
 title: "Saroj Raj Kafle"
-description: "Saroj Raj Kafle is a Mid-career General CDR researcher at Chungbuk National University in KR. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.768935
+description: "Saroj Raj Kafle is a Mid-career Biochar researcher at Chungbuk National University in KR. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.850504
 url: "/cdr-researcher-census/researchers/saroj-raj-kafle-a5082012/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Chungbuk National University · 🇰🇷 KR
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

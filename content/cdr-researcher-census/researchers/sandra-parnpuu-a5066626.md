@@ -1,7 +1,7 @@
 ---
 title: "Sandra Pärnpuu"
 description: "Sandra Pärnpuu is an Early-career Soil Carbon researcher at Estonian University of Life Sciences in EE. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.564407
+date: 2026-07-11T22:39:17.487380
 url: "/cdr-researcher-census/researchers/sandra-parnpuu-a5066626/"
 layout: "researcher"
 hiddenInHomeList: true

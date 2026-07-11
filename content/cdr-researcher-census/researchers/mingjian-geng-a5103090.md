@@ -1,7 +1,7 @@
 ---
 title: "Mingjian Geng"
 description: "Mingjian Geng is a Senior Soil Carbon researcher at Huazhong Agricultural University in CN. With 77 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.183566
+date: 2026-07-11T22:39:16.277284
 url: "/cdr-researcher-census/researchers/mingjian-geng-a5103090/"
 layout: "researcher"
 hiddenInHomeList: true

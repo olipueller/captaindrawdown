@@ -1,7 +1,7 @@
 ---
 title: "Stamatina Roussou"
 description: "Stamatina Roussou is a Mid-career General CDR researcher at Uppsala University in SE. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.432692
+date: 2026-07-11T22:39:17.356557
 url: "/cdr-researcher-census/researchers/stamatina-roussou-a5079609/"
 layout: "researcher"
 hiddenInHomeList: true

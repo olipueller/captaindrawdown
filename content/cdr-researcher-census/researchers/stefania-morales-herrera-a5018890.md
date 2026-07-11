@@ -1,7 +1,7 @@
 ---
 title: "Stefanía Morales-Herrera"
 description: "Stefanía Morales-Herrera is a Mid-career Soil Carbon researcher at Ghent University in BE. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.212495
+date: 2026-07-11T22:39:17.129436
 url: "/cdr-researcher-census/researchers/stefania-morales-herrera-a5018890/"
 layout: "researcher"
 hiddenInHomeList: true

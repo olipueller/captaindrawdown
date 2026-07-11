@@ -1,7 +1,7 @@
 ---
 title: "Min-Ah Sun"
 description: "Min-Ah Sun is a Mid-career General CDR researcher at National Institute of Meteorological Sciences in KR. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.063969
+date: 2026-07-11T22:39:17.053960
 url: "/cdr-researcher-census/researchers/min-ah-sun-a5041944/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Kamal P. Adhikari"
 description: "Kamal P. Adhikari is a Mid-career Soil Carbon researcher at Manaaki Whenua – Landcare Research in NZ. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.325879
+date: 2026-07-11T22:39:17.243289
 url: "/cdr-researcher-census/researchers/kamal-p-adhikari-a5083739/"
 layout: "researcher"
 hiddenInHomeList: true

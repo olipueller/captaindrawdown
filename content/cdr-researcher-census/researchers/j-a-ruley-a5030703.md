@@ -1,7 +1,7 @@
 ---
 title: "J. A. Ruley"
 description: "J. A. Ruley is a Mid-career Biochar researcher at University of Juba in SS. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.345127
+date: 2026-07-11T22:39:17.263369
 url: "/cdr-researcher-census/researchers/j-a-ruley-a5030703/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Alexander Chupin"
-description: "Alexander Chupin is a Senior General CDR researcher at Peoples' Friendship University of Russia in RU. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.806316
+description: "Alexander Chupin is a Senior BECCS researcher at Peoples' Friendship University of Russia in RU. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.886427
 url: "/cdr-researcher-census/researchers/alexander-chupin-a5045188/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Peoples' Friendship University of Russia · 🇷🇺 RU
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

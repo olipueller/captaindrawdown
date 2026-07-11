@@ -1,7 +1,7 @@
 ---
 title: "Bálint Lóránt"
 description: "Bálint Lóránt is a Mid-career General CDR researcher at Universidad Metropolitana in PR. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.962044
+date: 2026-07-11T22:39:17.010849
 url: "/cdr-researcher-census/researchers/balint-lorant-a5065378/"
 layout: "researcher"
 hiddenInHomeList: true

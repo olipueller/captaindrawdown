@@ -1,7 +1,7 @@
 ---
 title: "Shaojun Qiu"
 description: "Shaojun Qiu is a Senior Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 77 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.032823
+date: 2026-07-11T22:39:16.142762
 url: "/cdr-researcher-census/researchers/shaojun-qiu-a5102707/"
 layout: "researcher"
 hiddenInHomeList: true

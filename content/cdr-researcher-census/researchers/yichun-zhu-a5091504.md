@@ -1,7 +1,7 @@
 ---
 title: "Yichun Zhu"
-description: "Yichun Zhu is a Mid-career Soil Carbon researcher at Jiangxi University of Science and Technology in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.396409
+description: "Yichun Zhu is a Mid-career Biochar researcher at Jiangxi University of Science and Technology in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.318339
 url: "/cdr-researcher-census/researchers/yichun-zhu-a5091504/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Jiangxi University of Science and Technology · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

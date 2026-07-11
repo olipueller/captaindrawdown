@@ -1,7 +1,7 @@
 ---
 title: "Mingchuan Zhang"
 description: "Mingchuan Zhang is a Senior Biochar researcher at Northeastern University in CN. With 27 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.333227
+date: 2026-07-11T22:39:16.422930
 url: "/cdr-researcher-census/researchers/mingchuan-zhang-a5103254/"
 layout: "researcher"
 hiddenInHomeList: true

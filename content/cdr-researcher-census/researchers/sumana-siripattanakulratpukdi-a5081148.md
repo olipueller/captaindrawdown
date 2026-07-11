@@ -1,7 +1,7 @@
 ---
 title: "Sumana Siripattanakul‐Ratpukdi"
 description: "Sumana Siripattanakul‐Ratpukdi is a Senior Biochar researcher at Khon Kaen University in TH. With 60 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.207550
+date: 2026-07-11T22:39:16.299619
 url: "/cdr-researcher-census/researchers/sumana-siripattanakulratpukdi-a5081148/"
 layout: "researcher"
 hiddenInHomeList: true

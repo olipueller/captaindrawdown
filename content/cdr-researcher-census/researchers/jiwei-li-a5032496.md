@@ -1,7 +1,7 @@
 ---
 title: "Jiwei Li"
 description: "Jiwei Li is a Senior Soil Carbon researcher at Northwest A and F University in CN. With 128 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.022824
+date: 2026-07-11T22:39:16.134296
 url: "/cdr-researcher-census/researchers/jiwei-li-a5032496/"
 layout: "researcher"
 hiddenInHomeList: true

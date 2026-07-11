@@ -1,7 +1,7 @@
 ---
 title: "Zhangliu Du"
 description: "Zhangliu Du is a Senior Soil Carbon researcher at China Agricultural University in CN. With 100 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.049531
+date: 2026-07-11T22:39:16.156315
 url: "/cdr-researcher-census/researchers/zhangliu-du-a5069658/"
 layout: "researcher"
 hiddenInHomeList: true

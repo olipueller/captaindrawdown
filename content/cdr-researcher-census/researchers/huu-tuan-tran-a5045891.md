@@ -1,7 +1,7 @@
 ---
 title: "Huu-Tuan Tran"
-description: "Huu-Tuan Tran is an Early-career General CDR researcher at Kansas State University in US. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.993753
+description: "Huu-Tuan Tran is an Early-career Biochar researcher at Kansas State University in US. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.028175
 url: "/cdr-researcher-census/researchers/huu-tuan-tran-a5045891/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Kansas State University · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

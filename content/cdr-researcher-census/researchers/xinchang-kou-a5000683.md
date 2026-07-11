@@ -1,7 +1,7 @@
 ---
 title: "Xinchang Kou"
 description: "Xinchang Kou is a Mid-career Soil Carbon researcher at Northeast Normal University in CN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.685620
+date: 2026-07-11T22:39:16.771219
 url: "/cdr-researcher-census/researchers/xinchang-kou-a5000683/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Pascal Badiou"
 description: "Pascal Badiou is a Senior Soil Carbon researcher at Institute for Wetland and Waterfowl Research, Ducks Unlimited Canada in CA. With 60 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.178505
+date: 2026-07-11T22:39:16.272303
 url: "/cdr-researcher-census/researchers/pascal-badiou-a5075391/"
 layout: "researcher"
 hiddenInHomeList: true

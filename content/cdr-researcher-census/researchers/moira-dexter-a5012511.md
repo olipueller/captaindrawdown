@@ -1,7 +1,7 @@
 ---
 title: "Moira Dexter"
 description: "Moira Dexter is a Senior Biochar researcher at AgResearch Ltd in NZ. With 19 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.163539
+date: 2026-07-11T22:39:16.257852
 url: "/cdr-researcher-census/researchers/moira-dexter-a5012511/"
 layout: "researcher"
 hiddenInHomeList: true

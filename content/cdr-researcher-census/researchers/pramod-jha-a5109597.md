@@ -1,7 +1,7 @@
 ---
 title: "Pramod Jha"
 description: "Pramod Jha is a Senior Soil Carbon researcher at REVA University in IN. With 59 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.195765
+date: 2026-07-11T22:39:16.288349
 url: "/cdr-researcher-census/researchers/pramod-jha-a5109597/"
 layout: "researcher"
 hiddenInHomeList: true

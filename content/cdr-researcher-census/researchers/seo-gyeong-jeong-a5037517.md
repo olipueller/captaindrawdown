@@ -1,7 +1,7 @@
 ---
 title: "Seo Gyeong Jeong"
 description: "Seo Gyeong Jeong is a Mid-career Biochar researcher at Chungnam National University in KR. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.438854
+date: 2026-07-11T22:39:17.362682
 url: "/cdr-researcher-census/researchers/seo-gyeong-jeong-a5037517/"
 layout: "researcher"
 hiddenInHomeList: true

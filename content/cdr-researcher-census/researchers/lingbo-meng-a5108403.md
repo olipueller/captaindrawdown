@@ -1,7 +1,7 @@
 ---
 title: "Lingbo Meng"
 description: "Lingbo Meng is a Mid-career Biochar researcher at Harbin University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.885417
+date: 2026-07-11T22:39:16.975400
 url: "/cdr-researcher-census/researchers/lingbo-meng-a5108403/"
 layout: "researcher"
 hiddenInHomeList: true

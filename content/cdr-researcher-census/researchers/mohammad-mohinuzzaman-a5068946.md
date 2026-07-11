@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Mohinuzzaman"
 description: "Mohammad Mohinuzzaman is a Mid-career Soil Carbon researcher at Noakhali Science and Technology University in BD. With 35 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.347920
+date: 2026-07-11T22:39:16.438021
 url: "/cdr-researcher-census/researchers/mohammad-mohinuzzaman-a5068946/"
 layout: "researcher"
 hiddenInHomeList: true

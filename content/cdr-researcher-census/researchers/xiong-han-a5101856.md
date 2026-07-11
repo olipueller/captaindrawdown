@@ -1,7 +1,7 @@
 ---
 title: "Xiong Han"
 description: "Xiong Han is a Senior Soil Carbon researcher at Guizhou Academy of Agricultural Sciences in CN. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.955094
+date: 2026-07-11T22:39:17.006356
 url: "/cdr-researcher-census/researchers/xiong-han-a5101856/"
 layout: "researcher"
 hiddenInHomeList: true

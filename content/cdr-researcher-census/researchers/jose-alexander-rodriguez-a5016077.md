@@ -1,7 +1,7 @@
 ---
 title: "José Alexander Rodriguez"
 description: "José Alexander Rodriguez is a Mid-career Biochar researcher at Colombian Corporation for Agricultural Research - AGROSAVIA in CO. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.228033
+date: 2026-07-11T22:39:17.144741
 url: "/cdr-researcher-census/researchers/jose-alexander-rodriguez-a5016077/"
 layout: "researcher"
 hiddenInHomeList: true

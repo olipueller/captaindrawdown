@@ -1,7 +1,7 @@
 ---
 title: "Priskila Adjani Diankristanti"
-description: "Priskila Adjani Diankristanti is a Mid-career Ocean CDR researcher at National Cheng Kung University in TW. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.223696
+description: "Priskila Adjani Diankristanti is a Mid-career DAC researcher at National Cheng Kung University in TW. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.140270
 url: "/cdr-researcher-census/researchers/priskila-adjani-diankristanti-a5017742/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ National Cheng Kung University · 🇹🇼 TW
 
 ## CDR Specialization
 
-**Ocean CDR**
+**DAC**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "Shuling Wang"
 description: "Shuling Wang is a Mid-career Biochar researcher at Hangzhou Normal University in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.562132
+date: 2026-07-11T22:39:16.654769
 url: "/cdr-researcher-census/researchers/shuling-wang-a5028151/"
 layout: "researcher"
 hiddenInHomeList: true

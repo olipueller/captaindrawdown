@@ -1,7 +1,7 @@
 ---
 title: "Yue Yang"
 description: "Yue Yang is a Senior General CDR researcher at Yunnan Normal University in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.586367
+date: 2026-07-11T22:39:17.507476
 url: "/cdr-researcher-census/researchers/yue-yang-a5100961/"
 layout: "researcher"
 hiddenInHomeList: true

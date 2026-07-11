@@ -1,7 +1,7 @@
 ---
 title: "Xuyang Liu"
 description: "Xuyang Liu is a Mid-career Soil Carbon researcher at Institute of Crop Sciences in CN. With 39 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.338736
+date: 2026-07-11T22:39:16.428666
 url: "/cdr-researcher-census/researchers/xuyang-liu-a5100624/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Wanli Lian"
-description: "Wanli Lian is a Mid-career Soil Carbon researcher at Agro-Environmental Protection Institute in CN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.661793
+description: "Wanli Lian is a Mid-career Enhanced Weathering researcher at Agro-Environmental Protection Institute in CN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.750130
 url: "/cdr-researcher-census/researchers/wanli-lian-a5023365/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Agro-Environmental Protection Institute · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Enhanced Weathering**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

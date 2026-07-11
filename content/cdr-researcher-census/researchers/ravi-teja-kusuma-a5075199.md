@@ -1,7 +1,7 @@
 ---
 title: "Ravi Teja Kusuma"
-description: "Ravi Teja Kusuma is an Early-career General CDR researcher at Symbiosis International University in IN. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.395816
+description: "Ravi Teja Kusuma is an Early-career BECCS researcher at Symbiosis International University in IN. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.317711
 url: "/cdr-researcher-census/researchers/ravi-teja-kusuma-a5075199/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Symbiosis International University · 🇮🇳 IN
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

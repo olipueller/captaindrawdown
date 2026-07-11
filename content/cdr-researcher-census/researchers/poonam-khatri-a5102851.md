@@ -1,7 +1,7 @@
 ---
 title: "Poonam Khatri"
-description: "Poonam Khatri is a Senior Soil Carbon researcher at Institute of Chemical Technology in IN. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.663045
+description: "Poonam Khatri is a Senior BECCS researcher at Institute of Chemical Technology in IN. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.751199
 url: "/cdr-researcher-census/researchers/poonam-khatri-a5102851/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Institute of Chemical Technology · 🇮🇳 IN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**BECCS**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

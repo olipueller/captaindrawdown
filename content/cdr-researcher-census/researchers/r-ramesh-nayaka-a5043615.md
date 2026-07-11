@@ -1,7 +1,7 @@
 ---
 title: "R. Ramesh Nayaka"
 description: "R. Ramesh Nayaka is a Mid-career Biochar researcher at Indian Institute of Technology Dharwad in IN. With 37 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.394247
+date: 2026-07-11T22:39:16.488029
 url: "/cdr-researcher-census/researchers/r-ramesh-nayaka-a5043615/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Maryam Abbasi Kamazani"
 description: "Maryam Abbasi Kamazani is a Mid-career General CDR researcher at Mitchell Institute in US. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.253717
+date: 2026-07-11T22:39:17.171511
 url: "/cdr-researcher-census/researchers/maryam-abbasi-kamazani-a5025171/"
 layout: "researcher"
 hiddenInHomeList: true

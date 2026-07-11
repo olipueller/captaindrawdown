@@ -1,7 +1,7 @@
 ---
 title: "Solomon Evro"
-description: "Solomon Evro is a Mid-career General CDR researcher at University of North Dakota in US. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.317935
+description: "Solomon Evro is a Mid-career DAC researcher at University of North Dakota in US. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.408713
 url: "/cdr-researcher-census/researchers/solomon-evro-a5016283/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of North Dakota · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

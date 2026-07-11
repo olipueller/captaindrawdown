@@ -1,7 +1,7 @@
 ---
 title: "Henrique Real Guimarães"
-description: "Henrique Real Guimarães is a Mid-career General CDR researcher at Brazilian Center for Research in Energy and Materials in BR. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.429554
+description: "Henrique Real Guimarães is a Mid-career BECCS researcher at Brazilian Center for Research in Energy and Materials in BR. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.353630
 url: "/cdr-researcher-census/researchers/henrique-real-guimaraes-a5003440/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Brazilian Center for Research in Energy and Materials · 🇧🇷 BR
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

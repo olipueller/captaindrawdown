@@ -1,7 +1,7 @@
 ---
 title: "Alonso Favela"
-description: "Alonso Favela is a Mid-career Soil Carbon researcher at University of Arizona in US. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.970202
+description: "Alonso Favela is a Mid-career BECCS researcher at University of Arizona in US. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.015976
 url: "/cdr-researcher-census/researchers/alonso-favela-a5009632/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Arizona · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**BECCS**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

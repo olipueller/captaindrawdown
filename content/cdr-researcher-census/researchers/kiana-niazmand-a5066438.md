@@ -1,7 +1,7 @@
 ---
 title: "Kiana Niazmand"
-description: "Kiana Niazmand is an Early-career General CDR researcher at Lutheran University of Applied Sciences Nuremberg in DE. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.462709
+description: "Kiana Niazmand is an Early-career Biochar researcher at Lutheran University of Applied Sciences Nuremberg in DE. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.386878
 url: "/cdr-researcher-census/researchers/kiana-niazmand-a5066438/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Lutheran University of Applied Sciences Nuremberg · 🇩🇪 DE
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

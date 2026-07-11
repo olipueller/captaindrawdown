@@ -1,7 +1,7 @@
 ---
 title: "Bingyao Ge"
-description: "Bingyao Ge is a Mid-career General CDR researcher at North China Electric Power University in CN. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.407295
+description: "Bingyao Ge is a Mid-career DAC researcher at North China Electric Power University in CN. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.501315
 url: "/cdr-researcher-census/researchers/bingyao-ge-a5024012/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ North China Electric Power University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

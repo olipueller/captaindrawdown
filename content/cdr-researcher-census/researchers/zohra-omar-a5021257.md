@@ -1,7 +1,7 @@
 ---
 title: "Zohra Omar"
 description: "Zohra Omar is a Mid-career Soil Carbon researcher at University of Gabès in TN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.339117
+date: 2026-07-11T22:39:17.256758
 url: "/cdr-researcher-census/researchers/zohra-omar-a5021257/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xiuxian Men"
 description: "Xiuxian Men is a Mid-career Soil Carbon researcher at Yunnan University in CN. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.232210
+date: 2026-07-11T22:39:17.149224
 url: "/cdr-researcher-census/researchers/xiuxian-men-a5021393/"
 layout: "researcher"
 hiddenInHomeList: true

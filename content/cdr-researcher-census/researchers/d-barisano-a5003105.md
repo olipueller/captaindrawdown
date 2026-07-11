@@ -1,7 +1,7 @@
 ---
 title: "D. Barisano"
-description: "D. Barisano is a Senior Biochar researcher at National Agency for New Technologies, Energy and Sustainable Economic Development in IT. With 31 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.437847
+description: "D. Barisano is a Senior BECCS researcher at National Agency for New Technologies, Energy and Sustainable Economic Development in IT. With 31 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.532382
 url: "/cdr-researcher-census/researchers/d-barisano-a5003105/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ National Agency for New Technologies, Energy and Sustainable Economic Developmen
 
 ## CDR Specialization
 
-**Biochar**
+**BECCS**
 
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

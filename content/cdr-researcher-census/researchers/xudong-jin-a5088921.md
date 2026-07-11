@@ -1,7 +1,7 @@
 ---
 title: "Xudong Jin"
 description: "Xudong Jin is a Senior Soil Carbon researcher at Shihezi University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.307093
+date: 2026-07-11T22:39:17.224544
 url: "/cdr-researcher-census/researchers/xudong-jin-a5088921/"
 layout: "researcher"
 hiddenInHomeList: true

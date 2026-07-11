@@ -1,7 +1,7 @@
 ---
 title: "Zhimeng Zhao"
-description: "Zhimeng Zhao is a Mid-career Soil Carbon researcher at Guizhou Education University in CN. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.661276
+description: "Zhimeng Zhao is a Mid-career Biochar researcher at Guizhou Education University in CN. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.749713
 url: "/cdr-researcher-census/researchers/zhimeng-zhao-a5047991/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Guizhou Education University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

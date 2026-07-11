@@ -1,7 +1,7 @@
 ---
 title: "Yuan Zhang"
 description: "Yuan Zhang is a Senior Soil Carbon researcher at East China Normal University in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.440864
+date: 2026-07-11T22:39:17.365061
 url: "/cdr-researcher-census/researchers/yuan-zhang-a5100368/"
 layout: "researcher"
 hiddenInHomeList: true

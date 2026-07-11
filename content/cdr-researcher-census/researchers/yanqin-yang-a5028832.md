@@ -1,7 +1,7 @@
 ---
 title: "Yanqin Yang"
-description: "Yanqin Yang is a Senior General CDR researcher at Hebei University of Technology in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.429147
+description: "Yanqin Yang is a Senior DAC researcher at Hebei University of Technology in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.353236
 url: "/cdr-researcher-census/researchers/yanqin-yang-a5028832/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Hebei University of Technology · 🇨🇳 CN
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

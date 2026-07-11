@@ -1,7 +1,7 @@
 ---
 title: "César Adolfo Rodríguez Sotomonte"
-description: "César Adolfo Rodríguez Sotomonte is a Mid-career General CDR researcher at Universidade Federal da Integração Latino-Americana in BR. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.841145
+description: "César Adolfo Rodríguez Sotomonte is a Mid-career BECCS researcher at Universidade Federal da Integração Latino-Americana in BR. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.918350
 url: "/cdr-researcher-census/researchers/cesar-adolfo-rodriguez-sotomonte-a5023029/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Universidade Federal da Integração Latino-Americana · 🇧🇷 BR
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

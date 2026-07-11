@@ -1,7 +1,7 @@
 ---
 title: "Jinsheng Xie"
 description: "Jinsheng Xie is a Senior Soil Carbon researcher at Fujian Normal University in CN. With 90 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.060265
+date: 2026-07-11T22:39:16.165917
 url: "/cdr-researcher-census/researchers/jinsheng-xie-a5101023/"
 layout: "researcher"
 hiddenInHomeList: true

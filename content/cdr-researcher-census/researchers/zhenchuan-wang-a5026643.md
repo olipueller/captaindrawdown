@@ -1,7 +1,7 @@
 ---
 title: "Zhenchuan Wang"
 description: "Zhenchuan Wang is a Senior Soil Carbon researcher at China Special Equipment Inspection and Research Institute in CN. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.549491
+date: 2026-07-11T22:39:16.642822
 url: "/cdr-researcher-census/researchers/zhenchuan-wang-a5026643/"
 layout: "researcher"
 hiddenInHomeList: true

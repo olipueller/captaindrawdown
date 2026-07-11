@@ -1,7 +1,7 @@
 ---
 title: "Kosar Hikmat Hama Aziz"
 description: "Kosar Hikmat Hama Aziz is a Senior Biochar researcher at Brandenburgische Technische Universität Cottbus-Senftenberg in DE. With 72 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:39.999407
+date: 2026-07-11T22:39:16.115937
 url: "/cdr-researcher-census/researchers/kosar-hikmat-hama-aziz-a5011196/"
 layout: "researcher"
 hiddenInHomeList: true

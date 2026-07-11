@@ -1,7 +1,7 @@
 ---
 title: "Sanja Annabell Schwalb"
 description: "Sanja Annabell Schwalb is a Mid-career Soil Carbon researcher. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.685868
+date: 2026-07-11T22:39:16.771455
 url: "/cdr-researcher-census/researchers/sanja-annabell-schwalb-a5027951/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Guofeng Sun"
 description: "Guofeng Sun is a Senior Soil Carbon researcher at Beihua University in CN. With 59 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.520471
+date: 2026-07-11T22:39:16.614848
 url: "/cdr-researcher-census/researchers/guofeng-sun-a5101023/"
 layout: "researcher"
 hiddenInHomeList: true

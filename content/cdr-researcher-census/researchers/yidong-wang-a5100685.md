@@ -1,7 +1,7 @@
 ---
 title: "Yidong Wang"
 description: "Yidong Wang is a Senior Soil Carbon researcher at Tianjin Normal University in CN. With 214 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:39.995203
+date: 2026-07-11T22:39:16.112534
 url: "/cdr-researcher-census/researchers/yidong-wang-a5100685/"
 layout: "researcher"
 hiddenInHomeList: true

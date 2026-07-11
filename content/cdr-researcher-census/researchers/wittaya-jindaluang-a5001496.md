@@ -1,7 +1,7 @@
 ---
 title: "Wittaya Jindaluang"
 description: "Wittaya Jindaluang is a Senior Soil Carbon researcher at Kasetsart University in TH. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.311715
+date: 2026-07-11T22:39:17.229002
 url: "/cdr-researcher-census/researchers/wittaya-jindaluang-a5001496/"
 layout: "researcher"
 hiddenInHomeList: true

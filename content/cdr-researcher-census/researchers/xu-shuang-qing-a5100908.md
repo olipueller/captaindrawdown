@@ -1,7 +1,7 @@
 ---
 title: "XU Shuang-qing"
 description: "XU Shuang-qing is a Senior Soil Carbon researcher at Jiangnan University in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.636179
+date: 2026-07-11T22:39:16.726633
 url: "/cdr-researcher-census/researchers/xu-shuang-qing-a5100908/"
 layout: "researcher"
 hiddenInHomeList: true

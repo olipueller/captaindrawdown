@@ -1,7 +1,7 @@
 ---
 title: "Sheenu Sharma"
-description: "Sheenu Sharma is a Mid-career Soil Carbon researcher. With 28 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.885316
+description: "Sheenu Sharma is a Mid-career Biochar researcher. With 28 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.975298
 url: "/cdr-researcher-census/researchers/sheenu-sharma-a5011860/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

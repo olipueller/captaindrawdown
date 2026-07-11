@@ -1,7 +1,7 @@
 ---
 title: "Eduardo Barretto de Figueiredo"
 description: "Eduardo Barretto de Figueiredo is a Senior Soil Carbon researcher at Universidade Federal de Sâo Carlos (UFSCar) in BR. With 30 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.186022
+date: 2026-07-11T22:39:16.279366
 url: "/cdr-researcher-census/researchers/eduardo-barretto-de-figueiredo-a5003724/"
 layout: "researcher"
 hiddenInHomeList: true

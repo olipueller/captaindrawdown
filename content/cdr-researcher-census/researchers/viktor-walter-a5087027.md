@@ -1,7 +1,7 @@
 ---
 title: "Viktor Walter"
-description: "Viktor Walter is a Senior General CDR researcher at Region Västra Götaland in SE. With 39 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.549739
+description: "Viktor Walter is a Senior BECCS researcher at Region Västra Götaland in SE. With 39 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.643066
 url: "/cdr-researcher-census/researchers/viktor-walter-a5087027/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Region Västra Götaland · 🇸🇪 SE
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

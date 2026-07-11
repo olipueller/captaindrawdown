@@ -1,7 +1,7 @@
 ---
 title: "Jiaqu Tan"
 description: "Jiaqu Tan is a Mid-career Biochar researcher at South China Agricultural University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.245441
+date: 2026-07-11T22:39:17.162633
 url: "/cdr-researcher-census/researchers/jiaqu-tan-a5001880/"
 layout: "researcher"
 hiddenInHomeList: true

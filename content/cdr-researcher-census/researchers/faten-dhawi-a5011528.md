@@ -1,7 +1,7 @@
 ---
 title: "Faten Dhawi"
 description: "Faten Dhawi is a Senior Soil Carbon researcher at King Faisal University in SA. With 56 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.309303
+date: 2026-07-11T22:39:16.399715
 url: "/cdr-researcher-census/researchers/faten-dhawi-a5011528/"
 layout: "researcher"
 hiddenInHomeList: true

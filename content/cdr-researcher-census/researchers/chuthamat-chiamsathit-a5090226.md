@@ -1,7 +1,7 @@
 ---
 title: "Chuthamat Chiamsathit"
 description: "Chuthamat Chiamsathit is a Mid-career Biochar researcher at Kalasin University in TH. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.629411
+date: 2026-07-11T22:39:17.548649
 url: "/cdr-researcher-census/researchers/chuthamat-chiamsathit-a5090226/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Matoor Mohsin Gilani"
 description: "Matoor Mohsin Gilani is a Mid-career Soil Carbon researcher. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.037060
+date: 2026-07-11T22:39:17.041527
 url: "/cdr-researcher-census/researchers/matoor-mohsin-gilani-a5033041/"
 layout: "researcher"
 hiddenInHomeList: true

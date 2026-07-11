@@ -1,7 +1,7 @@
 ---
 title: "Krishnamoorthy Silambarasan"
 description: "Krishnamoorthy Silambarasan is a Mid-career Biochar researcher at Innovative Research (United States) in US. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.589753
+date: 2026-07-11T22:39:17.510885
 url: "/cdr-researcher-census/researchers/krishnamoorthy-silambarasan-a5104165/"
 layout: "researcher"
 hiddenInHomeList: true

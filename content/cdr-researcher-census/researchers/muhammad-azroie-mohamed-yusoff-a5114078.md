@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Azroie Mohamed Yusoff"
 description: "Muhammad Azroie Mohamed Yusoff is an Early-career Biochar researcher at Ministry of Natural Resources and Environment in MY. With 13 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.057547
+date: 2026-07-11T22:39:17.048618
 url: "/cdr-researcher-census/researchers/muhammad-azroie-mohamed-yusoff-a5114078/"
 layout: "researcher"
 hiddenInHomeList: true

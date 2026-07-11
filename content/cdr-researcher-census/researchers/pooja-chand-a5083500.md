@@ -1,7 +1,7 @@
 ---
 title: "Pooja Chand"
 description: "Pooja Chand is a Mid-career Enhanced Weathering researcher at Kumaun University in IN. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.031078
+date: 2026-07-11T22:39:17.039768
 url: "/cdr-researcher-census/researchers/pooja-chand-a5083500/"
 layout: "researcher"
 hiddenInHomeList: true

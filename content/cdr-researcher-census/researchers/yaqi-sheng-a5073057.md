@@ -1,7 +1,7 @@
 ---
 title: "Yaqi Sheng"
-description: "Yaqi Sheng is a Senior Soil Carbon researcher at Chinese Academy of Medical Sciences & Peking Union Medical College in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.257045
+description: "Yaqi Sheng is a Senior Biochar researcher at Chinese Academy of Medical Sciences & Peking Union Medical College in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.347191
 url: "/cdr-researcher-census/researchers/yaqi-sheng-a5073057/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Chinese Academy of Medical Sciences & Peking Union Medical College · 🇨🇳 C
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

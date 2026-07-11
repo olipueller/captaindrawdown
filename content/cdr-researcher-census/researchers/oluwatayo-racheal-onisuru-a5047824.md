@@ -1,7 +1,7 @@
 ---
 title: "Oluwatayo Racheal Onisuru"
-description: "Oluwatayo Racheal Onisuru is a Mid-career General CDR researcher at University of Johannesburg in ZA. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.989256
+description: "Oluwatayo Racheal Onisuru is a Mid-career DAC researcher at University of Johannesburg in ZA. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.024457
 url: "/cdr-researcher-census/researchers/oluwatayo-racheal-onisuru-a5047824/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Johannesburg · 🇿🇦 ZA
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

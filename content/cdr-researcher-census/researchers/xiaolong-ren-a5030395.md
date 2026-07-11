@@ -1,7 +1,7 @@
 ---
 title: "Xiaolong Ren"
 description: "Xiaolong Ren is an Eminent Soil Carbon researcher at Central Hospital of Zibo in CN. With 156 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.006461
+date: 2026-07-11T22:39:16.121997
 url: "/cdr-researcher-census/researchers/xiaolong-ren-a5030395/"
 layout: "researcher"
 hiddenInHomeList: true

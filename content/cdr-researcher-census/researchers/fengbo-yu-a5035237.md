@@ -1,7 +1,7 @@
 ---
 title: "Fengbo Yu"
 description: "Fengbo Yu is a Mid-career Biochar researcher at Nanchang University in CN. With 34 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.442357
+date: 2026-07-11T22:39:16.536950
 url: "/cdr-researcher-census/researchers/fengbo-yu-a5035237/"
 layout: "researcher"
 hiddenInHomeList: true

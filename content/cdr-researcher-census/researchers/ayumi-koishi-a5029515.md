@@ -1,7 +1,7 @@
 ---
 title: "Ayumi Koishi"
-description: "Ayumi Koishi is a Mid-career General CDR researcher at Lawrence Berkeley National Laboratory in US. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.480289
+description: "Ayumi Koishi is a Mid-career Enhanced Weathering researcher at Lawrence Berkeley National Laboratory in US. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.575145
 url: "/cdr-researcher-census/researchers/ayumi-koishi-a5029515/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Lawrence Berkeley National Laboratory · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

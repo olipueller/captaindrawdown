@@ -1,7 +1,7 @@
 ---
 title: "Tobias Koffman"
 description: "Tobias Koffman is a Senior Ocean CDR researcher at University of Hawaiʻi at Mānoa in US. With 29 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.355631
+date: 2026-07-11T22:39:16.446044
 url: "/cdr-researcher-census/researchers/tobias-koffman-a5047326/"
 layout: "researcher"
 hiddenInHomeList: true

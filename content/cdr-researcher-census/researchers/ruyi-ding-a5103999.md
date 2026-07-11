@@ -1,7 +1,7 @@
 ---
 title: "Ruyi Ding"
 description: "Ruyi Ding is a Mid-career Soil Carbon researcher at South China Botanical Garden in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.651049
+date: 2026-07-11T22:39:17.575681
 url: "/cdr-researcher-census/researchers/ruyi-ding-a5103999/"
 layout: "researcher"
 hiddenInHomeList: true

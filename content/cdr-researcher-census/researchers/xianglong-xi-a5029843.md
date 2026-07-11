@@ -1,7 +1,7 @@
 ---
 title: "Xianglong Xi"
 description: "Xianglong Xi is a Mid-career Soil Carbon researcher. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.515070
+date: 2026-07-11T22:39:16.609231
 url: "/cdr-researcher-census/researchers/xianglong-xi-a5029843/"
 layout: "researcher"
 hiddenInHomeList: true

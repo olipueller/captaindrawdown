@@ -1,7 +1,7 @@
 ---
 title: "Jin-Fa Chen"
 description: "Jin-Fa Chen is a Senior Soil Carbon researcher at Ministry of Education of the People's Republic of China in CN. With 55 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.161761
+date: 2026-07-11T22:39:16.256085
 url: "/cdr-researcher-census/researchers/jin-fa-chen-a5060207/"
 layout: "researcher"
 hiddenInHomeList: true

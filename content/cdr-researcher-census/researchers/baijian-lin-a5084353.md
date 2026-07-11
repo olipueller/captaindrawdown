@@ -1,7 +1,7 @@
 ---
 title: "Bai‐Jian Lin"
 description: "Bai‐Jian Lin is a Mid-career Soil Carbon researcher at Northeast Agricultural University in CN. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.479146
+date: 2026-07-11T22:39:16.573847
 url: "/cdr-researcher-census/researchers/baijian-lin-a5084353/"
 layout: "researcher"
 hiddenInHomeList: true

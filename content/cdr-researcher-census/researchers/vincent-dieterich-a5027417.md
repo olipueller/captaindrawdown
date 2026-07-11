@@ -1,7 +1,7 @@
 ---
 title: "Vincent Dieterich"
-description: "Vincent Dieterich is a Mid-career General CDR researcher at Technical University of Munich in DE. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.227648
+description: "Vincent Dieterich is a Mid-career DAC researcher at Technical University of Munich in DE. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.318107
 url: "/cdr-researcher-census/researchers/vincent-dieterich-a5027417/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Technical University of Munich · 🇩🇪 DE
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

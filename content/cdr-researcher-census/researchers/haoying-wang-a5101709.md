@@ -1,7 +1,7 @@
 ---
 title: "Haoying Wang"
 description: "Haoying Wang is a Senior Soil Carbon researcher at Shanxi Agricultural University in CN. With 35 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.397849
+date: 2026-07-11T22:39:16.491844
 url: "/cdr-researcher-census/researchers/haoying-wang-a5101709/"
 layout: "researcher"
 hiddenInHomeList: true

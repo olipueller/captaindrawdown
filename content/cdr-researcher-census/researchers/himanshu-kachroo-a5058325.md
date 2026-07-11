@@ -1,7 +1,7 @@
 ---
 title: "Himanshu Kachroo"
-description: "Himanshu Kachroo is an Early-career General CDR researcher at Helmholtz-Zentrum Dresden-Rossendorf in DE. With 15 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.504502
+description: "Himanshu Kachroo is an Early-career Biochar researcher at Helmholtz-Zentrum Dresden-Rossendorf in DE. With 15 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.429694
 url: "/cdr-researcher-census/researchers/himanshu-kachroo-a5058325/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Helmholtz-Zentrum Dresden-Rossendorf · 🇩🇪 DE
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

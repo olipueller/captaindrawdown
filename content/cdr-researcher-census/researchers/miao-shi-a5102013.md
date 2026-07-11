@@ -1,7 +1,7 @@
 ---
 title: "Miao Shi"
-description: "Miao Shi is a Mid-career General CDR researcher at Anhui University of Science and Technology in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.765083
+description: "Miao Shi is a Mid-career Enhanced Weathering researcher at Anhui University of Science and Technology in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.846866
 url: "/cdr-researcher-census/researchers/miao-shi-a5102013/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Anhui University of Science and Technology · 🇨🇳 CN
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

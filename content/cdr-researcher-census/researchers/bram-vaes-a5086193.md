@@ -1,7 +1,7 @@
 ---
 title: "Bram Vaes"
-description: "Bram Vaes is a Mid-career General CDR researcher at University of Milano-Bicocca in IT. With 44 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.420523
+description: "Bram Vaes is a Mid-career Enhanced Weathering researcher at University of Milano-Bicocca in IT. With 44 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.515079
 url: "/cdr-researcher-census/researchers/bram-vaes-a5086193/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Milano-Bicocca · 🇮🇹 IT
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

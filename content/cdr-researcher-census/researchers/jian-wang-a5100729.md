@@ -1,7 +1,7 @@
 ---
 title: "Jian Wang"
-description: "Jian Wang is a Senior Soil Carbon researcher at Jiangsu Provincial Water Survey & Design Institute (China) in CN. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.418921
+description: "Jian Wang is a Senior Biochar researcher at Jiangsu Provincial Water Survey & Design Institute (China) in CN. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.342233
 url: "/cdr-researcher-census/researchers/jian-wang-a5100729/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Jiangsu Provincial Water Survey & Design Institute (China) · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

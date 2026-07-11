@@ -1,7 +1,7 @@
 ---
 title: "Henri E. Cuny"
 description: "Henri E. Cuny is a Mid-career Soil Carbon researcher at Institut national de l’information géographique et forestière in FR. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.186848
+date: 2026-07-11T22:39:16.280125
 url: "/cdr-researcher-census/researchers/henri-e-cuny-a5104977/"
 layout: "researcher"
 hiddenInHomeList: true

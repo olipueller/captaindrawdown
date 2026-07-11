@@ -1,7 +1,7 @@
 ---
 title: "Papa Mamadou Sitor Ndour"
 description: "Papa Mamadou Sitor Ndour is a Mid-career Soil Carbon researcher at Université Paris-Est Créteil in FR. With 29 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.779289
+date: 2026-07-11T22:39:16.860694
 url: "/cdr-researcher-census/researchers/papa-mamadou-sitor-ndour-a5085284/"
 layout: "researcher"
 hiddenInHomeList: true

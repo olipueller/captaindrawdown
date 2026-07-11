@@ -1,7 +1,7 @@
 ---
 title: "Dariia Atamanchuk"
 description: "Dariia Atamanchuk is a Mid-career Ocean CDR researcher at Dalhousie University in CA. With 70 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.377099
+date: 2026-07-11T22:39:16.469435
 url: "/cdr-researcher-census/researchers/dariia-atamanchuk-a5022141/"
 layout: "researcher"
 hiddenInHomeList: true

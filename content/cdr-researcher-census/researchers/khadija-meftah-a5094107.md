@@ -1,7 +1,7 @@
 ---
 title: "Khadija Meftah"
 description: "Khadija Meftah is a Mid-career Biochar researcher at Université Sultan Moulay Slimane in MA. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.353465
+date: 2026-07-11T22:39:17.272629
 url: "/cdr-researcher-census/researchers/khadija-meftah-a5094107/"
 layout: "researcher"
 hiddenInHomeList: true

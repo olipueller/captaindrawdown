@@ -1,7 +1,7 @@
 ---
 title: "H. Lembisana Devi"
 description: "H. Lembisana Devi is a Mid-career Soil Carbon researcher at ICAR Research Complex for NEH Region in IN. With 36 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.690964
+date: 2026-07-11T22:39:16.775655
 url: "/cdr-researcher-census/researchers/h-lembisana-devi-a5079414/"
 layout: "researcher"
 hiddenInHomeList: true

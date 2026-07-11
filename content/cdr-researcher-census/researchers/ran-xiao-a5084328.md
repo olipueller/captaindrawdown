@@ -1,7 +1,7 @@
 ---
 title: "Ran Xiao"
 description: "Ran Xiao is a Senior Biochar researcher at Southwest University in CN. With 79 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:39.990233
+date: 2026-07-11T22:39:16.109020
 url: "/cdr-researcher-census/researchers/ran-xiao-a5084328/"
 layout: "researcher"
 hiddenInHomeList: true

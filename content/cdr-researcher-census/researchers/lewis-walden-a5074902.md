@@ -1,7 +1,7 @@
 ---
 title: "Lewis Walden"
 description: "Lewis Walden is a Mid-career Soil Carbon researcher at Curtin University in AU. With 32 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.654423
+date: 2026-07-11T22:39:16.743760
 url: "/cdr-researcher-census/researchers/lewis-walden-a5074902/"
 layout: "researcher"
 hiddenInHomeList: true

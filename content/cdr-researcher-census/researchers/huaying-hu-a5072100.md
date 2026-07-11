@@ -1,7 +1,7 @@
 ---
 title: "Huaying Hu"
 description: "Huaying Hu is a Mid-career Soil Carbon researcher at Sun Yat-sen University in CN. With 37 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.215414
+date: 2026-07-11T22:39:16.306479
 url: "/cdr-researcher-census/researchers/huaying-hu-a5072100/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Huajun Fang"
-description: "Huajun Fang is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.460814
+description: "Huajun Fang is a Senior Biochar researcher at Chinese Academy of Sciences in CN. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.555189
 url: "/cdr-researcher-census/researchers/huajun-fang-a5103676/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Chinese Academy of Sciences · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

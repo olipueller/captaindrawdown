@@ -1,7 +1,7 @@
 ---
 title: "Deirdre Mallyon"
-description: "Deirdre Mallyon is a Mid-career Ocean CDR researcher at University of Alberta in CA. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.879632
+description: "Deirdre Mallyon is a Mid-career Enhanced Weathering researcher at University of Alberta in CA. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.969835
 url: "/cdr-researcher-census/researchers/deirdre-mallyon-a5037546/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ University of Alberta · 🇨🇦 CA
 
 ## CDR Specialization
 
-**Ocean CDR**
+**Enhanced Weathering**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

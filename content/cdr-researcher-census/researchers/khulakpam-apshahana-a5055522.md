@@ -1,7 +1,7 @@
 ---
 title: "Khulakpam Apshahana"
-description: "Khulakpam Apshahana is an Early-career Soil Carbon researcher at North Eastern Hill University in IN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.618371
+description: "Khulakpam Apshahana is an Early-career BECCS researcher at North Eastern Hill University in IN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.537411
 url: "/cdr-researcher-census/researchers/khulakpam-apshahana-a5055522/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ North Eastern Hill University · 🇮🇳 IN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**BECCS**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

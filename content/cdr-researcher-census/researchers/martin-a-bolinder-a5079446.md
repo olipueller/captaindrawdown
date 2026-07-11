@@ -1,7 +1,7 @@
 ---
 title: "Martin A. Bolinder"
 description: "Martin A. Bolinder is a Senior Soil Carbon researcher at Swedish University of Agricultural Sciences in SE. With 86 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:39.999150
+date: 2026-07-11T22:39:16.115660
 url: "/cdr-researcher-census/researchers/martin-a-bolinder-a5079446/"
 layout: "researcher"
 hiddenInHomeList: true

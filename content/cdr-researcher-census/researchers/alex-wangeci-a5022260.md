@@ -1,7 +1,7 @@
 ---
 title: "Alex Wangeci"
 description: "Alex Wangeci is a Mid-career Soil Carbon researcher at Kenya Plant Health Inspectorate Services in KE. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.582078
+date: 2026-07-11T22:39:16.674682
 url: "/cdr-researcher-census/researchers/alex-wangeci-a5022260/"
 layout: "researcher"
 hiddenInHomeList: true

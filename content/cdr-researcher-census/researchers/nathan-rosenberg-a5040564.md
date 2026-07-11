@@ -1,7 +1,7 @@
 ---
 title: "Nathan Rosenberg"
 description: "Nathan Rosenberg is a Mid-career Soil Carbon researcher at Harvard University Press in US. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.586017
+date: 2026-07-11T22:39:17.507160
 url: "/cdr-researcher-census/researchers/nathan-rosenberg-a5040564/"
 layout: "researcher"
 hiddenInHomeList: true

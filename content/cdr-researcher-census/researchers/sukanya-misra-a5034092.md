@@ -1,7 +1,7 @@
 ---
 title: "Sukanya Misra"
-description: "Sukanya Misra is a Senior Soil Carbon researcher at Central Agricultural University in IN. With 33 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.634040
+description: "Sukanya Misra is a Senior Biochar researcher at Central Agricultural University in IN. With 33 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.724529
 url: "/cdr-researcher-census/researchers/sukanya-misra-a5034092/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Central Agricultural University · 🇮🇳 IN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

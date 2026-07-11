@@ -1,7 +1,7 @@
 ---
 title: "Sirjana Adhikari"
 description: "Sirjana Adhikari is a Mid-career Biochar researcher at Deakin University in AU. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.331114
+date: 2026-07-11T22:39:16.420788
 url: "/cdr-researcher-census/researchers/sirjana-adhikari-a5035340/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Junji Yuan"
 description: "Junji Yuan is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 81 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.066672
+date: 2026-07-11T22:39:16.170520
 url: "/cdr-researcher-census/researchers/junji-yuan-a5013164/"
 layout: "researcher"
 hiddenInHomeList: true

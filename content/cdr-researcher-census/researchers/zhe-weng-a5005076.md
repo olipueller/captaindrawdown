@@ -1,7 +1,7 @@
 ---
 title: "Zhe Weng"
-description: "Zhe Weng is a Senior General CDR researcher at University of Adelaide in AU. With 57 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.052982
+description: "Zhe Weng is a Senior Biochar researcher at University of Adelaide in AU. With 57 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.159478
 url: "/cdr-researcher-census/researchers/zhe-weng-a5005076/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Adelaide · 🇦🇺 AU
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

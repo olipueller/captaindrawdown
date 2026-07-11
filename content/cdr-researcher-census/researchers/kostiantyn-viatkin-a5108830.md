@@ -1,7 +1,7 @@
 ---
 title: "Kostiantyn Viatkin"
-description: "Kostiantyn Viatkin is a Mid-career General CDR researcher at Cornell University in US. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.283453
+description: "Kostiantyn Viatkin is a Mid-career Enhanced Weathering researcher at Cornell University in US. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.373415
 url: "/cdr-researcher-census/researchers/kostiantyn-viatkin-a5108830/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Cornell University · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

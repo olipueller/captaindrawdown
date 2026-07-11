@@ -1,7 +1,7 @@
 ---
 title: "Luca Giuliano Bernardini"
 description: "Luca Giuliano Bernardini is a Mid-career Soil Carbon researcher at Universitätsklinikum Tulln in AT. With 25 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.378956
+date: 2026-07-11T22:39:17.299599
 url: "/cdr-researcher-census/researchers/luca-giuliano-bernardini-a5088383/"
 layout: "researcher"
 hiddenInHomeList: true

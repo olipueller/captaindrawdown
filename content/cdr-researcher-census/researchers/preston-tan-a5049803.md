@@ -1,7 +1,7 @@
 ---
 title: "Preston Tan"
 description: "Preston Tan is an Early-career General CDR researcher at Nanyang Technological University in SG. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.395912
+date: 2026-07-11T22:39:17.317817
 url: "/cdr-researcher-census/researchers/preston-tan-a5049803/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xin-Di Liao"
 description: "Xin-Di Liao is a Mid-career Soil Carbon researcher at South China Agricultural University in CN. With 22 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.731246
+date: 2026-07-11T22:39:16.813671
 url: "/cdr-researcher-census/researchers/xin-di-liao-a5022830/"
 layout: "researcher"
 hiddenInHomeList: true

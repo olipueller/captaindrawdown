@@ -1,7 +1,7 @@
 ---
 title: "Zhijie Gong"
 description: "Zhijie Gong is a Mid-career BECCS researcher at Xihua University in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.457939
+date: 2026-07-11T22:39:17.382426
 url: "/cdr-researcher-census/researchers/zhijie-gong-a5019997/"
 layout: "researcher"
 hiddenInHomeList: true

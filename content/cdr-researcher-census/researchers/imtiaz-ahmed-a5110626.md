@@ -1,7 +1,7 @@
 ---
 title: "Imtiaz Ahmed"
 description: "Imtiaz Ahmed is a Senior Soil Carbon researcher at Rajshahi University of Engineering and Technology in BD. With 24 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.517381
+date: 2026-07-11T22:39:17.442359
 url: "/cdr-researcher-census/researchers/imtiaz-ahmed-a5110626/"
 layout: "researcher"
 hiddenInHomeList: true

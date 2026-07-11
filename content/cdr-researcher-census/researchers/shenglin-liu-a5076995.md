@@ -1,7 +1,7 @@
 ---
 title: "Shenglin Liu"
 description: "Shenglin Liu is a Senior Soil Carbon researcher. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.553118
+date: 2026-07-11T22:39:17.476878
 url: "/cdr-researcher-census/researchers/shenglin-liu-a5076995/"
 layout: "researcher"
 hiddenInHomeList: true

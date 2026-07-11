@@ -1,7 +1,7 @@
 ---
 title: "Jan Weik"
 description: "Jan Weik is a Mid-career General CDR researcher at University of Hohenheim in DE. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.068496
+date: 2026-07-11T22:39:17.057664
 url: "/cdr-researcher-census/researchers/jan-weik-a5016297/"
 layout: "researcher"
 hiddenInHomeList: true

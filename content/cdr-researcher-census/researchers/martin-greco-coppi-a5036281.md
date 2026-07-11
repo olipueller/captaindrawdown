@@ -1,7 +1,7 @@
 ---
 title: "Martin Greco-Coppi"
 description: "Martin Greco-Coppi is a Mid-career General CDR researcher at Technische Universität Darmstadt in DE. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.321827
+date: 2026-07-11T22:39:17.239174
 url: "/cdr-researcher-census/researchers/martin-greco-coppi-a5036281/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Liwei Qiu"
 description: "Liwei Qiu is a Mid-career Biochar researcher at Fuzhou University in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.325387
+date: 2026-07-11T22:39:17.242778
 url: "/cdr-researcher-census/researchers/liwei-qiu-a5055819/"
 layout: "researcher"
 hiddenInHomeList: true

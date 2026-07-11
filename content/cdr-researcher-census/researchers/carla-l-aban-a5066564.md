@@ -1,7 +1,7 @@
 ---
 title: "Carla L. Abán"
 description: "Carla L. Abán is a Mid-career Soil Carbon researcher at National University of Salta in AR. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.572516
+date: 2026-07-11T22:39:17.495574
 url: "/cdr-researcher-census/researchers/carla-l-aban-a5066564/"
 layout: "researcher"
 hiddenInHomeList: true

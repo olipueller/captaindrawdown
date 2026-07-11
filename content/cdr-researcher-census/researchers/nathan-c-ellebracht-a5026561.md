@@ -1,7 +1,7 @@
 ---
 title: "Nathan C. Ellebracht"
 description: "Nathan C. Ellebracht is a Senior General CDR researcher at Lawrence Livermore National Laboratory in US. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.504829
+date: 2026-07-11T22:39:16.599242
 url: "/cdr-researcher-census/researchers/nathan-c-ellebracht-a5026561/"
 layout: "researcher"
 hiddenInHomeList: true

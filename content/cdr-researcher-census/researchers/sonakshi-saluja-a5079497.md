@@ -1,7 +1,7 @@
 ---
 title: "Sonakshi Saluja"
 description: "Sonakshi Saluja is a Mid-career General CDR researcher at Alexander von Humboldt Foundation in DE. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.614872
+date: 2026-07-11T22:39:17.534050
 url: "/cdr-researcher-census/researchers/sonakshi-saluja-a5079497/"
 layout: "researcher"
 hiddenInHomeList: true

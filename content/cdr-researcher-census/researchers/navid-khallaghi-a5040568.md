@@ -1,7 +1,7 @@
 ---
 title: "Navid Khallaghi"
 description: "Navid Khallaghi is a Mid-career BECCS researcher at University of Manchester in GB. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.644078
+date: 2026-07-11T22:39:16.733821
 url: "/cdr-researcher-census/researchers/navid-khallaghi-a5040568/"
 layout: "researcher"
 hiddenInHomeList: true

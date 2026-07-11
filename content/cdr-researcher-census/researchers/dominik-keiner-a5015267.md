@@ -1,7 +1,7 @@
 ---
 title: "Dominik Keiner"
 description: "Dominik Keiner is a Mid-career General CDR researcher at LUT University in FI. With 39 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.137274
+date: 2026-07-11T22:39:16.233655
 url: "/cdr-researcher-census/researchers/dominik-keiner-a5015267/"
 layout: "researcher"
 hiddenInHomeList: true

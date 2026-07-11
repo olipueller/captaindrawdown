@@ -1,7 +1,7 @@
 ---
 title: "Xiaodong Zhang"
 description: "Xiaodong Zhang is a Mid-career Soil Carbon researcher at Central South University in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.639822
+date: 2026-07-11T22:39:17.561421
 url: "/cdr-researcher-census/researchers/xiaodong-zhang-a5008976/"
 layout: "researcher"
 hiddenInHomeList: true

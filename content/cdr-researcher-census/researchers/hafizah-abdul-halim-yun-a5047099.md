@@ -1,7 +1,7 @@
 ---
 title: "Hafizah Abdul Halim Yun"
 description: "Hafizah Abdul Halim Yun is a Mid-career BECCS researcher at Universiti Malaysia Sarawak in MY. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.491439
+date: 2026-07-11T22:39:17.416202
 url: "/cdr-researcher-census/researchers/hafizah-abdul-halim-yun-a5047099/"
 layout: "researcher"
 hiddenInHomeList: true

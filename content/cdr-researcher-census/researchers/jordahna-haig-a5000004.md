@@ -1,7 +1,7 @@
 ---
 title: "Jordahna Haig"
 description: "Jordahna Haig is a Senior Soil Carbon researcher at James Cook University in AU. With 26 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.433084
+date: 2026-07-11T22:39:16.527475
 url: "/cdr-researcher-census/researchers/jordahna-haig-a5000004/"
 layout: "researcher"
 hiddenInHomeList: true

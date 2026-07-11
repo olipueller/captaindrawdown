@@ -1,7 +1,7 @@
 ---
 title: "Siwen Tan"
 description: "Siwen Tan is a Senior Biochar researcher. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.583531
+date: 2026-07-11T22:39:17.505093
 url: "/cdr-researcher-census/researchers/siwen-tan-a5044990/"
 layout: "researcher"
 hiddenInHomeList: true

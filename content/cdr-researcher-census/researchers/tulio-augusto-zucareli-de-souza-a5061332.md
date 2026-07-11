@@ -1,7 +1,7 @@
 ---
 title: "Túlio Augusto Zucareli de Souza"
-description: "Túlio Augusto Zucareli de Souza is a Mid-career General CDR researcher at Universidade Federal do Pampa in BR. With 40 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.490293
+description: "Túlio Augusto Zucareli de Souza is a Mid-career BECCS researcher at Universidade Federal do Pampa in BR. With 40 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.584590
 url: "/cdr-researcher-census/researchers/tulio-augusto-zucareli-de-souza-a5061332/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Universidade Federal do Pampa · 🇧🇷 BR
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

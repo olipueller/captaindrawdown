@@ -1,7 +1,7 @@
 ---
 title: "Claire Emilienne Wati Yameogo"
 description: "Claire Emilienne Wati Yameogo is a Mid-career General CDR researcher at Université Ouaga II in BF. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.425238
+date: 2026-07-11T22:39:16.519656
 url: "/cdr-researcher-census/researchers/claire-emilienne-wati-yameogo-a5031241/"
 layout: "researcher"
 hiddenInHomeList: true

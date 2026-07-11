@@ -1,7 +1,7 @@
 ---
 title: "Ilka Engell"
 description: "Ilka Engell is a Mid-career Soil Carbon researcher at University of Göttingen in DE. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.599682
+date: 2026-07-11T22:39:17.520320
 url: "/cdr-researcher-census/researchers/ilka-engell-a5085249/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Maria Fernanda Rojas Michaga"
 description: "Maria Fernanda Rojas Michaga is a Mid-career General CDR researcher at University of Sheffield in GB. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.425355
+date: 2026-07-11T22:39:16.519773
 url: "/cdr-researcher-census/researchers/maria-fernanda-rojas-michaga-a5008537/"
 layout: "researcher"
 hiddenInHomeList: true

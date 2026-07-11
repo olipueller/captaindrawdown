@@ -1,7 +1,7 @@
 ---
 title: "Xuqun Lin"
-description: "Xuqun Lin is a Mid-career General CDR researcher at University of Technology Sydney in AU. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.773499
+description: "Xuqun Lin is a Mid-career Biochar researcher at University of Technology Sydney in AU. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.855077
 url: "/cdr-researcher-census/researchers/xuqun-lin-a5017579/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ University of Technology Sydney · 🇦🇺 AU
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

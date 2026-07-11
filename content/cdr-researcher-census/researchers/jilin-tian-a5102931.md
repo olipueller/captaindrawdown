@@ -1,7 +1,7 @@
 ---
 title: "Jilin Tian"
 description: "Jilin Tian is a Mid-career Biochar researcher at Duke University in US. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.095099
+date: 2026-07-11T22:39:17.068004
 url: "/cdr-researcher-census/researchers/jilin-tian-a5102931/"
 layout: "researcher"
 hiddenInHomeList: true

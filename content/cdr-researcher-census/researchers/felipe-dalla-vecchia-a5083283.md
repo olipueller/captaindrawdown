@@ -1,7 +1,7 @@
 ---
 title: "Felipe Dalla Vecchia"
 description: "Felipe Dalla Vecchia is a Senior General CDR researcher at Pontifícia Universidade Católica do Rio Grande do Sul in BR. With 80 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.194684
+date: 2026-07-11T22:39:16.287281
 url: "/cdr-researcher-census/researchers/felipe-dalla-vecchia-a5083283/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Moldir Nurseitova"
 description: "Moldir Nurseitova is a Mid-career Biochar researcher at Al-Farabi Kazakh National University in KZ. With 24 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.636850
+date: 2026-07-11T22:39:17.558037
 url: "/cdr-researcher-census/researchers/moldir-nurseitova-a5002060/"
 layout: "researcher"
 hiddenInHomeList: true

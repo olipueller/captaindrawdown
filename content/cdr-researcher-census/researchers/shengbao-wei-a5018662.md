@@ -1,7 +1,7 @@
 ---
 title: "Shengbao Wei"
 description: "Shengbao Wei is a Mid-career Soil Carbon researcher at South China Agricultural University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.408109
+date: 2026-07-11T22:39:16.502090
 url: "/cdr-researcher-census/researchers/shengbao-wei-a5018662/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Matteo Francioni"
-description: "Matteo Francioni is a Mid-career Soil Carbon researcher at Marche Polytechnic University in IT. With 39 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.536324
+description: "Matteo Francioni is a Mid-career Biochar researcher at Marche Polytechnic University in IT. With 39 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.629579
 url: "/cdr-researcher-census/researchers/matteo-francioni-a5081021/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Marche Polytechnic University · 🇮🇹 IT
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "Gerd Dercon"
 description: "Gerd Dercon is a Senior Soil Carbon researcher. With 108 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.100238
+date: 2026-07-11T22:39:16.199839
 url: "/cdr-researcher-census/researchers/gerd-dercon-a5076282/"
 layout: "researcher"
 hiddenInHomeList: true

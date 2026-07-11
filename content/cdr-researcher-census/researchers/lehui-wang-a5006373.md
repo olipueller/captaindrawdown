@@ -1,7 +1,7 @@
 ---
 title: "Lehui Wang"
 description: "Lehui Wang is an Early-career Biochar researcher at Zhengzhou University of Light Industry in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.496680
+date: 2026-07-11T22:39:17.421781
 url: "/cdr-researcher-census/researchers/lehui-wang-a5006373/"
 layout: "researcher"
 hiddenInHomeList: true

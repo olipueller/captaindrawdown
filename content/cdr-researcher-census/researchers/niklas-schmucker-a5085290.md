@@ -1,7 +1,7 @@
 ---
 title: "Niklas Schmücker"
 description: "Niklas Schmücker is a Mid-career Soil Carbon researcher at ETH Zurich in CH. With 8 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.564768
+date: 2026-07-11T22:39:17.487704
 url: "/cdr-researcher-census/researchers/niklas-schmucker-a5085290/"
 layout: "researcher"
 hiddenInHomeList: true

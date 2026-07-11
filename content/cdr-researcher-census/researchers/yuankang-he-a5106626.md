@@ -1,7 +1,7 @@
 ---
 title: "Yuankang He"
 description: "Yuankang He is a Senior General CDR researcher at State Grid Corporation of China (China) in CN. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.952043
+date: 2026-07-11T22:39:17.003902
 url: "/cdr-researcher-census/researchers/yuankang-he-a5106626/"
 layout: "researcher"
 hiddenInHomeList: true

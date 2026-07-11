@@ -1,7 +1,7 @@
 ---
 title: "Julia Raudlatul Jannah Zaeni"
 description: "Julia Raudlatul Jannah Zaeni is a Mid-career Biochar researcher at Universiti Sains Malaysia in MY. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.094860
+date: 2026-07-11T22:39:17.067811
 url: "/cdr-researcher-census/researchers/julia-raudlatul-jannah-zaeni-a5005503/"
 layout: "researcher"
 hiddenInHomeList: true

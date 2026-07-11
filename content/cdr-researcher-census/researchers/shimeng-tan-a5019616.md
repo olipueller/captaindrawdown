@@ -1,7 +1,7 @@
 ---
 title: "Shimeng Tan"
-description: "Shimeng Tan is a Mid-career Soil Carbon researcher at Institute of Plant Protection in CN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.278181
+description: "Shimeng Tan is a Mid-career Biochar researcher at Institute of Plant Protection in CN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.195768
 url: "/cdr-researcher-census/researchers/shimeng-tan-a5019616/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Institute of Plant Protection · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

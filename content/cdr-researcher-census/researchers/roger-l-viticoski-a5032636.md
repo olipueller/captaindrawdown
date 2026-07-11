@@ -1,7 +1,7 @@
 ---
 title: "Roger L. Viticoski"
-description: "Roger L. Viticoski is a Mid-career General CDR researcher at Auburn University in US. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.627258
+description: "Roger L. Viticoski is a Mid-career Biochar researcher at Auburn University in US. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.546348
 url: "/cdr-researcher-census/researchers/roger-l-viticoski-a5032636/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Auburn University · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

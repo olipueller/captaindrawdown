@@ -1,7 +1,7 @@
 ---
 title: "Agnes Förster"
 description: "Agnes Förster is a Mid-career Soil Carbon researcher at University of Göttingen in DE. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.229155
+date: 2026-07-11T22:39:17.146050
 url: "/cdr-researcher-census/researchers/agnes-forster-a5054112/"
 layout: "researcher"
 hiddenInHomeList: true

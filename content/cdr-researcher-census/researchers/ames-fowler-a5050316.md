@@ -1,7 +1,7 @@
 ---
 title: "Ames Fowler"
 description: "Ames Fowler is a Mid-career General CDR researcher at University of Liège in BE. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.214901
+date: 2026-07-11T22:39:17.131614
 url: "/cdr-researcher-census/researchers/ames-fowler-a5050316/"
 layout: "researcher"
 hiddenInHomeList: true

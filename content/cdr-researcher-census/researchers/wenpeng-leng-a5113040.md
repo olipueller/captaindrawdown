@@ -1,7 +1,7 @@
 ---
 title: "Wenpeng Leng"
 description: "Wenpeng Leng is a Mid-career Biochar researcher at Beijing Academy of Science and Technology in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.429663
+date: 2026-07-11T22:39:17.353736
 url: "/cdr-researcher-census/researchers/wenpeng-leng-a5113040/"
 layout: "researcher"
 hiddenInHomeList: true

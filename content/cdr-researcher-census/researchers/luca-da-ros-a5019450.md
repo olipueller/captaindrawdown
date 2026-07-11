@@ -1,7 +1,7 @@
 ---
 title: "Luca Da Ros"
 description: "Luca Da Ros is a Mid-career Soil Carbon researcher at Free University of Bozen-Bolzano in IT. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.454374
+date: 2026-07-11T22:39:17.379104
 url: "/cdr-researcher-census/researchers/luca-da-ros-a5019450/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Naycari Forfora"
 description: "Naycari Forfora is a Mid-career Soil Carbon researcher at North Carolina State University in US. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.807308
+date: 2026-07-11T22:39:16.887323
 url: "/cdr-researcher-census/researchers/naycari-forfora-a5020095/"
 layout: "researcher"
 hiddenInHomeList: true

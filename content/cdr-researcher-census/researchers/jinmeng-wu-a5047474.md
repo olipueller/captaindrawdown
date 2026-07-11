@@ -1,7 +1,7 @@
 ---
 title: "Jinmeng Wu"
 description: "Jinmeng Wu is a Mid-career Biochar researcher at Harbin Institute of Technology in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.632415
+date: 2026-07-11T22:39:16.723099
 url: "/cdr-researcher-census/researchers/jinmeng-wu-a5047474/"
 layout: "researcher"
 hiddenInHomeList: true

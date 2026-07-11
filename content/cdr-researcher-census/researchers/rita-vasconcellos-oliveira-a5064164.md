@@ -1,7 +1,7 @@
 ---
 title: "Rita Vasconcellos Oliveira"
-description: "Rita Vasconcellos Oliveira is a Mid-career Ocean CDR researcher. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.368744
+description: "Rita Vasconcellos Oliveira is a Mid-career DAC researcher. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.288336
 url: "/cdr-researcher-census/researchers/rita-vasconcellos-oliveira-a5064164/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**Ocean CDR**
+**DAC**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "Javier Rinza"
 description: "Javier Rinza is a Mid-career Soil Carbon researcher at Centro Internacional de la Papa in PE. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.138043
+date: 2026-07-11T22:39:17.086914
 url: "/cdr-researcher-census/researchers/javier-rinza-a5080182/"
 layout: "researcher"
 hiddenInHomeList: true

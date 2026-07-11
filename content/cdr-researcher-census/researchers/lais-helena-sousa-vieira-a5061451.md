@@ -1,7 +1,7 @@
 ---
 title: "Laís Helena Sousa Vieira"
-description: "Laís Helena Sousa Vieira is a Mid-career Soil Carbon researcher at Universidade Federal do Ceará in BR. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.959343
+description: "Laís Helena Sousa Vieira is a Mid-career Biochar researcher at Universidade Federal do Ceará in BR. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.008628
 url: "/cdr-researcher-census/researchers/lais-helena-sousa-vieira-a5061451/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Universidade Federal do Ceará · 🇧🇷 BR
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

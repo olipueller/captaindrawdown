@@ -1,7 +1,7 @@
 ---
 title: "Subham C. Mondal"
-description: "Subham C. Mondal is a Mid-career Soil Carbon researcher at Tezpur University in IN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.196475
+description: "Subham C. Mondal is a Mid-career Biochar researcher at Tezpur University in IN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.115272
 url: "/cdr-researcher-census/researchers/subham-c-mondal-a5054499/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Tezpur University · 🇮🇳 IN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

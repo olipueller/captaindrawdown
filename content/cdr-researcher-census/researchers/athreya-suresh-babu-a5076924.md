@@ -1,7 +1,7 @@
 ---
 title: "Athreya Suresh Babu"
 description: "Athreya Suresh Babu is a Mid-career General CDR researcher at The University of Texas at Austin in US. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.207359
+date: 2026-07-11T22:39:17.124799
 url: "/cdr-researcher-census/researchers/athreya-suresh-babu-a5076924/"
 layout: "researcher"
 hiddenInHomeList: true

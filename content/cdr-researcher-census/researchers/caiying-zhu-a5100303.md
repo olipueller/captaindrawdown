@@ -1,7 +1,7 @@
 ---
 title: "Caiying Zhu"
 description: "Caiying Zhu is a Senior Biochar researcher at Chinese Academy of Medical Sciences & Peking Union Medical College in CN. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.650261
+date: 2026-07-11T22:39:17.574832
 url: "/cdr-researcher-census/researchers/caiying-zhu-a5100303/"
 layout: "researcher"
 hiddenInHomeList: true

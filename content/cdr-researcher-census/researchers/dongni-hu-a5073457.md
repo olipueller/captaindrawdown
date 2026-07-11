@@ -1,7 +1,7 @@
 ---
 title: "Dongni Hu"
 description: "Dongni Hu is a Mid-career Biochar researcher at Jinan University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.590178
+date: 2026-07-11T22:39:17.511294
 url: "/cdr-researcher-census/researchers/dongni-hu-a5073457/"
 layout: "researcher"
 hiddenInHomeList: true

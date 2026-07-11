@@ -1,7 +1,7 @@
 ---
 title: "Oscar Zapata"
 description: "Oscar Zapata is a Mid-career Biochar researcher at University of Saskatchewan in CA. With 34 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.219029
+date: 2026-07-11T22:39:16.309644
 url: "/cdr-researcher-census/researchers/oscar-zapata-a5014630/"
 layout: "researcher"
 hiddenInHomeList: true

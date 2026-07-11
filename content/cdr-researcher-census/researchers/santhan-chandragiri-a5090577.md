@@ -1,7 +1,7 @@
 ---
 title: "Santhan Chandragiri"
 description: "Santhan Chandragiri is a Mid-career Ocean CDR researcher at Florida State University in US. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.540635
+date: 2026-07-11T22:39:17.464692
 url: "/cdr-researcher-census/researchers/santhan-chandragiri-a5090577/"
 layout: "researcher"
 hiddenInHomeList: true

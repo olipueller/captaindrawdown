@@ -1,7 +1,7 @@
 ---
 title: "Wen‐Chen Chou"
 description: "Wen‐Chen Chou is a Senior Ocean CDR researcher at National Taiwan Ocean University in TW. With 58 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.139345
+date: 2026-07-11T22:39:16.235543
 url: "/cdr-researcher-census/researchers/wenchen-chou-a5013548/"
 layout: "researcher"
 hiddenInHomeList: true

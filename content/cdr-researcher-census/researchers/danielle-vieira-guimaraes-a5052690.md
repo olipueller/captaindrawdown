@@ -1,7 +1,7 @@
 ---
 title: "Danielle Vieira Guimarães"
-description: "Danielle Vieira Guimarães is a Senior Soil Carbon researcher at Universidade Federal de Sergipe in BR. With 34 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.661410
+description: "Danielle Vieira Guimarães is a Senior Biochar researcher at Universidade Federal de Sergipe in BR. With 34 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.749811
 url: "/cdr-researcher-census/researchers/danielle-vieira-guimaraes-a5052690/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Universidade Federal de Sergipe · 🇧🇷 BR
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "Ponnapat Watjanatepin"
-description: "Ponnapat Watjanatepin is a Mid-career General CDR researcher at Evangelical Theological Faculty in BE. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.493355
+description: "Ponnapat Watjanatepin is a Mid-career Enhanced Weathering researcher at Evangelical Theological Faculty in BE. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.418268
 url: "/cdr-researcher-census/researchers/ponnapat-watjanatepin-a5034762/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Evangelical Theological Faculty · 🇧🇪 BE
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

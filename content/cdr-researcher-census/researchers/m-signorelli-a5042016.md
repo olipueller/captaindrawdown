@@ -1,7 +1,7 @@
 ---
 title: "M. Signorelli"
-description: "M. Signorelli is a Mid-career General CDR researcher at TAE Technologies, Inc (United States) in US. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.151754
+description: "M. Signorelli is a Mid-career DAC researcher at TAE Technologies, Inc (United States) in US. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.095968
 url: "/cdr-researcher-census/researchers/m-signorelli-a5042016/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ TAE Technologies, Inc (United States) · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

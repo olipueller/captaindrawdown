@@ -1,7 +1,7 @@
 ---
 title: "S. Jayaraman"
 description: "S. Jayaraman is a Senior Biochar researcher at Indian Institute of Soil and Water Conservation in IN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.801934
+date: 2026-07-11T22:39:16.882608
 url: "/cdr-researcher-census/researchers/s-jayaraman-a5109739/"
 layout: "researcher"
 hiddenInHomeList: true

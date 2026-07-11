@@ -1,7 +1,7 @@
 ---
 title: "Maximilian Meyer"
 description: "Maximilian Meyer is a Mid-career Soil Carbon researcher at University of Bonn in DE. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.774283
+date: 2026-07-11T22:39:16.855916
 url: "/cdr-researcher-census/researchers/maximilian-meyer-a5034576/"
 layout: "researcher"
 hiddenInHomeList: true

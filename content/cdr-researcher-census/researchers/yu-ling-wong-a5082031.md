@@ -1,7 +1,7 @@
 ---
 title: "Yu Ling Wong"
 description: "Yu Ling Wong is a Senior Biochar researcher at University of Nottingham Malaysia Campus in MY. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.975529
+date: 2026-07-11T22:39:17.020215
 url: "/cdr-researcher-census/researchers/yu-ling-wong-a5082031/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zhaoxia Li"
 description: "Zhaoxia Li is a Mid-career Biochar researcher at Nanjing Tech University in CN. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.524789
+date: 2026-07-11T22:39:16.619132
 url: "/cdr-researcher-census/researchers/zhaoxia-li-a5100380/"
 layout: "researcher"
 hiddenInHomeList: true

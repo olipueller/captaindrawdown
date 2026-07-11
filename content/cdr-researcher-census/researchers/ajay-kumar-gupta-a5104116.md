@@ -1,7 +1,7 @@
 ---
 title: "Ajay Kumar Gupta"
-description: "Ajay Kumar Gupta is an Early-career General CDR researcher at G.B. Pant Institute of Himalayan Environment and Development in IN. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.841254
+description: "Ajay Kumar Gupta is an Early-career Biochar researcher at G.B. Pant Institute of Himalayan Environment and Development in IN. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.918451
 url: "/cdr-researcher-census/researchers/ajay-kumar-gupta-a5104116/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ G.B. Pant Institute of Himalayan Environment and Development · 🇮🇳 IN
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

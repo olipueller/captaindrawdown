@@ -1,7 +1,7 @@
 ---
 title: "J.V.N.S. Prasad"
 description: "J.V.N.S. Prasad is a Senior Soil Carbon researcher at Central Research Institute for Dryland Agriculture in IN. With 76 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.179736
+date: 2026-07-11T22:39:16.273535
 url: "/cdr-researcher-census/researchers/jvns-prasad-a5054406/"
 layout: "researcher"
 hiddenInHomeList: true

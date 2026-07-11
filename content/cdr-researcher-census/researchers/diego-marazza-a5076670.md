@@ -1,7 +1,7 @@
 ---
 title: "Diego Marazza"
-description: "Diego Marazza is a Senior Soil Carbon researcher at University of Bologna in IT. With 76 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.333495
+description: "Diego Marazza is a Senior Biochar researcher at University of Bologna in IT. With 76 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.423208
 url: "/cdr-researcher-census/researchers/diego-marazza-a5076670/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Bologna · 🇮🇹 IT
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

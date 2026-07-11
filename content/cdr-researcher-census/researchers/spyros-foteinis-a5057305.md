@@ -1,7 +1,7 @@
 ---
 title: "Spyros Foteinis"
 description: "Spyros Foteinis is a Senior General CDR researcher at Public Power Corporation SA in GR. With 116 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.025822
+date: 2026-07-11T22:39:16.136799
 url: "/cdr-researcher-census/researchers/spyros-foteinis-a5057305/"
 layout: "researcher"
 hiddenInHomeList: true

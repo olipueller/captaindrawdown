@@ -1,7 +1,7 @@
 ---
 title: "Thomas L. Frölicher"
 description: "Thomas L. Frölicher is an Eminent General CDR researcher at University of Bern in CH. With 283 publications and an h-index of 66, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:39.954829
+date: 2026-07-11T22:39:16.087142
 url: "/cdr-researcher-census/researchers/thomas-l-frolicher-a5063055/"
 layout: "researcher"
 hiddenInHomeList: true

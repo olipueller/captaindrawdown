@@ -1,7 +1,7 @@
 ---
 title: "Vungarala Harikrishna"
 description: "Vungarala Harikrishna is a Mid-career Soil Carbon researcher at Central Institute of Fisheries Education in IN. With 19 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.516958
+date: 2026-07-11T22:39:16.611131
 url: "/cdr-researcher-census/researchers/vungarala-harikrishna-a5112626/"
 layout: "researcher"
 hiddenInHomeList: true

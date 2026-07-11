@@ -1,7 +1,7 @@
 ---
 title: "Wen Zhuang"
-description: "Wen Zhuang is a Senior Ocean CDR researcher at Shandong University in CN. With 71 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.111784
+description: "Wen Zhuang is a Senior Enhanced Weathering researcher at Shandong University in CN. With 71 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.210703
 url: "/cdr-researcher-census/researchers/wen-zhuang-a5017591/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Shandong University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Ocean CDR**
+**Enhanced Weathering**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

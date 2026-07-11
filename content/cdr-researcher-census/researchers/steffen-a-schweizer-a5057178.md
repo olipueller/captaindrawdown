@@ -1,7 +1,7 @@
 ---
 title: "Steffen A. Schweizer"
 description: "Steffen A. Schweizer is a Senior Soil Carbon researcher at Technical University of Munich in DE. With 125 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.065603
+date: 2026-07-11T22:39:16.169556
 url: "/cdr-researcher-census/researchers/steffen-a-schweizer-a5057178/"
 layout: "researcher"
 hiddenInHomeList: true

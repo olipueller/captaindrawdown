@@ -1,7 +1,7 @@
 ---
 title: "Sara García‐Poza"
-description: "Sara García‐Poza is a Mid-career Soil Carbon researcher. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.457767
+description: "Sara García‐Poza is a Mid-career Ocean CDR researcher. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.552290
 url: "/cdr-researcher-census/researchers/sara-garciapoza-a5090297/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Ocean CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
 
 ## Metrics
 

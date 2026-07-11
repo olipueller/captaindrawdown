@@ -1,7 +1,7 @@
 ---
 title: "Zechong Sun"
 description: "Zechong Sun is a Mid-career Soil Carbon researcher at Chang'an University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.320402
+date: 2026-07-11T22:39:17.237678
 url: "/cdr-researcher-census/researchers/zechong-sun-a5112944/"
 layout: "researcher"
 hiddenInHomeList: true

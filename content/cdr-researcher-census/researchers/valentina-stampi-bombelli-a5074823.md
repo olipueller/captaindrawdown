@@ -1,7 +1,7 @@
 ---
 title: "Valentina Stampi-Bombelli"
-description: "Valentina Stampi-Bombelli is a Mid-career General CDR researcher at ETH Zurich in CH. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.825089
+description: "Valentina Stampi-Bombelli is a Mid-career DAC researcher at ETH Zurich in CH. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.902722
 url: "/cdr-researcher-census/researchers/valentina-stampi-bombelli-a5074823/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ ETH Zurich · 🇨🇭 CH
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

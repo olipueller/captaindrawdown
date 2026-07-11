@@ -1,7 +1,7 @@
 ---
 title: "Mengwei Chu"
-description: "Mengwei Chu is an Early-career Soil Carbon researcher at North Carolina Natural Heritage Program in US. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.564067
+description: "Mengwei Chu is an Early-career Biochar researcher at North Carolina Natural Heritage Program in US. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.487063
 url: "/cdr-researcher-census/researchers/mengwei-chu-a5068356/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ North Carolina Natural Heritage Program · 🇺🇸 US
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "John F. Young"
 description: "John F. Young is a Senior General CDR researcher. With 154 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.068149
+date: 2026-07-11T22:39:16.171595
 url: "/cdr-researcher-census/researchers/john-f-young-a5108406/"
 layout: "researcher"
 hiddenInHomeList: true

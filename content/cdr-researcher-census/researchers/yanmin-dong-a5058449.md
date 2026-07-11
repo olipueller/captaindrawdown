@@ -1,7 +1,7 @@
 ---
 title: "Yanmin Dong"
 description: "Yanmin Dong is a Mid-career Soil Carbon researcher at Northeast Normal University in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.844907
+date: 2026-07-11T22:39:16.921711
 url: "/cdr-researcher-census/researchers/yanmin-dong-a5058449/"
 layout: "researcher"
 hiddenInHomeList: true

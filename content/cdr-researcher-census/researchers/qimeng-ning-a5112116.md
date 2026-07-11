@@ -1,7 +1,7 @@
 ---
 title: "Qimeng Ning"
 description: "Qimeng Ning is a Mid-career General CDR researcher at Hunan City University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.488892
+date: 2026-07-11T22:39:16.583195
 url: "/cdr-researcher-census/researchers/qimeng-ning-a5112116/"
 layout: "researcher"
 hiddenInHomeList: true

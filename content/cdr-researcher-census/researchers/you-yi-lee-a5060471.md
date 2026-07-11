@@ -1,7 +1,7 @@
 ---
 title: "You-Yi Lee"
 description: "You-Yi Lee is a Mid-career Soil Carbon researcher at National Taiwan University in TW. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.843813
+date: 2026-07-11T22:39:16.920730
 url: "/cdr-researcher-census/researchers/you-yi-lee-a5060471/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Kalilur Rahiman Arshad Ahmed"
-description: "Kalilur Rahiman Arshad Ahmed is a Mid-career General CDR researcher at Anna University, Chennai in IN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.281664
+description: "Kalilur Rahiman Arshad Ahmed is a Mid-career DAC researcher at Anna University, Chennai in IN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.199100
 url: "/cdr-researcher-census/researchers/kalilur-rahiman-arshad-ahmed-a5091434/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Anna University, Chennai · 🇮🇳 IN
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

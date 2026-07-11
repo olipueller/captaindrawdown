@@ -1,7 +1,7 @@
 ---
 title: "Yongfei Ma"
 description: "Yongfei Ma is a Mid-career Biochar researcher at Wuhan University of Technology in CN. With 41 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.128195
+date: 2026-07-11T22:39:16.225650
 url: "/cdr-researcher-census/researchers/yongfei-ma-a5102726/"
 layout: "researcher"
 hiddenInHomeList: true

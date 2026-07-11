@@ -1,7 +1,7 @@
 ---
 title: "Xiaoxia Cao"
 description: "Xiaoxia Cao is a Senior Biochar researcher at Queen's University Belfast in GB. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.132056
+date: 2026-07-11T22:39:17.082212
 url: "/cdr-researcher-census/researchers/xiaoxia-cao-a5025953/"
 layout: "researcher"
 hiddenInHomeList: true

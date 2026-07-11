@@ -1,7 +1,7 @@
 ---
 title: "Injy Johnstone"
 description: "Injy Johnstone is a Mid-career General CDR researcher at Smith College in US. With 29 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.520205
+date: 2026-07-11T22:39:17.445041
 url: "/cdr-researcher-census/researchers/injy-johnstone-a5035898/"
 layout: "researcher"
 hiddenInHomeList: true

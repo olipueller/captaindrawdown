@@ -1,7 +1,7 @@
 ---
 title: "Dilson Novais Rocha"
-description: "Dilson Novais Rocha is a Mid-career Ocean CDR researcher at Universidade Federal de Viçosa in BR. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.320971
+description: "Dilson Novais Rocha is a Mid-career BECCS researcher at Universidade Federal de Viçosa in BR. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.238257
 url: "/cdr-researcher-census/researchers/dilson-novais-rocha-a5076225/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Universidade Federal de Viçosa · 🇧🇷 BR
 
 ## CDR Specialization
 
-**Ocean CDR**
+**BECCS**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

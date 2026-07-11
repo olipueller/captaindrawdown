@@ -1,7 +1,7 @@
 ---
 title: "Hongjuan Jiang"
 description: "Hongjuan Jiang is a Mid-career Biochar researcher at Jiujiang University in CN. With 47 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.146366
+date: 2026-07-11T22:39:16.242466
 url: "/cdr-researcher-census/researchers/hongjuan-jiang-a5108900/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Vijayasatya N. Chaganti"
 description: "Vijayasatya N. Chaganti is a Mid-career Soil Carbon researcher at Virginia Tech in US. With 19 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.320340
+date: 2026-07-11T22:39:16.411126
 url: "/cdr-researcher-census/researchers/vijayasatya-n-chaganti-a5062734/"
 layout: "researcher"
 hiddenInHomeList: true

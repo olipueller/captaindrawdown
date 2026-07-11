@@ -1,7 +1,7 @@
 ---
 title: "Pranshu Shrivastava"
 description: "Pranshu Shrivastava is a Mid-career Biochar researcher at Energy and Resources Institute in IN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.216219
+date: 2026-07-11T22:39:17.132986
 url: "/cdr-researcher-census/researchers/pranshu-shrivastava-a5011776/"
 layout: "researcher"
 hiddenInHomeList: true

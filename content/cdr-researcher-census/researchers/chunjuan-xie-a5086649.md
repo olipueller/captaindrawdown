@@ -1,7 +1,7 @@
 ---
 title: "Chunjuan Xie"
 description: "Chunjuan Xie is a Senior Soil Carbon researcher at East China Jiaotong University in CN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.144069
+date: 2026-07-11T22:39:17.091943
 url: "/cdr-researcher-census/researchers/chunjuan-xie-a5086649/"
 layout: "researcher"
 hiddenInHomeList: true

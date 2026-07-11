@@ -1,7 +1,7 @@
 ---
 title: "Ping Zhai"
 description: "Ping Zhai is a Senior Ocean CDR researcher at North Minzu University in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.632200
+date: 2026-07-11T22:39:16.722911
 url: "/cdr-researcher-census/researchers/ping-zhai-a5079306/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ziru Zhou"
-description: "Ziru Zhou is a Mid-career Soil Carbon researcher at North Sichuan Medical University in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.116820
+description: "Ziru Zhou is a Mid-career Biochar researcher at North Sichuan Medical University in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.078938
 url: "/cdr-researcher-census/researchers/ziru-zhou-a5030130/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ North Sichuan Medical University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

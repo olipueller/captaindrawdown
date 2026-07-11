@@ -1,7 +1,7 @@
 ---
 title: "Megha Kaviraj"
 description: "Megha Kaviraj is a Mid-career Soil Carbon researcher at University of Burdwan in IN. With 50 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.229831
+date: 2026-07-11T22:39:16.320570
 url: "/cdr-researcher-census/researchers/megha-kaviraj-a5038038/"
 layout: "researcher"
 hiddenInHomeList: true

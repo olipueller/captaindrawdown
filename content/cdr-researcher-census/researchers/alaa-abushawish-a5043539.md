@@ -1,7 +1,7 @@
 ---
 title: "Alaa Abushawish"
 description: "Alaa Abushawish is a Mid-career Biochar researcher at United Arab Emirates University in AE. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.565481
+date: 2026-07-11T22:39:16.657924
 url: "/cdr-researcher-census/researchers/alaa-abushawish-a5043539/"
 layout: "researcher"
 hiddenInHomeList: true

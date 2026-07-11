@@ -1,7 +1,7 @@
 ---
 title: "Bo Liang"
 description: "Bo Liang is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 34 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.750324
+date: 2026-07-11T22:39:16.831824
 url: "/cdr-researcher-census/researchers/bo-liang-a5115596/"
 layout: "researcher"
 hiddenInHomeList: true

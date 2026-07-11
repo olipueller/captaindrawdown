@@ -1,7 +1,7 @@
 ---
 title: "Ewunetu Tazebew"
 description: "Ewunetu Tazebew is a Mid-career Soil Carbon researcher at Stellenbosch University in ZA. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.652377
+date: 2026-07-11T22:39:17.580523
 url: "/cdr-researcher-census/researchers/ewunetu-tazebew-a5047468/"
 layout: "researcher"
 hiddenInHomeList: true

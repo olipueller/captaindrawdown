@@ -1,7 +1,7 @@
 ---
 title: "Brenda Rabell"
-description: "Brenda Rabell is a Mid-career General CDR researcher at Technical University of Denmark in DK. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.480985
+description: "Brenda Rabell is a Mid-career DAC researcher at Technical University of Denmark in DK. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.405459
 url: "/cdr-researcher-census/researchers/brenda-rabell-a5048094/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Technical University of Denmark · 🇩🇰 DK
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

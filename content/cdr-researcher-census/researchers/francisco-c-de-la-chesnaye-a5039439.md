@@ -1,7 +1,7 @@
 ---
 title: "Francisco C. de la Chesnaye"
 description: "Francisco C. de la Chesnaye is a Senior General CDR researcher at University of Vienna in AT. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.384833
+date: 2026-07-11T22:39:16.477641
 url: "/cdr-researcher-census/researchers/francisco-c-de-la-chesnaye-a5039439/"
 layout: "researcher"
 hiddenInHomeList: true

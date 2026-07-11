@@ -1,7 +1,7 @@
 ---
 title: "Mingxin Zhou"
 description: "Mingxin Zhou is a Mid-career Soil Carbon researcher at Heilongjiang Institute of Technology in CN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.304076
+date: 2026-07-11T22:39:17.221575
 url: "/cdr-researcher-census/researchers/mingxin-zhou-a5016032/"
 layout: "researcher"
 hiddenInHomeList: true

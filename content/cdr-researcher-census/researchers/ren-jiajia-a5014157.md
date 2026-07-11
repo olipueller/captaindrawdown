@@ -1,7 +1,7 @@
 ---
 title: "Ren Jiajia"
-description: "Ren Jiajia is a Senior Soil Carbon researcher. With 18 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.707887
+description: "Ren Jiajia is a Senior Biochar researcher. With 18 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.791344
 url: "/cdr-researcher-census/researchers/ren-jiajia-a5014157/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,9 +26,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

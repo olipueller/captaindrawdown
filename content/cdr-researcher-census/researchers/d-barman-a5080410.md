@@ -1,7 +1,7 @@
 ---
 title: "D. Barman"
 description: "D. Barman is a Mid-career Soil Carbon researcher at Central Research Institute for Jute and Allied Fibres in IN. With 71 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.447053
+date: 2026-07-11T22:39:16.541853
 url: "/cdr-researcher-census/researchers/d-barman-a5080410/"
 layout: "researcher"
 hiddenInHomeList: true

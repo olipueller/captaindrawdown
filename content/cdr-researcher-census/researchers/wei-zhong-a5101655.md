@@ -1,7 +1,7 @@
 ---
 title: "Wei Zhong"
-description: "Wei Zhong is a Mid-career General CDR researcher at National University of Defense Technology in CN. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.649042
+description: "Wei Zhong is a Mid-career Biochar researcher at National University of Defense Technology in CN. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.573537
 url: "/cdr-researcher-census/researchers/wei-zhong-a5101655/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ National University of Defense Technology · 🇨🇳 CN
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

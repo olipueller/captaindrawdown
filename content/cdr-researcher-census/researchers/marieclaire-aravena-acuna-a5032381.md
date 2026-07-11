@@ -1,7 +1,7 @@
 ---
 title: "Marie‐Claire Aravena Acuña"
 description: "Marie‐Claire Aravena Acuña is a Mid-career Soil Carbon researcher at Consejo Nacional de Investigaciones Científicas y Técnicas in AR. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.621945
+date: 2026-07-11T22:39:16.713145
 url: "/cdr-researcher-census/researchers/marieclaire-aravena-acuna-a5032381/"
 layout: "researcher"
 hiddenInHomeList: true

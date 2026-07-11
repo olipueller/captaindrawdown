@@ -1,7 +1,7 @@
 ---
 title: "Harekrishna Das"
-description: "Harekrishna Das is a Mid-career Soil Carbon researcher at Directorate of Health in IS. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.614651
+description: "Harekrishna Das is a Mid-career BECCS researcher at Directorate of Health in IS. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.533822
 url: "/cdr-researcher-census/researchers/harekrishna-das-a5036937/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Directorate of Health ·  IS
 
 ## CDR Specialization
 
-**Soil Carbon**
+**BECCS**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

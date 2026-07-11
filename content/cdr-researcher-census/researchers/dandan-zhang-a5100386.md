@@ -1,7 +1,7 @@
 ---
 title: "Dandan Zhang"
 description: "Dandan Zhang is a Senior Biochar researcher at Heilongjiang Academy of Sciences in CN. With 52 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.338423
+date: 2026-07-11T22:39:16.428292
 url: "/cdr-researcher-census/researchers/dandan-zhang-a5100386/"
 layout: "researcher"
 hiddenInHomeList: true

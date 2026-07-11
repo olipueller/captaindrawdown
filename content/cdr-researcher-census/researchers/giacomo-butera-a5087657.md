@@ -1,7 +1,7 @@
 ---
 title: "Giacomo Butera"
 description: "Giacomo Butera is a Mid-career Biochar researcher at Stiesdal SkyClean A/S in DK. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.709682
+date: 2026-07-11T22:39:16.793205
 url: "/cdr-researcher-census/researchers/giacomo-butera-a5087657/"
 layout: "researcher"
 hiddenInHomeList: true

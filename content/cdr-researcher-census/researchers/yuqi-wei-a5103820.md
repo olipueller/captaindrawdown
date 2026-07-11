@@ -1,7 +1,7 @@
 ---
 title: "Yuqi Wei"
 description: "Yuqi Wei is a Senior Soil Carbon researcher at Shanxi University in CN. With 42 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.301943
+date: 2026-07-11T22:39:16.392677
 url: "/cdr-researcher-census/researchers/yuqi-wei-a5103820/"
 layout: "researcher"
 hiddenInHomeList: true

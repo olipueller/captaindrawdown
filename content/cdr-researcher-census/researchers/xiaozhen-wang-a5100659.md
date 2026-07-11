@@ -1,7 +1,7 @@
 ---
 title: "Xiaozhen Wang"
 description: "Xiaozhen Wang is a Senior Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.523147
+date: 2026-07-11T22:39:16.617717
 url: "/cdr-researcher-census/researchers/xiaozhen-wang-a5100659/"
 layout: "researcher"
 hiddenInHomeList: true

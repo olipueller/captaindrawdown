@@ -1,7 +1,7 @@
 ---
 title: "Zhiwei Mao"
-description: "Zhiwei Mao is a Mid-career General CDR researcher at Oregon State University in US. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.621314
+description: "Zhiwei Mao is a Mid-career DAC researcher at Oregon State University in US. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.540219
 url: "/cdr-researcher-census/researchers/zhiwei-mao-a5101606/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Oregon State University · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "Thi-Kim-Tuyen Nguyen"
 description: "Thi-Kim-Tuyen Nguyen is a Mid-career Biochar researcher at National Kaohsiung University of Science and Technology. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.699800
+date: 2026-07-11T22:39:16.783452
 url: "/cdr-researcher-census/researchers/thi-kim-tuyen-nguyen-a5033975/"
 layout: "researcher"
 hiddenInHomeList: true

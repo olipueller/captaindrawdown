@@ -1,7 +1,7 @@
 ---
 title: "Giulia Lauria"
-description: "Giulia Lauria is a Mid-career Soil Carbon researcher at University of Pisa in IT. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.883220
+description: "Giulia Lauria is a Mid-career Biochar researcher at University of Pisa in IT. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.973252
 url: "/cdr-researcher-census/researchers/giulia-lauria-a5045874/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Pisa · 🇮🇹 IT
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

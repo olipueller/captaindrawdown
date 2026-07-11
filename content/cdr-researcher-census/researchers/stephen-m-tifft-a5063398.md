@@ -1,7 +1,7 @@
 ---
 title: "Stephen M. Tifft"
-description: "Stephen M. Tifft is a Mid-career General CDR researcher at National Renewable Energy Laboratory in US. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.832842
+description: "Stephen M. Tifft is a Mid-career BECCS researcher at National Renewable Energy Laboratory in US. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.910108
 url: "/cdr-researcher-census/researchers/stephen-m-tifft-a5063398/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ National Renewable Energy Laboratory · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

@@ -1,7 +1,7 @@
 ---
 title: "Wenting Shi"
-description: "Wenting Shi is a Mid-career Ocean CDR researcher at Shandong University of Science and Technology in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.887473
+description: "Wenting Shi is a Mid-career Enhanced Weathering researcher at Shandong University of Science and Technology in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.977473
 url: "/cdr-researcher-census/researchers/wenting-shi-a5037097/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Shandong University of Science and Technology · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Ocean CDR**
+**Enhanced Weathering**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

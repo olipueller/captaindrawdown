@@ -1,7 +1,7 @@
 ---
 title: "David Dempsey"
 description: "David Dempsey is a Senior General CDR researcher at University of Canterbury in NZ. With 147 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.133797
+date: 2026-07-11T22:39:16.230356
 url: "/cdr-researcher-census/researchers/david-dempsey-a5023515/"
 layout: "researcher"
 hiddenInHomeList: true

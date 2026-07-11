@@ -1,7 +1,7 @@
 ---
 title: "Jing Tian"
 description: "Jing Tian is an Eminent Soil Carbon researcher at China Agricultural University in CN. With 135 publications and an h-index of 41, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:39.996865
+date: 2026-07-11T22:39:16.113817
 url: "/cdr-researcher-census/researchers/jing-tian-a5078371/"
 layout: "researcher"
 hiddenInHomeList: true

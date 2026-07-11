@@ -1,7 +1,7 @@
 ---
 title: "Adhora Tahsin"
-description: "Adhora Tahsin is a Mid-career General CDR researcher at The University of Texas at Arlington in US. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.249653
+description: "Adhora Tahsin is a Mid-career Biochar researcher at The University of Texas at Arlington in US. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.166971
 url: "/cdr-researcher-census/researchers/adhora-tahsin-a5046329/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ The University of Texas at Arlington · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 

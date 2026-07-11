@@ -1,7 +1,7 @@
 ---
 title: "Jun Bo Zhang"
 description: "Jun Bo Zhang is a Mid-career Biochar researcher at Tongji University in CN. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.863616
+date: 2026-07-11T22:39:16.939462
 url: "/cdr-researcher-census/researchers/jun-bo-zhang-a5073423/"
 layout: "researcher"
 hiddenInHomeList: true

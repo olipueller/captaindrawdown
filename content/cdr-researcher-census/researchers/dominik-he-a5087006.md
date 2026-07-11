@@ -1,7 +1,7 @@
 ---
 title: "Dominik Heß"
 description: "Dominik Heß is an Early-career General CDR researcher at Applied Materials (United Kingdom) in GB. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.607321
+date: 2026-07-11T22:39:17.526892
 url: "/cdr-researcher-census/researchers/dominik-he-a5087006/"
 layout: "researcher"
 hiddenInHomeList: true

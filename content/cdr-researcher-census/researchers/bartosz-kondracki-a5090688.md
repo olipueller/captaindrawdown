@@ -1,7 +1,7 @@
 ---
 title: "Bartosz Kondracki"
 description: "Bartosz Kondracki is a Mid-career Biochar researcher at Medical University of Lublin in PL. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.589551
+date: 2026-07-11T22:39:17.510684
 url: "/cdr-researcher-census/researchers/bartosz-kondracki-a5090688/"
 layout: "researcher"
 hiddenInHomeList: true

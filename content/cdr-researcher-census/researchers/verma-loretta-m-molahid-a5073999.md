@@ -1,7 +1,7 @@
 ---
 title: "Verma Loretta M. Molahid"
-description: "Verma Loretta M. Molahid is a Mid-career General CDR researcher at Universiti Putra Malaysia in MY. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.867357
+description: "Verma Loretta M. Molahid is a Mid-career Enhanced Weathering researcher at Universiti Putra Malaysia in MY. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.943085
 url: "/cdr-researcher-census/researchers/verma-loretta-m-molahid-a5073999/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Universiti Putra Malaysia · 🇲🇾 MY
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

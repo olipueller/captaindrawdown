@@ -1,7 +1,7 @@
 ---
 title: "Lulu Che"
 description: "Lulu Che is a Mid-career Soil Carbon researcher at Guizhou University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.247722
+date: 2026-07-11T22:39:17.165006
 url: "/cdr-researcher-census/researchers/lulu-che-a5085842/"
 layout: "researcher"
 hiddenInHomeList: true

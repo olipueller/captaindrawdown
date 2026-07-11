@@ -1,7 +1,7 @@
 ---
 title: "Caleb M. Woodall"
-description: "Caleb M. Woodall is a Senior General CDR researcher at Global Policy Institute in US. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.526251
+description: "Caleb M. Woodall is a Senior BECCS researcher at Global Policy Institute in US. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.620499
 url: "/cdr-researcher-census/researchers/caleb-m-woodall-a5088329/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Global Policy Institute · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

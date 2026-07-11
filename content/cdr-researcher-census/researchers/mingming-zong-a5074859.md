@@ -1,7 +1,7 @@
 ---
 title: "Mingming Zong"
 description: "Mingming Zong is a Mid-career Soil Carbon researcher at Aarhus University in DK. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.930612
+date: 2026-07-11T22:39:16.991010
 url: "/cdr-researcher-census/researchers/mingming-zong-a5074859/"
 layout: "researcher"
 hiddenInHomeList: true

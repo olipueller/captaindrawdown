@@ -1,7 +1,7 @@
 ---
 title: "J. Kroeger"
-description: "J. Kroeger is a Senior General CDR researcher at Yale University in US. With 32 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.053922
+description: "J. Kroeger is a Senior Enhanced Weathering researcher at Yale University in US. With 32 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.160296
 url: "/cdr-researcher-census/researchers/j-kroeger-a5070340/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Yale University · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 

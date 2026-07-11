@@ -1,7 +1,7 @@
 ---
 title: "Mingliang Gao"
 description: "Mingliang Gao is a Mid-career Soil Carbon researcher at Capital Normal University in CN. With 47 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.186265
+date: 2026-07-11T22:39:16.279617
 url: "/cdr-researcher-census/researchers/mingliang-gao-a5060100/"
 layout: "researcher"
 hiddenInHomeList: true

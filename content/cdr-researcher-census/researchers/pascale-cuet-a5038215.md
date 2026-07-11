@@ -1,7 +1,7 @@
 ---
 title: "Pascale Cuet"
 description: "Pascale Cuet is a Senior Ocean CDR researcher at University of Reunion Island in RE. With 72 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.231239
+date: 2026-07-11T22:39:16.322117
 url: "/cdr-researcher-census/researchers/pascale-cuet-a5038215/"
 layout: "researcher"
 hiddenInHomeList: true

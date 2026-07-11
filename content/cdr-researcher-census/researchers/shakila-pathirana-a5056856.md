@@ -1,7 +1,7 @@
 ---
 title: "Shakila Pathirana"
 description: "Shakila Pathirana is a Mid-career Biochar researcher at University of Kelaniya in LK. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.087798
+date: 2026-07-11T22:39:17.061913
 url: "/cdr-researcher-census/researchers/shakila-pathirana-a5056856/"
 layout: "researcher"
 hiddenInHomeList: true

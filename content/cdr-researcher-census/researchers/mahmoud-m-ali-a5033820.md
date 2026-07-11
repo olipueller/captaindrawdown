@@ -1,7 +1,7 @@
 ---
 title: "Mahmoud M. Ali"
 description: "Mahmoud M. Ali is a Senior Biochar researcher at Ministry of Agriculture in LV. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.963464
+date: 2026-07-11T22:39:17.011964
 url: "/cdr-researcher-census/researchers/mahmoud-m-ali-a5033820/"
 layout: "researcher"
 hiddenInHomeList: true

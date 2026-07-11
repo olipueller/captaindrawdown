@@ -1,7 +1,7 @@
 ---
 title: "Giovana Reginatto"
 description: "Giovana Reginatto is a Mid-career General CDR researcher at Universidade de Passo Fundo in BR. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.830903
+date: 2026-07-11T22:39:16.908329
 url: "/cdr-researcher-census/researchers/giovana-reginatto-a5001811/"
 layout: "researcher"
 hiddenInHomeList: true

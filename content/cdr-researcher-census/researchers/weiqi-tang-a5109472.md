@@ -1,7 +1,7 @@
 ---
 title: "Weiqi Tang"
 description: "Weiqi Tang is a Mid-career General CDR researcher at Fudan University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.643526
+date: 2026-07-11T22:39:17.566905
 url: "/cdr-researcher-census/researchers/weiqi-tang-a5109472/"
 layout: "researcher"
 hiddenInHomeList: true

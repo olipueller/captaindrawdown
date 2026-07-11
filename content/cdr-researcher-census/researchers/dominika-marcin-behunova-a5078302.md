@@ -1,7 +1,7 @@
 ---
 title: "Dominika Marcin Behunová"
 description: "Dominika Marcin Behunová is a Mid-career Biochar researcher. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.305146
+date: 2026-07-11T22:39:17.222700
 url: "/cdr-researcher-census/researchers/dominika-marcin-behunova-a5078302/"
 layout: "researcher"
 hiddenInHomeList: true

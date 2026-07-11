@@ -1,7 +1,7 @@
 ---
 title: "Joshua Peacock"
-description: "Joshua Peacock is a Mid-career General CDR researcher at Emory University in US. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.413974
+description: "Joshua Peacock is a Mid-career DAC researcher at Emory University in US. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:17.336483
 url: "/cdr-researcher-census/researchers/joshua-peacock-a5012603/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Emory University · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

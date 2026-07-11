@@ -1,7 +1,7 @@
 ---
 title: "Mark P. Nessel"
 description: "Mark P. Nessel is a Mid-career Soil Carbon researcher at Rutgers, The State University of New Jersey in US. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.002355
+date: 2026-07-11T22:39:17.029715
 url: "/cdr-researcher-census/researchers/mark-p-nessel-a5014239/"
 layout: "researcher"
 hiddenInHomeList: true

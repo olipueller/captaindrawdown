@@ -1,7 +1,7 @@
 ---
 title: "Shengjiong Deng"
 description: "Shengjiong Deng is a Mid-career Biochar researcher at Yunnan University in CN. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.344217
+date: 2026-07-11T22:39:16.434412
 url: "/cdr-researcher-census/researchers/shengjiong-deng-a5080948/"
 layout: "researcher"
 hiddenInHomeList: true

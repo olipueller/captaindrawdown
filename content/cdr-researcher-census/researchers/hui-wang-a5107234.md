@@ -1,7 +1,7 @@
 ---
 title: "Hui Wang"
 description: "Hui Wang is a Mid-career Soil Carbon researcher at Shanxi Agricultural University in CN. With 30 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.488244
+date: 2026-07-11T22:39:16.582555
 url: "/cdr-researcher-census/researchers/hui-wang-a5107234/"
 layout: "researcher"
 hiddenInHomeList: true

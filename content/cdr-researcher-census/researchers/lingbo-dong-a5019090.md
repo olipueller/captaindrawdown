@@ -1,7 +1,7 @@
 ---
 title: "Lingbo Dong"
 description: "Lingbo Dong is a Senior Soil Carbon researcher at Oregon State University in US. With 149 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.089102
+date: 2026-07-11T22:39:16.190332
 url: "/cdr-researcher-census/researchers/lingbo-dong-a5019090/"
 layout: "researcher"
 hiddenInHomeList: true

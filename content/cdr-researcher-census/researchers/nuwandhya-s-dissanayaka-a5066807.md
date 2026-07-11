@@ -1,7 +1,7 @@
 ---
 title: "Nuwandhya S. Dissanayaka"
 description: "Nuwandhya S. Dissanayaka is a Mid-career Soil Carbon researcher at Coconut Research Institute in LK. With 52 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.530663
+date: 2026-07-11T22:39:16.624523
 url: "/cdr-researcher-census/researchers/nuwandhya-s-dissanayaka-a5066807/"
 layout: "researcher"
 hiddenInHomeList: true

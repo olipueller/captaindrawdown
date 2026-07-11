@@ -1,7 +1,7 @@
 ---
 title: "Hailing Yu"
 description: "Hailing Yu is a Senior Biochar researcher at Health Commission of Jilin Province in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.521511
+date: 2026-07-11T22:39:17.446393
 url: "/cdr-researcher-census/researchers/hailing-yu-a5100934/"
 layout: "researcher"
 hiddenInHomeList: true

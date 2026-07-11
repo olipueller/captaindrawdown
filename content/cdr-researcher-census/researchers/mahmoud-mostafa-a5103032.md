@@ -1,7 +1,7 @@
 ---
 title: "Mahmoud Mostafa"
-description: "Mahmoud Mostafa is a Senior General CDR researcher at University of Bremen in DE. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.577221
+description: "Mahmoud Mostafa is a Senior DAC researcher at University of Bremen in DE. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.670037
 url: "/cdr-researcher-census/researchers/mahmoud-mostafa-a5103032/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Bremen · 🇩🇪 DE
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 

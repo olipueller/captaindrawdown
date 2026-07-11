@@ -1,7 +1,7 @@
 ---
 title: "David P. Keller"
 description: "David P. Keller is a Senior Ocean CDR researcher at Carbon to Sea Initiative in US. With 167 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.076893
+date: 2026-07-11T22:39:16.179682
 url: "/cdr-researcher-census/researchers/david-p-keller-a5068205/"
 layout: "researcher"
 hiddenInHomeList: true

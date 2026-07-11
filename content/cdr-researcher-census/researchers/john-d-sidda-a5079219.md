@@ -1,7 +1,7 @@
 ---
 title: "John D. Sidda"
 description: "John D. Sidda is a Mid-career Soil Carbon researcher at University of Oxford in GB. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.783173
+date: 2026-07-11T22:39:16.864346
 url: "/cdr-researcher-census/researchers/john-d-sidda-a5079219/"
 layout: "researcher"
 hiddenInHomeList: true

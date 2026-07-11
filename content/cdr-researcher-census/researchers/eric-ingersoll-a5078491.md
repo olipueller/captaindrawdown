@@ -1,7 +1,7 @@
 ---
 title: "Eric Ingersoll"
-description: "Eric Ingersoll is a Mid-career General CDR researcher at Lucid Technologies (United States) in US. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.076414
+description: "Eric Ingersoll is a Mid-career BECCS researcher at Lucid Technologies (United States) in US. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T22:39:16.179262
 url: "/cdr-researcher-census/researchers/eric-ingersoll-a5078491/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Lucid Technologies (United States) · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**BECCS**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Combining biomass energy with carbon capture and storage to achieve negative emissions.
 
 ## Metrics
 

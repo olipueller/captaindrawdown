@@ -1,7 +1,7 @@
 ---
 title: "Tongwei Ke"
 description: "Tongwei Ke is a Mid-career Biochar researcher at Chinese Academy of Medical Sciences & Peking Union Medical College in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:41.409650
+date: 2026-07-11T22:39:17.331985
 url: "/cdr-researcher-census/researchers/tongwei-ke-a5004677/"
 layout: "researcher"
 hiddenInHomeList: true

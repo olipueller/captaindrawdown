@@ -1,7 +1,7 @@
 ---
 title: "Wanquan Zhang"
 description: "Wanquan Zhang is a Senior Soil Carbon researcher at Guizhou Normal University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.701640
+date: 2026-07-11T22:39:16.785165
 url: "/cdr-researcher-census/researchers/wanquan-zhang-a5066069/"
 layout: "researcher"
 hiddenInHomeList: true

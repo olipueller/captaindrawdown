@@ -1,7 +1,7 @@
 ---
 title: "Yuping Zhuge"
 description: "Yuping Zhuge is a Senior Soil Carbon researcher at Soil and Fertilizer Institute of Hunan Province in CN. With 115 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.074979
+date: 2026-07-11T22:39:16.177703
 url: "/cdr-researcher-census/researchers/yuping-zhuge-a5070663/"
 layout: "researcher"
 hiddenInHomeList: true

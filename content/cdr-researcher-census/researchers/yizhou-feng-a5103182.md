@@ -1,7 +1,7 @@
 ---
 title: "Yizhou Feng"
 description: "Yizhou Feng is a Mid-career Biochar researcher at Xi'an University of Architecture and Technology in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T12:53:40.949568
+date: 2026-07-11T22:39:17.001863
 url: "/cdr-researcher-census/researchers/yizhou-feng-a5103182/"
 layout: "researcher"
 hiddenInHomeList: true
