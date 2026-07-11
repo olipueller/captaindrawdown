@@ -1,7 +1,7 @@
 ---
 title: "Tania Timmermann"
-description: "Tania Timmermann is a Senior Soil Carbon researcher. With 22 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.335264
+description: "Tania Timmermann is a Senior Enhanced Weathering researcher. With 22 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:42.997145
 url: "/cdr-researcher-census/researchers/tania-timmermann-a5054841/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,9 +26,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Enhanced Weathering**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 
@@ -37,7 +37,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 15 |
 | Citations | 1,118 |
 | Publications | 22 |
-| CDR Focus | 22.7% |
+| CDR Focus | 27.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -48,13 +48,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 2. **Quantification of soil inorganic carbon using sulfamic acid and gas chromatography** (2025)
    3 citations · General CDR
 
-3. **Synergistic Effects of a Microbial Amendment and Crushed Basalt: Soil Geochemical and Microbial Responses** (2026)
+3. **Microbially Accelerated Weathering for CDR: Reactive Transport Modeling to Quantify Rates and Sinks** (2026)
    0 citations · Enhanced Weathering
 
-4. **Synergistic Effects of a Microbial Amendment and Crushed Basalt: Soil Geochemical and Microbial Responses** (2025)
+4. **Bacillus subtilis-mediated weathering of basalt revealed through sporulation** (2026)
+   0 citations · Enhanced Weathering
+
+5. **From silicates to soil carbonates: Tracing the cation budget of microbially-accelerated weathering** (2026)
    0 citations
 
-5. **Quantification of soil inorganic carbon using sulfamic acid and gas chromatography** (2025)
+6. **From silicates to soil carbonates: Tracing the cation budget of microbially-accelerated weathering** (2026)
+   0 citations · Enhanced Weathering
+
+7. **Synergistic Effects of a Microbial Amendment and Crushed Basalt: Soil Geochemical and Microbial Responses** (2026)
+   0 citations · Enhanced Weathering
+
+8. **Synergistic Effects of a Microbial Amendment and Crushed Basalt: Soil Geochemical and Microbial Responses** (2025)
+   0 citations
+
+9. **Quantification of soil inorganic carbon using sulfamic acid and gas chromatography** (2025)
    0 citations
 
 ## External Profiles

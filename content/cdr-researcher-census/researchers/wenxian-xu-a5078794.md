@@ -1,7 +1,7 @@
 ---
 title: "Wenxian Xu"
 description: "Wenxian Xu is a Mid-career Soil Carbon researcher at Chinese Academy of Tropical Agricultural Sciences in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.669661
+date: 2026-07-11T11:05:44.078047
 url: "/cdr-researcher-census/researchers/wenxian-xu-a5078794/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 161 |
 | Publications | 19 |
-| CDR Focus | 15.8% |
+| CDR Focus | 26.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -55,6 +55,12 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 3. **Rubber plant root-derived organic carbon influences aggregate stability through soil internal forces in tropical region** (2025)
    1 citations · Soil Carbon
+
+4. **Rubber based agroforestry systems enhance soil organic carbon sequestration through changes in soil properties and microbial community structure** (2026)
+   0 citations · Soil Carbon
+
+5. **Global patterns and drivers of soil carbon sequestration in rubber agroforestry systems: A meta-analysis** (2026)
+   0 citations · General CDR
 
 ## External Profiles
 

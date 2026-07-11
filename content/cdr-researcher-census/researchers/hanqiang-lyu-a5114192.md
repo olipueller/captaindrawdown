@@ -1,7 +1,7 @@
 ---
 title: "Hanqiang Lyu"
 description: "Hanqiang Lyu is a Mid-career Soil Carbon researcher at Gansu Agricultural University in CN. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.943838
+date: 2026-07-11T11:05:43.447313
 url: "/cdr-researcher-census/researchers/hanqiang-lyu-a5114192/"
 layout: "researcher"
 hiddenInHomeList: true

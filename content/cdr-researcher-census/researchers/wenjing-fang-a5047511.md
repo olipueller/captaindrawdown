@@ -1,7 +1,7 @@
 ---
 title: "Wenjing Fang"
 description: "Wenjing Fang is a Senior Soil Carbon researcher at Yunnan University in CN. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.835212
+date: 2026-07-11T11:05:43.373542
 url: "/cdr-researcher-census/researchers/wenjing-fang-a5047511/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,10 +50,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Tree structural diversity mediates vegetation carbon storage in dry-hot valley savannas along an elevational gradient** (2025)
+1. **Mycorrhizal associations regulate forest aboveground biomass carbon stock via species diversity and stand structure** (2026)
+   1 citations
+
+2. **Tree structural diversity mediates vegetation carbon storage in dry-hot valley savannas along an elevational gradient** (2025)
    1 citations · Soil Carbon
 
-2. **Field‐Based Estimation of Carbon Stocks of Bamboo Forests Across China** (2025)
+3. **Field‐Based Estimation of Carbon Stocks of Bamboo Forests Across China** (2025)
    1 citations · Soil Carbon
 
 ## External Profiles

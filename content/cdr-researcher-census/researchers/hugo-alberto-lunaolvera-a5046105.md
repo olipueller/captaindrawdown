@@ -1,7 +1,7 @@
 ---
 title: "Hugo Alberto Luna‐Olvera"
 description: "Hugo Alberto Luna‐Olvera is a Senior Biochar researcher at Universidad Autónoma de Nuevo León in MX. With 28 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.697179
+date: 2026-07-11T11:05:44.097671
 url: "/cdr-researcher-census/researchers/hugo-alberto-lunaolvera-a5046105/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jingjing Wu"
 description: "Jingjing Wu is a Senior Soil Carbon researcher at Sichuan Agricultural University in CN. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.971271
+date: 2026-07-11T11:05:43.466883
 url: "/cdr-researcher-census/researchers/jingjing-wu-a5103853/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sina Hoseinpoori"
 description: "Sina Hoseinpoori is a Mid-career General CDR researcher at Chalmers University of Technology in SE. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.336352
+date: 2026-07-11T11:05:43.705127
 url: "/cdr-researcher-census/researchers/sina-hoseinpoori-a5052140/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 5 |
 | Citations | 229 |
 | Publications | 12 |
-| CDR Focus | 50.0% |
+| CDR Focus | 33.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

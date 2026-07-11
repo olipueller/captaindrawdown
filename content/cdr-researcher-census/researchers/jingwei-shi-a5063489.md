@@ -1,7 +1,7 @@
 ---
 title: "Jingwei Shi"
 description: "Jingwei Shi is a Senior Soil Carbon researcher at South China Botanical Garden in CN. With 31 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.406928
+date: 2026-07-11T11:05:43.044424
 url: "/cdr-researcher-census/researchers/jingwei-shi-a5063489/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Citations | 921 |
 | Publications | 31 |
 | CDR Focus | 25.8% |
-| Trajectory | Declining |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
@@ -65,13 +65,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 5. **Inorganic Carbon Should Be Considered for Carbon Sequestration in Agricultural Soils** (2025)
    37 citations · Soil Carbon
 
-6. **Microbial carbon limitation shapes blue carbon quality during mangrove restoration** (2026)
+6. **Mangrove restoration enhances blue carbon sequestration and its stability in a subtropical tidal wetland** (2025)
+   12 citations · Ocean CDR
+
+7. **Microbial carbon limitation shapes blue carbon quality during mangrove restoration** (2026)
    0 citations
 
-7. **Dynamics and driving mechanisms of soil organic carbon sequestration in grasslands after grazing exclusion: A review.** (2024)
+8. **Microbial carbon use efficiency governs the accumulation of microbial-derived carbon in restored mangroves** (2026)
    0 citations · Soil Carbon
 
-8. **Carbon Stabilization Pathways in Soil Aggregates During Long-Term Forest Succession: Implications from Δ13c Signatures** (2022)
+9. **Dynamics and driving mechanisms of soil organic carbon sequestration in grasslands after grazing exclusion: A review.** (2024)
+   0 citations · Soil Carbon
+
+10. **Carbon Stabilization Pathways in Soil Aggregates During Long-Term Forest Succession: Implications from Δ13c Signatures** (2022)
    0 citations · Soil Carbon
 
 ## External Profiles

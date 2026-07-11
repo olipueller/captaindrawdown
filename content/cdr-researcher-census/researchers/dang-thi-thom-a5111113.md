@@ -1,7 +1,7 @@
 ---
 title: "Dang Thi Thom"
 description: "Dang Thi Thom is a Senior BECCS researcher at Học viện Tư pháp in VN. With 14 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.756227
+date: 2026-07-11T11:05:44.141759
 url: "/cdr-researcher-census/researchers/dang-thi-thom-a5111113/"
 layout: "researcher"
 hiddenInHomeList: true

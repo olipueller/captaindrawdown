@@ -1,7 +1,7 @@
 ---
 title: "Hua Chai"
 description: "Hua Chai is a Mid-career Soil Carbon researcher at Harbin Institute of Technology in CN. With 25 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.666275
+date: 2026-07-11T11:05:43.251089
 url: "/cdr-researcher-census/researchers/hua-chai-a5018505/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 541 |
 | Publications | 25 |
-| CDR Focus | 12.0% |
+| CDR Focus | 16.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -50,10 +50,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Species-specific herbivore grazing of type-specific grassland can assist with promotion of shallow layer of soil carbon sequestration** (2021)
    8 citations · Soil Carbon
 
-2. **Grazing‐N addition interactions drive soil carbon priming and balance via bacterial assimilation in a meadow steppe** (2025)
+2. **A transition from arbuscular to ectomycorrhizal forests halts soil carbon sequestration during subtropical forest rewilding** (2024)
+   3 citations · Soil Carbon
+
+3. **Grazing‐N addition interactions drive soil carbon priming and balance via bacterial assimilation in a meadow steppe** (2025)
    2 citations · Soil Carbon
 
-3. **A Transition from Arbuscular to Ectomycorrhizal Forests Halts Soil Carbon Sequestration During Subtropical Forest Rewilding** (2023)
+4. **A Transition from Arbuscular to Ectomycorrhizal Forests Halts Soil Carbon Sequestration During Subtropical Forest Rewilding** (2023)
    0 citations · Soil Carbon
 
 ## External Profiles

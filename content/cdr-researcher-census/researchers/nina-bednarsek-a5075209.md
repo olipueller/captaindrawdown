@@ -1,7 +1,7 @@
 ---
 title: "Nina Bednaršek"
 description: "Nina Bednaršek is a Senior Ocean CDR researcher at University of California, Los Angeles in US. With 112 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.000917
+date: 2026-07-11T11:05:42.814105
 url: "/cdr-researcher-census/researchers/nina-bednarsek-a5075209/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 36 |
 | Citations | 4,454 |
 | Publications | 112 |
-| CDR Focus | 9.8% |
+| CDR Focus | 5.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

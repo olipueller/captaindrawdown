@@ -1,7 +1,7 @@
 ---
 title: "Michael Fuhr"
 description: "Michael Fuhr is a Mid-career Ocean CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.850386
+date: 2026-07-11T11:05:43.383021
 url: "/cdr-researcher-census/researchers/michael-fuhr-a5072752/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 10 |
 | Citations | 404 |
 | Publications | 19 |
-| CDR Focus | 52.6% |
+| CDR Focus | 57.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -77,7 +77,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 9. **Microbial responses to ocean alkalinity enhancement in seasonally hypoxic coastal sediments** (2026)
    0 citations · General CDR
 
-10. **Benthic dunite and calcite weathering as a method for ocean alkalinity enhancement** (2023)
+10. **Impacts on benthic microbial communities by artificially enhanced weathering as a CO2 removal strategy** (2024)
    0 citations · Enhanced Weathering
 
 ## External Profiles

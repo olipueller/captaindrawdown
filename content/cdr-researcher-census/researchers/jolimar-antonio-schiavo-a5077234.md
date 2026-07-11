@@ -1,7 +1,7 @@
 ---
 title: "Jolimar Antônio Schiavo"
 description: "Jolimar Antônio Schiavo is a Senior Soil Carbon researcher at Universidade Estadual do Mato Grosso do Sul in BR. With 96 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.412616
+date: 2026-07-11T11:05:43.047778
 url: "/cdr-researcher-census/researchers/jolimar-antonio-schiavo-a5077234/"
 layout: "researcher"
 hiddenInHomeList: true

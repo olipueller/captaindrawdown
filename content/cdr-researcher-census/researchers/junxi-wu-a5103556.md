@@ -1,7 +1,7 @@
 ---
 title: "Junxi Wu"
 description: "Junxi Wu is a Mid-career Soil Carbon researcher at University of Nottingham Ningbo China in CN. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.992963
+date: 2026-07-11T11:05:44.321654
 url: "/cdr-researcher-census/researchers/junxi-wu-a5103556/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,12 +42,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 117 |
 | Publications | 14 |
-| CDR Focus | 7.1% |
+| CDR Focus | 14.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
-1. **Responses of carbon dynamics to grazing exclusion in alpine grassland ecosystems on the Qingzang Plateau** (2022)
+1. **Responses of carbon dynamics to grazing exclusion in natural alpine grassland ecosystems on the QingZang Plateau** (2022)
+   10 citations · General CDR
+
+2. **Responses of carbon dynamics to grazing exclusion in alpine grassland ecosystems on the Qingzang Plateau** (2022)
    0 citations · Soil Carbon
 
 ## External Profiles

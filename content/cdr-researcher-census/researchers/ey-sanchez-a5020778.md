@@ -1,7 +1,7 @@
 ---
 title: "E.Y. Sanchez"
 description: "E.Y. Sanchez is a Mid-career Biochar researcher at National University of San Juan in AR. With 24 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.714544
+date: 2026-07-11T11:05:43.285155
 url: "/cdr-researcher-census/researchers/ey-sanchez-a5020778/"
 layout: "researcher"
 hiddenInHomeList: true

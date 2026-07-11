@@ -1,7 +1,7 @@
 ---
 title: "Magali Weissgerber"
 description: "Magali Weissgerber is a Mid-career Soil Carbon researcher at Luther University in KR. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.131068
+date: 2026-07-11T11:05:44.426490
 url: "/cdr-researcher-census/researchers/magali-weissgerber-a5103859/"
 layout: "researcher"
 hiddenInHomeList: true

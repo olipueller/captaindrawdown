@@ -1,7 +1,7 @@
 ---
 title: "Modian Xie"
 description: "Modian Xie is a Mid-career Soil Carbon researcher at Jiangxi University of Finance and Economics in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.003562
+date: 2026-07-11T11:05:43.489537
 url: "/cdr-researcher-census/researchers/modian-xie-a5024370/"
 layout: "researcher"
 hiddenInHomeList: true

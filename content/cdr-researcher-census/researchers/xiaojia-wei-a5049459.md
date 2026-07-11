@@ -1,7 +1,7 @@
 ---
 title: "Xiaojia Wei"
 description: "Xiaojia Wei is a Senior Biochar researcher at Nantong University in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.844126
+date: 2026-07-11T11:05:43.379224
 url: "/cdr-researcher-census/researchers/xiaojia-wei-a5049459/"
 layout: "researcher"
 hiddenInHomeList: true

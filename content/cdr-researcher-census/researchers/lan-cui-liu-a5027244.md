@@ -1,7 +1,7 @@
 ---
 title: "Lan-Cui Liu"
 description: "Lan-Cui Liu is a Senior General CDR researcher at Beijing Normal University in CN. With 116 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.957080
+date: 2026-07-11T11:05:42.795974
 url: "/cdr-researcher-census/researchers/lan-cui-liu-a5027244/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 38 |
 | Citations | 6,187 |
 | Publications | 116 |
-| CDR Focus | 6.0% |
+| CDR Focus | 5.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

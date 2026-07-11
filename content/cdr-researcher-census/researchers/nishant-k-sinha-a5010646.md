@@ -1,7 +1,7 @@
 ---
 title: "Nishant K. Sinha"
 description: "Nishant K. Sinha is a Senior Soil Carbon researcher at ICAR- Indian Institute of Soil Science in IN. With 164 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.061886
+date: 2026-07-11T11:05:42.839686
 url: "/cdr-researcher-census/researchers/nishant-k-sinha-a5010646/"
 layout: "researcher"
 hiddenInHomeList: true

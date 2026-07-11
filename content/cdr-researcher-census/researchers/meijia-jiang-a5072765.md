@@ -1,7 +1,7 @@
 ---
 title: "Meijia Jiang"
 description: "Meijia Jiang is an Early-career Ocean CDR researcher at Xiamen University in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.090124
+date: 2026-07-11T11:05:43.550552
 url: "/cdr-researcher-census/researchers/meijia-jiang-a5072765/"
 layout: "researcher"
 hiddenInHomeList: true

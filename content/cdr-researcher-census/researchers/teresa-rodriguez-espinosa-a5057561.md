@@ -1,7 +1,7 @@
 ---
 title: "Teresa Rodríguez-Espinosa"
 description: "Teresa Rodríguez-Espinosa is a Mid-career Soil Carbon researcher at Universitat de Miguel Hernández d'Elx in ES. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.872334
+date: 2026-07-11T11:05:43.399667
 url: "/cdr-researcher-census/researchers/teresa-rodriguez-espinosa-a5057561/"
 layout: "researcher"
 hiddenInHomeList: true

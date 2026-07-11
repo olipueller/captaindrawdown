@@ -1,7 +1,7 @@
 ---
 title: "Peace Korshiwor Amoatey"
 description: "Peace Korshiwor Amoatey is a Mid-career Soil Carbon researcher at University of Ghana in GH. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.145997
+date: 2026-07-11T11:05:44.436180
 url: "/cdr-researcher-census/researchers/peace-korshiwor-amoatey-a5023381/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 102 |
 | Publications | 15 |
-| CDR Focus | 20.0% |
+| CDR Focus | 13.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Shijie Zhou"
 description: "Shijie Zhou is a Mid-career General CDR researcher at Chinese Academy of Sciences in CN. With 23 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.783989
+date: 2026-07-11T11:05:43.337097
 url: "/cdr-researcher-census/researchers/shijie-zhou-a5026811/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 12 |
 | Citations | 445 |
 | Publications | 23 |
-| CDR Focus | 17.4% |
+| CDR Focus | 13.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

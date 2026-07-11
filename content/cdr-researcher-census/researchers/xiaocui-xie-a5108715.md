@@ -1,7 +1,7 @@
 ---
 title: "Xiaocui Xie"
 description: "Xiaocui Xie is a Mid-career Soil Carbon researcher at Zhejiang A & F University in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.370830
+date: 2026-07-11T11:05:43.729213
 url: "/cdr-researcher-census/researchers/xiaocui-xie-a5108715/"
 layout: "researcher"
 hiddenInHomeList: true

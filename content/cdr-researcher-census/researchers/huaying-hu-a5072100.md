@@ -1,7 +1,7 @@
 ---
 title: "Huaying Hu"
 description: "Huaying Hu is a Mid-career Soil Carbon researcher at Sun Yat-sen University in CN. With 37 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.332572
+date: 2026-07-11T11:05:42.995392
 url: "/cdr-researcher-census/researchers/huaying-hu-a5072100/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 13 |
 | Citations | 1,126 |
 | Publications | 37 |
-| CDR Focus | 5.4% |
+| CDR Focus | 8.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -55,6 +55,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 2. **Linking Microbial Decomposition to Dissolved Organic Matter Composition in the Revegetation of the Red Soil Erosion Area** (2023)
    11 citations · Soil Carbon
+
+3. **Microbial Control of Soil Dom Transformation, an Important Prerequisite for Carbon Storage During the Vegetation Restoration in the Loess Plateau** (2022)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

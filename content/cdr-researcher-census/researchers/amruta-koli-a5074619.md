@@ -1,7 +1,7 @@
 ---
 title: "Amruta Koli"
 description: "Amruta Koli is a Mid-career General CDR researcher at Jodhpur National University in IN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.387041
+date: 2026-07-11T11:05:43.741583
 url: "/cdr-researcher-census/researchers/amruta-koli-a5074619/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Qiuzhu Li"
 description: "Qiuzhu Li is a Senior Soil Carbon researcher at Jilin University in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.557644
+date: 2026-07-11T11:05:43.918648
 url: "/cdr-researcher-census/researchers/qiuzhu-li-a5002367/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 181 |
 | Publications | 14 |
-| CDR Focus | 7.1% |
+| CDR Focus | 14.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Biochar Input to Saline-Alkali Farmland Can Improve Soil Health and Crop Yield: A Meta-Analysis** (2025)
    12 citations · Biochar
+
+2. **Increasing Soil Organic Carbon Content: The Key Roles of Straw Return Duration and Maize Growth Stages in Driving Microbial Community Shifts** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

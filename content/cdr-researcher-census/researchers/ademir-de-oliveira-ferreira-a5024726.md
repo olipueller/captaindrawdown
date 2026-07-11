@@ -1,7 +1,7 @@
 ---
 title: "Ademir de Oliveira Ferreira"
 description: "Ademir de Oliveira Ferreira is a Senior Soil Carbon researcher at Universidade Federal Rural de Pernambuco in BR. With 75 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.263651
+date: 2026-07-11T11:05:42.951420
 url: "/cdr-researcher-census/researchers/ademir-de-oliveira-ferreira-a5024726/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 21 |
 | Citations | 1,380 |
 | Publications | 75 |
-| CDR Focus | 8.0% |
-| Trajectory | Declining |
+| CDR Focus | 6.7% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

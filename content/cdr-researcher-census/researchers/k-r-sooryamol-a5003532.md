@@ -1,7 +1,7 @@
 ---
 title: "K. R. Sooryamol"
 description: "K. R. Sooryamol is a Mid-career Soil Carbon researcher at Indian Council of Agricultural Research in IN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.403716
+date: 2026-07-11T11:05:43.752876
 url: "/cdr-researcher-census/researchers/k-r-sooryamol-a5003532/"
 layout: "researcher"
 hiddenInHomeList: true

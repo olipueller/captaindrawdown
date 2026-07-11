@@ -1,7 +1,7 @@
 ---
 title: "Ducduy Nguyen"
 description: "Ducduy Nguyen is a Mid-career General CDR researcher. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.481556
+date: 2026-07-11T11:05:43.807755
 url: "/cdr-researcher-census/researchers/ducduy-nguyen-a5004145/"
 layout: "researcher"
 hiddenInHomeList: true

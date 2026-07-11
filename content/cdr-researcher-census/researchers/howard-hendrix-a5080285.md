@@ -1,7 +1,7 @@
 ---
 title: "Howard Hendrix"
 description: "Howard Hendrix is a Senior General CDR researcher at Hendrix College in US. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.918616
+date: 2026-07-11T11:05:44.262794
 url: "/cdr-researcher-census/researchers/howard-hendrix-a5080285/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 6 |
 | Citations | 125 |
 | Publications | 17 |
-| CDR Focus | 17.6% |
+| CDR Focus | 11.8% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

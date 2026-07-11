@@ -1,7 +1,7 @@
 ---
 title: "Mahesan Naidu Subramaniam"
 description: "Mahesan Naidu Subramaniam is a Mid-career Biochar researcher at Aston University in GB. With 35 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.334544
+date: 2026-07-11T11:05:42.996799
 url: "/cdr-researcher-census/researchers/mahesan-naidu-subramaniam-a5112586/"
 layout: "researcher"
 hiddenInHomeList: true

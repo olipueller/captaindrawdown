@@ -1,7 +1,7 @@
 ---
 title: "Zhiyuan Huang"
 description: "Zhiyuan Huang is a Mid-career Soil Carbon researcher at Nanjing Forestry University in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.655886
+date: 2026-07-11T11:05:44.065753
 url: "/cdr-researcher-census/researchers/zhiyuan-huang-a5101445/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 164 |
 | Publications | 12 |
-| CDR Focus | 16.7% |
+| CDR Focus | 8.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

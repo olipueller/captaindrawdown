@@ -1,7 +1,7 @@
 ---
 title: "Maren Oelbermann"
 description: "Maren Oelbermann is a Senior Soil Carbon researcher at University of Waterloo in CA. With 109 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.148492
+date: 2026-07-11T11:05:42.883004
 url: "/cdr-researcher-census/researchers/maren-oelbermann-a5077075/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 24 |
 | Citations | 2,098 |
 | Publications | 109 |
-| CDR Focus | 8.3% |
+| CDR Focus | 7.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

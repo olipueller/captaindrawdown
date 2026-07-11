@@ -1,7 +1,7 @@
 ---
 title: "Zhen Wang"
 description: "Zhen Wang is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.488248
+date: 2026-07-11T11:05:43.100238
 url: "/cdr-researcher-census/researchers/zhen-wang-a5101411/"
 layout: "researcher"
 hiddenInHomeList: true

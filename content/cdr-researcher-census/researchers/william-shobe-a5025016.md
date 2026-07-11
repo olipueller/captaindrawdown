@@ -1,7 +1,7 @@
 ---
 title: "William Shobe"
 description: "William Shobe is a Senior General CDR researcher at University of Virginia in US. With 77 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.263886
+date: 2026-07-11T11:05:42.951702
 url: "/cdr-researcher-census/researchers/william-shobe-a5025016/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Citations | 1,378 |
 | Publications | 77 |
 | CDR Focus | 11.7% |
-| Trajectory | Exiting |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
@@ -71,11 +71,14 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 7. **Diverse carbon dioxide removal approaches could reduce energy-water-land impacts** (2023)
    1 citations · General CDR
 
-8. **Diverse carbon dioxide removal approaches could reduce energy-water-land impacts (output data)** (2023)
-   0 citations
-
-9. **Diverse carbon dioxide removal approaches could reduce energy-water-land impacts (output data)** (2023)
+8. **Large-ScaleCarbon Removal Will Create Public Health,Economic, and Climate Trade-Offs** (2026)
    0 citations · General CDR
+
+9. **Large-Scale Carbon Removal Will Create Public Health, Economic, and Climate Trade-Offs** (2026)
+   0 citations · General CDR
+
+10. **Diverse carbon dioxide removal approaches could reduce energy-water-land impacts (output data)** (2023)
+   0 citations
 
 ## External Profiles
 

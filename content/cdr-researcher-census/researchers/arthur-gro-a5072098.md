@@ -1,7 +1,7 @@
 ---
 title: "Arthur Groß"
 description: "Arthur Groß is a Mid-career Soil Carbon researcher at Martin Luther University Halle-Wittenberg in DE. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.496915
+date: 2026-07-11T11:05:43.106872
 url: "/cdr-researcher-census/researchers/arthur-gro-a5072098/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 751 |
 | Publications | 23 |
-| CDR Focus | 47.8% |
+| CDR Focus | 39.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

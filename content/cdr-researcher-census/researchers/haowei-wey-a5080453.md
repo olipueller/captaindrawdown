@@ -1,7 +1,7 @@
 ---
 title: "Hao‐Wei Wey"
 description: "Hao‐Wei Wey is a Mid-career General CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 28 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.550587
+date: 2026-07-11T11:05:43.911567
 url: "/cdr-researcher-census/researchers/haowei-wey-a5080453/"
 layout: "researcher"
 hiddenInHomeList: true

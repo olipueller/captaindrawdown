@@ -1,7 +1,7 @@
 ---
 title: "Linchuan Fang"
 description: "Linchuan Fang is an Eminent Soil Carbon researcher at 中科院水土保持研究所 in CN. With 207 publications and an h-index of 70, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.883269
+date: 2026-07-11T11:05:42.775876
 url: "/cdr-researcher-census/researchers/linchuan-fang-a5004716/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 70 |
 | Citations | 13,630 |
 | Publications | 207 |
-| CDR Focus | 8.7% |
-| Trajectory | Stable |
+| CDR Focus | 6.3% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

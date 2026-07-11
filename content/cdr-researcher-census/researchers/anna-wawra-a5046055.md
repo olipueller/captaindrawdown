@@ -1,7 +1,7 @@
 ---
 title: "Anna Wawra"
 description: "Anna Wawra is a Mid-career Soil Carbon researcher at Austrian Agency for Health and Food Safety in AT. With 27 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.282262
+date: 2026-07-11T11:05:43.666197
 url: "/cdr-researcher-census/researchers/anna-wawra-a5046055/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hans-Peter Haslmayr"
 description: "Hans-Peter Haslmayr is a Mid-career Soil Carbon researcher at Austrian Agency for Health and Food Safety in AT. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.937064
+date: 2026-07-11T11:05:43.442828
 url: "/cdr-researcher-census/researchers/hans-peter-haslmayr-a5014934/"
 layout: "researcher"
 hiddenInHomeList: true

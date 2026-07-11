@@ -1,7 +1,7 @@
 ---
 title: "Juraj Priščák"
 description: "Juraj Priščák is a Mid-career General CDR researcher at BEST - Bioenergy and Sustainable Technologies (Austria) in AT. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.652036
+date: 2026-07-11T11:05:44.061359
 url: "/cdr-researcher-census/researchers/juraj-priscak-a5028699/"
 layout: "researcher"
 hiddenInHomeList: true

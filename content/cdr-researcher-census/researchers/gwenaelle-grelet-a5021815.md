@@ -1,7 +1,7 @@
 ---
 title: "Gwen‐Aëlle Grelet"
 description: "Gwen‐Aëlle Grelet is a Senior Soil Carbon researcher at Manaaki Whenua - Landcare Research in NZ. With 35 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.191505
+date: 2026-07-11T11:05:42.906974
 url: "/cdr-researcher-census/researchers/gwenaelle-grelet-a5021815/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 13 |
 | Citations | 1,773 |
 | Publications | 35 |
-| CDR Focus | 8.6% |
+| CDR Focus | 5.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

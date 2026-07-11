@@ -1,7 +1,7 @@
 ---
 title: "Maria-Elena Vorrath"
-description: "Maria-Elena Vorrath is a Mid-career Biochar researcher at Universität Hamburg in DE. With 76 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.861979
+description: "Maria-Elena Vorrath is a Mid-career General CDR researcher at Universität Hamburg in DE. With 76 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:43.391855
 url: "/cdr-researcher-census/researchers/maria-elena-vorrath-a5010895/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Universität Hamburg · 🇩🇪 DE
 
 ## CDR Specialization
 
-**Biochar**
+**General CDR**
 
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 11 |
 | Citations | 397 |
 | Publications | 76 |
-| CDR Focus | 18.4% |
+| CDR Focus | 15.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

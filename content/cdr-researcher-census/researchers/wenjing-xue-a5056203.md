@@ -1,7 +1,7 @@
 ---
 title: "Wenjing Xue"
 description: "Wenjing Xue is a Mid-career Biochar researcher at Chinese Academy of Medical Sciences & Peking Union Medical College in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.383447
+date: 2026-07-11T11:05:43.738608
 url: "/cdr-researcher-census/researchers/wenjing-xue-a5056203/"
 layout: "researcher"
 hiddenInHomeList: true

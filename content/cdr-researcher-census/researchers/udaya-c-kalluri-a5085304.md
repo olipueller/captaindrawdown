@@ -1,7 +1,7 @@
 ---
 title: "Udaya C. Kalluri"
 description: "Udaya C. Kalluri is a Senior Soil Carbon researcher at Oak Ridge National Laboratory in US. With 95 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.935958
+date: 2026-07-11T11:05:42.789161
 url: "/cdr-researcher-census/researchers/udaya-c-kalluri-a5085304/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 31 |
 | Citations | 7,311 |
 | Publications | 95 |
-| CDR Focus | 7.4% |
+| CDR Focus | 5.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

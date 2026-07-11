@@ -1,7 +1,7 @@
 ---
 title: "Tongtian Guo"
 description: "Tongtian Guo is a Mid-career Soil Carbon researcher at Ministry of Agriculture and Rural Affairs in CN. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.889113
+date: 2026-07-11T11:05:43.410778
 url: "/cdr-researcher-census/researchers/tongtian-guo-a5069829/"
 layout: "researcher"
 hiddenInHomeList: true

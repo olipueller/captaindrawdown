@@ -1,7 +1,7 @@
 ---
 title: "Robert J. Caldwell"
 description: "Robert J. Caldwell is a Senior Enhanced Weathering researcher. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.930764
+date: 2026-07-11T11:05:43.438747
 url: "/cdr-researcher-census/researchers/robert-j-caldwell-a5044596/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -37,15 +37,18 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 8 |
 | Citations | 363 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
-| Trajectory | Stable |
+| CDR Focus | 15.0% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Weathering and cementation of historic kimberlite residues from South Africa: Implications for residue stabilization and CO2 sequestration** (2024)
    6 citations · Enhanced Weathering
 
-2. **Organic-Inorganic Carbon Cycling: Implications for Co2 Mineralization of Brucite-Bearing Mine Tailings** (2025)
+2. **Organic-inorganic carbon cycling: Implications for CO2 mineralization of brucite-bearing mine tailings** (2026)
+   0 citations · Biochar
+
+3. **Organic-Inorganic Carbon Cycling: Implications for Co2 Mineralization of Brucite-Bearing Mine Tailings** (2025)
    0 citations · Enhanced Weathering
 
 ## External Profiles

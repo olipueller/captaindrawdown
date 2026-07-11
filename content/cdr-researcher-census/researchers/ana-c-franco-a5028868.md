@@ -1,7 +1,7 @@
 ---
 title: "Ana C. Franco"
 description: "Ana C. Franco is a Senior Ocean CDR researcher at University of British Columbia in CA. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.224000
+date: 2026-07-11T11:05:43.627923
 url: "/cdr-researcher-census/researchers/ana-c-franco-a5028868/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -56,7 +56,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 2. **Using Gaussian Process Regression to disentangle marine carbonate system trends and variability** (2026)
    0 citations · Ocean CDR
 
-3. **Ocean Alkalinity Enhancement efficiency in the North Pacific under influence of the Pacific Decadal Oscillation** (2024)
+3. **Comparison of Compound Marine Extremes Under Overshooting vs straight-stabilization Scenarios** (2026)
+   0 citations
+
+4. **Ocean Alkalinity Enhancement efficiency in the North Pacific under influence of the Pacific Decadal Oscillation** (2024)
    0 citations · General CDR
 
 ## External Profiles

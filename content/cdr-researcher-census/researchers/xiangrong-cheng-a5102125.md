@@ -1,7 +1,7 @@
 ---
 title: "Xiangrong Cheng"
 description: "Xiangrong Cheng is a Senior Soil Carbon researcher at Jiangnan University in CN. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.702152
+date: 2026-07-11T11:05:44.102171
 url: "/cdr-researcher-census/researchers/xiangrong-cheng-a5102125/"
 layout: "researcher"
 hiddenInHomeList: true

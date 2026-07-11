@@ -1,7 +1,7 @@
 ---
 title: "Mark Mba Wright"
 description: "Mark Mba Wright is a Senior General CDR researcher at Iowa State University in US. With 151 publications and an h-index of 39, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.955823
+date: 2026-07-11T11:05:42.795473
 url: "/cdr-researcher-census/researchers/mark-mba-wright-a5032583/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 39 |
 | Citations | 6,268 |
 | Publications | 151 |
-| CDR Focus | 6.0% |
+| CDR Focus | 5.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

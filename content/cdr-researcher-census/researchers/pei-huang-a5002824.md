@@ -1,7 +1,7 @@
 ---
 title: "Pei Huang"
 description: "Pei Huang is a Mid-career General CDR researcher at Yunnan University in CN. With 26 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.730322
+date: 2026-07-11T11:05:43.296703
 url: "/cdr-researcher-census/researchers/pei-huang-a5002824/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 12 |
 | Citations | 483 |
 | Publications | 26 |
-| CDR Focus | 11.5% |
+| CDR Focus | 7.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

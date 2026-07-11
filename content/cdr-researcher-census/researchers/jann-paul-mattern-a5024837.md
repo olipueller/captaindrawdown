@@ -1,7 +1,7 @@
 ---
 title: "Jann Paul Mattern"
 description: "Jann Paul Mattern is a Senior Ocean CDR researcher at University of California Santa Cruz in US. With 37 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.375224
+date: 2026-07-11T11:05:43.023211
 url: "/cdr-researcher-census/researchers/jann-paul-mattern-a5024837/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 16 |
 | Citations | 997 |
 | Publications | 37 |
-| CDR Focus | 8.1% |
+| CDR Focus | 5.4% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

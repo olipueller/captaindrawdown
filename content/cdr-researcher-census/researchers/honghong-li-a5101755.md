@@ -1,7 +1,7 @@
 ---
 title: "Honghong Li"
 description: "Honghong Li is a Mid-career Soil Carbon researcher at Stockholm University in SE. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.016939
+date: 2026-07-11T11:05:43.498287
 url: "/cdr-researcher-census/researchers/honghong-li-a5101755/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 326 |
 | Publications | 19 |
-| CDR Focus | 15.8% |
+| CDR Focus | 10.5% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -57,6 +57,12 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    9 citations · Soil Carbon
 
 3. **Forest soils can increase climate change mitigation with targeted management** (2023)
+   0 citations
+
+4. **Forest soils can increase climate change mitigation with targeted management** (2023)
+   0 citations · General CDR
+
+5. **Forest soils can increase climate change mitigation with targeted management** (2023)
    0 citations
 
 ## External Profiles

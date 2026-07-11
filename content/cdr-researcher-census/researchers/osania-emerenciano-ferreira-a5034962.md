@@ -1,7 +1,7 @@
 ---
 title: "Osânia Emerenciano Ferreira"
 description: "Osânia Emerenciano Ferreira is a Mid-career Biochar researcher at Universidade do Estado de Minas Gerais in BR. With 58 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.737428
+date: 2026-07-11T11:05:44.129188
 url: "/cdr-researcher-census/researchers/osania-emerenciano-ferreira-a5034962/"
 layout: "researcher"
 hiddenInHomeList: true

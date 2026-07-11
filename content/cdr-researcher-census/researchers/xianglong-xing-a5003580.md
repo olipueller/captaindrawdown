@@ -1,7 +1,7 @@
 ---
 title: "Xianglong Xing"
 description: "Xianglong Xing is a Senior Soil Carbon researcher at Northeast Institute of Geography and Agroecology in CN. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.339982
+date: 2026-07-11T11:05:43.708005
 url: "/cdr-researcher-census/researchers/xianglong-xing-a5003580/"
 layout: "researcher"
 hiddenInHomeList: true

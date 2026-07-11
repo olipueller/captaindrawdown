@@ -1,7 +1,7 @@
 ---
 title: "Amanda Ronix"
 description: "Amanda Ronix is a Mid-career Soil Carbon researcher at Forest Science and Research Institute in BR. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.465150
+date: 2026-07-11T11:05:43.083560
 url: "/cdr-researcher-census/researchers/amanda-ronix-a5021142/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 806 |
 | Publications | 17 |
-| CDR Focus | 11.8% |
+| CDR Focus | 5.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

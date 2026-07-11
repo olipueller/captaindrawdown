@@ -1,7 +1,7 @@
 ---
 title: "A. Cortesini M. Rigo de Righi"
 description: "A. Cortesini M. Rigo de Righi is an Early-career Soil Carbon researcher at University of Padua in IT. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.706017
+date: 2026-07-11T11:05:44.104928
 url: "/cdr-researcher-census/researchers/a-cortesini-m-rigo-de-righi-a5017861/"
 layout: "researcher"
 hiddenInHomeList: true

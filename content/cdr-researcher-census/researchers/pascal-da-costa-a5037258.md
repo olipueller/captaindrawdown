@@ -1,7 +1,7 @@
 ---
 title: "Pascal da Costa"
 description: "Pascal da Costa is a Senior General CDR researcher at CentraleSupélec in FR. With 130 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.662553
+date: 2026-07-11T11:05:43.248157
 url: "/cdr-researcher-census/researchers/pascal-da-costa-a5037258/"
 layout: "researcher"
 hiddenInHomeList: true

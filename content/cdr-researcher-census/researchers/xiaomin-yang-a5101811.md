@@ -1,7 +1,7 @@
 ---
 title: "Xiaomin Yang"
 description: "Xiaomin Yang is a Senior Soil Carbon researcher at Guizhou University in CN. With 56 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.251148
+date: 2026-07-11T11:05:42.942556
 url: "/cdr-researcher-census/researchers/xiaomin-yang-a5101811/"
 layout: "researcher"
 hiddenInHomeList: true

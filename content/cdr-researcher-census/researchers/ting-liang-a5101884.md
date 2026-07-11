@@ -1,7 +1,7 @@
 ---
 title: "Ting Liang"
 description: "Ting Liang is a Mid-career Soil Carbon researcher at Sichuan Agricultural University in CN. With 36 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.578845
+date: 2026-07-11T11:05:43.169400
 url: "/cdr-researcher-census/researchers/ting-liang-a5101884/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 14 |
 | Citations | 631 |
 | Publications | 36 |
-| CDR Focus | 13.9% |
-| Trajectory | Stable |
+| CDR Focus | 11.1% |
+| Trajectory | Declining |
 
 ## Top CDR Publications
 

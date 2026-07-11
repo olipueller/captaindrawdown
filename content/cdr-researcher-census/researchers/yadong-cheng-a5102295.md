@@ -1,7 +1,7 @@
 ---
 title: "Yadong Cheng"
 description: "Yadong Cheng is a Mid-career Soil Carbon researcher at Ministry of Natural Resources in CN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.056978
+date: 2026-07-11T11:05:43.526403
 url: "/cdr-researcher-census/researchers/yadong-cheng-a5102295/"
 layout: "researcher"
 hiddenInHomeList: true

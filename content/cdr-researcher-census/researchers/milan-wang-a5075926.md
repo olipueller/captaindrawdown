@@ -1,7 +1,7 @@
 ---
 title: "Milan Wang"
 description: "Milan Wang is a Mid-career Soil Carbon researcher at Guangdong Academy of Sciences in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.608493
+date: 2026-07-11T11:05:43.212702
 url: "/cdr-researcher-census/researchers/milan-wang-a5075926/"
 layout: "researcher"
 hiddenInHomeList: true

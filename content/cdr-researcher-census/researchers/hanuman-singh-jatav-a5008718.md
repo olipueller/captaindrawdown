@@ -1,7 +1,7 @@
 ---
 title: "Hanuman Singh Jatav"
 description: "Hanuman Singh Jatav is a Senior Soil Carbon researcher at Sri Karan Narendra Agriculture University Jobner Rajasthan, College of Agriculture  Fatehpur Sikar Rajasthan  in IN. With 104 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.133291
+date: 2026-07-11T11:05:42.875224
 url: "/cdr-researcher-census/researchers/hanuman-singh-jatav-a5008718/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 23 |
 | Citations | 2,228 |
 | Publications | 104 |
-| CDR Focus | 6.7% |
+| CDR Focus | 5.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

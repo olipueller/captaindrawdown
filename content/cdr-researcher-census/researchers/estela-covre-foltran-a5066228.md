@@ -1,7 +1,7 @@
 ---
 title: "Estela Covre Foltran"
 description: "Estela Covre Foltran is a Mid-career Soil Carbon researcher at Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement in FR. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.941403
+date: 2026-07-11T11:05:44.279631
 url: "/cdr-researcher-census/researchers/estela-covre-foltran-a5066228/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 123 |
 | Publications | 15 |
-| CDR Focus | 20.0% |
+| CDR Focus | 6.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

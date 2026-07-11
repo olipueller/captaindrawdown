@@ -1,7 +1,7 @@
 ---
 title: "Eva Simon"
 description: "Eva Simon is a Mid-career Soil Carbon researcher at University of Vienna in AT. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.531498
+date: 2026-07-11T11:05:43.133957
 url: "/cdr-researcher-census/researchers/eva-simon-a5053461/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 695 |
 | Publications | 25 |
-| CDR Focus | 12.0% |
-| Trajectory | Exiting |
+| CDR Focus | 8.0% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

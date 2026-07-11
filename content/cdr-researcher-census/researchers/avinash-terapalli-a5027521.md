@@ -1,7 +1,7 @@
 ---
 title: "Avinash Terapalli"
 description: "Avinash Terapalli is an Early-career Ocean CDR researcher at Andhra University in IN. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.911561
+date: 2026-07-11T11:05:44.257160
 url: "/cdr-researcher-census/researchers/avinash-terapalli-a5027521/"
 layout: "researcher"
 hiddenInHomeList: true

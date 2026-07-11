@@ -1,7 +1,7 @@
 ---
 title: "Tianyuan Liu"
 description: "Tianyuan Liu is a Mid-career Soil Carbon researcher at Shanghai Jiao Tong University in CN. With 36 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.711359
+date: 2026-07-11T11:05:43.282784
 url: "/cdr-researcher-census/researchers/tianyuan-liu-a5101545/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,15 +45,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 13 |
 | Citations | 499 |
 | Publications | 36 |
-| CDR Focus | 5.6% |
-| Trajectory | Stable |
+| CDR Focus | 8.3% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Responses of carbon dynamics to grazing exclusion in natural alpine grassland ecosystems on the QingZang Plateau** (2022)
    10 citations · General CDR
 
-2. **Responses of carbon dynamics to grazing exclusion in alpine grassland ecosystems on the Qingzang Plateau** (2022)
+2. **Short-term grazing exclusion is more conducive to the rate of soil organic carbon stock in alpine grassland of the Tibetan Plateau** (2025)
+   3 citations · Soil Carbon
+
+3. **Responses of carbon dynamics to grazing exclusion in alpine grassland ecosystems on the Qingzang Plateau** (2022)
    0 citations · Soil Carbon
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Struan Coleman"
 description: "Struan Coleman is a Mid-career Ocean CDR researcher at Connecticut Sea Grant in US. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.650743
+date: 2026-07-11T11:05:44.060178
 url: "/cdr-researcher-census/researchers/struan-coleman-a5070873/"
 layout: "researcher"
 hiddenInHomeList: true

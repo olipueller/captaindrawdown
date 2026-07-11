@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Shahbaz Farooq"
 description: "Muhammad Shahbaz Farooq is a Mid-career Soil Carbon researcher at Jiangsu University in CN. With 30 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.694293
+date: 2026-07-11T11:05:43.270275
 url: "/cdr-researcher-census/researchers/muhammad-shahbaz-farooq-a5102797/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xiaohao Jia"
 description: "Xiaohao Jia is a Mid-career DAC researcher at University of Miami in US. With 34 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.563691
+date: 2026-07-11T11:05:43.156855
 url: "/cdr-researcher-census/researchers/xiaohao-jia-a5012875/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 14 |
 | Citations | 650 |
 | Publications | 34 |
-| CDR Focus | 14.7% |
+| CDR Focus | 5.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

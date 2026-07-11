@@ -1,7 +1,7 @@
 ---
 title: "Yuqian Cui"
-description: "Yuqian Cui is a Mid-career Soil Carbon researcher at Qingdao University in CN. With 33 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.351499
+description: "Yuqian Cui is a Mid-career Biochar researcher at Qingdao University in CN. With 33 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:43.007981
 url: "/cdr-researcher-census/researchers/yuqian-cui-a5104094/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Qingdao University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,16 +45,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 18 |
 | Citations | 1,064 |
 | Publications | 33 |
-| CDR Focus | 6.1% |
+| CDR Focus | 9.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
-1. **Enhanced simultaneous removal of acetamiprid and cadmium from soil and water in paddy fields by Fe-Mn-BC ternary micro-electrolysis: Performance, mechanism and pathway** (2024)
+1. **In-situ removal of microcystin aeruginosa and microcystin-LR by biochar supported sulfide nZVI via persulfate activation: Performance, mechanism and degradation pathway** (2024)
+   15 citations · Biochar
+
+2. **Enhanced simultaneous removal of acetamiprid and cadmium from soil and water in paddy fields by Fe-Mn-BC ternary micro-electrolysis: Performance, mechanism and pathway** (2024)
    6 citations · Soil Carbon
 
-2. **Enhanced Simultaneous Removal of Acetamiprid And Cadmium From Soil and Water in Paddy Fields By Fe-Mn-Bc Ternary Micro-Electrolysis: Performance, Mechanism and Pathway** (2024)
+3. **Enhanced Simultaneous Removal of Acetamiprid And Cadmium From Soil and Water in Paddy Fields By Fe-Mn-Bc Ternary Micro-Electrolysis: Performance, Mechanism and Pathway** (2024)
    0 citations
+
+4. **In-Situ Removal of Microcystin Aeruginosa and Microcystin-Lr by Biochar Supported Sulfide Nzvi Via Persulfate Activation: Performance, Mechanism and Degradation Pathway** (2024)
+   0 citations · Biochar
 
 ## External Profiles
 

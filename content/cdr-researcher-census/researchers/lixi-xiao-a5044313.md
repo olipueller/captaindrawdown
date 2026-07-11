@@ -1,7 +1,7 @@
 ---
 title: "Lixi Xiao"
 description: "Lixi Xiao is a Mid-career Biochar researcher at Wuhan Textile University in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.928860
+date: 2026-07-11T11:05:44.269852
 url: "/cdr-researcher-census/researchers/lixi-xiao-a5044313/"
 layout: "researcher"
 hiddenInHomeList: true

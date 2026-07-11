@@ -1,7 +1,7 @@
 ---
 title: "Xinlian Zhong"
 description: "Xinlian Zhong is an Early-career Biochar researcher at Sun Yat-sen University in CN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.005471
+date: 2026-07-11T11:05:44.330193
 url: "/cdr-researcher-census/researchers/xinlian-zhong-a5022081/"
 layout: "researcher"
 hiddenInHomeList: true

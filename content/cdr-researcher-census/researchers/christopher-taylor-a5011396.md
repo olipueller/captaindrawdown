@@ -1,7 +1,7 @@
 ---
 title: "Christopher Taylor"
 description: "Christopher Taylor is a Senior Soil Carbon researcher at University of Manchester in GB. With 29 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.414700
+date: 2026-07-11T11:05:43.760354
 url: "/cdr-researcher-census/researchers/christopher-taylor-a5011396/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,15 +45,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 211 |
 | Publications | 29 |
-| CDR Focus | 6.9% |
-| Trajectory | Stable |
+| CDR Focus | 10.3% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Organic phosphorus cycling may control grassland responses to nitrogen deposition: a long-term field manipulation and modelling study** (2021)
    12 citations · Soil Carbon
 
-2. **Carbon storage in phosphorus limited grasslands may decline in response to elevated nitrogen deposition: a long term field manipulation and modelling study&amp;#160;** (2021)
+2. **Clustered land restoration projects increase cloud formation in West African drylands** (2026)
+   0 citations · Soil Carbon
+
+3. **Carbon storage in phosphorus limited grasslands may decline in response to elevated nitrogen deposition: a long term field manipulation and modelling study&amp;#160;** (2021)
    0 citations · Soil Carbon
 
 ## External Profiles

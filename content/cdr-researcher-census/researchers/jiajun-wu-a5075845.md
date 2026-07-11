@@ -1,7 +1,7 @@
 ---
 title: "Jiajun Wu"
 description: "Jiajun Wu is a Mid-career Ocean CDR researcher at City University of Hong Kong in HK. With 27 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.450604
+date: 2026-07-11T11:05:43.784580
 url: "/cdr-researcher-census/researchers/jiajun-wu-a5075845/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 6 |
 | Citations | 202 |
 | Publications | 27 |
-| CDR Focus | 81.5% |
-| Trajectory | Declining |
+| CDR Focus | 25.9% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

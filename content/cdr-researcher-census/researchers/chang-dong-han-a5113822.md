@@ -1,7 +1,7 @@
 ---
 title: "Chang-Dong Han"
 description: "Chang-Dong Han is a Senior Soil Carbon researcher at Shenyang Agricultural University in CN. With 43 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.526060
+date: 2026-07-11T11:05:43.129882
 url: "/cdr-researcher-census/researchers/chang-dong-han-a5113822/"
 layout: "researcher"
 hiddenInHomeList: true

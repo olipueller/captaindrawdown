@@ -1,7 +1,7 @@
 ---
 title: "Leah K. Clayton"
 description: "Leah K. Clayton is an Early-career General CDR researcher at National Audubon Society in US. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.831181
+date: 2026-07-11T11:05:44.198655
 url: "/cdr-researcher-census/researchers/leah-k-clayton-a5040720/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 4 |
 | Citations | 136 |
 | Publications | 11 |
-| CDR Focus | 18.2% |
+| CDR Focus | 9.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

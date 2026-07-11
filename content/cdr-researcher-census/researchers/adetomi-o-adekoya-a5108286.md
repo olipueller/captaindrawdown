@@ -1,7 +1,7 @@
 ---
 title: "Adetomi O. Adekoya"
 description: "Adetomi O. Adekoya is an Early-career Soil Carbon researcher at University of Ibadan in NG. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.040836
+date: 2026-07-11T11:05:44.377084
 url: "/cdr-researcher-census/researchers/adetomi-o-adekoya-a5108286/"
 layout: "researcher"
 hiddenInHomeList: true

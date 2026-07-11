@@ -1,7 +1,7 @@
 ---
 title: "Victor Guerra"
 description: "Victor Guerra is a Mid-career Soil Carbon researcher at University of Florida in US. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.648296
+date: 2026-07-11T11:05:44.057025
 url: "/cdr-researcher-census/researchers/victor-guerra-a5089277/"
 layout: "researcher"
 hiddenInHomeList: true

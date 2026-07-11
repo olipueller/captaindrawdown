@@ -1,7 +1,7 @@
 ---
 title: "Sadia Aziz"
 description: "Sadia Aziz is a Mid-career Biochar researcher at International Islamic University, Islamabad in PK. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.384400
+date: 2026-07-11T11:05:43.738996
 url: "/cdr-researcher-census/researchers/sadia-aziz-a5102472/"
 layout: "researcher"
 hiddenInHomeList: true

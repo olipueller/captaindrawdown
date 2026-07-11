@@ -1,7 +1,7 @@
 ---
 title: "Dipal Baruah"
 description: "Dipal Baruah is a Mid-career General CDR researcher at Tezpur University in IN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.488428
+date: 2026-07-11T11:05:43.100461
 url: "/cdr-researcher-census/researchers/dipal-baruah-a5017944/"
 layout: "researcher"
 hiddenInHomeList: true

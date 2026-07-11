@@ -1,7 +1,7 @@
 ---
 title: "Siwei Shi"
 description: "Siwei Shi is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.861564
+date: 2026-07-11T11:05:44.220712
 url: "/cdr-researcher-census/researchers/siwei-shi-a5102986/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 132 |
 | Publications | 13 |
-| CDR Focus | 38.5% |
-| Trajectory | Stable |
+| CDR Focus | 30.8% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

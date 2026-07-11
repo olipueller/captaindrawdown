@@ -1,7 +1,7 @@
 ---
 title: "Jacob S. Jordan"
 description: "Jacob S. Jordan is a Mid-career Enhanced Weathering researcher at Nano Carbon (Poland) in PL. With 62 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.399474
+date: 2026-07-11T11:05:43.039205
 url: "/cdr-researcher-census/researchers/jacob-s-jordan-a5091258/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 15 |
 | Citations | 938 |
 | Publications | 62 |
-| CDR Focus | 27.4% |
+| CDR Focus | 19.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -74,10 +74,10 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 8. **Increased yields for smallholder farmers from enhanced rock weathering** (2026)
    0 citations · Enhanced Weathering
 
-9. **On the pH-dependent export of anthropogenic alkalinity in pore water through soil: Implications for enhanced rock weathering** (2026)
+9. **Increased yields for smallholder farmers from enhanced rock weathering** (2026)
    0 citations · Enhanced Weathering
 
-10. **Enhanced rock weathering for improved smallholder farmer welfare: An at-scale case study for rice agriculture in India** (2026)
+10. **On the pH-dependent export of anthropogenic alkalinity in pore water through soil: Implications for enhanced rock weathering** (2026)
    0 citations · Enhanced Weathering
 
 ## External Profiles

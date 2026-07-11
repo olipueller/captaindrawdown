@@ -1,7 +1,7 @@
 ---
 title: "Sebastian Rauner"
 description: "Sebastian Rauner is a Mid-career General CDR researcher at Leibniz Association in DE. With 23 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.297603
+date: 2026-07-11T11:05:42.972515
 url: "/cdr-researcher-census/researchers/sebastian-rauner-a5086574/"
 layout: "researcher"
 hiddenInHomeList: true

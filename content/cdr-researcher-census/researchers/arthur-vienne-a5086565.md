@@ -1,7 +1,7 @@
 ---
 title: "Arthur Vienne"
 description: "Arthur Vienne is a Mid-career Enhanced Weathering researcher at University of Antwerp in BE. With 51 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.862191
+date: 2026-07-11T11:05:43.392196
 url: "/cdr-researcher-census/researchers/arthur-vienne-a5086565/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 8 |
 | Citations | 397 |
 | Publications | 51 |
-| CDR Focus | 82.4% |
+| CDR Focus | 56.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

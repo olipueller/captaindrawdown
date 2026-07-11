@@ -1,7 +1,7 @@
 ---
 title: "Xiyan Jiang"
 description: "Xiyan Jiang is a Mid-career Biochar researcher at University of Chinese Academy of Sciences in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.046789
+date: 2026-07-11T11:05:44.382382
 url: "/cdr-researcher-census/researchers/xiyan-jiang-a5081273/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Pengpeng Duan"
 description: "Pengpeng Duan is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 85 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.187238
+date: 2026-07-11T11:05:42.904415
 url: "/cdr-researcher-census/researchers/pengpeng-duan-a5073985/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 24 |
 | Citations | 1,799 |
 | Publications | 85 |
-| CDR Focus | 7.1% |
+| CDR Focus | 5.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -56,17 +56,23 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 2. **Potential Roles of Soil Viruses in Karst Forest Soil Carbon and Nitrogen Cycles** (2025)
    5 citations · Soil Carbon
 
-3. **Tree species diversity enhances dark microbial CO2 fixation rates in soil of a subtropical forest** (2025)
+3. **Tree Species Diversity Suppresses Soil Carbon Priming Effects in a Subtropical Forest** (2026)
+   1 citations
+
+4. **Tree species diversity enhances dark microbial CO2 fixation rates in soil of a subtropical forest** (2025)
    1 citations · Soil Carbon
 
-4. **Promoting soil carbon sequestration by diversifying tree species** (2024)
+5. **Promoting soil carbon sequestration by diversifying tree species** (2024)
    1 citations · Soil Carbon
 
-5. **High Tree Species Diversity Promotes Thermal Enhancement Response of Microbial Carbon Use Efficiency** (2026)
+6. **High Tree Species Diversity Promotes Thermal Enhancement Response of Microbial Carbon Use Efficiency** (2026)
    0 citations
 
-6. **Lithological controls on soil microbial resource limitation in subtropical forests of southwest China** (2026)
+7. **Lithological controls on soil microbial resource limitation in subtropical forests of southwest China** (2026)
    0 citations
+
+8. **[Research advances in soil microbial carbon use efficiency in response to climate change].** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

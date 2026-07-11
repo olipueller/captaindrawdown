@@ -1,7 +1,7 @@
 ---
 title: "Nadine Mengis"
 description: "Nadine Mengis is a Senior General CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 130 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.219633
+date: 2026-07-11T11:05:42.923223
 url: "/cdr-researcher-census/researchers/nadine-mengis-a5079879/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 22 |
 | Citations | 1,591 |
 | Publications | 130 |
-| CDR Focus | 26.2% |
-| Trajectory | Stable |
+| CDR Focus | 23.1% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

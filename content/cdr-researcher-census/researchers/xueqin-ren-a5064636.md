@@ -1,7 +1,7 @@
 ---
 title: "Xueqin Ren"
 description: "Xueqin Ren is a Senior Soil Carbon researcher at China Agricultural University in CN. With 130 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.050568
+date: 2026-07-11T11:05:42.835625
 url: "/cdr-researcher-census/researchers/xueqin-ren-a5064636/"
 layout: "researcher"
 hiddenInHomeList: true

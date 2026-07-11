@@ -1,7 +1,7 @@
 ---
 title: "Peipei Xue"
 description: "Peipei Xue is a Mid-career Soil Carbon researcher at The University of Sydney in AU. With 26 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.640250
+date: 2026-07-11T11:05:43.233533
 url: "/cdr-researcher-census/researchers/peipei-xue-a5087451/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 566 |
 | Publications | 26 |
-| CDR Focus | 11.5% |
+| CDR Focus | 7.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

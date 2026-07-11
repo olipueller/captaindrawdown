@@ -1,7 +1,7 @@
 ---
 title: "Ophélie Sauzet"
 description: "Ophélie Sauzet is a Mid-career Soil Carbon researcher at HES-SO University of Applied Sciences and Arts Western Switzerland in CH. With 34 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.244801
+date: 2026-07-11T11:05:43.642656
 url: "/cdr-researcher-census/researchers/ophelie-sauzet-a5028820/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Kristen Croft"
 description: "Kristen Croft is a Mid-career Biochar researcher at University of Maryland, College Park in US. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.460332
+date: 2026-07-11T11:05:43.791661
 url: "/cdr-researcher-census/researchers/kristen-croft-a5079390/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 6 |
 | Citations | 200 |
 | Publications | 7 |
-| CDR Focus | 28.6% |
-| Trajectory | Growing |
+| CDR Focus | 14.3% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

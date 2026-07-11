@@ -1,7 +1,7 @@
 ---
 title: "Chidananda Nagamangala Kanchiswamy"
 description: "Chidananda Nagamangala Kanchiswamy is a Senior Soil Carbon researcher at University of Turin in IT. With 20 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.117241
+date: 2026-07-11T11:05:42.866387
 url: "/cdr-researcher-census/researchers/chidananda-nagamangala-kanchiswamy-a5051218/"
 layout: "researcher"
 hiddenInHomeList: true

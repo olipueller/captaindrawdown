@@ -1,7 +1,7 @@
 ---
 title: "Qingqing Zhao"
 description: "Qingqing Zhao is a Mid-career Soil Carbon researcher at Chinese Academy of Agricultural Sciences in CN. With 37 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.262587
+date: 2026-07-11T11:05:42.950367
 url: "/cdr-researcher-census/researchers/qingqing-zhao-a5101732/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 16 |
 | Citations | 1,383 |
 | Publications | 37 |
-| CDR Focus | 5.4% |
-| Trajectory | Exiting |
+| CDR Focus | 10.8% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
@@ -55,6 +55,12 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 2. **Habitat‐specific responses of soil organic matter decomposition to <scp><i>Spartina alterniflora</i></scp> invasion along China's coast** (2022)
    5 citations · Soil Carbon
+
+3. **Removal of ammonia nitrogen and phosphate from livestock wastewater by magnesite tailings modified biochar: performance and mechanisms** (2025)
+   3 citations · Biochar
+
+4. **Remove of Ammonia Nitrogen and Phosphate from Livestock Wastewater by Magnesite Tailings Modified Biochar: Performance and Mechanisms** (2025)
+   0 citations · Biochar
 
 ## External Profiles
 

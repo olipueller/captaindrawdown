@@ -1,7 +1,7 @@
 ---
 title: "Giulia Faucher"
 description: "Giulia Faucher is a Mid-career Ocean CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 60 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.900936
+date: 2026-07-11T11:05:43.418102
 url: "/cdr-researcher-census/researchers/giulia-faucher-a5029772/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 11 |
 | Citations | 377 |
 | Publications | 60 |
-| CDR Focus | 28.3% |
-| Trajectory | Declining |
+| CDR Focus | 20.0% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
@@ -71,14 +71,14 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 7. **Supplementary material to "Ocean alkalinity enhancement approaches and the predictability of runaway precipitation processes – Results of an experimental study to determine critical alkalinity ranges for safe and sustainable application scenarios"** (2023)
    4 citations · Ocean CDR
 
-8. **Surface area and Ω-aragonite oversaturation as controls of the runaway precipitation process in ocean alkalinity enhancement** (2025)
+8. **Biological thresholds for marine carbon dioxide removal (mCDR): the effect of changes in carbonate chemistry** (2026)
+   2 citations · General CDR
+
+9. **Surface area and Ω-aragonite oversaturation as controls of the runaway precipitation process in ocean alkalinity enhancement** (2025)
    2 citations · Ocean CDR
 
-9. **Growth response of Emiliania huxleyi to ocean alkalinity enhancement** (2024)
+10. **Growth response of Emiliania huxleyi to ocean alkalinity enhancement** (2024)
    1 citations · Ocean CDR
-
-10. **A sequential gated research framework for addressing potential impacts of marine carbon dioxide removal on fisheries, aquaculture, and Indigenous communities** (2026)
-   0 citations · General CDR
 
 ## External Profiles
 

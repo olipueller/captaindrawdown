@@ -1,7 +1,7 @@
 ---
 title: "Lele Qiao"
 description: "Lele Qiao is a Mid-career Biochar researcher at Nankai University in CN. With 7 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.913491
+date: 2026-07-11T11:05:43.425939
 url: "/cdr-researcher-census/researchers/lele-qiao-a5100754/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Wenjie Tong"
 description: "Wenjie Tong is a Mid-career Soil Carbon researcher at Yunnan Academy of Agricultural Sciences in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.503847
+date: 2026-07-11T11:05:43.832221
 url: "/cdr-researcher-census/researchers/wenjie-tong-a5038285/"
 layout: "researcher"
 hiddenInHomeList: true

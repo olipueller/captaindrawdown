@@ -1,7 +1,7 @@
 ---
 title: "Priscila Aparecida Alves"
 description: "Priscila Aparecida Alves is a Mid-career Soil Carbon researcher at DeltaCO2 (Brazil) in BR. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.232164
+date: 2026-07-11T11:05:43.633864
 url: "/cdr-researcher-census/researchers/priscila-aparecida-alves-a5049146/"
 layout: "researcher"
 hiddenInHomeList: true

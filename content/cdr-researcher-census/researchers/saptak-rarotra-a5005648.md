@@ -1,7 +1,7 @@
 ---
 title: "Saptak Rarotra"
 description: "Saptak Rarotra is a Mid-career Ocean CDR researcher at Indian Institute of Technology Guwahati in IN. With 19 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.399861
+date: 2026-07-11T11:05:43.039414
 url: "/cdr-researcher-census/researchers/saptak-rarotra-a5005648/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Wanxuan Yao"
 description: "Wanxuan Yao is a Mid-career Ocean CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.866606
+date: 2026-07-11T11:05:44.225097
 url: "/cdr-researcher-census/researchers/wanxuan-yao-a5069543/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 7 |
 | Citations | 131 |
 | Publications | 21 |
-| CDR Focus | 38.1% |
+| CDR Focus | 42.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -65,13 +65,19 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 5. **Nearshore Macroalgae Cultivation for Carbon Sequestration by Biomass Harvesting: Evaluating Potential and Impacts with An Earth System Model** (2024)
    1 citations
 
-6. **Monitoring marine carbon dioxide removal: quantitative analysis of indicators for carbon removed and environmental side-effects** (2025)
+6. **The 10 Mt CO2 removal per year challenge for marine Carbon Dioxide Removal options for Germany-creating compariablility for the mCDR implementations** (2024)
    0 citations · General CDR
 
-7. **Exploring site-specific carbon dioxide removal options with storage or sequestration in the marine environment - The 10 Mt CO2 yr-1 removal challenge for Germany** (2024)
+7. **ASMASY -B (GEOMAR): Bewertungsrahmen für marine CO2-Entnahme und Synthese des aktuellen Wissenstandes, Vorhaben: Modellierungsbasierte Evaluierung, Bewertung und Transfer** (2025)
    0 citations · General CDR
 
-8. **Misconceptions of the marine biological carbon pump in a changing climate: Thinking outside the &amp;#8220;export&amp;#8221; box** (2024)
+8. **Monitoring marine carbon dioxide removal: quantitative analysis of indicators for carbon removed and environmental side-effects** (2025)
+   0 citations · General CDR
+
+9. **Exploring site-specific carbon dioxide removal options with storage or sequestration in the marine environment - The 10 Mt CO2 yr-1 removal challenge for Germany** (2024)
+   0 citations · General CDR
+
+10. **Misconceptions of the marine biological carbon pump in a changing climate: Thinking outside the &amp;#8220;export&amp;#8221; box** (2024)
    0 citations · Ocean CDR
 
 ## External Profiles

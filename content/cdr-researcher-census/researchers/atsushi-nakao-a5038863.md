@@ -1,7 +1,7 @@
 ---
 title: "Atsushi Nakao"
 description: "Atsushi Nakao is a Senior Soil Carbon researcher at Kyoto Prefectural University in JP. With 140 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.260892
+date: 2026-07-11T11:05:42.949270
 url: "/cdr-researcher-census/researchers/atsushi-nakao-a5038863/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -71,13 +71,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 7. **Enhanced CO2 removal and improved carbon budget by enhanced rock weathering: A field experiment in Hokkaido, Japan** (2024)
    1 citations
 
-8. **Enhanced Rock Weathering–Induced Carbon Dioxide Removal in Flooded Rice Paddies: Mineral-Based Monitoring from Field Experiments in Japan** (2026)
+8. **Direct evidence for enhanced mineral weathering in cropland verified by quantitative X-ray powder diffraction** (2026)
    0 citations · Enhanced Weathering
 
-9. **Soil physical properties and soil CO <sub>2</sub> dynamics at soybean field under basalt powder application** (2025)
+9. **Enhanced Rock Weathering–Induced Carbon Dioxide Removal in Flooded Rice Paddies: Mineral-Based Monitoring from Field Experiments in Japan** (2026)
    0 citations · Enhanced Weathering
 
-10. **Contribution of primary and secondary mineral phases to organo-mineral aggregation during crushed basalt weathering in the presence of fresh plant residue** (2025)
+10. **Soil physical properties and soil CO <sub>2</sub> dynamics at soybean field under basalt powder application** (2025)
    0 citations · Enhanced Weathering
 
 ## External Profiles

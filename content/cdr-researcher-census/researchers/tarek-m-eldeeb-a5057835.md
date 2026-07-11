@@ -1,7 +1,7 @@
 ---
 title: "Tarek M. Eldeeb"
 description: "Tarek M. Eldeeb is a Mid-career Biochar researcher at National Institute of Oceanography and Fisheries in EG. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.987764
+date: 2026-07-11T11:05:43.479432
 url: "/cdr-researcher-census/researchers/tarek-m-eldeeb-a5057835/"
 layout: "researcher"
 hiddenInHomeList: true

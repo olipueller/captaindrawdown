@@ -1,7 +1,7 @@
 ---
 title: "Yueshi Li"
 description: "Yueshi Li is an Early-career Soil Carbon researcher at Zhaoqing University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.975273
+date: 2026-07-11T11:05:44.308773
 url: "/cdr-researcher-census/researchers/yueshi-li-a5024987/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,13 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 119 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 28.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Unveiling carbon dynamics in year-round waterlogged pond fields: insights into soil organic carbon accumulation and sustainable management** (2025)
    10 citations · Soil Carbon
+
+2. **Enhanced carbon retention in Litchi biochar via in-situ limewater coating and self-limited oxygen pyrolysis regulated by water-fire interaction** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

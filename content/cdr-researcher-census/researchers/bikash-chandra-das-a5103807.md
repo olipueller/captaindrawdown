@@ -1,7 +1,7 @@
 ---
 title: "Bikash Chandra Das"
 description: "Bikash Chandra Das is a Mid-career Soil Carbon researcher at Assam Agricultural University in IN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.929665
+date: 2026-07-11T11:05:44.270515
 url: "/cdr-researcher-census/researchers/bikash-chandra-das-a5103807/"
 layout: "researcher"
 hiddenInHomeList: true

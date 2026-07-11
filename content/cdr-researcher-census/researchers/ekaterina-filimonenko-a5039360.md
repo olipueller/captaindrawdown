@@ -1,7 +1,7 @@
 ---
 title: "Ekaterina Filimonenko"
 description: "Ekaterina Filimonenko is a Mid-career Soil Carbon researcher at Institute of Physical-Chemical and Biological Problems in Soil Science in RU. With 67 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.430390
+date: 2026-07-11T11:05:43.059115
 url: "/cdr-researcher-census/researchers/ekaterina-filimonenko-a5039360/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 15 |
 | Citations | 872 |
 | Publications | 67 |
-| CDR Focus | 16.4% |
+| CDR Focus | 13.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

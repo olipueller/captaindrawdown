@@ -1,7 +1,7 @@
 ---
 title: "Marina Zhurba"
 description: "Marina Zhurba is a Senior Soil Carbon researcher at National University of Life and Environmental Sciences of Ukraine in UA. With 33 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.826009
+date: 2026-07-11T11:05:43.367178
 url: "/cdr-researcher-census/researchers/marina-zhurba-a5023395/"
 layout: "researcher"
 hiddenInHomeList: true

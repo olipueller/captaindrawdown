@@ -1,7 +1,7 @@
 ---
 title: "Sian Kou‐Giesbrecht"
 description: "Sian Kou‐Giesbrecht is a Mid-career Soil Carbon researcher at Simon Fraser University in CA. With 77 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.365459
+date: 2026-07-11T11:05:43.016869
 url: "/cdr-researcher-census/researchers/sian-kougiesbrecht-a5077389/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 16 |
 | Citations | 1,021 |
 | Publications | 77 |
-| CDR Focus | 11.7% |
-| Trajectory | Declining |
+| CDR Focus | 6.5% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

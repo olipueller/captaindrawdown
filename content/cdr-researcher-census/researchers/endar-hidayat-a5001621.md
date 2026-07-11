@@ -1,7 +1,7 @@
 ---
 title: "Endar Hidayat"
 description: "Endar Hidayat is a Mid-career Biochar researcher at National Institute for Materials Science in JP. With 50 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.000598
+date: 2026-07-11T11:05:43.487876
 url: "/cdr-researcher-census/researchers/endar-hidayat-a5001621/"
 layout: "researcher"
 hiddenInHomeList: true

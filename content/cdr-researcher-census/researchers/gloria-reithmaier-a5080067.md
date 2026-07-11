@@ -1,7 +1,7 @@
 ---
 title: "Gloria Reithmaier"
 description: "Gloria Reithmaier is a Mid-career Soil Carbon researcher at University of Gothenburg in SE. With 48 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.503230
+date: 2026-07-11T11:05:43.111275
 url: "/cdr-researcher-census/researchers/gloria-reithmaier-a5080067/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 742 |
 | Publications | 48 |
-| CDR Focus | 14.6% |
+| CDR Focus | 10.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -62,13 +62,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Carbon and mercury burial in mangrove soils across an anthropogenic gradient** (2025)
    3 citations · Soil Carbon
 
-5. **In-situ measurements reveal alkalinity release from cold-temperate seagrass meadows** (2025)
+5. **Tropicalization Enhances Mangrove Methane Emissions to the Atmosphere** (2026)
+   2 citations
+
+6. **In-situ measurements reveal alkalinity release from cold-temperate seagrass meadows** (2025)
    2 citations · General CDR
 
-6. **Blue carbon inventories of Spain and Portugal for their inclusion in national climate mitigation strategies** (2026)
+7. **Inorganic carbon exports from coastal wetlands can offset part of blue carbon systems’ CO2 removal** (2026)
    0 citations
 
-7. **Large porewater-derived carbon outwelling across two mangrove-seascapes revealed by radium isotopes** (2024)
+8. **Blue carbon inventories of Spain and Portugal for their inclusion in national climate mitigation strategies** (2026)
+   0 citations
+
+9. **Large porewater-derived carbon outwelling across two mangrove-seascapes revealed by radium isotopes** (2024)
    0 citations · Ocean CDR
 
 ## External Profiles

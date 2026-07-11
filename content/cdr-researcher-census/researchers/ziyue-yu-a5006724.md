@@ -1,7 +1,7 @@
 ---
 title: "Ziyue Yu"
 description: "Ziyue Yu is a Mid-career Soil Carbon researcher at University of Nottingham Ningbo China in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.655140
+date: 2026-07-11T11:05:44.064774
 url: "/cdr-researcher-census/researchers/ziyue-yu-a5006724/"
 layout: "researcher"
 hiddenInHomeList: true

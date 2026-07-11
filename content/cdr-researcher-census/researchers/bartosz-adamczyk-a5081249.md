@@ -1,7 +1,7 @@
 ---
 title: "Bartosz Adamczyk"
 description: "Bartosz Adamczyk is a Senior Soil Carbon researcher at Natural Resources Institute Finland in FI. With 130 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.095875
+date: 2026-07-11T11:05:42.857749
 url: "/cdr-researcher-census/researchers/bartosz-adamczyk-a5081249/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 28 |
 | Citations | 2,644 |
 | Publications | 130 |
-| CDR Focus | 7.7% |
+| CDR Focus | 5.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

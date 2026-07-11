@@ -1,7 +1,7 @@
 ---
 title: "Xuechao Zhao"
 description: "Xuechao Zhao is a Mid-career Soil Carbon researcher at Anhui Agricultural University in CN. With 81 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.371447
+date: 2026-07-11T11:05:43.021227
 url: "/cdr-researcher-census/researchers/xuechao-zhao-a5026649/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 16 |
 | Citations | 1,006 |
 | Publications | 81 |
-| CDR Focus | 9.9% |
-| Trajectory | Stable |
+| CDR Focus | 6.2% |
+| Trajectory | Declining |
 
 ## Top CDR Publications
 

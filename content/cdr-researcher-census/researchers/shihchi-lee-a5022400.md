@@ -1,7 +1,7 @@
 ---
 title: "Shih‐Chi Lee"
 description: "Shih‐Chi Lee is a Mid-career Biochar researcher at Industrial Technology Research Institute in TW. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.692969
+date: 2026-07-11T11:05:44.094095
 url: "/cdr-researcher-census/researchers/shihchi-lee-a5022400/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,10 +53,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 1. **Development of Meso- and Macro-Pore Carbonization Technology from Biochar in Treating the Stumps of Representative Trees in Taiwan** (2022)
    9 citations · Biochar
 
-2. **GHG Emissions and Carbon Sequestration in Coastal Bambusa edulis Shelterbelts with Biochar and Organic Fertilizer** (2025)
-   0 citations
+2. **Sustainable Bio-Ammonia Recovery from Livestock Wastewater via Biochar-Immobilized Microbial Ammonification** (2026)
+   0 citations · Biochar
 
 3. **GHG Emissions and Carbon Sequestration in Coastal Bambusa edulis Shelterbelts with Biochar and Organic Fertilizer** (2025)
+   0 citations
+
+4. **GHG Emissions and Carbon Sequestration in Coastal Bambusa edulis Shelterbelts with Biochar and Organic Fertilizer** (2025)
    0 citations · Biochar
 
 ## External Profiles

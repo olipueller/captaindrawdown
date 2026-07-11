@@ -1,7 +1,7 @@
 ---
 title: "Xiaofan Xing"
 description: "Xiaofan Xing is a Mid-career General CDR researcher at Hefei University of Technology in CN. With 22 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.192156
+date: 2026-07-11T11:05:42.907344
 url: "/cdr-researcher-census/researchers/xiaofan-xing-a5036107/"
 layout: "researcher"
 hiddenInHomeList: true

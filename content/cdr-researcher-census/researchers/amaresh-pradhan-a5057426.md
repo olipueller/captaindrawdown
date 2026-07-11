@@ -1,7 +1,7 @@
 ---
 title: "Amaresh Pradhan"
 description: "Amaresh Pradhan is a Mid-career Soil Carbon researcher at Indian Agricultural Research Institute in IN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.619558
+date: 2026-07-11T11:05:44.023444
 url: "/cdr-researcher-census/researchers/amaresh-pradhan-a5057426/"
 layout: "researcher"
 hiddenInHomeList: true

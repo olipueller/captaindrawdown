@@ -1,7 +1,7 @@
 ---
 title: "Penny Boorman"
 description: "Penny Boorman is a Mid-career General CDR researcher at World Energy Council in GB. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.719029
+date: 2026-07-11T11:05:44.114411
 url: "/cdr-researcher-census/researchers/penny-boorman-a5015627/"
 layout: "researcher"
 hiddenInHomeList: true

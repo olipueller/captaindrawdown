@@ -1,7 +1,7 @@
 ---
 title: "Huajie Diao"
 description: "Huajie Diao is a Mid-career Soil Carbon researcher at Shanxi Agricultural University in CN. With 35 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.082433
+date: 2026-07-11T11:05:43.544983
 url: "/cdr-researcher-census/researchers/huajie-diao-a5056396/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 300 |
 | Publications | 35 |
-| CDR Focus | 8.6% |
-| Trajectory | Growing |
+| CDR Focus | 5.7% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

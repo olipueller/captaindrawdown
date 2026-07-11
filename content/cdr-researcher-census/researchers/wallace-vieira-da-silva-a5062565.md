@@ -1,7 +1,7 @@
 ---
 title: "Wallace Vieira da Silva"
 description: "Wallace Vieira da Silva is a Mid-career Soil Carbon researcher at Instituto Português de Administração de Marketing in PT. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.521348
+date: 2026-07-11T11:05:43.878695
 url: "/cdr-researcher-census/researchers/wallace-vieira-da-silva-a5062565/"
 layout: "researcher"
 hiddenInHomeList: true

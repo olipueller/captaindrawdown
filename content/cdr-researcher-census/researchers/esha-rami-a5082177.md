@@ -1,7 +1,7 @@
 ---
 title: "Esha Rami"
 description: "Esha Rami is a Mid-career Biochar researcher at Parul University in IN. With 28 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.997237
+date: 2026-07-11T11:05:44.324472
 url: "/cdr-researcher-census/researchers/esha-rami-a5082177/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 6 |
 | Citations | 116 |
 | Publications | 28 |
-| CDR Focus | 7.1% |
+| CDR Focus | 10.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -54,6 +54,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    5 citations · Biochar
 
 2. **Bacopa monnieri biochar derived carbon nanospheres for pendimethalin remediation from water** (2026)
+   0 citations · Biochar
+
+3. **Development of novel biochar derived from <i>Bacopa monnieri</i> leaves for adsorptive removal of pendimethalin herbicide from binary and ternary pesticide mixture** (2026)
    0 citations · Biochar
 
 ## External Profiles

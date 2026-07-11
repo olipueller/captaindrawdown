@@ -1,7 +1,7 @@
 ---
 title: "Yongju Yang"
-description: "Yongju Yang is a Mid-career Soil Carbon researcher at Henan Polytechnic University in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.863414
+description: "Yongju Yang is a Mid-career General CDR researcher at Henan Polytechnic University in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:44.222428
 url: "/cdr-researcher-census/researchers/yongju-yang-a5102591/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Henan Polytechnic University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 132 |
 | Publications | 14 |
-| CDR Focus | 28.6% |
-| Trajectory | Stable |
+| CDR Focus | 21.4% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
@@ -53,10 +53,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 2. **How does urbanization impact the supply–demand relationship of agroecosystem services? Insights from farmland loss in the Huaihe River Basin, China** (2023)
    18 citations
 
-3. **Applying Bayesian network models to identify and optimize ecological security zoning—from the perspective of ecosystem service tradeoffs** (2025)
+3. **How to optimize ecological compensation to alleviate the ecosystem services supply and demand mismatch in the Luo River Basin?** (2025)
+   10 citations · General CDR
+
+4. **Drivers and dominant pathways for ecosystem service trade-offs in the Luo River Basin at the local optimal scale** (2026)
+   2 citations
+
+5. **Applying Bayesian network models to identify and optimize ecological security zoning—from the perspective of ecosystem service tradeoffs** (2025)
    1 citations
 
-4. **How to Optimize Ecological Compensation to Alleviate the Ecosystem Service Supply and Demand Mismatch in the Luo River Basin?** (2025)
+6. **How to Optimize Ecological Compensation to Alleviate the Ecosystem Service Supply and Demand Mismatch in the Luo River Basin?** (2025)
    0 citations · General CDR
 
 ## External Profiles

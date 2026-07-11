@@ -1,7 +1,7 @@
 ---
 title: "Tangyuan Ning"
 description: "Tangyuan Ning is a Senior Soil Carbon researcher at Shandong Agricultural University in CN. With 101 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.084852
+date: 2026-07-11T11:05:42.851934
 url: "/cdr-researcher-census/researchers/tangyuan-ning-a5026115/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 28 |
 | Citations | 2,817 |
 | Publications | 101 |
-| CDR Focus | 7.9% |
+| CDR Focus | 9.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -71,8 +71,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 7. **Long-term conservation tillage and straw return affect thermal stability of soil organic matter** (2025)
    6 citations · Soil Carbon
 
-8. **Returned straw type over soil temperature dominates microbial hotspot dynamics and SOC sequestration** (2026)
+8. **Comparative Assessment of Carbon Sequestration of Diverse Organic Waste for Sustainable Crop Production in China** (2022)
+   1 citations · Soil Carbon
+
+9. **Returned straw type over soil temperature dominates microbial hotspot dynamics and SOC sequestration** (2026)
    0 citations
+
+10. **Tillage and Straw Returning Modulate Aggregate Stability, Root Metabolism, and Soil Biotic Interactions for Ecosystem Productivity** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

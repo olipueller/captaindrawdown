@@ -1,7 +1,7 @@
 ---
 title: "Jaime Barros da Silva Filho"
 description: "Jaime Barros da Silva Filho is a Mid-career Soil Carbon researcher at Pacific Southwest Research Station in US. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.846189
+date: 2026-07-11T11:05:44.209953
 url: "/cdr-researcher-census/researchers/jaime-barros-da-silva-filho-a5077088/"
 layout: "researcher"
 hiddenInHomeList: true

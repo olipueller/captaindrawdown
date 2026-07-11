@@ -1,7 +1,7 @@
 ---
 title: "Aketi Ramesh"
 description: "Aketi Ramesh is a Senior Soil Carbon researcher at Indian Institute of Soybean Research in IN. With 70 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.191708
+date: 2026-07-11T11:05:42.907096
 url: "/cdr-researcher-census/researchers/aketi-ramesh-a5065612/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 16 |
 | Citations | 1,769 |
 | Publications | 70 |
-| CDR Focus | 8.6% |
+| CDR Focus | 7.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

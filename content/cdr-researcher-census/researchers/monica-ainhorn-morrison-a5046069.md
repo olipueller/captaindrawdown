@@ -1,7 +1,7 @@
 ---
 title: "Monica Ainhorn Morrison"
 description: "Monica Ainhorn Morrison is a Senior General CDR researcher at NSF National Center for Atmospheric Research in US. With 36 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.106336
+date: 2026-07-11T11:05:44.409320
 url: "/cdr-researcher-census/researchers/monica-ainhorn-morrison-a5046069/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 6 |
 | Citations | 106 |
 | Publications | 36 |
-| CDR Focus | 8.3% |
-| Trajectory | Stable |
+| CDR Focus | 5.6% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

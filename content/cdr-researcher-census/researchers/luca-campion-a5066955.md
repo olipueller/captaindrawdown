@@ -1,7 +1,7 @@
 ---
 title: "Luca Campion"
 description: "Luca Campion is a Mid-career General CDR researcher at Hasselt University in BE. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.661911
+date: 2026-07-11T11:05:43.247549
 url: "/cdr-researcher-census/researchers/luca-campion-a5066955/"
 layout: "researcher"
 hiddenInHomeList: true

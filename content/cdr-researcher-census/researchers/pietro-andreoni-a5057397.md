@@ -1,7 +1,7 @@
 ---
 title: "Pietro Andreoni"
 description: "Pietro Andreoni is a Mid-career DAC researcher. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.770248
+date: 2026-07-11T11:05:44.153391
 url: "/cdr-researcher-census/researchers/pietro-andreoni-a5057397/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 7 |
 | Citations | 145 |
 | Publications | 19 |
-| CDR Focus | 36.8% |
+| CDR Focus | 26.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

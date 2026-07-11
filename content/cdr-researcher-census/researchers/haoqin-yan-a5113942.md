@@ -1,7 +1,7 @@
 ---
 title: "Haoqin Yan"
 description: "Haoqin Yan is a Mid-career Biochar researcher at Hunan University in CN. With 11 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.817441
+date: 2026-07-11T11:05:43.360921
 url: "/cdr-researcher-census/researchers/haoqin-yan-a5113942/"
 layout: "researcher"
 hiddenInHomeList: true

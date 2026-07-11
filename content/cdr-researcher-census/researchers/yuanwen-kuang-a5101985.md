@@ -1,7 +1,7 @@
 ---
 title: "Yuanwen Kuang"
 description: "Yuanwen Kuang is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 103 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.026880
+date: 2026-07-11T11:05:42.825097
 url: "/cdr-researcher-census/researchers/yuanwen-kuang-a5101985/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -62,11 +62,17 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Depth-dependent effects of vegetation restoration on soil quality in ion-adsorbed rare earth leach residues: Insights from soil functions** (2025)
    1 citations · Soil Carbon
 
-5. **Nitrogen addition stimulates soil aggregation and enhances carbon storage in terrestrial ecosystems of China: A meta-analysis** (2021)
+5. **Global change reshapes glomalin‐mediated soil carbon sequestration by influencing plant inputs** (2026)
+   0 citations · Soil Carbon
+
+6. **Nitrogen addition stimulates soil aggregation and enhances carbon storage in terrestrial ecosystems of China: A meta-analysis** (2021)
    0 citations
 
-6. **Nitrogen−stimulated rhizosheath organic acid release enhances phytolith concentrations in leaves of dominant trees in a subtropical forest** (2024)
+7. **Nitrogen−stimulated rhizosheath organic acid release enhances phytolith concentrations in leaves of dominant trees in a subtropical forest** (2024)
    0 citations
+
+8. **Plant Diversity Mitigates the Effects of Urbanization on Soil Organic Carbon Stocks** (2023)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

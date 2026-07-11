@@ -1,7 +1,7 @@
 ---
 title: "Xintong Xu"
 description: "Xintong Xu is a Senior Soil Carbon researcher at Jiangxi Agricultural University in CN. With 48 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.455610
+date: 2026-07-11T11:05:43.077084
 url: "/cdr-researcher-census/researchers/xintong-xu-a5050124/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Tim Jesper Suhrhoff"
 description: "Tim Jesper Suhrhoff is a Mid-career General CDR researcher at Planetary Science Institute in US. With 57 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.426983
+date: 2026-07-11T11:05:43.056951
 url: "/cdr-researcher-census/researchers/tim-jesper-suhrhoff-a5081686/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 11 |
 | Citations | 879 |
 | Publications | 57 |
-| CDR Focus | 56.1% |
+| CDR Focus | 35.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

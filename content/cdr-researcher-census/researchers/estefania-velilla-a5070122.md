@@ -1,7 +1,7 @@
 ---
 title: "Estefania Velilla"
 description: "Estefania Velilla is a Mid-career Soil Carbon researcher at Wageningen University & Research in NL. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.747074
+date: 2026-07-11T11:05:44.135692
 url: "/cdr-researcher-census/researchers/estefania-velilla-a5070122/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 149 |
 | Publications | 18 |
-| CDR Focus | 16.7% |
-| Trajectory | Stable |
+| CDR Focus | 5.6% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

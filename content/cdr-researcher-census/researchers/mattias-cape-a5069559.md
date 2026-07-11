@@ -1,7 +1,7 @@
 ---
 title: "Mattias Cape"
 description: "Mattias Cape is a Mid-career Ocean CDR researcher at Environmental Defense Fund in US. With 52 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.364241
+date: 2026-07-11T11:05:43.015995
 url: "/cdr-researcher-census/researchers/mattias-cape-a5069559/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 17 |
 | Citations | 1,025 |
 | Publications | 52 |
-| CDR Focus | 7.7% |
+| CDR Focus | 5.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

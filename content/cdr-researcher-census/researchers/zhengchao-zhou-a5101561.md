@@ -1,7 +1,7 @@
 ---
 title: "Zhengchao Zhou"
 description: "Zhengchao Zhou is a Senior Soil Carbon researcher at Shaanxi Normal University in CN. With 85 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.196581
+date: 2026-07-11T11:05:42.910409
 url: "/cdr-researcher-census/researchers/zhengchao-zhou-a5101561/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 22 |
 | Citations | 1,733 |
 | Publications | 85 |
-| CDR Focus | 8.2% |
+| CDR Focus | 5.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

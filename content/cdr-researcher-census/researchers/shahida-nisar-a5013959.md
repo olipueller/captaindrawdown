@@ -1,7 +1,7 @@
 ---
 title: "Shahida Nisar"
 description: "Shahida Nisar is a Mid-career Soil Carbon researcher at Punjab Agricultural University in IN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.943440
+date: 2026-07-11T11:05:43.446983
 url: "/cdr-researcher-census/researchers/shahida-nisar-a5013959/"
 layout: "researcher"
 hiddenInHomeList: true

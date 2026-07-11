@@ -1,7 +1,7 @@
 ---
 title: "Giulia Ravenni"
 description: "Giulia Ravenni is a Mid-career Biochar researcher at Technical University of Denmark in DK. With 43 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.567156
+date: 2026-07-11T11:05:43.159510
 url: "/cdr-researcher-census/researchers/giulia-ravenni-a5040211/"
 layout: "researcher"
 hiddenInHomeList: true

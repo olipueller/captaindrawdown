@@ -1,7 +1,7 @@
 ---
 title: "Xiaojun Liang"
 description: "Xiaojun Liang is a Mid-career Soil Carbon researcher at Ningxia Academy of Agriculture and Forestry Sciences in CN. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.345582
+date: 2026-07-11T11:05:43.711577
 url: "/cdr-researcher-census/researchers/xiaojun-liang-a5101689/"
 layout: "researcher"
 hiddenInHomeList: true

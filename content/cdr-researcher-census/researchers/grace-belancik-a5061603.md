@@ -1,7 +1,7 @@
 ---
 title: "Grace Belancik"
 description: "Grace Belancik is a Mid-career General CDR researcher at Ames Research Center in US. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.115446
+date: 2026-07-11T11:05:44.415129
 url: "/cdr-researcher-census/researchers/grace-belancik-a5061603/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 4 |
 | Citations | 105 |
 | Publications | 18 |
-| CDR Focus | 16.7% |
+| CDR Focus | 5.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

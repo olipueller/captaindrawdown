@@ -1,7 +1,7 @@
 ---
 title: "Yinfeng Hua"
 description: "Yinfeng Hua is a Mid-career Biochar researcher at Shanghai Pudong Institute of Education Development in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.527420
+date: 2026-07-11T11:05:43.886282
 url: "/cdr-researcher-census/researchers/yinfeng-hua-a5072741/"
 layout: "researcher"
 hiddenInHomeList: true

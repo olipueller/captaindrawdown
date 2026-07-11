@@ -1,7 +1,7 @@
 ---
 title: "Samuel R. McNally"
 description: "Samuel R. McNally is a Senior Soil Carbon researcher at Manaaki Whenua – Landcare Research in NZ. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.228115
+date: 2026-07-11T11:05:43.631378
 url: "/cdr-researcher-census/researchers/samuel-r-mcnally-a5108424/"
 layout: "researcher"
 hiddenInHomeList: true

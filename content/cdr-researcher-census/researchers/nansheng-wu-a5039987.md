@@ -1,7 +1,7 @@
 ---
 title: "Nansheng Wu"
 description: "Nansheng Wu is a Senior Soil Carbon researcher at Jiangxi Agricultural University in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.304393
+date: 2026-07-11T11:05:43.682845
 url: "/cdr-researcher-census/researchers/nansheng-wu-a5039987/"
 layout: "researcher"
 hiddenInHomeList: true

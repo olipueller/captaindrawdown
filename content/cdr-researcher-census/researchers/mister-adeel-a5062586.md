@@ -1,7 +1,7 @@
 ---
 title: "Mister Adeel"
 description: "Mister Adeel is a Mid-career Biochar researcher at University of Salerno in IT. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.348833
+date: 2026-07-11T11:05:43.713891
 url: "/cdr-researcher-census/researchers/mister-adeel-a5062586/"
 layout: "researcher"
 hiddenInHomeList: true

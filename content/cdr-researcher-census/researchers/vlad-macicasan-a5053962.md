@@ -1,7 +1,7 @@
 ---
 title: "Vlad Măcicășan"
 description: "Vlad Măcicășan is a Mid-career Soil Carbon researcher at Babeș-Bolyai University in RO. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.966356
+date: 2026-07-11T11:05:43.463006
 url: "/cdr-researcher-census/researchers/vlad-macicasan-a5053962/"
 layout: "researcher"
 hiddenInHomeList: true

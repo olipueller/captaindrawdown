@@ -1,7 +1,7 @@
 ---
 title: "Xinshuai Li"
 description: "Xinshuai Li is a Mid-career Soil Carbon researcher at South China Agricultural University in CN. With 31 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.479255
+date: 2026-07-11T11:05:43.093434
 url: "/cdr-researcher-census/researchers/xinshuai-li-a5044201/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,10 +50,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Afforestation alters functions of soil and microbiome but does not drive soil carbon accumulation in two decades** (2022)
+1. **A New Technique of Grouting to Prevent Water–Sand Mixture Inrush inside the Mine Panel—A Case Study** (2024)
+   5 citations
+
+2. **Afforestation alters functions of soil and microbiome but does not drive soil carbon accumulation in two decades** (2022)
    1 citations · Soil Carbon
 
-2. **Seeding pioneer trees to restore lands with varying degrees of degradation: biomass accumulation and carbon fixation** (2025)
+3. **Seeding pioneer trees to restore lands with varying degrees of degradation: biomass accumulation and carbon fixation** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

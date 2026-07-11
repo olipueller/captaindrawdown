@@ -1,7 +1,7 @@
 ---
 title: "Anna Grobelak"
 description: "Anna Grobelak is a Senior Soil Carbon researcher at Czestochowa University of Technology in PL. With 133 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.018340
+date: 2026-07-11T11:05:42.822151
 url: "/cdr-researcher-census/researchers/anna-grobelak-a5025511/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 31 |
 | Citations | 4,018 |
 | Publications | 133 |
-| CDR Focus | 7.5% |
-| Trajectory | Growing |
+| CDR Focus | 6.8% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

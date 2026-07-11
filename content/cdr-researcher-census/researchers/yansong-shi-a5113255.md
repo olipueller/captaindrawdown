@@ -1,7 +1,7 @@
 ---
 title: "Yansong Shi"
 description: "Yansong Shi is a Mid-career Biochar researcher at Nanjing Agricultural University in CN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.375731
+date: 2026-07-11T11:05:43.733330
 url: "/cdr-researcher-census/researchers/yansong-shi-a5113255/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 5 |
 | Citations | 220 |
 | Publications | 17 |
-| CDR Focus | 11.8% |
+| CDR Focus | 5.9% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

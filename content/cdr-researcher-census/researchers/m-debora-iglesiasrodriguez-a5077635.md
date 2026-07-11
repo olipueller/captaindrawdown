@@ -1,7 +1,7 @@
 ---
 title: "M. Débora Iglesias‐Rodríguez"
 description: "M. Débora Iglesias‐Rodríguez is a Senior Ocean CDR researcher at University of California Santa Barbara in US. With 28 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.277405
+date: 2026-07-11T11:05:42.959985
 url: "/cdr-researcher-census/researchers/m-debora-iglesiasrodriguez-a5077635/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 15 |
 | Citations | 1,324 |
 | Publications | 28 |
-| CDR Focus | 10.7% |
+| CDR Focus | 7.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

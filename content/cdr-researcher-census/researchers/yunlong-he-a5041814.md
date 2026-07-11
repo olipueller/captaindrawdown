@@ -1,7 +1,7 @@
 ---
 title: "Yunlong He"
 description: "Yunlong He is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.924123
+date: 2026-07-11T11:05:44.267350
 url: "/cdr-researcher-census/researchers/yunlong-he-a5041814/"
 layout: "researcher"
 hiddenInHomeList: true

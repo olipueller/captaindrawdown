@@ -1,7 +1,7 @@
 ---
 title: "Marzia Traverso"
 description: "Marzia Traverso is a Mid-career General CDR researcher at RWTH Aachen University in DE. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.495266
+date: 2026-07-11T11:05:43.820550
 url: "/cdr-researcher-census/researchers/marzia-traverso-a5042653/"
 layout: "researcher"
 hiddenInHomeList: true

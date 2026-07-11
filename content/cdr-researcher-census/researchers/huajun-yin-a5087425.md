@@ -1,7 +1,7 @@
 ---
 title: "Huajun Yin"
 description: "Huajun Yin is a Senior Soil Carbon researcher at ???????????? in CN. With 123 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.040738
+date: 2026-07-11T11:05:42.831171
 url: "/cdr-researcher-census/researchers/huajun-yin-a5087425/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 33 |
 | Citations | 3,536 |
 | Publications | 123 |
-| CDR Focus | 7.3% |
+| CDR Focus | 8.1% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -71,11 +71,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 7. **Nitrogen addition enhances stable soil carbon accumulation during ectomycorrhizal hyphae decomposition** (2024)
    5 citations · Soil Carbon
 
-8. **Conservative roots confer a larger microbial carbon pump efficacy than acquisitive roots by regulating microbial life‐history strategy** (2026)
-   0 citations
+8. **The rhizosphere exhibits higher microbial carbon use efficiency compared to bulk soil** (2026)
+   2 citations · Soil Carbon
 
-9. **Microbial-derived carbon is a major contributor to rhizosphere soil organic carbon accumulation in alpine coniferous forests** (2024)
-   0 citations · Soil Carbon
+9. **Microbial necromass carbon accumulation is associated with soil microbial life history strategies and multitrophic network complexity under nitrogen addition in alpine forests** (2026)
+   1 citations
+
+10. **Conservative roots confer a larger microbial carbon pump efficacy than acquisitive roots by regulating microbial life‐history strategy** (2026)
+   0 citations
 
 ## External Profiles
 

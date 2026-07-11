@@ -1,7 +1,7 @@
 ---
 title: "Junyao Yan"
 description: "Junyao Yan is a Mid-career General CDR researcher at Chinese Academy of Sciences in CN. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.308259
+date: 2026-07-11T11:05:43.685337
 url: "/cdr-researcher-census/researchers/junyao-yan-a5021319/"
 layout: "researcher"
 hiddenInHomeList: true

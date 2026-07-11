@@ -1,7 +1,7 @@
 ---
 title: "Anca Maria Zaharioiu"
 description: "Anca Maria Zaharioiu is a Mid-career Biochar researcher at National Institute for Research and Development of Isotopic and Molecular Technologies in RO. With 28 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.497604
+date: 2026-07-11T11:05:43.823065
 url: "/cdr-researcher-census/researchers/anca-maria-zaharioiu-a5039786/"
 layout: "researcher"
 hiddenInHomeList: true

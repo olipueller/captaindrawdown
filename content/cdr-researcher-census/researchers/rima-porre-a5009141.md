@@ -1,7 +1,7 @@
 ---
 title: "Rima Porre"
 description: "Rima Porre is a Mid-career Soil Carbon researcher at Wageningen University & Research in NL. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.309128
+date: 2026-07-11T11:05:43.685840
 url: "/cdr-researcher-census/researchers/rima-porre-a5009141/"
 layout: "researcher"
 hiddenInHomeList: true

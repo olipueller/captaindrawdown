@@ -1,7 +1,7 @@
 ---
 title: "Jun Wang"
 description: "Jun Wang is a Senior Soil Carbon researcher at South China Botanical Garden, CAS in CN. With 159 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.041709
+date: 2026-07-11T11:05:42.831700
 url: "/cdr-researcher-census/researchers/jun-wang-a5003406/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 35 |
 | Citations | 3,522 |
 | Publications | 159 |
-| CDR Focus | 5.7% |
+| CDR Focus | 5.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

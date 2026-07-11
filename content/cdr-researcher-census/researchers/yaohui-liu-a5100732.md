@@ -1,7 +1,7 @@
 ---
 title: "Yaohui Liu"
 description: "Yaohui Liu is a Senior Soil Carbon researcher at State Forestry and Grassland Administration in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.806996
+date: 2026-07-11T11:05:44.180014
 url: "/cdr-researcher-census/researchers/yaohui-liu-a5100732/"
 layout: "researcher"
 hiddenInHomeList: true

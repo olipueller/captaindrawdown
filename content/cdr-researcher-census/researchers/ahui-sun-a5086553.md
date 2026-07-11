@@ -1,7 +1,7 @@
 ---
 title: "Ahui Sun"
 description: "Ahui Sun is a Senior Biochar researcher at Hainan Normal University in CN. With 26 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.871542
+date: 2026-07-11T11:05:43.398981
 url: "/cdr-researcher-census/researchers/ahui-sun-a5086553/"
 layout: "researcher"
 hiddenInHomeList: true

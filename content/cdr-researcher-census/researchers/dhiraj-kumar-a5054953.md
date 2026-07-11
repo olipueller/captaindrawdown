@@ -1,7 +1,7 @@
 ---
 title: "Dhiraj Kumar"
 description: "Dhiraj Kumar is a Senior Soil Carbon researcher at Indian Institute of Soil Science in IN. With 30 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.978832
+date: 2026-07-11T11:05:43.472184
 url: "/cdr-researcher-census/researchers/dhiraj-kumar-a5054953/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 342 |
 | Publications | 30 |
-| CDR Focus | 10.0% |
+| CDR Focus | 13.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -58,6 +58,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 3. **Soil Carbon and Nutrient Cycling Regulated by Fine Roots Distribution and Dynamics in Teak (Tectona grandis L.)-Based Agroforestry System in Semi-Arid Central India** (2025)
    2 citations · Soil Carbon
+
+4. **Long-Term Effect of Organic Agriculture on Carbon Stability in Clay-Organic Complex and its Role in Soil Aggregation** (2021)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

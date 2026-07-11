@@ -1,7 +1,7 @@
 ---
 title: "Liang Chen"
 description: "Liang Chen is a Mid-career Soil Carbon researcher at Central South University of Forestry and Technology in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.130644
+date: 2026-07-11T11:05:43.560526
 url: "/cdr-researcher-census/researchers/liang-chen-a5115883/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -56,7 +56,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 2. **Long-term field observations of the impacts of drought and stand development on runoff in a forested watershed** (2025)
    3 citations
 
-3. **Unraveling the Divergent Contributions of Plant‐ and Microbial‐Derived Carbon to Soil Organic Carbon During Subtropical Vegetation Restoration** (2025)
+3. **Tree species diversity promotes soil microbial carbon fixation gene abundance via nutrient-mediated interactions in subtropical forests** (2026)
+   1 citations · Soil Carbon
+
+4. **Unraveling the Divergent Contributions of Plant‐ and Microbial‐Derived Carbon to Soil Organic Carbon During Subtropical Vegetation Restoration** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

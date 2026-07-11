@@ -1,7 +1,7 @@
 ---
 title: "Kangbo Zhao"
 description: "Kangbo Zhao is a Mid-career Biochar researcher at Shenyang Aerospace University in CN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.572962
+date: 2026-07-11T11:05:43.933715
 url: "/cdr-researcher-census/researchers/kangbo-zhao-a5111117/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 6 |
 | Citations | 178 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 5.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

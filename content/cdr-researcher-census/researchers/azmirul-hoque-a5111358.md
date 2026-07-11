@@ -1,7 +1,7 @@
 ---
 title: "Azmirul Hoque"
 description: "Azmirul Hoque is a Mid-career Soil Carbon researcher at Assam University in IN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.367638
+date: 2026-07-11T11:05:43.726426
 url: "/cdr-researcher-census/researchers/azmirul-hoque-a5111358/"
 layout: "researcher"
 hiddenInHomeList: true

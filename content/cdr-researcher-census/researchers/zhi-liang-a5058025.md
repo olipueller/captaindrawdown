@@ -1,7 +1,7 @@
 ---
 title: "Zhi Liang"
 description: "Zhi Liang is a Senior Soil Carbon researcher at Aarhus University in DK. With 99 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.264699
+date: 2026-07-11T11:05:42.952398
 url: "/cdr-researcher-census/researchers/zhi-liang-a5058025/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 20 |
 | Citations | 1,374 |
 | Publications | 99 |
-| CDR Focus | 9.1% |
+| CDR Focus | 10.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -62,19 +62,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Ten-year effects of perennial cropping systems on soil organic carbon stock and stability in sandy soils: Mechanisms and biochemical drivers** (2025)
    5 citations · Soil Carbon
 
-5. **Stocks and changes in organic carbon in Danish agricultural soils &amp;#8211; role of bulk density and stone fractions** (2021)
+5. **Microbial and plant-derived carbon contributions to particulate and mineral-associated organic carbon in perennial and annual cropping systems** (2026)
+   3 citations · Soil Carbon
+
+6. **Nitrogen sustainability and soil carbon sequestration in fresh grain legume-based rotations: The vital role of the cover crop mixture** (2026)
    1 citations · Soil Carbon
 
-6. **Efficiency of plant biomass processing pathways for long-term soil carbon storage** (2025)
+7. **Stocks and changes in organic carbon in Danish agricultural soils &amp;#8211; role of bulk density and stone fractions** (2021)
+   1 citations · Soil Carbon
+
+8. **Inconsistent methods compromise estimates of soil organic carbon stock changes following conversion from annual to perennial cropping systems: A meta-analysis** (2026)
+   0 citations · Soil Carbon
+
+9. **Efficiency of plant biomass processing pathways for long-term soil carbon storage** (2025)
    0 citations
 
-7. **Fresh grain legume systems with catch crops: promising soil C inputs and enhanced N fertility** (2025)
-   0 citations · Soil Carbon
-
-8. **Enhancing plant-derived carbon is key to building stabilized soil organic carbon with perennial crops** (2025)
-   0 citations · Soil Carbon
-
-9. **Priming effects decrease with quantity of cover crop residues – implications for net soil carbon sequestration** (2023)
+10. **Fresh grain legume systems with catch crops: promising soil C inputs and enhanced N fertility** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

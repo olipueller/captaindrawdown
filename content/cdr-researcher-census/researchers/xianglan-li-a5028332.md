@@ -1,7 +1,7 @@
 ---
 title: "Xianglan Li"
-description: "Xianglan Li is a Mid-career General CDR researcher at Nanjing Agricultural University in CN. With 51 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.238600
+description: "Xianglan Li is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 51 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:42.935047
 url: "/cdr-researcher-census/researchers/xianglan-li-a5028332/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Nanjing Agricultural University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**General CDR**
+**Soil Carbon**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
@@ -58,6 +58,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 3. **Net Carbon Uptake During the Wet Seasons Dominates Ecosystem Production in the Northernmost Mangroves in Southern China** (2025)
    2 citations · General CDR
+
+4. **Vegetation-hydrology coupling drives spatiotemporal dynamics of soil organic carbon sequestration in the northernmost restored mangrove areas in southern China** (2025)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

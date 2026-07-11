@@ -1,7 +1,7 @@
 ---
 title: "Xinyu Xu"
 description: "Xinyu Xu is a Mid-career Soil Carbon researcher at Tokyo University of Technology in JP. With 37 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.535901
+date: 2026-07-11T11:05:43.137516
 url: "/cdr-researcher-census/researchers/xinyu-xu-a5056151/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 690 |
 | Publications | 37 |
-| CDR Focus | 18.9% |
-| Trajectory | Declining |
+| CDR Focus | 8.1% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

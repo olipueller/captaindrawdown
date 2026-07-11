@@ -1,7 +1,7 @@
 ---
 title: "Adam Berger"
 description: "Adam Berger is a Senior General CDR researcher at Electric Power Research Institute in US. With 26 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.302582
+date: 2026-07-11T11:05:42.976197
 url: "/cdr-researcher-census/researchers/adam-berger-a5075418/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,14 +46,17 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Citations | 1,224 |
 | Publications | 26 |
 | CDR Focus | 7.7% |
-| Trajectory | Stable |
+| Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **A Bench-Scale Demonstration of Direct Air Capture Using an Enhanced Electrochemical System** (2025)
    1 citations
 
-2. **Spatiotemporal Adaptive Passive Direct Air Capture** (2024)
+2. **Overcoming Barriers to Deploying Direct Air Capture: Conclusions from a Workshop with Leaders in the Field** (2022)
+   1 citations · DAC
+
+3. **Spatiotemporal Adaptive Passive Direct Air Capture** (2024)
    0 citations · DAC
 
 ## External Profiles

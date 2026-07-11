@@ -1,7 +1,7 @@
 ---
 title: "Martin Káš"
 description: "Martin Káš is a Senior Soil Carbon researcher at Czech Agrifood Research Center in CZ. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.033237
+date: 2026-07-11T11:05:44.370189
 url: "/cdr-researcher-census/researchers/martin-kas-a5103385/"
 layout: "researcher"
 hiddenInHomeList: true

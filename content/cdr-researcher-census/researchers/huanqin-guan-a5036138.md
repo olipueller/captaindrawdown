@@ -1,7 +1,7 @@
 ---
 title: "Huanqin Guan"
 description: "Huanqin Guan is a Mid-career General CDR researcher at Brown University in US. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.755319
+date: 2026-07-11T11:05:43.315651
 url: "/cdr-researcher-census/researchers/huanqin-guan-a5036138/"
 layout: "researcher"
 hiddenInHomeList: true

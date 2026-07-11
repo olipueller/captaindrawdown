@@ -1,7 +1,7 @@
 ---
 title: "Danish Khan"
 description: "Danish Khan is a Mid-career Soil Carbon researcher at Indian Institute of Science Bangalore in IN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.589751
+date: 2026-07-11T11:05:43.184987
 url: "/cdr-researcher-census/researchers/danish-khan-a5102985/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shijian Jin"
 description: "Shijian Jin is a Mid-career Ocean CDR researcher at Google LLC in US. With 35 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.173812
+date: 2026-07-11T11:05:42.896933
 url: "/cdr-researcher-census/researchers/shijian-jin-a5052224/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 15 |
 | Citations | 1,901 |
 | Publications | 35 |
-| CDR Focus | 14.3% |
-| Trajectory | Stable |
+| CDR Focus | 5.7% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

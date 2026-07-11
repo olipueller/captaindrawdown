@@ -1,7 +1,7 @@
 ---
 title: "Aliya Banu"
 description: "Aliya Banu is a Mid-career General CDR researcher at Hamad bin Khalifa University in QA. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.193393
+date: 2026-07-11T11:05:43.606584
 url: "/cdr-researcher-census/researchers/aliya-banu-a5032214/"
 layout: "researcher"
 hiddenInHomeList: true

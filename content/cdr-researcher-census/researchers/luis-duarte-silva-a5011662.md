@@ -1,7 +1,7 @@
 ---
 title: "Luís Duarte Silva"
 description: "Luís Duarte Silva is a Mid-career Soil Carbon researcher at Clínica do Dragão - Espregueira-Mendes Sports Centre, FIFA Medical Centre of Excellence in PT. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.388848
+date: 2026-07-11T11:05:43.032139
 url: "/cdr-researcher-census/researchers/luis-duarte-silva-a5011662/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Akiko Hirata"
 description: "Akiko Hirata is a Senior General CDR researcher at Forest Research in GB. With 37 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.272348
+date: 2026-07-11T11:05:42.957130
 url: "/cdr-researcher-census/researchers/akiko-hirata-a5102796/"
 layout: "researcher"
 hiddenInHomeList: true

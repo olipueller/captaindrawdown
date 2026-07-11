@@ -1,7 +1,7 @@
 ---
 title: "Sarah Lück"
 description: "Sarah Lück is a Mid-career General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 29 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.648441
+date: 2026-07-11T11:05:43.238062
 url: "/cdr-researcher-census/researchers/sarah-luck-a5041797/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -56,26 +56,26 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 2. **A taxonomy to map evidence on the co-benefits, challenges, and limits of carbon dioxide removal** (2024)
    37 citations · General CDR
 
-3. **Scientific literature on carbon dioxide removal revealed as much larger through AI-enhanced systematic mapping** (2025)
+3. **An ecosystem of carbon dioxide removal reviews – part 1: direct air CO <sub>2</sub> capture and storage** (2025)
+   32 citations · General CDR
+
+4. **Scientific literature on carbon dioxide removal revealed as much larger through AI-enhanced systematic mapping** (2025)
    13 citations · General CDR
 
-4. **Scientific literature on carbon dioxide removal much larger than previously suggested: insights from an AI-enhanced systematic map** (2024)
+5. **Scientific literature on carbon dioxide removal much larger than previously suggested: insights from an AI-enhanced systematic map** (2024)
    7 citations · General CDR
 
-5. **Governance of carbon dioxide removal: an AI-enhanced systematic map of the scientific literature** (2024)
+6. **Governance of carbon dioxide removal: an AI-enhanced systematic map of the scientific literature** (2024)
    3 citations · General CDR
 
-6. **A new taxonomy to map evidence on carbon dioxide removal side effects** (2023)
+7. **A new taxonomy to map evidence on carbon dioxide removal side effects** (2023)
    3 citations · General CDR
 
-7. **Towards carbon-neutral cities: an assessment of urban CO2 removal and albedo management** (2023)
+8. **Towards carbon-neutral cities: an assessment of urban CO2 removal and albedo management** (2023)
    3 citations · General CDR
 
-8. **Author response for "An ecosystem of carbon dioxide removal reviews – part 2: CO2 removal via Blue Carbon Ecosystems"** (2026)
-   0 citations · General CDR
-
-9. **An ecosystem of carbon dioxide removal reviews – part 2: CO <sub>2</sub> removal <i>via</i> blue carbon ecosystems** (2026)
-   0 citations · General CDR
+9. **A Coding Protocol for Labeling Scientific Literature on Carbon Dioxide Removal to Train Machine Learning Models v1** (2025)
+   1 citations · General CDR
 
 10. **Author response for "An ecosystem of carbon dioxide removal reviews – part 2: CO2 removal via Blue Carbon Ecosystems"** (2026)
    0 citations · General CDR

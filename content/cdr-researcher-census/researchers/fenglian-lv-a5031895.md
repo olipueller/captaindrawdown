@@ -1,7 +1,7 @@
 ---
 title: "Fenglian Lv"
 description: "Fenglian Lv is a Mid-career Soil Carbon researcher at Changzhi University in CN. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.506311
+date: 2026-07-11T11:05:43.113499
 url: "/cdr-researcher-census/researchers/fenglian-lv-a5031895/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 735 |
 | Publications | 18 |
-| CDR Focus | 11.1% |
+| CDR Focus | 5.6% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

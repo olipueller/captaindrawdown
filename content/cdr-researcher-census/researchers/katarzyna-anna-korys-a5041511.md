@@ -1,7 +1,7 @@
 ---
 title: "Katarzyna Anna Koryś"
 description: "Katarzyna Anna Koryś is a Mid-career Biochar researcher at Instituto de Pesquisas Jardim Botânico do Rio de Janeiro in BR. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.854498
+date: 2026-07-11T11:05:43.386552
 url: "/cdr-researcher-census/researchers/katarzyna-anna-korys-a5041511/"
 layout: "researcher"
 hiddenInHomeList: true

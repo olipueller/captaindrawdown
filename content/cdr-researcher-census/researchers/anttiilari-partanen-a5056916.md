@@ -1,7 +1,7 @@
 ---
 title: "Antti‐Ilari Partanen"
 description: "Antti‐Ilari Partanen is a Senior General CDR researcher at Finnish Meteorological Institute in FI. With 115 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.227059
+date: 2026-07-11T11:05:42.928697
 url: "/cdr-researcher-census/researchers/anttiilari-partanen-a5056916/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 22 |
 | Citations | 1,549 |
 | Publications | 115 |
-| CDR Focus | 13.0% |
+| CDR Focus | 9.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

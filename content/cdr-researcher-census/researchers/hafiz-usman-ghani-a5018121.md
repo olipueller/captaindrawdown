@@ -1,7 +1,7 @@
 ---
 title: "Hafiz Usman Ghani"
 description: "Hafiz Usman Ghani is a Mid-career General CDR researcher at Natural Resources Institute Finland in FI. With 34 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.991312
+date: 2026-07-11T11:05:43.482275
 url: "/cdr-researcher-census/researchers/hafiz-usman-ghani-a5018121/"
 layout: "researcher"
 hiddenInHomeList: true

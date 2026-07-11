@@ -1,7 +1,7 @@
 ---
 title: "Jenaina Ribeiro‐Soares"
 description: "Jenaina Ribeiro‐Soares is a Senior Biochar researcher at Universidade Federal de Lavras in BR. With 55 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.213352
+date: 2026-07-11T11:05:42.919473
 url: "/cdr-researcher-census/researchers/jenaina-ribeirosoares-a5044281/"
 layout: "researcher"
 hiddenInHomeList: true

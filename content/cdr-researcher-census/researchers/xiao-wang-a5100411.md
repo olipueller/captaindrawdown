@@ -1,7 +1,7 @@
 ---
 title: "Xiao Wang"
 description: "Xiao Wang is a Mid-career Soil Carbon researcher at Henan University of Technology in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.718971
+date: 2026-07-11T11:05:43.288312
 url: "/cdr-researcher-census/researchers/xiao-wang-a5100411/"
 layout: "researcher"
 hiddenInHomeList: true

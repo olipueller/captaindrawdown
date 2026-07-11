@@ -1,7 +1,7 @@
 ---
 title: "Guolin Xiong"
 description: "Guolin Xiong is a Mid-career Enhanced Weathering researcher at Nanjing University in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.006960
+date: 2026-07-11T11:05:44.331333
 url: "/cdr-researcher-census/researchers/guolin-xiong-a5080906/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,12 +45,15 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 6 |
 | Citations | 115 |
 | Publications | 11 |
-| CDR Focus | 9.1% |
-| Trajectory | Growing |
+| CDR Focus | 18.2% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
-1. **Changes in continental weathering regimes inhibited global marine deoxygenation during the Paleocene-Eocene thermal maximum** (2025)
+1. **Continental weathering led to the accumulation of Early Carboniferous bauxite deposits in the SW South China Craton** (2023)
+   11 citations · Enhanced Weathering
+
+2. **Changes in continental weathering regimes inhibited global marine deoxygenation during the Paleocene-Eocene thermal maximum** (2025)
    5 citations · Enhanced Weathering
 
 ## External Profiles

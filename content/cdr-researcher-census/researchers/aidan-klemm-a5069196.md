@@ -1,7 +1,7 @@
 ---
 title: "Aidan Klemm"
 description: "Aidan Klemm is a Mid-career DAC researcher at Oak Ridge National Laboratory in US. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.711094
+date: 2026-07-11T11:05:43.282465
 url: "/cdr-researcher-census/researchers/aidan-klemm-a5069196/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 10 |
 | Citations | 499 |
 | Publications | 20 |
-| CDR Focus | 30.0% |
-| Trajectory | Declining |
+| CDR Focus | 10.0% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

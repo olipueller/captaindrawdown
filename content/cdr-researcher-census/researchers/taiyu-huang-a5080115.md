@@ -1,7 +1,7 @@
 ---
 title: "Taiyu Huang"
 description: "Taiyu Huang is a Mid-career Enhanced Weathering researcher at Northwest University in CN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.007811
+date: 2026-07-11T11:05:43.492498
 url: "/cdr-researcher-census/researchers/taiyu-huang-a5080115/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 9 |
 | Citations | 330 |
 | Publications | 18 |
-| CDR Focus | 11.1% |
-| Trajectory | Exiting |
+| CDR Focus | 5.6% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

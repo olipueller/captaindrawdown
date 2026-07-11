@@ -1,7 +1,7 @@
 ---
 title: "Mingjian Geng"
 description: "Mingjian Geng is a Senior Soil Carbon researcher at Huazhong Agricultural University in CN. With 77 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.285512
+date: 2026-07-11T11:05:42.965361
 url: "/cdr-researcher-census/researchers/mingjian-geng-a5103090/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 18 |
 | Citations | 1,294 |
 | Publications | 77 |
-| CDR Focus | 7.8% |
+| CDR Focus | 6.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -62,10 +62,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Effects of long-term green manure application on organic carbon fractions and clay minerals and their interactions in paddy soil aggregates** (2023)
    19 citations · Soil Carbon
 
-5. **Sustained Green Manure‐Rice Rotations Can Mitigate Methane Emissions by Enhancing Microbial Methane Oxidation in Southern China** (2025)
+5. **Long-term green manure incorporation increases soil carbon sequestration and improves aggregate stability by changing organic carbon components** (2025)
    5 citations · Soil Carbon
 
-6. **Effects of substitution of chemical fertilizer by Chinese milk vetch on distribution and composition of aggregates-associated organic carbon fractions in paddy soils** (2022)
+6. **Sustained Green Manure‐Rice Rotations Can Mitigate Methane Emissions by Enhancing Microbial Methane Oxidation in Southern China** (2025)
+   5 citations · Soil Carbon
+
+7. **Effects of substitution of chemical fertilizer by Chinese milk vetch on distribution and composition of aggregates-associated organic carbon fractions in paddy soils** (2022)
    0 citations · Soil Carbon
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Seonho Lee"
 description: "Seonho Lee is a Mid-career Biochar researcher at Sungkyunkwan University in KR. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.161260
+date: 2026-07-11T11:05:44.447474
 url: "/cdr-researcher-census/researchers/seonho-lee-a5103096/"
 layout: "researcher"
 hiddenInHomeList: true

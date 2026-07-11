@@ -1,7 +1,7 @@
 ---
 title: "Siyao Wang"
 description: "Siyao Wang is a Mid-career General CDR researcher. With 38 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.931222
+date: 2026-07-11T11:05:43.439057
 url: "/cdr-researcher-census/researchers/siyao-wang-a5100694/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Emmanuely Z. Nungula"
 description: "Emmanuely Z. Nungula is a Mid-career Soil Carbon researcher at Mzumbe University in TZ. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.569263
+date: 2026-07-11T11:05:43.930028
 url: "/cdr-researcher-census/researchers/emmanuely-z-nungula-a5093059/"
 layout: "researcher"
 hiddenInHomeList: true

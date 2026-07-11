@@ -1,7 +1,7 @@
 ---
 title: "Siti Mariam Muhammad Nor"
 description: "Siti Mariam Muhammad Nor is a Mid-career Soil Carbon researcher at Universiti Malaysia Terengganu in MY. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.719346
+date: 2026-07-11T11:05:44.114605
 url: "/cdr-researcher-census/researchers/siti-mariam-muhammad-nor-a5058530/"
 layout: "researcher"
 hiddenInHomeList: true

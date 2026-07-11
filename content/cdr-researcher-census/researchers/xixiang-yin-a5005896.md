@@ -1,7 +1,7 @@
 ---
 title: "Xixiang Yin"
 description: "Xixiang Yin is a Senior Biochar researcher at Shandong Jinan Eco-environmental Monitoring Center in CN. With 36 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.344315
+date: 2026-07-11T11:05:43.002959
 url: "/cdr-researcher-census/researchers/xixiang-yin-a5005896/"
 layout: "researcher"
 hiddenInHomeList: true

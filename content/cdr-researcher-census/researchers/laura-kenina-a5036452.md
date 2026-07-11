@@ -1,7 +1,7 @@
 ---
 title: "Laura Ķēniņa"
 description: "Laura Ķēniņa is a Mid-career General CDR researcher at Latvian State Forest Research Institute \"Silava\" in LV. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.926637
+date: 2026-07-11T11:05:44.269132
 url: "/cdr-researcher-census/researchers/laura-kenina-a5036452/"
 layout: "researcher"
 hiddenInHomeList: true

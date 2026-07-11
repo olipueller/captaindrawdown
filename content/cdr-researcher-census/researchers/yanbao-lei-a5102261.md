@@ -1,7 +1,7 @@
 ---
 title: "Yanbao Lei"
 description: "Yanbao Lei is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 67 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.119805
+date: 2026-07-11T11:05:42.868110
 url: "/cdr-researcher-census/researchers/yanbao-lei-a5102261/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 25 |
 | Citations | 2,371 |
 | Publications | 67 |
-| CDR Focus | 7.5% |
+| CDR Focus | 6.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

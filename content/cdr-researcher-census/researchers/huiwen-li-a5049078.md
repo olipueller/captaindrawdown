@@ -1,7 +1,7 @@
 ---
 title: "Huiwen Li"
 description: "Huiwen Li is an Early-career Soil Carbon researcher at Northwestern Polytechnical University in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.411492
+date: 2026-07-11T11:05:43.758052
 url: "/cdr-researcher-census/researchers/huiwen-li-a5049078/"
 layout: "researcher"
 hiddenInHomeList: true

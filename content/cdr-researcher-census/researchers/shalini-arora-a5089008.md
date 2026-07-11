@@ -1,7 +1,7 @@
 ---
 title: "Shalini Arora"
 description: "Shalini Arora is a Senior DAC researcher at University of Louisville in US. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.532343
+date: 2026-07-11T11:05:43.134742
 url: "/cdr-researcher-census/researchers/shalini-arora-a5089008/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 5 |
 | Citations | 693 |
 | Publications | 15 |
-| CDR Focus | 13.3% |
-| Trajectory | Stable |
+| CDR Focus | 6.7% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

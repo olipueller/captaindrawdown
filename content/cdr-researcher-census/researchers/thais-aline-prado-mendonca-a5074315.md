@@ -1,7 +1,7 @@
 ---
 title: "Thais Aline Prado Mendonça"
 description: "Thais Aline Prado Mendonça is a Mid-career Biochar researcher at Universidade Federal de São Paulo in BR. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.877480
+date: 2026-07-11T11:05:44.233229
 url: "/cdr-researcher-census/researchers/thais-aline-prado-mendonca-a5074315/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 6 |
 | Citations | 130 |
 | Publications | 11 |
-| CDR Focus | 18.2% |
-| Trajectory | Stable |
+| CDR Focus | 9.1% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

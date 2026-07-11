@@ -1,7 +1,7 @@
 ---
 title: "Kuangyi Shi"
 description: "Kuangyi Shi is a Mid-career General CDR researcher at Shanghai Jiao Tong University in CN. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.962476
+date: 2026-07-11T11:05:43.460098
 url: "/cdr-researcher-census/researchers/kuangyi-shi-a5114112/"
 layout: "researcher"
 hiddenInHomeList: true

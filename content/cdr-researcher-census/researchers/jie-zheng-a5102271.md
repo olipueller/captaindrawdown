@@ -1,7 +1,7 @@
 ---
 title: "Jie Zheng"
 description: "Jie Zheng is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.547277
+date: 2026-07-11T11:05:43.908325
 url: "/cdr-researcher-census/researchers/jie-zheng-a5102271/"
 layout: "researcher"
 hiddenInHomeList: true

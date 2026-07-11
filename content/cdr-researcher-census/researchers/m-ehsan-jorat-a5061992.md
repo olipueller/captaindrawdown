@@ -1,7 +1,7 @@
 ---
 title: "M. Ehsan Jorat"
 description: "M. Ehsan Jorat is a Mid-career Soil Carbon researcher at Ore Holdings (United States) in US. With 34 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.627518
+date: 2026-07-11T11:05:43.225470
 url: "/cdr-researcher-census/researchers/m-ehsan-jorat-a5061992/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 577 |
 | Publications | 34 |
-| CDR Focus | 5.9% |
+| CDR Focus | 8.8% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -55,6 +55,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 2. **Optimal sampling using Conditioned Latin Hypercube for digital soil mapping: An approach using Bhattacharyya distance** (2023)
    16 citations · Soil Carbon
+
+3. **Optimal Sampling Using Conditioned Latin Hypercube for Digital Soil Mapping: An Approach Using Bhattacharya Distance** (2023)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

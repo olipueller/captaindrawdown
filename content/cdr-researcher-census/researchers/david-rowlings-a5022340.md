@@ -1,7 +1,7 @@
 ---
 title: "David Rowlings"
 description: "David Rowlings is a Senior Soil Carbon researcher at Queensland University of Technology in AU. With 170 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.032446
+date: 2026-07-11T11:05:42.827370
 url: "/cdr-researcher-census/researchers/david-rowlings-a5022340/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Saurajyoti Kar"
 description: "Saurajyoti Kar is a Senior General CDR researcher at Argonne National Laboratory in US. With 25 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.899477
+date: 2026-07-11T11:05:43.416769
 url: "/cdr-researcher-census/researchers/saurajyoti-kar-a5003767/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 8 |
 | Citations | 378 |
 | Publications | 25 |
-| CDR Focus | 12.0% |
-| Trajectory | Stable |
+| CDR Focus | 8.0% |
+| Trajectory | Exiting |
 
 ## Top CDR Publications
 

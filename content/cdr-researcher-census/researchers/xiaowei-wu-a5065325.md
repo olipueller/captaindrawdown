@@ -1,7 +1,7 @@
 ---
 title: "Xiaowei Wu"
 description: "Xiaowei Wu is a Mid-career General CDR researcher at Brooks Institute in US. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.730074
+date: 2026-07-11T11:05:44.123249
 url: "/cdr-researcher-census/researchers/xiaowei-wu-a5065325/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 5 |
 | Citations | 151 |
 | Publications | 13 |
-| CDR Focus | 38.5% |
-| Trajectory | Growing |
+| CDR Focus | 7.7% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

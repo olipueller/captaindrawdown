@@ -1,7 +1,7 @@
 ---
 title: "Tasveer Zahra Tariq"
 description: "Tasveer Zahra Tariq is a Mid-career Biochar researcher. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.685834
+date: 2026-07-11T11:05:44.089091
 url: "/cdr-researcher-census/researchers/tasveer-zahra-tariq-a5083547/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -37,8 +37,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 7 |
 | Citations | 158 |
 | Publications | 14 |
-| CDR Focus | 14.3% |
-| Trajectory | Stable |
+| CDR Focus | 7.1% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

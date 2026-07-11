@@ -1,7 +1,7 @@
 ---
 title: "India Mansour"
 description: "India Mansour is a Senior Soil Carbon researcher at Berlin Brandenburg Institute of Advanced Biodiversity Research in DE. With 37 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.244684
+date: 2026-07-11T11:05:42.938661
 url: "/cdr-researcher-census/researchers/india-mansour-a5043675/"
 layout: "researcher"
 hiddenInHomeList: true

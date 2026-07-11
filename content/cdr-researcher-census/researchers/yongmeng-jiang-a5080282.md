@@ -1,7 +1,7 @@
 ---
 title: "Yongmeng Jiang"
 description: "Yongmeng Jiang is a Mid-career Soil Carbon researcher at Fujian Normal University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.746314
+date: 2026-07-11T11:05:44.134812
 url: "/cdr-researcher-census/researchers/yongmeng-jiang-a5080282/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 149 |
 | Publications | 14 |
-| CDR Focus | 50.0% |
+| CDR Focus | 35.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

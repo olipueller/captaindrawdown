@@ -1,7 +1,7 @@
 ---
 title: "Degfie Teku"
 description: "Degfie Teku is a Mid-career Soil Carbon researcher at Ambo University in ET. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.398266
+date: 2026-07-11T11:05:43.749036
 url: "/cdr-researcher-census/researchers/degfie-teku-a5093959/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xiaoke Xin"
 description: "Xiaoke Xin is a Mid-career Ocean CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.825300
+date: 2026-07-11T11:05:44.194164
 url: "/cdr-researcher-census/researchers/xiaoke-xin-a5056088/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 5 |
 | Citations | 137 |
 | Publications | 9 |
-| CDR Focus | 66.7% |
+| CDR Focus | 33.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

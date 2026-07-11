@@ -1,7 +1,7 @@
 ---
 title: "Christopher Nichols"
 description: "Christopher Nichols is a Senior General CDR researcher. With 38 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.342460
+date: 2026-07-11T11:05:43.001512
 url: "/cdr-researcher-census/researchers/christopher-nichols-a5102760/"
 layout: "researcher"
 hiddenInHomeList: true

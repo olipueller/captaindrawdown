@@ -1,7 +1,7 @@
 ---
 title: "Xiaozeng Han"
 description: "Xiaozeng Han is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 94 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.058309
+date: 2026-07-11T11:05:42.838256
 url: "/cdr-researcher-census/researchers/xiaozeng-han-a5104005/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 32 |
 | Citations | 3,282 |
 | Publications | 94 |
-| CDR Focus | 9.6% |
+| CDR Focus | 8.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -71,7 +71,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 8. **The Effect of Deep Tillage Combined with Organic Amendments on Soil Organic Carbon and Nitrogen Stocks in Northeast China** (2025)
    0 citations · Soil Carbon
 
-9. **Temporal Dynamics of Pools of Soil Organic Carbon Separated by Density Identified by Changes to Δ13c Under 17 Years of Straw Return** (2023)
+9. **Effects of chicken manure application methods on soil organic carbon content and its fractions.** (2025)
+   0 citations · Soil Carbon
+
+10. **Temporal Dynamics of Pools of Soil Organic Carbon Separated by Density Identified by Changes to Δ13c Under 17 Years of Straw Return** (2023)
    0 citations · Soil Carbon
 
 ## External Profiles

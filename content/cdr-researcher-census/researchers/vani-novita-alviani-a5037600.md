@@ -1,7 +1,7 @@
 ---
 title: "Vani Novita Alviani"
 description: "Vani Novita Alviani is a Mid-career General CDR researcher at Tohoku University in JP. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.897528
+date: 2026-07-11T11:05:43.415295
 url: "/cdr-researcher-census/researchers/vani-novita-alviani-a5037600/"
 layout: "researcher"
 hiddenInHomeList: true

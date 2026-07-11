@@ -1,7 +1,7 @@
 ---
 title: "Shuang Wu"
 description: "Shuang Wu is a Senior Soil Carbon researcher at Institute of Mountain Hazards and Environment in CN. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.706736
+date: 2026-07-11T11:05:44.105689
 url: "/cdr-researcher-census/researchers/shuang-wu-a5107593/"
 layout: "researcher"
 hiddenInHomeList: true

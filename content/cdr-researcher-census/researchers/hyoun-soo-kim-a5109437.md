@@ -1,7 +1,7 @@
 ---
 title: "Hyoun Soo Kim"
 description: "Hyoun Soo Kim is a Senior DAC researcher at Korea University in KR. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.868771
+date: 2026-07-11T11:05:44.226847
 url: "/cdr-researcher-census/researchers/hyoun-soo-kim-a5109437/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 7 |
 | Citations | 131 |
 | Publications | 10 |
-| CDR Focus | 20.0% |
-| Trajectory | Stable |
+| CDR Focus | 10.0% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

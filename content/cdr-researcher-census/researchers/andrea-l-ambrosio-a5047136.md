@@ -1,7 +1,7 @@
 ---
 title: "Andrea L. Ambrosio"
 description: "Andrea L. Ambrosio is a Senior General CDR researcher at Colorado State University in US. With 22 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.363336
+date: 2026-07-11T11:05:43.015575
 url: "/cdr-researcher-census/researchers/andrea-l-ambrosio-a5047136/"
 layout: "researcher"
 hiddenInHomeList: true

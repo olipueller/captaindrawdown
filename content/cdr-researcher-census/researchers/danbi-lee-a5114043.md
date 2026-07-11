@@ -1,7 +1,7 @@
 ---
 title: "Danbi Lee"
 description: "Danbi Lee is a Mid-career Soil Carbon researcher. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.298372
+date: 2026-07-11T11:05:43.678185
 url: "/cdr-researcher-census/researchers/danbi-lee-a5114043/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -44,6 +44,12 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 1. **Co-Responses of Soil Organic Carbon Pool and Biogeochemistry to Different Long-Term Fertilization Practices in Paddy Fields** (2022)
    9 citations · Soil Carbon
+
+2. **Soil Moisture Controls on Permafrost Carbon Cycle under Greenhouse Warming and Zero Emission Pathways** (2026)
+   1 citations · General CDR
+
+3. **Soil Moisture Controls on Permafrost Carbon Cycle under Greenhouse Warming and Zero Emission Pathways** (2026)
+   0 citations
 
 ## External Profiles
 

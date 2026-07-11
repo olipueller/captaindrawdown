@@ -1,7 +1,7 @@
 ---
 title: "Liang He"
 description: "Liang He is a Mid-career Soil Carbon researcher at Chongqing Normal University in CN. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.261607
+date: 2026-07-11T11:05:43.653350
 url: "/cdr-researcher-census/researchers/liang-he-a5083265/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,21 +45,24 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 250 |
 | Publications | 23 |
-| CDR Focus | 17.4% |
+| CDR Focus | 21.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
-1. **Plant diversity drives soil carbon sequestration: evidence from 150 years of vegetation restoration in the temperate zone** (2023)
+1. **Biochar in Combination with Nitrogen Fertilizer is a Technique: To Enhance Physiological and Morphological Traits of Rice (Oryza sativa L.) by Improving Soil Physio-biochemical Properties** (2021)
+   50 citations · Biochar
+
+2. **Plant diversity drives soil carbon sequestration: evidence from 150 years of vegetation restoration in the temperate zone** (2023)
    33 citations · General CDR
 
-2. **[Carbon Sequestration Characteristics of Different Restored Vegetation Types in Loess Hilly Region].** (2022)
+3. **[Carbon Sequestration Characteristics of Different Restored Vegetation Types in Loess Hilly Region].** (2022)
    4 citations · General CDR
 
-3. **[Carbon Sequestration Characteristics Under Natural Vegetation Restoration in Ziwuling Area of the Loess Plateau].** (2023)
+4. **[Carbon Sequestration Characteristics Under Natural Vegetation Restoration in Ziwuling Area of the Loess Plateau].** (2023)
    1 citations · Soil Carbon
 
-4. **Estimation and evaluation of carbon sink of terraces measures in Loess Plateau : A Case Study of Wuqi County** (2024)
+5. **Estimation and evaluation of carbon sink of terraces measures in Loess Plateau : A Case Study of Wuqi County** (2024)
    0 citations · General CDR
 
 ## External Profiles

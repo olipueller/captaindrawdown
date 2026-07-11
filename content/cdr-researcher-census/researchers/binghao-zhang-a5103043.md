@@ -1,7 +1,7 @@
 ---
 title: "Binghao Zhang"
 description: "Binghao Zhang is a Mid-career General CDR researcher at University of Toronto in CA. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.255870
+date: 2026-07-11T11:05:43.650092
 url: "/cdr-researcher-census/researchers/binghao-zhang-a5103043/"
 layout: "researcher"
 hiddenInHomeList: true

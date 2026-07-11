@@ -1,7 +1,7 @@
 ---
 title: "Łukasz Musielok"
 description: "Łukasz Musielok is a Mid-career Soil Carbon researcher at Jagiellonian University in PL. With 38 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.808108
+date: 2026-07-11T11:05:43.353828
 url: "/cdr-researcher-census/researchers/ukasz-musielok-a5078498/"
 layout: "researcher"
 hiddenInHomeList: true

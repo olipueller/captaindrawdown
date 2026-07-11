@@ -1,7 +1,7 @@
 ---
 title: "Tingting Sun"
 description: "Tingting Sun is a Senior Soil Carbon researcher at Guangxi University in CN. With 70 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.315890
+date: 2026-07-11T11:05:42.985109
 url: "/cdr-researcher-census/researchers/tingting-sun-a5101580/"
 layout: "researcher"
 hiddenInHomeList: true

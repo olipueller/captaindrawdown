@@ -1,7 +1,7 @@
 ---
 title: "Taotao Wang"
 description: "Taotao Wang is a Senior Soil Carbon researcher at Jiangsu University in CN. With 37 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.868310
+date: 2026-07-11T11:05:43.397032
 url: "/cdr-researcher-census/researchers/taotao-wang-a5101850/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 394 |
 | Publications | 37 |
-| CDR Focus | 5.4% |
+| CDR Focus | 8.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -55,6 +55,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 2. **Lignite-derived organic fertiliser enhanced the carbon sequestration capacity of woody plant by improving soil quality and promoting plant growth** (2025)
    1 citations · Soil Carbon
+
+3. **Microbial carbon-cycling processes drives soil organic carbon accumulation during afforestation in hyper-arid regions** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

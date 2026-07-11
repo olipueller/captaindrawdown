@@ -1,7 +1,7 @@
 ---
 title: "Renata Jarosz"
 description: "Renata Jarosz is a Senior Soil Carbon researcher at AGH University of Science and Technology in PL. With 32 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.474202
+date: 2026-07-11T11:05:43.089881
 url: "/cdr-researcher-census/researchers/renata-jarosz-a5085562/"
 layout: "researcher"
 hiddenInHomeList: true

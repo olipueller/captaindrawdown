@@ -1,7 +1,7 @@
 ---
 title: "Tianchen He"
 description: "Tianchen He is a Senior Enhanced Weathering researcher at Hohai University in GB. With 68 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.164001
+date: 2026-07-11T11:05:42.891679
 url: "/cdr-researcher-census/researchers/tianchen-he-a5066873/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 20 |
 | Citations | 1,974 |
 | Publications | 68 |
-| CDR Focus | 10.3% |
+| CDR Focus | 5.9% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -68,7 +68,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 6. **Modeling hyperthermal events in the Mesozoic-Paleogene periods: a review** (2023)
    5 citations · General CDR
 
-7. **A new record of the Toarcian oceanic anoxic event from Scotland (UK) and environmental responses** (2021)
+7. **Barium Isotopes Indicate Spatiotemporal Heterogeneity of Marine Primary Productivity During the Toarcian Oceanic Anoxic Event** (2026)
+   0 citations
+
+8. **Multiproxy Geochemical Records of the Carnian Pluvial Episode in Laurasia** (2026)
+   0 citations
+
+9. **A new record of the Toarcian oceanic anoxic event from Scotland (UK) and environmental responses** (2021)
    0 citations
 
 ## External Profiles

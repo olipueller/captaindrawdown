@@ -1,7 +1,7 @@
 ---
 title: "Fengling Ren"
 description: "Fengling Ren is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.725060
+date: 2026-07-11T11:05:43.292628
 url: "/cdr-researcher-census/researchers/fengling-ren-a5009331/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 487 |
 | Publications | 9 |
-| CDR Focus | 33.3% |
+| CDR Focus | 22.2% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

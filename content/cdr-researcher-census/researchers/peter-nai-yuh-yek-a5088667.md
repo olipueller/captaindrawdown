@@ -1,7 +1,7 @@
 ---
 title: "Peter Nai Yuh Yek"
 description: "Peter Nai Yuh Yek is a Senior Biochar researcher at University College of Technology Sarawak in MY. With 80 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.980998
+date: 2026-07-11T11:05:42.805371
 url: "/cdr-researcher-census/researchers/peter-nai-yuh-yek-a5088667/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 32 |
 | Citations | 5,142 |
 | Publications | 80 |
-| CDR Focus | 6.2% |
+| CDR Focus | 5.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Ruiling Ma"
 description: "Ruiling Ma is a Senior Soil Carbon researcher at Nanjing Agricultural University in CN. With 21 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.146225
+date: 2026-07-11T11:05:44.436299
 url: "/cdr-researcher-census/researchers/ruiling-ma-a5064604/"
 layout: "researcher"
 hiddenInHomeList: true

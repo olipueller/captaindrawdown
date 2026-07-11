@@ -1,7 +1,7 @@
 ---
 title: "Yongxin Hu"
 description: "Yongxin Hu is a Senior General CDR researcher at Southwest Petroleum University in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.832206
+date: 2026-07-11T11:05:43.371761
 url: "/cdr-researcher-census/researchers/yongxin-hu-a5109736/"
 layout: "researcher"
 hiddenInHomeList: true

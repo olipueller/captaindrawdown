@@ -1,7 +1,7 @@
 ---
 title: "Zepeng Yang"
 description: "Zepeng Yang is a Mid-career Soil Carbon researcher at China University of Petroleum, Beijing in CN. With 53 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.910768
+date: 2026-07-11T11:05:43.424292
 url: "/cdr-researcher-census/researchers/zepeng-yang-a5008748/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -56,7 +56,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 2. **No-tillage enhances soil organic carbon and methane-oxidizing bacteria to mitigate methane emissions in an oilseed rape-rice system** (2025)
    3 citations · Soil Carbon
 
-3. **WITHDRAWN: No-tillage decreases GHG emissions by enhancing SOC and facilitating a stable methane-oxidizing bacterial community from an oilseed rape-rice system** (2024)
+3. **Integrated high-temperature CO2 capture and conversion over mixed CaO-NaAlO2 bifunctional sorbent-catalyst using a passivation strategy** (2025)
+   2 citations · General CDR
+
+4. **WITHDRAWN: No-tillage decreases GHG emissions by enhancing SOC and facilitating a stable methane-oxidizing bacterial community from an oilseed rape-rice system** (2024)
    0 citations · Soil Carbon
 
 ## External Profiles

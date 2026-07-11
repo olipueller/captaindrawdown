@@ -1,7 +1,7 @@
 ---
 title: "Elohim Bello‐Bello"
 description: "Elohim Bello‐Bello is a Mid-career Soil Carbon researcher at Salk Institute for Biological Studies in US. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.677737
+date: 2026-07-11T11:05:44.083293
 url: "/cdr-researcher-census/researchers/elohim-bellobello-a5053640/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 160 |
 | Publications | 14 |
-| CDR Focus | 14.3% |
+| CDR Focus | 7.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

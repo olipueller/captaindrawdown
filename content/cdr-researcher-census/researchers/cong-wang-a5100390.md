@@ -1,7 +1,7 @@
 ---
 title: "Cong Wang"
 description: "Cong Wang is a Mid-career Soil Carbon researcher at Hebei University of Environmental Engineering in CN. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.381221
+date: 2026-07-11T11:05:43.736788
 url: "/cdr-researcher-census/researchers/cong-wang-a5100390/"
 layout: "researcher"
 hiddenInHomeList: true

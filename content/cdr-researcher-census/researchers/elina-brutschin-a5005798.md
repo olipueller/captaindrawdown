@@ -1,7 +1,7 @@
 ---
 title: "Elina Brutschin"
 description: "Elina Brutschin is a Senior General CDR researcher at International Institute for Applied Systems Analysis in AT. With 72 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.146765
+date: 2026-07-11T11:05:42.881965
 url: "/cdr-researcher-census/researchers/elina-brutschin-a5005798/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 20 |
 | Citations | 2,107 |
 | Publications | 72 |
-| CDR Focus | 18.1% |
+| CDR Focus | 13.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -77,8 +77,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 9. **Towards sustainability-aware carbon dioxide removal deployment** (2026)
    0 citations · BECCS
 
-10. **The climate implications of failing to manage carbon** (2025)
-   0 citations
+10. **Managing Overshoot Through Collective Carbon Debt Drawdown** (2026)
+   0 citations · General CDR
 
 ## External Profiles
 

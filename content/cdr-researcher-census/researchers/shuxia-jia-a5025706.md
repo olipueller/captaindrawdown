@@ -1,7 +1,7 @@
 ---
 title: "Shuxia Jia"
 description: "Shuxia Jia is a Senior Soil Carbon researcher at Beihua University in CN. With 51 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.229269
+date: 2026-07-11T11:05:42.929780
 url: "/cdr-researcher-census/researchers/shuxia-jia-a5025706/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 23 |
 | Citations | 1,536 |
 | Publications | 51 |
-| CDR Focus | 7.8% |
-| Trajectory | Growing |
+| CDR Focus | 5.9% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

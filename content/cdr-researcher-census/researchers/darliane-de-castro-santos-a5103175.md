@@ -1,7 +1,7 @@
 ---
 title: "Darliane de Castro Santos"
 description: "Darliane de Castro Santos is a Mid-career Soil Carbon researcher at Instituto Federal Goiano in BR. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.236934
+date: 2026-07-11T11:05:43.637548
 url: "/cdr-researcher-census/researchers/darliane-de-castro-santos-a5103175/"
 layout: "researcher"
 hiddenInHomeList: true

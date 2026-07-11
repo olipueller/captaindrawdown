@@ -1,7 +1,7 @@
 ---
 title: "Colin Sonnichsen"
 description: "Colin Sonnichsen is a Mid-career Ocean CDR researcher at Dalhousie University in CA. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.652409
+date: 2026-07-11T11:05:43.240975
 url: "/cdr-researcher-census/researchers/colin-sonnichsen-a5080918/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 12 |
 | Citations | 554 |
 | Publications | 29 |
-| CDR Focus | 17.2% |
+| CDR Focus | 13.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

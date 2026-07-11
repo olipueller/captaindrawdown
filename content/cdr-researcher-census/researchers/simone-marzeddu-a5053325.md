@@ -1,7 +1,7 @@
 ---
 title: "Simone Marzeddu"
 description: "Simone Marzeddu is a Mid-career Biochar researcher at Istituto Superiore per la Protezione e la Ricerca Ambientale in IT. With 21 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.848608
+date: 2026-07-11T11:05:43.381720
 url: "/cdr-researcher-census/researchers/simone-marzeddu-a5053325/"
 layout: "researcher"
 hiddenInHomeList: true

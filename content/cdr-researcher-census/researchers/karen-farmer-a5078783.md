@@ -1,7 +1,7 @@
 ---
 title: "Karen Farmer"
 description: "Karen Farmer is a Senior General CDR researcher at University of Edinburgh in GB. With 26 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.697002
+date: 2026-07-11T11:05:43.272372
 url: "/cdr-researcher-census/researchers/karen-farmer-a5078783/"
 layout: "researcher"
 hiddenInHomeList: true

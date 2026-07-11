@@ -1,7 +1,7 @@
 ---
 title: "Tobias Gebauer"
 description: "Tobias Gebauer is a Senior Soil Carbon researcher at University of Freiburg in DE. With 34 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.340564
+date: 2026-07-11T11:05:43.000490
 url: "/cdr-researcher-census/researchers/tobias-gebauer-a5054066/"
 layout: "researcher"
 hiddenInHomeList: true

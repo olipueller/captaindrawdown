@@ -1,7 +1,7 @@
 ---
 title: "Md. Taharia"
 description: "Md. Taharia is a Mid-career Biochar researcher at National Chung Cheng University in TW. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.517388
+date: 2026-07-11T11:05:43.863399
 url: "/cdr-researcher-census/researchers/md-taharia-a5092663/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 5 |
 | Citations | 189 |
 | Publications | 12 |
-| CDR Focus | 16.7% |
-| Trajectory | Stable |
+| CDR Focus | 8.3% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

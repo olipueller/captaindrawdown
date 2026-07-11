@@ -1,7 +1,7 @@
 ---
 title: "Evgeniya Soldatova"
 description: "Evgeniya Soldatova is a Mid-career Soil Carbon researcher at University of Tyumen in RU. With 60 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.634695
+date: 2026-07-11T11:05:43.229815
 url: "/cdr-researcher-census/researchers/evgeniya-soldatova-a5000405/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 570 |
 | Publications | 60 |
-| CDR Focus | 8.3% |
+| CDR Focus | 6.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

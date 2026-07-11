@@ -1,7 +1,7 @@
 ---
 title: "Yacheng Ren"
 description: "Yacheng Ren is a Mid-career Soil Carbon researcher at Shanghai Jiao Tong University in CN. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.828094
+date: 2026-07-11T11:05:43.369002
 url: "/cdr-researcher-census/researchers/yacheng-ren-a5103220/"
 layout: "researcher"
 hiddenInHomeList: true

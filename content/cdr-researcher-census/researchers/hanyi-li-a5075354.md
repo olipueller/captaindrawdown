@@ -1,7 +1,7 @@
 ---
 title: "Hanyi Li"
 description: "Hanyi Li is a Mid-career Soil Carbon researcher at Xiamen University in CN. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.790282
+date: 2026-07-11T11:05:43.340507
 url: "/cdr-researcher-census/researchers/hanyi-li-a5075354/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -56,10 +56,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 2. **Enhanced Cr(VI) stabilization by terrestrial-derived soil protein: Photoelectrochemical properties and reduction mechanisms** (2023)
    15 citations · Soil Carbon
 
-3. **Aquaculture types drive variability in mangrove soil carbon-nitrogen stocks and OC sources via dredging wastewater** (2025)
+3. **Network architecture across trophic levels governs ecosystem multifunctionality in subtropical riparian soils** (2026)
+   0 citations
+
+4. **Aquaculture types drive variability in mangrove soil carbon-nitrogen stocks and OC sources via dredging wastewater** (2025)
    0 citations · Soil Carbon
 
-4. **Spatial and Temporal Heterogeneity in Chemical Composition and Stability of Glomalin-Related Soil Protein in Coastal Wetlands** (2021)
+5. **Spatial and Temporal Heterogeneity in Chemical Composition and Stability of Glomalin-Related Soil Protein in Coastal Wetlands** (2021)
    0 citations · Soil Carbon
 
 ## External Profiles

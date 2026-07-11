@@ -1,7 +1,7 @@
 ---
 title: "Emily K. Geoghegan"
 description: "Emily K. Geoghegan is a Mid-career Soil Carbon researcher at Center for Global Development in US. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.650873
+date: 2026-07-11T11:05:44.060311
 url: "/cdr-researcher-census/researchers/emily-k-geoghegan-a5053492/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 164 |
 | Publications | 11 |
-| CDR Focus | 54.5% |
+| CDR Focus | 45.5% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

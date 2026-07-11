@@ -1,7 +1,7 @@
 ---
 title: "Pushpa Kumari Sharma"
 description: "Pushpa Kumari Sharma is a Senior Biochar researcher at Aryabhatta Knowledge University in IN. With 28 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.573163
+date: 2026-07-11T11:05:43.164280
 url: "/cdr-researcher-census/researchers/pushpa-kumari-sharma-a5024759/"
 layout: "researcher"
 hiddenInHomeList: true

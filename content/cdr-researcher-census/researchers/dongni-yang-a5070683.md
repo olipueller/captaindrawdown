@@ -1,7 +1,7 @@
 ---
 title: "Dongni Yang"
 description: "Dongni Yang is a Mid-career General CDR researcher at E Ink (South Korea) in KR. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.732013
+date: 2026-07-11T11:05:44.124872
 url: "/cdr-researcher-census/researchers/dongni-yang-a5070683/"
 layout: "researcher"
 hiddenInHomeList: true

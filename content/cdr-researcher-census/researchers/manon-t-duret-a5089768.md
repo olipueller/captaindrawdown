@@ -1,7 +1,7 @@
 ---
 title: "Manon T. Duret"
 description: "Manon T. Duret is a Mid-career Ocean CDR researcher at National Oceanography Centre in GB. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.135347
+date: 2026-07-11T11:05:43.564067
 url: "/cdr-researcher-census/researchers/manon-t-duret-a5089768/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 7 |
 | Citations | 291 |
 | Publications | 19 |
-| CDR Focus | 31.6% |
+| CDR Focus | 21.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -62,10 +62,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 4. **Slaking quicklime with seawater for open-ocean alkalinity enhancement: Technical feasibility and cost implications** (2026)
    0 citations · Ocean CDR
 
-5. **A snag for nutrient fertilization: decoupled production and export** (2026)
+5. **Slaking quicklime with seawater for open-ocean alkalinity enhancement: Technical feasibility and cost implications** (2026)
    0 citations · Ocean CDR
 
-6. **Utility of Peridotite Host Rocks for Sequestering Atmospheric Carbon Dioxide** (2023)
+6. **A snag for nutrient fertilization: decoupled production and export** (2026)
+   0 citations · Ocean CDR
+
+7. **Utility of Peridotite Host Rocks for Sequestering Atmospheric Carbon Dioxide** (2023)
    0 citations · Enhanced Weathering
 
 ## External Profiles

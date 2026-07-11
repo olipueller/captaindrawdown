@@ -1,7 +1,7 @@
 ---
 title: "Dan Song"
 description: "Dan Song is a Mid-career Biochar researcher at Chongqing Academy of Environmental Science in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.682816
+date: 2026-07-11T11:05:44.087202
 url: "/cdr-researcher-census/researchers/dan-song-a5102770/"
 layout: "researcher"
 hiddenInHomeList: true

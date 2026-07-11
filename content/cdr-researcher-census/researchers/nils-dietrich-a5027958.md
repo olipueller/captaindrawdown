@@ -1,7 +1,7 @@
 ---
 title: "Nils Dietrich"
 description: "Nils Dietrich is a Senior Soil Carbon researcher at Munich University of Applied Sciences in DE. With 18 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.462866
+date: 2026-07-11T11:05:43.793555
 url: "/cdr-researcher-census/researchers/nils-dietrich-a5027958/"
 layout: "researcher"
 hiddenInHomeList: true

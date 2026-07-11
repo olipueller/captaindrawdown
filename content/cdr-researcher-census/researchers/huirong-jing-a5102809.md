@@ -1,7 +1,7 @@
 ---
 title: "Huirong Jing"
 description: "Huirong Jing is a Senior Soil Carbon researcher at The University of Melbourne in AU. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.865020
+date: 2026-07-11T11:05:43.394664
 url: "/cdr-researcher-census/researchers/huirong-jing-a5102809/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 396 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
+| CDR Focus | 20.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Total nitrogen levels as a key constraint on soil organic carbon stocks across Australian agricultural soils** (2025)
    4 citations · Soil Carbon
+
+2. **Unravelling depth-dependent pedoclimatic controls on measurable soil organic carbon fractions across climatic gradients in Australian agricultural soils** (2026)
+   1 citations · Soil Carbon
 
 ## External Profiles
 

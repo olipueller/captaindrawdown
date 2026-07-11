@@ -1,7 +1,7 @@
 ---
 title: "Alireza Zabihihesari"
 description: "Alireza Zabihihesari is a Mid-career Ocean CDR researcher at Dalhousie University in CA. With 30 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.045397
+date: 2026-07-11T11:05:43.518411
 url: "/cdr-researcher-census/researchers/alireza-zabihihesari-a5081480/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,10 +50,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 ## Top CDR Publications
 
-1. **High frequency in situ total alkalinity measurement for monitoring ocean alkalinity enhancement field trials** (2026)
+1. **Data supporting the study: High-frequency in situ total alkalinity measurements for monitoring ocean alkalinity enhancement field trials** (2026)
+   1 citations · Ocean CDR
+
+2. **Data supporting the study: High-frequency in situ total alkalinity measurements for monitoring ocean alkalinity enhancement field trials** (2026)
+   0 citations · Ocean CDR
+
+3. **High frequency in situ total alkalinity measurement for monitoring ocean alkalinity enhancement field trials** (2026)
    0 citations · General CDR
 
-2. **OPTIMIZED MICROMIXER DESIGN FOR REAGENT- AND POWER-EFFICIENT IN SITU TOTAL ALKALINITY ANALYSIS IN AN AUTONOMOUS LAB-ON-A-CHIP SYSTEM** (2025)
+4. **OPTIMIZED MICROMIXER DESIGN FOR REAGENT- AND POWER-EFFICIENT IN SITU TOTAL ALKALINITY ANALYSIS IN AN AUTONOMOUS LAB-ON-A-CHIP SYSTEM** (2025)
    0 citations · General CDR
 
 ## External Profiles

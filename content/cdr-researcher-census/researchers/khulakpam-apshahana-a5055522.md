@@ -1,7 +1,7 @@
 ---
 title: "Khulakpam Apshahana"
 description: "Khulakpam Apshahana is an Early-career Soil Carbon researcher at North Eastern Hill University in IN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.111422
+date: 2026-07-11T11:05:44.412300
 url: "/cdr-researcher-census/researchers/khulakpam-apshahana-a5055522/"
 layout: "researcher"
 hiddenInHomeList: true

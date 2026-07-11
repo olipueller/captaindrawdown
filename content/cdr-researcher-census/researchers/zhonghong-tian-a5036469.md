@@ -1,7 +1,7 @@
 ---
 title: "Zhonghong Tian"
 description: "Zhonghong Tian is a Mid-career Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.870409
+date: 2026-07-11T11:05:44.228178
 url: "/cdr-researcher-census/researchers/zhonghong-tian-a5036469/"
 layout: "researcher"
 hiddenInHomeList: true

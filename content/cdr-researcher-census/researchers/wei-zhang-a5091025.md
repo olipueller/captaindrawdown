@@ -1,7 +1,7 @@
 ---
 title: "Wei Zhang"
 description: "Wei Zhang is an Eminent Soil Carbon researcher at Shihezi University in CN. With 240 publications and an h-index of 49, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.939692
+date: 2026-07-11T11:05:42.790126
 url: "/cdr-researcher-census/researchers/wei-zhang-a5091025/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -62,23 +62,23 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Nitrogen deposition caused higher increases in plant-derived organic carbon than microbial-derived organic carbon in forest soils** (2024)
    27 citations · Soil Carbon
 
-5. **Bedrock outcrops weakly promote rather than inhibit soil carbon sequestration after vegetation restoration** (2022)
+5. **Unexpected high retention of<sup>15</sup>N‐labeled nitrogen in a tropical legume forest under long‐term nitrogen enrichment** (2021)
+   27 citations · Soil Carbon
+
+6. **Bedrock outcrops weakly promote rather than inhibit soil carbon sequestration after vegetation restoration** (2022)
    18 citations · Soil Carbon
 
-6. **Linking microbial metabolism and ecological strategies to soil carbon cycle function in agroecosystems** (2025)
+7. **Linking microbial metabolism and ecological strategies to soil carbon cycle function in agroecosystems** (2025)
    16 citations · Soil Carbon
 
-7. **Can converting raw straw into biochar incorporation achieve both higher maize yield and lower greenhouse gas emissions intensity in drought-prone environment?** (2024)
+8. **Can converting raw straw into biochar incorporation achieve both higher maize yield and lower greenhouse gas emissions intensity in drought-prone environment?** (2024)
    13 citations · Biochar
 
-8. **Lower Sensitivity of Soil Carbon and Nitrogen to Regional Temperature Change in Karst Forests Than in Non-Karst Forests** (2023)
+9. **Lower Sensitivity of Soil Carbon and Nitrogen to Regional Temperature Change in Karst Forests Than in Non-Karst Forests** (2023)
    9 citations · Soil Carbon
 
-9. **Biochemical heterogeneity of soil components manipulating long-term organic carbon pool buildup over mineral protection in the mollisol** (2025)
-   6 citations
-
-10. **Equal-straw produced biochar continuous incorporation substitutes straw returns for global warming mitigation: An appraisal based on five-year field experiment** (2025)
-   5 citations · Biochar
+10. **Adsorption/desorption processes dominate the soil P fractions dynamic under long-term N/P addition in a subtropical forest** (2025)
+   8 citations
 
 ## External Profiles
 

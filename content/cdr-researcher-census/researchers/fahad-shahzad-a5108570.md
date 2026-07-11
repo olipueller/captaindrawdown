@@ -1,7 +1,7 @@
 ---
 title: "Fahad Shahzad"
 description: "Fahad Shahzad is a Mid-career General CDR researcher at Beijing Forestry University in CN. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.840228
+date: 2026-07-11T11:05:43.376523
 url: "/cdr-researcher-census/researchers/fahad-shahzad-a5108570/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,13 +42,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 9 |
 | Citations | 411 |
 | Publications | 14 |
-| CDR Focus | 7.1% |
+| CDR Focus | 14.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Evaluating biomass and carbon stock responses to thinning and pruning in mature Larix principis-rupprechtii Mayr stands: a case study from Northern China** (2025)
    2 citations · General CDR
+
+2. **Remote sensing and machine learning-based mapping of climatic stress impacts on vegetation and carbon sequestration** (2026)
+   0 citations
+
+3. **Remote sensing and machine learning-based mapping of climatic stress impacts on vegetation and carbon sequestration** (2026)
+   0 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Yanan Huang"
 description: "Yanan Huang is a Mid-career Soil Carbon researcher at Northwest A&F University in CN. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.545647
+date: 2026-07-11T11:05:43.143915
 url: "/cdr-researcher-census/researchers/yanan-huang-a5101330/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 675 |
 | Publications | 29 |
-| CDR Focus | 10.3% |
+| CDR Focus | 6.9% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

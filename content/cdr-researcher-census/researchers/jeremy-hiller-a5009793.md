@@ -1,7 +1,7 @@
 ---
 title: "Jeremy Hiller"
 description: "Jeremy Hiller is a Mid-career Soil Carbon researcher at University of Nebraska–Lincoln in US. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.309788
+date: 2026-07-11T11:05:43.686347
 url: "/cdr-researcher-census/researchers/jeremy-hiller-a5009793/"
 layout: "researcher"
 hiddenInHomeList: true

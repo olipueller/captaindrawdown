@@ -1,7 +1,7 @@
 ---
 title: "Linhao Sun"
 description: "Linhao Sun is a Mid-career Soil Carbon researcher at Zhejiang A & F University in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.265600
+date: 2026-07-11T11:05:43.656317
 url: "/cdr-researcher-census/researchers/linhao-sun-a5005706/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Pavithra Narayanan"
 description: "Pavithra Narayanan is a Mid-career BECCS researcher at Georgia Institute of Technology in US. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.516238
+date: 2026-07-11T11:05:43.860273
 url: "/cdr-researcher-census/researchers/pavithra-narayanan-a5084480/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 8 |
 | Citations | 189 |
 | Publications | 17 |
-| CDR Focus | 29.4% |
-| Trajectory | Declining |
+| CDR Focus | 5.9% |
+| Trajectory | Exiting |
 
 ## Top CDR Publications
 

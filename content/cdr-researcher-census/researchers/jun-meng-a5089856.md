@@ -1,7 +1,7 @@
 ---
 title: "Jun Meng"
-description: "Jun Meng is a Mid-career Soil Carbon researcher at Ningbo Product Quality Supervision and Inspection Institute in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.188226
+description: "Jun Meng is a Mid-career Biochar researcher at Ningbo Product Quality Supervision and Inspection Institute in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:43.602372
 url: "/cdr-researcher-census/researchers/jun-meng-a5089856/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Ningbo Product Quality Supervision and Inspection Institute · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 273 |
 | Publications | 17 |
-| CDR Focus | 17.6% |
+| CDR Focus | 23.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -58,6 +58,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 3. **Differential effects of biochar and straw incorporation on soil organic carbon: A case study on paddy cultivation in Northeast China** (2025)
    6 citations · Biochar
+
+4. **Impact of oxidative aging on iron-modified biochar for Cr(VI) removal: mechanistic investigation into adsorption-reduction synergy and stability** (2025)
+   3 citations · Biochar
 
 ## External Profiles
 

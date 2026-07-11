@@ -1,7 +1,7 @@
 ---
 title: "Shiferaw Abebe"
 description: "Shiferaw Abebe is a Mid-career Soil Carbon researcher at Bahir Dar University in ET. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.586183
+date: 2026-07-11T11:05:43.972368
 url: "/cdr-researcher-census/researchers/shiferaw-abebe-a5063964/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 176 |
 | Publications | 17 |
-| CDR Focus | 11.8% |
+| CDR Focus | 5.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

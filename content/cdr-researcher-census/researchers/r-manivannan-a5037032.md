@@ -1,7 +1,7 @@
 ---
 title: "R. Manivannan"
 description: "R. Manivannan is a Mid-career Soil Carbon researcher at Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology in IN. With 39 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.966134
+date: 2026-07-11T11:05:44.300167
 url: "/cdr-researcher-census/researchers/r-manivannan-a5037032/"
 layout: "researcher"
 hiddenInHomeList: true

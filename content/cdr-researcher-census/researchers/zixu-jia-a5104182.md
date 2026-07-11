@@ -1,7 +1,7 @@
 ---
 title: "Zixu Jia"
-description: "Zixu Jia is a Mid-career Unknown researcher at Chinese Academy of Sciences in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.564551
+description: "Zixu Jia is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:43.925877
 url: "/cdr-researcher-census/researchers/zixu-jia-a5104182/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Chinese Academy of Sciences · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Unknown**
+**Soil Carbon**
 
-Unknown
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
@@ -42,13 +42,19 @@ Unknown
 | h-index | 6 |
 | Citations | 180 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
-| Trajectory | Exiting |
+| CDR Focus | 25.0% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
-1. **Atmospheric water demand dominates terrestrial ecosystem productivity in China** (2024)
+1. **Identification of priority protected areas in Yellow River Basin and detection of key factors for its optimal management based on multi-scenario trade-off of ecosystem services** (2023)
+   51 citations · General CDR
+
+2. **Atmospheric water demand dominates terrestrial ecosystem productivity in China** (2024)
    24 citations
+
+3. **Reconciling ecosystem service supply-demand mismatches through ecological compensation in the Tibetan plateau** (2025)
+   3 citations · General CDR
 
 ## External Profiles
 

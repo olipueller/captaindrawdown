@@ -1,7 +1,7 @@
 ---
 title: "Enrico Balugani"
 description: "Enrico Balugani is a Senior Soil Carbon researcher at Istituto Nazionale di Fisica Nucleare, Sezione di Bologna in IT. With 74 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.682234
+date: 2026-07-11T11:05:43.262663
 url: "/cdr-researcher-census/researchers/enrico-balugani-a5076562/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 13 |
 | Citations | 526 |
 | Publications | 74 |
-| CDR Focus | 35.1% |
+| CDR Focus | 16.2% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

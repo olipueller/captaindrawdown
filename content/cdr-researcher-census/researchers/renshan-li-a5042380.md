@@ -1,7 +1,7 @@
 ---
 title: "Renshan Li"
 description: "Renshan Li is a Senior Soil Carbon researcher at Luoyang Normal University in CN. With 38 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.768816
+date: 2026-07-11T11:05:43.326017
 url: "/cdr-researcher-census/researchers/renshan-li-a5042380/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 14 |
 | Citations | 456 |
 | Publications | 38 |
-| CDR Focus | 7.9% |
-| Trajectory | Growing |
+| CDR Focus | 5.3% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

@@ -1,7 +1,7 @@
 ---
 title: "Kalu Davies"
 description: "Kalu Davies is a Mid-career Enhanced Weathering researcher at University of Sheffield in GB. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.698396
+date: 2026-07-11T11:05:43.273185
 url: "/cdr-researcher-census/researchers/kalu-davies-a5004833/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 7 |
 | Citations | 510 |
 | Publications | 12 |
-| CDR Focus | 41.7% |
+| CDR Focus | 16.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

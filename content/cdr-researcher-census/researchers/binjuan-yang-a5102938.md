@@ -1,7 +1,7 @@
 ---
 title: "Binjuan Yang"
 description: "Binjuan Yang is a Mid-career Soil Carbon researcher at Jiangxi Agricultural University in CN. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.244576
+date: 2026-07-11T11:05:43.642443
 url: "/cdr-researcher-census/researchers/binjuan-yang-a5102938/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 255 |
 | Publications | 28 |
-| CDR Focus | 7.1% |
+| CDR Focus | 14.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -55,6 +55,12 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 2. **Effects on Soil Aggregates and Organic Carbon Under a Triple-Cropping System in the Middle Reaches of the Yangtze River** (2024)
    2 citations · Soil Carbon
+
+3. **Winter Crops Rotation Intensification to Increase Rice Yield, Soil Carbon and Microbial Diversity** (2022)
+   1 citations · Soil Carbon
+
+4. **Winter Cover Crops Rotation to Increase Double Rice Yield, Soil Carbon and Microbial Diversity** (2022)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Wenhao Xie"
 description: "Wenhao Xie is a Mid-career General CDR researcher at Xi'an Shiyou University in CN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.717241
+date: 2026-07-11T11:05:44.113181
 url: "/cdr-researcher-census/researchers/wenhao-xie-a5022749/"
 layout: "researcher"
 hiddenInHomeList: true

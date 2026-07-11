@@ -1,7 +1,7 @@
 ---
 title: "Sangui Yi"
 description: "Sangui Yi is a Mid-career Soil Carbon researcher at Affiliated Hospital of Youjiang Medical University for Nationalities in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.138397
+date: 2026-07-11T11:05:44.431653
 url: "/cdr-researcher-census/researchers/sangui-yi-a5051206/"
 layout: "researcher"
 hiddenInHomeList: true

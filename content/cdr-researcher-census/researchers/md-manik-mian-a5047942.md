@@ -1,7 +1,7 @@
 ---
 title: "Md Manik Mian"
 description: "Md Manik Mian is a Senior Biochar researcher at University of New Brunswick in CA. With 40 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.076164
+date: 2026-07-11T11:05:42.847040
 url: "/cdr-researcher-census/researchers/md-manik-mian-a5047942/"
 layout: "researcher"
 hiddenInHomeList: true

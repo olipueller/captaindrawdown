@@ -1,7 +1,7 @@
 ---
 title: "Haiying Cui"
 description: "Haiying Cui is a Senior Soil Carbon researcher at Northeast Normal University in CN. With 28 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.400403
+date: 2026-07-11T11:05:43.039623
 url: "/cdr-researcher-census/researchers/haiying-cui-a5010084/"
 layout: "researcher"
 hiddenInHomeList: true

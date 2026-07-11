@@ -1,7 +1,7 @@
 ---
 title: "Xiangyu Zheng"
-description: "Xiangyu Zheng is a Mid-career General CDR researcher at Sichuan Agricultural University in CN. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.029927
+description: "Xiangyu Zheng is a Mid-career Biochar researcher at Sichuan Agricultural University in CN. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:43.506631
 url: "/cdr-researcher-census/researchers/xiangyu-zheng-a5004313/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Sichuan Agricultural University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -53,10 +53,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 1. **Matching ecosystem services supply and demand in China's urban agglomerations for multiple-scale management** (2023)
    83 citations · General CDR
 
-2. **Quantifying the effects of urban agglomeration on cropland ecological efficiency in the Sichuan–Chongqing region, China** (2026)
+2. **Enhanced Cr(VI) reduction and immobilization by Fe0 coupled with biochar through galvanic interaction** (2025)
+   5 citations · Biochar
+
+3. **Quantifying the effects of urban agglomeration on cropland ecological efficiency in the Sichuan–Chongqing region, China** (2026)
    0 citations
 
-3. **Promoted Iron Corrosion Through Iron-Carbon Micro-Electrolysis with Mixed Fe0 And Biochar for Enhanced Cr(Vi) Removal** (2024)
+4. **Promoted Iron Corrosion Through Iron-Carbon Micro-Electrolysis with Mixed Fe0 And Biochar for Enhanced Cr(Vi) Removal** (2024)
    0 citations · Biochar
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Caohui Han"
 description: "Caohui Han is a Mid-career Biochar researcher at Chang'an University in CN. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.551013
+date: 2026-07-11T11:05:43.148049
 url: "/cdr-researcher-census/researchers/caohui-han-a5034910/"
 layout: "researcher"
 hiddenInHomeList: true

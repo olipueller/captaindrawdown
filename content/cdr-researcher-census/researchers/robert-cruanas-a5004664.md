@@ -1,7 +1,7 @@
 ---
 title: "Robert Cruañas"
 description: "Robert Cruañas is a Senior Soil Carbon researcher at Universitat de Barcelona in ES. With 18 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.348346
+date: 2026-07-11T11:05:43.005820
 url: "/cdr-researcher-census/researchers/robert-cruanas-a5004664/"
 layout: "researcher"
 hiddenInHomeList: true

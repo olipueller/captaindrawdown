@@ -1,7 +1,7 @@
 ---
 title: "Zhenxi Xie"
 description: "Zhenxi Xie is an Early-career Soil Carbon researcher at South China Agricultural University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.130343
+date: 2026-07-11T11:05:44.425785
 url: "/cdr-researcher-census/researchers/zhenxi-xie-a5079266/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,13 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 104 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 28.6% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **The spatial patterns and driving mechanisms of blue carbon ‘loss’ and ‘gain’ in a typical mangrove ecosystem: A case study of Beihai, Guangxi Province of China** (2023)
    10 citations · Ocean CDR
+
+2. **The Spatial Patterns and Driving Mechanisms of Blue Carbon ‘Loss’ and ‘Gain’ in a Typical Mangrove Ecosystem: A Case Study of Beihai, Guangxi Province of China** (2023)
+   0 citations · Ocean CDR
 
 ## External Profiles
 

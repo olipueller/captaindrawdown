@@ -1,7 +1,7 @@
 ---
 title: "Dafeng Hui"
 description: "Dafeng Hui is an Eminent Soil Carbon researcher at Tennessee State University in US. With 390 publications and an h-index of 61, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.859923
+date: 2026-07-11T11:05:42.771849
 url: "/cdr-researcher-census/researchers/dafeng-hui-a5043570/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 61 |
 | Citations | 18,536 |
 | Publications | 390 |
-| CDR Focus | 7.4% |
-| Trajectory | Declining |
+| CDR Focus | 6.2% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

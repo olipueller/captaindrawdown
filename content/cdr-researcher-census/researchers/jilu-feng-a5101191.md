@@ -1,7 +1,7 @@
 ---
 title: "Jilu Feng"
 description: "Jilu Feng is a Senior Enhanced Weathering researcher. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.062237
+date: 2026-07-11T11:05:44.394458
 url: "/cdr-researcher-census/researchers/jilu-feng-a5101191/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -37,18 +37,21 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 3 |
 | Citations | 108 |
 | Publications | 8 |
-| CDR Focus | 37.5% |
-| Trajectory | Exiting |
+| CDR Focus | 50.0% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
-1. **Using Geochemical Analyses and Remote Sensing to Understand the Carbon Dioxide Removal Potential and Contamination Risks Associated with the Use of Mine Residues for Enhanced Rock Weathering.** (2024)
+1. **Assessing the Benefits and Drawbacks of Using Mine Residues for Enhanced Rock Weathering** (2026)
    0 citations · Enhanced Weathering
 
-2. **Analysing the Carbon Dioxide Removal Potential of Agricultural Soils Amended with Various Silicate Rocks, and the Potential Co-benefits and Side Effects** (2023)
+2. **Using Geochemical Analyses and Remote Sensing to Understand the Carbon Dioxide Removal Potential and Contamination Risks Associated with the Use of Mine Residues for Enhanced Rock Weathering.** (2024)
    0 citations · Enhanced Weathering
 
-3. **ANALYZING THE REFLECTANCE SPECTRA OF SOILS AMENDED WITH FINELY GROUND CARBONATE AND SILICATE MINERALS FOR ENHANCED ROCK WEATHERING** (2022)
+3. **Analysing the Carbon Dioxide Removal Potential of Agricultural Soils Amended with Various Silicate Rocks, and the Potential Co-benefits and Side Effects** (2023)
+   0 citations · Enhanced Weathering
+
+4. **ANALYZING THE REFLECTANCE SPECTRA OF SOILS AMENDED WITH FINELY GROUND CARBONATE AND SILICATE MINERALS FOR ENHANCED ROCK WEATHERING** (2022)
    0 citations · Enhanced Weathering
 
 ## External Profiles

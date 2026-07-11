@@ -1,7 +1,7 @@
 ---
 title: "Mokhtar Rashwan"
 description: "Mokhtar Rashwan is a Mid-career General CDR researcher. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.797099
+date: 2026-07-11T11:05:44.172592
 url: "/cdr-researcher-census/researchers/mokhtar-rashwan-a5015612/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,8 +40,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 5 |
 | Citations | 141 |
 | Publications | 12 |
-| CDR Focus | 25.0% |
-| Trajectory | Stable |
+| CDR Focus | 8.3% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

@@ -1,7 +1,7 @@
 ---
 title: "Tapan Jyoti Purakayastha"
 description: "Tapan Jyoti Purakayastha is a Senior Soil Carbon researcher at Tapan Jyoti Purakayastha in IN. With 93 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.128174
+date: 2026-07-11T11:05:42.871895
 url: "/cdr-researcher-census/researchers/tapan-jyoti-purakayastha-a5034065/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -71,14 +71,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 7. **Impact of Long-term Residue Management on Soil Aggregation and Carbon Accumulation Under Wheat-based Cropping Systems in a Typic Haplustept** (2025)
    2 citations · Soil Carbon
 
-8. **Long-term Impact of Crop Residue Management on Lability and Thermal Sensitivity of Soil Organic Carbon under Wheat Based Cropping Systems** (2025)
+8. **Impact of nutrient management practices on sulphur availability in soils under rice-wheat cropping system** (2026)
+   0 citations
+
+9. **Long-term Impact of Crop Residue Management on Lability and Thermal Sensitivity of Soil Organic Carbon under Wheat Based Cropping Systems** (2025)
    0 citations · Soil Carbon
 
-9. **Long Term Effect of Residue Management, Nitrification and Urease Inhibitor on Non-target Soil Bacterial Community in Rice–Wheat and Maize–Wheat Cropping Systems** (2024)
+10. **Long Term Effect of Residue Management, Nitrification and Urease Inhibitor on Non-target Soil Bacterial Community in Rice–Wheat and Maize–Wheat Cropping Systems** (2024)
    0 citations · Biochar
-
-10. **Long-Term Effect of Organic Agriculture on Carbon Stability in Clay-Organic Complex and its Role in Soil Aggregation** (2021)
-   0 citations · Soil Carbon
 
 ## External Profiles
 

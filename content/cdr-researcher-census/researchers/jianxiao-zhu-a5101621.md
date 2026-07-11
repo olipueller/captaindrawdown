@@ -1,7 +1,7 @@
 ---
 title: "Jianxiao Zhu"
 description: "Jianxiao Zhu is a Senior Soil Carbon researcher at Gansu Agricultural University in CN. With 65 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.098194
+date: 2026-07-11T11:05:42.858528
 url: "/cdr-researcher-census/researchers/jianxiao-zhu-a5101621/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 25 |
 | Citations | 2,614 |
 | Publications | 65 |
-| CDR Focus | 7.7% |
-| Trajectory | Declining |
+| CDR Focus | 6.2% |
+| Trajectory | Exiting |
 
 ## Top CDR Publications
 

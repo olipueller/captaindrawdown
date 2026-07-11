@@ -1,7 +1,7 @@
 ---
 title: "Jiguang Feng"
 description: "Jiguang Feng is a Senior Soil Carbon researcher at Inner Mongolia University in CN. With 77 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.073264
+date: 2026-07-11T11:05:42.845785
 url: "/cdr-researcher-census/researchers/jiguang-feng-a5046920/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 26 |
 | Citations | 3,022 |
 | Publications | 77 |
-| CDR Focus | 10.4% |
+| CDR Focus | 6.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -59,19 +59,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **Sustained Green Manure‐Rice Rotations Can Mitigate Methane Emissions by Enhancing Microbial Methane Oxidation in Southern China** (2025)
    5 citations · Soil Carbon
 
-4. **Soil Carbon Availability Drives Depth‐Dependent Responses of Microbial Nitrogen Use Efficiency to Warming** (2025)
+4. **Terrestrial ecosystem nitrogen cycling in response to field warming: Global patterns and future trends** (2026)
    3 citations · Soil Carbon
 
-5. **Changes in plant detritus inputs alter soil carbon and microbial communities in forest ecosystems** (2022)
-   1 citations · Soil Carbon
+5. **Soil Carbon Availability Drives Depth‐Dependent Responses of Microbial Nitrogen Use Efficiency to Warming** (2025)
+   3 citations · Soil Carbon
 
-6. **Data for the responses of soil carbon and microbial community in forests** (2022)
-   0 citations · Soil Carbon
+6. **Changes in plant detritus inputs alter soil carbon and microbial communities in forest ecosystems** (2022)
+   1 citations · Soil Carbon
 
 7. **Data for the responses of soil carbon and microbial community in forests** (2022)
    0 citations · Soil Carbon
 
-8. **DIRT data for forest soil carbon, nutrients and microbes** (2022)
+8. **Data for the responses of soil carbon and microbial community in forests** (2022)
+   0 citations · Soil Carbon
+
+9. **DIRT data for forest soil carbon, nutrients and microbes** (2022)
    0 citations · Soil Carbon
 
 ## External Profiles

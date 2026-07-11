@@ -1,7 +1,7 @@
 ---
 title: "Dimitar Z. Epihov"
 description: "Dimitar Z. Epihov is a Mid-career Enhanced Weathering researcher at University of Sheffield in GB. With 32 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.741599
+date: 2026-07-11T11:05:43.305016
 url: "/cdr-researcher-census/researchers/dimitar-z-epihov-a5056786/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 7 |
 | Citations | 475 |
 | Publications | 32 |
-| CDR Focus | 65.6% |
-| Trajectory | Declining |
+| CDR Focus | 56.2% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

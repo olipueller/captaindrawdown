@@ -1,7 +1,7 @@
 ---
 title: "Guoce Xu"
 description: "Guoce Xu is a Mid-career Soil Carbon researcher at Xi'an University of Technology in CN. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.357921
+date: 2026-07-11T11:05:43.012013
 url: "/cdr-researcher-census/researchers/guoce-xu-a5100606/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,15 +45,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 1,046 |
 | Publications | 26 |
-| CDR Focus | 7.7% |
-| Trajectory | Exiting |
+| CDR Focus | 11.5% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Contribution of soil aggregate particle size to organic carbon and the effect of land use on its distribution in a typical small watershed on Loess Plateau, China** (2023)
    47 citations · Soil Carbon
 
-2. **Carbon pools in forest systems and new estimation based on an investigation of carbon sequestration** (2024)
+2. **Exploring ecosystem service dynamics and drivers in the upper and middle Yellow River Basin under large-scale ecological restoration** (2025)
+   7 citations · General CDR
+
+3. **Carbon pools in forest systems and new estimation based on an investigation of carbon sequestration** (2024)
    7 citations · General CDR
 
 ## External Profiles

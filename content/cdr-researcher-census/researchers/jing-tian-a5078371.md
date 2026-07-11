@@ -1,7 +1,7 @@
 ---
 title: "Jing Tian"
 description: "Jing Tian is an Eminent Soil Carbon researcher at China Agricultural University in CN. With 135 publications and an h-index of 41, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.972367
+date: 2026-07-11T11:05:42.801916
 url: "/cdr-researcher-census/researchers/jing-tian-a5078371/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 41 |
 | Citations | 5,575 |
 | Publications | 135 |
-| CDR Focus | 5.9% |
+| CDR Focus | 7.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -65,13 +65,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 5. **Insights into soil carbon metabolism and carbon sequestration capacity under organic fertilizer substitution model** (2025)
    10 citations · Soil Carbon
 
-6. **Particulate and mineral-associated organic matter in cropland soils: Meta-analysis of management effects** (2026)
+6. **Global Synthesis of Fertilisation‐Induced Changes in the Microbial Entombing Effect** (2025)
+   8 citations · Soil Carbon
+
+7. **Particulate and mineral-associated organic matter in cropland soils: Meta-analysis of management effects** (2026)
    3 citations · Soil Carbon
 
-7. **Long‐Term Reclamation of Sandy Land Enhances Deep Soil Carbon Storage and Stability via Mineral‐Associated Organic Carbon Accumulation** (2025)
+8. **Integrated soil–crop system management stabilizes soil organic carbon in saline soils via calcium-mediated synergy between microbial and mineral carbon pumps** (2026)
+   2 citations · Soil Carbon
+
+9. **Long‐Term Reclamation of Sandy Land Enhances Deep Soil Carbon Storage and Stability via Mineral‐Associated Organic Carbon Accumulation** (2025)
    0 citations · Soil Carbon
 
-8. **HIGHLIGHTS OF THE SPECIAL ISSUE "CARBON NEUTRALITY AND A LOW CARBON ECONOMY FOR AGRICULTURE"** (2023)
+10. **HIGHLIGHTS OF THE SPECIAL ISSUE "CARBON NEUTRALITY AND A LOW CARBON ECONOMY FOR AGRICULTURE"** (2023)
    0 citations · General CDR
 
 ## External Profiles

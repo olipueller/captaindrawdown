@@ -1,7 +1,7 @@
 ---
 title: "Alessandro Persiani"
 description: "Alessandro Persiani is a Mid-career Soil Carbon researcher at Consiglio per la ricerca in agricoltura e l’analisi dell’economia agraria in IT. With 52 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.377305
+date: 2026-07-11T11:05:43.024765
 url: "/cdr-researcher-census/researchers/alessandro-persiani-a5082535/"
 layout: "researcher"
 hiddenInHomeList: true

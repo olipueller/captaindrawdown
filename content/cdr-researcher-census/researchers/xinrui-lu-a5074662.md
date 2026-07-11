@@ -1,7 +1,7 @@
 ---
 title: "Xinrui Lu"
 description: "Xinrui Lu is a Mid-career Soil Carbon researcher at Shandong University in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.489992
+date: 2026-07-11T11:05:43.816054
 url: "/cdr-researcher-census/researchers/xinrui-lu-a5074662/"
 layout: "researcher"
 hiddenInHomeList: true

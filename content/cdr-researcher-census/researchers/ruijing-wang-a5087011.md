@@ -1,7 +1,7 @@
 ---
 title: "Ruijing Wang"
 description: "Ruijing Wang is a Mid-career Soil Carbon researcher at Beijing Normal University in CN. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.758848
+date: 2026-07-11T11:05:44.143916
 url: "/cdr-researcher-census/researchers/ruijing-wang-a5087011/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 147 |
 | Publications | 22 |
-| CDR Focus | 13.6% |
+| CDR Focus | 9.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

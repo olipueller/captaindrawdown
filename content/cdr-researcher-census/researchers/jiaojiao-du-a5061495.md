@@ -1,7 +1,7 @@
 ---
 title: "Jiaojiao Du"
 description: "Jiaojiao Du is a Mid-career Soil Carbon researcher at Guizhou University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.644058
+date: 2026-07-11T11:05:44.052219
 url: "/cdr-researcher-census/researchers/jiaojiao-du-a5061495/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 166 |
 | Publications | 8 |
-| CDR Focus | 37.5% |
+| CDR Focus | 12.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

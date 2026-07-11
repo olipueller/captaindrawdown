@@ -1,7 +1,7 @@
 ---
 title: "Yalin Gao"
 description: "Yalin Gao is a Mid-career Soil Carbon researcher at Xi'an University of Technology in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.114835
+date: 2026-07-11T11:05:44.414797
 url: "/cdr-researcher-census/researchers/yalin-gao-a5101304/"
 layout: "researcher"
 hiddenInHomeList: true

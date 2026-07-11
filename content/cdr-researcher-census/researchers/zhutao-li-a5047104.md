@@ -1,7 +1,7 @@
 ---
 title: "Zhutao Li"
 description: "Zhutao Li is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 25 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.376218
+date: 2026-07-11T11:05:43.024308
 url: "/cdr-researcher-census/researchers/zhutao-li-a5047104/"
 layout: "researcher"
 hiddenInHomeList: true

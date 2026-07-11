@@ -1,7 +1,7 @@
 ---
 title: "Zixiang Gao"
 description: "Zixiang Gao is a Mid-career Soil Carbon researcher at Zhejiang University in CN. With 20 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.670377
+date: 2026-07-11T11:05:43.254150
 url: "/cdr-researcher-census/researchers/zixiang-gao-a5051956/"
 layout: "researcher"
 hiddenInHomeList: true

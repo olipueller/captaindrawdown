@@ -1,7 +1,7 @@
 ---
 title: "Rania Dghaim"
 description: "Rania Dghaim is a Mid-career Biochar researcher at Zayed University in AE. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.041451
+date: 2026-07-11T11:05:43.515225
 url: "/cdr-researcher-census/researchers/rania-dghaim-a5067373/"
 layout: "researcher"
 hiddenInHomeList: true

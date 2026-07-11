@@ -1,7 +1,7 @@
 ---
 title: "Laraib Saeed"
 description: "Laraib Saeed is a Mid-career Soil Carbon researcher at Hohai University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.036181
+date: 2026-07-11T11:05:44.373583
 url: "/cdr-researcher-census/researchers/laraib-saeed-a5041225/"
 layout: "researcher"
 hiddenInHomeList: true

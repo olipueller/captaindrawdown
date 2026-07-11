@@ -1,7 +1,7 @@
 ---
 title: "Đỗ Trà Hương"
 description: "Đỗ Trà Hương is a Mid-career Biochar researcher at Thai Nguyen University in VN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.879133
+date: 2026-07-11T11:05:44.234245
 url: "/cdr-researcher-census/researchers/o-tra-huong-a5112899/"
 layout: "researcher"
 hiddenInHomeList: true

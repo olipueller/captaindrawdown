@@ -1,7 +1,7 @@
 ---
 title: "Zishi Fu"
 description: "Zishi Fu is a Senior Soil Carbon researcher at National Science and Technology Council in TW. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.483773
+date: 2026-07-11T11:05:43.096572
 url: "/cdr-researcher-census/researchers/zishi-fu-a5100961/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 775 |
 | Publications | 36 |
-| CDR Focus | 19.4% |
+| CDR Focus | 11.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

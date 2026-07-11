@@ -1,7 +1,7 @@
 ---
 title: "Naomi E. Vaughan"
 description: "Naomi E. Vaughan is a Senior General CDR researcher at University of East Anglia in GB. With 77 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.018099
+date: 2026-07-11T11:05:42.822014
 url: "/cdr-researcher-census/researchers/naomi-e-vaughan-a5022069/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 30 |
 | Citations | 4,019 |
 | Publications | 77 |
-| CDR Focus | 22.1% |
+| CDR Focus | 18.2% |
 | Trajectory | Declining |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "K. Morkeski"
 description: "K. Morkeski is a Senior Ocean CDR researcher at Woods Hole Oceanographic Institution in US. With 25 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.957798
+date: 2026-07-11T11:05:43.457156
 url: "/cdr-researcher-census/researchers/k-morkeski-a5040829/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 6 |
 | Citations | 351 |
 | Publications | 25 |
-| CDR Focus | 16.0% |
+| CDR Focus | 8.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

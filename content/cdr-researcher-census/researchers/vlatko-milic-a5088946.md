@@ -1,7 +1,7 @@
 ---
 title: "Vlatko Milić"
 description: "Vlatko Milić is a Mid-career General CDR researcher at Linköping University in SE. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.459451
+date: 2026-07-11T11:05:43.791054
 url: "/cdr-researcher-census/researchers/vlatko-milic-a5088946/"
 layout: "researcher"
 hiddenInHomeList: true

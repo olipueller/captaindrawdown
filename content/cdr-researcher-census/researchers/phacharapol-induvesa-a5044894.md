@@ -1,7 +1,7 @@
 ---
 title: "Phacharapol Induvesa"
 description: "Phacharapol Induvesa is a Mid-career Biochar researcher at Silpakorn University in TH. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.135871
+date: 2026-07-11T11:05:44.429868
 url: "/cdr-researcher-census/researchers/phacharapol-induvesa-a5044894/"
 layout: "researcher"
 hiddenInHomeList: true

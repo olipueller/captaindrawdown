@@ -1,7 +1,7 @@
 ---
 title: "Fuxing Guo"
 description: "Fuxing Guo is a Mid-career Soil Carbon researcher at Northwest A&F University in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.662146
+date: 2026-07-11T11:05:44.072329
 url: "/cdr-researcher-census/researchers/fuxing-guo-a5052860/"
 layout: "researcher"
 hiddenInHomeList: true

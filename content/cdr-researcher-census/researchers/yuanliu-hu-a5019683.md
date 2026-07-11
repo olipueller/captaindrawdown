@@ -1,7 +1,7 @@
 ---
 title: "Yuanliu Hu"
 description: "Yuanliu Hu is a Mid-career Soil Carbon researcher at South China Botanical Garden in CN. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.257825
+date: 2026-07-11T11:05:43.651266
 url: "/cdr-researcher-census/researchers/yuanliu-hu-a5019683/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yanzhong Yao"
 description: "Yanzhong Yao is a Senior Soil Carbon researcher at Institute of Applied Physics and Computational Mathematics in CN. With 41 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.649789
+date: 2026-07-11T11:05:43.239116
 url: "/cdr-researcher-census/researchers/yanzhong-yao-a5045325/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -58,6 +58,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 3. **Nature–based nutrient management through returning agricultural organic waste enhances soil aggregate organic carbon stability** (2025)
    9 citations · Soil Carbon
+
+4. **Ecosystem service interactions and their driving factors based on a geospatially explainable framework: A case study in the Yangtze River Basin, China** (2026)
+   0 citations
 
 ## External Profiles
 

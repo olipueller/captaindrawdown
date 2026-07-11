@@ -1,7 +1,7 @@
 ---
 title: "Haoran Gui"
 description: "Haoran Gui is a Mid-career Soil Carbon researcher at Lanzhou University in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.752329
+date: 2026-07-11T11:05:44.139721
 url: "/cdr-researcher-census/researchers/haoran-gui-a5041960/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 148 |
 | Publications | 12 |
-| CDR Focus | 16.7% |
+| CDR Focus | 8.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

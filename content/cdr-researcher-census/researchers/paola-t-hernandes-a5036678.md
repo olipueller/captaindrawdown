@@ -1,7 +1,7 @@
 ---
 title: "Paola T. Hernandes"
 description: "Paola T. Hernandes is a Mid-career Biochar researcher at Universidade Federal de Santa Maria in BR. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.860024
+date: 2026-07-11T11:05:44.219427
 url: "/cdr-researcher-census/researchers/paola-t-hernandes-a5036678/"
 layout: "researcher"
 hiddenInHomeList: true

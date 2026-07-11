@@ -1,7 +1,7 @@
 ---
 title: "Daniel Fallu"
 description: "Daniel Fallu is a Mid-career Soil Carbon researcher at Centre for Arctic Gas Hydrate, Environment and Climate in NO. With 40 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.959166
+date: 2026-07-11T11:05:43.457895
 url: "/cdr-researcher-census/researchers/daniel-fallu-a5043817/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 351 |
 | Publications | 40 |
-| CDR Focus | 20.0% |
+| CDR Focus | 17.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

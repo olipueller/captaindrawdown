@@ -1,7 +1,7 @@
 ---
 title: "Hongbo He"
 description: "Hongbo He is an Eminent Soil Carbon researcher at University of Chinese Academy of Sciences in CN. With 157 publications and an h-index of 44, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.961834
+date: 2026-07-11T11:05:42.798352
 url: "/cdr-researcher-census/researchers/hongbo-he-a5109304/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 44 |
 | Citations | 5,969 |
 | Publications | 157 |
-| CDR Focus | 6.4% |
-| Trajectory | Exiting |
+| CDR Focus | 9.6% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
@@ -71,14 +71,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 7. **Effects of long-term conservation tillage on N2 and N2O emission rates and N2O emission microbial pathways in Mollisols** (2023)
    10 citations · Soil Carbon
 
-8. **Effect of temperature on microbial residue dynamics in a temperate farmland soil** (2021)
+8. **Divergent effects of legume cover crops on microbial necromass accumulation at surface versus subsurface soils in subtropical paddy fields** (2025)
+   8 citations · Soil Carbon
+
+9. **Biochemical heterogeneity of soil components manipulating long-term organic carbon pool buildup over mineral protection in the mollisol** (2025)
+   6 citations
+
+10. **Effect of temperature on microbial residue dynamics in a temperate farmland soil** (2021)
    5 citations · Soil Carbon
-
-9. **[Effects of conservation tillage on soil microbial community and the function of soil carbon cycling].** (2021)
-   1 citations · Soil Carbon
-
-10. **Distinct Allocations of Microbial Versus Plant Residues in Mineral Particles Counterbalance the Accumulation and Stabilization of Soil Organic Carbon** (2023)
-   0 citations · Soil Carbon
 
 ## External Profiles
 

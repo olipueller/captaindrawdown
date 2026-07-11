@@ -1,7 +1,7 @@
 ---
 title: "Aditya Anil Bhandari"
-description: "Aditya Anil Bhandari is a Mid-career Unknown researcher at TU Wien in AT. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.716300
+description: "Aditya Anil Bhandari is a Mid-career General CDR researcher at TU Wien in AT. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:44.112793
 url: "/cdr-researcher-census/researchers/aditya-anil-bhandari-a5111546/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ TU Wien · 🇦🇹 AT
 
 ## CDR Specialization
 
-**Unknown**
+**General CDR**
 
-Unknown
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,7 +42,7 @@ Unknown
 | h-index | 3 |
 | Citations | 153 |
 | Publications | 3 |
-| CDR Focus | 66.7% |
+| CDR Focus | 33.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -52,6 +52,9 @@ Unknown
 
 2. **Evaluation of CO&lt;sub&gt;2&lt;/sub&gt;/H&lt;sub&gt;2&lt;/sub&gt;O Co-adsorption Models for the Anion Exchange Resin Lewatit Vpoc 1065 under Direct Air Capture Conditions Using a Novel Lab Setup** (2024)
    3 citations
+
+3. **Report for the Carbon Dioxide Removal (CDR): Towards a Unified Monitoring, Measuring, Reporting and Verification (MMRV) Framework Workshop** (2023)
+   2 citations · DAC
 
 ## External Profiles
 

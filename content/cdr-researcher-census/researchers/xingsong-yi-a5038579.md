@@ -1,7 +1,7 @@
 ---
 title: "Xingsong Yi"
 description: "Xingsong Yi is a Mid-career Soil Carbon researcher at Guizhou University in CN. With 22 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.952541
+date: 2026-07-11T11:05:43.453205
 url: "/cdr-researcher-census/researchers/xingsong-yi-a5038579/"
 layout: "researcher"
 hiddenInHomeList: true

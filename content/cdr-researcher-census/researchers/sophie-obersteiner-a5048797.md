@@ -1,7 +1,7 @@
 ---
 title: "Sophie Obersteiner"
 description: "Sophie Obersteiner is an Early-career Soil Carbon researcher at Planta in RU. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.015813
+date: 2026-07-11T11:05:44.338838
 url: "/cdr-researcher-census/researchers/sophie-obersteiner-a5048797/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 114 |
 | Publications | 16 |
-| CDR Focus | 12.5% |
+| CDR Focus | 6.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

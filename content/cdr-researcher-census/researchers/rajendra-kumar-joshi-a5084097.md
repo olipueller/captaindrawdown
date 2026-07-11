@@ -1,7 +1,7 @@
 ---
 title: "Rajendra Kumar Joshi"
 description: "Rajendra Kumar Joshi is a Senior Soil Carbon researcher at Jawaharlal Nehru University in IN. With 49 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.553919
+date: 2026-07-11T11:05:43.150067
 url: "/cdr-researcher-census/researchers/rajendra-kumar-joshi-a5084097/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 16 |
 | Citations | 664 |
 | Publications | 49 |
-| CDR Focus | 12.2% |
+| CDR Focus | 10.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

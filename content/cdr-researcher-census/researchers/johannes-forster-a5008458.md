@@ -1,7 +1,7 @@
 ---
 title: "Johannes Förster"
 description: "Johannes Förster is a Senior General CDR researcher at Helmholtz-Zentrum für Umweltforschung UFZ in DE. With 47 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.324653
+date: 2026-07-11T11:05:42.991068
 url: "/cdr-researcher-census/researchers/johannes-forster-a5008458/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 16 |
 | Citations | 1,148 |
 | Publications | 47 |
-| CDR Focus | 14.9% |
-| Trajectory | Declining |
+| CDR Focus | 10.6% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

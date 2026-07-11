@@ -1,7 +1,7 @@
 ---
 title: "Jonas Schnidrig"
 description: "Jonas Schnidrig is a Mid-career General CDR researcher at HES-SO University of Applied Sciences and Arts Western Switzerland in CH. With 23 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.020602
+date: 2026-07-11T11:05:44.353829
 url: "/cdr-researcher-census/researchers/jonas-schnidrig-a5003374/"
 layout: "researcher"
 hiddenInHomeList: true

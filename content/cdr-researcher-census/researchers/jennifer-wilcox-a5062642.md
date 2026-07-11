@@ -1,7 +1,7 @@
 ---
 title: "Jennifer Wilcox"
 description: "Jennifer Wilcox is an Eminent General CDR researcher at University of Pennsylvania in US. With 219 publications and an h-index of 63, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.846554
+date: 2026-07-11T11:05:42.770206
 url: "/cdr-researcher-census/researchers/jennifer-wilcox-a5062642/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 63 |
 | Citations | 21,284 |
 | Publications | 219 |
-| CDR Focus | 5.5% |
+| CDR Focus | 5.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -71,14 +71,14 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 7. **Direct Air Capture: Resource Considerations and Costs for Carbon Removal** (2021)
    10 citations · DAC
 
-8. **Assessment of the carbon abatement and removal opportunities of the Arabian Gulf Countries** (2021)
+8. **Specialty grand challenge: renaming our section to “Carbon Dioxide Removal”** (2023)
    6 citations · General CDR
 
-9. **Advancing geothermal energy utilization opportunities: potential and strategies for integrating direct air capture** (2025)
-   4 citations · DAC
+9. **Assessment of the carbon abatement and removal opportunities of the Arabian Gulf Countries** (2021)
+   6 citations · General CDR
 
-10. **A framework for understanding efficiency losses of Ocean Alkalinity Enhancement** (2025)
-   0 citations · Ocean CDR
+10. **Advancing geothermal energy utilization opportunities: potential and strategies for integrating direct air capture** (2025)
+   4 citations · DAC
 
 ## External Profiles
 

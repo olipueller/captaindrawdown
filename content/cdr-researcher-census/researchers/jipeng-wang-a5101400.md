@@ -1,7 +1,7 @@
 ---
 title: "Jipeng Wang"
 description: "Jipeng Wang is a Senior Soil Carbon researcher at China Metallurgical Geology Bureau in CN. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.206373
+date: 2026-07-11T11:05:43.616265
 url: "/cdr-researcher-census/researchers/jipeng-wang-a5101400/"
 layout: "researcher"
 hiddenInHomeList: true

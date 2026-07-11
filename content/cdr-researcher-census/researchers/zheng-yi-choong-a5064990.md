@@ -1,7 +1,7 @@
 ---
 title: "Zheng-Yi Choong"
 description: "Zheng-Yi Choong is a Mid-career Biochar researcher at Nanyang Technological University in SG. With 13 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.652597
+date: 2026-07-11T11:05:43.241068
 url: "/cdr-researcher-census/researchers/zheng-yi-choong-a5064990/"
 layout: "researcher"
 hiddenInHomeList: true

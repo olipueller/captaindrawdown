@@ -1,7 +1,7 @@
 ---
 title: "Christina A. Buelow"
 description: "Christina A. Buelow is a Mid-career Soil Carbon researcher at The University of Sydney in AU. With 56 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.163562
+date: 2026-07-11T11:05:42.891083
 url: "/cdr-researcher-census/researchers/christina-a-buelow-a5007221/"
 layout: "researcher"
 hiddenInHomeList: true

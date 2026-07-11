@@ -1,7 +1,7 @@
 ---
 title: "Yuanfeng Sun"
 description: "Yuanfeng Sun is a Mid-career Soil Carbon researcher at Shanghai Jiao Tong University in CN. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.732456
+date: 2026-07-11T11:05:43.298212
 url: "/cdr-researcher-census/researchers/yuanfeng-sun-a5110188/"
 layout: "researcher"
 hiddenInHomeList: true

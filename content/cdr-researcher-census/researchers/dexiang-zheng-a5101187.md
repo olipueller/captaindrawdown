@@ -1,7 +1,7 @@
 ---
 title: "Dexiang Zheng"
 description: "Dexiang Zheng is a Senior Soil Carbon researcher at Fujian Agriculture and Forestry University in CN. With 22 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.733993
+date: 2026-07-11T11:05:44.126565
 url: "/cdr-researcher-census/researchers/dexiang-zheng-a5101187/"
 layout: "researcher"
 hiddenInHomeList: true

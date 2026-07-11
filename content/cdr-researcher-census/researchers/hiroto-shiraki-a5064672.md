@@ -1,7 +1,7 @@
 ---
 title: "Hiroto Shiraki"
 description: "Hiroto Shiraki is a Mid-career General CDR researcher at Nagoya University in JP. With 49 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.500286
+date: 2026-07-11T11:05:43.108871
 url: "/cdr-researcher-census/researchers/hiroto-shiraki-a5064672/"
 layout: "researcher"
 hiddenInHomeList: true

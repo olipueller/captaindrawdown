@@ -1,7 +1,7 @@
 ---
 title: "Panagiotis Nyktas"
 description: "Panagiotis Nyktas is a Senior Soil Carbon researcher at University of Crete in GR. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.614489
+date: 2026-07-11T11:05:44.014384
 url: "/cdr-researcher-census/researchers/panagiotis-nyktas-a5033112/"
 layout: "researcher"
 hiddenInHomeList: true

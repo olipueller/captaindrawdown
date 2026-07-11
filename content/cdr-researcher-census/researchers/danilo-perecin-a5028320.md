@@ -1,7 +1,7 @@
 ---
 title: "Danilo Perecin"
 description: "Danilo Perecin is a Mid-career General CDR researcher at Universidade de São Paulo in BR. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.165875
+date: 2026-07-11T11:05:43.585907
 url: "/cdr-researcher-census/researchers/danilo-perecin-a5028320/"
 layout: "researcher"
 hiddenInHomeList: true

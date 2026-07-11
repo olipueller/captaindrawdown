@@ -1,7 +1,7 @@
 ---
 title: "Tommaso Chiti"
 description: "Tommaso Chiti is a Senior Soil Carbon researcher at Università degli Studi della Tuscia Dipartimento per la Innovazione nei sistemi Biologici Agroali­mentari e Forestali in IT. With 86 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.208777
+date: 2026-07-11T11:05:42.917191
 url: "/cdr-researcher-census/researchers/tommaso-chiti-a5001989/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 26 |
 | Citations | 1,663 |
 | Publications | 86 |
-| CDR Focus | 18.6% |
+| CDR Focus | 16.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

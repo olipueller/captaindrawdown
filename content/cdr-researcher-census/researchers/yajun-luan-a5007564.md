@@ -1,7 +1,7 @@
 ---
 title: "Yajun Luan"
 description: "Yajun Luan is a Mid-career Soil Carbon researcher at Hohai University in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.059057
+date: 2026-07-11T11:05:44.392385
 url: "/cdr-researcher-census/researchers/yajun-luan-a5007564/"
 layout: "researcher"
 hiddenInHomeList: true

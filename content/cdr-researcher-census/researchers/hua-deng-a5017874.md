@@ -1,7 +1,7 @@
 ---
 title: "Hua Deng"
 description: "Hua Deng is a Senior Biochar researcher at Guangxi Normal University in CN. With 41 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.359912
+date: 2026-07-11T11:05:43.013244
 url: "/cdr-researcher-census/researchers/hua-deng-a5017874/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 18 |
 | Citations | 1,040 |
 | Publications | 41 |
-| CDR Focus | 22.0% |
+| CDR Focus | 26.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -71,10 +71,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 7. **Coupled regulation mechanisms of carbon sequestration, microbial communities, and manganese stabilization in manganese-contaminated soil by phosphorus-modified biochar** (2025)
    1 citations · Biochar
 
-8. **Effects of Modified Senna obtusifolia Straw Biochar on Organic Matter Mineralization and Nutrient Transformation in Siraitia grosvenorii Farmland** (2025)
+8. **Siraitia grosvenorii Vine Biochar for Enhancing Organic Carbon Content and Carbon Dioxide Release from Soils: Insights into Process and Mechanism** (2026)
    0 citations · Biochar
 
-9. **Effect of bagasse biochar on soil organic carbon fixation in manganese pollution sugarcane fields** (2023)
+9. **Mechanism-driven immobilization of manganese and cadmium by potassium-activated biochar: Insights into the potential mechanisms** (2026)
+   0 citations · Biochar
+
+10. **Effects of Modified Senna obtusifolia Straw Biochar on Organic Matter Mineralization and Nutrient Transformation in Siraitia grosvenorii Farmland** (2025)
    0 citations · Biochar
 
 ## External Profiles

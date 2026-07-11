@@ -1,7 +1,7 @@
 ---
 title: "Maria Scheel"
 description: "Maria Scheel is a Mid-career Soil Carbon researcher at Aarhus University in DK. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.789175
+date: 2026-07-11T11:05:44.167071
 url: "/cdr-researcher-census/researchers/maria-scheel-a5071809/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 143 |
 | Publications | 14 |
-| CDR Focus | 14.3% |
+| CDR Focus | 7.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

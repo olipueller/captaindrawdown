@@ -1,7 +1,7 @@
 ---
 title: "Isolde Callisto Puts"
 description: "Isolde Callisto Puts is a Mid-career Ocean CDR researcher at University of Oslo in NO. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.664466
+date: 2026-07-11T11:05:44.074372
 url: "/cdr-researcher-census/researchers/isolde-callisto-puts-a5041773/"
 layout: "researcher"
 hiddenInHomeList: true

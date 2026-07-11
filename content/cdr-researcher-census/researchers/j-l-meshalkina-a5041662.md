@@ -1,7 +1,7 @@
 ---
 title: "J. L. Meshalkina"
 description: "J. L. Meshalkina is a Senior Soil Carbon researcher. With 68 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.064537
+date: 2026-07-11T11:05:43.532520
 url: "/cdr-researcher-census/researchers/j-l-meshalkina-a5041662/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 306 |
 | Publications | 68 |
-| CDR Focus | 13.2% |
+| CDR Focus | 10.3% |
 | Trajectory | Declining |
 
 ## Top CDR Publications

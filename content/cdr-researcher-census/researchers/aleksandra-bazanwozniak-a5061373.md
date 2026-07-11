@@ -1,7 +1,7 @@
 ---
 title: "Aleksandra Bazan‐Wozniak"
 description: "Aleksandra Bazan‐Wozniak is a Mid-career Biochar researcher at Adam Mickiewicz University in Poznań in PL. With 63 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.478175
+date: 2026-07-11T11:05:43.092478
 url: "/cdr-researcher-census/researchers/aleksandra-bazanwozniak-a5061373/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 17 |
 | Citations | 785 |
 | Publications | 63 |
-| CDR Focus | 7.9% |
-| Trajectory | Declining |
+| CDR Focus | 6.3% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

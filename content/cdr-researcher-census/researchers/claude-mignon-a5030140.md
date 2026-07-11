@@ -1,7 +1,7 @@
 ---
 title: "Claude Mignon"
 description: "Claude Mignon is a Mid-career Ocean CDR researcher at Centre National de la Recherche Scientifique in FR. With 23 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.049176
+date: 2026-07-11T11:05:44.384756
 url: "/cdr-researcher-census/researchers/claude-mignon-a5030140/"
 layout: "researcher"
 hiddenInHomeList: true

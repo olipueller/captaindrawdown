@@ -1,7 +1,7 @@
 ---
 title: "Qianfei Cao"
 description: "Qianfei Cao is a Mid-career Biochar researcher at Suzhou University of Science and Technology in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.007202
+date: 2026-07-11T11:05:43.492087
 url: "/cdr-researcher-census/researchers/qianfei-cao-a5077225/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 7 |
 | Citations | 330 |
 | Publications | 14 |
-| CDR Focus | 14.3% |
+| CDR Focus | 7.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Jingchun Liu"
 description: "Jingchun Liu is a Senior Soil Carbon researcher at Ludong University in CN. With 40 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.773076
+date: 2026-07-11T11:05:43.328552
 url: "/cdr-researcher-census/researchers/jingchun-liu-a5101805/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -55,6 +55,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 2. **Enhanced Cr(VI) stabilization by terrestrial-derived soil protein: Photoelectrochemical properties and reduction mechanisms** (2023)
    15 citations · Soil Carbon
+
+3. **Network architecture across trophic levels governs ecosystem multifunctionality in subtropical riparian soils** (2026)
+   0 citations
 
 ## External Profiles
 

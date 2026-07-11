@@ -1,7 +1,7 @@
 ---
 title: "Kamakshi Sherpa"
 description: "Kamakshi Sherpa is an Early-career Biochar researcher at National Kaohsiung University of Science and Technology. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.340342
+date: 2026-07-11T11:05:43.708224
 url: "/cdr-researcher-census/researchers/kamakshi-sherpa-a5092832/"
 layout: "researcher"
 hiddenInHomeList: true

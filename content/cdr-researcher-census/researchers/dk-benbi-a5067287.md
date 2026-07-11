@@ -1,7 +1,7 @@
 ---
 title: "DK Benbi"
 description: "DK Benbi is a Mid-career Soil Carbon researcher at Punjab Agricultural University in IN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.930598
+date: 2026-07-11T11:05:44.271192
 url: "/cdr-researcher-census/researchers/dk-benbi-a5067287/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 124 |
 | Publications | 3 |
-| CDR Focus | 66.7% |
+| CDR Focus | 33.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

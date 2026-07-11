@@ -1,7 +1,7 @@
 ---
 title: "Sajjad Raza"
 description: "Sajjad Raza is a Senior Soil Carbon researcher at University of Nottingham in GB. With 72 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.033980
+date: 2026-07-11T11:05:42.827762
 url: "/cdr-researcher-census/researchers/sajjad-raza-a5103073/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 24 |
 | Citations | 3,663 |
 | Publications | 72 |
-| CDR Focus | 8.3% |
-| Trajectory | Stable |
+| CDR Focus | 6.9% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

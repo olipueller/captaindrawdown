@@ -1,7 +1,7 @@
 ---
 title: "Ruben Prütz"
 description: "Ruben Prütz is a Mid-career General CDR researcher at Leibniz Association in DE. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.127831
+date: 2026-07-11T11:05:43.558747
 url: "/cdr-researcher-census/researchers/ruben-prutz-a5011946/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 7 |
 | Citations | 293 |
 | Publications | 21 |
-| CDR Focus | 71.4% |
+| CDR Focus | 57.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

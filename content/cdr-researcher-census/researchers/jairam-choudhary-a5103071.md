@@ -1,7 +1,7 @@
 ---
 title: "Jairam Choudhary"
 description: "Jairam Choudhary is a Mid-career Soil Carbon researcher at Indian Agricultural Statistics Research Institute in IN. With 54 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.387672
+date: 2026-07-11T11:05:43.031285
 url: "/cdr-researcher-census/researchers/jairam-choudhary-a5103071/"
 layout: "researcher"
 hiddenInHomeList: true

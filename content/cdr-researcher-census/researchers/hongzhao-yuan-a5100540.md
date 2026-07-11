@@ -1,7 +1,7 @@
 ---
 title: "Hongzhao Yuan"
 description: "Hongzhao Yuan is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 61 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.097349
+date: 2026-07-11T11:05:42.858293
 url: "/cdr-researcher-census/researchers/hongzhao-yuan-a5100540/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 26 |
 | Citations | 2,625 |
 | Publications | 61 |
-| CDR Focus | 8.2% |
+| CDR Focus | 11.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -62,7 +62,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Carbon stabilization by iron plaque on rice roots: The role of oxygen loss** (2025)
    21 citations · Soil Carbon
 
-5. **Organic Amendment Rather than Mineral Fertilization Increased Microbial Necromass Carbon in Paddy Soil Via Altering Microbial Traits** (2022)
+5. **Bacterial necromass decomposition and priming effects in paddy soils depend on long-term fertilization** (2025)
+   15 citations · Soil Carbon
+
+6. **Priming effect on plant-derived mineral-associated organic C in paddy soil: a three-source partitioning study with a dual-13C approach** (2025)
+   2 citations · Soil Carbon
+
+7. **High Tree Species Diversity Promotes Thermal Enhancement Response of Microbial Carbon Use Efficiency** (2026)
+   0 citations
+
+8. **Organic Amendment Rather than Mineral Fertilization Increased Microbial Necromass Carbon in Paddy Soil Via Altering Microbial Traits** (2022)
    0 citations · Soil Carbon
 
 ## External Profiles

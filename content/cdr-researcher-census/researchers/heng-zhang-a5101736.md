@@ -1,7 +1,7 @@
 ---
 title: "Heng Zhang"
 description: "Heng Zhang is a Senior Soil Carbon researcher at Tongji University in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.681586
+date: 2026-07-11T11:05:43.262175
 url: "/cdr-researcher-census/researchers/heng-zhang-a5101736/"
 layout: "researcher"
 hiddenInHomeList: true

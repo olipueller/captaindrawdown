@@ -1,7 +1,7 @@
 ---
 title: "Sunanda Biswas"
 description: "Sunanda Biswas is a Senior Soil Carbon researcher at University College of Technology in CM. With 66 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.238285
+date: 2026-07-11T11:05:42.934897
 url: "/cdr-researcher-census/researchers/sunanda-biswas-a5102958/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -62,7 +62,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Impact of Long-term Residue Management on Soil Aggregation and Carbon Accumulation Under Wheat-based Cropping Systems in a Typic Haplustept** (2025)
    2 citations · Soil Carbon
 
-5. **Long-term Impact of Crop Residue Management on Lability and Thermal Sensitivity of Soil Organic Carbon under Wheat Based Cropping Systems** (2025)
+5. **Impact of nutrient management practices on sulphur availability in soils under rice-wheat cropping system** (2026)
+   0 citations
+
+6. **Long-term Impact of Crop Residue Management on Lability and Thermal Sensitivity of Soil Organic Carbon under Wheat Based Cropping Systems** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

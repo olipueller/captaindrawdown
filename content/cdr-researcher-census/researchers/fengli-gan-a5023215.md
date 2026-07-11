@@ -1,7 +1,7 @@
 ---
 title: "Fengli Gan"
 description: "Fengli Gan is a Mid-career Biochar researcher at Sichuan University in CN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.990069
+date: 2026-07-11T11:05:43.481125
 url: "/cdr-researcher-census/researchers/fengli-gan-a5023215/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 9 |
 | Citations | 337 |
 | Publications | 18 |
-| CDR Focus | 11.1% |
+| CDR Focus | 5.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Elena Blanc‐Betes"
 description: "Elena Blanc‐Betes is a Senior General CDR researcher at University of Illinois Urbana-Champaign in US. With 60 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.394565
+date: 2026-07-11T11:05:43.035631
 url: "/cdr-researcher-census/researchers/elena-blancbetes-a5011965/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 15 |
 | Citations | 952 |
 | Publications | 60 |
-| CDR Focus | 16.7% |
+| CDR Focus | 10.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications

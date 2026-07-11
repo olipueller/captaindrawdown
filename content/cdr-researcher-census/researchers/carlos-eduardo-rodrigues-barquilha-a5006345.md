@@ -1,7 +1,7 @@
 ---
 title: "Carlos Eduardo Rodrigues Barquilha"
 description: "Carlos Eduardo Rodrigues Barquilha is a Mid-career Biochar researcher at Universidade Federal do Paraná in BR. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.586084
+date: 2026-07-11T11:05:43.182278
 url: "/cdr-researcher-census/researchers/carlos-eduardo-rodrigues-barquilha-a5006345/"
 layout: "researcher"
 hiddenInHomeList: true

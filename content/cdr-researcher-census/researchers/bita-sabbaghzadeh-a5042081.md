@@ -1,7 +1,7 @@
 ---
 title: "Bita Sabbaghzadeh"
 description: "Bita Sabbaghzadeh is a Mid-career Ocean CDR researcher at Leibniz Institute for Baltic Sea Research Warnemünde in DE. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.325664
+date: 2026-07-11T11:05:43.697424
 url: "/cdr-researcher-census/researchers/bita-sabbaghzadeh-a5042081/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 5 |
 | Citations | 232 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 5.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

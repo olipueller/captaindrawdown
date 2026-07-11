@@ -1,7 +1,7 @@
 ---
 title: "Hasan Muslemani"
 description: "Hasan Muslemani is a Mid-career General CDR researcher. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.230215
+date: 2026-07-11T11:05:43.632890
 url: "/cdr-researcher-census/researchers/hasan-muslemani-a5100602/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,12 +40,18 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 5 |
 | Citations | 259 |
 | Publications | 11 |
-| CDR Focus | 9.1% |
+| CDR Focus | 27.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Life Cycle Assessment of Four Waste-to-Energy Plant Configurations Equipped with Post-Combustion Carbon Capture and Storage** (2025)
+1. **Life cycle assessment of four waste-to-energy plant configurations equipped with post-combustion carbon capture and storage** (2026)
+   1 citations · BECCS
+
+2. **Assessing the 2030 Technical Potential and Costs of Energy-From- Waste with Carbon Capture and Storage (WECCS) in Saudi Arabia** (2025)
+   0 citations · General CDR
+
+3. **Life Cycle Assessment of Four Waste-to-Energy Plant Configurations Equipped with Post-Combustion Carbon Capture and Storage** (2025)
    0 citations · General CDR
 
 ## External Profiles

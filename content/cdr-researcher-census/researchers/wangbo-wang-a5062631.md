@@ -1,7 +1,7 @@
 ---
 title: "Wangbo Wang"
 description: "Wangbo Wang is a Mid-career Biochar researcher at Xi'an University of Architecture and Technology in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.222037
+date: 2026-07-11T11:05:43.626367
 url: "/cdr-researcher-census/researchers/wangbo-wang-a5062631/"
 layout: "researcher"
 hiddenInHomeList: true

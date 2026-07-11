@@ -1,7 +1,7 @@
 ---
 title: "Jiang Huang"
 description: "Jiang Huang is a Mid-career Biochar researcher at Hohai University in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.288516
+date: 2026-07-11T11:05:43.670343
 url: "/cdr-researcher-census/researchers/jiang-huang-a5101417/"
 layout: "researcher"
 hiddenInHomeList: true

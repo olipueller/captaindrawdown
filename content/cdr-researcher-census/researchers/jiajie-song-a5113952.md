@@ -1,7 +1,7 @@
 ---
 title: "Jiajie Song"
 description: "Jiajie Song is a Mid-career Soil Carbon researcher at Beijing Institute of Technology in CN. With 35 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.795002
+date: 2026-07-11T11:05:43.343353
 url: "/cdr-researcher-census/researchers/jiajie-song-a5113952/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 439 |
 | Publications | 35 |
-| CDR Focus | 8.6% |
+| CDR Focus | 11.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -55,6 +55,12 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 3. **Toward Low-Emission Agriculture: Synergistic Contribution of Inorganic Nitrogen and Organic Fertilizers to GHG Emissions and Strategies for Mitigation** (2025)
    11 citations
+
+4. **Effects of Long-Term Mulching on Soil Aggregation and Organic Carbon Sequestration in Sloping Croplands of the Loess Plateau** (2026)
+   1 citations · Soil Carbon
+
+5. **Biochar's impact on carbon sequestration and yield-scaled global warming potential in China: A machine learning-enhanced meta-analysis** (2026)
+   1 citations · Biochar
 
 ## External Profiles
 

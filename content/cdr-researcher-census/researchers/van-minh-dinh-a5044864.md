@@ -1,7 +1,7 @@
 ---
 title: "Van Minh Dinh"
 description: "Van Minh Dinh is a Mid-career Biochar researcher at Centre for Biomedical Engineering and Physics in SE. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.933906
+date: 2026-07-11T11:05:43.440967
 url: "/cdr-researcher-census/researchers/van-minh-dinh-a5044864/"
 layout: "researcher"
 hiddenInHomeList: true

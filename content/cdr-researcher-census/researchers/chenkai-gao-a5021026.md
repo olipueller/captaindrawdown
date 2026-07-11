@@ -1,7 +1,7 @@
 ---
 title: "Chenkai Gao"
 description: "Chenkai Gao is a Mid-career Soil Carbon researcher at National Engineering Research Center for Wheat in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.342771
+date: 2026-07-11T11:05:43.709781
 url: "/cdr-researcher-census/researchers/chenkai-gao-a5021026/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 228 |
 | Publications | 14 |
-| CDR Focus | 14.3% |
+| CDR Focus | 7.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

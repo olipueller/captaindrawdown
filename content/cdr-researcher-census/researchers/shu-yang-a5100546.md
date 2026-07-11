@@ -1,7 +1,7 @@
 ---
 title: "Shu Yang"
 description: "Shu Yang is an Early-career Enhanced Weathering researcher at Guizhou Normal University in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.547548
+date: 2026-07-11T11:05:43.908659
 url: "/cdr-researcher-census/researchers/shu-yang-a5100546/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 4 |
 | Citations | 183 |
 | Publications | 12 |
-| CDR Focus | 16.7% |
-| Trajectory | Stable |
+| CDR Focus | 8.3% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

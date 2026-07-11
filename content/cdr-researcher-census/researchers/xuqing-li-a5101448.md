@@ -1,7 +1,7 @@
 ---
 title: "Xuqing Li"
 description: "Xuqing Li is a Senior Soil Carbon researcher at Taizhou University in CN. With 59 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.556621
+date: 2026-07-11T11:05:43.151610
 url: "/cdr-researcher-census/researchers/xuqing-li-a5101448/"
 layout: "researcher"
 hiddenInHomeList: true

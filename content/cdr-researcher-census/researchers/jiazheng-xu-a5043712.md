@@ -1,7 +1,7 @@
 ---
 title: "Jiazheng Xu"
 description: "Jiazheng Xu is an Early-career Soil Carbon researcher at Northeast Normal University in CN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.840963
+date: 2026-07-11T11:05:44.206429
 url: "/cdr-researcher-census/researchers/jiazheng-xu-a5043712/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 135 |
 | Publications | 5 |
-| CDR Focus | 40.0% |
-| Trajectory | Growing |
+| CDR Focus | 20.0% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

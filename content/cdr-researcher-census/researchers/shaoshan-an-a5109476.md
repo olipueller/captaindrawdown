@@ -1,7 +1,7 @@
 ---
 title: "Shaoshan An"
 description: "Shaoshan An is an Eminent Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 121 publications and an h-index of 46, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.960390
+date: 2026-07-11T11:05:42.796919
 url: "/cdr-researcher-census/researchers/shaoshan-an-a5109476/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,40 +45,40 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 46 |
 | Citations | 6,051 |
 | Publications | 121 |
-| CDR Focus | 9.1% |
+| CDR Focus | 28.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
-1. **Metabolic pathways of CO2 fixing microorganisms determined C-fixation rates in grassland soils along the precipitation gradient** (2022)
+1. **Microbial necromass as the source of soil organic carbon in global ecosystems** (2021)
+   907 citations · Soil Carbon
+
+2. **Initial soil formation by biocrusts: Nitrogen demand and clay protection control microbial necromass accrual and recycling** (2022)
+   201 citations · Soil Carbon
+
+3. **Metabolic pathways of CO2 fixing microorganisms determined C-fixation rates in grassland soils along the precipitation gradient** (2022)
    141 citations · Soil Carbon
 
-2. **The accumulation of microbial necromass carbon from litter to mineral soil and its contribution to soil organic carbon sequestration** (2021)
+4. **The accumulation of microbial necromass carbon from litter to mineral soil and its contribution to soil organic carbon sequestration** (2021)
    114 citations · Soil Carbon
 
-3. **Importance of soil labile organic carbon fractions in shaping microbial community after vegetation restoration** (2022)
+5. **Contribution of roots to soil organic carbon: From growth to decomposition experiment** (2023)
+   97 citations · Soil Carbon
+
+6. **Divergent contribution of particulate and mineral-associated organic matter to soil carbon in grassland** (2023)
+   73 citations · Soil Carbon
+
+7. **Fertilization and tillage influence on soil organic carbon fractions: A global meta-analysis** (2024)
+   51 citations · Soil Carbon
+
+8. **Importance of soil labile organic carbon fractions in shaping microbial community after vegetation restoration** (2022)
    50 citations · Soil Carbon
 
-4. **Fungal necromass contribution to carbon sequestration in global croplands: A meta-analysis of driving factors and conservation practices** (2024)
-   25 citations · Soil Carbon
+9. **Effects of microbial groups on soil organic carbon accrual and mineralization during high- and low-quality litter decomposition** (2024)
+   38 citations · Soil Carbon
 
-5. **Review of Managing Soil Organic C Sequestration from Vegetation Restoration on the Loess Plateau** (2023)
-   19 citations · General CDR
-
-6. **Glucoproteins in particulate and mineral-associated organic matter pools during grassland restoration** (2024)
-   9 citations · Soil Carbon
-
-7. **Glomalin-related soil proteins in particulate and mineral-associated organic carbon pools in alpine grasslands with different degradation degrees** (2025)
-   7 citations · Soil Carbon
-
-8. **Rice-maize rotation alters soil carbon dynamics in saline-alkaline soils of Ningxia province, northwest China** (2025)
-   6 citations · Soil Carbon
-
-9. **Is the Change of Soil Carbon Capacity Persistence Rising or Remain Stable With Maturity of Vegetation Restoration?** (2021)
-   6 citations · Soil Carbon
-
-10. **Effects of land use type on soil aggregate stability and organic carbon fractions in the He Huang Valley, Qinghai-Tibet plateau** (2025)
-   2 citations · Soil Carbon
+10. **Unfolding the Potential of Soil Microbial Community Diversity for Accumulation of Necromass Carbon at Large Scale** (2025)
+   33 citations · Soil Carbon
 
 ## External Profiles
 

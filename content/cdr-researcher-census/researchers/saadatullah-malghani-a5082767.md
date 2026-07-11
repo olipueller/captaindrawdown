@@ -1,7 +1,7 @@
 ---
 title: "Saadatullah Malghani"
 description: "Saadatullah Malghani is a Senior Soil Carbon researcher at University of Copenhagen in DK. With 40 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.269824
+date: 2026-07-11T11:05:42.955750
 url: "/cdr-researcher-census/researchers/saadatullah-malghani-a5082767/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 18 |
 | Citations | 1,353 |
 | Publications | 40 |
-| CDR Focus | 12.5% |
-| Trajectory | Stable |
+| CDR Focus | 10.0% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

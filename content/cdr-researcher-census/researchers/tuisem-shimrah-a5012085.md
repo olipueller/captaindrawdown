@@ -1,7 +1,7 @@
 ---
 title: "Tuisem Shimrah"
 description: "Tuisem Shimrah is a Mid-career Soil Carbon researcher at Guru Gobind Singh Indraprastha University in IN. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.676313
+date: 2026-07-11T11:05:44.082003
 url: "/cdr-researcher-census/researchers/tuisem-shimrah-a5012085/"
 layout: "researcher"
 hiddenInHomeList: true

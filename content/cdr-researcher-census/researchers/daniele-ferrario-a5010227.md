@@ -1,7 +1,7 @@
 ---
 title: "Daniele Ferrario"
 description: "Daniele Ferrario is a Mid-career General CDR researcher at Politecnico di Torino in IT. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.645100
+date: 2026-07-11T11:05:44.052953
 url: "/cdr-researcher-census/researchers/daniele-ferrario-a5010227/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 5 |
 | Citations | 165 |
 | Publications | 8 |
-| CDR Focus | 25.0% |
-| Trajectory | Stable |
+| CDR Focus | 12.5% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

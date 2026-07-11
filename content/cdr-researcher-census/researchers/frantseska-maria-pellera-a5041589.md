@@ -1,7 +1,7 @@
 ---
 title: "Frantseska-Maria Pellera"
 description: "Frantseska-Maria Pellera is a Mid-career Soil Carbon researcher at Technical University of Crete in GR. With 12 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.387477
+date: 2026-07-11T11:05:43.030963
 url: "/cdr-researcher-census/researchers/frantseska-maria-pellera-a5041589/"
 layout: "researcher"
 hiddenInHomeList: true

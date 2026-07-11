@@ -1,7 +1,7 @@
 ---
 title: "Riya Sawarkar"
 description: "Riya Sawarkar is a Mid-career Soil Carbon researcher at National Environmental Engineering Research Institute in IN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.578647
+date: 2026-07-11T11:05:43.962434
 url: "/cdr-researcher-census/researchers/riya-sawarkar-a5003881/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 177 |
 | Publications | 12 |
-| CDR Focus | 16.7% |
-| Trajectory | Stable |
+| CDR Focus | 8.3% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

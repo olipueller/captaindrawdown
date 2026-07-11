@@ -1,7 +1,7 @@
 ---
 title: "Dao Cheng"
 description: "Dao Cheng is a Mid-career Biochar researcher at Donghua University in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.542448
+date: 2026-07-11T11:05:43.902073
 url: "/cdr-researcher-census/researchers/dao-cheng-a5061550/"
 layout: "researcher"
 hiddenInHomeList: true

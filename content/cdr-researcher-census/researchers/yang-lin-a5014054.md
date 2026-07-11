@@ -1,7 +1,7 @@
 ---
 title: "Yang Lin"
 description: "Yang Lin is a Senior Soil Carbon researcher at University of Florida in US. With 66 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.257172
+date: 2026-07-11T11:05:42.946473
 url: "/cdr-researcher-census/researchers/yang-lin-a5014054/"
 layout: "researcher"
 hiddenInHomeList: true

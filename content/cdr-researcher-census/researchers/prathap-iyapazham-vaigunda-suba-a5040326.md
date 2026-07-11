@@ -1,7 +1,7 @@
 ---
 title: "Prathap Iyapazham Vaigunda Suba"
 description: "Prathap Iyapazham Vaigunda Suba is an Early-career Ocean CDR researcher at University of Calgary in CA. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.892809
+date: 2026-07-11T11:05:44.244306
 url: "/cdr-researcher-census/researchers/prathap-iyapazham-vaigunda-suba-a5040326/"
 layout: "researcher"
 hiddenInHomeList: true

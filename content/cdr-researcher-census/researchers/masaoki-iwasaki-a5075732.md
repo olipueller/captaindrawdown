@@ -1,7 +1,7 @@
 ---
 title: "Masaoki Iwasaki"
 description: "Masaoki Iwasaki is a Senior General CDR researcher at Toyota Motor Corporation (Switzerland) in CH. With 29 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.397248
+date: 2026-07-11T11:05:43.037921
 url: "/cdr-researcher-census/researchers/masaoki-iwasaki-a5075732/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 11 |
 | Citations | 946 |
 | Publications | 29 |
-| CDR Focus | 17.2% |
-| Trajectory | Stable |
+| CDR Focus | 6.9% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

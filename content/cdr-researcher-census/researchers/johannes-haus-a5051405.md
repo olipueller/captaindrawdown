@@ -1,7 +1,7 @@
 ---
 title: "Johannes Haus"
 description: "Johannes Haus is a Senior General CDR researcher at BASF (Germany) in DE. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.379561
+date: 2026-07-11T11:05:43.735295
 url: "/cdr-researcher-census/researchers/johannes-haus-a5051405/"
 layout: "researcher"
 hiddenInHomeList: true

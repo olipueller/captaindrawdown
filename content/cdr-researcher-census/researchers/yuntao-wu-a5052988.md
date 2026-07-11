@@ -1,7 +1,7 @@
 ---
 title: "Yuntao Wu"
 description: "Yuntao Wu is a Senior Soil Carbon researcher at University of Chinese Academy of Sciences in CN. With 36 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.424221
+date: 2026-07-11T11:05:43.055233
 url: "/cdr-researcher-census/researchers/yuntao-wu-a5052988/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 14 |
 | Citations | 885 |
 | Publications | 36 |
-| CDR Focus | 8.3% |
+| CDR Focus | 5.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -58,6 +58,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 3. **The soil organic carbon sequestration potential and formation efficiency of China’s temperate grasslands** (2025)
    4 citations · Soil Carbon
+
+4. **Biophysical regulation of ecosystem carbon use efficiency in a temperate grassland through nitrogen use efficiency and canopy structure under deepened snow** (2026)
+   0 citations
 
 ## External Profiles
 

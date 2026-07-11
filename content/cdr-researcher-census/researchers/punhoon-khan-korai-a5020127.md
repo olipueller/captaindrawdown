@@ -1,7 +1,7 @@
 ---
 title: "Punhoon Khan Korai"
 description: "Punhoon Khan Korai is a Mid-career Soil Carbon researcher at Lasbela University of Agriculture Water and Marine Science in PK. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.501424
+date: 2026-07-11T11:05:43.109717
 url: "/cdr-researcher-census/researchers/punhoon-khan-korai-a5020127/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zhan Shi"
-description: "Zhan Shi is a Mid-career Biochar researcher at University of Padua in IT. With 35 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.921239
+description: "Zhan Shi is a Mid-career Soil Carbon researcher at University of Padua in IT. With 35 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:43.431460
 url: "/cdr-researcher-census/researchers/zhan-shi-a5076914/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Padua · 🇮🇹 IT
 
 ## CDR Specialization
 
-**Biochar**
+**Soil Carbon**
 
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
@@ -53,13 +53,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 1. **Biogas slurry purification-lettuce growth nexus: Nutrients absorption and pollutants removal** (2023)
    23 citations
 
-2. **Optimizing fertilization strategies for low-carbon agriculture: Balancing greenhouse gas mitigation, soil health, and productivity** (2025)
+2. **Optimal soil organic matter mapping using an ensemble model incorporating moderate resolution imaging spectroradiometer, portable X-ray fluorescence, and visible near-infrared data** (2023)
+   20 citations · Soil Carbon
+
+3. **Optimizing fertilization strategies for low-carbon agriculture: Balancing greenhouse gas mitigation, soil health, and productivity** (2025)
    9 citations · Biochar
 
-3. **Application of carbon biological sequestration technology in CCUS: Potential and optimization strategies for inorganic carbon absorption by plant root and CO2 carriers by biogas slurry** (2025)
+4. **Application of carbon biological sequestration technology in CCUS: Potential and optimization strategies for inorganic carbon absorption by plant root and CO2 carriers by biogas slurry** (2025)
    5 citations · Biochar
 
-4. **Integrated carbon sequestration and agricultural efficiency enhancement: Reconstruction of tomato ecosystem carbon cycle via carbonized biomass ash-biogas slurry system** (2025)
+5. **Integrated carbon sequestration and agricultural efficiency enhancement: Reconstruction of tomato ecosystem carbon cycle via carbonized biomass ash-biogas slurry system** (2025)
    1 citations · Biochar
 
 ## External Profiles

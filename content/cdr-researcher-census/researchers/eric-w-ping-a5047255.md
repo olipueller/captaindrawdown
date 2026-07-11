@@ -1,7 +1,7 @@
 ---
 title: "Eric W. Ping"
-description: "Eric W. Ping is a Senior Unknown researcher at Brighton Hospital in US. With 17 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.330606
+description: "Eric W. Ping is a Senior DAC researcher at Brighton Hospital in US. With 17 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:42.994607
 url: "/cdr-researcher-census/researchers/eric-w-ping-a5047255/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Brighton Hospital · 🇺🇸 US
 
 ## CDR Specialization
 
-**Unknown**
+**DAC**
 
-Unknown
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 
@@ -45,8 +45,8 @@ Unknown
 | h-index | 15 |
 | Citations | 1,130 |
 | Publications | 17 |
-| CDR Focus | 17.6% |
-| Trajectory | Exiting |
+| CDR Focus | 5.9% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
@@ -58,6 +58,9 @@ Unknown
 
 3. **Insights into the Oxidative Degradation Mechanism of Solid Amine Sorbents for CO <sub>2</sub> Capture from Air: Roles of Atmospheric Water** (2023)
    14 citations
+
+4. **Microalgae Commodities Production with a Direct Air Capture Process (Final Technical Report)** (2026)
+   0 citations · DAC
 
 ## External Profiles
 

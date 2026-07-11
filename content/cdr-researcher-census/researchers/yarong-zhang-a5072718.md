@@ -1,7 +1,7 @@
 ---
 title: "Yarong Zhang"
 description: "Yarong Zhang is a Mid-career Soil Carbon researcher at Xi'an University of Architecture and Technology in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.654865
+date: 2026-07-11T11:05:44.064244
 url: "/cdr-researcher-census/researchers/yarong-zhang-a5072718/"
 layout: "researcher"
 hiddenInHomeList: true

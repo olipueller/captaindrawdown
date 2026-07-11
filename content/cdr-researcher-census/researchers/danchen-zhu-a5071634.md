@@ -1,7 +1,7 @@
 ---
 title: "Danchen Zhu"
 description: "Danchen Zhu is a Mid-career Biochar researcher at Anhui University in CN. With 21 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.481776
+date: 2026-07-11T11:05:43.095220
 url: "/cdr-researcher-census/researchers/danchen-zhu-a5071634/"
 layout: "researcher"
 hiddenInHomeList: true

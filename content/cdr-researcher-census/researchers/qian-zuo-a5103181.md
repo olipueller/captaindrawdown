@@ -1,7 +1,7 @@
 ---
 title: "Qian Zuo"
 description: "Qian Zuo is a Senior Biochar researcher at South China University of Technology in CN. With 42 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.480809
+date: 2026-07-11T11:05:43.094362
 url: "/cdr-researcher-census/researchers/qian-zuo-a5103181/"
 layout: "researcher"
 hiddenInHomeList: true

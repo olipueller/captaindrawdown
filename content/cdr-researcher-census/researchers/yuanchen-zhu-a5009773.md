@@ -1,7 +1,7 @@
 ---
 title: "Yuanchen Zhu"
 description: "Yuanchen Zhu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.571878
+date: 2026-07-11T11:05:43.162996
 url: "/cdr-researcher-census/researchers/yuanchen-zhu-a5009773/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 13 |
 | Citations | 639 |
 | Publications | 33 |
-| CDR Focus | 12.1% |
-| Trajectory | Stable |
+| CDR Focus | 9.1% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

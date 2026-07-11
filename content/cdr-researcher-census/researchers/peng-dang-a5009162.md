@@ -1,7 +1,7 @@
 ---
 title: "Peng Dang"
 description: "Peng Dang is a Mid-career Soil Carbon researcher at Central South University of Forestry and Technology in CN. With 21 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.411495
+date: 2026-07-11T11:05:43.047050
 url: "/cdr-researcher-census/researchers/peng-dang-a5009162/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -59,7 +59,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **Thinning Intensity Enhances Soil Multifunctionality and Microbial Residue Contributions to Organic Carbon Sequestration in Chinese Fir Plantations** (2025)
    6 citations · Soil Carbon
 
-4. **Contribution of microbial necromass to soil organic carbon and its influencing factors during plantation recovery in a subtropical rocky desertification region** (2025)
+4. **Linking leaf‒litter‒soil stoichiometry to microbial carbon‒use efficiency across different forest types in north subtropical China** (2025)
+   5 citations · Soil Carbon
+
+5. **Contribution of microbial necromass to soil organic carbon and its influencing factors during plantation recovery in a subtropical rocky desertification region** (2025)
    5 citations · Soil Carbon
 
 ## External Profiles

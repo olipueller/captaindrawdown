@@ -1,7 +1,7 @@
 ---
 title: "Jianyun Hou"
 description: "Jianyun Hou is a Mid-career Soil Carbon researcher. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.140913
+date: 2026-07-11T11:05:44.434197
 url: "/cdr-researcher-census/researchers/jianyun-hou-a5039418/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,6 +43,12 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **How significant a role can China’s forest sector play in decarbonizing its economy?** (2022)
+   14 citations · General CDR
+
+2. **Assessing the carbon offsetting potential of China’s forest sector: reflection and outlook** (2023)
+   3 citations
+
+3. **How significant a role can China’s forest sector play in decarbonizing its economy?** (2022)
    0 citations · Soil Carbon
 
 ## External Profiles

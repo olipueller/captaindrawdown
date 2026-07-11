@@ -1,7 +1,7 @@
 ---
 title: "Tongying Wang"
 description: "Tongying Wang is a Senior Soil Carbon researcher at Zhejiang A & F University in CN. With 16 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.627619
+date: 2026-07-11T11:05:43.225583
 url: "/cdr-researcher-census/researchers/tongying-wang-a5057377/"
 layout: "researcher"
 hiddenInHomeList: true

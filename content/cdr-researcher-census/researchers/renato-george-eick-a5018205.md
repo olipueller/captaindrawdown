@@ -1,7 +1,7 @@
 ---
 title: "Renato George Eick"
 description: "Renato George Eick is a Senior General CDR researcher at Hospital Moinhos de Vento in BR. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.942855
+date: 2026-07-11T11:05:43.446569
 url: "/cdr-researcher-census/researchers/renato-george-eick-a5018205/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 7 |
 | Citations | 358 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
-| Trajectory | Stable |
+| CDR Focus | 5.3% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

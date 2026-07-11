@@ -1,7 +1,7 @@
 ---
 title: "Velma Beri Kimbi Yaah"
 description: "Velma Beri Kimbi Yaah is a Mid-career Soil Carbon researcher at University of Oulu in FI. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.472374
+date: 2026-07-11T11:05:43.800427
 url: "/cdr-researcher-census/researchers/velma-beri-kimbi-yaah-a5058368/"
 layout: "researcher"
 hiddenInHomeList: true

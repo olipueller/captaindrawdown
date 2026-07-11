@@ -1,7 +1,7 @@
 ---
 title: "Wenping Meng"
 description: "Wenping Meng is a Mid-career Soil Carbon researcher at Guizhou Botanical Garden in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.111883
+date: 2026-07-11T11:05:44.412681
 url: "/cdr-researcher-census/researchers/wenping-meng-a5037284/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 106 |
 | Publications | 17 |
-| CDR Focus | 17.6% |
-| Trajectory | Growing |
+| CDR Focus | 11.8% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

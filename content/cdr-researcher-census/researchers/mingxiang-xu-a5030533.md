@@ -1,7 +1,7 @@
 ---
 title: "Mingxiang Xu"
 description: "Mingxiang Xu is a Senior Soil Carbon researcher at Institute of Soil and Water Conservation Chinese Academy of Sciences and Ministry of Water Resources in CN. With 99 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.077864
+date: 2026-07-11T11:05:42.847945
 url: "/cdr-researcher-census/researchers/mingxiang-xu-a5030533/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 30 |
 | Citations | 2,961 |
 | Publications | 99 |
-| CDR Focus | 9.1% |
+| CDR Focus | 10.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -74,7 +74,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 8. **Organic-to-inorganic carbon conversion as a potential pathway for soil carbon sequestration in revegetated soils of the Loess Plateau** (2026)
    0 citations · Soil Carbon
 
-9. **[Effects of grazing on soil organic carbon stocks in the revegetated grasslands on the Loess Plateau, China].** (2022)
+9. **Global patterns of tree diversity effects on soil respiration and their linkages to soil organic carbon** (2026)
+   0 citations · Soil Carbon
+
+10. **[Effects of grazing on soil organic carbon stocks in the revegetated grasslands on the Loess Plateau, China].** (2022)
    0 citations · Soil Carbon
 
 ## External Profiles

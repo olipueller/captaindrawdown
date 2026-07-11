@@ -1,7 +1,7 @@
 ---
 title: "M. Ade Kurnia Harahap"
 description: "M. Ade Kurnia Harahap is a Mid-career Soil Carbon researcher at Universitas Sumatera Utara in ID. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.950553
+date: 2026-07-11T11:05:44.287503
 url: "/cdr-researcher-census/researchers/m-ade-kurnia-harahap-a5011557/"
 layout: "researcher"
 hiddenInHomeList: true

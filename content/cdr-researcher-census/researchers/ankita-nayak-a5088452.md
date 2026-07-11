@@ -1,7 +1,7 @@
 ---
 title: "Ankita Nayak"
 description: "Ankita Nayak is a Mid-career General CDR researcher at Climate Analytics in DE. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.837734
+date: 2026-07-11T11:05:43.374748
 url: "/cdr-researcher-census/researchers/ankita-nayak-a5088452/"
 layout: "researcher"
 hiddenInHomeList: true

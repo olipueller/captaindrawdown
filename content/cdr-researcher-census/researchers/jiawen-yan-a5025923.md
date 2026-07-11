@@ -1,7 +1,7 @@
 ---
 title: "Jiawen Yan"
 description: "Jiawen Yan is a Mid-career Soil Carbon researcher at Northeast Normal University in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.812693
+date: 2026-07-11T11:05:43.357002
 url: "/cdr-researcher-census/researchers/jiawen-yan-a5025923/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,13 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 429 |
 | Publications | 11 |
-| CDR Focus | 9.1% |
-| Trajectory | Growing |
+| CDR Focus | 18.2% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Freeze-thaw carry-over effect promotes decomposition of recalcitrant carbon in peatlands by nitrogen limitation** (2025)
    4 citations · Soil Carbon
+
+2. **Snow removal promotes microbial-mediated organic carbon stabilization within soil aggregates in a peatland of Northeast China** (2024)
+   2 citations · Soil Carbon
 
 ## External Profiles
 

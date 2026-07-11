@@ -1,7 +1,7 @@
 ---
 title: "Wenqiang Pei"
 description: "Wenqiang Pei is a Mid-career General CDR researcher. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.126101
+date: 2026-07-11T11:05:43.557536
 url: "/cdr-researcher-census/researchers/wenqiang-pei-a5017872/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -37,8 +37,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 8 |
 | Citations | 294 |
 | Publications | 19 |
-| CDR Focus | 21.1% |
-| Trajectory | Declining |
+| CDR Focus | 5.3% |
+| Trajectory | Exiting |
 
 ## Top CDR Publications
 

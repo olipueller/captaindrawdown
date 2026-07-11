@@ -1,7 +1,7 @@
 ---
 title: "Ziyan Zhang"
 description: "Ziyan Zhang is a Senior General CDR researcher at Jilin University in CN. With 51 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.674787
+date: 2026-07-11T11:05:43.257794
 url: "/cdr-researcher-census/researchers/ziyan-zhang-a5100658/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 11 |
 | Citations | 533 |
 | Publications | 51 |
-| CDR Focus | 17.6% |
+| CDR Focus | 11.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

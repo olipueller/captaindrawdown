@@ -1,7 +1,7 @@
 ---
 title: "Tobias Linke"
 description: "Tobias Linke is a Mid-career Enhanced Weathering researcher at Universität Hamburg in DE. With 42 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.672693
+date: 2026-07-11T11:05:44.080161
 url: "/cdr-researcher-census/researchers/tobias-linke-a5081151/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 8 |
 | Citations | 160 |
 | Publications | 42 |
-| CDR Focus | 31.0% |
-| Trajectory | Stable |
+| CDR Focus | 26.2% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
@@ -65,17 +65,17 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 6. **Rock/soil interactions governing alkalinity release and cation retention in greenhouse enhanced weathering experiments** (2026)
    0 citations · Enhanced Weathering
 
-7. **Iron Dynamics in Basalt-rich Andosols – Implications for Enhanced Rock Weathering** (2025)
+7. **Comment on egusphere-2025-5402** (2026)
    0 citations · Enhanced Weathering
 
-8. **Direct evidence of CO<sub>2</sub> drawdown through Enhanced Rock Weathering in carbon rich soils** (2024)
+8. **Iron Dynamics in Basalt-rich Andosols – Implications for Enhanced Rock Weathering** (2025)
    0 citations · Enhanced Weathering
 
-9. **Synergistic effects of co-application and co-pyrolysis of biochar and enhanced weathering materials for CO2 removal in an Oxisol** (2025)
+9. **Direct evidence of CO<sub>2</sub> drawdown through Enhanced Rock Weathering in carbon rich soils** (2024)
+   0 citations · Enhanced Weathering
+
+10. **Synergistic effects of co-application and co-pyrolysis of biochar and enhanced weathering materials for CO2 removal in an Oxisol** (2025)
    0 citations · Biochar
-
-10. **Direct evidence of CO2 drawdown through enhanced weathering in soils** (2023)
-   0 citations · Enhanced Weathering
 
 ## External Profiles
 

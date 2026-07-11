@@ -1,7 +1,7 @@
 ---
 title: "Aoqi Cheng"
 description: "Aoqi Cheng is an Early-career Soil Carbon researcher at Huazhong University of Science and Technology in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.793545
+date: 2026-07-11T11:05:44.169743
 url: "/cdr-researcher-census/researchers/aoqi-cheng-a5033464/"
 layout: "researcher"
 hiddenInHomeList: true

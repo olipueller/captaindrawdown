@@ -1,7 +1,7 @@
 ---
 title: "Tong Cai"
 description: "Tong Cai is a Mid-career Biochar researcher at Air Force Engineering University in CN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.629515
+date: 2026-07-11T11:05:43.226843
 url: "/cdr-researcher-census/researchers/tong-cai-a5110977/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,13 +42,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 9 |
 | Citations | 575 |
 | Publications | 18 |
-| CDR Focus | 5.6% |
-| Trajectory | Exiting |
+| CDR Focus | 11.1% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Functionalized construction of highly aromatic condensed graphitized biochar for tetracycline adsorption** (2024)
    20 citations · Biochar
+
+2. **Efficient sulfamethoxazole degradation via staged PMS activation on magnetic pyrite–biochar: Enhanced mineralization and mechanism** (2026)
+   4 citations · Biochar
 
 ## External Profiles
 

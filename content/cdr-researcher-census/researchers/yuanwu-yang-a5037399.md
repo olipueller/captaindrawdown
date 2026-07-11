@@ -1,7 +1,7 @@
 ---
 title: "Yuanwu Yang"
 description: "Yuanwu Yang is a Senior Soil Carbon researcher at Qinghai University in CN. With 26 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.518608
+date: 2026-07-11T11:05:43.875534
 url: "/cdr-researcher-census/researchers/yuanwu-yang-a5037399/"
 layout: "researcher"
 hiddenInHomeList: true

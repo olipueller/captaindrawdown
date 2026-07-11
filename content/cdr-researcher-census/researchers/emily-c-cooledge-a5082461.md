@@ -1,7 +1,7 @@
 ---
 title: "Emily C. Cooledge"
 description: "Emily C. Cooledge is a Mid-career Soil Carbon researcher at Bangor University in GB. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.740600
+date: 2026-07-11T11:05:43.303835
 url: "/cdr-researcher-census/researchers/emily-c-cooledge-a5082461/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 476 |
 | Publications | 29 |
-| CDR Focus | 27.6% |
-| Trajectory | Stable |
+| CDR Focus | 13.8% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

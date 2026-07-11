@@ -1,7 +1,7 @@
 ---
 title: "Farida M. El Dars"
 description: "Farida M. El Dars is a Mid-career Biochar researcher at Helwan University in EG. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.443640
+date: 2026-07-11T11:05:43.779828
 url: "/cdr-researcher-census/researchers/farida-m-el-dars-a5062067/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xurui Zhu"
 description: "Xurui Zhu is a Mid-career Biochar researcher at Suzhou University of Science and Technology in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.996977
+date: 2026-07-11T11:05:44.324249
 url: "/cdr-researcher-census/researchers/xurui-zhu-a5108968/"
 layout: "researcher"
 hiddenInHomeList: true

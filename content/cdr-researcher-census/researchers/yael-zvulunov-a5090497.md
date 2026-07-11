@@ -1,7 +1,7 @@
 ---
 title: "Yael Zvulunov"
 description: "Yael Zvulunov is a Mid-career Biochar researcher at Colorado State University in US. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.014257
+date: 2026-07-11T11:05:44.337638
 url: "/cdr-researcher-census/researchers/yael-zvulunov-a5090497/"
 layout: "researcher"
 hiddenInHomeList: true

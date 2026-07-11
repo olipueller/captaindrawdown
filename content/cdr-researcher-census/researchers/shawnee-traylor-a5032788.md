@@ -1,7 +1,7 @@
 ---
 title: "Shawnee Traylor"
 description: "Shawnee Traylor is a Mid-career Ocean CDR researcher at Monterey Bay Aquarium Research Institute in US. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.729460
+date: 2026-07-11T11:05:44.122760
 url: "/cdr-researcher-census/researchers/shawnee-traylor-a5032788/"
 layout: "researcher"
 hiddenInHomeList: true

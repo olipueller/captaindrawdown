@@ -1,7 +1,7 @@
 ---
 title: "Maiara S. Mendes"
 description: "Maiara S. Mendes is a Mid-career Soil Carbon researcher at Instituto de Pesquisas Jardim Botânico do Rio de Janeiro in BR. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.477077
+date: 2026-07-11T11:05:43.804813
 url: "/cdr-researcher-census/researchers/maiara-s-mendes-a5080522/"
 layout: "researcher"
 hiddenInHomeList: true

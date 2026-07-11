@@ -1,7 +1,7 @@
 ---
 title: "Andrew Sexton"
 description: "Andrew Sexton is a Senior General CDR researcher at Trimeric (United States) in US. With 39 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.667179
+date: 2026-07-11T11:05:43.251774
 url: "/cdr-researcher-census/researchers/andrew-sexton-a5090837/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 9 |
 | Citations | 540 |
 | Publications | 39 |
-| CDR Focus | 10.3% |
+| CDR Focus | 7.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Mahesh Itagi"
 description: "Mahesh Itagi is a Mid-career General CDR researcher at Yeungnam University in KR. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.005017
+date: 2026-07-11T11:05:44.329957
 url: "/cdr-researcher-census/researchers/mahesh-itagi-a5011857/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Pooja Arora"
 description: "Pooja Arora is a Mid-career Soil Carbon researcher at Kurukshetra University in IN. With 38 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.456734
+date: 2026-07-11T11:05:43.788361
 url: "/cdr-researcher-census/researchers/pooja-arora-a5078045/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 201 |
 | Publications | 38 |
-| CDR Focus | 7.9% |
+| CDR Focus | 5.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

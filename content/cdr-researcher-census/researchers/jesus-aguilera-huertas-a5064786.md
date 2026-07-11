@@ -1,7 +1,7 @@
 ---
 title: "Jesús Aguilera-Huertas"
 description: "Jesús Aguilera-Huertas is a Mid-career Soil Carbon researcher at Universidad Politécnica de Cartagena in ES. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.389411
+date: 2026-07-11T11:05:43.742866
 url: "/cdr-researcher-census/researchers/jesus-aguilera-huertas-a5064786/"
 layout: "researcher"
 hiddenInHomeList: true

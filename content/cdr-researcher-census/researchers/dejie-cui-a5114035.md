@@ -1,7 +1,7 @@
 ---
 title: "Dejie Cui"
 description: "Dejie Cui is a Senior Biochar researcher at Qingdao Agricultural University in CN. With 25 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.832554
+date: 2026-07-11T11:05:43.372090
 url: "/cdr-researcher-census/researchers/dejie-cui-a5114035/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 8 |
 | Citations | 415 |
 | Publications | 25 |
-| CDR Focus | 36.0% |
-| Trajectory | Stable |
+| CDR Focus | 28.0% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

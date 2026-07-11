@@ -1,7 +1,7 @@
 ---
 title: "Zachary J. Cannizzo"
 description: "Zachary J. Cannizzo is a Mid-career General CDR researcher at NOAA Office of National Marine Sanctuaries in US. With 30 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.442439
+date: 2026-07-11T11:05:43.779083
 url: "/cdr-researcher-census/researchers/zachary-j-cannizzo-a5062304/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 9 |
 | Citations | 204 |
 | Publications | 30 |
-| CDR Focus | 10.0% |
+| CDR Focus | 6.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

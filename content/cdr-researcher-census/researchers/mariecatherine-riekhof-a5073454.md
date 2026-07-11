@@ -1,7 +1,7 @@
 ---
 title: "Marie‐Catherine Riekhof"
 description: "Marie‐Catherine Riekhof is a Senior Ocean CDR researcher at Hochschule für Angewandte Wissenschaften Kiel in DE. With 45 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.843740
+date: 2026-07-11T11:05:43.378848
 url: "/cdr-researcher-census/researchers/mariecatherine-riekhof-a5073454/"
 layout: "researcher"
 hiddenInHomeList: true

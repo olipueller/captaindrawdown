@@ -1,7 +1,7 @@
 ---
 title: "Yangfeng Wu"
 description: "Yangfeng Wu is a Mid-career Biochar researcher at Hunan University in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.250419
+date: 2026-07-11T11:05:43.646259
 url: "/cdr-researcher-census/researchers/yangfeng-wu-a5068461/"
 layout: "researcher"
 hiddenInHomeList: true

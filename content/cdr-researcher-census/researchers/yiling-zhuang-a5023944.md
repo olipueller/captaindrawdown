@@ -1,7 +1,7 @@
 ---
 title: "Yiling Zhuang"
 description: "Yiling Zhuang is a Mid-career Biochar researcher at Fujian Medical University in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.472845
+date: 2026-07-11T11:05:43.800977
 url: "/cdr-researcher-census/researchers/yiling-zhuang-a5023944/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Laura Thölix"
 description: "Laura Thölix is a Senior Soil Carbon researcher at Finnish Meteorological Institute in FI. With 60 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.765957
+date: 2026-07-11T11:05:43.323722
 url: "/cdr-researcher-census/researchers/laura-tholix-a5018282/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,24 +45,39 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 458 |
 | Publications | 60 |
-| CDR Focus | 8.3% |
-| Trajectory | Stable |
+| CDR Focus | 5.0% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Carbon sequestration in different urban vegetation types in Southern Finland** (2025)
    12 citations · General CDR
 
-2. **Advancing our understanding on the climate mitigation potential of urban green infrastructure   ** (2025)
+2. **Model results of LAI, GPP, soil respiration, soil temperature, and soil moisture in 2018-2021 and NEE in 2006-2021 in urban green spaces in Helsinki** (2024)
+   0 citations
+
+3. **Model results of LAI, GPP, soil respiration, soil temperature, and soil moisture in 2018-2021 and NEE in 2006-2021 in urban green spaces in Helsinki** (2024)
+   0 citations
+
+4. **Model results of LAI, GPP, soil respiration, soil temperature, and soil moisture in 2018-2021 and NEE in 2006-2021 in urban green spaces in Helsinki** (2024)
+   0 citations · Soil Carbon
+
+5. **Advancing our understanding on the climate mitigation potential of urban green infrastructure   ** (2025)
    0 citations · General CDR
 
-3. **Supplementary material to "Carbon sequestration in different urban vegetation types in Southern Finland"** (2024)
+6. **Reply on RC2** (2024)
+   0 citations · General CDR
+
+7. **Reply on RC1** (2024)
+   0 citations · General CDR
+
+8. **Supplementary material to "Carbon sequestration in different urban vegetation types in Southern Finland"** (2024)
    0 citations
 
-4. **Carbon sequestration in different urban vegetation types in Southern Finland** (2024)
+9. **Carbon sequestration in different urban vegetation types in Southern Finland** (2024)
    0 citations
 
-5. **Carbon sequestration to different green urban land-use types in Helsinki Finland** (2022)
+10. **Carbon sequestration to different green urban land-use types in Helsinki Finland** (2022)
    0 citations · General CDR
 
 ## External Profiles

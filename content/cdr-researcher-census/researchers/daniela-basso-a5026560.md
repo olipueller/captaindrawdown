@@ -1,7 +1,7 @@
 ---
 title: "Daniela Basso"
 description: "Daniela Basso is a Senior Ocean CDR researcher at Università degli Studi di Milano-Bicocca in IT. With 272 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.045926
+date: 2026-07-11T11:05:42.833436
 url: "/cdr-researcher-census/researchers/daniela-basso-a5026560/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 31 |
 | Citations | 3,438 |
 | Publications | 272 |
-| CDR Focus | 6.2% |
+| CDR Focus | 5.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

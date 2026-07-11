@@ -1,7 +1,7 @@
 ---
 title: "Agathe Revallier"
 description: "Agathe Revallier is a Mid-career Soil Carbon researcher at Veolia (France) in FR. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.722335
+date: 2026-07-11T11:05:43.290667
 url: "/cdr-researcher-census/researchers/agathe-revallier-a5056781/"
 layout: "researcher"
 hiddenInHomeList: true

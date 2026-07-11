@@ -1,7 +1,7 @@
 ---
 title: "Helen Murray"
 description: "Helen Murray is a Senior Soil Carbon researcher at University of Glasgow in GB. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.262444
+date: 2026-07-11T11:05:43.654159
 url: "/cdr-researcher-census/researchers/helen-murray-a5008710/"
 layout: "researcher"
 hiddenInHomeList: true

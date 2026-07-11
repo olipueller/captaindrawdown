@@ -1,7 +1,7 @@
 ---
 title: "Hao Tang"
 description: "Hao Tang is a Mid-career Soil Carbon researcher at Ministry of Natural Resources in CN. With 29 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.591213
+date: 2026-07-11T11:05:43.978816
 url: "/cdr-researcher-census/researchers/hao-tang-a5085872/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -64,6 +64,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 5. **Arbuscular mycorrhizal fungi-mediated formation of different carbon fractions in various wetland types enhances carbon sequestration post-restoration on the Tibetan Plateau** (2025)
    2 citations · Soil Carbon
+
+6. **Mixed Forestation Outperforms Pure Stands in Soil Carbon Sequestration and Stability** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

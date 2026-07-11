@@ -1,7 +1,7 @@
 ---
 title: "Shengqiang Jia"
 description: "Shengqiang Jia is a Mid-career Soil Carbon researcher at Zhengzhou University of Industrial Technology in CN. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.409794
+date: 2026-07-11T11:05:43.756728
 url: "/cdr-researcher-census/researchers/shengqiang-jia-a5023639/"
 layout: "researcher"
 hiddenInHomeList: true

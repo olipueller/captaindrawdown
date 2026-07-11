@@ -1,7 +1,7 @@
 ---
 title: "Chloé Wüst‐Galley"
 description: "Chloé Wüst‐Galley is a Senior Soil Carbon researcher at Agroscope in CH. With 36 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.252844
+date: 2026-07-11T11:05:42.943766
 url: "/cdr-researcher-census/researchers/chloe-wustgalley-a5063123/"
 layout: "researcher"
 hiddenInHomeList: true

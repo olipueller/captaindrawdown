@@ -1,7 +1,7 @@
 ---
 title: "Shicheng Yuan"
 description: "Shicheng Yuan is a Mid-career Biochar researcher at Aviation Industry Corporation of China (China) in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.396599
+date: 2026-07-11T11:05:43.747290
 url: "/cdr-researcher-census/researchers/shicheng-yuan-a5114209/"
 layout: "researcher"
 hiddenInHomeList: true

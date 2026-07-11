@@ -1,7 +1,7 @@
 ---
 title: "Weiyang Xue"
 description: "Weiyang Xue is a Mid-career Biochar researcher at Liaoning University in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.891702
+date: 2026-07-11T11:05:44.242902
 url: "/cdr-researcher-census/researchers/weiyang-xue-a5080059/"
 layout: "researcher"
 hiddenInHomeList: true

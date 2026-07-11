@@ -1,7 +1,7 @@
 ---
 title: "Xiaoli Bi"
 description: "Xiaoli Bi is a Senior Soil Carbon researcher at 中国科学院烟台海岸带研究所 in CN. With 72 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.454486
+date: 2026-07-11T11:05:43.076330
 url: "/cdr-researcher-census/researchers/xiaoli-bi-a5036379/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 16 |
 | Citations | 831 |
 | Publications | 72 |
-| CDR Focus | 6.9% |
+| CDR Focus | 5.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

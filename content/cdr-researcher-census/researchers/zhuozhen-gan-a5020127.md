@@ -1,7 +1,7 @@
 ---
 title: "Zhuozhen Gan"
 description: "Zhuozhen Gan is a Mid-career DAC researcher at Shanghai Jiao Tong University in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.662783
+date: 2026-07-11T11:05:43.248306
 url: "/cdr-researcher-census/researchers/zhuozhen-gan-a5020127/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 7 |
 | Citations | 544 |
 | Publications | 12 |
-| CDR Focus | 100.0% |
-| Trajectory | Stable |
+| CDR Focus | 33.3% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

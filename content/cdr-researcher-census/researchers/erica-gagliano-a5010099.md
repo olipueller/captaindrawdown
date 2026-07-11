@@ -1,7 +1,7 @@
 ---
 title: "Erica Gagliano"
 description: "Erica Gagliano is a Mid-career Soil Carbon researcher at University of Genoa in IT. With 38 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.192802
+date: 2026-07-11T11:05:42.907928
 url: "/cdr-researcher-census/researchers/erica-gagliano-a5010099/"
 layout: "researcher"
 hiddenInHomeList: true

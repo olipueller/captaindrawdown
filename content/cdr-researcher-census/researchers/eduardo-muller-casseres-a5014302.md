@@ -1,7 +1,7 @@
 ---
 title: "Eduardo Müller-Casseres"
 description: "Eduardo Müller-Casseres is a Mid-career General CDR researcher at Universidade Federal do Rio de Janeiro in BR. With 21 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.701630
+date: 2026-07-11T11:05:43.275456
 url: "/cdr-researcher-census/researchers/eduardo-muller-casseres-a5014302/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 11 |
 | Citations | 507 |
 | Publications | 21 |
-| CDR Focus | 14.3% |
+| CDR Focus | 9.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Aishajiang Aili"
 description: "Aishajiang Aili is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 40 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.642225
+date: 2026-07-11T11:05:43.235006
 url: "/cdr-researcher-census/researchers/aishajiang-aili-a5050708/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -58,6 +58,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 3. **Advances in ecological restoration of mining-impacted landscapes: Techniques, case studies, and key challenges** (2025)
    7 citations
+
+4. **Biochar as a climate-smart strategy for restoring dryland soils and mitigating desertification** (2026)
+   2 citations · Biochar
 
 ## External Profiles
 

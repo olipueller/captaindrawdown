@@ -1,7 +1,7 @@
 ---
 title: "Jacqueline S. Long"
 description: "Jacqueline S. Long is a Mid-career Ocean CDR researcher at International Submarine Engineering (Canada) in CA. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.271414
+date: 2026-07-11T11:05:43.660092
 url: "/cdr-researcher-census/researchers/jacqueline-s-long-a5063863/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 8 |
 | Citations | 247 |
 | Publications | 19 |
-| CDR Focus | 5.3% |
-| Trajectory | Stable |
+| CDR Focus | 10.5% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Partitioning the Export of Distinct Biogenic Carbon Pools in the Northeast Pacific Ocean Using a Biogeochemical Profiling Float** (2022)
    31 citations · Ocean CDR
+
+2. **Monitoring, reporting, and verification of marine carbon dioxide removal: Exploring scientific consensus and divergences across continents** (2026)
+   0 citations · General CDR
 
 ## External Profiles
 

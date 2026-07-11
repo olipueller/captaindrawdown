@@ -1,7 +1,7 @@
 ---
 title: "Jinjing Zhang"
 description: "Jinjing Zhang is a Senior Soil Carbon researcher at Shenyang University of Technology in CN. With 92 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.147088
+date: 2026-07-11T11:05:42.882186
 url: "/cdr-researcher-census/researchers/jinjing-zhang-a5101530/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 26 |
 | Citations | 2,106 |
 | Publications | 92 |
-| CDR Focus | 6.5% |
+| CDR Focus | 5.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

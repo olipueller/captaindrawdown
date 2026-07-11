@@ -1,7 +1,7 @@
 ---
 title: "Richard Cabrera-Jiménez"
 description: "Richard Cabrera-Jiménez is an Early-career General CDR researcher. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.927388
+date: 2026-07-11T11:05:44.269445
 url: "/cdr-researcher-census/researchers/richard-cabrera-jimenez-a5087501/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 4 |
 | Citations | 124 |
 | Publications | 12 |
-| CDR Focus | 41.7% |
+| CDR Focus | 16.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

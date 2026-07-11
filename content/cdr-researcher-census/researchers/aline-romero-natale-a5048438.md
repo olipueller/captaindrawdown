@@ -1,7 +1,7 @@
 ---
 title: "Aline Romero-Natale"
 description: "Aline Romero-Natale is a Mid-career Soil Carbon researcher at Universidad Autónoma del Estado de Hidalgo in MX. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.150721
+date: 2026-07-11T11:05:44.440585
 url: "/cdr-researcher-census/researchers/aline-romero-natale-a5048438/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 102 |
 | Publications | 10 |
-| CDR Focus | 20.0% |
+| CDR Focus | 30.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -55,6 +55,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 2. **Distribution of Carbon Fractions and Necromass in Forest Soils Across Different Vegetation Types in El Chico National Park, Hidalgo, Mexico** (2025)
    0 citations · General CDR
+
+3. **Carbon Fractions Present in Forest Soils Under Different Vegetation Types in El Chico National Park, Hidalgo, México** (2024)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

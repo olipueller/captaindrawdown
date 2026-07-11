@@ -1,7 +1,7 @@
 ---
 title: "Jianbin Li"
 description: "Jianbin Li is a Mid-career Soil Carbon researcher at Jiangsu University of Science and Technology in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.727375
+date: 2026-07-11T11:05:44.121567
 url: "/cdr-researcher-census/researchers/jianbin-li-a5100356/"
 layout: "researcher"
 hiddenInHomeList: true

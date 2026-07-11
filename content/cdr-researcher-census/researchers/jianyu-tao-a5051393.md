@@ -1,7 +1,7 @@
 ---
 title: "Jianyu Tao"
 description: "Jianyu Tao is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.219860
+date: 2026-07-11T11:05:43.624960
 url: "/cdr-researcher-census/researchers/jianyu-tao-a5051393/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 263 |
 | Publications | 14 |
-| CDR Focus | 28.6% |
+| CDR Focus | 21.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

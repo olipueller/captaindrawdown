@@ -1,7 +1,7 @@
 ---
 title: "Xiaotong He"
 description: "Xiaotong He is a Senior Soil Carbon researcher at Wenzhou University in CN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.941286
+date: 2026-07-11T11:05:44.279502
 url: "/cdr-researcher-census/researchers/xiaotong-he-a5084963/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,13 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 123 |
 | Publications | 5 |
-| CDR Focus | 20.0% |
+| CDR Focus | 40.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Microplastic pollution threatens mangrove carbon sequestration capacity** (2025)
    16 citations · Soil Carbon
+
+2. **Lanthanum-driven carbon capture via oxidative pyrolysis constructs La2O2CO3@biochar for phosphate adsorption and bacteriostasis** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

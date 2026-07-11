@@ -1,7 +1,7 @@
 ---
 title: "Huimin Huang"
 description: "Huimin Huang is a Mid-career Biochar researcher at Jiangsu University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.403171
+date: 2026-07-11T11:05:43.752350
 url: "/cdr-researcher-census/researchers/huimin-huang-a5091862/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 7 |
 | Citations | 213 |
 | Publications | 13 |
-| CDR Focus | 15.4% |
-| Trajectory | Stable |
+| CDR Focus | 7.7% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

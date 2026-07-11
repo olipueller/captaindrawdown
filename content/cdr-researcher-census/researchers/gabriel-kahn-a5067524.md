@@ -1,7 +1,7 @@
 ---
 title: "Gabriel Kahn"
 description: "Gabriel Kahn is a Mid-career General CDR researcher. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.904220
+date: 2026-07-11T11:05:44.251772
 url: "/cdr-researcher-census/researchers/gabriel-kahn-a5067524/"
 layout: "researcher"
 hiddenInHomeList: true

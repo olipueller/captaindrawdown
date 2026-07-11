@@ -1,7 +1,7 @@
 ---
 title: "Andong Cai"
 description: "Andong Cai is a Senior Soil Carbon researcher at Chinese Academy of Agricultural Sciences in CN. With 108 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.065252
+date: 2026-07-11T11:05:42.842172
 url: "/cdr-researcher-census/researchers/andong-cai-a5013602/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 29 |
 | Citations | 3,166 |
 | Publications | 108 |
-| CDR Focus | 15.7% |
-| Trajectory | Declining |
+| CDR Focus | 13.9% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

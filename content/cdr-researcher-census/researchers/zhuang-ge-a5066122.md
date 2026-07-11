@@ -1,7 +1,7 @@
 ---
 title: "Zhuang Ge"
 description: "Zhuang Ge is a Mid-career Soil Carbon researcher at Dalian University in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.797539
+date: 2026-07-11T11:05:43.345423
 url: "/cdr-researcher-census/researchers/zhuang-ge-a5066122/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 438 |
 | Publications | 11 |
-| CDR Focus | 36.4% |
-| Trajectory | Stable |
+| CDR Focus | 27.3% |
+| Trajectory | Exiting |
 
 ## Top CDR Publications
 

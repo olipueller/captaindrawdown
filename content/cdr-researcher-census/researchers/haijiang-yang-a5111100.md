@@ -1,7 +1,7 @@
 ---
 title: "Haijiang Yang"
 description: "Haijiang Yang is a Mid-career General CDR researcher at Lanzhou University in CN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.294526
+date: 2026-07-11T11:05:43.674893
 url: "/cdr-researcher-census/researchers/haijiang-yang-a5111100/"
 layout: "researcher"
 hiddenInHomeList: true

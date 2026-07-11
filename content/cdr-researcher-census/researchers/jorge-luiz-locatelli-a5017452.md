@@ -1,7 +1,7 @@
 ---
 title: "Jorge Luiz Locatelli"
 description: "Jorge Luiz Locatelli is a Mid-career Soil Carbon researcher at Hospital Universitário da Universidade de São Paulo in BR. With 40 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.035154
+date: 2026-07-11T11:05:43.510463
 url: "/cdr-researcher-census/researchers/jorge-luiz-locatelli-a5017452/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 318 |
 | Publications | 40 |
-| CDR Focus | 20.0% |
+| CDR Focus | 17.5% |
 | Trajectory | Declining |
 
 ## Top CDR Publications

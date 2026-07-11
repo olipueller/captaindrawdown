@@ -1,7 +1,7 @@
 ---
 title: "Pengfei Li"
 description: "Pengfei Li is a Mid-career Soil Carbon researcher at Northwest A&F University in CN. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.042586
+date: 2026-07-11T11:05:43.515954
 url: "/cdr-researcher-census/researchers/pengfei-li-a5101731/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 315 |
 | Publications | 26 |
-| CDR Focus | 11.5% |
-| Trajectory | Growing |
+| CDR Focus | 7.7% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

@@ -1,7 +1,7 @@
 ---
 title: "Sebastian Döetterl"
 description: "Sebastian Döetterl is a Senior Soil Carbon researcher at ETH Zürich in CH. With 205 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.989808
+date: 2026-07-11T11:05:42.808923
 url: "/cdr-researcher-census/researchers/sebastian-doetterl-a5017534/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 32 |
 | Citations | 4,761 |
 | Publications | 205 |
-| CDR Focus | 6.8% |
-| Trajectory | Declining |
+| CDR Focus | 5.9% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
@@ -77,8 +77,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 9. **Soil greenhouse gas fluxes following conversion of tropical forests to fertilizer-based sugarcane systems in northwestern Uganda** (2022)
    4 citations · Soil Carbon
 
-10. **Soil carbon sequestration in sub-Saharan Africa &amp;#8211; Great expectations, limited potentials?** (2024)
-   0 citations · General CDR
+10. **Coupled geomorphic and climate-driven biogeochemical processes regulate soil organic carbon stocks in agricultural terraces** (2026)
+   2 citations · Soil Carbon
 
 ## External Profiles
 

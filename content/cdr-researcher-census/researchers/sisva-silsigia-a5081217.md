@@ -1,7 +1,7 @@
 ---
 title: "Sisva Silsigia"
 description: "Sisva Silsigia is an Early-career Soil Carbon researcher. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.972895
+date: 2026-07-11T11:05:44.306264
 url: "/cdr-researcher-census/researchers/sisva-silsigia-a5081217/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -37,7 +37,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 119 |
 | Publications | 15 |
-| CDR Focus | 13.3% |
+| CDR Focus | 6.7% |
 | Trajectory | Unknown |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Aliza Pradhan"
 description: "Aliza Pradhan is a Senior Soil Carbon researcher at National Institute of Abiotic Stress Management in IN. With 78 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.327984
+date: 2026-07-11T11:05:42.992753
 url: "/cdr-researcher-census/researchers/aliza-pradhan-a5060641/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 14 |
 | Citations | 1,141 |
 | Publications | 78 |
-| CDR Focus | 9.0% |
+| CDR Focus | 6.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

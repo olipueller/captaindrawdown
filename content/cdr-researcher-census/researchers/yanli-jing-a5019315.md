@@ -1,7 +1,7 @@
 ---
 title: "Yanli Jing"
 description: "Yanli Jing is a Senior Soil Carbon researcher at Lanzhou University of Technology in CN. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.055160
+date: 2026-07-11T11:05:43.524767
 url: "/cdr-researcher-census/researchers/yanli-jing-a5019315/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,13 +53,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Non-additive effects of nitrogen and phosphorus fertilization on microbial biomass and residue distribution in a subtropical plantation** (2021)
    17 citations
 
-2. **[Effects of thinning on accumulation of soil microbial residue carbon of <i>Picea asperata</i> plantations in sub-alpine region of western Sichuan, China].** (2024)
+2. **Linking soil nematode communities to plant- and microbial-derived carbon in a 15-year field experiment** (2026)
    1 citations · Soil Carbon
 
-3. **Nitrogen fertilization induces microbial carbon limitation in subtropical soils: new evidence from microbial necromass decomposition** (2025)
+3. **[Effects of thinning on accumulation of soil microbial residue carbon of <i>Picea asperata</i> plantations in sub-alpine region of western Sichuan, China].** (2024)
+   1 citations · Soil Carbon
+
+4. **Nitrogen fertilization induces microbial carbon limitation in subtropical soils: new evidence from microbial necromass decomposition** (2025)
    0 citations · Soil Carbon
 
-4. **Comparable role of microbial and plant residues in soil carbon accumulation in a Moso bamboo ( <i>Phyllostachys edulis</i> ) forest** (2025)
+5. **Comparable role of microbial and plant residues in soil carbon accumulation in a Moso bamboo ( <i>Phyllostachys edulis</i> ) forest** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Tamaryn Napp"
 description: "Tamaryn Napp is a Mid-career General CDR researcher at Imperial College London in GB. With 20 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.405439
+date: 2026-07-11T11:05:43.043273
 url: "/cdr-researcher-census/researchers/tamaryn-napp-a5053735/"
 layout: "researcher"
 hiddenInHomeList: true

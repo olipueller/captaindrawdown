@@ -1,7 +1,7 @@
 ---
 title: "Luise Brandt"
 description: "Luise Brandt is a Mid-career Soil Carbon researcher at University of Hohenheim in DE. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.580034
+date: 2026-07-11T11:05:43.964811
 url: "/cdr-researcher-census/researchers/luise-brandt-a5048047/"
 layout: "researcher"
 hiddenInHomeList: true

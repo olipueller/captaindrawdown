@@ -1,7 +1,7 @@
 ---
 title: "Daniel Montalvo"
 description: "Daniel Montalvo is a Mid-career Ocean CDR researcher at Instituto Tecnológico Superior de Xalapa in MX. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.679627
+date: 2026-07-11T11:05:44.084509
 url: "/cdr-researcher-census/researchers/daniel-montalvo-a5039082/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Qinggui Wang"
 description: "Qinggui Wang is a Senior Soil Carbon researcher at Qufu Normal University in CN. With 112 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.109353
+date: 2026-07-11T11:05:42.862852
 url: "/cdr-researcher-census/researchers/qinggui-wang-a5064902/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 28 |
 | Citations | 2,495 |
 | Publications | 112 |
-| CDR Focus | 5.4% |
-| Trajectory | Declining |
+| CDR Focus | 6.2% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
@@ -67,6 +67,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 6. **Natural δ13C and δ15N Abundance of Plants and Soils Under Long-term N Addition in a Temperate Secondary Forest** (2024)
    5 citations · Soil Carbon
+
+7. **Long term low-level nitrogen addition enhances microbial carbon use efficiency and turnover rate across different seasons** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Tiroyaone Albertinah Matsika"
 description: "Tiroyaone Albertinah Matsika is a Mid-career Soil Carbon researcher at University of Botswana in BW. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.904401
+date: 2026-07-11T11:05:44.251997
 url: "/cdr-researcher-census/researchers/tiroyaone-albertinah-matsika-a5091150/"
 layout: "researcher"
 hiddenInHomeList: true

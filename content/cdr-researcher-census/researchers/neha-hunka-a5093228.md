@@ -1,7 +1,7 @@
 ---
 title: "Neha Hunka"
 description: "Neha Hunka is a Mid-career General CDR researcher at University of Maryland, College Park in US. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.784291
+date: 2026-07-11T11:05:44.163274
 url: "/cdr-researcher-census/researchers/neha-hunka-a5093228/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 6 |
 | Citations | 143 |
 | Publications | 11 |
-| CDR Focus | 18.2% |
-| Trajectory | Stable |
+| CDR Focus | 9.1% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

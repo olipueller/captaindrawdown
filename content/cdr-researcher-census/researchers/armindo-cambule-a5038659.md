@@ -1,7 +1,7 @@
 ---
 title: "Armindo Cambule"
 description: "Armindo Cambule is a Senior Soil Carbon researcher at Universidade Eduardo Mondlane in MZ. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.996725
+date: 2026-07-11T11:05:43.485665
 url: "/cdr-researcher-census/researchers/armindo-cambule-a5038659/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Qianjing Jiang"
 description: "Qianjing Jiang is a Mid-career Soil Carbon researcher at Zhejiang University in CN. With 64 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.503526
+date: 2026-07-11T11:05:43.111503
 url: "/cdr-researcher-census/researchers/qianjing-jiang-a5101252/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 16 |
 | Citations | 740 |
 | Publications | 64 |
-| CDR Focus | 14.1% |
+| CDR Focus | 10.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

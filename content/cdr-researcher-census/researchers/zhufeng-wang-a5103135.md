@@ -1,7 +1,7 @@
 ---
 title: "Zhufeng Wang"
 description: "Zhufeng Wang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.540193
+date: 2026-07-11T11:05:43.899943
 url: "/cdr-researcher-census/researchers/zhufeng-wang-a5103135/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 185 |
 | Publications | 14 |
-| CDR Focus | 42.9% |
+| CDR Focus | 21.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

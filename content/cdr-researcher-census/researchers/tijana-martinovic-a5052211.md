@@ -1,7 +1,7 @@
 ---
 title: "Tijana Martinović"
 description: "Tijana Martinović is a Mid-career Soil Carbon researcher at Czech Academy of Sciences in CZ. With 47 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.308952
+date: 2026-07-11T11:05:42.980045
 url: "/cdr-researcher-census/researchers/tijana-martinovic-a5052211/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 1,202 |
 | Publications | 47 |
-| CDR Focus | 10.6% |
+| CDR Focus | 8.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

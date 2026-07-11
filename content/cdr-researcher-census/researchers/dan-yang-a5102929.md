@@ -1,7 +1,7 @@
 ---
 title: "Dan Yang"
 description: "Dan Yang is a Senior Soil Carbon researcher at Guizhou University in CN. With 38 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.888823
+date: 2026-07-11T11:05:43.410482
 url: "/cdr-researcher-census/researchers/dan-yang-a5102929/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 384 |
 | Publications | 38 |
-| CDR Focus | 10.5% |
-| Trajectory | Stable |
+| CDR Focus | 7.9% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

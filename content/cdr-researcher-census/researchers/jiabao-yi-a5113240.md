@@ -1,7 +1,7 @@
 ---
 title: "Jiabao Yi"
 description: "Jiabao Yi is a Mid-career Soil Carbon researcher at King Fahd University of Petroleum and Minerals in SA. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.686377
+date: 2026-07-11T11:05:44.089706
 url: "/cdr-researcher-census/researchers/jiabao-yi-a5113240/"
 layout: "researcher"
 hiddenInHomeList: true

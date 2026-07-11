@@ -1,7 +1,7 @@
 ---
 title: "Avijit Ghosh"
 description: "Avijit Ghosh is a Senior Soil Carbon researcher at Indian Grassland and Fodder Research Institute in IN. With 158 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.078876
+date: 2026-07-11T11:05:42.848512
 url: "/cdr-researcher-census/researchers/avijit-ghosh-a5069313/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 28 |
 | Citations | 2,942 |
 | Publications | 158 |
-| CDR Focus | 10.8% |
+| CDR Focus | 13.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -62,23 +62,23 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Silvopasture systems for restoration of degraded lands in a semiarid region of India** (2022)
    17 citations · Soil Carbon
 
-5. **Long-term agroforestry enhances soil organic carbon pools and deep soil carbon sequestration in the Indian Himalayas** (2025)
+5. **Nature-based solutions for enhancing CO2 sequestration and rehabilitating degraded lands through silvo-aromatic system and soil moisture conservation techniques** (2025)
+   15 citations · Soil Carbon
+
+6. **Long-term agroforestry enhances soil organic carbon pools and deep soil carbon sequestration in the Indian Himalayas** (2025)
    11 citations · Soil Carbon
 
-6. **Elevated CO2 alters aggregate‑carbon and microbial community but does not affect total soil organic C in the semi-arid tropics** (2023)
+7. **Soil organic carbon stabilization inside microaggregates within macroaggregates is the major mechanism of carbon sequestration under a long-term agroforestry system in the foot hills of the Indian Himalayas** (2025)
+   10 citations · Soil Carbon
+
+8. **Elevated CO2 alters aggregate‑carbon and microbial community but does not affect total soil organic C in the semi-arid tropics** (2023)
    9 citations · Soil Carbon
 
-7. **How grasses stabilize soil organic carbon in aggregates of semi-arid ecologically restored land: Evidence from 13C natural abundance** (2024)
+9. **How grasses stabilize soil organic carbon in aggregates of semi-arid ecologically restored land: Evidence from 13C natural abundance** (2024)
    8 citations · Soil Carbon
 
-8. **Soil Carbon Sequestration for Soil Quality Improvement and Climate Change Mitigation** (2021)
+10. **Soil Carbon Sequestration for Soil Quality Improvement and Climate Change Mitigation** (2021)
    7 citations · General CDR
-
-9. **Soil Carbon Storage, Enzymatic Stoichiometry, and Ecosystem Functions in Indian Himalayan Legume-Diversified Pastures** (2024)
-   6 citations · Soil Carbon
-
-10. **60 years of fertilization and liming impacts on soil organic carbon stabilization in a sub-tropical Alfisol** (2021)
-   6 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Yijing Ding"
 description: "Yijing Ding is a Mid-career Soil Carbon researcher at Jilin University in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.583983
+date: 2026-07-11T11:05:43.969080
 url: "/cdr-researcher-census/researchers/yijing-ding-a5102509/"
 layout: "researcher"
 hiddenInHomeList: true

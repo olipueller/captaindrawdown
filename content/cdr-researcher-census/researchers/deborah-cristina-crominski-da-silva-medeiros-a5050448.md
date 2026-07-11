@@ -1,7 +1,7 @@
 ---
 title: "Deborah Cristina Crominski da Silva Medeiros"
 description: "Deborah Cristina Crominski da Silva Medeiros is a Mid-career Biochar researcher. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.987256
+date: 2026-07-11T11:05:43.478996
 url: "/cdr-researcher-census/researchers/deborah-cristina-crominski-da-silva-medeiros-a5050448/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,8 +40,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 8 |
 | Citations | 338 |
 | Publications | 13 |
-| CDR Focus | 15.4% |
-| Trajectory | Stable |
+| CDR Focus | 7.7% |
+| Trajectory | Exiting |
 
 ## Top CDR Publications
 

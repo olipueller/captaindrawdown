@@ -1,7 +1,7 @@
 ---
 title: "Lukas Küng"
 description: "Lukas Küng is a Senior General CDR researcher at Public Risk Management Association in US. With 34 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.547475
+date: 2026-07-11T11:05:43.145695
 url: "/cdr-researcher-census/researchers/lukas-kung-a5079968/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 9 |
 | Citations | 672 |
 | Publications | 34 |
-| CDR Focus | 17.6% |
+| CDR Focus | 5.9% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

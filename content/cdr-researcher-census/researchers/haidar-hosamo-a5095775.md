@@ -1,7 +1,7 @@
 ---
 title: "Haidar Hosamo"
 description: "Haidar Hosamo is a Mid-career General CDR researcher at Prince Sultan University in SA. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.585001
+date: 2026-07-11T11:05:43.971277
 url: "/cdr-researcher-census/researchers/haidar-hosamo-a5095775/"
 layout: "researcher"
 hiddenInHomeList: true

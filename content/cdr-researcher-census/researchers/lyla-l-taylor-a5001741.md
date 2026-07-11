@@ -1,7 +1,7 @@
 ---
 title: "Lyla L. Taylor"
 description: "Lyla L. Taylor is a Senior Enhanced Weathering researcher at University of Sheffield in GB. With 59 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.059847
+date: 2026-07-11T11:05:42.839236
 url: "/cdr-researcher-census/researchers/lyla-l-taylor-a5001741/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 23 |
 | Citations | 3,242 |
 | Publications | 59 |
-| CDR Focus | 18.6% |
-| Trajectory | Declining |
+| CDR Focus | 13.6% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
@@ -74,10 +74,10 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 8. **Transforming U.S. agriculture with crushed rock for CO$_2$ sequestration and increased production** (2023)
    1 citations · Enhanced Weathering
 
-9. **ARTEMIS version 1.0: A Reactive Transport Enhanced Rock Weathering Model with Coupled Soil Carbon and Nutrient Dynamics** (2026)
-   0 citations · Enhanced Weathering
+9. **Comment on egusphere-2025-5823** (2026)
+   0 citations
 
-10. **Comment on gmd-2023-47** (2023)
+10. **Comment on egusphere-2025-5823** (2026)
    0 citations · Enhanced Weathering
 
 ## External Profiles

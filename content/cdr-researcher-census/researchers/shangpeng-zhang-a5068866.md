@@ -1,7 +1,7 @@
 ---
 title: "Shangpeng Zhang"
 description: "Shangpeng Zhang is a Mid-career Soil Carbon researcher at Beijing Normal University in CN. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.888617
+date: 2026-07-11T11:05:43.410256
 url: "/cdr-researcher-census/researchers/shangpeng-zhang-a5068866/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 384 |
 | Publications | 22 |
-| CDR Focus | 27.3% |
+| CDR Focus | 13.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -59,10 +59,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Improving the microenvironment of tracking photovoltaic systems promotes soil organic carbon accumulation by mediating plant carbon inputs and microbial necromass retention** (2025)
    13 citations · Soil Carbon
 
-5. **Microbial Metabolic Limitation Response to Experimental Warming Along an Altitudinal Gradient in Alpine Grasslands, Eastern Tibetan Plateau** (2022)
+5. **Soil microbial metabolic strategies and the imbalance between available phosphorus and nitrogen controls the root exudate-induced priming effect by grassland tumbleweed (Cleistogenes squarrosa and Saposhnikovia divaricata) root exudates** (2026)
    2 citations
 
-6. **Analysis of the Phosphorus Mobilization, Uptake, Transport, and Utilization Processes of Dominant C3 and C4 Grasses in a Grassland in Northern China Based on a Conceptual Phosphorus–Carbon Economy System** (2025)
+6. **Microbial Metabolic Limitation Response to Experimental Warming Along an Altitudinal Gradient in Alpine Grasslands, Eastern Tibetan Plateau** (2022)
+   2 citations
+
+7. **Analysis of the Phosphorus Mobilization, Uptake, Transport, and Utilization Processes of Dominant C3 and C4 Grasses in a Grassland in Northern China Based on a Conceptual Phosphorus–Carbon Economy System** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

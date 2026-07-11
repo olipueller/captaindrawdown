@@ -1,7 +1,7 @@
 ---
 title: "Joanna I. House"
 description: "Joanna I. House is an Eminent General CDR researcher at The University of Bristol in GB. With 162 publications and an h-index of 56, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.823583
+date: 2026-07-11T11:05:42.767281
 url: "/cdr-researcher-census/researchers/joanna-i-house-a5036206/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 56 |
 | Citations | 30,108 |
 | Publications | 162 |
-| CDR Focus | 5.6% |
-| Trajectory | Stable |
+| CDR Focus | 6.8% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
@@ -76,6 +76,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 9. **Certification and MRV requirements to operationalise geological offsets in the aviation sector** (2026)
    0 citations · BECCS
+
+10. **Toward Credible Carbon Dioxide Removal: Harmonized Accounting and Data Gaps Across Six CDR Approaches** (2026)
+   0 citations · DAC
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Weiqing Meng"
 description: "Weiqing Meng is a Mid-career Soil Carbon researcher at Tianjin Normal University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.648725
+date: 2026-07-11T11:05:44.057421
 url: "/cdr-researcher-census/researchers/weiqing-meng-a5019469/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -52,6 +52,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 2. **Distribution Characteristics and Impact Factors of Surface Soil Organic Carbon in Urban Green Spaces of China** (2026)
    0 citations · Soil Carbon
+
+3. **The Synergy Between Ecosystem Services and Biodiversity Depends on the Ecosystem Type and Evaluation Scale** (2025)
+   0 citations
 
 ## External Profiles
 

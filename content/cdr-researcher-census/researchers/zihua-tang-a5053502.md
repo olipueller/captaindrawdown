@@ -1,7 +1,7 @@
 ---
 title: "Zihua Tang"
 description: "Zihua Tang is a Senior Ocean CDR researcher at Chinese Academy of Sciences in CN. With 21 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.505145
+date: 2026-07-11T11:05:43.112813
 url: "/cdr-researcher-census/researchers/zihua-tang-a5053502/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 11 |
 | Citations | 736 |
 | Publications | 21 |
-| CDR Focus | 14.3% |
+| CDR Focus | 9.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

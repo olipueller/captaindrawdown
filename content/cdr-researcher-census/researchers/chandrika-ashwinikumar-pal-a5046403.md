@@ -1,7 +1,7 @@
 ---
 title: "Chandrika Ashwinikumar Pal"
 description: "Chandrika Ashwinikumar Pal is a Mid-career Biochar researcher at Kwangwoon University in KR. With 17 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.970983
+date: 2026-07-11T11:05:43.466570
 url: "/cdr-researcher-census/researchers/chandrika-ashwinikumar-pal-a5046403/"
 layout: "researcher"
 hiddenInHomeList: true

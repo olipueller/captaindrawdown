@@ -1,7 +1,7 @@
 ---
 title: "Tony Manoj K. Nandipamu"
 description: "Tony Manoj K. Nandipamu is a Mid-career General CDR researcher at Govind Ballabh Pant University of Agriculture and Technology in IN. With 27 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.646619
+date: 2026-07-11T11:05:44.054905
 url: "/cdr-researcher-census/researchers/tony-manoj-k-nandipamu-a5029018/"
 layout: "researcher"
 hiddenInHomeList: true

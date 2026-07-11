@@ -1,7 +1,7 @@
 ---
 title: "Abhay Kumar"
 description: "Abhay Kumar is a Senior Soil Carbon researcher at Birsa Agricultural University in IN. With 117 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.580829
+date: 2026-07-11T11:05:43.170948
 url: "/cdr-researcher-census/researchers/abhay-kumar-a5100676/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 626 |
 | Publications | 117 |
-| CDR Focus | 6.8% |
+| CDR Focus | 5.1% |
 | Trajectory | Declining |
 
 ## Top CDR Publications

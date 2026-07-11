@@ -1,7 +1,7 @@
 ---
 title: "Xiaojuan Feng"
 description: "Xiaojuan Feng is an Eminent Soil Carbon researcher at University of the Chinese Academy of Sciences in CN. With 153 publications and an h-index of 46, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.926582
+date: 2026-07-11T11:05:42.786664
 url: "/cdr-researcher-census/researchers/xiaojuan-feng-a5091768/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 46 |
 | Citations | 7,736 |
 | Publications | 153 |
-| CDR Focus | 6.5% |
-| Trajectory | Declining |
+| CDR Focus | 7.8% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
@@ -62,23 +62,23 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Soil organic carbon sourcing variance in the rhizosphere vs. non-rhizosphere of two mycorrhizal tree species** (2022)
    55 citations · Soil Carbon
 
-5. **Enhanced Mineral Preservation Rather Than Microbial Residue Production Dictates the Accrual of Mineral‐Associated Organic Carbon Along a Weathering Gradient** (2024)
+5. **Understanding the mechanisms and potential pathways of soil carbon sequestration from the biogeochemistry perspective** (2024)
+   51 citations · Soil Carbon
+
+6. **Enhanced Mineral Preservation Rather Than Microbial Residue Production Dictates the Accrual of Mineral‐Associated Organic Carbon Along a Weathering Gradient** (2024)
    38 citations · Soil Carbon
 
-6. **Organic Carbon and Lignin Protection by Metal Oxides Versus Silicate Clay: Comparative Study Based on Wetland and Upland Soils** (2023)
+7. **Organic Carbon and Lignin Protection by Metal Oxides Versus Silicate Clay: Comparative Study Based on Wetland and Upland Soils** (2023)
    34 citations · Soil Carbon
 
-7. **Fast Decomposition of Nitrogen‐Rich Mineral‐Associated Organic Matter in Soils** (2025)
+8. **Fast Decomposition of Nitrogen‐Rich Mineral‐Associated Organic Matter in Soils** (2025)
    12 citations · Soil Carbon
 
-8. **Microbial necromass accrual from newly added labile and native soil carbon in the rhizosphere vs. non-rhizosphere of broadleaved and coniferous trees** (2024)
+9. **Plant influences on soil organic carbon dynamics** (2022)
+   12 citations · Soil Carbon
+
+10. **Microbial necromass accrual from newly added labile and native soil carbon in the rhizosphere vs. non-rhizosphere of broadleaved and coniferous trees** (2024)
    11 citations · Soil Carbon
-
-9. **Microbial Carbon Accumulation Efficiency in Global Soils Resolved via <sup>13</sup> C‐Glucose Amendment Experiments** (2025)
-   8 citations · Soil Carbon
-
-10. **Elevated CO2 enhances glomalin accumulation and cadmium (Cd) sequestration in soil of Funneliformis mosseae-inoculated black locust exposed to Cd contamination** (2024)
-   2 citations
 
 ## External Profiles
 

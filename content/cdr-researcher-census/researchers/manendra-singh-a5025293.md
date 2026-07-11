@@ -1,7 +1,7 @@
 ---
 title: "Manendra Singh"
 description: "Manendra Singh is an Early-career Soil Carbon researcher at Shree Guru Gobind Singh Tricentenary University in IN. With 28 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.821080
+date: 2026-07-11T11:05:44.191082
 url: "/cdr-researcher-census/researchers/manendra-singh-a5025293/"
 layout: "researcher"
 hiddenInHomeList: true

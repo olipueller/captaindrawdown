@@ -1,7 +1,7 @@
 ---
 title: "Raquel de Freitas Dias Milão"
 description: "Raquel de Freitas Dias Milão is a Mid-career BECCS researcher at Universidade Federal do Rio de Janeiro in BR. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.804445
+date: 2026-07-11T11:05:44.178165
 url: "/cdr-researcher-census/researchers/raquel-de-freitas-dias-milao-a5090423/"
 layout: "researcher"
 hiddenInHomeList: true

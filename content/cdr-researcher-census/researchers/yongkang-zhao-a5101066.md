@@ -1,7 +1,7 @@
 ---
 title: "Yongkang Zhao"
 description: "Yongkang Zhao is a Mid-career Soil Carbon researcher at Shandong University in CN. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.314171
+date: 2026-07-11T11:05:43.688760
 url: "/cdr-researcher-census/researchers/yongkang-zhao-a5101066/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 236 |
 | Publications | 27 |
-| CDR Focus | 7.4% |
+| CDR Focus | 14.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -50,7 +50,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Microbial necromass carbon contributed to soil organic carbon accumulation and stabilization in the newly formed inland wetlands** (2024)
    23 citations · Soil Carbon
 
-2. **Bacterial necromass carbon of inland wetlands is regulated by bacterial diversity and community composition while fungal necromass carbon is mainly affected by community composition** (2025)
+2. **Microorganisms Directly Affected Sediment Carbon–Nitrogen Coupling in Two Constructed Wetlands** (2024)
+   6 citations · Soil Carbon
+
+3. **Effects of herb Alternanthera philoxeroides invasion on soil organic matter varied with flooding conditions in wetlands** (2025)
+   3 citations · Soil Carbon
+
+4. **Bacterial necromass carbon of inland wetlands is regulated by bacterial diversity and community composition while fungal necromass carbon is mainly affected by community composition** (2025)
    2 citations · Soil Carbon
 
 ## External Profiles

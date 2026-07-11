@@ -1,7 +1,7 @@
 ---
 title: "Artur Sokołowski"
 description: "Artur Sokołowski is an Early-career Biochar researcher at Maria Curie-Skłodowska University in PL. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.971851
+date: 2026-07-11T11:05:44.304914
 url: "/cdr-researcher-census/researchers/artur-sokoowski-a5084580/"
 layout: "researcher"
 hiddenInHomeList: true

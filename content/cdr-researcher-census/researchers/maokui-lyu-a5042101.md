@@ -1,7 +1,7 @@
 ---
 title: "Maokui Lyu"
 description: "Maokui Lyu is a Senior Soil Carbon researcher at Fujian Normal University in CN. With 51 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.308230
+date: 2026-07-11T11:05:42.979671
 url: "/cdr-researcher-census/researchers/maokui-lyu-a5042101/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 20 |
 | Citations | 1,204 |
 | Publications | 51 |
-| CDR Focus | 13.7% |
-| Trajectory | Stable |
+| CDR Focus | 11.8% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
@@ -70,6 +70,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 7. **Mycorrhizal associations influence the origin and stability of topsoil organic carbon fractions: implications for subtropical forest restoration** (2026)
    0 citations
+
+8. **Lithology-driven microbial succession and functional divergence during subtropical forest restoration** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

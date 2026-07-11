@@ -1,7 +1,7 @@
 ---
 title: "Shicong Geng"
 description: "Shicong Geng is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 21 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.090565
+date: 2026-07-11T11:05:43.550939
 url: "/cdr-researcher-census/researchers/shicong-geng-a5102948/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 297 |
 | Publications | 21 |
-| CDR Focus | 14.3% |
+| CDR Focus | 9.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

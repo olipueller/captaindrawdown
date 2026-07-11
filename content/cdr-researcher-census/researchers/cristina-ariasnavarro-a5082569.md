@@ -1,7 +1,7 @@
 ---
 title: "Cristina Arias‐Navarro"
 description: "Cristina Arias‐Navarro is a Mid-career Soil Carbon researcher at European Commission in BE. With 25 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.213465
+date: 2026-07-11T11:05:42.919570
 url: "/cdr-researcher-census/researchers/cristina-ariasnavarro-a5082569/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "J. Poorna Bindu"
 description: "J. Poorna Bindu is a Mid-career Soil Carbon researcher at Central Tobacco Research Institute in IN. With 17 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.578537
+date: 2026-07-11T11:05:43.962316
 url: "/cdr-researcher-census/researchers/j-poorna-bindu-a5109791/"
 layout: "researcher"
 hiddenInHomeList: true

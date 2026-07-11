@@ -1,7 +1,7 @@
 ---
 title: "Siqiang Yi"
 description: "Siqiang Yi is a Mid-career Soil Carbon researcher at Yangzhou University in CN. With 11 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.277531
+date: 2026-07-11T11:05:43.663137
 url: "/cdr-researcher-census/researchers/siqiang-yi-a5009444/"
 layout: "researcher"
 hiddenInHomeList: true

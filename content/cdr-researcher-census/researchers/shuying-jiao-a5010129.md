@@ -1,7 +1,7 @@
 ---
 title: "Shuying Jiao"
 description: "Shuying Jiao is a Mid-career Soil Carbon researcher at Shandong Agricultural University in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.094409
+date: 2026-07-11T11:05:43.553656
 url: "/cdr-researcher-census/researchers/shuying-jiao-a5010129/"
 layout: "researcher"
 hiddenInHomeList: true

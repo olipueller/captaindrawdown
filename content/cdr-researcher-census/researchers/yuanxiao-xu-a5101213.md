@@ -1,7 +1,7 @@
 ---
 title: "Yuanxiao Xu"
 description: "Yuanxiao Xu is a Mid-career Soil Carbon researcher at Ministry of Agriculture in EE. With 35 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.492710
+date: 2026-07-11T11:05:43.103851
 url: "/cdr-researcher-census/researchers/yuanxiao-xu-a5101213/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 758 |
 | Publications | 35 |
-| CDR Focus | 14.3% |
-| Trajectory | Stable |
+| CDR Focus | 8.6% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

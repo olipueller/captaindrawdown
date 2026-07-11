@@ -1,7 +1,7 @@
 ---
 title: "Rita de Cássia Alves de Freitas"
 description: "Rita de Cássia Alves de Freitas is a Senior Soil Carbon researcher at Instituto Federal do Piauí in BR. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.862134
+date: 2026-07-11T11:05:44.221026
 url: "/cdr-researcher-census/researchers/rita-de-cassia-alves-de-freitas-a5108761/"
 layout: "researcher"
 hiddenInHomeList: true

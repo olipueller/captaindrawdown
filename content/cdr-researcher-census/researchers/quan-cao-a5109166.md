@@ -1,7 +1,7 @@
 ---
 title: "Quan Cao"
-description: "Quan Cao is a Mid-career Unknown researcher at Qinghai University in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.602667
+description: "Quan Cao is a Mid-career Soil Carbon researcher at Qinghai University in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:43.995834
 url: "/cdr-researcher-census/researchers/quan-cao-a5109166/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Qinghai University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Unknown**
+**Soil Carbon**
 
-Unknown
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
@@ -43,12 +43,15 @@ Unknown
 | Citations | 173 |
 | Publications | 6 |
 | CDR Focus | 16.7% |
-| Trajectory | Exiting |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Enhancing lucerne (Medicago sativa) yield and nutritional quality: a meta-analysis of fertilization types and environmental factors in China** (2024)
    4 citations
+
+2. **Effects of long-term fertilization on soil mineral-associated organic carbon and particulate organic carbon across agricultural systems in China: a meta-analysis** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

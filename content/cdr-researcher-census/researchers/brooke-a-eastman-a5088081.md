@@ -1,7 +1,7 @@
 ---
 title: "Brooke A. Eastman"
 description: "Brooke A. Eastman is a Mid-career Soil Carbon researcher at West Virginia University in US. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.228815
+date: 2026-07-11T11:05:43.631949
 url: "/cdr-researcher-census/researchers/brooke-a-eastman-a5088081/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 260 |
 | Publications | 14 |
-| CDR Focus | 42.9% |
+| CDR Focus | 14.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -59,13 +59,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **Can models adequately reflect how long-term nitrogen enrichment alters the forest soil carbon cycle?** (2024)
    6 citations · Soil Carbon
 
-4. **Comment on bg-2023-36** (2023)
+4. **Reply on RC1** (2023)
    0 citations · Soil Carbon
 
-5. **Referee comment on &amp;amp;#8220;Can models adequately reflect how long-term nitrogen enrichment alters the forest soil carbon cycle?&amp;amp;#8221;** (2023)
+5. **Reply on RC3** (2023)
    0 citations · Soil Carbon
 
-6. **Comment on bg-2023-36** (2023)
+6. **Reply on RC2** (2023)
+   0 citations · Soil Carbon
+
+7. **Comment on bg-2023-36** (2023)
+   0 citations · Soil Carbon
+
+8. **Referee comment on &amp;amp;#8220;Can models adequately reflect how long-term nitrogen enrichment alters the forest soil carbon cycle?&amp;amp;#8221;** (2023)
+   0 citations · Soil Carbon
+
+9. **Comment on bg-2023-36** (2023)
    0 citations · Soil Carbon
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Paweł P. Ziemiański"
 description: "Paweł P. Ziemiański is a Senior DAC researcher at Energetic Materials and Products Incorporation (United States) in US. With 27 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.253110
+date: 2026-07-11T11:05:43.648112
 url: "/cdr-researcher-census/researchers/pawe-p-ziemianski-a5060620/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 6 |
 | Citations | 252 |
 | Publications | 27 |
-| CDR Focus | 11.1% |
+| CDR Focus | 7.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

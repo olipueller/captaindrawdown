@@ -1,7 +1,7 @@
 ---
 title: "John Livsey"
 description: "John Livsey is a Mid-career Soil Carbon researcher at Swedish University of Agricultural Sciences in SE. With 33 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.828356
+date: 2026-07-11T11:05:43.369201
 url: "/cdr-researcher-census/researchers/john-livsey-a5038239/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 418 |
 | Publications | 33 |
-| CDR Focus | 9.1% |
-| Trajectory | Growing |
+| CDR Focus | 6.1% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

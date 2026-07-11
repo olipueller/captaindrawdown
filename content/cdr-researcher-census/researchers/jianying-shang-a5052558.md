@@ -1,7 +1,7 @@
 ---
 title: "Jianying Shang"
 description: "Jianying Shang is an Eminent Biochar researcher at China Agricultural University in CN. With 166 publications and an h-index of 44, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.973695
+date: 2026-07-11T11:05:42.802382
 url: "/cdr-researcher-census/researchers/jianying-shang-a5052558/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 44 |
 | Citations | 5,535 |
 | Publications | 166 |
-| CDR Focus | 8.4% |
+| CDR Focus | 9.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -71,14 +71,14 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 7. **Effect of biochar application on rice, wheat, and corn seedlings in hydroponic culture** (2023)
    29 citations · Biochar
 
-8. **Goethite-enriched biochar mitigates soil emissions of CO2 during arsenic passivation: Effect and mechanisms** (2023)
+8. **Microplastics Generate Less Mineral Protection of Soil Carbon and More CO<sub>2</sub> Emissions** (2024)
+   26 citations · Soil Carbon
+
+9. **Goethite-enriched biochar mitigates soil emissions of CO2 during arsenic passivation: Effect and mechanisms** (2023)
    20 citations · Biochar
 
-9. **Field aging slows down biochar-mediated soil carbon dioxide emissions** (2024)
+10. **Field aging slows down biochar-mediated soil carbon dioxide emissions** (2024)
    15 citations · Biochar
-
-10. **Iron (Hydr)oxide-Enriched Biochar for Arsenic Immobilization Under Microbial Iron Reduction and Fluctuating Redox Conditions** (2025)
-   2 citations · Biochar
 
 ## External Profiles
 

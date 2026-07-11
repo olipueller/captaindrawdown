@@ -1,7 +1,7 @@
 ---
 title: "Emma J. Sayer"
 description: "Emma J. Sayer is a Senior Soil Carbon researcher at University of Ulm in DE. With 146 publications and an h-index of 39, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.968290
+date: 2026-07-11T11:05:42.801131
 url: "/cdr-researcher-census/researchers/emma-j-sayer-a5050783/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Wolfgang Ruebsam"
 description: "Wolfgang Ruebsam is a Mid-career Enhanced Weathering researcher at Kiel University in DE. With 75 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.275114
+date: 2026-07-11T11:05:42.958849
 url: "/cdr-researcher-census/researchers/wolfgang-ruebsam-a5050324/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 19 |
 | Citations | 1,332 |
 | Publications | 75 |
-| CDR Focus | 8.0% |
+| CDR Focus | 5.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

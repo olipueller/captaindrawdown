@@ -1,7 +1,7 @@
 ---
 title: "Wilson Gardner"
 description: "Wilson Gardner is a Senior General CDR researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.144913
+date: 2026-07-11T11:05:44.435487
 url: "/cdr-researcher-census/researchers/wilson-gardner-a5087363/"
 layout: "researcher"
 hiddenInHomeList: true

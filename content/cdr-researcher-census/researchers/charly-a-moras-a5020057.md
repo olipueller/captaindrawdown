@@ -1,7 +1,7 @@
 ---
 title: "Charly A. Moras"
 description: "Charly A. Moras is a Mid-career Ocean CDR researcher at Universität Hamburg in DE. With 39 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.075193
+date: 2026-07-11T11:05:43.539617
 url: "/cdr-researcher-census/researchers/charly-a-moras-a5020057/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 8 |
 | Citations | 302 |
 | Publications | 39 |
-| CDR Focus | 92.3% |
-| Trajectory | Stable |
+| CDR Focus | 41.0% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

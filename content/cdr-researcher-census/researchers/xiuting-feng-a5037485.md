@@ -1,7 +1,7 @@
 ---
 title: "Xiuting Feng"
 description: "Xiuting Feng is an Early-career Ocean CDR researcher at Chinese Academy of Sciences in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.605307
+date: 2026-07-11T11:05:44.000076
 url: "/cdr-researcher-census/researchers/xiuting-feng-a5037485/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 4 |
 | Citations | 172 |
 | Publications | 9 |
-| CDR Focus | 22.2% |
-| Trajectory | Stable |
+| CDR Focus | 11.1% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

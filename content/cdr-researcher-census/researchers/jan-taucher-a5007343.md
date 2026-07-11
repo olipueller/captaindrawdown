@@ -1,7 +1,7 @@
 ---
 title: "Jan Taucher"
 description: "Jan Taucher is a Senior Ocean CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 106 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.151444
+date: 2026-07-11T11:05:42.884715
 url: "/cdr-researcher-census/researchers/jan-taucher-a5007343/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 25 |
 | Citations | 2,078 |
 | Publications | 106 |
-| CDR Focus | 14.2% |
+| CDR Focus | 10.4% |
 | Trajectory | Declining |
 
 ## Top CDR Publications

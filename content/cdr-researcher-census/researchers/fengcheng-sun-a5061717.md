@@ -1,7 +1,7 @@
 ---
 title: "Fengcheng Sun"
 description: "Fengcheng Sun is a Mid-career Soil Carbon researcher at Inner Mongolia Academy of Agricultural & Animal Husbandry Sciences in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.947370
+date: 2026-07-11T11:05:43.449422
 url: "/cdr-researcher-census/researchers/fengcheng-sun-a5061717/"
 layout: "researcher"
 hiddenInHomeList: true

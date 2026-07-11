@@ -1,7 +1,7 @@
 ---
 title: "Dujearic‐Stephane Kouao"
 description: "Dujearic‐Stephane Kouao is a Mid-career Biochar researcher at Institute of Fluid Flow-Machinery in PL. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.452097
+date: 2026-07-11T11:05:43.785203
 url: "/cdr-researcher-census/researchers/dujearicstephane-kouao-a5037614/"
 layout: "researcher"
 hiddenInHomeList: true

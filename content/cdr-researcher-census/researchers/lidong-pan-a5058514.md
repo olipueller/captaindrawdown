@@ -1,7 +1,7 @@
 ---
 title: "Lidong Pan"
 description: "Lidong Pan is a Mid-career Soil Carbon researcher at Southwest University in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.467015
+date: 2026-07-11T11:05:43.796511
 url: "/cdr-researcher-census/researchers/lidong-pan-a5058514/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -49,6 +49,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 1. **Diagnosis of the coupling coordination relationships between crop and soil carbon sequestration function for sloping farmland under erosive environments in the Three Gorges Reservoir Area, China** (2025)
    2 citations · Soil Carbon
+
+2. **Lidong Date3** (2026)
+   0 citations
+
+3. **Lidong Date3** (2025)
+   0 citations · Soil Carbon
+
+4. **Lidong Date3** (2025)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

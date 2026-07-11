@@ -1,7 +1,7 @@
 ---
 title: "Stéphanie Grand"
 description: "Stéphanie Grand is a Mid-career Enhanced Weathering researcher at University of Lausanne in CH. With 54 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.110021
+date: 2026-07-11T11:05:42.863237
 url: "/cdr-researcher-census/researchers/stephanie-grand-a5023581/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 18 |
 | Citations | 2,486 |
 | Publications | 54 |
-| CDR Focus | 13.0% |
+| CDR Focus | 16.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -62,13 +62,19 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 4. **Three Years of Field Trials Indicate a Sustained Enhanced Rock Weathering Signal with Limited CO <sub>2</sub> Removal** (2025)
    4 citations · Enhanced Weathering
 
-5. **Assessing the biogeochemical impacts of terrestrial enhanced rock weathering on soil fertility** (2024)
+5. **Basaltic rock powder addition increases soil macrofauna but shows limited impact on microbial communities: insights from a temperate field trial** (2026)
    0 citations · Enhanced Weathering
 
-6. **Carbon storage in urban soils of Lausanne and Z&amp;#252;rich, Switzerland** (2024)
+6. **Three Years of Field Trials Indicate a Sustained Enhanced Rock Weathering Signal with Limited CO₂ Removal** (2025)
+   0 citations · Enhanced Weathering
+
+7. **Assessing the biogeochemical impacts of terrestrial enhanced rock weathering on soil fertility** (2024)
+   0 citations · Enhanced Weathering
+
+8. **Carbon storage in urban soils of Lausanne and Z&amp;#252;rich, Switzerland** (2024)
    0 citations · Soil Carbon
 
-7. **MANAGING CLIMATE CHANGE AND EXPECTATIONS: WHAT IS ENHANCED ROCK WEATHERING REALISTICALLY CAPABLE OF?** (2021)
+9. **MANAGING CLIMATE CHANGE AND EXPECTATIONS: WHAT IS ENHANCED ROCK WEATHERING REALISTICALLY CAPABLE OF?** (2021)
    0 citations · Enhanced Weathering
 
 ## External Profiles

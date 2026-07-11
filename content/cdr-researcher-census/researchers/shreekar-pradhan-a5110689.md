@@ -1,7 +1,7 @@
 ---
 title: "Shreekar Pradhan"
 description: "Shreekar Pradhan is a Senior General CDR researcher at University of Virginia in US. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.858135
+date: 2026-07-11T11:05:43.388871
 url: "/cdr-researcher-census/researchers/shreekar-pradhan-a5110689/"
 layout: "researcher"
 hiddenInHomeList: true

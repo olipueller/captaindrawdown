@@ -1,7 +1,7 @@
 ---
 title: "Oliver Gröger"
 description: "Oliver Gröger is a Mid-career General CDR researcher at Volkswagen Group (United States) in US. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.663813
+date: 2026-07-11T11:05:43.249167
 url: "/cdr-researcher-census/researchers/oliver-groger-a5022265/"
 layout: "researcher"
 hiddenInHomeList: true

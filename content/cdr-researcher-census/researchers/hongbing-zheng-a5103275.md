@@ -1,7 +1,7 @@
 ---
 title: "Hongbing Zheng"
 description: "Hongbing Zheng is a Senior Soil Carbon researcher at East China University of Science and Technology in CN. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.786831
+date: 2026-07-11T11:05:43.338782
 url: "/cdr-researcher-census/researchers/hongbing-zheng-a5103275/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 444 |
 | Publications | 23 |
-| CDR Focus | 17.4% |
+| CDR Focus | 13.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Michael Hemkemeyer"
 description: "Michael Hemkemeyer is a Mid-career Soil Carbon researcher at University of Wuppertal in DE. With 27 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.351700
+date: 2026-07-11T11:05:43.008092
 url: "/cdr-researcher-census/researchers/michael-hemkemeyer-a5024687/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 14 |
 | Citations | 1,064 |
 | Publications | 27 |
-| CDR Focus | 11.1% |
+| CDR Focus | 7.4% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

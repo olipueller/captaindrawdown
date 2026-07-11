@@ -1,7 +1,7 @@
 ---
 title: "María José Carpio"
 description: "María José Carpio is a Mid-career Soil Carbon researcher at Instituto de Ciencias Agrarias in ES. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.038994
+date: 2026-07-11T11:05:43.513376
 url: "/cdr-researcher-census/researchers/maria-jose-carpio-a5026457/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,13 +50,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Effects of biochar and its co-application with inorganic and organic fertilizers on soil microbial respiration and temperature sensitivity of carbon mineralization.** (2024)
+1. **Soil microbial community structure and carbon dynamics in response to compost and livestock management in grassland soils** (2026)
+   2 citations
+
+2. **Effects of biochar and its co-application with inorganic and organic fertilizers on soil microbial respiration and temperature sensitivity of carbon mineralization.** (2024)
    1 citations · Biochar
 
-2. **Soil microbial community structure and carbon dynamics in response to compost and livestock management in grassland soils** (2025)
+3. **Soil microbial community structure and carbon dynamics in response to compost and livestock management in grassland soils** (2025)
    0 citations · Soil Carbon
 
-3. **Harnessing pyrolysis conditions as a tool to enhance urban waste biochar on soil microbial dynamics** (2025)
+4. **Harnessing pyrolysis conditions as a tool to enhance urban waste biochar on soil microbial dynamics** (2025)
    0 citations · Biochar
 
 ## External Profiles

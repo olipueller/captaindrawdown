@@ -1,7 +1,7 @@
 ---
 title: "Shaoqi Xue"
 description: "Shaoqi Xue is a Mid-career Soil Carbon researcher at Northwest A&F University in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.623448
+date: 2026-07-11T11:05:44.027716
 url: "/cdr-researcher-census/researchers/shaoqi-xue-a5037319/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 169 |
 | Publications | 14 |
-| CDR Focus | 42.9% |
+| CDR Focus | 35.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Yicheng Wang"
 description: "Yicheng Wang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.371888
+date: 2026-07-11T11:05:43.730152
 url: "/cdr-researcher-census/researchers/yicheng-wang-a5100411/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,21 +45,24 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 221 |
 | Publications | 24 |
-| CDR Focus | 16.7% |
+| CDR Focus | 20.8% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
-1. **Interactive impacts of climate change and agricultural management on soil organic carbon sequestration potential of cropland in China over the coming decades** (2022)
+1. **Spatiotemporal changes in greenhouse gas emissions and soil organic carbon sequestration for major cropping systems across China and their drivers over the past two decades** (2022)
+   42 citations · General CDR
+
+2. **Interactive impacts of climate change and agricultural management on soil organic carbon sequestration potential of cropland in China over the coming decades** (2022)
    40 citations · General CDR
 
-2. **Mapping the spatiotemporal patterns of tillage practices across Chinese croplands with Google Earth Engine** (2023)
+3. **Mapping the spatiotemporal patterns of tillage practices across Chinese croplands with Google Earth Engine** (2023)
    15 citations · Soil Carbon
 
-3. **Nitrogen nutrient supply and greenhouse gas mitigation potentials from cover crops across Chinese croplands** (2023)
+4. **Nitrogen nutrient supply and greenhouse gas mitigation potentials from cover crops across Chinese croplands** (2023)
    10 citations · Soil Carbon
 
-4. **Climate mitigation potential and economic costs of natural climate solutions for main cropping systems across China** (2024)
+5. **Climate mitigation potential and economic costs of natural climate solutions for main cropping systems across China** (2024)
    7 citations · General CDR
 
 ## External Profiles

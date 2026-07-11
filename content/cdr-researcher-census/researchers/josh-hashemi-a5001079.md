@@ -1,7 +1,7 @@
 ---
 title: "Josh Hashemi"
 description: "Josh Hashemi is a Mid-career Soil Carbon researcher at Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung in DE. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.905277
+date: 2026-07-11T11:05:43.421340
 url: "/cdr-researcher-census/researchers/josh-hashemi-a5001079/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 376 |
 | Publications | 21 |
-| CDR Focus | 14.3% |
+| CDR Focus | 9.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

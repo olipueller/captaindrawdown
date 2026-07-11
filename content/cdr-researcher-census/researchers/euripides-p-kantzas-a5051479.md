@@ -1,7 +1,7 @@
 ---
 title: "Euripides P. Kantzas"
 description: "Euripides P. Kantzas is a Senior Enhanced Weathering researcher at University of Sheffield in GB. With 54 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.153183
+date: 2026-07-11T11:05:42.885739
 url: "/cdr-researcher-census/researchers/euripides-p-kantzas-a5051479/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 17 |
 | Citations | 2,060 |
 | Publications | 54 |
-| CDR Focus | 22.2% |
-| Trajectory | Declining |
+| CDR Focus | 14.8% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

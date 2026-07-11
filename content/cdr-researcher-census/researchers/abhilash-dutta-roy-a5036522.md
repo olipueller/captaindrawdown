@@ -1,7 +1,7 @@
 ---
 title: "Abhilash Dutta Roy"
 description: "Abhilash Dutta Roy is a Mid-career General CDR researcher at University of Lisbon in PT. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.222710
+date: 2026-07-11T11:05:43.627012
 url: "/cdr-researcher-census/researchers/abhilash-dutta-roy-a5036522/"
 layout: "researcher"
 hiddenInHomeList: true

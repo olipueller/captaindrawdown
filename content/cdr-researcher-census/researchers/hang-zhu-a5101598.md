@@ -1,7 +1,7 @@
 ---
 title: "Hang Zhu"
 description: "Hang Zhu is a Mid-career Soil Carbon researcher at Ministry of Agriculture in PS. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.690611
+date: 2026-07-11T11:05:43.268133
 url: "/cdr-researcher-census/researchers/hang-zhu-a5101598/"
 layout: "researcher"
 hiddenInHomeList: true

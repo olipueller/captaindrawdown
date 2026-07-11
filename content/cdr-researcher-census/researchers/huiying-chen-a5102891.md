@@ -1,7 +1,7 @@
 ---
 title: "Huiying Chen"
 description: "Huiying Chen is a Mid-career Soil Carbon researcher at Sun Yat-sen University in CN. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.847312
+date: 2026-07-11T11:05:44.210985
 url: "/cdr-researcher-census/researchers/huiying-chen-a5102891/"
 layout: "researcher"
 hiddenInHomeList: true

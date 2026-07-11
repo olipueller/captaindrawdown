@@ -1,7 +1,7 @@
 ---
 title: "Seeram Ramakrishnan"
 description: "Seeram Ramakrishnan is a Senior Biochar researcher. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.955066
+date: 2026-07-11T11:05:44.291601
 url: "/cdr-researcher-census/researchers/seeram-ramakrishnan-a5033658/"
 layout: "researcher"
 hiddenInHomeList: true

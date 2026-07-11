@@ -1,7 +1,7 @@
 ---
 title: "Xin Chen"
-description: "Xin Chen is a Senior Unknown researcher at Chinese Academy of Sciences in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.949910
+description: "Xin Chen is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:44.286726
 url: "/cdr-researcher-census/researchers/xin-chen-a5101803/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Chinese Academy of Sciences · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Unknown**
+**Soil Carbon**
 
-Unknown
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
@@ -46,12 +46,15 @@ Unknown
 | Citations | 122 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
-| Trajectory | Exiting |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **A dataset of Liaoning soil species based on the Second National Soil Survey** (2023)
    2 citations
+
+2. **Effects of Combined Stover and Biochar Return on Soil Organic Matter and Microbial Characteristics** (2025)
+   0 citations · Biochar
 
 ## External Profiles
 

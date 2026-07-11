@@ -1,7 +1,7 @@
 ---
 title: "Joeri Rogelj"
 description: "Joeri Rogelj is an Eminent General CDR researcher at Imperial College London in GB. With 448 publications and an h-index of 93, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.793801
+date: 2026-07-11T11:05:42.765652
 url: "/cdr-researcher-census/researchers/joeri-rogelj-a5017820/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 93 |
 | Citations | 44,406 |
 | Publications | 448 |
-| CDR Focus | 6.9% |
+| CDR Focus | 6.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

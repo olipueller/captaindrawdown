@@ -1,7 +1,7 @@
 ---
 title: "Samantha Mosier"
 description: "Samantha Mosier is a Mid-career General CDR researcher at Great Lakes Bioenergy Research Center in US. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.777537
+date: 2026-07-11T11:05:43.332445
 url: "/cdr-researcher-census/researchers/samantha-mosier-a5062248/"
 layout: "researcher"
 hiddenInHomeList: true

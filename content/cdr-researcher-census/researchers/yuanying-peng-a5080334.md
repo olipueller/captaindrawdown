@@ -1,7 +1,7 @@
 ---
 title: "Yuanying Peng"
 description: "Yuanying Peng is a Mid-career Soil Carbon researcher at Lewis University in US. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.005798
+date: 2026-07-11T11:05:44.330443
 url: "/cdr-researcher-census/researchers/yuanying-peng-a5080334/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 115 |
 | Publications | 24 |
-| CDR Focus | 25.0% |
+| CDR Focus | 20.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

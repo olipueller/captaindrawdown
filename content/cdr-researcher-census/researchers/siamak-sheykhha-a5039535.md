@@ -1,7 +1,7 @@
 ---
 title: "Siamak Sheykhha"
 description: "Siamak Sheykhha is a Mid-career General CDR researcher at RWTH Aachen University in DE. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.873948
+date: 2026-07-11T11:05:43.401020
 url: "/cdr-researcher-census/researchers/siamak-sheykhha-a5039535/"
 layout: "researcher"
 hiddenInHomeList: true

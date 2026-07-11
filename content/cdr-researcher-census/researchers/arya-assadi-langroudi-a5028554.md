@@ -1,7 +1,7 @@
 ---
 title: "Arya Assadi Langroudi"
 description: "Arya Assadi Langroudi is a Senior Soil Carbon researcher at University of London in GB. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.508556
+date: 2026-07-11T11:05:43.838517
 url: "/cdr-researcher-census/researchers/arya-assadi-langroudi-a5028554/"
 layout: "researcher"
 hiddenInHomeList: true

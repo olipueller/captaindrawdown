@@ -1,7 +1,7 @@
 ---
 title: "Sonja Geilert"
 description: "Sonja Geilert is a Senior Ocean CDR researcher at Utrecht University in NL. With 76 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.252744
+date: 2026-07-11T11:05:42.943640
 url: "/cdr-researcher-census/researchers/sonja-geilert-a5043903/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 20 |
 | Citations | 1,431 |
 | Publications | 76 |
-| CDR Focus | 26.3% |
-| Trajectory | Stable |
+| CDR Focus | 19.7% |
+| Trajectory | Declining |
 
 ## Top CDR Publications
 

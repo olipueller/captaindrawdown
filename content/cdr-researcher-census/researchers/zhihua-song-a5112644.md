@@ -1,7 +1,7 @@
 ---
 title: "Zhihua Song"
 description: "Zhihua Song is a Senior Soil Carbon researcher at Xi'an University of Technology in CN. With 36 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.721452
+date: 2026-07-11T11:05:43.289839
 url: "/cdr-researcher-census/researchers/zhihua-song-a5112644/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zongsheng Zhou"
 description: "Zongsheng Zhou is a Mid-career General CDR researcher at Chinese Academy of Sciences in CN. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.095254
+date: 2026-07-11T11:05:44.400659
 url: "/cdr-researcher-census/researchers/zongsheng-zhou-a5059789/"
 layout: "researcher"
 hiddenInHomeList: true

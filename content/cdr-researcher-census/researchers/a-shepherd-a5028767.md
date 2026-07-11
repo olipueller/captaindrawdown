@@ -1,7 +1,7 @@
 ---
 title: "A. Shepherd"
 description: "A. Shepherd is a Senior BECCS researcher at University of Aberdeen in GB. With 73 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.295157
+date: 2026-07-11T11:05:42.970707
 url: "/cdr-researcher-census/researchers/a-shepherd-a5028767/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | Citations | 1,253 |
 | Publications | 73 |
 | CDR Focus | 11.0% |
-| Trajectory | Stable |
+| Trajectory | Declining |
 
 ## Top CDR Publications
 
@@ -71,7 +71,10 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 7. **Assessing the Sustainability of Miscanthus and Willow as Global Bioenergy Crops: Current and Future Climate Conditions (Part 2)** (2025)
    1 citations · BECCS
 
-8. **Comparing miscanthus hybrids &amp;#8211; growth and environmental impacts** (2022)
+8. **Carbon dioxide removal in field trials of enhanced weathering on arable croplands** (2023)
+   0 citations · Enhanced Weathering
+
+9. **Comparing miscanthus hybrids &amp;#8211; growth and environmental impacts** (2022)
    0 citations · BECCS
 
 ## External Profiles

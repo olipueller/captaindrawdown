@@ -1,7 +1,7 @@
 ---
 title: "Abdoul Salam Issiaka Abdoul Magid"
 description: "Abdoul Salam Issiaka Abdoul Magid is a Mid-career Biochar researcher at Agro-Environmental Protection Institute in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.695743
+date: 2026-07-11T11:05:43.271502
 url: "/cdr-researcher-census/researchers/abdoul-salam-issiaka-abdoul-magid-a5011237/"
 layout: "researcher"
 hiddenInHomeList: true

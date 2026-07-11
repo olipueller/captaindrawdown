@@ -1,7 +1,7 @@
 ---
 title: "Sanju Kumawat"
 description: "Sanju Kumawat is an Early-career Soil Carbon researcher at Sri Karan Narendra Agriculture University, Jobner in IN. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.024548
+date: 2026-07-11T11:05:44.362324
 url: "/cdr-researcher-census/researchers/sanju-kumawat-a5104032/"
 layout: "researcher"
 hiddenInHomeList: true

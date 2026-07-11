@@ -1,7 +1,7 @@
 ---
 title: "Qianwei Liang"
 description: "Qianwei Liang is an Early-career Biochar researcher at Beijing University of Technology in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.426666
+date: 2026-07-11T11:05:43.767536
 url: "/cdr-researcher-census/researchers/qianwei-liang-a5050005/"
 layout: "researcher"
 hiddenInHomeList: true

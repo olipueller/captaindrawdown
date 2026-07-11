@@ -1,7 +1,7 @@
 ---
 title: "Zeynep Yıldız Uzun"
 description: "Zeynep Yıldız Uzun is a Mid-career Biochar researcher at Sinop University in TR. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.443730
+date: 2026-07-11T11:05:43.779938
 url: "/cdr-researcher-census/researchers/zeynep-yldz-uzun-a5024563/"
 layout: "researcher"
 hiddenInHomeList: true

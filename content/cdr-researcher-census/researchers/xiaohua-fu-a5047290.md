@@ -1,7 +1,7 @@
 ---
 title: "Xiaohua Fu"
 description: "Xiaohua Fu is a Senior Soil Carbon researcher at Zhejiang Provincial People's Hospital in CN. With 123 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.157715
+date: 2026-07-11T11:05:42.887903
 url: "/cdr-researcher-census/researchers/xiaohua-fu-a5047290/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 23 |
 | Citations | 2,022 |
 | Publications | 123 |
-| CDR Focus | 9.8% |
+| CDR Focus | 10.6% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -77,8 +77,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 9. **The High Organic Carbon Accumulation in Estuarine Wetlands Necessarily Does Not Represent a High Co2 Sequestration Capacity** (2022)
    1 citations · General CDR
 
-10. **Efficient amplification of marine dark carbon fixation at the bioreactor scale: Bottlenecks and regulating strategies** (2025)
-   0 citations · Ocean CDR
+10. **Tidal dynamics amplify the potential of biochar incorporation for sediment carbon sequestration in estuarine wetlands: evidence from in-situ experiments** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

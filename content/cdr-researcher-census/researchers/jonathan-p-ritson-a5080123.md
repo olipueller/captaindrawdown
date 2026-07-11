@@ -1,7 +1,7 @@
 ---
 title: "Jonathan P. Ritson"
 description: "Jonathan P. Ritson is a Mid-career Soil Carbon researcher at University of Manchester in GB. With 35 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.542333
+date: 2026-07-11T11:05:43.141747
 url: "/cdr-researcher-census/researchers/jonathan-p-ritson-a5080123/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zhi Wang"
 description: "Zhi Wang is a Senior Biochar researcher at Tianjin University in CN. With 53 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.968911
+date: 2026-07-11T11:05:43.465124
 url: "/cdr-researcher-census/researchers/zhi-wang-a5100376/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 9 |
 | Citations | 346 |
 | Publications | 53 |
-| CDR Focus | 7.5% |
-| Trajectory | Stable |
+| CDR Focus | 5.7% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

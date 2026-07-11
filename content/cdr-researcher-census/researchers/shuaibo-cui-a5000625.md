@@ -1,7 +1,7 @@
 ---
 title: "Shuaibo Cui"
 description: "Shuaibo Cui is a Mid-career Biochar researcher at University of Science and Technology Liaoning in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.885573
+date: 2026-07-11T11:05:44.238590
 url: "/cdr-researcher-census/researchers/shuaibo-cui-a5000625/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 5 |
 | Citations | 129 |
 | Publications | 8 |
-| CDR Focus | 37.5% |
+| CDR Focus | 25.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

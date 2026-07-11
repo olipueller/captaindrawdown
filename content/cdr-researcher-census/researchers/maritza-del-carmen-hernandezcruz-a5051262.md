@@ -1,7 +1,7 @@
 ---
 title: "Maritza del Carmen Hernández‐Cruz"
 description: "Maritza del Carmen Hernández‐Cruz is a Mid-career Biochar researcher at Universidad Autónoma de Chiapas in MX. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.227474
+date: 2026-07-11T11:05:43.630725
 url: "/cdr-researcher-census/researchers/maritza-del-carmen-hernandezcruz-a5051262/"
 layout: "researcher"
 hiddenInHomeList: true

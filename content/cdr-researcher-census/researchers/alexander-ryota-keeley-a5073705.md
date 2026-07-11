@@ -1,7 +1,7 @@
 ---
 title: "Alexander Ryota Keeley"
-description: "Alexander Ryota Keeley is a Senior General CDR researcher at Kyushu University in JP. With 77 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.144432
+description: "Alexander Ryota Keeley is a Senior DAC researcher at Kyushu University in JP. With 77 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:42.880984
 url: "/cdr-researcher-census/researchers/alexander-ryota-keeley-a5073705/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Kyushu University · 🇯🇵 JP
 
 ## CDR Specialization
 
-**General CDR**
+**DAC**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 21 |
 | Citations | 2,121 |
 | Publications | 77 |
-| CDR Focus | 5.2% |
+| CDR Focus | 6.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -59,7 +59,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 3. **Renewable energy vs. direct air capture and utilization at the macroeconomic level: A Computable General Equilibruim analysis in Japan** (2026)
    1 citations · DAC
 
-4. **Direct Air Capture and Utilization: Life Cycle Assessment and CO2 Reduction Potential Estimation** (2024)
+4. **Scalable carbon solutions: life cycle insights and public willingness to adopt direct air capture and utilization systems** (2026)
+   0 citations · DAC
+
+5. **Direct Air Capture and Utilization: Life Cycle Assessment and CO2 Reduction Potential Estimation** (2024)
    0 citations · DAC
 
 ## External Profiles

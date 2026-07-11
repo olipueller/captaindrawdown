@@ -1,7 +1,7 @@
 ---
 title: "Lamnganbi Mutum"
 description: "Lamnganbi Mutum is a Mid-career Soil Carbon researcher at International Water Management Institute in LK. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.985855
+date: 2026-07-11T11:05:43.478008
 url: "/cdr-researcher-census/researchers/lamnganbi-mutum-a5078524/"
 layout: "researcher"
 hiddenInHomeList: true

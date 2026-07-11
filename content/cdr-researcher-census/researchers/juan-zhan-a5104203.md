@@ -1,7 +1,7 @@
 ---
 title: "Juan Zhan"
 description: "Juan Zhan is a Senior Soil Carbon researcher at Institute of Mountain Hazards and Environment in CN. With 35 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.704143
+date: 2026-07-11T11:05:43.276990
 url: "/cdr-researcher-census/researchers/juan-zhan-a5104203/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 13 |
 | Citations | 505 |
 | Publications | 35 |
-| CDR Focus | 11.4% |
+| CDR Focus | 8.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

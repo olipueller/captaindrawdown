@@ -1,7 +1,7 @@
 ---
 title: "Phuc Hoan Tu"
 description: "Phuc Hoan Tu is a Mid-career Biochar researcher at Kogakuin University in JP. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.928671
+date: 2026-07-11T11:05:44.269648
 url: "/cdr-researcher-census/researchers/phuc-hoan-tu-a5083253/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 6 |
 | Citations | 124 |
 | Publications | 18 |
-| CDR Focus | 11.1% |
+| CDR Focus | 5.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

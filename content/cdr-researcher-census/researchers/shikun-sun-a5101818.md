@@ -1,7 +1,7 @@
 ---
 title: "Shikun Sun"
 description: "Shikun Sun is a Senior Soil Carbon researcher at Northwest A&F University in CN. With 62 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.134270
+date: 2026-07-11T11:05:42.875868
 url: "/cdr-researcher-census/researchers/shikun-sun-a5101818/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 27 |
 | Citations | 2,214 |
 | Publications | 62 |
-| CDR Focus | 9.7% |
+| CDR Focus | 6.5% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

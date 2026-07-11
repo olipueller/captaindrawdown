@@ -1,7 +1,7 @@
 ---
 title: "Biao Huang"
 description: "Biao Huang is a Senior Ocean CDR researcher at Christian-Albrechts-Universität zu Kiel in DE. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.917975
+date: 2026-07-11T11:05:43.429264
 url: "/cdr-researcher-census/researchers/biao-huang-a5072516/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jianjun Wu"
 description: "Jianjun Wu is a Mid-career Biochar researcher at Kunming University of Science and Technology in CN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.117944
+date: 2026-07-11T11:05:44.416908
 url: "/cdr-researcher-census/researchers/jianjun-wu-a5101554/"
 layout: "researcher"
 hiddenInHomeList: true

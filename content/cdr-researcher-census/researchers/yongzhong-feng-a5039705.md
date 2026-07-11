@@ -1,7 +1,7 @@
 ---
 title: "Yongzhong Feng"
 description: "Yongzhong Feng is a Mid-career Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.236740
+date: 2026-07-11T11:05:43.637452
 url: "/cdr-researcher-census/researchers/yongzhong-feng-a5039705/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -52,6 +52,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 2. **Divergent mechanisms of rhizosphere and non-rhizosphere soil organic carbon sequestration under precipitation variability: Evidence from microbial life-history strategies** (2025)
    9 citations · Soil Carbon
+
+3. **Effects of Long-Term Mulching on Soil Aggregation and Organic Carbon Sequestration in Sloping Croplands of the Loess Plateau** (2026)
+   1 citations · Soil Carbon
 
 ## External Profiles
 

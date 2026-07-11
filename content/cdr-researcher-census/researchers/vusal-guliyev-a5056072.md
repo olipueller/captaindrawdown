@@ -1,7 +1,7 @@
 ---
 title: "Vusal Guliyev"
 description: "Vusal Guliyev is a Mid-career Soil Carbon researcher at Helmholtz Centre for Environmental Research in DE. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.585806
+date: 2026-07-11T11:05:43.971758
 url: "/cdr-researcher-census/researchers/vusal-guliyev-a5056072/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 176 |
 | Publications | 20 |
-| CDR Focus | 25.0% |
+| CDR Focus | 15.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

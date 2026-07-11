@@ -1,7 +1,7 @@
 ---
 title: "Pengzhi Zhao"
 description: "Pengzhi Zhao is a Mid-career Soil Carbon researcher at Université Libre de Bruxelles in BE. With 43 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.778752
+date: 2026-07-11T11:05:43.333314
 url: "/cdr-researcher-census/researchers/pengzhi-zhao-a5048598/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -62,16 +62,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Coupled geomorphic and climate-driven biogeochemical processes regulate soil organic carbon stocks in agricultural terraces** (2026)
    2 citations · Soil Carbon
 
-5. **Characterizing agricultural terraces-new quantitative geomorphometric approaches to estimate soil volumes stored.** (2021)
+5. **Coupled geomorphic and climate-driven biogeochemical processes regulate soil organic carbon stocks in agricultural terraces** (2026)
+   0 citations · Soil Carbon
+
+6. **Characterizing agricultural terraces-new quantitative geomorphometric approaches to estimate soil volumes stored.** (2021)
    0 citations
 
-6. **Climate-dependent pedogenic trajectories control the carbon sequestration potential of agricultural terraces** (2023)
+7. **Climate-dependent pedogenic trajectories control the carbon sequestration potential of agricultural terraces** (2023)
    0 citations · Soil Carbon
 
-7. **Climate conditions control the SOC sequestration potential of agricultural terraces** (2024)
+8. **Climate conditions control the SOC sequestration potential of agricultural terraces** (2024)
    0 citations · Soil Carbon
 
-8. **A geomorphometric approach to estimate soil volumes stored in agricultural terrace systems** (2021)
+9. **A geomorphometric approach to estimate soil volumes stored in agricultural terrace systems** (2021)
    0 citations · Soil Carbon
 
 ## External Profiles

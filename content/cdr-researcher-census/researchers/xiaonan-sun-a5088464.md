@@ -1,7 +1,7 @@
 ---
 title: "Xiaonan Sun"
 description: "Xiaonan Sun is a Mid-career Soil Carbon researcher at Hohai University in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.399884
+date: 2026-07-11T11:05:43.749826
 url: "/cdr-researcher-census/researchers/xiaonan-sun-a5088464/"
 layout: "researcher"
 hiddenInHomeList: true

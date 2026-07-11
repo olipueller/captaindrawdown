@@ -1,7 +1,7 @@
 ---
 title: "Xiayun Zang"
 description: "Xiayun Zang is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.150631
+date: 2026-07-11T11:05:44.440487
 url: "/cdr-researcher-census/researchers/xiayun-zang-a5042122/"
 layout: "researcher"
 hiddenInHomeList: true

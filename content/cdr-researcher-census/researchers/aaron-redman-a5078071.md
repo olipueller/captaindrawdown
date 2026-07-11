@@ -1,7 +1,7 @@
 ---
 title: "Aaron Redman"
 description: "Aaron Redman is a Mid-career General CDR researcher at Arizona State University in US. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.322346
+date: 2026-07-11T11:05:42.989027
 url: "/cdr-researcher-census/researchers/aaron-redman-a5078071/"
 layout: "researcher"
 hiddenInHomeList: true

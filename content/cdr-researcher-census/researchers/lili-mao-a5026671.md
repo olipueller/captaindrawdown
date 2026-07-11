@@ -1,7 +1,7 @@
 ---
 title: "Lili Mao"
 description: "Lili Mao is a Senior Soil Carbon researcher at Shandong Agricultural University in CN. With 67 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.161337
+date: 2026-07-11T11:05:42.890023
 url: "/cdr-researcher-census/researchers/lili-mao-a5026671/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 24 |
 | Citations | 1,991 |
 | Publications | 67 |
-| CDR Focus | 10.4% |
-| Trajectory | Declining |
+| CDR Focus | 9.0% |
+| Trajectory | Exiting |
 
 ## Top CDR Publications
 

@@ -1,7 +1,7 @@
 ---
 title: "Ting-Shuai Shi"
 description: "Ting-Shuai Shi is an Early-career Soil Carbon researcher at Lanzhou University in CN. With 7 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.681969
+date: 2026-07-11T11:05:44.086353
 url: "/cdr-researcher-census/researchers/ting-shuai-shi-a5095061/"
 layout: "researcher"
 hiddenInHomeList: true

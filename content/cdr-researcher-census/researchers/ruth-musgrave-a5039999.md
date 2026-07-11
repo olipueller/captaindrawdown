@@ -1,7 +1,7 @@
 ---
 title: "Ruth Musgrave"
 description: "Ruth Musgrave is a Senior Ocean CDR researcher at Dalhousie University in CA. With 59 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.159745
+date: 2026-07-11T11:05:42.889011
 url: "/cdr-researcher-census/researchers/ruth-musgrave-a5039999/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,24 +45,36 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 17 |
 | Citations | 2,007 |
 | Publications | 59 |
-| CDR Focus | 8.5% |
+| CDR Focus | 13.6% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
-1. **Tracer release experiments in Halifax Harbour and implications for coastal ocean alkalinity enhancement** (2026)
+1. **Modelling considerations for research on ocean alkalinity enhancement (OAE)** (2023)
+   37 citations · General CDR
+
+2. **Modeling considerations for research on Ocean Alkalinity Enhancement (OAE)** (2023)
+   21 citations · General CDR
+
+3. **Tracer release experiments in Halifax Harbour and implications for coastal ocean alkalinity enhancement** (2026)
    0 citations · Ocean CDR
 
-2. **Can ocean alkalinity enhancement reduce atmospheric carbon dioxide?** (2024)
+4. **Physical controls on alkalinity variability in Halifax Harbour: The roles of wind and tides** (2026)
+   0 citations · Ocean CDR
+
+5. **Can ocean alkalinity enhancement reduce atmospheric carbon dioxide?** (2024)
    0 citations · General CDR
 
-3. **The effects of near-surface turbulence on CO2 flux at the ocean-atmosphere boundary&amp;#160;** (2024)
+6. **The effects of near-surface turbulence on CO2 flux at the ocean-atmosphere boundary&amp;#160;** (2024)
    0 citations · Ocean CDR
 
-4. **The impacts of ocean physics on the efficiency of ocean alkalinity enhancement in a one-dimensional model** (2024)
+7. **The impacts of ocean physics on the efficiency of ocean alkalinity enhancement in a one-dimensional model** (2024)
    0 citations · Ocean CDR
 
-5. **Ocean Alk-Align: an international research project to assess the potential of Ocean Alkalinity Enhancement for marine Carbon Dioxide Removal** (2024)
+8. **Ocean Alk-Align: an international research project to assess the potential of Ocean Alkalinity Enhancement for marine Carbon Dioxide Removal** (2024)
+   0 citations · General CDR
+
+9. **Reply on AC1** (2023)
    0 citations · General CDR
 
 ## External Profiles

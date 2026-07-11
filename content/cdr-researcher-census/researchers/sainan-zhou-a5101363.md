@@ -1,7 +1,7 @@
 ---
 title: "Sainan Zhou"
 description: "Sainan Zhou is a Mid-career DAC researcher at Liaoning University in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.672129
+date: 2026-07-11T11:05:44.080019
 url: "/cdr-researcher-census/researchers/sainan-zhou-a5101363/"
 layout: "researcher"
 hiddenInHomeList: true

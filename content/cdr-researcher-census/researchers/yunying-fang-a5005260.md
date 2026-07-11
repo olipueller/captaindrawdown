@@ -1,7 +1,7 @@
 ---
 title: "Yunying Fang"
 description: "Yunying Fang is an Eminent Soil Carbon researcher at Griffith University in AU. With 158 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.979576
+date: 2026-07-11T11:05:42.804830
 url: "/cdr-researcher-census/researchers/yunying-fang-a5005260/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 40 |
 | Citations | 5,192 |
 | Publications | 158 |
-| CDR Focus | 13.9% |
+| CDR Focus | 14.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Michael D. Masters"
 description: "Michael D. Masters is a Senior Enhanced Weathering researcher at University of Illinois System in US. With 67 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.114848
+date: 2026-07-11T11:05:42.865483
 url: "/cdr-researcher-census/researchers/michael-d-masters-a5031536/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 22 |
 | Citations | 2,423 |
 | Publications | 67 |
-| CDR Focus | 17.9% |
+| CDR Focus | 11.9% |
 | Trajectory | Declining |
 
 ## Top CDR Publications

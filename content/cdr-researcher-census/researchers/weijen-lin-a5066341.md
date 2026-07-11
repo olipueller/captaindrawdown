@@ -1,7 +1,7 @@
 ---
 title: "Wei‐Jen Lin"
 description: "Wei‐Jen Lin is a Mid-career Soil Carbon researcher at National Chiayi University in TW. With 33 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.268019
+date: 2026-07-11T11:05:43.658191
 url: "/cdr-researcher-census/researchers/weijen-lin-a5066341/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 248 |
 | Publications | 33 |
-| CDR Focus | 24.2% |
-| Trajectory | Declining |
+| CDR Focus | 12.1% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

@@ -1,7 +1,7 @@
 ---
 title: "Juanjuan Ai"
 description: "Juanjuan Ai is a Mid-career Soil Carbon researcher at University of Tübingen in DE. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.921641
+date: 2026-07-11T11:05:43.431852
 url: "/cdr-researcher-census/researchers/juanjuan-ai-a5040938/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Magdalena Bednik"
 description: "Magdalena Bednik is a Mid-career Biochar researcher at Wrocław University of Environmental and Life Sciences in PL. With 21 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.864217
+date: 2026-07-11T11:05:43.393933
 url: "/cdr-researcher-census/researchers/magdalena-bednik-a5049786/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 11 |
 | Citations | 396 |
 | Publications | 21 |
-| CDR Focus | 33.3% |
+| CDR Focus | 23.8% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Guopeng Liang"
 description: "Guopeng Liang is a Senior Soil Carbon researcher at Environmental Research Institute of Michigan in US. With 91 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.077311
+date: 2026-07-11T11:05:42.847595
 url: "/cdr-researcher-census/researchers/guopeng-liang-a5071712/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 29 |
 | Citations | 2,961 |
 | Publications | 91 |
-| CDR Focus | 14.3% |
+| CDR Focus | 12.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

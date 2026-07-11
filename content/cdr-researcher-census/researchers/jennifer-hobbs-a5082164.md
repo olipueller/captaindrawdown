@@ -1,7 +1,7 @@
 ---
 title: "Jennifer Hobbs"
 description: "Jennifer Hobbs is a Mid-career Soil Carbon researcher at Intel (United Kingdom) in GB. With 29 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.877919
+date: 2026-07-11T11:05:43.403888
 url: "/cdr-researcher-census/researchers/jennifer-hobbs-a5082164/"
 layout: "researcher"
 hiddenInHomeList: true

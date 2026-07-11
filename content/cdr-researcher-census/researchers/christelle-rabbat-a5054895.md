@@ -1,7 +1,7 @@
 ---
 title: "Christelle Rabbat"
 description: "Christelle Rabbat is a Mid-career General CDR researcher at Centre National de la Recherche Scientifique in FR. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.211063
+date: 2026-07-11T11:05:43.619739
 url: "/cdr-researcher-census/researchers/christelle-rabbat-a5054895/"
 layout: "researcher"
 hiddenInHomeList: true

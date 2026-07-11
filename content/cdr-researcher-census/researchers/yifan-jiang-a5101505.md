@@ -1,7 +1,7 @@
 ---
 title: "Yifan Jiang"
 description: "Yifan Jiang is a Mid-career Soil Carbon researcher at Qingdao University in CN. With 39 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.750027
+date: 2026-07-11T11:05:43.311405
 url: "/cdr-researcher-census/researchers/yifan-jiang-a5101505/"
 layout: "researcher"
 hiddenInHomeList: true

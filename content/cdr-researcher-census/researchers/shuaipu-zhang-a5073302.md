@@ -1,7 +1,7 @@
 ---
 title: "Shuaipu Zhang"
 description: "Shuaipu Zhang is a Mid-career Soil Carbon researcher at Guilin University of Technology in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.158536
+date: 2026-07-11T11:05:44.445290
 url: "/cdr-researcher-census/researchers/shuaipu-zhang-a5073302/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,8 +47,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Impacts of Wetland Degradation on Soil Organic Carbon and Carbon Sequestration Function: A Case Study of the Huixian Wetland in the Li River Basin** (2025)
+1. **Effects of the hydrolysis of mudstone on soil infiltration: Experiments versus numerical modelling** (2025)
+   4 citations
+
+2. **Impacts of Wetland Degradation on Soil Organic Carbon and Carbon Sequestration Function: A Case Study of the Huixian Wetland in the Li River Basin** (2025)
    0 citations · Soil Carbon
+
+3. **Effects of the Hydrolysis of Mudstone on Soil Infiltration: Experiments Versus Numerical Modelling** (2024)
+   0 citations
 
 ## External Profiles
 

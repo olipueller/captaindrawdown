@@ -1,7 +1,7 @@
 ---
 title: "Ken Belcher"
 description: "Ken Belcher is a Senior General CDR researcher at University of Saskatchewan in CA. With 39 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.436319
+date: 2026-07-11T11:05:43.063345
 url: "/cdr-researcher-census/researchers/ken-belcher-a5103526/"
 layout: "researcher"
 hiddenInHomeList: true

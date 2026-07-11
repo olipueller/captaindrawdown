@@ -1,7 +1,7 @@
 ---
 title: "Laura Bentley"
 description: "Laura Bentley is a Mid-career Soil Carbon researcher at UK Centre for Ecology & Hydrology in GB. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.746970
+date: 2026-07-11T11:05:44.135585
 url: "/cdr-researcher-census/researchers/laura-bentley-a5102556/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 149 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
-| Trajectory | Exiting |
+| CDR Focus | 28.6% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Benchmarking soil organic carbon (SOC) concentration provides more robust soil health assessment than the SOC/clay ratio at European scale** (2024)
    44 citations · Soil Carbon
+
+2. **First Signs That National Cropland Organic Carbon Loss Is Reversing in British Topsoils** (2025)
+   4 citations · Soil Carbon
 
 ## External Profiles
 

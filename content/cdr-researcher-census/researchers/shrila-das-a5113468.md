@@ -1,7 +1,7 @@
 ---
 title: "Shrila Das"
 description: "Shrila Das is a Senior Soil Carbon researcher at Indian Agricultural Statistics Research Institute in IN. With 65 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.299233
+date: 2026-07-11T11:05:42.973636
 url: "/cdr-researcher-census/researchers/shrila-das-a5113468/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 14 |
 | Citations | 1,237 |
 | Publications | 65 |
-| CDR Focus | 15.4% |
+| CDR Focus | 16.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -71,11 +71,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 8. **Belowground Carbon Storage and Dynamics** (2021)
    3 citations · General CDR
 
-9. **Conservation Agriculture Strategies for Enhancing Soil Health** (2025)
-   2 citations · Soil Carbon
+9. **Biochar production: Utilizing waste for carbon sequestration and soil improvement** (2025)
+   2 citations · Biochar
 
-10. **Elevated Co2 Alters Aggregate-Carbon and Microbial Community But Does Not Affect Total Soil Organic C in the Tropics** (2022)
-   0 citations · Soil Carbon
+10. **Conservation Agriculture Strategies for Enhancing Soil Health** (2025)
+   2 citations · Soil Carbon
 
 ## External Profiles
 

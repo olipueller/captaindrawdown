@@ -1,7 +1,7 @@
 ---
 title: "Sebastián García"
 description: "Sebastián García is a Mid-career General CDR researcher at Universidad Loyola Andalucía in ES. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.446915
+date: 2026-07-11T11:05:43.782169
 url: "/cdr-researcher-census/researchers/sebastian-garcia-a5102973/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 8 |
 | Citations | 203 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 5.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

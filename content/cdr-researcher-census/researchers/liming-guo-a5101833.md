@@ -1,7 +1,7 @@
 ---
 title: "Liming Guo"
 description: "Liming Guo is an Early-career Soil Carbon researcher at Fujian Agriculture and Forestry University in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.923861
+date: 2026-07-11T11:05:44.267072
 url: "/cdr-researcher-census/researchers/liming-guo-a5101833/"
 layout: "researcher"
 hiddenInHomeList: true

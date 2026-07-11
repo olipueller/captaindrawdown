@@ -1,7 +1,7 @@
 ---
 title: "Jubil Joy"
 description: "Jubil Joy is a Mid-career General CDR researcher at University of Alberta in CA. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.902143
+date: 2026-07-11T11:05:44.250359
 url: "/cdr-researcher-census/researchers/jubil-joy-a5113404/"
 layout: "researcher"
 hiddenInHomeList: true

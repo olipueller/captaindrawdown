@@ -1,7 +1,7 @@
 ---
 title: "Tajda Potrč Obrecht"
 description: "Tajda Potrč Obrecht is a Mid-career General CDR researcher at Graz University of Technology in AT. With 23 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.538000
+date: 2026-07-11T11:05:43.139203
 url: "/cdr-researcher-census/researchers/tajda-potrc-obrecht-a5039913/"
 layout: "researcher"
 hiddenInHomeList: true

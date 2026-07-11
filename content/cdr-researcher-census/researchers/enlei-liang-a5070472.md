@@ -1,7 +1,7 @@
 ---
 title: "Enlei Liang"
 description: "Enlei Liang is a Mid-career Biochar researcher at Tianjin University in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.199248
+date: 2026-07-11T11:05:43.611227
 url: "/cdr-researcher-census/researchers/enlei-liang-a5070472/"
 layout: "researcher"
 hiddenInHomeList: true

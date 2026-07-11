@@ -1,7 +1,7 @@
 ---
 title: "Friederike Fröb"
 description: "Friederike Fröb is a Mid-career General CDR researcher at Bjerknes Centre for Climate Research in NO. With 40 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.655559
+date: 2026-07-11T11:05:43.243169
 url: "/cdr-researcher-census/researchers/friederike-frob-a5017194/"
 layout: "researcher"
 hiddenInHomeList: true

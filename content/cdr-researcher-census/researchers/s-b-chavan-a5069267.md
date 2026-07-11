@@ -1,7 +1,7 @@
 ---
 title: "S. B. Chavan"
 description: "S. B. Chavan is a Senior Soil Carbon researcher at National Research Centre for Agroforestry in IN. With 86 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.230932
+date: 2026-07-11T11:05:42.931010
 url: "/cdr-researcher-census/researchers/s-b-chavan-a5069267/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Citations | 1,528 |
 | Publications | 86 |
 | CDR Focus | 9.3% |
-| Trajectory | Stable |
+| Trajectory | Declining |
 
 ## Top CDR Publications
 
@@ -65,13 +65,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 5. **Nature-based solutions for enhancing CO2 sequestration and rehabilitating degraded lands through silvo-aromatic system and soil moisture conservation techniques** (2025)
    15 citations · Soil Carbon
 
-6. **Editorial: Agroforestry for biodiversity and ecosystem services** (2025)
+6. **Optimizing planting geometries in eucalyptus-based food production systems for enhanced yield and carbon sequestration** (2024)
+   13 citations · Soil Carbon
+
+7. **Editorial: Agroforestry for biodiversity and ecosystem services** (2025)
    11 citations · General CDR
 
-7. **Agroforestry: A Key Contributor to Carbon Neutrality** (2026)
+8. **Agroforestry: A Key Contributor to Carbon Neutrality** (2026)
    0 citations · General CDR
 
-8. **Litter Dynamics in Fruit Orchards and Natural Forests in the West Coast Region of India – A Comparative Analysis** (2024)
+9. **Litter Dynamics in Fruit Orchards and Natural Forests in the West Coast Region of India – A Comparative Analysis** (2024)
    0 citations · Soil Carbon
 
 ## External Profiles

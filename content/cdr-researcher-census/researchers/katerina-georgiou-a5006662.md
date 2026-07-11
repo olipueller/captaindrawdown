@@ -1,7 +1,7 @@
 ---
 title: "Katerina Georgiou"
 description: "Katerina Georgiou is a Senior Soil Carbon researcher at Oregon State University in US. With 125 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.967818
+date: 2026-07-11T11:05:42.800994
 url: "/cdr-researcher-census/researchers/katerina-georgiou-a5006662/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 33 |
 | Citations | 5,715 |
 | Publications | 125 |
-| CDR Focus | 8.8% |
-| Trajectory | Stable |
+| CDR Focus | 8.0% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

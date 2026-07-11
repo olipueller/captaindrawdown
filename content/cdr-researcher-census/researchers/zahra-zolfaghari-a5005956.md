@@ -1,7 +1,7 @@
 ---
 title: "Zahra Zolfaghari"
 description: "Zahra Zolfaghari is a Mid-career General CDR researcher at Royan Institute in IR. With 11 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.214287
+date: 2026-07-11T11:05:43.621856
 url: "/cdr-researcher-census/researchers/zahra-zolfaghari-a5005956/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 9 |
 | Citations | 264 |
 | Publications | 11 |
-| CDR Focus | 27.3% |
+| CDR Focus | 18.2% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

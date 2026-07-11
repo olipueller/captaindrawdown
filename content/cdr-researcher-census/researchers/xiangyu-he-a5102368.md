@@ -1,7 +1,7 @@
 ---
 title: "Xiangyu He"
 description: "Xiangyu He is a Mid-career Soil Carbon researcher at Christian Doppler Laboratory for Thermoelectricity in AT. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.706917
+date: 2026-07-11T11:05:44.105998
 url: "/cdr-researcher-census/researchers/xiangyu-he-a5102368/"
 layout: "researcher"
 hiddenInHomeList: true

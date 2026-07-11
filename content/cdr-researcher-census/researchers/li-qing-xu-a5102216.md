@@ -1,7 +1,7 @@
 ---
 title: "Li-Qing Xu"
 description: "Li-Qing Xu is a Senior Soil Carbon researcher at Experimental Center of Forestry in North China in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.436415
+date: 2026-07-11T11:05:43.774214
 url: "/cdr-researcher-census/researchers/li-qing-xu-a5102216/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ginjo Gitima"
 description: "Ginjo Gitima is a Mid-career Soil Carbon researcher at Institute of Geography in KZ. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.775254
+date: 2026-07-11T11:05:44.157048
 url: "/cdr-researcher-census/researchers/ginjo-gitima-a5020198/"
 layout: "researcher"
 hiddenInHomeList: true

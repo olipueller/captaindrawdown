@@ -1,7 +1,7 @@
 ---
 title: "Hongzhi Yang"
 description: "Hongzhi Yang is a Senior Soil Carbon researcher at Jiangsu University in CN. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.136348
+date: 2026-07-11T11:05:44.430300
 url: "/cdr-researcher-census/researchers/hongzhi-yang-a5101749/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xuancan Zhu"
 description: "Xuancan Zhu is a Senior General CDR researcher at Shanghai Jiao Tong University in CN. With 44 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.067670
+date: 2026-07-11T11:05:42.843399
 url: "/cdr-researcher-census/researchers/xuancan-zhu-a5072713/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 22 |
 | Citations | 3,115 |
 | Publications | 44 |
-| CDR Focus | 54.5% |
-| Trajectory | Declining |
+| CDR Focus | 11.4% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

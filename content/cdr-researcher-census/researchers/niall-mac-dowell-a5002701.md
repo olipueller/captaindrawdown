@@ -1,7 +1,7 @@
 ---
 title: "Niall Mac Dowell"
 description: "Niall Mac Dowell is an Eminent General CDR researcher at Imperial College London in GB. With 228 publications and an h-index of 56, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.856461
+date: 2026-07-11T11:05:42.771432
 url: "/cdr-researcher-census/researchers/niall-mac-dowell-a5002701/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 56 |
 | Citations | 18,950 |
 | Publications | 228 |
-| CDR Focus | 11.8% |
+| CDR Focus | 12.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -59,26 +59,26 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 3. **Geospatial analysis of regional climate impacts to accelerate cost-efficient direct air capture deployment** (2022)
    109 citations
 
-4. **Delivering carbon negative electricity, heat and hydrogen with BECCS – Comparing the options** (2021)
+4. **A comparative analysis of the efficiency, timing, and permanence of CO<sub>2</sub> removal pathways** (2022)
+   90 citations · General CDR
+
+5. **Delaying carbon dioxide removal in the European Union puts climate targets at risk** (2021)
+   83 citations · BECCS
+
+6. **Delivering carbon negative electricity, heat and hydrogen with BECCS – Comparing the options** (2021)
    58 citations · BECCS
 
-5. **Comparing approaches for carbon dioxide removal** (2022)
+7. **Sustainable scale-up of negative emissions technologies and practices: where to focus** (2022)
+   53 citations · General CDR
+
+8. **Life cycle optimization of BECCS supply chains in the European Union** (2021)
+   47 citations · BECCS
+
+9. **Comparing approaches for carbon dioxide removal** (2022)
    39 citations · General CDR
 
-6. **The cost of permanent carbon dioxide removal** (2023)
+10. **The cost of permanent carbon dioxide removal** (2023)
    37 citations · General CDR
-
-7. **CO<sub>2</sub> removal and 1.5 °C: what, when, where, and how?** (2022)
-   23 citations · BECCS
-
-8. **Geospatial techno-economic and environmental assessment of different energy options for solid sorbent direct air capture** (2024)
-   19 citations · DAC
-
-9. **Pathways to net zero for power and industry in the UK** (2023)
-   11 citations · General CDR
-
-10. **Scientific literature on carbon dioxide removal much larger than previously suggested: insights from an AI-enhanced systematic map** (2024)
-   7 citations · General CDR
 
 ## External Profiles
 

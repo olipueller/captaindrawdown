@@ -1,7 +1,7 @@
 ---
 title: "Xinzuo Yang"
 description: "Xinzuo Yang is a Mid-career Biochar researcher at Nankai University in CN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.412337
+date: 2026-07-11T11:05:43.758491
 url: "/cdr-researcher-census/researchers/xinzuo-yang-a5050084/"
 layout: "researcher"
 hiddenInHomeList: true

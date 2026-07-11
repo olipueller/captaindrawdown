@@ -1,7 +1,7 @@
 ---
 title: "Yanji Jin"
 description: "Yanji Jin is an Early-career General CDR researcher at Southeast University in CN. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.108490
+date: 2026-07-11T11:05:44.410622
 url: "/cdr-researcher-census/researchers/yanji-jin-a5080048/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 4 |
 | Citations | 106 |
 | Publications | 13 |
-| CDR Focus | 15.4% |
+| CDR Focus | 7.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

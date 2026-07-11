@@ -1,7 +1,7 @@
 ---
 title: "Guillermo Gallareta-Olivares"
 description: "Guillermo Gallareta-Olivares is an Early-career Biochar researcher at Tecnológico de Monterrey in MX. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.509685
+date: 2026-07-11T11:05:43.840328
 url: "/cdr-researcher-census/researchers/guillermo-gallareta-olivares-a5070512/"
 layout: "researcher"
 hiddenInHomeList: true

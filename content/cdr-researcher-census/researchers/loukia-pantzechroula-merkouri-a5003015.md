@@ -1,7 +1,7 @@
 ---
 title: "Loukia-Pantzechroula Merkouri"
 description: "Loukia-Pantzechroula Merkouri is a Mid-career General CDR researcher at University of Surrey in GB. With 23 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.819445
+date: 2026-07-11T11:05:43.362575
 url: "/cdr-researcher-census/researchers/loukia-pantzechroula-merkouri-a5003015/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 11 |
 | Citations | 423 |
 | Publications | 23 |
-| CDR Focus | 17.4% |
-| Trajectory | Stable |
+| CDR Focus | 13.0% |
+| Trajectory | Exiting |
 
 ## Top CDR Publications
 

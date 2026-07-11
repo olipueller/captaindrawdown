@@ -1,7 +1,7 @@
 ---
 title: "Maidinuer Abulaizi"
 description: "Maidinuer Abulaizi is a Mid-career Soil Carbon researcher at Xinjiang Agricultural University in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.752131
+date: 2026-07-11T11:05:44.139524
 url: "/cdr-researcher-census/researchers/maidinuer-abulaizi-a5069398/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 148 |
 | Publications | 18 |
-| CDR Focus | 22.2% |
-| Trajectory | Stable |
+| CDR Focus | 11.1% |
+| Trajectory | Exiting |
 
 ## Top CDR Publications
 

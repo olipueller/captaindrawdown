@@ -1,7 +1,7 @@
 ---
 title: "Gehong Wei"
 description: "Gehong Wei is a Senior Soil Carbon researcher. With 66 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.052719
+date: 2026-07-11T11:05:42.836142
 url: "/cdr-researcher-census/researchers/gehong-wei-a5101699/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,24 +40,39 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 28 |
 | Citations | 3,352 |
 | Publications | 66 |
-| CDR Focus | 7.6% |
+| CDR Focus | 12.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **A Global Relationship Between Genome Size and Encoded Carbon Metabolic Strategies of Soil Bacteria** (2025)
+1. **Organic amendments affect soil organic carbon sequestration and fractions in fields with long-term contrasting nitrogen applications** (2021)
+   63 citations · Soil Carbon
+
+2. **The biogeography of soil microbiome potential growth rates** (2024)
+   60 citations
+
+3. **A Global Relationship Between Genome Size and Encoded Carbon Metabolic Strategies of Soil Bacteria** (2025)
    24 citations · Soil Carbon
 
-2. **Core autotrophic microbes drive functional stability of soil cbbL-containing autotrophic microbes during desertification** (2023)
+4. **Residue quality drives SOC sequestration by altering microbial taxonomic composition and ecophysiological function in desert ecosystem** (2024)
+   22 citations · Soil Carbon
+
+5. **Long‐term effects of straw mulching coupled with N application on soil organic carbon sequestration and soil aggregation in a winter wheat monoculture system** (2021)
+   18 citations · Soil Carbon
+
+6. **Core autotrophic microbes drive functional stability of soil cbbL-containing autotrophic microbes during desertification** (2023)
    9 citations
 
-3. **Straw return enhances soil multifunctionality by promoting protist-dominated microbial multitrophic interactions** (2025)
+7. **Linking prokaryotic life-history strategies to soil organic carbon stability in semi-arid orchard with cover crops** (2025)
+   7 citations · Soil Carbon
+
+8. **Straw return enhances soil multifunctionality by promoting protist-dominated microbial multitrophic interactions** (2025)
    2 citations · Soil Carbon
 
-4. **The distribution of aerobic bacteria in Chinese cropland is linked to the soil texture** (2025)
+9. **The distribution of aerobic bacteria in Chinese cropland is linked to the soil texture** (2025)
    2 citations · Soil Carbon
 
-5. **Long‐Term Reclamation of Sandy Land Enhances Deep Soil Carbon Storage and Stability via Mineral‐Associated Organic Carbon Accumulation** (2025)
+10. **Long‐Term Reclamation of Sandy Land Enhances Deep Soil Carbon Storage and Stability via Mineral‐Associated Organic Carbon Accumulation** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

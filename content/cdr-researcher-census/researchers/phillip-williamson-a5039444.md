@@ -1,7 +1,7 @@
 ---
 title: "Phillip Williamson"
 description: "Phillip Williamson is an Eminent Ocean CDR researcher at Natural Environment Research Council in GB. With 156 publications and an h-index of 45, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.961610
+date: 2026-07-11T11:05:42.798171
 url: "/cdr-researcher-census/researchers/phillip-williamson-a5039444/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 45 |
 | Citations | 5,969 |
 | Publications | 156 |
-| CDR Focus | 5.1% |
-| Trajectory | Stable |
+| CDR Focus | 6.4% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
@@ -65,14 +65,20 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 5. **Feasibility of Using Biologically-based Processes in the Open Ocean and Coastal Seas for Atmospheric CO2 Removal** (2022)
    10 citations · General CDR
 
-6. **Natural carbon uptake by ocean biology will not deliver credible carbon credits** (2025)
+6. **Scientific evidence does not support oyster farming as a marine carbon dioxide removal strategy for climate mitigation** (2026)
+   2 citations · Ocean CDR
+
+7. **Natural carbon uptake by ocean biology will not deliver credible carbon credits** (2025)
    2 citations · General CDR
 
-7. **Is blue carbon a ‘red herring’? Problems regarding magnitude, cost-effectiveness and timescale** (2025)
-   0 citations · Ocean CDR
-
-8. **Deep ocean carbon drawdown not an easy climate fix** (2022)
+8. **A system-based analysis of carbon fluxes shows that bivalve aquaculture cannot be considered a marine carbon dioxide removal strategy** (2026)
    0 citations · General CDR
+
+9. **Scientific evidence does not support oyster farming as a marine carbon dioxide removal strategy** (2026)
+   0 citations
+
+10. **Is blue carbon a ‘red herring’? Problems regarding magnitude, cost-effectiveness and timescale** (2025)
+   0 citations · Ocean CDR
 
 ## External Profiles
 

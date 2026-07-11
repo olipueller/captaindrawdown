@@ -1,7 +1,7 @@
 ---
 title: "Qiulian Lin"
 description: "Qiulian Lin is a Mid-career General CDR researcher at Xiamen University in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.890227
+date: 2026-07-11T11:05:44.242081
 url: "/cdr-researcher-census/researchers/qiulian-lin-a5024895/"
 layout: "researcher"
 hiddenInHomeList: true

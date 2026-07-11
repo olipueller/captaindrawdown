@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Athar Khaliq"
 description: "Muhammad Athar Khaliq is a Mid-career Soil Carbon researcher at Lanzhou University in CN. With 12 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.547103
+date: 2026-07-11T11:05:43.145314
 url: "/cdr-researcher-census/researchers/muhammad-athar-khaliq-a5026792/"
 layout: "researcher"
 hiddenInHomeList: true

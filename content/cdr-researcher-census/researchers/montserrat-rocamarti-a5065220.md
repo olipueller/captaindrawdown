@@ -1,7 +1,7 @@
 ---
 title: "Montserrat Roca‐Martí"
 description: "Montserrat Roca‐Martí is a Mid-career Ocean CDR researcher at Universitat Autònoma de Barcelona in ES. With 53 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.310457
+date: 2026-07-11T11:05:42.980872
 url: "/cdr-researcher-census/researchers/montserrat-rocamarti-a5065220/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 17 |
 | Citations | 1,196 |
 | Publications | 53 |
-| CDR Focus | 7.5% |
+| CDR Focus | 5.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

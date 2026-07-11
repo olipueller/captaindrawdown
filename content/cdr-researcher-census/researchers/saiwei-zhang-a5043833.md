@@ -1,7 +1,7 @@
 ---
 title: "Saiwei Zhang"
 description: "Saiwei Zhang is a Mid-career Soil Carbon researcher at Shanghai Academy of Environmental Sciences in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.820249
+date: 2026-07-11T11:05:44.190284
 url: "/cdr-researcher-census/researchers/saiwei-zhang-a5043833/"
 layout: "researcher"
 hiddenInHomeList: true

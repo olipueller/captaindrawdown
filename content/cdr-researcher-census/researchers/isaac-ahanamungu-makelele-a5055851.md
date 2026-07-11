@@ -1,7 +1,7 @@
 ---
 title: "Isaac Ahanamungu Makelele"
 description: "Isaac Ahanamungu Makelele is a Mid-career Soil Carbon researcher at Ghent University in BE. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.469336
+date: 2026-07-11T11:05:43.086805
 url: "/cdr-researcher-census/researchers/isaac-ahanamungu-makelele-a5055851/"
 layout: "researcher"
 hiddenInHomeList: true

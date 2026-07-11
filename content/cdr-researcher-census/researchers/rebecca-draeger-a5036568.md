@@ -1,7 +1,7 @@
 ---
 title: "Rebecca Draeger"
 description: "Rebecca Draeger is a Mid-career General CDR researcher at Universidade Federal do Rio de Janeiro in BR. With 21 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.678897
+date: 2026-07-11T11:05:44.084200
 url: "/cdr-researcher-census/researchers/rebecca-draeger-a5036568/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 6 |
 | Citations | 159 |
 | Publications | 21 |
-| CDR Focus | 23.8% |
+| CDR Focus | 19.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

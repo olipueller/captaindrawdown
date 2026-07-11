@@ -1,7 +1,7 @@
 ---
 title: "Meizhen Tang"
 description: "Meizhen Tang is a Senior Biochar researcher at Qufu Normal University in CN. With 52 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.328540
+date: 2026-07-11T11:05:42.993373
 url: "/cdr-researcher-census/researchers/meizhen-tang-a5035555/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 20 |
 | Citations | 1,138 |
 | Publications | 52 |
-| CDR Focus | 7.7% |
+| CDR Focus | 5.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

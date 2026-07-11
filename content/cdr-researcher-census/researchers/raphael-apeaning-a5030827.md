@@ -1,7 +1,7 @@
 ---
 title: "Raphael Apeaning"
 description: "Raphael Apeaning is a Mid-career General CDR researcher at Stony Brook University in US. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.040529
+date: 2026-07-11T11:05:43.514591
 url: "/cdr-researcher-census/researchers/raphael-apeaning-a5030827/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 6 |
 | Citations | 315 |
 | Publications | 20 |
-| CDR Focus | 55.0% |
+| CDR Focus | 45.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -65,20 +65,20 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 5. **Ambitious Co-scaling of Carbon Dioxide Removal and Decarbonization Delivers Better Climate Outcomes Than Strategies That Prioritize Efforts in One Domain** (2026)
    0 citations · General CDR
 
-6. **Carbon removal trading can promote economic growth in the Global South but could undermine food and energy security** (2025)
-   0 citations · General CDR
-
-7. **Separate sectoral decarbonization policies accelerate climate action but could jeopardize key sustainability targets** (2025)
-   0 citations · General CDR
-
-8. **Supplementary material to "GCAM-CDR v1.0: Enhancing the Representation of Carbon Dioxide Removal Technologies and Policies in an Integrated Assessment Model"** (2022)
-   0 citations · General CDR
-
-9. **Comment on gmd-2022-125** (2022)
+6. **Techno-Economic Comparison of Energy System Configurations for Direct Air Capture in Saudi Arabia** (2026)
    0 citations · DAC
 
-10. **Comment on gmd-2022-125** (2022)
-   0 citations
+7. **Carbon removal trading can promote economic growth in the Global South but could undermine food and energy security** (2025)
+   0 citations · General CDR
+
+8. **Separate sectoral decarbonization policies accelerate climate action but could jeopardize key sustainability targets** (2025)
+   0 citations · General CDR
+
+9. **Techno-Economic Assessment of Waste Heat-Powered Direct Air Capture in the Refinery and Petrochemical Sectors in Saudi Arabia** (2025)
+   0 citations · DAC
+
+10. **Supplementary material to "GCAM-CDR v1.0: Enhancing the Representation of Carbon Dioxide Removal Technologies and Policies in an Integrated Assessment Model"** (2022)
+   0 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Xinyu Ding"
 description: "Xinyu Ding is an Early-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.711751
+date: 2026-07-11T11:05:44.109223
 url: "/cdr-researcher-census/researchers/xinyu-ding-a5059405/"
 layout: "researcher"
 hiddenInHomeList: true

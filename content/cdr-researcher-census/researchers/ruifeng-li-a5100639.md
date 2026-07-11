@@ -1,7 +1,7 @@
 ---
 title: "Ruifeng Li"
 description: "Ruifeng Li is a Senior Soil Carbon researcher at Shandong University in CN. With 41 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.719070
+date: 2026-07-11T11:05:43.288429
 url: "/cdr-researcher-census/researchers/ruifeng-li-a5100639/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Abdelghani Yaacoubi"
 description: "Abdelghani Yaacoubi is a Senior Biochar researcher at Cadi Ayyad University in MA. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.509908
+date: 2026-07-11T11:05:43.840441
 url: "/cdr-researcher-census/researchers/abdelghani-yaacoubi-a5110541/"
 layout: "researcher"
 hiddenInHomeList: true

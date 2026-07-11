@@ -1,7 +1,7 @@
 ---
 title: "Qiang Qu"
 description: "Qiang Qu is a Mid-career Biochar researcher at Ministry of Agriculture and Rural Affairs in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.678521
+date: 2026-07-11T11:05:44.083786
 url: "/cdr-researcher-census/researchers/qiang-qu-a5001937/"
 layout: "researcher"
 hiddenInHomeList: true

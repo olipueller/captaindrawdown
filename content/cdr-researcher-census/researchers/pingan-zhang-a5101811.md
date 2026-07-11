@@ -1,7 +1,7 @@
 ---
 title: "Pingan Zhang"
 description: "Pingan Zhang is a Senior Soil Carbon researcher at Northeast Agricultural University in CN. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.590083
+date: 2026-07-11T11:05:43.977987
 url: "/cdr-researcher-census/researchers/pingan-zhang-a5101811/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,10 +53,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Sustainable management of water, nitrogen and biochar resources for soybean growth considering economic, environmental and resource use efficiency aspects: An integrated modeling approach** (2023)
    14 citations · Biochar
 
-2. **Optimizing soybean production and emission reduction through biogas slurry substitution and straw incorporation: A five-year field study in northeast China's black soil region** (2025)
+2. **Cobalt oxide particles embedded in carbon nitride nanosheets for enhanced photocatalytic performance** (2025)
+   4 citations
+
+3. **Optimizing soybean production and emission reduction through biogas slurry substitution and straw incorporation: A five-year field study in northeast China's black soil region** (2025)
    1 citations · Soil Carbon
 
-3. **Synergistic Effects of Biogas Slurry as a Nitrogen Substitute Under Different Straw Incorporation Methods on Soybean Yield and Emission Reduction** (2025)
+4. **Synergistic Effects of Biogas Slurry as a Nitrogen Substitute Under Different Straw Incorporation Methods on Soybean Yield and Emission Reduction** (2025)
    1 citations · Soil Carbon
 
 ## External Profiles

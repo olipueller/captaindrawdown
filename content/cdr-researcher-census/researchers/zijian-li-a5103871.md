@@ -1,7 +1,7 @@
 ---
 title: "Zijian Li"
 description: "Zijian Li is a Mid-career General CDR researcher at China University of Geosciences (Beijing) in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.406070
+date: 2026-07-11T11:05:43.754796
 url: "/cdr-researcher-census/researchers/zijian-li-a5103871/"
 layout: "researcher"
 hiddenInHomeList: true

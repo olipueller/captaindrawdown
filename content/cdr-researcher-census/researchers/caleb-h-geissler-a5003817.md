@@ -1,7 +1,7 @@
 ---
 title: "Caleb H. Geissler"
 description: "Caleb H. Geissler is a Mid-career General CDR researcher at Carbon Solutions (United States) in US. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.646316
+date: 2026-07-11T11:05:44.054374
 url: "/cdr-researcher-census/researchers/caleb-h-geissler-a5003817/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 6 |
 | Citations | 165 |
 | Publications | 17 |
-| CDR Focus | 35.3% |
+| CDR Focus | 29.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

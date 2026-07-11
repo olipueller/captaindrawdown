@@ -1,7 +1,7 @@
 ---
 title: "Étienne Tourigny"
 description: "Étienne Tourigny is a Senior General CDR researcher at Barcelona Supercomputing Center in ES. With 101 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.099098
+date: 2026-07-11T11:05:42.858929
 url: "/cdr-researcher-census/researchers/etienne-tourigny-a5026790/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 18 |
 | Citations | 2,606 |
 | Publications | 101 |
-| CDR Focus | 9.9% |
+| CDR Focus | 6.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Shalini Singh"
 description: "Shalini Singh is a Senior Soil Carbon researcher at National Environmental Engineering Research Institute in IN. With 49 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.774304
+date: 2026-07-11T11:05:43.329794
 url: "/cdr-researcher-census/researchers/shalini-singh-a5101633/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 452 |
 | Publications | 49 |
-| CDR Focus | 8.2% |
+| CDR Focus | 6.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

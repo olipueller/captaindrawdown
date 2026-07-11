@@ -1,7 +1,7 @@
 ---
 title: "Patrick O’Rourke"
 description: "Patrick O’Rourke is a Senior General CDR researcher at Joint Global Change Research Institute (JGCRI-PNNL) in US. With 95 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.997010
+date: 2026-07-11T11:05:42.812628
 url: "/cdr-researcher-census/researchers/patrick-orourke-a5072037/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 17 |
 | Citations | 4,582 |
 | Publications | 95 |
-| CDR Focus | 6.3% |
-| Trajectory | Exiting |
+| CDR Focus | 8.4% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
@@ -67,6 +67,12 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 6. **Fossil energy deployment through midcentury consistent with 2°C climate stabilization** (2021)
    8 citations · General CDR
+
+7. **Large-ScaleCarbon Removal Will Create Public Health,Economic, and Climate Trade-Offs** (2026)
+   0 citations · General CDR
+
+8. **Large-Scale Carbon Removal Will Create Public Health, Economic, and Climate Trade-Offs** (2026)
+   0 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Huanhuan Feng"
 description: "Huanhuan Feng is a Senior Soil Carbon researcher at Central South University in CN. With 58 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.179575
+date: 2026-07-11T11:05:42.900349
 url: "/cdr-researcher-census/researchers/huanhuan-feng-a5101546/"
 layout: "researcher"
 hiddenInHomeList: true

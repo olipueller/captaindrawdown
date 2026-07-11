@@ -1,7 +1,7 @@
 ---
 title: "Diego Ábalos"
 description: "Diego Ábalos is a Senior Soil Carbon researcher at Aarhus University in DK. With 137 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.965066
+date: 2026-07-11T11:05:42.799926
 url: "/cdr-researcher-census/researchers/diego-abalos-a5037101/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 38 |
 | Citations | 5,793 |
 | Publications | 137 |
-| CDR Focus | 7.3% |
+| CDR Focus | 8.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -68,16 +68,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 6. **Designing productive grassland mixtures to enhance soil carbon storage:the role of species traits and mixture composition** (2026)
    0 citations · Soil Carbon
 
-7. **Advancing agroecosystem management through strategic cover crop selection: The role of species identity and community composition for productivity and climate change mitigation** (2025)
+7. **Inconsistent methods compromise estimates of soil organic carbon stock changes following conversion from annual to perennial cropping systems: A meta-analysis** (2026)
    0 citations · Soil Carbon
 
-8. **Estimating the Tipping Point between N2O Emissions and C Sequestration in Soil using the DNDC v. CAN Model** (2025)
+8. **Advancing agroecosystem management through strategic cover crop selection: The role of species identity and community composition for productivity and climate change mitigation** (2025)
    0 citations · Soil Carbon
 
-9. **Enhancing plant-derived carbon is key to building stabilized soil organic carbon with perennial crops** (2025)
+9. **Estimating the Tipping Point between N2O Emissions and C Sequestration in Soil using the DNDC v. CAN Model** (2025)
    0 citations · Soil Carbon
 
-10. **Increasing root trait complementarity in species mixtures may be detrimental for soil carbon storage** (2024)
+10. **Enhancing plant-derived carbon is key to building stabilized soil organic carbon with perennial crops** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

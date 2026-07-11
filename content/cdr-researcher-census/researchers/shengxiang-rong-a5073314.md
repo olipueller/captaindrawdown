@@ -1,7 +1,7 @@
 ---
 title: "Shengxiang Rong"
 description: "Shengxiang Rong is a Mid-career General CDR researcher at Hohai University in CN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.566857
+date: 2026-07-11T11:05:43.928043
 url: "/cdr-researcher-census/researchers/shengxiang-rong-a5073314/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 6 |
 | Citations | 179 |
 | Publications | 7 |
-| CDR Focus | 28.6% |
+| CDR Focus | 14.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Yongjun Shi"
 description: "Yongjun Shi is a Senior Soil Carbon researcher at Guiyang University in CN. With 106 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.155117
+date: 2026-07-11T11:05:42.886553
 url: "/cdr-researcher-census/researchers/yongjun-shi-a5018785/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 25 |
 | Citations | 2,053 |
 | Publications | 106 |
-| CDR Focus | 17.9% |
+| CDR Focus | 17.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

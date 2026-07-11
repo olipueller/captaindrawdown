@@ -1,7 +1,7 @@
 ---
 title: "Shouzheng Tong"
 description: "Shouzheng Tong is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 106 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.185233
+date: 2026-07-11T11:05:42.903240
 url: "/cdr-researcher-census/researchers/shouzheng-tong-a5112685/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 28 |
 | Citations | 1,811 |
 | Publications | 106 |
-| CDR Focus | 6.6% |
+| CDR Focus | 5.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Xiangtian Meng"
 description: "Xiangtian Meng is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 85 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.151569
+date: 2026-07-11T11:05:42.884864
 url: "/cdr-researcher-census/researchers/xiangtian-meng-a5005225/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 24 |
 | Citations | 2,078 |
 | Publications | 85 |
-| CDR Focus | 12.9% |
+| CDR Focus | 16.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -71,14 +71,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 7. **Anthropogenic land-use driven changes in soil stoichiometry reduce microbial carbon use efficiency** (2025)
    8 citations · Soil Carbon
 
-8. **Intelligent mapping paradigm to overcome systematic bias in remote sensing SOC estimation: A case study of the black soil region in China and the United States** (2025)
+8. **Hydrochar as an effective amendment for enhancing soil aggregation and carbon sequestration: evidence from comparative microcosm experiments** (2026)
+   4 citations · Soil Carbon
+
+9. **Intelligent mapping paradigm to overcome systematic bias in remote sensing SOC estimation: A case study of the black soil region in China and the United States** (2025)
    2 citations · Soil Carbon
 
-9. **Microbial life-history strategies drive soil carbon stabilization under balanced organic substitution: Trade-offs between yield- and acquisition-oriented metabolisms** (2025)
+10. **Long-term reclamation enhances soil organic carbon accumulation via mitigating salinity and alkalinity in coastal saline soils** (2026)
    1 citations · Soil Carbon
-
-10. **Response of SOC stocks in Northeast China to climate warming and precipitation changes** (2025)
-   0 citations · Soil Carbon
 
 ## External Profiles
 

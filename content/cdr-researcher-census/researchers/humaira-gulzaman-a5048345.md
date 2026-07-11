@@ -1,7 +1,7 @@
 ---
 title: "Humaira Gulzaman"
 description: "Humaira Gulzaman is a Mid-career Biochar researcher at Universiti Teknologi Petronas in MY. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.994074
+date: 2026-07-11T11:05:44.322351
 url: "/cdr-researcher-census/researchers/humaira-gulzaman-a5048345/"
 layout: "researcher"
 hiddenInHomeList: true

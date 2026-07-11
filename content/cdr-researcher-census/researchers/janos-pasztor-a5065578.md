@@ -1,7 +1,7 @@
 ---
 title: "János Pásztor"
 description: "János Pásztor is a Senior General CDR researcher at Carnegie Council for Ethics in International Affairs in US. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.566460
+date: 2026-07-11T11:05:43.927828
 url: "/cdr-researcher-census/researchers/janos-pasztor-a5065578/"
 layout: "researcher"
 hiddenInHomeList: true

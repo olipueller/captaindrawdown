@@ -1,7 +1,7 @@
 ---
 title: "Kyung-Hee Shin"
 description: "Kyung-Hee Shin is a Mid-career Soil Carbon researcher at Korea Environment Institute in KR. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.247971
+date: 2026-07-11T11:05:43.644811
 url: "/cdr-researcher-census/researchers/kyung-hee-shin-a5109032/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Patikorn Sriphirom"
 description: "Patikorn Sriphirom is a Mid-career Soil Carbon researcher at Silpakorn University in TH. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.679078
+date: 2026-07-11T11:05:43.260581
 url: "/cdr-researcher-census/researchers/patikorn-sriphirom-a5076214/"
 layout: "researcher"
 hiddenInHomeList: true

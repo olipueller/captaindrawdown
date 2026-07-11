@@ -1,7 +1,7 @@
 ---
 title: "Qitong Wang"
 description: "Qitong Wang is a Senior Soil Carbon researcher at Chengdu Institute of Biology in CN. With 87 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.314858
+date: 2026-07-11T11:05:42.984037
 url: "/cdr-researcher-census/researchers/qitong-wang-a5013292/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 22 |
 | Citations | 1,180 |
 | Publications | 87 |
-| CDR Focus | 9.2% |
+| CDR Focus | 8.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications

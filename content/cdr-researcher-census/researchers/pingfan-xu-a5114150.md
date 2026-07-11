@@ -1,7 +1,7 @@
 ---
 title: "Pingfan Xu"
 description: "Pingfan Xu is a Senior Biochar researcher at Fuzhou University in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.646714
+date: 2026-07-11T11:05:44.055543
 url: "/cdr-researcher-census/researchers/pingfan-xu-a5114150/"
 layout: "researcher"
 hiddenInHomeList: true

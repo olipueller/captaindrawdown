@@ -1,7 +1,7 @@
 ---
 title: "Qinggong Mao"
 description: "Qinggong Mao is a Senior Soil Carbon researcher at South China Botanical Garden in CN. With 60 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.069209
+date: 2026-07-11T11:05:42.843795
 url: "/cdr-researcher-census/researchers/qinggong-mao-a5110649/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 24 |
 | Citations | 3,100 |
 | Publications | 60 |
-| CDR Focus | 15.0% |
+| CDR Focus | 8.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

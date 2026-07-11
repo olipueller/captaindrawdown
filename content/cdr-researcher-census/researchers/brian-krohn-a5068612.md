@@ -1,7 +1,7 @@
 ---
 title: "Brian Krohn"
 description: "Brian Krohn is a Senior General CDR researcher. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.546797
+date: 2026-07-11T11:05:43.144864
 url: "/cdr-researcher-census/researchers/brian-krohn-a5068612/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -37,7 +37,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 6 |
 | Citations | 673 |
 | Publications | 11 |
-| CDR Focus | 18.2% |
+| CDR Focus | 9.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Yuan Ding"
 description: "Yuan Ding is a Senior Soil Carbon researcher at Guizhou University in CN. With 31 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.538744
+date: 2026-07-11T11:05:43.139616
 url: "/cdr-researcher-census/researchers/yuan-ding-a5014957/"
 layout: "researcher"
 hiddenInHomeList: true

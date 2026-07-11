@@ -1,7 +1,7 @@
 ---
 title: "Romany Webb"
 description: "Romany Webb is a Mid-career General CDR researcher at Committee on Climate Change in GB. With 97 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.186917
+date: 2026-07-11T11:05:43.601508
 url: "/cdr-researcher-census/researchers/romany-webb-a5110590/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 8 |
 | Citations | 273 |
 | Publications | 97 |
-| CDR Focus | 19.6% |
-| Trajectory | Declining |
+| CDR Focus | 14.4% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
@@ -56,26 +56,26 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 3. **International laws governing ocean CDR** (2023)
    9 citations
 
-4. **Legal considerations relevant to research on ocean alkalinity enhancement** (2023)
+4. **Principles for responsible and effective marine carbon dioxide removal development and governance** (2025)
    7 citations · General CDR
 
-5. **Climate targets, carbon dioxide removal and the potential role of Ocean Alkalinity Enhancement** (2023)
+5. **Legal considerations relevant to research on ocean alkalinity enhancement** (2023)
+   7 citations · General CDR
+
+6. **Climate targets, carbon dioxide removal and the potential role of Ocean Alkalinity Enhancement** (2023)
    5 citations
 
-6. **The Legal Framework for Offshore Carbon Capture and Storage in Canada** (2021)
+7. **The Legal Framework for Offshore Carbon Capture and Storage in Canada** (2021)
    5 citations · DAC
 
-7. **Legal Considerations relevant to the Research of Ocean Alkalinity Enhancement** (2023)
+8. **Legal Considerations relevant to the Research of Ocean Alkalinity Enhancement** (2023)
    4 citations · General CDR
 
-8. **Removing Carbon Dioxide Through Ocean Alkalinity Enhancement and Seaweed Cultivation: Legal Challenges and Opportunities** (2021)
+9. **Removing Carbon Dioxide Through Ocean Alkalinity Enhancement and Seaweed Cultivation: Legal Challenges and Opportunities** (2021)
    3 citations · General CDR
 
-9. **The need to explore the potential of marine CDR – A guide for policy makers** (2025)
-   1 citations · General CDR
-
-10. **Solid Carbon – a Gigaton-Scale Ocean Rock Solid Climate Solution** (2025)
-   1 citations · Enhanced Weathering
+10. **The case for ocean iron fertilization field trials** (2026)
+   2 citations · General CDR
 
 ## External Profiles
 

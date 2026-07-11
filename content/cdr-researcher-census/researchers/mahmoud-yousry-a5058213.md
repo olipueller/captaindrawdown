@@ -1,7 +1,7 @@
 ---
 title: "Mahmoud Yousry"
 description: "Mahmoud Yousry is an Early-career General CDR researcher at Ain Shams University Hospital in EG. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.654190
+date: 2026-07-11T11:05:43.242194
 url: "/cdr-researcher-census/researchers/mahmoud-yousry-a5058213/"
 layout: "researcher"
 hiddenInHomeList: true

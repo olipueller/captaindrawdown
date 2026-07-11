@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Nabeel Haider"
 description: "Muhammad Nabeel Haider is a Mid-career Ocean CDR researcher at University College Cork in IE. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.190649
+date: 2026-07-11T11:05:43.604318
 url: "/cdr-researcher-census/researchers/muhammad-nabeel-haider-a5016305/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 8 |
 | Citations | 272 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
-| Trajectory | Stable |
+| CDR Focus | 5.3% |
+| Trajectory | Exiting |
 
 ## Top CDR Publications
 

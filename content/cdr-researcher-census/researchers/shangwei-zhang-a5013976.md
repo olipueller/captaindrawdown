@@ -1,7 +1,7 @@
 ---
 title: "Shangwei Zhang"
 description: "Shangwei Zhang is a Senior Biochar researcher at Beijing Normal University in CN. With 40 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.444637
+date: 2026-07-11T11:05:43.070180
 url: "/cdr-researcher-census/researchers/shangwei-zhang-a5013976/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,10 +50,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 ## Top CDR Publications
 
-1. **Photo-Catalysis of Biochar Anchored Fe2sio4/Zn2sio4 Composite Nanoparticles for Degradation of Neonicotinoid** (2025)
+1. **Synergies of hydrated electron, carbon dioxide anions radicals and hydroxyl radicals for enhancing the decomposition and defluorination of perfluorohexanesulfonate** (2025)
+   4 citations
+
+2. **Photo-Catalysis of Biochar Anchored Fe2sio4/Zn2sio4 Composite Nanoparticles for Degradation of Neonicotinoid** (2025)
    0 citations · Biochar
 
-2. **Biochar-Anchored Fe2sio4/Zn2sio4 Composite Nanoparticles in Peroxymonosulfate Activation for Degradation of Neonicotinoid** (2025)
+3. **Biochar-Anchored Fe2sio4/Zn2sio4 Composite Nanoparticles in Peroxymonosulfate Activation for Degradation of Neonicotinoid** (2025)
    0 citations · Biochar
 
 ## External Profiles

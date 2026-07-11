@@ -1,7 +1,7 @@
 ---
 title: "Mathias Haunost"
 description: "Mathias Haunost is a Mid-career Ocean CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 30 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.542816
+date: 2026-07-11T11:05:43.142136
 url: "/cdr-researcher-census/researchers/mathias-haunost-a5029845/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 12 |
 | Citations | 679 |
 | Publications | 30 |
-| CDR Focus | 26.7% |
+| CDR Focus | 16.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

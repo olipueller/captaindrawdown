@@ -1,7 +1,7 @@
 ---
 title: "Lei Zhang"
 description: "Lei Zhang is a Senior Soil Carbon researcher at University of Michigan in US. With 112 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.100547
+date: 2026-07-11T11:05:42.859684
 url: "/cdr-researcher-census/researchers/lei-zhang-a5020438/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 29 |
 | Citations | 2,582 |
 | Publications | 112 |
-| CDR Focus | 6.2% |
+| CDR Focus | 7.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -62,13 +62,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Divergent biotic-abiotic mechanisms of soil organic carbon storage between bulk and rhizosphere soils of rice paddies in the Yangtze River Delta** (2025)
    6 citations · Soil Carbon
 
-5. **Divergent pathways of shaping soil organic carbon accumulation in a riparian wetland modulated by vegetation type and microbial‑iron coupling** (2025)
+5. **Microbial-mediated shifts regulate the trade-off between soil organic carbon content and stability after cropland afforestation in Eastern China** (2026)
    2 citations · Soil Carbon
 
-6. **Ecosystem-dependent two-stage changes in soil organic carbon stock across the contiguous United States from 1970 to 2014** (2025)
+6. **Divergent pathways of shaping soil organic carbon accumulation in a riparian wetland modulated by vegetation type and microbial‑iron coupling** (2025)
+   2 citations · Soil Carbon
+
+7. **Ecosystem-dependent two-stage changes in soil organic carbon stock across the contiguous United States from 1970 to 2014** (2025)
    0 citations · Soil Carbon
 
-7. **Synergistic Adsorption and Photodegradation of Ciprofloxacin in Water by Biochar-Supported Titanates: Mechanistic Analysis, Dft Calculations and Toxicity Risk Assessment** (2024)
+8. **Synergistic Adsorption and Photodegradation of Ciprofloxacin in Water by Biochar-Supported Titanates: Mechanistic Analysis, Dft Calculations and Toxicity Risk Assessment** (2024)
    0 citations · Biochar
 
 ## External Profiles

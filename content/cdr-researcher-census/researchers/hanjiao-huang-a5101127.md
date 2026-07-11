@@ -1,7 +1,7 @@
 ---
 title: "Hanjiao Huang"
 description: "Hanjiao Huang is a Mid-career Soil Carbon researcher at Beijing Institute of Technology in CN. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.144179
+date: 2026-07-11T11:05:43.570669
 url: "/cdr-researcher-census/researchers/hanjiao-huang-a5101127/"
 layout: "researcher"
 hiddenInHomeList: true

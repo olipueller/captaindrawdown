@@ -1,7 +1,7 @@
 ---
 title: "Taoufiq Bouzid"
 description: "Taoufiq Bouzid is a Mid-career Biochar researcher at Cadi Ayyad University in MA. With 37 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.415424
+date: 2026-07-11T11:05:43.049539
 url: "/cdr-researcher-census/researchers/taoufiq-bouzid-a5080962/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 17 |
 | Citations | 898 |
 | Publications | 37 |
-| CDR Focus | 8.1% |
+| CDR Focus | 5.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

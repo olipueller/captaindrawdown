@@ -1,7 +1,7 @@
 ---
 title: "Yassir Makkawi"
 description: "Yassir Makkawi is a Senior Biochar researcher at American University of Sharjah in AE. With 61 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.267671
+date: 2026-07-11T11:05:42.954833
 url: "/cdr-researcher-census/researchers/yassir-makkawi-a5018909/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jitao Lv"
 description: "Jitao Lv is a Senior Soil Carbon researcher at Qingdao University of Science and Technology in CN. With 87 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.972784
+date: 2026-07-11T11:05:42.802062
 url: "/cdr-researcher-census/researchers/jitao-lv-a5110294/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 38 |
 | Citations | 5,560 |
 | Publications | 87 |
-| CDR Focus | 9.2% |
+| CDR Focus | 10.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -59,19 +59,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **Distribution and bioaccessibility of polycyclic aromatic hydrocarbons in industrially contaminated site soils as affected by thermal treatment** (2021)
    36 citations
 
-4. **Rethinking Organic Carbon Sequestration in Agricultural Soils From the Elemental Stoichiometry Perspective** (2025)
+4. **Evaluating soil dissolved organic matter as a proxy for soil organic matter properties across diverse ecosystems** (2025)
+   32 citations · Soil Carbon
+
+5. **Rethinking Organic Carbon Sequestration in Agricultural Soils From the Elemental Stoichiometry Perspective** (2025)
    27 citations · General CDR
 
-5. **Soil organic matter degradation and methylmercury dynamics in Hg-contaminated soils: Relationships and driving factors** (2024)
+6. **Soil organic matter degradation and methylmercury dynamics in Hg-contaminated soils: Relationships and driving factors** (2024)
    14 citations · Soil Carbon
 
-6. **Effects and mechanisms of warming on the relationship between soil organic matter degradation and methylmercury production in Hg-contaminated soil** (2025)
+7. **Does greater molecular diversity in soil organic matter imply greater persistence: Insights from molecular and multi-property analyses in Western China** (2025)
+   8 citations
+
+8. **Effects and mechanisms of warming on the relationship between soil organic matter degradation and methylmercury production in Hg-contaminated soil** (2025)
    4 citations
 
-7. **Environmental fate of POPs under climate change: Regulation of POPs distribution by soil organic matter and microbial communities during glacial retreat** (2025)
-   0 citations
+9. **Contrasting carbon processing and stabilization pathways in low- and high-mercury contaminated soils** (2025)
+   3 citations · Soil Carbon
 
-8. **Microcosm of Pops Fate Under Climate Change: Regulation of Pops Distribution by Soil Organic Matter and Microbial Communities During Glacial Retreat** (2025)
+10. **Influence of winter-fallow management strategies on the stability of soil organic matter in a typical rice paddy region of southwestern China** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

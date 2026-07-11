@@ -1,7 +1,7 @@
 ---
 title: "Sufeng Zhu"
 description: "Sufeng Zhu is a Mid-career Soil Carbon researcher at Chinese Academy of Forestry in CN. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.431649
+date: 2026-07-11T11:05:43.770941
 url: "/cdr-researcher-census/researchers/sufeng-zhu-a5102648/"
 layout: "researcher"
 hiddenInHomeList: true

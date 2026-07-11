@@ -1,7 +1,7 @@
 ---
 title: "Shulan Sun"
 description: "Shulan Sun is a Senior Soil Carbon researcher at Liaoning Cancer Hospital & Institute in CN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.015227
+date: 2026-07-11T11:05:43.497001
 url: "/cdr-researcher-census/researchers/shulan-sun-a5101204/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 327 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
-| Trajectory | Stable |
+| CDR Focus | 5.3% |
+| Trajectory | Exiting |
 
 ## Top CDR Publications
 

@@ -1,7 +1,7 @@
 ---
 title: "Ximeng Xu"
 description: "Ximeng Xu is a Mid-career Biochar researcher at Kunming University of Science and Technology in CN. With 13 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.286104
+date: 2026-07-11T11:05:42.965631
 url: "/cdr-researcher-census/researchers/ximeng-xu-a5101402/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,19 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 13 |
 | Citations | 1,288 |
 | Publications | 13 |
-| CDR Focus | 7.7% |
+| CDR Focus | 23.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Boosting persulfate activation via paper mill sludge-based biochar for efficient degradation of bisphenol A: Inherent multiple active sites** (2022)
    57 citations · Biochar
+
+2. **Mn-embedded porous rubber seed shell biochar for enhanced removal of copper ions and catalytic efficacy of the used adsorbent for hydrogenation of furfural** (2022)
+   30 citations · Biochar
+
+3. **Mn-Embedded Porous Rubber Seed Shell Biochar for Enhanced Removal of Copper Ions and its Ingeniously Re-Functionalizing** (2022)
+   3 citations · Biochar
 
 ## External Profiles
 

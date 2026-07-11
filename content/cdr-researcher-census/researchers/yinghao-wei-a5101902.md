@@ -1,7 +1,7 @@
 ---
 title: "Yinghao Wei"
 description: "Yinghao Wei is a Senior Soil Carbon researcher at Hebei University of Engineering in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.120127
+date: 2026-07-11T11:05:44.418888
 url: "/cdr-researcher-census/researchers/yinghao-wei-a5101902/"
 layout: "researcher"
 hiddenInHomeList: true

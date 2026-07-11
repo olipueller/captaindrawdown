@@ -1,7 +1,7 @@
 ---
 title: "Erica Dorr"
 description: "Erica Dorr is a Mid-career Soil Carbon researcher. With 25 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.762128
+date: 2026-07-11T11:05:43.321553
 url: "/cdr-researcher-census/researchers/erica-dorr-a5078203/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 460 |
 | Publications | 25 |
-| CDR Focus | 12.0% |
+| CDR Focus | 8.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

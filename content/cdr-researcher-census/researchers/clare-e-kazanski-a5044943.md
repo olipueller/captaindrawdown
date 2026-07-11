@@ -1,7 +1,7 @@
 ---
 title: "Clare E. Kazanski"
 description: "Clare E. Kazanski is a Senior Soil Carbon researcher at The Nature Conservancy in US. With 31 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.313803
+date: 2026-07-11T11:05:42.982925
 url: "/cdr-researcher-census/researchers/clare-e-kazanski-a5044943/"
 layout: "researcher"
 hiddenInHomeList: true

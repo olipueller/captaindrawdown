@@ -1,7 +1,7 @@
 ---
 title: "Tobias Klöffel"
 description: "Tobias Klöffel is a Mid-career Soil Carbon researcher at University of Copenhagen in DK. With 26 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.857919
+date: 2026-07-11T11:05:43.388758
 url: "/cdr-researcher-census/researchers/tobias-kloffel-a5006174/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 400 |
 | Publications | 26 |
-| CDR Focus | 15.4% |
+| CDR Focus | 11.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

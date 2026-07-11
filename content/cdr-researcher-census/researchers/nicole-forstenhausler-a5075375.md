@@ -1,7 +1,7 @@
 ---
 title: "Nicole Forstenhäusler"
 description: "Nicole Forstenhäusler is a Mid-career General CDR researcher at University of East Anglia in GB. With 31 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.131215
+date: 2026-07-11T11:05:43.560962
 url: "/cdr-researcher-census/researchers/nicole-forstenhausler-a5075375/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 8 |
 | Citations | 292 |
 | Publications | 31 |
-| CDR Focus | 12.9% |
+| CDR Focus | 9.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

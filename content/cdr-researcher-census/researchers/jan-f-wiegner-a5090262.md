@@ -1,7 +1,7 @@
 ---
 title: "Jan F. Wiegner"
 description: "Jan F. Wiegner is an Early-career DAC researcher at Utrecht University in NL. With 17 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.521769
+date: 2026-07-11T11:05:43.879008
 url: "/cdr-researcher-census/researchers/jan-f-wiegner-a5090262/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 3 |
 | Citations | 188 |
 | Publications | 17 |
-| CDR Focus | 23.5% |
+| CDR Focus | 17.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

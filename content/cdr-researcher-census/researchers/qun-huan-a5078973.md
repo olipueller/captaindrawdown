@@ -1,7 +1,7 @@
 ---
 title: "Qun Huan"
 description: "Qun Huan is a Mid-career Biochar researcher at Southeast University in CN. With 26 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.795189
+date: 2026-07-11T11:05:43.343456
 url: "/cdr-researcher-census/researchers/qun-huan-a5078973/"
 layout: "researcher"
 hiddenInHomeList: true

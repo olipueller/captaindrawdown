@@ -1,7 +1,7 @@
 ---
 title: "Yayao Li"
 description: "Yayao Li is a Mid-career Biochar researcher at Jinan University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.578301
+date: 2026-07-11T11:05:43.961663
 url: "/cdr-researcher-census/researchers/yayao-li-a5001459/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 7 |
 | Citations | 177 |
 | Publications | 13 |
-| CDR Focus | 23.1% |
+| CDR Focus | 15.4% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

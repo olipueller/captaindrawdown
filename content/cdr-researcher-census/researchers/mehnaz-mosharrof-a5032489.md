@@ -1,7 +1,7 @@
 ---
 title: "Mehnaz Mosharrof"
 description: "Mehnaz Mosharrof is a Mid-career Soil Carbon researcher at Universiti Putra Malaysia in MY. With 10 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.056701
+date: 2026-07-11T11:05:43.526101
 url: "/cdr-researcher-census/researchers/mehnaz-mosharrof-a5032489/"
 layout: "researcher"
 hiddenInHomeList: true

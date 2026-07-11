@@ -1,7 +1,7 @@
 ---
 title: "Claudia Labianca"
 description: "Claudia Labianca is a Mid-career Biochar researcher at The Hong Kong Polytechnic University in HK. With 36 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.319075
+date: 2026-07-11T11:05:42.987048
 url: "/cdr-researcher-census/researchers/claudia-labianca-a5077531/"
 layout: "researcher"
 hiddenInHomeList: true

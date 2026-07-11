@@ -1,7 +1,7 @@
 ---
 title: "Ibrahim M. Ied"
 description: "Ibrahim M. Ied is a Mid-career Soil Carbon researcher at Zagazig University in EG. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.973069
+date: 2026-07-11T11:05:44.306494
 url: "/cdr-researcher-census/researchers/ibrahim-m-ied-a5020916/"
 layout: "researcher"
 hiddenInHomeList: true

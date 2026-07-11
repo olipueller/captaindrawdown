@@ -1,7 +1,7 @@
 ---
 title: "Jinpeng Zou"
 description: "Jinpeng Zou is a Mid-career Soil Carbon researcher at Sichuan Agricultural University in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.766671
+date: 2026-07-11T11:05:44.150160
 url: "/cdr-researcher-census/researchers/jinpeng-zou-a5009937/"
 layout: "researcher"
 hiddenInHomeList: true

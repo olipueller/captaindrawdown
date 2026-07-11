@@ -1,7 +1,7 @@
 ---
 title: "Alice Budai"
 description: "Alice Budai is a Senior Soil Carbon researcher at Norwegian Institute of Bioeconomy Research in NO. With 34 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.111240
+date: 2026-07-11T11:05:42.863744
 url: "/cdr-researcher-census/researchers/alice-budai-a5036047/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 15 |
 | Citations | 2,469 |
 | Publications | 34 |
-| CDR Focus | 14.7% |
+| CDR Focus | 11.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

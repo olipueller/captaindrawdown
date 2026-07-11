@@ -1,7 +1,7 @@
 ---
 title: "Hao Dong"
 description: "Hao Dong is a Mid-career Biochar researcher at Shanghai Polytechnic University in CN. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.476679
+date: 2026-07-11T11:05:43.091421
 url: "/cdr-researcher-census/researchers/hao-dong-a5101714/"
 layout: "researcher"
 hiddenInHomeList: true

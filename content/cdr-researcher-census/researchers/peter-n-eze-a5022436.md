@@ -1,7 +1,7 @@
 ---
 title: "Peter N. Eze"
 description: "Peter N. Eze is a Senior Soil Carbon researcher at Botswana International University of Science and Technology in BW. With 58 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.277775
+date: 2026-07-11T11:05:42.960257
 url: "/cdr-researcher-census/researchers/peter-n-eze-a5022436/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 17 |
 | Citations | 1,324 |
 | Publications | 58 |
-| CDR Focus | 6.9% |
+| CDR Focus | 5.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

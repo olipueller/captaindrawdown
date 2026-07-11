@@ -1,7 +1,7 @@
 ---
 title: "Feifei Deng"
 description: "Feifei Deng is a Senior General CDR researcher at National Oceanography Centre in GB. With 31 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.396563
+date: 2026-07-11T11:05:43.037353
 url: "/cdr-researcher-census/researchers/feifei-deng-a5001075/"
 layout: "researcher"
 hiddenInHomeList: true

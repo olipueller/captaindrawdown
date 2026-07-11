@@ -1,7 +1,7 @@
 ---
 title: "Daniel J. Nowakowski"
 description: "Daniel J. Nowakowski is a Senior Biochar researcher at Aston University in GB. With 47 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.078298
+date: 2026-07-11T11:05:42.848236
 url: "/cdr-researcher-census/researchers/daniel-j-nowakowski-a5077175/"
 layout: "researcher"
 hiddenInHomeList: true

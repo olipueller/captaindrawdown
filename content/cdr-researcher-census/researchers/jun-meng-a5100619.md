@@ -1,7 +1,7 @@
 ---
 title: "Jun Meng"
 description: "Jun Meng is an Eminent Biochar researcher at China Institute of Atomic Energy in CN. With 174 publications and an h-index of 46, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.946220
+date: 2026-07-11T11:05:42.792083
 url: "/cdr-researcher-census/researchers/jun-meng-a5100619/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 46 |
 | Citations | 6,778 |
 | Publications | 174 |
-| CDR Focus | 6.3% |
-| Trajectory | Declining |
+| CDR Focus | 5.7% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

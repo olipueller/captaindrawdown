@@ -1,7 +1,7 @@
 ---
 title: "Patricia Grasse"
-description: "Patricia Grasse is a Senior General CDR researcher at German Center for Integrative Biodiversity Research in DE. With 107 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.203971
+description: "Patricia Grasse is a Senior Ocean CDR researcher at German Center for Integrative Biodiversity Research in DE. With 107 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:42.914049
 url: "/cdr-researcher-census/researchers/patricia-grasse-a5066845/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ German Center for Integrative Biodiversity Research · 🇩🇪 DE
 
 ## CDR Specialization
 
-**General CDR**
+**Ocean CDR**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 24 |
 | Citations | 1,693 |
 | Publications | 107 |
-| CDR Focus | 9.3% |
+| CDR Focus | 7.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

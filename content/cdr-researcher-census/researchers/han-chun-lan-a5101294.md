@@ -1,7 +1,7 @@
 ---
 title: "Han Chun-lan"
 description: "Han Chun-lan is a Senior Soil Carbon researcher at Zhengzhou Central Hospital in CN. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.723862
+date: 2026-07-11T11:05:43.291590
 url: "/cdr-researcher-census/researchers/han-chun-lan-a5101294/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 488 |
 | Publications | 27 |
-| CDR Focus | 14.8% |
+| CDR Focus | 11.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

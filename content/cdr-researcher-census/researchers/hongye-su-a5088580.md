@@ -1,7 +1,7 @@
 ---
 title: "Hongye Su"
 description: "Hongye Su is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.581790
+date: 2026-07-11T11:05:43.967333
 url: "/cdr-researcher-census/researchers/hongye-su-a5088580/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,12 +45,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 177 |
 | Publications | 17 |
-| CDR Focus | 5.9% |
-| Trajectory | Exiting |
+| CDR Focus | 11.8% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
-1. **Global Patterns and Controls of Grassland Soil Nematode Responses to Nutrient Addition: A Meta-Analysis** (2023)
+1. **Increasing Soil Organic Carbon but Decoupling of Ecological Attributes After Loss of Dominant Functional Groups in Alpine Meadow** (2025)
+   0 citations · Soil Carbon
+
+2. **Global Patterns and Controls of Grassland Soil Nematode Responses to Nutrient Addition: A Meta-Analysis** (2023)
    0 citations · Soil Carbon
 
 ## External Profiles

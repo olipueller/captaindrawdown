@@ -1,7 +1,7 @@
 ---
 title: "Hechong Yuan"
 description: "Hechong Yuan is an Early-career Soil Carbon researcher at Shenyang Agricultural University in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.046720
+date: 2026-07-11T11:05:43.519231
 url: "/cdr-researcher-census/researchers/hechong-yuan-a5039059/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Kimberley T. Davis"
 description: "Kimberley T. Davis is a Senior Soil Carbon researcher at US Forest Service in US. With 46 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.072017
+date: 2026-07-11T11:05:42.845097
 url: "/cdr-researcher-census/researchers/kimberley-t-davis-a5057422/"
 layout: "researcher"
 hiddenInHomeList: true

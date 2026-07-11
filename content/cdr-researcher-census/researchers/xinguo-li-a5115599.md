@@ -1,7 +1,7 @@
 ---
 title: "Xinguo Li"
 description: "Xinguo Li is a Senior Soil Carbon researcher at Donghua University in CN. With 30 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.001966
+date: 2026-07-11T11:05:44.328151
 url: "/cdr-researcher-census/researchers/xinguo-li-a5115599/"
 layout: "researcher"
 hiddenInHomeList: true

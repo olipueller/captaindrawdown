@@ -1,7 +1,7 @@
 ---
 title: "Peng Cheng"
 description: "Peng Cheng is an Early-career Soil Carbon researcher at Hubei University of Automotive Technology in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.304498
+date: 2026-07-11T11:05:43.682948
 url: "/cdr-researcher-census/researchers/peng-cheng-a5102725/"
 layout: "researcher"
 hiddenInHomeList: true

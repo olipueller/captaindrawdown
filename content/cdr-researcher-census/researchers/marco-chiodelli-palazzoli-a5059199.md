@@ -1,7 +1,7 @@
 ---
 title: "Marco Chiodelli Palazzoli"
 description: "Marco Chiodelli Palazzoli is an Early-career Soil Carbon researcher at Forschungsinstitut für biologischen Landbau in DE. With 4 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.888727
+date: 2026-07-11T11:05:44.240799
 url: "/cdr-researcher-census/researchers/marco-chiodelli-palazzoli-a5059199/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 1 |
 | Citations | 129 |
 | Publications | 4 |
-| CDR Focus | 50.0% |
+| CDR Focus | 25.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

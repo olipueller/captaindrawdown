@@ -1,7 +1,7 @@
 ---
 title: "Dandan Zhang"
-description: "Dandan Zhang is a Mid-career Soil Carbon researcher at Henan Agricultural University in CN. With 47 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.497037
+description: "Dandan Zhang is a Senior Biochar researcher at Heilongjiang Academy of Sciences in CN. With 52 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:43.114756
 url: "/cdr-researcher-census/researchers/dandan-zhang-a5100386/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,11 +16,11 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/dandan-zhang-a5100386/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Henan Agricultural University"
+    "name": "Heilongjiang Academy of Sciences"
   },
   "sameAs": [
-    "https://orcid.org/0000-0001-6421-2094",
-    "https://openalex.org/A5100386759"
+    "https://orcid.org/0000-0002-4763-2019",
+    "https://openalex.org/A5100386770"
   ]
 }
 </script>
@@ -28,41 +28,41 @@ robots: "index, follow"
 ## Profile
 
 **Dandan Zhang**  
-Henan Agricultural University · 🇨🇳 CN
+Heilongjiang Academy of Sciences · 🇨🇳 CN
 
-**Career Stage:** Mid-career
+**Career Stage:** Senior
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
 | Metric | Value |
 |--------|-------|
-| h-index | 17 |
-| Citations | 751 |
-| Publications | 47 |
-| CDR Focus | 6.4% |
+| h-index | 15 |
+| Citations | 732 |
+| Publications | 52 |
+| CDR Focus | 5.8% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
-1. **Long-term organic fertilization combined with deep ploughing enhances carbon sequestration in a rainfed sorghum-maize rotation system** (2024)
+1. **Synergistic effects of adsorption and chemical reduction towards the effective Cr(VI) removal in the presence of the sulfur-doped biochar material** (2024)
+   22 citations · Biochar
+
+2. **Increasing soil organic carbon pools and wheat yields by optimising tillage and fertilisation on the Loess Plateau in China** (2021)
    14 citations · Soil Carbon
 
-2. **Microbial Adaptations Within Fine‐Scale Soil Structure Alleviate Phosphorus Limitation on Carbon Sequestration Following Afforestation** (2023)
-   10 citations · Soil Carbon
-
-3. **Patterns and Driving Mechanisms of Soil Organic Carbon, Nitrogen, and Phosphorus, and Their Stoichiometry in Limestone Mines of Anhui Province, China** (2024)
-   3 citations · Soil Carbon
+3. **Synergistic effects between adsorption and chemical reduction towards the effective Cr(Ⅵ) removal in the presence of the sulfur-doped biochar material** (2023)
+   0 citations · Biochar
 
 ## External Profiles
 
-- [ORCID](https://orcid.org/0000-0001-6421-2094)
-- [OpenAlex](https://openalex.org/A5100386759)
+- [ORCID](https://orcid.org/0000-0002-4763-2019)
+- [OpenAlex](https://openalex.org/A5100386770)
 
 ---
 

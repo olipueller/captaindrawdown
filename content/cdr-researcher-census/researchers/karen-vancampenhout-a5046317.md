@@ -1,7 +1,7 @@
 ---
 title: "Karen Vancampenhout"
 description: "Karen Vancampenhout is a Senior Soil Carbon researcher at KU Leuven Association in BE. With 167 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.214855
+date: 2026-07-11T11:05:42.920272
 url: "/cdr-researcher-census/researchers/karen-vancampenhout-a5046317/"
 layout: "researcher"
 hiddenInHomeList: true

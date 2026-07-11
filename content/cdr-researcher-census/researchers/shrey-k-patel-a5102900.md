@@ -1,7 +1,7 @@
 ---
 title: "Shrey K. Patel"
 description: "Shrey K. Patel is an Early-career General CDR researcher at Indian Institute of Technology Madras in IN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.142661
+date: 2026-07-11T11:05:44.434768
 url: "/cdr-researcher-census/researchers/shrey-k-patel-a5102900/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 3 |
 | Citations | 102 |
 | Publications | 5 |
-| CDR Focus | 40.0% |
-| Trajectory | Stable |
+| CDR Focus | 20.0% |
+| Trajectory | Exiting |
 
 ## Top CDR Publications
 

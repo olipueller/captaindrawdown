@@ -1,7 +1,7 @@
 ---
 title: "Xuexia Xing"
 description: "Xuexia Xing is a Senior General CDR researcher at China Tobacco in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.907992
+date: 2026-07-11T11:05:44.255228
 url: "/cdr-researcher-census/researchers/xuexia-xing-a5030909/"
 layout: "researcher"
 hiddenInHomeList: true

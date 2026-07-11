@@ -1,7 +1,7 @@
 ---
 title: "Xiaohong Chen"
 description: "Xiaohong Chen is a Senior Soil Carbon researcher at Central South University in CN. With 77 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.189115
+date: 2026-07-11T11:05:42.905516
 url: "/cdr-researcher-census/researchers/xiaohong-chen-a5100373/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 20 |
 | Citations | 1,790 |
 | Publications | 77 |
-| CDR Focus | 7.8% |
-| Trajectory | Declining |
+| CDR Focus | 5.2% |
+| Trajectory | Exiting |
 
 ## Top CDR Publications
 

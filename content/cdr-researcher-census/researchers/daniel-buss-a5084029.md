@@ -1,7 +1,7 @@
 ---
 title: "Daniel Buss"
 description: "Daniel Buss is a Mid-career General CDR researcher at World Health Organization Regional Office for the Americas in US. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.250140
+date: 2026-07-11T11:05:43.645884
 url: "/cdr-researcher-census/researchers/daniel-buss-a5084029/"
 layout: "researcher"
 hiddenInHomeList: true

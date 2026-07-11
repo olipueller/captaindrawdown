@@ -1,7 +1,7 @@
 ---
 title: "Allegra Mayer"
 description: "Allegra Mayer is a Senior General CDR researcher at Lawrence Livermore National Laboratory in US. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.729349
+date: 2026-07-11T11:05:43.295974
 url: "/cdr-researcher-census/researchers/allegra-mayer-a5032848/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 9 |
 | Citations | 483 |
 | Publications | 27 |
-| CDR Focus | 33.3% |
+| CDR Focus | 25.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Alexander Liu"
 description: "Alexander Liu is a Senior Soil Carbon researcher at Donald Danforth Plant Science Center in US. With 38 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.639192
+date: 2026-07-11T11:05:43.232746
 url: "/cdr-researcher-census/researchers/alexander-liu-a5037403/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 567 |
 | Publications | 38 |
-| CDR Focus | 7.9% |
+| CDR Focus | 5.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

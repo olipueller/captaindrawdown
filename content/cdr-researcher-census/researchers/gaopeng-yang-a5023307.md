@@ -1,7 +1,7 @@
 ---
 title: "Gaopeng Yang"
 description: "Gaopeng Yang is a Mid-career Biochar researcher at Zhejiang University in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.951940
+date: 2026-07-11T11:05:44.288772
 url: "/cdr-researcher-census/researchers/gaopeng-yang-a5023307/"
 layout: "researcher"
 hiddenInHomeList: true

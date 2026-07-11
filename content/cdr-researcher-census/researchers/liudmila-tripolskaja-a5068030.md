@@ -1,7 +1,7 @@
 ---
 title: "Liudmila Tripolskaja"
 description: "Liudmila Tripolskaja is a Senior Soil Carbon researcher at Lithuanian Research Centre for Agriculture and Forestry in LT. With 51 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.335332
+date: 2026-07-11T11:05:43.704026
 url: "/cdr-researcher-census/researchers/liudmila-tripolskaja-a5068030/"
 layout: "researcher"
 hiddenInHomeList: true

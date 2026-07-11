@@ -1,7 +1,7 @@
 ---
 title: "Lijia Huang"
 description: "Lijia Huang is a Mid-career Biochar researcher at Harvard University in US. With 19 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.452730
+date: 2026-07-11T11:05:43.074592
 url: "/cdr-researcher-census/researchers/lijia-huang-a5104107/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Chen Fang"
 description: "Chen Fang is an Early-career General CDR researcher at Peking University in CN. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.646415
+date: 2026-07-11T11:05:44.054754
 url: "/cdr-researcher-census/researchers/chen-fang-a5018989/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 3 |
 | Citations | 165 |
 | Publications | 4 |
-| CDR Focus | 50.0% |
-| Trajectory | Exiting |
+| CDR Focus | 75.0% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
@@ -55,6 +55,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 2. **Negative emission technology is key to decarbonizing China's cement industry** (2022)
    76 citations · General CDR
+
+3. **A socio-ecological view of the geographical transitions of environmental services and soil integrity in Chongqing, China’s urban–rural ecotone** (2026)
+   1 citations · Soil Carbon
 
 ## External Profiles
 

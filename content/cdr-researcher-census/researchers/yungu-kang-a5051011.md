@@ -1,7 +1,7 @@
 ---
 title: "Yun‐Gu Kang"
 description: "Yun‐Gu Kang is a Mid-career Soil Carbon researcher at Chungnam National University in KR. With 50 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.143625
+date: 2026-07-11T11:05:43.570134
 url: "/cdr-researcher-census/researchers/yungu-kang-a5051011/"
 layout: "researcher"
 hiddenInHomeList: true

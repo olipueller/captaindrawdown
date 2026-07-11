@@ -1,7 +1,7 @@
 ---
 title: "Longkai Qiao"
 description: "Longkai Qiao is a Mid-career Soil Carbon researcher at Xi'an Jiaotong University in CN. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.675092
+date: 2026-07-11T11:05:43.258145
 url: "/cdr-researcher-census/researchers/longkai-qiao-a5073528/"
 layout: "researcher"
 hiddenInHomeList: true

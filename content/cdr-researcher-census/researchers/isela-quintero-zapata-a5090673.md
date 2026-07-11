@@ -1,7 +1,7 @@
 ---
 title: "Isela Quintero-Zapata"
 description: "Isela Quintero-Zapata is a Senior Biochar researcher at Universidad Autónoma de Nuevo León in MX. With 33 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.201558
+date: 2026-07-11T11:05:43.613451
 url: "/cdr-researcher-census/researchers/isela-quintero-zapata-a5090673/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jiahui Chen"
 description: "Jiahui Chen is a Mid-career Soil Carbon researcher at Ministry of Natural Resources in CN. With 24 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.524054
+date: 2026-07-11T11:05:43.882041
 url: "/cdr-researcher-census/researchers/jiahui-chen-a5101812/"
 layout: "researcher"
 hiddenInHomeList: true

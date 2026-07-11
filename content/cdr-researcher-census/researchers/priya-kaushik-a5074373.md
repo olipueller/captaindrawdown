@@ -1,7 +1,7 @@
 ---
 title: "Priya Kaushik"
 description: "Priya Kaushik is a Mid-career Soil Carbon researcher at Dr. Hari Singh Gour University in IN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.275397
+date: 2026-07-11T11:05:43.662247
 url: "/cdr-researcher-census/researchers/priya-kaushik-a5074373/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 246 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 5.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

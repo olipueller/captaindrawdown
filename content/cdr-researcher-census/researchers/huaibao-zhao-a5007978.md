@@ -1,7 +1,7 @@
 ---
 title: "Huaibao Zhao"
 description: "Huaibao Zhao is a Senior Soil Carbon researcher at Chinese Academy of Agricultural Sciences in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.312928
+date: 2026-07-11T11:05:43.687914
 url: "/cdr-researcher-census/researchers/huaibao-zhao-a5007978/"
 layout: "researcher"
 hiddenInHomeList: true

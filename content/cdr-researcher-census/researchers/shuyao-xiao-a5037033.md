@@ -1,7 +1,7 @@
 ---
 title: "Shuyao Xiao"
 description: "Shuyao Xiao is a Mid-career Soil Carbon researcher at China University of Petroleum, East China in CN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.848048
+date: 2026-07-11T11:05:44.211644
 url: "/cdr-researcher-census/researchers/shuyao-xiao-a5037033/"
 layout: "researcher"
 hiddenInHomeList: true

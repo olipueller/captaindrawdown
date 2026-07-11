@@ -1,7 +1,7 @@
 ---
 title: "Ina Souza Nogueira"
 description: "Ina Souza Nogueira is a Senior General CDR researcher. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.644781
+date: 2026-07-11T11:05:44.052748
 url: "/cdr-researcher-census/researchers/ina-souza-nogueira-a5113023/"
 layout: "researcher"
 hiddenInHomeList: true

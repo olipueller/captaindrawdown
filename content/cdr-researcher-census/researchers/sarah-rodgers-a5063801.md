@@ -1,7 +1,7 @@
 ---
 title: "Sarah Rodgers"
 description: "Sarah Rodgers is a Mid-career General CDR researcher at University of Nottingham in GB. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.162425
+date: 2026-07-11T11:05:44.448385
 url: "/cdr-researcher-census/researchers/sarah-rodgers-a5063801/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 7 |
 | Citations | 100 |
 | Publications | 9 |
-| CDR Focus | 22.2% |
-| Trajectory | Stable |
+| CDR Focus | 11.1% |
+| Trajectory | Exiting |
 
 ## Top CDR Publications
 

@@ -1,7 +1,7 @@
 ---
 title: "Sarah Shakil"
 description: "Sarah Shakil is a Mid-career Soil Carbon researcher at Uppsala University in SE. With 40 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.620107
+date: 2026-07-11T11:05:43.219897
 url: "/cdr-researcher-census/researchers/sarah-shakil-a5035460/"
 layout: "researcher"
 hiddenInHomeList: true

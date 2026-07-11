@@ -1,7 +1,7 @@
 ---
 title: "Hassna Founoune-Mboup"
 description: "Hassna Founoune-Mboup is a Senior Soil Carbon researcher at Institut Sénégalais de Recherches Agricoles in SN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.946305
+date: 2026-07-11T11:05:43.448811
 url: "/cdr-researcher-census/researchers/hassna-founoune-mboup-a5042698/"
 layout: "researcher"
 hiddenInHomeList: true

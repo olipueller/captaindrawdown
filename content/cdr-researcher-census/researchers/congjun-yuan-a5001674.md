@@ -1,7 +1,7 @@
 ---
 title: "Congjun Yuan"
 description: "Congjun Yuan is a Mid-career Soil Carbon researcher at Guizhou Forestry Science Research Institute in CN. With 29 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.165938
+date: 2026-07-11T11:05:44.450266
 url: "/cdr-researcher-census/researchers/congjun-yuan-a5001674/"
 layout: "researcher"
 hiddenInHomeList: true

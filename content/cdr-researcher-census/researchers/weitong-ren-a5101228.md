@@ -1,7 +1,7 @@
 ---
 title: "Weitong Ren"
 description: "Weitong Ren is a Mid-career Soil Carbon researcher at Wenzhou University in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.565728
+date: 2026-07-11T11:05:43.927239
 url: "/cdr-researcher-census/researchers/weitong-ren-a5101228/"
 layout: "researcher"
 hiddenInHomeList: true

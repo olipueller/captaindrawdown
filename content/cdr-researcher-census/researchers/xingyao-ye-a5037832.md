@@ -1,7 +1,7 @@
 ---
 title: "Xingyao Ye"
 description: "Xingyao Ye is a Senior Biochar researcher at National University of Singapore in SG. With 39 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.223252
+date: 2026-07-11T11:05:42.925573
 url: "/cdr-researcher-census/researchers/xingyao-ye-a5037832/"
 layout: "researcher"
 hiddenInHomeList: true

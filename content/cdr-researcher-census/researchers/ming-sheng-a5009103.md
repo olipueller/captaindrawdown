@@ -1,7 +1,7 @@
 ---
 title: "Ming Sheng"
 description: "Ming Sheng is a Mid-career Soil Carbon researcher at Tianjin University in CN. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.807605
+date: 2026-07-11T11:05:43.353481
 url: "/cdr-researcher-census/researchers/ming-sheng-a5009103/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 431 |
 | Publications | 26 |
-| CDR Focus | 19.2% |
+| CDR Focus | 26.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -62,8 +62,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Deciphering moisture-driven divergence in soil carbon limitation via microbial necromass dynamics across arid versus humid alpine grassland restoration chronosequences** (2025)
    2 citations · Soil Carbon
 
-5. **Revealing Divergence in Soil Carbon Limitation Through Microbial Necromass in Humid and Arid Chronosequences of Alpine Grassland Restoration** (2025)
+5. **Autotrophic and Mixotrophic Microbial Carbon Assimilation During Organic Residue Decomposition in Mollisols: Mechanisms and Controls** (2026)
    1 citations · Soil Carbon
+
+6. **Revealing Divergence in Soil Carbon Limitation Through Microbial Necromass in Humid and Arid Chronosequences of Alpine Grassland Restoration** (2025)
+   1 citations · Soil Carbon
+
+7. **Organic material amendments shape the bacterial community and enhance carbon sequestration in an agricultural black soil** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

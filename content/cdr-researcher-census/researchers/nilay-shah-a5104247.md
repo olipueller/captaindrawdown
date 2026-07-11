@@ -1,7 +1,7 @@
 ---
 title: "Nilay Shah"
 description: "Nilay Shah is a Mid-career General CDR researcher at Imperial College London in GB. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.362115
+date: 2026-07-11T11:05:43.721806
 url: "/cdr-researcher-census/researchers/nilay-shah-a5104247/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,13 +42,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 4 |
 | Citations | 223 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
-| Trajectory | Stable |
+| CDR Focus | 22.2% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Modelling and analysis of direct air capture systems in different locations** (2022)
    9 citations · DAC
+
+2. **Analysis of new strategies integrating bipolar membrane electrodialysis and absorption systems in DAC applications** (2026)
+   0 citations · DAC
 
 ## External Profiles
 

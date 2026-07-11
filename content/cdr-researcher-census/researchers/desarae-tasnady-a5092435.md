@@ -1,7 +1,7 @@
 ---
 title: "Desarae Tasnady"
 description: "Desarae Tasnady is an Early-career Biochar researcher at California State Polytechnic University in US. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.704745
+date: 2026-07-11T11:05:44.103760
 url: "/cdr-researcher-census/researchers/desarae-tasnady-a5092435/"
 layout: "researcher"
 hiddenInHomeList: true

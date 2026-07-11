@@ -1,7 +1,7 @@
 ---
 title: "Tahamina Khanam"
 description: "Tahamina Khanam is a Mid-career Soil Carbon researcher at University of Eastern Finland in FI. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.549252
+date: 2026-07-11T11:05:43.910566
 url: "/cdr-researcher-census/researchers/tahamina-khanam-a5013530/"
 layout: "researcher"
 hiddenInHomeList: true

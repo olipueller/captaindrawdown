@@ -1,7 +1,7 @@
 ---
 title: "Mariangela N. Fotelli"
 description: "Mariangela N. Fotelli is a Senior Soil Carbon researcher at Hellenic Agricultural Organization - DIMITRA in GR. With 64 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.129530
+date: 2026-07-11T11:05:42.872633
 url: "/cdr-researcher-census/researchers/mariangela-n-fotelli-a5042643/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 25 |
 | Citations | 2,278 |
 | Publications | 64 |
-| CDR Focus | 6.2% |
+| CDR Focus | 7.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -53,13 +53,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Carbon sequestration and soil nitrogen enrichment in Robinia pseudoacacia L. post-mining restoration plantations** (2023)
    11 citations · Soil Carbon
 
-2. **Disentangling the effect of stand structure on the C-balance of Mediterranean Pine forests using a process-based forest model** (2025)
+2. **An Integrated Monitoring Protocol to Study the Effects of Management on the C Sequestration Potential of Mediterranean Pine Ecosystems** (2026)
+   1 citations · Soil Carbon
+
+3. **Disentangling the effect of stand structure on the C-balance of Mediterranean Pine forests using a process-based forest model** (2025)
    0 citations · General CDR
 
-3. **Isolation of beneficial soil microbes with stress tolerance traits and establishment of microbial consortia to improve legume productivity and adaptation to harsh environments** (2025)
+4. **Isolation of beneficial soil microbes with stress tolerance traits and establishment of microbial consortia to improve legume productivity and adaptation to harsh environments** (2025)
    0 citations · Soil Carbon
 
-4. **Carbon sequestration in litterfall, forest floor, roots and soil in Robinia pseudoacacia restoration plantations.** (2022)
+5. **Carbon sequestration in litterfall, forest floor, roots and soil in Robinia pseudoacacia restoration plantations.** (2022)
    0 citations · Soil Carbon
 
 ## External Profiles

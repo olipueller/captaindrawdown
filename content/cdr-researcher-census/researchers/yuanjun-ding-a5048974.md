@@ -1,7 +1,7 @@
 ---
 title: "Yuanjun Ding"
 description: "Yuanjun Ding is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.584638
+date: 2026-07-11T11:05:43.970775
 url: "/cdr-researcher-census/researchers/yuanjun-ding-a5048974/"
 layout: "researcher"
 hiddenInHomeList: true

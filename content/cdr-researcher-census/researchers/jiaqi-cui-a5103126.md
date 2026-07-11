@@ -1,7 +1,7 @@
 ---
 title: "Jiaqi Cui"
 description: "Jiaqi Cui is a Mid-career Biochar researcher at Qingdao University in CN. With 56 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.312651
+date: 2026-07-11T11:05:42.982263
 url: "/cdr-researcher-census/researchers/jiaqi-cui-a5103126/"
 layout: "researcher"
 hiddenInHomeList: true

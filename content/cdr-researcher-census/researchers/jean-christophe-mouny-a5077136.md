@@ -1,7 +1,7 @@
 ---
 title: "Jean-Christophe Mouny"
 description: "Jean-Christophe Mouny is a Mid-career Soil Carbon researcher at Territoires in FR. With 6 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.720159
+date: 2026-07-11T11:05:44.115162
 url: "/cdr-researcher-census/researchers/jean-christophe-mouny-a5077136/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 2 |
 | Citations | 153 |
 | Publications | 6 |
-| CDR Focus | 33.3% |
+| CDR Focus | 16.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Shan‐Shan Dai"
 description: "Shan‐Shan Dai is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.673663
+date: 2026-07-11T11:05:43.256848
 url: "/cdr-researcher-census/researchers/shanshan-dai-a5021089/"
 layout: "researcher"
 hiddenInHomeList: true

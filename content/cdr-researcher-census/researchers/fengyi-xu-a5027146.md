@@ -1,7 +1,7 @@
 ---
 title: "Fengyi Xu"
 description: "Fengyi Xu is an Early-career Soil Carbon researcher at Qinghai University for Nationalities in CN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.676410
+date: 2026-07-11T11:05:44.082105
 url: "/cdr-researcher-census/researchers/fengyi-xu-a5027146/"
 layout: "researcher"
 hiddenInHomeList: true

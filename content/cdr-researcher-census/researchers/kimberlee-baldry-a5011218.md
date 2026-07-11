@@ -1,7 +1,7 @@
 ---
 title: "Kimberlee Baldry"
 description: "Kimberlee Baldry is a Mid-career Ocean CDR researcher at University of Tasmania in AU. With 32 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.245869
+date: 2026-07-11T11:05:43.643478
 url: "/cdr-researcher-census/researchers/kimberlee-baldry-a5011218/"
 layout: "researcher"
 hiddenInHomeList: true

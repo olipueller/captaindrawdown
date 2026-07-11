@@ -1,7 +1,7 @@
 ---
 title: "Woo Bin Youn"
 description: "Woo Bin Youn is a Mid-career Soil Carbon researcher at Chungnam National University in KR. With 35 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.828263
+date: 2026-07-11T11:05:44.196816
 url: "/cdr-researcher-census/researchers/woo-bin-youn-a5049216/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,6 +57,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    0 citations
 
 3. **Disentangling variation patterns and partitioning strategies of net primary productivity: insights from cool-temperate forests in South Korea** (2026)
+   0 citations · Soil Carbon
+
+4. **Disentangling variation patterns and partitioning strategies of net primary productivity: insights from cool-temperate forests in South Korea** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

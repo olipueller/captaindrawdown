@@ -1,7 +1,7 @@
 ---
 title: "Zhaoxin Zhang"
 description: "Zhaoxin Zhang is a Mid-career Soil Carbon researcher at University of Arizona in US. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.943928
+date: 2026-07-11T11:05:43.447416
 url: "/cdr-researcher-census/researchers/zhaoxin-zhang-a5018385/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **VOCs impact soil carbon transformations and sequestration** (2025)
+1. **Data for "VOCs impact soil carbon transformations and sequestration"** (2026)
+   0 citations · Soil Carbon
+
+2. **Data for "VOCs impact soil carbon transformations and sequestration"** (2026)
+   0 citations · Soil Carbon
+
+3. **VOCs impact soil carbon transformations and sequestration** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

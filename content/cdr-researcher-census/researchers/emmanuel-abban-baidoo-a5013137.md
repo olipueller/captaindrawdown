@@ -1,7 +1,7 @@
 ---
 title: "Emmanuel Abban-Baidoo"
 description: "Emmanuel Abban-Baidoo is a Mid-career Biochar researcher at Auburn University in US. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.003217
+date: 2026-07-11T11:05:44.329504
 url: "/cdr-researcher-census/researchers/emmanuel-abban-baidoo-a5013137/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ihsan Qadir"
 description: "Ihsan Qadir is a Mid-career Soil Carbon researcher at Bahauddin Zakariya University in PK. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.725793
+date: 2026-07-11T11:05:44.119424
 url: "/cdr-researcher-census/researchers/ihsan-qadir-a5028179/"
 layout: "researcher"
 hiddenInHomeList: true

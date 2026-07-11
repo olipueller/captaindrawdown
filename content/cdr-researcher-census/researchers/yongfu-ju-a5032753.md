@@ -1,7 +1,7 @@
 ---
 title: "Yongfu Ju"
 description: "Yongfu Ju is a Mid-career Soil Carbon researcher at Harbin University in CN. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.881081
+date: 2026-07-11T11:05:44.235316
 url: "/cdr-researcher-census/researchers/yongfu-ju-a5032753/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 130 |
 | Publications | 16 |
-| CDR Focus | 12.5% |
+| CDR Focus | 6.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

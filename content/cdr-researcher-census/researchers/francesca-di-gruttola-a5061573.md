@@ -1,7 +1,7 @@
 ---
 title: "Francesca Di Gruttola"
 description: "Francesca Di Gruttola is a Mid-career General CDR researcher at Sapienza University of Rome in IT. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.963093
+date: 2026-07-11T11:05:44.297926
 url: "/cdr-researcher-census/researchers/francesca-di-gruttola-a5061573/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 6 |
 | Citations | 120 |
 | Publications | 14 |
-| CDR Focus | 14.3% |
-| Trajectory | Exiting |
+| CDR Focus | 7.1% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

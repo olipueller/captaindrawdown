@@ -1,7 +1,7 @@
 ---
 title: "Gajanan Sawargaonkar"
 description: "Gajanan Sawargaonkar is a Mid-career Soil Carbon researcher at International Crops Research Institute for the Semi-Arid Tropics in IN. With 67 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.809104
+date: 2026-07-11T11:05:43.354643
 url: "/cdr-researcher-census/researchers/gajanan-sawargaonkar-a5033912/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Citations | 430 |
 | Publications | 67 |
 | CDR Focus | 10.4% |
-| Trajectory | Stable |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
@@ -62,13 +62,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Harnessing the Potential of Pigeonpea and Maize Feedstock Biochar for Carbon Sequestration, Energy Generation, and Environmental Sustainability** (2023)
    1 citations · Biochar
 
-5. **Humic Acid (HA) and Fulvic Acid (FA) Carbon** (2026)
-   0 citations
-
-6. **Machine Learning Driven Optimization of Carbon Sequestration in Intercropping Systems Using XGBoost Modeling and Partial Dependence Analysis** (2025)
+5. **Total Organic Carbon in Soil Extracts: Titration Method** (2026)
    0 citations · Soil Carbon
 
-7. **Biochar as a Soil Amendment: Effects on Microbial Communities, Enzyme Activities, and Carbon Sequestration Under Minimum Tillage in Pigeonpea and Maize Intercropping System** (2025)
+6. **Background** (2026)
+   0 citations
+
+7. **Humic Acid (HA) and Fulvic Acid (FA) Carbon** (2026)
+   0 citations
+
+8. **Determination of Water-Stable Aggregates Carbon** (2026)
+   0 citations · Soil Carbon
+
+9. **Machine Learning Driven Optimization of Carbon Sequestration in Intercropping Systems Using XGBoost Modeling and Partial Dependence Analysis** (2025)
+   0 citations · Soil Carbon
+
+10. **Biochar as a Soil Amendment: Effects on Microbial Communities, Enzyme Activities, and Carbon Sequestration Under Minimum Tillage in Pigeonpea and Maize Intercropping System** (2025)
    0 citations · Biochar
 
 ## External Profiles

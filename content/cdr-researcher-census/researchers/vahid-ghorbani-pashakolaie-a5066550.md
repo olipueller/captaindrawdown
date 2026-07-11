@@ -1,7 +1,7 @@
 ---
 title: "Vahid Ghorbani Pashakolaie"
 description: "Vahid Ghorbani Pashakolaie is a Mid-career General CDR researcher at Teesside University in GB. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.013374
+date: 2026-07-11T11:05:44.336652
 url: "/cdr-researcher-census/researchers/vahid-ghorbani-pashakolaie-a5066550/"
 layout: "researcher"
 hiddenInHomeList: true

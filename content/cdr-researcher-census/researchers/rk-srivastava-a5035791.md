@@ -1,7 +1,7 @@
 ---
 title: "R.K. Srivastava"
 description: "R.K. Srivastava is a Senior Biochar researcher at Govind Ballabh Pant University of Agriculture and Technology in IN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.894593
+date: 2026-07-11T11:05:44.245221
 url: "/cdr-researcher-census/researchers/rk-srivastava-a5035791/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Feifei Sun"
 description: "Feifei Sun is a Senior Soil Carbon researcher at Harbin University of Science and Technology in CN. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.617870
+date: 2026-07-11T11:05:43.218602
 url: "/cdr-researcher-census/researchers/feifei-sun-a5100557/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 587 |
 | Publications | 18 |
-| CDR Focus | 5.6% |
-| Trajectory | Stable |
+| CDR Focus | 11.1% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Effects of Afforestation Projects on Tradeoffs between Ecosystem Services: A Case Study of the Guanting Reservoir Basin, China** (2022)
    11 citations · General CDR
+
+2. **Restructuring Nematode Food Web Energetics Drives Microbial Necromass Formation and Soil Carbon Sequestration Under Organic Amendments in Agricultural Soils** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

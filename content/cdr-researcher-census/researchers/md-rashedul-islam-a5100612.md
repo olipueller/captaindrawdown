@@ -1,7 +1,7 @@
 ---
 title: "Md. Rashedul Islam"
 description: "Md. Rashedul Islam is a Mid-career Soil Carbon researcher at Jahangirnagar University in BD. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.916731
+date: 2026-07-11T11:05:44.261793
 url: "/cdr-researcher-census/researchers/md-rashedul-islam-a5100612/"
 layout: "researcher"
 hiddenInHomeList: true

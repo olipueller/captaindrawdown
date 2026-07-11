@@ -1,7 +1,7 @@
 ---
 title: "Lei Wang"
 description: "Lei Wang is a Senior Soil Carbon researcher at Tongji University in CN. With 67 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.253752
+date: 2026-07-11T11:05:42.944317
 url: "/cdr-researcher-census/researchers/lei-wang-a5100712/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 20 |
 | Citations | 1,428 |
 | Publications | 67 |
-| CDR Focus | 14.9% |
+| CDR Focus | 16.4% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -74,10 +74,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 8. **Biomarker analysis revealed tidal organic carbon input enhanced soil respiration and weakened carbon sequestration function of estuarine wetland: Field validation of the Jiuduansha Wetland in the Yangtze River estuary** (2024)
    1 citations · Ocean CDR
 
-9. **Estuarine Wetland Tidal Organic Carbon Activates Microbial Carbon Pump and Increases Long-Term Soil Carbon Stabilityestuarine Wetland Tidal Organic Carbon Activates Microbial Carbon Pump and Increases Long-Term Soil Carbon Stability** (2024)
-   0 citations · Soil Carbon
+9. **Tidal dynamics amplify the potential of biochar incorporation for sediment carbon sequestration in estuarine wetlands: evidence from in-situ experiments** (2026)
+   0 citations · Biochar
 
-10. **Driving Force of Tidal Organic Carbon Input on the Microbial Carbon Pump and the Long-Term Soil Carbon Pool Stability of the Estuarine Wetland** (2024)
+10. **Estuarine Wetland Tidal Organic Carbon Activates Microbial Carbon Pump and Increases Long-Term Soil Carbon Stabilityestuarine Wetland Tidal Organic Carbon Activates Microbial Carbon Pump and Increases Long-Term Soil Carbon Stability** (2024)
    0 citations · Soil Carbon
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Sven Hoog"
 description: "Sven Hoog is a Senior Ocean CDR researcher at Fichtner (Germany) in DE. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.095466
+date: 2026-07-11T11:05:44.400926
 url: "/cdr-researcher-census/researchers/sven-hoog-a5067749/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,13 +42,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 5 |
 | Citations | 107 |
 | Publications | 18 |
-| CDR Focus | 5.6% |
-| Trajectory | Growing |
+| CDR Focus | 11.1% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Exploring Site‐Specific Carbon Dioxide Removal Options With Storage or Sequestration in the Marine Environment – The 10 Mt CO<sub>2</sub> yr<sup>−1</sup> Removal Challenge for Germany** (2025)
    7 citations · General CDR
+
+2. **Exploring site-specific carbon dioxide removal options with storage or sequestration in the marine environment - The 10 Mt CO2 yr-1 removal challenge for Germany** (2024)
+   0 citations · General CDR
 
 ## External Profiles
 

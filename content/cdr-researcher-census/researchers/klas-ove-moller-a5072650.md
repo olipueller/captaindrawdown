@@ -1,7 +1,7 @@
 ---
 title: "Klas Ove Möller"
 description: "Klas Ove Möller is a Mid-career Ocean CDR researcher at Helmholtz-Zentrum Hereon in DE. With 54 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.287184
+date: 2026-07-11T11:05:42.966109
 url: "/cdr-researcher-census/researchers/klas-ove-moller-a5072650/"
 layout: "researcher"
 hiddenInHomeList: true

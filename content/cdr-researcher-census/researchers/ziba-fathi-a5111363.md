@@ -1,7 +1,7 @@
 ---
 title: "Ziba Fathi"
-description: "Ziba Fathi is a Mid-career Unknown researcher at Aalto University in FI. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.861324
+description: "Ziba Fathi is a Mid-career Biochar researcher at Aalto University in FI. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:44.220489
 url: "/cdr-researcher-census/researchers/ziba-fathi-a5111363/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Aalto University ·  FI
 
 ## CDR Specialization
 
-**Unknown**
+**Biochar**
 
-Unknown
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -49,6 +49,9 @@ Unknown
 
 1. **Biochar-infused cellulose foams with PEG-based phase change materials for enhanced thermal energy storage and photothermal performance** (2025)
    14 citations
+
+2. **Dynamic biogenic carbon accounting and functional properties of wood biochar from five species** (2026)
+   2 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Eliana Lozano Sanchez"
 description: "Eliana Lozano Sanchez is a Mid-career General CDR researcher at Aalborg University in DK. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.116746
+date: 2026-07-11T11:05:44.415910
 url: "/cdr-researcher-census/researchers/eliana-lozano-sanchez-a5021324/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 6 |
 | Citations | 105 |
 | Publications | 13 |
-| CDR Focus | 38.5% |
-| Trajectory | Declining |
+| CDR Focus | 30.8% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
@@ -62,7 +62,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 4. **Integrated e-Methanol and Drop-in Fuels Hydrothermal Liquefaction Platform─Techno-Economic and GHG Emissions Assessment for Grid-Connected Plants under Flexible BECCU(S) Operation** (2024)
    4 citations · BECCS
 
-5. **Techno-Economic Study of Integrated High-Temperature Direct Air Capture with Hydrogen-Based Calcination and Fischer-Tropsch Synthesis for Jet Fuel Production** (2024)
+5. **The role of biogenic CO2 in refinery defossilization: A case study of Colombian refineries** (2026)
+   0 citations · General CDR
+
+6. **Techno-Economic Study of Integrated High-Temperature Direct Air Capture with Hydrogen-Based Calcination and Fischer-Tropsch Synthesis for Jet Fuel Production** (2024)
    0 citations
 
 ## External Profiles

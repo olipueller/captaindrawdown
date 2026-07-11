@@ -1,7 +1,7 @@
 ---
 title: "Nina L. Friggens"
 description: "Nina L. Friggens is a Mid-career Soil Carbon researcher at University of Exeter in GB. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.356715
+date: 2026-07-11T11:05:43.718369
 url: "/cdr-researcher-census/researchers/nina-l-friggens-a5066152/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 224 |
 | Publications | 15 |
-| CDR Focus | 13.3% |
+| CDR Focus | 6.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

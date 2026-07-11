@@ -1,7 +1,7 @@
 ---
 title: "Adnan Mustafa"
 description: "Adnan Mustafa is an Eminent Soil Carbon researcher at Brno University of Technology in CZ. With 191 publications and an h-index of 47, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.927139
+date: 2026-07-11T11:05:42.786831
 url: "/cdr-researcher-census/researchers/adnan-mustafa-a5031833/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -71,14 +71,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 7. **Physically separated soil organic matter pools as indicators of carbon and nitrogen change under long-term fertilization in a Chinese Mollisol** (2022)
    21 citations
 
-8. **Divergent Microbial Metabolic Limitations Across Soil Depths After Two Decades of High Nitrogen Inputs in a Primary Tropical Forest** (2025)
+8. **Beyond one-size-fits-all: tailoring engineered biochar for purpose-specific rhizosphere engineering in crop production, protection, and soil remediation** (2026)
+   19 citations · Biochar
+
+9. **Divergent Microbial Metabolic Limitations Across Soil Depths After Two Decades of High Nitrogen Inputs in a Primary Tropical Forest** (2025)
    18 citations · Soil Carbon
 
-9. **Divergent responses of phosphorus solubilizing bacteria with P-laden biochar for enhancing nutrient recovery, growth, and yield of canola (Brassica napus L.)** (2024)
+10. **Divergent responses of phosphorus solubilizing bacteria with P-laden biochar for enhancing nutrient recovery, growth, and yield of canola (Brassica napus L.)** (2024)
    13 citations · Biochar
-
-10. **Utilization of Diversified Cover Crops as Green Manure-Enhanced Soil Organic Carbon, Nutrient Transformation, Microbial Activity, and Maize Growth** (2024)
-   12 citations · Soil Carbon
 
 ## External Profiles
 

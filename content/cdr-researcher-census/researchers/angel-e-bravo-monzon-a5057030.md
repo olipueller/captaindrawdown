@@ -1,7 +1,7 @@
 ---
 title: "Ángel E. Bravo-Monzón"
 description: "Ángel E. Bravo-Monzón is a Mid-career Soil Carbon researcher at El Colegio de la Frontera Sur in MX. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.781969
+date: 2026-07-11T11:05:44.162451
 url: "/cdr-researcher-census/researchers/angel-e-bravo-monzon-a5057030/"
 layout: "researcher"
 hiddenInHomeList: true

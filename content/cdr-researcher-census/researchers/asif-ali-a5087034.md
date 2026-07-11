@@ -1,7 +1,7 @@
 ---
 title: "Asif Ali"
 description: "Asif Ali is a Senior General CDR researcher at Nanyang Technological University in SG. With 51 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.427655
+date: 2026-07-11T11:05:43.057299
 url: "/cdr-researcher-census/researchers/asif-ali-a5087034/"
 layout: "researcher"
 hiddenInHomeList: true

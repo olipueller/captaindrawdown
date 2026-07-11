@@ -1,7 +1,7 @@
 ---
 title: "Gerard H. Ros"
 description: "Gerard H. Ros is a Senior Soil Carbon researcher at NutriLeads (Netherlands) in NL. With 102 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.055647
+date: 2026-07-11T11:05:42.837025
 url: "/cdr-researcher-census/researchers/gerard-h-ros-a5016787/"
 layout: "researcher"
 hiddenInHomeList: true

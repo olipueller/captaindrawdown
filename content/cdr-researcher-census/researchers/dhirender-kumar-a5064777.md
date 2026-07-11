@@ -1,7 +1,7 @@
 ---
 title: "Dhirender Kumar"
 description: "Dhirender Kumar is a Mid-career Soil Carbon researcher at Dr. Yashwant Singh Parmar University of Horticulture and Forestry in IN. With 43 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.568921
+date: 2026-07-11T11:05:43.160942
 url: "/cdr-researcher-census/researchers/dhirender-kumar-a5064777/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 13 |
 | Citations | 644 |
 | Publications | 43 |
-| CDR Focus | 14.0% |
-| Trajectory | Declining |
+| CDR Focus | 11.6% |
+| Trajectory | Exiting |
 
 ## Top CDR Publications
 

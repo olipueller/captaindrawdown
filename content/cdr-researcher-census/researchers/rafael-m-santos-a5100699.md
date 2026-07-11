@@ -1,7 +1,7 @@
 ---
 title: "Rafael M. Santos"
 description: "Rafael M. Santos is a Senior Enhanced Weathering researcher at University of Guelph in CA. With 246 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.962846
+date: 2026-07-11T11:05:42.799145
 url: "/cdr-researcher-census/researchers/rafael-m-santos-a5100699/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 38 |
 | Citations | 5,873 |
 | Publications | 246 |
-| CDR Focus | 10.6% |
+| CDR Focus | 12.2% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -68,17 +68,17 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 6. **Fate and migration of enhanced rock weathering products through soil horizons; implications of irrigation and percolation regimes** (2023)
    17 citations · Enhanced Weathering
 
-7. **Multiscale Process Intensification of Waste Valorization Reactions** (2023)
+7. **Soil carbon allocation, composition, and sequestration changes induced by cropping diversification in tropical systems** (2025)
+   15 citations · Soil Carbon
+
+8. **Multiscale Process Intensification of Waste Valorization Reactions** (2023)
    14 citations · General CDR
 
-8. **Pathways, roundabouts, roadblocks, and shortcuts to safe and sustainable deployment of enhanced rock weathering in agriculture** (2023)
+9. **Pathways, roundabouts, roadblocks, and shortcuts to safe and sustainable deployment of enhanced rock weathering in agriculture** (2023)
    13 citations · Enhanced Weathering
 
-9. **Monitoring Pedogenic Inorganic Carbon Accumulation Due to Weathering of Amended Silicate Minerals in Agricultural Soils.** (2021)
+10. **Monitoring Pedogenic Inorganic Carbon Accumulation Due to Weathering of Amended Silicate Minerals in Agricultural Soils.** (2021)
    13 citations · Enhanced Weathering
-
-10. **On-Site Determination of Soil Organic Carbon Content: A Photocatalytic Approach** (2024)
-   7 citations
 
 ## External Profiles
 

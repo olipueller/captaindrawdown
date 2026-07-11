@@ -1,7 +1,7 @@
 ---
 title: "Peter Booth"
 description: "Peter Booth is a Senior General CDR researcher at University of Hertfordshire in GB. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.980285
+date: 2026-07-11T11:05:44.311965
 url: "/cdr-researcher-census/researchers/peter-booth-a5101701/"
 layout: "researcher"
 hiddenInHomeList: true

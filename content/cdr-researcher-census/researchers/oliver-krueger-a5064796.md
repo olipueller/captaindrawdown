@@ -1,7 +1,7 @@
 ---
 title: "Oliver Krueger"
 description: "Oliver Krueger is a Mid-career Soil Carbon researcher at Berliner Hochschule für Technik in DE. With 28 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.478277
+date: 2026-07-11T11:05:43.092580
 url: "/cdr-researcher-census/researchers/oliver-krueger-a5064796/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 785 |
 | Publications | 28 |
-| CDR Focus | 10.7% |
-| Trajectory | Growing |
+| CDR Focus | 7.1% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

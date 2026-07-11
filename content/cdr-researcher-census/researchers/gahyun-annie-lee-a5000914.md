@@ -1,7 +1,7 @@
 ---
 title: "Gahyun Annie Lee"
 description: "Gahyun Annie Lee is a Mid-career General CDR researcher at Earth Island Institute in US. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.674121
+date: 2026-07-11T11:05:44.080899
 url: "/cdr-researcher-census/researchers/gahyun-annie-lee-a5000914/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 5 |
 | Citations | 160 |
 | Publications | 10 |
-| CDR Focus | 60.0% |
-| Trajectory | Exiting |
+| CDR Focus | 20.0% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

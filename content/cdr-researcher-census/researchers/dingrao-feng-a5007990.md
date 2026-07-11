@@ -1,7 +1,7 @@
 ---
 title: "Dingrao Feng"
 description: "Dingrao Feng is a Mid-career Soil Carbon researcher at China University of Geosciences (Beijing) in CN. With 8 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.910674
+date: 2026-07-11T11:05:43.424179
 url: "/cdr-researcher-census/researchers/dingrao-feng-a5007990/"
 layout: "researcher"
 hiddenInHomeList: true

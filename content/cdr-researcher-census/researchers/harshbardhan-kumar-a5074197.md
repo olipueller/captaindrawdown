@@ -1,7 +1,7 @@
 ---
 title: "Harshbardhan Kumar"
 description: "Harshbardhan Kumar is a Senior General CDR researcher at National Atmospheric Research Laboratory in IN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.538495
+date: 2026-07-11T11:05:43.897237
 url: "/cdr-researcher-census/researchers/harshbardhan-kumar-a5074197/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Christopher Yeates"
 description: "Christopher Yeates is a Mid-career General CDR researcher at GFZ Helmholtz Centre for Geosciences in DE. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.610500
+date: 2026-07-11T11:05:44.008405
 url: "/cdr-researcher-census/researchers/christopher-yeates-a5073828/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 8 |
 | Citations | 171 |
 | Publications | 22 |
-| CDR Focus | 18.2% |
+| CDR Focus | 9.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

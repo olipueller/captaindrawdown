@@ -1,7 +1,7 @@
 ---
 title: "Jianxing Li"
 description: "Jianxing Li is a Mid-career Soil Carbon researcher at Yunnan University in CN. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.051358
+date: 2026-07-11T11:05:44.386875
 url: "/cdr-researcher-census/researchers/jianxing-li-a5078956/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,12 +45,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 110 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
+| CDR Focus | 22.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Unraveling radial growth patterns in tropical karst forests: A seasonal perspective** (2025)
+1. **Molecular shifts in dissolved organic matter and microbial community assembly during vegetation restoration in karst ecosystems** (2026)
+   1 citations · Soil Carbon
+
+2. **Unraveling radial growth patterns in tropical karst forests: A seasonal perspective** (2025)
    1 citations · Soil Carbon
 
 ## External Profiles

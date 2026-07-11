@@ -1,7 +1,7 @@
 ---
 title: "Qicong Wu"
 description: "Qicong Wu is a Mid-career Soil Carbon researcher at Ministry of Agriculture in EE. With 36 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.681311
+date: 2026-07-11T11:05:43.261870
 url: "/cdr-researcher-census/researchers/qicong-wu-a5038751/"
 layout: "researcher"
 hiddenInHomeList: true

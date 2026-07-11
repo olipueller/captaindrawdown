@@ -1,7 +1,7 @@
 ---
 title: "Kanto Razanamalala"
 description: "Kanto Razanamalala is a Mid-career Soil Carbon researcher. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.301854
+date: 2026-07-11T11:05:43.681078
 url: "/cdr-researcher-census/researchers/kanto-razanamalala-a5004780/"
 layout: "researcher"
 hiddenInHomeList: true

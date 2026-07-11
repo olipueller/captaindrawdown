@@ -1,7 +1,7 @@
 ---
 title: "Sylwia Adamczyk"
 description: "Sylwia Adamczyk is a Senior Soil Carbon researcher at Natural Resources Institute Finland in FI. With 73 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.263355
+date: 2026-07-11T11:05:42.951079
 url: "/cdr-researcher-census/researchers/sylwia-adamczyk-a5085656/"
 layout: "researcher"
 hiddenInHomeList: true

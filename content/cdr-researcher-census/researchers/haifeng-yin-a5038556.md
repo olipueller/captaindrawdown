@@ -1,7 +1,7 @@
 ---
 title: "Haifeng Yin"
 description: "Haifeng Yin is a Mid-career Soil Carbon researcher at Research Institute of Tropical Forestry in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.925066
+date: 2026-07-11T11:05:44.268211
 url: "/cdr-researcher-census/researchers/haifeng-yin-a5038556/"
 layout: "researcher"
 hiddenInHomeList: true

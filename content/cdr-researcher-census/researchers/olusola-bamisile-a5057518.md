@@ -1,7 +1,7 @@
 ---
 title: "Olusola Bamisile"
 description: "Olusola Bamisile is an Eminent General CDR researcher at Chengdu University of Technology in CN. With 211 publications and an h-index of 43, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.987311
+date: 2026-07-11T11:05:42.807998
 url: "/cdr-researcher-census/researchers/olusola-bamisile-a5057518/"
 layout: "researcher"
 hiddenInHomeList: true

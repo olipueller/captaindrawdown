@@ -1,7 +1,7 @@
 ---
 title: "Rashad S. Alghamdi"
 description: "Rashad S. Alghamdi is a Mid-career Soil Carbon researcher. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.664557
+date: 2026-07-11T11:05:44.074466
 url: "/cdr-researcher-census/researchers/rashad-s-alghamdi-a5062414/"
 layout: "researcher"
 hiddenInHomeList: true

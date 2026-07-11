@@ -1,7 +1,7 @@
 ---
 title: "Syed Faheem Anjum Gillani"
 description: "Syed Faheem Anjum Gillani is a Mid-career Soil Carbon researcher. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.595243
+date: 2026-07-11T11:05:43.985016
 url: "/cdr-researcher-census/researchers/syed-faheem-anjum-gillani-a5043360/"
 layout: "researcher"
 hiddenInHomeList: true

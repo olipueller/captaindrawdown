@@ -1,7 +1,7 @@
 ---
 title: "Fengwei Xu"
 description: "Fengwei Xu is a Mid-career Soil Carbon researcher at Chinese Academy of Forestry in CN. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.661375
+date: 2026-07-11T11:05:43.247145
 url: "/cdr-researcher-census/researchers/fengwei-xu-a5027841/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,15 +45,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 546 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
-| Trajectory | Stable |
+| CDR Focus | 15.0% |
+| Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Grassland biodiversity and ecosystem functions benefit more from cattle than sheep in mixed grazing: A meta-analysis** (2023)
    41 citations · Soil Carbon
 
-2. **Assessing the net climate benefits of improved grazing intensity in global rangelands** (2026)
+2. **Collaborative restoration between vegetation and soil attributes in degraded grassland of different grassland types** (2024)
+   7 citations · General CDR
+
+3. **Variability in Carbon Stocks across a Chronosequence of Masson Pine Plantations and the Trade-Off between Plant and Soil Systems** (2021)
+   5 citations · Soil Carbon
+
+4. **Assessing the net climate benefits of improved grazing intensity in global rangelands** (2026)
    0 citations
 
 ## External Profiles

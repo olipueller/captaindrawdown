@@ -1,7 +1,7 @@
 ---
 title: "Lennart T. Bach"
 description: "Lennart T. Bach is an Eminent Ocean CDR researcher at University of Tasmania in AU. With 317 publications and an h-index of 45, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.949166
+date: 2026-07-11T11:05:42.792895
 url: "/cdr-researcher-census/researchers/lennart-t-bach-a5044360/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 45 |
 | Citations | 6,638 |
 | Publications | 317 |
-| CDR Focus | 27.8% |
-| Trajectory | Declining |
+| CDR Focus | 14.2% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

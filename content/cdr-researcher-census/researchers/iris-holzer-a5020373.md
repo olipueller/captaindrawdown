@@ -1,7 +1,7 @@
 ---
 title: "Iris Holzer"
-description: "Iris Holzer is a Mid-career Enhanced Weathering researcher at University of California, Santa Barbara in US. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.530925
+description: "Iris Holzer is a Mid-career Soil Carbon researcher at University of California, Santa Barbara in US. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:43.890417
 url: "/cdr-researcher-census/researchers/iris-holzer-a5020373/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of California, Santa Barbara · 🇺🇸 US
 
 ## CDR Specialization
 
-**Enhanced Weathering**
+**Soil Carbon**
 
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 7 |
 | Citations | 186 |
 | Publications | 18 |
-| CDR Focus | 66.7% |
+| CDR Focus | 50.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications

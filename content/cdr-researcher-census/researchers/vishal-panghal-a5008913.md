@@ -1,7 +1,7 @@
 ---
 title: "Vishal Panghal"
 description: "Vishal Panghal is a Mid-career Biochar researcher at Chaudhary Charan Singh Haryana Agricultural University in IN. With 46 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.375846
+date: 2026-07-11T11:05:43.733446
 url: "/cdr-researcher-census/researchers/vishal-panghal-a5008913/"
 layout: "researcher"
 hiddenInHomeList: true

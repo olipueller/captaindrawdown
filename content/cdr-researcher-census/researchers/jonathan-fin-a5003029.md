@@ -1,7 +1,7 @@
 ---
 title: "Jonathan Fin"
 description: "Jonathan Fin is a Mid-career Ocean CDR researcher at Centre National de la Recherche Scientifique in FR. With 36 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.323201
+date: 2026-07-11T11:05:43.695759
 url: "/cdr-researcher-census/researchers/jonathan-fin-a5003029/"
 layout: "researcher"
 hiddenInHomeList: true

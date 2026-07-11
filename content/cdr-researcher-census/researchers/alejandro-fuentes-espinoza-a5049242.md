@@ -1,7 +1,7 @@
 ---
 title: "Alejandro Fuentes Espinoza"
 description: "Alejandro Fuentes Espinoza is a Mid-career Soil Carbon researcher at International Office for Water in FR. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.922260
+date: 2026-07-11T11:05:44.265577
 url: "/cdr-researcher-census/researchers/alejandro-fuentes-espinoza-a5049242/"
 layout: "researcher"
 hiddenInHomeList: true

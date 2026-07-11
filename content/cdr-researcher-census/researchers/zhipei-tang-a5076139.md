@@ -1,7 +1,7 @@
 ---
 title: "Zhipei Tang"
 description: "Zhipei Tang is a Mid-career General CDR researcher at Harbin Institute of Technology in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.016235
+date: 2026-07-11T11:05:43.497688
 url: "/cdr-researcher-census/researchers/zhipei-tang-a5076139/"
 layout: "researcher"
 hiddenInHomeList: true

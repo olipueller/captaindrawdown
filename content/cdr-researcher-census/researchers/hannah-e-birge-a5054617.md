@@ -1,7 +1,7 @@
 ---
 title: "Hannah E. Birgé"
 description: "Hannah E. Birgé is a Mid-career Soil Carbon researcher at Nature Conservancy in US. With 27 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.116706
+date: 2026-07-11T11:05:42.866293
 url: "/cdr-researcher-census/researchers/hannah-e-birge-a5054617/"
 layout: "researcher"
 hiddenInHomeList: true

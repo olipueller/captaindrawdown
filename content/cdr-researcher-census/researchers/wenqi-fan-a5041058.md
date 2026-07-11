@@ -1,7 +1,7 @@
 ---
 title: "Wenqi Fan"
 description: "Wenqi Fan is a Mid-career DAC researcher at China National Nuclear Corporation in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.667610
+date: 2026-07-11T11:05:44.076680
 url: "/cdr-researcher-census/researchers/wenqi-fan-a5041058/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 6 |
 | Citations | 161 |
 | Publications | 16 |
-| CDR Focus | 12.5% |
+| CDR Focus | 6.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

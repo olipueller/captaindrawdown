@@ -1,7 +1,7 @@
 ---
 title: "Abdelghafour Zaabout"
 description: "Abdelghafour Zaabout is a Senior General CDR researcher at The Polytechnic University of Japan in JP. With 100 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.190814
+date: 2026-07-11T11:05:42.906621
 url: "/cdr-researcher-census/researchers/abdelghafour-zaabout-a5089623/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 23 |
 | Citations | 1,774 |
 | Publications | 100 |
-| CDR Focus | 12.0% |
+| CDR Focus | 10.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

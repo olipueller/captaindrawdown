@@ -1,7 +1,7 @@
 ---
 title: "Noel Manirakiza"
 description: "Noel Manirakiza is a Mid-career Soil Carbon researcher at Everglades University in US. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.863504
+date: 2026-07-11T11:05:44.222540
 url: "/cdr-researcher-census/researchers/noel-manirakiza-a5107985/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -52,6 +52,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 1. **Assessing flood-depth effects on water quality, nutrient uptake, carbon sequestration, and rice yield cultivated on Histosols** (2024)
    17 citations · Soil Carbon
+
+2. **Effects of Woody Compost and Biochar Amendments on Biochemical Properties of the Wind Erosion Afflicted a Calcareous and Alkaline Sandy Clay Loam Soil** (2021)
+   3 citations
 
 ## External Profiles
 

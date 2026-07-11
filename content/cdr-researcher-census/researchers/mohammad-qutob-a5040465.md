@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Qutob"
 description: "Mohammad Qutob is a Mid-career Biochar researcher at Universiti Sains Malaysia in MY. With 28 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.664082
+date: 2026-07-11T11:05:43.249304
 url: "/cdr-researcher-census/researchers/mohammad-qutob-a5040465/"
 layout: "researcher"
 hiddenInHomeList: true

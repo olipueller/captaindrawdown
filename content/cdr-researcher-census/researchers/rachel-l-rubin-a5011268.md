@@ -1,7 +1,7 @@
 ---
 title: "Rachel L. Rubin"
 description: "Rachel L. Rubin is a Senior Soil Carbon researcher at Mount Holyoke College in US. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.372785
+date: 2026-07-11T11:05:43.021835
 url: "/cdr-researcher-census/researchers/rachel-l-rubin-a5011268/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xueli Ding"
 description: "Xueli Ding is a Senior Soil Carbon researcher at Nanjing University of Information Science and Technology in CN. With 46 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.204095
+date: 2026-07-11T11:05:42.914195
 url: "/cdr-researcher-census/researchers/xueli-ding-a5031488/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 22 |
 | Citations | 1,691 |
 | Publications | 46 |
-| CDR Focus | 15.2% |
+| CDR Focus | 13.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

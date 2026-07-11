@@ -1,7 +1,7 @@
 ---
 title: "Jenielyn T. Padrones"
 description: "Jenielyn T. Padrones is a Mid-career Soil Carbon researcher at University of the Philippines Los Baños in PH. With 28 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.290586
+date: 2026-07-11T11:05:43.671995
 url: "/cdr-researcher-census/researchers/jenielyn-t-padrones-a5004532/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 242 |
 | Publications | 28 |
-| CDR Focus | 10.7% |
-| Trajectory | Stable |
+| CDR Focus | 7.1% |
+| Trajectory | Exiting |
 
 ## Top CDR Publications
 

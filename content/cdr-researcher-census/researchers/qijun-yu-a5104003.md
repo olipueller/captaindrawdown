@@ -1,7 +1,7 @@
 ---
 title: "Qijun Yu"
 description: "Qijun Yu is a Senior Biochar researcher at South China University of Technology in CN. With 90 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.241026
+date: 2026-07-11T11:05:42.936478
 url: "/cdr-researcher-census/researchers/qijun-yu-a5104003/"
 layout: "researcher"
 hiddenInHomeList: true

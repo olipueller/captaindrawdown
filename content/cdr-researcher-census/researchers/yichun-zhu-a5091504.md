@@ -1,7 +1,7 @@
 ---
 title: "Yichun Zhu"
 description: "Yichun Zhu is a Mid-career Soil Carbon researcher at Jiangxi University of Science and Technology in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.772385
+date: 2026-07-11T11:05:44.154482
 url: "/cdr-researcher-census/researchers/yichun-zhu-a5091504/"
 layout: "researcher"
 hiddenInHomeList: true

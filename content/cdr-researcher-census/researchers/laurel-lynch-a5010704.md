@@ -1,7 +1,7 @@
 ---
 title: "Laurel Lynch"
 description: "Laurel Lynch is a Senior Soil Carbon researcher at University of Idaho in US. With 59 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.304544
+date: 2026-07-11T11:05:42.977916
 url: "/cdr-researcher-census/researchers/laurel-lynch-a5010704/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 15 |
 | Citations | 1,215 |
 | Publications | 59 |
-| CDR Focus | 13.6% |
+| CDR Focus | 5.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

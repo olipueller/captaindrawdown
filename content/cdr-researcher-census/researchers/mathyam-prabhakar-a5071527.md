@@ -1,7 +1,7 @@
 ---
 title: "Mathyam Prabhakar"
 description: "Mathyam Prabhakar is a Mid-career Soil Carbon researcher at Central Research Institute for Dryland Agriculture in IN. With 36 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.548699
+date: 2026-07-11T11:05:43.146431
 url: "/cdr-researcher-census/researchers/mathyam-prabhakar-a5071527/"
 layout: "researcher"
 hiddenInHomeList: true

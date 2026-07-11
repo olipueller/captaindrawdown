@@ -1,7 +1,7 @@
 ---
 title: "Xiaomei Huo"
 description: "Xiaomei Huo is a Mid-career Soil Carbon researcher at Shanxi Agricultural University in CN. With 28 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.353552
+date: 2026-07-11T11:05:43.009180
 url: "/cdr-researcher-census/researchers/xiaomei-huo-a5064569/"
 layout: "researcher"
 hiddenInHomeList: true

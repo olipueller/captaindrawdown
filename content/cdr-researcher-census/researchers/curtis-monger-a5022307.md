@@ -1,7 +1,7 @@
 ---
 title: "Curtis Monger"
 description: "Curtis Monger is a Senior Soil Carbon researcher at New Mexico State University in US. With 40 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.314332
+date: 2026-07-11T11:05:42.983558
 url: "/cdr-researcher-census/researchers/curtis-monger-a5022307/"
 layout: "researcher"
 hiddenInHomeList: true

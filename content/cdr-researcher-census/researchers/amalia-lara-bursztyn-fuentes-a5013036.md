@@ -1,7 +1,7 @@
 ---
 title: "Amalia Lara Bursztyn Fuentes"
 description: "Amalia Lara Bursztyn Fuentes is a Mid-career Biochar researcher at National University of Tierra del Fuego in AR. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.625982
+date: 2026-07-11T11:05:44.031014
 url: "/cdr-researcher-census/researchers/amalia-lara-bursztyn-fuentes-a5013036/"
 layout: "researcher"
 hiddenInHomeList: true

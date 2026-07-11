@@ -1,7 +1,7 @@
 ---
 title: "D. Barisano"
 description: "D. Barisano is a Senior Biochar researcher at National Agency for New Technologies, Energy and Sustainable Economic Development in IT. With 31 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.643880
+date: 2026-07-11T11:05:43.235831
 url: "/cdr-researcher-census/researchers/d-barisano-a5003105/"
 layout: "researcher"
 hiddenInHomeList: true

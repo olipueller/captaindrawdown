@@ -1,7 +1,7 @@
 ---
 title: "Maria Juliane Suota"
-description: "Maria Juliane Suota is a Mid-career Unknown researcher at University of British Columbia in CA. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.022911
+description: "Maria Juliane Suota is a Mid-career Biochar researcher at University of British Columbia in CA. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:43.501836
 url: "/cdr-researcher-census/researchers/maria-juliane-suota-a5013855/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of British Columbia · 🇨🇦 CA
 
 ## CDR Specialization
 
-**Unknown**
+**Biochar**
 
-Unknown
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -46,12 +46,15 @@ Unknown
 | Citations | 323 |
 | Publications | 13 |
 | CDR Focus | 7.7% |
-| Trajectory | Stable |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Combination of green solvents for efficient sugarcane bagasse fractionation** (2022)
    14 citations
+
+2. **Carbonaceous Materialsfor Wastewater Treatment fromMicrowave-Assisted Pyrolysis of LignoForce Lignins** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

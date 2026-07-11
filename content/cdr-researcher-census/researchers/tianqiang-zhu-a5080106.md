@@ -1,7 +1,7 @@
 ---
 title: "Tianqiang Zhu"
 description: "Tianqiang Zhu is a Mid-career Ocean CDR researcher at Shandong University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.424860
+date: 2026-07-11T11:05:43.766871
 url: "/cdr-researcher-census/researchers/tianqiang-zhu-a5080106/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 5 |
 | Citations | 208 |
 | Publications | 9 |
-| CDR Focus | 55.6% |
+| CDR Focus | 44.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Tim Kruger"
 description: "Tim Kruger is a Senior General CDR researcher at University of Oxford in GB. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.580349
+date: 2026-07-11T11:05:43.170606
 url: "/cdr-researcher-census/researchers/tim-kruger-a5089998/"
 layout: "researcher"
 hiddenInHomeList: true

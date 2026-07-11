@@ -1,7 +1,7 @@
 ---
 title: "Subbareddy Bonthu"
 description: "Subbareddy Bonthu is a Mid-career Soil Carbon researcher at Anna University, Chennai in IN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.195024
+date: 2026-07-11T11:05:43.608095
 url: "/cdr-researcher-census/researchers/subbareddy-bonthu-a5064357/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Tronje P. Kemena"
 description: "Tronje P. Kemena is a Mid-career Ocean CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 42 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.124301
+date: 2026-07-11T11:05:44.421622
 url: "/cdr-researcher-census/researchers/tronje-p-kemena-a5043456/"
 layout: "researcher"
 hiddenInHomeList: true

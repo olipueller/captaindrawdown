@@ -1,7 +1,7 @@
 ---
 title: "Ganesh Veluswamy"
 description: "Ganesh Veluswamy is a Senior Biochar researcher at RMIT University in AU. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.949925
+date: 2026-07-11T11:05:43.451262
 url: "/cdr-researcher-census/researchers/ganesh-veluswamy-a5080295/"
 layout: "researcher"
 hiddenInHomeList: true

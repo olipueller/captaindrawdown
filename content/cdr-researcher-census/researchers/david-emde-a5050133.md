@@ -1,7 +1,7 @@
 ---
 title: "David Emde"
 description: "David Emde is a Mid-career Soil Carbon researcher at Johann Heinrich von Thünen-Institut in DE. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.729897
+date: 2026-07-11T11:05:43.296365
 url: "/cdr-researcher-census/researchers/david-emde-a5050133/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 483 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 5.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Santosh Ayer"
 description: "Santosh Ayer is a Mid-career Soil Carbon researcher at University of Alberta in CA. With 42 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.404764
+date: 2026-07-11T11:05:43.753782
 url: "/cdr-researcher-census/researchers/santosh-ayer-a5092208/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 213 |
 | Publications | 42 |
-| CDR Focus | 9.5% |
-| Trajectory | Declining |
+| CDR Focus | 7.1% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

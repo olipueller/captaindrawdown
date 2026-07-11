@@ -1,7 +1,7 @@
 ---
 title: "Jinzhi Ding"
 description: "Jinzhi Ding is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 94 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.059065
+date: 2026-07-11T11:05:42.838883
 url: "/cdr-researcher-census/researchers/jinzhi-ding-a5001672/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 27 |
 | Citations | 3,268 |
 | Publications | 94 |
-| CDR Focus | 7.4% |
-| Trajectory | Stable |
+| CDR Focus | 5.3% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

@@ -1,7 +1,7 @@
 ---
 title: "Jianhui Xue"
 description: "Jianhui Xue is a Senior Soil Carbon researcher at Nanjing Forestry University in CN. With 31 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.399035
+date: 2026-07-11T11:05:43.038841
 url: "/cdr-researcher-census/researchers/jianhui-xue-a5103074/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,15 +45,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 15 |
 | Citations | 940 |
 | Publications | 31 |
-| CDR Focus | 6.5% |
+| CDR Focus | 12.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Effects of Biochar-Based Fertilizers on Energy Characteristics and Growth of Black Locust Seedlings** (2022)
+1. **Tree species selection for optimizing soil carbon storage: Insights from litter decomposition and bacterial community analysis in coastal ecosystems** (2024)
+   4 citations · Soil Carbon
+
+2. **Effects of Biochar-Based Fertilizers on Energy Characteristics and Growth of Black Locust Seedlings** (2022)
    4 citations · Biochar
 
-2. **Assessing Ecological Restoration of Père David’s Deer Habitat Using Soil Quality Index and Bacterial Community Structure** (2025)
+3. **Rock powder amendment mitigates microplastic induced destabilization of soil organic carbon by modulating molecular composition and microbial assembly** (2025)
+   1 citations · Enhanced Weathering
+
+4. **Assessing Ecological Restoration of Père David’s Deer Habitat Using Soil Quality Index and Bacterial Community Structure** (2025)
    1 citations · Soil Carbon
 
 ## External Profiles

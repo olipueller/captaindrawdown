@@ -1,7 +1,7 @@
 ---
 title: "Peng Miao"
 description: "Peng Miao is a Mid-career Soil Carbon researcher at Horiba (Japan) in JP. With 39 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.201660
+date: 2026-07-11T11:05:42.913158
 url: "/cdr-researcher-census/researchers/peng-miao-a5015819/"
 layout: "researcher"
 hiddenInHomeList: true

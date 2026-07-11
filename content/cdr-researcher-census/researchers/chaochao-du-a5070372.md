@@ -1,7 +1,7 @@
 ---
 title: "Chaochao Du"
 description: "Chaochao Du is a Mid-career Enhanced Weathering researcher at Chinese Academy of Sciences in CN. With 33 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.409317
+date: 2026-07-11T11:05:43.045871
 url: "/cdr-researcher-census/researchers/chaochao-du-a5070372/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 15 |
 | Citations | 914 |
 | Publications | 33 |
-| CDR Focus | 18.2% |
+| CDR Focus | 9.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

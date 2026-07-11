@@ -1,7 +1,7 @@
 ---
 title: "Yuying Qu"
 description: "Yuying Qu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.115917
+date: 2026-07-11T11:05:44.415442
 url: "/cdr-researcher-census/researchers/yuying-qu-a5000506/"
 layout: "researcher"
 hiddenInHomeList: true

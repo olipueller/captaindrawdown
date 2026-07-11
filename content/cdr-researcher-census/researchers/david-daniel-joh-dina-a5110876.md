@@ -1,7 +1,7 @@
 ---
 title: "David Daniel Joh Dina"
 description: "David Daniel Joh Dina is a Mid-career Biochar researcher at University of Douala in CM. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.911921
+date: 2026-07-11T11:05:44.257486
 url: "/cdr-researcher-census/researchers/david-daniel-joh-dina-a5110876/"
 layout: "researcher"
 hiddenInHomeList: true

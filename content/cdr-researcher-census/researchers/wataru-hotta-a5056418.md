@@ -1,7 +1,7 @@
 ---
 title: "Wataru Hotta"
 description: "Wataru Hotta is a Mid-career Soil Carbon researcher at National Institute for Environmental Studies in JP. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.818459
+date: 2026-07-11T11:05:44.189273
 url: "/cdr-researcher-census/researchers/wataru-hotta-a5056418/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 138 |
 | Publications | 19 |
-| CDR Focus | 5.3% |
+| CDR Focus | 10.5% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Leaving disturbance legacies conserves boreal conifers and maximizes net CO2 absorption under climate change and more frequent and larger windthrow regimes** (2023)
    7 citations · Soil Carbon
+
+2. **Leaving disturbance legacies conserves boreal conifers and maximizes net CO2 absorption under climate change and more frequent and intense windthrow regimes.** (2022)
+   0 citations · General CDR
 
 ## External Profiles
 

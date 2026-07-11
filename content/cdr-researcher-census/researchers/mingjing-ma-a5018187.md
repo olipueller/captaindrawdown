@@ -1,7 +1,7 @@
 ---
 title: "Mingjing Ma"
 description: "Mingjing Ma is a Mid-career General CDR researcher at Shenyang Institute of Engineering in CN. With 38 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.495541
+date: 2026-07-11T11:05:43.821438
 url: "/cdr-researcher-census/researchers/mingjing-ma-a5018187/"
 layout: "researcher"
 hiddenInHomeList: true

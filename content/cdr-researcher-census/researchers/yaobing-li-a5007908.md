@@ -1,7 +1,7 @@
 ---
 title: "Yaobing Li"
 description: "Yaobing Li is a Senior Biochar researcher at Ocean University of China in CN. With 45 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.212965
+date: 2026-07-11T11:05:43.621444
 url: "/cdr-researcher-census/researchers/yaobing-li-a5007908/"
 layout: "researcher"
 hiddenInHomeList: true

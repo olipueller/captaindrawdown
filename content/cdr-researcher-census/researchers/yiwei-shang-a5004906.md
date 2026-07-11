@@ -1,7 +1,7 @@
 ---
 title: "Yiwei Shang"
 description: "Yiwei Shang is a Mid-career Soil Carbon researcher at Aarhus University in DK. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.139221
+date: 2026-07-11T11:05:43.566646
 url: "/cdr-researcher-census/researchers/yiwei-shang-a5004906/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "V. Shashirekha"
 description: "V. Shashirekha is a Senior Ocean CDR researcher at SRM Institute of Science and Technology in IN. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.920148
+date: 2026-07-11T11:05:43.430701
 url: "/cdr-researcher-census/researchers/v-shashirekha-a5036139/"
 layout: "researcher"
 hiddenInHomeList: true

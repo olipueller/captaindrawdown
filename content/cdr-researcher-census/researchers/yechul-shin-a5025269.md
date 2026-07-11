@@ -1,7 +1,7 @@
 ---
 title: "Yechul Shin"
 description: "Yechul Shin is a Mid-career General CDR researcher at Seoul National University in KR. With 55 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.676413
+date: 2026-07-11T11:05:43.258728
 url: "/cdr-researcher-census/researchers/yechul-shin-a5025269/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,21 +45,27 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 12 |
 | Citations | 531 |
 | Publications | 55 |
-| CDR Focus | 7.3% |
+| CDR Focus | 5.5% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
-1. **Fast recovery of North Atlantic sea level in response to atmospheric carbon dioxide removal** (2024)
-   0 citations · General CDR
+1. **Soil Moisture Controls on Permafrost Carbon Cycle under Greenhouse Warming and Zero Emission Pathways** (2026)
+   1 citations · General CDR
 
-2. **Fast recovery of North Atlantic sea level in response to atmospheric CO2 removal** (2024)
+2. **Soil Moisture Controls on Permafrost Carbon Cycle under Greenhouse Warming and Zero Emission Pathways** (2026)
    0 citations
 
-3. **Fast recovery of North Atlantic sea level in response to atmospheric CO2 removal** (2024)
+3. **Fast recovery of North Atlantic sea level in response to atmospheric carbon dioxide removal** (2024)
    0 citations · General CDR
 
-4. **Emergence of the ocean CO2 uptake hole under global warming** (2024)
+4. **Fast recovery of North Atlantic sea level in response to atmospheric CO2 removal** (2024)
+   0 citations
+
+5. **Fast recovery of North Atlantic sea level in response to atmospheric CO2 removal** (2024)
+   0 citations · General CDR
+
+6. **Emergence of the ocean CO2 uptake hole under global warming** (2024)
    0 citations · Ocean CDR
 
 ## External Profiles

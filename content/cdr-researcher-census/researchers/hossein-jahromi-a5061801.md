@@ -1,7 +1,7 @@
 ---
 title: "Hossein Jahromi"
 description: "Hossein Jahromi is a Mid-career Biochar researcher at Auburn University in US. With 25 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.527203
+date: 2026-07-11T11:05:43.130627
 url: "/cdr-researcher-census/researchers/hossein-jahromi-a5061801/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Citations | 701 |
 | Publications | 25 |
 | CDR Focus | 8.0% |
-| Trajectory | Exiting |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
@@ -55,6 +55,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 2. **Biocarbon-catalyzed methane decomposition towards clean hydrogen and enhanced biocarbon production** (2024)
    8 citations · Biochar
+
+3. **Evaluation of loblolly pine wood biochar properties derived from the slow-pyrolysis process for the synergetic benefit of carbon sequestration and soil conditioning** (2025)
+   5 citations · Biochar
 
 ## External Profiles
 

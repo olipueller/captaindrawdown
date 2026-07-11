@@ -1,7 +1,7 @@
 ---
 title: "Shijing Liang"
-description: "Shijing Liang is a Mid-career Soil Carbon researcher at Hong Kong Polytechnic University in HK. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.855247
+description: "Shijing Liang is a Mid-career General CDR researcher at Hong Kong Polytechnic University in HK. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:43.387069
 url: "/cdr-researcher-census/researchers/shijing-liang-a5062836/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Hong Kong Polytechnic University · 🇭🇰 HK
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,13 +45,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 402 |
 | Publications | 20 |
-| CDR Focus | 5.0% |
-| Trajectory | Stable |
+| CDR Focus | 15.0% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Forest Restoration Potential in China: Implications for Carbon Capture** (2022)
    24 citations · Soil Carbon
+
+2. **Response of terrestrial ecosystems carbon budget to large-scale direct CO2 removal using Community Earth System Model** (2026)
+   0 citations · General CDR
+
+3. **Response of terrestrial ecosystems carbon budget to large-scale direct CO&lt;sub&gt;2&lt;/sub&gt; removal using Community Earth System Model** (2025)
+   0 citations · General CDR
 
 ## External Profiles
 

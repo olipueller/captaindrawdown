@@ -1,7 +1,7 @@
 ---
 title: "Guanlong Gao"
 description: "Guanlong Gao is a Mid-career Soil Carbon researcher. With 22 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.140165
+date: 2026-07-11T11:05:44.433414
 url: "/cdr-researcher-census/researchers/guanlong-gao-a5063798/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -37,7 +37,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 103 |
 | Publications | 22 |
-| CDR Focus | 13.6% |
+| CDR Focus | 9.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

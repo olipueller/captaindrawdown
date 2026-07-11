@@ -1,7 +1,7 @@
 ---
 title: "Sophie Gill"
 description: "Sophie Gill is a Mid-career Ocean CDR researcher at Endometriosis UK in GB. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.756741
+date: 2026-07-11T11:05:43.316962
 url: "/cdr-researcher-census/researchers/sophie-gill-a5073665/"
 layout: "researcher"
 hiddenInHomeList: true

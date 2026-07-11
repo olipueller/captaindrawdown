@@ -1,7 +1,7 @@
 ---
 title: "Aneta Kowalska"
 description: "Aneta Kowalska is a Mid-career Soil Carbon researcher at Jan Długosz University in PL. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.498262
+date: 2026-07-11T11:05:43.823638
 url: "/cdr-researcher-census/researchers/aneta-kowalska-a5057152/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 193 |
 | Publications | 29 |
-| CDR Focus | 20.7% |
+| CDR Focus | 24.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -62,10 +62,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Maximizing soil carbon storage: Leveraging microbial factors and limitations for carbon remediation** (2024)
    1 citations · Soil Carbon
 
-5. **Soil carbon sequestration via plant–soil interactions** (2025)
+5. **Chapter Five - Implication of sewage sludge use for sustainable soil management: Soil health and carbon sequestration under the EU 'Soil Deal for Europe'** (2025)
    0 citations · Soil Carbon
 
-6. **Soil enzymes in a changing climate** (2025)
+6. **Chapter Five - Implication of sewage sludge use for sustainable soil management: Soil health and carbon sequestration under the EU 'Soil Deal for Europe'** (2025)
+   0 citations · Soil Carbon
+
+7. **Soil carbon sequestration via plant–soil interactions** (2025)
+   0 citations · Soil Carbon
+
+8. **Soil enzymes in a changing climate** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

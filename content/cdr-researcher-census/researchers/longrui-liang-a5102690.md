@@ -1,7 +1,7 @@
 ---
 title: "Longrui Liang"
 description: "Longrui Liang is an Early-career Biochar researcher at Shanghai Normal University in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.561807
+date: 2026-07-11T11:05:43.923083
 url: "/cdr-researcher-census/researchers/longrui-liang-a5102690/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 4 |
 | Citations | 180 |
 | Publications | 6 |
-| CDR Focus | 33.3% |
+| CDR Focus | 16.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Rakesh Chandra Nainwal"
 description: "Rakesh Chandra Nainwal is a Mid-career Soil Carbon researcher at Indian Institute of Toxicology Research in IN. With 25 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.751121
+date: 2026-07-11T11:05:44.138825
 url: "/cdr-researcher-census/researchers/rakesh-chandra-nainwal-a5049844/"
 layout: "researcher"
 hiddenInHomeList: true

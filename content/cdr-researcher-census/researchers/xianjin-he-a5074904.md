@@ -1,7 +1,7 @@
 ---
 title: "Xianjin He"
 description: "Xianjin He is a Mid-career Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 82 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.236040
+date: 2026-07-11T11:05:42.933795
 url: "/cdr-researcher-census/researchers/xianjin-he-a5074904/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 17 |
 | Citations | 1,502 |
 | Publications | 82 |
-| CDR Focus | 9.8% |
-| Trajectory | Stable |
+| CDR Focus | 8.5% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
@@ -73,6 +73,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 8. **Divergent responses of carbon and nitrogen functional genes composition to enhanced rock weathering** (2025)
    6 citations · Enhanced Weathering
+
+9. **The phosphorus bottleneck in bioenergy-based CDR – and how enhanced rock weathering could break it** (2026)
+   0 citations · Enhanced Weathering
 
 ## External Profiles
 

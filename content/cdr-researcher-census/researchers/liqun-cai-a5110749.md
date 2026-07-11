@@ -1,7 +1,7 @@
 ---
 title: "Liqun Cai"
 description: "Liqun Cai is a Senior Soil Carbon researcher at Sun Yat-sen University in CN. With 105 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.215427
+date: 2026-07-11T11:05:42.920753
 url: "/cdr-researcher-census/researchers/liqun-cai-a5110749/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -71,7 +71,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 8. **Soil organic carbon (SOC) and soil aggregate stability as effected by returned farmland to forestland or grassland in the Loess Plateau Centre Gansu region of China** (2024)
    0 citations · Soil Carbon
 
-9. **Changes in soil particulate and mineral-associated organic carbon contents under nitrogen addition** (2022)
+9. **Changes in Soil Particulate and Mineral-Associated Organic Carbon Contents Under Nitrogen Addition** (2022)
+   0 citations
+
+10. **Changes in soil particulate and mineral-associated organic carbon contents under nitrogen addition** (2022)
    0 citations · Soil Carbon
 
 ## External Profiles

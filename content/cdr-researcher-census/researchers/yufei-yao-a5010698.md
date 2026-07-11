@@ -1,7 +1,7 @@
 ---
 title: "Yufei Yao"
 description: "Yufei Yao is a Senior Soil Carbon researcher at Northwest University in CN. With 61 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.312221
+date: 2026-07-11T11:05:42.981934
 url: "/cdr-researcher-census/researchers/yufei-yao-a5010698/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Lin Wang"
 description: "Lin Wang is a Senior Soil Carbon researcher at Shanghai Normal University in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.991256
+date: 2026-07-11T11:05:44.320049
 url: "/cdr-researcher-census/researchers/lin-wang-a5100403/"
 layout: "researcher"
 hiddenInHomeList: true

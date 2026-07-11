@@ -1,7 +1,7 @@
 ---
 title: "Ziping Liu"
 description: "Ziping Liu is a Senior Soil Carbon researcher at Pharmaron (United Kingdom) in CN. With 109 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.127852
+date: 2026-07-11T11:05:42.871656
 url: "/cdr-researcher-census/researchers/ziping-liu-a5101856/"
 layout: "researcher"
 hiddenInHomeList: true

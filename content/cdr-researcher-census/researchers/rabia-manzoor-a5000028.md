@@ -1,7 +1,7 @@
 ---
 title: "Rabia Manzoor"
 description: "Rabia Manzoor is an Early-career Soil Carbon researcher at Pir Mehr Ali Shah Arid Agriculture University in PK. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.015318
+date: 2026-07-11T11:05:43.497097
 url: "/cdr-researcher-census/researchers/rabia-manzoor-a5000028/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Adrianna Trusiak"
 description: "Adrianna Trusiak is a Mid-career Soil Carbon researcher at Great Lakes Bioenergy Research Center in US. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.023685
+date: 2026-07-11T11:05:43.502631
 url: "/cdr-researcher-census/researchers/adrianna-trusiak-a5060404/"
 layout: "researcher"
 hiddenInHomeList: true

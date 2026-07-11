@@ -1,7 +1,7 @@
 ---
 title: "Shanchao Yue"
 description: "Shanchao Yue is a Senior Soil Carbon researcher at Shanxi Agricultural University in CN. With 80 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.975756
+date: 2026-07-11T11:05:42.803280
 url: "/cdr-researcher-census/researchers/shanchao-yue-a5034014/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 37 |
 | Citations | 5,421 |
 | Publications | 80 |
-| CDR Focus | 6.2% |
+| CDR Focus | 7.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -59,7 +59,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Periodic straw-derived biochar improves crop yield, sequesters carbon, and mitigates emissions** (2025)
    7 citations · Biochar
 
-5. **Long-Term Film Mulching with Manure Amendment Increase Crop Yield and Water Use Eﬃciency But Decrease the Soil Carbon and Nitrogen Sequestration Potential in Semiarid Farmland** (2022)
+5. **Rhizosphere microbial community and function activation in rain-fed agricultural areas confer growth advantages to spring maize** (2025)
+   1 citations · Soil Carbon
+
+6. **Long-Term Film Mulching with Manure Amendment Increase Crop Yield and Water Use Eﬃciency But Decrease the Soil Carbon and Nitrogen Sequestration Potential in Semiarid Farmland** (2022)
    0 citations · Soil Carbon
 
 ## External Profiles

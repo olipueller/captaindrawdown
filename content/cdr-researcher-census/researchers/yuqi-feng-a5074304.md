@@ -1,7 +1,7 @@
 ---
 title: "Yuqi Feng"
 description: "Yuqi Feng is an Early-career Biochar researcher at City University of Hong Kong in HK. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.179588
+date: 2026-07-11T11:05:43.596622
 url: "/cdr-researcher-census/researchers/yuqi-feng-a5074304/"
 layout: "researcher"
 hiddenInHomeList: true

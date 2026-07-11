@@ -1,7 +1,7 @@
 ---
 title: "Liuming Yang"
 description: "Liuming Yang is a Senior Soil Carbon researcher at Fujian Normal University in CN. With 55 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.215290
+date: 2026-07-11T11:05:42.920615
 url: "/cdr-researcher-census/researchers/liuming-yang-a5115595/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 20 |
 | Citations | 1,617 |
 | Publications | 55 |
-| CDR Focus | 5.5% |
-| Trajectory | Exiting |
+| CDR Focus | 7.3% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
@@ -53,7 +53,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 2. **Converting paddy to upland alters soil neutral sugars by influencing microbial community and life history strategy** (2024)
    4 citations · Soil Carbon
 
-3. **The Accumulation of Microbial Necromass and Plant Lignin are Higher But Less Influenced by Fertilisation in Relatively Mature than Young Subtropical Forests** (2021)
+3. **Effects of arbuscular mycorrhizal tree dominance and soil depth on microbial biomass and soil organic carbon fractions in a subtropical forest across the wet and dry seasons** (2026)
+   1 citations · Soil Carbon
+
+4. **The Accumulation of Microbial Necromass and Plant Lignin are Higher But Less Influenced by Fertilisation in Relatively Mature than Young Subtropical Forests** (2021)
    0 citations · Soil Carbon
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Shirzad"
 description: "Mohammad Shirzad is a Mid-career General CDR researcher at Universidade do Porto in PT. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.512780
+date: 2026-07-11T11:05:43.118622
 url: "/cdr-researcher-census/researchers/mohammad-shirzad-a5089614/"
 layout: "researcher"
 hiddenInHomeList: true

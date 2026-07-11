@@ -1,7 +1,7 @@
 ---
 title: "Greg Pelletier"
 description: "Greg Pelletier is a Senior Ocean CDR researcher at Independent Scientist in US. With 54 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.260451
+date: 2026-07-11T11:05:42.949007
 url: "/cdr-researcher-census/researchers/greg-pelletier-a5013844/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 17 |
 | Citations | 1,392 |
 | Publications | 54 |
-| CDR Focus | 20.4% |
+| CDR Focus | 9.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

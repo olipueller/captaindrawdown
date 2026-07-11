@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Reza Maghsoodi"
 description: "Mohammad Reza Maghsoodi is a Mid-career Soil Carbon researcher at University of Tabriz in IR. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.614782
+date: 2026-07-11T11:05:43.216559
 url: "/cdr-researcher-census/researchers/mohammad-reza-maghsoodi-a5103901/"
 layout: "researcher"
 hiddenInHomeList: true

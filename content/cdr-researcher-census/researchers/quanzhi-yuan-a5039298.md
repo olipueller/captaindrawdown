@@ -1,7 +1,7 @@
 ---
 title: "Quanzhi Yuan"
 description: "Quanzhi Yuan is a Senior Soil Carbon researcher at Sichuan Normal University in CN. With 35 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.522152
+date: 2026-07-11T11:05:43.126953
 url: "/cdr-researcher-census/researchers/quanzhi-yuan-a5039298/"
 layout: "researcher"
 hiddenInHomeList: true

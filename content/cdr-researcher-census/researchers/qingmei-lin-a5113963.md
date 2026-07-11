@@ -1,7 +1,7 @@
 ---
 title: "Qingmei Lin"
 description: "Qingmei Lin is a Senior Soil Carbon researcher at Foshan Maternity and Child Health Care Hospital in CN. With 76 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.307748
+date: 2026-07-11T11:05:42.979542
 url: "/cdr-researcher-census/researchers/qingmei-lin-a5113963/"
 layout: "researcher"
 hiddenInHomeList: true

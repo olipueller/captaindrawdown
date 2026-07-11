@@ -1,7 +1,7 @@
 ---
 title: "Kamal Choudhary"
 description: "Kamal Choudhary is a Mid-career Soil Carbon researcher at Jamia Hamdard in IN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.498848
+date: 2026-07-11T11:05:43.824395
 url: "/cdr-researcher-census/researchers/kamal-choudhary-a5043958/"
 layout: "researcher"
 hiddenInHomeList: true

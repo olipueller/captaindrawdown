@@ -1,7 +1,7 @@
 ---
 title: "Richard Heede"
 description: "Richard Heede is a Mid-career General CDR researcher at Climate Centre in NL. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.185123
+date: 2026-07-11T11:05:42.903115
 url: "/cdr-researcher-census/researchers/richard-heede-a5035683/"
 layout: "researcher"
 hiddenInHomeList: true

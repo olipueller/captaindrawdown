@@ -1,7 +1,7 @@
 ---
 title: "Nicholas E. Bruns"
 description: "Nicholas E. Bruns is a Senior Soil Carbon researcher at William & Mary in US. With 6 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.245627
+date: 2026-07-11T11:05:42.939247
 url: "/cdr-researcher-census/researchers/nicholas-e-bruns-a5002023/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **The role of geomorphology in mediating biomass allocation impacts on salt-marsh resilience and carbon accumulation** (2025)
+1. **Manuscript model outputs, model source code, and figure scripts: The role of geomorphology in mediating biomass allocation impacts on salt-marsh resilience and carbon accumulation** (2026)
+   0 citations · Soil Carbon
+
+2. **The role of geomorphology in mediating biomass allocation impacts on salt-marsh resilience and carbon accumulation** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

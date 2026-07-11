@@ -1,7 +1,7 @@
 ---
 title: "Zhiyan Peng"
 description: "Zhiyan Peng is a Senior Soil Carbon researcher at Yunnan University in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.632998
+date: 2026-07-11T11:05:44.040217
 url: "/cdr-researcher-census/researchers/zhiyan-peng-a5027004/"
 layout: "researcher"
 hiddenInHomeList: true

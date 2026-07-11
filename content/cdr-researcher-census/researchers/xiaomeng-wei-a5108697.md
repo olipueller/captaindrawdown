@@ -1,7 +1,7 @@
 ---
 title: "Xiaomeng Wei"
 description: "Xiaomeng Wei is a Senior Soil Carbon researcher at Union Hospital in CN. With 91 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.045177
+date: 2026-07-11T11:05:42.833009
 url: "/cdr-researcher-census/researchers/xiaomeng-wei-a5108697/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 30 |
 | Citations | 3,441 |
 | Publications | 91 |
-| CDR Focus | 6.6% |
-| Trajectory | Exiting |
+| CDR Focus | 7.7% |
+| Trajectory | Declining |
 
 ## Top CDR Publications
 
@@ -65,7 +65,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 5. **[Characteristics of Paddy Soil Organic Carbon Mineralization and Influencing Factors Under Different Water Conditions and Microbial Biomass Levels].** (2021)
    2 citations · Soil Carbon
 
-6. **Organic Amendment Rather than Mineral Fertilization Increased Microbial Necromass Carbon in Paddy Soil Via Altering Microbial Traits** (2022)
+6. **Divergent accumulation of particulate and mineral-associated organic carbon driven by intercropping duration in apple orchards** (2026)
+   0 citations · Soil Carbon
+
+7. **Organic Amendment Rather than Mineral Fertilization Increased Microbial Necromass Carbon in Paddy Soil Via Altering Microbial Traits** (2022)
    0 citations · Soil Carbon
 
 ## External Profiles

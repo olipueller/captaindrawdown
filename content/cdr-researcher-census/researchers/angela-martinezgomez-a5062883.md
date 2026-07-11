@@ -1,7 +1,7 @@
 ---
 title: "Ángela Martínez‐Gómez"
 description: "Ángela Martínez‐Gómez is a Mid-career Biochar researcher at University of Castilla-La Mancha in ES. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.832912
+date: 2026-07-11T11:05:44.199955
 url: "/cdr-researcher-census/researchers/angela-martinezgomez-a5062883/"
 layout: "researcher"
 hiddenInHomeList: true

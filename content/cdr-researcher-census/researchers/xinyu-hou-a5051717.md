@@ -1,7 +1,7 @@
 ---
 title: "Xinyu Hou"
 description: "Xinyu Hou is a Mid-career Soil Carbon researcher at Weifang Medical University in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.991614
+date: 2026-07-11T11:05:43.482769
 url: "/cdr-researcher-census/researchers/xinyu-hou-a5051717/"
 layout: "researcher"
 hiddenInHomeList: true

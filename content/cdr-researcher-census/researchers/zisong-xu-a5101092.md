@@ -1,7 +1,7 @@
 ---
 title: "Zisong Xu"
 description: "Zisong Xu is a Mid-career Biochar researcher at University of Leeds in GB. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.664173
+date: 2026-07-11T11:05:43.249425
 url: "/cdr-researcher-census/researchers/zisong-xu-a5101092/"
 layout: "researcher"
 hiddenInHomeList: true

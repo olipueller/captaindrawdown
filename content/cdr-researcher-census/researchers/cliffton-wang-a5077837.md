@@ -1,7 +1,7 @@
 ---
 title: "Cliffton Wang"
 description: "Cliffton Wang is a Mid-career General CDR researcher at University of California System in US. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.729621
+date: 2026-07-11T11:05:43.296079
 url: "/cdr-researcher-census/researchers/cliffton-wang-a5077837/"
 layout: "researcher"
 hiddenInHomeList: true

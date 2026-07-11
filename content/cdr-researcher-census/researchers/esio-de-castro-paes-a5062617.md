@@ -1,7 +1,7 @@
 ---
 title: "Ésio de Castro Paes"
 description: "Ésio de Castro Paes is a Mid-career Soil Carbon researcher at Universidade Federal de Viçosa in BR. With 37 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.982250
+date: 2026-07-11T11:05:44.313618
 url: "/cdr-researcher-census/researchers/esio-de-castro-paes-a5062617/"
 layout: "researcher"
 hiddenInHomeList: true

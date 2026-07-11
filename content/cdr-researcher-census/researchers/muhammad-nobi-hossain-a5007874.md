@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Nobi Hossain"
 description: "Muhammad Nobi Hossain is a Mid-career Biochar researcher at Pohang University of Science and Technology in KR. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.807409
+date: 2026-07-11T11:05:43.353360
 url: "/cdr-researcher-census/researchers/muhammad-nobi-hossain-a5007874/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 8 |
 | Citations | 431 |
 | Publications | 16 |
-| CDR Focus | 12.5% |
+| CDR Focus | 6.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Weiqi Wang"
 description: "Weiqi Wang is an Eminent Soil Carbon researcher at Fujian Normal University in CN. With 182 publications and an h-index of 43, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.934482
+date: 2026-07-11T11:05:42.788595
 url: "/cdr-researcher-census/researchers/weiqi-wang-a5021159/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 43 |
 | Citations | 7,394 |
 | Publications | 182 |
-| CDR Focus | 8.8% |
-| Trajectory | Declining |
+| CDR Focus | 17.0% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
@@ -71,14 +71,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 7. **Significant accrual of soil organic carbon through long‐term rice cultivation in paddy fields in China** (2024)
    55 citations · Soil Carbon
 
-8. **Effects of slag and biochar amendments on microorganisms and fractions of soil organic carbon during flooding in a paddy field after two years in southeastern China** (2022)
+8. **Archaea and their interactions with bacteria in a karst ecosystem** (2023)
+   46 citations
+
+9. **Effects of slag and biochar amendments on microorganisms and fractions of soil organic carbon during flooding in a paddy field after two years in southeastern China** (2022)
    45 citations · Biochar
 
-9. **Effects of addition of nitrogen-enriched biochar on bacteria and fungi community structure and C, N, P, and Fe stoichiometry in subtropical paddy soils** (2021)
+10. **Combined slag and biochar amendments to subtropical paddy soils lead to a short-term change of bacteria community structure and rise of soil organic carbon** (2022)
    30 citations · Biochar
-
-10. **Response of topsoil Fe-bound organic carbon pool and microbial community to Spartina alterniflora invasion in coastal wetlands** (2023)
-   27 citations · Soil Carbon
 
 ## External Profiles
 

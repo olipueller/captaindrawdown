@@ -1,7 +1,7 @@
 ---
 title: "Yewen Shang"
 description: "Yewen Shang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.889502
+date: 2026-07-11T11:05:44.241596
 url: "/cdr-researcher-census/researchers/yewen-shang-a5091275/"
 layout: "researcher"
 hiddenInHomeList: true

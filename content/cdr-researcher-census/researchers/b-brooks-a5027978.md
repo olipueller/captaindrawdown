@@ -1,7 +1,7 @@
 ---
 title: "B. Brooks"
 description: "B. Brooks is a Senior General CDR researcher at Carbon Solutions (United States) in US. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.083522
+date: 2026-07-11T11:05:43.545834
 url: "/cdr-researcher-census/researchers/b-brooks-a5027978/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,17 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Top CDR Publications
 
-1. **The performance of solvent-based direct air capture across geospatial and temporal climate regimes** (2024)
+1. **Effect of Lower Tidal Volume Ventilation Facilitated by Extracorporeal Carbon Dioxide Removal vs Standard Care Ventilation on 90-Day Mortality in Patients With Acute Hypoxemic Respiratory Failure** (2021)
+   209 citations
+
+2. **The performance of solvent-based direct air capture across geospatial and temporal climate regimes** (2024)
    19 citations · DAC
 
-2. **Meeting Net-Zero America Direct Air Capture Targets with Sedimentary Basin Geothermal Heat While Considering Environmental Justice** (2024)
+3. **Meeting Net-Zero America Direct Air Capture Targets with Sedimentary Basin Geothermal Heat While Considering Environmental Justice** (2024)
    2 citations · DAC
+
+4. **Spatial Granularity Matters: Weather Data Resolution Impacts Direct Air Capture Performance and Siting Decisions** (2024)
+   0 citations
 
 ## External Profiles
 

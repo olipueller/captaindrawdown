@@ -1,7 +1,7 @@
 ---
 title: "Jiabin Liu"
 description: "Jiabin Liu is a Mid-career Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 24 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.672430
+date: 2026-07-11T11:05:43.255964
 url: "/cdr-researcher-census/researchers/jiabin-liu-a5100659/"
 layout: "researcher"
 hiddenInHomeList: true

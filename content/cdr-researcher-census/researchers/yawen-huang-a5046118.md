@@ -1,7 +1,7 @@
 ---
 title: "Yawen Huang"
 description: "Yawen Huang is a Senior Soil Carbon researcher at Nanjing Agricultural University in CN. With 24 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.271215
+date: 2026-07-11T11:05:42.956609
 url: "/cdr-researcher-census/researchers/yawen-huang-a5046118/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 1,345 |
 | Publications | 24 |
-| CDR Focus | 20.8% |
-| Trajectory | Growing |
+| CDR Focus | 25.0% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
@@ -59,10 +59,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **Location-optimized remediation measures for soil multifunctionality and carbon sequestration of saline-alkali land in China** (2025)
    21 citations · Soil Carbon
 
-4. **Global patterns of microbial metabolic regulation under conservation tillage and implications for soil carbon cycling** (2026)
+4. **Waste baijiu distillers’ grains-derived biochar for efficient removal of organophosphate esters from water through adsorption** (2024)
+   14 citations · Biochar
+
+5. **Global patterns of microbial metabolic regulation under conservation tillage and implications for soil carbon cycling** (2026)
    0 citations · Soil Carbon
 
-5. **Can Alternative Tillage Sequester Carbon Deeper? A Global Synthesis of Deep‐Soil Carbon Stocks and Fractions** (2025)
+6. **Can Alternative Tillage Sequester Carbon Deeper? A Global Synthesis of Deep‐Soil Carbon Stocks and Fractions** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

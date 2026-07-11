@@ -1,7 +1,7 @@
 ---
 title: "Marija Galić"
 description: "Marija Galić is a Senior Soil Carbon researcher. With 53 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.485626
+date: 2026-07-11T11:05:43.811739
 url: "/cdr-researcher-census/researchers/marija-galic-a5029613/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,18 +40,33 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 195 |
 | Publications | 53 |
-| CDR Focus | 5.7% |
+| CDR Focus | 11.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Comparison of soil carbon dioxide emissions between conventional and conservation tillage systems in Križevci, Croatia** (2026)
+1. **Carbon Balance of Miscanthus Biomass from Rhizomes and Seedlings** (2022)
+   10 citations · BECCS
+
+2. **The Role of Grassland Land Use in Enhancing Soil Resilience and Climate Adaptation in Periurban Landscapes** (2025)
+   2 citations · Soil Carbon
+
+3. **Comparing the Grain Yields and Other Properties of Old and New Wheat Cultivars** (2023)
+   2 citations · General CDR
+
+4. **Comparison of soil carbon dioxide emissions between conventional and conservation tillage systems in Križevci, Croatia** (2026)
    0 citations · Soil Carbon
 
-2. **Cropping systems and amendment management impact on temporal soil carbon emissions and soil water content variability in Croatian croplands** (2025)
+5. **Soil data included in article "Bogunovic et al. 2025. The Role of Grassland Land Use in Enhancing Soil Resilience and Climate Adaptation in Periurban Landscapes. Agronomy 15, 1589"** (2026)
+   0 citations
+
+6. **Soil data included in article "Bogunovic et al. 2025. The Role of Grassland Land Use in Enhancing Soil Resilience and Climate Adaptation in Periurban Landscapes. Agronomy 15, 1589"** (2026)
+   0 citations
+
+7. **Cropping systems and amendment management impact on temporal soil carbon emissions and soil water content variability in Croatian croplands** (2025)
    0 citations · Soil Carbon
 
-3. **Soil respiration under different agricultural land use types in Croatia** (2021)
+8. **Soil respiration under different agricultural land use types in Croatia** (2021)
    0 citations · Soil Carbon
 
 ## External Profiles

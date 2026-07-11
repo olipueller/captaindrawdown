@@ -1,7 +1,7 @@
 ---
 title: "Fabrice Pernet"
 description: "Fabrice Pernet is an Eminent Ocean CDR researcher at Ifremer Centre de Bretagne in FR. With 153 publications and an h-index of 43, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.995483
+date: 2026-07-11T11:05:42.811594
 url: "/cdr-researcher-census/researchers/fabrice-pernet-a5076989/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 43 |
 | Citations | 4,643 |
 | Publications | 153 |
-| CDR Focus | 6.5% |
+| CDR Focus | 5.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Rafael M. Eufrasio"
 description: "Rafael M. Eufrasio is a Mid-career General CDR researcher at University of Sheffield in GB. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.398284
+date: 2026-07-11T11:05:43.038403
 url: "/cdr-researcher-census/researchers/rafael-m-eufrasio-a5014992/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 4 |
 | Citations | 941 |
 | Publications | 6 |
-| CDR Focus | 83.3% |
-| Trajectory | Growing |
+| CDR Focus | 100.0% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
@@ -59,11 +59,17 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 3. **Transforming US agriculture for carbon removal with enhanced weathering** (2025)
    48 citations · Enhanced Weathering
 
-4. **Larger rock extraction sites could improve the efficiency of enhanced rock weathering in the United Kingdom** (2025)
+4. **Sustainability performance of enhanced weathering across countries: A triple bottom line approach** (2024)
+   8 citations · Enhanced Weathering
+
+5. **Larger rock extraction sites could improve the efficiency of enhanced rock weathering in the United Kingdom** (2025)
    2 citations · Enhanced Weathering
 
-5. **Transforming U.S. agriculture with crushed rock for CO$_2$ sequestration and increased production** (2023)
+6. **Transforming U.S. agriculture with crushed rock for CO$_2$ sequestration and increased production** (2023)
    1 citations · Enhanced Weathering
+
+7. **Source Data for figures in this Article:** (2022)
+   0 citations · Enhanced Weathering
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Qiuhong Feng"
 description: "Qiuhong Feng is a Senior Soil Carbon researcher at Chengdu Research Base of Giant Panda Breeding in CN. With 52 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.802442
+date: 2026-07-11T11:05:43.349375
 url: "/cdr-researcher-census/researchers/qiuhong-feng-a5027987/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,7 +53,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 2. **Influence of soil substrate availability and plant species diversity on soil microbial biomass and enzyme activity in a subalpine natural secondary forest** (2025)
    6 citations
 
-3. **[Effects of thinning on accumulation of soil microbial residue carbon of <i>Picea asperata</i> plantations in sub-alpine region of western Sichuan, China].** (2024)
+3. **Contrasting contributions of plant detritus carbon and microbial necromass carbon to soil organic carbon accumulation along subalpine forest restoration on the eastern Qinghai-Tibetan Plateau** (2026)
+   1 citations · Soil Carbon
+
+4. **[Effects of thinning on accumulation of soil microbial residue carbon of <i>Picea asperata</i> plantations in sub-alpine region of western Sichuan, China].** (2024)
    1 citations · Soil Carbon
 
 ## External Profiles

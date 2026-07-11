@@ -1,7 +1,7 @@
 ---
 title: "Felipe Aburto"
 description: "Felipe Aburto is a Senior Soil Carbon researcher at Texas A&M University in US. With 73 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.300475
+date: 2026-07-11T11:05:42.974953
 url: "/cdr-researcher-census/researchers/felipe-aburto-a5080684/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 17 |
 | Citations | 1,231 |
 | Publications | 73 |
-| CDR Focus | 8.2% |
+| CDR Focus | 6.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Xingshuai Tian"
 description: "Xingshuai Tian is a Mid-career Soil Carbon researcher at China Agricultural University in CN. With 37 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.540819
+date: 2026-07-11T11:05:43.141040
 url: "/cdr-researcher-census/researchers/xingshuai-tian-a5023272/"
 layout: "researcher"
 hiddenInHomeList: true

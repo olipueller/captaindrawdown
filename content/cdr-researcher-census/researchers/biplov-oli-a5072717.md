@@ -1,7 +1,7 @@
 ---
 title: "Biplov Oli"
 description: "Biplov Oli is an Early-career Soil Carbon researcher at Florida International University in US. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.159762
+date: 2026-07-11T11:05:43.581439
 url: "/cdr-researcher-census/researchers/biplov-oli-a5072717/"
 layout: "researcher"
 hiddenInHomeList: true

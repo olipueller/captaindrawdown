@@ -1,7 +1,7 @@
 ---
 title: "Yichao Rui"
 description: "Yichao Rui is a Senior Soil Carbon researcher at Purdue University in US. With 107 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.994092
+date: 2026-07-11T11:05:42.810949
 url: "/cdr-researcher-census/researchers/yichao-rui-a5021056/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 38 |
 | Citations | 4,670 |
 | Publications | 107 |
-| CDR Focus | 6.5% |
-| Trajectory | Stable |
+| CDR Focus | 7.5% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
@@ -65,10 +65,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 5. **Shifts in organic carbon protection mechanism in agricultural soils across climatic gradients** (2024)
    7 citations · Soil Carbon
 
-6. **Warming-induced unstable microbial community metabolically lowers straw-carbon sequestration in paddy soils** (2025)
+6. **Soil organic carbon dynamics: Influences of land-use change in natural and plantation forests of the Western Ghats, India** (2026)
    1 citations · Soil Carbon
 
-7. **Non-sustainable of no-till agriculture for soil carbon storage increase** (2022)
+7. **Warming-induced unstable microbial community metabolically lowers straw-carbon sequestration in paddy soils** (2025)
+   1 citations · Soil Carbon
+
+8. **Non-sustainable of no-till agriculture for soil carbon storage increase** (2022)
    0 citations · Soil Carbon
 
 ## External Profiles

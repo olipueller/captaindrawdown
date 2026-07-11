@@ -1,7 +1,7 @@
 ---
 title: "Momme Butenschön"
 description: "Momme Butenschön is a Senior General CDR researcher at CMCC Foundation - Euro-Mediterranean Center on Climate Change in IT. With 141 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.038167
+date: 2026-07-11T11:05:42.829795
 url: "/cdr-researcher-census/researchers/momme-butenschon-a5045008/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -59,25 +59,25 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 3. **The representation of alkalinity and the carbonate pump from CMIP5 to CMIP6 ESMs and implications for the ocean carbon cycle** (2022)
    9 citations · Ocean CDR
 
-4. **Assessing Earth system responses in deep mitigation scenarios with activity-driven simulation of carbon dioxide removal** (2026)
+4. **Lagrangian Flux Decomposition (LFD): Fast Probabilistic Marine Carbon Dioxide Removal Modeling via Stochastic Lagrangian Transport and Carbonate System Accounting** (2026)
    0 citations · General CDR
 
-5. **Statistical downscaling reproduces high-resolution ocean transport for particle tracking in the Bering Sea** (2026)
+5. **Assessing Earth system responses in deep mitigation scenarios with activity-driven simulation of carbon dioxide removal** (2026)
    0 citations · General CDR
 
-6. **Dispersal tracking in the future ocean combining statistical downscaling and dynamic modeling approaches** (2025)
+6. **Statistical downscaling reproduces high-resolution ocean transport for particle tracking in the Bering Sea** (2026)
    0 citations · General CDR
 
-7. **Impacts of Simulated Coastal Ocean Alkalinity Enhancement on the Seasonal Cycle of CO2 Air-Sea Gas Exchange and ocean pCO2 in European Waters under Low and High Emission Scenarios** (2025)
+7. **Dispersal tracking in the future ocean combining statistical downscaling and dynamic modeling approaches** (2025)
    0 citations · General CDR
 
-8. **Assessing Earth system feedbacks in deep mitigation scenarios with activity-driven simulation of carbon dioxide removal** (2025)
+8. **Impacts of Simulated Coastal Ocean Alkalinity Enhancement on the Seasonal Cycle of CO2 Air-Sea Gas Exchange and ocean pCO2 in European Waters under Low and High Emission Scenarios** (2025)
    0 citations · General CDR
 
-9. **Representing carbon dioxide removal in Earth System Models: towards an activity-driven framework.** (2025)
+9. **Assessing Earth system feedbacks in deep mitigation scenarios with activity-driven simulation of carbon dioxide removal** (2025)
    0 citations · General CDR
 
-10. **Comment on egusphere-2022-1041** (2022)
+10. **Representing carbon dioxide removal in Earth System Models: towards an activity-driven framework.** (2025)
    0 citations · General CDR
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Shaoqing Zhu"
 description: "Shaoqing Zhu is a Mid-career Soil Carbon researcher at Youjiang Medical College for Nationalities in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.224097
+date: 2026-07-11T11:05:43.628036
 url: "/cdr-researcher-census/researchers/shaoqing-zhu-a5100541/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 261 |
 | Publications | 19 |
-| CDR Focus | 15.8% |
+| CDR Focus | 10.5% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

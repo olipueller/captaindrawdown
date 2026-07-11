@@ -1,7 +1,7 @@
 ---
 title: "Dion M. F. Frampton"
 description: "Dion M. F. Frampton is a Senior General CDR researcher at CSIRO Oceans and Atmosphere in AU. With 20 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.298074
+date: 2026-07-11T11:05:42.972809
 url: "/cdr-researcher-census/researchers/dion-m-f-frampton-a5027881/"
 layout: "researcher"
 hiddenInHomeList: true

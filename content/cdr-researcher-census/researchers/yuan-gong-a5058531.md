@@ -1,7 +1,7 @@
 ---
 title: "Yuan Gong"
-description: "Yuan Gong is a Senior Unknown researcher at Chuzhou University in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.757735
+description: "Yuan Gong is a Senior Soil Carbon researcher at Chuzhou University in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:44.143091
 url: "/cdr-researcher-census/researchers/yuan-gong-a5058531/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Chuzhou University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Unknown**
+**Soil Carbon**
 
-Unknown
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
@@ -45,8 +45,8 @@ Unknown
 | h-index | 5 |
 | Citations | 147 |
 | Publications | 14 |
-| CDR Focus | 14.3% |
-| Trajectory | Stable |
+| CDR Focus | 7.1% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
@@ -55,6 +55,9 @@ Unknown
 
 2. **Uncertainty in parameterizing a flux‐based model of vegetation carbon phenology using ecosystem respiration** (2022)
    4 citations
+
+3. **Forest Type Regulates Soil Aggregate Stability and Soil Organic Carbon Stabilization in Subtropical Plantations** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

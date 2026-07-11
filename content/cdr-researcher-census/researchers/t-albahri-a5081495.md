@@ -1,7 +1,7 @@
 ---
 title: "T. Albahri"
 description: "T. Albahri is a Mid-career General CDR researcher at Royal Bank of Scotland (United Kingdom) in GB. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.149133
+date: 2026-07-11T11:05:42.883277
 url: "/cdr-researcher-census/researchers/t-albahri-a5081495/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 7 |
 | Citations | 2,094 |
 | Publications | 17 |
-| CDR Focus | 52.9% |
+| CDR Focus | 47.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

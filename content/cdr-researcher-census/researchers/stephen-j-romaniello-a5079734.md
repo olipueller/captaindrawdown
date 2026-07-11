@@ -1,7 +1,7 @@
 ---
 title: "Stephen J. Romaniello"
 description: "Stephen J. Romaniello is a Senior Enhanced Weathering researcher at Arizona State University in US. With 166 publications and an h-index of 39, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.995750
+date: 2026-07-11T11:05:42.811740
 url: "/cdr-researcher-census/researchers/stephen-j-romaniello-a5079734/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 39 |
 | Citations | 4,641 |
 | Publications | 166 |
-| CDR Focus | 7.2% |
-| Trajectory | Stable |
+| CDR Focus | 5.4% |
+| Trajectory | Declining |
 
 ## Top CDR Publications
 

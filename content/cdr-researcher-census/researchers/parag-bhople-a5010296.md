@@ -1,7 +1,7 @@
 ---
 title: "Parag Bhople"
 description: "Parag Bhople is a Mid-career Soil Carbon researcher at Teagasc - The Irish Agriculture and Food Development Authority in IE. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.717698
+date: 2026-07-11T11:05:43.287359
 url: "/cdr-researcher-census/researchers/parag-bhople-a5010296/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Luoqi Zhao"
 description: "Luoqi Zhao is a Mid-career Soil Carbon researcher. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.258349
+date: 2026-07-11T11:05:43.651458
 url: "/cdr-researcher-census/researchers/luoqi-zhao-a5057834/"
 layout: "researcher"
 hiddenInHomeList: true

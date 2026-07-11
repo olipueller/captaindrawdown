@@ -1,7 +1,7 @@
 ---
 title: "Yunting Fang"
 description: "Yunting Fang is an Eminent Soil Carbon researcher at Shenyang Aerospace University in CN. With 296 publications and an h-index of 58, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.892597
+date: 2026-07-11T11:05:42.777848
 url: "/cdr-researcher-census/researchers/yunting-fang-a5012369/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 58 |
 | Citations | 11,837 |
 | Publications | 296 |
-| CDR Focus | 6.8% |
+| CDR Focus | 6.4% |
 | Trajectory | Declining |
 
 ## Top CDR Publications

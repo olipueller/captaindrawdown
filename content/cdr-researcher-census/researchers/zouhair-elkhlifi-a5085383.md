@@ -1,7 +1,7 @@
 ---
 title: "Zouhair Elkhlifi"
 description: "Zouhair Elkhlifi is a Mid-career Soil Carbon researcher at Huazhong University of Science and Technology in CN. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.661821
+date: 2026-07-11T11:05:43.247448
 url: "/cdr-researcher-census/researchers/zouhair-elkhlifi-a5085383/"
 layout: "researcher"
 hiddenInHomeList: true

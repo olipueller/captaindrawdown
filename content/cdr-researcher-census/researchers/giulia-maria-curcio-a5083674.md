@@ -1,7 +1,7 @@
 ---
 title: "Giulia Maria Curcio"
 description: "Giulia Maria Curcio is a Mid-career General CDR researcher at University of Calabria in IT. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.762017
+date: 2026-07-11T11:05:43.321449
 url: "/cdr-researcher-census/researchers/giulia-maria-curcio-a5083674/"
 layout: "researcher"
 hiddenInHomeList: true

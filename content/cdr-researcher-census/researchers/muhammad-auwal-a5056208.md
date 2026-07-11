@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Auwal"
 description: "Muhammad Auwal is a Mid-career Soil Carbon researcher at Kano State University of Technology in NG. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.839601
+date: 2026-07-11T11:05:44.205373
 url: "/cdr-researcher-census/researchers/muhammad-auwal-a5056208/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 135 |
 | Publications | 8 |
-| CDR Focus | 37.5% |
-| Trajectory | Exiting |
+| CDR Focus | 12.5% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

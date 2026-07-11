@@ -1,7 +1,7 @@
 ---
 title: "Zongrui Lai"
 description: "Zongrui Lai is a Senior Soil Carbon researcher at Guangxi University in CN. With 40 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.490913
+date: 2026-07-11T11:05:43.102555
 url: "/cdr-researcher-census/researchers/zongrui-lai-a5044811/"
 layout: "researcher"
 hiddenInHomeList: true

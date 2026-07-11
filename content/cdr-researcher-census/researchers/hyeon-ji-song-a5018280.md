@@ -1,7 +1,7 @@
 ---
 title: "Hyeon Ji Song"
 description: "Hyeon Ji Song is a Mid-career Soil Carbon researcher at Gyeongsang National University in KR. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.894371
+date: 2026-07-11T11:05:43.413656
 url: "/cdr-researcher-census/researchers/hyeon-ji-song-a5018280/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 381 |
 | Publications | 26 |
-| CDR Focus | 15.4% |
-| Trajectory | Growing |
+| CDR Focus | 11.5% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

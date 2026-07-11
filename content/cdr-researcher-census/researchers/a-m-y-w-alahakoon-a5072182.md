@@ -1,7 +1,7 @@
 ---
 title: "A. M. Y. W. Alahakoon"
 description: "A. M. Y. W. Alahakoon is a Mid-career Biochar researcher at Hirosaki University in JP. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.963940
+date: 2026-07-11T11:05:44.298640
 url: "/cdr-researcher-census/researchers/a-m-y-w-alahakoon-a5072182/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sara Nawaz"
 description: "Sara Nawaz is a Mid-career General CDR researcher at University of British Columbia in CA. With 34 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.912814
+date: 2026-07-11T11:05:43.425704
 url: "/cdr-researcher-census/researchers/sara-nawaz-a5083576/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 12 |
 | Citations | 372 |
 | Publications | 34 |
-| CDR Focus | 55.9% |
+| CDR Focus | 52.9% |
 | Trajectory | Declining |
 
 ## Top CDR Publications

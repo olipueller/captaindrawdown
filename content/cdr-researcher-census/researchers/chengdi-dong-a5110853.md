@@ -1,7 +1,7 @@
 ---
 title: "Cheng–Di Dong"
 description: "Cheng–Di Dong is a Senior Biochar researcher at National Kaohsiung Marine University in TW. With 136 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.006533
+date: 2026-07-11T11:05:42.816632
 url: "/cdr-researcher-census/researchers/chengdi-dong-a5110853/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 35 |
 | Citations | 4,354 |
 | Publications | 136 |
-| CDR Focus | 8.1% |
+| CDR Focus | 7.4% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

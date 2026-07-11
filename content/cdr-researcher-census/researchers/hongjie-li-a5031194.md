@@ -1,7 +1,7 @@
 ---
 title: "Hongjie Li"
 description: "Hongjie Li is a Mid-career Soil Carbon researcher at Qilu University of Technology in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.952031
+date: 2026-07-11T11:05:43.452726
 url: "/cdr-researcher-census/researchers/hongjie-li-a5031194/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Chukwuebuka Nwakile"
 description: "Chukwuebuka Nwakile is a Mid-career General CDR researcher at Ecolab (United Kingdom) in GB. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.871330
+date: 2026-07-11T11:05:43.398740
 url: "/cdr-researcher-census/researchers/chukwuebuka-nwakile-a5114319/"
 layout: "researcher"
 hiddenInHomeList: true

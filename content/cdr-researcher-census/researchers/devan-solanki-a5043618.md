@@ -1,7 +1,7 @@
 ---
 title: "Devan Solanki"
 description: "Devan Solanki is a Mid-career Ocean CDR researcher at Harvard University in US. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.550218
+date: 2026-07-11T11:05:43.147498
 url: "/cdr-researcher-census/researchers/devan-solanki-a5043618/"
 layout: "researcher"
 hiddenInHomeList: true

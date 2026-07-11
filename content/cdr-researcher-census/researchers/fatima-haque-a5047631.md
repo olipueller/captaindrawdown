@@ -1,7 +1,7 @@
 ---
 title: "Fatima Haque"
 description: "Fatima Haque is a Senior Enhanced Weathering researcher at University of Guelph in CA. With 40 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.258642
+date: 2026-07-11T11:05:42.947673
 url: "/cdr-researcher-census/researchers/fatima-haque-a5047631/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 18 |
 | Citations | 1,399 |
 | Publications | 40 |
-| CDR Focus | 25.0% |
+| CDR Focus | 22.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

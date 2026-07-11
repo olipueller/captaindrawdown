@@ -1,7 +1,7 @@
 ---
 title: "Jannine M. Lencina‐Avila"
 description: "Jannine M. Lencina‐Avila is a Mid-career Ocean CDR researcher at Universidade Federal do Rio Grande in BR. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.210181
+date: 2026-07-11T11:05:43.619043
 url: "/cdr-researcher-census/researchers/jannine-m-lencinaavila-a5085267/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 8 |
 | Citations | 265 |
 | Publications | 18 |
-| CDR Focus | 22.2% |
+| CDR Focus | 27.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -56,10 +56,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 2. **Direct effects of ocean alkalinity enhancement in the Baltic Sea–results from in-silico experiments** (2025)
    3 citations · Ocean CDR
 
-3. **Corrigendum: Direct effects of ocean alkalinity enhancement in the Baltic Sea–results from in-silico experiments** (2025)
+3. **Monitoring, reporting, and verification of marine carbon dioxide removal: Exploring scientific consensus and divergences across continents** (2026)
    0 citations · General CDR
 
-4. **Exploring site-specific carbon dioxide removal options with storage or sequestration in the marine environment - The 10 Mt CO2 yr-1 removal challenge for Germany** (2024)
+4. **Monitoring, reporting, and verification of marine carbon dioxide removal: Exploring scientific consensus and divergences across continents** (2026)
+   0 citations · General CDR
+
+5. **Corrigendum: Direct effects of ocean alkalinity enhancement in the Baltic Sea–results from in-silico experiments** (2025)
+   0 citations · General CDR
+
+6. **Exploring site-specific carbon dioxide removal options with storage or sequestration in the marine environment - The 10 Mt CO2 yr-1 removal challenge for Germany** (2024)
    0 citations · General CDR
 
 ## External Profiles

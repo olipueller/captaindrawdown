@@ -1,7 +1,7 @@
 ---
 title: "Yongxing Cui"
 description: "Yongxing Cui is an Eminent Soil Carbon researcher at Peking University in CN. With 105 publications and an h-index of 47, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.947287
+date: 2026-07-11T11:05:42.792251
 url: "/cdr-researcher-census/researchers/yongxing-cui-a5012682/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 47 |
 | Citations | 6,738 |
 | Publications | 105 |
-| CDR Focus | 14.3% |
-| Trajectory | Stable |
+| CDR Focus | 13.3% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

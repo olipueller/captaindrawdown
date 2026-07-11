@@ -1,7 +1,7 @@
 ---
 title: "Noelia García-Franco"
 description: "Noelia García-Franco is a Mid-career Soil Carbon researcher at Technische Universität München in DE. With 57 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.063685
+date: 2026-07-11T11:05:42.840430
 url: "/cdr-researcher-census/researchers/noelia-garcia-franco-a5052372/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 18 |
 | Citations | 3,196 |
 | Publications | 57 |
-| CDR Focus | 12.3% |
-| Trajectory | Stable |
+| CDR Focus | 10.5% |
+| Trajectory | Exiting |
 
 ## Top CDR Publications
 

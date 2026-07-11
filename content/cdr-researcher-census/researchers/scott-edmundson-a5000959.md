@@ -1,7 +1,7 @@
 ---
 title: "Scott Edmundson"
 description: "Scott Edmundson is a Mid-career Ocean CDR researcher at Pacific Northwest National Laboratory, Marine and Coastal Research Laboratory, Sequim, WA, US in US. With 44 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.337789
+date: 2026-07-11T11:05:42.998755
 url: "/cdr-researcher-census/researchers/scott-edmundson-a5000959/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,17 +46,20 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Citations | 1,106 |
 | Publications | 44 |
 | CDR Focus | 6.8% |
-| Trajectory | Exiting |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **A newly isolated alkaliphilic cyanobacterium for biomass production with direct air CO2 capture** (2023)
    21 citations
 
-2. **Air Carbon for Algae Production (AirCAP) – Expanding algae resource potential via direct (in-pond) air-CO2 capture.** (2024)
+2. **Microalgae Commodities Production with a Direct Air Capture Process (Final Technical Report)** (2026)
+   0 citations · DAC
+
+3. **Air Carbon for Algae Production (AirCAP) – Expanding algae resource potential via direct (in-pond) air-CO2 capture.** (2024)
    0 citations · Ocean CDR
 
-3. **Optimizing biological carbon uptake by regulating carbonate-bicarbonate equilibrium** (2022)
+4. **Optimizing biological carbon uptake by regulating carbonate-bicarbonate equilibrium** (2022)
    0 citations · Ocean CDR
 
 ## External Profiles

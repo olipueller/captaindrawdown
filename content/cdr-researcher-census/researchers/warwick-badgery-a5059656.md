@@ -1,7 +1,7 @@
 ---
 title: "Warwick Badgery"
 description: "Warwick Badgery is a Senior Soil Carbon researcher at New South Wales Department of Primary Industries in AU. With 130 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.132670
+date: 2026-07-11T11:05:42.874920
 url: "/cdr-researcher-census/researchers/warwick-badgery-a5059656/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 25 |
 | Citations | 2,239 |
 | Publications | 130 |
-| CDR Focus | 6.2% |
+| CDR Focus | 5.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

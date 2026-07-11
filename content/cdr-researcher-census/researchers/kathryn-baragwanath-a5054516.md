@@ -1,7 +1,7 @@
 ---
 title: "Kathryn Baragwanath"
 description: "Kathryn Baragwanath is a Mid-career Soil Carbon researcher at Victoria University in AU. With 20 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.053873
+date: 2026-07-11T11:05:43.523582
 url: "/cdr-researcher-census/researchers/kathryn-baragwanath-a5054516/"
 layout: "researcher"
 hiddenInHomeList: true

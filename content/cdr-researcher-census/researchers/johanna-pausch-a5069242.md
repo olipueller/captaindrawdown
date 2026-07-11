@@ -1,7 +1,7 @@
 ---
 title: "Johanna Pausch"
 description: "Johanna Pausch is a Senior Soil Carbon researcher at University of Bayreuth in DE. With 149 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.982311
+date: 2026-07-11T11:05:42.805747
 url: "/cdr-researcher-census/researchers/johanna-pausch-a5069242/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 38 |
 | Citations | 5,082 |
 | Publications | 149 |
-| CDR Focus | 9.4% |
-| Trajectory | Growing |
+| CDR Focus | 6.7% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

@@ -1,7 +1,7 @@
 ---
 title: "Ravi Kumar"
 description: "Ravi Kumar is a Mid-career General CDR researcher at Baddi University of Emerging Sciences and Technologies in IN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.778953
+date: 2026-07-11T11:05:44.159063
 url: "/cdr-researcher-census/researchers/ravi-kumar-a5110483/"
 layout: "researcher"
 hiddenInHomeList: true

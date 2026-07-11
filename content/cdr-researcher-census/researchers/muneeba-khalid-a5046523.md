@@ -1,7 +1,7 @@
 ---
 title: "Muneeba Khalid"
 description: "Muneeba Khalid is a Mid-career Biochar researcher at Wenzhou-Kean University in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.059109
+date: 2026-07-11T11:05:43.527991
 url: "/cdr-researcher-census/researchers/muneeba-khalid-a5046523/"
 layout: "researcher"
 hiddenInHomeList: true

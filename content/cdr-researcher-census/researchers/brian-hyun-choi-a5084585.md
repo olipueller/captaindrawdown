@@ -1,7 +1,7 @@
 ---
 title: "Brian Hyun Choi"
 description: "Brian Hyun Choi is a Senior DAC researcher. With 16 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.130661
+date: 2026-07-11T11:05:42.873443
 url: "/cdr-researcher-census/researchers/brian-hyun-choi-a5084585/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Eric Toensmeier"
 description: "Eric Toensmeier is a Mid-career Soil Carbon researcher. With 24 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.702051
+date: 2026-07-11T11:05:44.102077
 url: "/cdr-researcher-census/researchers/eric-toensmeier-a5039949/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yanbo Yang"
 description: "Yanbo Yang is a Mid-career Soil Carbon researcher at Zhejiang A & F University in CN. With 25 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.326945
+date: 2026-07-11T11:05:43.698247
 url: "/cdr-researcher-census/researchers/yanbo-yang-a5036406/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 232 |
 | Publications | 25 |
-| CDR Focus | 24.0% |
+| CDR Focus | 20.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -63,6 +63,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations · Soil Carbon
 
 6. **Soil functional carbon fraction accrual in temperate forests is linked to understory herbs, soil nutrients and microbial alterations** (2026)
+   0 citations
+
+7. **Impact of extreme weather events on high variable renewable penetrated power systems in China: quantification and adaptation pathways** (2025)
    0 citations
 
 ## External Profiles

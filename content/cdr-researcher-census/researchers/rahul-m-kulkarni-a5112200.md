@@ -1,7 +1,7 @@
 ---
 title: "Rahul M. Kulkarni"
 description: "Rahul M. Kulkarni is a Mid-career Soil Carbon researcher at Central Coastal Agricultural Research Institute in IN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.659835
+date: 2026-07-11T11:05:44.069656
 url: "/cdr-researcher-census/researchers/rahul-m-kulkarni-a5112200/"
 layout: "researcher"
 hiddenInHomeList: true

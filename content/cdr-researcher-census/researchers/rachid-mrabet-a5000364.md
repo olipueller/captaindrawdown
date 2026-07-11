@@ -1,7 +1,7 @@
 ---
 title: "Rachid Mrabet"
 description: "Rachid Mrabet is a Senior Soil Carbon researcher at Institut National de la Recherche Agronomique in MA. With 115 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.105757
+date: 2026-07-11T11:05:42.861331
 url: "/cdr-researcher-census/researchers/rachid-mrabet-a5000364/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 27 |
 | Citations | 2,529 |
 | Publications | 115 |
-| CDR Focus | 5.2% |
+| CDR Focus | 6.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -67,6 +67,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 6. **Conservation Agriculture as Sustainable and Smart Soil Management** (2023)
    2 citations · Soil Carbon
+
+7. **Rethinking soil carbon sequestration: processes, constraints and stabilization pathways** (2026)
+   0 citations · General CDR
 
 ## External Profiles
 

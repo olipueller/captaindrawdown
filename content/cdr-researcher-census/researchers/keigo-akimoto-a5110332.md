@@ -1,7 +1,7 @@
 ---
 title: "Keigo Akimoto"
 description: "Keigo Akimoto is a Senior General CDR researcher at Research Institute of Innovative Technology for the Earth in JP. With 182 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.066543
+date: 2026-07-11T11:05:42.842446
 url: "/cdr-researcher-census/researchers/keigo-akimoto-a5110332/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 29 |
 | Citations | 3,145 |
 | Publications | 182 |
-| CDR Focus | 6.0% |
+| CDR Focus | 5.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

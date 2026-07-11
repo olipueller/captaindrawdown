@@ -1,7 +1,7 @@
 ---
 title: "Jun Zhong"
 description: "Jun Zhong is a Senior Enhanced Weathering researcher at Tianjin University in CN. With 105 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.081463
+date: 2026-07-11T11:05:42.849876
 url: "/cdr-researcher-census/researchers/jun-zhong-a5017137/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 31 |
 | Citations | 2,867 |
 | Publications | 105 |
-| CDR Focus | 9.5% |
-| Trajectory | Growing |
+| CDR Focus | 6.7% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

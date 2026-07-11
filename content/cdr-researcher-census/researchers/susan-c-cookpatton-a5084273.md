@@ -1,7 +1,7 @@
 ---
 title: "Susan C. Cook‐Patton"
 description: "Susan C. Cook‐Patton is a Senior General CDR researcher at The Nature Conservancy in US. With 117 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.919892
+date: 2026-07-11T11:05:42.784975
 url: "/cdr-researcher-census/researchers/susan-c-cookpatton-a5084273/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mengyang Zhou"
 description: "Mengyang Zhou is a Senior Ocean CDR researcher at Yale University in US. With 70 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.211137
+date: 2026-07-11T11:05:42.918614
 url: "/cdr-researcher-census/researchers/mengyang-zhou-a5074727/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 20 |
 | Citations | 1,641 |
 | Publications | 70 |
-| CDR Focus | 8.6% |
+| CDR Focus | 7.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

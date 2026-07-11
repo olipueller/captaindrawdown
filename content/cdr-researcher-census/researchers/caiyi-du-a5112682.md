@@ -1,7 +1,7 @@
 ---
 title: "Caiyi Du"
 description: "Caiyi Du is a Mid-career General CDR researcher at Jilin University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.698831
+date: 2026-07-11T11:05:44.098933
 url: "/cdr-researcher-census/researchers/caiyi-du-a5112682/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,13 +42,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 5 |
 | Citations | 156 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
+| CDR Focus | 25.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Direct air capture capacity configuration and cost allocation based on sharing mechanism** (2024)
    6 citations · DAC
+
+2. **Modeling and planning optimization of carbon capture load based on direct air capture** (2024)
+   5 citations
+
+3. **Modeling and Planning Optimization of Carbon Capture Load Based on Direct Air Capture** (2024)
+   0 citations
+
+4. **Direct Air Capture Capacity Configuration and Cost Allocation Based on Sharing Mechanism** (2023)
+   0 citations · DAC
 
 ## External Profiles
 

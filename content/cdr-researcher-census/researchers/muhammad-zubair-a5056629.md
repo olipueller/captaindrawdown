@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Zubair"
 description: "Muhammad Zubair is a Senior Soil Carbon researcher at Bahauddin Zakariya University in PK. With 82 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.392278
+date: 2026-07-11T11:05:43.034121
 url: "/cdr-researcher-census/researchers/muhammad-zubair-a5056629/"
 layout: "researcher"
 hiddenInHomeList: true

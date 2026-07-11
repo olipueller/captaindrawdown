@@ -1,7 +1,7 @@
 ---
 title: "Ipsa Gupta"
 description: "Ipsa Gupta is a Mid-career Soil Carbon researcher at Panjab University in IN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.330314
+date: 2026-07-11T11:05:43.700459
 url: "/cdr-researcher-census/researchers/ipsa-gupta-a5005503/"
 layout: "researcher"
 hiddenInHomeList: true

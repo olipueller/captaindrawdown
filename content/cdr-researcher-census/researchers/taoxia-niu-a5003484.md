@@ -1,7 +1,7 @@
 ---
 title: "Taoxia Niu"
 description: "Taoxia Niu is a Mid-career Biochar researcher at Northwest University in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.917035
+date: 2026-07-11T11:05:44.261982
 url: "/cdr-researcher-census/researchers/taoxia-niu-a5003484/"
 layout: "researcher"
 hiddenInHomeList: true

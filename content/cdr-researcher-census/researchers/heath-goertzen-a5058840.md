@@ -1,7 +1,7 @@
 ---
 title: "Heath Goertzen"
 description: "Heath Goertzen is an Early-career Soil Carbon researcher at University of California, Davis in US. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.969276
+date: 2026-07-11T11:05:44.303035
 url: "/cdr-researcher-census/researchers/heath-goertzen-a5058840/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 119 |
 | Publications | 10 |
-| CDR Focus | 70.0% |
+| CDR Focus | 60.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications

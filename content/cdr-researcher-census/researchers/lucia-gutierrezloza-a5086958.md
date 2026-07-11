@@ -1,7 +1,7 @@
 ---
 title: "Lucía Gutiérrez‐Loza"
-description: "Lucía Gutiérrez‐Loza is a Mid-career Ocean CDR researcher at Bjerknes Centre for Climate Research in NO. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.810769
+description: "Lucía Gutiérrez‐Loza is a Mid-career General CDR researcher at Bjerknes Centre for Climate Research in NO. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:44.182985
 url: "/cdr-researcher-census/researchers/lucia-gutierrezloza-a5086958/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Bjerknes Centre for Climate Research · 🇳🇴 NO
 
 ## CDR Specialization
 
-**Ocean CDR**
+**General CDR**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 6 |
 | Citations | 139 |
 | Publications | 20 |
-| CDR Focus | 25.0% |
+| CDR Focus | 5.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

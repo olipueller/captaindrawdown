@@ -1,7 +1,7 @@
 ---
 title: "Denan Zhang"
 description: "Denan Zhang is a Senior Soil Carbon researcher at Harbin Medical University in CN. With 68 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.328321
+date: 2026-07-11T11:05:42.993023
 url: "/cdr-researcher-census/researchers/denan-zhang-a5056817/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 14 |
 | Citations | 1,139 |
 | Publications | 68 |
-| CDR Focus | 7.4% |
+| CDR Focus | 5.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

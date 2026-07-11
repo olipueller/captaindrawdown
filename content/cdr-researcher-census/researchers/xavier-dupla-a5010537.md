@@ -1,7 +1,7 @@
 ---
 title: "Xavier Dupla"
 description: "Xavier Dupla is a Mid-career Enhanced Weathering researcher at Planetary Science Institute in US. With 23 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.252723
+date: 2026-07-11T11:05:43.647873
 url: "/cdr-researcher-census/researchers/xavier-dupla-a5010537/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 6 |
 | Citations | 252 |
 | Publications | 23 |
-| CDR Focus | 73.9% |
+| CDR Focus | 65.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Qianqian Sang"
 description: "Qianqian Sang is a Mid-career Soil Carbon researcher. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.040929
+date: 2026-07-11T11:05:44.377210
 url: "/cdr-researcher-census/researchers/qianqian-sang-a5017495/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -37,8 +37,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 111 |
 | Publications | 8 |
-| CDR Focus | 25.0% |
-| Trajectory | Stable |
+| CDR Focus | 12.5% |
+| Trajectory | Exiting |
 
 ## Top CDR Publications
 

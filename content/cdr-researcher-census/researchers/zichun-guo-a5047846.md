@@ -1,7 +1,7 @@
 ---
 title: "Zichun Guo"
 description: "Zichun Guo is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 55 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.246078
+date: 2026-07-11T11:05:42.939498
 url: "/cdr-researcher-census/researchers/zichun-guo-a5047846/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 17 |
 | Citations | 1,464 |
 | Publications | 55 |
-| CDR Focus | 12.7% |
+| CDR Focus | 10.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Cory Sanderson"
-description: "Cory Sanderson is an Early-career Unknown researcher. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.162219
+description: "Cory Sanderson is an Early-career General CDR researcher. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:44.448071
 url: "/cdr-researcher-census/researchers/cory-sanderson-a5061964/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -26,9 +26,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**Unknown**
+**General CDR**
 
-Unknown
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -44,6 +44,9 @@ Unknown
 
 1. **Dual function materials (Ru+Na2O/Al2O3) for direct air capture of CO2 and in situ catalytic methanation: The impact of realistic ambient conditions** (2021)
    100 citations
+
+2. **Colorado (Pueblo) Regional Direct Air Capture (DAC) Hub** (2025)
+   0 citations · DAC
 
 ## External Profiles
 

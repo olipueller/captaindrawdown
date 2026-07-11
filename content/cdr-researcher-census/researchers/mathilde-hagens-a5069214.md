@@ -1,7 +1,7 @@
 ---
 title: "Mathilde Hagens"
 description: "Mathilde Hagens is a Mid-career Enhanced Weathering researcher at Wageningen University & Research in NL. With 77 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.230707
+date: 2026-07-11T11:05:42.930875
 url: "/cdr-researcher-census/researchers/mathilde-hagens-a5069214/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 17 |
 | Citations | 1,529 |
 | Publications | 77 |
-| CDR Focus | 36.4% |
+| CDR Focus | 31.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

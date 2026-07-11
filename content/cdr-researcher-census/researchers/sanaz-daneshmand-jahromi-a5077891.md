@@ -1,7 +1,7 @@
 ---
 title: "Sanaz Daneshmand-Jahromi"
 description: "Sanaz Daneshmand-Jahromi is a Mid-career General CDR researcher at University of Calgary in CA. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.803004
+date: 2026-07-11T11:05:43.349586
 url: "/cdr-researcher-census/researchers/sanaz-daneshmand-jahromi-a5077891/"
 layout: "researcher"
 hiddenInHomeList: true

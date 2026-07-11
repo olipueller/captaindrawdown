@@ -1,7 +1,7 @@
 ---
 title: "Robert Miehe"
 description: "Robert Miehe is a Senior General CDR researcher at University of Stuttgart in DE. With 107 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.223773
+date: 2026-07-11T11:05:42.926071
 url: "/cdr-researcher-census/researchers/robert-miehe-a5070424/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 20 |
 | Citations | 1,569 |
 | Publications | 107 |
-| CDR Focus | 5.6% |
-| Trajectory | Exiting |
+| CDR Focus | 6.5% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
@@ -67,6 +67,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 6. **Biogas Plants as Hydrogen Production Facilities and Greenhouse Gas Sinks: Technology Comparison, Challenges and Potentials for Carbon Negative Hydrogen Production (HyBECCS)** (2022)
    7 citations · BECCS
+
+7. **Towards a circular bioeconomy: A bi-criteria site level decision support for potential cluster nodes exemplified by hydrogen production in Baden-Württemberg** (2026)
+   0 citations · BECCS
 
 ## External Profiles
 

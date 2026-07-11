@@ -1,7 +1,7 @@
 ---
 title: "Abdallah Ahmed Elsherbiny"
 description: "Abdallah Ahmed Elsherbiny is a Mid-career Biochar researcher at Shanghai University in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.702699
+date: 2026-07-11T11:05:44.102366
 url: "/cdr-researcher-census/researchers/abdallah-ahmed-elsherbiny-a5035981/"
 layout: "researcher"
 hiddenInHomeList: true

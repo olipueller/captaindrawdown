@@ -1,7 +1,7 @@
 ---
 title: "Qingrong Peng"
 description: "Qingrong Peng is a Senior Biochar researcher at China Agricultural University in CN. With 54 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.384352
+date: 2026-07-11T11:05:43.028866
 url: "/cdr-researcher-census/researchers/qingrong-peng-a5101518/"
 layout: "researcher"
 hiddenInHomeList: true

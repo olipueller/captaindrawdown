@@ -1,7 +1,7 @@
 ---
 title: "Tongxin He"
 description: "Tongxin He is a Mid-career Soil Carbon researcher at Nanning Normal University in CN. With 22 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.437024
+date: 2026-07-11T11:05:43.063792
 url: "/cdr-researcher-census/researchers/tongxin-he-a5111581/"
 layout: "researcher"
 hiddenInHomeList: true

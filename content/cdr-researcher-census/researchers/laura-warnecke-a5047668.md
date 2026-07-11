@@ -1,7 +1,7 @@
 ---
 title: "Laura Warnecke"
 description: "Laura Warnecke is a Mid-career General CDR researcher at International Institute for Applied Systems Analysis in AT. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.120862
+date: 2026-07-11T11:05:42.868710
 url: "/cdr-researcher-census/researchers/laura-warnecke-a5047668/"
 layout: "researcher"
 hiddenInHomeList: true

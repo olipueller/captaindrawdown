@@ -1,7 +1,7 @@
 ---
 title: "Chinemerem R. Ohoro"
 description: "Chinemerem R. Ohoro is a Mid-career General CDR researcher at North-West University in ZA. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.247141
+date: 2026-07-11T11:05:43.644160
 url: "/cdr-researcher-census/researchers/chinemerem-r-ohoro-a5092509/"
 layout: "researcher"
 hiddenInHomeList: true

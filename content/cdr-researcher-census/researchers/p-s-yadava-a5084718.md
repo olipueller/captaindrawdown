@@ -1,7 +1,7 @@
 ---
 title: "P. S. Yadava"
 description: "P. S. Yadava is a Senior Soil Carbon researcher. With 37 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.457236
+date: 2026-07-11T11:05:43.078037
 url: "/cdr-researcher-census/researchers/p-s-yadava-a5084718/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -37,15 +37,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 825 |
 | Publications | 37 |
-| CDR Focus | 5.4% |
+| CDR Focus | 8.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
-1. **CARBON STOCK, SOIL CO2 FLUX AND CARBON BUDGETS OF DIFFERENT FOREST ECOSYSTEMS OF MANIPUR, NORTHEAST, INDIA** (2022)
+1. **Development of unique soil organic carbon stability index under influence of integrated nutrient management in four major soil orders of India** (2024)
+   8 citations · Soil Carbon
+
+2. **CARBON STOCK, SOIL CO2 FLUX AND CARBON BUDGETS OF DIFFERENT FOREST ECOSYSTEMS OF MANIPUR, NORTHEAST, INDIA** (2022)
    1 citations · Soil Carbon
 
-2. **Ecosystem Services of Bamboo** (2023)
+3. **Ecosystem Services of Bamboo** (2023)
    0 citations · Soil Carbon
 
 ## External Profiles

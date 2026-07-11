@@ -1,7 +1,7 @@
 ---
 title: "Xuemao Guo"
 description: "Xuemao Guo is a Senior Biochar researcher at Taiyuan Heavy Industry (China) in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.699766
+date: 2026-07-11T11:05:44.099500
 url: "/cdr-researcher-census/researchers/xuemao-guo-a5100877/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 7 |
 | Citations | 156 |
 | Publications | 17 |
-| CDR Focus | 11.8% |
+| CDR Focus | 5.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

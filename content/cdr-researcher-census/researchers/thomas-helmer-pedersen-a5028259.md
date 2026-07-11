@@ -1,7 +1,7 @@
 ---
 title: "Thomas Helmer Pedersen"
 description: "Thomas Helmer Pedersen is a Senior General CDR researcher at Aalborg University in DK. With 136 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.051338
+date: 2026-07-11T11:05:42.835908
 url: "/cdr-researcher-census/researchers/thomas-helmer-pedersen-a5028259/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 32 |
 | Citations | 3,373 |
 | Publications | 136 |
-| CDR Focus | 10.3% |
+| CDR Focus | 8.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

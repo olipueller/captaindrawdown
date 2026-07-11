@@ -1,7 +1,7 @@
 ---
 title: "Rahul Anantharaman"
 description: "Rahul Anantharaman is a Senior General CDR researcher at SINTEF Energy Research in NO. With 159 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.003988
+date: 2026-07-11T11:05:42.815668
 url: "/cdr-researcher-census/researchers/rahul-anantharaman-a5061021/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 35 |
 | Citations | 4,380 |
 | Publications | 159 |
-| CDR Focus | 8.8% |
+| CDR Focus | 6.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

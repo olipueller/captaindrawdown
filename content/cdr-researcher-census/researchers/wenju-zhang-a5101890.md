@@ -1,7 +1,7 @@
 ---
 title: "Wenju Zhang"
 description: "Wenju Zhang is an Eminent Soil Carbon researcher at Chinese Academy of Agricultural Sciences in CN. With 211 publications and an h-index of 41, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.973478
+date: 2026-07-11T11:05:42.802226
 url: "/cdr-researcher-census/researchers/wenju-zhang-a5101890/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 41 |
 | Citations | 5,549 |
 | Publications | 211 |
-| CDR Focus | 8.1% |
+| CDR Focus | 7.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

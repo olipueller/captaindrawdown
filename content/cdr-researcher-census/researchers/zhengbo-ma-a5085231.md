@@ -1,7 +1,7 @@
 ---
 title: "Zhengbo Ma"
 description: "Zhengbo Ma is a Senior Soil Carbon researcher at Yunnan Academy of Agricultural Sciences in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.100226
+date: 2026-07-11T11:05:44.403853
 url: "/cdr-researcher-census/researchers/zhengbo-ma-a5085231/"
 layout: "researcher"
 hiddenInHomeList: true

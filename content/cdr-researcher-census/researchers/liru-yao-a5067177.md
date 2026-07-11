@@ -1,7 +1,7 @@
 ---
 title: "Liru Yao"
 description: "Liru Yao is a Mid-career Soil Carbon researcher at Anshan Hospital in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.812111
+date: 2026-07-11T11:05:44.184321
 url: "/cdr-researcher-census/researchers/liru-yao-a5067177/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ranran Zhou"
 description: "Ranran Zhou is a Mid-career Soil Carbon researcher at Henan Agricultural University in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.732263
+date: 2026-07-11T11:05:43.298109
 url: "/cdr-researcher-census/researchers/ranran-zhou-a5051791/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -56,7 +56,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 2. **Carbon sequestration through straw amendment: multi-pool dynamics within soil organic carbon** (2025)
    30 citations · Soil Carbon
 
-3. **Adsorption of microplastics in soils and water** (2025)
+3. **Particulate and mineral-associated organic matter in cropland soils: Meta-analysis of management effects** (2026)
+   3 citations · Soil Carbon
+
+4. **Adsorption of microplastics in soils and water** (2025)
    0 citations
 
 ## External Profiles

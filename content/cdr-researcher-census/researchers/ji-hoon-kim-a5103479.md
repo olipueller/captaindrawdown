@@ -1,7 +1,7 @@
 ---
 title: "Ji Hoon Kim"
 description: "Ji Hoon Kim is a Senior Biochar researcher at Hallym University in KR. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.367522
+date: 2026-07-11T11:05:43.018842
 url: "/cdr-researcher-census/researchers/ji-hoon-kim-a5103479/"
 layout: "researcher"
 hiddenInHomeList: true

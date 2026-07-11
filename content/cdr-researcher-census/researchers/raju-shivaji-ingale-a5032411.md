@@ -1,7 +1,7 @@
 ---
 title: "Raju Shivaji Ingale"
 description: "Raju Shivaji Ingale is a Mid-career BECCS researcher at MIT World Peace University in IN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.760625
+date: 2026-07-11T11:05:44.145860
 url: "/cdr-researcher-census/researchers/raju-shivaji-ingale-a5032411/"
 layout: "researcher"
 hiddenInHomeList: true

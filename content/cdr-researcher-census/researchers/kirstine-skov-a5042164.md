@@ -1,7 +1,7 @@
 ---
 title: "Kirstine Skov"
 description: "Kirstine Skov is a Mid-career Enhanced Weathering researcher at Royal Bank of Scotland (United Kingdom) in GB. With 46 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.745540
+date: 2026-07-11T11:05:43.307781
 url: "/cdr-researcher-census/researchers/kirstine-skov-a5042164/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 11 |
 | Citations | 472 |
 | Publications | 46 |
-| CDR Focus | 37.0% |
+| CDR Focus | 30.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -65,19 +65,19 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 5. **Initial agronomic benefits of enhanced weathering using basalt: A study of spring oat in a temperate climate** (2023)
    1 citations · Enhanced Weathering
 
-6. **A novel soil porewater extraction technique for enhanced rock weathering products: SATuration–Centrifugation** (2026)
+6. **Author comment: A novel soil porewater extraction technique for enhanced rock weathering products: SATuration–Centrifugation — R0/PR1** (2025)
    0 citations · Enhanced Weathering
 
-7. **A Novel Soil Porewater Extraction Technique for Enhanced Rock Weathering Products: SATuration - Centrifugation** (2026)
+7. **Author comment: A novel soil porewater extraction technique for enhanced rock weathering products: SATuration–Centrifugation — R1/PR6** (2026)
    0 citations · Enhanced Weathering
 
-8. **Assessing carbon dioxide removal across wollastonite application gradients in mesocosm enhanced rock weathering experiments** (2026)
+8. **A novel soil porewater extraction technique for enhanced rock weathering products: SATuration–Centrifugation** (2026)
    0 citations · Enhanced Weathering
 
-9. **Probing Sources and Pathways of Error in Enhanced Rock Weathering Field Monitoring: Impact of Plot Setup and Uncertainty Propagation** (2025)
+9. **A Novel Soil Porewater Extraction Technique for Enhanced Rock Weathering Products: SATuration - Centrifugation** (2026)
    0 citations · Enhanced Weathering
 
-10. **Evaluating Total Cation Accounting (TCA) as an MRV Approach for Enhanced Rock Weathering - Insights from a trial in Ontario, Canada** (2025)
+10. **Assessing carbon dioxide removal across wollastonite application gradients in mesocosm enhanced rock weathering experiments** (2026)
    0 citations · Enhanced Weathering
 
 ## External Profiles

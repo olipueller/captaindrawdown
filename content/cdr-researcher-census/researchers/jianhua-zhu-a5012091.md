@@ -1,7 +1,7 @@
 ---
 title: "Jianhua Zhu"
 description: "Jianhua Zhu is a Senior Soil Carbon researcher at Xinjiang Uygur Autonomous Region Institute of Metrology and Measurement in CN. With 38 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.592897
+date: 2026-07-11T11:05:43.202138
 url: "/cdr-researcher-census/researchers/jianhua-zhu-a5012091/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 614 |
 | Publications | 38 |
-| CDR Focus | 15.8% |
+| CDR Focus | 13.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

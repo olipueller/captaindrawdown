@@ -1,7 +1,7 @@
 ---
 title: "Wubiao Huang"
 description: "Wubiao Huang is a Mid-career Soil Carbon researcher at Wuhan University in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.347309
+date: 2026-07-11T11:05:43.713050
 url: "/cdr-researcher-census/researchers/wubiao-huang-a5023165/"
 layout: "researcher"
 hiddenInHomeList: true

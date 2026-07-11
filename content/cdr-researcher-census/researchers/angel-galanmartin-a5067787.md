@@ -1,7 +1,7 @@
 ---
 title: "Ángel Galán‐Martín"
 description: "Ángel Galán‐Martín is a Senior General CDR researcher at University of Jaén in ES. With 65 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.118104
+date: 2026-07-11T11:05:42.866889
 url: "/cdr-researcher-census/researchers/angel-galanmartin-a5067787/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 28 |
 | Citations | 2,380 |
 | Publications | 65 |
-| CDR Focus | 20.0% |
+| CDR Focus | 16.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

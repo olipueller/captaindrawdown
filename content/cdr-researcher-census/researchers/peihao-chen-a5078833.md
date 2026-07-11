@@ -1,7 +1,7 @@
 ---
 title: "Pei‐Hao Chen"
 description: "Pei‐Hao Chen is a Senior Enhanced Weathering researcher at National Taipei University of Technology in TW. With 56 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.520461
+date: 2026-07-11T11:05:43.125868
 url: "/cdr-researcher-census/researchers/peihao-chen-a5078833/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 13 |
 | Citations | 712 |
 | Publications | 56 |
-| CDR Focus | 7.1% |
+| CDR Focus | 5.4% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

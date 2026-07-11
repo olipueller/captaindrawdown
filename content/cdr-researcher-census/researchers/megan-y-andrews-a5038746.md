@@ -1,7 +1,7 @@
 ---
 title: "Megan Y. Andrews"
 description: "Megan Y. Andrews is a Senior General CDR researcher at University of Southampton in GB. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.292666
+date: 2026-07-11T11:05:43.673185
 url: "/cdr-researcher-census/researchers/megan-y-andrews-a5038746/"
 layout: "researcher"
 hiddenInHomeList: true

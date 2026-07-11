@@ -1,7 +1,7 @@
 ---
 title: "Sergio González-Ubierna"
 description: "Sergio González-Ubierna is a Mid-career Soil Carbon researcher at Universidad Complutense de Madrid in ES. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.858873
+date: 2026-07-11T11:05:43.389365
 url: "/cdr-researcher-census/researchers/sergio-gonzalez-ubierna-a5089054/"
 layout: "researcher"
 hiddenInHomeList: true

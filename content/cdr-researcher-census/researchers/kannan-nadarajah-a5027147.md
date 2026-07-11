@@ -1,7 +1,7 @@
 ---
 title: "Kannan Nadarajah"
 description: "Kannan Nadarajah is a Mid-career Biochar researcher at University of Jaffna in LK. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.125128
+date: 2026-07-11T11:05:42.870649
 url: "/cdr-researcher-census/researchers/kannan-nadarajah-a5027147/"
 layout: "researcher"
 hiddenInHomeList: true

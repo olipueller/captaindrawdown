@@ -1,7 +1,7 @@
 ---
 title: "Ketema Bobe"
 description: "Ketema Bobe is an Early-career Biochar researcher at Ambo University in ET. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.704551
+date: 2026-07-11T11:05:44.103556
 url: "/cdr-researcher-census/researchers/ketema-bobe-a5025002/"
 layout: "researcher"
 hiddenInHomeList: true

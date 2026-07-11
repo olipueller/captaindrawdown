@@ -1,7 +1,7 @@
 ---
 title: "Manoj Kumar Riyal"
 description: "Manoj Kumar Riyal is a Mid-career Soil Carbon researcher at Hemwati Nandan Bahuguna Garhwal University in IN. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.969321
+date: 2026-07-11T11:05:43.465550
 url: "/cdr-researcher-census/researchers/manoj-kumar-riyal-a5069059/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 346 |
 | Publications | 36 |
-| CDR Focus | 22.2% |
-| Trajectory | Stable |
+| CDR Focus | 13.9% |
+| Trajectory | Declining |
 
 ## Top CDR Publications
 

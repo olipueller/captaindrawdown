@@ -1,7 +1,7 @@
 ---
 title: "Abby Wallwork"
 description: "Abby Wallwork is a Mid-career Soil Carbon researcher at Lancaster University in GB. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.058794
+date: 2026-07-11T11:05:44.392185
 url: "/cdr-researcher-census/researchers/abby-wallwork-a5003698/"
 layout: "researcher"
 hiddenInHomeList: true

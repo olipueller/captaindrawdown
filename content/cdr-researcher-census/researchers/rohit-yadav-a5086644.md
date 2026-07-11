@@ -1,7 +1,7 @@
 ---
 title: "Rohit Yadav"
 description: "Rohit Yadav is a Mid-career Soil Carbon researcher at Pandit Bhagwat Dayal Sharma Post Graduate Institute of Medical Sciences in IN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.385256
+date: 2026-07-11T11:05:43.739874
 url: "/cdr-researcher-census/researchers/rohit-yadav-a5086644/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 218 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 15.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -55,6 +55,12 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 2. **Enhancing Sustainable Farming and Climate Resilience: The Role of Cover Crops** (2025)
    0 citations · Soil Carbon
+
+3. **The biological and ecological frontier in modern agronomy: Climate resilience, soil Health and genetic innovation - potential, implementation complexities and systemic boundaries** (2025)
+   0 citations · General CDR
+
+4. **Sustainable intensification reimagined: Ecological agronomy, climate-smart practices and circular systems for food security in the anthropocene - balancing productivity, environmental limits and social equity** (2025)
+   0 citations · General CDR
 
 ## External Profiles
 

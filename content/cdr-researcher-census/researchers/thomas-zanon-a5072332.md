@@ -1,7 +1,7 @@
 ---
 title: "Thomas Zanon"
 description: "Thomas Zanon is a Senior Soil Carbon researcher at Free University of Bozen-Bolzano in IT. With 40 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.400796
+date: 2026-07-11T11:05:43.750547
 url: "/cdr-researcher-census/researchers/thomas-zanon-a5072332/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Iain P. Hartley"
 description: "Iain P. Hartley is an Eminent Soil Carbon researcher at University of Exeter in GB. With 193 publications and an h-index of 41, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.929049
+date: 2026-07-11T11:05:42.787436
 url: "/cdr-researcher-census/researchers/iain-p-hartley-a5006351/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 41 |
 | Citations | 7,601 |
 | Publications | 193 |
-| CDR Focus | 10.4% |
-| Trajectory | Stable |
+| CDR Focus | 9.3% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

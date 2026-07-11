@@ -1,7 +1,7 @@
 ---
 title: "Leiyi Zhang"
 description: "Leiyi Zhang is a Senior Soil Carbon researcher at Jiangsu University in CN. With 62 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.267966
+date: 2026-07-11T11:05:42.954964
 url: "/cdr-researcher-census/researchers/leiyi-zhang-a5041643/"
 layout: "researcher"
 hiddenInHomeList: true

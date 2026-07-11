@@ -1,7 +1,7 @@
 ---
 title: "Nayan Ahmed"
 description: "Nayan Ahmed is a Senior Soil Carbon researcher at Academy of Sciences Republic of Uzbekistan in UZ. With 56 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.630859
+date: 2026-07-11T11:05:43.227552
 url: "/cdr-researcher-census/researchers/nayan-ahmed-a5104227/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -68,13 +68,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 6. **Role of Clay-humus Complexes in Soil Organic Carbon Stabilization Across Paddy Soils in Diverse Indian Soil Orders** (2024)
    1 citations · Soil Carbon
 
-7. **Mapping Spatial Variation of Soil Carbon Concentration and Assessment of Carbon Stocks in an Agricultural Farm of Semiarid Region of India** (2025)
-   0 citations · Soil Carbon
+7. **Impact of nutrient management practices on sulphur availability in soils under rice-wheat cropping system** (2026)
+   0 citations
 
 8. **Mapping Spatial Variation of Soil Carbon Concentration and Assessment of Carbon Stocks in an Agricultural Farm of Semiarid Region of India** (2025)
    0 citations · Soil Carbon
 
-9. **Long-term Impact of Crop Residue Management on Lability and Thermal Sensitivity of Soil Organic Carbon under Wheat Based Cropping Systems** (2025)
+9. **Mapping Spatial Variation of Soil Carbon Concentration and Assessment of Carbon Stocks in an Agricultural Farm of Semiarid Region of India** (2025)
+   0 citations · Soil Carbon
+
+10. **Long-term Impact of Crop Residue Management on Lability and Thermal Sensitivity of Soil Organic Carbon under Wheat Based Cropping Systems** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

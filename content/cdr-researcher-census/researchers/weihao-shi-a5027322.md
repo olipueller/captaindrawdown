@@ -1,7 +1,7 @@
 ---
 title: "Weihao Shi"
 description: "Weihao Shi is a Mid-career Soil Carbon researcher at Shaanxi University of Science and Technology in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.087958
+date: 2026-07-11T11:05:43.549252
 url: "/cdr-researcher-census/researchers/weihao-shi-a5027322/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,7 +47,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Dynamics of iron-bound organic carbon sequestration in soil-cement aggregates during the ecological restoration process** (2025)
+1. **Constructing an ecological network integrating avian biodiversity and ecosystem services in highly urbanized areas: A Case Study of Tianjin, China** (2025)
+   2 citations
+
+2. **Dynamics of iron-bound organic carbon sequestration in soil-cement aggregates during the ecological restoration process** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

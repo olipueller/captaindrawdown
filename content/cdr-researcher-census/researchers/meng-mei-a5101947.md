@@ -1,7 +1,7 @@
 ---
 title: "Meng Mei"
 description: "Meng Mei is a Senior Biochar researcher at Wuhan Textile University in CN. With 52 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.195056
+date: 2026-07-11T11:05:42.909532
 url: "/cdr-researcher-census/researchers/meng-mei-a5101947/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -61,6 +61,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 4. **Efficient degradation of diclofenac by digestate-derived biochar catalyzed peroxymonosulfate oxidation: Performance, machine learning prediction, and mechanism** (2022)
    40 citations · Biochar
+
+5. **A Ca-Rich Biochar Derived from Food Waste Digestate with Exceptional Adsorption Capacity for Arsenic (Iii) Removal Via a Cooperative Mechanism** (2022)
+   4 citations · Biochar
 
 ## External Profiles
 

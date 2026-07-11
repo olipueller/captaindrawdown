@@ -1,7 +1,7 @@
 ---
 title: "Maurice C. Bryson"
 description: "Maurice C. Bryson is a Senior Enhanced Weathering researcher at Institute of Chemistry of Silicates named after I.V. Grebenshchikov in RU. With 49 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.178336
+date: 2026-07-11T11:05:42.899370
 url: "/cdr-researcher-census/researchers/maurice-c-bryson-a5111013/"
 layout: "researcher"
 hiddenInHomeList: true

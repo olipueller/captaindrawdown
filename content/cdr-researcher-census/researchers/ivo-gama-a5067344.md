@@ -1,7 +1,7 @@
 ---
 title: "Ivo Gama"
 description: "Ivo Gama is a Mid-career Soil Carbon researcher at Universidade do Porto in PT. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.733782
+date: 2026-07-11T11:05:44.126468
 url: "/cdr-researcher-census/researchers/ivo-gama-a5067344/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 151 |
 | Publications | 15 |
-| CDR Focus | 13.3% |
-| Trajectory | Stable |
+| CDR Focus | 6.7% |
+| Trajectory | Exiting |
 
 ## Top CDR Publications
 

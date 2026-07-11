@@ -1,7 +1,7 @@
 ---
 title: "Xiaolei Huang"
 description: "Xiaolei Huang is a Senior Soil Carbon researcher at Shanxi Agricultural University in CN. With 21 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.489452
+date: 2026-07-11T11:05:43.101332
 url: "/cdr-researcher-census/researchers/xiaolei-huang-a5063975/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 13 |
 | Citations | 763 |
 | Publications | 21 |
-| CDR Focus | 28.6% |
-| Trajectory | Declining |
+| CDR Focus | 23.8% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

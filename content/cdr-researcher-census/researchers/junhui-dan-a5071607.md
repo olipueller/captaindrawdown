@@ -1,7 +1,7 @@
 ---
 title: "Junhui Dan"
 description: "Junhui Dan is a Mid-career Biochar researcher at Jiangxi Agricultural University in CN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.819932
+date: 2026-07-11T11:05:44.190099
 url: "/cdr-researcher-census/researchers/junhui-dan-a5071607/"
 layout: "researcher"
 hiddenInHomeList: true

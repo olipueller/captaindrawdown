@@ -1,7 +1,7 @@
 ---
 title: "Peng Shi"
 description: "Peng Shi is a Mid-career Soil Carbon researcher at Xi'an University of Technology in CN. With 77 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.214478
+date: 2026-07-11T11:05:42.919995
 url: "/cdr-researcher-census/researchers/peng-shi-a5061933/"
 layout: "researcher"
 hiddenInHomeList: true

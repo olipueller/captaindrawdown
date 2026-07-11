@@ -1,7 +1,7 @@
 ---
 title: "Luping Tian"
 description: "Luping Tian is a Mid-career Biochar researcher at Kunming University of Science and Technology in CN. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.275101
+date: 2026-07-11T11:05:43.662143
 url: "/cdr-researcher-census/researchers/luping-tian-a5100549/"
 layout: "researcher"
 hiddenInHomeList: true

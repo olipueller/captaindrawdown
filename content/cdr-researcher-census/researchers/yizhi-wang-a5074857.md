@@ -1,7 +1,7 @@
 ---
 title: "Yizhi Wang"
 description: "Yizhi Wang is a Mid-career Soil Carbon researcher at Virginia Tech in US. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.662239
+date: 2026-07-11T11:05:44.072427
 url: "/cdr-researcher-census/researchers/yizhi-wang-a5074857/"
 layout: "researcher"
 hiddenInHomeList: true

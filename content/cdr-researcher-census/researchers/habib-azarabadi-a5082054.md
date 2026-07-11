@@ -1,7 +1,7 @@
 ---
 title: "Habib Azarabadi"
 description: "Habib Azarabadi is a Mid-career General CDR researcher at Boston Consulting Group (United States). With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.332759
+date: 2026-07-11T11:05:42.995487
 url: "/cdr-researcher-census/researchers/habib-azarabadi-a5082054/"
 layout: "researcher"
 hiddenInHomeList: true

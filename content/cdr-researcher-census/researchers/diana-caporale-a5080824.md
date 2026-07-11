@@ -1,7 +1,7 @@
 ---
 title: "Diana Caporale"
 description: "Diana Caporale is a Mid-career Soil Carbon researcher at University of Bari Aldo Moro in IT. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.226706
+date: 2026-07-11T11:05:43.630092
 url: "/cdr-researcher-census/researchers/diana-caporale-a5080824/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 261 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 5.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

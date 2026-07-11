@@ -1,7 +1,7 @@
 ---
 title: "Ángel Muñiz Piniella"
 description: "Ángel Muñiz Piniella is a Mid-career Ocean CDR researcher at Directorate-General for Maritime Affairs and Fisheries in BE. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.621890
+date: 2026-07-11T11:05:44.025096
 url: "/cdr-researcher-census/researchers/angel-muniz-piniella-a5039467/"
 layout: "researcher"
 hiddenInHomeList: true

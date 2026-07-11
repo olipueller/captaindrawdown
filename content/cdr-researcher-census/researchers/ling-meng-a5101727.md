@@ -1,7 +1,7 @@
 ---
 title: "Ling Meng"
 description: "Ling Meng is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 52 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.620313
+date: 2026-07-11T11:05:43.220004
 url: "/cdr-researcher-census/researchers/ling-meng-a5101727/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 16 |
 | Citations | 585 |
 | Publications | 52 |
-| CDR Focus | 7.7% |
+| CDR Focus | 5.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

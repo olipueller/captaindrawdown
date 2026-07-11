@@ -1,7 +1,7 @@
 ---
 title: "Xiaoyi Xu"
 description: "Xiaoyi Xu is a Senior Biochar researcher at Tianjin University of Technology in CN. With 36 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.281097
+date: 2026-07-11T11:05:43.665566
 url: "/cdr-researcher-census/researchers/xiaoyi-xu-a5103361/"
 layout: "researcher"
 hiddenInHomeList: true

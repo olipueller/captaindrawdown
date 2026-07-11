@@ -1,7 +1,7 @@
 ---
 title: "Yakov Kuzyakov"
 description: "Yakov Kuzyakov is an Eminent Soil Carbon researcher at Georg-August-Universität Göttingen in DE. With 1451 publications and an h-index of 147, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.789242
+date: 2026-07-11T11:05:42.759222
 url: "/cdr-researcher-census/researchers/yakov-kuzyakov-a5062508/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 147 |
 | Citations | 95,845 |
 | Publications | 1451 |
-| CDR Focus | 8.1% |
+| CDR Focus | 7.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

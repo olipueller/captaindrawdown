@@ -1,7 +1,7 @@
 ---
 title: "Ran Xiao"
-description: "Ran Xiao is a Senior Biochar researcher at Southwest University in CN. With 79 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.959821
+description: "Ran Xiao is a Senior Soil Carbon researcher at Southwest University in CN. With 79 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:42.796706
 url: "/cdr-researcher-census/researchers/ran-xiao-a5084328/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Southwest University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Biochar**
+**Soil Carbon**
 
-Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
@@ -56,7 +56,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 3. **Impact of residual antibiotics on microbial decomposition of livestock manures in Eutric Regosol: Implications for sustainable nutrient recycling and soil carbon sequestration** (2023)
    18 citations · Soil Carbon
 
-4. **Co-composting and organic amendments as tools to accelerate soil maturation in purple soils: Insights into soil properties and agricultural potential** (2026)
+4. **Hydrochar as an effective amendment for enhancing soil aggregation and carbon sequestration: evidence from comparative microcosm experiments** (2026)
+   4 citations · Soil Carbon
+
+5. **Co-composting and organic amendments as tools to accelerate soil maturation in purple soils: Insights into soil properties and agricultural potential** (2026)
    0 citations
 
 ## External Profiles

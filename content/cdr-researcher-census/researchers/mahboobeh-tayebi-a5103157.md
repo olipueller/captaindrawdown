@@ -1,7 +1,7 @@
 ---
 title: "Mahboobeh Tayebi"
 description: "Mahboobeh Tayebi is a Mid-career Soil Carbon researcher at Universidade de São Paulo in BR. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.225764
+date: 2026-07-11T11:05:43.629267
 url: "/cdr-researcher-census/researchers/mahboobeh-tayebi-a5103157/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 261 |
 | Publications | 11 |
-| CDR Focus | 18.2% |
-| Trajectory | Exiting |
+| CDR Focus | 9.1% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

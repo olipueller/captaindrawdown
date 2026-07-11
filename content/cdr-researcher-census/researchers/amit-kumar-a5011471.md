@@ -1,7 +1,7 @@
 ---
 title: "Amit Kumar"
 description: "Amit Kumar is a Senior Soil Carbon researcher at United Arab Emirates University in AE. With 82 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.166064
+date: 2026-07-11T11:05:42.892396
 url: "/cdr-researcher-census/researchers/amit-kumar-a5011471/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -74,7 +74,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 8. **Particulate and mineral-associated organic matter in cropland soils: Meta-analysis of management effects** (2026)
    3 citations · Soil Carbon
 
-9. **Climate Change and Forest Fires: Ecosystem Vulnerability and Resilience** (2025)
+9. **Integrated soil–crop system management stabilizes soil organic carbon in saline soils via calcium-mediated synergy between microbial and mineral carbon pumps** (2026)
+   2 citations · Soil Carbon
+
+10. **Climate Change and Forest Fires: Ecosystem Vulnerability and Resilience** (2025)
    0 citations
 
 ## External Profiles

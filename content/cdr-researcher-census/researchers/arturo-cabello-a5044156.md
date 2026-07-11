@@ -1,7 +1,7 @@
 ---
 title: "Arturo Cabello"
-description: "Arturo Cabello is a Senior BECCS researcher at Instituto de Carboquímica in ES. With 73 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.270056
+description: "Arturo Cabello is a Senior General CDR researcher at Instituto de Carboquímica in ES. With 73 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:42.956024
 url: "/cdr-researcher-census/researchers/arturo-cabello-a5044156/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Instituto de Carboquímica · 🇪🇸 ES
 
 ## CDR Specialization
 
-**BECCS**
+**General CDR**
 
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 20 |
 | Citations | 1,351 |
 | Publications | 73 |
-| CDR Focus | 17.8% |
+| CDR Focus | 6.8% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

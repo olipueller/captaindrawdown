@@ -1,7 +1,7 @@
 ---
 title: "Andrea J. Fassbender"
 description: "Andrea J. Fassbender is a Senior Ocean CDR researcher at NOAA Pacific Marine Environmental Laboratory in US. With 117 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.127545
+date: 2026-07-11T11:05:42.871539
 url: "/cdr-researcher-census/researchers/andrea-j-fassbender-a5066878/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 29 |
 | Citations | 2,296 |
 | Publications | 117 |
-| CDR Focus | 6.8% |
+| CDR Focus | 6.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

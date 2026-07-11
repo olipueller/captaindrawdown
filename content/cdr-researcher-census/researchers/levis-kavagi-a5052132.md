@@ -1,7 +1,7 @@
 ---
 title: "Levis Kavagi"
 description: "Levis Kavagi is a Mid-career Soil Carbon researcher at Twitter (United States) in US. With 22 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.609304
+date: 2026-07-11T11:05:43.213312
 url: "/cdr-researcher-census/researchers/levis-kavagi-a5052132/"
 layout: "researcher"
 hiddenInHomeList: true

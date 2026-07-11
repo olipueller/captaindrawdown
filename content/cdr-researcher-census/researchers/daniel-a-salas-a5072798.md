@@ -1,7 +1,7 @@
 ---
 title: "Daniel A. Salas"
 description: "Daniel A. Salas is a Senior General CDR researcher at Escuela Superior Politecnica del Litoral in EC. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.453461
+date: 2026-07-11T11:05:43.075150
 url: "/cdr-researcher-census/researchers/daniel-a-salas-a5072798/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 7 |
 | Citations | 832 |
 | Publications | 11 |
-| CDR Focus | 9.1% |
+| CDR Focus | 18.2% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Life cycle assessment of bioenergy with carbon capture and storage: A review** (2024)
    29 citations · BECCS
+
+2. **Carbon Footprint of Electricity Generation in a Conceptual Bioenergy Power Plant With Carbon Capture and Storage** (2023)
+   0 citations · BECCS
 
 ## External Profiles
 

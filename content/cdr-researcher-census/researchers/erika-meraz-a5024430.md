@@ -1,7 +1,7 @@
 ---
 title: "Erika Meraz"
 description: "Erika Meraz is a Senior Soil Carbon researcher at University of Illinois Chicago in US. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.774793
+date: 2026-07-11T11:05:44.156553
 url: "/cdr-researcher-census/researchers/erika-meraz-a5024430/"
 layout: "researcher"
 hiddenInHomeList: true

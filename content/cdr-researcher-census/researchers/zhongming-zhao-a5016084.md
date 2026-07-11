@@ -1,7 +1,7 @@
 ---
 title: "Zhongming Zhao"
 description: "Zhongming Zhao is a Senior General CDR researcher at King's College London in GB. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.166743
+date: 2026-07-11T11:05:44.450954
 url: "/cdr-researcher-census/researchers/zhongming-zhao-a5016084/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Finn Müller-Hansen"
 description: "Finn Müller-Hansen is a Mid-career General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 70 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.172584
+date: 2026-07-11T11:05:42.896155
 url: "/cdr-researcher-census/researchers/finn-muller-hansen-a5048034/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 18 |
 | Citations | 1,906 |
 | Publications | 70 |
-| CDR Focus | 18.6% |
+| CDR Focus | 11.4% |
 | Trajectory | Declining |
 
 ## Top CDR Publications

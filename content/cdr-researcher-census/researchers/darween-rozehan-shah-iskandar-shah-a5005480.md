@@ -1,7 +1,7 @@
 ---
 title: "Darween Rozehan Shah Iskandar Shah"
 description: "Darween Rozehan Shah Iskandar Shah is an Early-career Biochar researcher at University of Malaya in MY. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.099414
+date: 2026-07-11T11:05:44.403097
 url: "/cdr-researcher-census/researchers/darween-rozehan-shah-iskandar-shah-a5005480/"
 layout: "researcher"
 hiddenInHomeList: true

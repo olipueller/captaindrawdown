@@ -1,7 +1,7 @@
 ---
 title: "Gilbert Kabelo Gaboutloeloe"
 description: "Gilbert Kabelo Gaboutloeloe is a Senior Biochar researcher at University of Botswana in BW. With 12 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.862624
+date: 2026-07-11T11:05:43.392609
 url: "/cdr-researcher-census/researchers/gilbert-kabelo-gaboutloeloe-a5027126/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sunanda Biswas"
 description: "Sunanda Biswas is a Mid-career Soil Carbon researcher at Bose Institute in IN. With 39 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.068030
+date: 2026-07-11T11:05:43.534822
 url: "/cdr-researcher-census/researchers/sunanda-biswas-a5040143/"
 layout: "researcher"
 hiddenInHomeList: true

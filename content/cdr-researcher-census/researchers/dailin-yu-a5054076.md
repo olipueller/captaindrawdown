@@ -1,7 +1,7 @@
 ---
 title: "Dailin Yu"
 description: "Dailin Yu is an Early-career Soil Carbon researcher at Huazhong Agricultural University in CN. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.537641
+date: 2026-07-11T11:05:43.896261
 url: "/cdr-researcher-census/researchers/dailin-yu-a5054076/"
 layout: "researcher"
 hiddenInHomeList: true

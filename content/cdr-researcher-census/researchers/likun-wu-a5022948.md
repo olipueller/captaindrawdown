@@ -1,7 +1,7 @@
 ---
 title: "Likun Wu"
 description: "Likun Wu is a Senior Soil Carbon researcher at King University in US. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.779207
+date: 2026-07-11T11:05:43.333735
 url: "/cdr-researcher-census/researchers/likun-wu-a5022948/"
 layout: "researcher"
 hiddenInHomeList: true

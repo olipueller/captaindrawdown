@@ -1,7 +1,7 @@
 ---
 title: "Kunxian Tang"
 description: "Kunxian Tang is a Senior Ocean CDR researcher at Ministry of Natural Resources in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.316542
+date: 2026-07-11T11:05:43.690686
 url: "/cdr-researcher-census/researchers/kunxian-tang-a5053566/"
 layout: "researcher"
 hiddenInHomeList: true

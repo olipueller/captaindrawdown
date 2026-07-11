@@ -1,7 +1,7 @@
 ---
 title: "Yongqiang Han"
 description: "Yongqiang Han is a Senior Ocean CDR researcher at Chinese Academy of Sciences in CN. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.417938
+date: 2026-07-11T11:05:43.762474
 url: "/cdr-researcher-census/researchers/yongqiang-han-a5100516/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,12 +42,15 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 10 |
 | Citations | 210 |
 | Publications | 17 |
-| CDR Focus | 5.9% |
-| Trajectory | Growing |
+| CDR Focus | 11.8% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
-1. **Enhanced biological pump and carbonate pump synergy: The primary pathway for phosphorus clearance in the century-long dynamics of a karst lake** (2025)
+1. **Carbon sinks associated with biological carbon pump in karst surface waters: Progress, challenges, and prospects** (2024)
+   20 citations · General CDR
+
+2. **Enhanced biological pump and carbonate pump synergy: The primary pathway for phosphorus clearance in the century-long dynamics of a karst lake** (2025)
    12 citations · Ocean CDR
 
 ## External Profiles

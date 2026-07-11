@@ -1,7 +1,7 @@
 ---
 title: "Xueqin Shao"
 description: "Xueqin Shao is a Mid-career Biochar researcher at Changchun University in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.345452
+date: 2026-07-11T11:05:43.711401
 url: "/cdr-researcher-census/researchers/xueqin-shao-a5108297/"
 layout: "researcher"
 hiddenInHomeList: true

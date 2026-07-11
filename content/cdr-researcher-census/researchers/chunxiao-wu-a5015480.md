@@ -1,7 +1,7 @@
 ---
 title: "Chunxiao Wu"
 description: "Chunxiao Wu is a Mid-career Soil Carbon researcher at Hebei University of Engineering in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.794099
+date: 2026-07-11T11:05:44.170437
 url: "/cdr-researcher-census/researchers/chunxiao-wu-a5015480/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 142 |
 | Publications | 9 |
-| CDR Focus | 22.2% |
+| CDR Focus | 11.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Laura Herraiz"
 description: "Laura Herraiz is a Mid-career General CDR researcher at Heriot-Watt University in GB. With 31 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.843942
+date: 2026-07-11T11:05:43.379007
 url: "/cdr-researcher-census/researchers/laura-herraiz-a5073887/"
 layout: "researcher"
 hiddenInHomeList: true

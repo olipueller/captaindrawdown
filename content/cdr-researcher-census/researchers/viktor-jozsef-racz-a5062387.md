@@ -1,7 +1,7 @@
 ---
 title: "Viktor József Rácz"
 description: "Viktor József Rácz is a Mid-career General CDR researcher at Corvinus University of Budapest in HU. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.859344
+date: 2026-07-11T11:05:44.219153
 url: "/cdr-researcher-census/researchers/viktor-jozsef-racz-a5062387/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 5 |
 | Citations | 132 |
 | Publications | 18 |
-| CDR Focus | 11.1% |
+| CDR Focus | 5.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

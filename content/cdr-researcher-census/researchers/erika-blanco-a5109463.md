@@ -1,7 +1,7 @@
 ---
 title: "Erika Blanco"
 description: "Erika Blanco is a Mid-career General CDR researcher at University of the Coast in CO. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.528847
+date: 2026-07-11T11:05:43.888200
 url: "/cdr-researcher-census/researchers/erika-blanco-a5109463/"
 layout: "researcher"
 hiddenInHomeList: true

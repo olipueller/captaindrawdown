@@ -1,7 +1,7 @@
 ---
 title: "Jingzhe Li"
 description: "Jingzhe Li is a Mid-career Biochar researcher at Guangxi University in CN. With 38 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.684606
+date: 2026-07-11T11:05:43.263906
 url: "/cdr-researcher-census/researchers/jingzhe-li-a5101464/"
 layout: "researcher"
 hiddenInHomeList: true

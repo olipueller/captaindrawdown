@@ -1,7 +1,7 @@
 ---
 title: "Zeyi Jiang"
 description: "Zeyi Jiang is a Senior Biochar researcher. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.951673
+date: 2026-07-11T11:05:43.452394
 url: "/cdr-researcher-census/researchers/zeyi-jiang-a5109415/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,6 +47,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 2. **Optimization of Microalgal Hydrothermal Carbonization Parameters Using the Response Surface Method for Biochar Applications in Blast Furnaces to Reduce Carbon Emissions** (2024)
    2 citations · Biochar
+
+3. **Strong metal-support interaction engineering in Ru/TiO2 mesostructures: Achieving ultra-deep CO removal below 1 ppm** (2025)
+   1 citations
 
 ## External Profiles
 

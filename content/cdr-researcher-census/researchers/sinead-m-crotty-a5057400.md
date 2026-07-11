@@ -1,7 +1,7 @@
 ---
 title: "Sinéad M. Crotty"
 description: "Sinéad M. Crotty is a Mid-career General CDR researcher at Yale University in US. With 33 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.599674
+date: 2026-07-11T11:05:43.207039
 url: "/cdr-researcher-census/researchers/sinead-m-crotty-a5057400/"
 layout: "researcher"
 hiddenInHomeList: true

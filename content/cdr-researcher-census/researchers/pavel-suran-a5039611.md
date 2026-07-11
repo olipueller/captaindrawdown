@@ -1,7 +1,7 @@
 ---
 title: "Pavel Suran"
 description: "Pavel Suran is a Mid-career Soil Carbon researcher at Czech University of Life Sciences Prague in CZ. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.957110
+date: 2026-07-11T11:05:44.294089
 url: "/cdr-researcher-census/researchers/pavel-suran-a5039611/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,12 +42,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 121 |
 | Publications | 14 |
-| CDR Focus | 7.1% |
-| Trajectory | Growing |
+| CDR Focus | 28.6% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
-1. **Soil Organic Matter Quality and Carbon Sequestration Potential Affected by Straw Return in 11-Year On-Farm Trials in the Czech Republic** (2025)
+1. **The Effect of Long-Term Farmyard Manure and Mineral Fertilizer Application on the Increase in Soil Organic Matter Quality of Cambisols** (2023)
+   9 citations · Soil Carbon
+
+2. **Long-Term Application of Manure and Different Mineral Fertilization in Relation to the Soil Organic Matter Quality of Luvisols** (2023)
+   9 citations · Soil Carbon
+
+3. **Soil Organic Matter Quality and Carbon Sequestration Potential Affected by Straw Return in 11-Year On-Farm Trials in the Czech Republic** (2025)
+   4 citations · Soil Carbon
+
+4. **Changes in soil organic matter content and quality after application of different organic and mineral fertilisers in 27 years long-term field experiments on luvisol** (2025)
    4 citations · Soil Carbon
 
 ## External Profiles

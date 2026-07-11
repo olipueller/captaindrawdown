@@ -1,7 +1,7 @@
 ---
 title: "Qing Liu"
 description: "Qing Liu is a Mid-career Biochar researcher at Guilin University of Technology in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.920310
+date: 2026-07-11T11:05:44.264134
 url: "/cdr-researcher-census/researchers/qing-liu-a5039028/"
 layout: "researcher"
 hiddenInHomeList: true

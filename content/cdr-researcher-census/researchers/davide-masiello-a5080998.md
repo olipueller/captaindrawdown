@@ -1,7 +1,7 @@
 ---
 title: "Davide Masiello"
 description: "Davide Masiello is a Mid-career General CDR researcher. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.978427
+date: 2026-07-11T11:05:44.310824
 url: "/cdr-researcher-census/researchers/davide-masiello-a5080998/"
 layout: "researcher"
 hiddenInHomeList: true

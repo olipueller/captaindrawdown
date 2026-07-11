@@ -1,7 +1,7 @@
 ---
 title: "Shikha Mishra"
 description: "Shikha Mishra is a Senior BECCS researcher at Kern Medical Center in US. With 95 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.177167
+date: 2026-07-11T11:05:42.898660
 url: "/cdr-researcher-census/researchers/shikha-mishra-a5012094/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Houssam Bouaboula"
 description: "Houssam Bouaboula is an Early-career General CDR researcher at Université Mohammed VI Polytechnique in MA. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.406899
+date: 2026-07-11T11:05:43.755167
 url: "/cdr-researcher-census/researchers/houssam-bouaboula-a5030517/"
 layout: "researcher"
 hiddenInHomeList: true

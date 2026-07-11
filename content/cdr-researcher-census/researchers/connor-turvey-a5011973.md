@@ -1,7 +1,7 @@
 ---
 title: "Connor Turvey"
 description: "Connor Turvey is a Senior General CDR researcher at University of Alberta in CA. With 52 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.489840
+date: 2026-07-11T11:05:43.101711
 url: "/cdr-researcher-census/researchers/connor-turvey-a5011973/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 16 |
 | Citations | 762 |
 | Publications | 52 |
-| CDR Focus | 9.6% |
+| CDR Focus | 5.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Yanhu Yang"
 description: "Yanhu Yang is an Early-career Biochar researcher at Yili Normal University in CN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.152535
+date: 2026-07-11T11:05:44.442044
 url: "/cdr-researcher-census/researchers/yanhu-yang-a5101394/"
 layout: "researcher"
 hiddenInHomeList: true

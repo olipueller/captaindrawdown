@@ -1,7 +1,7 @@
 ---
 title: "Bruno D.V Marino"
 description: "Bruno D.V Marino is a Senior General CDR researcher. With 42 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.160559
+date: 2026-07-11T11:05:42.889708
 url: "/cdr-researcher-census/researchers/bruno-dv-marino-a5003088/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 19 |
 | Citations | 1,997 |
 | Publications | 42 |
-| CDR Focus | 9.5% |
+| CDR Focus | 7.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

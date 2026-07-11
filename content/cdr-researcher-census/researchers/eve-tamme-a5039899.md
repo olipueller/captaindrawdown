@@ -1,7 +1,7 @@
 ---
 title: "Eve Tamme"
 description: "Eve Tamme is a Mid-career General CDR researcher at Princip (Czechia) in CZ. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.876374
+date: 2026-07-11T11:05:44.232615
 url: "/cdr-researcher-census/researchers/eve-tamme-a5039899/"
 layout: "researcher"
 hiddenInHomeList: true

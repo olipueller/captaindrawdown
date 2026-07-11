@@ -1,7 +1,7 @@
 ---
 title: "Gemma Chiaffarelli"
 description: "Gemma Chiaffarelli is a Mid-career Soil Carbon researcher at University of Milan in IT. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.131806
+date: 2026-07-11T11:05:44.427189
 url: "/cdr-researcher-census/researchers/gemma-chiaffarelli-a5039436/"
 layout: "researcher"
 hiddenInHomeList: true

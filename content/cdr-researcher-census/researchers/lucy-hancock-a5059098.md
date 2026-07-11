@@ -1,7 +1,7 @@
 ---
 title: "Lucy Hancock"
 description: "Lucy Hancock is a Senior Soil Carbon researcher at Creighton University in US. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.509038
+date: 2026-07-11T11:05:43.839318
 url: "/cdr-researcher-census/researchers/lucy-hancock-a5059098/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Matthew E. Craig"
 description: "Matthew E. Craig is a Mid-career Soil Carbon researcher at Oak Ridge National Laboratory in US. With 42 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.079886
+date: 2026-07-11T11:05:42.849211
 url: "/cdr-researcher-census/researchers/matthew-e-craig-a5012996/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 16 |
 | Citations | 2,890 |
 | Publications | 42 |
-| CDR Focus | 11.9% |
+| CDR Focus | 9.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

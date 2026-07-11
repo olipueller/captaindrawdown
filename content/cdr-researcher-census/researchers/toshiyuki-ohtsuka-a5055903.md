@@ -1,7 +1,7 @@
 ---
 title: "Toshiyuki Ohtsuka"
 description: "Toshiyuki Ohtsuka is a Senior Soil Carbon researcher at Gifu University in JP. With 93 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.025359
+date: 2026-07-11T11:05:42.824152
 url: "/cdr-researcher-census/researchers/toshiyuki-ohtsuka-a5055903/"
 layout: "researcher"
 hiddenInHomeList: true

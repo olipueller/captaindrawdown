@@ -1,7 +1,7 @@
 ---
 title: "Xuning Qiao"
 description: "Xuning Qiao is a Senior General CDR researcher at Ministry of Agriculture and Rural Development in PL. With 36 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.594940
+date: 2026-07-11T11:05:43.203770
 url: "/cdr-researcher-census/researchers/xuning-qiao-a5024372/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 12 |
 | Citations | 612 |
 | Publications | 36 |
-| CDR Focus | 13.9% |
-| Trajectory | Stable |
+| CDR Focus | 8.3% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

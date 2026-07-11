@@ -1,7 +1,7 @@
 ---
 title: "Peiyuan Deng"
 description: "Peiyuan Deng is a Mid-career Biochar researcher at Zhengzhou Normal University in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.330006
+date: 2026-07-11T11:05:43.700167
 url: "/cdr-researcher-census/researchers/peiyuan-deng-a5054390/"
 layout: "researcher"
 hiddenInHomeList: true

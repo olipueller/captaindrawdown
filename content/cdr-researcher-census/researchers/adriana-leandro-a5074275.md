@@ -1,7 +1,7 @@
 ---
 title: "Adriana Leandro"
 description: "Adriana Leandro is a Mid-career Soil Carbon researcher at University of Coimbra in PT. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.169474
+date: 2026-07-11T11:05:42.895050
 url: "/cdr-researcher-census/researchers/adriana-leandro-a5074275/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Keren A. Vivas"
 description: "Keren A. Vivas is a Mid-career Soil Carbon researcher at North Carolina State University in US. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.035428
+date: 2026-07-11T11:05:43.510806
 url: "/cdr-researcher-census/researchers/keren-a-vivas-a5057673/"
 layout: "researcher"
 hiddenInHomeList: true

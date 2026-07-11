@@ -1,7 +1,7 @@
 ---
 title: "Weiteng Qiu"
 description: "Weiteng Qiu is a Mid-career General CDR researcher at University of Exeter in GB. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.867071
+date: 2026-07-11T11:05:44.225750
 url: "/cdr-researcher-census/researchers/weiteng-qiu-a5025583/"
 layout: "researcher"
 hiddenInHomeList: true

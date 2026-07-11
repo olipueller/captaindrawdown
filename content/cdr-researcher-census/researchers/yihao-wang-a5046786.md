@@ -1,7 +1,7 @@
 ---
 title: "Yihao Wang"
 description: "Yihao Wang is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.319094
+date: 2026-07-11T11:05:43.692631
 url: "/cdr-researcher-census/researchers/yihao-wang-a5046786/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,7 +53,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Goethite-enriched biochar mitigates soil emissions of CO2 during arsenic passivation: Effect and mechanisms** (2023)
    20 citations · Biochar
 
-2. **Iron (Hydr)oxide-Enriched Biochar for Arsenic Immobilization Under Microbial Iron Reduction and Fluctuating Redox Conditions** (2025)
+2. **Influence of soil substrate availability and plant species diversity on soil microbial biomass and enzyme activity in a subalpine natural secondary forest** (2025)
+   6 citations
+
+3. **Iron (Hydr)oxide-Enriched Biochar for Arsenic Immobilization Under Microbial Iron Reduction and Fluctuating Redox Conditions** (2025)
    2 citations · Biochar
 
 ## External Profiles

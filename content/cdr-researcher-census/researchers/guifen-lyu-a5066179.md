@@ -1,7 +1,7 @@
 ---
 title: "Guifen Lyu"
 description: "Guifen Lyu is an Early-career Biochar researcher at New Jersey Institute of Technology in US. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.038952
+date: 2026-07-11T11:05:44.375216
 url: "/cdr-researcher-census/researchers/guifen-lyu-a5066179/"
 layout: "researcher"
 hiddenInHomeList: true

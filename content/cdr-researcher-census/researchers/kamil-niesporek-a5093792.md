@@ -1,7 +1,7 @@
 ---
 title: "Kamil Niesporek"
 description: "Kamil Niesporek is a Mid-career General CDR researcher at Silesian University of Technology in PL. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.666974
+date: 2026-07-11T11:05:44.076476
 url: "/cdr-researcher-census/researchers/kamil-niesporek-a5093792/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 6 |
 | Citations | 161 |
 | Publications | 16 |
-| CDR Focus | 31.2% |
+| CDR Focus | 18.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

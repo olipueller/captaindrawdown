@@ -1,7 +1,7 @@
 ---
 title: "Britta Kuempers"
 description: "Britta Kuempers is a Mid-career Soil Carbon researcher at University of Exeter in GB. With 3 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.927482
+date: 2026-07-11T11:05:44.269551
 url: "/cdr-researcher-census/researchers/britta-kuempers-a5113918/"
 layout: "researcher"
 hiddenInHomeList: true

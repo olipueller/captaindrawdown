@@ -1,7 +1,7 @@
 ---
 title: "Xiting Zhang"
 description: "Xiting Zhang is a Mid-career Soil Carbon researcher at Leshan Normal University in CN. With 42 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.664401
+date: 2026-07-11T11:05:43.249697
 url: "/cdr-researcher-census/researchers/xiting-zhang-a5103025/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 14 |
 | Citations | 543 |
 | Publications | 42 |
-| CDR Focus | 19.0% |
+| CDR Focus | 16.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

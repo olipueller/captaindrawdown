@@ -1,7 +1,7 @@
 ---
 title: "Petteri Peltola"
 description: "Petteri Peltola is a Senior General CDR researcher at VTT Technical Research Centre of Finland in FI. With 25 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.530133
+date: 2026-07-11T11:05:43.132911
 url: "/cdr-researcher-census/researchers/petteri-peltola-a5007939/"
 layout: "researcher"
 hiddenInHomeList: true

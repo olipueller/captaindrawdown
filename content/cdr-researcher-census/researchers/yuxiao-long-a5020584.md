@@ -1,7 +1,7 @@
 ---
 title: "Yuxiao Long"
 description: "Yuxiao Long is a Mid-career Soil Carbon researcher at Chongqing University in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.905811
+date: 2026-07-11T11:05:44.252899
 url: "/cdr-researcher-census/researchers/yuxiao-long-a5020584/"
 layout: "researcher"
 hiddenInHomeList: true

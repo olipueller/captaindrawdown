@@ -1,7 +1,7 @@
 ---
 title: "Mohamed S. Al-Anany"
 description: "Mohamed S. Al-Anany is a Mid-career Soil Carbon researcher at Al-Azhar University in EG. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.191753
+date: 2026-07-11T11:05:43.605129
 url: "/cdr-researcher-census/researchers/mohamed-s-al-anany-a5040117/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yinghui Jiang"
 description: "Yinghui Jiang is a Senior Soil Carbon researcher at Division of Materials Science and Engineering in AU. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.385979
+date: 2026-07-11T11:05:43.740530
 url: "/cdr-researcher-census/researchers/yinghui-jiang-a5100801/"
 layout: "researcher"
 hiddenInHomeList: true

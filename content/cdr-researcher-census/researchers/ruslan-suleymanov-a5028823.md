@@ -1,7 +1,7 @@
 ---
 title: "Ruslan Suleymanov"
 description: "Ruslan Suleymanov is a Senior Soil Carbon researcher at Ufa Institute of Chemistry in RU. With 67 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.868207
+date: 2026-07-11T11:05:43.396921
 url: "/cdr-researcher-census/researchers/ruslan-suleymanov-a5028823/"
 layout: "researcher"
 hiddenInHomeList: true

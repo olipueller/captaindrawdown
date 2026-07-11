@@ -1,7 +1,7 @@
 ---
 title: "Gaffer Ahmed"
 description: "Gaffer Ahmed is a Mid-career Biochar researcher at Indian Institute of Technology Guwahati in IN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.700372
+date: 2026-07-11T11:05:44.100243
 url: "/cdr-researcher-census/researchers/gaffer-ahmed-a5102822/"
 layout: "researcher"
 hiddenInHomeList: true

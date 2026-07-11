@@ -1,7 +1,7 @@
 ---
 title: "Vassilis Daioglou"
 description: "Vassilis Daioglou is an Eminent General CDR researcher at Netherlands Environmental Assessment Agency in NL. With 161 publications and an h-index of 45, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.902520
+date: 2026-07-11T11:05:42.780428
 url: "/cdr-researcher-census/researchers/vassilis-daioglou-a5020000/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 45 |
 | Citations | 9,707 |
 | Publications | 161 |
-| CDR Focus | 15.5% |
+| CDR Focus | 14.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

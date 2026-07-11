@@ -1,7 +1,7 @@
 ---
 title: "Tiago Osório Ferreira"
 description: "Tiago Osório Ferreira is an Eminent Soil Carbon researcher at Universidade de São Paulo Escola Superior de Agricultura Luiz de Queiroz in BR. With 239 publications and an h-index of 41, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.953749
+date: 2026-07-11T11:05:42.794794
 url: "/cdr-researcher-census/researchers/tiago-osorio-ferreira-a5026553/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 41 |
 | Citations | 6,386 |
 | Publications | 239 |
-| CDR Focus | 7.5% |
+| CDR Focus | 5.4% |
 | Trajectory | Declining |
 
 ## Top CDR Publications

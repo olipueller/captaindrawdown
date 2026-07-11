@@ -1,7 +1,7 @@
 ---
 title: "Liwei Qian"
 description: "Liwei Qian is a Mid-career Soil Carbon researcher at Tongji University in CN. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.624701
+date: 2026-07-11T11:05:44.029735
 url: "/cdr-researcher-census/researchers/liwei-qian-a5102336/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 169 |
 | Publications | 22 |
-| CDR Focus | 36.4% |
+| CDR Focus | 40.9% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -65,10 +65,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 6. **Biomarker analysis revealed tidal organic carbon input enhanced soil respiration and weakened carbon sequestration function of estuarine wetland: Field validation of the Jiuduansha Wetland in the Yangtze River estuary** (2024)
    1 citations · Ocean CDR
 
-7. **Estuarine Wetland Tidal Organic Carbon Activates Microbial Carbon Pump and Increases Long-Term Soil Carbon Stabilityestuarine Wetland Tidal Organic Carbon Activates Microbial Carbon Pump and Increases Long-Term Soil Carbon Stability** (2024)
+7. **The High Organic Carbon Accumulation in Estuarine Wetlands Necessarily Does Not Represent a High Co2 Sequestration Capacity** (2022)
+   1 citations · General CDR
+
+8. **Estuarine Wetland Tidal Organic Carbon Activates Microbial Carbon Pump and Increases Long-Term Soil Carbon Stabilityestuarine Wetland Tidal Organic Carbon Activates Microbial Carbon Pump and Increases Long-Term Soil Carbon Stability** (2024)
    0 citations · Soil Carbon
 
-8. **Driving Force of Tidal Organic Carbon Input on the Microbial Carbon Pump and the Long-Term Soil Carbon Pool Stability of the Estuarine Wetland** (2024)
+9. **Driving Force of Tidal Organic Carbon Input on the Microbial Carbon Pump and the Long-Term Soil Carbon Pool Stability of the Estuarine Wetland** (2024)
    0 citations · Soil Carbon
 
 ## External Profiles

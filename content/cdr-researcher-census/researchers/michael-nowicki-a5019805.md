@@ -1,7 +1,7 @@
 ---
 title: "Michael Nowicki"
 description: "Michael Nowicki is a Mid-career Ocean CDR researcher at University of California, Santa Barbara in US. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.595718
+date: 2026-07-11T11:05:43.204471
 url: "/cdr-researcher-census/researchers/michael-nowicki-a5019805/"
 layout: "researcher"
 hiddenInHomeList: true

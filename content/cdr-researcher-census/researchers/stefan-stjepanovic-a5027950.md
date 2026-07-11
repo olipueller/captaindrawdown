@@ -1,7 +1,7 @@
 ---
 title: "Stefan Stjepanović"
 description: "Stefan Stjepanović is a Mid-career Soil Carbon researcher at University of East Sarajevo in BA. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.959146
+date: 2026-07-11T11:05:44.295963
 url: "/cdr-researcher-census/researchers/stefan-stjepanovic-a5027950/"
 layout: "researcher"
 hiddenInHomeList: true

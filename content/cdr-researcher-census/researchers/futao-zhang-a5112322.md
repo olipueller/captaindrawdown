@@ -1,7 +1,7 @@
 ---
 title: "Futao Zhang"
 description: "Futao Zhang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 29 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.741074
+date: 2026-07-11T11:05:43.304392
 url: "/cdr-researcher-census/researchers/futao-zhang-a5112322/"
 layout: "researcher"
 hiddenInHomeList: true

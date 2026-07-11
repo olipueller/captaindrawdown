@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Adnan Hayat"
 description: "Muhammad Adnan Hayat is a Mid-career General CDR researcher. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.894394
+date: 2026-07-11T11:05:44.245008
 url: "/cdr-researcher-census/researchers/muhammad-adnan-hayat-a5114214/"
 layout: "researcher"
 hiddenInHomeList: true

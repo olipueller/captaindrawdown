@@ -1,7 +1,7 @@
 ---
 title: "Akihito Goto"
 description: "Akihito Goto is an Early-career Soil Carbon researcher at Yokohama National University in JP. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.991797
+date: 2026-07-11T11:05:44.320615
 url: "/cdr-researcher-census/researchers/akihito-goto-a5031982/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 117 |
 | Publications | 7 |
-| CDR Focus | 28.6% |
-| Trajectory | Growing |
+| CDR Focus | 14.3% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

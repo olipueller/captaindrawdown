@@ -1,7 +1,7 @@
 ---
 title: "Zilian Liu"
 description: "Zilian Liu is a Mid-career Biochar researcher at Kunming University of Science and Technology in CN. With 48 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.202527
+date: 2026-07-11T11:05:43.613849
 url: "/cdr-researcher-census/researchers/zilian-liu-a5021934/"
 layout: "researcher"
 hiddenInHomeList: true

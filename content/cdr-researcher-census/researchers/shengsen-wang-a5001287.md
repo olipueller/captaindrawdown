@@ -1,7 +1,7 @@
 ---
 title: "Shengsen Wang"
 description: "Shengsen Wang is an Eminent Biochar researcher at Yangzhou University in CN. With 162 publications and an h-index of 52, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.898815
+date: 2026-07-11T11:05:42.779027
 url: "/cdr-researcher-census/researchers/shengsen-wang-a5001287/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | Citations | 10,933 |
 | Publications | 162 |
 | CDR Focus | 6.8% |
-| Trajectory | Exiting |
+| Trajectory | Declining |
 
 ## Top CDR Publications
 
@@ -71,13 +71,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 7. **Patterns and determinants of microbial- and plant-derived carbon contributions to soil organic carbon in tea plantation chronosequence** (2024)
    15 citations · Soil Carbon
 
-8. **Straw and Biochar Amendments Over a Decade Differently Modulates Denitrification Gas Products** (2024)
+8. **Engineered biochar for simultaneous removal of heavy metals and organic pollutants from wastewater: mechanisms, efficiency, and applications** (2025)
    5 citations · Biochar
 
-9. **Agricultural Waste-Based Biochar for Soil Carbon Sequestration and Emission Reduction: Preparation, Evaluation, Application, and Mechanism** (2023)
-   1 citations · Biochar
+9. **Straw and Biochar Amendments Over a Decade Differently Modulates Denitrification Gas Products** (2024)
+   5 citations · Biochar
 
-10. **Noncondensed aromatic carbon of sludge-derived biochar predominated peroxydisulfate activation mechanism for tetracycline degradation via an electron transfer pathway** (2023)
+10. **Agricultural Waste-Based Biochar for Soil Carbon Sequestration and Emission Reduction: Preparation, Evaluation, Application, and Mechanism** (2023)
    1 citations · Biochar
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Jawad Mustafa"
 description: "Jawad Mustafa is a Mid-career Ocean CDR researcher at Northumbria University in GB. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.761907
+date: 2026-07-11T11:05:43.321312
 url: "/cdr-researcher-census/researchers/jawad-mustafa-a5085245/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 10 |
 | Citations | 460 |
 | Publications | 20 |
-| CDR Focus | 20.0% |
+| CDR Focus | 5.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

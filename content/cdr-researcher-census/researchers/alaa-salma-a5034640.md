@@ -1,7 +1,7 @@
 ---
 title: "Alaa Salma"
 description: "Alaa Salma is a Mid-career General CDR researcher at École des Métiers de l’Environnement in FR. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.802885
+date: 2026-07-11T11:05:44.177452
 url: "/cdr-researcher-census/researchers/alaa-salma-a5034640/"
 layout: "researcher"
 hiddenInHomeList: true

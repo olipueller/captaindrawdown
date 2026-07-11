@@ -1,7 +1,7 @@
 ---
 title: "Tella Adewale Akanni Taleat"
 description: "Tella Adewale Akanni Taleat is a Mid-career Biochar researcher at Federal Polytechnic Ede in NG. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.989013
+date: 2026-07-11T11:05:44.317962
 url: "/cdr-researcher-census/researchers/tella-adewale-akanni-taleat-a5033607/"
 layout: "researcher"
 hiddenInHomeList: true

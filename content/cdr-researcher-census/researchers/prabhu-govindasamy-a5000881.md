@@ -1,7 +1,7 @@
 ---
 title: "Prabhu Govindasamy"
 description: "Prabhu Govindasamy is a Mid-career Soil Carbon researcher at Indian Grassalnd and Fodder Research Institute  in IN. With 71 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.347663
+date: 2026-07-11T11:05:43.005303
 url: "/cdr-researcher-census/researchers/prabhu-govindasamy-a5000881/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Citations | 1,076 |
 | Publications | 71 |
 | CDR Focus | 5.6% |
-| Trajectory | Exiting |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
@@ -56,10 +56,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 2. **Twenty-one years’ impact of using organic amendments on the productivity of rice-wheat rotation and soil properties** (2024)
    23 citations · Soil Carbon
 
-3. **The interplay between external residue addition, and soil organic carbon dynamics and mineralization kinetics: Experiences from a 12-year old conservation agriculture** (2024)
+3. **Agroforestry: Harnessing the unrealized potential for negative carbon emission** (2025)
+   2 citations · BECCS
+
+4. **The interplay between external residue addition, and soil organic carbon dynamics and mineralization kinetics: Experiences from a 12-year old conservation agriculture** (2024)
    2 citations · Soil Carbon
 
-4. **Range Grasses to Improve Soil Properties, Carbon Sustainability and Fodder Security in Degraded Lands of Semi-Arid Regions** (2022)
+5. **Range Grasses to Improve Soil Properties, Carbon Sustainability and Fodder Security in Degraded Lands of Semi-Arid Regions** (2022)
    0 citations · Soil Carbon
 
 ## External Profiles

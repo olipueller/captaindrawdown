@@ -1,7 +1,7 @@
 ---
 title: "Ciaran Robb"
 description: "Ciaran Robb is a Mid-career Soil Carbon researcher at James Hutton Institute in GB. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.404662
+date: 2026-07-11T11:05:43.753660
 url: "/cdr-researcher-census/researchers/ciaran-robb-a5014917/"
 layout: "researcher"
 hiddenInHomeList: true

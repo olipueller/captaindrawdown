@@ -1,7 +1,7 @@
 ---
 title: "Tanzeel Ur Rahman"
 description: "Tanzeel Ur Rahman is a Mid-career Soil Carbon researcher at University of Swabi in PK. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.947097
+date: 2026-07-11T11:05:43.449333
 url: "/cdr-researcher-census/researchers/tanzeel-ur-rahman-a5077541/"
 layout: "researcher"
 hiddenInHomeList: true

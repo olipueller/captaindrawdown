@@ -1,7 +1,7 @@
 ---
 title: "Özlem Altıntaş Yıldırım"
 description: "Özlem Altıntaş Yıldırım is a Senior Biochar researcher at Konya Technical University in TR. With 28 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.404965
+date: 2026-07-11T11:05:43.042640
 url: "/cdr-researcher-census/researchers/ozlem-altntas-yldrm-a5024397/"
 layout: "researcher"
 hiddenInHomeList: true

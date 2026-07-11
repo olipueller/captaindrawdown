@@ -1,7 +1,7 @@
 ---
 title: "Yingfan Chen"
 description: "Yingfan Chen is a Senior Biochar researcher at Jiangxi University of Traditional Chinese Medicine in CN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.650218
+date: 2026-07-11T11:05:43.239522
 url: "/cdr-researcher-census/researchers/yingfan-chen-a5017830/"
 layout: "researcher"
 hiddenInHomeList: true

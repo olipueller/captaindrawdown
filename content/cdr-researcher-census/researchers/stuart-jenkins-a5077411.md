@@ -1,7 +1,7 @@
 ---
 title: "Stuart Jenkins"
 description: "Stuart Jenkins is a Senior General CDR researcher at University of Oxford in GB. With 71 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.101919
+date: 2026-07-11T11:05:42.860207
 url: "/cdr-researcher-census/researchers/stuart-jenkins-a5077411/"
 layout: "researcher"
 hiddenInHomeList: true

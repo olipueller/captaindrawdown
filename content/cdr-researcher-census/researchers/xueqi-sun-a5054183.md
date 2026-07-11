@@ -1,7 +1,7 @@
 ---
 title: "Xueqi Sun"
 description: "Xueqi Sun is a Mid-career Soil Carbon researcher at Guangzhou Quality Supervision, Inspection and Research Institute in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.906206
+date: 2026-07-11T11:05:44.253260
 url: "/cdr-researcher-census/researchers/xueqi-sun-a5054183/"
 layout: "researcher"
 hiddenInHomeList: true

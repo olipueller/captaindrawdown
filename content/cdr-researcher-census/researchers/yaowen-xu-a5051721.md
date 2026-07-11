@@ -1,7 +1,7 @@
 ---
 title: "Yaowen Xu"
 description: "Yaowen Xu is a Mid-career Soil Carbon researcher at Zhejiang Lab in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.798754
+date: 2026-07-11T11:05:44.173492
 url: "/cdr-researcher-census/researchers/yaowen-xu-a5051721/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 141 |
 | Publications | 18 |
-| CDR Focus | 33.3% |
-| Trajectory | Growing |
+| CDR Focus | 27.8% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
@@ -62,7 +62,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 5. **Development of Low-carbon and Porous Biochar-Slag Composites for Efficient Phosphorus Removal** (2026)
    0 citations · Biochar
 
-6. **Microbial mechanisms of carbon sequestration discrepancy between broadleaf and Moso bamboo forests** (2025)
+6. **Divergent microbial pathways of soil carbon sequestration in topsoil and subsoil during forest succession** (2026)
+   0 citations · Soil Carbon
+
+7. **Microbial mechanisms of carbon sequestration discrepancy between broadleaf and Moso bamboo forests** (2025)
    0 citations
 
 ## External Profiles

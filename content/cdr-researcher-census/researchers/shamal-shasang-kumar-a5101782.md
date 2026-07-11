@@ -1,7 +1,7 @@
 ---
 title: "Shamal Shasang Kumar"
 description: "Shamal Shasang Kumar is a Mid-career General CDR researcher at Ministry of Agriculture in FJ. With 35 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.550317
+date: 2026-07-11T11:05:43.147607
 url: "/cdr-researcher-census/researchers/shamal-shasang-kumar-a5101782/"
 layout: "researcher"
 hiddenInHomeList: true

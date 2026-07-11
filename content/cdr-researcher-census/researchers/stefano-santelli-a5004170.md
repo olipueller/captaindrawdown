@@ -1,7 +1,7 @@
 ---
 title: "Stefano Santelli"
 description: "Stefano Santelli is a Mid-career Soil Carbon researcher at Università Cattolica del Sacro Cuore in IT. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.139310
+date: 2026-07-11T11:05:43.566743
 url: "/cdr-researcher-census/researchers/stefano-santelli-a5004170/"
 layout: "researcher"
 hiddenInHomeList: true

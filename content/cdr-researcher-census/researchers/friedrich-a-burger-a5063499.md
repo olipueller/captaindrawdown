@@ -1,7 +1,7 @@
 ---
 title: "Friedrich A. Burger"
 description: "Friedrich A. Burger is a Mid-career Ocean CDR researcher at University of Bern in CH. With 80 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.355578
+date: 2026-07-11T11:05:43.010880
 url: "/cdr-researcher-census/researchers/friedrich-a-burger-a5063499/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 13 |
 | Citations | 1,051 |
 | Publications | 80 |
-| CDR Focus | 17.5% |
+| CDR Focus | 20.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -53,28 +53,28 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 1. **The efficiency and ocean acidification mitigation potential of ocean alkalinity enhancement on multi-centennial timescales** (2026)
    2 citations · General CDR
 
-2. **Subsurface dissolution reduces the efficiency of mineral-based ocean alkalinity enhancement** (2025)
+2. **Subsurface dissolution reduces the efficiency of mineral-based open-ocean alkalinity enhancement** (2026)
    1 citations · General CDR
 
-3. **Data and code for publication "Subsurface dissolution reduces the efficiency of mineral-based open-ocean alkalinity enhancement"** (2026)
+3. **Subsurface dissolution reduces the efficiency of mineral-based ocean alkalinity enhancement** (2025)
+   1 citations · General CDR
+
+4. **The efficiency and ocean acidification mitigation potential of ocean alkalinity enhancement on multi-centennial timescales** (2026)
+   0 citations · General CDR
+
+5. **The efficiency and ocean acidification mitigation potential of ocean alkalinity enhancement on multi-centennial timescales** (2026)
+   0 citations · General CDR
+
+6. **Subsurface dissolution reduces the efficiency of mineral-based open-ocean alkalinity enhancement** (2026)
+   0 citations · General CDR
+
+7. **Data and code for publication "Subsurface dissolution reduces the efficiency of mineral-based open-ocean alkalinity enhancement"** (2026)
    0 citations · Ocean CDR
 
-4. **Data and code for publication "Subsurface dissolution reduces the efficiency of mineral-based open-ocean alkalinity enhancement"** (2026)
+8. **Data and code for publication "Subsurface dissolution reduces the efficiency of mineral-based open-ocean alkalinity enhancement"** (2026)
    0 citations · Ocean CDR
 
-5. **Data and code for publication "Subsurface dissolution reduces the efficiency of mineral-based open-ocean alkalinity enhancement"** (2026)
-   0 citations · Ocean CDR
-
-6. **Data and code for publication "Subsurface dissolution reduces the efficiency of mineral-based ocean alkalinity enhancement"** (2026)
-   0 citations · Ocean CDR
-
-7. **Data and code for publication "Subsurface dissolution reduces the efficiency of mineral-based ocean alkalinity enhancement"** (2026)
-   0 citations · Ocean CDR
-
-8. **Data and code for publication "Subsurface dissolution reduces the efficiency of mineral-based ocean alkalinity enhancement"** (2026)
-   0 citations · Ocean CDR
-
-9. **Data and code for publication "Subsurface dissolution reduces the efficiency of mineral-based ocean alkalinity enhancement"** (2026)
+9. **Data and code for publication "Subsurface dissolution reduces the efficiency of mineral-based open-ocean alkalinity enhancement"** (2026)
    0 citations · Ocean CDR
 
 10. **Data and code for publication "Subsurface dissolution reduces the efficiency of mineral-based ocean alkalinity enhancement"** (2026)

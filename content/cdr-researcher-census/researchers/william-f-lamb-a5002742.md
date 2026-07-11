@@ -1,7 +1,7 @@
 ---
 title: "William F. Lamb"
 description: "William F. Lamb is an Eminent General CDR researcher at University of Leeds in GB. With 130 publications and an h-index of 41, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.892054
+date: 2026-07-11T11:05:42.777548
 url: "/cdr-researcher-census/researchers/william-f-lamb-a5002742/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 41 |
 | Citations | 12,104 |
 | Publications | 130 |
-| CDR Focus | 13.1% |
+| CDR Focus | 12.3% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -77,7 +77,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 9. **Carbon dioxide removal deployment consistent with global climate objectives** (2024)
    6 citations · General CDR
 
-10. **Countries need to provide clarity on the role of carbon dioxide removal in their climate pledges** (2024)
+10. **Ten new insights in climate science 2025** (2026)
    5 citations · General CDR
 
 ## External Profiles

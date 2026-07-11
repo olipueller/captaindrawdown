@@ -1,7 +1,7 @@
 ---
 title: "Guoheng Zhong"
 description: "Guoheng Zhong is a Mid-career General CDR researcher at Manchester Airport in GB. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.541890
+date: 2026-07-11T11:05:43.901716
 url: "/cdr-researcher-census/researchers/guoheng-zhong-a5023878/"
 layout: "researcher"
 hiddenInHomeList: true

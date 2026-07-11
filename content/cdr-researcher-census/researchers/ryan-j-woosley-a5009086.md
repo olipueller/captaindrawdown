@@ -1,7 +1,7 @@
 ---
 title: "Ryan J. Woosley"
 description: "Ryan J. Woosley is a Senior Ocean CDR researcher at Massachusetts Institute of Technology in US. With 66 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.166971
+date: 2026-07-11T11:05:42.893194
 url: "/cdr-researcher-census/researchers/ryan-j-woosley-a5009086/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 21 |
 | Citations | 1,953 |
 | Publications | 66 |
-| CDR Focus | 10.6% |
-| Trajectory | Stable |
+| CDR Focus | 6.1% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

@@ -1,7 +1,7 @@
 ---
 title: "Stavros Michailos"
 description: "Stavros Michailos is a Senior General CDR researcher at University of Hull in GB. With 61 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.142954
+date: 2026-07-11T11:05:42.880446
 url: "/cdr-researcher-census/researchers/stavros-michailos-a5052441/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 23 |
 | Citations | 2,127 |
 | Publications | 61 |
-| CDR Focus | 19.7% |
+| CDR Focus | 16.4% |
 | Trajectory | Declining |
 
 ## Top CDR Publications

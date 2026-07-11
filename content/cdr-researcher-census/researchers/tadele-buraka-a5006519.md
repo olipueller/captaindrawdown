@@ -1,7 +1,7 @@
 ---
 title: "Tadele Buraka"
 description: "Tadele Buraka is a Mid-career Soil Carbon researcher at Addis Ababa University in ET. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.806080
+date: 2026-07-11T11:05:44.179533
 url: "/cdr-researcher-census/researchers/tadele-buraka-a5006519/"
 layout: "researcher"
 hiddenInHomeList: true

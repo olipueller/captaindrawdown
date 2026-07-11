@@ -1,7 +1,7 @@
 ---
 title: "Sommas Kaewluan"
 description: "Sommas Kaewluan is a Mid-career General CDR researcher at Srinakharinwirot University in TH. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.358314
+date: 2026-07-11T11:05:43.719473
 url: "/cdr-researcher-census/researchers/sommas-kaewluan-a5037994/"
 layout: "researcher"
 hiddenInHomeList: true

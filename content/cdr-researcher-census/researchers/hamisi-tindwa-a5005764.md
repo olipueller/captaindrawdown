@@ -1,7 +1,7 @@
 ---
 title: "Hamisi Tindwa"
 description: "Hamisi Tindwa is a Mid-career Soil Carbon researcher at Sokoine University of Agriculture in TZ. With 34 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.907994
+date: 2026-07-11T11:05:43.422768
 url: "/cdr-researcher-census/researchers/hamisi-tindwa-a5005764/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 375 |
 | Publications | 34 |
-| CDR Focus | 11.8% |
+| CDR Focus | 8.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

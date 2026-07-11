@@ -1,7 +1,7 @@
 ---
 title: "V.V. Anusha Thampi"
 description: "V.V. Anusha Thampi is a Mid-career Soil Carbon researcher at Kerala University of Fisheries and Ocean Studies in IN. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.996537
+date: 2026-07-11T11:05:43.485553
 url: "/cdr-researcher-census/researchers/vv-anusha-thampi-a5017415/"
 layout: "researcher"
 hiddenInHomeList: true

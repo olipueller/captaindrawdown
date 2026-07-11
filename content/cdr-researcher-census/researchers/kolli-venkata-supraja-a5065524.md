@@ -1,7 +1,7 @@
 ---
 title: "Kolli Venkata Supraja"
 description: "Kolli Venkata Supraja is a Mid-career General CDR researcher at Helmholtz-Zentrum Dresden-Rossendorf in DE. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.931919
+date: 2026-07-11T11:05:43.439668
 url: "/cdr-researcher-census/researchers/kolli-venkata-supraja-a5065524/"
 layout: "researcher"
 hiddenInHomeList: true

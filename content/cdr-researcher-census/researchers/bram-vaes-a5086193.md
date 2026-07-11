@@ -1,7 +1,7 @@
 ---
 title: "Bram Vaes"
 description: "Bram Vaes is a Mid-career General CDR researcher at University of Milano-Bicocca in IT. With 44 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.619202
+date: 2026-07-11T11:05:43.219236
 url: "/cdr-researcher-census/researchers/bram-vaes-a5086193/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,18 +45,21 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 11 |
 | Citations | 586 |
 | Publications | 44 |
-| CDR Focus | 6.8% |
+| CDR Focus | 9.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
-1. **Input and output fluxes of surface CO2 throughout the lower Cenozoic** (2025)
+1. **Input and output fluxes of surface CO2 throughout the Cenozoic** (2026)
    0 citations · Enhanced Weathering
 
-2. **New constraints on the Neo-Tethyan carbon cycling and its forcing of early Cenozoic climate** (2024)
+2. **Input and output fluxes of surface CO2 throughout the lower Cenozoic** (2025)
    0 citations · Enhanced Weathering
 
-3. **Numerical modelling of magmatic CO2 emissions from the Neo-Tethyan margin during the Early Cenozoic** (2024)
+3. **New constraints on the Neo-Tethyan carbon cycling and its forcing of early Cenozoic climate** (2024)
+   0 citations · Enhanced Weathering
+
+4. **Numerical modelling of magmatic CO2 emissions from the Neo-Tethyan margin during the Early Cenozoic** (2024)
    0 citations · Enhanced Weathering
 
 ## External Profiles

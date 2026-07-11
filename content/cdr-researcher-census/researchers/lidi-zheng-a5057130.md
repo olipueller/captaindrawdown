@@ -1,7 +1,7 @@
 ---
 title: "Lidi Zheng"
 description: "Lidi Zheng is a Mid-career Soil Carbon researcher at Fujian Normal University in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.772299
+date: 2026-07-11T11:05:44.154388
 url: "/cdr-researcher-census/researchers/lidi-zheng-a5057130/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,12 +42,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 145 |
 | Publications | 6 |
-| CDR Focus | 16.7% |
-| Trajectory | Stable |
+| CDR Focus | 33.3% |
+| Trajectory | Exiting |
 
 ## Top CDR Publications
 
-1. **Effects of Wetland Plant Biochars on Heavy Metal Immobilization and Enzyme Activity in Soils From the Yellow River Estuary** (2021)
+1. **The Influence of Exogenous Nitrogen Input on the Characteristics of Phytolith-Occluded Carbon in the Kandelia obovata Soil System** (2023)
+   4 citations · Soil Carbon
+
+2. **Effects of Wetland Plant Biochars on Heavy Metal Immobilization and Enzyme Activity in Soils From the Yellow River Estuary** (2021)
    1 citations · Biochar
 
 ## External Profiles

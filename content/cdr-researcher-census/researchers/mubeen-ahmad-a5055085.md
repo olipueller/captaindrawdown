@@ -1,7 +1,7 @@
 ---
 title: "Mubeen Ahmad"
 description: "Mubeen Ahmad is a Senior Soil Carbon researcher at University of Lahore in PK. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.885063
+date: 2026-07-11T11:05:43.408132
 url: "/cdr-researcher-census/researchers/mubeen-ahmad-a5055085/"
 layout: "researcher"
 hiddenInHomeList: true

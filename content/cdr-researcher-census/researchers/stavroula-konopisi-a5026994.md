@@ -1,7 +1,7 @@
 ---
 title: "Stavroula Konopisi"
 description: "Stavroula Konopisi is a Mid-career Biochar researcher at Aristotle University of Thessaloniki in GR. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.647074
+date: 2026-07-11T11:05:44.055852
 url: "/cdr-researcher-census/researchers/stavroula-konopisi-a5026994/"
 layout: "researcher"
 hiddenInHomeList: true

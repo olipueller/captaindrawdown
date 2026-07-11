@@ -1,7 +1,7 @@
 ---
 title: "Sarah R. Smith"
 description: "Sarah R. Smith is a Senior Ocean CDR researcher at Moss Landing Marine Laboratories in US. With 38 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.070311
+date: 2026-07-11T11:05:42.844309
 url: "/cdr-researcher-census/researchers/sarah-r-smith-a5088804/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 16 |
 | Citations | 3,062 |
 | Publications | 38 |
-| CDR Focus | 10.5% |
+| CDR Focus | 13.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -56,10 +56,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 2. **The case for ocean iron fertilization field trials** (2026)
    2 citations · General CDR
 
-3. **Marine CDR science meets social science – organizing the next generation of ocean iron fertilization field studies** (2025)
+3. **Dusting the rust off ocean iron fertilization research studies for mCDR** (2026)
    0 citations · General CDR
 
-4. **Paths forward for exploring ocean iron fertilization** (2023)
+4. **Marine CDR science meets social science – organizing the next generation of ocean iron fertilization field studies** (2025)
+   0 citations · General CDR
+
+5. **Paths forward for exploring ocean iron fertilization** (2023)
    0 citations · General CDR
 
 ## External Profiles

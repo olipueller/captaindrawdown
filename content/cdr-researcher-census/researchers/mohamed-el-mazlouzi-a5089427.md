@@ -1,7 +1,7 @@
 ---
 title: "Mohamed El Mazlouzi"
 description: "Mohamed El Mazlouzi is a Mid-career Soil Carbon researcher at Département agronomie et sciences de l'environnement pour les agroécosystèmes in FR. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.912862
+date: 2026-07-11T11:05:44.258271
 url: "/cdr-researcher-census/researchers/mohamed-el-mazlouzi-a5089427/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 126 |
 | Publications | 16 |
-| CDR Focus | 18.8% |
-| Trajectory | Growing |
+| CDR Focus | 12.5% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

@@ -1,7 +1,7 @@
 ---
 title: "Jianxin Wang"
 description: "Jianxin Wang is a Mid-career Soil Carbon researcher at Zhejiang Ocean University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.718513
+date: 2026-07-11T11:05:44.114007
 url: "/cdr-researcher-census/researchers/jianxin-wang-a5078284/"
 layout: "researcher"
 hiddenInHomeList: true

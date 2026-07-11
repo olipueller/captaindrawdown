@@ -1,7 +1,7 @@
 ---
 title: "Kaibang Xiao"
 description: "Kaibang Xiao is a Mid-career Biochar researcher at Foshan University in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.859505
+date: 2026-07-11T11:05:43.389664
 url: "/cdr-researcher-census/researchers/kaibang-xiao-a5028797/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 5 |
 | Citations | 399 |
 | Publications | 5 |
-| CDR Focus | 40.0% |
-| Trajectory | Exiting |
+| CDR Focus | 20.0% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

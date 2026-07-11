@@ -1,7 +1,7 @@
 ---
 title: "Diego Fernando Urbina Salazar"
 description: "Diego Fernando Urbina Salazar is a Mid-career Soil Carbon researcher at Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement in FR. With 28 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.559271
+date: 2026-07-11T11:05:43.153467
 url: "/cdr-researcher-census/researchers/diego-fernando-urbina-salazar-a5063567/"
 layout: "researcher"
 hiddenInHomeList: true

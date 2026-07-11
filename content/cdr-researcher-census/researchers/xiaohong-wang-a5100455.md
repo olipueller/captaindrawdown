@@ -1,7 +1,7 @@
 ---
 title: "Xiaohong Wang"
 description: "Xiaohong Wang is a Senior Soil Carbon researcher at Fujian Normal University in CN. With 42 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.483097
+date: 2026-07-11T11:05:43.096336
 url: "/cdr-researcher-census/researchers/xiaohong-wang-a5100455/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 17 |
 | Citations | 776 |
 | Publications | 42 |
-| CDR Focus | 9.5% |
+| CDR Focus | 7.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

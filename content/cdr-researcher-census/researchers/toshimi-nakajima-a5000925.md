@@ -1,7 +1,7 @@
 ---
 title: "Toshimi Nakajima"
 description: "Toshimi Nakajima is a Mid-career Ocean CDR researcher at Sphere Institute in US. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.630821
+date: 2026-07-11T11:05:44.037952
 url: "/cdr-researcher-census/researchers/toshimi-nakajima-a5000925/"
 layout: "researcher"
 hiddenInHomeList: true

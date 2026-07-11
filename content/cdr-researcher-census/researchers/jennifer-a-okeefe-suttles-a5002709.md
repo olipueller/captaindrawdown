@@ -1,7 +1,7 @@
 ---
 title: "Jennifer A. O'Keefe Suttles"
 description: "Jennifer A. O'Keefe Suttles is a Senior Soil Carbon researcher at United States Geological Survey in US. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.157944
+date: 2026-07-11T11:05:44.444713
 url: "/cdr-researcher-census/researchers/jennifer-a-okeefe-suttles-a5002709/"
 layout: "researcher"
 hiddenInHomeList: true

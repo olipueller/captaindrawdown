@@ -1,7 +1,7 @@
 ---
 title: "Qingchun Guan"
 description: "Qingchun Guan is a Mid-career Soil Carbon researcher at China University of Petroleum, East China in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.478462
+date: 2026-07-11T11:05:43.806075
 url: "/cdr-researcher-census/researchers/qingchun-guan-a5091000/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 197 |
 | Publications | 14 |
-| CDR Focus | 21.4% |
-| Trajectory | Stable |
+| CDR Focus | 7.1% |
+| Trajectory | Exiting |
 
 ## Top CDR Publications
 

@@ -1,7 +1,7 @@
 ---
 title: "Wei Zhou"
 description: "Wei Zhou is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 16 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.937631
+date: 2026-07-11T11:05:43.443179
 url: "/cdr-researcher-census/researchers/wei-zhou-a5101651/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 361 |
 | Publications | 16 |
-| CDR Focus | 6.2% |
+| CDR Focus | 12.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Aggregate turnover in a dryland red soil after long‐term application of chemical fertilizers or manure** (2025)
    1 citations · Soil Carbon
+
+2. **Urban forest plant diversity affects soil organic carbon by regulating functional genes in Nanning** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

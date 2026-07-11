@@ -1,7 +1,7 @@
 ---
 title: "Guoyong Yan"
 description: "Guoyong Yan is a Senior Soil Carbon researcher at Qufu Normal University in CN. With 71 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.243306
+date: 2026-07-11T11:05:42.938002
 url: "/cdr-researcher-census/researchers/guoyong-yan-a5027890/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 20 |
 | Citations | 1,472 |
 | Publications | 71 |
-| CDR Focus | 5.6% |
+| CDR Focus | 8.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -61,6 +61,12 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 4. **Natural δ13C and δ15N Abundance of Plants and Soils Under Long-term N Addition in a Temperate Secondary Forest** (2024)
    5 citations · Soil Carbon
+
+5. **Long term low-level nitrogen addition enhances microbial carbon use efficiency and turnover rate across different seasons** (2026)
+   0 citations · Soil Carbon
+
+6. **Effects of Long-Term Nitrogen Addition on Glomalin-Related Soil Protein Dynamics, Soil Aggregate Stability and Organic Carbon Sequestration in the Boreal Forest** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

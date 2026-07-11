@@ -1,7 +1,7 @@
 ---
 title: "Rong Fan"
 description: "Rong Fan is a Senior Soil Carbon researcher at Lanzhou University in CN. With 40 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.894812
+date: 2026-07-11T11:05:43.413763
 url: "/cdr-researcher-census/researchers/rong-fan-a5103278/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 381 |
 | Publications | 40 |
-| CDR Focus | 7.5% |
+| CDR Focus | 5.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

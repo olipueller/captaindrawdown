@@ -1,7 +1,7 @@
 ---
 title: "Sowmya Shreedhar"
 description: "Sowmya Shreedhar is a Mid-career Soil Carbon researcher at Delft University of Technology in NL. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.026126
+date: 2026-07-11T11:05:43.504399
 url: "/cdr-researcher-census/researchers/sowmya-shreedhar-a5055680/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "M. R. Reyes"
 description: "M. R. Reyes is a Mid-career Soil Carbon researcher at University of Pinar del Río in CU. With 44 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.197525
+date: 2026-07-11T11:05:43.609834
 url: "/cdr-researcher-census/researchers/m-r-reyes-a5080094/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Bjørn A. Traag"
 description: "Bjørn A. Traag is a Senior Soil Carbon researcher at Alameda Hospital in US. With 23 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.441020
+date: 2026-07-11T11:05:43.066951
 url: "/cdr-researcher-census/researchers/bjrn-a-traag-a5066937/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 13 |
 | Citations | 851 |
 | Publications | 23 |
-| CDR Focus | 21.7% |
-| Trajectory | Stable |
+| CDR Focus | 13.0% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

@@ -1,7 +1,7 @@
 ---
 title: "Giuseppe Campesi"
 description: "Giuseppe Campesi is a Mid-career Soil Carbon researcher at Istituto per il Sistema Produzione Animale in Ambiente Mediterraneo in IT. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.677252
+date: 2026-07-11T11:05:44.082696
 url: "/cdr-researcher-census/researchers/giuseppe-campesi-a5058473/"
 layout: "researcher"
 hiddenInHomeList: true

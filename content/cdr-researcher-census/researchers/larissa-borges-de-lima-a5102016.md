@@ -1,7 +1,7 @@
 ---
 title: "Larissa Borges de Lima"
 description: "Larissa Borges de Lima is a Mid-career Soil Carbon researcher at Universidade Federal de Mato Grosso in BR. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.271045
+date: 2026-07-11T11:05:43.659878
 url: "/cdr-researcher-census/researchers/larissa-borges-de-lima-a5102016/"
 layout: "researcher"
 hiddenInHomeList: true

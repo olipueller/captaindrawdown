@@ -1,7 +1,7 @@
 ---
 title: "M. Lalitha"
 description: "M. Lalitha is a Senior Soil Carbon researcher at ICAR-National Bureau of Soil Survey and Land Use Planning in IN. With 146 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.205561
+date: 2026-07-11T11:05:42.915177
 url: "/cdr-researcher-census/researchers/m-lalitha-a5031036/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 17 |
 | Citations | 1,682 |
 | Publications | 146 |
-| CDR Focus | 6.2% |
+| CDR Focus | 5.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

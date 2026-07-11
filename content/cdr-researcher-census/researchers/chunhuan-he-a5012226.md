@@ -1,7 +1,7 @@
 ---
 title: "Chunhuan He"
 description: "Chunhuan He is a Senior Soil Carbon researcher at Jinan University in CN. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.511262
+date: 2026-07-11T11:05:43.117809
 url: "/cdr-researcher-census/researchers/chunhuan-he-a5012226/"
 layout: "researcher"
 hiddenInHomeList: true

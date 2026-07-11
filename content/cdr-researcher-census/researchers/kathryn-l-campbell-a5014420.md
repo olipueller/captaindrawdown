@@ -1,7 +1,7 @@
 ---
 title: "Kathryn L. Campbell"
 description: "Kathryn L. Campbell is a Mid-career Soil Carbon researcher at Texas A&M University at Galveston in US. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.026329
+date: 2026-07-11T11:05:44.364534
 url: "/cdr-researcher-census/researchers/kathryn-l-campbell-a5014420/"
 layout: "researcher"
 hiddenInHomeList: true

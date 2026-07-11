@@ -1,7 +1,7 @@
 ---
 title: "Zirun Wang"
 description: "Zirun Wang is a Mid-career Biochar researcher at University of Science and Technology of China in CN. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.434996
+date: 2026-07-11T11:05:43.062172
 url: "/cdr-researcher-census/researchers/zirun-wang-a5062105/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Tongtong Xu"
 description: "Tongtong Xu is a Mid-career Soil Carbon researcher at Zhejiang Sci-Tech University in CN. With 36 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.598925
+date: 2026-07-11T11:05:43.206524
 url: "/cdr-researcher-census/researchers/tongtong-xu-a5088061/"
 layout: "researcher"
 hiddenInHomeList: true

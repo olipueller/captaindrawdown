@@ -1,7 +1,7 @@
 ---
 title: "Ieva Līcīte"
 description: "Ieva Līcīte is a Mid-career Soil Carbon researcher at Latvian State Forest Research Institute \"Silava\" in LV. With 33 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.515960
+date: 2026-07-11T11:05:43.860029
 url: "/cdr-researcher-census/researchers/ieva-licite-a5022702/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 189 |
 | Publications | 33 |
-| CDR Focus | 12.1% |
+| CDR Focus | 9.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

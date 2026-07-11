@@ -1,7 +1,7 @@
 ---
 title: "Thị Bich Hanh Nguyen"
 description: "Thị Bich Hanh Nguyen is a Mid-career Biochar researcher at Duy Tan University in VN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.054490
+date: 2026-07-11T11:05:43.523993
 url: "/cdr-researcher-census/researchers/thi-bich-hanh-nguyen-a5065588/"
 layout: "researcher"
 hiddenInHomeList: true

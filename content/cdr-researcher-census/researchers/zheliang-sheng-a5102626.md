@@ -1,7 +1,7 @@
 ---
 title: "Zheliang Sheng"
 description: "Zheliang Sheng is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.212098
+date: 2026-07-11T11:05:43.620824
 url: "/cdr-researcher-census/researchers/zheliang-sheng-a5102626/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 265 |
 | Publications | 9 |
-| CDR Focus | 33.3% |
+| CDR Focus | 22.2% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

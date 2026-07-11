@@ -1,7 +1,7 @@
 ---
 title: "Qingyang Shao"
 description: "Qingyang Shao is a Mid-career DAC researcher at Shanghai Jiao Tong University in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.162327
+date: 2026-07-11T11:05:44.448274
 url: "/cdr-researcher-census/researchers/qingyang-shao-a5102528/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 5 |
 | Citations | 100 |
 | Publications | 6 |
-| CDR Focus | 83.3% |
-| Trajectory | Stable |
+| CDR Focus | 16.7% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

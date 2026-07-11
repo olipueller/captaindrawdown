@@ -1,7 +1,7 @@
 ---
 title: "Xueping Wu"
 description: "Xueping Wu is a Senior Soil Carbon researcher at South China Agricultural University in CN. With 143 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.120430
+date: 2026-07-11T11:05:42.868350
 url: "/cdr-researcher-census/researchers/xueping-wu-a5035428/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 27 |
 | Citations | 2,366 |
 | Publications | 143 |
-| CDR Focus | 7.7% |
+| CDR Focus | 8.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -71,14 +71,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 7. **Conservation tillage enhances both organic and inorganic carbon in dryland: Insights from a 20-year field experiment and meta-analysis** (2025)
    9 citations · Soil Carbon
 
-8. **Synergistic Promotion of Particulate and Mineral-Associated Organic Carbon Within Soil Aggregates After 10 Years of Organic Fertilization in Wheat-Maize Systems** (2024)
+8. **Conservation tillage and wheat straw managements improve soil organic carbon sequestration via calcium-mediated microbial communities and aggregate stability in Calcaric Cambisols** (2025)
+   7 citations · Soil Carbon
+
+9. **Synergistic Promotion of Particulate and Mineral-Associated Organic Carbon Within Soil Aggregates After 10 Years of Organic Fertilization in Wheat-Maize Systems** (2024)
    2 citations · Soil Carbon
 
-9. **Conservation Tillage Increases Carbon Storage by Regulating Mineral‐Mediated Aggregate Stability and Carbon Chemistry** (2025)
+10. **Conservation Tillage Increases Carbon Storage by Regulating Mineral‐Mediated Aggregate Stability and Carbon Chemistry** (2025)
    1 citations · Soil Carbon
-
-10. **Soil organic carbon sequestration of green manure in saline-alkali land** (2025)
-   0 citations · Soil Carbon
 
 ## External Profiles
 

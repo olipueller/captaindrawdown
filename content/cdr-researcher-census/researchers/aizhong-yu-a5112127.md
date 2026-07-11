@@ -1,7 +1,7 @@
 ---
 title: "Aizhong Yu"
 description: "Aizhong Yu is a Senior Soil Carbon researcher at Gansu Agricultural University in CN. With 112 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.047425
+date: 2026-07-11T11:05:42.834260
 url: "/cdr-researcher-census/researchers/aizhong-yu-a5112127/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 34 |
 | Citations | 3,412 |
 | Publications | 112 |
-| CDR Focus | 9.8% |
+| CDR Focus | 8.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

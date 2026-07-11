@@ -1,7 +1,7 @@
 ---
 title: "Khady Ngom"
 description: "Khady Ngom is an Early-career Soil Carbon researcher. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.191536
+date: 2026-07-11T11:05:43.604882
 url: "/cdr-researcher-census/researchers/khady-ngom-a5087394/"
 layout: "researcher"
 hiddenInHomeList: true

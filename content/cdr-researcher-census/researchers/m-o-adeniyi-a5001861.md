@@ -1,7 +1,7 @@
 ---
 title: "M. O. Adeniyi"
 description: "M. O. Adeniyi is a Senior General CDR researcher at University of Ibadan in NG. With 44 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.687685
+date: 2026-07-11T11:05:43.265748
 url: "/cdr-researcher-census/researchers/m-o-adeniyi-a5001861/"
 layout: "researcher"
 hiddenInHomeList: true

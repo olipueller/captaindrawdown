@@ -1,7 +1,7 @@
 ---
 title: "Hamish Beath"
 description: "Hamish Beath is a Mid-career General CDR researcher at Imperial College London in GB. With 34 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.945677
+date: 2026-07-11T11:05:44.283176
 url: "/cdr-researcher-census/researchers/hamish-beath-a5055975/"
 layout: "researcher"
 hiddenInHomeList: true

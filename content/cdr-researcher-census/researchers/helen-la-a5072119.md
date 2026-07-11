@@ -1,7 +1,7 @@
 ---
 title: "Helen La"
 description: "Helen La is a Senior Biochar researcher at Alberta Energy in CA. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.958857
+date: 2026-07-11T11:05:43.457673
 url: "/cdr-researcher-census/researchers/helen-la-a5072119/"
 layout: "researcher"
 hiddenInHomeList: true

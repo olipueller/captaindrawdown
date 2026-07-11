@@ -1,7 +1,7 @@
 ---
 title: "Chuifan Zhou"
 description: "Chuifan Zhou is a Senior Soil Carbon researcher at Nanjing Forestry University in CN. With 47 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.285652
+date: 2026-07-11T11:05:42.965506
 url: "/cdr-researcher-census/researchers/chuifan-zhou-a5023639/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -68,7 +68,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 6. **Upcycling trace amounts of biomass waste into flash graphene can boost crop yields by more than a quarter and offer climate benefits** (2025)
    6 citations · Biochar
 
-7. **Microbial Control of Soil Dom Transformation, an Important Prerequisite for Carbon Storage During the Vegetation Restoration in the Loess Plateau** (2022)
+7. **Molecular shifts in dissolved organic matter and microbial community assembly during vegetation restoration in karst ecosystems** (2026)
+   1 citations · Soil Carbon
+
+8. **Microbial Control of Soil Dom Transformation, an Important Prerequisite for Carbon Storage During the Vegetation Restoration in the Loess Plateau** (2022)
    0 citations · Soil Carbon
 
 ## External Profiles

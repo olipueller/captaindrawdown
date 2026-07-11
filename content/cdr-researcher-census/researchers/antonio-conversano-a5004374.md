@@ -1,7 +1,7 @@
 ---
 title: "Antonio Conversano"
 description: "Antonio Conversano is a Mid-career General CDR researcher at Politecnico di Milano in IT. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.744590
+date: 2026-07-11T11:05:44.133712
 url: "/cdr-researcher-census/researchers/antonio-conversano-a5004374/"
 layout: "researcher"
 hiddenInHomeList: true

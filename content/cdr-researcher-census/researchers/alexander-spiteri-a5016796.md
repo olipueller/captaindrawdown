@@ -1,7 +1,7 @@
 ---
 title: "Alexander Spiteri"
 description: "Alexander Spiteri is a Mid-career General CDR researcher. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.891846
+date: 2026-07-11T11:05:43.412268
 url: "/cdr-researcher-census/researchers/alexander-spiteri-a5016796/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,12 +40,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 9 |
 | Citations | 382 |
 | Publications | 12 |
-| CDR Focus | 8.3% |
+| CDR Focus | 16.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **A Combined Water and CO&lt;sub&gt;2&lt;/sub&gt; Direct Air Capture System (Final Technical Report)** (2025)
+1. **Life cycle analysis of a hybrid direct air capture system enabling combined carbon dioxide and water extraction from ambient air** (2025)
+   1 citations · DAC
+
+2. **A Combined Water and CO&lt;sub&gt;2&lt;/sub&gt; Direct Air Capture System (Final Technical Report)** (2025)
    0 citations · DAC
 
 ## External Profiles

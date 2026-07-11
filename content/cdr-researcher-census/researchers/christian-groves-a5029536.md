@@ -1,7 +1,7 @@
 ---
 title: "Christian Groves"
 description: "Christian Groves is an Early-career General CDR researcher at Fraunhofer Institute for Environmental, Safety and Energy Technology UMSICHT in DE. With 28 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.022204
+date: 2026-07-11T11:05:44.359429
 url: "/cdr-researcher-census/researchers/christian-groves-a5029536/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 3 |
 | Citations | 113 |
 | Publications | 28 |
-| CDR Focus | 14.3% |
+| CDR Focus | 7.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

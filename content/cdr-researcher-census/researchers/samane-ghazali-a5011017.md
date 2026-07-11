@@ -1,7 +1,7 @@
 ---
 title: "Samane Ghazali"
 description: "Samane Ghazali is a Mid-career General CDR researcher at Agricultural Research & Education Organization in IR. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.165596
+date: 2026-07-11T11:05:43.585785
 url: "/cdr-researcher-census/researchers/samane-ghazali-a5011017/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Lige Tong"
 description: "Lige Tong is a Mid-career BECCS researcher at Jiangsu University of Science and Technology in CN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.959597
+date: 2026-07-11T11:05:44.296156
 url: "/cdr-researcher-census/researchers/lige-tong-a5104005/"
 layout: "researcher"
 hiddenInHomeList: true

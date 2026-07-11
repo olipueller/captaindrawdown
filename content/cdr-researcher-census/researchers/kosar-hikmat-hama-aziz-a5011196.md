@@ -1,7 +1,7 @@
 ---
 title: "Kosar Hikmat Hama Aziz"
 description: "Kosar Hikmat Hama Aziz is a Senior Biochar researcher at Brandenburgische Technische Universität Cottbus-Senftenberg in DE. With 72 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.978048
+date: 2026-07-11T11:05:42.804421
 url: "/cdr-researcher-census/researchers/kosar-hikmat-hama-aziz-a5011196/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 38 |
 | Citations | 5,255 |
 | Publications | 72 |
-| CDR Focus | 6.9% |
+| CDR Focus | 5.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

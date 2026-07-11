@@ -1,7 +1,7 @@
 ---
 title: "Y. Elaouzy"
 description: "Y. Elaouzy is a Mid-career General CDR researcher at Université Mohammed VI Polytechnique in MA. With 21 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.690184
+date: 2026-07-11T11:05:43.267797
 url: "/cdr-researcher-census/researchers/y-elaouzy-a5004864/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 10 |
 | Citations | 518 |
 | Publications | 21 |
-| CDR Focus | 23.8% |
+| CDR Focus | 14.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Ruitao Lou"
 description: "Ruitao Lou is a Mid-career Soil Carbon researcher at Zhejiang University in CN. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.008295
+date: 2026-07-11T11:05:44.332561
 url: "/cdr-researcher-census/researchers/ruitao-lou-a5084028/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 115 |
 | Publications | 23 |
-| CDR Focus | 17.4% |
+| CDR Focus | 13.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

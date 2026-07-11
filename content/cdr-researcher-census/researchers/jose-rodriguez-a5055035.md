@@ -1,7 +1,7 @@
 ---
 title: "Jose Rodriguez"
 description: "Jose Rodriguez is a Senior Biochar researcher at University of Nottingham in GB. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.870480
+date: 2026-07-11T11:05:43.398349
 url: "/cdr-researcher-census/researchers/jose-rodriguez-a5055035/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 11 |
 | Citations | 392 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 5.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

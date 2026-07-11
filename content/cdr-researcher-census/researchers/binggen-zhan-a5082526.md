@@ -1,7 +1,7 @@
 ---
 title: "Binggen Zhan"
 description: "Binggen Zhan is a Senior Biochar researcher at Hefei University of Technology in CN. With 93 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.349801
+date: 2026-07-11T11:05:43.006742
 url: "/cdr-researcher-census/researchers/binggen-zhan-a5082526/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 18 |
 | Citations | 1,068 |
 | Publications | 93 |
-| CDR Focus | 6.5% |
+| CDR Focus | 7.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -59,10 +59,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 4. **Biochar-enhanced cement composites as carbon sink under accelerated carbonation curing: Carbon sequestration potential stimulated by biochar porosity** (2025)
    10 citations · Biochar
 
-5. **Investigation of the Properties and Sustainability of Modified Biochar-Doped Cement-Based Composite** (2024)
+5. **Investigation of the CO&lt;sub&gt;2&lt;/sub&gt; adsorption behavior of alkali-modified biochar components in cement composites** (2025)
+   5 citations · Biochar
+
+6. **Investigation of the Properties and Sustainability of Modified Biochar-Doped Cement-Based Composite** (2024)
    3 citations · Biochar
 
-6. **Recycling of biochar as construction materials** (2025)
+7. **Recycling of biochar as construction materials** (2025)
    0 citations · Biochar
 
 ## External Profiles

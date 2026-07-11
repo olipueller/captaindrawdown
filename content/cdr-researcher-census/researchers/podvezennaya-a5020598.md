@@ -1,7 +1,7 @@
 ---
 title: "М. А. Podvezennaya"
 description: "М. А. Podvezennaya is a Senior Soil Carbon researcher at Lomonosov Moscow State University in RU. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.891222
+date: 2026-07-11T11:05:44.242702
 url: "/cdr-researcher-census/researchers/podvezennaya-a5020598/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 129 |
 | Publications | 20 |
-| CDR Focus | 20.0% |
-| Trajectory | Stable |
+| CDR Focus | 10.0% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

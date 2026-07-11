@@ -1,7 +1,7 @@
 ---
 title: "Delia M. Pinto"
 description: "Delia M. Pinto is a Senior Soil Carbon researcher at Finnish Veterinary Foundation in FI. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.386913
+date: 2026-07-11T11:05:43.030867
 url: "/cdr-researcher-census/researchers/delia-m-pinto-a5110241/"
 layout: "researcher"
 hiddenInHomeList: true

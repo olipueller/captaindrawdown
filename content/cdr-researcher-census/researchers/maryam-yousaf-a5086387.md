@@ -1,7 +1,7 @@
 ---
 title: "Maryam Yousaf"
 description: "Maryam Yousaf is a Mid-career General CDR researcher at University of Kentucky in US. With 40 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.387773
+date: 2026-07-11T11:05:43.031392
 url: "/cdr-researcher-census/researchers/maryam-yousaf-a5086387/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 18 |
 | Citations | 965 |
 | Publications | 40 |
-| CDR Focus | 7.5% |
+| CDR Focus | 5.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

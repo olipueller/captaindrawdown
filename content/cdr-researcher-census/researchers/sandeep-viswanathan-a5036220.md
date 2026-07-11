@@ -1,7 +1,7 @@
 ---
 title: "Sandeep Viswanathan"
 description: "Sandeep Viswanathan is a Mid-career DAC researcher at Corning Inc in US. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.926032
+date: 2026-07-11T11:05:43.435118
 url: "/cdr-researcher-census/researchers/sandeep-viswanathan-a5036220/"
 layout: "researcher"
 hiddenInHomeList: true

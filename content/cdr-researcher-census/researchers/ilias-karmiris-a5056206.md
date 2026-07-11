@@ -1,7 +1,7 @@
 ---
 title: "Ilias Karmiris"
 description: "Ilias Karmiris is a Senior Soil Carbon researcher at Forest Research Institute in BG. With 31 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.174550
+date: 2026-07-11T11:05:43.592589
 url: "/cdr-researcher-census/researchers/ilias-karmiris-a5056206/"
 layout: "researcher"
 hiddenInHomeList: true

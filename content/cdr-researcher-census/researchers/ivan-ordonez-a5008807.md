@@ -1,7 +1,7 @@
 ---
 title: "Iván Ordóñez"
 description: "Iván Ordóñez is a Mid-career Soil Carbon researcher at Austral University of Chile in CL. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.775695
+date: 2026-07-11T11:05:44.157328
 url: "/cdr-researcher-census/researchers/ivan-ordonez-a5008807/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yanghui Sui"
 description: "Yanghui Sui is a Mid-career Soil Carbon researcher at Liaoning Academy of Agricultural Sciences in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.568674
+date: 2026-07-11T11:05:43.929313
 url: "/cdr-researcher-census/researchers/yanghui-sui-a5022648/"
 layout: "researcher"
 hiddenInHomeList: true

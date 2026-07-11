@@ -1,7 +1,7 @@
 ---
 title: "Gülen Tekin"
 description: "Gülen Tekin is a Mid-career BECCS researcher at Ege University in TR. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.868679
+date: 2026-07-11T11:05:43.397346
 url: "/cdr-researcher-census/researchers/gulen-tekin-a5044384/"
 layout: "researcher"
 hiddenInHomeList: true

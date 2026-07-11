@@ -1,7 +1,7 @@
 ---
 title: "Ahmed Sodiq"
 description: "Ahmed Sodiq is a Mid-career General CDR researcher at Summit University in QA. With 29 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.088483
+date: 2026-07-11T11:05:42.853853
 url: "/cdr-researcher-census/researchers/ahmed-sodiq-a5005608/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 16 |
 | Citations | 2,748 |
 | Publications | 29 |
-| CDR Focus | 20.7% |
-| Trajectory | Declining |
+| CDR Focus | 10.3% |
+| Trajectory | Exiting |
 
 ## Top CDR Publications
 

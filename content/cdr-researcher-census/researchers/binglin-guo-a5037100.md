@@ -1,7 +1,7 @@
 ---
 title: "Binglin Guo"
 description: "Binglin Guo is a Senior Biochar researcher at Kyushu University in JP. With 116 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.064203
+date: 2026-07-11T11:05:42.841190
 url: "/cdr-researcher-census/researchers/binglin-guo-a5037100/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 31 |
 | Citations | 3,186 |
 | Publications | 116 |
-| CDR Focus | 6.9% |
+| CDR Focus | 7.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -62,16 +62,19 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 4. **Biochar-enhanced cement composites as carbon sink under accelerated carbonation curing: Carbon sequestration potential stimulated by biochar porosity** (2025)
    10 citations · Biochar
 
-5. **Investigation of the Properties and Sustainability of Modified Biochar-Doped Cement-Based Composite** (2024)
+5. **Investigation of the CO&lt;sub&gt;2&lt;/sub&gt; adsorption behavior of alkali-modified biochar components in cement composites** (2025)
+   5 citations · Biochar
+
+6. **Investigation of the Properties and Sustainability of Modified Biochar-Doped Cement-Based Composite** (2024)
    3 citations · Biochar
 
-6. **Removal of perfluorooctanoic acid by FeCl3-activated dairy manure-derived biochar with addition of persulfate and H2O2** (2025)
+7. **Removal of perfluorooctanoic acid by FeCl3-activated dairy manure-derived biochar with addition of persulfate and H2O2** (2025)
    0 citations · Biochar
 
-7. **Recycling of biochar as construction materials** (2025)
+8. **Recycling of biochar as construction materials** (2025)
    0 citations · Biochar
 
-8. **Removal of Perfluorooctanoic Acid by Fecl3-Activated Dairy Manure-Derived Biochar with Addition of Persulfate and H2o2** (2025)
+9. **Removal of Perfluorooctanoic Acid by Fecl3-Activated Dairy Manure-Derived Biochar with Addition of Persulfate and H2o2** (2025)
    0 citations · Biochar
 
 ## External Profiles

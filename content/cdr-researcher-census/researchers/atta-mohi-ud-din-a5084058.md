@@ -1,7 +1,7 @@
 ---
 title: "Atta Mohi Ud Din"
 description: "Atta Mohi Ud Din is a Mid-career Soil Carbon researcher at Islamia University of Bahawalpur in PK. With 43 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.375327
+date: 2026-07-11T11:05:43.023317
 url: "/cdr-researcher-census/researchers/atta-mohi-ud-din-a5084058/"
 layout: "researcher"
 hiddenInHomeList: true

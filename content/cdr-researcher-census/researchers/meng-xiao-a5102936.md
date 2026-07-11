@@ -1,7 +1,7 @@
 ---
 title: "Meng Xiao"
 description: "Meng Xiao is a Mid-career Soil Carbon researcher at Yellow River Conservancy Technical Institute in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.882281
+date: 2026-07-11T11:05:44.236526
 url: "/cdr-researcher-census/researchers/meng-xiao-a5102936/"
 layout: "researcher"
 hiddenInHomeList: true

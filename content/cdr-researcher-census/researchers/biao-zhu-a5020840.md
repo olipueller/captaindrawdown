@@ -1,7 +1,7 @@
 ---
 title: "Biao Zhu"
 description: "Biao Zhu is an Eminent Soil Carbon researcher at Peking University in CN. With 380 publications and an h-index of 75, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.850725
+date: 2026-07-11T11:05:42.770900
 url: "/cdr-researcher-census/researchers/biao-zhu-a5020840/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 75 |
 | Citations | 19,510 |
 | Publications | 380 |
-| CDR Focus | 5.8% |
+| CDR Focus | 5.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -77,8 +77,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 9. **Soil particulate organic carbon regulates microbial carbon use efficiency in subtropical forests under nitrogen addition in different seasons** (2024)
    12 citations · Soil Carbon
 
-10. **Soil Carbon Availability Drives Depth‐Dependent Responses of Microbial Nitrogen Use Efficiency to Warming** (2025)
-   3 citations · Soil Carbon
+10. **Micro‐Faunal and Edaphic Controls on Microbial Carbon Cycling Across Primary and Secondary Successional Trajectories** (2025)
+   6 citations · Soil Carbon
 
 ## External Profiles
 

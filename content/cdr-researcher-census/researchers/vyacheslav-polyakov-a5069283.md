@@ -1,7 +1,7 @@
 ---
 title: "Vyacheslav Polyakov"
 description: "Vyacheslav Polyakov is a Senior Soil Carbon researcher at SPBU in RU. With 94 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.339201
+date: 2026-07-11T11:05:42.999671
 url: "/cdr-researcher-census/researchers/vyacheslav-polyakov-a5069283/"
 layout: "researcher"
 hiddenInHomeList: true

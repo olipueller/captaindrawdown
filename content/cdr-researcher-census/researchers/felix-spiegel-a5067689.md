@@ -1,7 +1,7 @@
 ---
 title: "Felix Spiegel"
 description: "Felix Spiegel is a Mid-career Soil Carbon researcher at University of Vienna in AT. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.820986
+date: 2026-07-11T11:05:44.190977
 url: "/cdr-researcher-census/researchers/felix-spiegel-a5067689/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 138 |
 | Publications | 14 |
-| CDR Focus | 21.4% |
-| Trajectory | Exiting |
+| CDR Focus | 14.3% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

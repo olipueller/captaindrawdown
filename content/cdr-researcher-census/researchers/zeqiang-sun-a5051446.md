@@ -1,7 +1,7 @@
 ---
 title: "Zeqiang Sun"
 description: "Zeqiang Sun is a Mid-career Soil Carbon researcher at Shandong Academy of Agricultural Sciences in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.041100
+date: 2026-07-11T11:05:44.377435
 url: "/cdr-researcher-census/researchers/zeqiang-sun-a5051446/"
 layout: "researcher"
 hiddenInHomeList: true

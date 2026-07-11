@@ -1,7 +1,7 @@
 ---
 title: "Ting Gong"
 description: "Ting Gong is a Mid-career Soil Carbon researcher at Guizhou Institute of Technology in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.827379
+date: 2026-07-11T11:05:44.196024
 url: "/cdr-researcher-census/researchers/ting-gong-a5101491/"
 layout: "researcher"
 hiddenInHomeList: true

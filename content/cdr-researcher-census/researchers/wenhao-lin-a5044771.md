@@ -1,7 +1,7 @@
 ---
 title: "Wenhao Lin"
 description: "Wenhao Lin is a Senior BECCS researcher at Sichuan University in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.094571
+date: 2026-07-11T11:05:44.400272
 url: "/cdr-researcher-census/researchers/wenhao-lin-a5044771/"
 layout: "researcher"
 hiddenInHomeList: true

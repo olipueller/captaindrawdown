@@ -1,7 +1,7 @@
 ---
 title: "Haiyan Feng"
 description: "Haiyan Feng is a Senior Soil Carbon researcher at China University of Geosciences (Beijing) in CN. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.013009
+date: 2026-07-11T11:05:43.495349
 url: "/cdr-researcher-census/researchers/haiyan-feng-a5110917/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 328 |
 | Publications | 17 |
-| CDR Focus | 11.8% |
+| CDR Focus | 5.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

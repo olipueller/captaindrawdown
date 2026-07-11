@@ -1,7 +1,7 @@
 ---
 title: "Suman Dutta"
 description: "Suman Dutta is a Senior General CDR researcher at Ramakrishna Mission Vivekananda Educational and Research Institute in IN. With 118 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.378368
+date: 2026-07-11T11:05:43.025515
 url: "/cdr-researcher-census/researchers/suman-dutta-a5102895/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -56,16 +56,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 2. **Harnessing green wealth: A two-decade global assessment of forest carbon sequestration and credits and the economic implications of sustainable forest management practices** (2025)
    18 citations · General CDR
 
-3. **Nature-Based Solutions (NbS) for Restoration and Management of Dryland Ecosystems** (2025)
+3. **Mangroves in the Anthropocene: A global synthesis of carbon storage, biodiversity, and coastal resilience under climate and anthropogenic stressors** (2026)
+   5 citations · General CDR
+
+4. **Nature-Based Solutions (NbS) for Restoration and Management of Dryland Ecosystems** (2025)
    1 citations · General CDR
 
-4. **Navigating the Future: Climate Change Impacts, Mitigation Strategies, and Adaptation Pathways in Agriculture** (2025)
+5. **Navigating the Future: Climate Change Impacts, Mitigation Strategies, and Adaptation Pathways in Agriculture** (2025)
    1 citations · General CDR
 
-5. **Long-term organic and conventional management differentially regulate root–shoot biomass allocation and yield–quality trade-offs in mustard (Brassica juncea L.) genotypes** (2026)
+6. **Long-term organic and conventional management differentially regulate root–shoot biomass allocation and yield–quality trade-offs in mustard (Brassica juncea L.) genotypes** (2026)
    0 citations
 
-6. **Harmony by Design: Fostering the Green Engineering Revolution for Sustainable Agriculture** (2025)
+7. **Harmony by Design: Fostering the Green Engineering Revolution for Sustainable Agriculture** (2025)
    0 citations · General CDR
 
 ## External Profiles

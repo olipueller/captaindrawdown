@@ -1,7 +1,7 @@
 ---
 title: "Rajasekaran Murugan"
 description: "Rajasekaran Murugan is a Senior Soil Carbon researcher at Chennai Mathematical Institute in IN. With 62 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.364371
+date: 2026-07-11T11:05:43.016120
 url: "/cdr-researcher-census/researchers/rajasekaran-murugan-a5058359/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 18 |
 | Citations | 1,024 |
 | Publications | 62 |
-| CDR Focus | 12.9% |
+| CDR Focus | 8.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -56,22 +56,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 2. **Quality Assessment of Meta-Analyses on Soil Organic Carbon** (2022)
    1 citations
 
-3. **Microbial Biomass and Necromass in Austrian Soils** (2025)
-   0 citations · Soil Carbon
-
-4. **Editorial for the <scp>EJP SOIL</scp> Special Issue 1 on “Climate‐Smart Sustainable Agricultural Soil Management for the Future”** (2025)
+3. **Editorial for the Second <scp>EJP SOIL</scp> Special Issue: “Climate‐Smart Sustainable Agricultural Soil Management for the Future II”** (2026)
    0 citations · General CDR
 
-5. **Cover Crops Affecting Pool Specific Soil Organic Carbon Sequestration in Cropland – A Meta-Analysis** (2023)
+4. **Microbial Biomass and Necromass in Austrian Soils** (2025)
    0 citations · Soil Carbon
 
-6. **Comment on egusphere-2022-488** (2022)
-   0 citations
+5. **Editorial for the <scp>EJP SOIL</scp> Special Issue 1 on “Climate‐Smart Sustainable Agricultural Soil Management for the Future”** (2025)
+   0 citations · General CDR
+
+6. **Cover Crops Affecting Pool Specific Soil Organic Carbon Sequestration in Cropland – A Meta-Analysis** (2023)
+   0 citations · Soil Carbon
 
 7. **Comment on egusphere-2022-488** (2022)
-   0 citations · General CDR
+   0 citations
 
 8. **Comment on egusphere-2022-488** (2022)
+   0 citations · General CDR
+
+9. **Comment on egusphere-2022-488** (2022)
    0 citations
 
 ## External Profiles

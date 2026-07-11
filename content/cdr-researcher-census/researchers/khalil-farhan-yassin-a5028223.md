@@ -1,7 +1,7 @@
 ---
 title: "Khalil Farhan Yassin"
 description: "Khalil Farhan Yassin is a Mid-career Biochar researcher at Northern Technical University in IQ. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.858083
+date: 2026-07-11T11:05:44.218557
 url: "/cdr-researcher-census/researchers/khalil-farhan-yassin-a5028223/"
 layout: "researcher"
 hiddenInHomeList: true

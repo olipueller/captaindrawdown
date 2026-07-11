@@ -1,7 +1,7 @@
 ---
 title: "Friday O. Ochedi"
-description: "Friday O. Ochedi is a Mid-career Unknown researcher at Heriot-Watt University in GB. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.376611
+description: "Friday O. Ochedi is a Mid-career General CDR researcher at Heriot-Watt University in GB. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:43.024532
 url: "/cdr-researcher-census/researchers/friday-o-ochedi-a5044977/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Heriot-Watt University · 🇬🇧 GB
 
 ## CDR Specialization
 
-**Unknown**
+**General CDR**
 
-Unknown
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -46,12 +46,15 @@ Unknown
 | Citations | 993 |
 | Publications | 8 |
 | CDR Focus | 12.5% |
-| Trajectory | Exiting |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Oxidative degradation of glycine in aqueous KOH/K<sub>2</sub>CO<sub>3</sub> solutions for CO<sub>2</sub> capture** (2024)
    6 citations
+
+2. **Derivation of a consistent modelling approach for unpromoted and enzyme-catalysed CO2 hydration in alkaline solutions** (2026)
+   0 citations · DAC
 
 ## External Profiles
 

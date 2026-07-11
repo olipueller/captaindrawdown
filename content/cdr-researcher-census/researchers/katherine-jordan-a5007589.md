@@ -1,7 +1,7 @@
 ---
 title: "Katherine Jordan"
 description: "Katherine Jordan is a Mid-career General CDR researcher at Toyota Motor Corporation (Switzerland) in CH. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.583771
+date: 2026-07-11T11:05:43.180310
 url: "/cdr-researcher-census/researchers/katherine-jordan-a5007589/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 8 |
 | Citations | 623 |
 | Publications | 28 |
-| CDR Focus | 10.7% |
+| CDR Focus | 7.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

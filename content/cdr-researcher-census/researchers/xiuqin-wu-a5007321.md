@@ -1,7 +1,7 @@
 ---
 title: "Xiuqin Wu"
 description: "Xiuqin Wu is a Senior Soil Carbon researcher at Fujian Medical University in CN. With 79 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.126719
+date: 2026-07-11T11:05:42.871312
 url: "/cdr-researcher-census/researchers/xiuqin-wu-a5007321/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Citations | 2,300 |
 | Publications | 79 |
 | CDR Focus | 6.3% |
-| Trajectory | Declining |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
@@ -64,6 +64,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 5. **Decipher soil organic carbon density dynamics, driving forces and future stability across Southwest China** (2025)
    2 citations · General CDR
+
+6. **Multi-pathway vegetation restoration drives differential carbon sequestration regulated by hydrogeological conditions in Lijiang River Basin** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

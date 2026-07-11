@@ -1,7 +1,7 @@
 ---
 title: "Chenglong Zhou"
 description: "Chenglong Zhou is a Mid-career Soil Carbon researcher at China Meteorological Administration in CN. With 60 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.553251
+date: 2026-07-11T11:05:43.149659
 url: "/cdr-researcher-census/researchers/chenglong-zhou-a5101433/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 16 |
 | Citations | 665 |
 | Publications | 60 |
-| CDR Focus | 8.3% |
-| Trajectory | Declining |
+| CDR Focus | 6.7% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

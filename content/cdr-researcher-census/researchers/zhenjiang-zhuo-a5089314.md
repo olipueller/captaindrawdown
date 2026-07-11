@@ -1,7 +1,7 @@
 ---
 title: "Zhenjiang Zhuo"
 description: "Zhenjiang Zhuo is a Mid-career Biochar researcher at Tsinghua University in CN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.658517
+date: 2026-07-11T11:05:44.067895
 url: "/cdr-researcher-census/researchers/zhenjiang-zhuo-a5089314/"
 layout: "researcher"
 hiddenInHomeList: true

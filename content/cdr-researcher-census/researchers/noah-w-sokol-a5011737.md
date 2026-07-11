@@ -1,7 +1,7 @@
 ---
 title: "Noah W. Sokol"
 description: "Noah W. Sokol is a Senior Soil Carbon researcher. With 55 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.952670
+date: 2026-07-11T11:05:42.794346
 url: "/cdr-researcher-census/researchers/noah-w-sokol-a5011737/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 22 |
 | Citations | 6,441 |
 | Publications | 55 |
-| CDR Focus | 16.4% |
+| CDR Focus | 12.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -63,13 +63,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 6. **Reduced accrual of mineral-associated organic matter after two years of enhanced rock weathering in cropland soils, though no net losses of soil organic carbon** (2024)
    4 citations
 
-7. **Synergistic effects of enhanced rock weathering and organic inputs on soil carbon accrual.** (2025)
-   0 citations · Enhanced Weathering
-
-8. **Evidence for carbon dioxide removal via enhanced rock weathering with steel slag, though not basalt, in a midwestern U.S. field trial** (2025)
+7. **Evidence for carbon dioxide removal via enhanced rock weathering with steel slag, though not basalt, in a midwestern U.S. field trial** (2026)
    0 citations
 
-9. **Testing the potential of ERW in California working lands: challenges and opportunities** (2024)
+8. **Synergistic effects of enhanced rock weathering and organic inputs on soil carbon accrual.** (2025)
+   0 citations · Enhanced Weathering
+
+9. **Evidence for carbon dioxide removal via enhanced rock weathering with steel slag, though not basalt, in a midwestern U.S. field trial** (2025)
+   0 citations
+
+10. **Testing the potential of ERW in California working lands: challenges and opportunities** (2024)
    0 citations · Enhanced Weathering
 
 ## External Profiles

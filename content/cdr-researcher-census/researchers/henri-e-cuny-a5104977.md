@@ -1,7 +1,7 @@
 ---
 title: "Henri E. Cuny"
-description: "Henri E. Cuny is a Mid-career Unknown researcher at Institut national de l’information géographique et forestière in FR. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.290133
+description: "Henri E. Cuny is a Mid-career Soil Carbon researcher at Institut national de l’information géographique et forestière in FR. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:42.968338
 url: "/cdr-researcher-census/researchers/henri-e-cuny-a5104977/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Institut national de l’information géographique et forestière · 🇫🇷 FR
 
 ## CDR Specialization
 
-**Unknown**
+**Soil Carbon**
 
-Unknown
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
@@ -50,7 +50,10 @@ Unknown
 
 ## Top CDR Publications
 
-1. **Temperature and Photoperiod Interactions Regulate the Cessation of Wood Growth in Temperate and Boreal Conifers** (2025)
+1. **Temperature and photoperiod interactions influence the cessation of wood growth in three temperate and boreal conifers** (2026)
+   0 citations · Soil Carbon
+
+2. **Temperature and Photoperiod Interactions Regulate the Cessation of Wood Growth in Temperate and Boreal Conifers** (2025)
    0 citations
 
 ## External Profiles

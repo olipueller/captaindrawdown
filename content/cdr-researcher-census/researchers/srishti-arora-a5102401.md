@@ -1,7 +1,7 @@
 ---
 title: "Srishti Arora"
 description: "Srishti Arora is an Early-career Biochar researcher at Kalawati Saran Children's Hospital in IN. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.704381
+date: 2026-07-11T11:05:44.103364
 url: "/cdr-researcher-census/researchers/srishti-arora-a5102401/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 3 |
 | Citations | 155 |
 | Publications | 9 |
-| CDR Focus | 22.2% |
+| CDR Focus | 11.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Julian Heitkötter"
 description: "Julian Heitkötter is a Mid-career Soil Carbon researcher at Ruhr University Bochum in DE. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.567354
+date: 2026-07-11T11:05:43.159821
 url: "/cdr-researcher-census/researchers/julian-heitkotter-a5037584/"
 layout: "researcher"
 hiddenInHomeList: true

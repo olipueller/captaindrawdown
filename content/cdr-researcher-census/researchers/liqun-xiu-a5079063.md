@@ -1,7 +1,7 @@
 ---
 title: "Liqun Xiu"
 description: "Liqun Xiu is a Mid-career Soil Carbon researcher at Shenyang Agricultural University in CN. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.791326
+date: 2026-07-11T11:05:43.341192
 url: "/cdr-researcher-census/researchers/liqun-xiu-a5079063/"
 layout: "researcher"
 hiddenInHomeList: true

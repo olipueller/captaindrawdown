@@ -1,7 +1,7 @@
 ---
 title: "Feihong Liang"
 description: "Feihong Liang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 27 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.978529
+date: 2026-07-11T11:05:43.471836
 url: "/cdr-researcher-census/researchers/feihong-liang-a5022604/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -62,8 +62,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Application of carbon biological sequestration technology in CCUS: Potential and optimization strategies for inorganic carbon absorption by plant root and CO2 carriers by biogas slurry** (2025)
    5 citations · Biochar
 
-5. **Integrated carbon sequestration and agricultural efficiency enhancement: Reconstruction of tomato ecosystem carbon cycle via carbonized biomass ash-biogas slurry system** (2025)
+5. **Converting agricultural by-products into a carbon-neutral CO2 capture system: Biomass-ash-enhanced biogas slurry for plant and soil carbon sequestration** (2026)
+   1 citations · Soil Carbon
+
+6. **Integrated carbon sequestration and agricultural efficiency enhancement: Reconstruction of tomato ecosystem carbon cycle via carbonized biomass ash-biogas slurry system** (2025)
    1 citations · Biochar
+
+7. **Tailoring electro-driven membrane for low-energy CO2 regeneration in direct air capture** (2026)
+   0 citations
 
 ## External Profiles
 

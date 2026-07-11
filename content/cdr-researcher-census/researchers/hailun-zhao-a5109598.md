@@ -1,7 +1,7 @@
 ---
 title: "Hailun Zhao"
 description: "Hailun Zhao is a Mid-career Biochar researcher. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.517021
+date: 2026-07-11T11:05:43.861326
 url: "/cdr-researcher-census/researchers/hailun-zhao-a5109598/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -37,7 +37,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 8 |
 | Citations | 189 |
 | Publications | 18 |
-| CDR Focus | 11.1% |
+| CDR Focus | 5.6% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

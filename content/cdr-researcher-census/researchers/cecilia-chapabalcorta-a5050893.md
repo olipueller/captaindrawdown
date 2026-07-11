@@ -1,7 +1,7 @@
 ---
 title: "Cecilia Chapa‐Balcorta"
 description: "Cecilia Chapa‐Balcorta is a Mid-career Ocean CDR researcher at Universidad del Mar in CL. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.599172
+date: 2026-07-11T11:05:43.991111
 url: "/cdr-researcher-census/researchers/cecilia-chapabalcorta-a5050893/"
 layout: "researcher"
 hiddenInHomeList: true

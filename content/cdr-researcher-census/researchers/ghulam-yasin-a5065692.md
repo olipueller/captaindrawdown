@@ -1,7 +1,7 @@
 ---
 title: "Ghulam Yasin"
 description: "Ghulam Yasin is a Senior Soil Carbon researcher at University of Sargodha in PK. With 106 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.149944
+date: 2026-07-11T11:05:42.883922
 url: "/cdr-researcher-census/researchers/ghulam-yasin-a5065692/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 22 |
 | Citations | 2,091 |
 | Publications | 106 |
-| CDR Focus | 8.5% |
+| CDR Focus | 10.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -74,7 +74,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 8. **Climate-Smart Agriculture: Potential Role in Carbon Sequestration and to Address Climate Change Under Irrigated Agro-Ecosystems** (2024)
    2 citations · General CDR
 
-9. **Comparative evaluation of carbon sequestration and climate change mitigation in commercially planted eucalyptus-based agroforestry systems in a semi-arid region** (2025)
+9. **Enhancing Soil and Atmospheric Carbon Regulation Through Bombax Ceiba-Based Agroforestry in Drylands** (2026)
+   1 citations · Soil Carbon
+
+10. **Species-driven variability in soil health and carbon storage across bamboo plantations** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

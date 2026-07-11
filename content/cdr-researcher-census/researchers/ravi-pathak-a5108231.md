@@ -1,7 +1,7 @@
 ---
 title: "Ravi Pathak"
 description: "Ravi Pathak is a Mid-career Soil Carbon researcher at G.B. Pant Institute of Himalayan Environment and Development in IN. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.557645
+date: 2026-07-11T11:05:43.152332
 url: "/cdr-researcher-census/researchers/ravi-pathak-a5108231/"
 layout: "researcher"
 hiddenInHomeList: true

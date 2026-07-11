@@ -1,7 +1,7 @@
 ---
 title: "Ling Zhang"
 description: "Ling Zhang is a Mid-career Soil Carbon researcher at Jiangxi Agricultural University in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.099521
+date: 2026-07-11T11:05:44.403186
 url: "/cdr-researcher-census/researchers/ling-zhang-a5101619/"
 layout: "researcher"
 hiddenInHomeList: true

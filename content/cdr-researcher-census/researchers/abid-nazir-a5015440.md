@@ -1,7 +1,7 @@
 ---
 title: "Abid Nazir"
 description: "Abid Nazir is an Early-career Soil Carbon researcher at New Mexico State University in US. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.854318
+date: 2026-07-11T11:05:44.215906
 url: "/cdr-researcher-census/researchers/abid-nazir-a5015440/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xiaoqian Zhu"
 description: "Xiaoqian Zhu is a Mid-career Soil Carbon researcher at Chinese Research Academy of Environmental Sciences in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.033866
+date: 2026-07-11T11:05:44.370856
 url: "/cdr-researcher-census/researchers/xiaoqian-zhu-a5113077/"
 layout: "researcher"
 hiddenInHomeList: true

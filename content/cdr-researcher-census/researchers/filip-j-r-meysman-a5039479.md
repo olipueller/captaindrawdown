@@ -1,7 +1,7 @@
 ---
 title: "Filip J. R. Meysman"
-description: "Filip J. R. Meysman is an Eminent Ocean CDR researcher at University of Antwerp in BE. With 343 publications and an h-index of 61, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.882744
+description: "Filip J. R. Meysman is an Eminent Enhanced Weathering researcher at University of Antwerp in BE. With 343 publications and an h-index of 61, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:42.775705
 url: "/cdr-researcher-census/researchers/filip-j-r-meysman-a5039479/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Antwerp · 🇧🇪 BE
 
 ## CDR Specialization
 
-**Ocean CDR**
+**Enhanced Weathering**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 61 |
 | Citations | 13,742 |
 | Publications | 343 |
-| CDR Focus | 7.6% |
+| CDR Focus | 5.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Jiayong Gao"
 description: "Jiayong Gao is a Mid-career Soil Carbon researcher at Southwest University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.636811
+date: 2026-07-11T11:05:44.044065
 url: "/cdr-researcher-census/researchers/jiayong-gao-a5057345/"
 layout: "researcher"
 hiddenInHomeList: true

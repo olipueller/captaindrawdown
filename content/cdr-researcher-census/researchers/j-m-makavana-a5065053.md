@@ -1,7 +1,7 @@
 ---
 title: "J. M. Makavana"
 description: "J. M. Makavana is a Mid-career Biochar researcher at Junagadh Agricultural University in IN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.705017
+date: 2026-07-11T11:05:44.104050
 url: "/cdr-researcher-census/researchers/j-m-makavana-a5065053/"
 layout: "researcher"
 hiddenInHomeList: true

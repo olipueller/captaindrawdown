@@ -1,7 +1,7 @@
 ---
 title: "P. Daniel"
 description: "P. Daniel is a Senior Soil Carbon researcher at Météo-France in FR. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.895086
+date: 2026-07-11T11:05:43.414051
 url: "/cdr-researcher-census/researchers/p-daniel-a5112921/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,7 +47,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Interannual and Seasonal Dynamic of Carbon Sequestration in a Patagonian Steppe** (2023)
+1. **Bi-component breakthrough experiments for the efficient direct air capture and water harvesting** (2026)
+   0 citations
+
+2. **Interannual and Seasonal Dynamic of Carbon Sequestration in a Patagonian Steppe** (2023)
    0 citations · Soil Carbon
 
 ## External Profiles

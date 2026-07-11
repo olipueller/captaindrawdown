@@ -1,7 +1,7 @@
 ---
 title: "Naeun Ha"
 description: "Naeun Ha is a Mid-career Biochar researcher at Chungnam National University in KR. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.532570
+date: 2026-07-11T11:05:43.891562
 url: "/cdr-researcher-census/researchers/naeun-ha-a5053624/"
 layout: "researcher"
 hiddenInHomeList: true

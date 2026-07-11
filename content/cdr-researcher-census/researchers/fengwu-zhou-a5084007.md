@@ -1,7 +1,7 @@
 ---
 title: "Fengwu Zhou"
 description: "Fengwu Zhou is a Mid-career Soil Carbon researcher at Fudan University in CN. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.778337
+date: 2026-07-11T11:05:43.332967
 url: "/cdr-researcher-census/researchers/fengwu-zhou-a5084007/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 449 |
 | Publications | 26 |
-| CDR Focus | 11.5% |
+| CDR Focus | 7.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

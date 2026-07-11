@@ -1,7 +1,7 @@
 ---
 title: "Mengdie Jiang"
 description: "Mengdie Jiang is a Mid-career Soil Carbon researcher at Yangtze University in CN. With 38 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.691029
+date: 2026-07-11T11:05:43.268433
 url: "/cdr-researcher-census/researchers/mengdie-jiang-a5039024/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,7 +53,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Long-term Rice-crayfish Co-culture Farming System Benefits Soil Organic Carbon Storage and Soil Quality in the Jianghan Plain, China** (2025)
    1 citations · Soil Carbon
 
-2. **Long-term rice-crayfish co-culture farming system benefits soil organic carbon storage and soil quality in the Jianghan Plain, China** (2025)
+2. **Potential phosphorous mobilization in subtropical forest soils triggered by labile carbon coupled to iron cycling** (2026)
+   0 citations
+
+3. **Long-term rice-crayfish co-culture farming system benefits soil organic carbon storage and soil quality in the Jianghan Plain, China** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

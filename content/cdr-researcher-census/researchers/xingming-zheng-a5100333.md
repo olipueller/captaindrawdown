@@ -1,7 +1,7 @@
 ---
 title: "Xingming Zheng"
 description: "Xingming Zheng is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.637767
+date: 2026-07-11T11:05:44.045783
 url: "/cdr-researcher-census/researchers/xingming-zheng-a5100333/"
 layout: "researcher"
 hiddenInHomeList: true

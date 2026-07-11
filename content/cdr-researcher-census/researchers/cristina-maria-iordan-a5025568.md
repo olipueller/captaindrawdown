@@ -1,7 +1,7 @@
 ---
 title: "Cristina-Maria Iordan"
 description: "Cristina-Maria Iordan is a Mid-career Soil Carbon researcher at SINTEF in NO. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.787784
+date: 2026-07-11T11:05:43.339180
 url: "/cdr-researcher-census/researchers/cristina-maria-iordan-a5025568/"
 layout: "researcher"
 hiddenInHomeList: true

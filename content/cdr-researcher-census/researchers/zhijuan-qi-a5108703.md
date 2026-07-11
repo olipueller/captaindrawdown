@@ -1,7 +1,7 @@
 ---
 title: "Zhijuan Qi"
 description: "Zhijuan Qi is a Mid-career Soil Carbon researcher at Community Health Center in US. With 25 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.656652
+date: 2026-07-11T11:05:43.244122
 url: "/cdr-researcher-census/researchers/zhijuan-qi-a5108703/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 551 |
 | Publications | 25 |
-| CDR Focus | 12.0% |
+| CDR Focus | 16.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -50,10 +50,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Agricultural diversification promotes sustainable and resilient global rice production** (2023)
    92 citations
 
-2. **Water-saving irrigation mitigates methane emissions from paddy fields: The role of iron** (2024)
+2. **The effect of biochar types on carbon cycles in farmland soils: A meta analysis** (2024)
+   25 citations · Biochar
+
+3. **Water-saving irrigation mitigates methane emissions from paddy fields: The role of iron** (2024)
    14 citations · Soil Carbon
 
-3. **Tillage Management Alters Carbon Sink Capacity in Arid Phaeozems: Insights from a Carbon Balance Perspective** (2025)
+4. **Biochar modulates microbial- and plant-derived carbon allocation in soil aggregates to enhance organic carbon sequestration in paddy fields under different water management practices** (2025)
+   0 citations · Biochar
+
+5. **Tillage Management Alters Carbon Sink Capacity in Arid Phaeozems: Insights from a Carbon Balance Perspective** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Eva Alexandri"
 description: "Eva Alexandri is a Mid-career General CDR researcher at Cambridge Econometrics (United Kingdom) in GB. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.296294
+date: 2026-07-11T11:05:42.971509
 url: "/cdr-researcher-census/researchers/eva-alexandri-a5009562/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 8 |
 | Citations | 1,248 |
 | Publications | 16 |
-| CDR Focus | 12.5% |
+| CDR Focus | 6.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

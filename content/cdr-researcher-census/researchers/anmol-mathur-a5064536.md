@@ -1,7 +1,7 @@
 ---
 title: "Anmol Mathur"
 description: "Anmol Mathur is a Mid-career DAC researcher at Johns Hopkins University in US. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.196241
+date: 2026-07-11T11:05:43.608666
 url: "/cdr-researcher-census/researchers/anmol-mathur-a5064536/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 7 |
 | Citations | 270 |
 | Publications | 13 |
-| CDR Focus | 23.1% |
+| CDR Focus | 7.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

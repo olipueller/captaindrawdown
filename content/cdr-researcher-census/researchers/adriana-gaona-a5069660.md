@@ -1,7 +1,7 @@
 ---
 title: "Adriana Gaona"
 description: "Adriana Gaona is a Mid-career General CDR researcher at University of Toronto in CA. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.175347
+date: 2026-07-11T11:05:43.593222
 url: "/cdr-researcher-census/researchers/adriana-gaona-a5069660/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 7 |
 | Citations | 277 |
 | Publications | 9 |
-| CDR Focus | 22.2% |
+| CDR Focus | 11.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

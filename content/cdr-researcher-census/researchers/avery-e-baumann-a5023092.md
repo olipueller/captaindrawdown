@@ -1,7 +1,7 @@
 ---
 title: "Avery E. Baumann"
 description: "Avery E. Baumann is a Senior DAC researcher at National Institute of Standards and Technology in US. With 25 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.208533
+date: 2026-07-11T11:05:42.917036
 url: "/cdr-researcher-census/researchers/avery-e-baumann-a5023092/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 11 |
 | Citations | 1,664 |
 | Publications | 25 |
-| CDR Focus | 36.0% |
-| Trajectory | Stable |
+| CDR Focus | 16.0% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

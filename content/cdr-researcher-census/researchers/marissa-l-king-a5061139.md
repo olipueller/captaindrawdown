@@ -1,7 +1,7 @@
 ---
 title: "Marissa L. King"
 description: "Marissa L. King is a Senior Soil Carbon researcher at Agriculture and Agri-Food Canada in CA. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.966650
+date: 2026-07-11T11:05:43.463311
 url: "/cdr-researcher-census/researchers/marissa-l-king-a5061139/"
 layout: "researcher"
 hiddenInHomeList: true

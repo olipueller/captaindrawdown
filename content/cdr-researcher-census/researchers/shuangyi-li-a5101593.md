@@ -1,7 +1,7 @@
 ---
 title: "Shuangyi Li"
 description: "Shuangyi Li is a Senior Soil Carbon researcher at Shenyang Agricultural University in CN. With 79 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.161463
+date: 2026-07-11T11:05:42.890180
 url: "/cdr-researcher-census/researchers/shuangyi-li-a5101593/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 22 |
 | Citations | 1,990 |
 | Publications | 79 |
-| CDR Focus | 13.9% |
-| Trajectory | Exiting |
+| CDR Focus | 17.7% |
+| Trajectory | Declining |
 
 ## Top CDR Publications
 
@@ -65,20 +65,20 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 5. **Distributions of straw-derived carbon in Mollisol’s aggregates under different fertilization practices** (2021)
    12 citations · Soil Carbon
 
-6. **Plastic film mulching maintains soil organic carbon by increasing fungal necromass carbon under manure application** (2023)
+6. **Fungal necromass carbon contributes to organic carbon sequestration within soil macroaggregates under manure application combined with plastic film mulching** (2024)
+   7 citations · Biochar
+
+7. **Plastic film mulching maintains soil organic carbon by increasing fungal necromass carbon under manure application** (2023)
    6 citations · Soil Carbon
 
-7. **Estimating soil organic carbon sequestration potential in the Chinese Mollisols region** (2024)
+8. **Crop planting promotes the stabilization of straw-derived carbon in fertilized soil by regulating soil stoichiometry** (2025)
+   5 citations
+
+9. **Cultivating crop reduces microbial necromass carbon accumulation but contributes fungal derived- soil organic carbon formation in fertilized soils with straw addition** (2025)
    3 citations · Soil Carbon
 
-8. **Long‐term fertilization and plastic film mulching modify temporal incorporation of <scp> <sup>13</sup> C </scp> / <scp> <sup>15</sup> N </scp> ‐labelled particulate organic matter** (2023)
-   2 citations · Soil Carbon
-
-9. **Fungal Necromass Carbon Contributes to Organic Carbon Sequestration within Soil Macroaggregates Under Manure Application Combined with Plastic Film Mulching** (2023)
-   0 citations · Soil Carbon
-
-10. **Plastic film mulching combined with manure fertilizer application promotes microbial necromass carbon accumulation within soil macroaggregates** (2023)
-   0 citations · Soil Carbon
+10. **Effect of Longterm Tillage Management on Soil Organic Carbon Fractions and Enzyme Activities in Bulk and Rhizosphere Soils** (2025)
+   3 citations · Soil Carbon
 
 ## External Profiles
 

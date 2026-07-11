@@ -1,7 +1,7 @@
 ---
 title: "Purusothmn Nair S. Bhasker Nair"
 description: "Purusothmn Nair S. Bhasker Nair is a Mid-career General CDR researcher at University of Nottingham Malaysia Campus in MY. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.368721
+date: 2026-07-11T11:05:43.727069
 url: "/cdr-researcher-census/researchers/purusothmn-nair-s-bhasker-nair-a5037510/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 8 |
 | Citations | 221 |
 | Publications | 20 |
-| CDR Focus | 35.0% |
+| CDR Focus | 30.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

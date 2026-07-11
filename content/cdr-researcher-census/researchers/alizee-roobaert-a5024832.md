@@ -1,7 +1,7 @@
 ---
 title: "Alizée Roobaert"
 description: "Alizée Roobaert is a Mid-career Ocean CDR researcher at Flanders Marine Institute in BE. With 54 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.251478
+date: 2026-07-11T11:05:42.942686
 url: "/cdr-researcher-census/researchers/alizee-roobaert-a5024832/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 13 |
 | Citations | 1,435 |
 | Publications | 54 |
-| CDR Focus | 9.3% |
+| CDR Focus | 7.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

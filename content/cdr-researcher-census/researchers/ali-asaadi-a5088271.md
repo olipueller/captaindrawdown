@@ -1,7 +1,7 @@
 ---
 title: "Ali Asaadi"
 description: "Ali Asaadi is a Mid-career General CDR researcher at Bjerknes Centre for Climate Research in NO. With 41 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.860317
+date: 2026-07-11T11:05:43.390296
 url: "/cdr-researcher-census/researchers/ali-asaadi-a5088271/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -59,7 +59,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 4. **Emit now, mitigate later? Earth system reversibility under overshoots of different magnitude and duration** (2022)
    1 citations · General CDR
 
-5. **Carbon cycle feedbacks in an idealized and a scenario simulation of carbon dioxide removal in CMIP6 Earth system models** (2022)
+5. **Reply on RC1** (2023)
+   0 citations · General CDR
+
+6. **Reply on RC2** (2023)
+   0 citations · General CDR
+
+7. **Carbon cycle feedbacks in an idealized and a scenario simulation of carbon dioxide removal in CMIP6 Earth system models** (2022)
    0 citations · General CDR
 
 ## External Profiles

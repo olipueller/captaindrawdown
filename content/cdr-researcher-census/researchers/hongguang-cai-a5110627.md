@@ -1,7 +1,7 @@
 ---
 title: "Hongguang Cai"
 description: "Hongguang Cai is a Senior Soil Carbon researcher at Inner Mongolia Electric Power (China) in CN. With 40 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.235697
+date: 2026-07-11T11:05:42.933350
 url: "/cdr-researcher-census/researchers/hongguang-cai-a5110627/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -74,8 +74,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 9. **Influence of straw, compost, and biochar on soil carbon and aggregates in Chernozem** (2025)
    5 citations · Biochar
 
-10. **Response of Soil Organic Carbon to Straw Return in Farmland Soil： a Meta-Analysis** (2024)
-   0 citations · Soil Carbon
+10. **Differences in soil organic carbon among soil layers caused by microbial necromass carbon accumulation under different tillage and carbon input regimes** (2026)
+   1 citations · Soil Carbon
 
 ## External Profiles
 

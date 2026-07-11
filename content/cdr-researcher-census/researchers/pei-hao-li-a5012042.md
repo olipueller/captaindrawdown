@@ -1,7 +1,7 @@
 ---
 title: "Pei-Hao Li"
 description: "Pei-Hao Li is a Mid-career General CDR researcher at Energy Institute in GB. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.791601
+date: 2026-07-11T11:05:44.168026
 url: "/cdr-researcher-census/researchers/pei-hao-li-a5012042/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Danyi Feng"
 description: "Danyi Feng is a Mid-career General CDR researcher at Heilongjiang University of Chinese Medicine in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.085758
+date: 2026-07-11T11:05:43.547798
 url: "/cdr-researcher-census/researchers/danyi-feng-a5091304/"
 layout: "researcher"
 hiddenInHomeList: true

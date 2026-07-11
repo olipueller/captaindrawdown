@@ -1,7 +1,7 @@
 ---
 title: "Jeff Price"
 description: "Jeff Price is a Senior General CDR researcher at University of East Anglia in GB. With 68 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.908965
+date: 2026-07-11T11:05:42.782462
 url: "/cdr-researcher-census/researchers/jeff-price-a5073398/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -56,10 +56,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 2. **Climate change and terrestrial biodiversity** (2021)
    10 citations
 
-3. **Warming versus land-intensive mitigation impact on biodiversity refugia across climate policy scenarios** (2025)
+3. **Overconfidence in climate overshoot** (2023)
+   7 citations
+
+4. **Biodiversity implications of land-intensive carbon dioxide removal** (2026)
+   4 citations · BECCS
+
+5. **Author Correction: Biodiversity implications of land-intensive carbon dioxide removal** (2026)
    0 citations · BECCS
 
-4. **Spatial analysis of CDR implications for global biodiversity refugia** (2024)
+6. **Warming versus land-intensive mitigation impact on biodiversity refugia across climate policy scenarios** (2025)
+   0 citations · BECCS
+
+7. **Spatial analysis of CDR implications for global biodiversity refugia** (2024)
    0 citations · General CDR
 
 ## External Profiles

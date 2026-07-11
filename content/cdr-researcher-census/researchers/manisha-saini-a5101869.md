@@ -1,7 +1,7 @@
 ---
 title: "Manisha Saini"
 description: "Manisha Saini is a Senior General CDR researcher at Rutgers, The State University of New Jersey in US. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.955402
+date: 2026-07-11T11:05:43.455604
 url: "/cdr-researcher-census/researchers/manisha-saini-a5101869/"
 layout: "researcher"
 hiddenInHomeList: true

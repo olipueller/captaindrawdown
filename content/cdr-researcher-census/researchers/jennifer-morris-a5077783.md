@@ -1,7 +1,7 @@
 ---
 title: "Jennifer Morris"
 description: "Jennifer Morris is a Senior General CDR researcher at Massachusetts Institute of Technology Joint Program on the Science and Policy of Global Change in US. With 140 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.044413
+date: 2026-07-11T11:05:42.832733
 url: "/cdr-researcher-census/researchers/jennifer-morris-a5077783/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 30 |
 | Citations | 3,453 |
 | Publications | 140 |
-| CDR Focus | 6.4% |
-| Trajectory | Declining |
+| CDR Focus | 7.9% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
@@ -71,11 +71,14 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 7. **Mutual reinforcement of land-based carbon dioxide removal and international emissions trading in deep decarbonization scenarios** (2024)
    14 citations · General CDR
 
-8. **Review of Bioenergy with Carbon Capture and Storage (BECCS): Progress, Challenges, and Future Outlook** (2026)
+8. **Ten new insights in climate science 2025** (2026)
+   5 citations · General CDR
+
+9. **Review of Bioenergy with Carbon Capture and Storage (BECCS): Progress, Challenges, and Future Outlook** (2026)
    0 citations · BECCS
 
-9. **Exploring the conditions and implications of deploying direct air capture at scale** (2023)
-   0 citations · DAC
+10. **Ten New Insights in Climate Science 2025 [accepted manuscript]** (2025)
+   0 citations · General CDR
 
 ## External Profiles
 

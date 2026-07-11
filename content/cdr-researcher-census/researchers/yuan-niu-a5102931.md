@@ -1,7 +1,7 @@
 ---
 title: "Yuan Niu"
 description: "Yuan Niu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 21 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.695833
+date: 2026-07-11T11:05:43.271604
 url: "/cdr-researcher-census/researchers/yuan-niu-a5102931/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -55,6 +55,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 2. **Effect of river–lake connectivity on ecological stoichiometry of lake and carbon storage status in Eastern Plain, China** (2022)
    5 citations · Soil Carbon
+
+3. **Seasonal decoupling of water supply and CO2 fluxes of urban greening shrubs is driven by leaf area index** (2026)
+   0 citations
 
 ## External Profiles
 

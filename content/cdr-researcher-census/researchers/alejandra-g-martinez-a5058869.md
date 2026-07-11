@@ -1,7 +1,7 @@
 ---
 title: "Alejandra G. Martínez"
 description: "Alejandra G. Martínez is a Senior Soil Carbon researcher at Instituto Geofísico del Perú in PE. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.967141
+date: 2026-07-11T11:05:43.463889
 url: "/cdr-researcher-census/researchers/alejandra-g-martinez-a5058869/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 347 |
 | Publications | 14 |
-| CDR Focus | 14.3% |
+| CDR Focus | 7.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

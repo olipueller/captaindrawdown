@@ -1,7 +1,7 @@
 ---
 title: "Mengxiao Yu"
 description: "Mengxiao Yu is a Mid-career Soil Carbon researcher at South China Botanical Garden in CN. With 40 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.328663
+date: 2026-07-11T11:05:42.993515
 url: "/cdr-researcher-census/researchers/mengxiao-yu-a5004783/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 18 |
 | Citations | 1,138 |
 | Publications | 40 |
-| CDR Focus | 27.5% |
+| CDR Focus | 25.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications

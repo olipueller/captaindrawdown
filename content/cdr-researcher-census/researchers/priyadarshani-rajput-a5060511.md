@@ -1,7 +1,7 @@
 ---
 title: "Priyadarshani Rajput"
 description: "Priyadarshani Rajput is a Mid-career Biochar researcher at Southern Federal University in RU. With 53 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.413900
+date: 2026-07-11T11:05:43.048467
 url: "/cdr-researcher-census/researchers/priyadarshani-rajput-a5060511/"
 layout: "researcher"
 hiddenInHomeList: true

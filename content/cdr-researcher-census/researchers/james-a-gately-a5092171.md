@@ -1,7 +1,7 @@
 ---
 title: "James A. Gately"
 description: "James A. Gately is an Early-career Ocean CDR researcher at University of California, Santa Barbara in US. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.977506
+date: 2026-07-11T11:05:44.310406
 url: "/cdr-researcher-census/researchers/james-a-gately-a5092171/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 3 |
 | Citations | 118 |
 | Publications | 6 |
-| CDR Focus | 100.0% |
+| CDR Focus | 83.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

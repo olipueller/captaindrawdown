@@ -1,7 +1,7 @@
 ---
 title: "Yincai Xie"
-description: "Yincai Xie is an Early-career General CDR researcher at RS Dynamics (Czechia) in CZ. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.147176
+description: "Yincai Xie is an Early-career Soil Carbon researcher at RS Dynamics (Czechia) in CZ. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:44.437122
 url: "/cdr-researcher-census/researchers/yincai-xie-a5042908/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ RS Dynamics (Czechia) ·  CZ
 
 ## CDR Specialization
 
-**General CDR**
+**Soil Carbon**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
@@ -45,12 +45,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 4 |
 | Citations | 102 |
 | Publications | 11 |
-| CDR Focus | 9.1% |
+| CDR Focus | 18.2% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
-1. **Response of weathering carbon sink effect to anthropogenic sulfuric acid in different lithological catchments: A case study from Southwest China** (2024)
+1. **Reduced Organic Carbon Content during the Evolvement of Calcareous Soils in Karst Region** (2021)
+   16 citations · Soil Carbon
+
+2. **Response of weathering carbon sink effect to anthropogenic sulfuric acid in different lithological catchments: A case study from Southwest China** (2024)
    7 citations · Enhanced Weathering
 
 ## External Profiles

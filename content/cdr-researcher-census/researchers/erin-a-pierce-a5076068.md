@@ -1,7 +1,7 @@
 ---
 title: "Erin A. Pierce"
 description: "Erin A. Pierce is a Mid-career Soil Carbon researcher at Boston University in US. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.166217
+date: 2026-07-11T11:05:44.450488
 url: "/cdr-researcher-census/researchers/erin-a-pierce-a5076068/"
 layout: "researcher"
 hiddenInHomeList: true

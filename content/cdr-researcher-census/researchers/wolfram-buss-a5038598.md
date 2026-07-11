@@ -1,7 +1,7 @@
 ---
 title: "Wolfram Buss"
 description: "Wolfram Buss is a Senior Soil Carbon researcher at Australian National University in AU. With 74 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.011237
+date: 2026-07-11T11:05:42.819083
 url: "/cdr-researcher-census/researchers/wolfram-buss-a5038598/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 30 |
 | Citations | 4,209 |
 | Publications | 74 |
-| CDR Focus | 18.9% |
+| CDR Focus | 14.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

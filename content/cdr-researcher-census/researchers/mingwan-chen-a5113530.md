@@ -1,7 +1,7 @@
 ---
 title: "Mingwan Chen"
 description: "Mingwan Chen is a Senior Soil Carbon researcher at Hainan University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.315842
+date: 2026-07-11T11:05:43.690209
 url: "/cdr-researcher-census/researchers/mingwan-chen-a5113530/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 235 |
 | Publications | 9 |
-| CDR Focus | 22.2% |
-| Trajectory | Stable |
+| CDR Focus | 11.1% |
+| Trajectory | Exiting |
 
 ## Top CDR Publications
 

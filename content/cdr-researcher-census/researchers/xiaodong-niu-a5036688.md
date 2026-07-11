@@ -1,7 +1,7 @@
 ---
 title: "Xiaodong Niu"
 description: "Xiaodong Niu is a Mid-career Soil Carbon researcher at Nanyang Normal University in CN. With 27 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.807483
+date: 2026-07-11T11:05:44.180587
 url: "/cdr-researcher-census/researchers/xiaodong-niu-a5036688/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 140 |
 | Publications | 27 |
-| CDR Focus | 11.1% |
+| CDR Focus | 7.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

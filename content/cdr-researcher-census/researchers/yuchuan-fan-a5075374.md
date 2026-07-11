@@ -1,7 +1,7 @@
 ---
 title: "Yuchuan Fan"
 description: "Yuchuan Fan is a Mid-career Soil Carbon researcher at Jiyang College of Zhejiang A&F University in CN. With 54 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.652807
+date: 2026-07-11T11:05:43.241300
 url: "/cdr-researcher-census/researchers/yuchuan-fan-a5075374/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -71,10 +71,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 7. **Editorial: Understanding the relationship between extreme climate events and forest soil hydrology: implications for ecosystem functions** (2025)
    2 citations · Soil Carbon
 
-8. **Recalcitrant organic carbon in deep soils plays a greater role in soil carbon sequestration under tidal flat than vegetated salt marsh** (2025)
+8. **From nitrogen addition to productivity: above–belowground mechanisms and nonlinear thresholds in Grasslands** (2026)
    1 citations · Soil Carbon
 
-9. **Recycling Agricultural Liquid Waste and Industrial Waste for Improving Nitrate and Veterinary Antibiotics by Woodchip Bioreactor** (2022)
+9. **Recalcitrant organic carbon in deep soils plays a greater role in soil carbon sequestration under tidal flat than vegetated salt marsh** (2025)
+   1 citations · Soil Carbon
+
+10. **Recycling Agricultural Liquid Waste and Industrial Waste for Improving Nitrate and Veterinary Antibiotics by Woodchip Bioreactor** (2022)
    0 citations · Biochar
 
 ## External Profiles

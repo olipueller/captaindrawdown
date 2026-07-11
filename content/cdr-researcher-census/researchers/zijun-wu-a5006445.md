@@ -1,7 +1,7 @@
 ---
 title: "Zijun Wu"
 description: "Zijun Wu is a Mid-career Soil Carbon researcher. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.652010
+date: 2026-07-11T11:05:43.240866
 url: "/cdr-researcher-census/researchers/zijun-wu-a5006445/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,12 +40,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 555 |
 | Publications | 20 |
-| CDR Focus | 5.0% |
+| CDR Focus | 10.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
-1. **The effects of vegetation type on ecosystem carbon storage and distribution in subtropical plantations** (2023)
+1. **Facile fabrication of robust, versatile, and recyclable biochar-graphene oxide composite monoliths for efficient removal of different contaminants in water** (2021)
+   36 citations · Biochar
+
+2. **Groundwater-derived carbon stimulates headwater stream CO2 emission potential on the Qinghai-Tibet Plateau** (2024)
+   9 citations
+
+3. **The effects of vegetation type on ecosystem carbon storage and distribution in subtropical plantations** (2023)
    6 citations · Soil Carbon
 
 ## External Profiles

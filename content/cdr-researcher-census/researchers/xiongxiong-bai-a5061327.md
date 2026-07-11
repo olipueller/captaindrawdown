@@ -1,7 +1,7 @@
 ---
 title: "Xiongxiong Bai"
 description: "Xiongxiong Bai is a Mid-career Soil Carbon researcher at Henan Normal University in CN. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.565278
+date: 2026-07-11T11:05:43.157787
 url: "/cdr-researcher-census/researchers/xiongxiong-bai-a5061327/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 648 |
 | Publications | 10 |
-| CDR Focus | 50.0% |
+| CDR Focus | 40.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

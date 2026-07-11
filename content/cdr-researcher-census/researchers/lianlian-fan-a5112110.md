@@ -1,7 +1,7 @@
 ---
 title: "Lianlian Fan"
 description: "Lianlian Fan is a Mid-career Soil Carbon researcher at Institute of Ecology and Geography in MD. With 31 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.861485
+date: 2026-07-11T11:05:43.391394
 url: "/cdr-researcher-census/researchers/lianlian-fan-a5112110/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Meng Zhu"
 description: "Meng Zhu is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 94 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.132177
+date: 2026-07-11T11:05:42.874511
 url: "/cdr-researcher-census/researchers/meng-zhu-a5074195/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 25 |
 | Citations | 2,246 |
 | Publications | 94 |
-| CDR Focus | 6.4% |
-| Trajectory | Declining |
+| CDR Focus | 7.4% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
@@ -59,13 +59,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **Identification of Priority Supply Areas for Carbon Sinks Based on Ecosystem Service Flow: A Case Study for the Hexi Region in Northwestern China** (2024)
    3 citations · General CDR
 
-4. **The influence of environmental factors on the actual evapotranspiration of Artemisia ordosica&amp;#160;** (2024)
+4. **Land use impacts on soil organic carbon stratification and sequestration in a karst region of Guizhou, China** (2026)
    0 citations · Soil Carbon
 
-5. **Divergent Response of Topsoil Organic and Inorganic Carbon to Biotic and Abiotic Factors for Afforestation in Desert, China** (2024)
+5. **The influence of environmental factors on the actual evapotranspiration of Artemisia ordosica&amp;#160;** (2024)
    0 citations · Soil Carbon
 
-6. **Divergent Response of Topsoil Organic and Inorganic Carbon to Biotic and Abiotic Factors for Afforestation in Desert, China** (2023)
+6. **Divergent Response of Topsoil Organic and Inorganic Carbon to Biotic and Abiotic Factors for Afforestation in Desert, China** (2024)
+   0 citations · Soil Carbon
+
+7. **Divergent Response of Topsoil Organic and Inorganic Carbon to Biotic and Abiotic Factors for Afforestation in Desert, China** (2023)
    0 citations · Soil Carbon
 
 ## External Profiles

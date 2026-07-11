@@ -1,7 +1,7 @@
 ---
 title: "Taiqing Wei"
 description: "Taiqing Wei is a Mid-career Biochar researcher at Liaoning Shihua University in CN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.902031
+date: 2026-07-11T11:05:43.418856
 url: "/cdr-researcher-census/researchers/taiqing-wei-a5091872/"
 layout: "researcher"
 hiddenInHomeList: true

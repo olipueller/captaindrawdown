@@ -1,7 +1,7 @@
 ---
 title: "Tom C. Kaspar"
 description: "Tom C. Kaspar is a Senior Soil Carbon researcher at National Laboratory for Agriculture and the Environment in US. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.025702
+date: 2026-07-11T11:05:43.503950
 url: "/cdr-researcher-census/researchers/tom-c-kaspar-a5112103/"
 layout: "researcher"
 hiddenInHomeList: true

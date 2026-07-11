@@ -1,7 +1,7 @@
 ---
 title: "A. R. Sarika"
 description: "A. R. Sarika is a Mid-career Soil Carbon researcher. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.373359
+date: 2026-07-11T11:05:43.731547
 url: "/cdr-researcher-census/researchers/a-r-sarika-a5091091/"
 layout: "researcher"
 hiddenInHomeList: true

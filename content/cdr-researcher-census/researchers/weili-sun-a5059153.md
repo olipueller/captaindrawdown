@@ -1,7 +1,7 @@
 ---
 title: "Weili Sun"
 description: "Weili Sun is a Mid-career Soil Carbon researcher at Qingdao Agricultural University in CN. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.640908
+date: 2026-07-11T11:05:43.233974
 url: "/cdr-researcher-census/researchers/weili-sun-a5059153/"
 layout: "researcher"
 hiddenInHomeList: true

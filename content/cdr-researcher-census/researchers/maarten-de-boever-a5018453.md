@@ -1,7 +1,7 @@
 ---
 title: "Maarten De Boever"
 description: "Maarten De Boever is a Senior Soil Carbon researcher at Instituut voor Landbouw en Visserijonderzoek in BE. With 54 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.095308
+date: 2026-07-11T11:05:43.554356
 url: "/cdr-researcher-census/researchers/maarten-de-boever-a5018453/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 295 |
 | Publications | 54 |
-| CDR Focus | 7.4% |
+| CDR Focus | 5.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

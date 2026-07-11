@@ -1,7 +1,7 @@
 ---
 title: "Victor Selmert"
 description: "Victor Selmert is a Mid-career DAC researcher at Sphere Institute in US. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.184594
+date: 2026-07-11T11:05:43.599674
 url: "/cdr-researcher-census/researchers/victor-selmert-a5017213/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 8 |
 | Citations | 274 |
 | Publications | 23 |
-| CDR Focus | 21.7% |
+| CDR Focus | 17.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

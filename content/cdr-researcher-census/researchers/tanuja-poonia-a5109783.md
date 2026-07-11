@@ -1,7 +1,7 @@
 ---
 title: "Tanuja Poonia"
 description: "Tanuja Poonia is a Mid-career Soil Carbon researcher at Central Soil Salinity Research Institute in IN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.088479
+date: 2026-07-11T11:05:43.549530
 url: "/cdr-researcher-census/researchers/tanuja-poonia-a5109783/"
 layout: "researcher"
 hiddenInHomeList: true

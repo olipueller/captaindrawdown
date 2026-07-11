@@ -1,7 +1,7 @@
 ---
 title: "Alaa Al Khourdajie"
 description: "Alaa Al Khourdajie is a Mid-career General CDR researcher at International Institute for Applied Systems Analysis in AT. With 61 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.129917
+date: 2026-07-11T11:05:42.872976
 url: "/cdr-researcher-census/researchers/alaa-al-khourdajie-a5048714/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 14 |
 | Citations | 2,274 |
 | Publications | 61 |
-| CDR Focus | 8.2% |
+| CDR Focus | 11.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -56,13 +56,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 2. **Defining ‘abated’ fossil fuel and industrial process emissions** (2025)
    4 citations · General CDR
 
-3. **Navigating the unexpected: The impact of disruptive events on mitigation scenarios** (2025)
+3. **Climate overshoot legacy: Distinguishing transient biophysical change from irreversible socioeconomic loss** (2026)
    0 citations · General CDR
 
-4. **Defining "abated" fossil fuel emissions** (2024)
+4. **Phasing out 'unabated fossil fuels': the importance of defining 'abatement'** (2024)
    0 citations · General CDR
 
-5. **Models, scenarios or ambition? A decomposition analysis of factors influencing future mitigation indicators.** (2023)
+5. **Navigating the unexpected: The impact of disruptive events on mitigation scenarios** (2025)
+   0 citations · General CDR
+
+6. **Defining "abated" fossil fuel emissions** (2024)
+   0 citations · General CDR
+
+7. **Models, scenarios or ambition? A decomposition analysis of factors influencing future mitigation indicators.** (2023)
    0 citations · General CDR
 
 ## External Profiles

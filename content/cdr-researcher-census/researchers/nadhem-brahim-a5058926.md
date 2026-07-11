@@ -1,7 +1,7 @@
 ---
 title: "Nadhem Brahim"
 description: "Nadhem Brahim is a Mid-career Soil Carbon researcher at Tunis University in TN. With 59 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.736209
+date: 2026-07-11T11:05:43.300642
 url: "/cdr-researcher-census/researchers/nadhem-brahim-a5058926/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 13 |
 | Citations | 479 |
 | Publications | 59 |
-| CDR Focus | 8.5% |
+| CDR Focus | 6.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

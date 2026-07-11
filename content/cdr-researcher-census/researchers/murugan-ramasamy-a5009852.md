@@ -1,7 +1,7 @@
 ---
 title: "Murugan Ramasamy"
 description: "Murugan Ramasamy is a Mid-career Ocean CDR researcher at Leibniz Centre for Tropical Marine Research in DE. With 34 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.967734
+date: 2026-07-11T11:05:43.464396
 url: "/cdr-researcher-census/researchers/murugan-ramasamy-a5009852/"
 layout: "researcher"
 hiddenInHomeList: true

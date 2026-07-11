@@ -1,7 +1,7 @@
 ---
 title: "David Radu"
 description: "David Radu is a Mid-career General CDR researcher at University of Liège in BE. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.505636
+date: 2026-07-11T11:05:43.835298
 url: "/cdr-researcher-census/researchers/david-radu-a5025755/"
 layout: "researcher"
 hiddenInHomeList: true

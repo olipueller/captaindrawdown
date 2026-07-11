@@ -1,7 +1,7 @@
 ---
 title: "Gaili Zhang"
 description: "Gaili Zhang is a Mid-career Biochar researcher at Henan Normal University in CN. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.332935
+date: 2026-07-11T11:05:43.702259
 url: "/cdr-researcher-census/researchers/gaili-zhang-a5027696/"
 layout: "researcher"
 hiddenInHomeList: true

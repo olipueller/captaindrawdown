@@ -1,7 +1,7 @@
 ---
 title: "Jia Kong"
 description: "Jia Kong is a Mid-career Ocean CDR researcher at Hebei University of Technology in CN. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.709417
+date: 2026-07-11T11:05:43.281063
 url: "/cdr-researcher-census/researchers/jia-kong-a5020885/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 7 |
 | Citations | 500 |
 | Publications | 8 |
-| CDR Focus | 50.0% |
+| CDR Focus | 25.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

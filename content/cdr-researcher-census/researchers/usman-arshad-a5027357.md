@@ -1,7 +1,7 @@
 ---
 title: "Usman Arshad"
 description: "Usman Arshad is a Mid-career Soil Carbon researcher at Tobacco Research Institute in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.704927
+date: 2026-07-11T11:05:44.103957
 url: "/cdr-researcher-census/researchers/usman-arshad-a5027357/"
 layout: "researcher"
 hiddenInHomeList: true

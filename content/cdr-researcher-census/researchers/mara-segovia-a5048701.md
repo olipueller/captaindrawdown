@@ -1,7 +1,7 @@
 ---
 title: "Marı́a Segovia"
 description: "Marı́a Segovia is a Senior Ocean CDR researcher at Universidad de Malaga in ES. With 58 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.324058
+date: 2026-07-11T11:05:42.990370
 url: "/cdr-researcher-census/researchers/mara-segovia-a5048701/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 18 |
 | Citations | 1,150 |
 | Publications | 58 |
-| CDR Focus | 12.1% |
-| Trajectory | Declining |
+| CDR Focus | 5.2% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

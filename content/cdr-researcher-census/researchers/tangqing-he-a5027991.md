@@ -1,7 +1,7 @@
 ---
 title: "Tangqing He"
 description: "Tangqing He is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.254426
+date: 2026-07-11T11:05:43.648933
 url: "/cdr-researcher-census/researchers/tangqing-he-a5027991/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 252 |
 | Publications | 18 |
-| CDR Focus | 33.3% |
-| Trajectory | Declining |
+| CDR Focus | 16.7% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
@@ -59,13 +59,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **Supplementary original data** (2023)
    0 citations · Soil Carbon
 
-4. **Moderate precipitation reduction enhances nitrogen cycling and soil nitrous oxide emissions in a semi-arid grassland** (2023)
-   0 citations
-
-5. **Data from: Moderate precipitation reduction enhances nitrogen cycling and soil nitrous oxide emissions in a semi-arid grassland** (2023)
+4. **Supplementary original data** (2023)
    0 citations · Soil Carbon
 
-6. **Climate warming suppresses soil abundant fungal taxa and reduces soil carbon efflux in a semi-arid grassland** (2023)
+5. **Supplementary original data** (2023)
+   0 citations · Soil Carbon
+
+6. **Moderate precipitation reduction enhances nitrogen cycling and soil nitrous oxide emissions in a semi-arid grassland** (2023)
+   0 citations
+
+7. **Data from: Moderate precipitation reduction enhances nitrogen cycling and soil nitrous oxide emissions in a semi-arid grassland** (2023)
+   0 citations · Soil Carbon
+
+8. **Climate warming suppresses soil abundant fungal taxa and reduces soil carbon efflux in a semi-arid grassland** (2023)
    0 citations · Soil Carbon
 
 ## External Profiles

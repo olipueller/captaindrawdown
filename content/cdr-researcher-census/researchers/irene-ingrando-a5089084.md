@@ -1,7 +1,7 @@
 ---
 title: "Irene Ingrando"
 description: "Irene Ingrando is a Mid-career Biochar researcher at European Food Safety Authority in IT. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.135510
+date: 2026-07-11T11:05:44.429548
 url: "/cdr-researcher-census/researchers/irene-ingrando-a5089084/"
 layout: "researcher"
 hiddenInHomeList: true

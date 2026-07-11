@@ -1,7 +1,7 @@
 ---
 title: "Chao Jin"
-description: "Chao Jin is a Mid-career General CDR researcher at Sun Yat-sen University in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.815666
+description: "Chao Jin is a Mid-career Soil Carbon researcher at Sun Yat-sen University in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:43.359345
 url: "/cdr-researcher-census/researchers/chao-jin-a5101907/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Sun Yat-sen University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**General CDR**
+**Soil Carbon**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
@@ -45,12 +45,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 8 |
 | Citations | 426 |
 | Publications | 15 |
-| CDR Focus | 6.7% |
+| CDR Focus | 13.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Carbon removal trading can promote economic growth in the Global South but could undermine food and energy security** (2025)
+1. **Coupled effects of biochar nanoparticles aging and transport on rare earth element immobilization and carbon sequestration** (2026)
+   0 citations · Biochar
+
+2. **Carbon removal trading can promote economic growth in the Global South but could undermine food and energy security** (2025)
    0 citations · General CDR
 
 ## External Profiles

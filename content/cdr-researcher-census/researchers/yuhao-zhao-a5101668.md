@@ -1,7 +1,7 @@
 ---
 title: "Yuhao Zhao"
-description: "Yuhao Zhao is a Mid-career Ocean CDR researcher. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.572137
+description: "Yuhao Zhao is a Mid-career Soil Carbon researcher. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:43.933087
 url: "/cdr-researcher-census/researchers/yuhao-zhao-a5101668/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**Ocean CDR**
+**Soil Carbon**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
@@ -40,13 +40,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 7 |
 | Citations | 178 |
 | Publications | 20 |
-| CDR Focus | 5.0% |
-| Trajectory | Growing |
+| CDR Focus | 10.0% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Carbon capture and storage via enhanced carbonate weathering coupled with aquatic photosynthesis: Potential, cost, and advantages** (2025)
    8 citations · Enhanced Weathering
+
+2. **Effects of Nitrogen Deposition on Leaf Litter Decomposition and Soil Organic Carbon Density in Arid and Barren Rocky Mountainous Regions: A Case Study of Yimeng Mountain** (2023)
+   7 citations · Soil Carbon
 
 ## External Profiles
 

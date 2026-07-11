@@ -1,7 +1,7 @@
 ---
 title: "Jindian Yang"
 description: "Jindian Yang is a Mid-career Soil Carbon researcher at Harbin Institute of Technology in CN. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.283020
+date: 2026-07-11T11:05:43.666685
 url: "/cdr-researcher-census/researchers/jindian-yang-a5102377/"
 layout: "researcher"
 hiddenInHomeList: true

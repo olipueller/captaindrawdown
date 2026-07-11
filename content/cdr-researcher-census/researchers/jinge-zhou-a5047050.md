@@ -1,7 +1,7 @@
 ---
 title: "Jinge Zhou"
 description: "Jinge Zhou is a Mid-career Soil Carbon researcher at Wuhan Institute of Virology in CN. With 34 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.579091
+date: 2026-07-11T11:05:43.169612
 url: "/cdr-researcher-census/researchers/jinge-zhou-a5047050/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 15 |
 | Citations | 631 |
 | Publications | 34 |
-| CDR Focus | 47.1% |
+| CDR Focus | 38.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

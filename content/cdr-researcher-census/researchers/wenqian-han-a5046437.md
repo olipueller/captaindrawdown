@@ -1,7 +1,7 @@
 ---
 title: "Wenqian Han"
 description: "Wenqian Han is a Senior Soil Carbon researcher at Collaborative Innovation Center of Chemistry for Energy Materials in CN. With 25 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.614412
+date: 2026-07-11T11:05:43.216191
 url: "/cdr-researcher-census/researchers/wenqian-han-a5046437/"
 layout: "researcher"
 hiddenInHomeList: true

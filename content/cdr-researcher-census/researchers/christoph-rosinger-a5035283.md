@@ -1,7 +1,7 @@
 ---
 title: "Christoph Rosinger"
 description: "Christoph Rosinger is a Senior Soil Carbon researcher at University of Cologne in DE. With 79 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.280552
+date: 2026-07-11T11:05:42.961713
 url: "/cdr-researcher-census/researchers/christoph-rosinger-a5035283/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 20 |
 | Citations | 1,316 |
 | Publications | 79 |
-| CDR Focus | 15.2% |
+| CDR Focus | 13.9% |
 | Trajectory | Declining |
 
 ## Top CDR Publications

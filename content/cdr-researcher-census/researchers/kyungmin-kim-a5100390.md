@@ -1,7 +1,7 @@
 ---
 title: "Kyungmin Kim"
 description: "Kyungmin Kim is a Mid-career Soil Carbon researcher at Atkins (United States) in US. With 48 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.914158
+date: 2026-07-11T11:05:43.426615
 url: "/cdr-researcher-census/researchers/kyungmin-kim-a5100390/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 372 |
 | Publications | 48 |
-| CDR Focus | 12.5% |
+| CDR Focus | 6.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -53,19 +53,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Soil carbon accrual and biopore formation across a plant diversity gradient** (2025)
    2 citations · Soil Carbon
 
-2. **Reply on RC3** (2025)
+2. **Biochar type shapes root architecture and rhizosphere enzyme hotspots** (2026)
+   0 citations · Biochar
+
+3. **Reply on RC3** (2025)
    0 citations · Soil Carbon
 
-3. **Reply on RC2** (2025)
+4. **Reply on RC2** (2025)
    0 citations · Soil Carbon
 
-4. **Reply on RC1** (2025)
+5. **Reply on RC1** (2025)
    0 citations · Soil Carbon
 
-5. **Soil carbon accrual and biopore formation across a plant diversity gradient** (2025)
+6. **Soil carbon accrual and biopore formation across a plant diversity gradient** (2025)
    0 citations
 
-6. **Optimizing soil carbon sequestration: The role of biopores in plant diversity and strategic species combinations** (2025)
+7. **Optimizing soil carbon sequestration: The role of biopores in plant diversity and strategic species combinations** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

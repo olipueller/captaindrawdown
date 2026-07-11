@@ -1,7 +1,7 @@
 ---
 title: "Manju M. Gupta"
 description: "Manju M. Gupta is a Mid-career Soil Carbon researcher at University of Delhi in IN. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.163861
+date: 2026-07-11T11:05:43.584334
 url: "/cdr-researcher-census/researchers/manju-m-gupta-a5076407/"
 layout: "researcher"
 hiddenInHomeList: true

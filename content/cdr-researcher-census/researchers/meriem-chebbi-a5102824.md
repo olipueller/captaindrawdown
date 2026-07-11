@@ -1,7 +1,7 @@
 ---
 title: "Meriem Chebbi"
 description: "Meriem Chebbi is a Mid-career Biochar researcher at University of Biskra in DZ. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.021048
+date: 2026-07-11T11:05:44.357687
 url: "/cdr-researcher-census/researchers/meriem-chebbi-a5102824/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 5 |
 | Citations | 113 |
 | Publications | 10 |
-| CDR Focus | 20.0% |
+| CDR Focus | 10.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

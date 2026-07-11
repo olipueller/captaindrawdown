@@ -1,7 +1,7 @@
 ---
 title: "E. Parameswari"
 description: "E. Parameswari is a Senior Soil Carbon researcher at Tamil Nadu Agricultural University in IN. With 125 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.301035
+date: 2026-07-11T11:05:42.975351
 url: "/cdr-researcher-census/researchers/e-parameswari-a5018597/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 20 |
 | Citations | 1,230 |
 | Publications | 125 |
-| CDR Focus | 10.4% |
-| Trajectory | Stable |
+| CDR Focus | 7.2% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

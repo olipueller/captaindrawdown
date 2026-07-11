@@ -1,7 +1,7 @@
 ---
 title: "B. M. Kamble"
 description: "B. M. Kamble is a Mid-career General CDR researcher at Mahatma Phule Krishi Vidyapeeth in IN. With 63 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.541707
+date: 2026-07-11T11:05:43.901313
 url: "/cdr-researcher-census/researchers/b-m-kamble-a5112194/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 7 |
 | Citations | 184 |
 | Publications | 63 |
-| CDR Focus | 7.9% |
-| Trajectory | Stable |
+| CDR Focus | 6.3% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

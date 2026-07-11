@@ -1,7 +1,7 @@
 ---
 title: "M. Pinzón"
 description: "M. Pinzón is a Mid-career Biochar researcher at Ca' Foscari University of Venice in IT. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.817529
+date: 2026-07-11T11:05:43.361015
 url: "/cdr-researcher-census/researchers/m-pinzon-a5051994/"
 layout: "researcher"
 hiddenInHomeList: true

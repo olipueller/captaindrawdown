@@ -1,7 +1,7 @@
 ---
 title: "Priyanka Wagh"
 description: "Priyanka Wagh is a Mid-career Biochar researcher at Dr. D.Y. Patil Vidyapeeth, Pune in IN. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.965745
+date: 2026-07-11T11:05:43.462499
 url: "/cdr-researcher-census/researchers/priyanka-wagh-a5078973/"
 layout: "researcher"
 hiddenInHomeList: true

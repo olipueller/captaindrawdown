@@ -1,7 +1,7 @@
 ---
 title: "Marko Spasić"
 description: "Marko Spasić is a Mid-career Soil Carbon researcher at Czech University of Life Sciences Prague in CZ. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.539346
+date: 2026-07-11T11:05:43.898329
 url: "/cdr-researcher-census/researchers/marko-spasic-a5020651/"
 layout: "researcher"
 hiddenInHomeList: true

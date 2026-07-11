@@ -1,7 +1,7 @@
 ---
 title: "Seok-In Yun"
 description: "Seok-In Yun is a Senior Biochar researcher. With 74 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.582673
+date: 2026-07-11T11:05:43.179397
 url: "/cdr-researcher-census/researchers/seok-in-yun-a5058829/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Kate Dooley"
 description: "Kate Dooley is a Senior General CDR researcher at The University of Melbourne in AU. With 67 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.225512
+date: 2026-07-11T11:05:42.927425
 url: "/cdr-researcher-census/researchers/kate-dooley-a5035650/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 18 |
 | Citations | 1,562 |
 | Publications | 67 |
-| CDR Focus | 11.9% |
+| CDR Focus | 9.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -71,7 +71,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 7. **Author Correction: Over-reliance on land for carbon dioxide removal in net-zero climate pledges** (2024)
    1 citations · General CDR
 
-8. **Beyond ‘doing both’ : framing carbon removal carefully** (2026)
+8. **Beyond 'doing both'-framing carbon removal carefully** (2026)
+   0 citations
+
+9. **Beyond ‘doing both’ : framing carbon removal carefully** (2026)
    0 citations · General CDR
 
 ## External Profiles

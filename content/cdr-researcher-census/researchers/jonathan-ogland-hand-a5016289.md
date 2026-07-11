@@ -1,7 +1,7 @@
 ---
 title: "Jonathan Ogland-Hand"
 description: "Jonathan Ogland-Hand is a Mid-career General CDR researcher at Carbon Solutions (United States) in US. With 60 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.055825
+date: 2026-07-11T11:05:43.525380
 url: "/cdr-researcher-census/researchers/jonathan-ogland-hand-a5016289/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 10 |
 | Citations | 309 |
 | Publications | 60 |
-| CDR Focus | 8.3% |
-| Trajectory | Declining |
+| CDR Focus | 5.0% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

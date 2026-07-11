@@ -1,7 +1,7 @@
 ---
 title: "Shivani Ranjan"
 description: "Shivani Ranjan is a Mid-career Soil Carbon researcher at Dr. Rajendra Prasad Central Agriculture University in IN. With 42 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.915323
+date: 2026-07-11T11:05:43.427881
 url: "/cdr-researcher-census/researchers/shivani-ranjan-a5067267/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,18 +45,27 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 13 |
 | Citations | 371 |
 | Publications | 42 |
-| CDR Focus | 7.1% |
-| Trajectory | Growing |
+| CDR Focus | 11.9% |
+| Trajectory | Declining |
 
 ## Top CDR Publications
 
-1. **Ecosystem Services Through Agroforestry Systems and Its Sustainability** (2024)
+1. **Influence of 36 years of integrated nutrient management on soil carbon sequestration, environmental footprint and agronomic productivity of wheat under rice-wheat cropping system** (2023)
+   32 citations · Soil Carbon
+
+2. **Ecosystem Services Through Agroforestry Systems and Its Sustainability** (2024)
    18 citations · General CDR
 
-2. **Productivity, carbon dynamics and soil fertility of eucalyptus based agroforestry system under different winter crops** (2026)
+3. **Trash Amended with Trichoderma Effects on Cane Yield, Soil Carbon Dynamics, and Enzymatic Activities under Plant–Ratoon System of Sugarcane in Calcareous Soil** (2024)
+   11 citations · Soil Carbon
+
+4. **Agroforestry and Soil Carbon Sequestration: A Nexus for System Sustainability** (2024)
+   2 citations · General CDR
+
+5. **Productivity, carbon dynamics and soil fertility of eucalyptus based agroforestry system under different winter crops** (2026)
    0 citations
 
-3. **Response of Soil Microbial Communities to Climate Change** (2025)
+6. **Response of Soil Microbial Communities to Climate Change** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

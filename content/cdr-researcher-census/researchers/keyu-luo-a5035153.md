@@ -1,7 +1,7 @@
 ---
 title: "Keyu Luo"
-description: "Keyu Luo is a Mid-career Unknown researcher at Chengdu University of Technology in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.768630
+description: "Keyu Luo is a Mid-career Soil Carbon researcher at Chengdu University of Technology in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:44.151994
 url: "/cdr-researcher-census/researchers/keyu-luo-a5035153/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Chengdu University of Technology · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Unknown**
+**Soil Carbon**
 
-Unknown
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
@@ -49,6 +49,9 @@ Unknown
 
 1. **Modelling the socio-ecological security pattern for large freshwater lake regions: supply-demand mismatch in the Dongting lake area** (2026)
    0 citations
+
+2. **Modeling Spatiotemporal Dynamics and Driving Mechanisms of Ecosystem Services Bundles in Resource-Based Cities: Supply–Demand Mismatch in Xingtai, China** (2025)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

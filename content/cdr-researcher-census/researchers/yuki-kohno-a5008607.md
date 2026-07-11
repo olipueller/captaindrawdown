@@ -1,7 +1,7 @@
 ---
 title: "Yuki Kohno"
 description: "Yuki Kohno is a Senior DAC researcher at Sendai National College of Technology in JP. With 65 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.128584
+date: 2026-07-11T11:05:42.872131
 url: "/cdr-researcher-census/researchers/yuki-kohno-a5008607/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 26 |
 | Citations | 2,291 |
 | Publications | 65 |
-| CDR Focus | 7.7% |
+| CDR Focus | 6.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

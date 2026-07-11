@@ -1,7 +1,7 @@
 ---
 title: "Jianjun Qin"
 description: "Jianjun Qin is a Mid-career Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 8 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.194033
+date: 2026-07-11T11:05:43.607147
 url: "/cdr-researcher-census/researchers/jianjun-qin-a5077085/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 271 |
 | Publications | 8 |
-| CDR Focus | 37.5% |
-| Trajectory | Exiting |
+| CDR Focus | 50.0% |
+| Trajectory | Declining |
 
 ## Top CDR Publications
 
@@ -58,6 +58,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 3. **Freeze–Thaw Cycle Events Enable the Deep Disintegration of Biochar: Release of Dissolved Black Carbon and Its Structural-Dependent Carbon Sequestration Capacity** (2024)
    16 citations · Biochar
+
+4. **Additional carbon conversion driven by microbial metabolic limitations in long-term phosphorus-fertilized soil: The role of reactive oxygen species** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

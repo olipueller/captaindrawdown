@@ -1,7 +1,7 @@
 ---
 title: "Elizabeth Yankovsky"
 description: "Elizabeth Yankovsky is a Mid-career Ocean CDR researcher at Planetary Science Institute in US. With 38 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.050649
+date: 2026-07-11T11:05:43.521943
 url: "/cdr-researcher-census/researchers/elizabeth-yankovsky-a5001895/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 9 |
 | Citations | 311 |
 | Publications | 38 |
-| CDR Focus | 26.3% |
-| Trajectory | Declining |
+| CDR Focus | 13.2% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

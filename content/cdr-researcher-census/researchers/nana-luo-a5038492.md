@@ -1,7 +1,7 @@
 ---
 title: "Nana Luo"
 description: "Nana Luo is a Mid-career Soil Carbon researcher at Huazhong University of Science and Technology Hospital in CN. With 89 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.370863
+date: 2026-07-11T11:05:43.020783
 url: "/cdr-researcher-census/researchers/nana-luo-a5038492/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 19 |
 | Citations | 1,008 |
 | Publications | 89 |
-| CDR Focus | 11.2% |
-| Trajectory | Declining |
+| CDR Focus | 5.6% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

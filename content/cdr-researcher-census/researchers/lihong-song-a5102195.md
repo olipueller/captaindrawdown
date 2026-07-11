@@ -1,7 +1,7 @@
 ---
 title: "Lihong Song"
 description: "Lihong Song is a Mid-career Soil Carbon researcher at Guizhou Normal University in CN. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.326489
+date: 2026-07-11T11:05:43.698038
 url: "/cdr-researcher-census/researchers/lihong-song-a5102195/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Continuous biochar application results in higher greenhouse gas emissions than a single biochar application in an upland agroecosystem** (2025)
    3 citations · Biochar
 
-2. **Global Patterns and Controls of Grassland Soil Nematode Responses to Nutrient Addition: A Meta-Analysis** (2023)
+2. **Biochar effects on greenhouse gas emissions in agricultural upland systems** (2026)
+   0 citations · Biochar
+
+3. **Global Patterns and Controls of Grassland Soil Nematode Responses to Nutrient Addition: A Meta-Analysis** (2023)
    0 citations · Soil Carbon
 
 ## External Profiles

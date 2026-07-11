@@ -1,7 +1,7 @@
 ---
 title: "Jens Leifeld"
-description: "Jens Leifeld is an Eminent Soil Carbon researcher at Federal Office for Agriculture in CH. With 297 publications and an h-index of 67, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.862726
+description: "Jens Leifeld is an Eminent General CDR researcher at Federal Office for Agriculture in CH. With 297 publications and an h-index of 67, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:42.772657
 url: "/cdr-researcher-census/researchers/jens-leifeld-a5078135/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Federal Office for Agriculture · 🇨🇭 CH
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 67 |
 | Citations | 18,041 |
 | Publications | 297 |
-| CDR Focus | 7.4% |
+| CDR Focus | 7.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

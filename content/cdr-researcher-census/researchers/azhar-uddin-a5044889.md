@@ -1,7 +1,7 @@
 ---
 title: "Azhar Uddin"
 description: "Azhar Uddin is a Senior General CDR researcher at Abdul Wali Khan University Mardan in CA. With 37 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.098223
+date: 2026-07-11T11:05:43.556647
 url: "/cdr-researcher-census/researchers/azhar-uddin-a5044889/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 7 |
 | Citations | 294 |
 | Publications | 37 |
-| CDR Focus | 8.1% |
-| Trajectory | Exiting |
+| CDR Focus | 5.4% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

@@ -1,7 +1,7 @@
 ---
 title: "Shenglong Zhao"
 description: "Shenglong Zhao is a Senior Soil Carbon researcher at Tianshui Normal University in CN. With 26 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.759234
+date: 2026-07-11T11:05:43.319162
 url: "/cdr-researcher-census/researchers/shenglong-zhao-a5101409/"
 layout: "researcher"
 hiddenInHomeList: true

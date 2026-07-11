@@ -1,7 +1,7 @@
 ---
 title: "Renato Rodrigues"
 description: "Renato Rodrigues is a Mid-career General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 48 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.223581
+date: 2026-07-11T11:05:42.925945
 url: "/cdr-researcher-census/researchers/renato-rodrigues-a5073007/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 13 |
 | Citations | 1,569 |
 | Publications | 48 |
-| CDR Focus | 10.4% |
+| CDR Focus | 8.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

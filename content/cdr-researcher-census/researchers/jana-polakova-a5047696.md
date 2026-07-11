@@ -1,7 +1,7 @@
 ---
 title: "Jana Poláková"
 description: "Jana Poláková is a Mid-career General CDR researcher at Czech University of Life Sciences Prague in CZ. With 39 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.733689
+date: 2026-07-11T11:05:44.126352
 url: "/cdr-researcher-census/researchers/jana-polakova-a5047696/"
 layout: "researcher"
 hiddenInHomeList: true

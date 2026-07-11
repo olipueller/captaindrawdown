@@ -1,7 +1,7 @@
 ---
 title: "Yajie Gao"
 description: "Yajie Gao is a Mid-career Soil Carbon researcher at University of Helsinki in FI. With 31 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.638007
+date: 2026-07-11T11:05:43.231822
 url: "/cdr-researcher-census/researchers/yajie-gao-a5006759/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Michael D. Tyka"
 description: "Michael D. Tyka is a Senior Ocean CDR researcher at Google Inc in US. With 52 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.956755
+date: 2026-07-11T11:05:42.795848
 url: "/cdr-researcher-census/researchers/michael-d-tyka-a5073201/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 23 |
 | Citations | 6,197 |
 | Publications | 52 |
-| CDR Focus | 53.8% |
+| CDR Focus | 34.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

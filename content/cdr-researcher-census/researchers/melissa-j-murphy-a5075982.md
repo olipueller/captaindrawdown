@@ -1,7 +1,7 @@
 ---
 title: "Melissa J. Murphy"
 description: "Melissa J. Murphy is a Senior Enhanced Weathering researcher at Carbon Drawdown Initiative in DE. With 45 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.210821
+date: 2026-07-11T11:05:42.918488
 url: "/cdr-researcher-census/researchers/melissa-j-murphy-a5075982/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -68,11 +68,17 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 6. **Initial agronomic benefits of enhanced weathering using basalt: A study of spring oat in a temperate climate** (2023)
    1 citations · Enhanced Weathering
 
-7. **Rock/soil interactions governing alkalinity release and cation retention in greenhouse enhanced weathering experiments** (2026)
+7. **Extreme hydrological events amplify weathering-derived inorganic carbon fluxes in the Arctic permafrost active layer** (2026)
    0 citations · Enhanced Weathering
 
-8. **Quantifying potential carbon dioxide removal via enhanced weathering using porewater from a field trial in Scotland** (2025)
+8. **Rock/soil interactions governing alkalinity release and cation retention in greenhouse enhanced weathering experiments** (2026)
+   0 citations · Enhanced Weathering
+
+9. **Quantifying potential carbon dioxide removal via enhanced weathering using porewater from a field trial in Scotland** (2025)
    0 citations
+
+10. **Application of an Innovative Centrifuge-Based Soil Pore Water Sampling Method in Basalt Enhanced Weathering Field Trials.** (2024)
+   0 citations · Enhanced Weathering
 
 ## External Profiles
 

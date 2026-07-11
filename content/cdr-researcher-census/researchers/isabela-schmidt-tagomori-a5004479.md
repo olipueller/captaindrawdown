@@ -1,7 +1,7 @@
 ---
 title: "Isabela Schmidt Tagomori"
 description: "Isabela Schmidt Tagomori is a Mid-career General CDR researcher at Netherlands Environmental Assessment Agency in NL. With 33 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.710760
+date: 2026-07-11T11:05:43.282102
 url: "/cdr-researcher-census/researchers/isabela-schmidt-tagomori-a5004479/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 10 |
 | Citations | 499 |
 | Publications | 33 |
-| CDR Focus | 15.2% |
-| Trajectory | Declining |
+| CDR Focus | 21.2% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
@@ -64,6 +64,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 5. **Carbon Dioxide Removal Supply Curves: A Multi-Model Assessment** (2026)
    0 citations · BECCS
+
+6. **Enhanced weathering and biochar can contribute over 50% of carbon removal while reducing costs and resource depletion in China** (2026)
+   0 citations · BECCS
+
+7. **Report on comparison of policy scenarios to Paris-aligned scenarios** (2025)
+   0 citations
+
+8. **Report on comparison of policy scenarios to Paris-aligned scenarios** (2025)
+   0 citations · General CDR
 
 ## External Profiles
 

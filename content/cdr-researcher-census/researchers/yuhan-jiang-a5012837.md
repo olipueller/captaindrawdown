@@ -1,7 +1,7 @@
 ---
 title: "Yuhan Jiang"
 description: "Yuhan Jiang is a Mid-career Soil Carbon researcher at Tianjin Centers for Disease Control and Prevention in CN. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.863183
+date: 2026-07-11T11:05:43.393085
 url: "/cdr-researcher-census/researchers/yuhan-jiang-a5012837/"
 layout: "researcher"
 hiddenInHomeList: true

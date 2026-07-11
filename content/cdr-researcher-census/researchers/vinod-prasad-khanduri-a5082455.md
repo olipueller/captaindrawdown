@@ -1,7 +1,7 @@
 ---
 title: "Vinod Prasad Khanduri"
 description: "Vinod Prasad Khanduri is a Senior Soil Carbon researcher at Veer Chandra Singh Garhwali Uttarakhand University of Horticulture & Forestry in IN. With 97 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.421171
+date: 2026-07-11T11:05:43.053102
 url: "/cdr-researcher-census/researchers/vinod-prasad-khanduri-a5082455/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 16 |
 | Citations | 891 |
 | Publications | 97 |
-| CDR Focus | 9.3% |
+| CDR Focus | 5.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

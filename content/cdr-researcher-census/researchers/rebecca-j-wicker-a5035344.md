@@ -1,7 +1,7 @@
 ---
 title: "Rebecca J. Wicker"
 description: "Rebecca J. Wicker is a Senior General CDR researcher at Lappeenranta-Lahti University of Technology in FI. With 9 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.477356
+date: 2026-07-11T11:05:43.092256
 url: "/cdr-researcher-census/researchers/rebecca-j-wicker-a5035344/"
 layout: "researcher"
 hiddenInHomeList: true

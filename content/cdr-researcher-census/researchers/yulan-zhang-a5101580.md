@@ -1,7 +1,7 @@
 ---
 title: "Yulan Zhang"
 description: "Yulan Zhang is a Senior Soil Carbon researcher at Institute of Applied Ecology in CN. With 102 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.046968
+date: 2026-07-11T11:05:42.834102
 url: "/cdr-researcher-census/researchers/yulan-zhang-a5101580/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 28 |
 | Citations | 3,412 |
 | Publications | 102 |
-| CDR Focus | 5.9% |
+| CDR Focus | 7.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -67,6 +67,12 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 6. **More labile carbon inputs lessen the positive effects of nitrogen enrichment on soil carbon storage in a temperate grassland** (2023)
    3 citations · Soil Carbon
+
+7. **Long‐Term Effects of Straw‐Biochar Application and Fertilization Gradients on Black Soil Carbon Sequestration via Prokaryote‐Fungus‐Protist Interactions and Metagenomic‐Metabolite Linkages** (2026)
+   0 citations · Biochar
+
+8. **Effects of Combined Stover and Biochar Return on Soil Organic Matter and Microbial Characteristics** (2025)
+   0 citations · Biochar
 
 ## External Profiles
 

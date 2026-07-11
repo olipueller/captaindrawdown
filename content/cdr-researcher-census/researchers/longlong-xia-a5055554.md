@@ -1,7 +1,7 @@
 ---
 title: "Longlong Xia"
 description: "Longlong Xia is an Eminent Soil Carbon researcher at Karlsruhe Institute of Technology in DE. With 93 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.950974
+date: 2026-07-11T11:05:42.793575
 url: "/cdr-researcher-census/researchers/longlong-xia-a5055554/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 40 |
 | Citations | 6,565 |
 | Publications | 93 |
-| CDR Focus | 7.5% |
-| Trajectory | Stable |
+| CDR Focus | 5.4% |
+| Trajectory | Declining |
 
 ## Top CDR Publications
 
@@ -68,7 +68,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 6. **Declines of peatland water table forces climate warming despite methane emission drawdown** (2023)
    1 citations
 
-7. **Reply to Sun: Real-world bulk density changes support high carbon sequestration potential of biochar** (2026)
+7. **Mixed Forestation Outperforms Pure Stands in Soil Carbon Sequestration and Stability** (2026)
+   0 citations · Soil Carbon
+
+8. **Losing a Hidden Ally: The Shrinking Capacity of Upland Soils to Remove Atmospheric Methane** (2026)
+   0 citations
+
+9. **Reply to Sun: Real-world bulk density changes support high carbon sequestration potential of biochar** (2026)
    0 citations · Biochar
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Gabriel Lopez"
 description: "Gabriel Lopez is a Mid-career General CDR researcher at LUT School of Energy Systems in FI. With 45 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.183169
+date: 2026-07-11T11:05:42.901858
 url: "/cdr-researcher-census/researchers/gabriel-lopez-a5062378/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 17 |
 | Citations | 1,817 |
 | Publications | 45 |
-| CDR Focus | 8.9% |
-| Trajectory | Stable |
+| CDR Focus | 6.7% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

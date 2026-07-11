@@ -1,7 +1,7 @@
 ---
 title: "Snigdhendubala Pradhan"
 description: "Snigdhendubala Pradhan is a Mid-career Biochar researcher at Hamad bin Khalifa University in QA. With 55 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.350890
+date: 2026-07-11T11:05:43.007636
 url: "/cdr-researcher-census/researchers/snigdhendubala-pradhan-a5014730/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 17 |
 | Citations | 1,066 |
 | Publications | 55 |
-| CDR Focus | 7.3% |
+| CDR Focus | 5.5% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

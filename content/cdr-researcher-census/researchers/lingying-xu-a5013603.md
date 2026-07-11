@@ -1,7 +1,7 @@
 ---
 title: "Lingying Xu"
 description: "Lingying Xu is a Mid-career Soil Carbon researcher at Yunnan Agricultural University in CN. With 37 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.658616
+date: 2026-07-11T11:05:43.245505
 url: "/cdr-researcher-census/researchers/lingying-xu-a5013603/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -59,10 +59,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **[Effects of Vegetation Restoration on Soil Organic Carbon Sequestration and Aggregate Stability in Water-Eroded Environment: A Meta-analysis].** (2023)
    3 citations · Soil Carbon
 
-4. **Humic substances from various coal sources alter <sup>15</sup> N-Labeled urea nitrogen distribution in soil** (2025)
+4. **Contrasting microbial carbon transformation pathways drive differential SOC sequestration in long-term biochar-amended paddy and upland soils** (2026)
+   0 citations · Biochar
+
+5. **Humic substances from various coal sources alter <sup>15</sup> N-Labeled urea nitrogen distribution in soil** (2025)
    0 citations
 
-5. **The improvement of SOC sequestration mediated by soil structure in the greenhouse vegetable soil converted from paddy field** (2021)
+6. **The improvement of SOC sequestration mediated by soil structure in the greenhouse vegetable soil converted from paddy field** (2021)
    0 citations · Soil Carbon
 
 ## External Profiles

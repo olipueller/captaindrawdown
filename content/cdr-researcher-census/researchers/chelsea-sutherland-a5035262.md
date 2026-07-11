@@ -1,7 +1,7 @@
 ---
 title: "Chelsea Sutherland"
 description: "Chelsea Sutherland is a Senior Soil Carbon researcher at University of Saskatchewan in CA. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.949282
+date: 2026-07-11T11:05:44.285859
 url: "/cdr-researcher-census/researchers/chelsea-sutherland-a5035262/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Carl Lim"
 description: "Carl Lim is an Early-career Ocean CDR researcher at Universität Hamburg in DE. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.252395
+date: 2026-07-11T11:05:43.647532
 url: "/cdr-researcher-census/researchers/carl-lim-a5015184/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 4 |
 | Citations | 252 |
 | Publications | 11 |
-| CDR Focus | 100.0% |
-| Trajectory | Declining |
+| CDR Focus | 63.6% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

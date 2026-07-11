@@ -1,7 +1,7 @@
 ---
 title: "David C. Rode"
 description: "David C. Rode is a Senior General CDR researcher at Decision Sciences (United States) in US. With 35 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.970697
+date: 2026-07-11T11:05:43.466365
 url: "/cdr-researcher-census/researchers/david-c-rode-a5015456/"
 layout: "researcher"
 hiddenInHomeList: true

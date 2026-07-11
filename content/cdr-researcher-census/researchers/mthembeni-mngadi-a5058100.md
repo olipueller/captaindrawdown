@@ -1,7 +1,7 @@
 ---
 title: "Mthembeni Mngadi"
 description: "Mthembeni Mngadi is a Mid-career Soil Carbon researcher at University of KwaZulu-Natal in ZA. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.277971
+date: 2026-07-11T11:05:43.663601
 url: "/cdr-researcher-census/researchers/mthembeni-mngadi-a5058100/"
 layout: "researcher"
 hiddenInHomeList: true

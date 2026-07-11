@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Azroie Mohamed Yusoff"
 description: "Muhammad Azroie Mohamed Yusoff is an Early-career Biochar researcher at Ministry of Natural Resources and Environment in MY. With 13 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.387137
+date: 2026-07-11T11:05:43.741690
 url: "/cdr-researcher-census/researchers/muhammad-azroie-mohamed-yusoff-a5114078/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 3 |
 | Citations | 217 |
 | Publications | 13 |
-| CDR Focus | 38.5% |
+| CDR Focus | 7.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

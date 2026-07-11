@@ -1,7 +1,7 @@
 ---
 title: "Sara Vicca"
 description: "Sara Vicca is an Eminent Enhanced Weathering researcher at University of Antwerp in BE. With 265 publications and an h-index of 57, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.868208
+date: 2026-07-11T11:05:42.773453
 url: "/cdr-researcher-census/researchers/sara-vicca-a5006929/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 57 |
 | Citations | 17,164 |
 | Publications | 265 |
-| CDR Focus | 18.9% |
+| CDR Focus | 21.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

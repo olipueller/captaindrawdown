@@ -1,7 +1,7 @@
 ---
 title: "André Rovai"
 description: "André Rovai is a Senior Soil Carbon researcher at Smithsonian Environmental Research Center in US. With 108 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.134508
+date: 2026-07-11T11:05:42.876135
 url: "/cdr-researcher-census/researchers/andre-rovai-a5029054/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 23 |
 | Citations | 2,211 |
 | Publications | 108 |
-| CDR Focus | 8.3% |
-| Trajectory | Declining |
+| CDR Focus | 7.4% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

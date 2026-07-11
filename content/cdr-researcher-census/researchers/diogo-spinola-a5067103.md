@@ -1,7 +1,7 @@
 ---
 title: "Diogo Spinola"
 description: "Diogo Spinola is a Mid-career Soil Carbon researcher at University of Northern British Columbia in CA. With 34 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.332380
+date: 2026-07-11T11:05:42.995286
 url: "/cdr-researcher-census/researchers/diogo-spinola-a5067103/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 1,126 |
 | Publications | 34 |
-| CDR Focus | 11.8% |
+| CDR Focus | 8.8% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

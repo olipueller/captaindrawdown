@@ -1,7 +1,7 @@
 ---
 title: "Xiaomin Zhu"
 description: "Xiaomin Zhu is a Senior Soil Carbon researcher at Aarhus University in DK. With 97 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.038392
+date: 2026-07-11T11:05:42.829917
 url: "/cdr-researcher-census/researchers/xiaomin-zhu-a5101657/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 29 |
 | Citations | 3,564 |
 | Publications | 97 |
-| CDR Focus | 6.2% |
+| CDR Focus | 5.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

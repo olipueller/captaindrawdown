@@ -1,7 +1,7 @@
 ---
 title: "Hồ Thị Thanh Hiền"
 description: "Hồ Thị Thanh Hiền is a Mid-career Biochar researcher at Van Lang University in VN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.011765
+date: 2026-07-11T11:05:43.494659
 url: "/cdr-researcher-census/researchers/ho-thi-thanh-hien-a5072705/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ingrid Smet"
 description: "Ingrid Smet is a Senior General CDR researcher at Carbon Drawdown Initiative in BE. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.658126
+date: 2026-07-11T11:05:43.245214
 url: "/cdr-researcher-census/researchers/ingrid-smet-a5101641/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 10 |
 | Citations | 548 |
 | Publications | 28 |
-| CDR Focus | 10.7% |
+| CDR Focus | 14.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -58,6 +58,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 3. **Supplementary material to "Soil processes govern alkalinity and cation retention in enhanced weathering for carbon dioxide removal"** (2025)
    1 citations · Enhanced Weathering
+
+4. **Assessing mineral dissolution and secondary mineral formation during enhanced weathering on agricultural sites** (2026)
+   0 citations · Enhanced Weathering
+
+5. **Rock/soil interactions governing alkalinity release and cation retention in greenhouse enhanced weathering experiments** (2026)
+   0 citations · Enhanced Weathering
+
+6. **Comment on egusphere-2025-5402** (2026)
+   0 citations · Enhanced Weathering
 
 ## External Profiles
 

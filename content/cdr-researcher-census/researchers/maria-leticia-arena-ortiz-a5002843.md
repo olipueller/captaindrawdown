@@ -1,7 +1,7 @@
 ---
 title: "María Leticia Arena-Ortiz"
 description: "María Leticia Arena-Ortiz is a Mid-career Soil Carbon researcher at Instituto Tecnológico de Mérida in MX. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.890773
+date: 2026-07-11T11:05:44.242492
 url: "/cdr-researcher-census/researchers/maria-leticia-arena-ortiz-a5002843/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Subhadeep Rakshit"
 description: "Subhadeep Rakshit is a Mid-career Ocean CDR researcher at Dalhousie University in CA. With 21 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.053362
+date: 2026-07-11T11:05:44.388456
 url: "/cdr-researcher-census/researchers/subhadeep-rakshit-a5020000/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 5 |
 | Citations | 109 |
 | Publications | 21 |
-| CDR Focus | 23.8% |
+| CDR Focus | 14.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

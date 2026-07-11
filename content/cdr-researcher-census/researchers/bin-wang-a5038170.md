@@ -1,7 +1,7 @@
 ---
 title: "Bin Wang"
 description: "Bin Wang is a Senior Ocean CDR researcher at Second Institute of Oceanography in CN. With 83 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.433861
+date: 2026-07-11T11:05:43.061626
 url: "/cdr-researcher-census/researchers/bin-wang-a5038170/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 15 |
 | Citations | 864 |
 | Publications | 83 |
-| CDR Focus | 8.4% |
+| CDR Focus | 6.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -68,7 +68,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 6. **A high-resolution nested model to study the effects of alkalinity additions in a mid-latitude coastal fjord** (2024)
    1 citations · General CDR
 
-7. **Maximizing the detectability of Ocean Alkalinity Enhancement (OAE) while minimizing its exposure risks: Insights from a numerical study** (2024)
+7. **Model output from ocean alkalinity simulations in Halifax Harbour: Point-source additions versus slow release from the sediment** (2025)
+   0 citations
+
+8. **Model output from ocean alkalinity simulations in Halifax Harbour: Point-source additions versus slow release from the sediment** (2025)
+   0 citations · General CDR
+
+9. **Maximizing the detectability of Ocean Alkalinity Enhancement (OAE) while minimizing its exposure risks: Insights from a numerical study** (2024)
    0 citations
 
 ## External Profiles

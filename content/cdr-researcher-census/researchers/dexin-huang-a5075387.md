@@ -1,7 +1,7 @@
 ---
 title: "Dexin Huang"
 description: "Dexin Huang is a Senior General CDR researcher at Jilin Jianzhu University in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.641333
+date: 2026-07-11T11:05:44.048822
 url: "/cdr-researcher-census/researchers/dexin-huang-a5075387/"
 layout: "researcher"
 hiddenInHomeList: true

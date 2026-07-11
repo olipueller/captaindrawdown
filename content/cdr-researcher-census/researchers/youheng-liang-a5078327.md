@@ -1,7 +1,7 @@
 ---
 title: "Youheng Liang"
 description: "Youheng Liang is a Mid-career Biochar researcher at Southwest University in CN. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.852944
+date: 2026-07-11T11:05:43.385160
 url: "/cdr-researcher-census/researchers/youheng-liang-a5078327/"
 layout: "researcher"
 hiddenInHomeList: true

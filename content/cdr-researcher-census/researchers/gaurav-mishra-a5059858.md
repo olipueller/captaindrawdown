@@ -1,7 +1,7 @@
 ---
 title: "Gaurav Mishra"
 description: "Gaurav Mishra is a Senior Soil Carbon researcher at ICFRE in IN. With 116 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.333426
+date: 2026-07-11T11:05:42.996074
 url: "/cdr-researcher-census/researchers/gaurav-mishra-a5059858/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 18 |
 | Citations | 1,122 |
 | Publications | 116 |
-| CDR Focus | 11.2% |
+| CDR Focus | 10.3% |
 | Trajectory | Declining |
 
 ## Top CDR Publications

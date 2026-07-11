@@ -1,7 +1,7 @@
 ---
 title: "Yélognissè Agbohessou"
 description: "Yélognissè Agbohessou is a Mid-career Soil Carbon researcher at Centre de Coopération Internationale en Recherche Agronomique pour le Développement in FR. With 29 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.915752
+date: 2026-07-11T11:05:44.260677
 url: "/cdr-researcher-census/researchers/yelognisse-agbohessou-a5000621/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 126 |
 | Publications | 29 |
-| CDR Focus | 24.1% |
-| Trajectory | Declining |
+| CDR Focus | 17.2% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

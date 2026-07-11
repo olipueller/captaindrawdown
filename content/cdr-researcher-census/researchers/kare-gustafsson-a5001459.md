@@ -1,7 +1,7 @@
 ---
 title: "Kåre Gustafsson"
 description: "Kåre Gustafsson is a Mid-career BECCS researcher at KTH Royal Institute of Technology in SE. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.028424
+date: 2026-07-11T11:05:44.367262
 url: "/cdr-researcher-census/researchers/kare-gustafsson-a5001459/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 4 |
 | Citations | 112 |
 | Publications | 14 |
-| CDR Focus | 35.7% |
+| CDR Focus | 21.4% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

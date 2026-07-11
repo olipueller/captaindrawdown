@@ -1,7 +1,7 @@
 ---
 title: "Jianglan Shi"
 description: "Jianglan Shi is a Senior Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 69 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.133075
+date: 2026-07-11T11:05:42.875092
 url: "/cdr-researcher-census/researchers/jianglan-shi-a5108681/"
 layout: "researcher"
 hiddenInHomeList: true

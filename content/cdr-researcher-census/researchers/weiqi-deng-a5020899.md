@@ -1,7 +1,7 @@
 ---
 title: "Weiqi Deng"
 description: "Weiqi Deng is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.056471
+date: 2026-07-11T11:05:44.390590
 url: "/cdr-researcher-census/researchers/weiqi-deng-a5020899/"
 layout: "researcher"
 hiddenInHomeList: true

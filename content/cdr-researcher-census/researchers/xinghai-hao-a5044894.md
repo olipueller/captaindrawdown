@@ -1,7 +1,7 @@
 ---
 title: "Xinghai Hao"
 description: "Xinghai Hao is a Senior Soil Carbon researcher at Ministry of Agriculture and Rural Affairs in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.976346
+date: 2026-07-11T11:05:44.309740
 url: "/cdr-researcher-census/researchers/xinghai-hao-a5044894/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,12 +45,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 119 |
 | Publications | 17 |
-| CDR Focus | 5.9% |
-| Trajectory | Growing |
+| CDR Focus | 11.8% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
-1. **Grassland restoration increases soil C release rates but reduces its temperature sensitivity at the topmost and subsurface layers** (2025)
+1. **The influence of grazing intensity on soil organic carbon storage in grassland of China: A meta-analysis** (2024)
+   26 citations · Soil Carbon
+
+2. **Grassland restoration increases soil C release rates but reduces its temperature sensitivity at the topmost and subsurface layers** (2025)
    1 citations · Soil Carbon
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Laís Coutinho Zayas Jimenez"
 description: "Laís Coutinho Zayas Jimenez is a Mid-career Soil Carbon researcher at Universidade de São Paulo in BR. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.478179
+date: 2026-07-11T11:05:43.805716
 url: "/cdr-researcher-census/researchers/lais-coutinho-zayas-jimenez-a5047591/"
 layout: "researcher"
 hiddenInHomeList: true

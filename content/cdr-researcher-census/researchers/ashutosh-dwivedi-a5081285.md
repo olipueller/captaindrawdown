@@ -1,7 +1,7 @@
 ---
 title: "Ashutosh Dwivedi"
 description: "Ashutosh Dwivedi is a Senior General CDR researcher at Bhabha Atomic Research Centre in IN. With 74 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.888418
+date: 2026-07-11T11:05:43.410010
 url: "/cdr-researcher-census/researchers/ashutosh-dwivedi-a5081285/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Citations | 384 |
 | Publications | 74 |
 | CDR Focus | 5.4% |
-| Trajectory | Declining |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
@@ -59,7 +59,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 3. **Influence of carbon sequestration in natural clay on engineering properties of cement-lime stabilized soil mortars** (2023)
    11 citations · General CDR
 
-4. **Development of Carbon Sequestering 3D-Printable Stabilized Earth Materials: Investigation into Engineering Performance and Resistance Against Acid Attack** (2025)
+4. **Soil Carbon and Nutrient Cycling Regulated by Fine Roots Distribution and Dynamics in Teak (Tectona grandis L.)-Based Agroforestry System in Semi-Arid Central India** (2025)
+   2 citations · Soil Carbon
+
+5. **Development of Carbon Sequestering 3D-Printable Stabilized Earth Materials: Investigation into Engineering Performance and Resistance Against Acid Attack** (2025)
    0 citations · Biochar
 
 ## External Profiles

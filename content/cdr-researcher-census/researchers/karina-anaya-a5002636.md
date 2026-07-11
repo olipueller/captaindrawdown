@@ -1,7 +1,7 @@
 ---
 title: "Karina Anaya"
 description: "Karina Anaya is an Early-career General CDR researcher at University of Alberta in CA. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.577220
+date: 2026-07-11T11:05:43.167636
 url: "/cdr-researcher-census/researchers/karina-anaya-a5002636/"
 layout: "researcher"
 hiddenInHomeList: true

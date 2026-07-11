@@ -1,7 +1,7 @@
 ---
 title: "Teedhat Trisukhon"
 description: "Teedhat Trisukhon is an Early-career Ocean CDR researcher at University of Cambridge in GB. With 14 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.475396
+date: 2026-07-11T11:05:43.803090
 url: "/cdr-researcher-census/researchers/teedhat-trisukhon-a5030250/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 3 |
 | Citations | 197 |
 | Publications | 14 |
-| CDR Focus | 35.7% |
-| Trajectory | Declining |
+| CDR Focus | 7.1% |
+| Trajectory | Exiting |
 
 ## Top CDR Publications
 

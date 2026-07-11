@@ -1,7 +1,7 @@
 ---
 title: "Zhuo Zhang"
 description: "Zhuo Zhang is a Mid-career Soil Carbon researcher at Ministry of Natural Resources in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.676992
+date: 2026-07-11T11:05:43.258843
 url: "/cdr-researcher-census/researchers/zhuo-zhang-a5041260/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -49,6 +49,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 1. **Life cycle assessment of greenhouse gas emissions for various feedstocks-based biochars as soil amendment** (2023)
    85 citations · Biochar
+
+2. **Hydrochemical evolution driven by hyporheic exchange of the Weihe River Basin, Northwest China** (2026)
+   1 citations
 
 ## External Profiles
 

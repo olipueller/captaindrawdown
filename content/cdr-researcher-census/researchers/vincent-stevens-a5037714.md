@@ -1,7 +1,7 @@
 ---
 title: "Vincent Stevens"
 description: "Vincent Stevens is a Mid-career Soil Carbon researcher at Hasselt University in BE. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.410041
+date: 2026-07-11T11:05:43.046348
 url: "/cdr-researcher-census/researchers/vincent-stevens-a5037714/"
 layout: "researcher"
 hiddenInHomeList: true

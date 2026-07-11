@@ -1,7 +1,7 @@
 ---
 title: "Mengqi Jia"
 description: "Mengqi Jia is a Mid-career Soil Carbon researcher at University of Illinois Urbana-Champaign in US. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.795060
+date: 2026-07-11T11:05:44.171193
 url: "/cdr-researcher-census/researchers/mengqi-jia-a5041136/"
 layout: "researcher"
 hiddenInHomeList: true

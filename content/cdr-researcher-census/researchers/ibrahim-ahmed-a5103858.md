@@ -1,7 +1,7 @@
 ---
 title: "Ibrahim Ahmed"
 description: "Ibrahim Ahmed is a Senior Soil Carbon researcher at King Saud University in SA. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.244889
+date: 2026-07-11T11:05:43.642764
 url: "/cdr-researcher-census/researchers/ibrahim-ahmed-a5103858/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 255 |
 | Publications | 20 |
-| CDR Focus | 5.0% |
+| CDR Focus | 10.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Deforestation impacts soil organic carbon and nitrogen pools and carbon lability under Mediterranean climates** (2022)
    15 citations · Soil Carbon
+
+2. **Using environmental covariates to predict soil organic carbon stocks in Vertisols of Sudan** (2022)
+   14 citations · Soil Carbon
 
 ## External Profiles
 

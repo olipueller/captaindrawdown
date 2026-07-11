@@ -1,7 +1,7 @@
 ---
 title: "Daniela S. Arán"
 description: "Daniela S. Arán is a Mid-career Biochar researcher at Consejo Nacional de Investigaciones Científicas y Técnicas in AR. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.839218
+date: 2026-07-11T11:05:44.204985
 url: "/cdr-researcher-census/researchers/daniela-s-aran-a5057827/"
 layout: "researcher"
 hiddenInHomeList: true

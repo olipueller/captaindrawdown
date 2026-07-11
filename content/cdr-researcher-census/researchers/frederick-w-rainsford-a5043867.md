@@ -1,7 +1,7 @@
 ---
 title: "Frederick W. Rainsford"
-description: "Frederick W. Rainsford is a Mid-career General CDR researcher. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.091604
+description: "Frederick W. Rainsford is a Mid-career Soil Carbon researcher. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:43.551976
 url: "/cdr-researcher-census/researchers/frederick-w-rainsford-a5043867/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -29,9 +29,9 @@ robots: "index, follow"
 
 ## CDR Specialization
 
-**General CDR**
+**Soil Carbon**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
@@ -40,15 +40,18 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 8 |
 | Citations | 297 |
 | Publications | 16 |
-| CDR Focus | 12.5% |
+| CDR Focus | 6.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **R scripts for metric calculation, arthropod data and associated spatial files to run analysis for pollinator and predator natural capital accounts for an example de-identified farm (Farm YQ).** (2026)
-   0 citations
+1. **Farm‐scale Natural Capital Accounting: Unlocking the potential of natural capital to support sustainable agriculture** (2026)
+   0 citations · General CDR
 
 2. **R scripts for metric calculation, arthropod data and associated spatial files to run analysis for pollinator and predator natural capital accounts for an example de-identified farm (Farm YQ).** (2026)
+   0 citations
+
+3. **R scripts for metric calculation, arthropod data and associated spatial files to run analysis for pollinator and predator natural capital accounts for an example de-identified farm (Farm YQ).** (2026)
    0 citations · General CDR
 
 ## External Profiles

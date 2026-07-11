@@ -1,7 +1,7 @@
 ---
 title: "Yaqiang Li"
 description: "Yaqiang Li is a Mid-career Biochar researcher at Beijing Forestry University in CN. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.211152
+date: 2026-07-11T11:05:43.619839
 url: "/cdr-researcher-census/researchers/yaqiang-li-a5048496/"
 layout: "researcher"
 hiddenInHomeList: true

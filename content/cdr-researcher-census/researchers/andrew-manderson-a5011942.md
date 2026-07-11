@@ -1,7 +1,7 @@
 ---
 title: "Andrew Manderson"
 description: "Andrew Manderson is a Senior Soil Carbon researcher at Manaaki Whenua - Landcare Research in NZ. With 19 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.922242
+date: 2026-07-11T11:05:43.432043
 url: "/cdr-researcher-census/researchers/andrew-manderson-a5011942/"
 layout: "researcher"
 hiddenInHomeList: true

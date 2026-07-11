@@ -1,7 +1,7 @@
 ---
 title: "Mari Vanharanta"
 description: "Mari Vanharanta is a Mid-career Ocean CDR researcher at Finnish Environment Institute in FI. With 24 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.019029
+date: 2026-07-11T11:05:44.350618
 url: "/cdr-researcher-census/researchers/mari-vanharanta-a5059040/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 6 |
 | Citations | 113 |
 | Publications | 24 |
-| CDR Focus | 25.0% |
-| Trajectory | Declining |
+| CDR Focus | 12.5% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

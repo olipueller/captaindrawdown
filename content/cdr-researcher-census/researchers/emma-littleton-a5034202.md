@@ -1,7 +1,7 @@
 ---
 title: "Emma Littleton"
 description: "Emma Littleton is a Mid-career General CDR researcher at University of Exeter in GB. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.138780
+date: 2026-07-11T11:05:42.878481
 url: "/cdr-researcher-census/researchers/emma-littleton-a5034202/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 9 |
 | Citations | 2,176 |
 | Publications | 23 |
-| CDR Focus | 13.0% |
-| Trajectory | Growing |
+| CDR Focus | 8.7% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

@@ -1,7 +1,7 @@
 ---
 title: "Ana Castro"
 description: "Ana Castro is a Mid-career Soil Carbon researcher at Instituto Politecnico de Setubal in PT. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.636720
+date: 2026-07-11T11:05:44.043965
 url: "/cdr-researcher-census/researchers/ana-castro-a5110867/"
 layout: "researcher"
 hiddenInHomeList: true

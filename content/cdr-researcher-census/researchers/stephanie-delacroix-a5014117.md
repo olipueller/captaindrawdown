@@ -1,7 +1,7 @@
 ---
 title: "Stephanie Delacroix"
 description: "Stephanie Delacroix is a Mid-career Ocean CDR researcher at Norwegian Institute for Water Research in NO. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.505263
+date: 2026-07-11T11:05:43.834580
 url: "/cdr-researcher-census/researchers/stephanie-delacroix-a5014117/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 5 |
 | Citations | 191 |
 | Publications | 13 |
-| CDR Focus | 61.5% |
+| CDR Focus | 15.4% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

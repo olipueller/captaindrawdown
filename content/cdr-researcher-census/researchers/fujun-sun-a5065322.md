@@ -1,7 +1,7 @@
 ---
 title: "Fujun Sun"
 description: "Fujun Sun is a Senior Soil Carbon researcher at Shenyang Agricultural University in CN. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.827787
+date: 2026-07-11T11:05:43.368595
 url: "/cdr-researcher-census/researchers/fujun-sun-a5065322/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 418 |
 | Publications | 20 |
-| CDR Focus | 20.0% |
+| CDR Focus | 10.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

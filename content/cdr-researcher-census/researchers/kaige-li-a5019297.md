@@ -1,7 +1,7 @@
 ---
 title: "Kaige Li"
 description: "Kaige Li is a Senior Biochar researcher. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.170400
+date: 2026-07-11T11:05:43.589623
 url: "/cdr-researcher-census/researchers/kaige-li-a5019297/"
 layout: "researcher"
 hiddenInHomeList: true

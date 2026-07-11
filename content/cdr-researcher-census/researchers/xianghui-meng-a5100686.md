@@ -1,7 +1,7 @@
 ---
 title: "Xianghui Meng"
 description: "Xianghui Meng is a Senior Soil Carbon researcher. With 49 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.261327
+date: 2026-07-11T11:05:42.949503
 url: "/cdr-researcher-census/researchers/xianghui-meng-a5100686/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,8 +40,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 20 |
 | Citations | 1,390 |
 | Publications | 49 |
-| CDR Focus | 8.2% |
-| Trajectory | Declining |
+| CDR Focus | 10.2% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
@@ -56,6 +56,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 4. **Engineered biochar with MgO impregnation: A phosphorus vector bridging aquatic systems and agricultural soils via targeted adsorption and controlled release** (2025)
    5 citations · Biochar
+
+5. **Soils sustainable management: How artificial humic acid reprogram bacterial consortia for enhanced humus synthesis** (2026)
+   0 citations · General CDR
 
 ## External Profiles
 

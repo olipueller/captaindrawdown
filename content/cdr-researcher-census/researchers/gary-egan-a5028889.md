@@ -1,7 +1,7 @@
 ---
 title: "Gary Egan"
 description: "Gary Egan is a Mid-career Soil Carbon researcher in GB. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.441038
+date: 2026-07-11T11:05:43.778319
 url: "/cdr-researcher-census/researchers/gary-egan-a5028889/"
 layout: "researcher"
 hiddenInHomeList: true

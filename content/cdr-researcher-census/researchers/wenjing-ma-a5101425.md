@@ -1,7 +1,7 @@
 ---
 title: "Wenjing Ma"
 description: "Wenjing Ma is a Mid-career Soil Carbon researcher at Shanghai Normal University in CN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.921329
+date: 2026-07-11T11:05:43.431557
 url: "/cdr-researcher-census/researchers/wenjing-ma-a5101425/"
 layout: "researcher"
 hiddenInHomeList: true

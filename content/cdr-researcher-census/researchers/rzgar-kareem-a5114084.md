@@ -1,7 +1,7 @@
 ---
 title: "Rzgar Kareem"
 description: "Rzgar Kareem is an Early-career Biochar researcher at Bu-Ali Sina University in IR. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.756317
+date: 2026-07-11T11:05:44.141848
 url: "/cdr-researcher-census/researchers/rzgar-kareem-a5114084/"
 layout: "researcher"
 hiddenInHomeList: true

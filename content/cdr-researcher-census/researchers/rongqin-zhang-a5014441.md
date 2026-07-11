@@ -1,7 +1,7 @@
 ---
 title: "Rongqin Zhang"
 description: "Rongqin Zhang is a Mid-career Soil Carbon researcher at Northwest University in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.952947
+date: 2026-07-11T11:05:43.453574
 url: "/cdr-researcher-census/researchers/rongqin-zhang-a5014441/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,12 +42,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 354 |
 | Publications | 12 |
-| CDR Focus | 8.3% |
+| CDR Focus | 16.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Divergent accumulation of particulate and mineral-associated organic carbon driven by intercropping duration in apple orchards** (2026)
+   0 citations · Soil Carbon
+
+2. **<b>Divergent accumulation of particulate and mineral-associated organic carbon driven by intercropping duration in apple orchards</b>** (2026)
+   0 citations
+
+3. **<b>Divergent accumulation of particulate and mineral-associated organic carbon driven by intercropping duration in apple orchards</b>** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

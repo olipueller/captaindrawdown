@@ -1,7 +1,7 @@
 ---
 title: "Safa Waleed Shakir"
-description: "Safa Waleed Shakir is a Senior Unknown researcher at University of Tikrit in IQ. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.531105
+description: "Safa Waleed Shakir is a Senior Biochar researcher at University of Tikrit in IQ. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:43.890762
 url: "/cdr-researcher-census/researchers/safa-waleed-shakir-a5059484/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Tikrit ·  IQ
 
 ## CDR Specialization
 
-**Unknown**
+**Biochar**
 
-Unknown
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -46,12 +46,18 @@ Unknown
 | Citations | 186 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
-| Trajectory | Exiting |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Analysis of the Impact of Nanofluids on the Improvement in CO2 Absorption using Taguchi Method** (2024)
    4 citations
+
+2. **Enhanced Carbon Dioxide (CO2) Absorption using Fe2O3-Loaded MEA/TEA Nanofluids: A Statistical and Experimental Study** (2025)
+   2 citations
+
+3. **A Modification of Biochar Surface Functionalization and Properties through Catalyzed Microwave Pyrolysis of Dedonea Branches** (2025)
+   1 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Zhaoliang Zhong"
 description: "Zhaoliang Zhong is a Mid-career Soil Carbon researcher at Jiujiang University in CN. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.687983
+date: 2026-07-11T11:05:43.266296
 url: "/cdr-researcher-census/researchers/zhaoliang-zhong-a5050879/"
 layout: "researcher"
 hiddenInHomeList: true

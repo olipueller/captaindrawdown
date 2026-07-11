@@ -1,7 +1,7 @@
 ---
 title: "Astley Hastings"
 description: "Astley Hastings is an Eminent BECCS researcher at University of Aberdeen in GB. With 207 publications and an h-index of 43, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.919571
+date: 2026-07-11T11:05:42.784843
 url: "/cdr-researcher-census/researchers/astley-hastings-a5058476/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 43 |
 | Citations | 8,262 |
 | Publications | 207 |
-| CDR Focus | 5.8% |
+| CDR Focus | 5.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

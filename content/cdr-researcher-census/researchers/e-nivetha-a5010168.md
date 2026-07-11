@@ -1,7 +1,7 @@
 ---
 title: "E. Nivetha"
 description: "E. Nivetha is a Mid-career Soil Carbon researcher at Kerala Veterinary and Animal Sciences University in IN. With 8 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.779495
+date: 2026-07-11T11:05:44.160060
 url: "/cdr-researcher-census/researchers/e-nivetha-a5010168/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Kevin O’Brien"
 description: "Kevin O’Brien is a Senior General CDR researcher at Intel (United Kingdom) in GB. With 51 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.505049
+date: 2026-07-11T11:05:43.112709
 url: "/cdr-researcher-census/researchers/kevin-obrien-a5103478/"
 layout: "researcher"
 hiddenInHomeList: true

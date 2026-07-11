@@ -1,7 +1,7 @@
 ---
 title: "C. C. Chien"
 description: "C. C. Chien is a Senior Biochar researcher at Industrial Technology Research Institute in TW. With 44 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.721170
+date: 2026-07-11T11:05:43.289635
 url: "/cdr-researcher-census/researchers/c-c-chien-a5001516/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -56,10 +56,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 2. **Seaweed-derived biochar as a sustainable feed supplement enhances tilapia growth associated with gut microbiota modulation** (2025)
    2 citations · Biochar
 
-3. **GHG Emissions and Carbon Sequestration in Coastal Bambusa edulis Shelterbelts with Biochar and Organic Fertilizer** (2025)
-   0 citations
+3. **Sustainable Bio-Ammonia Recovery from Livestock Wastewater via Biochar-Immobilized Microbial Ammonification** (2026)
+   0 citations · Biochar
 
 4. **GHG Emissions and Carbon Sequestration in Coastal Bambusa edulis Shelterbelts with Biochar and Organic Fertilizer** (2025)
+   0 citations
+
+5. **GHG Emissions and Carbon Sequestration in Coastal Bambusa edulis Shelterbelts with Biochar and Organic Fertilizer** (2025)
    0 citations · Biochar
 
 ## External Profiles

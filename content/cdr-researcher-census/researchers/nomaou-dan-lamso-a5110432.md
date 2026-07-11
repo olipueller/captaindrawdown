@@ -1,7 +1,7 @@
 ---
 title: "Nomaou Dan Lamso"
 description: "Nomaou Dan Lamso is a Mid-career Soil Carbon researcher at Université Abdou Moumouni in NE. With 13 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.525129
+date: 2026-07-11T11:05:43.883199
 url: "/cdr-researcher-census/researchers/nomaou-dan-lamso-a5110432/"
 layout: "researcher"
 hiddenInHomeList: true

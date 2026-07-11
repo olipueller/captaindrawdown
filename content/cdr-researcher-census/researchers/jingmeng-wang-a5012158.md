@@ -1,7 +1,7 @@
 ---
 title: "Jingmeng Wang"
 description: "Jingmeng Wang is a Senior General CDR researcher at Tsinghua University in CN. With 31 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.669631
+date: 2026-07-11T11:05:43.253450
 url: "/cdr-researcher-census/researchers/jingmeng-wang-a5012158/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 11 |
 | Citations | 537 |
 | Publications | 31 |
-| CDR Focus | 19.4% |
-| Trajectory | Declining |
+| CDR Focus | 16.1% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

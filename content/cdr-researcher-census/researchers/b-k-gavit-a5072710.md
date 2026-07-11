@@ -1,7 +1,7 @@
 ---
 title: "B. K. Gavit"
 description: "B. K. Gavit is a Mid-career Soil Carbon researcher at Mahatma Phule Krishi Vidyapeeth in IN. With 22 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.638461
+date: 2026-07-11T11:05:44.046571
 url: "/cdr-researcher-census/researchers/b-k-gavit-a5072710/"
 layout: "researcher"
 hiddenInHomeList: true

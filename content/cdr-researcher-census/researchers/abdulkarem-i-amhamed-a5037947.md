@@ -1,7 +1,7 @@
 ---
 title: "Abdulkarem I. Amhamed"
 description: "Abdulkarem I. Amhamed is a Senior DAC researcher at Qatar Environment and Energy Research Institute in QA. With 73 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.160158
+date: 2026-07-11T11:05:42.889476
 url: "/cdr-researcher-census/researchers/abdulkarem-i-amhamed-a5037947/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 23 |
 | Citations | 2,005 |
 | Publications | 73 |
-| CDR Focus | 17.8% |
-| Trajectory | Stable |
+| CDR Focus | 11.0% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

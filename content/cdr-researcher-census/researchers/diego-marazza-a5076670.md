@@ -1,7 +1,7 @@
 ---
 title: "Diego Marazza"
 description: "Diego Marazza is a Senior Soil Carbon researcher at University of Bologna in IT. With 76 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.501325
+date: 2026-07-11T11:05:43.109604
 url: "/cdr-researcher-census/researchers/diego-marazza-a5076670/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 15 |
 | Citations | 745 |
 | Publications | 76 |
-| CDR Focus | 30.3% |
+| CDR Focus | 19.7% |
 | Trajectory | Declining |
 
 ## Top CDR Publications

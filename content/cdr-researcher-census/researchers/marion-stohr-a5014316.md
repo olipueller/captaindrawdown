@@ -1,7 +1,7 @@
 ---
 title: "Marion Stöhr"
 description: "Marion Stöhr is a Senior General CDR researcher at Leibniz Institute for Catalysis in DE. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.332325
+date: 2026-07-11T11:05:43.701935
 url: "/cdr-researcher-census/researchers/marion-stohr-a5014316/"
 layout: "researcher"
 hiddenInHomeList: true

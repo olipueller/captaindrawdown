@@ -1,7 +1,7 @@
 ---
 title: "Adrienn Horváth"
 description: "Adrienn Horváth is a Mid-career Soil Carbon researcher at HUN-REN Institute of Earth Physics and Space Science in HU. With 78 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.723757
+date: 2026-07-11T11:05:43.291475
 url: "/cdr-researcher-census/researchers/adrienn-horvath-a5020853/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,26 +46,29 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Citations | 488 |
 | Publications | 78 |
 | CDR Focus | 7.7% |
-| Trajectory | Exiting |
+| Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Local example for the compensation of negative global environmental phenomena** (2021)
    1 citations · General CDR
 
-2. **Legacy of former land use and its effect on carbon content of soil in present forests** (2024)
+2. **Organic carbon stocks in the soils of western Hungarian forests** (2026)
    0 citations · Soil Carbon
 
-3. **Investigation of SOM sequestration and storage in the Southern Transdanubian region of Hungary** (2024)
+3. **Legacy of former land use and its effect on carbon content of soil in present forests** (2024)
+   0 citations · Soil Carbon
+
+4. **Investigation of SOM sequestration and storage in the Southern Transdanubian region of Hungary** (2024)
    0 citations
 
-4. **Comparison of soil carbon stock of afforested and treeless sites** (2024)
+5. **Comparison of soil carbon stock of afforested and treeless sites** (2024)
    0 citations · Soil Carbon
 
-5. **Investigation of soil carbon sequestration and storage in Hungarian forest sites under different climatic conditions** (2023)
+6. **Investigation of soil carbon sequestration and storage in Hungarian forest sites under different climatic conditions** (2023)
    0 citations · Soil Carbon
 
-6. **The investigation of soil carbon sequestration and storage in forest sites on different climates in South Zala (Hungary)** (2022)
+7. **The investigation of soil carbon sequestration and storage in forest sites on different climates in South Zala (Hungary)** (2022)
    0 citations · Soil Carbon
 
 ## External Profiles

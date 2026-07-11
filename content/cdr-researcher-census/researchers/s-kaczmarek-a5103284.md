@@ -1,7 +1,7 @@
 ---
 title: "S. Kaczmarek"
 description: "S. Kaczmarek is a Senior Biochar researcher at Prote Sp. z o.o. in PL. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.351564
+date: 2026-07-11T11:05:43.715792
 url: "/cdr-researcher-census/researchers/s-kaczmarek-a5103284/"
 layout: "researcher"
 hiddenInHomeList: true

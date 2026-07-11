@@ -1,7 +1,7 @@
 ---
 title: "Qiaoling Li"
 description: "Qiaoling Li is a Senior Soil Carbon researcher at National Agricultural Research Institute in PG. With 55 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.682538
+date: 2026-07-11T11:05:43.262988
 url: "/cdr-researcher-census/researchers/qiaoling-li-a5100758/"
 layout: "researcher"
 hiddenInHomeList: true

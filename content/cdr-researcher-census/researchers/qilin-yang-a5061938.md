@@ -1,7 +1,7 @@
 ---
 title: "Qilin Yang"
 description: "Qilin Yang is an Early-career Soil Carbon researcher at Beijing Forestry University in CN. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.159661
+date: 2026-07-11T11:05:44.446376
 url: "/cdr-researcher-census/researchers/qilin-yang-a5061938/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 101 |
 | Publications | 14 |
-| CDR Focus | 14.3% |
+| CDR Focus | 7.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

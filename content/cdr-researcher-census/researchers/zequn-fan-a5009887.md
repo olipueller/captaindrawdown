@@ -1,7 +1,7 @@
 ---
 title: "Zequn Fan"
 description: "Zequn Fan is a Senior Soil Carbon researcher at Hohai University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.623627
+date: 2026-07-11T11:05:44.028622
 url: "/cdr-researcher-census/researchers/zequn-fan-a5009887/"
 layout: "researcher"
 hiddenInHomeList: true

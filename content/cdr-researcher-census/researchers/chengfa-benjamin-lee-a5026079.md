@@ -1,7 +1,7 @@
 ---
 title: "Chengfa Benjamin Lee"
 description: "Chengfa Benjamin Lee is a Mid-career Ocean CDR researcher at Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR) in DE. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.139404
+date: 2026-07-11T11:05:43.566842
 url: "/cdr-researcher-census/researchers/chengfa-benjamin-lee-a5026079/"
 layout: "researcher"
 hiddenInHomeList: true

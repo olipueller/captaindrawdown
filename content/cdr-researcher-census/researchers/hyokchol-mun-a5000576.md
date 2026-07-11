@@ -1,7 +1,7 @@
 ---
 title: "Hyokchol Mun"
 description: "Hyokchol Mun is a Mid-career Biochar researcher at Nankai University in CN. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.996809
+date: 2026-07-11T11:05:44.324150
 url: "/cdr-researcher-census/researchers/hyokchol-mun-a5000576/"
 layout: "researcher"
 hiddenInHomeList: true

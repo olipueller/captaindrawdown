@@ -1,7 +1,7 @@
 ---
 title: "Ye-Nan Wang"
 description: "Ye-Nan Wang is a Senior Soil Carbon researcher at Hainan University in CN. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.457955
+date: 2026-07-11T11:05:43.078515
 url: "/cdr-researcher-census/researchers/ye-nan-wang-a5074575/"
 layout: "researcher"
 hiddenInHomeList: true

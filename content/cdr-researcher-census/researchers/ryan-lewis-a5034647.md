@@ -1,7 +1,7 @@
 ---
 title: "Ryan Lewis"
 description: "Ryan Lewis is a Mid-career General CDR researcher. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.033924
+date: 2026-07-11T11:05:43.509558
 url: "/cdr-researcher-census/researchers/ryan-lewis-a5034647/"
 layout: "researcher"
 hiddenInHomeList: true

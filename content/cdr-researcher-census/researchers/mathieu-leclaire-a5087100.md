@@ -1,7 +1,7 @@
 ---
 title: "Mathieu Leclaire"
 description: "Mathieu Leclaire is a Senior Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.565643
+date: 2026-07-11T11:05:43.927040
 url: "/cdr-researcher-census/researchers/mathieu-leclaire-a5087100/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,12 +42,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 180 |
 | Publications | 18 |
-| CDR Focus | 5.6% |
-| Trajectory | Exiting |
+| CDR Focus | 11.1% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
-1. **Exploring the outcomes of a simulation model: Collective action in the village of Diohine** (2023)
+1. **Fallow Land Simulations to Fight Against Soil Degradation: Engaging Stakeholders with Model Exploration** (2026)
+   0 citations · General CDR
+
+2. **Exploring the outcomes of a simulation model: Collective action in the village of Diohine** (2023)
    0 citations · Soil Carbon
 
 ## External Profiles

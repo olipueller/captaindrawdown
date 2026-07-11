@@ -1,7 +1,7 @@
 ---
 title: "Yansong Zhang"
 description: "Yansong Zhang is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 52 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.575562
+date: 2026-07-11T11:05:43.166424
 url: "/cdr-researcher-census/researchers/yansong-zhang-a5100644/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 17 |
 | Citations | 635 |
 | Publications | 52 |
-| CDR Focus | 5.8% |
+| CDR Focus | 7.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -56,7 +56,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 2. **Stand density influences soil organic carbon stocks and fractions by mediating soil biochemical properties in Mongolian pine plantations** (2025)
    7 citations · Soil Carbon
 
-3. **Microbial biomass and enzyme activities determine dynamics of soil organic carbon stocks and fractions along an age-sequence of Mongolian pine plantations** (2022)
+3. **Effects of thinning on carbon stocks and fractions of <i>Larix kaempferi</i> plantation in eastern area of Liaoning Province, China.** (2025)
+   1 citations · Soil Carbon
+
+4. **Status and potential of carbon sequestration of larch plantations in Liaoning Province, China.** (2025)
+   0 citations · General CDR
+
+5. **Microbial biomass and enzyme activities determine dynamics of soil organic carbon stocks and fractions along an age-sequence of Mongolian pine plantations** (2022)
    0 citations · Soil Carbon
 
 ## External Profiles

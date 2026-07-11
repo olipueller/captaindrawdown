@@ -1,7 +1,7 @@
 ---
 title: "Matthew C. Atwood"
-description: "Matthew C. Atwood is a Senior Unknown researcher at Berkeley Air Monitoring Group (United States) in US. With 8 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.577427
+description: "Matthew C. Atwood is a Senior General CDR researcher at Berkeley Air Monitoring Group (United States) in US. With 8 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:43.961074
 url: "/cdr-researcher-census/researchers/matthew-c-atwood-a5056416/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Berkeley Air Monitoring Group (United States) · 🇺🇸 US
 
 ## CDR Specialization
 
-**Unknown**
+**General CDR**
 
-Unknown
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -42,12 +42,18 @@ Unknown
 | h-index | 2 |
 | Citations | 177 |
 | Publications | 8 |
-| CDR Focus | 12.5% |
-| Trajectory | Exiting |
+| CDR Focus | 25.0% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Direct Air Capture Recovery of Energy for CCUS Partnership (DAC RECO&lt;sub&gt;2&lt;/sub&gt;UP) Final Technical Report** (2024)
+1. **Life cycle assessment of formic acid synthesis utilizing CO<sub>2</sub> from direct air capture** (2025)
+   10 citations · DAC
+
+2. **Low Carbon Intensity Formic Acid Chemical Synthesis from Direct Air Captured CO&lt;sub&gt;2&lt;/sub&gt; Utilizing Chemical Plant Waste Heat - Final Technical Report** (2025)
+   0 citations · DAC
+
+3. **Direct Air Capture Recovery of Energy for CCUS Partnership (DAC RECO&lt;sub&gt;2&lt;/sub&gt;UP) Final Technical Report** (2024)
    0 citations
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Deb Raj Aryal"
 description: "Deb Raj Aryal is a Mid-career Soil Carbon researcher at El Colegio de la Frontera Sur in MX. With 86 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.366878
+date: 2026-07-11T11:05:43.018313
 url: "/cdr-researcher-census/researchers/deb-raj-aryal-a5052542/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 19 |
 | Citations | 1,017 |
 | Publications | 86 |
-| CDR Focus | 16.3% |
+| CDR Focus | 15.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

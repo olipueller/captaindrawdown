@@ -1,7 +1,7 @@
 ---
 title: "Zhengmiao Deng"
 description: "Zhengmiao Deng is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 105 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.131261
+date: 2026-07-11T11:05:42.873791
 url: "/cdr-researcher-census/researchers/zhengmiao-deng-a5102829/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Citations | 2,255 |
 | Publications | 105 |
 | CDR Focus | 7.6% |
-| Trajectory | Stable |
+| Trajectory | Declining |
 
 ## Top CDR Publications
 
@@ -59,20 +59,26 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **Vegetation types and flood water level are dominant factors controlling the carbon sequestration potential in Dongting Lake floodplain, China** (2024)
    21 citations · Soil Carbon
 
-4. **Surface soil organic carbon losses in Dongting Lake floodplain as evidenced by field observations from 2013 to 2022** (2025)
+4. **A dataset of annual gross primary productivity in China&amp;rsquo;s terrestrial ecosystems during 2000-2020** (2023)
+   11 citations · Soil Carbon
+
+5. **Surface soil organic carbon losses in Dongting Lake floodplain as evidenced by field observations from 2013 to 2022** (2025)
    2 citations · Soil Carbon
 
-5. **Reply on RC1** (2025)
-   0 citations · Soil Carbon
+6. **Vegetation-mediated surface soil organic carbon formation and potential carbon loss risks in Dongting Lake floodplain, China** (2026)
+   1 citations · Soil Carbon
 
-6. **Vegetation-mediated surface soil organic carbon formation and potential carbon loss risks in Dongting Lake floodplain, China** (2025)
+7. **Cascade damming reshapes seasonal pattern of dissolved carbon in a subtropical river continuum: A case study of the Zijiang River, China** (2026)
    0 citations
 
-7. **Vegetation Types and Flood Water Level are Dominant Factors Controlling the Carbon Sequestration Potential in Dongting Lake Floodplain, China** (2023)
+8. **Reply on RC2** (2025)
    0 citations · Soil Carbon
 
-8. **Carbon Sequestration Potential and its Environmental Effects in Dongting Lake Floodplain** (2023)
+9. **Reply on RC1** (2025)
    0 citations · Soil Carbon
+
+10. **Vegetation-mediated surface soil organic carbon formation and potential carbon loss risks in Dongting Lake floodplain, China** (2025)
+   0 citations
 
 ## External Profiles
 

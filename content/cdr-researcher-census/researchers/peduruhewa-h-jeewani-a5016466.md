@@ -1,7 +1,7 @@
 ---
 title: "Peduruhewa H. Jeewani"
 description: "Peduruhewa H. Jeewani is a Mid-career Soil Carbon researcher at Bangor University in GB. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.579600
+date: 2026-07-11T11:05:43.169949
 url: "/cdr-researcher-census/researchers/peduruhewa-h-jeewani-a5016466/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 630 |
 | Publications | 18 |
-| CDR Focus | 38.9% |
+| CDR Focus | 33.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

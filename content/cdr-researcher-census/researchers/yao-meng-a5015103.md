@@ -1,7 +1,7 @@
 ---
 title: "Yao Meng"
 description: "Yao Meng is a Senior Biochar researcher at Northwestern Polytechnical University in CN. With 48 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.596765
+date: 2026-07-11T11:05:43.205296
 url: "/cdr-researcher-census/researchers/yao-meng-a5015103/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 13 |
 | Citations | 610 |
 | Publications | 48 |
-| CDR Focus | 6.2% |
+| CDR Focus | 8.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -56,7 +56,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 2. **Facile synthesis of magnetic Ce-Fe3O4/banana peel biochar nanocomposite by in situ self-activation for enhanced Rhodamine B removal: Performance and mechanism** (2025)
    1 citations · Biochar
 
-3. **Synergistic Adsorption and Photodegradation of Ciprofloxacin in Water by Biochar-Supported Titanates: Mechanistic Analysis, Dft Calculations and Toxicity Risk Assessment** (2024)
+3. **Carbon sequestration induced by enhanced silicate rock weathering in a temperate larch plantation in Northeastern China** (2025)
+   1 citations · Enhanced Weathering
+
+4. **Synergistic Adsorption and Photodegradation of Ciprofloxacin in Water by Biochar-Supported Titanates: Mechanistic Analysis, Dft Calculations and Toxicity Risk Assessment** (2024)
    0 citations · Biochar
 
 ## External Profiles

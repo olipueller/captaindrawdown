@@ -1,7 +1,7 @@
 ---
 title: "Yanfang Zhou"
 description: "Yanfang Zhou is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 36 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.748118
+date: 2026-07-11T11:05:43.310126
 url: "/cdr-researcher-census/researchers/yanfang-zhou-a5101124/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 14 |
 | Citations | 470 |
 | Publications | 36 |
-| CDR Focus | 5.6% |
-| Trajectory | Stable |
+| CDR Focus | 8.3% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
@@ -52,6 +52,12 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 2. **Effects of silicate rock weathering and agricultural cultivation on carbon sequestration in saline soils: an example from the saline soils of Bayannur, Northwest China** (2025)
    1 citations · Enhanced Weathering
+
+3. **Dual mechanisms of mineral-microbial interactions in suppressing organic carbon sequestration in calcareous soils** (2026)
+   0 citations
+
+4. **Dual mechanisms of mineral-microbial interactions in suppressing organic carbon sequestration in calcareous soils** (2025)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

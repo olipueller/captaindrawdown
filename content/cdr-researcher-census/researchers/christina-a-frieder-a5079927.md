@@ -1,7 +1,7 @@
 ---
 title: "Christina A. Frieder"
 description: "Christina A. Frieder is a Senior Ocean CDR researcher at Southern California Coastal Water Research Project in US. With 50 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.068317
+date: 2026-07-11T11:05:42.843526
 url: "/cdr-researcher-census/researchers/christina-a-frieder-a5079927/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 21 |
 | Citations | 3,105 |
 | Publications | 50 |
-| CDR Focus | 12.0% |
+| CDR Focus | 6.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Rodrigo Rodríguez"
 description: "Rodrigo Rodríguez is a Senior Soil Carbon researcher at Universidad Autónoma de Chile in CL. With 39 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.094189
+date: 2026-07-11T11:05:43.553433
 url: "/cdr-researcher-census/researchers/rodrigo-rodriguez-a5084864/"
 layout: "researcher"
 hiddenInHomeList: true

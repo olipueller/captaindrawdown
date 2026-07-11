@@ -1,7 +1,7 @@
 ---
 title: "Florian Wichern"
 description: "Florian Wichern is a Senior Soil Carbon researcher at Hochschule Rhein Waal in DE. With 109 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.019580
+date: 2026-07-11T11:05:42.822286
 url: "/cdr-researcher-census/researchers/florian-wichern-a5087895/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 29 |
 | Citations | 3,990 |
 | Publications | 109 |
-| CDR Focus | 7.3% |
+| CDR Focus | 6.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

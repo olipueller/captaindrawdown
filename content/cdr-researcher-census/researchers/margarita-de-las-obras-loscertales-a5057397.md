@@ -1,7 +1,7 @@
 ---
 title: "Margarita de Las Obras Loscertales"
-description: "Margarita de Las Obras Loscertales is a Mid-career BECCS researcher at Instituto de Carboquímica in ES. With 50 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.907110
+description: "Margarita de Las Obras Loscertales is a Mid-career General CDR researcher at Instituto de Carboquímica in ES. With 50 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:43.422017
 url: "/cdr-researcher-census/researchers/margarita-de-las-obras-loscertales-a5057397/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Instituto de Carboquímica · 🇪🇸 ES
 
 ## CDR Specialization
 
-**BECCS**
+**General CDR**
 
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,8 +45,8 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 10 |
 | Citations | 375 |
 | Publications | 50 |
-| CDR Focus | 28.0% |
-| Trajectory | Exiting |
+| CDR Focus | 14.0% |
+| Trajectory | Declining |
 
 ## Top CDR Publications
 
@@ -68,17 +68,17 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 6. **Pressurised Chemical Looping Combustion (PCLC): Air Reactor design** (2022)
    2 citations · BECCS
 
-7. **Development of a Chemical Looping Combustor Fed With Natural Gas and Its Integration With a Gas Turbine in ASPEN Plus** (2023)
+7. **Syngas Production from Liquid and Solid Fractions of Swine Manure in a 0.5 kWth Chemical Looping Gasification Unit** (2026)
+   1 citations · BECCS
+
+8. **Development of a Chemical Looping Combustor Fed With Natural Gas and Its Integration With a Gas Turbine in ASPEN Plus** (2023)
    0 citations
 
-8. **Technical Evaluation of a Chemical Looping Combustor Fed With Biofuels And Its Integration With a Gas Turbine** (2022)
+9. **Technical Evaluation of a Chemical Looping Combustor Fed With Biofuels And Its Integration With a Gas Turbine** (2022)
    0 citations · BECCS
 
-9. **Development of a Chemical Looping Combustor fed with natural gas and its integration with a gas turbine in ASPEN Plus** (2023)
+10. **Development of a Chemical Looping Combustor fed with natural gas and its integration with a gas turbine in ASPEN Plus** (2023)
    0 citations · BECCS
-
-10. **Bioenergy with Carbon Capture and Storage (BECCS) developed by coupling a Pressurised Chemical Looping combustor with a turbo expander: How to optimize plant efficiency** (2022)
-   0 citations
 
 ## External Profiles
 

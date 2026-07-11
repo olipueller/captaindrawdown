@@ -1,7 +1,7 @@
 ---
 title: "N. B. Sadovnikova"
 description: "N. B. Sadovnikova is a Senior Soil Carbon researcher at Lomonosov Moscow State University in RU. With 48 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.925672
+date: 2026-07-11T11:05:43.434693
 url: "/cdr-researcher-census/researchers/n-b-sadovnikova-a5028424/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 366 |
 | Publications | 48 |
-| CDR Focus | 8.3% |
+| CDR Focus | 6.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

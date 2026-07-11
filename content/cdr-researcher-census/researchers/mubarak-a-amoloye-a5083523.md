@@ -1,7 +1,7 @@
 ---
 title: "Mubarak A. Amoloye"
 description: "Mubarak A. Amoloye is a Mid-career Biochar researcher at University of Ilorin in NG. With 25 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.899661
+date: 2026-07-11T11:05:43.417000
 url: "/cdr-researcher-census/researchers/mubarak-a-amoloye-a5083523/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Alireza Golestanifard"
 description: "Alireza Golestanifard is a Mid-career Soil Carbon researcher at BOKU University in AT. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.826150
+date: 2026-07-11T11:05:44.194713
 url: "/cdr-researcher-census/researchers/alireza-golestanifard-a5053330/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yun Chen"
 description: "Yun Chen is a Senior Soil Carbon researcher at Southwest University in CN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.846099
+date: 2026-07-11T11:05:44.209859
 url: "/cdr-researcher-census/researchers/yun-chen-a5100416/"
 layout: "researcher"
 hiddenInHomeList: true

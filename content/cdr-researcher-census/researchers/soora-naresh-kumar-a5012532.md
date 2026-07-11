@@ -1,7 +1,7 @@
 ---
 title: "Soora Naresh Kumar"
 description: "Soora Naresh Kumar is a Senior Soil Carbon researcher at Indian Agricultural Statistics Research Institute in IN. With 100 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.927367
+date: 2026-07-11T11:05:42.787095
 url: "/cdr-researcher-census/researchers/soora-naresh-kumar-a5012532/"
 layout: "researcher"
 hiddenInHomeList: true

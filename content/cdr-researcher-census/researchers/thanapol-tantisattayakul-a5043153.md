@@ -1,7 +1,7 @@
 ---
 title: "Thanapol Tantisattayakul"
 description: "Thanapol Tantisattayakul is a Senior BECCS researcher at Thammasat University in TH. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.159342
+date: 2026-07-11T11:05:43.581119
 url: "/cdr-researcher-census/researchers/thanapol-tantisattayakul-a5043153/"
 layout: "researcher"
 hiddenInHomeList: true

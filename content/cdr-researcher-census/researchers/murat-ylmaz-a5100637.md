@@ -1,7 +1,7 @@
 ---
 title: "Murat Yılmaz"
 description: "Murat Yılmaz is an Eminent Biochar researcher at Osmaniye Korkut Ata University in TR. With 137 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.039562
+date: 2026-07-11T11:05:42.830684
 url: "/cdr-researcher-census/researchers/murat-ylmaz-a5100637/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 40 |
 | Citations | 3,543 |
 | Publications | 137 |
-| CDR Focus | 5.8% |
-| Trajectory | Declining |
+| CDR Focus | 6.6% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
@@ -68,10 +68,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 6. **Ipoma batatas (sweet potato) leaf and leaf-based biochar as potential adsorbents for procion orange MX-2R removal from aqueous solution** (2024)
    22 citations · Biochar
 
-7. **Synthesis of High Surface Area Mesoporous ZnCl2–Activated Cocoa (Theobroma Cacao L) Leaves Biochar Derived Via Pyrolysis for Crystal Violet Dye Removal** (2022)
+7. **Cost analysis and adsorption efficiency of chemically activated biochar from rubber wood sawdust for ciprofloxacin removal in environmental remediation** (2026)
    4 citations · Biochar
 
-8. **Modeling studies of the adsorption of Methyl Red and Acid Yellow 36 dyes by sulphonated Ulva lactuca carbon** (2025)
+8. **Synthesis of High Surface Area Mesoporous ZnCl2–Activated Cocoa (Theobroma Cacao L) Leaves Biochar Derived Via Pyrolysis for Crystal Violet Dye Removal** (2022)
+   4 citations · Biochar
+
+9. **Modeling studies of the adsorption of Methyl Red and Acid Yellow 36 dyes by sulphonated Ulva lactuca carbon** (2025)
    1 citations · Biochar
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Yangzhou Xiang"
 description: "Yangzhou Xiang is a Senior Soil Carbon researcher at Guizhou Education University in CN. With 67 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.092797
+date: 2026-07-11T11:05:42.856007
 url: "/cdr-researcher-census/researchers/yangzhou-xiang-a5046130/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 25 |
 | Citations | 2,684 |
 | Publications | 67 |
-| CDR Focus | 13.4% |
+| CDR Focus | 11.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

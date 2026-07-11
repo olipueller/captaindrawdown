@@ -1,7 +1,7 @@
 ---
 title: "Alvin Wei Liang Ee"
 description: "Alvin Wei Liang Ee is a Mid-career General CDR researcher at National University of Singapore in SG. With 22 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.532718
+date: 2026-07-11T11:05:43.134950
 url: "/cdr-researcher-census/researchers/alvin-wei-liang-ee-a5003901/"
 layout: "researcher"
 hiddenInHomeList: true

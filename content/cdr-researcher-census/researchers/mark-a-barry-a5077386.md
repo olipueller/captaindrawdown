@@ -1,7 +1,7 @@
 ---
 title: "Mark A. Barry"
 description: "Mark A. Barry is a Senior Ocean CDR researcher at Bedford Institute of Oceanography in CA. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.904505
+date: 2026-07-11T11:05:43.420743
 url: "/cdr-researcher-census/researchers/mark-a-barry-a5077386/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 10 |
 | Citations | 376 |
 | Publications | 16 |
-| CDR Focus | 12.5% |
-| Trajectory | Stable |
+| CDR Focus | 6.2% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

@@ -1,7 +1,7 @@
 ---
 title: "Huifang Han"
 description: "Huifang Han is a Senior Soil Carbon researcher at Ministry of Agriculture in EE. With 39 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.552018
+date: 2026-07-11T11:05:43.148604
 url: "/cdr-researcher-census/researchers/huifang-han-a5044804/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 667 |
 | Publications | 39 |
-| CDR Focus | 17.9% |
-| Trajectory | Declining |
+| CDR Focus | 20.5% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
@@ -62,13 +62,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Comparative Assessment of Carbon Sequestration of Diverse Organic Waste for Sustainable Crop Production in China** (2022)
    1 citations · Soil Carbon
 
-5. **Carbon Sequestration Promoted by Subsoiling: Tracing the Fate of Exogenous Glucose and Priming Effect in Soil Aggregates** (2025)
+5. **Long-term subsoiling enhanced soil organic carbon sequestration via macropore optimization and iron-aluminum oxides enrichment** (2026)
    0 citations · Soil Carbon
 
-6. **Optimized Subsoiling Increased Maize Yield and Carbon Sequestration by Improving Soil Pore Structure** (2023)
+6. **Carbon Sequestration Promoted by Subsoiling: Tracing the Fate of Exogenous Glucose and Priming Effect in Soil Aggregates** (2025)
    0 citations · Soil Carbon
 
-7. **Comparative Assessment of Carbon Sequestration of Diverse Organic Waste for Sustainable Crop Production in China** (2022)
+7. **Optimized Subsoiling Increased Maize Yield and Carbon Sequestration by Improving Soil Pore Structure** (2023)
+   0 citations · Soil Carbon
+
+8. **Comparative Assessment of Carbon Sequestration of Diverse Organic Waste for Sustainable Crop Production in China** (2022)
    0 citations · General CDR
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Liselott Kutscher"
 description: "Liselott Kutscher is a Mid-career Enhanced Weathering researcher at Stockholm University in SE. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.046919
+date: 2026-07-11T11:05:43.519323
 url: "/cdr-researcher-census/researchers/liselott-kutscher-a5053088/"
 layout: "researcher"
 hiddenInHomeList: true

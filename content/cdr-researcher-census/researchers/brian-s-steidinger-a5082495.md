@@ -1,7 +1,7 @@
 ---
 title: "Brian S. Steidinger"
 description: "Brian S. Steidinger is a Mid-career Soil Carbon researcher at University of Edinburgh in GB. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.337550
+date: 2026-07-11T11:05:42.998520
 url: "/cdr-researcher-census/researchers/brian-s-steidinger-a5082495/"
 layout: "researcher"
 hiddenInHomeList: true

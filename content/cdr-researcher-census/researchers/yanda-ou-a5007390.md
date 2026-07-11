@@ -1,7 +1,7 @@
 ---
 title: "Yanda Ou"
 description: "Yanda Ou is a Mid-career Ocean CDR researcher at Louisiana State University in US. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.058020
+date: 2026-07-11T11:05:44.391566
 url: "/cdr-researcher-census/researchers/yanda-ou-a5007390/"
 layout: "researcher"
 hiddenInHomeList: true

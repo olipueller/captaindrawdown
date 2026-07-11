@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Moosazadeh"
 description: "Mohammad Moosazadeh is a Mid-career DAC researcher at Dongguk University in KR. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.471001
+date: 2026-07-11T11:05:43.799309
 url: "/cdr-researcher-census/researchers/mohammad-moosazadeh-a5012347/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 8 |
 | Citations | 198 |
 | Publications | 16 |
-| CDR Focus | 12.5% |
+| CDR Focus | 6.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Yajun Peng"
 description: "Yajun Peng is a Senior Soil Carbon researcher at Hunan University in CN. With 47 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.624241
+date: 2026-07-11T11:05:43.223067
 url: "/cdr-researcher-census/researchers/yajun-peng-a5101332/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 14 |
 | Citations | 581 |
 | Publications | 47 |
-| CDR Focus | 10.6% |
+| CDR Focus | 8.5% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

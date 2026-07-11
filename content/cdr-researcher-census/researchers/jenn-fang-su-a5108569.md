@@ -1,7 +1,7 @@
 ---
 title: "Jenn-Fang Su"
 description: "Jenn-Fang Su is a Senior Biochar researcher at Chang Gung University in TW. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.947430
+date: 2026-07-11T11:05:44.284532
 url: "/cdr-researcher-census/researchers/jenn-fang-su-a5108569/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 2 |
 | Citations | 122 |
 | Publications | 4 |
-| CDR Focus | 75.0% |
+| CDR Focus | 100.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -50,10 +50,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 1. **The Role of Biochar in Regulating the Carbon, Phosphorus, and Nitrogen Cycles Exemplified by Soil Systems** (2021)
    104 citations · Biochar
 
-2. **Selective Mining of Seawater Calcium Using Biochar-Based Heterogeneous Interfaces for Green Fluoride Recovery and Carbon Dioxide Capture** (2025)
+2. **A proof-of-concept study on green mining of seawater calcium via biochar interfaces for fluoride removal and carbon dioxide capture** (2026)
    0 citations · Biochar
 
 3. **Selective Mining of Seawater Calcium Using Biochar-Based Heterogeneous Interfaces for Green Fluoride Recovery and Carbon Dioxide Capture** (2025)
+   0 citations · Biochar
+
+4. **Selective Mining of Seawater Calcium Using Biochar-Based Heterogeneous Interfaces for Green Fluoride Recovery and Carbon Dioxide Capture** (2025)
    0 citations · Biochar
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Mongkolchai Assawadithalerd"
 description: "Mongkolchai Assawadithalerd is a Mid-career Biochar researcher at Center of Excellence on Hazardous Substance Management in TH. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.421322
+date: 2026-07-11T11:05:43.764763
 url: "/cdr-researcher-census/researchers/mongkolchai-assawadithalerd-a5079189/"
 layout: "researcher"
 hiddenInHomeList: true

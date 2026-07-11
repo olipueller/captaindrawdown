@@ -1,7 +1,7 @@
 ---
 title: "Zhenfeng Xu"
 description: "Zhenfeng Xu is a Senior Soil Carbon researcher at Shijiazhuang University in CN. With 159 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.038516
+date: 2026-07-11T11:05:42.830045
 url: "/cdr-researcher-census/researchers/zhenfeng-xu-a5012669/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 33 |
 | Citations | 3,562 |
 | Publications | 159 |
-| CDR Focus | 6.9% |
+| CDR Focus | 7.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -59,23 +59,23 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Decreased Soil Organic Carbon under Litter Input in Three Subalpine Forests** (2021)
    27 citations · Soil Carbon
 
-5. **Temporal dynamics of mixed litter humification in an alpine treeline ecotone** (2021)
+5. **Heavy Nitrogen Application Rate and Long-Term Duration Decrease the Soil Organic Carbon and Nitrogen Sequestration Rates in Forest Ecosystems** (2024)
+   17 citations · Soil Carbon
+
+6. **Temporal dynamics of mixed litter humification in an alpine treeline ecotone** (2021)
    14 citations · Soil Carbon
 
-6. **Characteristics of Soil Organic Carbon Fractions and Stability along a Chronosequence of Cryptomeria japonica var. sinensis Plantation in the Rainy Area of Western China** (2022)
+7. **Forest thinning effects on soil carbon stocks and dynamics: Perspective of soil organic carbon sequestration rates** (2025)
    11 citations · Soil Carbon
 
-7. **The Contributions of Soil Fauna to the Accumulation of Humic Substances during Litter Humification in Cold Forests** (2022)
+8. **Characteristics of Soil Organic Carbon Fractions and Stability along a Chronosequence of Cryptomeria japonica var. sinensis Plantation in the Rainy Area of Western China** (2022)
    11 citations · Soil Carbon
 
-8. **Forest Gaps Slow the Humification Process of Fir (Abies faxoniana Rehder &amp; E.H.Wilson) Twig Litter during Eight Years of Decomposition in an Alpine Forest** (2023)
+9. **The Contributions of Soil Fauna to the Accumulation of Humic Substances during Litter Humification in Cold Forests** (2022)
+   11 citations · Soil Carbon
+
+10. **Forest Gaps Slow the Humification Process of Fir (Abies faxoniana Rehder &amp; E.H.Wilson) Twig Litter during Eight Years of Decomposition in an Alpine Forest** (2023)
    8 citations · Soil Carbon
-
-9. **Exploring the role of the rhizosphere in soil carbon cycling: impacts on pools and components of SOC along a chronosequence of Cryptomeria japonica plantations in subtropical China** (2025)
-   4 citations · Soil Carbon
-
-10. **[Characteristics of soil organic carbon components across a chronosequence of <i>Cryptomeria japonica</i> plantations in Rainy Area of Western China].** (2025)
-   1 citations · Soil Carbon
 
 ## External Profiles
 

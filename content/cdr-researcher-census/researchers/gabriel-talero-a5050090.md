@@ -1,7 +1,7 @@
 ---
 title: "Gabriel Talero"
 description: "Gabriel Talero is a Mid-career General CDR researcher at Universidad Nacional de Colombia in CO. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.832125
+date: 2026-07-11T11:05:44.199212
 url: "/cdr-researcher-census/researchers/gabriel-talero-a5050090/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Bernard Knutel"
 description: "Bernard Knutel is a Mid-career General CDR researcher at Wrocław University of Environmental and Life Sciences in PL. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.955594
+date: 2026-07-11T11:05:44.292656
 url: "/cdr-researcher-census/researchers/bernard-knutel-a5007320/"
 layout: "researcher"
 hiddenInHomeList: true

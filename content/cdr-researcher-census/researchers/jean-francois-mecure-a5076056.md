@@ -1,7 +1,7 @@
 ---
 title: "Jean-Francois Mecure"
 description: "Jean-Francois Mecure is an Early-career General CDR researcher. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.672810
+date: 2026-07-11T11:05:44.080269
 url: "/cdr-researcher-census/researchers/jean-francois-mecure-a5076056/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hongrun Ju"
 description: "Hongrun Ju is a Senior Soil Carbon researcher at Qingdao University in CN. With 38 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.340472
+date: 2026-07-11T11:05:43.000395
 url: "/cdr-researcher-census/researchers/hongrun-ju-a5086061/"
 layout: "researcher"
 hiddenInHomeList: true

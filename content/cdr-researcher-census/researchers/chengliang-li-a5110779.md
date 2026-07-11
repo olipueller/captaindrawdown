@@ -1,7 +1,7 @@
 ---
 title: "Chengliang Li"
 description: "Chengliang Li is a Senior Soil Carbon researcher at Soil and Fertilizer Institute of Hunan Province in CN. With 49 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.190314
+date: 2026-07-11T11:05:42.906248
 url: "/cdr-researcher-census/researchers/chengliang-li-a5110779/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 21 |
 | Citations | 1,778 |
 | Publications | 49 |
-| CDR Focus | 8.2% |
+| CDR Focus | 6.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Wasim Akram Shaikh"
 description: "Wasim Akram Shaikh is a Senior Biochar researcher at The Neotia University in IN. With 46 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.231769
+date: 2026-07-11T11:05:42.931267
 url: "/cdr-researcher-census/researchers/wasim-akram-shaikh-a5083147/"
 layout: "researcher"
 hiddenInHomeList: true

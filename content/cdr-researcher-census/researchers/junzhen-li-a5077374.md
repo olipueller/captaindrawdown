@@ -1,7 +1,7 @@
 ---
 title: "Junzhen Li"
 description: "Junzhen Li is a Mid-career Soil Carbon researcher at Sichuan University in CN. With 12 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.764728
+date: 2026-07-11T11:05:44.148200
 url: "/cdr-researcher-census/researchers/junzhen-li-a5077374/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 146 |
 | Publications | 12 |
-| CDR Focus | 16.7% |
+| CDR Focus | 8.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

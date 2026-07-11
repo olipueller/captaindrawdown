@@ -1,7 +1,7 @@
 ---
 title: "Xin Xiong"
 description: "Xin Xiong is a Mid-career Soil Carbon researcher at Lushan Botanical Garden in CN. With 26 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.593602
+date: 2026-07-11T11:05:43.202610
 url: "/cdr-researcher-census/researchers/xin-xiong-a5103164/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,7 +53,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Reduced turnover rate of topsoil organic carbon in old-growth forests: a case study in subtropical China** (2021)
    11 citations · Soil Carbon
 
-2. **Two subtropical mycorrhizal tree species differ in contributions to soil carbon pools under drought** (2026)
+2. **Effects of prolonged acid rain on labile and stable soil organic carbon fractions in a subtropical forest** (2026)
+   0 citations
+
+3. **Two subtropical mycorrhizal tree species differ in contributions to soil carbon pools under drought** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

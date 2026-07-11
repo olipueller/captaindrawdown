@@ -1,7 +1,7 @@
 ---
 title: "Miriam Seifert"
 description: "Miriam Seifert is a Mid-career Ocean CDR researcher at Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung in DE. With 37 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.999713
+date: 2026-07-11T11:05:43.487290
 url: "/cdr-researcher-census/researchers/miriam-seifert-a5036998/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 8 |
 | Citations | 333 |
 | Publications | 37 |
-| CDR Focus | 27.0% |
+| CDR Focus | 24.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -68,16 +68,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 6. **New/refined parameterizations for modelling ocean alkalinization effects on biogeochemistry and plankton dynamics** (2024)
    1 citations · Ocean CDR
 
-7. **Reply on RC1** (2025)
-   0 citations · Ocean CDR
-
-8. **Reply on RC2** (2025)
-   0 citations · Ocean CDR
-
-9. **Towards Net Zero: Evaluating Combined Terrestrial and Marine CDR Approaches** (2025)
+7. **New/refined parameterizations for modelling ocean alkalinization effects on biogeochemistry and plankton dynamics - Version 2.0.** (2025)
    0 citations · General CDR
 
-10. **CO2 Removal Potential of Two Ocean-based NETs in Earth System Models in a Realistic Deployment Scenario** (2024)
+8. **Reply on RC1** (2025)
+   0 citations · Ocean CDR
+
+9. **Reply on RC2** (2025)
+   0 citations · Ocean CDR
+
+10. **Towards Net Zero: Evaluating Combined Terrestrial and Marine CDR Approaches** (2025)
    0 citations · General CDR
 
 ## External Profiles

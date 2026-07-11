@@ -1,7 +1,7 @@
 ---
 title: "Kalina C. Grabb"
-description: "Kalina C. Grabb is a Mid-career Ocean CDR researcher at Dalhousie University in CA. With 30 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.826373
+description: "Kalina C. Grabb is a Mid-career General CDR researcher at Dalhousie University in CA. With 30 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:43.367494
 url: "/cdr-researcher-census/researchers/kalina-c-grabb-a5071547/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Dalhousie University · 🇨🇦 CA
 
 ## CDR Specialization
 
-**Ocean CDR**
+**General CDR**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 8 |
 | Citations | 418 |
 | Publications | 30 |
-| CDR Focus | 13.3% |
+| CDR Focus | 16.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -59,7 +59,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 3. **The importance of engagement with fisheries, aquaculture, and Indigenous communities in the planning and implementation of marine carbon dioxide removal (mCDR)** (2025)
    3 citations · General CDR
 
-4. **A sequential gated research framework for addressing potential impacts of marine carbon dioxide removal on fisheries, aquaculture, and Indigenous communities** (2026)
+4. **Report for the Carbon Dioxide Removal (CDR): Towards a Unified Monitoring, Measuring, Reporting and Verification (MMRV) Framework Workshop** (2023)
+   2 citations · DAC
+
+5. **A sequential gated research framework for addressing potential impacts of marine carbon dioxide removal on fisheries, aquaculture, and Indigenous communities** (2026)
    0 citations · General CDR
 
 ## External Profiles

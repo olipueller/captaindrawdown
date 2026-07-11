@@ -1,7 +1,7 @@
 ---
 title: "Xingru Tan"
 description: "Xingru Tan is a Mid-career Soil Carbon researcher at Beijing Botanical Garden in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.698116
+date: 2026-07-11T11:05:43.273076
 url: "/cdr-researcher-census/researchers/xingru-tan-a5002679/"
 layout: "researcher"
 hiddenInHomeList: true

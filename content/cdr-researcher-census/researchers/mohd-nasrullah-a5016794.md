@@ -1,7 +1,7 @@
 ---
 title: "Mohd Nasrullah"
 description: "Mohd Nasrullah is a Senior Biochar researcher at Universiti Malaysia Pahang in MY. With 80 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.057261
+date: 2026-07-11T11:05:42.837599
 url: "/cdr-researcher-census/researchers/mohd-nasrullah-a5016794/"
 layout: "researcher"
 hiddenInHomeList: true

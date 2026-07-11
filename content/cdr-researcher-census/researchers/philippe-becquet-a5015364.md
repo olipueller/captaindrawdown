@@ -1,7 +1,7 @@
 ---
 title: "Philippe Becquet"
 description: "Philippe Becquet is a Senior Soil Carbon researcher at Centre Hospitalier de Mulhouse in FR. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.701449
+date: 2026-07-11T11:05:43.275340
 url: "/cdr-researcher-census/researchers/philippe-becquet-a5015364/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 508 |
 | Publications | 14 |
-| CDR Focus | 21.4% |
+| CDR Focus | 7.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

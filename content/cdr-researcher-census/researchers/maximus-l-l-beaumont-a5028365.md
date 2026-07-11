@@ -1,7 +1,7 @@
 ---
 title: "Maximus L. L. Beaumont"
 description: "Maximus L. L. Beaumont is a Senior General CDR researcher. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.837967
+date: 2026-07-11T11:05:44.204228
 url: "/cdr-researcher-census/researchers/maximus-l-l-beaumont-a5028365/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -37,13 +37,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 2 |
 | Citations | 135 |
 | Publications | 2 |
-| CDR Focus | 50.0% |
-| Trajectory | Stable |
+| CDR Focus | 100.0% |
+| Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Making Direct Air Capture Affordable; Technology, Market and Regulatory Approaches** (2022)
    12 citations · DAC
+
+2. **Overlooked technological and societal trends that will level-up our fight against climate change** (2024)
+   1 citations · DAC
 
 ## External Profiles
 

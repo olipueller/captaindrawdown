@@ -1,7 +1,7 @@
 ---
 title: "Bowei Qi"
 description: "Bowei Qi is a Mid-career Biochar researcher at Hebei Agricultural University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.964042
+date: 2026-07-11T11:05:44.298740
 url: "/cdr-researcher-census/researchers/bowei-qi-a5073450/"
 layout: "researcher"
 hiddenInHomeList: true

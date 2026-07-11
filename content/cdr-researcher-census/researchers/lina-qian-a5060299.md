@@ -1,7 +1,7 @@
 ---
 title: "Lina Qian"
 description: "Lina Qian is an Early-career Biochar researcher at Nanjing Tech University in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.988037
+date: 2026-07-11T11:05:44.316865
 url: "/cdr-researcher-census/researchers/lina-qian-a5060299/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 4 |
 | Citations | 117 |
 | Publications | 5 |
-| CDR Focus | 40.0% |
+| CDR Focus | 20.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

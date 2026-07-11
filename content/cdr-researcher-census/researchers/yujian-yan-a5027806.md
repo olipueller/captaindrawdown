@@ -1,7 +1,7 @@
 ---
 title: "Yujian Yan"
 description: "Yujian Yan is an Early-career Ocean CDR researcher at Sun Yat-sen University in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.886108
+date: 2026-07-11T11:05:44.239069
 url: "/cdr-researcher-census/researchers/yujian-yan-a5027806/"
 layout: "researcher"
 hiddenInHomeList: true

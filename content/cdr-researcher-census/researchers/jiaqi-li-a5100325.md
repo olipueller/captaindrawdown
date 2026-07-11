@@ -1,7 +1,7 @@
 ---
 title: "Jiaqi Li"
 description: "Jiaqi Li is a Mid-career Soil Carbon researcher at Ludong University in CN. With 39 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.274794
+date: 2026-07-11T11:05:43.661933
 url: "/cdr-researcher-census/researchers/jiaqi-li-a5100325/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,15 +45,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 246 |
 | Publications | 39 |
-| CDR Focus | 5.1% |
-| Trajectory | Stable |
+| CDR Focus | 7.7% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Response of Soil Organic Carbon and Bacterial Community to Amendments in Saline‐Alkali Soils of the Yellow River Delta** (2025)
    72 citations · Soil Carbon
 
-2. **Soil spatial heterogeneity created by river–sea interaction influences <scp><i>Tamarix chinensis</i></scp> root features in the Yellow River Delta** (2024)
+2. **Straw plus straw interlayer alter soil organic carbon and bacterial community in a saline-alkali soil from the Yellow River Delta** (2026)
+   3 citations · Soil Carbon
+
+3. **Soil spatial heterogeneity created by river–sea interaction influences <scp><i>Tamarix chinensis</i></scp> root features in the Yellow River Delta** (2024)
    0 citations · Soil Carbon
 
 ## External Profiles

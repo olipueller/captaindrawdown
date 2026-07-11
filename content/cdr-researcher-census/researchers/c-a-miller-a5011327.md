@@ -1,7 +1,7 @@
 ---
 title: "C. A. Miller"
 description: "C. A. Miller is a Senior Ocean CDR researcher at Universiteit Utrecht in NL. With 89 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.116385
+date: 2026-07-11T11:05:42.866063
 url: "/cdr-researcher-census/researchers/c-a-miller-a5011327/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 24 |
 | Citations | 2,404 |
 | Publications | 89 |
-| CDR Focus | 6.7% |
+| CDR Focus | 5.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

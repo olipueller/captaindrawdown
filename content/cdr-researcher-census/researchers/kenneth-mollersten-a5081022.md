@@ -1,7 +1,7 @@
 ---
 title: "Kenneth Möllersten"
 description: "Kenneth Möllersten is a Senior General CDR researcher at KTH Royal Institute of Technology in SE. With 35 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.217781
+date: 2026-07-11T11:05:42.921944
 url: "/cdr-researcher-census/researchers/kenneth-mollersten-a5081022/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 13 |
 | Citations | 1,604 |
 | Publications | 35 |
-| CDR Focus | 25.7% |
+| CDR Focus | 22.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

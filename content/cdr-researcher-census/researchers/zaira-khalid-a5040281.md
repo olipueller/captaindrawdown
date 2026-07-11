@@ -1,7 +1,7 @@
 ---
 title: "Zaira Khalid"
 description: "Zaira Khalid is a Mid-career General CDR researcher at Central University of Jharkhand in IN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.471090
+date: 2026-07-11T11:05:43.799416
 url: "/cdr-researcher-census/researchers/zaira-khalid-a5040281/"
 layout: "researcher"
 hiddenInHomeList: true

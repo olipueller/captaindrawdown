@@ -1,7 +1,7 @@
 ---
 title: "Lin Chen"
 description: "Lin Chen is a Senior Soil Carbon researcher at Jilin Agricultural University in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.965282
+date: 2026-07-11T11:05:43.462105
 url: "/cdr-researcher-census/researchers/lin-chen-a5100768/"
 layout: "researcher"
 hiddenInHomeList: true

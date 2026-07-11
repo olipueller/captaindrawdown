@@ -1,7 +1,7 @@
 ---
 title: "V. Miamin"
 description: "V. Miamin is a Mid-career Soil Carbon researcher at National Academy of Sciences of Belarus in BY. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.932532
+date: 2026-07-11T11:05:44.273014
 url: "/cdr-researcher-census/researchers/v-miamin-a5043178/"
 layout: "researcher"
 hiddenInHomeList: true

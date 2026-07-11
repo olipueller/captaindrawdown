@@ -1,7 +1,7 @@
 ---
 title: "Garry Paterson"
 description: "Garry Paterson is a Senior Soil Carbon researcher at Agricultural Research Council of South Africa in ZA. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.756433
+date: 2026-07-11T11:05:43.316828
 url: "/cdr-researcher-census/researchers/garry-paterson-a5068043/"
 layout: "researcher"
 hiddenInHomeList: true

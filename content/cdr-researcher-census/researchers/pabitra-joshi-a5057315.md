@@ -1,7 +1,7 @@
 ---
 title: "Pabitra Joshi"
 description: "Pabitra Joshi is a Mid-career General CDR researcher at University of Idaho in US. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.959260
+date: 2026-07-11T11:05:43.457999
 url: "/cdr-researcher-census/researchers/pabitra-joshi-a5057315/"
 layout: "researcher"
 hiddenInHomeList: true

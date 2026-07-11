@@ -1,7 +1,7 @@
 ---
 title: "Dariia Atamanchuk"
 description: "Dariia Atamanchuk is a Mid-career Ocean CDR researcher at Dalhousie University in CA. With 70 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.559482
+date: 2026-07-11T11:05:43.153621
 url: "/cdr-researcher-census/researchers/dariia-atamanchuk-a5022141/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 13 |
 | Citations | 655 |
 | Publications | 70 |
-| CDR Focus | 18.6% |
+| CDR Focus | 14.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

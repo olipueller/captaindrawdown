@@ -1,7 +1,7 @@
 ---
 title: "Mengmei Zheng"
 description: "Mengmei Zheng is a Mid-career Soil Carbon researcher at Henan Normal University in CN. With 18 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.329313
+date: 2026-07-11T11:05:42.993777
 url: "/cdr-researcher-census/researchers/mengmei-zheng-a5086094/"
 layout: "researcher"
 hiddenInHomeList: true

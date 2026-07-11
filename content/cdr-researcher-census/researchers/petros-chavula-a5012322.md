@@ -1,7 +1,7 @@
 ---
 title: "Petros Chavula"
 description: "Petros Chavula is a Mid-career General CDR researcher. With 74 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.289334
+date: 2026-07-11T11:05:43.671212
 url: "/cdr-researcher-census/researchers/petros-chavula-a5012322/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -41,7 +41,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | Citations | 242 |
 | Publications | 74 |
 | CDR Focus | 5.4% |
-| Trajectory | Stable |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
@@ -56,6 +56,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 4. **An Overview of Trees in Smallholder Farmers' Agricultural Landscapes: A Case Study from Sub-Saharan Africa** (2024)
    2 citations
+
+5. **Geo-Environmental Consequences of Bioenergy Production Compared to Fossil Fuels** (2026)
+   0 citations · BECCS
 
 ## External Profiles
 

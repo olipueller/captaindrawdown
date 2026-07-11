@@ -1,7 +1,7 @@
 ---
 title: "Nana Wang"
 description: "Nana Wang is a Mid-career Soil Carbon researcher at China West Normal University in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.157798
+date: 2026-07-11T11:05:43.580328
 url: "/cdr-researcher-census/researchers/nana-wang-a5100364/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 283 |
 | Publications | 19 |
-| CDR Focus | 5.3% |
+| CDR Focus | 10.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Tree biomass allocation is governed by allometry but modulated by optimization** (2025)
    8 citations · Soil Carbon
+
+2. **Engineered biochar for simultaneous removal of heavy metals and organic pollutants from wastewater: mechanisms, efficiency, and applications** (2025)
+   5 citations · Biochar
 
 ## External Profiles
 

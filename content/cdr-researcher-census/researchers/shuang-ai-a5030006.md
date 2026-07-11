@@ -1,7 +1,7 @@
 ---
 title: "Shuang Ai"
 description: "Shuang Ai is a Mid-career Soil Carbon researcher. With 37 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.069978
+date: 2026-07-11T11:05:43.536055
 url: "/cdr-researcher-census/researchers/shuang-ai-a5030006/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -37,8 +37,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 304 |
 | Publications | 37 |
-| CDR Focus | 10.8% |
-| Trajectory | Declining |
+| CDR Focus | 13.5% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
@@ -53,6 +53,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 4. **Engineered biochar with MgO impregnation: A phosphorus vector bridging aquatic systems and agricultural soils via targeted adsorption and controlled release** (2025)
    5 citations · Biochar
+
+5. **Soils sustainable management: How artificial humic acid reprogram bacterial consortia for enhanced humus synthesis** (2026)
+   0 citations · General CDR
 
 ## External Profiles
 

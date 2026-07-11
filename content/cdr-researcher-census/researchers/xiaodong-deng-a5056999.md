@@ -1,7 +1,7 @@
 ---
 title: "Xiaodong Deng"
 description: "Xiaodong Deng is a Senior Soil Carbon researcher at Xinyang Normal University in CN. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.873083
+date: 2026-07-11T11:05:43.400370
 url: "/cdr-researcher-census/researchers/xiaodong-deng-a5056999/"
 layout: "researcher"
 hiddenInHomeList: true

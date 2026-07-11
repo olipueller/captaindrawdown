@@ -1,7 +1,7 @@
 ---
 title: "Alok Kumar Singh"
-description: "Alok Kumar Singh is a Senior Soil Carbon researcher at Banaras Hindu University in IN. With 39 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.608832
+description: "Alok Kumar Singh is a Senior General CDR researcher at Banaras Hindu University in IN. With 39 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:44.005914
 url: "/cdr-researcher-census/researchers/alok-kumar-singh-a5100661/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Banaras Hindu University · 🇮🇳 IN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**General CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 172 |
 | Publications | 39 |
-| CDR Focus | 5.1% |
+| CDR Focus | 7.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -53,7 +53,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Altitudinal variation in carbon stocks of Quercus leucotrichophora forests in the Western Himalayas: Implications for climate change mitigation** (2025)
    4 citations · General CDR
 
-2. **Agroforestry: A Key Contributor to Carbon Neutrality** (2026)
+2. **The Climate Crisis and Forestry Contribution Towards Sustainable Development Goals (SDGs)** (2026)
+   0 citations · General CDR
+
+3. **Agroforestry: A Key Contributor to Carbon Neutrality** (2026)
    0 citations · General CDR
 
 ## External Profiles

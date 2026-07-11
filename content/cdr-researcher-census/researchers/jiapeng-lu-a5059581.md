@@ -1,7 +1,7 @@
 ---
 title: "Jiapeng Lu"
 description: "Jiapeng Lu is a Mid-career Biochar researcher at Anhui University of Technology in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.368251
+date: 2026-07-11T11:05:43.726826
 url: "/cdr-researcher-census/researchers/jiapeng-lu-a5059581/"
 layout: "researcher"
 hiddenInHomeList: true

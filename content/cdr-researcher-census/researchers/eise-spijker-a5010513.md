@@ -1,7 +1,7 @@
 ---
 title: "Eise Spijker"
 description: "Eise Spijker is a Senior General CDR researcher at Climate Centre in NL. With 26 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.044959
+date: 2026-07-11T11:05:44.381294
 url: "/cdr-researcher-census/researchers/eise-spijker-a5010513/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 4 |
 | Citations | 110 |
 | Publications | 26 |
-| CDR Focus | 19.2% |
+| CDR Focus | 11.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

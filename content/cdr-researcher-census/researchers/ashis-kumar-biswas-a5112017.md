@@ -1,7 +1,7 @@
 ---
 title: "Ashis Kumar Biswas"
 description: "Ashis Kumar Biswas is a Senior Soil Carbon researcher at Indian Institute of Soil Science in IN. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.781615
+date: 2026-07-11T11:05:43.335759
 url: "/cdr-researcher-census/researchers/ashis-kumar-biswas-a5112017/"
 layout: "researcher"
 hiddenInHomeList: true

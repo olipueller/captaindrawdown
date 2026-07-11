@@ -1,7 +1,7 @@
 ---
 title: "Shasha Li"
 description: "Shasha Li is a Senior Ocean CDR researcher at Xiamen University in CN. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.057583
+date: 2026-07-11T11:05:44.391315
 url: "/cdr-researcher-census/researchers/shasha-li-a5079167/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Chiranjeev Kumawat"
 description: "Chiranjeev Kumawat is a Mid-career Soil Carbon researcher at Sri Karan Narendra Agriculture University, Jobner in IN. With 33 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.988615
+date: 2026-07-11T11:05:43.480261
 url: "/cdr-researcher-census/researchers/chiranjeev-kumawat-a5005319/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 338 |
 | Publications | 33 |
-| CDR Focus | 9.1% |
+| CDR Focus | 6.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

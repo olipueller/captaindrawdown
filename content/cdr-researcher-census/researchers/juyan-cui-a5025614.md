@@ -1,7 +1,7 @@
 ---
 title: "Juyan Cui"
 description: "Juyan Cui is a Mid-career Soil Carbon researcher at Anhui University in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.747731
+date: 2026-07-11T11:05:44.136462
 url: "/cdr-researcher-census/researchers/juyan-cui-a5025614/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 149 |
 | Publications | 16 |
-| CDR Focus | 12.5% |
+| CDR Focus | 6.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -53,7 +53,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Relationship between Soil Bacterial Communities and Dissolved Organic Matter in a Subtropical Pinus Taiwanensis Forest after Short-Term Nitrogen Addition** (2021)
    1 citations
 
-2. **Divergent Effects of Understory Vegetation Manipulation on Soil Carbon, Nitrogen, and Phosphorus in a Temperate–Subtropical Transition Zone Mixed Forest** (2025)
+2. **Short-term nitrogen enrichment alters microbial phosphorous limitation in Pinus taiwanensis forest soils** (2026)
+   0 citations
+
+3. **Divergent Effects of Understory Vegetation Manipulation on Soil Carbon, Nitrogen, and Phosphorus in a Temperate–Subtropical Transition Zone Mixed Forest** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

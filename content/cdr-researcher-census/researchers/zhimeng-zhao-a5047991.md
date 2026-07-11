@@ -1,7 +1,7 @@
 ---
 title: "Zhimeng Zhao"
 description: "Zhimeng Zhao is a Mid-career Soil Carbon researcher at Guizhou Education University in CN. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.950104
+date: 2026-07-11T11:05:43.451381
 url: "/cdr-researcher-census/researchers/zhimeng-zhao-a5047991/"
 layout: "researcher"
 hiddenInHomeList: true

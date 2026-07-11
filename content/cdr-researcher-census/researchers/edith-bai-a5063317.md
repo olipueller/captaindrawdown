@@ -1,7 +1,7 @@
 ---
 title: "Edith Bai"
 description: "Edith Bai is an Eminent Soil Carbon researcher at Institute of Applied Ecology Chinese Academy of Sciences in CN. With 187 publications and an h-index of 50, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.913229
+date: 2026-07-11T11:05:42.783075
 url: "/cdr-researcher-census/researchers/edith-bai-a5063317/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 50 |
 | Citations | 8,681 |
 | Publications | 187 |
-| CDR Focus | 5.3% |
+| CDR Focus | 5.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -62,23 +62,23 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Erosion effects on soil microbial carbon use efficiency in the mollisol cropland in northeast China** (2023)
    18 citations · Soil Carbon
 
-5. **Temperature effects on microbial carbon use efficiency and priming effects in soils under vegetation restoration** (2024)
+5. **Differential contribution of microbial and plant-derived organic matter to soil organic carbon sequestration over two decades of natural revegetation and cropping** (2024)
+   16 citations · Soil Carbon
+
+6. **Temperature effects on microbial carbon use efficiency and priming effects in soils under vegetation restoration** (2024)
    10 citations · Soil Carbon
 
-6. **Isotopic evidence for increased carbon and nitrogen exchanges between peatland plants and their symbiotic microbes with rising atmospheric <scp>CO<sub>2</sub></scp> concentrations since 15,000 cal. year <scp>BP</scp>** (2022)
+7. **Isotopic evidence for increased carbon and nitrogen exchanges between peatland plants and their symbiotic microbes with rising atmospheric <scp>CO<sub>2</sub></scp> concentrations since 15,000 cal. year <scp>BP</scp>** (2022)
    10 citations · General CDR
 
-7. **Refining Amino Sugar‐Based Conversion Factors for Quantification of Microbial Necromass Carbon in Soils** (2025)
+8. **Refining Amino Sugar‐Based Conversion Factors for Quantification of Microbial Necromass Carbon in Soils** (2025)
    6 citations · Soil Carbon
 
-8. **Towards smart soil carbon pool management of grassland: a bibliometric overview from past to future** (2025)
+9. **Towards smart soil carbon pool management of grassland: a bibliometric overview from past to future** (2025)
    5 citations · General CDR
 
-9. **Dynamic and allocation of recently assimilated carbon in Korean pine (Pinus koraiensis) and birch (Betula platyphylla) in a temperate forest** (2022)
+10. **Dynamic and allocation of recently assimilated carbon in Korean pine (Pinus koraiensis) and birch (Betula platyphylla) in a temperate forest** (2022)
    5 citations · Soil Carbon
-
-10. **Soil priming effect in the organic and mineral layers regulated by nitrogen mining mechanism in a temperate forest** (2024)
-   3 citations · Soil Carbon
 
 ## External Profiles
 

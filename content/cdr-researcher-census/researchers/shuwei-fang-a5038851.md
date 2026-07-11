@@ -1,7 +1,7 @@
 ---
 title: "Shuwei Fang"
 description: "Shuwei Fang is an Early-career Biochar researcher at Shanghai Jiao Tong University in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.988923
+date: 2026-07-11T11:05:44.317837
 url: "/cdr-researcher-census/researchers/shuwei-fang-a5038851/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Olena Siryk"
 description: "Olena Siryk is a Mid-career Biochar researcher at Institute of Agrophysics, Polish Academy of Sciences in PL. With 24 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.663641
+date: 2026-07-11T11:05:44.073822
 url: "/cdr-researcher-census/researchers/olena-siryk-a5041845/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 8 |
 | Citations | 162 |
 | Publications | 24 |
-| CDR Focus | 12.5% |
-| Trajectory | Growing |
+| CDR Focus | 8.3% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

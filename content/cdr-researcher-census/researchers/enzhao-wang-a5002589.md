@@ -1,7 +1,7 @@
 ---
 title: "Enzhao Wang"
 description: "Enzhao Wang is a Mid-career Soil Carbon researcher at Shanghai University of Traditional Chinese Medicine in CN. With 27 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.646803
+date: 2026-07-11T11:05:43.237286
 url: "/cdr-researcher-census/researchers/enzhao-wang-a5002589/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ankita Trivedi"
 description: "Ankita Trivedi is a Senior Soil Carbon researcher at Indian Agricultural Research Institute in IN. With 39 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.090952
+date: 2026-07-11T11:05:43.551379
 url: "/cdr-researcher-census/researchers/ankita-trivedi-a5002670/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 297 |
 | Publications | 39 |
-| CDR Focus | 7.7% |
-| Trajectory | Exiting |
+| CDR Focus | 10.3% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
@@ -58,6 +58,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 3. **Soil Health and Climate Change** (2024)
    5 citations · General CDR
+
+4. **Stability of Organic Carbon in Soil Under Rice and Non-Rice-Based Cropping Systems in Indo-Gangetic Plains of India** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

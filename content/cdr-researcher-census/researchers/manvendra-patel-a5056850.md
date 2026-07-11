@@ -1,7 +1,7 @@
 ---
 title: "Manvendra Patel"
 description: "Manvendra Patel is a Mid-career Biochar researcher at Thapar Institute of Engineering and Technology in IN. With 31 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.027167
+date: 2026-07-11T11:05:42.825207
 url: "/cdr-researcher-census/researchers/manvendra-patel-a5056850/"
 layout: "researcher"
 hiddenInHomeList: true

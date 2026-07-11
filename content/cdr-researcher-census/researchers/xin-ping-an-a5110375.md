@@ -1,7 +1,7 @@
 ---
 title: "Xin-Ping An"
 description: "Xin-Ping An is a Senior Soil Carbon researcher at Universiti Putra Malaysia in MY. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.966238
+date: 2026-07-11T11:05:44.300287
 url: "/cdr-researcher-census/researchers/xin-ping-an-a5110375/"
 layout: "researcher"
 hiddenInHomeList: true

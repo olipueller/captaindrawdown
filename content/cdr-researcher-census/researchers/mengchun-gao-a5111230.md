@@ -1,7 +1,7 @@
 ---
 title: "Mengchun Gao"
 description: "Mengchun Gao is an Early-career Biochar researcher at Ocean University of China in CN. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.899454
+date: 2026-07-11T11:05:44.249228
 url: "/cdr-researcher-census/researchers/mengchun-gao-a5111230/"
 layout: "researcher"
 hiddenInHomeList: true

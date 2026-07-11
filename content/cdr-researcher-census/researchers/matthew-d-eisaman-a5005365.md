@@ -1,7 +1,7 @@
 ---
 title: "Matthew D. Eisaman"
 description: "Matthew D. Eisaman is a Senior Ocean CDR researcher at Yale University in US. With 114 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.983220
+date: 2026-07-11T11:05:42.806327
 url: "/cdr-researcher-census/researchers/matthew-d-eisaman-a5005365/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 22 |
 | Citations | 5,038 |
 | Publications | 114 |
-| CDR Focus | 22.8% |
+| CDR Focus | 14.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

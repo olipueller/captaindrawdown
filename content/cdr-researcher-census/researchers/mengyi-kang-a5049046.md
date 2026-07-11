@@ -1,7 +1,7 @@
 ---
 title: "Mengyi Kang"
 description: "Mengyi Kang is a Mid-career Enhanced Weathering researcher at Handan College in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.104255
+date: 2026-07-11T11:05:44.407958
 url: "/cdr-researcher-census/researchers/mengyi-kang-a5049046/"
 layout: "researcher"
 hiddenInHomeList: true

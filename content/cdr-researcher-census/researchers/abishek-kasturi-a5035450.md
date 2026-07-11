@@ -1,7 +1,7 @@
 ---
 title: "Abishek Kasturi"
 description: "Abishek Kasturi is a Mid-career General CDR researcher at Oak Ridge National Laboratory in US. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.153640
+date: 2026-07-11T11:05:43.576759
 url: "/cdr-researcher-census/researchers/abishek-kasturi-a5035450/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 9 |
 | Citations | 284 |
 | Publications | 19 |
-| CDR Focus | 63.2% |
-| Trajectory | Declining |
+| CDR Focus | 10.5% |
+| Trajectory | Exiting |
 
 ## Top CDR Publications
 

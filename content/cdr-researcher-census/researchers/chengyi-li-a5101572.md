@@ -1,7 +1,7 @@
 ---
 title: "Chengyi Li"
 description: "Chengyi Li is a Senior Soil Carbon researcher at Qinghai University in CN. With 60 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.918369
+date: 2026-07-11T11:05:43.429726
 url: "/cdr-researcher-census/researchers/chengyi-li-a5101572/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 370 |
 | Publications | 60 |
-| CDR Focus | 6.7% |
+| CDR Focus | 8.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -59,7 +59,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **Comparative responses of carbon flux components in recovering bare patches of degraded alpine meadow in the Source Zone of the Yellow River** (2023)
    6 citations · Soil Carbon
 
-4. **Natural recovery of bare patches to healthy alpine meadow reduces soil microbial diversity in a degraded high-altitude grassland, West China** (2025)
+4. **Response of Carbon-Fixing Bacteria to Patchy Degradation of the Alpine Meadow in the Source Zone of the Yellow River, West China** (2024)
+   3 citations · Soil Carbon
+
+5. **Natural recovery of bare patches to healthy alpine meadow reduces soil microbial diversity in a degraded high-altitude grassland, West China** (2025)
    1 citations · Soil Carbon
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Fan Yang"
 description: "Fan Yang is an Eminent Soil Carbon researcher at Zhejiang Ocean University in CN. With 184 publications and an h-index of 44, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.943681
+date: 2026-07-11T11:05:42.791284
 url: "/cdr-researcher-census/researchers/fan-yang-a5086394/"
 layout: "researcher"
 hiddenInHomeList: true

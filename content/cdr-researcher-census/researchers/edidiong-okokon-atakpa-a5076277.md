@@ -1,7 +1,7 @@
 ---
 title: "Edidiong Okokon Atakpa"
 description: "Edidiong Okokon Atakpa is a Mid-career Biochar researcher at Southwest University of Science and Technology in CN. With 29 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.332273
+date: 2026-07-11T11:05:42.995183
 url: "/cdr-researcher-census/researchers/edidiong-okokon-atakpa-a5076277/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 14 |
 | Citations | 1,126 |
 | Publications | 29 |
-| CDR Focus | 13.8% |
+| CDR Focus | 10.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

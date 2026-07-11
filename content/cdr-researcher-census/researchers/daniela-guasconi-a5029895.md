@@ -1,7 +1,7 @@
 ---
 title: "Daniela Guasconi"
 description: "Daniela Guasconi is a Mid-career Soil Carbon researcher at Stockholm University in SE. With 28 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.767254
+date: 2026-07-11T11:05:44.150628
 url: "/cdr-researcher-census/researchers/daniela-guasconi-a5029895/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 146 |
 | Publications | 28 |
-| CDR Focus | 39.3% |
-| Trajectory | Declining |
+| CDR Focus | 17.9% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
@@ -62,22 +62,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Reply on RC2** (2024)
    0 citations · Soil Carbon
 
-5. **Comment on egusphere-2023-2673** (2024)
+5. **Reply on RC3** (2024)
+   0 citations · Soil Carbon
+
+6. **Reply on RC4** (2024)
+   0 citations · Soil Carbon
+
+7. **Comment on egusphere-2023-2673** (2024)
    0 citations · General CDR
 
-6. **Comment on egusphere-2023-2673** (2024)
+8. **Comment on egusphere-2023-2673** (2024)
    0 citations · General CDR
 
-7. **Reply on AC1** (2024)
+9. **Reply on AC1** (2024)
    0 citations · Soil Carbon
 
-8. **Reply on RC1** (2024)
-   0 citations · Soil Carbon
-
-9. **Comment on egusphere-2023-2673** (2023)
-   0 citations · Soil Carbon
-
-10. **Spatial and temporal variability in soil and vegetation carbon dynamics under experimental drought and soil amendments** (2023)
+10. **Reply on RC1** (2024)
    0 citations · Soil Carbon
 
 ## External Profiles

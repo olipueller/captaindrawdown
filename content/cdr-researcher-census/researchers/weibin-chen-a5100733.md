@@ -1,7 +1,7 @@
 ---
 title: "Weibin Chen"
 description: "Weibin Chen is a Senior Soil Carbon researcher at South China Botanical Garden in CN. With 20 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.510332
+date: 2026-07-11T11:05:43.116990
 url: "/cdr-researcher-census/researchers/weibin-chen-a5100733/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 14 |
 | Citations | 728 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 20.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -53,8 +53,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Distinct storage mechanisms of soil organic carbon in coniferous forest and evergreen broadleaf forest in tropical China** (2021)
    53 citations · Soil Carbon
 
-2. **Divergent Microbial Metabolic Limitations Across Soil Depths After Two Decades of High Nitrogen Inputs in a Primary Tropical Forest** (2025)
+2. **Beyond one-size-fits-all: tailoring engineered biochar for purpose-specific rhizosphere engineering in crop production, protection, and soil remediation** (2026)
+   19 citations · Biochar
+
+3. **Divergent Microbial Metabolic Limitations Across Soil Depths After Two Decades of High Nitrogen Inputs in a Primary Tropical Forest** (2025)
    18 citations · Soil Carbon
+
+4. **Nitrogen biogeochemical cycling in forest ecosystems with the globalization of nitrogen deposition** (2026)
+   0 citations · General CDR
 
 ## External Profiles
 

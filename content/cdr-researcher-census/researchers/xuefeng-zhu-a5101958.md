@@ -1,7 +1,7 @@
 ---
 title: "Xuefeng Zhu"
 description: "Xuefeng Zhu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.341836
+date: 2026-07-11T11:05:43.001042
 url: "/cdr-researcher-census/researchers/xuefeng-zhu-a5101958/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 1,094 |
 | Publications | 18 |
-| CDR Focus | 38.9% |
+| CDR Focus | 33.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

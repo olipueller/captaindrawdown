@@ -1,7 +1,7 @@
 ---
 title: "Jiang Jiang"
 description: "Jiang Jiang is a Mid-career Soil Carbon researcher at University of Science and Technology of China in CN. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.842977
+date: 2026-07-11T11:05:43.378194
 url: "/cdr-researcher-census/researchers/jiang-jiang-a5100722/"
 layout: "researcher"
 hiddenInHomeList: true

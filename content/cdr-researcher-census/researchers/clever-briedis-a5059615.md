@@ -1,7 +1,7 @@
 ---
 title: "Cléver Briedis"
 description: "Cléver Briedis is a Senior Soil Carbon researcher at Federal University of Viçosa in BR. With 73 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.168506
+date: 2026-07-11T11:05:42.894353
 url: "/cdr-researcher-census/researchers/clever-briedis-a5059615/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 24 |
 | Citations | 1,938 |
 | Publications | 73 |
-| CDR Focus | 9.6% |
+| CDR Focus | 8.2% |
 | Trajectory | Declining |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Zhenlin Li"
 description: "Zhenlin Li is a Senior General CDR researcher at Hong Kong Polytechnic University in CN. With 114 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.114035
+date: 2026-07-11T11:05:42.865106
 url: "/cdr-researcher-census/researchers/zhenlin-li-a5101755/"
 layout: "researcher"
 hiddenInHomeList: true

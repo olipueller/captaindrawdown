@@ -1,7 +1,7 @@
 ---
 title: "Zhen Liu"
 description: "Zhen Liu is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 100 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.225716
+date: 2026-07-11T11:05:42.927558
 url: "/cdr-researcher-census/researchers/zhen-liu-a5084905/"
 layout: "researcher"
 hiddenInHomeList: true

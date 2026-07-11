@@ -1,7 +1,7 @@
 ---
 title: "Changyoon Jeong"
 description: "Changyoon Jeong is a Mid-career Soil Carbon researcher at Louisiana State University in US. With 43 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.618867
+date: 2026-07-11T11:05:43.219127
 url: "/cdr-researcher-census/researchers/changyoon-jeong-a5081655/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 14 |
 | Citations | 586 |
 | Publications | 43 |
-| CDR Focus | 9.3% |
-| Trajectory | Growing |
+| CDR Focus | 7.0% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

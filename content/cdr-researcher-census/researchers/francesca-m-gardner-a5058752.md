@@ -1,7 +1,7 @@
 ---
 title: "Francesca M. Gardner"
 description: "Francesca M. Gardner is a Mid-career BECCS researcher at University of Maryland, Baltimore in US. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.887652
+date: 2026-07-11T11:05:43.409417
 url: "/cdr-researcher-census/researchers/francesca-m-gardner-a5058752/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 9 |
 | Citations | 384 |
 | Publications | 16 |
-| CDR Focus | 31.2% |
-| Trajectory | Stable |
+| CDR Focus | 6.2% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
@@ -63,6 +63,9 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    1 citations · BECCS
 
 5. **BECC-adjuvanted hemagglutinin influenza vaccine promotes enhanced immunogenicity and protective efficacy** (2026)
+   0 citations
+
+6. **Lawnmower Poetry and the Poetry of Lawnmowers** (2025)
    0 citations
 
 ## External Profiles

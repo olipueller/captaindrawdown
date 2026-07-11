@@ -1,7 +1,7 @@
 ---
 title: "Moritz Baumann"
 description: "Moritz Baumann is a Senior Ocean CDR researcher. With 25 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.256299
+date: 2026-07-11T11:05:43.650437
 url: "/cdr-researcher-census/researchers/moritz-baumann-a5008826/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,8 +40,8 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 6 |
 | Citations | 251 |
 | Publications | 25 |
-| CDR Focus | 32.0% |
-| Trajectory | Declining |
+| CDR Focus | 20.0% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

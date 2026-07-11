@@ -1,7 +1,7 @@
 ---
 title: "Jingnan Zou"
 description: "Jingnan Zou is a Mid-career Soil Carbon researcher at Guizhou University in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.618937
+date: 2026-07-11T11:05:44.021862
 url: "/cdr-researcher-census/researchers/jingnan-zou-a5028912/"
 layout: "researcher"
 hiddenInHomeList: true

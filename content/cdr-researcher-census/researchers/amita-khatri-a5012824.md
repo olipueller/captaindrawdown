@@ -1,7 +1,7 @@
 ---
 title: "Amita Khatri"
 description: "Amita Khatri is a Mid-career Biochar researcher at Maharshi Dayanand University in IN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.233103
+date: 2026-07-11T11:05:43.634813
 url: "/cdr-researcher-census/researchers/amita-khatri-a5012824/"
 layout: "researcher"
 hiddenInHomeList: true

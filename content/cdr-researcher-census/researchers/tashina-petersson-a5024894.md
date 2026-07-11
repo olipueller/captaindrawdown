@@ -1,7 +1,7 @@
 ---
 title: "Tashina Petersson"
 description: "Tashina Petersson is a Mid-career Soil Carbon researcher at CMCC Foundation - Euro-Mediterranean Center on Climate Change in IT. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.502958
+date: 2026-07-11T11:05:43.831262
 url: "/cdr-researcher-census/researchers/tashina-petersson-a5024894/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Prince Aleta"
 description: "Prince Aleta is a Mid-career Ocean CDR researcher at University of Houston in US. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.346509
+date: 2026-07-11T11:05:43.712310
 url: "/cdr-researcher-census/researchers/prince-aleta-a5092670/"
 layout: "researcher"
 hiddenInHomeList: true

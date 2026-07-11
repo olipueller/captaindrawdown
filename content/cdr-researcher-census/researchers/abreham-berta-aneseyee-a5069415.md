@@ -1,7 +1,7 @@
 ---
 title: "Abreham Berta Aneseyee"
 description: "Abreham Berta Aneseyee is a Mid-career Soil Carbon researcher at Unversity Wolkite in ET. With 37 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.245021
+date: 2026-07-11T11:05:42.939005
 url: "/cdr-researcher-census/researchers/abreham-berta-aneseyee-a5069415/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,7 +53,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **The role of sustainable land management practices on enhancing ecosystem services in the highlands of Ethiopia** (2025)
    2 citations · Soil Carbon
 
-2. **Carbon stock dynamics driven by land management and land-use change in the Guder-Huluka Rivers’ catchment in Ethiopia** (2026)
+2. **Comparative Analysis of Woody Biomass and Ecosystem Carbon Stocks in Treated and Untreated Watersheds across agro-ecological zones of the Ethiopian Highlands** (2026)
+   0 citations
+
+3. **Carbon stock dynamics driven by land management and land-use change in the Guder-Huluka Rivers’ catchment in Ethiopia** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

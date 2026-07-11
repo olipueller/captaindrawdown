@@ -1,7 +1,7 @@
 ---
 title: "Judith Hauck"
 description: "Judith Hauck is an Eminent Ocean CDR researcher at Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung in DE. With 310 publications and an h-index of 41, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.847065
+date: 2026-07-11T11:05:42.770355
 url: "/cdr-researcher-census/researchers/judith-hauck-a5068651/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 41 |
 | Citations | 20,492 |
 | Publications | 310 |
-| CDR Focus | 5.5% |
-| Trajectory | Stable |
+| CDR Focus | 5.2% |
+| Trajectory | Declining |
 
 ## Top CDR Publications
 

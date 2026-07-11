@@ -1,7 +1,7 @@
 ---
 title: "Niak Sian Koh"
 description: "Niak Sian Koh is a Mid-career General CDR researcher at University of Oxford in GB. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.391173
+date: 2026-07-11T11:05:43.744410
 url: "/cdr-researcher-census/researchers/niak-sian-koh-a5042419/"
 layout: "researcher"
 hiddenInHomeList: true

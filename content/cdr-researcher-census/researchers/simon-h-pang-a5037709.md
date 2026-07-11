@@ -1,7 +1,7 @@
 ---
 title: "Simon H. Pang"
 description: "Simon H. Pang is a Senior General CDR researcher at Lawrence Livermore National Laboratory in US. With 102 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.043071
+date: 2026-07-11T11:05:42.832010
 url: "/cdr-researcher-census/researchers/simon-h-pang-a5037709/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 29 |
 | Citations | 3,485 |
 | Publications | 102 |
-| CDR Focus | 32.4% |
-| Trajectory | Stable |
+| CDR Focus | 7.8% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

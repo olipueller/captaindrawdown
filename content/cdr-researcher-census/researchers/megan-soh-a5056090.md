@@ -1,7 +1,7 @@
 ---
 title: "Megan Soh"
 description: "Megan Soh is a Mid-career Biochar researcher at Swinburne University of Technology Sarawak Campus in MY. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.196875
+date: 2026-07-11T11:05:43.609107
 url: "/cdr-researcher-census/researchers/megan-soh-a5056090/"
 layout: "researcher"
 hiddenInHomeList: true

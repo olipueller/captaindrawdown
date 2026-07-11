@@ -1,7 +1,7 @@
 ---
 title: "Sofia Rauzi"
 description: "Sofia Rauzi is a Mid-career Enhanced Weathering researcher at University of Waikato in NZ. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.430605
+date: 2026-07-11T11:05:43.770123
 url: "/cdr-researcher-census/researchers/sofia-rauzi-a5082142/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 5 |
 | Citations | 207 |
 | Publications | 16 |
-| CDR Focus | 25.0% |
-| Trajectory | Growing |
+| CDR Focus | 6.2% |
+| Trajectory | Exiting |
 
 ## Top CDR Publications
 

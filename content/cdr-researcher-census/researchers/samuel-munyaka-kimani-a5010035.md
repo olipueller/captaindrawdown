@@ -1,7 +1,7 @@
 ---
 title: "Samuel Munyaka Kimani"
 description: "Samuel Munyaka Kimani is a Senior Soil Carbon researcher at National Agriculture and Food Research Organization in JP. With 36 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.793686
+date: 2026-07-11T11:05:43.342529
 url: "/cdr-researcher-census/researchers/samuel-munyaka-kimani-a5010035/"
 layout: "researcher"
 hiddenInHomeList: true

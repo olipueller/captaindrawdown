@@ -1,7 +1,7 @@
 ---
 title: "Shihui Feng"
 description: "Shihui Feng is a Mid-career Biochar researcher at University of Hong Kong in HK. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.786233
+date: 2026-07-11T11:05:44.164314
 url: "/cdr-researcher-census/researchers/shihui-feng-a5100964/"
 layout: "researcher"
 hiddenInHomeList: true

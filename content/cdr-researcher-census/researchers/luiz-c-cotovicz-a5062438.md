@@ -1,7 +1,7 @@
 ---
 title: "Luiz C. Cotovicz"
-description: "Luiz C. Cotovicz is a Mid-career Soil Carbon researcher at Universidade Federal do Paraná in BR. With 57 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.351011
+description: "Luiz C. Cotovicz is a Mid-career Ocean CDR researcher at Universidade Federal do Paraná in BR. With 57 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:43.007762
 url: "/cdr-researcher-census/researchers/luiz-c-cotovicz-a5062438/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Universidade Federal do Paraná · 🇧🇷 BR
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Ocean CDR**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 19 |
 | Citations | 1,065 |
 | Publications | 57 |
-| CDR Focus | 10.5% |
+| CDR Focus | 8.8% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -65,7 +65,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 5. **Tropicalization Enhances Mangrove Methane Emissions to the Atmosphere** (2026)
    2 citations
 
-6. **Large porewater-derived carbon outwelling across two mangrove-seascapes revealed by radium isotopes** (2024)
+6. **Monitoring, reporting, and verification of marine carbon dioxide removal: Exploring scientific consensus and divergences across continents** (2026)
+   0 citations · General CDR
+
+7. **Large porewater-derived carbon outwelling across two mangrove-seascapes revealed by radium isotopes** (2024)
    0 citations · Ocean CDR
 
 ## External Profiles

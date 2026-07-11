@@ -1,7 +1,7 @@
 ---
 title: "Tiantian She"
 description: "Tiantian She is a Mid-career Biochar researcher at Tianjin Medical University in CN. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.732074
+date: 2026-07-11T11:05:43.297997
 url: "/cdr-researcher-census/researchers/tiantian-she-a5021512/"
 layout: "researcher"
 hiddenInHomeList: true

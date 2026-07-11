@@ -1,7 +1,7 @@
 ---
 title: "Suhel Aneesh Ansari"
 description: "Suhel Aneesh Ansari is a Mid-career Soil Carbon researcher at National Environmental Engineering Research Institute in IN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.731612
+date: 2026-07-11T11:05:44.124622
 url: "/cdr-researcher-census/researchers/suhel-aneesh-ansari-a5064177/"
 layout: "researcher"
 hiddenInHomeList: true

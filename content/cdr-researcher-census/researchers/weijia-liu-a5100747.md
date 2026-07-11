@@ -1,7 +1,7 @@
 ---
 title: "Weijia Liu"
 description: "Weijia Liu is a Mid-career Soil Carbon researcher at Chengdu Academy of Agriculture and Forestry Sciences in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.734175
+date: 2026-07-11T11:05:44.126796
 url: "/cdr-researcher-census/researchers/weijia-liu-a5100747/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 151 |
 | Publications | 10 |
-| CDR Focus | 10.0% |
-| Trajectory | Exiting |
+| CDR Focus | 20.0% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Alpine wetland litter decomposition under wet and dry conditions: A comparative study of native vs. standardized litter** (2024)
    7 citations · Soil Carbon
+
+2. **Straw-induced soil pH decreased drives aluminum speciation shift and enhances soil organic carbon stability: A 12-year paddy experiment** (2026)
+   1 citations · Soil Carbon
 
 ## External Profiles
 

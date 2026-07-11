@@ -1,7 +1,7 @@
 ---
 title: "Yuxing Ding"
 description: "Yuxing Ding is a Mid-career General CDR researcher at State Key Laboratory of Chemical Engineering in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.501537
+date: 2026-07-11T11:05:43.828876
 url: "/cdr-researcher-census/researchers/yuxing-ding-a5044224/"
 layout: "researcher"
 hiddenInHomeList: true

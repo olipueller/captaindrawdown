@@ -1,7 +1,7 @@
 ---
 title: "Xin‐Quan Tan"
 description: "Xin‐Quan Tan is a Mid-career General CDR researcher at Xiamen University Malaysia in MY. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.046292
+date: 2026-07-11T11:05:43.518978
 url: "/cdr-researcher-census/researchers/xinquan-tan-a5081102/"
 layout: "researcher"
 hiddenInHomeList: true

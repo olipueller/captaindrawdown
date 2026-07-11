@@ -1,7 +1,7 @@
 ---
 title: "Abdoul-Salam Koroney"
 description: "Abdoul-Salam Koroney is a Mid-career Soil Carbon researcher. With 15 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.139784
+date: 2026-07-11T11:05:44.432846
 url: "/cdr-researcher-census/researchers/abdoul-salam-koroney-a5065455/"
 layout: "researcher"
 hiddenInHomeList: true

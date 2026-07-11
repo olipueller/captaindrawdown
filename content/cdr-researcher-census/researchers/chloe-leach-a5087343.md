@@ -1,7 +1,7 @@
 ---
 title: "Chloe Leach"
 description: "Chloe Leach is a Mid-career Ocean CDR researcher at Climate Central in US. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.432521
+date: 2026-07-11T11:05:43.771682
 url: "/cdr-researcher-census/researchers/chloe-leach-a5087343/"
 layout: "researcher"
 hiddenInHomeList: true

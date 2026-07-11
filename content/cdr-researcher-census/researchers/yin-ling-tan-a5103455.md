@@ -1,7 +1,7 @@
 ---
 title: "Yin Ling Tan"
 description: "Yin Ling Tan is a Senior Enhanced Weathering researcher. With 29 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.444018
+date: 2026-07-11T11:05:43.069768
 url: "/cdr-researcher-census/researchers/yin-ling-tan-a5103455/"
 layout: "researcher"
 hiddenInHomeList: true

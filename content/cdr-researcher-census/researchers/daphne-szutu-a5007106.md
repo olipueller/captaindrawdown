@@ -1,7 +1,7 @@
 ---
 title: "Daphne Szutu"
 description: "Daphne Szutu is a Senior Soil Carbon researcher at University of California in US. With 80 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.215549
+date: 2026-07-11T11:05:42.920978
 url: "/cdr-researcher-census/researchers/daphne-szutu-a5007106/"
 layout: "researcher"
 hiddenInHomeList: true

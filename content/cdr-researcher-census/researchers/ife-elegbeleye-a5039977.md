@@ -1,7 +1,7 @@
 ---
 title: "Ife Elegbeleye"
 description: "Ife Elegbeleye is a Mid-career General CDR researcher at University of Pretoria in ZA. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.107440
+date: 2026-07-11T11:05:44.409803
 url: "/cdr-researcher-census/researchers/ife-elegbeleye-a5039977/"
 layout: "researcher"
 hiddenInHomeList: true

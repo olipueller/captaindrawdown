@@ -1,7 +1,7 @@
 ---
 title: "Patrick Connolly"
 description: "Patrick Connolly is a Senior General CDR researcher at University of Victoria in CA. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.765299
+date: 2026-07-11T11:05:43.323293
 url: "/cdr-researcher-census/researchers/patrick-connolly-a5085691/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 5 |
 | Citations | 458 |
 | Publications | 9 |
-| CDR Focus | 55.6% |
-| Trajectory | Exiting |
+| CDR Focus | 11.1% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

@@ -1,7 +1,7 @@
 ---
 title: "Bill Deen"
 description: "Bill Deen is a Senior Soil Carbon researcher at University of Guelph in CA. With 100 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.046360
+date: 2026-07-11T11:05:42.833817
 url: "/cdr-researcher-census/researchers/bill-deen-a5091040/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Dylan Catlett"
 description: "Dylan Catlett is a Mid-career Ocean CDR researcher at University of California, Santa Barbara in US. With 27 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.632834
+date: 2026-07-11T11:05:43.228762
 url: "/cdr-researcher-census/researchers/dylan-catlett-a5060883/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 12 |
 | Citations | 573 |
 | Publications | 27 |
-| CDR Focus | 11.1% |
+| CDR Focus | 7.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

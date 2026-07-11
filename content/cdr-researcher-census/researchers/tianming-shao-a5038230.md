@@ -1,7 +1,7 @@
 ---
 title: "Tianming Shao"
 description: "Tianming Shao is a Mid-career General CDR researcher at Changsha University in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.010385
+date: 2026-07-11T11:05:43.493720
 url: "/cdr-researcher-census/researchers/tianming-shao-a5038230/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,12 +42,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 5 |
 | Citations | 329 |
 | Publications | 6 |
-| CDR Focus | 16.7% |
+| CDR Focus | 33.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Carbon assets alone are insufficient to sustain China’s agroforestry biomass power generation** (2025)
+1. **Assessing CCS development uncertainties in China's energy system aligned with carbon neutrality** (2025)
+   11 citations · General CDR
+
+2. **Carbon assets alone are insufficient to sustain China’s agroforestry biomass power generation** (2025)
    3 citations · BECCS
 
 ## External Profiles

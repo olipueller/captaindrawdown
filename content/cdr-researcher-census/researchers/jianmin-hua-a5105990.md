@@ -1,7 +1,7 @@
 ---
 title: "Jianmin Hua"
 description: "Jianmin Hua is a Senior General CDR researcher at Chongqing University in CN. With 21 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.278324
+date: 2026-07-11T11:05:42.960571
 url: "/cdr-researcher-census/researchers/jianmin-hua-a5105990/"
 layout: "researcher"
 hiddenInHomeList: true

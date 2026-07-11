@@ -1,7 +1,7 @@
 ---
 title: "Mohanraj Kumar"
 description: "Mohanraj Kumar is an Early-career Biochar researcher at Chaoyang University of Technology in TW. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.777926
+date: 2026-07-11T11:05:44.158573
 url: "/cdr-researcher-census/researchers/mohanraj-kumar-a5056901/"
 layout: "researcher"
 hiddenInHomeList: true

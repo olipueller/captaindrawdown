@@ -1,7 +1,7 @@
 ---
 title: "Andrei Briones-Hidrovo"
 description: "Andrei Briones-Hidrovo is a Mid-career General CDR researcher at Sustainability Institute in ZA. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.931109
+date: 2026-07-11T11:05:43.438961
 url: "/cdr-researcher-census/researchers/andrei-briones-hidrovo-a5056690/"
 layout: "researcher"
 hiddenInHomeList: true

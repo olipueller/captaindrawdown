@@ -1,7 +1,7 @@
 ---
 title: "Huilin Shu"
 description: "Huilin Shu is a Mid-career Ocean CDR researcher at Xiamen University in CN. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.935100
+date: 2026-07-11T11:05:44.274923
 url: "/cdr-researcher-census/researchers/huilin-shu-a5025546/"
 layout: "researcher"
 hiddenInHomeList: true

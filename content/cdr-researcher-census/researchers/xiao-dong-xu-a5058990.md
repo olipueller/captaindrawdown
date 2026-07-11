@@ -1,7 +1,7 @@
 ---
 title: "Xiao-Dong Xu"
 description: "Xiao-Dong Xu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.924035
+date: 2026-07-11T11:05:44.267261
 url: "/cdr-researcher-census/researchers/xiao-dong-xu-a5058990/"
 layout: "researcher"
 hiddenInHomeList: true

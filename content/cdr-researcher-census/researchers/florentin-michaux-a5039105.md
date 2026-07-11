@@ -1,7 +1,7 @@
 ---
 title: "Florentin Michaux"
 description: "Florentin Michaux is a Senior Biochar researcher at Laboratoire des Biomolécules in FR. With 44 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.427437
+date: 2026-07-11T11:05:43.057193
 url: "/cdr-researcher-census/researchers/florentin-michaux-a5039105/"
 layout: "researcher"
 hiddenInHomeList: true

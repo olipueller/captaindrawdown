@@ -1,7 +1,7 @@
 ---
 title: "Mirco Barbero"
 description: "Mirco Barbero is an Early-career Soil Carbon researcher at European Commission in BE. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.719448
+date: 2026-07-11T11:05:44.114707
 url: "/cdr-researcher-census/researchers/mirco-barbero-a5046944/"
 layout: "researcher"
 hiddenInHomeList: true

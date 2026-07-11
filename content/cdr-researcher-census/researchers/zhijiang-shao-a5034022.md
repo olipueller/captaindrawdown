@@ -1,7 +1,7 @@
 ---
 title: "Zhijiang Shao"
 description: "Zhijiang Shao is a Mid-career Biochar researcher at Agriculture and Forestry University in NP. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.256988
+date: 2026-07-11T11:05:43.650799
 url: "/cdr-researcher-census/researchers/zhijiang-shao-a5034022/"
 layout: "researcher"
 hiddenInHomeList: true

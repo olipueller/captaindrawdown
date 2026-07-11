@@ -1,7 +1,7 @@
 ---
 title: "Yaping Huang"
 description: "Yaping Huang is a Senior Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.573596
+date: 2026-07-11T11:05:43.164737
 url: "/cdr-researcher-census/researchers/yaping-huang-a5108370/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 637 |
 | Publications | 29 |
-| CDR Focus | 17.2% |
+| CDR Focus | 13.8% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

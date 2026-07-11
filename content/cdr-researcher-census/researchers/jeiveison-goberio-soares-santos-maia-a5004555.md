@@ -1,7 +1,7 @@
 ---
 title: "Jeiveison Gobério Soares Santos Maia"
 description: "Jeiveison Gobério Soares Santos Maia is a Mid-career General CDR researcher at Universidade Federal do Rio de Janeiro in BR. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.055285
+date: 2026-07-11T11:05:44.389495
 url: "/cdr-researcher-census/researchers/jeiveison-goberio-soares-santos-maia-a5004555/"
 layout: "researcher"
 hiddenInHomeList: true

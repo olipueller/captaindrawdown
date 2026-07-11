@@ -1,7 +1,7 @@
 ---
 title: "Qiliang Huang"
 description: "Qiliang Huang is a Mid-career Soil Carbon researcher at Sanya University in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.099788
+date: 2026-07-11T11:05:44.403413
 url: "/cdr-researcher-census/researchers/qiliang-huang-a5083033/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 107 |
 | Publications | 14 |
-| CDR Focus | 50.0% |
+| CDR Focus | 35.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

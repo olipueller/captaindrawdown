@@ -1,7 +1,7 @@
 ---
 title: "Gongning Chen"
 description: "Gongning Chen is a Mid-career Soil Carbon researcher at Guilin University of Technology in CN. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.791869
+date: 2026-07-11T11:05:43.341674
 url: "/cdr-researcher-census/researchers/gongning-chen-a5101740/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 441 |
 | Publications | 23 |
-| CDR Focus | 13.0% |
+| CDR Focus | 8.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

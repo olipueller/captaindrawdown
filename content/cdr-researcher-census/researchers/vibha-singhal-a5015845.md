@@ -1,7 +1,7 @@
 ---
 title: "Vibha Singhal"
 description: "Vibha Singhal is a Senior Soil Carbon researcher at UCLA Health in US. With 139 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.057829
+date: 2026-07-11T11:05:42.838002
 url: "/cdr-researcher-census/researchers/vibha-singhal-a5015845/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 31 |
 | Citations | 3,283 |
 | Publications | 139 |
-| CDR Focus | 5.8% |
+| CDR Focus | 5.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

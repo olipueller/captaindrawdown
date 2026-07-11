@@ -1,7 +1,7 @@
 ---
 title: "Samuel Adingo"
 description: "Samuel Adingo is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.185871
+date: 2026-07-11T11:05:43.600854
 url: "/cdr-researcher-census/researchers/samuel-adingo-a5055540/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 274 |
 | Publications | 28 |
-| CDR Focus | 17.9% |
+| CDR Focus | 10.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Claudia Traboni"
 description: "Claudia Traboni is a Mid-career Ocean CDR researcher at Stazione Zoologica Anton Dohrn in IT. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.977460
+date: 2026-07-11T11:05:43.470956
 url: "/cdr-researcher-census/researchers/claudia-traboni-a5046342/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 7 |
 | Citations | 342 |
 | Publications | 23 |
-| CDR Focus | 21.7% |
+| CDR Focus | 13.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Abdulrahman Alalawi"
 description: "Abdulrahman Alalawi is a Mid-career General CDR researcher at UNSW Sydney in AU. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.674947
+date: 2026-07-11T11:05:44.081570
 url: "/cdr-researcher-census/researchers/abdulrahman-alalawi-a5062919/"
 layout: "researcher"
 hiddenInHomeList: true

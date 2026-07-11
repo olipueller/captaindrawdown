@@ -1,7 +1,7 @@
 ---
 title: "Fahime Salmani"
 description: "Fahime Salmani is a Mid-career General CDR researcher at Gyeongguk National University in KR. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.500668
+date: 2026-07-11T11:05:43.828114
 url: "/cdr-researcher-census/researchers/fahime-salmani-a5011606/"
 layout: "researcher"
 hiddenInHomeList: true

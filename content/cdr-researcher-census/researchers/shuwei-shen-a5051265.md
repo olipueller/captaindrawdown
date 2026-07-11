@@ -1,7 +1,7 @@
 ---
 title: "Shuwei Shen"
 description: "Shuwei Shen is a Senior Soil Carbon researcher at Nanjing Tech University in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.818612
+date: 2026-07-11T11:05:43.361877
 url: "/cdr-researcher-census/researchers/shuwei-shen-a5051265/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,13 +42,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 424 |
 | Publications | 15 |
-| CDR Focus | 6.7% |
-| Trajectory | Exiting |
+| CDR Focus | 20.0% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Long-term tillage and cropping systems affect soil organic carbon components and mineralization in aggregates in semiarid regions** (2023)
    51 citations · Soil Carbon
+
+2. **Soil nitrogen level controls biochar's enhancement of microbial-derived carbon sequestration** (2026)
+   0 citations · Biochar
+
+3. **Soil Organic Carbon Sequestration of Long-, Two-Term Rotational Tillage in a Semiarid Region: Aggregate-Associated OC Concentrations and Mineralization** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

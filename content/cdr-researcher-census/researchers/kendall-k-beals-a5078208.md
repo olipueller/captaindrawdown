@@ -1,7 +1,7 @@
 ---
 title: "Kendall K. Beals"
 description: "Kendall K. Beals is a Mid-career Soil Carbon researcher at San Diego State University in US. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.963962
+date: 2026-07-11T11:05:43.461204
 url: "/cdr-researcher-census/researchers/kendall-k-beals-a5078208/"
 layout: "researcher"
 hiddenInHomeList: true

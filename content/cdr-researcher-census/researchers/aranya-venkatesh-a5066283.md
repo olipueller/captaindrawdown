@@ -1,7 +1,7 @@
 ---
 title: "Aranya Venkatesh"
 description: "Aranya Venkatesh is a Senior General CDR researcher at Electric Power Research Institute in US. With 42 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.298264
+date: 2026-07-11T11:05:42.973022
 url: "/cdr-researcher-census/researchers/aranya-venkatesh-a5066283/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 16 |
 | Citations | 1,238 |
 | Publications | 42 |
-| CDR Focus | 14.3% |
+| CDR Focus | 11.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

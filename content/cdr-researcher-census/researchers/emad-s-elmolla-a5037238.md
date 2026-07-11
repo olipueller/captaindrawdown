@@ -1,7 +1,7 @@
 ---
 title: "Emad S. Elmolla"
 description: "Emad S. Elmolla is a Senior Biochar researcher at Al-Azhar University in EG. With 27 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.094541
+date: 2026-07-11T11:05:42.857022
 url: "/cdr-researcher-census/researchers/emad-s-elmolla-a5037238/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Oscar Iu‐Fan Chen"
 description: "Oscar Iu‐Fan Chen is a Mid-career General CDR researcher at University of California System in US. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.521459
+date: 2026-07-11T11:05:43.126537
 url: "/cdr-researcher-census/researchers/oscar-iufan-chen-a5018952/"
 layout: "researcher"
 hiddenInHomeList: true

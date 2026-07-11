@@ -1,7 +1,7 @@
 ---
 title: "Lauren K. Jabusch"
 description: "Lauren K. Jabusch is a Mid-career General CDR researcher at Lawrence Berkeley National Laboratory in US. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.834063
+date: 2026-07-11T11:05:44.200658
 url: "/cdr-researcher-census/researchers/lauren-k-jabusch-a5072807/"
 layout: "researcher"
 hiddenInHomeList: true

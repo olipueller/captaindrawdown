@@ -1,7 +1,7 @@
 ---
 title: "Viesturs Ozols"
 description: "Viesturs Ozols is a Mid-career General CDR researcher at University of Latvia in LV. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.689910
+date: 2026-07-11T11:05:44.092389
 url: "/cdr-researcher-census/researchers/viesturs-ozols-a5052214/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "David M. Thierry"
 description: "David M. Thierry is a Mid-career General CDR researcher at Georgia Institute of Technology in US. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.844173
+date: 2026-07-11T11:05:44.208440
 url: "/cdr-researcher-census/researchers/david-m-thierry-a5088900/"
 layout: "researcher"
 hiddenInHomeList: true

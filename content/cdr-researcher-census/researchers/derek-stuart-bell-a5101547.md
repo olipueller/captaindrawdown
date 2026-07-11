@@ -1,7 +1,7 @@
 ---
 title: "Derek Stuart Bell"
 description: "Derek Stuart Bell is a Senior Enhanced Weathering researcher at Zero Emissions Resource Organisation in NO. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.698308
+date: 2026-07-11T11:05:44.098546
 url: "/cdr-researcher-census/researchers/derek-stuart-bell-a5101547/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,21 +45,24 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 3 |
 | Citations | 156 |
 | Publications | 7 |
-| CDR Focus | 57.1% |
-| Trajectory | Declining |
+| CDR Focus | 71.4% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Enhanced Rock Weathering in Grassland: Benefits and Risks of Basalt Rock Dust to Soils, Forage Production, and Floristic Diversity in a Slightly Acidic Hay Meadow** (2024)
    4 citations · Enhanced Weathering
 
-2. **Using Self-Integrating Accumulators (SIAs) to Monitor Enhanced Rock Weathering (ERW) in German Agricultural Fields** (2026)
+2. **Enhanced rock weathering in grassland: Impacts of basalt dust on hay meadow soil, forage, and floristic diversity** (2026)
    0 citations · Enhanced Weathering
 
-3. **The role of carbonic anhydrase in rock weathering and pH regulation by the soil bacterium <i>Burkholderia thailandensis</i> E264** (2024)
+3. **Using Self-Integrating Accumulators (SIAs) to Monitor Enhanced Rock Weathering (ERW) in German Agricultural Fields** (2026)
    0 citations · Enhanced Weathering
 
-4. **Enhanced Rock Weatherings Effects on Soil and Plant Chemistry in Acidic Biodiverse Grassland** (2024)
+4. **The role of carbonic anhydrase in rock weathering and pH regulation by the soil bacterium <i>Burkholderia thailandensis</i> E264** (2024)
+   0 citations · Enhanced Weathering
+
+5. **Enhanced Rock Weatherings Effects on Soil and Plant Chemistry in Acidic Biodiverse Grassland** (2024)
    0 citations · Enhanced Weathering
 
 ## External Profiles

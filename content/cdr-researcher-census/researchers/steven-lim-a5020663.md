@@ -1,7 +1,7 @@
 ---
 title: "Steven Lim"
 description: "Steven Lim is an Early-career Biochar researcher at Universiti Tunku Abdul Rahman in MY. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.678698
+date: 2026-07-11T11:05:44.084089
 url: "/cdr-researcher-census/researchers/steven-lim-a5020663/"
 layout: "researcher"
 hiddenInHomeList: true

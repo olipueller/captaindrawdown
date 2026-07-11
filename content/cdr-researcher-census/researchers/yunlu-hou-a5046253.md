@@ -1,7 +1,7 @@
 ---
 title: "Yunlu Hou"
 description: "Yunlu Hou is a Mid-career Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.158382
+date: 2026-07-11T11:05:43.580543
 url: "/cdr-researcher-census/researchers/yunlu-hou-a5046253/"
 layout: "researcher"
 hiddenInHomeList: true

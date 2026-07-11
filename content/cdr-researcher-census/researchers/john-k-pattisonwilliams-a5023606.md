@@ -1,7 +1,7 @@
 ---
 title: "John K. Pattison‐Williams"
 description: "John K. Pattison‐Williams is a Mid-career Soil Carbon researcher at University of Alberta in CA. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.144073
+date: 2026-07-11T11:05:43.570569
 url: "/cdr-researcher-census/researchers/john-k-pattisonwilliams-a5023606/"
 layout: "researcher"
 hiddenInHomeList: true

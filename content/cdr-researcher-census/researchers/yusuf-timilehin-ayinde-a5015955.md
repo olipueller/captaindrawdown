@@ -1,7 +1,7 @@
 ---
 title: "Yusuf Timilehin Ayinde"
 description: "Yusuf Timilehin Ayinde is an Early-career Biochar researcher at Federal University of Technology in NG. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.537733
+date: 2026-07-11T11:05:43.896366
 url: "/cdr-researcher-census/researchers/yusuf-timilehin-ayinde-a5015955/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 2 |
 | Citations | 185 |
 | Publications | 2 |
-| CDR Focus | 100.0% |
+| CDR Focus | 50.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Xiuyuan Peng"
 description: "Xiuyuan Peng is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.639096
+date: 2026-07-11T11:05:43.232636
 url: "/cdr-researcher-census/researchers/xiuyuan-peng-a5077202/"
 layout: "researcher"
 hiddenInHomeList: true

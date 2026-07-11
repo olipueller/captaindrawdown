@@ -1,7 +1,7 @@
 ---
 title: "Marta Moreno-González"
 description: "Marta Moreno-González is a Mid-career General CDR researcher. With 11 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.557086
+date: 2026-07-11T11:05:43.151958
 url: "/cdr-researcher-census/researchers/marta-moreno-gonzalez-a5015154/"
 layout: "researcher"
 hiddenInHomeList: true

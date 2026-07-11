@@ -1,7 +1,7 @@
 ---
 title: "M. Isabel Smith"
 description: "M. Isabel Smith is an Early-career Soil Carbon researcher at University of Southern California in US. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.165091
+date: 2026-07-11T11:05:44.449771
 url: "/cdr-researcher-census/researchers/m-isabel-smith-a5062408/"
 layout: "researcher"
 hiddenInHomeList: true

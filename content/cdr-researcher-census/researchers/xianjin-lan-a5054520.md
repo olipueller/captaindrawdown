@@ -1,7 +1,7 @@
 ---
 title: "Xianjin Lan"
 description: "Xianjin Lan is a Mid-career Soil Carbon researcher at Jiangxi Institute of Red Soil in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.225568
+date: 2026-07-11T11:05:43.629030
 url: "/cdr-researcher-census/researchers/xianjin-lan-a5054520/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 261 |
 | Publications | 13 |
-| CDR Focus | 15.4% |
-| Trajectory | Stable |
+| CDR Focus | 23.1% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
@@ -52,6 +52,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 2. **Long-Term Effect of Fertilizations on Yield Sustainability, Soil Organic Carbon Sequestration and Apparent Phosphorus Balance in Acidic Paddy Soil** (2022)
    13 citations · Soil Carbon
+
+3. **Organic Manure with Chemical Fertilizers Improves Rice Productivity and Decreases N2O Emissions by Increasing Soil Nitrogen Sequestration** (2025)
+   1 citations · Soil Carbon
 
 ## External Profiles
 

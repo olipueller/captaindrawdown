@@ -1,7 +1,7 @@
 ---
 title: "Yinren Tao"
 description: "Yinren Tao is a Mid-career Soil Carbon researcher at Xiamen University in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.608740
+date: 2026-07-11T11:05:44.005501
 url: "/cdr-researcher-census/researchers/yinren-tao-a5067287/"
 layout: "researcher"
 hiddenInHomeList: true

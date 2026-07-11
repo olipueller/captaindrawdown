@@ -1,7 +1,7 @@
 ---
 title: "Ajay Kumar"
 description: "Ajay Kumar is an Early-career Soil Carbon researcher at National Bureau of Plant Genetic Resources in IN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.397469
+date: 2026-07-11T11:05:43.748025
 url: "/cdr-researcher-census/researchers/ajay-kumar-a5085587/"
 layout: "researcher"
 hiddenInHomeList: true

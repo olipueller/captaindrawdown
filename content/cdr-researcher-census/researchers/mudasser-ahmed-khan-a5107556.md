@@ -1,7 +1,7 @@
 ---
 title: "Mudasser Ahmed Khan"
 description: "Mudasser Ahmed Khan is a Mid-career Soil Carbon researcher. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.059236
+date: 2026-07-11T11:05:44.392698
 url: "/cdr-researcher-census/researchers/mudasser-ahmed-khan-a5107556/"
 layout: "researcher"
 hiddenInHomeList: true

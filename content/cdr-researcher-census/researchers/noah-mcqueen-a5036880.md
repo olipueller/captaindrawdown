@@ -1,7 +1,7 @@
 ---
 title: "Noah McQueen"
-description: "Noah McQueen is a Mid-career DAC researcher at Carbon Carbon Advanced Technologies (United States) in US. With 25 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.119406
+description: "Noah McQueen is a Mid-career General CDR researcher at Carbon Carbon Advanced Technologies (United States) in US. With 25 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:42.867764
 url: "/cdr-researcher-census/researchers/noah-mcqueen-a5036880/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Carbon Carbon Advanced Technologies (United States) · 🇺🇸 US
 
 ## CDR Specialization
 
-**DAC**
+**General CDR**
 
-Removing CO₂ directly from ambient air using chemical sorbents or solvents.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,8 +45,8 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 12 |
 | Citations | 2,374 |
 | Publications | 25 |
-| CDR Focus | 48.0% |
-| Trajectory | Stable |
+| CDR Focus | 36.0% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
@@ -71,14 +71,14 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 7. **Direct Air Capture: Resource Considerations and Costs for Carbon Removal** (2021)
    10 citations · DAC
 
-8. **The cost of direct air capture and storage: the impact of technological learning, regional diversity, and policy.** (2022)
-   5 citations · DAC
+8. **Advancements in cost-effective direct air capture technology** (2024)
+   8 citations
 
 9. **The cost of direct air capture and storage: the impact of technological learning, regional diversity, and policy.** (2022)
-   4 citations
+   5 citations · DAC
 
-10. **Prospective life cycle assessment of megatonne-scale direct air carbon capture and storage via calcium-looping** (2025)
-   0 citations · DAC
+10. **The cost of direct air capture and storage: the impact of technological learning, regional diversity, and policy.** (2022)
+   4 citations
 
 ## External Profiles
 

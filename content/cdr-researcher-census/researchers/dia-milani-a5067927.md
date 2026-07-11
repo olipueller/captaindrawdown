@@ -1,7 +1,7 @@
 ---
 title: "Dia Milani"
 description: "Dia Milani is a Senior General CDR researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 65 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.086948
+date: 2026-07-11T11:05:42.853090
 url: "/cdr-researcher-census/researchers/dia-milani-a5067927/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 26 |
 | Citations | 2,775 |
 | Publications | 65 |
-| CDR Focus | 13.8% |
-| Trajectory | Growing |
+| CDR Focus | 12.3% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

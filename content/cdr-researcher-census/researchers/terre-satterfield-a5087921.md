@@ -1,7 +1,7 @@
 ---
 title: "Terre Satterfield"
 description: "Terre Satterfield is an Eminent General CDR researcher at University of British Columbia in CA. With 190 publications and an h-index of 48, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.886364
+date: 2026-07-11T11:05:42.776988
 url: "/cdr-researcher-census/researchers/terre-satterfield-a5087921/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 48 |
 | Citations | 13,086 |
 | Publications | 190 |
-| CDR Focus | 10.5% |
-| Trajectory | Declining |
+| CDR Focus | 6.8% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

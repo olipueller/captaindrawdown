@@ -1,7 +1,7 @@
 ---
 title: "Naresh Singh"
 description: "Naresh Singh is a Senior Soil Carbon researcher at Veer Chandra Singh Garhwali Uttarakhand University of Horticulture & Forestry in IN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.787925
+date: 2026-07-11T11:05:44.165938
 url: "/cdr-researcher-census/researchers/naresh-singh-a5100926/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 143 |
 | Publications | 5 |
-| CDR Focus | 40.0% |
+| CDR Focus | 20.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

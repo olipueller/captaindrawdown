@@ -1,7 +1,7 @@
 ---
 title: "Harshil Thakkar"
 description: "Harshil Thakkar is an Early-career Biochar researcher at Maharaja Sayajirao University of Baroda in IN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.156234
+date: 2026-07-11T11:05:44.443698
 url: "/cdr-researcher-census/researchers/harshil-thakkar-a5022261/"
 layout: "researcher"
 hiddenInHomeList: true

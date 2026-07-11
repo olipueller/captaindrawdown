@@ -1,7 +1,7 @@
 ---
 title: "Agapi Vasileiadou"
 description: "Agapi Vasileiadou is a Mid-career General CDR researcher at University of Thessaly in GR. With 19 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.049244
+date: 2026-07-11T11:05:43.520719
 url: "/cdr-researcher-census/researchers/agapi-vasileiadou-a5010706/"
 layout: "researcher"
 hiddenInHomeList: true

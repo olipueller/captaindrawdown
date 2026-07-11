@@ -1,7 +1,7 @@
 ---
 title: "Lucas Pecci Canisares"
 description: "Lucas Pecci Canisares is a Mid-career Soil Carbon researcher at University of Kentucky in US. With 48 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.696313
+date: 2026-07-11T11:05:43.271872
 url: "/cdr-researcher-census/researchers/lucas-pecci-canisares-a5048656/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 512 |
 | Publications | 48 |
-| CDR Focus | 25.0% |
+| CDR Focus | 22.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

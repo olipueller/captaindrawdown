@@ -1,7 +1,7 @@
 ---
 title: "Mike Beare"
 description: "Mike Beare is an Eminent Soil Carbon researcher at New Zealand Institute for Plant and Food Research Limited in NZ. With 180 publications and an h-index of 51, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.889430
+date: 2026-07-11T11:05:42.777405
 url: "/cdr-researcher-census/researchers/mike-beare-a5078129/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 51 |
 | Citations | 12,786 |
 | Publications | 180 |
-| CDR Focus | 5.6% |
-| Trajectory | Declining |
+| CDR Focus | 5.0% |
+| Trajectory | Exiting |
 
 ## Top CDR Publications
 

@@ -1,7 +1,7 @@
 ---
 title: "Pranjali Priyadarshini"
 description: "Pranjali Priyadarshini is a Mid-career General CDR researcher at Georgia Institute of Technology in US. With 15 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.362474
+date: 2026-07-11T11:05:43.015114
 url: "/cdr-researcher-census/researchers/pranjali-priyadarshini-a5047724/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 14 |
 | Citations | 1,032 |
 | Publications | 15 |
-| CDR Focus | 40.0% |
-| Trajectory | Exiting |
+| CDR Focus | 6.7% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

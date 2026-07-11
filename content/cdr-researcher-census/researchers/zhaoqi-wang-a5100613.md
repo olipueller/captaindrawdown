@@ -1,7 +1,7 @@
 ---
 title: "Zhaoqi Wang"
 description: "Zhaoqi Wang is a Senior Soil Carbon researcher at Peking University in CN. With 59 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.163787
+date: 2026-07-11T11:05:42.891321
 url: "/cdr-researcher-census/researchers/zhaoqi-wang-a5100613/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 21 |
 | Citations | 1,978 |
 | Publications | 59 |
-| CDR Focus | 6.8% |
+| CDR Focus | 5.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Jialin Yang"
 description: "Jialin Yang is a Mid-career Soil Carbon researcher. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.444877
+date: 2026-07-11T11:05:43.780608
 url: "/cdr-researcher-census/researchers/jialin-yang-a5089116/"
 layout: "researcher"
 hiddenInHomeList: true

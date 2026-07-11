@@ -1,7 +1,7 @@
 ---
 title: "Baolin Wang"
 description: "Baolin Wang is a Senior Enhanced Weathering researcher at Qilu University of Technology in CN. With 45 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.763416
+date: 2026-07-11T11:05:43.322166
 url: "/cdr-researcher-census/researchers/baolin-wang-a5100648/"
 layout: "researcher"
 hiddenInHomeList: true

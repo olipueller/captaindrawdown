@@ -1,7 +1,7 @@
 ---
 title: "Braden Crowe"
 description: "Braden Crowe is a Mid-career Ocean CDR researcher. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.508933
+date: 2026-07-11T11:05:43.115742
 url: "/cdr-researcher-census/researchers/braden-crowe-a5069310/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -41,17 +41,20 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | Citations | 730 |
 | Publications | 16 |
 | CDR Focus | 18.8% |
-| Trajectory | Exiting |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **A newly isolated alkaliphilic cyanobacterium for biomass production with direct air CO2 capture** (2023)
    21 citations
 
-2. **Mass transfer coefficients, kL, and air-CO2 ingassing rates in 3.4 m2 and 1-acre raceway ponds.** (2022)
+2. **Microalgae Commodities Production with a Direct Air Capture Process (Final Technical Report)** (2026)
+   0 citations · DAC
+
+3. **Mass transfer coefficients, kL, and air-CO2 ingassing rates in 3.4 m2 and 1-acre raceway ponds.** (2022)
    0 citations · Ocean CDR
 
-3. **Air Carbon for Algae Production (AirCAP) – Expanding algae resource potential via direct (in-pond) air-CO2 capture.** (2024)
+4. **Air Carbon for Algae Production (AirCAP) – Expanding algae resource potential via direct (in-pond) air-CO2 capture.** (2024)
    0 citations · Ocean CDR
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Nico Lange"
 description: "Nico Lange is a Senior Ocean CDR researcher at NORCE Research AS in NO. With 59 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.349917
+date: 2026-07-11T11:05:43.006871
 url: "/cdr-researcher-census/researchers/nico-lange-a5049734/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 13 |
 | Citations | 1,068 |
 | Publications | 59 |
-| CDR Focus | 13.6% |
-| Trajectory | Declining |
+| CDR Focus | 5.1% |
+| Trajectory | Exiting |
 
 ## Top CDR Publications
 

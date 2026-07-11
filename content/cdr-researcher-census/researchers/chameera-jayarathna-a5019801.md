@@ -1,7 +1,7 @@
 ---
 title: "Chameera Jayarathna"
 description: "Chameera Jayarathna is a Mid-career Ocean CDR researcher at Norsk Hydro (Norway) in NO. With 37 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.802343
+date: 2026-07-11T11:05:43.349268
 url: "/cdr-researcher-census/researchers/chameera-jayarathna-a5019801/"
 layout: "researcher"
 hiddenInHomeList: true

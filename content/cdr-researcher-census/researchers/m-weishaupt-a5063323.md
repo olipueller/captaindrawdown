@@ -1,7 +1,7 @@
 ---
 title: "M. Weishaupt"
 description: "M. Weishaupt is a Senior General CDR researcher at NewClimate Institute in DE. With 13 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.917821
+date: 2026-07-11T11:05:44.262595
 url: "/cdr-researcher-census/researchers/m-weishaupt-a5063323/"
 layout: "researcher"
 hiddenInHomeList: true

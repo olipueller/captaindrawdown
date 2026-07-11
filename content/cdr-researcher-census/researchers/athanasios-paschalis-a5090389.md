@@ -1,7 +1,7 @@
 ---
 title: "Athanasios Paschalis"
 description: "Athanasios Paschalis is a Senior General CDR researcher at Imperial College London in GB. With 156 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.087708
+date: 2026-07-11T11:05:42.853620
 url: "/cdr-researcher-census/researchers/athanasios-paschalis-a5090389/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 28 |
 | Citations | 2,754 |
 | Publications | 156 |
-| CDR Focus | 6.4% |
+| CDR Focus | 5.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

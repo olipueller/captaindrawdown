@@ -1,7 +1,7 @@
 ---
 title: "Matthew P. Kirley"
 description: "Matthew P. Kirley is a Mid-career General CDR researcher at Retina Macula Institute in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.262547
+date: 2026-07-11T11:05:43.654247
 url: "/cdr-researcher-census/researchers/matthew-p-kirley-a5064144/"
 layout: "researcher"
 hiddenInHomeList: true

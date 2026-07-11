@@ -1,7 +1,7 @@
 ---
 title: "B. Kalaiselvi"
 description: "B. Kalaiselvi is a Mid-career Soil Carbon researcher at ACS Medical College and Hospital in IN. With 82 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.662162
+date: 2026-07-11T11:05:43.247792
 url: "/cdr-researcher-census/researchers/b-kalaiselvi-a5022910/"
 layout: "researcher"
 hiddenInHomeList: true

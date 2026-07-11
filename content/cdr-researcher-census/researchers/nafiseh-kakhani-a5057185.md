@@ -1,7 +1,7 @@
 ---
 title: "Nafiseh Kakhani"
 description: "Nafiseh Kakhani is a Mid-career Soil Carbon researcher. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.974988
+date: 2026-07-11T11:05:44.308258
 url: "/cdr-researcher-census/researchers/nafiseh-kakhani-a5057185/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 119 |
 | Publications | 17 |
-| CDR Focus | 11.8% |
+| CDR Focus | 5.9% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

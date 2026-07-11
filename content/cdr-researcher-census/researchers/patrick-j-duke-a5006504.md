@@ -1,7 +1,7 @@
 ---
 title: "Patrick J. Duke"
 description: "Patrick J. Duke is a Mid-career Ocean CDR researcher at University of Victoria in CA. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.134403
+date: 2026-07-11T11:05:43.563339
 url: "/cdr-researcher-census/researchers/patrick-j-duke-a5006504/"
 layout: "researcher"
 hiddenInHomeList: true

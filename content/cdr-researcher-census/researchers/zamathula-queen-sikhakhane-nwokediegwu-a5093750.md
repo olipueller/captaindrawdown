@@ -1,7 +1,7 @@
 ---
 title: "Zamathula Queen Sikhakhane Nwokediegwu"
 description: "Zamathula Queen Sikhakhane Nwokediegwu is a Mid-career Biochar researcher. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.899757
+date: 2026-07-11T11:05:43.417102
 url: "/cdr-researcher-census/researchers/zamathula-queen-sikhakhane-nwokediegwu-a5093750/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -37,7 +37,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 10 |
 | Citations | 378 |
 | Publications | 18 |
-| CDR Focus | 11.1% |
+| CDR Focus | 5.6% |
 | Trajectory | Unknown |
 
 ## Top CDR Publications

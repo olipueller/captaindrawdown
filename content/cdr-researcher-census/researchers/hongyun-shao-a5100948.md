@@ -1,7 +1,7 @@
 ---
 title: "Hongyun Shao"
 description: "Hongyun Shao is a Senior Soil Carbon researcher at Shanghai University in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.649140
+date: 2026-07-11T11:05:44.057628
 url: "/cdr-researcher-census/researchers/hongyun-shao-a5100948/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 165 |
 | Publications | 14 |
-| CDR Focus | 14.3% |
+| CDR Focus | 21.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -52,6 +52,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 2. **In-situ and long-lasting oxidation of SMX by Mg/Al-PDS LDH in soil: Key role of solid-phase activation and CO2 effect** (2025)
    7 citations · Soil Carbon
+
+3. **Hydrochar Utilization for Saline‐Alkali Soil Amelioration and Its Carbon Sequestration Potential Assessment** (2024)
+   7 citations · Biochar
 
 ## External Profiles
 

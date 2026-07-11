@@ -1,7 +1,7 @@
 ---
 title: "Tairui Liu"
 description: "Tairui Liu is a Mid-career Soil Carbon researcher at Guangxi University in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.931794
+date: 2026-07-11T11:05:44.272199
 url: "/cdr-researcher-census/researchers/tairui-liu-a5015976/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Michael S. Shafer"
 description: "Michael S. Shafer is a Senior General CDR researcher at Heart Foundation in US. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.902135
+date: 2026-07-11T11:05:43.418971
 url: "/cdr-researcher-census/researchers/michael-s-shafer-a5101963/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 6 |
 | Citations | 377 |
 | Publications | 16 |
-| CDR Focus | 25.0% |
+| CDR Focus | 31.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -53,13 +53,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 1. **Whose Carbon Capture? A Bit of Good News** (2023)
    2 citations · Biochar
 
-2. **The Challenge and Opportunity for the Reduction of Atmospheric Carbon: MRV for Artisanal (or Distributed) Biochar** (2025)
+2. **Can an NGO Create Value and Achieve Economic Sustainability at the Same Time? Verifying Smallholder Carbon Sequestration Using Low-Tech Biochar** (2022)
+   1 citations · Biochar
+
+3. **The Challenge and Opportunity for the Reduction of Atmospheric Carbon: MRV for Artisanal (or Distributed) Biochar** (2025)
    0 citations · Biochar
 
-3. **Biochar: Not Just Carbon Removal but a Path to Global Resilience** (2025)
+4. **Biochar: Not Just Carbon Removal but a Path to Global Resilience** (2025)
    0 citations · Biochar
 
-4. **Why not Artisanal Biochar? A Biochar Life, PBC Case Study** (2024)
+5. **Why not Artisanal Biochar? A Biochar Life, PBC Case Study** (2024)
    0 citations · Biochar
 
 ## External Profiles

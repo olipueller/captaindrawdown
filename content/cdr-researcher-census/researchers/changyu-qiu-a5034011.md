@@ -1,7 +1,7 @@
 ---
 title: "Changyu Qiu"
-description: "Changyu Qiu is a Mid-career Unknown researcher at Chinese Academy of Sciences in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.778843
+description: "Changyu Qiu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:43.333424
 url: "/cdr-researcher-census/researchers/changyu-qiu-a5034011/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Chinese Academy of Sciences · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Unknown**
+**Soil Carbon**
 
-Unknown
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
@@ -50,7 +50,10 @@ Unknown
 
 ## Top CDR Publications
 
-1. **Dynamic Heat Transfer Modelling and Thermal Performance Evaluation for Cadmium Telluride-Based Vacuum Photovoltaic Glazing** (2025)
+1. **Mulberry (Morus alba L.) planting increased the abundance of soil carbon cycling functional genes by improving soil properties, and further enhanced the stability of soil carbon pool** (2025)
+   1 citations · Soil Carbon
+
+2. **Dynamic Heat Transfer Modelling and Thermal Performance Evaluation for Cadmium Telluride-Based Vacuum Photovoltaic Glazing** (2025)
    0 citations
 
 ## External Profiles

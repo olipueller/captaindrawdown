@@ -1,7 +1,7 @@
 ---
 title: "Lettice C. Hicks"
 description: "Lettice C. Hicks is a Senior Soil Carbon researcher at Lund University in SE. With 74 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.257283
+date: 2026-07-11T11:05:42.946593
 url: "/cdr-researcher-census/researchers/lettice-c-hicks-a5007050/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 21 |
 | Citations | 1,409 |
 | Publications | 74 |
-| CDR Focus | 8.1% |
-| Trajectory | Stable |
+| CDR Focus | 5.4% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

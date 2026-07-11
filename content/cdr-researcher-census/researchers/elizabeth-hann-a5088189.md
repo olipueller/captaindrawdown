@@ -1,7 +1,7 @@
 ---
 title: "Elizabeth Hann"
 description: "Elizabeth Hann is a Mid-career Ocean CDR researcher at University of California, Riverside in US. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.606288
+date: 2026-07-11T11:05:43.211142
 url: "/cdr-researcher-census/researchers/elizabeth-hann-a5088189/"
 layout: "researcher"
 hiddenInHomeList: true

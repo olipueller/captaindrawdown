@@ -1,7 +1,7 @@
 ---
 title: "Yun-Zhong Dong"
 description: "Yun-Zhong Dong is an Early-career Soil Carbon researcher at Shanxi Academy of Agricultural Sciences in CN. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.805844
+date: 2026-07-11T11:05:44.179439
 url: "/cdr-researcher-census/researchers/yun-zhong-dong-a5030323/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 2 |
 | Citations | 140 |
 | Publications | 3 |
-| CDR Focus | 66.7% |
+| CDR Focus | 33.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

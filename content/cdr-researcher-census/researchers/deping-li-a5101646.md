@@ -1,7 +1,7 @@
 ---
 title: "Deping Li"
 description: "Deping Li is a Mid-career Soil Carbon researcher at Shanghai Jiao Tong University in CN. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.635675
+date: 2026-07-11T11:05:43.230527
 url: "/cdr-researcher-census/researchers/deping-li-a5101646/"
 layout: "researcher"
 hiddenInHomeList: true

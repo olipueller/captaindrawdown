@@ -1,7 +1,7 @@
 ---
 title: "Erik Karltun"
 description: "Erik Karltun is a Senior Biochar researcher at Swedish University of Agricultural Sciences in SE. With 115 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.005164
+date: 2026-07-11T11:05:42.816095
 url: "/cdr-researcher-census/researchers/erik-karltun-a5078282/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 34 |
 | Citations | 4,367 |
 | Publications | 115 |
-| CDR Focus | 7.8% |
+| CDR Focus | 6.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Maridee Weber"
 description: "Maridee Weber is a Mid-career General CDR researcher at Joint Global Change Research Institute in US. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.256177
+date: 2026-07-11T11:05:43.650310
 url: "/cdr-researcher-census/researchers/maridee-weber-a5034531/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 5 |
 | Citations | 251 |
 | Publications | 19 |
-| CDR Focus | 47.4% |
-| Trajectory | Declining |
+| CDR Focus | 31.6% |
+| Trajectory | Exiting |
 
 ## Top CDR Publications
 

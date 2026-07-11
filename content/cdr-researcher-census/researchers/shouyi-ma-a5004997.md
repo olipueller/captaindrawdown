@@ -1,7 +1,7 @@
 ---
 title: "Shouyi Ma"
 description: "Shouyi Ma is a Mid-career Biochar researcher at Northeast Agricultural University in CN. With 9 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.583234
+date: 2026-07-11T11:05:43.179934
 url: "/cdr-researcher-census/researchers/shouyi-ma-a5004997/"
 layout: "researcher"
 hiddenInHomeList: true

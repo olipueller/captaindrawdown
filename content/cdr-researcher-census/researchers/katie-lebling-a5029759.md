@@ -1,7 +1,7 @@
 ---
 title: "Katie Lebling"
 description: "Katie Lebling is a Mid-career General CDR researcher. With 52 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.340667
+date: 2026-07-11T11:05:43.708508
 url: "/cdr-researcher-census/researchers/katie-lebling-a5029759/"
 layout: "researcher"
 hiddenInHomeList: true

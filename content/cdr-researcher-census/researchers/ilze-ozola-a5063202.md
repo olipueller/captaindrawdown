@@ -1,7 +1,7 @@
 ---
 title: "Ilze Ozola"
 description: "Ilze Ozola is a Mid-career Soil Carbon researcher. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.372513
+date: 2026-07-11T11:05:43.730824
 url: "/cdr-researcher-census/researchers/ilze-ozola-a5063202/"
 layout: "researcher"
 hiddenInHomeList: true

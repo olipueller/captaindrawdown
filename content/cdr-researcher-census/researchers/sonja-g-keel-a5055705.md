@@ -1,7 +1,7 @@
 ---
 title: "Sonja G. Keel"
 description: "Sonja G. Keel is a Senior General CDR researcher at Agroscope in CH. With 65 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.046057
+date: 2026-07-11T11:05:42.833703
 url: "/cdr-researcher-census/researchers/sonja-g-keel-a5055705/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 23 |
 | Citations | 3,433 |
 | Publications | 65 |
-| CDR Focus | 13.8% |
+| CDR Focus | 10.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -65,16 +65,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 5. **Efficiency of Plant Biomass Processing Pathways for Long‐Term Soil Carbon Storage** (2025)
    9 citations · General CDR
 
-6. **Efficiency of plant biomass processing pathways for long-term soil carbon storage** (2025)
-   0 citations
+6. **Feasible Carbon Sequestration Potential in European Agricultural Mineral Soils Through Improved Management** (2026)
+   1 citations · Biochar
 
-7. **Realistic soil carbon sequestration considering food security and climate change** (2022)
+7. **Efficiency of plant biomass processing pathways for long-term soil carbon storage** (2025)
    0 citations
 
 8. **Realistic soil carbon sequestration considering food security and climate change** (2022)
+   0 citations
+
+9. **Realistic soil carbon sequestration considering food security and climate change** (2022)
    0 citations · General CDR
 
-9. **Soil carbon sequestration in Switzerland: analysis of potentials and measures (Postulate Bourgeois 19.3639)** (2021)
+10. **Soil carbon sequestration in Switzerland: analysis of potentials and measures (Postulate Bourgeois 19.3639)** (2021)
    0 citations · General CDR
 
 ## External Profiles

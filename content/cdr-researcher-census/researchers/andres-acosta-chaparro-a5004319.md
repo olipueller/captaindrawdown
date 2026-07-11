@@ -1,7 +1,7 @@
 ---
 title: "Andrés Acosta Chaparro"
 description: "Andrés Acosta Chaparro is a Mid-career Ocean CDR researcher at José Benito Vives de Andréis Marine and Coastal Research Institute in CO. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.371610
+date: 2026-07-11T11:05:43.729910
 url: "/cdr-researcher-census/researchers/andres-acosta-chaparro-a5004319/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 4 |
 | Citations | 221 |
 | Publications | 8 |
-| CDR Focus | 25.0% |
+| CDR Focus | 12.5% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

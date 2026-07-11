@@ -1,7 +1,7 @@
 ---
 title: "Marie‐Liesse Aubertin"
 description: "Marie‐Liesse Aubertin is a Mid-career Soil Carbon researcher at IFP Énergies nouvelles in FR. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.629393
+date: 2026-07-11T11:05:44.036739
 url: "/cdr-researcher-census/researchers/marieliesse-aubertin-a5084976/"
 layout: "researcher"
 hiddenInHomeList: true

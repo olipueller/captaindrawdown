@@ -1,7 +1,7 @@
 ---
 title: "Ekaterina Kravchenko"
 description: "Ekaterina Kravchenko is a Mid-career Biochar researcher at Hong Kong University of Science and Technology in CN. With 75 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.415549
+date: 2026-07-11T11:05:43.049657
 url: "/cdr-researcher-census/researchers/ekaterina-kravchenko-a5067492/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 18 |
 | Citations | 898 |
 | Publications | 75 |
-| CDR Focus | 6.7% |
+| CDR Focus | 5.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

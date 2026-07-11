@@ -1,7 +1,7 @@
 ---
 title: "M.J. Salomon"
 description: "M.J. Salomon is a Mid-career Soil Carbon researcher at Wine Australia in AU. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.622857
+date: 2026-07-11T11:05:43.221720
 url: "/cdr-researcher-census/researchers/mj-salomon-a5056957/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -61,6 +61,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 4. **Enhanced stabilisation of soil carbon via arbuscular mycorrhizal fungi and biochar** (2025)
    1 citations · Biochar
+
+5. **Biofertilizers: assessing the effects of arbuscular mycorrhizal fungi on soil health** (2022)
+   0 citations
 
 ## External Profiles
 

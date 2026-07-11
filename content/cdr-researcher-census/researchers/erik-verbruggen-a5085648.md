@@ -1,7 +1,7 @@
 ---
 title: "Erik Verbruggen"
 description: "Erik Verbruggen is an Eminent Enhanced Weathering researcher at University of Antwerp in BE. With 167 publications and an h-index of 46, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.913897
+date: 2026-07-11T11:05:42.783221
 url: "/cdr-researcher-census/researchers/erik-verbruggen-a5085648/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | Citations | 8,653 |
 | Publications | 167 |
 | CDR Focus | 6.6% |
-| Trajectory | Declining |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
@@ -77,8 +77,8 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 9. **Enhanced weathering in acid and alkaline agricultural soils: greenhouse gas emissions and soil bacterial communities implications** (2022)
    1 citations · Enhanced Weathering
 
-10. **Effects of basalt amendment and mycorrhizal inoculation on soil chemical properties and maize growth** (2025)
-   0 citations · Enhanced Weathering
+10. **Intact polar lipids as biomarkers for nitrogen fixation and nitrification in European soils ** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Archw Promraksa"
 description: "Archw Promraksa is a Mid-career Biochar researcher at Walailak University in TH. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.712201
+date: 2026-07-11T11:05:44.109788
 url: "/cdr-researcher-census/researchers/archw-promraksa-a5044932/"
 layout: "researcher"
 hiddenInHomeList: true

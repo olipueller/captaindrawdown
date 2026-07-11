@@ -1,7 +1,7 @@
 ---
 title: "Laura Bastianini"
 description: "Laura Bastianini is a Mid-career Ocean CDR researcher at Heriot-Watt University in GB. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.627137
+date: 2026-07-11T11:05:44.034820
 url: "/cdr-researcher-census/researchers/laura-bastianini-a5025578/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 5 |
 | Citations | 168 |
 | Publications | 13 |
-| CDR Focus | 46.2% |
+| CDR Focus | 53.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -56,16 +56,19 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 2. **Assessing technical aspects of ocean alkalinity enhancement approaches** (2023)
    22 citations · General CDR
 
-3. **Ikaite as a possible alkalizer for ocean alkalinity enhancement** (2025)
+3. **Process modelling and analysis of ikaite production for atmospheric CO2 removal through ocean alkalinity enhancement** (2025)
+   1 citations · Ocean CDR
+
+4. **Ikaite as a possible alkalizer for ocean alkalinity enhancement** (2025)
    0 citations · Ocean CDR
 
-4. **The agronomic impact of enhanced weathering deployments in Sub-Saharan Africa: Insights from a smallholder field trial in Kisumu County, Kenya** (2025)
+5. **The agronomic impact of enhanced weathering deployments in Sub-Saharan Africa: Insights from a smallholder field trial in Kisumu County, Kenya** (2025)
    0 citations · Enhanced Weathering
 
-5. **Considering hydrous carbonates for ocean alkalinity enhancement** (2024)
+6. **Considering hydrous carbonates for ocean alkalinity enhancement** (2024)
    0 citations · Ocean CDR
 
-6. **Novel method of ocean alkalinity enhancement using ikaite and other hydratedcarbonate minerals** (2023)
+7. **Novel method of ocean alkalinity enhancement using ikaite and other hydratedcarbonate minerals** (2023)
    0 citations · Ocean CDR
 
 ## External Profiles

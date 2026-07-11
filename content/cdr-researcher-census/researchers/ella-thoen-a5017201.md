@@ -1,7 +1,7 @@
 ---
 title: "Ella Thoen"
 description: "Ella Thoen is a Mid-career Soil Carbon researcher at University of Oslo in NO. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.409420
+date: 2026-07-11T11:05:43.756408
 url: "/cdr-researcher-census/researchers/ella-thoen-a5017201/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 212 |
 | Publications | 18 |
-| CDR Focus | 11.1% |
+| CDR Focus | 5.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

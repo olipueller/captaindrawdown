@@ -1,7 +1,7 @@
 ---
 title: "Shurooq Talib Al-Humairi"
 description: "Shurooq Talib Al-Humairi is a Mid-career General CDR researcher at University of Technology - Iraq in IQ. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.600217
+date: 2026-07-11T11:05:43.992197
 url: "/cdr-researcher-census/researchers/shurooq-talib-al-humairi-a5037999/"
 layout: "researcher"
 hiddenInHomeList: true

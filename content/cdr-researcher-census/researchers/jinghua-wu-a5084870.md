@@ -1,7 +1,7 @@
 ---
 title: "Jinghua Wu"
 description: "Jinghua Wu is a Mid-career Soil Carbon researcher at Zhaoqing University in CN. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.896679
+date: 2026-07-11T11:05:43.414912
 url: "/cdr-researcher-census/researchers/jinghua-wu-a5084870/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 380 |
 | Publications | 12 |
-| CDR Focus | 8.3% |
+| CDR Focus | 16.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Unveiling carbon dynamics in year-round waterlogged pond fields: insights into soil organic carbon accumulation and sustainable management** (2025)
    10 citations · Soil Carbon
+
+2. **Enhanced carbon retention in Litchi biochar via in-situ limewater coating and self-limited oxygen pyrolysis regulated by water-fire interaction** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Haiping Yang"
 description: "Haiping Yang is an Eminent Biochar researcher at Huazhong University of Science and Technology in CN. With 138 publications and an h-index of 47, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.959132
+date: 2026-07-11T11:05:42.796579
 url: "/cdr-researcher-census/researchers/haiping-yang-a5110371/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 47 |
 | Citations | 6,108 |
 | Publications | 138 |
-| CDR Focus | 6.5% |
-| Trajectory | Declining |
+| CDR Focus | 5.1% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
@@ -53,25 +53,28 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 2. **Effect of various potassium agents on product distributions and biochar carbon sequestration of biomass pyrolysis** (2023)
    30 citations · Biochar
 
-3. **Evaluation of the effect of pressure and heat transfer on the efficiency of a batch fuel reactor, using Iron-based Oxygen Carrier with a CFD model** (2022)
+3. **Biochar production, activation, and applications: A comprehensive technical review** (2025)
+   28 citations · Biochar
+
+4. **Evaluation of the effect of pressure and heat transfer on the efficiency of a batch fuel reactor, using Iron-based Oxygen Carrier with a CFD model** (2022)
    6 citations · BECCS
 
-4. **Dimensioning Air Reactor and Fuel Reactor of a Pressurized CLC Plant to Be Coupled to a Gas Turbine: Part 2, the Fuel Reactor** (2023)
+5. **Dimensioning Air Reactor and Fuel Reactor of a Pressurized CLC Plant to Be Coupled to a Gas Turbine: Part 2, the Fuel Reactor** (2023)
    4 citations · BECCS
 
-5. **Effects of intrinsic and external potassium on biochar structure evolution in volatile-char interactions during biomass pyrolysis** (2025)
+6. **Effects of intrinsic and external potassium on biochar structure evolution in volatile-char interactions during biomass pyrolysis** (2025)
    0 citations · Biochar
 
-6. **Tuning Metal Site and Surface Functional Group Structure in Mgo Nanoparticles Biochar Composites to Unravel the Mechanism for Adsorption of Phosphate from Aqueous Solution** (2024)
+7. **Tuning Metal Site and Surface Functional Group Structure in Mgo Nanoparticles Biochar Composites to Unravel the Mechanism for Adsorption of Phosphate from Aqueous Solution** (2024)
    0 citations · Biochar
-
-7. **Design of the air reactor for a chemical looping combustion plant coupled with a turbo expander** (2022)
-   0 citations
 
 8. **Design of the air reactor for a chemical looping combustion plant coupled with a turbo expander** (2022)
    0 citations
 
 9. **Design of the air reactor for a chemical looping combustion plant coupled with a turbo expander** (2022)
+   0 citations
+
+10. **Design of the air reactor for a chemical looping combustion plant coupled with a turbo expander** (2022)
    0 citations · BECCS
 
 ## External Profiles

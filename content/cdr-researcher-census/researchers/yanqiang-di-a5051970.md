@@ -1,7 +1,7 @@
 ---
 title: "Yanqiang Di"
 description: "Yanqiang Di is a Senior Biochar researcher. With 33 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.218705
+date: 2026-07-11T11:05:43.624142
 url: "/cdr-researcher-census/researchers/yanqiang-di-a5051970/"
 layout: "researcher"
 hiddenInHomeList: true

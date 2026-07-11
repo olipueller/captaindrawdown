@@ -1,7 +1,7 @@
 ---
 title: "Tingting An"
 description: "Tingting An is a Senior Soil Carbon researcher at Shenyang Agricultural University in CN. With 64 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.181677
+date: 2026-07-11T11:05:42.900860
 url: "/cdr-researcher-census/researchers/tingting-an-a5035913/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 25 |
 | Citations | 1,830 |
 | Publications | 64 |
-| CDR Focus | 15.6% |
-| Trajectory | Stable |
+| CDR Focus | 18.8% |
+| Trajectory | Declining |
 
 ## Top CDR Publications
 
@@ -71,14 +71,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 7. **Cultivating crop reduces microbial necromass carbon accumulation but contributes fungal derived- soil organic carbon formation in fertilized soils with straw addition** (2025)
    3 citations · Soil Carbon
 
-8. **Stover return enhances the transformation and sequestration of photosynthetic carbon through regulating soil food web** (2025)
+8. **Long‐term fertilization and plastic film mulching modify temporal incorporation of <scp> <sup>13</sup> C </scp> / <scp> <sup>15</sup> N </scp> ‐labelled particulate organic matter** (2023)
+   2 citations · Soil Carbon
+
+9. **Stover return enhances the transformation and sequestration of photosynthetic carbon through regulating soil food web** (2025)
    0 citations · Soil Carbon
 
-9. **Fungal Necromass Carbon Contributes to Organic Carbon Sequestration within Soil Macroaggregates Under Manure Application Combined with Plastic Film Mulching** (2023)
-   0 citations · Soil Carbon
-
-10. **Plastic film mulching combined with manure fertilizer application promotes microbial necromass carbon accumulation within soil macroaggregates** (2023)
-   0 citations · Soil Carbon
+10. **Long-Term Fertilization Mediates Microbial Keystone Taxa to Regulate Straw-Derived 13C Incorporation in Soil Aggregates** (2025)
+   0 citations
 
 ## External Profiles
 

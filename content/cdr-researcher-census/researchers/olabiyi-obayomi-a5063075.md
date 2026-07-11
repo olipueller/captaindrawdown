@@ -1,7 +1,7 @@
 ---
 title: "Olabiyi Obayomi"
 description: "Olabiyi Obayomi is a Mid-career Soil Carbon researcher at Ben-Gurion University of the Negev in IL. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.041774
+date: 2026-07-11T11:05:43.515445
 url: "/cdr-researcher-census/researchers/olabiyi-obayomi-a5063075/"
 layout: "researcher"
 hiddenInHomeList: true

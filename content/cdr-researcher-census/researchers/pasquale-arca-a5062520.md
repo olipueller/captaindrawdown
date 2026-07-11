@@ -1,7 +1,7 @@
 ---
 title: "Pasquale Arca"
 description: "Pasquale Arca is a Mid-career Soil Carbon researcher at Istituto per il Sistema Produzione Animale in Ambiente Mediterraneo in IT. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.732659
+date: 2026-07-11T11:05:44.125182
 url: "/cdr-researcher-census/researchers/pasquale-arca-a5062520/"
 layout: "researcher"
 hiddenInHomeList: true

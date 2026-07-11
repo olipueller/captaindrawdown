@@ -1,7 +1,7 @@
 ---
 title: "Lansheng Deng"
 description: "Lansheng Deng is a Mid-career Soil Carbon researcher at South China Agricultural University in CN. With 23 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.523414
+date: 2026-07-11T11:05:43.127874
 url: "/cdr-researcher-census/researchers/lansheng-deng-a5111353/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 13 |
 | Citations | 708 |
 | Publications | 23 |
-| CDR Focus | 13.0% |
-| Trajectory | Growing |
+| CDR Focus | 8.7% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

@@ -1,7 +1,7 @@
 ---
 title: "Wenyin Xu"
 description: "Wenyin Xu is a Senior Soil Carbon researcher at Qinghai University in CN. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.100987
+date: 2026-07-11T11:05:44.404465
 url: "/cdr-researcher-census/researchers/wenyin-xu-a5108219/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 107 |
 | Publications | 8 |
-| CDR Focus | 25.0% |
+| CDR Focus | 12.5% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

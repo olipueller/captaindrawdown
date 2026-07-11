@@ -1,7 +1,7 @@
 ---
 title: "Zhengming Yan"
 description: "Zhengming Yan is an Early-career Soil Carbon researcher at Nanjing Forestry University in CN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.138593
+date: 2026-07-11T11:05:44.431887
 url: "/cdr-researcher-census/researchers/zhengming-yan-a5052323/"
 layout: "researcher"
 hiddenInHomeList: true

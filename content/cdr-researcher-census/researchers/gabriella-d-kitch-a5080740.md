@@ -1,7 +1,7 @@
 ---
 title: "Gabriella D. Kitch"
 description: "Gabriella D. Kitch is a Mid-career Ocean CDR researcher at Cambridge Carbon Capture (United Kingdom) in GB. With 33 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.142229
+date: 2026-07-11T11:05:44.434542
 url: "/cdr-researcher-census/researchers/gabriella-d-kitch-a5080740/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 6 |
 | Citations | 102 |
 | Publications | 33 |
-| CDR Focus | 15.2% |
+| CDR Focus | 18.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -63,6 +63,9 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    3 citations · General CDR
 
 5. **A sequential gated research framework for addressing potential impacts of marine carbon dioxide removal on fisheries, aquaculture, and Indigenous communities** (2026)
+   0 citations · General CDR
+
+6. **A Practitioner-Informed Roadmap for Enhancing Coastal Resilience and CDR Potential Along the U.S. Coastline** (2026)
    0 citations · General CDR
 
 ## External Profiles

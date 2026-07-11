@@ -1,7 +1,7 @@
 ---
 title: "Arslan Yousaf"
 description: "Arslan Yousaf is a Mid-career General CDR researcher at Hamad bin Khalifa University in QA. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.379744
+date: 2026-07-11T11:05:43.735399
 url: "/cdr-researcher-census/researchers/arslan-yousaf-a5023676/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 6 |
 | Citations | 219 |
 | Publications | 11 |
-| CDR Focus | 18.2% |
+| CDR Focus | 9.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

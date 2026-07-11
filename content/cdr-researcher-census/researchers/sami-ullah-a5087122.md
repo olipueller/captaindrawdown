@@ -1,7 +1,7 @@
 ---
 title: "Sami Ullah"
 description: "Sami Ullah is a Senior Soil Carbon researcher at University of Birmingham in GB. With 208 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.036921
+date: 2026-07-11T11:05:42.828954
 url: "/cdr-researcher-census/researchers/sami-ullah-a5087122/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 31 |
 | Citations | 3,612 |
 | Publications | 208 |
-| CDR Focus | 6.2% |
-| Trajectory | Declining |
+| CDR Focus | 5.8% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
@@ -71,14 +71,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 7. **Temperate Forest of 2050's: carbon and nutrient cycling responses to seven years of elevated CO2 enrichment at BIFoR-FACE** (2024)
    2 citations · Soil Carbon
 
-8. **Effects of Periodic Mulching on Temperature Sensitivity of Soil Respiration and <scp> CO <sub>2</sub> </scp> Emission in a Lei Shoot‐Producing Bamboo Forest** (2025)
+8. **Informing the potential of mature temperate forests as natural climate solutions: Changed fine root biomass and morphology under elevated CO <sub>2</sub>** (2026)
    0 citations · Soil Carbon
 
-9. **Flux of CO2, CH4 and N2O from temperate woodland soil under elevated CO2** (2024)
+9. **Effects of Periodic Mulching on Temperature Sensitivity of Soil Respiration and <scp> CO <sub>2</sub> </scp> Emission in a Lei Shoot‐Producing Bamboo Forest** (2025)
    0 citations · Soil Carbon
 
-10. **Does elevated CO2 alter root architecture and biomass after 5 years in a mature temperate woodland?** (2023)
-   0 citations · General CDR
+10. **Flux of CO2, CH4 and N2O from temperate woodland soil under elevated CO2** (2024)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Karim Suhail Al Souki"
 description: "Karim Suhail Al Souki is a Mid-career Soil Carbon researcher at Jan Evangelista Purkyně University in Ústí nad Labem in CZ. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.995763
+date: 2026-07-11T11:05:43.485109
 url: "/cdr-researcher-census/researchers/karim-suhail-al-souki-a5043859/"
 layout: "researcher"
 hiddenInHomeList: true

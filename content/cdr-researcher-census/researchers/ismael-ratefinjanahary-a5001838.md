@@ -1,7 +1,7 @@
 ---
 title: "Ismaël Ratefinjanahary"
 description: "Ismaël Ratefinjanahary is a Mid-career Soil Carbon researcher. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.706195
+date: 2026-07-11T11:05:44.105123
 url: "/cdr-researcher-census/researchers/ismael-ratefinjanahary-a5001838/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 155 |
 | Publications | 9 |
-| CDR Focus | 22.2% |
+| CDR Focus | 11.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

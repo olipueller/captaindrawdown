@@ -1,7 +1,7 @@
 ---
 title: "Mohd. Safwan Azman"
 description: "Mohd. Safwan Azman is a Mid-career Soil Carbon researcher at University of Malaya in MY. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.922809
+date: 2026-07-11T11:05:44.266197
 url: "/cdr-researcher-census/researchers/mohd-safwan-azman-a5040196/"
 layout: "researcher"
 hiddenInHomeList: true

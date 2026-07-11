@@ -1,7 +1,7 @@
 ---
 title: "Zejiang Cai"
 description: "Zejiang Cai is a Senior Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 59 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.213798
+date: 2026-07-11T11:05:42.919679
 url: "/cdr-researcher-census/researchers/zejiang-cai-a5034551/"
 layout: "researcher"
 hiddenInHomeList: true

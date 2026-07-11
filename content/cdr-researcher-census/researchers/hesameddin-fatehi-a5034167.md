@@ -1,7 +1,7 @@
 ---
 title: "Hesameddin Fatehi"
 description: "Hesameddin Fatehi is a Senior BECCS researcher at Lund University in SE. With 47 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.401111
+date: 2026-07-11T11:05:43.039834
 url: "/cdr-researcher-census/researchers/hesameddin-fatehi-a5034167/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 17 |
 | Citations | 934 |
 | Publications | 47 |
-| CDR Focus | 8.5% |
+| CDR Focus | 6.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

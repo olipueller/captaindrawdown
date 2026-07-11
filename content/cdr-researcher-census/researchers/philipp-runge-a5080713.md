@@ -1,7 +1,7 @@
 ---
 title: "Philipp Runge"
 description: "Philipp Runge is a Mid-career General CDR researcher at Friedrich-Alexander-Universität Erlangen-Nürnberg in DE. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.938372
+date: 2026-07-11T11:05:43.443377
 url: "/cdr-researcher-census/researchers/philipp-runge-a5080713/"
 layout: "researcher"
 hiddenInHomeList: true

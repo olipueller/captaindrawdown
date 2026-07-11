@@ -1,7 +1,7 @@
 ---
 title: "Kremena Burkhard"
 description: "Kremena Burkhard is a Mid-career Ocean CDR researcher at Leibniz University Hannover in DE. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.587820
+date: 2026-07-11T11:05:43.974224
 url: "/cdr-researcher-census/researchers/kremena-burkhard-a5070401/"
 layout: "researcher"
 hiddenInHomeList: true

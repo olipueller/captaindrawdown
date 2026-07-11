@@ -1,7 +1,7 @@
 ---
 title: "Upeksha Caldera"
 description: "Upeksha Caldera is a Senior General CDR researcher at LUT School of Energy Systems in FI. With 37 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.057970
+date: 2026-07-11T11:05:42.838113
 url: "/cdr-researcher-census/researchers/upeksha-caldera-a5084866/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jingji Li"
 description: "Jingji Li is a Senior Soil Carbon researcher at Chengdu University of Technology in CN. With 136 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.259969
+date: 2026-07-11T11:05:42.948563
 url: "/cdr-researcher-census/researchers/jingji-li-a5031496/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 22 |
 | Citations | 1,396 |
 | Publications | 136 |
-| CDR Focus | 5.9% |
+| CDR Focus | 5.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

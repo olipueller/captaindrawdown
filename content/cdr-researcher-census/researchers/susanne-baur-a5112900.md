@@ -1,7 +1,7 @@
 ---
 title: "Susanne Baur"
 description: "Susanne Baur is a Senior General CDR researcher at Centre National de la Recherche Scientifique in FR. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.141149
+date: 2026-07-11T11:05:43.567996
 url: "/cdr-researcher-census/researchers/susanne-baur-a5112900/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,18 +45,39 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 6 |
 | Citations | 289 |
 | Publications | 12 |
-| CDR Focus | 25.0% |
+| CDR Focus | 33.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
-1. **Reply on RC2** (2023)
+1. **The deployment length of solar radiation modification: an interplay of mitigation, net-negative emissions and climate uncertainty** (2023)
+   41 citations · General CDR
+
+2. **Deploying Solar Radiation Modification to limit warming under a current climate policy scenario results in a multi-century commitment** (2022)
+   2 citations · General CDR
+
+3. **Representation of Unaccounted Physical Couplings in Peak-shaving Solar Radiation Modification Scenarios** (2024)
    0 citations · General CDR
 
-2. **Reply on RC1** (2023)
+4. **Reply on RC2** (2023)
    0 citations · General CDR
 
-3. **Reply on RC3** (2023)
+5. **Reply on RC1** (2023)
+   0 citations · General CDR
+
+6. **Reply on RC3** (2023)
+   0 citations · General CDR
+
+7. **Comment on esd-2022-17** (2022)
+   0 citations · General CDR
+
+8. **Review on esd-2022-17** (2022)
+   0 citations · General CDR
+
+9. **Comment on esd-2022-17** (2022)
+   0 citations · General CDR
+
+10. **Solar Radiation Modification: a multi-century commitment** (2021)
    0 citations · General CDR
 
 ## External Profiles

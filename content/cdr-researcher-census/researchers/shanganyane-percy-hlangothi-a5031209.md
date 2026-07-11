@@ -1,7 +1,7 @@
 ---
 title: "Shanganyane Percy Hlangothi"
 description: "Shanganyane Percy Hlangothi is a Senior Biochar researcher at Nelson Mandela University in ZA. With 71 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.240914
+date: 2026-07-11T11:05:42.936344
 url: "/cdr-researcher-census/researchers/shanganyane-percy-hlangothi-a5031209/"
 layout: "researcher"
 hiddenInHomeList: true

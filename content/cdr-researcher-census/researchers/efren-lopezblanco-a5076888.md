@@ -1,7 +1,7 @@
 ---
 title: "Efrén López–Blanco"
 description: "Efrén López–Blanco is a Senior Soil Carbon researcher at Aarhus University in DK. With 70 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.064345
+date: 2026-07-11T11:05:42.841337
 url: "/cdr-researcher-census/researchers/efren-lopezblanco-a5076888/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 22 |
 | Citations | 3,184 |
 | Publications | 70 |
-| CDR Focus | 8.6% |
+| CDR Focus | 5.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

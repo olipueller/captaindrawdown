@@ -1,7 +1,7 @@
 ---
 title: "Esko Salo"
 description: "Esko Salo is a Mid-career Biochar researcher at VTT Technical Research Centre of Finland in FI. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.589528
+date: 2026-07-11T11:05:43.976554
 url: "/cdr-researcher-census/researchers/esko-salo-a5086975/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Guoqing Lv"
 description: "Guoqing Lv is a Senior Soil Carbon researcher at Xinjiang Normal University in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.720577
+date: 2026-07-11T11:05:44.115552
 url: "/cdr-researcher-census/researchers/guoqing-lv-a5101231/"
 layout: "researcher"
 hiddenInHomeList: true

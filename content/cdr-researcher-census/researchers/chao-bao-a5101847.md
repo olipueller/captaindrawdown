@@ -1,7 +1,7 @@
 ---
 title: "Chao Bao"
 description: "Chao Bao is a Mid-career Soil Carbon researcher at Huazhong University of Science and Technology in CN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.605499
+date: 2026-07-11T11:05:43.210641
 url: "/cdr-researcher-census/researchers/chao-bao-a5101847/"
 layout: "researcher"
 hiddenInHomeList: true

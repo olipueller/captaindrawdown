@@ -1,7 +1,7 @@
 ---
 title: "Priyanka Kaushal"
 description: "Priyanka Kaushal is a Senior Biochar researcher at Chandigarh University in IN. With 126 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.100776
+date: 2026-07-11T11:05:42.859925
 url: "/cdr-researcher-census/researchers/priyanka-kaushal-a5046805/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -71,7 +71,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 7. **Assessment of Sugarcane Residues Derived Biochar for Carbon Sequestration in the Soil in India** (2022)
    1 citations · Biochar
 
-8. **Pathways to Net Zero: A Multi-Dimensional Carbon-Neutrality Framework for Equitable Transition of Rural Communities** (2026)
+8. **Turning Sugarcane Field Residues into High-Value Adsorbents: CO₂ Activation, PAH Removal Efficiency, and Implications for Low-Carbon Resource Cycles.** (2026)
+   0 citations · Biochar
+
+9. **Pathways to Net Zero: A Multi-Dimensional Carbon-Neutrality Framework for Equitable Transition of Rural Communities** (2026)
    0 citations · General CDR
 
 ## External Profiles

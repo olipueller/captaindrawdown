@@ -1,7 +1,7 @@
 ---
 title: "Ying Wang"
-description: "Ying Wang is a Senior Unknown researcher at Tianjin University in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.702429
+description: "Ying Wang is a Senior Soil Carbon researcher at Nanjing Agricultural University in CN. With 56 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:42.936970
 url: "/cdr-researcher-census/researchers/ying-wang-a5100347/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,11 +16,11 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/ying-wang-a5100347/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Tianjin University"
+    "name": "Nanjing Agricultural University"
   },
   "sameAs": [
-    "https://orcid.org/0009-0009-7817-0900",
-    "https://openalex.org/A5100347282"
+    "https://orcid.org/0009-0000-2786-4093",
+    "https://openalex.org/A5100347269"
   ]
 }
 </script>
@@ -28,35 +28,41 @@ robots: "index, follow"
 ## Profile
 
 **Ying Wang**  
-Tianjin University · 🇨🇳 CN
+Nanjing Agricultural University · 🇨🇳 CN
 
 **Career Stage:** Senior
 
 ## CDR Specialization
 
-**Unknown**
+**Soil Carbon**
 
-Unknown
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
 | Metric | Value |
 |--------|-------|
-| h-index | 7 |
-| Citations | 156 |
-| Publications | 9 |
-| CDR Focus | 11.1% |
-| Trajectory | Exiting |
+| h-index | 21 |
+| Citations | 1,477 |
+| Publications | 56 |
+| CDR Focus | 5.4% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Self-Luminous Wood Coatings with Carbon Dots/TiO2 Grafted Afterglow SrAl2O4: Eu, Dy Core-Shell Phosphors for Long-Lasting Formaldehyde Removal** (2023)
-   9 citations
+1. **Soil Organic Carbon and Humus Characteristics: Response and Evolution to Long-Term Direct/Carbonized Straw Return to Field** (2024)
+   15 citations · Biochar
+
+2. **Forms of nitrogen deposition shift soil microbial resource limitation and carbon use efficiency in temperate forest** (2025)
+   1 citations · Soil Carbon
+
+3. **Soil microbial networks mediate long‐term effects of nitrogen fertilization on ecosystem multiservices** (2025)
+   1 citations · Soil Carbon
 
 ## External Profiles
 
-- [ORCID](https://orcid.org/0009-0009-7817-0900)
-- [OpenAlex](https://openalex.org/A5100347282)
+- [ORCID](https://orcid.org/0009-0000-2786-4093)
+- [OpenAlex](https://openalex.org/A5100347269)
 
 ---
 

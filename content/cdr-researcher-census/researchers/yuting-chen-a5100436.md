@@ -1,7 +1,7 @@
 ---
 title: "Yuting Chen"
 description: "Yuting Chen is a Mid-career Soil Carbon researcher at Sichuan Agricultural University in CN. With 24 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.233402
+date: 2026-07-11T11:05:43.635020
 url: "/cdr-researcher-census/researchers/yuting-chen-a5100436/"
 layout: "researcher"
 hiddenInHomeList: true

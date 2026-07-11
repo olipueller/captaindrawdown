@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Asif Akhtar"
 description: "Muhammad Asif Akhtar is a Senior Biochar researcher at University of Engineering and Technology Lahore in PK. With 20 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.811369
+date: 2026-07-11T11:05:43.356100
 url: "/cdr-researcher-census/researchers/muhammad-asif-akhtar-a5011627/"
 layout: "researcher"
 hiddenInHomeList: true

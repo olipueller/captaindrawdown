@@ -1,7 +1,7 @@
 ---
 title: "Chen Zhang"
 description: "Chen Zhang is a Mid-career Soil Carbon researcher at Nanjing Forestry University in CN. With 34 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.838794
+date: 2026-07-11T11:05:43.375192
 url: "/cdr-researcher-census/researchers/chen-zhang-a5100374/"
 layout: "researcher"
 hiddenInHomeList: true

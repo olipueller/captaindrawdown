@@ -1,7 +1,7 @@
 ---
 title: "Johann Strauss"
 description: "Johann Strauss is a Senior Soil Carbon researcher at Department of Agriculture, Land Reform and Rural Development in ZA. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.780756
+date: 2026-07-11T11:05:44.161278
 url: "/cdr-researcher-census/researchers/johann-strauss-a5026478/"
 layout: "researcher"
 hiddenInHomeList: true

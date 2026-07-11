@@ -1,7 +1,7 @@
 ---
 title: "Songtao Shen"
 description: "Songtao Shen is a Mid-career Soil Carbon researcher at Southwest University of Science and Technology in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.000071
+date: 2026-07-11T11:05:44.326185
 url: "/cdr-researcher-census/researchers/songtao-shen-a5089475/"
 layout: "researcher"
 hiddenInHomeList: true

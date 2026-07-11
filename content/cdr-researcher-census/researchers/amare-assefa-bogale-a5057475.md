@@ -1,7 +1,7 @@
 ---
 title: "Amare Assefa Bogale"
 description: "Amare Assefa Bogale is a Mid-career Soil Carbon researcher at Magyar Agrár- és Élettudományi Egyetem in HU. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.006308
+date: 2026-07-11T11:05:44.330909
 url: "/cdr-researcher-census/researchers/amare-assefa-bogale-a5057475/"
 layout: "researcher"
 hiddenInHomeList: true

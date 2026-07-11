@@ -1,7 +1,7 @@
 ---
 title: "Qingyuan Ji"
 description: "Qingyuan Ji is an Early-career Soil Carbon researcher. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.233582
+date: 2026-07-11T11:05:43.635130
 url: "/cdr-researcher-census/researchers/qingyuan-ji-a5051162/"
 layout: "researcher"
 hiddenInHomeList: true

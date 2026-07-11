@@ -1,7 +1,7 @@
 ---
 title: "Annett Pollex"
 description: "Annett Pollex is a Mid-career Soil Carbon researcher. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.735640
+date: 2026-07-11T11:05:43.300043
 url: "/cdr-researcher-census/researchers/annett-pollex-a5042321/"
 layout: "researcher"
 hiddenInHomeList: true

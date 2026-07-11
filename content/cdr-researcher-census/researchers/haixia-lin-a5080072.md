@@ -1,7 +1,7 @@
 ---
 title: "Haixia Lin"
 description: "Haixia Lin is a Senior Soil Carbon researcher at Shihezi University in CN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.150544
+date: 2026-07-11T11:05:44.440398
 url: "/cdr-researcher-census/researchers/haixia-lin-a5080072/"
 layout: "researcher"
 hiddenInHomeList: true

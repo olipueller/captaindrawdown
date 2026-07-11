@@ -1,7 +1,7 @@
 ---
 title: "Xiaorong Zhao"
 description: "Xiaorong Zhao is a Senior Soil Carbon researcher at China Three Gorges University in CN. With 66 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.083220
+date: 2026-07-11T11:05:42.850431
 url: "/cdr-researcher-census/researchers/xiaorong-zhao-a5108116/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,21 +45,24 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 29 |
 | Citations | 2,834 |
 | Publications | 66 |
-| CDR Focus | 6.1% |
-| Trajectory | Exiting |
+| CDR Focus | 7.6% |
+| Trajectory | Declining |
 
 ## Top CDR Publications
 
 1. **Biochar application significantly increases soil organic carbon under conservation tillage: an 11-year field experiment** (2023)
    116 citations · Biochar
 
-2. **The native SOC increase in woodland and lawn soil amended with biochar surpassed greenhouse — A seven-year field trial** (2023)
+2. **Stimulatory effects of nutrient addition on microbial necromass C formation depend on soil stoichiometry** (2025)
+   18 citations · Soil Carbon
+
+3. **The native SOC increase in woodland and lawn soil amended with biochar surpassed greenhouse — A seven-year field trial** (2023)
    16 citations · Biochar
 
-3. **Biochar Amendment Enhances Native Organic Carbon Pools in Woodland, Lawn, and Greenhouse Soils Over Seven-Year** (2023)
+4. **Biochar Amendment Enhances Native Organic Carbon Pools in Woodland, Lawn, and Greenhouse Soils Over Seven-Year** (2023)
    0 citations · Biochar
 
-4. **Distinct Mechanisms Govern Sucrose Mineralization and Soil Organic Carbon Priming in Biochar Amended Soils: Evidence from 10-Years Field Studies** (2023)
+5. **Distinct Mechanisms Govern Sucrose Mineralization and Soil Organic Carbon Priming in Biochar Amended Soils: Evidence from 10-Years Field Studies** (2023)
    0 citations · Biochar
 
 ## External Profiles

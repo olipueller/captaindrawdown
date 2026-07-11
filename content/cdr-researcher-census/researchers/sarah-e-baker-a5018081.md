@@ -1,7 +1,7 @@
 ---
 title: "Sarah E. Baker"
 description: "Sarah E. Baker is an Eminent General CDR researcher at Lawrence Livermore National Laboratory in US. With 134 publications and an h-index of 41, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.976319
+date: 2026-07-11T11:05:42.803560
 url: "/cdr-researcher-census/researchers/sarah-e-baker-a5018081/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -59,16 +59,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 3. **Net-Zero Ethylene: On the Sustainability, Economics, and Scalability of Synthetic and Fossil Production Pathways** (2025)
    4 citations · DAC
 
-4. **Land-based resources for engineered carbon dioxide removal in the United States exceed the expected needs** (2025)
+4. **Optimization of direct air capture processes using reactive transport models of adsorption-desorption cycles** (2025)
+   3 citations
+
+5. **Land-based resources for engineered carbon dioxide removal in the United States exceed the expected needs** (2025)
    1 citations · General CDR
 
-5. **Summary Report of the Carbon-Negative Hydrogen Workshop** (2024)
+6. **Summary Report of the Carbon-Negative Hydrogen Workshop** (2024)
    1 citations · General CDR
 
-6. **Accounting Methods Dictate Carbon Removal Credit Integrity and Outcomes** (2026)
+7. **Accounting Methods Dictate Carbon Removal Credit Integrity and Outcomes** (2026)
    0 citations · General CDR
 
-7. **Initial Considerations for Large-Scale Carbon Removal in the United States** (2022)
+8. **Initial Considerations for Large-Scale Carbon Removal in the United States** (2022)
    0 citations · General CDR
 
 ## External Profiles

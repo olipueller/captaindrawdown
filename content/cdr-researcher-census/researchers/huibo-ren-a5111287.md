@@ -1,7 +1,7 @@
 ---
 title: "Huibo Ren"
 description: "Huibo Ren is a Mid-career Soil Carbon researcher at Peking University in CN. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.783318
+date: 2026-07-11T11:05:43.336582
 url: "/cdr-researcher-census/researchers/huibo-ren-a5111287/"
 layout: "researcher"
 hiddenInHomeList: true

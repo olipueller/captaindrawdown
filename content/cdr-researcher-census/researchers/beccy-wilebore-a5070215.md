@@ -1,7 +1,7 @@
 ---
 title: "Beccy Wilebore"
 description: "Beccy Wilebore is a Mid-career Soil Carbon researcher at National Air Traffic Services (United Kingdom) in GB. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.060308
+date: 2026-07-11T11:05:43.529192
 url: "/cdr-researcher-census/researchers/beccy-wilebore-a5070215/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sebastiaan van de Velde"
 description: "Sebastiaan van de Velde is a Senior Ocean CDR researcher at University of Otago in NZ. With 139 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.255905
+date: 2026-07-11T11:05:42.945357
 url: "/cdr-researcher-census/researchers/sebastiaan-van-de-velde-a5041138/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 22 |
 | Citations | 1,418 |
 | Publications | 139 |
-| CDR Focus | 7.2% |
-| Trajectory | Growing |
+| CDR Focus | 5.0% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

@@ -1,7 +1,7 @@
 ---
 title: "Lian Xiong"
-description: "Lian Xiong is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 28 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.395359
+description: "Lian Xiong is a Mid-career Enhanced Weathering researcher at Chinese Academy of Sciences in CN. With 28 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:43.036469
 url: "/cdr-researcher-census/researchers/lian-xiong-a5101779/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Chinese Academy of Sciences · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Enhanced Weathering**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Citations | 950 |
 | Publications | 28 |
 | CDR Focus | 10.7% |
-| Trajectory | Stable |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
@@ -58,6 +58,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 3. **Assessment of carbon sinks caused by the chemical weathering of carbonate rocks under the influence of exogenous acids: Methods, progress, and prospects** (2025)
    29 citations · Enhanced Weathering
+
+4. **Response of carbonate rock weathering carbon sink to seismic peak ground acceleration in China** (2025)
+   1 citations · Enhanced Weathering
 
 ## External Profiles
 

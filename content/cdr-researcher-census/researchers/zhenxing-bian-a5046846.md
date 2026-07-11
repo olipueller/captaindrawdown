@@ -1,7 +1,7 @@
 ---
 title: "Zhenxing Bian"
 description: "Zhenxing Bian is a Senior Soil Carbon researcher at Shenyang Agricultural University in CN. With 54 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.757538
+date: 2026-07-11T11:05:43.317710
 url: "/cdr-researcher-census/researchers/zhenxing-bian-a5046846/"
 layout: "researcher"
 hiddenInHomeList: true

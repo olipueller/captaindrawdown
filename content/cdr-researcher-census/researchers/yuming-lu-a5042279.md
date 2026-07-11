@@ -1,7 +1,7 @@
 ---
 title: "Yuming Lu"
 description: "Yuming Lu is a Mid-career Soil Carbon researcher at Fujian Normal University in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.813271
+date: 2026-07-11T11:05:44.184964
 url: "/cdr-researcher-census/researchers/yuming-lu-a5042279/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 139 |
 | Publications | 14 |
-| CDR Focus | 50.0% |
+| CDR Focus | 35.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Mariia Belaia"
 description: "Mariia Belaia is a Mid-career General CDR researcher at George Mason University in US. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.437717
+date: 2026-07-11T11:05:43.775440
 url: "/cdr-researcher-census/researchers/mariia-belaia-a5077851/"
 layout: "researcher"
 hiddenInHomeList: true

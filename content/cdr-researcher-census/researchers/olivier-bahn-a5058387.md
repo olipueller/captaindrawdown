@@ -1,7 +1,7 @@
 ---
 title: "Olivier Bahn"
 description: "Olivier Bahn is a Senior General CDR researcher at HEC Montréal in CA. With 107 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.222161
+date: 2026-07-11T11:05:42.925005
 url: "/cdr-researcher-census/researchers/olivier-bahn-a5058387/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 21 |
 | Citations | 1,577 |
 | Publications | 107 |
-| CDR Focus | 9.3% |
-| Trajectory | Stable |
+| CDR Focus | 8.4% |
+| Trajectory | Declining |
 
 ## Top CDR Publications
 
@@ -77,8 +77,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 9. **Hydrogen Technology Pathways in Metropolitan Energy Systems: An Application to Montréal** (2026)
    0 citations
 
-10. **AD-MERGE 2.0: An Integrated Assessment of the Nexus Among Energy Transitions, Climate Impacts, and Adaptation Responses** (2026)
-   0 citations · General CDR
+10. **Comment on egusphere-2025-6408** (2026)
+   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Pitchaiah Sudalaimuthu"
 description: "Pitchaiah Sudalaimuthu is a Mid-career General CDR researcher at National Institute of Technology Tiruchirappalli in IN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.405134
+date: 2026-07-11T11:05:43.754112
 url: "/cdr-researcher-census/researchers/pitchaiah-sudalaimuthu-a5006798/"
 layout: "researcher"
 hiddenInHomeList: true

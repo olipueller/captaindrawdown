@@ -1,7 +1,7 @@
 ---
 title: "Martin Küttim"
 description: "Martin Küttim is a Mid-career Soil Carbon researcher at Tallinn University in EE. With 34 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.956660
+date: 2026-07-11T11:05:43.456308
 url: "/cdr-researcher-census/researchers/martin-kuttim-a5031796/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xiaolu Sun"
 description: "Xiaolu Sun is a Senior Soil Carbon researcher at National University of Singapore in SG. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.514319
+date: 2026-07-11T11:05:43.845642
 url: "/cdr-researcher-census/researchers/xiaolu-sun-a5109852/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 190 |
 | Publications | 9 |
-| CDR Focus | 11.1% |
-| Trajectory | Exiting |
+| CDR Focus | 22.2% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Exploration of the optimal low-carbon peanut rotation system in South China** (2024)
    3 citations · Soil Carbon
+
+2. **Nitrogen and Water Regulate the Soil Microbial Carbon Cycle in Wheat Fields Primarily via the Pentose Phosphate Pathway** (2025)
+   2 citations · Soil Carbon
 
 ## External Profiles
 

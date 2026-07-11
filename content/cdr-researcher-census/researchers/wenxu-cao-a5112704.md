@@ -1,7 +1,7 @@
 ---
 title: "Wenxu Cao"
 description: "Wenxu Cao is a Mid-career Soil Carbon researcher at Qinghai University for Nationalities in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.794493
+date: 2026-07-11T11:05:44.170758
 url: "/cdr-researcher-census/researchers/wenxu-cao-a5112704/"
 layout: "researcher"
 hiddenInHomeList: true

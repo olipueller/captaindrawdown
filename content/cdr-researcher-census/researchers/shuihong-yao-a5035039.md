@@ -1,7 +1,7 @@
 ---
 title: "Shuihong Yao"
 description: "Shuihong Yao is a Senior Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 52 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.265669
+date: 2026-07-11T11:05:42.953035
 url: "/cdr-researcher-census/researchers/shuihong-yao-a5035039/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 23 |
 | Citations | 1,370 |
 | Publications | 52 |
-| CDR Focus | 7.7% |
-| Trajectory | Growing |
+| CDR Focus | 5.8% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

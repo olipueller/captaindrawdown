@@ -1,7 +1,7 @@
 ---
 title: "Yuan Gao"
 description: "Yuan Gao is an Early-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.724256
+date: 2026-07-11T11:05:44.118311
 url: "/cdr-researcher-census/researchers/yuan-gao-a5007438/"
 layout: "researcher"
 hiddenInHomeList: true

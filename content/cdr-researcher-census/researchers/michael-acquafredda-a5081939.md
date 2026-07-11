@@ -1,7 +1,7 @@
 ---
 title: "Michael Acquafredda"
 description: "Michael Acquafredda is a Mid-career Ocean CDR researcher at Shell (Norway) in NO. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.045051
+date: 2026-07-11T11:05:44.381441
 url: "/cdr-researcher-census/researchers/michael-acquafredda-a5081939/"
 layout: "researcher"
 hiddenInHomeList: true

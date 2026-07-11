@@ -1,7 +1,7 @@
 ---
 title: "Shuyi Yang"
 description: "Shuyi Yang is a Mid-career Biochar researcher at Bohai University in CN. With 74 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.293926
+date: 2026-07-11T11:05:42.969936
 url: "/cdr-researcher-census/researchers/shuyi-yang-a5037568/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 19 |
 | Citations | 1,257 |
 | Publications | 74 |
-| CDR Focus | 13.5% |
+| CDR Focus | 9.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

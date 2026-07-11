@@ -1,7 +1,7 @@
 ---
 title: "Mohd Hanif Mohamad Halim"
 description: "Mohd Hanif Mohamad Halim is a Mid-career General CDR researcher at Petronas (Malaysia) in MY. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.846655
+date: 2026-07-11T11:05:44.210478
 url: "/cdr-researcher-census/researchers/mohd-hanif-mohamad-halim-a5087506/"
 layout: "researcher"
 hiddenInHomeList: true

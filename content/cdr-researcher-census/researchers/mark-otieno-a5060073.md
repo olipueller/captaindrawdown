@@ -1,7 +1,7 @@
 ---
 title: "Mark Otieno"
 description: "Mark Otieno is an Early-career Soil Carbon researcher at University of Embu in KE. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.096937
+date: 2026-07-11T11:05:43.555531
 url: "/cdr-researcher-census/researchers/mark-otieno-a5060073/"
 layout: "researcher"
 hiddenInHomeList: true

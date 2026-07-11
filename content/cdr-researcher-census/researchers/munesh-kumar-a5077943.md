@@ -1,7 +1,7 @@
 ---
 title: "Munesh Kumar"
 description: "Munesh Kumar is a Senior Soil Carbon researcher at Hemvati Nandan Bahuguna Garhwal University in IN. With 153 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.992040
+date: 2026-07-11T11:05:42.810115
 url: "/cdr-researcher-census/researchers/munesh-kumar-a5077943/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Citations | 4,721 |
 | Publications | 153 |
 | CDR Focus | 6.5% |
-| Trajectory | Stable |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
@@ -74,11 +74,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 8. **Altitude-driven changes in carbon storage, soil properties, and leaf nutritional value of Quercus semecarpifolia in the northwestern Himalayas** (2025)
    2 citations · Soil Carbon
 
-9. **Altitudinal Variation in Carbon Sequestration and Carbon Credit Potential of <i>Grewia optiva</i> Drumm in the Himalayan Ecosystems of Uttarakhand, India** (2025)
-   0 citations · Soil Carbon
-
-10. **Socio-Economic Impacts of Carbon Sequestration on Livelihoods and Future Climate** (2022)
+9. **The Carbon Credit of <i>Alnus nepalensis</i> Forest Stands as a Source of Livelihood to the Local Inhabitants in the Garhwal Himalaya** (2026)
    0 citations · General CDR
+
+10. **Altitudinal Variation in Carbon Sequestration and Carbon Credit Potential of <i>Grewia optiva</i> Drumm in the Himalayan Ecosystems of Uttarakhand, India** (2025)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

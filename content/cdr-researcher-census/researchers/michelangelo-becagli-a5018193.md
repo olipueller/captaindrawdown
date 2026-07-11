@@ -1,7 +1,7 @@
 ---
 title: "Michelangelo Becagli"
 description: "Michelangelo Becagli is a Mid-career Soil Carbon researcher at University of Pisa in IT. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.250777
+date: 2026-07-11T11:05:43.646724
 url: "/cdr-researcher-census/researchers/michelangelo-becagli-a5018193/"
 layout: "researcher"
 hiddenInHomeList: true

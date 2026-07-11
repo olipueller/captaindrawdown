@@ -1,7 +1,7 @@
 ---
 title: "Tom Reershemius"
 description: "Tom Reershemius is a Mid-career Enhanced Weathering researcher at Newcastle University in GB. With 37 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.785581
+date: 2026-07-11T11:05:43.338134
 url: "/cdr-researcher-census/researchers/tom-reershemius-a5008768/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 7 |
 | Citations | 444 |
 | Publications | 37 |
-| CDR Focus | 83.8% |
-| Trajectory | Stable |
+| CDR Focus | 54.1% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

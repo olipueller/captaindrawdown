@@ -1,7 +1,7 @@
 ---
 title: "Zhengyi Huang"
 description: "Zhengyi Huang is a Mid-career Soil Carbon researcher at Fujian Normal University in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.089681
+date: 2026-07-11T11:05:44.398977
 url: "/cdr-researcher-census/researchers/zhengyi-huang-a5078453/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 108 |
 | Publications | 11 |
-| CDR Focus | 27.3% |
+| CDR Focus | 18.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

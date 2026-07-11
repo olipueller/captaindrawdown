@@ -1,7 +1,7 @@
 ---
 title: "Anne Zimmermann"
 description: "Anne Zimmermann is a Senior Soil Carbon researcher at National Research Tomsk State University in RU. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.863448
+date: 2026-07-11T11:05:43.393379
 url: "/cdr-researcher-census/researchers/anne-zimmermann-a5012265/"
 layout: "researcher"
 hiddenInHomeList: true

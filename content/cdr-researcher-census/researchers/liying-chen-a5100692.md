@@ -1,7 +1,7 @@
 ---
 title: "Liying Chen"
 description: "Liying Chen is a Senior Soil Carbon researcher at Qingdao University in CN. With 73 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.141542
+date: 2026-07-11T11:05:42.879556
 url: "/cdr-researcher-census/researchers/liying-chen-a5100692/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 18 |
 | Citations | 2,142 |
 | Publications | 73 |
-| CDR Focus | 5.5% |
+| CDR Focus | 6.8% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -61,6 +61,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 4. **Quantifying the negative effects of dissolved organic carbon of maize straw-derived biochar on its carbon sequestration potential in a paddy soil** (2024)
    19 citations · Biochar
+
+5. **N, P, O-codoped biochar from phytoremediation residues: a promising cathode material for Li–S batteries** (2022)
+   5 citations · Biochar
 
 ## External Profiles
 

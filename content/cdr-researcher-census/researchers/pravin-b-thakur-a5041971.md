@@ -1,7 +1,7 @@
 ---
 title: "Pravin B. Thakur"
 description: "Pravin B. Thakur is a Mid-career Soil Carbon researcher at Central Research Institute for Dryland Agriculture in IN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.166847
+date: 2026-07-11T11:05:44.451051
 url: "/cdr-researcher-census/researchers/pravin-b-thakur-a5041971/"
 layout: "researcher"
 hiddenInHomeList: true

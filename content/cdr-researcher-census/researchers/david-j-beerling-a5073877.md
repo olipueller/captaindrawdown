@@ -1,7 +1,7 @@
 ---
 title: "David J. Beerling"
 description: "David J. Beerling is an Eminent Enhanced Weathering researcher at Leverhulme Trust in GB. With 509 publications and an h-index of 97, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.821314
+date: 2026-07-11T11:05:42.767115
 url: "/cdr-researcher-census/researchers/david-j-beerling-a5073877/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 97 |
 | Citations | 33,885 |
 | Publications | 509 |
-| CDR Focus | 11.2% |
-| Trajectory | Declining |
+| CDR Focus | 10.2% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

@@ -1,7 +1,7 @@
 ---
 title: "Jianfang Yan"
 description: "Jianfang Yan is a Mid-career Soil Carbon researcher at Zhejiang Normal University in CN. With 26 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.615086
+date: 2026-07-11T11:05:43.216908
 url: "/cdr-researcher-census/researchers/jianfang-yan-a5101764/"
 layout: "researcher"
 hiddenInHomeList: true

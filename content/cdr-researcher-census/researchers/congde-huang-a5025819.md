@@ -1,7 +1,7 @@
 ---
 title: "Congde Huang"
 description: "Congde Huang is a Senior Soil Carbon researcher at Sichuan Agricultural University in CN. With 73 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.382846
+date: 2026-07-11T11:05:43.028362
 url: "/cdr-researcher-census/researchers/congde-huang-a5025819/"
 layout: "researcher"
 hiddenInHomeList: true

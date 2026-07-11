@@ -1,7 +1,7 @@
 ---
 title: "Govind Kumar Yadav"
 description: "Govind Kumar Yadav is an Early-career Soil Carbon researcher. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.050739
+date: 2026-07-11T11:05:44.386098
 url: "/cdr-researcher-census/researchers/govind-kumar-yadav-a5069321/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,13 +40,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 110 |
 | Publications | 14 |
-| CDR Focus | 7.1% |
+| CDR Focus | 14.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Recycling of Crop Residues for Sustainable Soil Health Management: A Review** (2021)
    6 citations · Soil Carbon
+
+2. **Various Technologies used in Capturing CO2 and Manufacturing Cost of Microalgae** (2022)
+   0 citations · DAC
 
 ## External Profiles
 

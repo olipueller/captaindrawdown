@@ -1,7 +1,7 @@
 ---
 title: "Miaorong Zhou"
 description: "Miaorong Zhou is a Mid-career Soil Carbon researcher at Zhejiang A & F University in CN. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.623541
+date: 2026-07-11T11:05:44.028496
 url: "/cdr-researcher-census/researchers/miaorong-zhou-a5073062/"
 layout: "researcher"
 hiddenInHomeList: true

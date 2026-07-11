@@ -1,7 +1,7 @@
 ---
 title: "Gabriel Hould Gosselin"
 description: "Gabriel Hould Gosselin is a Senior Soil Carbon researcher. With 57 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.941344
+date: 2026-07-11T11:05:43.445533
 url: "/cdr-researcher-census/researchers/gabriel-hould-gosselin-a5085288/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 359 |
 | Publications | 57 |
-| CDR Focus | 7.0% |
+| CDR Focus | 5.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

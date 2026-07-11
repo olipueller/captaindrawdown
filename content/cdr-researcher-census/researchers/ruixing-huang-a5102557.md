@@ -1,7 +1,7 @@
 ---
 title: "Ruixing Huang"
 description: "Ruixing Huang is a Mid-career Biochar researcher at Harbin Institute of Technology in CN. With 36 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.345111
+date: 2026-07-11T11:05:43.003500
 url: "/cdr-researcher-census/researchers/ruixing-huang-a5102557/"
 layout: "researcher"
 hiddenInHomeList: true

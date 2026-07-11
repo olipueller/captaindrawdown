@@ -1,7 +1,7 @@
 ---
 title: "Isabella M. Goodchild-Michelman"
 description: "Isabella M. Goodchild-Michelman is a Mid-career Ocean CDR researcher at Massachusetts Institute of Technology in US. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.609664
+date: 2026-07-11T11:05:44.007159
 url: "/cdr-researcher-census/researchers/isabella-m-goodchild-michelman-a5047633/"
 layout: "researcher"
 hiddenInHomeList: true

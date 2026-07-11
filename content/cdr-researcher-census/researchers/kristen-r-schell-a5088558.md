@@ -1,7 +1,7 @@
 ---
 title: "Kristen R. Schell"
 description: "Kristen R. Schell is a Mid-career General CDR researcher at Carleton University in CA. With 42 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.754068
+date: 2026-07-11T11:05:43.314703
 url: "/cdr-researcher-census/researchers/kristen-r-schell-a5088558/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 12 |
 | Citations | 465 |
 | Publications | 42 |
-| CDR Focus | 9.5% |
-| Trajectory | Declining |
+| CDR Focus | 7.1% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

@@ -1,7 +1,7 @@
 ---
 title: "Laura L. Van Eerd"
 description: "Laura L. Van Eerd is a Senior Soil Carbon researcher at Agriculture and Agri-Food Canada in CA. With 128 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.035618
+date: 2026-07-11T11:05:42.828559
 url: "/cdr-researcher-census/researchers/laura-l-van-eerd-a5001776/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 33 |
 | Citations | 3,640 |
 | Publications | 128 |
-| CDR Focus | 6.2% |
+| CDR Focus | 5.5% |
 | Trajectory | Declining |
 
 ## Top CDR Publications

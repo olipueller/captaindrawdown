@@ -1,7 +1,7 @@
 ---
 title: "Kechao Huang"
 description: "Kechao Huang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 46 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.704252
+date: 2026-07-11T11:05:43.277115
 url: "/cdr-researcher-census/researchers/kechao-huang-a5044153/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 505 |
 | Publications | 46 |
-| CDR Focus | 13.0% |
+| CDR Focus | 10.9% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

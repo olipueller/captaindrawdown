@@ -1,7 +1,7 @@
 ---
 title: "Maria Zeitz"
 description: "Maria Zeitz is a Mid-career General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 45 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.177021
+date: 2026-07-11T11:05:43.594446
 url: "/cdr-researcher-census/researchers/maria-zeitz-a5041436/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 8 |
 | Citations | 277 |
 | Publications | 45 |
-| CDR Focus | 8.9% |
+| CDR Focus | 6.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

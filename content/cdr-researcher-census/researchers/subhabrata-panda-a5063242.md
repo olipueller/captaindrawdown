@@ -1,7 +1,7 @@
 ---
 title: "Subhabrata Panda"
 description: "Subhabrata Panda is a Mid-career Soil Carbon researcher at Bidhan Chandra Krishi Viswavidyalaya in IN. With 29 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.320472
+date: 2026-07-11T11:05:42.987974
 url: "/cdr-researcher-census/researchers/subhabrata-panda-a5063242/"
 layout: "researcher"
 hiddenInHomeList: true

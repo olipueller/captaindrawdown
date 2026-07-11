@@ -1,7 +1,7 @@
 ---
 title: "Zhenxing Yan"
 description: "Zhenxing Yan is a Mid-career Soil Carbon researcher at Center for Agricultural Resources Research in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.998924
+date: 2026-07-11T11:05:43.486788
 url: "/cdr-researcher-census/researchers/zhenxing-yan-a5037435/"
 layout: "researcher"
 hiddenInHomeList: true

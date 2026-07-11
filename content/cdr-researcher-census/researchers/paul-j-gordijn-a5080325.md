@@ -1,7 +1,7 @@
 ---
 title: "Paul J. Gordijn"
 description: "Paul J. Gordijn is a Mid-career Soil Carbon researcher at South African Environmental Observation Network in ZA. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.314080
+date: 2026-07-11T11:05:43.688645
 url: "/cdr-researcher-census/researchers/paul-j-gordijn-a5080325/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 236 |
 | Publications | 15 |
-| CDR Focus | 13.3% |
-| Trajectory | Exiting |
+| CDR Focus | 6.7% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

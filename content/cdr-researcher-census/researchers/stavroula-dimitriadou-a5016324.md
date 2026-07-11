@@ -1,7 +1,7 @@
 ---
 title: "Stavroula Dimitriadou"
 description: "Stavroula Dimitriadou is a Mid-career Soil Carbon researcher. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.188313
+date: 2026-07-11T11:05:43.602503
 url: "/cdr-researcher-census/researchers/stavroula-dimitriadou-a5016324/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "J.V.N.S. Prasad"
 description: "J.V.N.S. Prasad is a Senior Soil Carbon researcher at Central Research Institute for Dryland Agriculture in IN. With 76 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.280301
+date: 2026-07-11T11:05:42.961565
 url: "/cdr-researcher-census/researchers/jvns-prasad-a5054406/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 17 |
 | Citations | 1,317 |
 | Publications | 76 |
-| CDR Focus | 7.9% |
-| Trajectory | Exiting |
+| CDR Focus | 9.2% |
+| Trajectory | Declining |
 
 ## Top CDR Publications
 
@@ -59,14 +59,23 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **Can adoption of climate resilient management practices achieve carbon neutrality in traditional green revolution states of Punjab and Haryana?** (2023)
    9 citations · Soil Carbon
 
-4. **Technologies, Programs, and Policies for Enhancing Soil Organic Carbon in Rainfed Dryland Ecosystems of India** (2022)
+4. **Design and Control of a PV-FC-BESS-Based Hybrid Renewable Energy System Working in LabVIEW Environment for Short/Long-Duration Irrigation Support in Remote Rural Areas for Paddy Fields** (2021)
+   8 citations
+
+5. **Conservation agriculture for riverine agri-food systems under the climate crisis: enhancing soil health and mitigating erosion** (2025)
+   4 citations · Soil Carbon
+
+6. **Technologies, Programs, and Policies for Enhancing Soil Organic Carbon in Rainfed Dryland Ecosystems of India** (2022)
    4 citations · General CDR
 
-5. **Soil Carbon Sequestration and Agronomic Productivity as Influenced by the Long-Term Organic and Inorganic Fertilisation Under the Upland Rice–Wheat System in Vertisols of Central India** (2024)
+7. **Soil Carbon Sequestration and Agronomic Productivity as Influenced by the Long-Term Organic and Inorganic Fertilisation Under the Upland Rice–Wheat System in Vertisols of Central India** (2024)
    2 citations · Soil Carbon
 
-6. **Regaining the Essential Ecosystem Services in Degraded Lands** (2023)
+8. **Regaining the Essential Ecosystem Services in Degraded Lands** (2023)
    2 citations · Soil Carbon
+
+9. **Comparative Study of Nanomaterials for the Removal of Contaminants in Water** (2025)
+   0 citations
 
 ## External Profiles
 

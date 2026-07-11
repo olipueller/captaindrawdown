@@ -1,7 +1,7 @@
 ---
 title: "Marcos Fontela"
 description: "Marcos Fontela is a Mid-career Ocean CDR researcher at Instituto de Investigacións Mariñas in ES. With 57 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.957485
+date: 2026-07-11T11:05:43.456901
 url: "/cdr-researcher-census/researchers/marcos-fontela-a5060204/"
 layout: "researcher"
 hiddenInHomeList: true

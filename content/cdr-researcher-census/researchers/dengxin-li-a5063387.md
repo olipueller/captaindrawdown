@@ -1,7 +1,7 @@
 ---
 title: "Dengxin Li"
 description: "Dengxin Li is a Mid-career General CDR researcher at Donghua University in CN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.047251
+date: 2026-07-11T11:05:44.383049
 url: "/cdr-researcher-census/researchers/dengxin-li-a5063387/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 5 |
 | Citations | 110 |
 | Publications | 15 |
-| CDR Focus | 13.3% |
+| CDR Focus | 6.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

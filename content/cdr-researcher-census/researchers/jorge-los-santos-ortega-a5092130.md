@@ -1,7 +1,7 @@
 ---
 title: "Jorge Los Santos-Ortega"
 description: "Jorge Los Santos-Ortega is a Mid-career General CDR researcher at Universidad Tecnológica de Panamá in PA. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.021829
+date: 2026-07-11T11:05:44.358714
 url: "/cdr-researcher-census/researchers/jorge-los-santos-ortega-a5092130/"
 layout: "researcher"
 hiddenInHomeList: true

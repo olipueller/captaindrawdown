@@ -1,7 +1,7 @@
 ---
 title: "Dongjing Sun"
 description: "Dongjing Sun is a Mid-career General CDR researcher at Guangxi Academy of Agricultural Science in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.223277
+date: 2026-07-11T11:05:43.627433
 url: "/cdr-researcher-census/researchers/dongjing-sun-a5101082/"
 layout: "researcher"
 hiddenInHomeList: true

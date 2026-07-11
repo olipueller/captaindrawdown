@@ -1,7 +1,7 @@
 ---
 title: "Xueyu Yan"
-description: "Xueyu Yan is a Mid-career Unknown researcher at Nanjing Normal University in CN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.444418
+description: "Xueyu Yan is a Mid-career Ocean CDR researcher at Nanjing Normal University in CN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:43.780304
 url: "/cdr-researcher-census/researchers/xueyu-yan-a5100574/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Nanjing Normal University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Unknown**
+**Ocean CDR**
 
-Unknown
+Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
 
 ## Metrics
 
@@ -43,12 +43,15 @@ Unknown
 | Citations | 204 |
 | Publications | 17 |
 | CDR Focus | 5.9% |
-| Trajectory | Exiting |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Provenance of fine-grained Quaternary sediments in the Tengger Sandy Desert recorded by Sr-Nd isotopes and its linkage with Quaternary aeolian silts on the Chinese Loess Plateau** (2024)
    6 citations
+
+2. **Carbon removal from the ocean by bivalve aquaculture: A global view** (2026)
+   2 citations · Ocean CDR
 
 ## External Profiles
 

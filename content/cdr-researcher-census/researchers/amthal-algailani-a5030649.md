@@ -1,7 +1,7 @@
 ---
 title: "Amthal Al‐Gailani"
 description: "Amthal Al‐Gailani is a Mid-career General CDR researcher at University of Hull in GB. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.582418
+date: 2026-07-11T11:05:43.968493
 url: "/cdr-researcher-census/researchers/amthal-algailani-a5030649/"
 layout: "researcher"
 hiddenInHomeList: true

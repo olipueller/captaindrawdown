@@ -1,7 +1,7 @@
 ---
 title: "Liping Zhang"
 description: "Liping Zhang is a Senior General CDR researcher at Hebei Academy of Sciences in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.997734
+date: 2026-07-11T11:05:44.325025
 url: "/cdr-researcher-census/researchers/liping-zhang-a5100426/"
 layout: "researcher"
 hiddenInHomeList: true

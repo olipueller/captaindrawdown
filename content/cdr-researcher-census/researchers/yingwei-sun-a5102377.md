@@ -1,7 +1,7 @@
 ---
 title: "Yingwei Sun"
 description: "Yingwei Sun is a Senior Soil Carbon researcher at Shenyang Center for Disease Control and Prevention in CN. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.914738
+date: 2026-07-11T11:05:44.260056
 url: "/cdr-researcher-census/researchers/yingwei-sun-a5102377/"
 layout: "researcher"
 hiddenInHomeList: true

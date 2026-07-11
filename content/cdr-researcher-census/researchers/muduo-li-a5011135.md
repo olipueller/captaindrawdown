@@ -1,7 +1,7 @@
 ---
 title: "Muduo Li"
 description: "Muduo Li is a Mid-career Biochar researcher at Hong Kong University of Science and Technology in HK. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.078742
+date: 2026-07-11T11:05:43.541908
 url: "/cdr-researcher-census/researchers/muduo-li-a5011135/"
 layout: "researcher"
 hiddenInHomeList: true

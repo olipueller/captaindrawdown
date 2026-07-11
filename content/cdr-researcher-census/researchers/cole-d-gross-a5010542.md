@@ -1,7 +1,7 @@
 ---
 title: "Cole D. Gross"
 description: "Cole D. Gross is a Mid-career Soil Carbon researcher at SUNY College of Environmental Science and Forestry in US. With 35 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.702380
+date: 2026-07-11T11:05:43.276036
 url: "/cdr-researcher-census/researchers/cole-d-gross-a5010542/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 506 |
 | Publications | 35 |
-| CDR Focus | 17.1% |
+| CDR Focus | 14.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

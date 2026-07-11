@@ -1,7 +1,7 @@
 ---
 title: "Panfeng Tu"
 description: "Panfeng Tu is a Mid-career Soil Carbon researcher at South China Agricultural University in CN. With 36 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.302051
+date: 2026-07-11T11:05:42.975809
 url: "/cdr-researcher-census/researchers/panfeng-tu-a5052916/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 17 |
 | Citations | 1,226 |
 | Publications | 36 |
-| CDR Focus | 11.1% |
-| Trajectory | Growing |
+| CDR Focus | 8.3% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

@@ -1,7 +1,7 @@
 ---
 title: "Maxwell Pisciotta"
 description: "Maxwell Pisciotta is a Mid-career General CDR researcher at University of Pennsylvania in US. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.348467
+date: 2026-07-11T11:05:43.005951
 url: "/cdr-researcher-census/researchers/maxwell-pisciotta-a5082529/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 7 |
 | Citations | 1,072 |
 | Publications | 21 |
-| CDR Focus | 47.6% |
+| CDR Focus | 38.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

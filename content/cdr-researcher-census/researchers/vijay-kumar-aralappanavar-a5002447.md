@@ -1,7 +1,7 @@
 ---
 title: "Vijay Kumar Aralappanavar"
 description: "Vijay Kumar Aralappanavar is a Mid-career Soil Carbon researcher at University of South Australia in AU. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.640629
+date: 2026-07-11T11:05:43.233640
 url: "/cdr-researcher-census/researchers/vijay-kumar-aralappanavar-a5002447/"
 layout: "researcher"
 hiddenInHomeList: true

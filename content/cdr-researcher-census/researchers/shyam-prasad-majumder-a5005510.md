@@ -1,7 +1,7 @@
 ---
 title: "Shyam Prasad Majumder"
 description: "Shyam Prasad Majumder is a Senior Soil Carbon researcher at Government of West Bengal in IN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.082521
+date: 2026-07-11T11:05:43.545112
 url: "/cdr-researcher-census/researchers/shyam-prasad-majumder-a5005510/"
 layout: "researcher"
 hiddenInHomeList: true

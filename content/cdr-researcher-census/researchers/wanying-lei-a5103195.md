@@ -1,7 +1,7 @@
 ---
 title: "Wanying Lei"
 description: "Wanying Lei is a Mid-career Soil Carbon researcher at Xi'an University of Architecture and Technology in CN. With 23 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.242966
+date: 2026-07-11T11:05:42.937739
 url: "/cdr-researcher-census/researchers/wanying-lei-a5103195/"
 layout: "researcher"
 hiddenInHomeList: true

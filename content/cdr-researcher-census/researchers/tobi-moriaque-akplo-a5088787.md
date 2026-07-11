@@ -1,7 +1,7 @@
 ---
 title: "Tobi Moriaque Akplo"
 description: "Tobi Moriaque Akplo is a Mid-career Soil Carbon researcher at Institut Sénégalais de Recherches Agricoles in SN. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.512067
+date: 2026-07-11T11:05:43.842684
 url: "/cdr-researcher-census/researchers/tobi-moriaque-akplo-a5088787/"
 layout: "researcher"
 hiddenInHomeList: true

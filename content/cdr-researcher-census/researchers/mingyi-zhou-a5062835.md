@@ -1,7 +1,7 @@
 ---
 title: "Mingyi Zhou"
 description: "Mingyi Zhou is an Early-career Soil Carbon researcher at Shenyang Agricultural University in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.981788
+date: 2026-07-11T11:05:44.313299
 url: "/cdr-researcher-census/researchers/mingyi-zhou-a5062835/"
 layout: "researcher"
 hiddenInHomeList: true

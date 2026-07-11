@@ -1,7 +1,7 @@
 ---
 title: "Cathryn A. Wynn‐Edwards"
 description: "Cathryn A. Wynn‐Edwards is a Mid-career Ocean CDR researcher at CSIRO Oceans and Atmosphere in AU. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.969637
+date: 2026-07-11T11:05:44.303151
 url: "/cdr-researcher-census/researchers/cathryn-a-wynnedwards-a5067302/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 6 |
 | Citations | 119 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 5.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

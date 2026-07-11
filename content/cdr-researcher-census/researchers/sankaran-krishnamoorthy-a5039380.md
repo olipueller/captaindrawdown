@@ -1,7 +1,7 @@
 ---
 title: "Sankaran Krishnamoorthy"
 description: "Sankaran Krishnamoorthy is a Mid-career General CDR researcher at Vignan's Foundation for Science, Technology & Research in IN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.470804
+date: 2026-07-11T11:05:43.799082
 url: "/cdr-researcher-census/researchers/sankaran-krishnamoorthy-a5039380/"
 layout: "researcher"
 hiddenInHomeList: true

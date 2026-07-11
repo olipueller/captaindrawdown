@@ -1,7 +1,7 @@
 ---
 title: "Jean-Pascal Matteau"
 description: "Jean-Pascal Matteau is a Mid-career Soil Carbon researcher at Ministère de l'Agriculture, des Pêcheries et de l'Alimentation in CA. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.089014
+date: 2026-07-11T11:05:44.398421
 url: "/cdr-researcher-census/researchers/jean-pascal-matteau-a5036825/"
 layout: "researcher"
 hiddenInHomeList: true

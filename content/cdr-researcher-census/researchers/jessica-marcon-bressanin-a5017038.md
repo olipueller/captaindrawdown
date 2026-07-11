@@ -1,7 +1,7 @@
 ---
 title: "Jéssica Marcon Bressanin"
 description: "Jéssica Marcon Bressanin is a Mid-career General CDR researcher at Instituto de Tecnologia de Pernambuco in BR. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.182030
+date: 2026-07-11T11:05:43.597946
 url: "/cdr-researcher-census/researchers/jessica-marcon-bressanin-a5017038/"
 layout: "researcher"
 hiddenInHomeList: true

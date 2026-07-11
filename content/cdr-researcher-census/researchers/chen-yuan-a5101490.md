@@ -1,7 +1,7 @@
 ---
 title: "Chen Yuan"
 description: "Chen Yuan is a Senior Biochar researcher at University of Maryland, College Park in US. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.798636
+date: 2026-07-11T11:05:44.173332
 url: "/cdr-researcher-census/researchers/chen-yuan-a5101490/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 8 |
 | Citations | 141 |
 | Publications | 11 |
-| CDR Focus | 18.2% |
-| Trajectory | Growing |
+| CDR Focus | 9.1% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

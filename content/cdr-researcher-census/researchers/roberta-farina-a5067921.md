@@ -1,7 +1,7 @@
 ---
 title: "Roberta Farina"
 description: "Roberta Farina is a Senior Soil Carbon researcher at Consiglio per la ricerca in agricoltura e l’analisi dell’economia agraria (CREA) in IT. With 111 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.142687
+date: 2026-07-11T11:05:42.880189
 url: "/cdr-researcher-census/researchers/roberta-farina-a5067921/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 25 |
 | Citations | 2,129 |
 | Publications | 111 |
-| CDR Focus | 8.1% |
-| Trajectory | Stable |
+| CDR Focus | 6.3% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
@@ -62,19 +62,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **C-sequestration and resilience to climate change of globe artichoke cropping systems depend on crop residues management** (2021)
    20 citations · Soil Carbon
 
-5. **Evaluation of TOC Change Scenarios in Cropping Systems with and Without Diversification Across Different Scales: Insights from a Northern Italian Case Study** (2025)
-   0 citations · Soil Carbon
+5. **Estimated effect of crop diversification on soil organic carbon under present and future climate conditions** (2025)
+   2 citations · Soil Carbon
 
-6. **Comment on bg-2020-489** (2021)
-   0 citations · General CDR
+6. **Evaluation of TOC Change Scenarios in Cropping Systems with and Without Diversification Across Different Scales: Insights from a Northern Italian Case Study** (2025)
+   0 citations · Soil Carbon
 
 7. **Comment on bg-2020-489** (2021)
    0 citations · General CDR
 
-8. **Modelling soil carbon under diverse cropping systems and farming management in contrasting climatic regions in Europe** (2021)
+8. **Comment on bg-2020-489** (2021)
    0 citations · General CDR
 
-9. **Comment on bg-2020-489** (2021)
+9. **Modelling soil carbon under diverse cropping systems and farming management in contrasting climatic regions in Europe** (2021)
+   0 citations · General CDR
+
+10. **Comment on bg-2020-489** (2021)
    0 citations · General CDR
 
 ## External Profiles

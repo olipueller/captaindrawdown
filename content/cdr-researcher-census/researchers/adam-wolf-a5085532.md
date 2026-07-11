@@ -1,7 +1,7 @@
 ---
 title: "Adam Wolf"
 description: "Adam Wolf is a Senior Enhanced Weathering researcher at Eion Corp in US. With 82 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.979012
+date: 2026-07-11T11:05:42.804656
 url: "/cdr-researcher-census/researchers/adam-wolf-a5085532/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 30 |
 | Citations | 5,203 |
 | Publications | 82 |
-| CDR Focus | 11.0% |
+| CDR Focus | 9.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

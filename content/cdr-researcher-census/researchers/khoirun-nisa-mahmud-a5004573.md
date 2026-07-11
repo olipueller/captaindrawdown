@@ -1,7 +1,7 @@
 ---
 title: "Khoirun Nisa Mahmud"
 description: "Khoirun Nisa Mahmud is a Mid-career Biochar researcher at University of Technology Malaysia in MY. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.838864
+date: 2026-07-11T11:05:44.204611
 url: "/cdr-researcher-census/researchers/khoirun-nisa-mahmud-a5004573/"
 layout: "researcher"
 hiddenInHomeList: true

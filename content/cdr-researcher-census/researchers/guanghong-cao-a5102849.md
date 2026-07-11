@@ -1,7 +1,7 @@
 ---
 title: "Guanghong Cao"
 description: "Guanghong Cao is a Senior Soil Carbon researcher at National Science and Technology Development Agency in TH. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.992409
+date: 2026-07-11T11:05:44.321233
 url: "/cdr-researcher-census/researchers/guanghong-cao-a5102849/"
 layout: "researcher"
 hiddenInHomeList: true

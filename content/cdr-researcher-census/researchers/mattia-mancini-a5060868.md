@@ -1,7 +1,7 @@
 ---
 title: "Mattia Mancini"
 description: "Mattia Mancini is a Senior General CDR researcher. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.566371
+date: 2026-07-11T11:05:43.927720
 url: "/cdr-researcher-census/researchers/mattia-mancini-a5060868/"
 layout: "researcher"
 hiddenInHomeList: true

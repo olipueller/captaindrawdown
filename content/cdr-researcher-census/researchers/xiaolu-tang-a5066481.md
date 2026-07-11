@@ -1,7 +1,7 @@
 ---
 title: "Xiaolu Tang"
 description: "Xiaolu Tang is a Senior Soil Carbon researcher at Chengdu University of Technology in CN. With 168 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.131396
+date: 2026-07-11T11:05:42.873945
 url: "/cdr-researcher-census/researchers/xiaolu-tang-a5066481/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 24 |
 | Citations | 2,254 |
 | Publications | 168 |
-| CDR Focus | 8.3% |
+| CDR Focus | 6.5% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -71,14 +71,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 7. **Nucleotide depletion signals early-stage soil stable carbon collapse in anthropogenically disturbed alpine ecosystems** (2026)
    0 citations
 
-8. **Divergence in global plant carbon use efficiency across data-driven estimates, satellite product, and process-oriented models** (2025)
+8. **Regulatory mechanisms of spatiotemporal variations in aboveground and belowground net primary production in global terrestrial ecosystems** (2026)
    0 citations
 
-9. **Estuarine Wetland Tidal Organic Carbon Activates Microbial Carbon Pump and Increases Long-Term Soil Carbon Stabilityestuarine Wetland Tidal Organic Carbon Activates Microbial Carbon Pump and Increases Long-Term Soil Carbon Stability** (2024)
+9. **Earthquakes act as a capacitor for terrestrial organic carbon** (2026)
    0 citations · Soil Carbon
 
-10. **Driving Force of Tidal Organic Carbon Input on the Microbial Carbon Pump and the Long-Term Soil Carbon Pool Stability of the Estuarine Wetland** (2024)
-   0 citations · Soil Carbon
+10. **Divergence in global plant carbon use efficiency across data-driven estimates, satellite product, and process-oriented models** (2025)
+   0 citations
 
 ## External Profiles
 

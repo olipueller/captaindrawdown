@@ -1,7 +1,7 @@
 ---
 title: "Mathieu Thévenot"
 description: "Mathieu Thévenot is a Senior Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 36 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.311297
+date: 2026-07-11T11:05:42.981573
 url: "/cdr-researcher-census/researchers/mathieu-thevenot-a5013931/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 1,193 |
 | Publications | 36 |
-| CDR Focus | 11.1% |
+| CDR Focus | 8.3% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -50,13 +50,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Impact of fire exclusion and aspect on soil carbon fractions in Afromontane grasslands, Cathedral Peak, South Africa** (2024)
    3 citations · Soil Carbon
 
-2. **Effects of biochar and its co-application with inorganic and organic fertilizers on soil microbial respiration and temperature sensitivity of carbon mineralization.** (2024)
+2. **Soil microbial community structure and carbon dynamics in response to compost and livestock management in grassland soils** (2026)
+   2 citations
+
+3. **Effects of biochar and its co-application with inorganic and organic fertilizers on soil microbial respiration and temperature sensitivity of carbon mineralization.** (2024)
    1 citations · Biochar
 
-3. **Soil microbial community structure and carbon dynamics in response to compost and livestock management in grassland soils** (2025)
+4. **Soil microbial community structure and carbon dynamics in response to compost and livestock management in grassland soils** (2025)
    0 citations · Soil Carbon
 
-4. **Effect of soil water content on soil respiration sensitivity to temperature (Q10) in a temperate beech forest: overview of data processing from four years of observation with automatic chambers** (2025)
+5. **Effect of soil water content on soil respiration sensitivity to temperature (Q10) in a temperate beech forest: overview of data processing from four years of observation with automatic chambers** (2025)
    0 citations
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Yi Wai Chiang"
 description: "Yi Wai Chiang is a Senior Enhanced Weathering researcher at University of Guelph in CA. With 111 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.076047
+date: 2026-07-11T11:05:42.846904
 url: "/cdr-researcher-census/researchers/yi-wai-chiang-a5024380/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 30 |
 | Citations | 2,972 |
 | Publications | 111 |
-| CDR Focus | 20.7% |
+| CDR Focus | 17.1% |
 | Trajectory | Declining |
 
 ## Top CDR Publications

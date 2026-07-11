@@ -1,7 +1,7 @@
 ---
 title: "Sean Morgan"
 description: "Sean Morgan is a Mid-career Ocean CDR researcher at Dalhousie University in CA. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.028301
+date: 2026-07-11T11:05:44.367055
 url: "/cdr-researcher-census/researchers/sean-morgan-a5047781/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 5 |
 | Citations | 112 |
 | Publications | 14 |
-| CDR Focus | 35.7% |
-| Trajectory | Stable |
+| CDR Focus | 28.6% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

@@ -1,7 +1,7 @@
 ---
 title: "Guisen Yang"
-description: "Guisen Yang is a Mid-career Unknown researcher at Beijing Normal University in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.366531
+description: "Guisen Yang is a Mid-career Soil Carbon researcher at Beijing Normal University in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:43.725545
 url: "/cdr-researcher-census/researchers/guisen-yang-a5101342/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -31,9 +31,9 @@ Beijing Normal University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Unknown**
+**Soil Carbon**
 
-Unknown
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
@@ -42,13 +42,19 @@ Unknown
 | h-index | 6 |
 | Citations | 222 |
 | Publications | 15 |
-| CDR Focus | 6.7% |
+| CDR Focus | 13.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Monitoring carbon dynamics and driving forces in arid and semi-arid river basin: A case study of China's West Liao river Basin** (2025)
+1. **Improving the microenvironment of tracking photovoltaic systems promotes soil organic carbon accumulation by mediating plant carbon inputs and microbial necromass retention** (2025)
+   13 citations · Soil Carbon
+
+2. **Monitoring carbon dynamics and driving forces in arid and semi-arid river basin: A case study of China's West Liao river Basin** (2025)
    0 citations
+
+3. **Analysis of the Phosphorus Mobilization, Uptake, Transport, and Utilization Processes of Dominant C3 and C4 Grasses in a Grassland in Northern China Based on a Conceptual Phosphorus–Carbon Economy System** (2025)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

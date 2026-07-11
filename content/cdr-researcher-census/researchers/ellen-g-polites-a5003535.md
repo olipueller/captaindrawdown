@@ -1,7 +1,7 @@
 ---
 title: "Ellen G. Polites"
 description: "Ellen G. Polites is a Mid-career General CDR researcher at Pacific Northwest National Laboratory in US. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.582109
+date: 2026-07-11T11:05:43.968344
 url: "/cdr-researcher-census/researchers/ellen-g-polites-a5003535/"
 layout: "researcher"
 hiddenInHomeList: true

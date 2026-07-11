@@ -1,7 +1,7 @@
 ---
 title: "Rajeev Padbhushan"
 description: "Rajeev Padbhushan is a Mid-career Soil Carbon researcher at Bihar Agricultural University in IN. With 79 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.487947
+date: 2026-07-11T11:05:43.099928
 url: "/cdr-researcher-census/researchers/rajeev-padbhushan-a5068206/"
 layout: "researcher"
 hiddenInHomeList: true

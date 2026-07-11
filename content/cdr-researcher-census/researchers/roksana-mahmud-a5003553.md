@@ -1,7 +1,7 @@
 ---
 title: "Roksana Mahmud"
 description: "Roksana Mahmud is a Mid-career General CDR researcher at Defense Logistics Agency in US. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.544901
+date: 2026-07-11T11:05:43.143568
 url: "/cdr-researcher-census/researchers/roksana-mahmud-a5003553/"
 layout: "researcher"
 hiddenInHomeList: true

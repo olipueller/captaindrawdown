@@ -1,7 +1,7 @@
 ---
 title: "Yuge Sun"
 description: "Yuge Sun is a Mid-career General CDR researcher at Dongbei University of Finance and Economics in CN. With 34 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.407908
+date: 2026-07-11T11:05:43.044901
 url: "/cdr-researcher-census/researchers/yuge-sun-a5081614/"
 layout: "researcher"
 hiddenInHomeList: true

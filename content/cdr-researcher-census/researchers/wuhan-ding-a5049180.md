@@ -1,7 +1,7 @@
 ---
 title: "Wuhan Ding"
 description: "Wuhan Ding is a Mid-career Soil Carbon researcher at Shandong Jianzhu University in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.889230
+date: 2026-07-11T11:05:44.241400
 url: "/cdr-researcher-census/researchers/wuhan-ding-a5049180/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 129 |
 | Publications | 13 |
-| CDR Focus | 15.4% |
-| Trajectory | Exiting |
+| CDR Focus | 23.1% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
@@ -55,6 +55,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 2. **Modeling Adaptive Strategies on Maintaining Wheat-Corn Production and Reducing Net Greenhouse Gas Emissions under Climate Change** (2022)
    3 citations · Soil Carbon
+
+3. **Data-driven precision optimization of straw and N-fertilizer input to balance SOC sequestration and stability in China’s intensive croplands** (2026)
+   2 citations · Soil Carbon
 
 ## External Profiles
 

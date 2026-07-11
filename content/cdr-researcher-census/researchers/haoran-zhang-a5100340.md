@@ -1,7 +1,7 @@
 ---
 title: "Haoran Zhang"
-description: "Haoran Zhang is a Mid-career Ocean CDR researcher at Nanjing University of Information Science and Technology in CN. With 64 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.422459
+description: "Haoran Zhang is a Senior Biochar researcher at Al-Farabi Kazakh National University in KZ. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:43.002743
 url: "/cdr-researcher-census/researchers/haoran-zhang-a5100340/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -16,11 +16,11 @@ robots: "index, follow"
   "url": "https://www.captaindrawdown.com/cdr-researcher-census/researchers/haoran-zhang-a5100340/",
   "affiliation": {
     "@type": "Organization",
-    "name": "Nanjing University of Information Science and Technology"
+    "name": "Al-Farabi Kazakh National University"
   },
   "sameAs": [
-    "https://orcid.org/0000-0002-7485-4549",
-    "https://openalex.org/A5100340494"
+    "https://orcid.org/0000-0003-2060-2626",
+    "https://openalex.org/A5100340499"
   ]
 }
 </script>
@@ -28,47 +28,35 @@ robots: "index, follow"
 ## Profile
 
 **Haoran Zhang**  
-Nanjing University of Information Science and Technology · 🇨🇳 CN
+Al-Farabi Kazakh National University · 🇰🇿 KZ
 
-**Career Stage:** Mid-career
+**Career Stage:** Senior
 
 ## CDR Specialization
 
-**Ocean CDR**
+**Biochar**
 
-Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester carbon in the ocean.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
 | Metric | Value |
 |--------|-------|
-| h-index | 15 |
-| Citations | 888 |
-| Publications | 64 |
-| CDR Focus | 7.8% |
-| Trajectory | Exiting |
+| h-index | 7 |
+| Citations | 1,085 |
+| Publications | 20 |
+| CDR Focus | 5.0% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Complexities of regulating climate by promoting marine primary production with ocean iron fertilization** (2024)
-   31 citations · General CDR
-
-2. **Estimation of secondary PM <sub>2.5</sub> in China and the United States using a multi-tracer approach** (2022)
-   21 citations
-
-3. **Estimation of Secondary PM <sub>2.5</sub> in China and the United States using a Multi-Tracer Approach** (2021)
-   8 citations
-
-4. **Comment on acp-2021-683** (2021)
-   0 citations
-
-5. **Comment on acp-2021-683** (2021)
-   0 citations
+1. **Development of biochar adsorbents based on walnut shell with magnetic modification for efficient crude oil removal from water** (2025)
+   2 citations · Biochar
 
 ## External Profiles
 
-- [ORCID](https://orcid.org/0000-0002-7485-4549)
-- [OpenAlex](https://openalex.org/A5100340494)
+- [ORCID](https://orcid.org/0000-0003-2060-2626)
+- [OpenAlex](https://openalex.org/A5100340499)
 
 ---
 

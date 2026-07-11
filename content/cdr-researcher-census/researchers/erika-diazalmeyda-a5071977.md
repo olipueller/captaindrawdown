@@ -1,7 +1,7 @@
 ---
 title: "Erika Díaz‐Almeyda"
 description: "Erika Díaz‐Almeyda is a Senior Soil Carbon researcher at California State University, San Marcos in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.807826
+date: 2026-07-11T11:05:43.353701
 url: "/cdr-researcher-census/researchers/erika-diazalmeyda-a5071977/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Rémi Cardinael"
 description: "Rémi Cardinael is a Senior Soil Carbon researcher at CIRAD in FR. With 152 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.003301
+date: 2026-07-11T11:05:42.814998
 url: "/cdr-researcher-census/researchers/remi-cardinael-a5048041/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 33 |
 | Citations | 4,390 |
 | Publications | 152 |
-| CDR Focus | 9.2% |
+| CDR Focus | 11.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -62,23 +62,23 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Current NPP cannot predict future soil organic carbon sequestration potential. Comment on “Photosynthetic limits on carbon sequestration in croplands”** (2022)
    25 citations · Soil Carbon
 
-5. **Guidelines for improved quantification and reporting of carbon stocks and additional carbon storage in agroforestry systems** (2025)
+5. **Towards a modular, multi-ecosystem monitoring, reporting and verification (MRV) framework for soil organic carbon stock change assessment** (2024)
+   21 citations · Soil Carbon
+
+6. **Guidelines for improved quantification and reporting of carbon stocks and additional carbon storage in agroforestry systems** (2025)
    17 citations · General CDR
 
-6. **A novel approach to use the DayCent model for simulating agroforestry systems with multiple components** (2025)
+7. **A novel approach to use the DayCent model for simulating agroforestry systems with multiple components** (2025)
    6 citations · General CDR
 
-7. **Surface albedo and thermal radiation dynamics under conservation and conventional agriculture in subhumid Zimbabwe** (2025)
+8. **Surface albedo and thermal radiation dynamics under conservation and conventional agriculture in subhumid Zimbabwe** (2025)
    5 citations · Soil Carbon
 
-8. **Initial soil carbon losses may offset decades of biomass carbon accumulation in Mediterranean afforestation** (2024)
+9. **Initial soil carbon losses may offset decades of biomass carbon accumulation in Mediterranean afforestation** (2024)
    5 citations · General CDR
 
-9. **Enhancing “4 per 1000” initiative implementation through region-specific agricultural and forestry practices** (2025)
+10. **Enhancing “4 per 1000” initiative implementation through region-specific agricultural and forestry practices** (2025)
    3 citations · General CDR
-
-10. **The contribution of agroforestry systems to improving soil carbon sequestration** (2022)
-   3 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Sukhumaporn Saeng-ngam"
 description: "Sukhumaporn Saeng-ngam is a Mid-career Soil Carbon researcher at Srinakharinwirot University in TH. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.979477
+date: 2026-07-11T11:05:44.311454
 url: "/cdr-researcher-census/researchers/sukhumaporn-saeng-ngam-a5020245/"
 layout: "researcher"
 hiddenInHomeList: true

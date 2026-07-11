@@ -1,7 +1,7 @@
 ---
 title: "Lingling Zhang"
 description: "Lingling Zhang is a Mid-career Soil Carbon researcher at South China Botanical Garden in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.482671
+date: 2026-07-11T11:05:43.808971
 url: "/cdr-researcher-census/researchers/lingling-zhang-a5103025/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 5 |
 | Citations | 196 |
 | Publications | 6 |
-| CDR Focus | 50.0% |
+| CDR Focus | 66.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -58,6 +58,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 3. **Depth-dependent effects of vegetation restoration on soil quality in ion-adsorbed rare earth leach residues: Insights from soil functions** (2025)
    1 citations · Soil Carbon
+
+4. **Global change reshapes glomalin‐mediated soil carbon sequestration by influencing plant inputs** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

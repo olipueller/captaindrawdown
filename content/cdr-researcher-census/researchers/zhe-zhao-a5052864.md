@@ -1,7 +1,7 @@
 ---
 title: "Zhe Zhao"
 description: "Zhe Zhao is a Senior General CDR researcher at Kunming Medical University in CN. With 38 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.637418
+date: 2026-07-11T11:05:43.231424
 url: "/cdr-researcher-census/researchers/zhe-zhao-a5052864/"
 layout: "researcher"
 hiddenInHomeList: true

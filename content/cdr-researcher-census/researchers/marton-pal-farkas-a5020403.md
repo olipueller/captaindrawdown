@@ -1,7 +1,7 @@
 ---
 title: "Márton Pál Farkas"
 description: "Márton Pál Farkas is a Mid-career General CDR researcher. With 28 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.242838
+date: 2026-07-11T11:05:43.641174
 url: "/cdr-researcher-census/researchers/marton-pal-farkas-a5020403/"
 layout: "researcher"
 hiddenInHomeList: true

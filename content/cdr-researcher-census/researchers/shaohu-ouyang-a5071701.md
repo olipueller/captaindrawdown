@@ -1,7 +1,7 @@
 ---
 title: "Shaohu Ouyang"
 description: "Shaohu Ouyang is a Senior Soil Carbon researcher at Nankai University in CN. With 55 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.204388
+date: 2026-07-11T11:05:42.914455
 url: "/cdr-researcher-census/researchers/shaohu-ouyang-a5071701/"
 layout: "researcher"
 hiddenInHomeList: true

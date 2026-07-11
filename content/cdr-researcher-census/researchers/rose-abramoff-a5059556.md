@@ -1,7 +1,7 @@
 ---
 title: "Rose Abramoff"
 description: "Rose Abramoff is a Senior Soil Carbon researcher at Lawrence Berkeley National Laboratory in US. With 112 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.017106
+date: 2026-07-11T11:05:42.821374
 url: "/cdr-researcher-census/researchers/rose-abramoff-a5059556/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 26 |
 | Citations | 4,045 |
 | Publications | 112 |
-| CDR Focus | 12.5% |
+| CDR Focus | 8.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

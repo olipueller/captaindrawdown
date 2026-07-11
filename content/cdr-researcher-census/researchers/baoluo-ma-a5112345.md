@@ -1,7 +1,7 @@
 ---
 title: "Baoluo Ma"
 description: "Baoluo Ma is a Mid-career Soil Carbon researcher at Agriculture and Agri-Food Canada in CA. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.313792
+date: 2026-07-11T11:05:43.688434
 url: "/cdr-researcher-census/researchers/baoluo-ma-a5112345/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,13 +42,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 236 |
 | Publications | 17 |
-| CDR Focus | 5.9% |
-| Trajectory | Growing |
+| CDR Focus | 11.8% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
 1. **Cereal-legume intercropping stimulates straw decomposition and promotes soil organic carbon stability** (2025)
    28 citations · Soil Carbon
+
+2. **Plastic footprint deteriorates dryland carbon footprint across soil–plant-atmosphere continuum** (2024)
+   10 citations · Soil Carbon
 
 ## External Profiles
 

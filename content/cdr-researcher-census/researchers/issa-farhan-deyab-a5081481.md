@@ -1,7 +1,7 @@
 ---
 title: "Issa Farhan Deyab"
 description: "Issa Farhan Deyab is a Mid-career Biochar researcher at Alsalam University College in IQ. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.747832
+date: 2026-07-11T11:05:43.309790
 url: "/cdr-researcher-census/researchers/issa-farhan-deyab-a5081481/"
 layout: "researcher"
 hiddenInHomeList: true

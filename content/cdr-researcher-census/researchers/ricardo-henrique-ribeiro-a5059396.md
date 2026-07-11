@@ -1,7 +1,7 @@
 ---
 title: "Ricardo Henrique Ribeiro"
 description: "Ricardo Henrique Ribeiro is a Mid-career Soil Carbon researcher at The Ohio State University in US. With 53 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.982663
+date: 2026-07-11T11:05:43.475504
 url: "/cdr-researcher-census/researchers/ricardo-henrique-ribeiro-a5059396/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 340 |
 | Publications | 53 |
-| CDR Focus | 7.5% |
-| Trajectory | Declining |
+| CDR Focus | 5.7% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

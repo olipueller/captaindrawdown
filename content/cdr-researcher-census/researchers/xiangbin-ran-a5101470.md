@@ -1,7 +1,7 @@
 ---
 title: "Xiangbin Ran"
 description: "Xiangbin Ran is a Senior Soil Carbon researcher at First Institute of Oceanography Ministry of Natural Resources in CN. With 103 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.112765
+date: 2026-07-11T11:05:42.864579
 url: "/cdr-researcher-census/researchers/xiangbin-ran-a5101470/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 28 |
 | Citations | 2,445 |
 | Publications | 103 |
-| CDR Focus | 7.8% |
+| CDR Focus | 6.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Emily Cox"
 description: "Emily Cox is a Mid-career General CDR researcher at Cardiff University in GB. With 51 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.359567
+date: 2026-07-11T11:05:43.012873
 url: "/cdr-researcher-census/researchers/emily-cox-a5033239/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 17 |
 | Citations | 1,041 |
 | Publications | 51 |
-| CDR Focus | 33.3% |
+| CDR Focus | 31.4% |
 | Trajectory | Declining |
 
 ## Top CDR Publications

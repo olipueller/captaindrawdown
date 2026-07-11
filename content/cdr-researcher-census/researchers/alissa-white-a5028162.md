@@ -1,7 +1,7 @@
 ---
 title: "Alissa White"
 description: "Alissa White is a Mid-career Soil Carbon researcher at University of Vermont in US. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.013103
+date: 2026-07-11T11:05:43.495490
 url: "/cdr-researcher-census/researchers/alissa-white-a5028162/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 328 |
 | Publications | 21 |
-| CDR Focus | 14.3% |
+| CDR Focus | 19.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -58,6 +58,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 3. **Measuring the Supply of Ecosystem Services from Alternative Soil and Nutrient Management Practices: A Transdisciplinary, Field-Scale Approach** (2021)
    9 citations · Soil Carbon
+
+4. **Mineral associated organic carbon correlates with soil health in agricultural fields** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

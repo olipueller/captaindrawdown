@@ -1,7 +1,7 @@
 ---
 title: "Jinlong Wang"
 description: "Jinlong Wang is a Mid-career Biochar researcher at Nanjing Tech University in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.266610
+date: 2026-07-11T11:05:43.657235
 url: "/cdr-researcher-census/researchers/jinlong-wang-a5016649/"
 layout: "researcher"
 hiddenInHomeList: true

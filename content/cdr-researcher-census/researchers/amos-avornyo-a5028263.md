@@ -1,7 +1,7 @@
 ---
 title: "Amos Avornyo"
 description: "Amos Avornyo is a Mid-career Ocean CDR researcher at Khalifa University of Science and Technology in AE. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.208522
+date: 2026-07-11T11:05:43.617677
 url: "/cdr-researcher-census/researchers/amos-avornyo-a5028263/"
 layout: "researcher"
 hiddenInHomeList: true

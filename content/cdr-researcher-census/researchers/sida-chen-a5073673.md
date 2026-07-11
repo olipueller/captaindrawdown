@@ -1,7 +1,7 @@
 ---
 title: "Sida Chen"
 description: "Sida Chen is a Mid-career General CDR researcher at Beijing Normal University in CN. With 6 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.158625
+date: 2026-07-11T11:05:44.445382
 url: "/cdr-researcher-census/researchers/sida-chen-a5073673/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Tianshu Xu"
 description: "Tianshu Xu is a Mid-career General CDR researcher at Shandong University in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.815252
+date: 2026-07-11T11:05:44.187196
 url: "/cdr-researcher-census/researchers/tianshu-xu-a5045485/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 6 |
 | Citations | 139 |
 | Publications | 11 |
-| CDR Focus | 18.2% |
+| CDR Focus | 9.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -50,7 +50,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 1. **How can ecosystem status be more comprehensively reflected? A case study of Jinan City, China** (2022)
    6 citations · General CDR
 
-2. **How Can Ecosystem Status Be More Comprehensively Reflected?A Case Study of Jinan City, China** (2022)
+2. **Carbon dioxide laser for treating pediatric facial papillomatosis: a case study** (2023)
+   0 citations
+
+3. **How Can Ecosystem Status Be More Comprehensively Reflected?A Case Study of Jinan City, China** (2022)
    0 citations
 
 ## External Profiles

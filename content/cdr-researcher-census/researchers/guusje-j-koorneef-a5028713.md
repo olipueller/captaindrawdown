@@ -1,7 +1,7 @@
 ---
 title: "Guusje J. Koorneef"
 description: "Guusje J. Koorneef is a Mid-career Soil Carbon researcher at Netherlands Institute of Ecology in NL. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.327882
+date: 2026-07-11T11:05:43.699158
 url: "/cdr-researcher-census/researchers/guusje-j-koorneef-a5028713/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Marlon Ramlogan"
 description: "Marlon Ramlogan is a Mid-career Soil Carbon researcher at Rutgers, The State University of New Jersey in US. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.207050
+date: 2026-07-11T11:05:43.616554
 url: "/cdr-researcher-census/researchers/marlon-ramlogan-a5029666/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 267 |
 | Publications | 14 |
-| CDR Focus | 14.3% |
+| CDR Focus | 7.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

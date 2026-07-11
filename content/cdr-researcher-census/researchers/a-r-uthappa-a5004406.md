@@ -1,7 +1,7 @@
 ---
 title: "A. R. Uthappa"
 description: "A. R. Uthappa is a Mid-career Soil Carbon researcher at Central Coastal Agricultural Research Institute in IN. With 51 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.388285
+date: 2026-07-11T11:05:43.031834
 url: "/cdr-researcher-census/researchers/a-r-uthappa-a5004406/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 13 |
 | Citations | 965 |
 | Publications | 51 |
-| CDR Focus | 13.7% |
+| CDR Focus | 15.7% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -53,19 +53,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 2. **Carbon Sequestration Potential of Commercial Agroforestry Systems in Indo-Gangetic Plains of India: Poplar and Eucalyptus-Based Agroforestry Systems** (2023)
    72 citations · Soil Carbon
 
-3. **Nature-based solutions for enhancing CO2 sequestration and rehabilitating degraded lands through silvo-aromatic system and soil moisture conservation techniques** (2025)
+3. **Global assessment of production benefits and risk reduction in agroforestry during extreme weather events under climate change scenarios** (2024)
+   30 citations · General CDR
+
+4. **Nature-based solutions for enhancing CO2 sequestration and rehabilitating degraded lands through silvo-aromatic system and soil moisture conservation techniques** (2025)
    15 citations · Soil Carbon
 
-4. **Mulberry based agroforestry system and canopy management practices to combat soil erosion and enhancing carbon sequestration in degraded lands of Himalayan foothills** (2024)
+5. **Mulberry based agroforestry system and canopy management practices to combat soil erosion and enhancing carbon sequestration in degraded lands of Himalayan foothills** (2024)
    13 citations · Soil Carbon
 
-5. **Optimizing planting geometries in eucalyptus-based food production systems for enhanced yield and carbon sequestration** (2024)
+6. **Optimizing planting geometries in eucalyptus-based food production systems for enhanced yield and carbon sequestration** (2024)
    13 citations · Soil Carbon
 
-6. **Degraded Land Restoration Through Aromatic Plants in India: A Nature‐Based Solution** (2025)
+7. **Degraded Land Restoration Through Aromatic Plants in India: A Nature‐Based Solution** (2025)
    0 citations · Soil Carbon
 
-7. **Litter Dynamics in Fruit Orchards and Natural Forests in the West Coast Region of India – A Comparative Analysis** (2024)
+8. **Litter Dynamics in Fruit Orchards and Natural Forests in the West Coast Region of India – A Comparative Analysis** (2024)
    0 citations · Soil Carbon
 
 ## External Profiles

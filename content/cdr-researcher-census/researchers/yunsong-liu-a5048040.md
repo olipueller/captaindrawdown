@@ -1,7 +1,7 @@
 ---
 title: "Yunsong Liu"
 description: "Yunsong Liu is a Mid-career Biochar researcher at Southwest University in CN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.270807
+date: 2026-07-11T11:05:42.956238
 url: "/cdr-researcher-census/researchers/yunsong-liu-a5048040/"
 layout: "researcher"
 hiddenInHomeList: true

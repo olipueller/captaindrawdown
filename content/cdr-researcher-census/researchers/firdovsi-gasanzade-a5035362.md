@@ -1,7 +1,7 @@
 ---
 title: "Firdovsi Gasanzade"
 description: "Firdovsi Gasanzade is a Mid-career Ocean CDR researcher at Christian-Albrechts-Universität zu Kiel in DE. With 24 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.094975
+date: 2026-07-11T11:05:43.554126
 url: "/cdr-researcher-census/researchers/firdovsi-gasanzade-a5035362/"
 layout: "researcher"
 hiddenInHomeList: true

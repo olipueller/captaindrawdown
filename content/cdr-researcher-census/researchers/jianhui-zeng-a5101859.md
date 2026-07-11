@@ -1,7 +1,7 @@
 ---
 title: "Jianhui Zeng"
-description: "Jianhui Zeng is a Senior Unknown researcher at Harbin Engineering University in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.523461
+description: "Jianhui Zeng is a Senior Soil Carbon researcher at Harbin Engineering University in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:43.881476
 url: "/cdr-researcher-census/researchers/jianhui-zeng-a5101859/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Harbin Engineering University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Unknown**
+**Soil Carbon**
 
-Unknown
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
@@ -45,13 +45,19 @@ Unknown
 | h-index | 8 |
 | Citations | 188 |
 | Publications | 19 |
-| CDR Focus | 5.3% |
+| CDR Focus | 10.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
 
-1. **Differences between Laminated and Massive Shales in the Permian Lucaogou Formation: Insights into the Paleoenvironment, Petrology, Organic Matter, and Microstructure** (2022)
+1. **Erosion and deposition regulate soil carbon by mediating Fe-Carbon fixation mode in a typical catchment in the black soil region of Northeastern China** (2023)
+   13 citations · Soil Carbon
+
+2. **Differences between Laminated and Massive Shales in the Permian Lucaogou Formation: Insights into the Paleoenvironment, Petrology, Organic Matter, and Microstructure** (2022)
    13 citations
+
+3. **Spatial heterogeneity of soil functions in the gully vicinity within a watershed: coupling effects of landscape characteristics and ridge practices** (2026)
+   1 citations · Soil Carbon
 
 ## External Profiles
 

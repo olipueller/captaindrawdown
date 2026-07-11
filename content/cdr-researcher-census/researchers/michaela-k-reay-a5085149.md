@@ -1,7 +1,7 @@
 ---
 title: "Michaela K. Reay"
 description: "Michaela K. Reay is a Mid-career Soil Carbon researcher at The University of Bristol in GB. With 71 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.565470
+date: 2026-07-11T11:05:43.158031
 url: "/cdr-researcher-census/researchers/michaela-k-reay-a5085149/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 14 |
 | Citations | 648 |
 | Publications | 71 |
-| CDR Focus | 5.6% |
-| Trajectory | Exiting |
+| CDR Focus | 7.0% |
+| Trajectory | Declining |
 
 ## Top CDR Publications
 
@@ -56,10 +56,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 2. **Temperate Forest of 2050's: carbon and nutrient cycling responses to seven years of elevated CO2 enrichment at BIFoR-FACE** (2024)
    2 citations · Soil Carbon
 
-3. **Does elevated CO2 alter root architecture and biomass after 5 years in a mature temperate woodland?** (2023)
+3. **Informing the potential of mature temperate forests as natural climate solutions: Changed fine root biomass and morphology under elevated CO <sub>2</sub>** (2026)
+   0 citations · Soil Carbon
+
+4. **Does elevated CO2 alter root architecture and biomass after 5 years in a mature temperate woodland?** (2023)
    0 citations · General CDR
 
-4. **Stimulation of Soil Gross Nitrogen Transformations and Nitrous Oxide Emission Under Free Air CO &lt;sub&gt;2&lt;/sub&gt; Enrichment in a Mature Temperate Oak Forest at BIFoR-FACE** (2022)
+5. **Stimulation of Soil Gross Nitrogen Transformations and Nitrous Oxide Emission Under Free Air CO &lt;sub&gt;2&lt;/sub&gt; Enrichment in a Mature Temperate Oak Forest at BIFoR-FACE** (2022)
    0 citations · Soil Carbon
 
 ## External Profiles

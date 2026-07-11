@@ -1,7 +1,7 @@
 ---
 title: "R. Camilla Thomson"
-description: "R. Camilla Thomson is a Senior BECCS researcher at University of Edinburgh in GB. With 37 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.719611
+description: "R. Camilla Thomson is a Senior General CDR researcher at University of Edinburgh in GB. With 37 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:43.288745
 url: "/cdr-researcher-census/researchers/r-camilla-thomson-a5054358/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ University of Edinburgh · 🇬🇧 GB
 
 ## CDR Specialization
 
-**BECCS**
+**General CDR**
 
-Combining biomass energy with carbon capture and storage to achieve negative emissions.
+Cross-cutting research supporting multiple CDR pathways or the general CDR field.
 
 ## Metrics
 
@@ -45,16 +45,22 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 | h-index | 12 |
 | Citations | 492 |
 | Publications | 37 |
-| CDR Focus | 5.4% |
-| Trajectory | Stable |
+| CDR Focus | 10.8% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **The biomethane generation potential of wastes and wastewaters from the sericulture, fisheries, and agro-industrial sectors in India** (2023)
    9 citations · BECCS
 
-2. **Life cycle assessment of four waste-to-energy plant configurations equipped with post-combustion carbon capture and storage** (2026)
+2. **Negative Emissions in the Waste-to-Energy Sector: An Overview of the Newest-CCUS Programme** (2021)
+   4 citations · General CDR
+
+3. **Life cycle assessment of four waste-to-energy plant configurations equipped with post-combustion carbon capture and storage** (2026)
    1 citations · BECCS
+
+4. **Life Cycle Assessment of Four Waste-to-Energy Plant Configurations Equipped with Post-Combustion Carbon Capture and Storage** (2025)
+   0 citations · General CDR
 
 ## External Profiles
 

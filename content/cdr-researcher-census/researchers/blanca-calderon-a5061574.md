@@ -1,7 +1,7 @@
 ---
 title: "Blanca Calderón"
 description: "Blanca Calderón is a Mid-career Biochar researcher at California State Polytechnic University in US. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.777938
+date: 2026-07-11T11:05:43.332674
 url: "/cdr-researcher-census/researchers/blanca-calderon-a5061574/"
 layout: "researcher"
 hiddenInHomeList: true

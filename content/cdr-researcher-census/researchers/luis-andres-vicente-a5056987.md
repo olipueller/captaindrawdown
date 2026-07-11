@@ -1,7 +1,7 @@
 ---
 title: "Luis Andrés Vicente"
 description: "Luis Andrés Vicente is a Mid-career Soil Carbon researcher at Government of Extremadura in ES. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.915931
+date: 2026-07-11T11:05:44.260881
 url: "/cdr-researcher-census/researchers/luis-andres-vicente-a5056987/"
 layout: "researcher"
 hiddenInHomeList: true

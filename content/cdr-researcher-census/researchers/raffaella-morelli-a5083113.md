@@ -1,7 +1,7 @@
 ---
 title: "Raffaella Morelli"
 description: "Raffaella Morelli is a Senior Soil Carbon researcher at Fondazione Edmund Mach in IT. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.767036
+date: 2026-07-11T11:05:44.150373
 url: "/cdr-researcher-census/researchers/raffaella-morelli-a5083113/"
 layout: "researcher"
 hiddenInHomeList: true

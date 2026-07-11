@@ -1,7 +1,7 @@
 ---
 title: "Nurzawani Md Sofwan"
 description: "Nurzawani Md Sofwan is a Mid-career General CDR researcher at Universiti Malaysia Sarawak in MY. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.699216
+date: 2026-07-11T11:05:43.273597
 url: "/cdr-researcher-census/researchers/nurzawani-md-sofwan-a5077130/"
 layout: "researcher"
 hiddenInHomeList: true

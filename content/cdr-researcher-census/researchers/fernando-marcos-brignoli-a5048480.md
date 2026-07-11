@@ -1,7 +1,7 @@
 ---
 title: "Fernando Marcos Brignoli"
 description: "Fernando Marcos Brignoli is a Mid-career Soil Carbon researcher at Universidade Estadual de Maringá in BR. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.807665
+date: 2026-07-11T11:05:44.180766
 url: "/cdr-researcher-census/researchers/fernando-marcos-brignoli-a5048480/"
 layout: "researcher"
 hiddenInHomeList: true

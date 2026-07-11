@@ -1,7 +1,7 @@
 ---
 title: "Paul Voroney"
 description: "Paul Voroney is a Senior Soil Carbon researcher at University of Guelph in CA. With 84 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.231346
+date: 2026-07-11T11:05:42.931137
 url: "/cdr-researcher-census/researchers/paul-voroney-a5033066/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 24 |
 | Citations | 1,526 |
 | Publications | 84 |
-| CDR Focus | 10.7% |
+| CDR Focus | 8.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

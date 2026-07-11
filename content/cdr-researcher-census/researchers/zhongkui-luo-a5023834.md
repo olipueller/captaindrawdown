@@ -1,7 +1,7 @@
 ---
 title: "Zhongkui Luo"
 description: "Zhongkui Luo is an Eminent Soil Carbon researcher at Zhejiang University in CN. With 153 publications and an h-index of 41, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.963594
+date: 2026-07-11T11:05:42.799309
 url: "/cdr-researcher-census/researchers/zhongkui-luo-a5023834/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Citations | 5,839 |
 | Publications | 153 |
 | CDR Focus | 10.5% |
-| Trajectory | Stable |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

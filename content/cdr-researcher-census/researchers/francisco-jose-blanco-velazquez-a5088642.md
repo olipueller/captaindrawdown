@@ -1,7 +1,7 @@
 ---
 title: "Francisco José Blanco Velázquez"
 description: "Francisco José Blanco Velázquez is a Mid-career Soil Carbon researcher at Aut Even Hospital in IE. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.852609
+date: 2026-07-11T11:05:44.214534
 url: "/cdr-researcher-census/researchers/francisco-jose-blanco-velazquez-a5088642/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Vesh R. Thapa"
 description: "Vesh R. Thapa is a Mid-career Soil Carbon researcher at University of Nebraska–Lincoln in US. With 26 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.561824
+date: 2026-07-11T11:05:43.155259
 url: "/cdr-researcher-census/researchers/vesh-r-thapa-a5023063/"
 layout: "researcher"
 hiddenInHomeList: true

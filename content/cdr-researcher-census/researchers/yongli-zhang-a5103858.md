@@ -1,7 +1,7 @@
 ---
 title: "Yongli Zhang"
 description: "Yongli Zhang is a Mid-career Soil Carbon researcher at Tiangong University in CN. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.700201
+date: 2026-07-11T11:05:44.099968
 url: "/cdr-researcher-census/researchers/yongli-zhang-a5103858/"
 layout: "researcher"
 hiddenInHomeList: true

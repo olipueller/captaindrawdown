@@ -1,7 +1,7 @@
 ---
 title: "Mallory Ringham"
 description: "Mallory Ringham is a Mid-career Ocean CDR researcher at Carbon180 in US. With 30 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.299331
+date: 2026-07-11T11:05:43.678966
 url: "/cdr-researcher-census/researchers/mallory-ringham-a5042898/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 7 |
 | Citations | 239 |
 | Publications | 30 |
-| CDR Focus | 66.7% |
-| Trajectory | Stable |
+| CDR Focus | 43.3% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

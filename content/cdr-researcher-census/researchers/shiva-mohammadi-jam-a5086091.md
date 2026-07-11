@@ -1,7 +1,7 @@
 ---
 title: "Shiva Mohammadi-Jam"
 description: "Shiva Mohammadi-Jam is an Early-career DAC researcher at McGill University in CA. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.464232
+date: 2026-07-11T11:05:43.794523
 url: "/cdr-researcher-census/researchers/shiva-mohammadi-jam-a5086091/"
 layout: "researcher"
 hiddenInHomeList: true

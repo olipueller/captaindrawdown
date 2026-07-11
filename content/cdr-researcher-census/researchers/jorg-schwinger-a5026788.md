@@ -1,7 +1,7 @@
 ---
 title: "Jörg Schwinger"
 description: "Jörg Schwinger is an Eminent General CDR researcher at Bjerknes Centre for Climate Research in NO. With 231 publications and an h-index of 47, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.838711
+date: 2026-07-11T11:05:42.769166
 url: "/cdr-researcher-census/researchers/jorg-schwinger-a5026788/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 47 |
 | Citations | 24,039 |
 | Publications | 231 |
-| CDR Focus | 13.0% |
+| CDR Focus | 12.1% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

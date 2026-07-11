@@ -1,7 +1,7 @@
 ---
 title: "Sarah D. Saltzer"
 description: "Sarah D. Saltzer is a Senior General CDR researcher at Stanford Health Care in US. With 25 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.496765
+date: 2026-07-11T11:05:43.106725
 url: "/cdr-researcher-census/researchers/sarah-d-saltzer-a5012117/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 9 |
 | Citations | 751 |
 | Publications | 25 |
-| CDR Focus | 12.0% |
-| Trajectory | Growing |
+| CDR Focus | 8.0% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

@@ -1,7 +1,7 @@
 ---
 title: "Lai Zhou"
 description: "Lai Zhou is a Mid-career Biochar researcher at China University of Mining and Technology in CN. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.969822
+date: 2026-07-11T11:05:43.465953
 url: "/cdr-researcher-census/researchers/lai-zhou-a5110692/"
 layout: "researcher"
 hiddenInHomeList: true

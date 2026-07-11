@@ -1,7 +1,7 @@
 ---
 title: "Yongli Wen"
 description: "Yongli Wen is a Mid-career Soil Carbon researcher at Shanxi University of Finance and Economics in CN. With 22 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.639979
+date: 2026-07-11T11:05:43.233190
 url: "/cdr-researcher-census/researchers/yongli-wen-a5008463/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Qiang Gao"
 description: "Qiang Gao is a Senior General CDR researcher at Nanjing Forestry University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.778520
+date: 2026-07-11T11:05:43.333178
 url: "/cdr-researcher-census/researchers/qiang-gao-a5089101/"
 layout: "researcher"
 hiddenInHomeList: true

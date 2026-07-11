@@ -1,7 +1,7 @@
 ---
 title: "Zhiyuan Ma"
 description: "Zhiyuan Ma is a Senior Soil Carbon researcher at Chengdu Fifth People's Hospital in CN. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.141694
+date: 2026-07-11T11:05:43.568537
 url: "/cdr-researcher-census/researchers/zhiyuan-ma-a5102713/"
 layout: "researcher"
 hiddenInHomeList: true

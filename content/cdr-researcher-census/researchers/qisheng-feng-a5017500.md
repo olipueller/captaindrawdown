@@ -1,7 +1,7 @@
 ---
 title: "Qisheng Feng"
 description: "Qisheng Feng is a Mid-career Soil Carbon researcher at Ministry of Agriculture in EE. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.760203
+date: 2026-07-11T11:05:44.145322
 url: "/cdr-researcher-census/researchers/qisheng-feng-a5017500/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 147 |
 | Publications | 10 |
-| CDR Focus | 20.0% |
-| Trajectory | Stable |
+| CDR Focus | 10.0% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

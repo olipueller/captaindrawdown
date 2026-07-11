@@ -1,7 +1,7 @@
 ---
 title: "Lichao Fan"
 description: "Lichao Fan is a Senior Soil Carbon researcher at University of Goettingen in DE. With 55 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.183053
+date: 2026-07-11T11:05:42.901744
 url: "/cdr-researcher-census/researchers/lichao-fan-a5048369/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 21 |
 | Citations | 1,818 |
 | Publications | 55 |
-| CDR Focus | 7.3% |
-| Trajectory | Exiting |
+| CDR Focus | 14.5% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
@@ -59,7 +59,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **Nitrification-induced acidity controls CO2 emission from soil carbonates** (2024)
    33 citations · Soil Carbon
 
-4. **Nitrogen fertilizers control CO2 emission from calcareous soils:&amp;#160;implications for land management and global warming** (2022)
+4. **Anthropogenic land-use driven changes in soil stoichiometry reduce microbial carbon use efficiency** (2025)
+   8 citations · Soil Carbon
+
+5. **High-Dose Biochar Hinders Micro/Nanoplastic-Induced Soil Positive Priming by Reducing Substrate Quality and Microbial Activity** (2026)
+   5 citations · Soil Carbon
+
+6. **Nitrogen Fertilizer Builds Up Soil Organic Carbon Under Straw Return Via Microbial Necromass Formation** (2023)
+   1 citations · Soil Carbon
+
+7. **Nitrogen Fertilizers Prime Bacterial Necromass Formation and Carbon Sequestration in Soil** (2022)
+   1 citations · Soil Carbon
+
+8. **Soil Acidification by Nitrification Controls Co 2  Emission from Soil Carbonates: 14 C Labeling of Caco 3** (2023)
+   0 citations
+
+9. **Nitrogen fertilizers control CO2 emission from calcareous soils:&amp;#160;implications for land management and global warming** (2022)
    0 citations · Soil Carbon
 
 ## External Profiles

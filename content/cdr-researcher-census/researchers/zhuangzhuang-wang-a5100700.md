@@ -1,7 +1,7 @@
 ---
 title: "Zhuangzhuang Wang"
 description: "Zhuangzhuang Wang is a Senior Soil Carbon researcher at Shaanxi Normal University in CN. With 64 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.261439
+date: 2026-07-11T11:05:42.949619
 url: "/cdr-researcher-census/researchers/zhuangzhuang-wang-a5100700/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 20 |
 | Citations | 1,390 |
 | Publications | 64 |
-| CDR Focus | 10.9% |
+| CDR Focus | 9.4% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Xiaoli Gao"
 description: "Xiaoli Gao is a Mid-career Soil Carbon researcher at Xinyang Normal University in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.137246
+date: 2026-07-11T11:05:43.565489
 url: "/cdr-researcher-census/researchers/xiaoli-gao-a5109417/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Divergent Effects of Understory Vegetation Manipulation on Soil Carbon, Nitrogen, and Phosphorus in a Temperate–Subtropical Transition Zone Mixed Forest** (2025)
+1. **Short-term nitrogen enrichment alters microbial phosphorous limitation in Pinus taiwanensis forest soils** (2026)
+   0 citations
+
+2. **Divergent Effects of Understory Vegetation Manipulation on Soil Carbon, Nitrogen, and Phosphorus in a Temperate–Subtropical Transition Zone Mixed Forest** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Lorenzo J. Washington"
 description: "Lorenzo J. Washington is a Mid-career Soil Carbon researcher at Lawrence Berkeley National Laboratory in US. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.778935
+date: 2026-07-11T11:05:43.333530
 url: "/cdr-researcher-census/researchers/lorenzo-j-washington-a5037774/"
 layout: "researcher"
 hiddenInHomeList: true

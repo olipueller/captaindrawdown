@@ -1,7 +1,7 @@
 ---
 title: "Bert De Mot"
 description: "Bert De Mot is a Mid-career General CDR researcher at University of Antwerp in BE. With 10 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.505326
+date: 2026-07-11T11:05:43.113022
 url: "/cdr-researcher-census/researchers/bert-de-mot-a5090202/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 9 |
 | Citations | 736 |
 | Publications | 10 |
-| CDR Focus | 20.0% |
+| CDR Focus | 10.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

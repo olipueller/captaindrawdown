@@ -1,7 +1,7 @@
 ---
 title: "Wei Zhou"
 description: "Wei Zhou is a Mid-career Soil Carbon researcher at State Ethnic Affairs Commission in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.502573
+date: 2026-07-11T11:05:43.830360
 url: "/cdr-researcher-census/researchers/wei-zhou-a5024522/"
 layout: "researcher"
 hiddenInHomeList: true

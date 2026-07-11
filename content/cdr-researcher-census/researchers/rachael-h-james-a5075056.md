@@ -1,7 +1,7 @@
 ---
 title: "Rachael H. James"
 description: "Rachael H. James is an Eminent Enhanced Weathering researcher at University of Southampton in GB. With 238 publications and an h-index of 58, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.902857
+date: 2026-07-11T11:05:42.780595
 url: "/cdr-researcher-census/researchers/rachael-h-james-a5075056/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 58 |
 | Citations | 9,667 |
 | Publications | 238 |
-| CDR Focus | 7.1% |
+| CDR Focus | 8.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -65,20 +65,20 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 5. **Enhanced weathering in the U.S. Corn Belt delivers carbon removal with agronomic benefits** (2023)
    5 citations · Enhanced Weathering
 
-6. **Dissolution kinetics of platinum mine by-products for nature-based and engineered carbon dioxide removal** (2026)
+6. **Global carbon dioxide removal potential of waste materials from metal and diamond mining** (2021)
+   4 citations · Enhanced Weathering
+
+7. **Dissolution kinetics of platinum mine by-products for nature-based and engineered carbon dioxide removal** (2026)
    0 citations · General CDR
 
-7. **Droplet in the Ocean: Development and Deployment of Droplet Microfluidic Total Alkalinity Sensors in Wide-Range Environments** (2026)
+8. **Droplet in the Ocean: Development and Deployment of Droplet Microfluidic Total Alkalinity Sensors in Wide-Range Environments** (2026)
    0 citations · General CDR
-
-8. **Tile drain water chemistry dataset from an enhanced rock weathering field trial at the Energy Farm, University of Illinois** (2026)
-   0 citations
 
 9. **Tile drain water chemistry dataset from an enhanced rock weathering field trial at the Energy Farm, University of Illinois** (2026)
-   0 citations · Enhanced Weathering
+   0 citations
 
-10. **Integrated Thermal and Phyto-Remediation of Agricultural Soils Impacted by PFAS** (2025)
-   0 citations · Biochar
+10. **Tile drain water chemistry dataset from an enhanced rock weathering field trial at the Energy Farm, University of Illinois** (2026)
+   0 citations · Enhanced Weathering
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Fangchao Wang"
 description: "Fangchao Wang is a Mid-career Soil Carbon researcher at Jiangxi Agricultural University in CN. With 95 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.636489
+date: 2026-07-11T11:05:43.230862
 url: "/cdr-researcher-census/researchers/fangchao-wang-a5063543/"
 layout: "researcher"
 hiddenInHomeList: true

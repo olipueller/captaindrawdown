@@ -1,7 +1,7 @@
 ---
 title: "Katherine Blumanthal"
 description: "Katherine Blumanthal is an Early-career General CDR researcher. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.538170
+date: 2026-07-11T11:05:43.139309
 url: "/cdr-researcher-census/researchers/katherine-blumanthal-a5007121/"
 layout: "researcher"
 hiddenInHomeList: true

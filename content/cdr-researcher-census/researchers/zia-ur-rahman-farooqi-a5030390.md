@@ -1,7 +1,7 @@
 ---
 title: "Zia Ur Rahman Farooqi"
 description: "Zia Ur Rahman Farooqi is a Senior Soil Carbon researcher at Kunming University of Science and Technology in CN. With 141 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.113263
+date: 2026-07-11T11:05:42.864714
 url: "/cdr-researcher-census/researchers/zia-ur-rahman-farooqi-a5030390/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 21 |
 | Citations | 2,439 |
 | Publications | 141 |
-| CDR Focus | 7.8% |
+| CDR Focus | 5.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

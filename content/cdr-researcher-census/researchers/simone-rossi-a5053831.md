@@ -1,7 +1,7 @@
 ---
 title: "Simone Rossi"
 description: "Simone Rossi is a Senior General CDR researcher at European Commission in BE. With 49 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.270901
+date: 2026-07-11T11:05:42.956341
 url: "/cdr-researcher-census/researchers/simone-rossi-a5053831/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 14 |
 | Citations | 1,346 |
 | Publications | 49 |
-| CDR Focus | 8.2% |
+| CDR Focus | 6.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

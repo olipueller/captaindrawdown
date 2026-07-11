@@ -1,7 +1,7 @@
 ---
 title: "Anthony J. Giarrusso"
 description: "Anthony J. Giarrusso is a Senior General CDR researcher at Georgia Institute of Technology in US. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.673369
+date: 2026-07-11T11:05:44.080581
 url: "/cdr-researcher-census/researchers/anthony-j-giarrusso-a5022281/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,13 +42,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 3 |
 | Citations | 160 |
 | Publications | 4 |
-| CDR Focus | 25.0% |
-| Trajectory | Stable |
+| CDR Focus | 50.0% |
+| Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Assessing the physical potential capacity of direct air capture with integrated supply of low‐carbon energy sources** (2021)
    21 citations · DAC
+
+2. **Geo-Spatial Economic Assessment of the Potential Development of Bioenergy Combined with Direct Air Carbon Capture (BEDAC) in the USA** (2023)
+   1 citations · BECCS
 
 ## External Profiles
 

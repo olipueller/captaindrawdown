@@ -1,7 +1,7 @@
 ---
 title: "Marcella Ruschi Mendes Saade"
 description: "Marcella Ruschi Mendes Saade is a Senior General CDR researcher at Graz University of Technology in AT. With 77 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.080391
+date: 2026-07-11T11:05:42.849606
 url: "/cdr-researcher-census/researchers/marcella-ruschi-mendes-saade-a5079046/"
 layout: "researcher"
 hiddenInHomeList: true

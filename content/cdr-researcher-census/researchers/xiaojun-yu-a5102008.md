@@ -1,7 +1,7 @@
 ---
 title: "Xiaojun Yu"
 description: "Xiaojun Yu is a Senior Soil Carbon researcher at Gansu Agricultural University in CN. With 72 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.631312
+date: 2026-07-11T11:05:43.228026
 url: "/cdr-researcher-census/researchers/xiaojun-yu-a5102008/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,22 +45,31 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 14 |
 | Citations | 574 |
 | Publications | 72 |
-| CDR Focus | 5.6% |
+| CDR Focus | 6.9% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
 
-1. **Carbon budget response to climate change varies with grassland type in Qilian Mountains, China** (2023)
+1. **Efficient tetracycline degradation via peroxymonosulfate activation by magnetic Co/N co-doped biochar: Emphasizing the important role of biochar graphitization** (2022)
+   221 citations · Biochar
+
+2. **Carbon budget response to climate change varies with grassland type in Qilian Mountains, China** (2023)
    13 citations · Soil Carbon
 
-2. **Seasonal variation in carbon flux and the driving mechanisms in the grassland ecosystem in a mountain region of Northwest China** (2025)
+3. **Seasonal variation in carbon flux and the driving mechanisms in the grassland ecosystem in a mountain region of Northwest China** (2025)
    7 citations · Soil Carbon
 
-3. **Crop Rotation of Sainfoin on the Longzhong Loess Plateau Has a Positive Effect on Enhancing Soil Carbon Sequestration Potential** (2024)
+4. **Crop Rotation of Sainfoin on the Longzhong Loess Plateau Has a Positive Effect on Enhancing Soil Carbon Sequestration Potential** (2024)
    3 citations · Soil Carbon
 
-4. **Spring rest-grazing time affected soil organic carbon stability and storage in subalpine meadows of Carex** (2024)
+5. **Spring rest-grazing time affected soil organic carbon stability and storage in subalpine meadows of Carex** (2024)
    3 citations · Soil Carbon
+
+6. **Comment on bg-2021-313** (2022)
+   0 citations · Soil Carbon
+
+7. **Comment on bg-2021-313** (2022)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

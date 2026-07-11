@@ -1,7 +1,7 @@
 ---
 title: "Huina Ding"
 description: "Huina Ding is a Mid-career Soil Carbon researcher at Henan University in CN. With 15 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.355180
+date: 2026-07-11T11:05:43.010434
 url: "/cdr-researcher-census/researchers/huina-ding-a5112333/"
 layout: "researcher"
 hiddenInHomeList: true

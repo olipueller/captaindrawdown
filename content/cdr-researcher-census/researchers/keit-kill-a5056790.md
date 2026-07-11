@@ -1,7 +1,7 @@
 ---
 title: "Keit Kill"
 description: "Keit Kill is a Mid-career Soil Carbon researcher at University of Tartu in EE. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.082611
+date: 2026-07-11T11:05:43.545209
 url: "/cdr-researcher-census/researchers/keit-kill-a5056790/"
 layout: "researcher"
 hiddenInHomeList: true

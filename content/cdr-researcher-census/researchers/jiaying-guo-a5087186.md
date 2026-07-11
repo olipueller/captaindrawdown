@@ -1,7 +1,7 @@
 ---
 title: "Jiaying Guo"
 description: "Jiaying Guo is a Mid-career Ocean CDR researcher at University of Tasmania in AU. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.432994
+date: 2026-07-11T11:05:43.771929
 url: "/cdr-researcher-census/researchers/jiaying-guo-a5087186/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 6 |
 | Citations | 206 |
 | Publications | 20 |
-| CDR Focus | 80.0% |
-| Trajectory | Declining |
+| CDR Focus | 25.0% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
@@ -68,17 +68,17 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 6. **Metal bioaccumulation from diatoms to Antarctic krill under ocean alkalinity enhancement with steel slag** (2026)
    0 citations · General CDR
 
-7. **Reply on RC3** (2023)
+7. **Reply on RC2** (2023)
+   0 citations · Enhanced Weathering
+
+8. **Reply on RC3** (2023)
    0 citations · General CDR
 
-8. **Reply on RC1** (2023)
+9. **Reply on RC1** (2023)
    0 citations · General CDR
 
-9. **Comment on egusphere-2023-2120** (2023)
+10. **Comment on egusphere-2023-2120** (2023)
    0 citations
-
-10. **Reply on RC1** (2023)
-   0 citations · General CDR
 
 ## External Profiles
 

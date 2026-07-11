@@ -1,7 +1,7 @@
 ---
 title: "Yunfei Zhao"
 description: "Yunfei Zhao is a Senior Soil Carbon researcher at Lanzhou University in CN. With 74 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.255195
+date: 2026-07-11T11:05:42.944879
 url: "/cdr-researcher-census/researchers/yunfei-zhao-a5013517/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,22 +53,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Soil organic matter enhances aboveground biomass in alpine grassland under drought** (2023)
    53 citations · Soil Carbon
 
-2. **Effects of recovery models on organic carbon pathways: A method using 13C natural abundance** (2022)
+2. **Alpine wetland degradation affects carbon cycle function genes but does not reduce soil microbial diversity** (2024)
+   34 citations
+
+3. **Effects of recovery models on organic carbon pathways: A method using 13C natural abundance** (2022)
    25 citations · Soil Carbon
 
-3. **Aridity-driven divergence in soil microbial necromass carbon in alpine grasslands of the Tibetan Plateau** (2024)
+4. **Aridity-driven divergence in soil microbial necromass carbon in alpine grasslands of the Tibetan Plateau** (2024)
    20 citations · Soil Carbon
 
-4. **Soil organic carbon stability of vegetation restoration during 11-year-old grassland succession** (2023)
+5. **Soil organic carbon stability of vegetation restoration during 11-year-old grassland succession** (2023)
    14 citations · Soil Carbon
 
-5. **Effect of Time since Afforestation on Soil Organic Carbon Stock and Turnover Rate** (2022)
+6. **Effect of Time since Afforestation on Soil Organic Carbon Stock and Turnover Rate** (2022)
    7 citations · Soil Carbon
 
-6. **Hydrolases Control Soil Carbon Sequestration in Alpine Grasslands in the Tibetan Plateau** (2024)
+7. **Hydrolases Control Soil Carbon Sequestration in Alpine Grasslands in the Tibetan Plateau** (2024)
    5 citations · Soil Carbon
 
-7. **Microbial-derived C increased more than plant-derived in soil under plantation versus grassland 11 years after landslide** (2024)
+8. **Microbial-derived C increased more than plant-derived in soil under plantation versus grassland 11 years after landslide** (2024)
    1 citations · Soil Carbon
 
 ## External Profiles

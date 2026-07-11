@@ -1,7 +1,7 @@
 ---
 title: "Yongxia Meng"
 description: "Yongxia Meng is a Mid-career Soil Carbon researcher. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.093424
+date: 2026-07-11T11:05:44.399564
 url: "/cdr-researcher-census/researchers/yongxia-meng-a5017901/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -37,7 +37,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 108 |
 | Publications | 12 |
-| CDR Focus | 16.7% |
+| CDR Focus | 8.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

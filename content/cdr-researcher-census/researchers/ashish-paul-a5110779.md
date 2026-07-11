@@ -1,7 +1,7 @@
 ---
 title: "Ashish Paul"
 description: "Ashish Paul is a Senior Soil Carbon researcher at North Eastern Regional Institute of Science and Technology in IN. With 34 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.812437
+date: 2026-07-11T11:05:43.356903
 url: "/cdr-researcher-census/researchers/ashish-paul-a5110779/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 11 |
 | Citations | 429 |
 | Publications | 34 |
-| CDR Focus | 8.8% |
+| CDR Focus | 11.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -55,6 +55,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 3. **Prediction of forest aboveground biomass using an integrated approach of space-based parameters, and forest inventory data** (2022)
    12 citations · General CDR
+
+4. **Carbon stock and pool assessment in tropical and subtropical bamboo brakes of Arunachal Pradesh, India** (2022)
+   7 citations · General CDR
 
 ## External Profiles
 

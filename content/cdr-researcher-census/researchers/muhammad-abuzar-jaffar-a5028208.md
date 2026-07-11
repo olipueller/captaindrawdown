@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Abuzar Jaffar"
 description: "Muhammad Abuzar Jaffar is a Mid-career Soil Carbon researcher at Lasbela University of Agriculture Water and Marine Science in PK. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.680956
+date: 2026-07-11T11:05:44.085772
 url: "/cdr-researcher-census/researchers/muhammad-abuzar-jaffar-a5028208/"
 layout: "researcher"
 hiddenInHomeList: true

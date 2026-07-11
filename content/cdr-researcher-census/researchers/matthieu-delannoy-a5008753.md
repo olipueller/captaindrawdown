@@ -1,7 +1,7 @@
 ---
 title: "Matthieu Delannoy"
 description: "Matthieu Delannoy is a Mid-career Biochar researcher at Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement in FR. With 92 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.702967
+date: 2026-07-11T11:05:43.276412
 url: "/cdr-researcher-census/researchers/matthieu-delannoy-a5008753/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 13 |
 | Citations | 506 |
 | Publications | 92 |
-| CDR Focus | 13.0% |
-| Trajectory | Declining |
+| CDR Focus | 8.7% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

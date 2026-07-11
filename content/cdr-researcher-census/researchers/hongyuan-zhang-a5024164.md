@@ -1,7 +1,7 @@
 ---
 title: "Hongyuan Zhang"
 description: "Hongyuan Zhang is a Senior Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 80 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.226811
+date: 2026-07-11T11:05:42.928544
 url: "/cdr-researcher-census/researchers/hongyuan-zhang-a5024164/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 22 |
 | Citations | 1,558 |
 | Publications | 80 |
-| CDR Focus | 11.2% |
+| CDR Focus | 10.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -65,16 +65,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 5. **Subsurface application of organic ameliorant in saline soils increases microbial necromass accumulation in mineral-associated organic matter** (2025)
    8 citations · Soil Carbon
 
-6. **The accumulation of fungal not bacterial residue carbon is management-dependent under conventional and organic practices in apple-orchard soil** (2024)
+6. **Mechanisms and sources of organic carbon accrual in deep soil under long-term straw return** (2026)
+   7 citations · Soil Carbon
+
+7. **The accumulation of fungal not bacterial residue carbon is management-dependent under conventional and organic practices in apple-orchard soil** (2024)
    6 citations · Soil Carbon
 
-7. **Divergent responses of soil particulate and mineral-associated organic carbon to climate gradients in managed croplands of Northeast China** (2026)
+8. **Divergent responses of soil particulate and mineral-associated organic carbon to climate gradients in managed croplands of Northeast China** (2026)
    2 citations · Soil Carbon
 
-8. **Subsurface organic ameliorant is beneficial in reducing inorganic carbon loss and improving carbon sequestration in saline soils** (2025)
+9. **Subsurface organic ameliorant is beneficial in reducing inorganic carbon loss and improving carbon sequestration in saline soils** (2025)
    0 citations · Soil Carbon
 
-9. **Management-Dependent Accumulation of Fungal Residue Carbon and Management-Independent Accumulation of Bacterial Residue Carbon in Apple-Orchard Soil** (2023)
+10. **Management-Dependent Accumulation of Fungal Residue Carbon and Management-Independent Accumulation of Bacterial Residue Carbon in Apple-Orchard Soil** (2023)
    0 citations · Soil Carbon
 
 ## External Profiles

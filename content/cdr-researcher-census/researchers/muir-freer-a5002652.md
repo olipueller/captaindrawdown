@@ -1,7 +1,7 @@
 ---
 title: "Muir Freer"
 description: "Muir Freer is a Mid-career General CDR researcher at University of Manchester in GB. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.030598
+date: 2026-07-11T11:05:44.367704
 url: "/cdr-researcher-census/researchers/muir-freer-a5002652/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Haoxiang Lai"
 description: "Haoxiang Lai is a Mid-career General CDR researcher at IIT@MIT in US. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.399424
+date: 2026-07-11T11:05:43.749637
 url: "/cdr-researcher-census/researchers/haoxiang-lai-a5045596/"
 layout: "researcher"
 hiddenInHomeList: true

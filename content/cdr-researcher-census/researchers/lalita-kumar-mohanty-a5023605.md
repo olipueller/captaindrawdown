@@ -1,7 +1,7 @@
 ---
 title: "Lalita Kumar Mohanty"
 description: "Lalita Kumar Mohanty is an Early-career Soil Carbon researcher at Odisha University of Agriculture and Technology in IN. With 30 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.118824
+date: 2026-07-11T11:05:44.417931
 url: "/cdr-researcher-census/researchers/lalita-kumar-mohanty-a5023605/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 105 |
 | Publications | 30 |
-| CDR Focus | 30.0% |
+| CDR Focus | 23.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

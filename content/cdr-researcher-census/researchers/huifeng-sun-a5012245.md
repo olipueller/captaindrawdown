@@ -1,7 +1,7 @@
 ---
 title: "Huifeng Sun"
 description: "Huifeng Sun is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 61 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.157253
+date: 2026-07-11T11:05:42.887644
 url: "/cdr-researcher-census/researchers/huifeng-sun-a5012245/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 20 |
 | Citations | 2,026 |
 | Publications | 61 |
-| CDR Focus | 9.8% |
-| Trajectory | Declining |
+| CDR Focus | 11.5% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
@@ -65,7 +65,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 5. **A valorization analysis towards agricultural application of biochar prepared using maize straw grown using organic or chemical fertilizers** (2025)
    3 citations · Biochar
 
-6. **Composting and Pyrolysis Strategies to Manage Flammulina velutipes Residue and Base Waste Based on the Biodegradability and Carbon Sequestration Potential** (2023)
+6. **Decadal soil carbon sequestration under straw management: Relative roles of stable carbon inputs and microbial carbon pump efficacy** (2025)
+   2 citations · Soil Carbon
+
+7. **Composting and Pyrolysis Strategies to Manage Flammulina velutipes Residue and Base Waste Based on the Biodegradability and Carbon Sequestration Potential** (2023)
    1 citations · Biochar
 
 ## External Profiles

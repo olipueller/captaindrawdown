@@ -1,7 +1,7 @@
 ---
 title: "Falguni Pattnaik"
 description: "Falguni Pattnaik is a Mid-career Biochar researcher at Dalhousie University in CA. With 43 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.301846
+date: 2026-07-11T11:05:42.975699
 url: "/cdr-researcher-census/researchers/falguni-pattnaik-a5020503/"
 layout: "researcher"
 hiddenInHomeList: true

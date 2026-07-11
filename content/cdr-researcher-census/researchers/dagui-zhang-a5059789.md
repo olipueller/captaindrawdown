@@ -1,7 +1,7 @@
 ---
 title: "Da‐Gui Zhang"
 description: "Da‐Gui Zhang is a Mid-career General CDR researcher at Huaqiao University in CN. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.857630
+date: 2026-07-11T11:05:44.218377
 url: "/cdr-researcher-census/researchers/dagui-zhang-a5059789/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Subham C. Mondal"
 description: "Subham C. Mondal is a Mid-career Soil Carbon researcher at Tezpur University in IN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.486955
+date: 2026-07-11T11:05:43.813315
 url: "/cdr-researcher-census/researchers/subham-c-mondal-a5054499/"
 layout: "researcher"
 hiddenInHomeList: true

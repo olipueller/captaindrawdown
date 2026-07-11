@@ -1,7 +1,7 @@
 ---
 title: "Johannes Full"
 description: "Johannes Full is a Senior General CDR researcher at Fraunhofer-Institut für Produktionstechnik und Automatisierung IPA in DE. With 23 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.526373
+date: 2026-07-11T11:05:43.130101
 url: "/cdr-researcher-census/researchers/johannes-full-a5008596/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 15 |
 | Citations | 702 |
 | Publications | 23 |
-| CDR Focus | 21.7% |
+| CDR Focus | 26.1% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -64,6 +64,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 5. **Perspectives of Biogas Plants as BECCS Facilities: A Comparative Analysis of Biomethane vs. Biohydrogen Production with Carbon Capture and Storage or Use (CCS/CCU)** (2023)
    16 citations · BECCS
+
+6. **Biogas Plants as Hydrogen Production Facilities and Greenhouse Gas Sinks: Technology Comparison, Challenges and Potentials for Carbon Negative Hydrogen Production (HyBECCS)** (2022)
+   7 citations · BECCS
 
 ## External Profiles
 

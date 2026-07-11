@@ -1,7 +1,7 @@
 ---
 title: "Zhiming Xie"
 description: "Zhiming Xie is a Senior Biochar researcher at Beijing Institute of Technology in CN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.723717
+date: 2026-07-11T11:05:44.117657
 url: "/cdr-researcher-census/researchers/zhiming-xie-a5102648/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 6 |
 | Citations | 152 |
 | Publications | 20 |
-| CDR Focus | 10.0% |
+| CDR Focus | 5.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

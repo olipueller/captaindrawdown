@@ -1,7 +1,7 @@
 ---
 title: "Faruque Ahmed"
 description: "Faruque Ahmed is a Senior Soil Carbon researcher. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.313419
+date: 2026-07-11T11:05:43.688114
 url: "/cdr-researcher-census/researchers/faruque-ahmed-a5113825/"
 layout: "researcher"
 hiddenInHomeList: true

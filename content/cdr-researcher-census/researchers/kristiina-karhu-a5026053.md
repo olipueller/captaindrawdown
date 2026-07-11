@@ -1,7 +1,7 @@
 ---
 title: "Kristiina Karhu"
 description: "Kristiina Karhu is a Senior Soil Carbon researcher at University of Helsinki in FI. With 107 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.025686
+date: 2026-07-11T11:05:42.824292
 url: "/cdr-researcher-census/researchers/kristiina-karhu-a5026053/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 26 |
 | Citations | 3,846 |
 | Publications | 107 |
-| CDR Focus | 7.5% |
+| CDR Focus | 5.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

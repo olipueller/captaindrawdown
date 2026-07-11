@@ -1,7 +1,7 @@
 ---
 title: "Connor Nolan"
 description: "Connor Nolan is a Senior Soil Carbon researcher. With 24 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.232862
+date: 2026-07-11T11:05:42.931621
 url: "/cdr-researcher-census/researchers/connor-nolan-a5041570/"
 layout: "researcher"
 hiddenInHomeList: true

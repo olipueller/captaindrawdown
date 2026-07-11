@@ -1,7 +1,7 @@
 ---
 title: "Qin Zheng"
 description: "Qin Zheng is a Mid-career Soil Carbon researcher at Department of Agriculture and Rural Development in GB. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.863272
+date: 2026-07-11T11:05:43.393185
 url: "/cdr-researcher-census/researchers/qin-zheng-a5047195/"
 layout: "researcher"
 hiddenInHomeList: true

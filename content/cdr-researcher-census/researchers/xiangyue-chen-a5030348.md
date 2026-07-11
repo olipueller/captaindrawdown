@@ -1,7 +1,7 @@
 ---
 title: "Xiangyue Chen"
 description: "Xiangyue Chen is a Mid-career Soil Carbon researcher at Hunan University of Science and Technology in CN. With 59 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.227501
+date: 2026-07-11T11:05:42.928932
 url: "/cdr-researcher-census/researchers/xiangyue-chen-a5030348/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 18 |
 | Citations | 1,546 |
 | Publications | 59 |
-| CDR Focus | 8.5% |
-| Trajectory | Stable |
+| CDR Focus | 6.8% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

@@ -1,7 +1,7 @@
 ---
 title: "M. Karthigairajan"
 description: "M. Karthigairajan is a Mid-career Biochar researcher at AAA College of Engineering and Technology. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.556724
+date: 2026-07-11T11:05:43.917594
 url: "/cdr-researcher-census/researchers/m-karthigairajan-a5005569/"
 layout: "researcher"
 hiddenInHomeList: true

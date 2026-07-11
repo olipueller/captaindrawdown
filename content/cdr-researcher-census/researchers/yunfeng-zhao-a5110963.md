@@ -1,7 +1,7 @@
 ---
 title: "Yunfeng Zhao"
 description: "Yunfeng Zhao is a Senior Soil Carbon researcher at Nanjing Agricultural University in CN. With 31 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.878295
+date: 2026-07-11T11:05:43.404045
 url: "/cdr-researcher-census/researchers/yunfeng-zhao-a5110963/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 389 |
 | Publications | 31 |
-| CDR Focus | 25.8% |
-| Trajectory | Declining |
+| CDR Focus | 9.7% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

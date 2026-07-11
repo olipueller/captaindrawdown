@@ -1,7 +1,7 @@
 ---
 title: "Jinze Bai"
 description: "Jinze Bai is a Mid-career Soil Carbon researcher at Northwest A&F University in CN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.423349
+date: 2026-07-11T11:05:43.054518
 url: "/cdr-researcher-census/researchers/jinze-bai-a5063334/"
 layout: "researcher"
 hiddenInHomeList: true

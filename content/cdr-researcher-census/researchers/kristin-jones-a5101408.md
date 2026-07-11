@@ -1,7 +1,7 @@
 ---
 title: "Kristin Jones"
 description: "Kristin Jones is a Senior Ocean CDR researcher at Pacific Northwest National Laboratory in US. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.165504
+date: 2026-07-11T11:05:43.585670
 url: "/cdr-researcher-census/researchers/kristin-jones-a5101408/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 11 |
 | Citations | 280 |
 | Publications | 36 |
-| CDR Focus | 11.1% |
-| Trajectory | Declining |
+| CDR Focus | 5.6% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
@@ -56,10 +56,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 2. **Biological response of eelgrass epifauna, Taylor's Sea hare ( <i>Phyllaplysia taylori</i> ) and eelgrass isopod ( <i>Idotea resecata</i> ), to elevated ocean alkalinity** (2025)
    2 citations · Ocean CDR
 
-3. **Comment on egusphere-2024-972** (2024)
+3. **Reply on RC1** (2024)
+   0 citations · General CDR
+
+4. **Reply on RC2** (2024)
+   0 citations · General CDR
+
+5. **Comment on egusphere-2024-972** (2024)
    0 citations · Ocean CDR
 
-4. **Comment on egusphere-2024-972** (2024)
+6. **Comment on egusphere-2024-972** (2024)
    0 citations
 
 ## External Profiles

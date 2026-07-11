@@ -1,7 +1,7 @@
 ---
 title: "Xuepiao Bai"
 description: "Xuepiao Bai is a Mid-career General CDR researcher at Guizhou University of Finance and Economics in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.597276
+date: 2026-07-11T11:05:43.987944
 url: "/cdr-researcher-census/researchers/xuepiao-bai-a5012972/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 5 |
 | Citations | 174 |
 | Publications | 6 |
-| CDR Focus | 33.3% |
-| Trajectory | Exiting |
+| CDR Focus | 16.7% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

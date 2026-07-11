@@ -1,7 +1,7 @@
 ---
 title: "Heide Spiegel"
 description: "Heide Spiegel is a Senior Soil Carbon researcher at Austrian Agency for Health and Food Safety in AT. With 164 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.997254
+date: 2026-07-11T11:05:42.812911
 url: "/cdr-researcher-census/researchers/heide-spiegel-a5030428/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | Citations | 4,560 |
 | Publications | 164 |
 | CDR Focus | 6.1% |
-| Trajectory | Declining |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
@@ -68,16 +68,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 6. **Seasonal Dynamics of Soil Microbial Growth, Respiration, Biomass, and Carbon Use Efficiency** (2022)
    8 citations · Soil Carbon
 
-7. **Carbon sequestration in Austrian soils: environmental significance and economic effects of selected measures** (2024)
+7. **Feasible Carbon Sequestration Potential in European Agricultural Mineral Soils Through Improved Management** (2026)
+   1 citations · Biochar
+
+8. **Carbon sequestration in Austrian soils: environmental significance and economic effects of selected measures** (2024)
    1 citations · General CDR
 
-8. **Impacts of biochar on nitrous oxide emissions and ammonia volatilisation in wheat and maize cropping systems** (2024)
+9. **Impacts of biochar on nitrous oxide emissions and ammonia volatilisation in wheat and maize cropping systems** (2024)
    0 citations · Biochar
 
-9. **Cover Crops Affecting Pool Specific Soil Organic Carbon Sequestration in Cropland – A Meta-Analysis** (2023)
-   0 citations · Soil Carbon
-
-10. **Seasonal dynamics of soil microbial respiration, growth, biomass, and carbon use efficiency** (2022)
+10. **Cover Crops Affecting Pool Specific Soil Organic Carbon Sequestration in Cropland – A Meta-Analysis** (2023)
    0 citations · Soil Carbon
 
 ## External Profiles

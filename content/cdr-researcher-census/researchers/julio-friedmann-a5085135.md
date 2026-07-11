@@ -1,7 +1,7 @@
 ---
 title: "Julio Friedmann"
 description: "Julio Friedmann is a Senior General CDR researcher at Carbon180 in US. With 39 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.569752
+date: 2026-07-11T11:05:43.161270
 url: "/cdr-researcher-census/researchers/julio-friedmann-a5085135/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 10 |
 | Citations | 642 |
 | Publications | 39 |
-| CDR Focus | 7.7% |
+| CDR Focus | 5.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

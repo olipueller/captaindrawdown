@@ -1,7 +1,7 @@
 ---
 title: "Fengyou Gu"
 description: "Fengyou Gu is a Mid-career Soil Carbon researcher at Xi'an University of Technology in CN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.814793
+date: 2026-07-11T11:05:44.186634
 url: "/cdr-researcher-census/researchers/fengyou-gu-a5050131/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,12 +42,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 139 |
 | Publications | 7 |
-| CDR Focus | 14.3% |
+| CDR Focus | 28.6% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
-1. **Carbon pools in forest systems and new estimation based on an investigation of carbon sequestration** (2024)
+1. **Contribution of soil aggregate particle size to organic carbon and the effect of land use on its distribution in a typical small watershed on Loess Plateau, China** (2023)
+   47 citations · Soil Carbon
+
+2. **Carbon pools in forest systems and new estimation based on an investigation of carbon sequestration** (2024)
    7 citations · General CDR
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Hanna Lee"
 description: "Hanna Lee is a Senior General CDR researcher at Norwegian University of Science and Technology in NO. With 186 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.937758
+date: 2026-07-11T11:05:42.789540
 url: "/cdr-researcher-census/researchers/hanna-lee-a5044293/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 35 |
 | Citations | 7,258 |
 | Publications | 186 |
-| CDR Focus | 5.9% |
+| CDR Focus | 5.4% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -71,13 +71,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 7. **Emit now, mitigate later? Earth system reversibility under overshoots of different magnitude and duration** (2022)
    1 citations · General CDR
 
-8. **Assessing Earth system feedbacks in deep mitigation scenarios with activity-driven simulation of carbon dioxide removal** (2025)
+8. **Assessing Earth system responses in deep mitigation scenarios with activity-driven simulation of carbon dioxide removal** (2026)
    0 citations · General CDR
 
-9. **Potential intensification of permafrost carbon feedback under net-zero and negative emissions** (2023)
+9. **Assessing Earth system feedbacks in deep mitigation scenarios with activity-driven simulation of carbon dioxide removal** (2025)
    0 citations · General CDR
 
-10. **Regional surface climate irreversibility under temperature overshoot scenarios** (2023)
+10. **Potential intensification of permafrost carbon feedback under net-zero and negative emissions** (2023)
    0 citations · General CDR
 
 ## External Profiles

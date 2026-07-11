@@ -1,7 +1,7 @@
 ---
 title: "Steven Bustillos"
 description: "Steven Bustillos is a Mid-career Ocean CDR researcher at University of California, Los Angeles in US. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.666465
+date: 2026-07-11T11:05:44.075761
 url: "/cdr-researcher-census/researchers/steven-bustillos-a5078750/"
 layout: "researcher"
 hiddenInHomeList: true

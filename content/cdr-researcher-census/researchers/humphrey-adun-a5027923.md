@@ -1,7 +1,7 @@
 ---
 title: "Humphrey Adun"
 description: "Humphrey Adun is a Senior General CDR researcher at Near East University in CY. With 87 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.084408
+date: 2026-07-11T11:05:42.851566
 url: "/cdr-researcher-census/researchers/humphrey-adun-a5027923/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Light I. Nwobia"
 description: "Light I. Nwobia is a Mid-career Soil Carbon researcher. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.448039
+date: 2026-07-11T11:05:43.783405
 url: "/cdr-researcher-census/researchers/light-i-nwobia-a5060172/"
 layout: "researcher"
 hiddenInHomeList: true

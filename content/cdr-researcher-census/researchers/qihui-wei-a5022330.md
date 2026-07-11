@@ -1,7 +1,7 @@
 ---
 title: "Qihui Wei"
 description: "Qihui Wei is a Senior Biochar researcher at Wuhan Polytechnic University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.551798
+date: 2026-07-11T11:05:43.913417
 url: "/cdr-researcher-census/researchers/qihui-wei-a5022330/"
 layout: "researcher"
 hiddenInHomeList: true

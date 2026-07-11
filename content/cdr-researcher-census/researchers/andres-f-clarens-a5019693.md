@@ -1,7 +1,7 @@
 ---
 title: "Andrés F. Clarens"
 description: "Andrés F. Clarens is a Senior General CDR researcher at University of Virginia in US. With 151 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.977518
+date: 2026-07-11T11:05:42.804261
 url: "/cdr-researcher-census/researchers/andres-f-clarens-a5019693/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 33 |
 | Citations | 5,313 |
 | Publications | 151 |
-| CDR Focus | 9.3% |
+| CDR Focus | 7.3% |
 | Trajectory | Declining |
 
 ## Top CDR Publications

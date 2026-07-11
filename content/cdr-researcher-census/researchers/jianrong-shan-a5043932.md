@@ -1,7 +1,7 @@
 ---
 title: "Jianrong Shan"
 description: "Jianrong Shan is an Early-career Biochar researcher at Agro-Environmental Protection Institute in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.729550
+date: 2026-07-11T11:05:44.122867
 url: "/cdr-researcher-census/researchers/jianrong-shan-a5043932/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yunfeng Du"
 description: "Yunfeng Du is a Senior Soil Carbon researcher at Changzhou No.2 People's Hospital in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.053101
+date: 2026-07-11T11:05:43.523488
 url: "/cdr-researcher-census/researchers/yunfeng-du-a5085225/"
 layout: "researcher"
 hiddenInHomeList: true

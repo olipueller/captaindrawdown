@@ -1,7 +1,7 @@
 ---
 title: "Mirjam Perner"
 description: "Mirjam Perner is a Senior Ocean CDR researcher at GEOMAR Helmholtz-Zentrum für Ozeanforschung Kiel in DE. With 100 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.237771
+date: 2026-07-11T11:05:42.934672
 url: "/cdr-researcher-census/researchers/mirjam-perner-a5015166/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 22 |
 | Citations | 1,495 |
 | Publications | 100 |
-| CDR Focus | 6.0% |
-| Trajectory | Growing |
+| CDR Focus | 5.0% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
@@ -67,6 +67,15 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 6. **Microbial responses to ocean alkalinity enhancement in seasonally hypoxic coastal sediments** (2026)
    0 citations · General CDR
+
+7. **Element concentrations from two benthic chambers and the ambient bottom water during an in-situ incubation experiment in July 2025** (2026)
+   0 citations · Ocean CDR
+
+8. **Alkalinity concentrations from two benthic chambers and the ambient bottom water during an in-situ incubation experiment in July 2025** (2026)
+   0 citations · Ocean CDR
+
+9. **Impacts on benthic microbial communities by artificially enhanced weathering as a CO2 removal strategy** (2024)
+   0 citations · Enhanced Weathering
 
 ## External Profiles
 

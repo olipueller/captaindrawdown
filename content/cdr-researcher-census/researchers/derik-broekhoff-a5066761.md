@@ -1,7 +1,7 @@
 ---
 title: "Derik Broekhoff"
 description: "Derik Broekhoff is a Senior General CDR researcher at Stockholm Environment Institute in US. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.944980
+date: 2026-07-11T11:05:43.448139
 url: "/cdr-researcher-census/researchers/derik-broekhoff-a5066761/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xinyuan Wei"
 description: "Xinyuan Wei is a Mid-career Soil Carbon researcher at Institute of Environment and Sustainable Development in Agriculture in CN. With 61 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.502590
+date: 2026-07-11T11:05:43.110509
 url: "/cdr-researcher-census/researchers/xinyuan-wei-a5028329/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 16 |
 | Citations | 743 |
 | Publications | 61 |
-| CDR Focus | 13.1% |
+| CDR Focus | 11.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

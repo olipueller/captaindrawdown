@@ -1,7 +1,7 @@
 ---
 title: "Johan Ahlström"
 description: "Johan Ahlström is a Mid-career General CDR researcher at RISE Research Institutes of Sweden in SE. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.044205
+date: 2026-07-11T11:05:43.517366
 url: "/cdr-researcher-census/researchers/johan-ahlstrom-a5021816/"
 layout: "researcher"
 hiddenInHomeList: true

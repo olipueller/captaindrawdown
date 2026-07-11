@@ -1,7 +1,7 @@
 ---
 title: "Gautham Jeppu"
 description: "Gautham Jeppu is a Senior Biochar researcher at Manipal Academy of Higher Education in IN. With 36 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.272051
+date: 2026-07-11T11:05:42.957020
 url: "/cdr-researcher-census/researchers/gautham-jeppu-a5055761/"
 layout: "researcher"
 hiddenInHomeList: true

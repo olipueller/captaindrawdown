@@ -1,7 +1,7 @@
 ---
 title: "Lena Märki"
 description: "Lena Märki is a Mid-career Enhanced Weathering researcher at ETH Zurich in CH. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.381576
+date: 2026-07-11T11:05:43.736882
 url: "/cdr-researcher-census/researchers/lena-marki-a5007225/"
 layout: "researcher"
 hiddenInHomeList: true

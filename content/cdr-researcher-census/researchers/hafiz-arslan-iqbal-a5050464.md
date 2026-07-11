@@ -1,7 +1,7 @@
 ---
 title: "Hafiz Arslan Iqbal"
 description: "Hafiz Arslan Iqbal is a Mid-career General CDR researcher at Shandong University of Finance and Economics in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.646380
+date: 2026-07-11T11:05:43.237094
 url: "/cdr-researcher-census/researchers/hafiz-arslan-iqbal-a5050464/"
 layout: "researcher"
 hiddenInHomeList: true

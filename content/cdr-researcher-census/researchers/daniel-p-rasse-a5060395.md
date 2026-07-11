@@ -1,7 +1,7 @@
 ---
 title: "Daniel P. Rasse"
-description: "Daniel P. Rasse is an Eminent General CDR researcher at Norwegian Institute of Bioeconomy Research in NO. With 146 publications and an h-index of 43, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.882246
+description: "Daniel P. Rasse is an Eminent Biochar researcher at Norwegian Institute of Bioeconomy Research in NO. With 146 publications and an h-index of 43, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:42.775529
 url: "/cdr-researcher-census/researchers/daniel-p-rasse-a5060395/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Norwegian Institute of Bioeconomy Research · 🇳🇴 NO
 
 ## CDR Specialization
 
-**General CDR**
+**Biochar**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,8 +45,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 43 |
 | Citations | 13,886 |
 | Publications | 146 |
-| CDR Focus | 5.5% |
-| Trajectory | Stable |
+| CDR Focus | 6.2% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
@@ -65,13 +65,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 5. **Biochar mitigation potential in Norway estimated by IPCC Tier 1 and Tier 2 methods** (2024)
    3 citations · Biochar
 
-6. **Biochar permanence : a policy commentary** (2025)
+6. **Feasible Carbon Sequestration Potential in European Agricultural Mineral Soils Through Improved Management** (2026)
+   1 citations · Biochar
+
+7. **Biochar permanence : a policy commentary** (2025)
    0 citations · Biochar
 
-7. **The fate of cover crop carbon inputs in a Norwegian soil** (2025)
+8. **The fate of cover crop carbon inputs in a Norwegian soil** (2025)
    0 citations · Soil Carbon
 
-8. **Decomposition and stabilization of organic C in soils of different cultivation systems&amp;#160;** (2025)
+9. **Decomposition and stabilization of organic C in soils of different cultivation systems&amp;#160;** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

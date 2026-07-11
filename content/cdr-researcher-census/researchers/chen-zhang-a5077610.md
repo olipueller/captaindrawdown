@@ -1,7 +1,7 @@
 ---
 title: "Chen Zhang"
 description: "Chen Zhang is a Mid-career DAC researcher at China University of Petroleum, Beijing in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.158972
+date: 2026-07-11T11:05:43.580866
 url: "/cdr-researcher-census/researchers/chen-zhang-a5077610/"
 layout: "researcher"
 hiddenInHomeList: true

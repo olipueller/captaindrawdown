@@ -1,7 +1,7 @@
 ---
 title: "Man Zhang"
 description: "Man Zhang is an Early-career General CDR researcher at Shanghai Jiao Tong University in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.740379
+date: 2026-07-11T11:05:43.303693
 url: "/cdr-researcher-census/researchers/man-zhang-a5053529/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 4 |
 | Citations | 476 |
 | Publications | 4 |
-| CDR Focus | 100.0% |
-| Trajectory | Stable |
+| CDR Focus | 25.0% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
@@ -61,6 +61,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 4. **Integrated power to methanol processes with steam-assisted direct air capture** (2025)
    6 citations · DAC
+
+5. **Unraveling the interplay of adsorption and catalytic sites in Ru-Na/Al2O3 for integrated humid direct air capture and methanation** (2026)
+   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Rakibul I. Khan"
 description: "Rakibul I. Khan is a Mid-career Biochar researcher at Bethany College - West Virginia in US. With 16 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.605024
+date: 2026-07-11T11:05:43.210350
 url: "/cdr-researcher-census/researchers/rakibul-i-khan-a5040272/"
 layout: "researcher"
 hiddenInHomeList: true

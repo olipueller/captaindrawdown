@@ -1,7 +1,7 @@
 ---
 title: "Jinze Bai"
 description: "Jinze Bai is a Mid-career Biochar researcher at North West Agriculture and Forestry University in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.871843
+date: 2026-07-11T11:05:43.399296
 url: "/cdr-researcher-census/researchers/jinze-bai-a5017228/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 9 |
 | Citations | 392 |
 | Publications | 19 |
-| CDR Focus | 26.3% |
+| CDR Focus | 15.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

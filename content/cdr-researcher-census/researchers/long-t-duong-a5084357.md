@@ -1,7 +1,7 @@
 ---
 title: "Long T. Duong"
 description: "Long T. Duong is a Mid-career Biochar researcher at Lancaster University in GB. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.065421
+date: 2026-07-11T11:05:44.396244
 url: "/cdr-researcher-census/researchers/long-t-duong-a5084357/"
 layout: "researcher"
 hiddenInHomeList: true

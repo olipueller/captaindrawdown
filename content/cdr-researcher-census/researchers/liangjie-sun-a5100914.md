@@ -1,7 +1,7 @@
 ---
 title: "Liangjie Sun"
 description: "Liangjie Sun is a Mid-career Soil Carbon researcher at Shanghai Institute of Applied Physics in CN. With 39 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.604619
+date: 2026-07-11T11:05:43.210030
 url: "/cdr-researcher-census/researchers/liangjie-sun-a5100914/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 16 |
 | Citations | 602 |
 | Publications | 39 |
-| CDR Focus | 23.1% |
+| CDR Focus | 20.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

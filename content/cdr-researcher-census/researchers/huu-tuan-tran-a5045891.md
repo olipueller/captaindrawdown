@@ -1,7 +1,7 @@
 ---
 title: "Huu-Tuan Tran"
 description: "Huu-Tuan Tran is an Early-career General CDR researcher at Kansas State University in US. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.358404
+date: 2026-07-11T11:05:43.719567
 url: "/cdr-researcher-census/researchers/huu-tuan-tran-a5045891/"
 layout: "researcher"
 hiddenInHomeList: true

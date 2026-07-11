@@ -1,7 +1,7 @@
 ---
 title: "Harry Smith"
 description: "Harry Smith is an Early-career General CDR researcher at University of East Anglia in GB. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.490118
+date: 2026-07-11T11:05:43.816191
 url: "/cdr-researcher-census/researchers/harry-smith-a5074711/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 4 |
 | Citations | 194 |
 | Publications | 11 |
-| CDR Focus | 90.9% |
-| Trajectory | Declining |
+| CDR Focus | 63.6% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

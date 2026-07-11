@@ -1,7 +1,7 @@
 ---
 title: "Eric Slessarev"
 description: "Eric Slessarev is a Mid-career Soil Carbon researcher at Yale University in US. With 75 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.086519
+date: 2026-07-11T11:05:42.852938
 url: "/cdr-researcher-census/researchers/eric-slessarev-a5048601/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 17 |
 | Citations | 2,781 |
 | Publications | 75 |
-| CDR Focus | 22.7% |
+| CDR Focus | 18.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

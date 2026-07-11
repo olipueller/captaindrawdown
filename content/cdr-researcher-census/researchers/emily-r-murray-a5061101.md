@@ -1,7 +1,7 @@
 ---
 title: "Emily R. Murray"
 description: "Emily R. Murray is a Senior Soil Carbon researcher at Salk Institute for Biological Studies in US. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.394444
+date: 2026-07-11T11:05:43.035498
 url: "/cdr-researcher-census/researchers/emily-r-murray-a5061101/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Soil depth determines the microbial communities in <i>Sorghum bicolor</i> fields within a uniform regional environment** (2025)
+1. **A single-nuclei transcriptome census of the Arabidopsis maturing root identifies that MYB67 controls phellem cell maturation** (2025)
+   10 citations
+
+2. **Soil depth determines the microbial communities in <i>Sorghum bicolor</i> fields within a uniform regional environment** (2025)
    7 citations · Soil Carbon
 
 ## External Profiles

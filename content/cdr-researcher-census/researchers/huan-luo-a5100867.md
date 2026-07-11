@@ -1,7 +1,7 @@
 ---
 title: "Huan Luo"
 description: "Huan Luo is a Senior Biochar researcher at Kunming University of Science and Technology in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.097307
+date: 2026-07-11T11:05:44.401872
 url: "/cdr-researcher-census/researchers/huan-luo-a5100867/"
 layout: "researcher"
 hiddenInHomeList: true

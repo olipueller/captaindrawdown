@@ -1,7 +1,7 @@
 ---
 title: "Mohaddeseh Shahabi Nejad"
 description: "Mohaddeseh Shahabi Nejad is a Mid-career Biochar researcher. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.095822
+date: 2026-07-11T11:05:43.554688
 url: "/cdr-researcher-census/researchers/mohaddeseh-shahabi-nejad-a5005706/"
 layout: "researcher"
 hiddenInHomeList: true

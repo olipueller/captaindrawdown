@@ -1,7 +1,7 @@
 ---
 title: "Adnan Muzaffar"
 description: "Adnan Muzaffar is a Mid-career Soil Carbon researcher at Oak Ridge National Laboratory in US. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.136289
+date: 2026-07-11T11:05:43.564770
 url: "/cdr-researcher-census/researchers/adnan-muzaffar-a5004493/"
 layout: "researcher"
 hiddenInHomeList: true

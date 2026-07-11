@@ -1,7 +1,7 @@
 ---
 title: "Kwon Rae Kim"
 description: "Kwon Rae Kim is a Mid-career Soil Carbon researcher at Gyeongsang National University in KR. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.674861
+date: 2026-07-11T11:05:44.081480
 url: "/cdr-researcher-census/researchers/kwon-rae-kim-a5113467/"
 layout: "researcher"
 hiddenInHomeList: true

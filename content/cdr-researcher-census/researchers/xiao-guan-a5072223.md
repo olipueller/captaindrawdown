@@ -1,7 +1,7 @@
 ---
 title: "Xiao Guan"
 description: "Xiao Guan is a Mid-career Soil Carbon researcher at Chinese Research Academy of Environmental Sciences in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.454204
+date: 2026-07-11T11:05:43.786788
 url: "/cdr-researcher-census/researchers/xiao-guan-a5072223/"
 layout: "researcher"
 hiddenInHomeList: true

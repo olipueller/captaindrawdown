@@ -1,7 +1,7 @@
 ---
 title: "Ana Barbara Bisinella de Faria"
 description: "Ana Barbara Bisinella de Faria is a Mid-career Soil Carbon researcher at Veolia (France) in FR. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.088134
+date: 2026-07-11T11:05:43.549348
 url: "/cdr-researcher-census/researchers/ana-barbara-bisinella-de-faria-a5111381/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jakob Rønning"
 description: "Jakob Rønning is an Early-career Ocean CDR researcher at University of Southern Denmark in DK. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.856892
+date: 2026-07-11T11:05:44.218058
 url: "/cdr-researcher-census/researchers/jakob-rnning-a5011278/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 3 |
 | Citations | 132 |
 | Publications | 7 |
-| CDR Focus | 85.7% |
+| CDR Focus | 100.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -67,6 +67,9 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 6. **Assessment of the potential of different alkaline minerals to mitigate ocean acidification and sequester CO2** (2024)
    0 citations · Enhanced Weathering
+
+7. **Ocean alkalinity enhancement as a tool to mitigate ocean acidification and facilitate CO2 uptake from the atmosphere** (2021)
+   0 citations · Ocean CDR
 
 ## External Profiles
 

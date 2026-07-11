@@ -1,7 +1,7 @@
 ---
 title: "Helen Hou"
 description: "Helen Hou is an Early-career Soil Carbon researcher at The University of Queensland in AU. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.036796
+date: 2026-07-11T11:05:44.373844
 url: "/cdr-researcher-census/researchers/helen-hou-a5063335/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Qingxu Ma"
 description: "Qingxu Ma is a Senior Soil Carbon researcher at Bangor University in GB. With 194 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.015411
+date: 2026-07-11T11:05:42.820648
 url: "/cdr-researcher-census/researchers/qingxu-ma-a5041765/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 36 |
 | Citations | 4,086 |
 | Publications | 194 |
-| CDR Focus | 7.2% |
+| CDR Focus | 5.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -65,20 +65,20 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 5. **Appropriately delayed flooding before rice transplanting increases net ecosystem economic benefit in the winter green manure-rice rotation system** (2024)
    13 citations · Soil Carbon
 
-6. **Global Synthesis of Fertilisation‐Induced Changes in the Microbial Entombing Effect** (2025)
+6. **Meta-analysis of the accumulation and stabilisation of particulate and mineral-associated organic carbon by fertilization** (2025)
    8 citations · Soil Carbon
 
-7. **Spatial variation in stability of wheat (Triticum aestivum L.) straw phytolith-occluded carbon in China** (2024)
+7. **Global Synthesis of Fertilisation‐Induced Changes in the Microbial Entombing Effect** (2025)
+   8 citations · Soil Carbon
+
+8. **Spatial variation in stability of wheat (Triticum aestivum L.) straw phytolith-occluded carbon in China** (2024)
    4 citations · Soil Carbon
 
-8. **The effects of crop varieties and environmental conditions on the stability of phytolith-occluded carbon in wheat and rice** (2024)
+9. **The effects of crop varieties and environmental conditions on the stability of phytolith-occluded carbon in wheat and rice** (2024)
    1 citations · Soil Carbon
 
-9. **<b>Microbial community traits and necromass dynamics shape soil carbon accumulation</b>** (2025)
+10. **<b>Microbial community traits and necromass dynamics shape soil carbon accumulation</b>** (2025)
    0 citations · Soil Carbon
-
-10. **<b>Microbial community traits and necromass dynamics shape soil carbon accumulation: evidence from a 180-year fertilisation trial</b>** (2025)
-   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Lele Fang"
 description: "Lele Fang is a Mid-career Soil Carbon researcher at University of Macau in MO. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.032027
+date: 2026-07-11T11:05:44.369120
 url: "/cdr-researcher-census/researchers/lele-fang-a5103189/"
 layout: "researcher"
 hiddenInHomeList: true

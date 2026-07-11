@@ -1,7 +1,7 @@
 ---
 title: "Zhenggang Du"
 description: "Zhenggang Du is a Senior Soil Carbon researcher at 东北林业大学 in CN. With 68 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.180665
+date: 2026-07-11T11:05:42.900576
 url: "/cdr-researcher-census/researchers/zhenggang-du-a5050751/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zubeen Hathi"
 description: "Zubeen Hathi is a Mid-career Soil Carbon researcher. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.867186
+date: 2026-07-11T11:05:43.396091
 url: "/cdr-researcher-census/researchers/zubeen-hathi-a5075858/"
 layout: "researcher"
 hiddenInHomeList: true

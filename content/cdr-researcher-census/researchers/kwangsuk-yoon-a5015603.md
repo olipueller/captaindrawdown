@@ -1,7 +1,7 @@
 ---
 title: "Kwangsuk Yoon"
 description: "Kwangsuk Yoon is a Senior Biochar researcher at Hanyang University in KR. With 45 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.207794
+date: 2026-07-11T11:05:42.916771
 url: "/cdr-researcher-census/researchers/kwangsuk-yoon-a5015603/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 17 |
 | Citations | 1,669 |
 | Publications | 45 |
-| CDR Focus | 13.3% |
-| Trajectory | Declining |
+| CDR Focus | 11.1% |
+| Trajectory | Exiting |
 
 ## Top CDR Publications
 

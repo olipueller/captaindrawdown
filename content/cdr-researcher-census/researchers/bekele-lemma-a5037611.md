@@ -1,7 +1,7 @@
 ---
 title: "Bekele Lemma"
 description: "Bekele Lemma is a Senior Soil Carbon researcher at Hawassa University in ET. With 49 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.446063
+date: 2026-07-11T11:05:43.070881
 url: "/cdr-researcher-census/researchers/bekele-lemma-a5037611/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 15 |
 | Citations | 845 |
 | Publications | 49 |
-| CDR Focus | 8.2% |
+| CDR Focus | 6.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

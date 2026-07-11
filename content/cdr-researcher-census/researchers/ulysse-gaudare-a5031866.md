@@ -1,7 +1,7 @@
 ---
 title: "Ulysse Gaudaré"
 description: "Ulysse Gaudaré is a Mid-career Soil Carbon researcher at Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement in FR. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.929655
+date: 2026-07-11T11:05:43.438130
 url: "/cdr-researcher-census/researchers/ulysse-gaudare-a5031866/"
 layout: "researcher"
 hiddenInHomeList: true

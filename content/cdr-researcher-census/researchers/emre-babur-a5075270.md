@@ -1,7 +1,7 @@
 ---
 title: "Emre Babür"
 description: "Emre Babür is a Mid-career Soil Carbon researcher at Kahramanmaraş Sütçü İmam Üniversitesi in TR. With 63 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.298888
+date: 2026-07-11T11:05:42.973496
 url: "/cdr-researcher-census/researchers/emre-babur-a5075270/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 19 |
 | Citations | 1,237 |
 | Publications | 63 |
-| CDR Focus | 11.1% |
-| Trajectory | Growing |
+| CDR Focus | 6.3% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

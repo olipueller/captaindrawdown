@@ -1,7 +1,7 @@
 ---
 title: "Ken Oshiro"
 description: "Ken Oshiro is a Senior General CDR researcher at Hokkaido University in JP. With 135 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.062041
+date: 2026-07-11T11:05:42.839848
 url: "/cdr-researcher-census/researchers/ken-oshiro-a5057996/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 29 |
 | Citations | 3,204 |
 | Publications | 135 |
-| CDR Focus | 14.8% |
+| CDR Focus | 11.9% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

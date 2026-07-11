@@ -1,7 +1,7 @@
 ---
 title: "Yuan Sun"
 description: "Yuan Sun is a Senior Soil Carbon researcher at Tongji University in CN. With 51 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.306780
+date: 2026-07-11T11:05:42.978982
 url: "/cdr-researcher-census/researchers/yuan-sun-a5082833/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -61,6 +61,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 4. **Phosphorus fertilization enhances terrestrial carbon cycling in phosphorus-deficient ecosystems** (2023)
    12 citations · Soil Carbon
+
+5. **Effects of Ocean Acidification on the Marine Organisms** (2023)
+   2 citations · General CDR
 
 ## External Profiles
 

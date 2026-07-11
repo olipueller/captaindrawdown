@@ -1,7 +1,7 @@
 ---
 title: "Guancheng Liu"
 description: "Guancheng Liu is a Mid-career Soil Carbon researcher at Qufu Normal University in CN. With 79 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.183625
+date: 2026-07-11T11:05:42.901976
 url: "/cdr-researcher-census/researchers/guancheng-liu-a5043787/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 19 |
 | Citations | 1,817 |
 | Publications | 79 |
-| CDR Focus | 5.1% |
+| CDR Focus | 7.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -61,6 +61,12 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 4. **Natural δ13C and δ15N Abundance of Plants and Soils Under Long-term N Addition in a Temperate Secondary Forest** (2024)
    5 citations · Soil Carbon
+
+5. **Long term low-level nitrogen addition enhances microbial carbon use efficiency and turnover rate across different seasons** (2026)
+   0 citations · Soil Carbon
+
+6. **Effects of Long-Term Nitrogen Addition on Glomalin-Related Soil Protein Dynamics, Soil Aggregate Stability and Organic Carbon Sequestration in the Boreal Forest** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

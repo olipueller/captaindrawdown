@@ -1,7 +1,7 @@
 ---
 title: "Zhilong Fan"
 description: "Zhilong Fan is a Senior Soil Carbon researcher at Gansu Agricultural University in CN. With 91 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.169376
+date: 2026-07-11T11:05:42.894955
 url: "/cdr-researcher-census/researchers/zhilong-fan-a5103081/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 26 |
 | Citations | 1,927 |
 | Publications | 91 |
-| CDR Focus | 5.5% |
+| CDR Focus | 6.6% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -53,16 +53,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Green manure and maize intercropping with reduced chemical N enhances productivity and carbon mitigation of farmland in arid areas** (2023)
    32 citations · Soil Carbon
 
-2. **Metagenomic insights into carbon, nitrogen, and phosphorus cycling in a no-till intercropping system** (2025)
+2. **Enhancing crop production and carbon sequestration of wheat in arid areas by green manure with reduced nitrogen fertilizer** (2024)
+   23 citations · Soil Carbon
+
+3. **Metagenomic insights into carbon, nitrogen, and phosphorus cycling in a no-till intercropping system** (2025)
    9 citations
 
-3. **Intercropping grain crops with green manure under reduced chemical nitrogen improves the soil carbon stocks by optimizing aggregates in an oasis irrigation area** (2025)
+4. **Recent advances in soil carbon sequestration and emission reduction within legume green manure enhanced rotation systems: a review** (2026)
    1 citations · Soil Carbon
 
-4. **Metagenomic Insights into Carbon, Nitrogen, and Phosphorus Cycling in a No-Till Intercropping System** (2024)
+5. **Intercropping grain crops with green manure under reduced chemical nitrogen improves the soil carbon stocks by optimizing aggregates in an oasis irrigation area** (2025)
+   1 citations · Soil Carbon
+
+6. **Metagenomic Insights into Carbon, Nitrogen, and Phosphorus Cycling in a No-Till Intercropping System** (2024)
    0 citations · Soil Carbon
 
-5. **Green Manure and Maize Intercropping with Reduced Chemical N Enhance Productivity and Soil Carbon Mitigation of Farmland in Arid Areas** (2022)
+7. **Green Manure and Maize Intercropping with Reduced Chemical N Enhance Productivity and Soil Carbon Mitigation of Farmland in Arid Areas** (2022)
    0 citations · Soil Carbon
 
 ## External Profiles

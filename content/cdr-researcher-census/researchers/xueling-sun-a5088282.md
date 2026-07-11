@@ -1,7 +1,7 @@
 ---
 title: "Xueling Sun"
 description: "Xueling Sun is a Mid-career Soil Carbon researcher at Ocean University of China in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.989195
+date: 2026-07-11T11:05:44.318186
 url: "/cdr-researcher-census/researchers/xueling-sun-a5088282/"
 layout: "researcher"
 hiddenInHomeList: true

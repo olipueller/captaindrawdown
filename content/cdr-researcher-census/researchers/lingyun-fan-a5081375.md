@@ -1,7 +1,7 @@
 ---
 title: "Lingyun Fan"
 description: "Lingyun Fan is a Mid-career Soil Carbon researcher at Harbin Normal University in CN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.844498
+date: 2026-07-11T11:05:43.379569
 url: "/cdr-researcher-census/researchers/lingyun-fan-a5081375/"
 layout: "researcher"
 hiddenInHomeList: true

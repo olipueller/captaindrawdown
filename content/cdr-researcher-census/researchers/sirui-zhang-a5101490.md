@@ -1,7 +1,7 @@
 ---
 title: "Sirui Zhang"
 description: "Sirui Zhang is a Senior Enhanced Weathering researcher at Chinese Academy of Sciences in CN. With 62 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.194145
+date: 2026-07-11T11:05:42.908591
 url: "/cdr-researcher-census/researchers/sirui-zhang-a5101490/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 24 |
 | Citations | 1,747 |
 | Publications | 62 |
-| CDR Focus | 11.3% |
+| CDR Focus | 6.5% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

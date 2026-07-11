@@ -1,7 +1,7 @@
 ---
 title: "Yann Quilcaille"
 description: "Yann Quilcaille is a Mid-career General CDR researcher at ETH Zurich in CH. With 104 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.260100
+date: 2026-07-11T11:05:42.948710
 url: "/cdr-researcher-census/researchers/yann-quilcaille-a5088021/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 16 |
 | Citations | 1,395 |
 | Publications | 104 |
-| CDR Focus | 7.7% |
+| CDR Focus | 5.8% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -71,7 +71,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 7. **Using regional ESM emulators to assess climate feedbacks to IAMs: The "FASTMIP" experimental protocol** (2024)
    2 citations · General CDR
 
-8. **Comment on esd-2021-72** (2021)
+8. **Comment on egusphere-2024-1941** (2024)
+   0 citations
+
+9. **Comment on esd-2021-72** (2021)
    0 citations · BECCS
 
 ## External Profiles

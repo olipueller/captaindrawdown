@@ -1,7 +1,7 @@
 ---
 title: "Bonface O. Manono"
 description: "Bonface O. Manono is a Mid-career Soil Carbon researcher at University of Wisconsin–Extension in US. With 32 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.056880
+date: 2026-07-11T11:05:43.526299
 url: "/cdr-researcher-census/researchers/bonface-o-manono-a5059380/"
 layout: "researcher"
 hiddenInHomeList: true

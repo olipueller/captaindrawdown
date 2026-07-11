@@ -1,7 +1,7 @@
 ---
 title: "Pichaya In-na"
 description: "Pichaya In-na is a Mid-career Ocean CDR researcher at Chulalongkorn University in TH. With 27 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.544799
+date: 2026-07-11T11:05:43.143464
 url: "/cdr-researcher-census/researchers/pichaya-in-na-a5091453/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 13 |
 | Citations | 676 |
 | Publications | 27 |
-| CDR Focus | 11.1% |
-| Trajectory | Growing |
+| CDR Focus | 7.4% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

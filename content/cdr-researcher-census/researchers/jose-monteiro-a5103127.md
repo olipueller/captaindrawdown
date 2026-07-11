@@ -1,7 +1,7 @@
 ---
 title: "José Monteiro"
 description: "José Monteiro is a Mid-career Soil Carbon researcher at University of Coimbra in PT. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.268432
+date: 2026-07-11T11:05:43.658756
 url: "/cdr-researcher-census/researchers/jose-monteiro-a5103127/"
 layout: "researcher"
 hiddenInHomeList: true

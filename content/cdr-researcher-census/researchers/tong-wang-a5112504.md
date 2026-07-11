@@ -1,7 +1,7 @@
 ---
 title: "Tong Wang"
 description: "Tong Wang is a Mid-career Soil Carbon researcher at Beijing Normal University in CN. With 29 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.518220
+date: 2026-07-11T11:05:43.874930
 url: "/cdr-researcher-census/researchers/tong-wang-a5112504/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,10 +53,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Improving the microenvironment of tracking photovoltaic systems promotes soil organic carbon accumulation by mediating plant carbon inputs and microbial necromass retention** (2025)
    13 citations · Soil Carbon
 
-2. **Synergistic mechanism of Bio-based sulfonate liquid in regulating organic carbon degradation and sequestration in calcareous soils** (2025)
+2. **Soil microbial metabolic strategies and the imbalance between available phosphorus and nitrogen controls the root exudate-induced priming effect by grassland tumbleweed (Cleistogenes squarrosa and Saposhnikovia divaricata) root exudates** (2026)
+   2 citations
+
+3. **Synergistic mechanism of Bio-based sulfonate liquid in regulating organic carbon degradation and sequestration in calcareous soils** (2025)
    0 citations · Soil Carbon
 
-3. **Analysis of the Phosphorus Mobilization, Uptake, Transport, and Utilization Processes of Dominant C3 and C4 Grasses in a Grassland in Northern China Based on a Conceptual Phosphorus–Carbon Economy System** (2025)
+4. **Analysis of the Phosphorus Mobilization, Uptake, Transport, and Utilization Processes of Dominant C3 and C4 Grasses in a Grassland in Northern China Based on a Conceptual Phosphorus–Carbon Economy System** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

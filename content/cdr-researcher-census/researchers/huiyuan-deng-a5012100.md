@@ -1,7 +1,7 @@
 ---
 title: "Huiyuan Deng"
 description: "Huiyuan Deng is a Mid-career Biochar researcher at Sichuan University of Science and Engineering in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.447184
+date: 2026-07-11T11:05:43.782532
 url: "/cdr-researcher-census/researchers/huiyuan-deng-a5012100/"
 layout: "researcher"
 hiddenInHomeList: true

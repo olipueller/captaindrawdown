@@ -1,7 +1,7 @@
 ---
 title: "Alex R. Crump"
 description: "Alex R. Crump is a Mid-career Biochar researcher at University of Idaho in US. With 43 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.462462
+date: 2026-07-11T11:05:43.081938
 url: "/cdr-researcher-census/researchers/alex-r-crump-a5008693/"
 layout: "researcher"
 hiddenInHomeList: true

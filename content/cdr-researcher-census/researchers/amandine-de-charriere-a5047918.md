@@ -1,7 +1,7 @@
 ---
 title: "Amandine De Charrière"
 description: "Amandine De Charrière is a Mid-career General CDR researcher at University of Geneva in CH. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.405593
+date: 2026-07-11T11:05:43.754462
 url: "/cdr-researcher-census/researchers/amandine-de-charriere-a5047918/"
 layout: "researcher"
 hiddenInHomeList: true

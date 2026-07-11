@@ -1,7 +1,7 @@
 ---
 title: "Zihan Wang"
 description: "Zihan Wang is a Mid-career Soil Carbon researcher at North University of China in CN. With 50 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.486143
+date: 2026-07-11T11:05:43.098946
 url: "/cdr-researcher-census/researchers/zihan-wang-a5065878/"
 layout: "researcher"
 hiddenInHomeList: true

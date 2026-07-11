@@ -1,7 +1,7 @@
 ---
 title: "Katharina Meurer"
 description: "Katharina Meurer is a Mid-career Soil Carbon researcher at Swedish University of Agricultural Sciences in SE. With 91 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.326860
+date: 2026-07-11T11:05:42.992371
 url: "/cdr-researcher-census/researchers/katharina-meurer-a5067405/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -59,13 +59,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **Emissions of CO2, N2O and CH4 From Cultivated and Set Aside Drained Peatland in Central Sweden** (2021)
    25 citations · Soil Carbon
 
-4. **Simulating variable fertilizer application ‘rates’ of synthetic and bio-based fertilizers in potato and maize fields to optimize nutrient management and validate environmental sustainability** (2025)
-   0 citations
-
-5. **Editorial for the <scp>EJP SOIL</scp> Special Issue 1 on “Climate‐Smart Sustainable Agricultural Soil Management for the Future”** (2025)
+4. **Editorial for the Second <scp>EJP SOIL</scp> Special Issue: “Climate‐Smart Sustainable Agricultural Soil Management for the Future II”** (2026)
    0 citations · General CDR
 
-6. **Coupled modelling of soil structure dynamics, carbon cycling, hydrological processes and crop production** (2023)
+5. **Simulating variable fertilizer application ‘rates’ of synthetic and bio-based fertilizers in potato and maize fields to optimize nutrient management and validate environmental sustainability** (2025)
+   0 citations
+
+6. **Editorial for the <scp>EJP SOIL</scp> Special Issue 1 on “Climate‐Smart Sustainable Agricultural Soil Management for the Future”** (2025)
+   0 citations · General CDR
+
+7. **Coupled modelling of soil structure dynamics, carbon cycling, hydrological processes and crop production** (2023)
    0 citations · General CDR
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Alan Piemonti"
 description: "Alan Piemonti is a Mid-career Soil Carbon researcher at University of Brescia in IT. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.103798
+date: 2026-07-11T11:05:44.407228
 url: "/cdr-researcher-census/researchers/alan-piemonti-a5054632/"
 layout: "researcher"
 hiddenInHomeList: true

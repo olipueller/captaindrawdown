@@ -1,7 +1,7 @@
 ---
 title: "Ben Joseph"
 description: "Ben Joseph is a Mid-career General CDR researcher. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.146810
+date: 2026-07-11T11:05:44.436790
 url: "/cdr-researcher-census/researchers/ben-joseph-a5026814/"
 layout: "researcher"
 hiddenInHomeList: true

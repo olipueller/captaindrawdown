@@ -1,7 +1,7 @@
 ---
 title: "Guo Chen"
 description: "Guo Chen is a Mid-career Soil Carbon researcher at China University of Mining and Technology in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.323547
+date: 2026-07-11T11:05:43.696147
 url: "/cdr-researcher-census/researchers/guo-chen-a5101872/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 233 |
 | Publications | 15 |
-| CDR Focus | 13.3% |
+| CDR Focus | 6.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -55,6 +55,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 2. **Subsoil organic carbon turnover is dominantly controlled by soil properties in grasslands across China** (2021)
    2 citations
+
+3. **Regulatory mechanisms of spatiotemporal variations in aboveground and belowground net primary production in global terrestrial ecosystems** (2026)
+   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Mike Steffen Bernhard Jørgensen"
 description: "Mike Steffen Bernhard Jørgensen is a Mid-career General CDR researcher at Technical University of Denmark in DK. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.953630
+date: 2026-07-11T11:05:44.290465
 url: "/cdr-researcher-census/researchers/mike-steffen-bernhard-jrgensen-a5073025/"
 layout: "researcher"
 hiddenInHomeList: true

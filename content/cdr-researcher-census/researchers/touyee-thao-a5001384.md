@@ -1,7 +1,7 @@
 ---
 title: "Touyee Thao"
 description: "Touyee Thao is a Mid-career Soil Carbon researcher at San Joaquin Valley Agricultural Sciences Center in US. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.313889
+date: 2026-07-11T11:05:43.688546
 url: "/cdr-researcher-census/researchers/touyee-thao-a5001384/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 236 |
 | Publications | 18 |
-| CDR Focus | 16.7% |
-| Trajectory | Stable |
+| CDR Focus | 11.1% |
+| Trajectory | Exiting |
 
 ## Top CDR Publications
 

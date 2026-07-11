@@ -1,7 +1,7 @@
 ---
 title: "Moataz Sheha"
 description: "Moataz Sheha is a Mid-career General CDR researcher at Massachusetts Institute of Technology in US. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.955681
+date: 2026-07-11T11:05:43.455725
 url: "/cdr-researcher-census/researchers/moataz-sheha-a5060967/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 8 |
 | Citations | 352 |
 | Publications | 11 |
-| CDR Focus | 36.4% |
+| CDR Focus | 27.3% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

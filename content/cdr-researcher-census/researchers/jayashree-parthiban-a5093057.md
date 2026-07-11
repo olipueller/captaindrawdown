@@ -1,7 +1,7 @@
 ---
 title: "Jayashree Parthiban"
 description: "Jayashree Parthiban is an Early-career DAC researcher at Indian Institute of Management Indore in IN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.116847
+date: 2026-07-11T11:05:44.416020
 url: "/cdr-researcher-census/researchers/jayashree-parthiban-a5093057/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 | h-index | 4 |
 | Citations | 105 |
 | Publications | 7 |
-| CDR Focus | 42.9% |
-| Trajectory | Stable |
+| CDR Focus | 14.3% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

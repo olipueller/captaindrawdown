@@ -1,7 +1,7 @@
 ---
 title: "Yuxi Zeng"
 description: "Yuxi Zeng is a Mid-career Biochar researcher at South China University of Technology in CN. With 25 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.315335
+date: 2026-07-11T11:05:42.984485
 url: "/cdr-researcher-census/researchers/yuxi-zeng-a5082994/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -55,6 +55,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 3. **A review on the algae-derived biochar catalysts:Advanced oxidation processes and machine learning tools** (2024)
    19 citations · Biochar
+
+4. **Mechanistic Insights into Removal of Electron-Rich Emerging Pollutants Using Carbon Nitride Co-Modified Cyanobacteria Biochar in Fenton-Like Oxidation Reaction: Dual Non-Radical Degradation Pathways** (2024)
+   0 citations · Biochar
 
 ## External Profiles
 

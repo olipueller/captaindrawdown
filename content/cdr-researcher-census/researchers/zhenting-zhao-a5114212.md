@@ -1,7 +1,7 @@
 ---
 title: "Zhenting Zhao"
-description: "Zhenting Zhao is an Early-career Unknown researcher at Xinyang Normal University in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.372827
+description: "Zhenting Zhao is an Early-career Soil Carbon researcher at Xinyang Normal University in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:43.731123
 url: "/cdr-researcher-census/researchers/zhenting-zhao-a5114212/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Xinyang Normal University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Unknown**
+**Soil Carbon**
 
-Unknown
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
@@ -46,12 +46,18 @@ Unknown
 | Citations | 221 |
 | Publications | 12 |
 | CDR Focus | 8.3% |
-| Trajectory | Exiting |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Research status, development trends, and the prospects of cultivated land risk** (2023)
    4 citations
+
+2. **Reconciling food security and soil carbon sequestration in global croplands** (2026)
+   0 citations
+
+3. **Reconciling food security and soil carbon sequestration in global croplands** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

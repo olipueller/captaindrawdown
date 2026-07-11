@@ -1,7 +1,7 @@
 ---
 title: "Carmen R. Forero"
 description: "Carmen R. Forero is a Senior General CDR researcher at Universidad del Valle in CO. With 31 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.517737
+date: 2026-07-11T11:05:43.123648
 url: "/cdr-researcher-census/researchers/carmen-r-forero-a5083201/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Kirsten Lønne Enggrob"
 description: "Kirsten Lønne Enggrob is a Mid-career Soil Carbon researcher at Aarhus University in DK. With 29 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.918078
+date: 2026-07-11T11:05:43.429384
 url: "/cdr-researcher-census/researchers/kirsten-lnne-enggrob-a5044317/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 370 |
 | Publications | 29 |
-| CDR Focus | 13.8% |
+| CDR Focus | 10.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

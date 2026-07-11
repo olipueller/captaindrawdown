@@ -1,7 +1,7 @@
 ---
 title: "Luis Parras‐Alcántara"
 description: "Luis Parras‐Alcántara is a Senior Soil Carbon researcher at University of Córdoba in ES. With 98 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.113806
+date: 2026-07-11T11:05:42.864977
 url: "/cdr-researcher-census/researchers/luis-parrasalcantara-a5081415/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 25 |
 | Citations | 2,433 |
 | Publications | 98 |
-| CDR Focus | 10.2% |
+| CDR Focus | 8.2% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

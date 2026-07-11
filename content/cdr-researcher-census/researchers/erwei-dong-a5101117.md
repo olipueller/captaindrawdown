@@ -1,7 +1,7 @@
 ---
 title: "Erwei Dong"
 description: "Erwei Dong is a Mid-career Soil Carbon researcher at Shanxi Agricultural University in CN. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.750938
+date: 2026-07-11T11:05:44.138627
 url: "/cdr-researcher-census/researchers/erwei-dong-a5101117/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 148 |
 | Publications | 17 |
-| CDR Focus | 23.5% |
-| Trajectory | Declining |
+| CDR Focus | 17.6% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

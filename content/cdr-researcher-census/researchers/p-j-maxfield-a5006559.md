@@ -1,7 +1,7 @@
 ---
 title: "P. J. Maxfield"
 description: "P. J. Maxfield is a Senior Soil Carbon researcher at University of the West of England in GB. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.302132
+date: 2026-07-11T11:05:43.681408
 url: "/cdr-researcher-census/researchers/p-j-maxfield-a5006559/"
 layout: "researcher"
 hiddenInHomeList: true

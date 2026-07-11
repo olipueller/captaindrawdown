@@ -1,7 +1,7 @@
 ---
 title: "Wangfei Qin"
 description: "Wangfei Qin is an Early-career Soil Carbon researcher at Guizhou University in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.101726
+date: 2026-07-11T11:05:44.405363
 url: "/cdr-researcher-census/researchers/wangfei-qin-a5111003/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Renjie Hou"
 description: "Renjie Hou is a Senior Soil Carbon researcher at Northeast Agricultural University in CN. With 120 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.046842
+date: 2026-07-11T11:05:42.833957
 url: "/cdr-researcher-census/researchers/renjie-hou-a5108886/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 35 |
 | Citations | 3,412 |
 | Publications | 120 |
-| CDR Focus | 8.3% |
+| CDR Focus | 9.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -74,11 +74,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 8. **Analysis of changes in water-heat-carbon fluxes at different time scales and their influencing factors in the cold black soil region of Northeast China** (2025)
    3 citations · Soil Carbon
 
-9. **Transport Mechanisms of Nanoplastics in Agricultural Soils Under Snowmelt Infiltration Conditions in Cold Regions** (2025)
-   0 citations · Biochar
-
-10. **Analysis of Changes in Water-Heat-Carbon Fluxes at Different Time Scales and Their Influencing Factors in the Cold and Black Soil Region of Northeast China** (2025)
+9. **Soil quality degradation induces synergistic evolution of carbon components: Microbial extracellular polymeric substances - driven mechanism** (2026)
    0 citations · Soil Carbon
+
+10. **Transport Mechanisms of Nanoplastics in Agricultural Soils Under Snowmelt Infiltration Conditions in Cold Regions** (2025)
+   0 citations · Biochar
 
 ## External Profiles
 

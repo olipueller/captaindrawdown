@@ -1,7 +1,7 @@
 ---
 title: "Yonggan Li"
 description: "Yonggan Li is a Mid-career Soil Carbon researcher at Henan Energy & Chemical Industry Group (China) in CN. With 29 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.117725
+date: 2026-07-11T11:05:44.416703
 url: "/cdr-researcher-census/researchers/yonggan-li-a5070384/"
 layout: "researcher"
 hiddenInHomeList: true

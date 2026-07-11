@@ -1,7 +1,7 @@
 ---
 title: "Jennie E. Rheuban"
 description: "Jennie E. Rheuban is a Mid-career Ocean CDR researcher at Woods Hole Oceanographic Institution in US. With 42 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.380852
+date: 2026-07-11T11:05:43.026620
 url: "/cdr-researcher-census/researchers/jennie-e-rheuban-a5040595/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 15 |
 | Citations | 983 |
 | Publications | 42 |
-| CDR Focus | 23.8% |
+| CDR Focus | 14.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

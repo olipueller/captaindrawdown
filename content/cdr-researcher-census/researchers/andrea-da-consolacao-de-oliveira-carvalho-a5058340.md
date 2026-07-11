@@ -1,7 +1,7 @@
 ---
 title: "Andréa da Consolação de Oliveira Carvalho"
 description: "Andréa da Consolação de Oliveira Carvalho is a Mid-career Ocean CDR researcher at Instituto de Geociencias in ES. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.697636
+date: 2026-07-11T11:05:44.097921
 url: "/cdr-researcher-census/researchers/andrea-da-consolacao-de-oliveira-carvalho-a5058340/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 | h-index | 7 |
 | Citations | 156 |
 | Publications | 19 |
-| CDR Focus | 5.3% |
+| CDR Focus | 10.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Early Career Recommendations for the Equitable Growth of a Marine Carbon Dioxide Removal Sector** (2025)
    4 citations · General CDR
+
+2. **Monitoring, reporting, and verification of marine carbon dioxide removal: Exploring scientific consensus and divergences across continents** (2026)
+   0 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Dibyajyoti Nath"
 description: "Dibyajyoti Nath is a Mid-career Soil Carbon researcher at Tamil Nadu Agricultural University in IN. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.084584
+date: 2026-07-11T11:05:43.546587
 url: "/cdr-researcher-census/researchers/dibyajyoti-nath-a5069477/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 299 |
 | Publications | 26 |
-| CDR Focus | 15.4% |
-| Trajectory | Declining |
+| CDR Focus | 7.7% |
+| Trajectory | Exiting |
 
 ## Top CDR Publications
 

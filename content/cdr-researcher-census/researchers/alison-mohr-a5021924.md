@@ -1,7 +1,7 @@
 ---
 title: "Alison Mohr"
 description: "Alison Mohr is a Senior General CDR researcher at University of Nottingham in GB. With 37 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.304291
+date: 2026-07-11T11:05:42.977685
 url: "/cdr-researcher-census/researchers/alison-mohr-a5021924/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 16 |
 | Citations | 1,215 |
 | Publications | 37 |
-| CDR Focus | 8.1% |
+| CDR Focus | 5.4% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

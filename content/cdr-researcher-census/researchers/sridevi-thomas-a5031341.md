@@ -1,7 +1,7 @@
 ---
 title: "Sridevi Thomas"
 description: "Sridevi Thomas is a Mid-career General CDR researcher. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.321546
+date: 2026-07-11T11:05:43.694786
 url: "/cdr-researcher-census/researchers/sridevi-thomas-a5031341/"
 layout: "researcher"
 hiddenInHomeList: true

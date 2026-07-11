@@ -1,7 +1,7 @@
 ---
 title: "Tengfei Yu"
 description: "Tengfei Yu is a Senior Soil Carbon researcher at Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences in CN. With 82 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.256572
+date: 2026-07-11T11:05:42.946059
 url: "/cdr-researcher-census/researchers/tengfei-yu-a5010788/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 22 |
 | Citations | 1,412 |
 | Publications | 82 |
-| CDR Focus | 8.5% |
+| CDR Focus | 11.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -53,22 +53,31 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Divergent response to abiotic factor determines the decoupling of water and carbon fluxes over an artificial C4 shrub in desert** (2023)
    13 citations · Soil Carbon
 
-2. **Divergent responses of soil organic and inorganic carbon to edaphic factors within, but not between, shelterbelts and croplands in dryland of NW China** (2025)
+2. **Divergent responses of soil organic and inorganic carbon to edaphic factors within shelterbelts and croplands in dryland, Northwest China** (2026)
+   1 citations · Soil Carbon
+
+3. **Soil organic carbon mineralization drives pedogenic inorganic carbon formation in arid riparian forest, Northwest China** (2025)
    0 citations · Soil Carbon
 
-3. **Contrasting responses of soil organic and inorganic carbon to edaphic factors within, but not between shelterbelt and croplands in China's Drylands** (2025)
+4. **Divergent responses of soil organic and inorganic carbon to edaphic factors within, but not between, shelterbelts and croplands in dryland of NW China** (2025)
    0 citations · Soil Carbon
 
-4. **Relationship and determinants of water and carbon dioxide (CO2) exchange in desert ecosystem, China&amp;#160;** (2024)
+5. **Contrasting responses of soil organic and inorganic carbon to edaphic factors within, but not between shelterbelt and croplands in China's Drylands** (2025)
    0 citations · Soil Carbon
 
-5. **Divergent Response of Topsoil Organic and Inorganic Carbon to Biotic and Abiotic Factors for Afforestation in Desert, China** (2024)
+6. **Soil Organic Carbon Mineralization as an Important Pathway for Inorganic Carbon Formation of Riparian Forest in Drylands, Northwest China** (2025)
    0 citations · Soil Carbon
 
-6. **Divergent Response of Topsoil Organic and Inorganic Carbon to Biotic and Abiotic Factors for Afforestation in Desert, China** (2023)
+7. **Relationship and determinants of water and carbon dioxide (CO2) exchange in desert ecosystem, China&amp;#160;** (2024)
    0 citations · Soil Carbon
 
-7. **Divergent Response to Abiotic Factor Determines Water and Carbon Fluxes Decoupling Over an Artificial C4 Shrub in Desert** (2022)
+8. **Divergent Response of Topsoil Organic and Inorganic Carbon to Biotic and Abiotic Factors for Afforestation in Desert, China** (2024)
+   0 citations · Soil Carbon
+
+9. **Divergent Response of Topsoil Organic and Inorganic Carbon to Biotic and Abiotic Factors for Afforestation in Desert, China** (2023)
+   0 citations · Soil Carbon
+
+10. **Divergent Response to Abiotic Factor Determines Water and Carbon Fluxes Decoupling Over an Artificial C4 Shrub in Desert** (2022)
    0 citations
 
 ## External Profiles

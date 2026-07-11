@@ -1,7 +1,7 @@
 ---
 title: "Alex Valach"
 description: "Alex Valach is a Mid-career Soil Carbon researcher at Berner Fachhochschule Hochschule für Agrar- Forst- und Lebensmittelwissenschaften in CH. With 73 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.166850
+date: 2026-07-11T11:05:42.893069
 url: "/cdr-researcher-census/researchers/alex-valach-a5016612/"
 layout: "researcher"
 hiddenInHomeList: true

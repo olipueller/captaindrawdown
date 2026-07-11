@@ -1,7 +1,7 @@
 ---
 title: "Marie Arnaud"
 description: "Marie Arnaud is a Mid-career Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 48 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.838702
+date: 2026-07-11T11:05:43.375088
 url: "/cdr-researcher-census/researchers/marie-arnaud-a5055169/"
 layout: "researcher"
 hiddenInHomeList: true

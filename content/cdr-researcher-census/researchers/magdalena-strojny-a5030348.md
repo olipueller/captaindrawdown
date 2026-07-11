@@ -1,7 +1,7 @@
 ---
 title: "Magdalena Strojny"
 description: "Magdalena Strojny is a Mid-career General CDR researcher at AGH University of Krakow in PL. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.761466
+date: 2026-07-11T11:05:44.146328
 url: "/cdr-researcher-census/researchers/magdalena-strojny-a5030348/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 7 |
 | Citations | 146 |
 | Publications | 9 |
-| CDR Focus | 33.3% |
-| Trajectory | Stable |
+| CDR Focus | 22.2% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

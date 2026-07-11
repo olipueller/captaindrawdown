@@ -1,7 +1,7 @@
 ---
 title: "Hsing-Hsuan Chen"
 description: "Hsing-Hsuan Chen is an Early-career General CDR researcher at Utrecht University in NL. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.856781
+date: 2026-07-11T11:05:44.217839
 url: "/cdr-researcher-census/researchers/hsing-hsuan-chen-a5066658/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 3 |
 | Citations | 132 |
 | Publications | 5 |
-| CDR Focus | 40.0% |
+| CDR Focus | 80.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
@@ -53,8 +53,14 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 1. **Reducing sectoral hard-to-abate emissions to limit reliance on carbon dioxide removal** (2024)
    94 citations · General CDR
 
-2. **Reducing sectoral hard to abate emissions to limit reliance of Carbon Dioxide Removal in 1.5°C scenarios** (2023)
+2. **Using Decomposition Analysis to Determine the Main Contributing Factors to Carbon Neutrality across Sectors** (2021)
+   14 citations · General CDR
+
+3. **Reducing sectoral hard to abate emissions to limit reliance of Carbon Dioxide Removal in 1.5°C scenarios** (2023)
    1 citations · General CDR
+
+4. **Bridging the gap between climate scenarios and law - a roadmap for mutual contributions** (2024)
+   0 citations · General CDR
 
 ## External Profiles
 

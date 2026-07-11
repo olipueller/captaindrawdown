@@ -1,7 +1,7 @@
 ---
 title: "Ana Meijide"
 description: "Ana Meijide is a Senior Soil Carbon researcher at University of Bonn in DE. With 117 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.014636
+date: 2026-07-11T11:05:42.820406
 url: "/cdr-researcher-census/researchers/ana-meijide-a5027752/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 32 |
 | Citations | 4,093 |
 | Publications | 117 |
-| CDR Focus | 7.7% |
-| Trajectory | Stable |
+| CDR Focus | 6.0% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
@@ -74,8 +74,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 8. **Trade-offs between crop yield, soil organic carbon and greenhouse gas emissions under reduced tillage and rainfall exclusion** (2025)
    0 citations · Soil Carbon
 
-9. **TRUESOIL Project: Understanding Trade-offs and Dynamic Interactions between SOC Stocks and GHG Emissions for Climate Smart Agrisoil Management** (2023)
-   0 citations · General CDR
+9. **Reply on AC3** (2024)
+   0 citations · Soil Carbon
+
+10. **Comment on egusphere-2024-934** (2024)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

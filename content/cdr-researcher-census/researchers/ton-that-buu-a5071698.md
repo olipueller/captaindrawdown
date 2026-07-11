@@ -1,7 +1,7 @@
 ---
 title: "Ton That Buu"
 description: "Ton That Buu is a Mid-career Biochar researcher at Vietnam National University Ho Chi Minh City in VN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.481736
+date: 2026-07-11T11:05:43.807972
 url: "/cdr-researcher-census/researchers/ton-that-buu-a5071698/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 8 |
 | Citations | 196 |
 | Publications | 16 |
-| CDR Focus | 12.5% |
+| CDR Focus | 6.2% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

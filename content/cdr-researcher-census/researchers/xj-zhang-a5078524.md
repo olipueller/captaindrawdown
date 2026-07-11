@@ -1,7 +1,7 @@
 ---
 title: "X.J. Zhang"
 description: "X.J. Zhang is a Mid-career General CDR researcher at Shandong University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.868482
+date: 2026-07-11T11:05:44.226610
 url: "/cdr-researcher-census/researchers/xj-zhang-a5078524/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,17 +47,29 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Top CDR Publications
 
-1. **Moisture swing adsorption for direct air capture: Establishment of thermodynamic cycle** (2024)
+1. **Sorption direct air capture with CO2 utilization** (2023)
+   299 citations · DAC
+
+2. **Temperature-vacuum swing adsorption for direct air capture by using low-grade heat** (2023)
+   51 citations · DAC
+
+3. **Cost-effective carbon-based amine adsorbents for carbon capture: Equilibrium, kinetics and selectivity** (2023)
+   39 citations · General CDR
+
+4. **Moisture swing adsorption for direct air capture: Establishment of thermodynamic cycle** (2024)
    33 citations
 
-2. **Solar-assisted temperature vacuum swing adsorption for direct air capture: Effect of relative humidity** (2023)
+5. **Solar-assisted temperature vacuum swing adsorption for direct air capture: Effect of relative humidity** (2023)
    28 citations
 
-3. **Techno-economic analysis on temperature vacuum swing adsorption system integrated with pre-dehumidification for direct air capture** (2024)
+6. **Techno-economic analysis on temperature vacuum swing adsorption system integrated with pre-dehumidification for direct air capture** (2024)
    18 citations
 
-4. **Understandings on design and application for direct air capture: From advanced sorbents to thermal cycles** (2023)
+7. **Understandings on design and application for direct air capture: From advanced sorbents to thermal cycles** (2023)
    16 citations · DAC
+
+8. **Bi-disperse adsorption model of the performance of amine adsorbents for direct air capture** (2024)
+   15 citations
 
 ## External Profiles
 

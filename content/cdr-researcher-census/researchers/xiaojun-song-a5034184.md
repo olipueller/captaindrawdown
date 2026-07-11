@@ -1,7 +1,7 @@
 ---
 title: "Xiaojun Song"
 description: "Xiaojun Song is a Senior Soil Carbon researcher at Ministry of Natural Resources in CN. With 66 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.218008
+date: 2026-07-11T11:05:42.922203
 url: "/cdr-researcher-census/researchers/xiaojun-song-a5034184/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 25 |
 | Citations | 1,602 |
 | Publications | 66 |
-| CDR Focus | 12.1% |
-| Trajectory | Exiting |
+| CDR Focus | 15.2% |
+| Trajectory | Declining |
 
 ## Top CDR Publications
 
@@ -73,6 +73,12 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 8. **Changes in abundant and rare microbial taxa that dominated the formation of soil carbon pool during short-term dryland-to-paddy conversion** (2023)
    15 citations · Soil Carbon
+
+9. **Conservation tillage and wheat straw managements improve soil organic carbon sequestration via calcium-mediated microbial communities and aggregate stability in Calcaric Cambisols** (2025)
+   7 citations · Soil Carbon
+
+10. **Synergistic Promotion of Particulate and Mineral-Associated Organic Carbon Within Soil Aggregates After 10 Years of Organic Fertilization in Wheat-Maize Systems** (2024)
+   2 citations · Soil Carbon
 
 ## External Profiles
 

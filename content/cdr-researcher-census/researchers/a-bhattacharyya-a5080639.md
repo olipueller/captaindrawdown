@@ -1,7 +1,7 @@
 ---
 title: "A. Bhattacharyya"
 description: "A. Bhattacharyya is a Mid-career Soil Carbon researcher at Assam Agricultural University in IN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.197418
+date: 2026-07-11T11:05:43.609728
 url: "/cdr-researcher-census/researchers/a-bhattacharyya-a5080639/"
 layout: "researcher"
 hiddenInHomeList: true

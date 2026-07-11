@@ -1,7 +1,7 @@
 ---
 title: "Vaira Obuka"
 description: "Vaira Obuka is a Mid-career General CDR researcher at University of Latvia in LV. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.689997
+date: 2026-07-11T11:05:44.092492
 url: "/cdr-researcher-census/researchers/vaira-obuka-a5005547/"
 layout: "researcher"
 hiddenInHomeList: true

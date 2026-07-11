@@ -1,7 +1,7 @@
 ---
 title: "Gongxiang Song"
 description: "Gongxiang Song is a Mid-career General CDR researcher at Yangtze River Pharmaceutical Group (China) in CN. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.230575
+date: 2026-07-11T11:05:43.633214
 url: "/cdr-researcher-census/researchers/gongxiang-song-a5102546/"
 layout: "researcher"
 hiddenInHomeList: true

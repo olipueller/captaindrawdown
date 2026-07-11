@@ -1,7 +1,7 @@
 ---
 title: "Ji Young An"
 description: "Ji Young An is a Mid-career Soil Carbon researcher at Gyeongsang National University in KR. With 39 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.824593
+date: 2026-07-11T11:05:43.365997
 url: "/cdr-researcher-census/researchers/ji-young-an-a5019212/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 10 |
 | Citations | 420 |
 | Publications | 39 |
-| CDR Focus | 5.1% |
-| Trajectory | Stable |
+| CDR Focus | 7.7% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
@@ -54,6 +54,12 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · Soil Carbon
 
 2. **Disentangling variation patterns and partitioning strategies of net primary productivity: insights from cool-temperate forests in South Korea** (2026)
+   0 citations
+
+3. **Disentangling variation patterns and partitioning strategies of net primary productivity: insights from cool-temperate forests in South Korea** (2026)
+   0 citations · Soil Carbon
+
+4. **Disentangling variation patterns and partitioning strategies of net primary productivity: insights from cool-temperate forests in South Korea** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

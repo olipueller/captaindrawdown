@@ -1,7 +1,7 @@
 ---
 title: "Qianbin Cao"
 description: "Qianbin Cao is a Mid-career Soil Carbon researcher at Guizhou University in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.949037
+date: 2026-07-11T11:05:44.285629
 url: "/cdr-researcher-census/researchers/qianbin-cao-a5102422/"
 layout: "researcher"
 hiddenInHomeList: true

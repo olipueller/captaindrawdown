@@ -1,7 +1,7 @@
 ---
 title: "Min Zhang"
 description: "Min Zhang is a Mid-career Soil Carbon researcher at Hebei Agricultural University in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.908533
+date: 2026-07-11T11:05:43.423164
 url: "/cdr-researcher-census/researchers/min-zhang-a5113976/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 375 |
 | Publications | 20 |
-| CDR Focus | 15.0% |
+| CDR Focus | 10.0% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

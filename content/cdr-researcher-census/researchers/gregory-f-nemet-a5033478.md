@@ -1,7 +1,7 @@
 ---
 title: "Gregory F. Nemet"
 description: "Gregory F. Nemet is an Eminent General CDR researcher at University of Wisconsin–Madison in US. With 219 publications and an h-index of 44, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.894001
+date: 2026-07-11T11:05:42.778190
 url: "/cdr-researcher-census/researchers/gregory-f-nemet-a5033478/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 44 |
 | Citations | 11,539 |
 | Publications | 219 |
-| CDR Focus | 13.2% |
+| CDR Focus | 8.7% |
 | Trajectory | Declining |
 
 ## Top CDR Publications

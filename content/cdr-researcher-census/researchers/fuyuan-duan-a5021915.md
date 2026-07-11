@@ -1,7 +1,7 @@
 ---
 title: "Fuyuan Duan"
 description: "Fuyuan Duan is an Early-career Soil Carbon researcher at South China Agricultural University in CN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.940012
+date: 2026-07-11T11:05:44.278274
 url: "/cdr-researcher-census/researchers/fuyuan-duan-a5021915/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 3 |
 | Citations | 123 |
 | Publications | 6 |
-| CDR Focus | 33.3% |
+| CDR Focus | 50.0% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -50,7 +50,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Effects of legume intercropping and nitrogen input on net greenhouse gas balances, intensity, carbon footprint and crop productivity in sweet maize cropland in South China** (2021)
    76 citations · Soil Carbon
 
-2. **Effects of Straw Returning on Physicochemical Properties and Microbial Characteristics of Agricultural Soil** (2025)
+2. **Microbial life strategies-mediated differences in carbon metabolism explain the variation in SOC sequestration between Kandelia obovata and Sonneratia apetala** (2025)
+   7 citations · Soil Carbon
+
+3. **Effects of Straw Returning on Physicochemical Properties and Microbial Characteristics of Agricultural Soil** (2025)
    1 citations · Soil Carbon
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Adhithiya Venkatachalapati Thulasiraman"
 description: "Adhithiya Venkatachalapati Thulasiraman is an Early-career Biochar researcher at RMIT University in AU. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.764616
+date: 2026-07-11T11:05:44.148086
 url: "/cdr-researcher-census/researchers/adhithiya-venkatachalapati-thulasiraman-a5033249/"
 layout: "researcher"
 hiddenInHomeList: true

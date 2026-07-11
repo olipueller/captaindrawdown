@@ -1,7 +1,7 @@
 ---
 title: "Zhenghu Zhou"
 description: "Zhenghu Zhou is a Senior Soil Carbon researcher at Northeast Forestry University in CN. With 73 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.995864
+date: 2026-07-11T11:05:42.811995
 url: "/cdr-researcher-census/researchers/zhenghu-zhou-a5019471/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 31 |
 | Citations | 4,630 |
 | Publications | 73 |
-| CDR Focus | 8.2% |
+| CDR Focus | 6.8% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -62,10 +62,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Mineral protection mediates soil carbon temperature sensitivity of nine old-growth temperate forests across the latitude transect** (2024)
    6 citations · Soil Carbon
 
-5. **Metagenomic insights into the carbon decomposition of plant and microbial biomass in forests across biomes** (2025)
+5. **Subsurface soil inorganic carbon gains offset half of surface losses in China’s upland croplands over the last four decades** (2026)
+   1 citations
+
+6. **Global patterns of tree diversity effects on soil respiration and their linkages to soil organic carbon** (2026)
+   0 citations · Soil Carbon
+
+7. **Mixed Forestation Outperforms Pure Stands in Soil Carbon Sequestration and Stability** (2026)
+   0 citations · Soil Carbon
+
+8. **Metagenomic insights into the carbon decomposition of plant and microbial biomass in forests across biomes** (2025)
    0 citations
 
-6. **Increasing root trait complementarity in species mixtures may be detrimental for soil carbon storage** (2024)
+9. **Increasing root trait complementarity in species mixtures may be detrimental for soil carbon storage** (2024)
    0 citations · Soil Carbon
 
 ## External Profiles

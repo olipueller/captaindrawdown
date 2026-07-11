@@ -1,7 +1,7 @@
 ---
 title: "Evangelos Mouchos"
 description: "Evangelos Mouchos is a Mid-career General CDR researcher at University of Bristol in GB. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.541800
+date: 2026-07-11T11:05:43.901609
 url: "/cdr-researcher-census/researchers/evangelos-mouchos-a5041771/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 5 |
 | Citations | 184 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 21.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -55,6 +55,12 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 2. **Alignment of Sustainable Development Goals in the Voluntary Carbon Market: Socio-ecological benefits and barriers for achieving climate goals and net zero** (2026)
    0 citations · General CDR
+
+3. **Toward Credible Carbon Dioxide Removal: Harmonized Accounting and Data Gaps Across Six CDR Approaches** (2026)
+   0 citations · DAC
+
+4. **Alignment of international standards for carbon dioxide removal (CDR) using Carbon Capture and Storage (CCS): Comparative analysis of the EU Carbon Removal and Carbon Farming (CRCF) Regulation against the Integrity Council for the Voluntary Carbon Market (ICVCM) and Article 6.4 of the Paris Agreement** (2025)
+   0 citations · BECCS
 
 ## External Profiles
 

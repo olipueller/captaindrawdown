@@ -1,7 +1,7 @@
 ---
 title: "Max Pupucevski"
 description: "Max Pupucevski is a Mid-career General CDR researcher at Giner (United States) in US. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.940388
+date: 2026-07-11T11:05:43.444693
 url: "/cdr-researcher-census/researchers/max-pupucevski-a5067565/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 8 |
 | Citations | 359 |
 | Publications | 19 |
-| CDR Focus | 10.5% |
+| CDR Focus | 5.3% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

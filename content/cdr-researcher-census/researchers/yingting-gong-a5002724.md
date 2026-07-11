@@ -1,7 +1,7 @@
 ---
 title: "Yingting Gong"
 description: "Yingting Gong is a Mid-career Soil Carbon researcher at Guangzhou Experimental Station in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.995187
+date: 2026-07-11T11:05:43.484740
 url: "/cdr-researcher-census/researchers/yingting-gong-a5002724/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 335 |
 | Publications | 18 |
-| CDR Focus | 27.8% |
+| CDR Focus | 22.2% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

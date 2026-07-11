@@ -1,7 +1,7 @@
 ---
 title: "Shaista Nazir"
 description: "Shaista Nazir is a Mid-career Soil Carbon researcher at Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir in IN. With 20 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.058693
+date: 2026-07-11T11:05:44.392079
 url: "/cdr-researcher-census/researchers/shaista-nazir-a5069562/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yingning Wang"
 description: "Yingning Wang is a Mid-career Soil Carbon researcher at Harbin University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.608290
+date: 2026-07-11T11:05:44.004617
 url: "/cdr-researcher-census/researchers/yingning-wang-a5089031/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 172 |
 | Publications | 13 |
-| CDR Focus | 15.4% |
+| CDR Focus | 7.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

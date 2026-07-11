@@ -1,7 +1,7 @@
 ---
 title: "Yong-Guan Zhu"
 description: "Yong-Guan Zhu is a Mid-career Soil Carbon researcher at Research Center for Eco-Environmental Sciences in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.659425
+date: 2026-07-11T11:05:43.245933
 url: "/cdr-researcher-census/researchers/yong-guan-zhu-a5110635/"
 layout: "researcher"
 hiddenInHomeList: true

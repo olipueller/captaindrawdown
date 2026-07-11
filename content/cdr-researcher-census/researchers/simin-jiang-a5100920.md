@@ -1,7 +1,7 @@
 ---
 title: "Simin Jiang"
 description: "Simin Jiang is a Mid-career General CDR researcher at Sun Yat-sen University in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.035601
+date: 2026-07-11T11:05:43.511021
 url: "/cdr-researcher-census/researchers/simin-jiang-a5100920/"
 layout: "researcher"
 hiddenInHomeList: true

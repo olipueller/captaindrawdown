@@ -1,7 +1,7 @@
 ---
 title: "Hussnain Mukhtar"
 description: "Hussnain Mukhtar is a Mid-career Soil Carbon researcher at National Taiwan University in TW. With 35 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.303398
+date: 2026-07-11T11:05:42.976811
 url: "/cdr-researcher-census/researchers/hussnain-mukhtar-a5062578/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 14 |
 | Citations | 1,221 |
 | Publications | 35 |
-| CDR Focus | 8.6% |
+| CDR Focus | 5.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

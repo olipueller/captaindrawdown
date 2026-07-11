@@ -1,7 +1,7 @@
 ---
 title: "Matthew T. Wilkinson"
 description: "Matthew T. Wilkinson is a Senior Soil Carbon researcher at University of Cambridge in GB. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.827011
+date: 2026-07-11T11:05:44.195640
 url: "/cdr-researcher-census/researchers/matthew-t-wilkinson-a5031120/"
 layout: "researcher"
 hiddenInHomeList: true

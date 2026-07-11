@@ -1,7 +1,7 @@
 ---
 title: "Sanye Soroldoni"
 description: "Sanye Soroldoni is a Mid-career Ocean CDR researcher at Universidade Federal do Rio Grande in BR. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.826273
+date: 2026-07-11T11:05:43.367374
 url: "/cdr-researcher-census/researchers/sanye-soroldoni-a5033911/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Haojie Shen"
 description: "Haojie Shen is a Mid-career Soil Carbon researcher at ZheJiang Academy of Agricultural Sciences in CN. With 19 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.586420
+date: 2026-07-11T11:05:43.182611
 url: "/cdr-researcher-census/researchers/haojie-shen-a5023619/"
 layout: "researcher"
 hiddenInHomeList: true

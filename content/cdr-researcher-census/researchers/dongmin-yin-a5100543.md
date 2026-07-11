@@ -1,7 +1,7 @@
 ---
 title: "Dongmin Yin"
 description: "Dongmin Yin is a Mid-career Biochar researcher at Changzhou University in CN. With 38 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.303814
+date: 2026-07-11T11:05:42.977246
 url: "/cdr-researcher-census/researchers/dongmin-yin-a5100543/"
 layout: "researcher"
 hiddenInHomeList: true

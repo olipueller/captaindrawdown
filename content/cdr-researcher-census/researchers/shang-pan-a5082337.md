@@ -1,7 +1,7 @@
 ---
 title: "Shang Pan"
 description: "Shang Pan is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.519262
+date: 2026-07-11T11:05:43.124812
 url: "/cdr-researcher-census/researchers/shang-pan-a5082337/"
 layout: "researcher"
 hiddenInHomeList: true

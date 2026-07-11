@@ -1,7 +1,7 @@
 ---
 title: "Nicolas Greggio"
 description: "Nicolas Greggio is a Senior Biochar researcher at Università degli Studi di Bologna in IT. With 75 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.292891
+date: 2026-07-11T11:05:42.969679
 url: "/cdr-researcher-census/researchers/nicolas-greggio-a5073096/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 20 |
 | Citations | 1,261 |
 | Publications | 75 |
-| CDR Focus | 13.3% |
+| CDR Focus | 10.7% |
 | Trajectory | Declining |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Hehu Zhang"
 description: "Hehu Zhang is a Mid-career Biochar researcher at Henan Agricultural University in CN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.936390
+date: 2026-07-11T11:05:43.442526
 url: "/cdr-researcher-census/researchers/hehu-zhang-a5013793/"
 layout: "researcher"
 hiddenInHomeList: true

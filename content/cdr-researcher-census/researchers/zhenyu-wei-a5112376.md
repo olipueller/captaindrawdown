@@ -1,7 +1,7 @@
 ---
 title: "Zhenyu Wei"
 description: "Zhenyu Wei is a Mid-career Biochar researcher at Jiangnan University in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.686016
+date: 2026-07-11T11:05:44.089296
 url: "/cdr-researcher-census/researchers/zhenyu-wei-a5112376/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,15 +45,18 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 7 |
 | Citations | 158 |
 | Publications | 18 |
-| CDR Focus | 11.1% |
+| CDR Focus | 16.7% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **In situ synthesis of low tortuosity corn straw biochar/Mo2C catalyst to promote wastewater treatment in microbial fuel cells** (2025)
+1. **Cold isostatic pressure pretreatment of biochar to promote the adsorption performance of Hg(II) under the synergistic effect of carbon and nitrogen related sites** (2025)
+   2 citations · Biochar
+
+2. **In situ synthesis of low tortuosity corn straw biochar/Mo2C catalyst to promote wastewater treatment in microbial fuel cells** (2025)
    1 citations · Biochar
 
-2. **Delicate preparation of in-situ biochar zirconium dioxide using the one-step method of repairing tailings with Pennisetum Hydridum: electrode study of symmetrical (snap-on) supercapacitor** (2025)
+3. **Delicate preparation of in-situ biochar zirconium dioxide using the one-step method of repairing tailings with Pennisetum Hydridum: electrode study of symmetrical (snap-on) supercapacitor** (2025)
    0 citations · Biochar
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Quanlin Ma"
 description: "Quanlin Ma is a Senior Soil Carbon researcher at Gansu Research Academy of Forestry Science and Technology in CN. With 40 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.152356
+date: 2026-07-11T11:05:43.575693
 url: "/cdr-researcher-census/researchers/quanlin-ma-a5102283/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 9 |
 | Citations | 285 |
 | Publications | 40 |
-| CDR Focus | 5.0% |
+| CDR Focus | 12.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
@@ -50,7 +50,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Carbon sequestration of sand-fixing plantation of Haloxylon ammodendron in Shiyang River Basin: Storage, rate and potential** (2021)
    31 citations · Soil Carbon
 
-2. **Dynamics and Driving Factors of Soil Carbon Fractions in Corethrodendron scoparium (Fisch. &amp; C. A. Mey.) Fisch. &amp; Basiner Sand-Fixing Plantations at the South Edge of Tengger Desert, Northwestern China** (2025)
+2. **Carbon Density Change Characteristics and Driving Factors During the Natural Succession of Forests on Xinglong Mountain in the Transition Zone Between the Qinghai–Tibet and Loess Plateaus** (2025)
+   2 citations · Soil Carbon
+
+3. **Stand age and soil drivers mediate the transition from particulate organic carbon to mineral-associated organic carbon and regulate carbon pool management index in Haloxylon ammodendron sand-fixing forests** (2026)
+   1 citations · Soil Carbon
+
+4. **Dynamics and Driving Factors of Soil Carbon Fractions in Corethrodendron scoparium (Fisch. &amp; C. A. Mey.) Fisch. &amp; Basiner Sand-Fixing Plantations at the South Edge of Tengger Desert, Northwestern China** (2025)
+   0 citations · Soil Carbon
+
+5. **Meteorological drivers of carbon flux variations on Xinglong Mountain in the transition zone between the Qinghai–Tibet and Loess Plateaus** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

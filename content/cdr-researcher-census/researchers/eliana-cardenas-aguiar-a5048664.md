@@ -1,7 +1,7 @@
 ---
 title: "Eliana Cárdenas-Aguiar"
-description: "Eliana Cárdenas-Aguiar is a Mid-career Soil Carbon researcher at Universidade da Coruña in ES. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.004772
+description: "Eliana Cárdenas-Aguiar is a Mid-career Biochar researcher at Universidade da Coruña in ES. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:43.490448
 url: "/cdr-researcher-census/researchers/eliana-cardenas-aguiar-a5048664/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Universidade da Coruña · 🇪🇸 ES
 
 ## CDR Specialization
 
-**Soil Carbon**
+**Biochar**
 
-Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
+Producing and deploying biochar — charred biomass that sequesters carbon in soil and products.
 
 ## Metrics
 
@@ -45,13 +45,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 8 |
 | Citations | 331 |
 | Publications | 18 |
-| CDR Focus | 5.6% |
-| Trajectory | Stable |
+| CDR Focus | 11.1% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **The Effects of Rabbit Manure-Derived Biochar on Soil Health and Quality Attributes of Two Mine Tailings** (2022)
    18 citations · Biochar
+
+2. **Temperature-Driven Trade-Offs Between Carbon Stability and DTPA-Extractable Micronutrients in Vineyard-Pruning Biochars (NW Spain)** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Yoseok Choi"
 description: "Yoseok Choi is an Early-career Biochar researcher at Chungbuk National University in KR. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.155769
+date: 2026-07-11T11:05:44.443497
 url: "/cdr-researcher-census/researchers/yoseok-choi-a5023110/"
 layout: "researcher"
 hiddenInHomeList: true

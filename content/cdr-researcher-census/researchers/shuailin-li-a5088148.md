@@ -1,7 +1,7 @@
 ---
 title: "Shuailin Li"
 description: "Shuailin Li is a Mid-career Soil Carbon researcher at Institute of Applied Ecology Chinese Academy of Sciences in CN. With 37 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.397019
+date: 2026-07-11T11:05:43.037623
 url: "/cdr-researcher-census/researchers/shuailin-li-a5088148/"
 layout: "researcher"
 hiddenInHomeList: true

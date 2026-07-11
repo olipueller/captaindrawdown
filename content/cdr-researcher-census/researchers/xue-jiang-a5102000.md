@@ -1,7 +1,7 @@
 ---
 title: "Xue Jiang"
-description: "Xue Jiang is a Mid-career Enhanced Weathering researcher at Northeast Agricultural University in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.389130
+description: "Xue Jiang is a Mid-career Soil Carbon researcher at Northeast Agricultural University in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:43.742655
 url: "/cdr-researcher-census/researchers/xue-jiang-a5102000/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Northeast Agricultural University · 🇨🇳 CN
 
 ## CDR Specialization
 
-**Enhanced Weathering**
+**Soil Carbon**
 
-Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
+Enhancing carbon storage in agricultural and terrestrial soils through management practices and biochar amendment.
 
 ## Metrics
 
@@ -45,12 +45,15 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 | h-index | 9 |
 | Citations | 217 |
 | Publications | 16 |
-| CDR Focus | 6.2% |
-| Trajectory | Growing |
+| CDR Focus | 12.5% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
-1. **Exploring the formation mechanism of cold mineral springs in the potassic basaltic region of Wudalianchi, Northeast China** (2025)
+1. **Biochar incorporation increases grain yield, net ecosystem CO2 exchange, and decreases CH4 emissions in an alternate wetting and drying paddy ecosystem** (2024)
+   23 citations · Biochar
+
+2. **Exploring the formation mechanism of cold mineral springs in the potassic basaltic region of Wudalianchi, Northeast China** (2025)
    1 citations · Enhanced Weathering
 
 ## External Profiles

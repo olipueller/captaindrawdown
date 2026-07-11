@@ -1,7 +1,7 @@
 ---
 title: "Thibault Salou"
 description: "Thibault Salou is a Mid-career General CDR researcher at Université de Montpellier in FR. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.736555
+date: 2026-07-11T11:05:44.128096
 url: "/cdr-researcher-census/researchers/thibault-salou-a5008010/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,13 +45,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 5 |
 | Citations | 150 |
 | Publications | 12 |
-| CDR Focus | 8.3% |
+| CDR Focus | 16.7% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications
 
 1. **Life cycle assessment of bioenergy with carbon capture and storage systems: Critical review of life cycle inventories** (2023)
    50 citations · BECCS
+
+2. **Life cycle assessment of BECCS systems: critical review of life cycle inventories** (2022)
+   2 citations · BECCS
 
 ## External Profiles
 

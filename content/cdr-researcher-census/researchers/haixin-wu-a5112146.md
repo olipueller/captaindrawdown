@@ -1,7 +1,7 @@
 ---
 title: "Haixin Wu"
 description: "Haixin Wu is a Mid-career Soil Carbon researcher at China Agricultural University in CN. With 28 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.746708
+date: 2026-07-11T11:05:44.135310
 url: "/cdr-researcher-census/researchers/haixin-wu-a5112146/"
 layout: "researcher"
 hiddenInHomeList: true

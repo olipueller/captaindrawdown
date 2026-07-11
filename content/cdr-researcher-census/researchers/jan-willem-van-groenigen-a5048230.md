@@ -1,7 +1,7 @@
 ---
 title: "Jan Willem van Groenigen"
-description: "Jan Willem van Groenigen is an Eminent General CDR researcher at Wageningen University & Research in NL. With 260 publications and an h-index of 64, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.865318
+description: "Jan Willem van Groenigen is an Eminent Enhanced Weathering researcher at Wageningen University & Research in NL. With 260 publications and an h-index of 64, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:42.773010
 url: "/cdr-researcher-census/researchers/jan-willem-van-groenigen-a5048230/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Wageningen University & Research · 🇳🇱 NL
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 64 |
 | Citations | 17,809 |
 | Publications | 260 |
-| CDR Focus | 6.2% |
+| CDR Focus | 5.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

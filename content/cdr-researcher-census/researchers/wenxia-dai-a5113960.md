@@ -1,7 +1,7 @@
 ---
 title: "Wenxia Dai"
 description: "Wenxia Dai is a Mid-career Soil Carbon researcher at China University of Geosciences in CN. With 32 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.254869
+date: 2026-07-11T11:05:42.944757
 url: "/cdr-researcher-census/researchers/wenxia-dai-a5113960/"
 layout: "researcher"
 hiddenInHomeList: true

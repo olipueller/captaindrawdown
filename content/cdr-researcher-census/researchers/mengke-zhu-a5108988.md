@@ -1,7 +1,7 @@
 ---
 title: "Mengke Zhu"
 description: "Mengke Zhu is a Mid-career Soil Carbon researcher at First Affiliated Hospital of Xi'an Jiaotong University in CN. With 49 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.314036
+date: 2026-07-11T11:05:42.983181
 url: "/cdr-researcher-census/researchers/mengke-zhu-a5108988/"
 layout: "researcher"
 hiddenInHomeList: true

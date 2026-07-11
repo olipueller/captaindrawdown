@@ -1,7 +1,7 @@
 ---
 title: "Frank Sensfuß"
 description: "Frank Sensfuß is a Senior General CDR researcher. With 59 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.168615
+date: 2026-07-11T11:05:42.894602
 url: "/cdr-researcher-census/researchers/frank-sensfu-a5076866/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -40,7 +40,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 21 |
 | Citations | 1,929 |
 | Publications | 59 |
-| CDR Focus | 6.8% |
+| CDR Focus | 5.1% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

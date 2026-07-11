@@ -1,7 +1,7 @@
 ---
 title: "Fabian Muralter"
 description: "Fabian Muralter is a Mid-career General CDR researcher. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.658238
+date: 2026-07-11T11:05:44.067567
 url: "/cdr-researcher-census/researchers/fabian-muralter-a5032691/"
 layout: "researcher"
 hiddenInHomeList: true

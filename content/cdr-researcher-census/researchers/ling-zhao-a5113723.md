@@ -1,7 +1,7 @@
 ---
 title: "Ling Zhao"
 description: "Ling Zhao is a Mid-career Soil Carbon researcher at Northwest Normal University in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.309779
+date: 2026-07-11T11:05:42.980501
 url: "/cdr-researcher-census/researchers/ling-zhao-a5113723/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,15 +42,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 6 |
 | Citations | 1,199 |
 | Publications | 10 |
-| CDR Focus | 20.0% |
-| Trajectory | Stable |
+| CDR Focus | 30.0% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
-1. **Terraced fields increased soil organic carbon content in croplands of the loess plateau** (2025)
+1. **Agricultural activities increased soil organic carbon in Shiyang River Basin, a typical inland river basin in China** (2025)
+   3 citations · Soil Carbon
+
+2. **Terraced fields increased soil organic carbon content in croplands of the loess plateau** (2025)
    2 citations · Soil Carbon
 
-2. **Terracing Increases Organic Carbon Content in the Loess Plateau** (2024)
+3. **Agricultural Activities Increased Soil Organic Carbon in Shiyang River Basin, a typical inland river basin in China** (2024)
+   1 citations
+
+4. **Terracing Increases Organic Carbon Content in the Loess Plateau** (2024)
    0 citations · Soil Carbon
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Ken Van Rees"
 description: "Ken Van Rees is a Senior Soil Carbon researcher at University of Saskatchewan in CA. With 37 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.382459
+date: 2026-07-11T11:05:43.027729
 url: "/cdr-researcher-census/researchers/ken-van-rees-a5058910/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Krisztina Havadtői"
 description: "Krisztina Havadtői is a Mid-career Soil Carbon researcher at Spitalul Clinic Judetean de Urgenta Târgu Mureş in RO. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.051908
+date: 2026-07-11T11:05:44.387392
 url: "/cdr-researcher-census/researchers/krisztina-havadtoi-a5085254/"
 layout: "researcher"
 hiddenInHomeList: true

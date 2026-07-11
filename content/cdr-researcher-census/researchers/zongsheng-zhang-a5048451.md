@@ -1,7 +1,7 @@
 ---
 title: "Zongsheng Zhang"
 description: "Zongsheng Zhang is a Senior Soil Carbon researcher at Northeast Institute of Geography and Agroecology in CN. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.659061
+date: 2026-07-11T11:05:44.069115
 url: "/cdr-researcher-census/researchers/zongsheng-zhang-a5048451/"
 layout: "researcher"
 hiddenInHomeList: true

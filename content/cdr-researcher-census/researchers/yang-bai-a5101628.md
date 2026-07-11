@@ -1,7 +1,7 @@
 ---
 title: "Yang Bai"
 description: "Yang Bai is a Mid-career General CDR researcher at Chongqing University in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.663158
+date: 2026-07-11T11:05:44.073186
 url: "/cdr-researcher-census/researchers/yang-bai-a5101628/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Małgorzata Rizzi"
 description: "Małgorzata Rizzi is a Mid-career General CDR researcher at University of Copenhagen in DK. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.389042
+date: 2026-07-11T11:05:43.742431
 url: "/cdr-researcher-census/researchers/magorzata-rizzi-a5030212/"
 layout: "researcher"
 hiddenInHomeList: true

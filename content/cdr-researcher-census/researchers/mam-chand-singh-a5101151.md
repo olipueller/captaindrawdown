@@ -1,7 +1,7 @@
 ---
 title: "Mam Chand Singh"
 description: "Mam Chand Singh is a Senior General CDR researcher at Indian Agricultural Statistics Research Institute in IN. With 20 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.043527
+date: 2026-07-11T11:05:44.380034
 url: "/cdr-researcher-census/researchers/mam-chand-singh-a5101151/"
 layout: "researcher"
 hiddenInHomeList: true

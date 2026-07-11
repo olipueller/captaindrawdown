@@ -1,7 +1,7 @@
 ---
 title: "Bojie Wang"
 description: "Bojie Wang is a Senior General CDR researcher at Inner Mongolia Agricultural University in CN. With 25 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.406365
+date: 2026-07-11T11:05:43.044003
 url: "/cdr-researcher-census/researchers/bojie-wang-a5069050/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Alois Dirnaichner"
 description: "Alois Dirnaichner is a Mid-career General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 38 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.066757
+date: 2026-07-11T11:05:42.842569
 url: "/cdr-researcher-census/researchers/alois-dirnaichner-a5043032/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 18 |
 | Citations | 3,144 |
 | Publications | 38 |
-| CDR Focus | 15.8% |
+| CDR Focus | 13.2% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

@@ -1,7 +1,7 @@
 ---
 title: "Kustiwa Adinata"
 description: "Kustiwa Adinata is a Mid-career Soil Carbon researcher. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.403942
+date: 2026-07-11T11:05:43.752999
 url: "/cdr-researcher-census/researchers/kustiwa-adinata-a5014498/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -37,13 +37,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 7 |
 | Citations | 213 |
 | Publications | 19 |
-| CDR Focus | 5.3% |
+| CDR Focus | 10.5% |
 | Trajectory | Growing |
 
 ## Top CDR Publications
 
 1. **Implementation of Regenerative Technologies for Sustainable and Net-Zero Rice Farming in Adapting to Climate Change in Indonesian Coastal Areas** (2025)
    1 citations · General CDR
+
+2. **Implementation of Regenerative Technologies for Sustainable and Net-Zero Rice Farming in Adapting to Climate Change in Indonesian Coastal Areas** (2025)
+   0 citations · General CDR
 
 ## External Profiles
 

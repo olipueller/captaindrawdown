@@ -1,7 +1,7 @@
 ---
 title: "Yoshiki Kanzaki"
-description: "Yoshiki Kanzaki is a Mid-career General CDR researcher at Georgia Institute of Technology in US. With 88 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.533719
+description: "Yoshiki Kanzaki is a Mid-career Enhanced Weathering researcher at Georgia Institute of Technology in US. With 88 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
+date: 2026-07-11T11:05:43.136185
 url: "/cdr-researcher-census/researchers/yoshiki-kanzaki-a5017547/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -34,9 +34,9 @@ Georgia Institute of Technology · 🇺🇸 US
 
 ## CDR Specialization
 
-**General CDR**
+**Enhanced Weathering**
 
-Cross-cutting research supporting multiple CDR pathways or the general CDR field.
+Accelerating natural weathering reactions to capture CO₂ and store it in carbonate minerals.
 
 ## Metrics
 
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 14 |
 | Citations | 691 |
 | Publications | 88 |
-| CDR Focus | 38.6% |
+| CDR Focus | 22.7% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

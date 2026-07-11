@@ -1,7 +1,7 @@
 ---
 title: "Fangfang Li"
 description: "Fangfang Li is a Mid-career Soil Carbon researcher at Kunming University of Science and Technology in CN. With 80 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.323306
+date: 2026-07-11T11:05:42.989748
 url: "/cdr-researcher-census/researchers/fangfang-li-a5100404/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 18 |
 | Citations | 1,154 |
 | Publications | 80 |
-| CDR Focus | 6.2% |
-| Trajectory | Stable |
+| CDR Focus | 7.5% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
@@ -64,6 +64,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 5. **Mechanism of Modified Biochar in Mitigating Carbon and Nitrogen Loss in Drought Soil with Green Manure Application** (2025)
    1 citations · Biochar
+
+6. **Co-hydrothermal carbonization of industrial solid wastes and organic material: Red mud weakens carbon stabilization** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

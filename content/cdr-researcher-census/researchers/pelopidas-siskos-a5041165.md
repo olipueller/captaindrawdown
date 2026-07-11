@@ -1,7 +1,7 @@
 ---
 title: "Pelopidas Siskos"
 description: "Pelopidas Siskos is a Mid-career General CDR researcher. With 28 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.213904
+date: 2026-07-11T11:05:42.919778
 url: "/cdr-researcher-census/researchers/pelopidas-siskos-a5041165/"
 layout: "researcher"
 hiddenInHomeList: true

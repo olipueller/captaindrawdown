@@ -1,7 +1,7 @@
 ---
 title: "Hanzhi Li"
 description: "Hanzhi Li is a Mid-career Soil Carbon researcher at Chinese Academy of Forestry in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.688421
+date: 2026-07-11T11:05:44.091336
 url: "/cdr-researcher-census/researchers/hanzhi-li-a5103258/"
 layout: "researcher"
 hiddenInHomeList: true

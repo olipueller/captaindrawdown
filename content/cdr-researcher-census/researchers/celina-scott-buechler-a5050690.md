@@ -1,7 +1,7 @@
 ---
 title: "Celina Scott-Buechler"
 description: "Celina Scott-Buechler is a Mid-career General CDR researcher at Duke University in US. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.515380
+date: 2026-07-11T11:05:43.858447
 url: "/cdr-researcher-census/researchers/celina-scott-buechler-a5050690/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 8 |
 | Citations | 189 |
 | Publications | 18 |
-| CDR Focus | 50.0% |
+| CDR Focus | 44.4% |
 | Trajectory | Declining |
 
 ## Top CDR Publications
@@ -65,16 +65,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 5. **Navigating uncertainty: direct air capture and just transition perspectives in Gulf Coast communities** (2025)
    2 citations · DAC
 
-6. **Replication Data for: Communities conditionally support deployment of direct air capture for carbon dioxide removal in the United States** (2023)
-   0 citations · DAC
-
-7. **Complex socio-technical transitions in fossil fuel country: considerations for direct air capture deployment in the U.S. Gulf Coast region** (2024)
-   0 citations · DAC
-
-8. **Removing carbon, restoring trust: public perceptions of industry and community roles in U.S. carbon dioxide removal policy** (2024)
+6. **Removing carbon, governing deployment: public perceptions of industry and community roles in U.S. carbon dioxide removal policy** (2026)
    0 citations · General CDR
 
-9. **Author Correction: Communities conditionally support deployment of direct air capture for carbon dioxide removal in the United States** (2024)
+7. **Replication Data for: Communities conditionally support deployment of direct air capture for carbon dioxide removal in the United States** (2023)
+   0 citations · DAC
+
+8. **Complex socio-technical transitions in fossil fuel country: considerations for direct air capture deployment in the U.S. Gulf Coast region** (2024)
+   0 citations · DAC
+
+9. **Removing carbon, restoring trust: public perceptions of industry and community roles in U.S. carbon dioxide removal policy** (2024)
+   0 citations · General CDR
+
+10. **Author Correction: Communities conditionally support deployment of direct air capture for carbon dioxide removal in the United States** (2024)
    0 citations · DAC
 
 ## External Profiles

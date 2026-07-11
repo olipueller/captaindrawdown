@@ -1,7 +1,7 @@
 ---
 title: "Sanna Kanerva"
 description: "Sanna Kanerva is a Senior Soil Carbon researcher at University of Helsinki in FI. With 53 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.391795
+date: 2026-07-11T11:05:43.033787
 url: "/cdr-researcher-census/researchers/sanna-kanerva-a5087092/"
 layout: "researcher"
 hiddenInHomeList: true

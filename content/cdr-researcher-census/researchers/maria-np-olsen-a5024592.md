@@ -1,7 +1,7 @@
 ---
 title: "Maria N.P. Olsen"
 description: "Maria N.P. Olsen is an Early-career Soil Carbon researcher at SINTEF in NO. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:49.156781
+date: 2026-07-11T11:05:44.444089
 url: "/cdr-researcher-census/researchers/maria-np-olsen-a5024592/"
 layout: "researcher"
 hiddenInHomeList: true

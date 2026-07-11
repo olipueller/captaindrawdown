@@ -1,7 +1,7 @@
 ---
 title: "Xiaolin Song"
 description: "Xiaolin Song is a Mid-career Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 31 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.463603
+date: 2026-07-11T11:05:43.082896
 url: "/cdr-researcher-census/researchers/xiaolin-song-a5087458/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 16 |
 | Citations | 809 |
 | Publications | 31 |
-| CDR Focus | 6.5% |
-| Trajectory | Stable |
+| CDR Focus | 9.7% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
@@ -52,6 +52,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 2. **Clover cover alters soil organic matter composition, diversity, and complexity in apple orchards on the loess plateau: Temporal and vertical variations** (2025)
    5 citations · Soil Carbon
+
+3. **Divergent accumulation of particulate and mineral-associated organic carbon driven by intercropping duration in apple orchards** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

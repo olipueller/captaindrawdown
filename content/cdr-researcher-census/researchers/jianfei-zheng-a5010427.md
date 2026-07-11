@@ -1,7 +1,7 @@
 ---
 title: "Jianfei Zheng"
 description: "Jianfei Zheng is a Mid-career General CDR researcher. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.083807
+date: 2026-07-11T11:05:43.545942
 url: "/cdr-researcher-census/researchers/jianfei-zheng-a5010427/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -37,8 +37,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 9 |
 | Citations | 299 |
 | Publications | 17 |
-| CDR Focus | 17.6% |
-| Trajectory | Stable |
+| CDR Focus | 5.9% |
+| Trajectory | Exiting |
 
 ## Top CDR Publications
 

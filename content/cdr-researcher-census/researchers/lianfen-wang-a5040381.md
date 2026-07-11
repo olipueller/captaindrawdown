@@ -1,7 +1,7 @@
 ---
 title: "Lianfen Wang"
 description: "Lianfen Wang is a Senior Soil Carbon researcher at Hunan University in CN. With 37 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.609104
+date: 2026-07-11T11:05:44.006434
 url: "/cdr-researcher-census/researchers/lianfen-wang-a5040381/"
 layout: "researcher"
 hiddenInHomeList: true

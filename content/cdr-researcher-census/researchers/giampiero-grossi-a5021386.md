@@ -1,7 +1,7 @@
 ---
 title: "Giampiero Grossi"
 description: "Giampiero Grossi is a Mid-career Soil Carbon researcher at Università degli Studi della Tuscia in IT. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.486434
+date: 2026-07-11T11:05:43.099050
 url: "/cdr-researcher-census/researchers/giampiero-grossi-a5021386/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Grazia Leonzio"
 description: "Grazia Leonzio is a Senior General CDR researcher at University of Cagliari in IT. With 83 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.138118
+date: 2026-07-11T11:05:42.878085
 url: "/cdr-researcher-census/researchers/grazia-leonzio-a5023097/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 27 |
 | Citations | 2,178 |
 | Publications | 83 |
-| CDR Focus | 12.0% |
-| Trajectory | Stable |
+| CDR Focus | 8.4% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

@@ -1,7 +1,7 @@
 ---
 title: "Tianyi Qiu"
 description: "Tianyi Qiu is a Senior Soil Carbon researcher at Wuhan University of Technology in CN. With 41 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.222819
+date: 2026-07-11T11:05:42.925365
 url: "/cdr-researcher-census/researchers/tianyi-qiu-a5017959/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Markus Steffens"
 description: "Markus Steffens is a Senior Soil Carbon researcher at Research institute of organic agriculture FiBL in CH. With 140 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.009977
+date: 2026-07-11T11:05:42.818173
 url: "/cdr-researcher-census/researchers/markus-steffens-a5045363/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 36 |
 | Citations | 4,244 |
 | Publications | 140 |
-| CDR Focus | 6.4% |
+| CDR Focus | 5.0% |
 | Trajectory | Declining |
 
 ## Top CDR Publications

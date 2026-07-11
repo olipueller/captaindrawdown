@@ -1,7 +1,7 @@
 ---
 title: "Tao Zhang"
 description: "Tao Zhang is a Senior Soil Carbon researcher at University of International Business and Economics in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.430408
+date: 2026-07-11T11:05:43.770010
 url: "/cdr-researcher-census/researchers/tao-zhang-a5100375/"
 layout: "researcher"
 hiddenInHomeList: true

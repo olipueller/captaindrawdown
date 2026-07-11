@@ -1,7 +1,7 @@
 ---
 title: "Isla Hodgkinson"
 description: "Isla Hodgkinson is an Early-career General CDR researcher at Technische Universität Dresden in DE. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.344068
+date: 2026-07-11T11:05:43.710908
 url: "/cdr-researcher-census/researchers/isla-hodgkinson-a5035773/"
 layout: "researcher"
 hiddenInHomeList: true

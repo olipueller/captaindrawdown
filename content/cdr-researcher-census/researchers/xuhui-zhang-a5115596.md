@@ -1,7 +1,7 @@
 ---
 title: "Xuhui Zhang"
 description: "Xuhui Zhang is an Eminent Soil Carbon researcher at Chinese University of Hong Kong, Shenzhen in CN. With 134 publications and an h-index of 45, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:46.915427
+date: 2026-07-11T11:05:42.783524
 url: "/cdr-researcher-census/researchers/xuhui-zhang-a5115596/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 45 |
 | Citations | 8,506 |
 | Publications | 134 |
-| CDR Focus | 6.0% |
+| CDR Focus | 5.2% |
 | Trajectory | Exiting |
 
 ## Top CDR Publications

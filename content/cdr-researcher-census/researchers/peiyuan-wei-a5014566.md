@@ -1,7 +1,7 @@
 ---
 title: "Peiyuan Wei"
 description: "Peiyuan Wei is a Mid-career Biochar researcher at Henan University of Technology in CN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.328590
+date: 2026-07-11T11:05:43.699446
 url: "/cdr-researcher-census/researchers/peiyuan-wei-a5014566/"
 layout: "researcher"
 hiddenInHomeList: true

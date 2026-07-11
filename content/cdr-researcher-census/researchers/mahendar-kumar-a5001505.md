@@ -1,7 +1,7 @@
 ---
 title: "Mahendar Kumar"
 description: "Mahendar Kumar is a Mid-career Soil Carbon researcher at Institute of Environment and Sustainable Development in Agriculture in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.707170
+date: 2026-07-11T11:05:44.106246
 url: "/cdr-researcher-census/researchers/mahendar-kumar-a5001505/"
 layout: "researcher"
 hiddenInHomeList: true

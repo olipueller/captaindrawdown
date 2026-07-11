@@ -1,7 +1,7 @@
 ---
 title: "Yanghui He"
 description: "Yanghui He is a Senior Soil Carbon researcher at Northeast Forestry University in CN. With 52 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.112537
+date: 2026-07-11T11:05:42.864340
 url: "/cdr-researcher-census/researchers/yanghui-he-a5063864/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 23 |
 | Citations | 2,452 |
 | Publications | 52 |
-| CDR Focus | 11.5% |
-| Trajectory | Exiting |
+| CDR Focus | 15.4% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 
@@ -62,10 +62,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **A transition from arbuscular to ectomycorrhizal forests halts soil carbon sequestration during subtropical forest rewilding** (2024)
    3 citations · Soil Carbon
 
-5. **A Transition from Arbuscular to Ectomycorrhizal Forests Halts Soil Carbon Sequestration During Subtropical Forest Rewilding** (2023)
+5. **Tree species richness reduces soil carbon loss via suppressed priming effects** (2026)
    0 citations · Soil Carbon
 
-6. **Persistent Drought-Induced Trade-Off of Fungal and Bacterial Residues on Soil Carbon Dynamics in Subtropical Evergreen Forests** (2022)
+6. **Shoot litter outweighs root inputs in building soil organic carbon during Spartina alterniflora invasion in a coastal wetland** (2026)
+   0 citations · Soil Carbon
+
+7. **A Transition from Arbuscular to Ectomycorrhizal Forests Halts Soil Carbon Sequestration During Subtropical Forest Rewilding** (2023)
+   0 citations · Soil Carbon
+
+8. **Persistent Drought-Induced Trade-Off of Fungal and Bacterial Residues on Soil Carbon Dynamics in Subtropical Evergreen Forests** (2022)
    0 citations · Soil Carbon
 
 ## External Profiles

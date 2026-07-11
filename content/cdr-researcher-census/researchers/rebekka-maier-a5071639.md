@@ -1,7 +1,7 @@
 ---
 title: "Rebekka Maier"
 description: "Rebekka Maier is a Mid-career Soil Carbon researcher at University of Freiburg in DE. With 21 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.575082
+date: 2026-07-11T11:05:43.953553
 url: "/cdr-researcher-census/researchers/rebekka-maier-a5071639/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 4 |
 | Citations | 178 |
 | Publications | 21 |
-| CDR Focus | 33.3% |
-| Trajectory | Stable |
+| CDR Focus | 14.3% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 

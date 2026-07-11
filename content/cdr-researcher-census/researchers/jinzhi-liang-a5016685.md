@@ -1,7 +1,7 @@
 ---
 title: "Jinzhi Liang"
 description: "Jinzhi Liang is a Mid-career Biochar researcher at Huanggang Normal University in CN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.645754
+date: 2026-07-11T11:05:43.236587
 url: "/cdr-researcher-census/researchers/jinzhi-liang-a5016685/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,8 +42,8 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 | h-index | 6 |
 | Citations | 561 |
 | Publications | 7 |
-| CDR Focus | 28.6% |
-| Trajectory | Exiting |
+| CDR Focus | 14.3% |
+| Trajectory | Stable |
 
 ## Top CDR Publications
 

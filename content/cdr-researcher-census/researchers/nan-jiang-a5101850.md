@@ -1,7 +1,7 @@
 ---
 title: "Nan Jiang"
 description: "Nan Jiang is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 119 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.169798
+date: 2026-07-11T11:05:42.895170
 url: "/cdr-researcher-census/researchers/nan-jiang-a5101850/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -65,7 +65,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 5. **More labile carbon inputs lessen the positive effects of nitrogen enrichment on soil carbon storage in a temperate grassland** (2023)
    3 citations · Soil Carbon
 
-6. **Soil pH controls oxidative and hydrolytic enzyme activities regulating organic matter accumulation in rice cultivation systems** (2025)
+6. **Long‐Term Effects of Straw‐Biochar Application and Fertilization Gradients on Black Soil Carbon Sequestration via Prokaryote‐Fungus‐Protist Interactions and Metagenomic‐Metabolite Linkages** (2026)
+   0 citations · Biochar
+
+7. **Soil pH controls oxidative and hydrolytic enzyme activities regulating organic matter accumulation in rice cultivation systems** (2025)
    0 citations
 
 ## External Profiles

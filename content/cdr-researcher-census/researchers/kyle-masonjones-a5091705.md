@@ -1,7 +1,7 @@
 ---
 title: "Kyle Mason‐Jones"
 description: "Kyle Mason‐Jones is a Senior Soil Carbon researcher at University of Tübingen in DE. With 60 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.147856
+date: 2026-07-11T11:05:42.882500
 url: "/cdr-researcher-census/researchers/kyle-masonjones-a5091705/"
 layout: "researcher"
 hiddenInHomeList: true

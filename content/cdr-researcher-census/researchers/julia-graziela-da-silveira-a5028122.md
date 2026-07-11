@@ -1,7 +1,7 @@
 ---
 title: "Júlia Graziela da Silveira"
 description: "Júlia Graziela da Silveira is a Mid-career Soil Carbon researcher at Universidade Federal de Viçosa in BR. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.746517
+date: 2026-07-11T11:05:44.135107
 url: "/cdr-researcher-census/researchers/julia-graziela-da-silveira-a5028122/"
 layout: "researcher"
 hiddenInHomeList: true

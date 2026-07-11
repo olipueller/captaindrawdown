@@ -1,7 +1,7 @@
 ---
 title: "Amy L. Lewis"
 description: "Amy L. Lewis is a Mid-career General CDR researcher at University of Sheffield in GB. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.537905
+date: 2026-07-11T11:05:43.139102
 url: "/cdr-researcher-census/researchers/amy-l-lewis-a5050000/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 5 |
 | Citations | 686 |
 | Publications | 6 |
-| CDR Focus | 66.7% |
+| CDR Focus | 50.0% |
 | Trajectory | Stable |
 
 ## Top CDR Publications

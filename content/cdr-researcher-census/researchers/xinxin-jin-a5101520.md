@@ -1,7 +1,7 @@
 ---
 title: "Xinxin Jin"
 description: "Xinxin Jin is a Senior Soil Carbon researcher at Shenyang Agricultural University in CN. With 98 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.086071
+date: 2026-07-11T11:05:42.852654
 url: "/cdr-researcher-census/researchers/xinxin-jin-a5101520/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,7 +45,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 27 |
 | Citations | 2,784 |
 | Publications | 98 |
-| CDR Focus | 9.2% |
+| CDR Focus | 10.2% |
 | Trajectory | Stable |
 
 ## Top CDR Publications
@@ -62,19 +62,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Assessing the carbon sequestration potential and identifying influential factors of cultivated soils in Northeast China** (2023)
    9 citations · Soil Carbon
 
-5. **Spatio-Temporal Variations in Soil Organic Carbon Stocks in Different Erosion Zones of Cultivated Land in Northeast China Under Future Climate Change Conditions** (2025)
+5. **Soil organic carbon decomposition in response to moisture, microbial communities, and biochar addition in Alfisols** (2026)
+   5 citations · Biochar
+
+6. **Spatio-Temporal Variations in Soil Organic Carbon Stocks in Different Erosion Zones of Cultivated Land in Northeast China Under Future Climate Change Conditions** (2025)
    3 citations · Soil Carbon
 
-6. **Long‐term fertilization and plastic film mulching modify temporal incorporation of <scp> <sup>13</sup> C </scp> / <scp> <sup>15</sup> N </scp> ‐labelled particulate organic matter** (2023)
+7. **Long‐term fertilization and plastic film mulching modify temporal incorporation of <scp> <sup>13</sup> C </scp> / <scp> <sup>15</sup> N </scp> ‐labelled particulate organic matter** (2023)
    2 citations · Soil Carbon
 
-7. **Biochar and moisture variability shape soil carbon pools via microbial carbon-degrading genes** (2025)
+8. **Biochar and moisture variability shape soil carbon pools via microbial carbon-degrading genes** (2025)
    1 citations · Biochar
 
-8. **Quantifying Soil Organic Carbon Sequestration Potentials in Cultivated Land Ecosystems in Northeast China** (2022)
+9. **Quantifying Soil Organic Carbon Sequestration Potentials in Cultivated Land Ecosystems in Northeast China** (2022)
    1 citations · Soil Carbon
 
-9. **Long-term fertilization and PFM changed the accumulation of stalk-derived POM in soil aggregates under field conditions** (2023)
+10. **Long-term fertilization and PFM changed the accumulation of stalk-derived POM in soil aggregates under field conditions** (2023)
    0 citations · Soil Carbon
 
 ## External Profiles

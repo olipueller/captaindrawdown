@@ -1,7 +1,7 @@
 ---
 title: "Soumya Ranjan Padhy"
 description: "Soumya Ranjan Padhy is a Mid-career Soil Carbon researcher at Indian Institute of Rice Research in IN. With 44 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.415816
+date: 2026-07-11T11:05:43.049905
 url: "/cdr-researcher-census/researchers/soumya-ranjan-padhy-a5109525/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,7 +42,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 | h-index | 12 |
 | Citations | 898 |
 | Publications | 44 |
-| CDR Focus | 15.9% |
+| CDR Focus | 13.6% |
 | Trajectory | Growing |
 
 ## Top CDR Publications

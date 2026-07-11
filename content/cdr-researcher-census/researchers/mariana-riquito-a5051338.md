@@ -1,7 +1,7 @@
 ---
 title: "Mariana Riquito"
 description: "Mariana Riquito is a Mid-career General CDR researcher at Netherlands Institute for Social Research in NL. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.279241
+date: 2026-07-11T11:05:43.664681
 url: "/cdr-researcher-census/researchers/mariana-riquito-a5051338/"
 layout: "researcher"
 hiddenInHomeList: true

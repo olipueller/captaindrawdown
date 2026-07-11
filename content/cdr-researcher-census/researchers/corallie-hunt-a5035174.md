@@ -1,7 +1,7 @@
 ---
 title: "Corallie Hunt"
 description: "Corallie Hunt is a Mid-career Soil Carbon researcher at The Nature Conservancy in US. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:48.847671
+date: 2026-07-11T11:05:44.211364
 url: "/cdr-researcher-census/researchers/corallie-hunt-a5035174/"
 layout: "researcher"
 hiddenInHomeList: true

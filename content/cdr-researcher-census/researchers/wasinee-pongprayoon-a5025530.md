@@ -1,7 +1,7 @@
 ---
 title: "Wasinee Pongprayoon"
 description: "Wasinee Pongprayoon is a Mid-career Soil Carbon researcher at Burapha University in TH. With 26 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.989738
+date: 2026-07-11T11:05:43.481013
 url: "/cdr-researcher-census/researchers/wasinee-pongprayoon-a5025530/"
 layout: "researcher"
 hiddenInHomeList: true

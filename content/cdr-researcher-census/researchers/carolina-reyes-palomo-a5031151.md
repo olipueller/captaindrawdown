@@ -1,7 +1,7 @@
 ---
 title: "Carolina Reyes-Palomo"
 description: "Carolina Reyes-Palomo is a Mid-career General CDR researcher at University of Córdoba in ES. With 31 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-10T01:07:47.801114
+date: 2026-07-11T11:05:43.348417
 url: "/cdr-researcher-census/researchers/carolina-reyes-palomo-a5031151/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,8 +45,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 | h-index | 7 |
 | Citations | 435 |
 | Publications | 31 |
-| CDR Focus | 9.7% |
-| Trajectory | Stable |
+| CDR Focus | 6.5% |
+| Trajectory | Growing |
 
 ## Top CDR Publications
 
