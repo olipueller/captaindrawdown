@@ -1,6 +1,6 @@
 ---
 title: "The active core of CDR research is a third of the head-count"
-date: 2026-07-12T15:34:46.430741+02:00
+date: 2026-07-12T19:17:42.870181+02:00
 slug: "census-active-core-workforce"
 tags: ["cdr", "census", "research", "dataviz"]
 content_type: "type5_handwritten"
