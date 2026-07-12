@@ -76,4 +76,46 @@ Two readings combine into one picture. **The violin shape** tells you the size s
 
 ---
 
+## How the research workforce forms and turns over
+
+The charts above track companies. This section tracks *people* — the researchers behind the science, from the [CDR Researcher Census](/cdr-researcher-census/). Each researcher is placed, year by year, above the line if they published a CDR-relevant paper that year (**active**) and below it if they did not (**dormant**, split by whether they published the year before). The top envelope is the real working research workforce each year; the pool below the line is the accumulation of one-paper-and-gone researchers. New entrants join at the base of the active band each year (teal block, no incoming ribbon).
+
+**All pathways combined** — the active workforce roughly tripled from 2021 to 2025, while the dormant pool grew faster underneath. For the current active workforce per pathway, see the [census page](/cdr-researcher-census/).
+
+![Researcher trajectories, all pathways](/charts/census-trajectory-all.png)
+
+### By pathway
+
+The same view, one pathway at a time. Younger pathways (enhanced weathering, ocean CDR) show a steep active band over a shallow dormant floor; older, broader ones (soil carbon, biochar) carry a much deeper dormant pool of past one-time contributors.
+
+**General CDR**
+
+![General CDR researcher trajectory](/charts/census-trajectory-general-cdr.png)
+
+**DAC**
+
+![DAC researcher trajectory](/charts/census-trajectory-dac.png)
+
+**BECCS**
+
+![BECCS researcher trajectory](/charts/census-trajectory-beccs.png)
+
+**Biochar**
+
+![Biochar researcher trajectory](/charts/census-trajectory-biochar.png)
+
+**Enhanced Weathering**
+
+![Enhanced Weathering researcher trajectory](/charts/census-trajectory-enhanced-weathering.png)
+
+**Ocean CDR**
+
+![Ocean CDR researcher trajectory](/charts/census-trajectory-ocean-cdr.png)
+
+**Soil Carbon**
+
+![Soil Carbon researcher trajectory](/charts/census-trajectory-soil-carbon.png)
+
+---
+
 > **Data sources** — Coresignal for LinkedIn-derived employee counts and growth signals; WHOIS for domain-creation years (used as a founding-year proxy); OpenAlex for the publication backbone behind the CDR Researcher Census; and the [CDR Company Directory](/directory/) itself for the 1,500+ company entries underneath every chart. Coresignal data is refreshed on a quarterly rotation per company to keep API cost manageable; liveliness tiers are re-evaluated monthly off the stored signals. If you spot an error, ping us on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social) or [X](https://x.com/CaptainDrawdown) — manual corrections are applied within a few hours of the report.
