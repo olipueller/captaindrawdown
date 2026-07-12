@@ -2,7 +2,7 @@
 title: "Take: Avantium: Engineering Sorbents for DAC - Wessels"
 date: 2026-07-09T10:00:00+00:00
 slug: "podcast-take-avantium-engineering-sorbents-for-dac-wessels-915b4864"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "reviewer-2-does-geoengineering"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"

@@ -2,7 +2,7 @@
 title: "Take: Carbon removal is not one thing"
 date: 2026-07-09T10:00:00+00:00
 slug: "podcast-take-carbon-removal-is-not-one-thing-f9097711"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "the-carbon-curve"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"

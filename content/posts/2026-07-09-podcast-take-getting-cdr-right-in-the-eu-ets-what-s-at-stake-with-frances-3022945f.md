@@ -2,7 +2,7 @@
 title: "Take: Getting CDR Right in the EU ETS: What's at Stake - with Francesca Battersby and Louis Uzor"
 date: 2026-07-09T10:00:00+00:00
 slug: "podcast-take-getting-cdr-right-in-the-eu-ets-what-s-at-stake-with-frances-3022945f"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "the-cdr-policy-scoop"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"
