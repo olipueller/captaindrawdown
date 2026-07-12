@@ -1,7 +1,7 @@
 ---
 title: "Noah J. Planavsky"
 description: "Noah J. Planavsky is an Eminent Enhanced Weathering researcher at Planetary Science Institute in US. With 540 publications and an h-index of 84, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.080863
+date: 2026-07-12T12:07:29.120353
 url: "/cdr-researcher-census/researchers/noah-j-planavsky-a5031830/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -60,7 +60,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    71 citations · Ocean CDR
 
 4. **Initial Validation of a Soil-Based Mass-Balance Approach for Empirical Monitoring of Enhanced Rock Weathering Rates** (2023)
-   64 citations
+   65 citations
 
 5. **River chemistry constraints on the carbon capture potential of surficial enhanced rock weathering** (2022)
    60 citations · Enhanced Weathering

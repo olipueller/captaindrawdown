@@ -1,7 +1,7 @@
 ---
 title: "Sean Low"
 description: "Sean Low is a Senior General CDR researcher at Wageningen University & Research in NL. With 57 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.225818
+date: 2026-07-12T12:07:29.257644
 url: "/cdr-researcher-census/researchers/sean-low-a5005320/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Public perceptions and support of climate intervention technologies across the Global North and Global South** (2024)
-   86 citations · General CDR
+   87 citations · General CDR
 
 2. **Taking it outside: Exploring social opposition to 21 early-stage experiments in radical climate interventions** (2022)
    85 citations · General CDR

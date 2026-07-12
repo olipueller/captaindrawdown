@@ -1,7 +1,7 @@
 ---
 title: "Eunice Oppon"
 description: "Eunice Oppon is a Mid-career Enhanced Weathering researcher at University of Exeter in GB. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.148916
+date: 2026-07-12T12:07:30.088890
 url: "/cdr-researcher-census/researchers/eunice-oppon-a5010245/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 ## Top CDR Publications
 
-1. **Sustainability performance of enhanced weathering across countries: A triple bottom line approach** (2024)
+1. **Towards sustainable food production and climate change mitigation: an attributional life cycle assessment comparing industrial and basalt rock dust fertilisers** (2023)
+   11 citations
+
+2. **Macro-level economic and environmental sustainability of negative emission technologies; Case study of crushed silicate production for enhanced weathering** (2022)
+   10 citations · Enhanced Weathering
+
+3. **Sustainability performance of enhanced weathering across countries: A triple bottom line approach** (2024)
    8 citations · Enhanced Weathering
 
 ## External Profiles

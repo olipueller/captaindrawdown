@@ -1,7 +1,7 @@
 ---
 title: "Stéphanie Grand"
 description: "Stéphanie Grand is a Mid-career Enhanced Weathering researcher at University of Lausanne in CH. With 54 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.173984
+date: 2026-07-12T12:07:29.207727
 url: "/cdr-researcher-census/researchers/stephanie-grand-a5023581/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    86 citations · Enhanced Weathering
 
 2. **Let the dust settle: Impact of enhanced rock weathering on soil biological, physical, and geochemical fertility** (2024)
-   29 citations · Enhanced Weathering
+   30 citations · Enhanced Weathering
 
 3. **Geochemical Drivers of Enhanced Rock Weathering in Soils** (2025)
    6 citations · Enhanced Weathering

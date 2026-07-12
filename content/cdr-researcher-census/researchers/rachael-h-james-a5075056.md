@@ -1,7 +1,7 @@
 ---
 title: "Rachael H. James"
 description: "Rachael H. James is an Eminent Enhanced Weathering researcher at University of Southampton in GB. With 238 publications and an h-index of 58, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.094087
+date: 2026-07-12T12:07:29.132082
 url: "/cdr-researcher-census/researchers/rachael-h-james-a5075056/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    131 citations
 
 2. **Global Carbon Dioxide Removal Potential of Waste Materials From Metal and Diamond Mining** (2021)
-   72 citations · Enhanced Weathering
+   73 citations · Enhanced Weathering
 
 3. **Quantification of CO2 removal in a large-scale enhanced weathering field trial on an oil palm plantation in Sabah, Malaysia** (2022)
    70 citations · Enhanced Weathering

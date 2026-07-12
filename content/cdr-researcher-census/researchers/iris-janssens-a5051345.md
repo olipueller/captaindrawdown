@@ -1,7 +1,7 @@
 ---
 title: "Iris Janssens"
 description: "Iris Janssens is a Mid-career Enhanced Weathering researcher at University of Antwerp in BE. With 30 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.006710
+date: 2026-07-12T12:07:29.959405
 url: "/cdr-researcher-census/researchers/iris-janssens-a5051345/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -65,10 +65,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 5. **Bayesian optimal experiment design for enhanced mineral weathering with gradient boosted decision trees** (2026)
    0 citations · Enhanced Weathering
 
-6. **Machine learning-based identification of key biotic and abiotic drivers of mineral weathering rate in a complex enhanced weathering experiment** (2025)
-   0 citations · Biochar
+6. **Innovative data-driven approaches for environmental sciences** (2025)
+   0 citations · Enhanced Weathering
 
 7. **Machine learning-based identification of key biotic and abiotic drivers of mineral weathering rate in a complex enhanced weathering experiment** (2025)
+   0 citations · Biochar
+
+8. **Machine learning-based identification of key biotic and abiotic drivers of mineral weathering rate in a complex enhanced weathering experiment** (2025)
    0 citations · Enhanced Weathering
 
 ## External Profiles

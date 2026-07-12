@@ -1,7 +1,7 @@
 ---
 title: "Suzi Huff Theodoro"
 description: "Suzi Huff Theodoro is a Senior Enhanced Weathering researcher at Conselho Nacional de Desenvolvimento Científico e Tecnológico in BR. With 52 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.479219
+date: 2026-07-12T12:07:29.489535
 url: "/cdr-researcher-census/researchers/suzi-huff-theodoro-a5019884/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,22 +53,25 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 1. **Possibilities of using silicate rock powder: An overview** (2021)
    101 citations · Enhanced Weathering
 
-2. **Rock Powder Enhances Soil Nutrition and Coffee Quality in Agroforestry Systems** (2023)
+2. **Crushed Volcanic Rock as Soil Remineralizer: A Strategy to Overcome the Global Fertilizer Crisis** (2022)
+   26 citations
+
+3. **Rock Powder Enhances Soil Nutrition and Coffee Quality in Agroforestry Systems** (2023)
    13 citations · Enhanced Weathering
 
-3. **The combination of crushed rock and organic matter enhances the capture of inorganic carbon in tropical soils** (2024)
+4. **The combination of crushed rock and organic matter enhances the capture of inorganic carbon in tropical soils** (2024)
    7 citations · Enhanced Weathering
 
-4. **Chemical and Mineralogical Classification of Silicate Agrominerals** (2026)
+5. **Chemical and Mineralogical Classification of Silicate Agrominerals** (2026)
    1 citations · Enhanced Weathering
 
-5. **Rock Dusts: A Silent Revolution for Soil Nutrition and Climate Protection** (2026)
+6. **Rock Dusts: A Silent Revolution for Soil Nutrition and Climate Protection** (2026)
    0 citations · General CDR
 
-6. **Agrogeological Principles on Soil Remineralization and Brazilian Protagonism** (2026)
+7. **Agrogeological Principles on Soil Remineralization and Brazilian Protagonism** (2026)
    0 citations · Enhanced Weathering
 
-7. **Unlocking Gigatonne-scale Carbon Dioxide Removal with strategic tipping point frameworks** (2025)
+8. **Unlocking Gigatonne-scale Carbon Dioxide Removal with strategic tipping point frameworks** (2025)
    0 citations · Enhanced Weathering
 
 ## External Profiles

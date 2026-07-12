@@ -1,7 +1,7 @@
 ---
 title: "David A.C. Manning"
 description: "David A.C. Manning is an Eminent Enhanced Weathering researcher at Newcastle University in GB. With 273 publications and an h-index of 57, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.084549
+date: 2026-07-12T12:07:29.123337
 url: "/cdr-researcher-census/researchers/david-ac-manning-a5016005/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -56,11 +56,11 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 2. **Initial agronomic benefits of enhanced weathering using basalt: A study of spring oat in a temperate climate** (2024)
    46 citations
 
-3. **Removal of atmospheric CO2 by engineered soils in infrastructure projects** (2022)
+3. **Soil carbon management and enhanced rock weathering: The separate fates of organic and inorganic carbon** (2024)
    24 citations · Enhanced Weathering
 
-4. **Soil carbon management and enhanced rock weathering: The separate fates of organic and inorganic carbon** (2024)
-   23 citations · Enhanced Weathering
+4. **Removal of atmospheric CO2 by engineered soils in infrastructure projects** (2022)
+   24 citations · Enhanced Weathering
 
 5. **Diversified crop rotations and organic amendments as strategies for increasing soil carbon storage and stabilisation in UK arable systems** (2023)
    23 citations · Soil Carbon

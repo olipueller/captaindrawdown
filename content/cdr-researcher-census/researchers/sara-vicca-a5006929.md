@@ -1,7 +1,7 @@
 ---
 title: "Sara Vicca"
 description: "Sara Vicca is an Eminent Enhanced Weathering researcher at University of Antwerp in BE. With 265 publications and an h-index of 57, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.086980
+date: 2026-07-12T12:07:29.125592
 url: "/cdr-researcher-census/researchers/sara-vicca-a5006929/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -69,7 +69,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    53 citations · Enhanced Weathering
 
 7. **Exploring the synergy of enhanced weathering and <i>Bacillus subtilis</i>: A promising strategy for sustainable agriculture** (2024)
-   25 citations · Enhanced Weathering
+   26 citations · Enhanced Weathering
 
 8. **Earthworms in an enhanced weathering mesocosm experiment: Effects on soil carbon sequestration, base cation exchange and soil CO2 efflux** (2024)
    23 citations · Enhanced Weathering

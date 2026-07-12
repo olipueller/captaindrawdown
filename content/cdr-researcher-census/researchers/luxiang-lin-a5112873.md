@@ -1,7 +1,7 @@
 ---
 title: "Luxiang Lin"
 description: "Luxiang Lin is a Senior Soil Carbon researcher at Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences in CN. With 115 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.167973
+date: 2026-07-12T12:07:29.202308
 url: "/cdr-researcher-census/researchers/luxiang-lin-a5112873/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    57 citations · Enhanced Weathering
 
 2. **Enhanced rock weathering increased soil phosphorus availability and altered root phosphorus‐acquisition strategies** (2024)
-   44 citations · Enhanced Weathering
+   45 citations · Enhanced Weathering
 
 3. **Reference carbon cycle dataset for typical Chinese forests via colocated observations and data assimilation** (2021)
    32 citations · Soil Carbon

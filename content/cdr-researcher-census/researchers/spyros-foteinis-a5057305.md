@@ -1,7 +1,7 @@
 ---
 title: "Spyros Foteinis"
 description: "Spyros Foteinis is a Senior General CDR researcher at Public Power Corporation SA in GR. With 116 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.136799
+date: 2026-07-12T12:07:29.172947
 url: "/cdr-researcher-census/researchers/spyros-foteinis-a5057305/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -68,17 +68,17 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 6. **Assessing technical aspects of ocean alkalinity enhancement approaches** (2023)
    22 citations · General CDR
 
-7. **Carbon dioxide removal could result in the use of lower-grade iron ore in a decarbonized net-negative emission steel industry** (2024)
+7. **Geochemical Negative Emissions Technologies: Part II. Roadmap** (2022)
+   20 citations
+
+8. **Carbon dioxide removal could result in the use of lower-grade iron ore in a decarbonized net-negative emission steel industry** (2024)
    16 citations · General CDR
 
-8. **Wastewater Treatment for Carbon Dioxide Removal** (2023)
+9. **Wastewater Treatment for Carbon Dioxide Removal** (2023)
    15 citations · DAC
 
-9. **Marine carbon dioxide removal by alkalinization should no longer be overlooked** (2024)
+10. **Marine carbon dioxide removal by alkalinization should no longer be overlooked** (2024)
    14 citations · General CDR
-
-10. **The cost of direct air capture and storage: the impact of technological learning, regional diversity, and policy.** (2022)
-   12 citations
 
 ## External Profiles
 

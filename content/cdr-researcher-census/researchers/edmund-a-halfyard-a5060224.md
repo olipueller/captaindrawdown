@@ -1,7 +1,7 @@
 ---
 title: "Edmund A. Halfyard"
 description: "Edmund A. Halfyard is a Mid-career Enhanced Weathering researcher at Nova Scotia Department of Agriculture in CA. With 35 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.483733
+date: 2026-07-12T12:07:29.493257
 url: "/cdr-researcher-census/researchers/edmund-a-halfyard-a5060224/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,13 +50,16 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 ## Top CDR Publications
 
-1. **Addition of Alkalinity to Rivers: a novel strategy for Ocean Alkalinity Enhancement** (2023)
+1. **Title: Addition of Alkalinity to Rivers: a new CO2 Removal Strategy** (2023)
+   8 citations
+
+2. **Addition of Alkalinity to Rivers: a novel strategy for Ocean Alkalinity Enhancement** (2023)
    1 citations · Enhanced Weathering
 
-2. **River Alkalinity Enhancement as a Carbon Dioxide Removal Strategy: a Norwegian Case Study** (2026)
+3. **River Alkalinity Enhancement as a Carbon Dioxide Removal Strategy: a Norwegian Case Study** (2026)
    0 citations · Enhanced Weathering
 
-3. **Direct Aquatic Application of Crushed Dolomite Reduces CO2 Evasion in an Acidified River** (2021)
+4. **Direct Aquatic Application of Crushed Dolomite Reduces CO2 Evasion in an Acidified River** (2021)
    0 citations · Enhanced Weathering
 
 ## External Profiles

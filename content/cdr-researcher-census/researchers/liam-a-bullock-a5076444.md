@@ -1,7 +1,7 @@
 ---
 title: "Liam A. Bullock"
 description: "Liam A. Bullock is a Mid-career Enhanced Weathering researcher at Instituto Geológico y Minero de España in ES. With 59 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.491331
+date: 2026-07-12T12:07:29.499720
 url: "/cdr-researcher-census/researchers/liam-a-bullock-a5076444/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Global Carbon Dioxide Removal Potential of Waste Materials From Metal and Diamond Mining** (2021)
-   72 citations · Enhanced Weathering
+   73 citations · Enhanced Weathering
 
 2. **Kinetics-informed global assessment of mine tailings for CO2 removal** (2021)
    48 citations · Enhanced Weathering

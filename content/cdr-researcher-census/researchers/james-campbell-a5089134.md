@@ -1,7 +1,7 @@
 ---
 title: "James Campbell"
 description: "James Campbell is a Senior General CDR researcher. With 59 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.482002
+date: 2026-07-12T12:07:29.491870
 url: "/cdr-researcher-census/researchers/james-campbell-a5089134/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -63,17 +63,17 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 6. **Assessing technical aspects of ocean alkalinity enhancement approaches** (2023)
    22 citations · General CDR
 
-7. **A Review of Measurement for Quantification of Carbon Dioxide Removal by Enhanced Weathering in Soil** (2023)
+7. **Geochemical Negative Emissions Technologies: Part II. Roadmap** (2022)
+   20 citations
+
+8. **A Review of Measurement for Quantification of Carbon Dioxide Removal by Enhanced Weathering in Soil** (2023)
    6 citations
 
-8. **Enhanced Weathering of Olivine in Rivers for Carbon Dioxide Removal** (2023)
+9. **Enhanced Weathering of Olivine in Rivers for Carbon Dioxide Removal** (2023)
    1 citations · Enhanced Weathering
 
-9. **Harnessing naturally occurring sodium carbonate and bicarbonate for gigatonne-scale carbon dioxide removal** (2026)
-   0 citations · General CDR
-
 10. **Harnessing naturally occurring sodium carbonate and bicarbonate for gigatonne-scale carbon dioxide removal** (2026)
-   0 citations · Ocean CDR
+   0 citations · General CDR
 
 ## External Profiles
 

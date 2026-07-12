@@ -1,7 +1,7 @@
 ---
 title: "Arthur Vienne"
 description: "Arthur Vienne is a Mid-career Enhanced Weathering researcher at University of Antwerp in BE. With 51 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.689955
+date: 2026-07-12T12:07:29.680303
 url: "/cdr-researcher-census/researchers/arthur-vienne-a5086565/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    124 citations · Enhanced Weathering
 
 3. **Exploring the synergy of enhanced weathering and <i>Bacillus subtilis</i>: A promising strategy for sustainable agriculture** (2024)
-   25 citations · Enhanced Weathering
+   26 citations · Enhanced Weathering
 
 4. **Earthworms in an enhanced weathering mesocosm experiment: Effects on soil carbon sequestration, base cation exchange and soil CO2 efflux** (2024)
    23 citations · Enhanced Weathering

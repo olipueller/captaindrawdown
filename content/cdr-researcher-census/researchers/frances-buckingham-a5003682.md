@@ -1,7 +1,7 @@
 ---
 title: "Frances Buckingham"
 description: "Frances Buckingham is a Mid-career Enhanced Weathering researcher at University of Oxford in GB. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.310872
+date: 2026-07-12T12:07:30.247101
 url: "/cdr-researcher-census/researchers/frances-buckingham-a5003682/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,13 +50,19 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 ## Top CDR Publications
 
-1. **The enhanced weathering potential of a range of silicate and carbonate additions in a UK agricultural soil** (2023)
+1. **Soil core study indicates limited CO2 removal by enhanced weathering in dry croplands in the UK** (2022)
+   59 citations · Enhanced Weathering
+
+2. **The enhanced weathering potential of a range of silicate and carbonate additions in a UK agricultural soil** (2023)
    21 citations · Enhanced Weathering
 
-2. **Response to Comment from West et al. on, “Soil core study indicates limited CO2 removal by enhanced weathering in dry croplands in the UK”** (2023)
+3. **Response to Comment from West et al. on, “Soil core study indicates limited CO2 removal by enhanced weathering in dry croplands in the UK”** (2023)
    5 citations · Enhanced Weathering
 
-3. **Characterising rates and chemistry of basalt dissolution in agriculture soil cores to assess potential of enhanced weathering** (2021)
+4. **Geochemical Negative Emission Technologies** (2022)
+   0 citations · Enhanced Weathering
+
+5. **Characterising rates and chemistry of basalt dissolution in agriculture soil cores to assess potential of enhanced weathering** (2021)
    0 citations · Enhanced Weathering
 
 ## External Profiles

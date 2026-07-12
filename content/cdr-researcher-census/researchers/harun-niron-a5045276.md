@@ -1,7 +1,7 @@
 ---
 title: "Harun Niron"
 description: "Harun Niron is a Mid-career Enhanced Weathering researcher at University of Antwerp in BE. With 37 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.854255
+date: 2026-07-12T12:07:29.829591
 url: "/cdr-researcher-census/researchers/harun-niron-a5045276/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Exploring the synergy of enhanced weathering and <i>Bacillus subtilis</i>: A promising strategy for sustainable agriculture** (2024)
-   25 citations · Enhanced Weathering
+   26 citations · Enhanced Weathering
 
 2. **Organic carbon source controlled microbial olivine dissolution in small-scale flow-through bioreactors, for CO2 removal** (2024)
    18 citations · Enhanced Weathering

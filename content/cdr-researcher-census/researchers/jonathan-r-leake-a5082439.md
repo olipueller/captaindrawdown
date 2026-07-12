@@ -1,7 +1,7 @@
 ---
 title: "Jonathan R. Leake"
 description: "Jonathan R. Leake is an Eminent Soil Carbon researcher at University of Sheffield in GB. With 202 publications and an h-index of 75, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.087676
+date: 2026-07-12T12:07:29.126236
 url: "/cdr-researcher-census/researchers/jonathan-r-leake-a5082439/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of mineralogy, chemistry and physical properties of basalts on carbon capture potential and plant-nutrient element release via enhanced weathering** (2021)
-   153 citations · Enhanced Weathering
+   154 citations · Enhanced Weathering
 
 2. **Legume–microbiome interactions unlock mineral nutrients in regrowing tropical forests** (2021)
    78 citations · Enhanced Weathering

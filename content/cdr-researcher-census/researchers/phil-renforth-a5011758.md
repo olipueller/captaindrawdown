@@ -1,7 +1,7 @@
 ---
 title: "Phil Renforth"
 description: "Phil Renforth is an Eminent General CDR researcher at Heriot-Watt University in GB. With 151 publications and an h-index of 44, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.095288
+date: 2026-07-12T12:07:29.133002
 url: "/cdr-researcher-census/researchers/phil-renforth-a5011758/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -65,20 +65,20 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 5. **Life Cycle Assessment of Coastal Enhanced Weathering for Carbon Dioxide Removal from Air** (2023)
    94 citations · Enhanced Weathering
 
-6. **Life cycle assessment of ocean liming for carbon dioxide removal from the atmosphere** (2022)
-   72 citations
+6. **Global Carbon Dioxide Removal Potential of Waste Materials From Metal and Diamond Mining** (2021)
+   73 citations · Enhanced Weathering
 
-7. **Global Carbon Dioxide Removal Potential of Waste Materials From Metal and Diamond Mining** (2021)
-   72 citations · Enhanced Weathering
+7. **Life cycle assessment of ocean liming for carbon dioxide removal from the atmosphere** (2022)
+   72 citations
 
 8. **Geochemical Negative Emissions Technologies: Part I. Review** (2022)
    65 citations · DAC
 
-9. **Transforming US agriculture for carbon removal with enhanced weathering** (2025)
-   48 citations · Enhanced Weathering
+9. **Soil core study indicates limited CO2 removal by enhanced weathering in dry croplands in the UK** (2022)
+   59 citations · Enhanced Weathering
 
-10. **Using ikaite and other hydrated carbonate minerals to increase ocean alkalinity for carbon dioxide removal and environmental remediation** (2022)
-   39 citations · Ocean CDR
+10. **Transforming US agriculture for carbon removal with enhanced weathering** (2025)
+   48 citations · Enhanced Weathering
 
 ## External Profiles
 

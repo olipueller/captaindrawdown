@@ -1,7 +1,7 @@
 ---
 title: "Boriana Kalderon-Asael"
 description: "Boriana Kalderon-Asael is a Senior General CDR researcher at Planetary Science Institute in US. With 42 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.396645
+date: 2026-07-12T12:07:29.415819
 url: "/cdr-researcher-census/researchers/boriana-kalderon-asael-a5015721/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Initial Validation of a Soil-Based Mass-Balance Approach for Empirical Monitoring of Enhanced Rock Weathering Rates** (2023)
-   64 citations
+   65 citations
 
 2. **Lithium isotopic constraints on the evolution of continental clay mineral factory and marine oxygenation in the earliest Paleozoic Era** (2024)
    41 citations · General CDR

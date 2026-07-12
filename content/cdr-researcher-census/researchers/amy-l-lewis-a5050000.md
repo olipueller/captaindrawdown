@@ -1,7 +1,7 @@
 ---
 title: "Amy L. Lewis"
 description: "Amy L. Lewis is a Mid-career Enhanced Weathering researcher at University of Sheffield in GB. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.453806
+date: 2026-07-12T12:07:29.467598
 url: "/cdr-researcher-census/researchers/amy-l-lewis-a5050000/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,12 +54,15 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    159 citations · Enhanced Weathering
 
 2. **Effects of mineralogy, chemistry and physical properties of basalts on carbon capture potential and plant-nutrient element release via enhanced weathering** (2021)
-   153 citations · Enhanced Weathering
+   154 citations · Enhanced Weathering
 
-3. **Detection and quantification of low levels of carbonate mineral species using thermogravimetric-mass spectrometry to validate CO2 drawdown via enhanced rock weathering** (2022)
+3. **In silico assessment of the potential of basalt amendments to reduce N<sub>2</sub>O emissions from bioenergy crops** (2020)
+   66 citations · BECCS
+
+4. **Detection and quantification of low levels of carbonate mineral species using thermogravimetric-mass spectrometry to validate CO2 drawdown via enhanced rock weathering** (2022)
    32 citations
 
-4. **Detection and Quantification of Low Levels of Carbonate Mineral Species Using Thermogravimetric-Mass Spectrometry to Validate Co2 Drawdown Via Enhanced Rock Weathering** (2022)
+5. **Detection and Quantification of Low Levels of Carbonate Mineral Species Using Thermogravimetric-Mass Spectrometry to Validate Co2 Drawdown Via Enhanced Rock Weathering** (2022)
    2 citations · Enhanced Weathering
 
 ## External Profiles

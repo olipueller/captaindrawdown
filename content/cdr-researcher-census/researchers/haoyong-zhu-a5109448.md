@@ -1,7 +1,7 @@
 ---
 title: "Haoyong Zhu"
 description: "Haoyong Zhu is a Mid-career Enhanced Weathering researcher at University of Electronic Science and Technology of China in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.894934
+date: 2026-07-12T12:07:29.867140
 url: "/cdr-researcher-census/researchers/haoyong-zhu-a5109448/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Crop productivity and soil inorganic carbon change mediated by enhanced rock weathering in farmland: A comparative field analysis of multi-agroclimatic regions in central China** (2023)
-   39 citations · Enhanced Weathering
+   40 citations · Enhanced Weathering
 
 2. **Integrating no-tillage and organic amendment optimizes carbon sequestration in agricultural enhanced rock weathering: Evidence from a six-year field trial** (2026)
    0 citations · Enhanced Weathering

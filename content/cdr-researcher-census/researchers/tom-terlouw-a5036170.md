@@ -1,7 +1,7 @@
 ---
 title: "Tom Terlouw"
 description: "Tom Terlouw is a Mid-career General CDR researcher at PSI in CH. With 36 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.183690
+date: 2026-07-12T12:07:29.216734
 url: "/cdr-researcher-census/researchers/tom-terlouw-a5036170/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    509 citations · DAC
 
 2. **Life cycle assessment of carbon dioxide removal technologies: a critical review** (2021)
-   348 citations · General CDR
+   349 citations · General CDR
 
 3. **Life Cycle Assessment of Direct Air Carbon Capture and Storage with Low-Carbon Energy Sources** (2021)
    283 citations · DAC

@@ -1,7 +1,7 @@
 ---
 title: "Yunting Fang"
 description: "Yunting Fang is an Eminent Soil Carbon researcher at Shenyang Aerospace University in CN. With 296 publications and an h-index of 58, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.091308
+date: 2026-07-12T12:07:29.129547
 url: "/cdr-researcher-census/researchers/yunting-fang-a5012369/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    49 citations · Enhanced Weathering
 
 5. **Enhanced rock weathering increased soil phosphorus availability and altered root phosphorus‐acquisition strategies** (2024)
-   44 citations · Enhanced Weathering
+   45 citations · Enhanced Weathering
 
 6. **Meta-analysis of 21st century studies shows that deforestation induces profound changes in soil characteristics, particularly soil organic carbon accumulation** (2024)
    41 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Olivia Hawrot"
 description: "Olivia Hawrot is a Mid-career General CDR researcher at Nano Carbon (Poland) in PL. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.657665
+date: 2026-07-12T12:07:29.651186
 url: "/cdr-researcher-census/researchers/olivia-hawrot-a5085624/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -59,22 +59,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 4. **Assessing technical aspects of ocean alkalinity enhancement approaches** (2023)
    22 citations · General CDR
 
-5. **The cost of direct air capture and storage: the impact of technological learning, regional diversity, and policy.** (2022)
-   12 citations
+5. **Geochemical Negative Emissions Technologies: Part II. Roadmap** (2022)
+   20 citations
 
 6. **The cost of direct air capture and storage: the impact of technological learning, regional diversity, and policy.** (2022)
+   12 citations
+
+7. **The cost of direct air capture and storage: the impact of technological learning, regional diversity, and policy.** (2022)
    5 citations · DAC
 
-7. **Atmospheric carbon dioxide removal using layers of lime** (2025)
+8. **Atmospheric carbon dioxide removal using layers of lime** (2025)
    4 citations · Enhanced Weathering
 
-8. **The cost of direct air capture and storage: the impact of technological learning, regional diversity, and policy.** (2022)
+9. **The cost of direct air capture and storage: the impact of technological learning, regional diversity, and policy.** (2022)
    4 citations
 
-9. **A systematic comparison of calcium carbonate quantification techniques for the monitoring of carbon dioxide removal via lime carbonation direct air capture** (2026)
-   0 citations · DAC
-
-10. **Driving down the cost of direct air capture with intelligent policy design and technology deployment** (2022)
+10. **A systematic comparison of calcium carbonate quantification techniques for the monitoring of carbon dioxide removal via lime carbonation direct air capture** (2026)
    0 citations · DAC
 
 ## External Profiles

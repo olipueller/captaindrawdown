@@ -1,7 +1,7 @@
 ---
 title: "Arlete S. Barneze"
 description: "Arlete S. Barneze is a Mid-career Enhanced Weathering researcher at UK Centre for Ecology & Hydrology in GB. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.648685
+date: 2026-07-12T12:07:29.643161
 url: "/cdr-researcher-census/researchers/arlete-s-barneze-a5075523/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Soil carbon management and enhanced rock weathering: The separate fates of organic and inorganic carbon** (2024)
-   23 citations · Enhanced Weathering
+   24 citations · Enhanced Weathering
 
 2. **The effect of crop rotations on soil** (2022)
    3 citations · Soil Carbon
@@ -61,6 +61,9 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 4. **A Method to Evaluate Enhanced Rock Weathering Using Intact Soil Monoliths Under Field Conditions** (2024)
    1 citations · Enhanced Weathering
+
+5. **A five-stage protocol for systematic measuring and monitoring soil carbon and greenhouse gas fluxes in complex estates** (2025)
+   0 citations
 
 ## External Profiles
 

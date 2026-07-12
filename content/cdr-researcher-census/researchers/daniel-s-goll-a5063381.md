@@ -1,7 +1,7 @@
 ---
 title: "Daniel S. Goll"
 description: "Daniel S. Goll is an Eminent General CDR researcher at University of Paris-Saclay in FR. With 275 publications and an h-index of 57, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.087535
+date: 2026-07-12T12:07:29.126104
 url: "/cdr-researcher-census/researchers/daniel-s-goll-a5063381/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -69,7 +69,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    57 citations · Enhanced Weathering
 
 7. **Enhanced rock weathering increased soil phosphorus availability and altered root phosphorus‐acquisition strategies** (2024)
-   44 citations · Enhanced Weathering
+   45 citations · Enhanced Weathering
 
 8. **Bioenergy Crops for Low Warming Targets Require Half of the Present Agricultural Fertilizer Use** (2021)
    30 citations · BECCS

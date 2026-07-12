@@ -1,7 +1,7 @@
 ---
 title: "Christopher T. Reinhard"
 description: "Christopher T. Reinhard is an Eminent General CDR researcher at Georgia Institute of Technology in US. With 287 publications and an h-index of 58, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.088863
+date: 2026-07-12T12:07:29.127317
 url: "/cdr-researcher-census/researchers/christopher-t-reinhard-a5061963/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    71 citations · Ocean CDR
 
 3. **Initial Validation of a Soil-Based Mass-Balance Approach for Empirical Monitoring of Enhanced Rock Weathering Rates** (2023)
-   64 citations
+   65 citations
 
 4. **River chemistry constraints on the carbon capture potential of surficial enhanced rock weathering** (2022)
    60 citations · Enhanced Weathering

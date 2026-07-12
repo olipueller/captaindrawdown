@@ -1,7 +1,7 @@
 ---
 title: "Boyuan Bi"
 description: "Boyuan Bi is a Mid-career Soil Carbon researcher at Northwestern Polytechnical University in CN. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.612314
+date: 2026-07-12T12:07:29.609791
 url: "/cdr-researcher-census/researchers/boyuan-bi-a5047206/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    57 citations · Enhanced Weathering
 
 2. **Enhanced rock weathering increased soil phosphorus availability and altered root phosphorus‐acquisition strategies** (2024)
-   44 citations · Enhanced Weathering
+   45 citations · Enhanced Weathering
 
 3. **Enhanced Rock Weathering Promotes Soil Organic Carbon Accumulation: A Global Meta‐Analysis Based on Experimental Evidence** (2025)
    11 citations · Enhanced Weathering

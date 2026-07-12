@@ -1,7 +1,7 @@
 ---
 title: "Hanna Breunig"
 description: "Hanna Breunig is a Senior General CDR researcher at Lawrence Berkeley National Laboratory in US. With 90 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.251810
+date: 2026-07-12T12:07:29.282142
 url: "/cdr-researcher-census/researchers/hanna-breunig-a5091742/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The environmental controls on efficiency of enhanced rock weathering in soils** (2023)
-   50 citations · Enhanced Weathering
+   51 citations · Enhanced Weathering
 
 2. **Emerging concepts in intermediate carbon dioxide emplacement to support carbon dioxide removal** (2023)
    32 citations · General CDR

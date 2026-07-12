@@ -1,7 +1,7 @@
 ---
 title: "Philip A.E. Pogge von Strandmann"
 description: "Philip A.E. Pogge von Strandmann is an Eminent Enhanced Weathering researcher at Johannes Gutenberg Universität Mainz in DE. With 200 publications and an h-index of 50, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.098389
+date: 2026-07-12T12:07:29.136111
 url: "/cdr-researcher-census/researchers/philip-ae-pogge-von-strandmann-a5063694/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -68,17 +68,17 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 6. **Enhanced Continental Weathering as a Trigger for the End‐Devonian Hangenberg Crisis** (2023)
    30 citations · Enhanced Weathering
 
-7. **Calcium isotopes tracing secondary mineral formation in the high-relief Yalong River Basin, Southeast Tibetan Plateau** (2022)
+7. **The lithium and magnesium isotope signature of olivine dissolution in soil experiments** (2020)
+   27 citations · Enhanced Weathering
+
+8. **Calcium isotopes tracing secondary mineral formation in the high-relief Yalong River Basin, Southeast Tibetan Plateau** (2022)
    20 citations · Enhanced Weathering
 
-8. **Seasonal variability in silicate weathering signatures recorded by Li isotopes in cave drip-waters** (2021)
+9. **Seasonal variability in silicate weathering signatures recorded by Li isotopes in cave drip-waters** (2021)
    20 citations · Enhanced Weathering
 
-9. **Subaerial volcanism broke mid-Proterozoic environmental stasis** (2024)
+10. **Subaerial volcanism broke mid-Proterozoic environmental stasis** (2024)
    17 citations · Enhanced Weathering
-
-10. **The dissolution of olivine added to soil at 32°C: the fate of weathering products and its implications for enhanced weathering at different temperatures** (2024)
-   13 citations · Enhanced Weathering
 
 ## External Profiles
 
