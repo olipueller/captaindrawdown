@@ -3,7 +3,7 @@ title: "Making of the CDR Industry Database (April 2026)"
 date: 2026-04-23T09:00:00+00:00
 slug: "cdr-industry-making-of-2026-04"
 draft: false
-tags: ["cdr", "making-of", "directory", "methodology"]
+tags: ["cdr", "making-of", "directory", "methodology", "captain-history"]
 categories: ["making-of"]
 cover:
   image: "/charts/directory-pathway-focus-alluvial.png"

@@ -2,7 +2,7 @@
 title: "What 900 carbon-removal social-media posts told me about engagement"
 date: 2026-05-12T20:00:00+02:00
 slug: "what-900-cdr-posts-told-me-about-engagement"
-tags: ["priority", "manual_inject", "social-media", "research"]
+tags: ["priority", "manual_inject", "social-media", "research", "captain-history"]
 content_type: "type3_long_form"
 cover:
   image: "/images/posts/2026-05-12-900-cdr-engagement-study.png"
