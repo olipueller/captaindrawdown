@@ -1,6 +1,6 @@
 ---
 title: "The active core of CDR research is a third of the head-count"
-date: 2026-07-12T19:17:42.870181+02:00
+date: 2026-07-13T09:15:20.074272+02:00
 slug: "census-active-core-workforce"
 tags: ["cdr", "census", "research", "dataviz"]
 content_type: "type5_handwritten"
@@ -13,8 +13,8 @@ cover:
   hidden: false
 ---
 
-The CDR Researcher Census counts 88,708 people. In 2025, 32,185 of them
-published a carbon-removal paper. The other 56,523 - nearly two-thirds -
+The CDR Researcher Census counts 88,708 people. In 2025, 32,047 of them
+published a carbon-removal paper. The other 56,661 - nearly two-thirds -
 did not. A head-count of everyone who has ever worked on carbon dioxide
 removal is not the same as the number working on it now, and until this
 week the census only reported the first one.
@@ -28,7 +28,7 @@ field looks like this:
 ![CDR researcher trajectories, all pathways, 2021-2025](/charts/census-trajectory-all.png)
 
 The top envelope is the number that matters: researchers actually
-publishing that year. It grew from 10,620 in 2021 to 32,185 in 2025 -
+publishing that year. It grew from 10,612 in 2021 to 32,047 in 2025 -
 three times larger in four years. That is the real growth of the CDR
 research workforce, and it is fast.
 
@@ -49,8 +49,8 @@ represents:
 
 ![Active researchers per pathway, 2025](/charts/census-active-by-pathway.png)
 
-Soil Carbon dominates in absolute terms - 15,849 active researchers, more
-than the other six pathways combined - because it sits closest to
+Soil Carbon dominates in absolute terms - 15,794 active researchers, nearly
+half the entire active workforce and more than double the next pathway - because it sits closest to
 mainstream agronomy and soil science. But look at the shares. Direct air
 capture retains only 29% of its all-time members as active in 2025, the
 lowest of any pathway: a lot of people published one DAC paper and left.
@@ -70,7 +70,7 @@ month.
 
 The headline "88,708 researchers" is not wrong, but it answers the wrong
 question. If you want to know how much scientific capacity carbon removal
-actually commands right now, the answer is 32,185 and climbing - and the
+actually commands right now, the answer is 32,047 and climbing - and the
 climb, not the cumulative pile, is the thing worth watching.
 
 *Data: the July 2026 CDR Researcher Census. Active = ≥1 CDR-relevant paper

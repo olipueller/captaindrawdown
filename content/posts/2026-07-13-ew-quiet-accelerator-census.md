@@ -1,6 +1,6 @@
 ---
 title: "Enhanced weathering: the quiet accelerator"
-date: 2026-07-12T19:17:42.823337+02:00
+date: 2026-07-13T09:15:20.027833+02:00
 slug: "ew-quiet-accelerator-census"
 tags: ["cdr", "enhanced-weathering", "census", "research"]
 content_type: "type5_handwritten"
@@ -21,15 +21,15 @@ fastest-growing research fronts in the entire field, and almost nobody
 outside it is watching.
 
 Counting papers the census surfaced from OpenAlex and classified as
-carbon-removal-relevant, enhanced weathering runs 139 papers in 2022, 179
-in 2023, 268 in 2024, and 407 in 2025 - a near-tripling in three years
+carbon-removal-relevant, enhanced weathering runs 136 papers in 2022, 175
+in 2023, 264 in 2024, and 401 in 2025 - a near-tripling in three years
 (a factor of 2.9), and a plus-52-percent jump from 2024 to 2025 alone.
 Every year is bigger than the last, and the curve is steepening.
 
 ![Enhanced weathering papers per year, 2021 to 2026](/images/posts/ew-census-quiet-accelerator.png)
 
 2026 is indexed only through early July, so the last bar is a floor, not a
-full year. Annualised on the calendar it points to about 490 papers, and
+full year. Annualised on the calendar it points to about 480 papers, and
 indexing lag will push the final figure higher. The hatched part of the
 bar marks projection; the solid part is what is already counted.
 

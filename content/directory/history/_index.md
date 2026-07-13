@@ -80,6 +80,10 @@ Two readings combine into one picture. **The violin shape** tells you the size s
 
 The charts above track companies. This section tracks *people* — the researchers behind the science, from the [CDR Researcher Census](/cdr-researcher-census/). Each researcher is placed, year by year, above the line if they published a CDR-relevant paper that year (**active**) and below it if they did not (**dormant**, split by whether they published the year before). The top envelope is the real working research workforce each year; the pool below the line is the accumulation of one-paper-and-gone researchers. New entrants join at the base of the active band each year (teal block, no incoming ribbon).
 
+**Active researchers per pathway over time.** The current-state chart on the census page is the last point of these lines. Here is the whole run, 2021–2025, on a log scale so growth rates compare across pathways of very different size — soil carbon and biochar dwarf the rest in absolute terms, but direct air capture and ocean CDR have climbed the fastest.
+
+![Active CDR researchers per pathway, 2021–2025](/charts/census-active-by-pathway-timeseries.png)
+
 **All pathways combined** — the active workforce roughly tripled from 2021 to 2025, while the dormant pool grew faster underneath. For the current active workforce per pathway, see the [census page](/cdr-researcher-census/).
 
 ![Researcher trajectories, all pathways](/charts/census-trajectory-all.png)
