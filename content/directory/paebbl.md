@@ -34,6 +34,10 @@ Paebbl is a Dutch-Nordic climate-tech startup that permanently stores CO2 by min
 
 ## History
 
+- **2026-07-05** — news mention: Explainer: Mineralization is the CDR family that turns CO2 into solid carbonate rock. Once bonded in ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpusg7voq42k))
+- **2026-07-05** — news mention: Good point. The airborne fraction has held near 44% for decades, but recent years show wobble. If la ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpufpr4arw2b))
+- **2026-07-01** — news mention: Negative Emissions Platform: 📈 CDR Momentum, Edition 1 NEP Members are at the heart of this month's  ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7477687816446128129/))
+- **2026-06-29** — news mention: Paebbl Launches The World’s First Carbon-Negative Construction Material ([source](https://carbonherald.com/paebbl-launches-the-worlds-first-carbon-negative-construction-material/?utm_source=rss&utm_medium=rss&utm_campaign=paebbl-launches-the-worlds-first-carbon-negative-construction-material))
 - **2026-05-11** — news mention: Holcim Deploys Carbon-Storing Concrete Technology In Commercial Project ([source](https://carbonherald.com/holcim-deploys-carbon-storing-concrete-technology-in-commercial-project/?utm_source=rss&utm_medium=rss&utm_campaign=holcim-deploys-carbon-storing-concrete-technology-in-commercial-project))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot

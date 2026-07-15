@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Singapore</td></tr>
   <tr><th>Website</th><td><a href="https://www.huskventures.com/" target="_blank" rel="noopener">https://www.huskventures.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/huskventures/" target="_blank" rel="noopener">huskventures — 4,076 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~40 (+18% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,8 @@ HUSK is a biochar producer headquartered in Singapore with operations in Cambodi
 
 ## History
 
+- **2026-07-13** — news mention: Since you have demonstrated how ignorant you are with your bachelor's from an Ivy League school has  ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mqjl5patac2k))
+- **2026-07-10** — news mention: Shoosmiths To Invest In HUSK Biochar Credits Via Carbonaires ([source](https://carbonherald.com/shoosmiths-to-invest-in-husk-biochar-credits-via-carbonaires/?utm_source=rss&utm_medium=rss&utm_campaign=shoosmiths-to-invest-in-husk-biochar-credits-via-carbonaires))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.atmosfair.de/en/cambodia-biochar-rice-husks/))

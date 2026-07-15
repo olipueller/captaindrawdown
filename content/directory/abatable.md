@@ -34,6 +34,7 @@ Abatable is a London-based carbon intelligence and procurement platform for the 
 
 ## History
 
+- **2026-07-10** — news mention: Greenhouses in hot-desert climates deliver high yields with minimal water and land footprint but are ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mqchlbizt22k))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot

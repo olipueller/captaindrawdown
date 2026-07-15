@@ -30,6 +30,11 @@ reCap Carbon Inc. is a US-based climate-tech company that converts municipal yar
 
 ## History
 
+- **2026-07-08** — news mention: Durable CDR Market Recap: June 2026 - Key Deals & Trends | CDR.fyi  Isometric raised <strong>$40 mil ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mq4n2me7ua2k))
+- **2026-07-07** — news mention: Durable CDR Market Recap: June 2026 — Key Deals & Trends | CDR.fyi ([source](https://www.cdr.fyi/blog/cdr-monthly-recap-june-2026))
+- **2026-07-07** — news mention: Let That Sink In: The Carbon Gap CDR Recap | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7479858239837306880/))
+- **2026-07-04** — news mention: Svante – Weekly Recap - TipRanks.com ([source](https://www.tipranks.com/news/private-companies/svante-weekly-recap-3))
+- **2026-06-24** — news mention: CRRA recap | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7475122909817217024/))
 - **2026-06-09** — news mention: Reading about carbon removal is one thing. Seeing it firsthand is another.  Thanks to Climate Impact ([source](https://x.com/CharmIndustrial/status/2064346783246155824))
 - **2026-05-13** — news mention: Bedrock Initiative | Cascade Climate  https://t.co/vIT8uJlR4E https://t.co/ga1jN7LQEo ([source](https://x.com/CaptainDrawdown/status/2054428928710697108))
 - **2026-05-13** — news mention: Durable CDR Market Recap: April 2026 - Key Deals &amp; Trends  CDR.fyi's April 2026 recap logs rough ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mlpqfxxx2c2m))

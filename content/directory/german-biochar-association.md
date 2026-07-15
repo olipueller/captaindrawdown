@@ -30,6 +30,9 @@ German Biochar e.V. was founded in 2017, originally as the Fachverband Pflanzenk
 
 ## History
 
+- **2026-07-02** — news mention: #biocharinaction #germanbiochar #ecolocked #bergerbeton #carbonremoval #nachhaltigesbauen #co2speich ([source](https://www.linkedin.com/feed/update/urn:li:share:7478326844803543043/))
+- **2026-07-01** — news mention: German Biochar e.V. (German Biochar Association): 🌱 𝗠𝗶𝘁𝗴𝗹𝗶𝗲𝗱𝗲𝗿𝘃𝗼𝗿𝘀𝘁𝗲𝗹𝗹𝘂𝗻𝗴: @[Arbeit in Selbsthilfe]( ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7476272902544289792/))
+- **2026-06-24** — news mention: CDR - Experience Tour 2026 | German Biochar e.V. (German Biochar Association) ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473730588957544448/))
 - **2026-06-10** — news mention: #cdr #bmukn #lne #germanbiochar #novocarbo #carbonfuture #dvne #klimaschutz | German Biochar e.V. (G ([source](https://www.linkedin.com/feed/update/urn:li:share:7470107511908614144/))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal

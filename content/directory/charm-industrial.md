@@ -45,6 +45,14 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-07-10** — news mention: We announced our Canadian expansion in January when we partnered with TD Bank. First move? Calgary S ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7480852216103337985/))
+- **2026-07-09** — news mention: What’s it really like to work at Charm?
+
+We asked our team one simple question:
+“What do you love mo ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7480524385112498176/))
+- **2026-07-03** — news mention: Happy 250th Independence Day from the Charm team.
+
+From the towering redwoods of the West to the lob ([source](https://www.linkedin.com/feed/update/urn:li:share:7478477576789970944/))
 - **2026-06-10** — news mention: JPMorgan Backs Carbon Removal Growth With New Charm Industrial Deal ([source](https://carboncredits.com/jpmorgan-backs-carbon-removal-growth-with-new-charm-industrial-deal/))
 - **2026-06-10** — news mention: There’s a difference between understanding carbon removal on paper and seeing it in person.
 

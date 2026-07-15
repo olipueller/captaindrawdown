@@ -40,6 +40,10 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-07-15** — refresh: coresignal
+- **2026-07-15** — refresh: coresignal
+- **2026-07-01** — news mention: Terradot: Last week, our team headed back to the Mississippi Delta to walk our US project sites toge ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7477431399520591872/))
+- **2026-06-26** — news mention: Proud to have Scott Fendorf, Terradot Co-Founder and Chief Scientist, joining this important convers ([source](https://www.linkedin.com/feed/update/urn:li:share:7475697416529264640/))
 - **2026-06-15** — refresh: coresignal
 - **2026-06-15** — refresh: coresignal
 - **2026-06-03** — news mention: #agtech #carbonremoval #enhancedrockweathering #terradot #climateaction #brazilagro | Terradot ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7467370840372793344/))

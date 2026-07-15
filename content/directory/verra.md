@@ -29,6 +29,17 @@ Verra is a Washington, DC-based nonprofit that operates the Verified Carbon Stan
 
 ## History
 
+- **2026-07-14** — news mention: Every nonvoter is a fossil fool!  This analysis found that 223 manufacturing and clean energy projec ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mqmd5gfjck2t))
+- **2026-07-13** — news mention: The voluntary carbon market is being pronounced dead again. Removals-only, we're told, is the only c ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mqivyvba372k))
+- **2026-07-12** — news mention: New carbon credit issuance supports sustainability: ministry - ANTARA News Kalimantan Selatan ([source](https://kalsel.antaranews.com/berita/525280/new-carbon-credit-issuance-supports-sustainability-ministry))
+- **2026-07-12** — news mention: New carbon credit issuance supports sustainability: ministry - ANTARA News ([source](https://en.antaranews.com/news/422305/new-carbon-credit-issuance-supports-sustainability-ministry))
+- **2026-07-11** — news mention: New carbon credit issuance supports sustainability: ministry - ANTARA News Jawa Timur ([source](https://jatim.antaranews.com/berita/1081115/new-carbon-credit-issuance-supports-sustainability-ministry))
+- **2026-07-10** — news mention: Verra Opens Consultation On Major Cookstove Methodology Overhaul ([source](https://carbonherald.com/verra-opens-consultation-on-major-cookstove-methodology-overhaul/?utm_source=rss&utm_medium=rss&utm_campaign=verra-opens-consultation-on-major-cookstove-methodology-overhaul))
+- **2026-07-03** — news mention: Carbon Credits and Clean Energy Certificates: Evolution, Integrity Reset and Prospects for a Rebound ([source](https://joseluischavezcalva.substack.com/p/carbon-credits-and-clean-energy-certificates))
+- **2026-06-30** — news mention: Groundwork BioAg Issues First Verra Verified Soil Carbon Credits in U.S. Milestone ([source](https://carboncredits.com/groundwork-bioag-issues-first-verra-verified-soil-carbon-credits-in-u-s-milestone/?utm_source=bluesky&utm_medium=social&utm_campaign=antonie.eurosky.social))
+- **2026-06-27** — news mention: Concorrente da Verra, Isometric capta R$ 210 milhões ([source](https://capitalreset.uol.com.br/empresas/concorrente-da-verra-isometric-capta-r-210-milhoes/))
+- **2026-06-25** — news mention: Groundwork BioAg Issues First Verified Carbon Credits Under Rootella Carbon® Program ([source](https://www.prnewswire.com/news-releases/groundwork-bioag-issues-first-verified-carbon-credits-under-rootella-carbon-program-302810838.html))
+- **2026-06-25** — news mention: Verra Inks Million-Dollar AI Overhaul To Slash Carbon Market Bureaucracy ([source](https://carbonherald.com/verra-inks-million-dollar-ai-overhaul-to-slash-carbon-market-bureaucracy/?utm_source=rss&utm_medium=rss&utm_campaign=verra-inks-million-dollar-ai-overhaul-to-slash-carbon-market-bureaucracy))
 - **2026-06-03** — news mention: Argentine Rainforest Province Wins Landmark Jurisdictional Certification From Verra ([source](https://carbonherald.com/argentine-rainforest-province-wins-landmark-jurisdictional-certification-from-verra/?utm_source=rss&utm_medium=rss&utm_campaign=argentine-rainforest-province-wins-landmark-jurisdictional-certification-from-verra))
 - **2026-05-28** — news mention: Durability is clean in principle: mineralized CO2 in basalt is fixed within ~2 years. The qualifier  ([source](https://x.com/CaptainDrawdown/status/2059892651575439562))
 - **2026-05-28** — news mention: Explainer: Direct Air Capture pulls CO2 out of ambient air at ~425 ppm, which is why it's energy-int ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmvh6b44x32b))
@@ -48,7 +59,6 @@ Verra is a Washington, DC-based nonprofit that operates the Verified Carbon Stan
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://verra.org/verra-launches-updated-landmark-standard-with-communities-at-its-core/))
 - **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://verra.org/))
-- **2026-04-18** — discovered via: news_feed ([source](https://carbonherald.com/verra-updates-article-6-and-corsia-label-guidance-releases-new-tool-for-credit-buyers/))
 
 ---
 

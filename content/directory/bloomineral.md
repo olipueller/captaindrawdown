@@ -36,6 +36,8 @@ Bloomineral is a French climate deeptech startup spun out of Marble studio and h
 
 ## History
 
+- **2026-07-15** — refresh: coresignal
+- **2026-07-15** — refresh: coresignal
 - **2026-06-15** — refresh: coresignal
 - **2026-06-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot

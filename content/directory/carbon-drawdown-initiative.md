@@ -30,6 +30,18 @@ Carbon Drawdown Initiative GmbH is a philanthropically-funded German organizatio
 
 ## History
 
+- **2026-07-09** — news mention: ERW is moving fast – from academic trials to real-world commercial deployments in just a few years.
+ ([source](https://www.linkedin.com/feed/update/urn:li:share:7480969674239705088/))
+- **2026-07-01** — news mention: The Carbon Drawdown Symposium brought together some of the sharpest minds in permanent carbon remova ([source](https://www.linkedin.com/feed/update/urn:li:share:7478076380895858688/))
+- **2026-07-01** — news mention: Negative Emissions Platform: 📈 CDR Momentum, Edition 1 NEP Members are at the heart of this month's  ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7477687816446128129/))
+- **2026-06-24** — news mention: Where does CDR in Germany stand in the world?
+
+Germany’s minister for the environment wants Germany  ([source](https://www.linkedin.com/feed/update/urn:li:share:7475533246311874561/))
+- **2026-06-24** — news mention: #cdrexperiencetour #carbondioxideremoval #cdr #klimaforschung | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473707417059467264/))
+- **2026-06-24** — news mention: With 42.8 °C room temperature our greenhouse was the final and likely the hottest stop of the CDR Ex ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473767687203008512/))
+- **2026-06-24** — news mention: Last week we hosted the Carbon Drawdown Symposium in Erlangen.
+
+Researchers spent two days stress-te ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7475206295755698177/))
 - **2026-06-11** — news mention: One week until the Carbon Drawdown Symposium.
 
 On 16 June, we will open our measurement dataset on e ([source](https://www.linkedin.com/feed/update/urn:li:share:7470459956933263360/))
@@ -61,13 +73,6 @@ One of our interns just wrapped u ([source](https://www.linkedin.com/feed/update
 - **2026-05-01** — refresh: screenshot
 - **2026-04-28** — news mention: We Built an AI Influencer. It Nearly Worked. ([source](https://captaindrawdown.com/posts/captain-v1-nearly-worked))
 - **2026-04-27** — news mention: Announcing Carbon Drawdown Symposium 2026 &mdash; Carbon Drawdown Initiative ([source](https://www.carbon-drawdown.de/blog/2026-4-24-announcing-carbon-drawdown-symposium-2026))
-- **2026-04-27** — news mention: After three years, 400 pots, and over 1,000 soil samples – the results are almost in. On 16–17 June, ([source](https://www.linkedin.com/feed/update/urn:li:share:7454514910442614784/))
-- **2026-04-27** — news mention: Carbon Drawdown Symposium 2026 | Carbon Drawdown Symposium 2026 ([source](https://events.carbon-drawdown.de/a/carbon-drawdown-symposium-2026))
-- **2026-04-27** — news mention: Climate scientists are raising the volume while CDR debates procurement plumbing.  @leonsimons point ([source](https://x.com/CaptainDrawdown/status/2048628779937853805))
-- **2026-04-23** — news mention: At Carbon Drawdown Initiative we&amp;#39;ve spent years asking one question: is the carbon we think  ([source](https://www.linkedin.com/feed/update/urn:li:share:7452702969524838400/))
-- **2026-04-22** — news mention: A question I keep coming back to: are the numbers we report actually measuring what we think they ar ([source](https://x.com/dpaessler/status/2046937273048989752))
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=ecosystem liveliness=🟢 Active ([source](https://www.carbon-drawdown.de/who))
 
 ---
 

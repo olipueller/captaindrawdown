@@ -29,6 +29,11 @@ Frontier Climate is an advance market commitment (AMC) that aggregates buyer dem
 
 ## History
 
+- **2026-07-02** — news mention: Frontier Climate - Wikipedia ([source](https://en.wikipedia.org/wiki/Frontier_Climate))
+- **2026-06-30** — news mention: Based on data from May, the French people appear to not intend to stop purchasing ICE vehicles until ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mpizwtko6k2b))
+- **2026-06-23** — news mention: Frontier Climate adds Anthropic to buyers group, makes new financing pledge | Utility Dive ([source](https://www.utilitydive.com/news/frontier-climate-adds-anthropic-to-CDR-buyers-group-makes-new-financing-pledge/823511/))
+- **2026-06-23** — news mention: Frontier Climate adds Anthropic to buyers group, makes new financing pledge | ESG Dive ([source](https://www.esgdive.com/news/frontier-climate-adds-anthropic-to-CDR-buyers-group-makes-new-financing-pledge/823407/))
+- **2026-06-23** — news mention: Are We Too Obsessed With Carbon Accounting? ([source](https://heatmap.news/sustainability/net-zero-backlash))
 - **2026-05-13** — news mention: What 900 carbon-removal social-media posts told me about engagement ([source](https://captaindrawdown.com/posts/what-900-cdr-posts-told-me-about-engagement/))
 - **2026-05-13** — news mention: Bedrock Initiative | Cascade Climate  https://t.co/vIT8uJlR4E https://t.co/ga1jN7LQEo ([source](https://x.com/CaptainDrawdown/status/2054428928710697108))
 - **2026-05-13** — news mention: Durable CDR Market Recap: April 2026 - Key Deals &amp; Trends  CDR.fyi's April 2026 recap logs rough ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mlpqfxxx2c2m))

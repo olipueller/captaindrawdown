@@ -42,6 +42,14 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-07-05** — news mention: Read the full story 👇 https://t.co/uEZwn4pMNd ([source](https://x.com/CekirdekGLOBAL/status/2073667715387052204))
+- **2026-07-01** — news mention: #canadaday #carbonremoval #enhancedrockweathering #climatesolutions #netzero #undocarbon #cdr #clima ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7477740297943441409/))
+- **2026-06-29** — news mention: #londonclimateactionweek #climateaction #netzero #carbonremoval | Climeworks ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7477266874024620032/))
+- **2026-06-27** — news mention: #carbonremoval #netzero #climateaction #lcaw26 | Climeworks ([source](https://www.linkedin.com/feed/update/urn:li:share:7476251313849311232/))
+- **2026-06-24** — news mention: #carbondioxideremoval #cdrterra #carbondioxideremoval #cdr #climateresearch #netzero #beccs #daccs # ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7475555039118417921/))
+- **2026-06-24** — news mention: #londonclimateactionweek #lcaw2026 #climateaction #carbonmarkets #sustainability #climatesolutions # ([source](https://www.linkedin.com/feed/update/urn:li:share:7474809515964723200/))
+- **2026-06-24** — news mention: #cdrexperiencetour #carbondioxieremoval #cdr #netzero #climateaction | Deutscher Verband für negativ ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473732709928984576/))
+- **2026-06-24** — news mention: #sbti #netzero #corporateclimate #decarbonization #industrialdecarbonization | Carbon Direct ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7474902750884188160/))
 - **2026-06-10** — news mention: #carbonremoval #netzero #canada #event | Climeworks ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7470375845363331072/))
 - **2026-06-08** — news mention: #biochar #carbonremoval #cdr #biocharsummit #netzero | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:share:7469730049823244288/))
 - **2026-05-29** — news mention: #tocw #carbonremoval #netzero | Climeworks ([source](https://www.linkedin.com/feed/update/urn:li:share:7465750358603264000/))

@@ -34,6 +34,12 @@ Ucaneo is a Berlin-based direct air capture startup developing a biomimetic elec
 
 ## History
 
+- **2026-07-09** — news mention: Ucaneo Inaugurates Germany's Largest DAC Facility ([source](https://www.process-worldwide.com/ucaneo-inaugurates-germanys-largest-dac-facility-a-91443e483c1f5e73a90a0052f81d4a75/))
+- **2026-07-03** — news mention: Ucaneo Inaugurates Germany’s Largest Direct Air Capture Facility • CHEManager is the market-leading  ([source](https://chemanager-online.com/en/news/inauguration-of-germanys-largest-direct-air-capture-facility))
+- **2026-07-02** — news mention: Siemens und Ucaneo bringen Direct Air Capture auf kommerzielles Niveau ([source](https://prozesstechnik.industrie.de/dekarbonisierung/siemens-und-ucaneo-bringen-direct-air-capture-auf-kommerzielles-niveau/))
+- **2026-07-02** — news mention: Ucaneo Opens Germany’s Largest DAC Plant ([source](https://carbonherald.com/ucaneo-opens-germanys-largest-dac-plant/?utm_source=rss&utm_medium=rss&utm_campaign=ucaneo-opens-germanys-largest-dac-plant))
+- **2026-06-26** — news mention: Siemens and Ucaneo Partnership to Scale Direct Air Capture ([source](https://www.ien.eu/article/siemens-and-ucaneo-partnership-to-scale-direct-air-capture/))
+- **2026-06-25** — news mention: Siemens and Ucaneo partner to scale direct air capture | Press | Company | Siemens ([source](https://press.siemens.com/global/en/pressrelease/siemens-and-ucaneo-partner-scale-direct-air-capture))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://aramcoventures.com/news/aramco-ventures-joins-ucaneos-seed-funding-round-to-build-germanys-largest-direct-air-capture/))

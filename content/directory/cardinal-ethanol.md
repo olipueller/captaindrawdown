@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.cardinalethanol.com/" target="_blank" rel="noopener">https://www.cardinalethanol.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cardinal-ethanol-llc/" target="_blank" rel="noopener">cardinal-ethanol-llc — 637 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~65 (+16% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -29,6 +29,7 @@ Cardinal Ethanol is an Indiana-based corn ethanol producer (roughly 135-140 mill
 
 ## History
 
+- **2026-07-04** — news mention: First Indiana Carbon Capture And Storage Project Approved, 44.01 Begins Development ([source](https://carbonherald.com/first-indiana-carbon-capture-and-storage-project-approved/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://www.prnewswire.com/news-releases/vault-44-01-to-construct-first-ccs-project-in-indiana-with-epa-class-vi-permit-approval-302737596.html))

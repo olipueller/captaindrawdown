@@ -35,6 +35,7 @@ Perennial (formerly Cloud Agronomics) is a Boulder, Colorado-based MRV company f
 
 ## History
 
+- **2026-07-09** — news mention: Perennial’s New Peer-Reviewed Study Supports Digital Soil Mapping As Reliable MMRV For Soil Carbon ([source](https://carbonherald.com/perennials-new-peer-reviewed-study-supports-digital-soil-mapping-as-reliable-mmrv-for-soil-carbon/?utm_source=rss&utm_medium=rss&utm_campaign=perennials-new-peer-reviewed-study-supports-digital-soil-mapping-as-reliable-mmrv-for-soil-carbon))
 - **2026-05-19** — news mention: Stress-testing our own ERW data - forwards, backwards, upside down. Now you can do it too!
 
 In Enhan ([source](https://www.linkedin.com/feed/update/urn:li:share:7462163255784992768/))

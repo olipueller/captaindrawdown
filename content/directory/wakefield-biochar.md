@@ -34,6 +34,8 @@ Wakefield BioChar (Wakefield Agricultural Carbon LLC) is a US family-owned bioch
 
 ## History
 
+- **2026-07-14** — news mention: Wakefield Biochar Facility 4 - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/wakefield-biochar-facility-4/))
+- **2026-07-04** — news mention: Most of the opposition to Carbon Dioxide Removal from climate action advocates is because of the fra ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mptrrjk5zs2h))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://wakefieldbiochar.com/our-story/))

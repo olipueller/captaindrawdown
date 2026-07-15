@@ -34,6 +34,7 @@ Indigo Ag is a US-based sustainable agriculture company whose core business is b
 
 ## History
 
+- **2026-06-24** — news mention: The $1.47 Billion Promise of Carbon Farming — But Is It Too Good to Be True? ([source](https://blog.bccresearch.com/the-1.47-billion-promise-of-carbon-farming))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Afforestation focus=side_business liveliness=🟢 Active ([source](https://www.indigoag.com/pages/news/indigo-surpasses-2-million-metric-tons-of-verified-soil-carbon-impact-with-fifth-credit-issuance))

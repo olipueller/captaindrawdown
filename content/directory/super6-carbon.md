@@ -5,7 +5,7 @@ type: "directory"
 description: "Aggregates concentrated biogenic CO2 streams at CO2 transload hubs and delivers them to Class VI injection wells (e.g. ADM's Decatur site) for permanent geological storage, generating CDR credits."
 url: "/directory/super6-carbon/"
 pathway: "BECCS"
-liveliness: "🟡 Moderate"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.super6carbon.com/" target="_blank" rel="noopener">https://www.super6carbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/super6-carbon-inc/" target="_blank" rel="noopener">super6-carbon-inc — 113 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
   <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,6 +31,7 @@ Super6 Carbon is a U.S. engineered-CDR project developer that aggregates concent
 
 ## History
 
+- **2026-07-15** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://carbonherald.com/adm-teams-up-with-super6-carbon-to-monetise-carbon-removal-at-decatur-site/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://carbonherald.com/adm-teams-up-with-super6-carbon-to-monetise-carbon-removal-at-decatur-site/))

@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Israel</td></tr>
   <tr><th>Website</th><td><a href="https://groundworkbioag.com/" target="_blank" rel="noopener">https://groundworkbioag.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/groundwork-bioagriculture/" target="_blank" rel="noopener">groundwork-bioagriculture — 8,293 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~53 (+10% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -31,6 +31,14 @@ Groundwork BioAg is an Israeli bioagriculture company headquartered in Mazor tha
 
 ## History
 
+- **2026-07-14** — news mention: Groundwork BioAg Partners With Syngenta To Market Mycorrhiza-Based Soil Solutions ([source](https://carbonherald.com/groundwork-bioag-partners-with-syngenta-to-market-mycorrhiza-based-soil-solutions/?utm_source=rss&utm_medium=rss&utm_campaign=groundwork-bioag-partners-with-syngenta-to-market-mycorrhiza-based-soil-solutions))
+- **2026-07-01** — news mention: Groundwork BioAg Issues First Soil Carbon Credits | ESG News.earth ([source](https://www.esgnews.earth/latest-news/groundwork-bioag-issues-first-soil-carbon-credits/20330.html))
+- **2026-06-30** — news mention: In potential #CDR news related to sargassum, validated performance of the amendment positions SeaGre ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mpjkcu2drk2b))
+- **2026-06-30** — news mention: Groundwork BioAg Issues First Verra Verified Soil Carbon Credits in U.S. Milestone ([source](https://carboncredits.com/groundwork-bioag-issues-first-verra-verified-soil-carbon-credits-in-u-s-milestone/?utm_source=bluesky&utm_medium=social&utm_campaign=antonie.eurosky.social))
+- **2026-06-30** — news mention: Located on the Perdue Farms campus in Lewiston, North Carolina. This plant captures CO₂ using Pixie  ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mpjirpri2k2b))
+- **2026-06-26** — news mention: Groundwork BioAg Issues First Verified Carbon Credits Under Rootella Carbon® Program in the United S ([source](https://www.global-agriculture.com/biologicals/groundwork-bioag-issues-first-verified-carbon-credits-under-rootella-carbon-program-in-the-united-states/))
+- **2026-06-25** — news mention: Groundwork BioAg Issues First Verified Carbon Credits Under Rootella Carbon® Program ([source](https://www.prnewswire.com/news-releases/groundwork-bioag-issues-first-verified-carbon-credits-under-rootella-carbon-program-302810838.html))
+- **2026-06-25** — news mention: Groundwork BioAg Issues First Verified Credits From Its Rootella Carbon® Program ([source](https://carbonherald.com/groundwork-bioag-issues-first-verified-credits-from-its-rootella-carbon-program/?utm_source=rss&utm_medium=rss&utm_campaign=groundwork-bioag-issues-first-verified-credits-from-its-rootella-carbon-program))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Afforestation focus=side_business liveliness=🟢 Active ([source](https://groundworkbioag.com/))

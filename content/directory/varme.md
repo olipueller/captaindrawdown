@@ -5,7 +5,7 @@ type: "directory"
 description: "Waste-to-energy combustion of municipal solid waste with amine-based post-combustion carbon capture and geological storage in Alberta's deep saline aquifers, generating BECCS credits from the"
 url: "/directory/varme/"
 pathway: "BECCS"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.varme.ca/" target="_blank" rel="noopener">https://www.varme.ca/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/varme-energy/" target="_blank" rel="noopener">varme-energy — 3,932 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~12 (-8% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,9 @@ Varme Energy is a Canadian developer (subsidiary of Norway's Varme Energy AS) bu
 
 ## History
 
+- **2026-07-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://esgnews.com/carbon-direct-varme-energy-partner-on-canadas-first-waste-to-energy-with-carbon-capture-project/))
+- **2026-06-29** — news mention: Varme Energy and Torchlight Face Project Cancellations Following Revised Federal and Alberta Industr ([source](https://biochartoday.com/news/varme-energy-and-torchlight-face-project-cancellations-following-revised-federal-and-alberta-industrial-carbon-tax-agreement/))
+- **2026-06-27** — news mention: 1,100 Jobs at Risk as Alberta Carbon Price Deal Undercuts ‘Shovel-Ready’ Waste-to-Energy Project ([source](https://www.theenergymix.com/1100-jobs-at-risk-as-alberta-carbon-price-deal-undercuts-shovel-ready-waste-to-energy-project/))
 - **2026-06-15** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://esgnews.com/carbon-direct-varme-energy-partner-on-canadas-first-waste-to-energy-with-carbon-capture-project/))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://esgnews.com/carbon-direct-varme-energy-partner-on-canadas-first-waste-to-energy-with-carbon-capture-project/))
 - **2026-05-01** — refresh: screenshot

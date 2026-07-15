@@ -35,6 +35,13 @@ Supercritical is a London-based carbon removal marketplace that sources, vets, a
 
 ## History
 
+- **2026-07-01** — news mention: Negative Emissions Platform: 📈 CDR Momentum, Edition 1 NEP Members are at the heart of this month's  ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7477687816446128129/))
+- **2026-07-01** — news mention: Carbon Business Council: London Climate Action Week 2026 was a marquee event for the global carbon r ([source](https://www.linkedin.com/feed/update/urn:li:share:7477764172060139520/))
+- **2026-06-26** — news mention: #lcaw2026 #carbonremovallondon #cdr2030 | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7475875113821777920/))
+- **2026-06-26** — news mention: Carbon Removal London Event | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7475876915485224960/))
+- **2026-06-24** — news mention: #lcaw | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:share:7474837289572069377/))
+- **2026-06-24** — news mention: #londonclimateactionweek | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:share:7474794254196928513/))
+- **2026-06-24** — news mention: #climateweeknyc #carbonremoval #cdr #corcs #newyork #purocdrsummit | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:share:7473721490056609793/))
 - **2026-06-06** — news mention: BHEL gains on bagging Rs 21,000-crore EPC order for Meja supercritical power project | Capital Marke ([source](https://www.business-standard.com/markets/capital-market-news/bhel-gains-on-bagging-rs-21-000-crore-epc-order-for-meja-supercritical-power-project-126060500355_1.html))
 - **2026-05-22** — news mention: Supercritical Partners With Varaha To Bring Distributed Biochar Credits To Market ([source](https://carbonherald.com/supercritical-partners-with-varaha-to-bring-distributed-biochar-credits-to-market/?utm_source=rss&utm_medium=rss&utm_campaign=supercritical-partners-with-varaha-to-bring-distributed-biochar-credits-to-market))
 - **2026-05-20** — news mention: The carbon removal market is entering a different phase.
@@ -60,7 +67,6 @@ The challenge is no longer just proving th ([source](https://www.linkedin.com/fe
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://gosupercritical.com/about-us))
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://gosupercritical.com/about-us))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

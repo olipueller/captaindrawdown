@@ -36,6 +36,9 @@ AEROC (Aeroc GmbH) is a Cologne, Germany-based startup founded in 2024 by Felix 
 
 ## History
 
+- **2026-07-15** — refresh: coresignal
+- **2026-07-15** — refresh: coresignal
+- **2026-06-26** — news mention: A Tour of Our CDR Greenhouse Experiment ([source](https://carbondrawdown.substack.com/p/a-tour-of-our-cdr-greenhouse-experiment))
 - **2026-06-15** — refresh: coresignal
 - **2026-06-15** — refresh: coresignal
 - **2026-05-01** — refresh: coresignal, screenshot

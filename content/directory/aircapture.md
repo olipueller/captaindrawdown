@@ -35,6 +35,7 @@ Aircapture, headquartered in Berkeley, CA, is a direct air capture company found
 
 ## History
 
+- **2026-06-25** — news mention: Aircapture's Patented Microwave Direct Air Capture Technology Wins Tencent CarbonX 2.0 Award ([source](https://www.prnewswire.com/news-releases/aircaptures-patented-microwave-direct-air-capture-technology-wins-tencent-carbonx-2-0-award-302809973.html))
 - **2026-05-12** — news mention: Aircapture and Almanac Beer Co. Launch World&#039;s First Commercial Beer Carbonated with CO₂ Captur ([source](https://renewable-carbon.eu/news/?p=176646))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.eznewswire.com/newsroom/aircapture-raises-50-million-in-series-a-financing-to-scale-modular-profitable-direct-air-capture-solution))

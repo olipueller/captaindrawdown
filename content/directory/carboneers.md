@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://www.carboneers.earth/" target="_blank" rel="noopener">https://www.carboneers.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ipcita/" target="_blank" rel="noopener">ipcita — 3,696 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~19 (+171% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Isometric</td></tr>
@@ -41,6 +41,8 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-07-01** — news mention: ClimeFi: Last week, @[ClimeFi](urn:li:organization:84962731) hosted two key events as part of @[Lond ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7477734405701292034/))
+- **2026-06-30** — news mention: Carbon Buyers Breakfast at the National Gallery | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7477379256109629440/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — nulled Coresignal enrichment — LLM-verified mismatch: Carboneers' actual LinkedIn slug is "dutchcarboneers" (nl.linkedin.com/company/dutchcarboneers). The slug "ipcita" does not correspond to Carboneers and has no apparent connection to the biochar CDR c

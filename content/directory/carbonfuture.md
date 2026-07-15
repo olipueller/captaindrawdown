@@ -36,6 +36,15 @@ Carbonfuture operates a digital Trust Infrastructure for durable carbon removal,
 
 ## History
 
+- **2026-07-15** — refresh: coresignal
+- **2026-07-15** — refresh: coresignal
+- **2026-07-13** — news mention: Welcome to the Carbonfuture team, Marc! | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7482345399618445313/))
+- **2026-07-03** — news mention: EU Mandates Vehicle Circularity | ESG News.earth ([source](https://www.esgnews.earth/latest-news/eu-mandates-vehicle-circularity/20353.html))
+- **2026-07-02** — news mention: Unlocking Sustainable Growth: How Green Buildings and Deep Decarbonization Redefine Corporate Real E ([source](https://industrylink.eu/unlocking-sustainable-growth-how-green-buildings-and-deep-decarbonization-redefine-corporate-real-estate-strategy/))
+- **2026-07-01** — news mention: Carbonfuture: Welcome to the coldest summer of your future. @[Robert Dornau](urn:li:person:ZkGAu5L8Z ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7477651697629118464/))
+- **2026-06-24** — news mention: Meet the Carbonfuture team at LCAW | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473313005624127490/))
+- **2026-06-24** — news mention: Arctic Carbon Visual | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7475477940915474432/))
+- **2026-06-24** — news mention: Beyond Carbon Credits: How KARBNZ Global Is Building a Natural Capital Platform Around Forests, Biom ([source](https://carboncredits.com/beyond-carbon-credits-how-karbnz-global-is-building-a-natural-capital-platform-around-forests-biomass-and-biochar/))
 - **2026-06-15** — refresh: coresignal
 - **2026-06-15** — refresh: coresignal
 - **2026-06-11** — news mention: Aperam Site Visit | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7470409314663337984/))
@@ -57,8 +66,6 @@ Carbonfuture operates a digital Trust Infrastructure for durable carbon removal,
 - **2026-04-20** — news mention: Welcome to the team Tannis | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7451926822297944064/))
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.carbonfuture.com/2025-year-end-announcement))
-- **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.carbonfuture.earth/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

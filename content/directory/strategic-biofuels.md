@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://strategicbiofuels.com/" target="_blank" rel="noopener">https://strategicbiofuels.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/strategic-biofuels/" target="_blank" rel="noopener">strategic-biofuels — 2,157 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~12 (+33% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,7 @@ Strategic Biofuels is a US project development company building a flagship BECCS
 
 ## History
 
+- **2026-06-30** — news mention: Strategic Biofuels Secures Landmark Class VI Permit ([source](https://carbonherald.com/strategic-biofuels-secures-landmark-class-vi-permit/?utm_source=rss&utm_medium=rss&utm_campaign=strategic-biofuels-secures-landmark-class-vi-permit))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://strategicbiofuels.com/news/))

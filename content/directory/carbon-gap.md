@@ -34,6 +34,16 @@ Carbon Gap is Europe's leading carbon dioxide removal (CDR) advocacy and researc
 
 ## History
 
+- **2026-07-09** — news mention: EU Ocean Act response | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7480923948344487937/))
+- **2026-07-09** — news mention: EU CRCF Buyers Club | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7480543715246247936/))
+- **2026-07-07** — news mention: Let That Sink In: The Carbon Gap CDR Recap | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7479858239837306880/))
+- **2026-07-02** — news mention: LCAW Takeaways | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7478378832228687872/))
+- **2026-07-01** — news mention: Carbon Gap: Our own @[Francesca Battersby](urn:li:person:YHmf6ZNX5c) will be speaking on the @[Clean ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7477380235617865728/))
+- **2026-07-01** — news mention: Carbon Gap: Poland has significant untapped potential to deploy carbon dioxide removal \(CDR\) at sc ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7477700296836714497/))
+- **2026-06-26** — news mention: #lcaw2026 #carbonremovallondon #cdr2030 | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7475875113821777920/))
+- **2026-06-24** — news mention: Beyond emissions cuts: Italy&amp;#39;s carbon removal opportunity | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7472990680844410881/))
+- **2026-06-24** — news mention: CRRA recap | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7475122909817217024/))
+- **2026-06-24** — news mention: The design is in the details: What should national permanent CDR targets look like? | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7475483010792996864/))
 - **2026-06-11** — news mention: 👏 We&amp;#39;re delighted to welcome Kaj Seeger  to the Carbon Gap team as our new Advocacy Lead for ([source](https://www.linkedin.com/feed/update/urn:li:share:7470399615628980224/))
 - **2026-06-10** — news mention: Buyers Club carousel.pdf | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7470087058582171649/))
 - **2026-06-09** — news mention: EU Buyers&#039; Club - Carbon Gap - Policy Tracker ([source](https://tracker.carbongap.org/policy/eu-buyers-club/))
@@ -58,12 +68,6 @@ Over the two days, a lot of gr ([source](https://www.linkedin.com/feed/update/ur
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-04-25** — news mention: This Week in CDR - April 24, 2026 | CDR.fyi ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7453451962160734208/))
-- **2026-04-21** — news mention: New Report Signals CDR Integration Potential In European Wastewater, Concrete, And Mining Waste Sect ([source](https://carbonherald.com/new-report-signals-cdr-integration-potential-in-european-wastewater-concrete-and-mining-waste-sectors/?utm_source=rss&utm_medium=rss&utm_campaign=new-report-signals-cdr-integration-potential-in-european-wastewater-concrete-and-mining-waste-sectors))
-- **2026-04-20** — news mention: Italy Can Reach Net-Zero By 2050 If It Scales Its CDR Sector, Says New Carbon Gap & B3 Carbon Report ([source](https://carbonherald.com/italy-can-reach-net-zero-by-2050-if-it-scales-its-cdr-sector-says-new-carbon-gap-b3-carbon-report/?utm_source=rss&utm_medium=rss&utm_campaign=italy-can-reach-net-zero-by-2050-if-it-scales-its-cdr-sector-says-new-carbon-gap-b3-carbon-report))
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://carbongap.org/))
-- **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://carbongap.org/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

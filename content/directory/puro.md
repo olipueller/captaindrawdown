@@ -34,6 +34,16 @@ Puro.earth is a Finland-based carbon removal standard and registry, majority-own
 
 ## History
 
+- **2026-07-14** — news mention: Putrajaya I-CARE - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/putrajaya-i-care/))
+- **2026-07-14** — news mention: Wakefield Biochar Facility 4 - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/wakefield-biochar-facility-4/))
+- **2026-07-12** — news mention: Bukit Damar I-CARE - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/bukit-damar-i-care/))
+- **2026-07-03** — news mention: #carbonremoval #cdr #corcs #vcm #climateaction | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:share:7478432356945764353/))
+- **2026-07-02** — news mention: Nature & Biodiversity Pulse Newsletter: Tuesday June 30, 2026 « Carbon Pulse ([source](https://carbon-pulse.com/526679/))
+- **2026-06-27** — news mention: Carbon Removal Tracker ([source](https://www.removecarbontoday.com/pages/carbon-removal-tracker))
+- **2026-06-26** — news mention: #carbonremoval #cdr #japan #gxstrategy #carbonmanagement #corcs #biochar | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7475896601429983232/))
+- **2026-06-24** — news mention: Frontier Secures $915M in CDR Funding, ISO Releases Net Zero Standard | CDR.fyi posted on the topic  ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473739325042655232/))
+- **2026-06-24** — news mention: #climateweeknyc #carbonremoval #cdr #corcs #newyork #purocdrsummit | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:share:7473721490056609793/))
+- **2026-06-23** — news mention: Puro.earth’s Enhanced Rock Weathering Methodology Now Approved By Frontier ([source](https://carbonherald.com/puro-earths-enhanced-rock-weathering-methodology-now-approved-by-frontier/?utm_source=rss&utm_medium=rss&utm_campaign=puro-earths-enhanced-rock-weathering-methodology-now-approved-by-frontier))
 - **2026-06-11** — news mention: BECCS Kirkenær - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/beccs-kirkenaer/))
 - **2026-06-11** — news mention: Carbon Capture 2026, $41M Frontier Deal, DOE Risk - EnkiAI ([source](https://enkiai.com/carbon-capture/microalgae-dac-frontier-deal/))
 - **2026-06-09** — news mention: Thanks to Nasdaq for hosting Benjamin Schulz Altitude discussing the potential of large scale CDR fi ([source](https://www.linkedin.com/feed/update/urn:li:share:7469752168351424512/))
@@ -54,16 +64,6 @@ Puro.earth is a Finland-based carbon removal standard and registry, majority-own
 - **2026-05-20** — news mention: #crcf #carbonremoval #cdr #eupolicy #corcs #brussels | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:share:7462487248312238080/))
 - **2026-05-17** — news mention: CREW Carbon Secures $25M To Scale Its Wastewater Treatment Optimization Technology  CREW Carbon has  ([source](https://x.com/CaptainDrawdown/status/2055903220996714671))
 - **2026-05-17** — news mention: Canada has the geology to lead global CDR. Surficial mineralization in BC, Quebec, and the Prairies  ([source](https://x.com/CaptainDrawdown/status/2055877885995446668))
-- **2026-05-16** — news mention: Explainer: Biochar is the largest delivered CDR pathway today by tonnes issued on registries like ht ([source](https://x.com/CaptainDrawdown/status/2055544229963629021))
-- **2026-05-16** — news mention: Pathway 101: Biochar ([source](https://captaindrawdown.com/posts/pathway-101-biochar/))
-- **2026-05-16** — news mention: CDR finance split into two opposite plumbing problems this week.  On the supplier side, GFI deployed ([source](https://x.com/CaptainDrawdown/status/2055516084795478138))
-- **2026-05-13** — news mention: Meet the Carbonfuture team at these events in May! | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7459930827100082176/))
-- **2026-05-12** — news mention: Credible carbon removal markets require credible policy frameworks. Few know this better than Puro.e ([source](https://www.linkedin.com/feed/update/urn:li:share:7458114573884170241/))
-- **2026-05-12** — news mention: #sfclimateweek #climefi #carbonremoval | ClimeFi ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7457790217530531841/))
-- **2026-05-08** — news mention: Enhanced Rock Weathering - Puro.earth ([source](https://puro.earth/methodologies/enhanced-rock-weathering/))
-- **2026-05-07** — news mention: Introducing a new Puro.earth brand for a new era of engineered carbon dioxide removal - Puro.earth ([source](https://puro.earth/insights/post/introducing-a-new-puro-earth-brand-for-a-new-era-of-engineered-carbon-dioxide-removal/))
-- **2026-05-07** — news mention: NoviqTech Targets Data Centre Carbon Removal Demand with Coralia Biochar Strategy ([source](https://smallcaps.com.au/article/noviqtech-targets-data-centre-carbon-removal-demand-with-coralia-biochar-strategy))
-- **2026-05-05** — news mention: Inkoh, Puro.earth, Cula, and First Climate Demonstrate Scalable Carbon Removal at Climate Week Zuric ([source](https://biochartoday.com/news/inkoh-puro-earth-cula-and-first-climate-demonstrate-scalable-carbon-removal-at-climate-week-zurich/))
 
 ---
 

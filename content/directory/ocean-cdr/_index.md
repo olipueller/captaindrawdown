@@ -8,7 +8,7 @@ url: "/directory/ocean-cdr/"
 
 # Ocean CDR — 42 Companies Tracked
 
-**Market pulse for Ocean CDR (updated 2026-06-15).**
+**Market pulse for Ocean CDR (updated 2026-07-15).**
 
 <div class="directory-stats">
   <div class="stat-box"><span class="num">42</span><span class="label">Companies</span></div>

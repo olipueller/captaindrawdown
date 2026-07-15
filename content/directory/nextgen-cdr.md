@@ -5,7 +5,7 @@ type: "directory"
 description: "Advance-market-commitment buyers' club / aggregator that purchases and retires certified durable CDRs on behalf of corporate member buyers across multiple pathways."
 url: "/directory/nextgen-cdr/"
 pathway: "Enabling Tech"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://nextgencdr.com/" target="_blank" rel="noopener">https://nextgencdr.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/nextgencdr/" target="_blank" rel="noopener">nextgencdr — 2,477 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~3 (-25% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -31,6 +31,8 @@ NextGen CDR is a buyers' club and advance-market-commitment facility jointly est
 
 ## History
 
+- **2026-07-15** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-07-01** — news mention: Carbon Business Council: London Climate Action Week 2026 was a marquee event for the global carbon r ([source](https://www.linkedin.com/feed/update/urn:li:share:7477764172060139520/))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot

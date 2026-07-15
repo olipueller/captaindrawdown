@@ -29,6 +29,7 @@ POET LLC is the world's largest bioethanol producer, headquartered in Sioux Fall
 
 ## History
 
+- **2026-07-02** — news mention: CDR: POLICIES AND ETHICS | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7478387791521959936/))
 - **2026-05-29** — news mention: It must be painful to share a story about a biofuels decarbonization project, but I know what a big  ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mmynkylfb22q))
 - **2026-05-27** — news mention: The hidden innovation behind Antora’s massive new heat battery ([source](https://www.canarymedia.com/articles/energy-storage/innovation-antora-massive-heat-battery))
 - **2026-05-01** — refresh: screenshot

@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Mineralization (Construction)</td></tr>
   <tr><th>Country</th><td>Kenya</td></tr>
   <tr><th>Website</th><td><a href="https://www.zencarbon.org/" target="_blank" rel="noopener">https://www.zencarbon.org/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/clitruct/" target="_blank" rel="noopener">clitruct — 399 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/clitruct/" target="_blank" rel="noopener">clitruct</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~6</td></tr>
+  <tr><th>Employees</th><td>~4 (+100% YoY)</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,6 +31,11 @@ ZEN Carbon is a Nairobi-based startup developing reactor-driven CO₂ mineraliza
 
 ## History
 
+- **2026-07-15** — refresh: coresignal
+- **2026-07-15** — refresh: coresignal
+- **2026-07-10** — news mention: History isn&amp;#39;t always written in books. Sometimes, it&amp;#39;s poured in concrete.
+For years ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7481265616910225408/))
+- **2026-07-09** — news mention: 🌍 We are proud to have unveiled Africa&amp;#39;s first real-world green concrete deployment, a full  ([source](https://www.linkedin.com/feed/update/urn:li:share:7480940632639864832/))
 - **2026-06-15** — refresh: coresignal
 - **2026-06-15** — refresh: coresignal
 - **2026-06-05** — news mention: The carbon removal ecosystem we imagined is beginning to take shape.

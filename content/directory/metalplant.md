@@ -5,7 +5,7 @@ type: "directory"
 description: "Grinds olivine and spreads it on serpentine soils in Albania where nickel-hyperaccumulator plants grow, co-producing ERW-based CDR and extracting nickel from plant biomass."
 url: "/directory/metalplant/"
 pathway: "Enhanced Weathering"
-liveliness: "🟡 Moderate"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://metalplant.com/" target="_blank" rel="noopener">https://metalplant.com/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -28,6 +28,7 @@ Metalplant is a US-domiciled startup with field operations in northern Albania t
 
 ## History
 
+- **2026-07-15** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://metalplant.com/))
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://metalplant.com/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot

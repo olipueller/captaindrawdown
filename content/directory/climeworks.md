@@ -47,6 +47,23 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-07-15** — refresh: coresignal
+- **2026-07-15** — refresh: coresignal
+- **2026-07-11** — news mention: #carbonremoval #climatesolutions #partnership #canada #event | Climeworks ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7481313249385336834/))
+- **2026-07-08** — news mention: RT @Climeworks: What makes carbon removal credible?  Meet our Science Team, the people assessing pro ([source](https://x.com/geoengineering1/status/2074892582723911959))
+- **2026-07-08** — news mention: Meet the Climeworks Solutions Team - Chief Commercial Officer Adrian Siegrist introduces the team |  ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7480231083280670720/))
+- **2026-07-02** — news mention: In-Depth Examination of Segments, Industry Trends, and Key Competitors in the Carbon Dioxide (CO2) U ([source](https://www.openpr.com/news/4566422/in-depth-examination-of-segments-industry-trends-and-key))
+- **2026-07-01** — news mention: Search for an open position at Climeworks! ([source](https://climeworks.com/careers-search))
+- **2026-06-30** — news mention: Based on data from May, the French people appear to not intend to stop purchasing ICE vehicles until ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mpizwtko6k2b))
+- **2026-06-30** — news mention: Climeworks Signs 14 Carbon Removal Deals Totaling 450,000 Tons in H1 2026 - ([source](https://www.esgtimes.in/climate/carbon/climeworks-signs-14-carbon-removal-deals-totaling-450000-tons-in-h1-2026/))
+- **2026-06-29** — news mention: #londonclimateactionweek #climateaction #netzero #carbonremoval | Climeworks ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7477266874024620032/))
+- **2026-06-27** — news mention: #carbonremoval #netzero #climateaction #lcaw26 | Climeworks ([source](https://www.linkedin.com/feed/update/urn:li:share:7476251313849311232/))
+- **2026-06-26** — news mention: Climeworks Signs 450,000 Tons of Carbon Removal Agreements - ESG Today ([source](https://www.esgtoday.com/climeworks-signs-450000-tons-of-carbon-removal-agreements/))
+- **2026-06-26** — news mention: Climeworks Solutions Secures 450,000 Tons of Diversified Carbon Removal Agreements with Major Global ([source](https://biochartoday.com/news/climeworks-solutions-secures-450000-tons-of-diversified-carbon-removal-agreements-with-major-global-corporations/))
+- **2026-06-26** — news mention: Carbon Capture news:  RenewCred, a climate-tech platform incorporated in Karnataka, India, has deplo ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mp7blqtxmc2q))
+- **2026-06-24** — news mention: Frontier Secures $915M in CDR Funding, ISO Releases Net Zero Standard | CDR.fyi posted on the topic  ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473739325042655232/))
+- **2026-06-23** — news mention: Climeworks Solutions Secures 14 Carbon Removal Deals Covering 450,000 Tons of CO2 Removal - ESG News ([source](https://esgnews.com/climeworks-solutions-secures-14-carbon-removal-deals-covering-450000-tons-of-co2-removal/))
+- **2026-06-23** — news mention: @CarbonMeld 450k tonnes across 14 buyers signals real portfolio behavior. Worth noting Climeworks it ([source](https://x.com/CaptainDrawdown/status/2069479305239806366))
 - **2026-06-15** — refresh: coresignal
 - **2026-06-15** — refresh: coresignal
 - **2026-06-11** — news mention: Deep Sky Carbon Capture 2026, 10k Tonnes, Microsoft - EnkiAI ([source](https://enkiai.com/carbon-capture/deep-sky-dac-td-bank/))
@@ -60,25 +77,6 @@ Independently verified by carbon-credit registries:
 - **2026-06-05** — news mention: Carbon Capture and Storage Equipment Market Set for Strong Growth at 10.2% CAGR by 2032 | Climeworks ([source](https://www.openpr.com/news/4539574/carbon-capture-and-storage-equipment-market-set-for-strong))
 - **2026-06-04** — news mention: Climeworks Solutions x InPlanet | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7467851045549850624/))
 - **2026-06-04** — news mention: 569 pure-play CDR companies. 9,499 employees. Under 17 people each on average.  This chart plots eve ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mnh2pifzv52o))
-- **2026-06-04** — news mention: 569 pure-play CDR companies. 9,499 employees. Under 17 people each on average.  This chart plots eve ([source](https://x.com/CaptainDrawdown/status/2062430529153020093))
-- **2026-06-04** — news mention: Graphyte just stacked something no DAC pure-play has: a Sumitomo balance sheet behind it AND a live  ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mngu5pzrfo2o))
-- **2026-06-03** — news mention: @PIK_Climate @xring59 Edenhofer's framing matters: CDR sits inside a strict carbon budget, not outsi ([source](https://x.com/CaptainDrawdown/status/2062281402750570911))
-- **2026-06-03** — news mention: CO2 removal grapples with funding and fragmentation issues | Carbon Dioxide | gasworld ([source](https://www.gasworld.com/story/co2-removal-grapples-with-funding-and-fragmentation-issues/2251239.article/))
-- **2026-06-02** — news mention: TD Signs Long-Term Carbon Removal Agreement with Climeworks - ESG Today ([source](https://www.esgtoday.com/td-signs-long-term-carbon-removal-agreement-with-climeworks/))
-- **2026-06-02** — news mention: Climeworks signs carbon credit deal with Canadian financial services firm | Carbon Capture | gasworl ([source](https://www.gasworld.com/story/climeworks-signs-carbon-credit-deal-with-canadian-financial-services-firm/2251085.article/))
-- **2026-06-02** — news mention: Climeworks Signs 10-Year Carbon Removal Deal With TD Bank - ESG News ([source](https://esgnews.com/climeworks-signs-10-year-carbon-removal-deal-with-td-bank/))
-- **2026-06-02** — news mention: Climeworks Locks In A 10-Year CDR Portfolio Deal With TD Bank ([source](https://carbonherald.com/climeworks-locks-in-a-10-year-cdr-portfolio-deal-with-td-bank/?utm_source=rss&utm_medium=rss&utm_campaign=climeworks-locks-in-a-10-year-cdr-portfolio-deal-with-td-bank))
-- **2026-06-01** — news mention: Climeworks Solutions signs 10-year CDR agreement with TD Bank ([source](https://climeworks.com/press-release/climeworks-solutions-signs-10-year-cdr-agreement-with-td-bank))
-- **2026-05-29** — news mention: Carbon removal is becoming a meaningful part of Canada’s climate and economic future.
-
-A new article ([source](https://www.linkedin.com/feed/update/urn:li:share:7466089962208153600/))
-- **2026-05-29** — news mention: #tocw #carbonremoval #netzero | Climeworks ([source](https://www.linkedin.com/feed/update/urn:li:share:7465750358603264000/))
-- **2026-05-28** — news mention: Explainer: Direct Air Capture pulls CO2 out of ambient air at ~425 ppm, which is why it's energy-int ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmvh6b44x32b))
-- **2026-05-23** — news mention: Fair point from Climeworks. Buyer concentration is the biggest risk to CDR scaling. A handful of tec ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmi5jrf54a2b))
-- **2026-05-22** — news mention: Climeworks CEO Says Carbon Removal Can’t Hinge on Microsoft ([source](https://www.bloomberg.com/news/newsletters/2026-05-22/climeworks-ceo-says-carbon-removal-can-t-hinge-on-microsoft?taid=6a106505a88c290001712522&utm_campaign=trueanthem&utm_content=climate&utm_medium=social&utm_source=twitter))
-- **2026-05-21** — news mention: Climeworks Adds Veteran CFO to Support Next Growth Phase - TipRanks.com ([source](https://www.tipranks.com/news/private-companies/climeworks-adds-veteran-cfo-to-support-next-growth-phase))
-- **2026-05-19** — news mention: Post 1: 569 pure-play CDR companies, ~9,500 people total. This chart plots every one as a dot: found ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mm6tcfptlw27))
-- **2026-05-19** — news mention: Prediction: within 90 days, expect at least 3 more durable-CDR suppliers to announce 'industry-integ ([source](https://x.com/CaptainDrawdown/status/2056602096242180202))
 
 ---
 

@@ -30,6 +30,8 @@ CO₂RE is the UK's national research hub on Greenhouse Gas Removal, led by the 
 
 ## History
 
+- **2026-07-12** — news mention: Lucky second choice on today's #Wordle 1,849 5/6*  ⬜🟨⬜⬜⬜ ⬜⬜🟩🟩🟩 ⬜🟩🟩🟩🟩 ⬜🟩🟩🟩🟩 🟩🟩🟩🟩🟩 ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mqh6prd6ws2k))
+- **2026-07-08** — news mention: Did you miss our recent "Reclaiming Hope, Removing Carbon" event at the University of Bristol Botani ([source](https://bsky.app/profile/co2rehub.bsky.social/post/3mq4znapspc2c))
 - **2026-06-09** — news mention: We're delighted to share the full programme for our "Reclaiming Hope, Removing Carbon" event! Take a ([source](https://bsky.app/profile/co2rehub.bsky.social/post/3mnu27gurlu27))
 - **2026-06-02** — news mention: Our Reclaiming Hope, Removing Carbon event is next week! Book your free ticket now to see work from  ([source](https://bsky.app/profile/co2rehub.bsky.social/post/3mnc5ozt6i227))
 - **2026-06-01** — news mention: 10 days until "Reclaiming Hope, Removing Carbon"! Reserve your FREE ticket to see work from our 7 CO ([source](https://bsky.app/profile/co2rehub.bsky.social/post/3mnad6dbams2s))

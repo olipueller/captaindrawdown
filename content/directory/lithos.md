@@ -44,6 +44,11 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-07-15** — refresh: coresignal
+- **2026-07-15** — refresh: coresignal
+- **2026-06-26** — news mention: Wiemy jak usunąć CO2 z powietrza. Wykorzystamy do tego skały – Adrian Podgórny (Green Sequest) ([source](https://mamstartup.pl/wiemy-jak-usunac-co2-z-powietrza-wykorzystamy-do-tego-skaly-adrian-podgorny-green-sequest/))
+- **2026-06-26** — news mention: A Tour of Our CDR Greenhouse Experiment ([source](https://carbondrawdown.substack.com/p/a-tour-of-our-cdr-greenhouse-experiment))
+- **2026-06-24** — news mention: Frontier AMC Expands with New Growth Partnerships | Lithos Carbon posted on the topic | LinkedIn ([source](https://www.linkedin.com/feed/update/urn:li:share:7473530006678188032/))
 - **2026-06-15** — refresh: coresignal
 - **2026-06-15** — refresh: coresignal
 - **2026-05-27** — news mention: 🪨 Lithos has issued our first batch of Isometric-verified carbon removal credits from the earliest P ([source](https://www.linkedin.com/feed/update/urn:li:share:7465090193377681408/))

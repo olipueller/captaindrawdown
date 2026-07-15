@@ -31,6 +31,15 @@ Silicate is an Irish enhanced weathering CDR supplier headquartered at NovaUCD i
 
 ## History
 
+- **2026-07-15** — refresh: coresignal
+- **2026-07-15** — refresh: coresignal
+- **2026-07-10** — news mention: Right - DAC pulls CO2 straight from the air, unlike point-source CCS. Per Carbon Engineering's own p ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mqbomczamm2k))
+- **2026-07-09** — news mention: Meta-analysis of the agronomic Benefits | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7480971203046854657/))
+- **2026-07-05** — news mention: Explainer: Mineralization is the CDR family that turns CO2 into solid carbonate rock. Once bonded in ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpusg7voq42k))
+- **2026-07-05** — news mention: Good point. The airborne fraction has held near 44% for decades, but recent years show wobble. If la ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpufpr4arw2b))
+- **2026-06-30** — news mention: Clean power led 2025 supply growth per Carbon Brief. The CDR angle: every gigawatt of fossil generat ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpiox4r6eb26))
+- **2026-06-26** — news mention: Wiemy jak usunąć CO2 z powietrza. Wykorzystamy do tego skały – Adrian Podgórny (Green Sequest) ([source](https://mamstartup.pl/wiemy-jak-usunac-co2-z-powietrza-wykorzystamy-do-tego-skaly-adrian-podgorny-green-sequest/))
+- **2026-06-26** — news mention: A Tour of Our CDR Greenhouse Experiment ([source](https://carbondrawdown.substack.com/p/a-tour-of-our-cdr-greenhouse-experiment))
 - **2026-06-15** — refresh: coresignal
 - **2026-06-15** — refresh: coresignal
 - **2026-06-11** — news mention: @climatejesper.bsky.social is an isotope geochemist at @yalecncc.bsky.social. His research focuses o ([source](https://bsky.app/profile/davidho.bsky.social/post/3mnyxvgxubs2i))
@@ -52,11 +61,6 @@ Silicate is an Irish enhanced weathering CDR supplier headquartered at NovaUCD i
 - **2026-04-24** — news mention: Silicon to Silicate: Understanding the InPlanet-Microsoft Deal ([source](https://remineralize.org/2026/04/silicon-to-silicate-understanding-the-inplanet-microsoft-deal/))
 - **2026-04-22** — news mention: RT @Climate_of_apes: Stratospheric aerosol injection geoengineering has the potential to increase la ([source](https://x.com/geoengineering1/status/2046988170152366434))
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.silicatecarbon.com/))
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.silicatecarbon.com/))
-- **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.silicatecarbon.com/))
-- **2026-04-18** — news mention: Carbon Solution - The Portugal News ([source](https://www.theportugalnews.com/news/2026-04-18/carbon-solution/1007131))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

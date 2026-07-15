@@ -5,7 +5,7 @@ type: "directory"
 description: "greenSand mines, grinds and distributes olivine rock as a replacement for conventional sand and stone to drive enhanced rock weathering, selling both certified olivine products and ONCRA-certified"
 url: "/directory/greensand/"
 pathway: "Enhanced Weathering"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://greensand.com/en" target="_blank" rel="noopener">https://greensand.com/en</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/greensand/" target="_blank" rel="noopener">greensand — 1,468 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~5 (-17% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,9 @@ greenSand is a Netherlands-based enhanced rock weathering supplier in Enkhuizen,
 
 ## History
 
+- **2026-07-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://greensand.com/en/blogs/news/greensand-japan))
+- **2026-07-10** — news mention: Nuada deploys capture facility to advance Europe’s biogenic CO2 market | Carbon Capture | gasworld ([source](https://www.gasworld.com/story/nuada-deploys-capture-facility-to-advance-europes-biogenic-co2-market/2254113.article/))
+- **2026-06-23** — news mention: First biogenic CO2 rolls out of Denmark biogas CCS facility | Carbon Capture | gasworld ([source](https://www.gasworld.com/story/first-biogenic-co2-rolls-out-of-denmark-biogas-ccs-facility/2252852.article/))
 - **2026-06-15** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://greensand.com/en/blogs/news/greensand-japan))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://greensand.com/en/blogs/news/greensand-japan))
 - **2026-05-01** — refresh: screenshot

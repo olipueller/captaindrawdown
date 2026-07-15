@@ -30,6 +30,7 @@ Airhive, founded in 2022, is a UK-based DAC company developing a low-cost, energ
 
 ## History
 
+- **2026-07-14** — news mention: Airhive Acquires Carbyon to Forge European Direct Air Capture Powerhouse ([source](https://carbonherald.com/airhive-acquires-carbyon-to-forge-european-direct-air-capture-powerhouse/?utm_source=rss&utm_medium=rss&utm_campaign=airhive-acquires-carbyon-to-forge-european-direct-air-capture-powerhouse))
 - **2026-06-11** — news mention: Mission Zero, Airhive, Progressive Energy To Build World-Class DAC Plant In The UK ([source](https://carbonherald.com/mission-zero-airhive-progressive-energy-to-build-world-class-dac-plant-in-the-uk/?utm_source=rss&utm_medium=rss&utm_campaign=mission-zero-airhive-progressive-energy-to-build-world-class-dac-plant-in-the-uk))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://tracxn.com/d/companies/airhive/__58otEpxQIKuZ3IUk3wwzVyXRekF9iOrUoIuzs9evcG0))
 - **2026-05-01** — refresh: coresignal, screenshot

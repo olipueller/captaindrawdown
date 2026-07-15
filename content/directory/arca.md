@@ -33,6 +33,7 @@ Arca Climate Technologies is a UBC spin-off based in Vancouver that works in par
 
 ## History
 
+- **2026-07-03** — news mention: EU Mandates Vehicle Circularity | ESG News.earth ([source](https://www.esgnews.earth/latest-news/eu-mandates-vehicle-circularity/20353.html))
 - **2026-05-31** — news mention: Advances in genome editing could significantly enhance plant-based carbon dioxide removal (#CDR) by  ([source](https://x.com/geoengineering1/status/2061143468379107490))
 - **2026-05-03** — news mention: Week in CDR — 2026-W18 ([source](https://captaindrawdown.com/posts/week-in-cdr-2026-w18/))
 - **2026-05-03** — news mention: Daily digest: W18 picks from 48 candidate stories. Headline signal this week is a five-year scorecar ([source](https://x.com/CaptainDrawdown/status/2050968952516349989))

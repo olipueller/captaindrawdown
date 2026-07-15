@@ -34,6 +34,11 @@ ExxonMobil is one of the world's largest integrated oil and gas companies. Its L
 
 ## History
 
+- **2026-07-04** — news mention: Yes, rooftop solar is expensive, but one of the anti-PV crowds' favorite argument they use against i ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mptc54c3ps2h))
+- **2026-07-03** — news mention: Why CDR folks should read NOAA climate.gov's explainer: 1997's record El Niño still brought a near-n ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpqaes3jww25))
+- **2026-07-03** — news mention: ExxonMobil Surrenders 850,000 Acres of Gulf Carbon Storage Leases ([source](https://carbonherald.com/exxonmobil-surrenders-850000-acres-of-gulf-carbon-storage-leases/?utm_source=rss&utm_medium=rss&utm_campaign=exxonmobil-surrenders-850000-acres-of-gulf-carbon-storage-leases))
+- **2026-07-02** — news mention: Norwegian fertilizer producer Yara International agreed to buy an ammonia production facility in Tex ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mpoxbzpng22z))
+- **2026-06-27** — news mention: This article provides one of the best data-based explanations I've ever read of why carbon capture a ([source](https://x.com/DoctorVive/status/2070847063873429616))
 - **2026-06-01** — news mention: I was lucky enough to have not any other options by the fifth row on today's #Wordle 1,808 5/6*  ⬜⬜⬜ ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mn7zdveewk2l))
 - **2026-05-06** — news mention: Air Products Carbon Capture 2026, 5M Ton Project, ExxonMobil ([source](https://enkiai.com/carbon-capture/air-products-ccs-port-arthur/))
 - **2026-05-01** — refresh: coresignal, screenshot

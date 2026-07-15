@@ -31,6 +31,8 @@ Shell is a global oil, gas and energy major headquartered in London that is deve
 
 ## History
 
+- **2026-06-30** — news mention: In potential #CDR news related to sargassum, validated performance of the amendment positions SeaGre ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mpjkcu2drk2b))
+- **2026-06-30** — news mention: Located on the Perdue Farms campus in Lewiston, North Carolina. This plant captures CO₂ using Pixie  ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mpjirpri2k2b))
 - **2026-05-22** — news mention: Deep Sky Carbon Capture 2025, $3M Shell Agreement ([source](https://enkiai.com/canada-dac-initiatives-for-2025-key-projects-strategies-and-partnerships/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot

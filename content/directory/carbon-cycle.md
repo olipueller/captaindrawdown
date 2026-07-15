@@ -30,6 +30,9 @@ Carbon Cycle GmbH & Co. KG is a biochar producer based in Rieden, Bavaria, Germa
 
 ## History
 
+- **2026-07-13** — news mention: Since you have demonstrated how ignorant you are with your bachelor's from an Ivy League school has  ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mqjl5patac2k))
+- **2026-07-05** — news mention: Read the full story 👇 https://t.co/uEZwn4pMNd ([source](https://x.com/CekirdekGLOBAL/status/2073667715387052204))
+- **2026-07-04** — news mention: Most of the opposition to Carbon Dioxide Removal from climate action advocates is because of the fra ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mptrrjk5zs2h))
 - **2026-06-08** — news mention: Biochar shows strong promise for locking more carbon in soils, global review finds - Renewable Carbo ([source](https://renewable-carbon.eu/news/?p=177497))
 - **2026-06-03** — news mention: For some reason, carbon dioxide polluters have chosen to not offset their pollution putting our chil ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mnex7wwvo22l))
 - **2026-05-29** — news mention: It must be painful to share a story about a biofuels decarbonization project, but I know what a big  ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mmynkylfb22q))

@@ -5,7 +5,7 @@ type: "directory"
 description: "Project developer that integrates carbon capture and geological storage into existing biomass/bioenergy industrial facilities to produce BECCS carbon removal credits."
 url: "/directory/biorecro/"
 pathway: "BECCS"
-liveliness: "🟡 Moderate"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://www.biorecro.com/" target="_blank" rel="noopener">https://www.biorecro.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biorecro-ab/" target="_blank" rel="noopener">biorecro-ab — 1,240 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
   <tr><th>Employees</th><td>~4 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,7 @@ Biorecro is a Stockholm-based BECCS project developer that integrates carbon cap
 
 ## History
 
+- **2026-07-15** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://www.biorecro.com/richardton-fully-operational-beccs-facility-delivering-high-quality-carbon-removal-credits/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.biorecro.com/richardton-fully-operational-beccs-facility-delivering-high-quality-carbon-removal-credits/))

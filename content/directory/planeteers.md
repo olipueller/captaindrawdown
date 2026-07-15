@@ -45,6 +45,21 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-07-15** — refresh: coresignal
+- **2026-07-15** — refresh: coresignal
+- **2026-07-13** — news mention: #fallingwalls #sciencestartups #innovation #climatetech #sustainability #planeteers | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7482323324782444544/))
+- **2026-07-07** — news mention: 🌍 Please join us in welcoming Mugdha H., our newest Planeteer! 💚
+
+Mugdha joins us as a Working Stude ([source](https://www.linkedin.com/feed/update/urn:li:share:7479889015303979008/))
+- **2026-07-02** — news mention: 🚨𝐖𝐞’𝐫𝐞 𝐥𝐚𝐮𝐧𝐜𝐡𝐢𝐧𝐠 𝐨𝐮𝐫 𝐟𝐢𝐫𝐬𝐭 𝐬𝐞𝐫𝐢𝐞𝐬!
+ 
+Starting next week, every Thursday, we’ll share one practical p ([source](https://www.linkedin.com/feed/update/urn:li:share:7478386976690249728/))
+- **2026-06-30** — news mention: #hhis #hamburginnovationsummit #climatetech #carbonremoval #negativeemissions #deeptech #innovation  ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7477320935235174400/))
+- **2026-06-27** — news mention: #hamburgsustainabilityconference #climatetech #carbonremoval #industrialdecarbonization #sustainabil ([source](https://www.linkedin.com/feed/update/urn:li:share:7476221649961402369/))
+- **2026-06-26** — news mention: #vivatech #startupgermany #carbonremoval #climatetech #eic #innovation | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7475909678015692800/))
+- **2026-06-24** — news mention: 🌍 Please join us in welcoming Michael Rieger, Ph.D., our newest Planeteer! 💚
+
+With extensive experti ([source](https://www.linkedin.com/feed/update/urn:li:share:7475193812634705922/))
 - **2026-06-15** — refresh: coresignal
 - **2026-06-15** — refresh: coresignal
 - **2026-06-11** — news mention: #hhis #hamburginnovationsummit #carbonremoval #climatetech #planeteers | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7470410455300280320/))

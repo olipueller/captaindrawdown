@@ -29,6 +29,12 @@ BioCarbon is an Australian climate-tech firm that uses proprietary pyrolysis and
 
 ## History
 
+- **2026-07-14** — news mention: CHAR Tech Welcomes Québec's $87 Billion Energy Plan Backing Biomass to Renewable Energy - The Globe  ([source](https://www.theglobeandmail.com/investing/markets/stocks/YES-X/pressreleases/3251826/char-tech-welcomes-quebec-s-87-billion-energy-plan-backing-biomass-to-renewable-energy/))
+- **2026-07-14** — news mention: Lighthouse Green Fuels confirms land option agreement for multibillion SAF facility | Biomass Magazi ([source](https://biomassmagazine.com/articles/lighthouse-green-fuels-confirms-land-option-agreement-for-multibillion-saf-facility))
+- **2026-07-14** — news mention: CHAR Tech backs Québec's $87 billion renewable energy roadmap - Bioenergy Insight Magazine ([source](https://www.bioenergy-news.com/news/char-tech-backs-quebecs-87-billion-renewable-energy-roadmap/))
+- **2026-07-13** — news mention: CHAR Technologies Ltd. (CVE:YES) | ([source](https://lesechos-comfi.lesechos.fr/press-release/char-technologies-ltd-cve-yes-char-tech-welcomes-quebecs-87-billion-energy-plan-backing-biomass-to-renewable-energy-kCsRF9oBfFH))
+- **2026-07-02** — news mention: Illinois study explores feasibility of creating sustainable jet fuel from food waste | Biomass Magaz ([source](https://biomassmagazine.com/articles/illinois-study-explores-feasibility-of-creating-sustainable-jet-fuel-from-food-waste))
+- **2026-06-24** — news mention: #syncraft #biochar #ebc #carbonremoval #kreislaufwirtschaft #energiewende #biokohle | SYNCRAFT ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7475467721971974144/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-21** — news mention: CHAR Tech Closes Acquisition of Elkem's Biocarbon Assets in Saguenay, Québec, Including 62,500 tonne ([source](https://www.morningstar.com/news/accesswire/1158881msn/char-tech-closes-acquisition-of-elkems-biocarbon-assets-in-saguenay-qubec-including-62500-tonne-offtake-facility-and-ip))

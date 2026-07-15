@@ -30,6 +30,12 @@ Captura is a Pasadena, California-based Direct Ocean Capture company founded at 
 
 ## History
 
+- **2026-07-01** — news mention: Negative Emissions Platform: 📈 CDR Momentum, Edition 1 NEP Members are at the heart of this month's  ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7477687816446128129/))
+- **2026-06-29** — news mention: Congrats on getting close to commissioning. A 0.14 H/C ratio plus EBC Feed Grade puts your output in ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpg4q4r7xy2m))
+- **2026-06-29** — news mention: ProPublica's old charge that capture projects underdeliver against nameplate is back in circulation, ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpfprsqg5n2s))
+- **2026-06-29** — news mention: ProPublica's charge that capture projects underdeliver against nameplate is back in circulation, the ([source](https://x.com/CaptainDrawdown/status/2071460579064107151))
+- **2026-06-29** — news mention: Worth separating CCS (point-source on emitters) from CDR (removing legacy CO2). Geologic storage cap ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpfd25epqt26))
+- **2026-06-26** — news mention: Captura Secures New $12.5M To Grow The US Production Of Its Bipolar Membrane Electrodialysis Tech ([source](https://carbonherald.com/captura-secures-new-12-5m-to-grow-the-us-production-of-its-bipolar-membrane-electrodialysis-tech/?utm_source=rss&utm_medium=rss&utm_campaign=captura-secures-new-12-5m-to-grow-the-us-production-of-its-bipolar-membrane-electrodialysis-tech))
 - **2026-06-03** — news mention: Fishermen take interest in federal marine carbon dioxide removal research bill | National Fisherman ([source](https://www.nationalfisherman.com/fishermen-take-interest-in-federal-marine-carbon-dioxide-removal-research-bill))
 - **2026-05-26** — news mention: Captura to Supply Ocean-Captured CO2 for Franco-Canadian eSAF Facility in France - Renewable Carbon  ([source](https://renewable-carbon.eu/news/?p=177076))
 - **2026-05-11** — news mention: 🧵 A $50M ocean startup raised serious money, built real technology, and delivered on every contract  ([source](https://x.com/MickH_W/status/2053804970387075432))

@@ -34,6 +34,8 @@ Pina Earth is a Munich-based forest carbon project developer that converts vulne
 
 ## History
 
+- **2026-06-24** — news mention: #cdrexperiencetour #carbondioxideremoval | Deutscher Verband für negative Emissionen e.V. (DVNE) ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473603880384167936/))
+- **2026-06-24** — news mention: #cdrexperiencetour #carbondioxideremoval #cdr #klimaforschung | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473707417059467264/))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot

@@ -5,7 +5,7 @@ type: "directory"
 description: "Spreads custom silicate rock blends on Colombian farmland with proprietary aqueous-phase MRV to quantify carbon removal and sell credits."
 url: "/directory/tropicarbon/"
 pathway: "Enhanced Weathering"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Colombia</td></tr>
   <tr><th>Website</th><td><a href="https://www.tropicarbon.com/" target="_blank" rel="noopener">https://www.tropicarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/tropicarbon/" target="_blank" rel="noopener">tropicarbon</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~2</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -31,6 +31,10 @@ Tropicarbon is a Colombia-based pure-play CDR startup founded in 2023 that deplo
 
 ## History
 
+- **2026-07-15** — refresh: coresignal
+- **2026-07-15** — refresh: coresignal, liveliness
+- **2026-07-15** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://tracxn.com/d/companies/tropicarbon/__ZLzI5ELQl8S_k5eRBYurltZGTGfqGat_UGNb2_R4JXM))
+- **2026-06-26** — news mention: A Tour of Our CDR Greenhouse Experiment ([source](https://carbondrawdown.substack.com/p/a-tour-of-our-cdr-greenhouse-experiment))
 - **2026-06-15** — refresh: coresignal
 - **2026-06-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot

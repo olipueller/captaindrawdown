@@ -5,7 +5,7 @@ type: "directory"
 description: "Processes biochar into concrete admixtures (eLM Zero) that lock biogenic carbon permanently into building materials."
 url: "/directory/ecolocked/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.ecolocked.com/" target="_blank" rel="noopener">https://www.ecolocked.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ecolocked/" target="_blank" rel="noopener">ecolocked — 6,915 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~24 (-23% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,6 +31,9 @@ ecoLocked is a Berlin-based climate-tech startup founded in 2021 that produces b
 
 ## History
 
+- **2026-07-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.cdr.fyi/blog/this-week-in-cdr-week-17-2025))
+- **2026-07-13** — news mention: Since you have demonstrated how ignorant you are with your bachelor's from an Ivy League school has  ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mqjl5patac2k))
+- **2026-07-02** — news mention: #biocharinaction #germanbiochar #ecolocked #bergerbeton #carbonremoval #nachhaltigesbauen #co2speich ([source](https://www.linkedin.com/feed/update/urn:li:share:7478326844803543043/))
 - **2026-06-15** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.cdr.fyi/blog/this-week-in-cdr-week-17-2025))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.cdr.fyi/blog/this-week-in-cdr-week-17-2025))
 - **2026-05-01** — refresh: screenshot

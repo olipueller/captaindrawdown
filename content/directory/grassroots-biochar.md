@@ -5,7 +5,7 @@ type: "directory"
 description: "Kon-Tiki flame-curtain pyrolysis of biomass producing EBC-certified biochar for Swedish agriculture, horticulture, and soil management."
 url: "/directory/grassroots-biochar/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://grassrootsbiochar.nu/" target="_blank" rel="noopener">https://grassrootsbiochar.nu/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/grassroots-biochar-ab/" target="_blank" rel="noopener">grassroots-biochar-ab — 30 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~1 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,7 @@ Grassroots Biochar AB is a small Swedish biochar producer based on Öland/Kalmar
 
 ## History
 
+- **2026-07-15** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://biochartoday.com/blog/context-is-everything-lessons-from-small-scale-biochar-production/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://biochartoday.com/blog/context-is-everything-lessons-from-small-scale-biochar-production/))

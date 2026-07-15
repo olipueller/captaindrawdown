@@ -16,10 +16,10 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://oco.co.uk/" target="_blank" rel="noopener">https://oco.co.uk/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/o-c-o-technology-ltd/" target="_blank" rel="noopener">o-c-o-technology-ltd — 2,999 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro crediting window through 2026-08-31</small></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro crediting window through 2028-09-30</small></td></tr>
   <tr><th>Employees</th><td>~61 (+24% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
-  <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2026-08-31)</small></td></tr>
+  <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2028-09-30)</small></td></tr>
 </table>
 
 ## About
@@ -33,7 +33,7 @@ O.C.O Technology is a UK-based carbon mineralization company headquartered in Br
 Independently verified by carbon-credit registries:
 
 **Puro.earth**
-- 3 projects · Carbonated Materials · crediting period 2021-09-01 → 2026-08-31 (active) &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/avonmouth-production-facility-62)
+- 4 projects · Carbonated Materials · crediting period 2021-09-01 → 2028-09-30 (active) &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/avonmouth-production-facility-62)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 

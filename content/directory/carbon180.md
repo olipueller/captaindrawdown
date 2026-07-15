@@ -30,6 +30,8 @@ Carbon180 is a Washington, D.C.-based nonprofit, nonpartisan climate NGO founded
 
 ## History
 
+- **2026-06-26** — news mention: Lawmakers Introduce Bipartisan Bill to Encourage Methane Removal - Congressman Kevin Mullin ([source](https://kevinmullin.house.gov/2026/06/25/lawmakers-introduce-bipartisan-bill-to-encourage-methane-removal/))
+- **2026-06-24** — news mention: Carbon180&#8217;s Making Waves named to Fast Company&#8217;s World Changing Ideas | Carbon180 ([source](https://carbon180.org/blog/carbon180s-making-waves-named-to-fast-companys-world-changing-ideas/))
 - **2026-06-03** — news mention: A US Federal Policy Roadmap | Carbon180 ([source](https://carbon180.org/ocean-policy-roadmap/))
 - **2026-05-12** — news mention: Congratulations to Dr. Jovan Keith, our Senior Director of People &amp;amp; Learning, on successfull ([source](https://www.linkedin.com/feed/update/urn:li:share:7457515674077179904/))
 - **2026-05-12** — news mention: Carbon180 had the honor of participating in Innovate Cordova convened by Senator Murkowski in Cordov ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7458245871869030408/))

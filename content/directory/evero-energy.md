@@ -5,7 +5,7 @@ type: "directory"
 description: "Retrofits existing waste-wood biomass power plants with MHI's Advanced KM CDR amine solvent capture, transporting biogenic CO2 via HyNet cluster to depleted Irish Sea gas-field geological storage."
 url: "/directory/evero-energy/"
 pathway: "BECCS"
-liveliness: "🟡 Moderate"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://evero.energy/" target="_blank" rel="noopener">https://evero.energy/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bioenergy-infrastructure-limited/" target="_blank" rel="noopener">bioenergy-infrastructure-limited — 9,370 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
   <tr><th>Employees</th><td>~103</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -29,6 +29,7 @@ Evero Energy (formerly Bioenergy Infrastructure Group) is a UK waste-wood-to-ene
 
 ## History
 
+- **2026-07-15** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://www.bioenergy-news.com/news/everos-inbeccs-project-becomes-uks-first-listed-carbon-removal-facility/))
 - **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.bioenergy-news.com/news/everos-inbeccs-project-becomes-uks-first-listed-carbon-removal-facility/))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.bioenergy-news.com/news/everos-inbeccs-project-becomes-uks-first-listed-carbon-removal-facility/))
 - **2026-05-01** — refresh: screenshot

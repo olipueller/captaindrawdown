@@ -33,6 +33,7 @@ Reverion is a 2022 spin-off from the Technical University of Munich that has cre
 
 ## History
 
+- **2026-06-24** — news mention: #cdrexperiencetour #carbondioxideremoval | Deutscher Verband für negative Emissionen e.V. (DVNE) ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473603880384167936/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://reverion.com/en/reverion-and-frontier-advance-new-biogas-carbon-removal-pathway/))

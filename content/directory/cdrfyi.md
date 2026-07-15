@@ -29,6 +29,23 @@ CDR.fyi is a market intelligence and data platform for the durable carbon dioxid
 
 ## History
 
+- **2026-07-08** — news mention: Durable CDR Market Recap: June 2026 - Key Deals & Trends | CDR.fyi  Isometric raised <strong>$40 mil ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mq4n2me7ua2k))
+- **2026-07-07** — news mention: Durable CDR Market Recap: June 2026 — Key Deals & Trends | CDR.fyi ([source](https://www.cdr.fyi/blog/cdr-monthly-recap-june-2026))
+- **2026-07-04** — news mention: Most of the opposition to Carbon Dioxide Removal from climate action advocates is because of the fra ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mptrrjk5zs2h))
+- **2026-06-28** — news mention: Accelerating Carbon Removal with AI  CDR.fyi examines how AI can both accelerate carbon removal deli ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpdxdzbvil2i))
+- **2026-06-26** — news mention: ISO 14060 Draft, SBTi Corporate Net Zero Standard V2, and CDR Demand  New ISO 14060 net zero draft r ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mp66hr3r7s2s))
+- **2026-06-26** — news mention: 🤖 Understanding AI&amp;#39;s role in carbon removal
+
+💻 Artificial intelligence is already being used ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7475937202858848257/))
+- **2026-06-25** — news mention: ISO 14060 Draft, SBTi Corporate Net Zero Standard V2, and CDR Demand ([source](https://www.cdr.fyi/blog/iso-14060-draft-sbti-corporate-net-zero-standard-v2-and-cdr-demand))
+- **2026-06-25** — news mention: Accelerating Carbon Removal with AI ([source](https://www.cdr.fyi/blog/accelerating-carbon-removal-with-ai))
+- **2026-06-24** — news mention: Frontier Secures $915M in CDR Funding, ISO Releases Net Zero Standard | CDR.fyi posted on the topic  ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473739325042655232/))
+- **2026-06-24** — news mention: 📗 CDR.fyi&amp;#39;s Resources Hub now includes a Publications section
+
+✔ The new section consists of ([source](https://www.linkedin.com/feed/update/urn:li:share:7475175447824326657/))
+- **2026-06-24** — news mention: Beyond Carbon Credits: How KARBNZ Global Is Building a Natural Capital Platform Around Forests, Biom ([source](https://carboncredits.com/beyond-carbon-credits-how-karbnz-global-is-building-a-natural-capital-platform-around-forests-biomass-and-biochar/))
+- **2026-06-24** — news mention: Durable CDR Market Update: From Ambition to Execution  CDR.fyi's mid-2026 market update finds durabl ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3moz54wunrn2l))
+- **2026-06-23** — news mention: Durable CDR Market Update: From Ambition to Execution ([source](https://www.cdr.fyi/blog/durable-cdr-market-update-carbon-unbound-east-coast-2026))
 - **2026-06-06** — news mention: This Week in CDR - June 5, 2026 | CDR.fyi ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7468696518095663104/))
 - **2026-06-05** — news mention: JPMorgan signs carbon offtake and financing deal with Charm Industrial | ESG Dive ([source](https://www.esgdive.com/news/jpmorgan-signs-carbon-offtake-financing-deal-charm-industrial/822156/))
 - **2026-05-23** — news mention: 📊 Q1 2026: 2.3M tonnes contracted, 145K delivered. 
@@ -48,19 +65,6 @@ CDR.fyi is a market intelligence and data platform for the durable carbon dioxid
 - **2026-05-09** — news mention: New Resource Live: The CDR.fyi Buyer’s Guide ([source](https://www.cdr.fyi/blog/introducing-the-cdr.fyi-buyers-guide))
 - **2026-05-09** — news mention: Durable CDR Market Recap: February 2026 — Key Deals &amp; Trends ([source](https://www.cdr.fyi/blog/cdr-monthly-recap-february-2026))
 - **2026-05-09** — news mention: OSCAR Survey: Mapping Contracting Friction in Durable CDR ([source](https://www.cdr.fyi/blog/cdr-fyi-oscar-survey))
-- **2026-05-09** — news mention: Durable CDR Market Recap: March 2026 — Key Deals &amp; Trends ([source](https://www.cdr.fyi/blog/cdr-monthly-recap-march-2026))
-- **2026-05-08** — news mention: New Report Highlights Pricing Gap In Durable Carbon Removal Market ([source](https://carbonherald.com/new-report-highlights-pricing-gap-in-durable-carbon-removal-market/?utm_source=rss&utm_medium=rss&utm_campaign=new-report-highlights-pricing-gap-in-durable-carbon-removal-market))
-- **2026-05-07** — news mention: The durable CDR price gap between what buyers want and what suppliers charge shrank from $107 to $98 ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mlas7wddlg2y))
-- **2026-05-07** — news mention: Pricing, Attributes, and Blockers: Durable CDR Market Dynamics Through 2030 ([source](https://www.cdr.fyi/blog/cdr-pricing-survey-may-2026))
-- **2026-05-03** — news mention: Daily digest: W18 picks from 48 candidate stories. Headline signal this week is a five-year scorecar ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkxjpttl6227))
-- **2026-05-02** — news mention: This Week in CDR - May 1, 2026 | CDR.fyi ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7455979489584619520/))
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-05-01** — news mention: 📊 Five years into the durable CDR market: how have different methods performed relative to their exp ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7455627915750293504/))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-04-26** — news mention: Did Microsoft Just Kill the Carbon Removal Industry? ([source](https://ctvr.substack.com/p/did-microsoft-just-kill-the-carbon))
-- **2026-04-25** — news mention: This Week in CDR - April 24, 2026 | CDR.fyi ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7453451962160734208/))
-- **2026-04-24** — news mention: Durable CDR: Reality vs Expectations: How are CDR methods performing relative to expectations? ([source](https://www.cdr.fyi/blog/durable-cdr-reality-vs-expectations))
 
 ---
 

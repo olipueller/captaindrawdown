@@ -34,6 +34,14 @@ UNDO Carbon Ltd. is a UK-based CO2 removal company specializing in enhanced rock
 
 ## History
 
+- **2026-07-14** — news mention: You're right on timescales. Novel CDR removes well under 0.01 Gt CO2/yr today vs ~40 Gt emitted. Eve ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mql6p4ky3a2r))
+- **2026-07-09** — news mention: Inside UNDO&#039;s On-Farm Research: Small Plot Monitoring Sites in Eastern Ontario - UNDO Carbon ([source](https://un-do.com/resources/blog/inside-undos-on-farm-research-small-plot-monitoring-sites-in-eastern-ontario/))
+- **2026-07-06** — news mention: #enhancedrockweathering #carbonremoval #cdr #mrv #climatetech #undocarbon #erw #soilscience #geochem ([source](https://www.linkedin.com/feed/update/urn:li:share:7479831417557000192/))
+- **2026-07-02** — news mention: UNDO Impact Update | June 2026 | UNDO ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7478079580214378496/))
+- **2026-07-01** — news mention: #canadaday #carbonremoval #enhancedrockweathering #climatesolutions #netzero #undocarbon #cdr #clima ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7477740297943441409/))
+- **2026-06-26** — news mention: Wiemy jak usunąć CO2 z powietrza. Wykorzystamy do tego skały – Adrian Podgórny (Green Sequest) ([source](https://mamstartup.pl/wiemy-jak-usunac-co2-z-powietrza-wykorzystamy-do-tego-skaly-adrian-podgorny-green-sequest/))
+- **2026-06-24** — news mention: Zoe Couillard Prepares Composite Soil Samples for Analysis | UNDO posted on the topic | LinkedIn ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473011894757494784/))
+- **2026-06-24** — news mention: #wigba #womeningreenbusiness #carbonremoval #cdr #carbonmarkets #climatetech #undocarbon #enhancedro ([source](https://www.linkedin.com/feed/update/urn:li:share:7475178296578654208/))
 - **2026-06-11** — news mention: 🔬 What is SAT-C? | UNDO ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7470422200110710786/))
 - **2026-06-06** — news mention: #undocarbon #carbonremoval #enhancedrockweathering #climatetech #cdr #soilhealth #mrv #sustainableag ([source](https://www.linkedin.com/feed/update/urn:li:share:7467927760230043648/))
 - **2026-06-04** — news mention: It is planting season! 🌱 And #carbonremoval can be part of the future of farming. Here’s a cool exam ([source](https://x.com/naimmerchant/status/2062534629153005788))

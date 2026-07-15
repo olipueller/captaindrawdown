@@ -34,6 +34,8 @@ Cotierra is a Swiss-Colombian, Zurich-headquartered startup (formerly Terra Pret
 
 ## History
 
+- **2026-07-15** — refresh: coresignal
+- **2026-07-15** — refresh: coresignal
 - **2026-06-15** — refresh: coresignal
 - **2026-06-15** — refresh: coresignal
 - **2026-05-11** — reactivated — dedupe canonical, real CDI portfolio company (Dirk 2026-05-11)
@@ -62,8 +64,6 @@ Cotierra is a Swiss-Colombian, Zurich-headquartered startup (formerly Terra Pret
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.cotierra.com/))
 - **2026-04-19** — url added from cdr.fyi supplier page: https://terra-preta.earth ([source](https://www.cdr.fyi/supplier/terra-preta))
 - **2026-04-19** — discovered via: cdrfyi ([source](https://www.cdr.fyi/supplier/terra-preta))
-- **** — merged duplicate: Terra Preta (Cotierra) (slug=terra-preta-cotierra)
-- **2026-04-19** — deduped — canonical is terra-preta-cotierra (Terra Preta (Cotierra))
 
 ---
 

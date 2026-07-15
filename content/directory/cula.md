@@ -35,6 +35,7 @@ Cula Technologies is a digital MRV (Monitoring, Reporting and Verification) soft
 
 ## History
 
+- **2026-06-24** — news mention: #climateweeknyc #carbonremoval #cdr #corcs #newyork #purocdrsummit | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:share:7473721490056609793/))
 - **2026-05-12** — news mention: We&amp;#39;re happy to announce that Cula Technologies is a Carbon Removal Leader partner at the Neg ([source](https://www.linkedin.com/feed/update/urn:li:share:7457750344320684033/))
 - **2026-05-05** — news mention: Inkoh, Puro.earth, Cula, and First Climate Demonstrate Scalable Carbon Removal at Climate Week Zuric ([source](https://biochartoday.com/news/inkoh-puro-earth-cula-and-first-climate-demonstrate-scalable-carbon-removal-at-climate-week-zurich/))
 - **2026-05-01** — refresh: coresignal, screenshot

@@ -30,6 +30,7 @@ Xpansiv operates market infrastructure for environmental commodities, including 
 
 ## History
 
+- **2026-07-14** — news mention: BEClimate and Xpansiv Launch BEVerify Registry To Bring Carbon Credits To Buildings ([source](https://carbonherald.com/beclimate-and-xpansiv-launch-beverify-registry-to-bring-carbon-credits-to-buildings/?utm_source=rss&utm_medium=rss&utm_campaign=beclimate-and-xpansiv-launch-beverify-registry-to-bring-carbon-credits-to-buildings))
 - **2026-05-16** — news mention: CDR finance split into two opposite plumbing problems this week.  On the supplier side, GFI deployed ([source](https://x.com/CaptainDrawdown/status/2055516084795478138))
 - **2026-05-16** — news mention: CDR finance just split into two opposite plumbing problems in one week. Suppliers of durable removal ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mlx3fe6pb62i))
 - **2026-05-12** — news mention: Airlines Get Payment Breathing Room In New Carbon Credit Financing Push ([source](https://carbonherald.com/airlines-get-payment-breathing-room-in-new-carbon-credit-financing-push/?utm_source=rss&utm_medium=rss&utm_campaign=airlines-get-payment-breathing-room-in-new-carbon-credit-financing-push))

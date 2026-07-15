@@ -31,6 +31,11 @@ Flux is a Nairobi-based enhanced rock weathering startup spreading crushed basal
 
 ## History
 
+- **2026-07-15** — refresh: coresignal
+- **2026-07-15** — refresh: coresignal
+- **2026-07-14** — news mention: Accounting Methods Dictate Carbon Removal Credit Integrity and Outcomes – CDRXIV ([source](https://cdrxiv.org/preprint/514))
+- **2026-06-26** — news mention: A Tour of Our CDR Greenhouse Experiment ([source](https://carbondrawdown.substack.com/p/a-tour-of-our-cdr-greenhouse-experiment))
+- **2026-06-25** — news mention: Kenya’s Carbon-Capture Startups Land a Share of Tencent’s $30M Climate Fund - Launch Base Africa ([source](https://launchbaseafrica.com/2026/06/25/kenyas-carbon-capture-startups-land-a-share-of-tencents-30m-climate-fund/))
 - **2026-06-15** — refresh: coresignal
 - **2026-06-15** — refresh: coresignal
 - **2026-05-29** — news mention: @amandakhurley @glenpeters So stop tracking roadmaps. Start tracking who signed, for how much, on wh ([source](https://x.com/CaptainDrawdown/status/2060226023824707624))

@@ -5,7 +5,7 @@ type: "directory"
 description: "Passive-airflow Direct Air Capture using a novel low-temperature solid sorbent in modular \"Carbon Orchard\" towers with tennis-ball-sized sorbent spheres, paired with geological sequestration."
 url: "/directory/spiritus/"
 pathway: "DAC"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://spiritus.com/" target="_blank" rel="noopener">https://spiritus.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/spiritus-cdr/" target="_blank" rel="noopener">spiritus-cdr — 2,509 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~50 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,9 @@ Spiritus is a Los Alamos National Lab spinout developing low-cost Direct Air Cap
 
 ## History
 
+- **2026-07-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://tracxn.com/d/companies/spiritus/__z3PyRolR1MDwzsGFzFRDqr6V_IKjzeoZ_ammIbxmtAs))
+- **2026-07-14** — news mention: Saudi Aramco and Spiritus Join Forces to Cut Direct Air Capture Costs and Scale Carbon Removal ([source](https://carboncredits.com/spiritus-aramco-direct-air-capture-carbon-removal/))
+- **2026-07-07** — news mention: Spiritus And Aramco To Advance Next-Scale DAC Tech ([source](https://carbonherald.com/spiritus-and-aramco-to-advance-next-scale-dac-tech/?utm_source=rss&utm_medium=rss&utm_campaign=spiritus-and-aramco-to-advance-next-scale-dac-tech))
 - **2026-06-15** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://tracxn.com/d/companies/spiritus/__z3PyRolR1MDwzsGFzFRDqr6V_IKjzeoZ_ammIbxmtAs))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://tracxn.com/d/companies/spiritus/__z3PyRolR1MDwzsGFzFRDqr6V_IKjzeoZ_ammIbxmtAs))
 - **2026-05-01** — refresh: screenshot

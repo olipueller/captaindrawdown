@@ -8,14 +8,14 @@ url: "/directory/afforestation/"
 
 # Afforestation — 56 Companies Tracked
 
-**Market pulse for Afforestation (updated 2026-06-15).**
+**Market pulse for Afforestation (updated 2026-07-15).**
 
 <div class="directory-stats">
   <div class="stat-box"><span class="num">56</span><span class="label">Companies</span></div>
   <div class="stat-box"><span class="num" style="color:#22c55e">33</span><span class="label">🟢 Active</span></div>
   <div class="stat-box"><span class="num" style="color:#eab308">21</span><span class="label">🟡 Moderate</span></div>
-  <div class="stat-box"><span class="num" style="color:#f97316">1</span><span class="label">🟠 Suspect</span></div>
-  <div class="stat-box"><span class="num" style="color:#ef4444">1</span><span class="label">🔴 Maybe Dead?</span></div>
+  <div class="stat-box"><span class="num" style="color:#f97316">0</span><span class="label">🟠 Suspect</span></div>
+  <div class="stat-box"><span class="num" style="color:#ef4444">2</span><span class="label">🔴 Maybe Dead?</span></div>
 </div>
 
 <div class="directory-stats">

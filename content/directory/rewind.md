@@ -40,6 +40,8 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-07-14** — news mention: You're right on timescales. Novel CDR removes well under 0.01 Gt CO2/yr today vs ~40 Gt emitted. Eve ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mql6p4ky3a2r))
+- **2026-07-14** — news mention: The 650k-tonne BioCirc deal was signed in May, weeks after the reported pause. The real story: when  ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mql2yjswkl2b))
 - **2026-05-13** — news mention: A deep-ocean climate plan wins rare EPA approval, but is sinking plants in the sea the answer? ([source](https://theconversation.com/a-deep-ocean-climate-plan-wins-rare-epa-approval-but-is-sinking-plants-in-the-sea-the-answer-282361))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot

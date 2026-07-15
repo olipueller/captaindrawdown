@@ -31,6 +31,8 @@ Sequestra is a Vienna-based climate tech startup founded in 2024 that develops a
 
 ## History
 
+- **2026-07-15** — refresh: coresignal
+- **2026-07-15** — refresh: coresignal
 - **2026-06-15** — refresh: coresignal
 - **2026-06-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot

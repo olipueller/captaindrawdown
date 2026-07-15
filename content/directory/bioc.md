@@ -30,6 +30,8 @@ BioC is a Singapore-based biochar carbon removal supplier that operates PyroCCS 
 
 ## History
 
+- **2026-07-09** — news mention: We absolutely need to eat less meat and dairy, but it won't happen overnight and we risk alienating  ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mqa5lj2s4s2k))
+- **2026-07-09** — news mention: Results showed a 10% reduction in methane emissions resulting from improved feed conversion when 0.8 ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mqa4zmwsns2k))
 - **2026-06-03** — news mention: For some reason, carbon dioxide polluters have chosen to not offset their pollution putting our chil ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mnex7wwvo22l))
 - **2026-05-25** — news mention: Fortescue is headed towards becoming our first net-zero mining company. I hope that they are able to ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mmokvnslhs2f))
 - **2026-05-25** — news mention: Biochar from gasification projects like this can stack revenue: renewable gas plus durable carbon re ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmnmquzsm32b))

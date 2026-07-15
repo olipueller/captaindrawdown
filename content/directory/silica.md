@@ -40,6 +40,9 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-07-15** — refresh: coresignal
+- **2026-07-15** — refresh: coresignal
+- **2026-06-26** — news mention: A Tour of Our CDR Greenhouse Experiment ([source](https://carbondrawdown.substack.com/p/a-tour-of-our-cdr-greenhouse-experiment))
 - **2026-06-15** — refresh: coresignal
 - **2026-06-15** — refresh: coresignal
 - **2026-05-31** — news mention: Advances in genome editing could significantly enhance plant-based carbon dioxide removal (#CDR) by  ([source](https://x.com/geoengineering1/status/2061143468379107490))

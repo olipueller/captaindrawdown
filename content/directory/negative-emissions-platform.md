@@ -29,6 +29,18 @@ The Negative Emissions Platform (NEP) is a Brussels-based non-profit membership 
 
 ## History
 
+- **2026-07-13** — news mention: As the European Commission prepares its proposal to reform the EU ETS, the role of permanent carbon  ([source](https://www.linkedin.com/feed/update/urn:li:share:7482359327782129664/))
+- **2026-07-09** — news mention: The European Commission’s consultation on national climate targets after 2030 points ➡️ in the same  ([source](https://www.linkedin.com/feed/update/urn:li:share:7480951668453593089/))
+- **2026-07-08** — news mention: A Healthier Earth - Negative Emissions Platform | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7479892849916870656/))
+- **2026-07-07** — news mention: American buyers are already looking to Europe for stability and investable carbon removal projects.
+ ([source](https://www.linkedin.com/feed/update/urn:li:share:7479859627640340481/))
+- **2026-07-06** — news mention: A Healthier Earth joins the Negative Emissions Platform ([source](https://www.negative-emissions.org/updates/a-healthier-earth-joins-the-negative-emissions-platform))
+- **2026-07-03** — news mention: Today, the Negative Emissions Platform submitted its response to the stakeholder survey on the Innov ([source](https://www.linkedin.com/feed/update/urn:li:share:7478429780527271938/))
+- **2026-07-01** — news mention: Negative Emissions Platform: 📈 CDR Momentum, Edition 1 NEP Members are at the heart of this month's  ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7477687816446128129/))
+- **2026-06-24** — news mention: Timber Carbon joins the Negative Emissions Platform ([source](https://www.negative-emissions.org/updates/timber-carbon-joins-the-negative-emissions-platform))
+- **2026-06-24** — news mention: #lcaw2026 | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:share:7472940097781350401/))
+- **2026-06-24** — news mention: #lcaw | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:share:7474837289572069377/))
+- **2026-06-24** — news mention: #londonclimateactionweek | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:share:7474794254196928513/))
 - **2026-06-11** — news mention: 🌍 VOLUNTEER WITH US AT COP31 – THINK NEGATIVE: CARBON REMOVALS PAVILION
 
 We&amp;#39;re looking for p ([source](https://www.linkedin.com/feed/update/urn:li:share:7470419902172913664/))
@@ -54,17 +66,6 @@ On 20 May, the European Commission ([source](https://www.linkedin.com/feed/updat
 - **2026-05-12** — news mention: Credible carbon removal markets require credible policy frameworks. Few know this better than Puro.e ([source](https://www.linkedin.com/feed/update/urn:li:share:7458114573884170241/))
 - **2026-05-12** — news mention: #etsneedsremovals | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:share:7458526324568141824/))
 - **2026-05-10** — news mention: Danube Carbon Storage joins the Negative Emissions Platform  Danube Carbon Storage has joined the Ne ([source](https://x.com/CaptainDrawdown/status/2053398220026380327))
-- **2026-05-10** — news mention: Five hard numbers from the past week show public balance sheets absorbing CDR-adjacent infrastructur ([source](https://x.com/CaptainDrawdown/status/2053339930152034322))
-- **2026-05-09** — news mention: Negative Emissions Platform publishes 2025 Annual Report ([source](https://www.negative-emissions.org/updates/negative-emissions-platform-publishes-2025-annual-report))
-- **2026-05-09** — news mention: Danube Carbon Storage joins the Negative Emissions Platform ([source](https://www.negative-emissions.org/updates/danube-carbon-storage-joins-the-negative-emissions-platform))
-- **2026-05-09** — news mention: Sebastian Manhart joins the Negative Emissions Platform Board ([source](https://www.negative-emissions.org/updates/sebastian-manhart-joins-the-negative-emissions-platform-board))
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-04-22** — news mention: Who buys next? &mdash; Negative Emissions Platform ([source](https://www.negative-emissions.org/updates/who-buys-next))
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.negative-emissions.org/updates/negative-emissions-platform-publishes-2025-annual-report))
-- **2026-04-18** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.negative-emissions.org/))
 
 ---
 

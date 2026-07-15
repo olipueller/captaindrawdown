@@ -29,6 +29,22 @@ BLOCK Bio Innovationen GmbH & Co. KG (BLOCK Pflanzenkohle) is a family-run bioch
 
 ## History
 
+- **2026-07-13** — news mention: Brussels adopts first EU carbon farming certification methodologies - H2 Bulletin ([source](https://h2bulletin.com/brussels-adopts-first-eu-carbon-farming-certification-methodologies/))
+- **2026-07-09** — news mention: The rest of the U.S. was on target to catch up to California where over 1 in 20 vehicles on the road ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mq7tubcaek2k))
+- **2026-07-02** — news mention: In Ohio, solar is no big threat to farmland ([source](https://www.canarymedia.com/articles/solar/ohio-land-use-farm-data-seia))
+- **2026-07-01** — news mention: Happy Ground: 🏗️ Building Block \#9 of 30 Building Blocks from the Last Year of Building Happy Groun ([source](https://www.linkedin.com/feed/update/urn:li:share:7477605006498697216/))
+- **2026-06-27** — news mention: Needle Flame Test Equipment: IEC 60695 Compliance Guide ([source](https://www.ledphotometer.com/blogs/needle-flame-test-equipment-a-comprehensive-guide-to-iec-60695-compliance-and-fire-safety-testing/))
+- **2026-06-26** — news mention: Nice picture of your booth at #LCAW /s  Wondering whether you'd be interested in reaching out to Sun ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mp7hvz7vl22q))
+- **2026-06-24** — news mention: Investment in Carbon Dioxide Removal has had USD 1.1 Billion of investments made over last year, bri ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mp2e43qj7c27))
+- **2026-06-24** — news mention: 🏗️ Building Block #4 of 30 Building Blocks from the Last Year of Building Happy Ground
+
+𝑩𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒇𝒂𝒓 ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473121980695683072/))
+- **2026-06-24** — news mention: 🏗️ Building Block #5 of 30 Building Blocks from the Last Year of Building Happy Ground
+
+𝑩𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒎𝒆𝒂 ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473123411314061312/))
+- **2026-06-24** — news mention: 🏗️ Building Block #6 of 30 Building Blocks from the Last Year of Building Happy Ground
+
+𝑩𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒇𝒂𝒓 ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7474428090438524929/))
 - **2026-06-10** — news mention: Energy-hungry aluminum plant is swept up in Oklahoma governor’s race ([source](https://www.canarymedia.com/articles/clean-aluminum/aluminum-plant-oklahoma-governor-race))
 - **2026-06-02** — news mention: What Is a Carbon Credit? Understanding the One-Tonne CO2e Building Block of Carbon Markets ([source](https://thecsruniverse.com/articles/what-is-a-carbon-credit-a-one-tonne-co2e-building-block))
 - **2026-06-01** — news mention: Terrafugia Updates, Team, and Funding Progress | Wefunder, Home of the Community Round ([source](https://wefunder.com/terrafugia))

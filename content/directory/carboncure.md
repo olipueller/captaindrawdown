@@ -34,6 +34,13 @@ CarbonCure Technologies is a Halifax, Canada-based carbon utilization company th
 
 ## History
 
+- **2026-07-14** — news mention: Every nonvoter is a fossil fool!  This analysis found that 223 manufacturing and clean energy projec ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mqmd5gfjck2t))
+- **2026-07-05** — news mention: Explainer: Mineralization is the CDR family that turns CO2 into solid carbonate rock. Once bonded in ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpusg7voq42k))
+- **2026-07-05** — news mention: Good point. The airborne fraction has held near 44% for decades, but recent years show wobble. If la ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpufpr4arw2b))
+- **2026-07-02** — news mention: #Amazon’s 2025 #AmazonSustainability Report features the Elkhart, Indiana Delivery Station—one of do ([source](https://x.com/CarbonCure/status/2072788613432066224))
+- **2026-07-02** — news mention: In-Depth Examination of Segments, Industry Trends, and Key Competitors in the Carbon Dioxide (CO2) U ([source](https://www.openpr.com/news/4566422/in-depth-examination-of-segments-industry-trends-and-key))
+- **2026-06-30** — news mention: Thank you for sharing your words Sonny! ([source](https://bsky.app/profile/peter.fairley.ca/post/3mphwspumg22z))
+- **2026-06-26** — news mention: Check out #CarbonMineralization chemistry in action! 👀  We recently shared our peer-reviewed study w ([source](https://x.com/CarbonCure/status/2070556372572271078))
 - **2026-06-09** — news mention: California just began to impose CO2-neutrality regulations on commercial buildings last year which w ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mnucokzco227))
 - **2026-06-04** — news mention: Careers - CarbonCure Technologies Inc. ([source](https://www.carboncure.com/careers/))
 - **2026-06-04** — news mention: Ready to do the best work of your career—while literally saving the planet?🌏  #CarbonCure is hiring  ([source](https://x.com/CarbonCure/status/2062560838926438843))

@@ -34,6 +34,8 @@ Founded in 2023 by Greenland native and noted geologist Minik Rosing and climate
 
 ## History
 
+- **2026-07-15** — refresh: coresignal
+- **2026-07-15** — refresh: coresignal
 - **2026-06-15** — refresh: coresignal
 - **2026-06-15** — refresh: coresignal
 - **2026-06-04** — news mention: We spent the day in conversation with farmers and advisors about what Glacial Rock Flour (GRF) could ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7468266088091402240/))

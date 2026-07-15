@@ -35,6 +35,9 @@ Klimate is a Copenhagen-based carbon asset management platform founded in 2020 t
 
 ## History
 
+- **2026-06-30** — news mention: 44 data points per batch. 63 validation items. Up to 20 evidence documents per site.
+
+As Richard Dav ([source](https://www.linkedin.com/feed/update/urn:li:share:7477337611133591552/))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot

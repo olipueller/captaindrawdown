@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolyzes Thai agricultural residues (rice, sugarcane, rubber, oil palm, durian, coconut) into biochar-enhanced fertilizers applied to smallholder farms, paired with IoT/satellite MRV for traceable"
 url: "/directory/happy-ground/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>Thailand</td></tr>
   <tr><th>Website</th><td><a href="https://happyground.org/" target="_blank" rel="noopener">https://happyground.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/happy-ground/" target="_blank" rel="noopener">happy-ground</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~2 (-33% YoY)</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -30,6 +30,19 @@ Happy Ground is developing a large-scale biochar project in Thailand with a nati
 
 ## History
 
+- **2026-07-15** — refresh: coresignal
+- **2026-07-15** — refresh: coresignal, liveliness
+- **2026-07-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.carbon-drawdown.de/blog/2025-9-10-portfolio-spotlight-happy-ground-biochar-in-thailand))
+- **2026-07-01** — news mention: Happy Ground: 🏗️ Building Block \#9 of 30 Building Blocks from the Last Year of Building Happy Groun ([source](https://www.linkedin.com/feed/update/urn:li:share:7477605006498697216/))
+- **2026-06-24** — news mention: 🏗️ Building Block #4 of 30 Building Blocks from the Last Year of Building Happy Ground
+
+𝑩𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒇𝒂𝒓 ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473121980695683072/))
+- **2026-06-24** — news mention: 🏗️ Building Block #5 of 30 Building Blocks from the Last Year of Building Happy Ground
+
+𝑩𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒎𝒆𝒂 ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473123411314061312/))
+- **2026-06-24** — news mention: 🏗️ Building Block #6 of 30 Building Blocks from the Last Year of Building Happy Ground
+
+𝑩𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒇𝒂𝒓 ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7474428090438524929/))
 - **2026-06-15** — refresh: coresignal
 - **2026-06-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot

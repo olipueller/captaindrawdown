@@ -45,6 +45,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-06-27** — news mention: Varaha - 2026 Company Profile, Team, Funding, Competitors & Financials - Tracxn ([source](https://tracxn.com/d/companies/varaha/__pYFx2Y2zYxhtWNdCQOl7mG7XezdedBAk4yh8CL6v_3g))
 - **2026-05-22** — news mention: Supercritical Partners With Varaha To Bring Distributed Biochar Credits To Market ([source](https://carbonherald.com/supercritical-partners-with-varaha-to-bring-distributed-biochar-credits-to-market/?utm_source=rss&utm_medium=rss&utm_campaign=supercritical-partners-with-varaha-to-bring-distributed-biochar-credits-to-market))
 - **2026-05-20** — news mention: #carbonunboundeastcoast #carbonunbound #carbonremoval #climateaction #netzero #decarbonization #carb ([source](https://www.linkedin.com/feed/update/urn:li:share:7462573132252459009/))
 - **2026-05-18** — news mention: Varaha & SAF Bangladesh Mark The Country’s First Agroforestry Credits Issued Under Verra’s Verified  ([source](https://carbonherald.com/varaha-saf-bangladesh-mark-the-countrys-first-agroforestry-credits-issued-under-verras-verified-carbon-standard/?utm_source=rss&utm_medium=rss&utm_campaign=varaha-saf-bangladesh-mark-the-countrys-first-agroforestry-credits-issued-under-verras-verified-carbon-standard))

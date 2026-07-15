@@ -45,6 +45,17 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-07-15** — refresh: coresignal
+- **2026-07-15** — refresh: coresignal
+- **2026-07-09** — news mention: Meta-analysis of the agronomic Benefits | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7480971203046854657/))
+- **2026-07-01** — news mention: Scaling CDR Summit | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7478075320630394881/))
+- **2026-07-01** — news mention: ClimeFi: Last week, @[ClimeFi](urn:li:organization:84962731) hosted two key events as part of @[Lond ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7477734405701292034/))
+- **2026-06-30** — news mention: Carbon Buyers Breakfast at the National Gallery | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7477379256109629440/))
+- **2026-06-27** — news mention: Breakfast and Learn | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7476192017988116481/))
+- **2026-06-27** — news mention: De-risking Carbon Removal | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7476284747636404226/))
+- **2026-06-26** — news mention: Wiemy jak usunąć CO2 z powietrza. Wykorzystamy do tego skały – Adrian Podgórny (Green Sequest) ([source](https://mamstartup.pl/wiemy-jak-usunac-co2-z-powietrza-wykorzystamy-do-tego-skaly-adrian-podgorny-green-sequest/))
+- **2026-06-26** — news mention: A Tour of Our CDR Greenhouse Experiment ([source](https://carbondrawdown.substack.com/p/a-tour-of-our-cdr-greenhouse-experiment))
+- **2026-06-26** — news mention: Carbon Removal London Event | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7475876915485224960/))
 - **2026-06-15** — refresh: coresignal
 - **2026-06-15** — refresh: coresignal
 - **2026-06-06** — news mention: Climeworks Expands Global Carbon Removal Footprint With Brazil Partnership and TD Bank Deal - TipRan ([source](https://www.tipranks.com/news/private-companies/climeworks-expands-global-carbon-removal-footprint-with-brazil-partnership-and-td-bank-deal))
@@ -64,10 +75,6 @@ Independently verified by carbon-credit registries:
 - **2026-04-19** — restored: Dirk confirmed 80 employees correct; switched linkedin_slug to clean inplanet (was woonderlands parent)
 - **2026-04-19** — nulled Coresignal enrichment — LinkedIn slug 'woonderlands' clearly not the same company; employee count 81 inflated
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://inplanet.earth/press/inplanet-secures-agreement-to-deliver-28500-enhanced-rock-weathering-credits-to-microsoft-providing-durable-carbon-removal-and-regenerative-agriculture-benefits-in-brazil/))
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://inplanet.earth/press/inplanet-secures-agreement-to-deliver-28500-enhanced-rock-weathering-credits-to-microsoft-providing-durable-carbon-removal-and-regenerative-agriculture-benefits-in-brazil/))
-- **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://inplanet.earth/press/inplanet-secures-agreement-to-deliver-28500-enhanced-rock-weathering-credits-to-microsoft-providing-durable-carbon-removal-and-regenerative-agriculture-benefits-in-brazil/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 

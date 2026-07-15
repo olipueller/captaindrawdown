@@ -33,6 +33,15 @@ BioCirc is a Danish circular bioeconomy company founded in 2021 that owns and op
 
 ## History
 
+- **2026-07-14** — news mention: The 650k-tonne BioCirc deal was signed in May, weeks after the reported pause. The real story: when  ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mql2yjswkl2b))
+- **2026-07-10** — news mention: Nuada deploys capture facility to advance Europe’s biogenic CO2 market | Carbon Capture | gasworld ([source](https://www.gasworld.com/story/nuada-deploys-capture-facility-to-advance-europes-biogenic-co2-market/2254113.article/))
+- **2026-06-29** — news mention: ProPublica's old charge that capture projects underdeliver against nameplate is back in circulation, ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpfprsqg5n2s))
+- **2026-06-29** — news mention: ProPublica's charge that capture projects underdeliver against nameplate is back in circulation, the ([source](https://x.com/CaptainDrawdown/status/2071460579064107151))
+- **2026-06-29** — news mention: Worth separating CCS (point-source on emitters) from CDR (removing legacy CO2). Geologic storage cap ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpfd25epqt26))
+- **2026-06-28** — news mention: BioCirc Launches World’s Largest BECCS Facility In Denmark  BioCirc has opened what it describes as  ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpd7gyyzva2b))
+- **2026-06-25** — news mention: BioCirc opens world's largest biogas-based CCS facility in Denmark - Bioenergy Insight Magazine ([source](https://www.bioenergy-news.com/news/biocirc-opens-worlds-largest-biogas-based-ccs-facility-in-denmark/))
+- **2026-06-24** — news mention: BioCirc Launches World’s Largest BECCS Facility In Denmark ([source](https://carbonherald.com/biocirc-launches-worlds-largest-beccs-facility-in-denmark/?utm_source=rss&utm_medium=rss&utm_campaign=biocirc-launches-worlds-largest-beccs-facility-in-denmark))
+- **2026-06-23** — news mention: First biogenic CO2 rolls out of Denmark biogas CCS facility | Carbon Capture | gasworld ([source](https://www.gasworld.com/story/first-biogenic-co2-rolls-out-of-denmark-biogas-ccs-facility/2252852.article/))
 - **2026-05-24** — news mention: Two corporate CDR offtakes this week reveal the market splitting in two: Microsoft signed 650kt of B ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmlbzeentl2m))
 - **2026-05-22** — news mention: Microsoft Signs Major Denmark Carbon Removal Deal ([source](https://serrarigroup.com/microsoft-signs-major-denmark-carbon-removal-deal/))
 - **2026-05-22** — news mention: Microsoft buys first carbon credits since reportedly pausing purchases | ESG Dive ([source](https://www.esgdive.com/news/microsoft-buys-first-carbon-credits-reportedly-pausing-purchases/820885/))

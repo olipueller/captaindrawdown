@@ -30,6 +30,8 @@ Founded in 2020, RepAir Carbon develops an ultra-efficient electrochemical syste
 
 ## History
 
+- **2026-07-09** — news mention: New Tasmania Natural Asset Trust To Invest $142M In Sustainable Forestry Plantations ([source](https://carbonherald.com/new-tasmania-natural-asset-trust-to-invest-142m-in-sustainable-forestry-plantations/))
+- **2026-07-08** — news mention: Federal Register :: Pipeline Safety: Repair Criteria for Hazardous Liquid and Gas Transmission Pipel ([source](https://www.federalregister.gov/documents/2026/07/08/2026-13805/pipeline-safety-repair-criteria-for-hazardous-liquid-and-gas-transmission-pipelines))
 - **2026-05-28** — news mention: Explainer: Direct Air Capture pulls CO2 out of ambient air at ~425 ppm, which is why it's energy-int ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmvh6b44x32b))
 - **2026-05-08** — news mention: War Harms the Environment. Can a Peace Treaty Repair the Damage? ([source](https://insideclimatenews.org/news/04052026/kurdish-fighters-turkey-peace-talks-environmental-impact/))
 - **2026-05-04** — news mention: True to a certain extent for now, but the framing matters.  Wind and solar cut emissions.  DAC remov ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mkzuh52v7323))

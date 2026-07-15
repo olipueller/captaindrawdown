@@ -31,6 +31,8 @@ The International Biochar Initiative (IBI) is a U.S.-based 501(c)(3) nonprofit m
 
 ## History
 
+- **2026-07-14** — news mention: We&amp;#39;re joining the International Biochar Initiative on 21 July for a webinar built for biocha ([source](https://www.linkedin.com/feed/update/urn:li:share:7482690374163996672/))
+- **2026-06-24** — news mention: Bio360 brought its flagship event to Africa for the first time this week and we were glad to be ther ([source](https://www.linkedin.com/feed/update/urn:li:share:7473738964319899649/))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-27** — news mention: Introducing the Biochar Operator Course - International Biochar Initiative ([source](https://biochar-international.org/event/introducing-the-biochar-operator-course/))
 - **2026-04-19** — refresh: coresignal

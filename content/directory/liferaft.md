@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolyzes agricultural and municipal biomass at facilities in Iowa and Illinois to produce biochar, which is blended with compost and applied to agricultural soils for durable carbon sequestration."
 url: "/directory/liferaft/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.liferaft.cc/" target="_blank" rel="noopener">https://www.liferaft.cc/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/liferaftcc/" target="_blank" rel="noopener">liferaftcc</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~30</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,8 @@ Liferaft is a U.S.-headquartered biochar company focused on durable carbon captu
 
 ## History
 
+- **2026-07-15** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-07-08** — news mention: Microsoft hit pause on carbon removal purchases. Now what? | DeviceDaily.com ([source](https://www.devicedaily.com/pin/microsoft-hit-pause-on-carbon-removal-purchases-now-what/))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness

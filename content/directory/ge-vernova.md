@@ -32,6 +32,8 @@ GE Vernova Inc. (NYSE: GEV) is a global energy technology company headquartered 
 
 ## History
 
+- **2026-07-03** — news mention: GE Vernova doubles down on nuclear, direct air capture, and grid AI at Aspen Ideas Festival ([source](https://www.marketscale.com/industries/energy/ge-vernova-doubles-down-on-nuclear-direct-air-capture-and-grid-ai-at-aspen-ideas-festival))
+- **2026-06-29** — news mention: GE Vernova Sustainability Report 2025: $11 bn Investment Accelerates Net Zero, Renewable Energy and  ([source](https://greentechlead.com/sustainability/ge-vernova-sustainability-report-2025-11-bn-investment-accelerates-net-zero-renewable-energy-and-grid-modernization-53971))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=side_business liveliness=🟢 Active ([source](https://www.gevernova.com/news/press-releases/ge-vernova-deploy-pioneering-direct-air-capture-technology-deep-sky-alpha-canada))

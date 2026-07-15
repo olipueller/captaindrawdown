@@ -31,6 +31,11 @@ CDRterra is a German federal research funding program (BMFTR, formerly BMBF) lau
 
 ## History
 
+- **2026-07-02** — news mention: CDR: POLICIES AND ETHICS | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7478387791521959936/))
+- **2026-06-27** — news mention: #cdrterra #carbondioxideremoval #cdr #climateresearch | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7476209175195222016/))
+- **2026-06-24** — news mention: #carbondioxideremoval #cdrterra #carbondioxideremoval #cdr #climateresearch #netzero #beccs #daccs # ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7475555039118417921/))
+- **2026-06-24** — news mention: #cdrexperiencetour #carbondioxideremoval #cdr #klimaforschung | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473707417059467264/))
+- **2026-06-24** — news mention: CDR - Experience Tour 2026 | German Biochar e.V. (German Biochar Association) ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473730588957544448/))
 - **2026-06-10** — news mention: #icnce26 #cdr #icnce26 #uptakeeuproject #carbondioxideremoval #cdr #cdrterra | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:share:7470202621920944129/))
 - **2026-05-22** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-21** — news mention: #cdr #carbondioxideremoval #klimaschutz #wissenstransfer | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:share:7462876992414289920/))

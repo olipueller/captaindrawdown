@@ -43,6 +43,10 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-07-15** — refresh: coresignal
+- **2026-07-15** — refresh: coresignal
+- **2026-06-24** — news mention: #vivatech #carbonremoval #climatetech #innovation | Carbonsate ([source](https://www.linkedin.com/feed/update/urn:li:share:7474808390699909121/))
+- **2026-06-24** — news mention: #gitexeurope #climatetech #carbonremoval #innovation | Carbonsate ([source](https://www.linkedin.com/feed/update/urn:li:share:7474819543136362496/))
 - **2026-06-15** — refresh: coresignal
 - **2026-06-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot

@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://ecoera.se/" target="_blank" rel="noopener">https://ecoera.se/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ecoera-ab/" target="_blank" rel="noopener">ecoera-ab</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 65/100) <small>— verified via puro issuance on 2024-03-31</small></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth <small>(last issuance: 2024-03-31)</small></td></tr>
@@ -41,6 +41,9 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-06-24** — news mention: In 2009, ECOERA AB started one of Europe&amp;#39;s earliest industrial biochar projects.
+
+Their firs ([source](https://www.linkedin.com/feed/update/urn:li:share:7474748029082894336/))
 - **2026-05-11** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://puro.earth/marketplace/ecoera))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot

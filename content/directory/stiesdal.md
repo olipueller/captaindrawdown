@@ -5,7 +5,7 @@ type: "directory"
 description: "Stiesdal SkyClean designs and operates 20 MW updraft pyrolysis plants that convert agricultural and forestry residues into biochar (permanent CO2 storage) plus bio-oil and syngas for"
 url: "/directory/stiesdal/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟠 Suspect"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Website</th><td><a href="https://www.stiesdal.com/skyclean/" target="_blank" rel="noopener">https://www.stiesdal.com/skyclean/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/stiesdal/" target="_blank" rel="noopener">stiesdal — 22,361 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
   <tr><th>Employees</th><td>~116 (-13% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
@@ -29,6 +29,7 @@ Stiesdal SkyClean A/S is the biochar/pyrolysis subsidiary of Danish climate-tech
 
 ## History
 
+- **2026-07-15** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://tracxn.com/d/companies/stiesdal/__h79S2VOWg66WGirOIAPhibfIMmPE3iLgz6ll_MtiuFU))
 - **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://tracxn.com/d/companies/stiesdal/__h79S2VOWg66WGirOIAPhibfIMmPE3iLgz6ll_MtiuFU))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://tracxn.com/d/companies/stiesdal/__h79S2VOWg66WGirOIAPhibfIMmPE3iLgz6ll_MtiuFU))
 - **2026-05-01** — refresh: screenshot

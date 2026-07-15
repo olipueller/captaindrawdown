@@ -28,6 +28,10 @@ CarbonMeld is an independent carbon-credit screening and scoring tool that publi
 
 ## History
 
+- **2026-07-11** — news mention: What Google and McKinsey’s Indonesia Offtake Signals About the Next Wave of Carbon Removal Finance · ([source](https://carbonmeld.com/en/articles/what-google-and-mckinsey-s-indonesia-offtake-signals-about-the-next-wave-of-carbon-removal-finance/))
+- **2026-07-09** — news mention: Why Abaxx’s Physically Settled Carbon Futures Matter for the Next Phase of Market Infrastructure · C ([source](https://carbonmeld.com/en/articles/why-abaxx-s-physically-settled-carbon-futures-matter-for-the-next-phase-of-market-infrastructure/))
+- **2026-06-26** — news mention: Why the First Verified Soil-Carbon Credits From Mycorrhizal Fungi Matter for the Next Phase of Agric ([source](https://carbonmeld.com/en/articles/why-the-first-verified-soil-carbon-credits-from-mycorrhizal-fungi-matter-for-the-next-phase-of-agricultural-climate-markets/))
+- **2026-06-23** — news mention: @CarbonMeld 450k tonnes across 14 buyers signals real portfolio behavior. Worth noting Climeworks it ([source](https://x.com/CaptainDrawdown/status/2069479305239806366))
 - **2026-06-15** — refresh: coresignal
 - **2026-06-04** — news mention: Asia’s Corporate Carbon Buying Is Moving From Ad Hoc Deals to Coordinated Demand · CarbonMeld ([source](https://carbonmeld.com/en/articles/asia-s-corporate-carbon-buying-is-moving-from-ad-hoc-deals-to-coordinated-demand/))
 - **2026-06-03** — news mention: @PIK_Climate @xring59 Edenhofer's framing matters: CDR sits inside a strict carbon budget, not outsi ([source](https://x.com/CaptainDrawdown/status/2062281402750570911))
@@ -54,10 +58,6 @@ CarbonMeld is an independent carbon-credit screening and scoring tool that publi
 - **2026-05-18** — news mention: South Korea’s Carbon Asset STO Plans Could Redefine How Tokenized Credits Are Traded Worldwide · Car ([source](https://carbonmeld.com/en/articles/south-korea-s-carbon-asset-sto-plans-could-redefine-how-tokenized-credits-are-traded-worldwide/))
 - **2026-05-15** — news mention: Frontier’s Approval of Rainbow Carbon Removal and the Rise of De Facto Registry Gatekeepers · Carbon ([source](https://carbonmeld.com/en/articles/frontier-s-approval-of-rainbow-carbon-removal-and-the-rise-of-de-facto-registry-gatekeepers/))
 - **2026-05-14** — news mention: Canada’s Carbon Price Deal and the New Politics of Industrial Decarbonisation · CarbonMeld ([source](https://carbonmeld.com/en/articles/canada-s-carbon-price-deal-and-the-new-politics-of-industrial-decarbonisation/))
-- **2026-05-14** — news mention: Why Corporate Carbon Credit Leaders Are Under a New Integrity Test · CarbonMeld ([source](https://carbonmeld.com/en/articles/why-corporate-carbon-credit-leaders-are-under-a-new-integrity-test/))
-- **2026-05-12** — news mention: Singapore’s Carbon Tax Quota Carryover: What the 2026 Relief Says About Credit Supply, Integrity, an ([source](https://carbonmeld.com/en/articles/singapore-s-carbon-tax-quota-carryover-what-the-2026-relief-says-about-credit-supply-integrity-and-market-design/))
-- **2026-05-12** — news mention: Why the EU’s Carbon Credit Clampdown Could Change Net-Zero Buying Across Compliance and Voluntary Ma ([source](https://carbonmeld.com/en/articles/why-the-eu-s-carbon-credit-clampdown-could-change-net-zero-buying-across-compliance-and-voluntary-markets/))
-- **2026-05-11** — news mention: When Carbon Projects Lose Social Licence: What Community Pushback Means for the Future of Offset Sup ([source](https://carbonmeld.com/en/articles/when-carbon-projects-lose-social-licence-what-community-pushback-means-for-the-future-of-offset-supply/))
 
 ---
 

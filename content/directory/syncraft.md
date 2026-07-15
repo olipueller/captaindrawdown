@@ -35,6 +35,11 @@ Syncraft is an Austrian high-tech company based in Schwaz, Tyrol that builds pat
 
 ## History
 
+- **2026-07-15** — refresh: coresignal
+- **2026-07-15** — refresh: coresignal
+- **2026-07-08** — news mention: #teamsyncraft #gemeinsamen #syncraft #teamsyncraft #dienstjubiläum #10jahre | SYNCRAFT ([source](https://www.linkedin.com/feed/update/urn:li:share:7480280849477799936/))
+- **2026-06-24** — news mention: #biocharsummit2026 #biochar #carbonremoval #syncraft #reversepowerplant #gänserndorf #networking #to ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473362437627453440/))
+- **2026-06-24** — news mention: #syncraft #biochar #ebc #carbonremoval #kreislaufwirtschaft #energiewende #biokohle | SYNCRAFT ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7475467721971974144/))
 - **2026-06-15** — refresh: coresignal
 - **2026-06-15** — refresh: coresignal
 - **2026-06-04** — news mention: #teamsyncraft #teamsyncraft #teamsyncraft #teamsyncraft | SYNCRAFT ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7467960335140950016/))

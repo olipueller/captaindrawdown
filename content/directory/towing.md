@@ -33,6 +33,7 @@ TOWING is a Nagoya University spinout founded in February 2020 that develops and
 
 ## History
 
+- **2026-07-06** — news mention: By 1850 New England was probably 80% deforested, and in some places 90% and 100%, but then they move ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mpy62yyqws2h))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-28** — news mention: I believe that U.S. auto manufacturers should have waited to try to build electric trucks and should ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mkkxczxt2k2v))

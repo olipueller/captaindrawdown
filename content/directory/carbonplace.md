@@ -5,7 +5,7 @@ type: "directory"
 description: "Bank-backed transaction network/marketplace that provides settlement, custody and multi-registry management for voluntary carbon credits, including CDR removal credits."
 url: "/directory/carbonplace/"
 pathway: "Enabling Tech"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://carbonplace.com/" target="_blank" rel="noopener">https://carbonplace.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonplace/" target="_blank" rel="noopener">carbonplace — 9,446 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~23 (-30% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -30,6 +30,8 @@ Carbonplace is a London-based carbon credit transaction and management platform 
 
 ## History
 
+- **2026-07-15** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-06-27** — news mention: Breakfast and Learn | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7476192017988116481/))
 - **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot

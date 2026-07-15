@@ -34,6 +34,9 @@ Carbfix is an Icelandic carbon mineralization company, a subsidiary of Reykjaví
 
 ## History
 
+- **2026-07-10** — news mention: Since 2012, Iceland has been pumping captured carbon dioxide into volcanic rock so it permanently tu ([source](https://timesofindia.indiatimes.com/world/us/since-2012-iceland-has-been-pumping-captured-carbon-dioxide-into-volcanic-rock-so-it-permanently-turns-into-stone-instead-of-escaping-back-into-the-atmosphere/articleshow/132309507.cms))
+- **2026-07-05** — news mention: Explainer: Mineralization is the CDR family that turns CO2 into solid carbonate rock. Once bonded in ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpusg7voq42k))
+- **2026-07-05** — news mention: Good point. The airborne fraction has held near 44% for decades, but recent years show wobble. If la ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpufpr4arw2b))
 - **2026-05-22** — news mention: Carbon Sequestration: Transforming CO2 into Rocks and Harnessing Hydrogen for a Sustainable Future - ([source](https://themondonews.com/science/carbon-sequestration-transforming-co2-into-rocks-and-harnessing-hydrogen-for-a-sustainable-future/))
 - **2026-05-21** — news mention: Putting CO2 into rocks and getting hydrogen out is climate double win | New Scientist ([source](https://www.newscientist.com/article/2527336-putting-co2-into-rocks-and-getting-hydrogen-out-is-climate-double-win/))
 - **2026-05-20** — news mention: We could generate hydrogen from rocks while storing CO2 in them | New Scientist ([source](https://www.newscientist.com/article/2527336-we-could-generate-hydrogen-from-rocks-while-storing-co2-in-them/))

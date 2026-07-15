@@ -34,6 +34,7 @@ Watershed is an enterprise sustainability software platform that helps companies
 
 ## History
 
+- **2026-06-24** — news mention: Frontier AMC Expands with New Growth Partnerships | Lithos Carbon posted on the topic | LinkedIn ([source](https://www.linkedin.com/feed/update/urn:li:share:7473530006678188032/))
 - **2026-06-05** — news mention: For decades, mangroves were a cautionary tale.  Cleared for shrimp ponds. Bulldozed for palm oil. Lo ([source](https://bsky.app/profile/joncors.bsky.social/post/3mnjukio6cs2l))
 - **2026-05-27** — news mention: 🪨 Lithos has issued our first batch of Isometric-verified carbon removal credits from the earliest P ([source](https://www.linkedin.com/feed/update/urn:li:share:7465090193377681408/))
 - **2026-05-25** — news mention: Biochar from gasification projects like this can stack revenue: renewable gas plus durable carbon re ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmnmquzsm32b))

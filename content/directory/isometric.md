@@ -34,6 +34,27 @@ Isometric is a carbon removal registry headquartered in London (with offices in 
 
 ## History
 
+- **2026-07-08** — news mention: Durable CDR Market Recap: June 2026 - Key Deals & Trends | CDR.fyi  Isometric raised <strong>$40 mil ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mq4n2me7ua2k))
+- **2026-07-07** — news mention: Durable CDR Market Recap: June 2026 — Key Deals & Trends | CDR.fyi ([source](https://www.cdr.fyi/blog/cdr-monthly-recap-june-2026))
+- **2026-07-04** — news mention: MRR: A New Tool in Applied Analysis for the Pharmaceutical Industry | Spectroscopy Online ([source](https://www.spectroscopyonline.com/view/mrr-a-new-tool-in-applied-analysis-for-the-pharmaceutical-industry))
+- **2026-07-02** — news mention: The carbon market broke because the referees were paid by the players. Isometric raised $40M by maki ([source](https://seriesastories.substack.com/p/the-carbon-market-broke-because-the))
+- **2026-07-01** — news mention: Scaling CDR Summit | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7478075320630394881/))
+- **2026-07-01** — news mention: Negative Emissions Platform: 📈 CDR Momentum, Edition 1 NEP Members are at the heart of this month's  ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7477687816446128129/))
+- **2026-07-01** — news mention: ClimeFi: Last week, @[ClimeFi](urn:li:organization:84962731) hosted two key events as part of @[Lond ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7477734405701292034/))
+- **2026-07-01** — news mention: Last week, more than 120 buyers, suppliers, investors, and policymakers joined Isometric for the Sca ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7477725280099422208/))
+- **2026-06-30** — news mention: Deep Sky Delivers First Certified DAC Carbon Credits to Microsoft, RBC - ESG Today ([source](https://www.esgtoday.com/deep-sky-delivers-first-certified-dac-carbon-credits-to-microsoft-rbc/))
+- **2026-06-30** — news mention: Deep Sky delivers North America's first certified direct air capture carbon credits | Carbon Capture ([source](https://carboncapturemagazine.com/articles/deep-sky-issues-north-americas-first-certified-direct-air-capture-carbon-credits))
+- **2026-06-30** — news mention: North America’s first Direct Air Capture certificates ([source](https://isometric.com/writing-articles/north-americas-first-direct-air-capture-certificates))
+- **2026-06-30** — news mention: Carbon Buyers Breakfast at the National Gallery | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7477379256109629440/))
+- **2026-06-29** — news mention: Deep Sky delivers North America’s first direct air capture carbon credits | BetaKit ([source](https://betakit.com/deep-sky-delivers-north-americas-first-direct-air-capture-carbon-credits/))
+- **2026-06-29** — news mention: Deep Sky delivers North America’s first certified DAC carbon removal credits | Carbon Capture | gasw ([source](https://www.gasworld.com/story/deep-sky-delivers-north-americas-first-certified-dac-carbon-removal-credits/2253271.article/))
+- **2026-06-28** — news mention: Funding Friday: Beyond Carbon Certification  Heatmap rounds up two weeks of climate tech funding, le ([source](https://x.com/CaptainDrawdown/status/2071130266265956705))
+- **2026-06-27** — news mention: Concorrente da Verra, Isometric capta R$ 210 milhões ([source](https://capitalreset.uol.com.br/empresas/concorrente-da-verra-isometric-capta-r-210-milhoes/))
+- **2026-06-26** — news mention: Funding Friday: Beyond Carbon Certification ([source](https://heatmap.news/climate-tech/isometric-series-a))
+- **2026-06-25** — news mention: Carbon Guide June 2026 | Anthesis Global ([source](https://www.anthesisgroup.com/insights/carbon-guide-june-2026/))
+- **2026-06-24** — news mention: Isometric Secures $40M To Bring AI Certification Beyond Carbon Markets  Isometric has raised $40M to ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3moztsjymln27))
+- **2026-06-23** — news mention: Isometric Secures $40M To Bring AI Certification Beyond Carbon Markets ([source](https://carbonherald.com/isometric-secures-40m-to-bring-ai-certification-beyond-carbon-markets/?utm_source=rss&utm_medium=rss&utm_campaign=isometric-secures-40m-to-bring-ai-certification-beyond-carbon-markets))
+- **2026-06-23** — news mention: Mati Carbon Is The First Company To Deliver Credits Under The New V1.2 ERW Isometric Protocol ([source](https://carbonherald.com/mati-carbon-is-the-first-company-to-deliver-credits-under-the-new-v1-2-erw-isometric-protocol/?utm_source=rss&utm_medium=rss&utm_campaign=mati-carbon-is-the-first-company-to-deliver-credits-under-the-new-v1-2-erw-isometric-protocol))
 - **2026-06-09** — news mention: Isometric Opens Draft Enhanced Weathering Modeling Rules To Public Input ([source](https://carbonherald.com/isometric-opens-draft-enhanced-weathering-modeling-rules-to-public-input/?utm_source=rss&utm_medium=rss&utm_campaign=isometric-opens-draft-enhanced-weathering-modeling-rules-to-public-input))
 - **2026-06-04** — news mention: Graphyte just stacked something no DAC pure-play has: a Sumitomo balance sheet behind it AND a live  ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mngu5pzrfo2o))
 - **2026-06-04** — news mention: Graphyte just stacked what no DAC pure-play has: Sumitomo balance-sheet backing AND a live Isometric ([source](https://x.com/CaptainDrawdown/status/2062401024032153630))
@@ -43,29 +64,6 @@ Isometric is a carbon removal registry headquartered in London (with offices in 
 - **2026-05-28** — news mention: Durability is clean in principle: mineralized CO2 in basalt is fixed within ~2 years. The qualifier  ([source](https://x.com/CaptainDrawdown/status/2059892651575439562))
 - **2026-05-28** — news mention: Explainer: Direct Air Capture pulls CO2 out of ambient air at ~425 ppm, which is why it's energy-int ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmvh6b44x32b))
 - **2026-05-27** — news mention: 🪨 Lithos has issued our first batch of Isometric-verified carbon removal credits from the earliest P ([source](https://www.linkedin.com/feed/update/urn:li:share:7465090193377681408/))
-- **2026-05-23** — news mention: Weekly link list: this week's connective tissue is infrastructure quietly being rebuilt around CDR.  ([source](https://x.com/CaptainDrawdown/status/2058084297249018276))
-- **2026-05-22** — news mention: CRCF, certified ([source](https://isometric.com/writing-articles/crcf-certified))
-- **2026-05-21** — news mention: The supplier set is wider than people think. Lithos, UNDO, Terradot, InPlanet, and Alt Carbon do cro ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mme57ibapp2b))
-- **2026-05-18** — news mention: Take: Dr. Sambuddha Misra: Drinking Tea to Save Coral Reefs? The Mechanics of Enhanced Rock Weatheri ([source](https://captaindrawdown.com/posts/podcast-take-dr-sambuddha-misra-drinking-tea-to-save-coral-reefs-the-mech-94bc4e01/))
-- **2026-05-18** — news mention: The AI Boom Needs Carbon Removal  The CEO of Climeworks argues in Heatmap News that carbon removal s ([source](https://x.com/CaptainDrawdown/status/2056268267589599562))
-- **2026-05-13** — news mention: What 900 carbon-removal social-media posts told me about engagement ([source](https://captaindrawdown.com/posts/what-900-cdr-posts-told-me-about-engagement/))
-- **2026-05-13** — news mention: Bedrock Initiative | Cascade Climate  https://t.co/vIT8uJlR4E https://t.co/ga1jN7LQEo ([source](https://x.com/CaptainDrawdown/status/2054428928710697108))
-- **2026-05-13** — news mention: Durable CDR Market Recap: April 2026 - Key Deals &amp; Trends  CDR.fyi's April 2026 recap logs rough ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mlpqfxxx2c2m))
-- **2026-05-12** — news mention: I understand the instinct. It sounds similar, but the analogy falls apart on inspection. ([source](https://x.com/dpaessler/status/2054185117765992576))
-- **2026-05-12** — news mention: Case Study: Vaulted Deep - Isometric ([source](https://isometric.com/case-studies/vaulted-deep))
-- **2026-05-12** — news mention: Isometric will be at Carbon Unbound East Coast. Here&amp;#39;s where you can find the team.
-
-On stag ([source](https://www.linkedin.com/feed/update/urn:li:share:7458506946460127232/))
-- **2026-05-11** — news mention: ICVCM approves another carbon credit standard, mangrove restoration rules as high integrity | News | ([source](https://www.eco-business.com/news/icvcm-approves-another-carbon-credit-standard-mangrove-restoration-rules-as-high-integrity/))
-- **2026-05-07** — news mention: Welcoming Isometric and Cercarbono to OffsetsDB – CarbonPlan ([source](https://carbonplan.org/blog/offsetsdb-cercarbono-isometric))
-- **2026-05-02** — news mention: Exomad Green and Supercritical taped a 10-min podcast announcing a 3-year, up-to-500k-tonne biochar  ([source](https://x.com/CaptainDrawdown/status/2050590646575006137))
-- **2026-05-02** — news mention: Yes, golf grass clippings can be pyrolyzed into biochar. However, because grass clippings are fine a ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkuz6aywyk2w))
-- **2026-05-01** — news mention: Solving distributed biochar&#x27;s certification problem ([source](https://isometric.com/writing-articles/solving-distributed-biochars-certification-problem))
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-04-30** — news mention: Verde And Isometric To Commercialize A New Category Of Carbon Credits  Verde Resources and Isometric ([source](https://x.com/CaptainDrawdown/status/2049715878086742265))
-- **2026-04-30** — news mention: Verde And Isometric To Commercialize A New Category Of Carbon Credits  Verde Resources and Isometric ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkotifsvp32y))
 
 ---
 

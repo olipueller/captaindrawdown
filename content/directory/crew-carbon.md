@@ -46,6 +46,9 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-07-15** — refresh: coresignal
+- **2026-07-15** — refresh: coresignal
+- **2026-06-24** — news mention: Frontier Commits $915M to Carbon Removal with CREW Carbon | CREW Carbon posted on the topic | Linked ([source](https://www.linkedin.com/feed/update/urn:li:share:7473061590855090177/))
 - **2026-06-15** — refresh: coresignal
 - **2026-06-15** — refresh: coresignal
 - **2026-06-10** — news mention: &amp;quot;The CREW system was recently tested at another HRSD plant nearby. It proved so effective t ([source](https://www.linkedin.com/feed/update/urn:li:share:7470227579673829376/))

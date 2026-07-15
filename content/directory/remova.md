@@ -5,7 +5,7 @@ type: "directory"
 description: "Remova is developing a purpose-built BECCS/Bio-CCS facility in Central Alberta that converts forest and mill residuals into renewable energy while permanently storing biogenic CO2 underground."
 url: "/directory/remova/"
 pathway: "BECCS"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.remova.earth/" target="_blank" rel="noopener">https://www.remova.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/remova-carbon-systems/" target="_blank" rel="noopener">remova-carbon-systems — 62 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,8 @@ Remova Carbon Systems Ltd. is a Calgary-based Canadian carbon dioxide removal de
 
 ## History
 
+- **2026-07-15** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-06-24** — news mention: #climateweeknyc #carbonremoval #cdr #corcs #newyork #purocdrsummit | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:share:7473721490056609793/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate

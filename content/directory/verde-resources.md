@@ -29,6 +29,8 @@ Verde Resources Inc. (OTCQB: VRDR) is a St. Louis-based sustainable infrastructu
 
 ## History
 
+- **2026-07-04** — news mention: Verde Lands 10-Year Biochar Paving Deal With Ergon, Eyes Carbon Credits  Verde Resources (OTCQB: VRD ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpsbpuwbvz26))
+- **2026-07-03** — news mention: Verde Lands 10-Year Biochar Paving Deal With Ergon, Eyes Carbon Credits ([source](https://carbonherald.com/verde-lands-10-year-biochar-paving-deal-with-ergon-eyes-carbon-credits/?utm_source=rss&utm_medium=rss&utm_campaign=verde-lands-10-year-biochar-paving-deal-with-ergon-eyes-carbon-credits))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-30** — news mention: Verde And Isometric To Commercialize A New Category Of Carbon Credits  Verde Resources and Isometric ([source](https://x.com/CaptainDrawdown/status/2049715878086742265))

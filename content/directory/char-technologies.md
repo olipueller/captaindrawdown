@@ -30,6 +30,7 @@ CHAR Technologies Ltd. (TSXV:YES) is a Toronto-based cleantech company operating
 
 ## History
 
+- **2026-07-13** — news mention: CHAR Technologies Ltd. (CVE:YES) | ([source](https://lesechos-comfi.lesechos.fr/press-release/char-technologies-ltd-cve-yes-char-tech-welcomes-quebecs-87-billion-energy-plan-backing-biomass-to-renewable-energy-kCsRF9oBfFH))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot

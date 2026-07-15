@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.brodiebiomass.co.uk/" target="_blank" rel="noopener">https://www.brodiebiomass.co.uk/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/brodiebiomass/" target="_blank" rel="noopener">brodiebiomass — 1,693 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~4 (+33% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -32,6 +32,7 @@ Brodie Biomass is a biochar production arm of Brodie Farms, a family-owned Surre
 
 ## History
 
+- **2026-06-29** — news mention: I'm not 100% sure. I suspect Brodie Biomass (who operate the same technology) produces more biochar  ([source](https://bsky.app/profile/danwrench.bsky.social/post/3mpg36pwxuc22))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.brodiebiomass.co.uk/))

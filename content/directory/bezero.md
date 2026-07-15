@@ -30,6 +30,7 @@ BeZero Carbon is a global ratings agency for the Voluntary Carbon Market whose c
 
 ## History
 
+- **2026-06-29** — news mention: BeZero Expands Its Platform By Acquiring Cedar ([source](https://carbonherald.com/bezero-expands-its-platform-by-acquiring-cedar/?utm_source=rss&utm_medium=rss&utm_campaign=bezero-expands-its-platform-by-acquiring-cedar))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness

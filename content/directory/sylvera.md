@@ -34,6 +34,8 @@ Sylvera is a UK-based carbon credit ratings and data platform that independently
 
 ## History
 
+- **2026-07-14** — news mention: Sylvera Market Report Outlines Rising Carbon Credit Prices and Surging Corporate Offtake Investments ([source](https://biochartoday.com/news/sylvera-market-report-outlines-rising-carbon-credit-prices-and-surging-corporate-offtake-investments-for-the-global-biochar-sector/))
+- **2026-07-14** — news mention: The Remove carbon dioxide removal (CDR) accelerator has launched its first program in Latin America. ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mqmkbz3qes2t))
 - **2026-06-05** — news mention: Billions In CORSIA Compliance Spending Held Up By Missing Govt Approvals, Sylvera Warns ([source](https://carbonherald.com/billions-in-corsia-compliance-spending-held-up-by-missing-govt-approvals-sylvera-warns/?utm_source=rss&utm_medium=rss&utm_campaign=billions-in-corsia-compliance-spending-held-up-by-missing-govt-approvals-sylvera-warns))
 - **2026-05-14** — news mention: CDR Daily Digest — 2026-05-14 ([source](https://www.captaindrawdown.com/posts/daily-digest-2026-05-14/))
 - **2026-05-14** — news mention: 377 biochar companies, but barely any with real headcount. This chart plots every CDR pathway by com ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mlsavjcio62w))

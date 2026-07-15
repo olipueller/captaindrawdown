@@ -5,7 +5,7 @@ type: "directory"
 description: "Applies beneficial microorganisms with crop seeds that accelerate silicate weathering and carbonate precipitation in the root zone, converting atmospheric CO2 into stable soil inorganic carbon."
 url: "/directory/andes/"
 pathway: "Mineralization"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.andes.bio/" target="_blank" rel="noopener">https://www.andes.bio/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/andesag/" target="_blank" rel="noopener">andesag — 12,188 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~27</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,6 +31,9 @@ Andes is a climate tech startup headquartered in Alameda, California that uses b
 
 ## History
 
+- **2026-07-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.andes.bio/carbon-removals))
+- **2026-07-05** — news mention: Explainer: Mineralization is the CDR family that turns CO2 into solid carbonate rock. Once bonded in ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpusg7voq42k))
+- **2026-07-05** — news mention: Good point. The airborne fraction has held near 44% for decades, but recent years show wobble. If la ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpufpr4arw2b))
 - **2026-06-15** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.andes.bio/carbon-removals))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.andes.bio/carbon-removals))
 - **2026-05-01** — refresh: screenshot

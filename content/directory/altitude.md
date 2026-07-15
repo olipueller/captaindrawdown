@@ -32,6 +32,8 @@ Altitude is a Switzerland-based carbon removal financier that provides structure
 
 ## History
 
+- **2026-07-15** — refresh: coresignal
+- **2026-07-15** — refresh: coresignal
 - **2026-06-15** — refresh: coresignal
 - **2026-06-15** — refresh: coresignal
 - **2026-06-09** — news mention: Thanks to Nasdaq for hosting Benjamin Schulz Altitude discussing the potential of large scale CDR fi ([source](https://www.linkedin.com/feed/update/urn:li:share:7469752168351424512/))

@@ -31,6 +31,7 @@ Carbonaires is a London-based carbon asset management and finance firm that stru
 
 ## History
 
+- **2026-07-10** — news mention: Shoosmiths To Invest In HUSK Biochar Credits Via Carbonaires ([source](https://carbonherald.com/shoosmiths-to-invest-in-husk-biochar-credits-via-carbonaires/?utm_source=rss&utm_medium=rss&utm_campaign=shoosmiths-to-invest-in-husk-biochar-credits-via-carbonaires))
 - **2026-05-03** — news mention: Daily digest: W18 picks from 48 candidate stories. Headline signal this week is a five-year scorecar ([source](https://x.com/CaptainDrawdown/status/2050968952516349989))
 - **2026-05-03** — news mention: Daily digest: W18 picks from 48 candidate stories. Headline signal this week is a five-year scorecar ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkxjpttl6227))
 - **2026-05-02** — news mention: This Week in CDR - May 1, 2026 | CDR.fyi ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7455979489584619520/))

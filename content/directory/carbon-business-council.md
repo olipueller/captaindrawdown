@@ -30,6 +30,12 @@ The Carbon Business Council (CO2BC) is a nonprofit, tech-neutral trade associati
 
 ## History
 
+- **2026-07-14** — news mention: Carbon Business Council Issue New Brief Outlines Path to Scale the Direct Storage of Biomass &#8211; ([source](https://biochartoday.com/news/carbon-business-council-issue-new-brief-outlines-path-to-scale-the-direct-storage-of-biomass/))
+- **2026-07-09** — news mention: Market momentum toward durable, high-integrity removals continues to build, and the last few weeks s ([source](https://www.linkedin.com/feed/update/urn:li:share:7480617152807428098/))
+- **2026-07-01** — news mention: Carbon Business Council: London Climate Action Week 2026 was a marquee event for the global carbon r ([source](https://www.linkedin.com/feed/update/urn:li:share:7477764172060139520/))
+- **2026-06-25** — news mention: Report: Corporate Investment in Carbon Removal Hinges on Policy Clarity | Carbon Business Council ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7475581088539586560/))
+- **2026-06-24** — news mention: Carbon removal in Canada is entering a new phase, and the range of sectors getting involved reflects ([source](https://www.linkedin.com/feed/update/urn:li:share:7475163887344971776/))
+- **2026-06-24** — news mention: #climateweeknyc #carbonremoval #cdr #corcs #newyork #purocdrsummit | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:share:7473721490056609793/))
 - **2026-06-02** — news mention: How data center demand can accelerate climate tech deployment ([source](https://www.esgdive.com/news/how-data-center-demand-can-accelerate-climate-tech-deployment/821465/))
 - **2026-05-29** — news mention: Carbon removal in Asia-Pacific is moving towards implementation, a shift visible throughout the APAC ([source](https://www.linkedin.com/feed/update/urn:li:share:7466124373242896386/))
 - **2026-05-29** — news mention: Corporate buyers are measuring climate strategy the same way they measure everything else: long-term ([source](https://www.linkedin.com/feed/update/urn:li:share:7465761742090989568/))

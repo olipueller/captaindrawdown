@@ -5,7 +5,7 @@ type: "directory"
 description: "Independent UK decarbonisation developer leading the Acorn CCS and hydrogen project at St Fergus and previously partnered with Carbon Engineering on a planned 0.5–1 Mt/yr DAC facility in north-east"
 url: "/directory/storeggapale-blue-dot-energy/"
 pathway: "DAC"
-liveliness: "🟠 Suspect"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://storegga.earth/" target="_blank" rel="noopener">https://storegga.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/storegga-geotechnologies/" target="_blank" rel="noopener">storegga-geotechnologies — 10,141 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~67 (-39% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,6 +31,7 @@ Storegga (holding company of Pale Blue Dot Energy) is a UK-based independent dev
 
 ## History
 
+- **2026-07-15** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://tracxn.com/d/companies/storegga-geotechnologies/__hCSdFXwyS0v6KUYLPxphAW2Neg61LXtkP1vl-IU3yG8/funding-and-investors))
 - **2026-06-15** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://tracxn.com/d/companies/storegga-geotechnologies/__hCSdFXwyS0v6KUYLPxphAW2Neg61LXtkP1vl-IU3yG8/funding-and-investors))
 - **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://tracxn.com/d/companies/storegga-geotechnologies/__hCSdFXwyS0v6KUYLPxphAW2Neg61LXtkP1vl-IU3yG8/funding-and-investors))
 - **2026-05-01** — refresh: screenshot

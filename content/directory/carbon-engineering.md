@@ -30,6 +30,8 @@ Carbon Engineering is a Canadian DAC technology developer headquartered in Squam
 
 ## History
 
+- **2026-07-10** — news mention: Right - DAC pulls CO2 straight from the air, unlike point-source CCS. Per Carbon Engineering's own p ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mqbomczamm2k))
+- **2026-07-05** — news mention: Cost of direct air carbon capture to remain higher than hoped | ScienceDaily ([source](https://www.sciencedaily.com/releases/2024/03/240304135808.htm))
 - **2026-06-05** — news mention: Carbon Capture and Storage Equipment Market Set for Strong Growth at 10.2% CAGR by 2032 | Climeworks ([source](https://www.openpr.com/news/4539574/carbon-capture-and-storage-equipment-market-set-for-strong))
 - **2026-05-13** — news mention: The Negative Emissions Summit 2026 is just weeks away and our 4th edition is shaping up to be our bi ([source](https://www.linkedin.com/feed/update/urn:li:share:7459642942765383680/))
 - **2026-05-01** — refresh: coresignal, screenshot

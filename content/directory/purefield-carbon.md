@@ -5,7 +5,7 @@ type: "directory"
 description: "Captures biogenic CO2 from wheat-starch ethanol fermentation at Russell, Kansas and injects it via a Class VI well into the Arbuckle formation ~3,500 ft underground for permanent geologic"
 url: "/directory/purefield-carbon/"
 pathway: "BECCS"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.purefield.com/" target="_blank" rel="noopener">https://www.purefield.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/purefield-ingredients/" target="_blank" rel="noopener">purefield-ingredients — 1,107 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~43</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
@@ -30,6 +30,8 @@ PureField Carbon Capture, LLC is a subsidiary of PureField Ingredients authorize
 
 ## History
 
+- **2026-07-15** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-07-04** — news mention: EPA Grants First Class VI CCS Permit In Kansas ([source](https://carbonherald.com/epa-grants-first-class-vi-ccs-permit-in-kansas/))
 - **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
