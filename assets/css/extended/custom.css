@@ -136,9 +136,23 @@ a:hover, body.dark a:hover, .post-content a:hover {
 .post-content pre, .post-content pre code { background: var(--code-block-bg); }
 .post-content blockquote { border-inline-start: 3px solid var(--cd-signal); color: var(--secondary); }
 
-/* — prose tables — */
-.post-content table th { background: var(--entry); color: var(--primary); }
-.post-content table td, .post-content table th { border-color: var(--border); }
+/* — data tables (markdown → .post-content table): the cd-table look — */
+.post-content table { border-collapse: collapse; font-weight: 400; font-variant-numeric: tabular-nums; }
+.post-content table th {
+  background: var(--entry); color: var(--primary);
+  text-transform: uppercase; letter-spacing: 0.06em; font-size: 12px; font-weight: 600;
+  text-align: left; padding: 12px 16px; border-bottom: 1px solid var(--border);
+}
+.post-content table td { padding: 10px 16px; border-bottom: 1px solid rgba(255,255,255,0.06); border-inline: 0; }
+.post-content table tbody tr:hover td, .post-content table tr:hover td { background: rgba(255,255,255,0.04); }
+.post-content table a { color: var(--cd-sky); }
+.post-content table a:hover { color: #A9DCF2; }
+
+/* — chart images on a white plate (cd-figure) — a white matplotlib PNG
+     reads cleanly against the petrol page inside a rounded white plate — */
+.post-content img[src*="/charts/"], .post-content img[src*="chart"] {
+  background: #fff; border-radius: 8px; padding: 12px; box-sizing: border-box;
+}
 
 /* — footer / social — */
 .footer, .footer a, body.dark .footer { color: var(--secondary); font-weight: 300; }
