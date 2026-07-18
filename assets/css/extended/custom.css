@@ -1,80 +1,182 @@
-/* CaptainDrawdown brand colors — V1 heritage */
-:root {
-  --brand-navy: #0a1930;
-  --brand-teal: #00c8b4;
-}
+/* ============================================================
+   CaptainDrawdown — "Petrol & Signal" bridge for PaperMod
+   Maps PaperMod's own CSS variables to the petrol design tokens
+   so the whole site adopts the palette + Montserrat without any
+   markup changes. Component classes (cd-*) live in petrol-signal.css.
+   ============================================================ */
 
+:root,
+html,
+body,
 body.dark {
-  --primary: #00c8b4;
-  --secondary: #8899aa;
-  --theme: #0a1930;
-  --entry: #0f2340;
-  --border: #1a3355;
-  --code-bg: #0f2340;
+  /* PaperMod core variables → petrol tokens */
+  --theme: #08222B;              /* page background            */
+  --entry: #0C3A47;              /* cards / entries (petrol)   */
+  --primary: #FFFFFF;            /* strong text / headings     */
+  --secondary: rgba(255,255,255,0.65);
+  --tertiary: #0E4453;           /* subtle surfaces / hover    */
+  --content: rgba(255,255,255,0.88);
+  --border: rgba(255,255,255,0.10);
+  --code-bg: #0C3A47;
+  --code-block-bg: #071A21;
+  --hljs-bg: #071A21;
+
+  /* petrol accents (type-coded, same as the social cards) */
+  --cd-signal:  #FF7A45;
+  --cd-seafoam: #63D2B2;
+  --cd-amber:   #FFC94D;
+  --cd-sky:     #7FC8E8;
+  --cd-signal-hover: #FFA07C;
 }
 
+/* — base type — */
+html { scroll-behavior: smooth; }
+body {
+  background: var(--theme);
+  color: var(--content);
+  font-family: 'Montserrat', 'Helvetica Neue', Arial, sans-serif;
+  font-weight: 300;
+  line-height: 1.65;
+}
+h1, h2, h3, h4, h5,
+.post-title, .entry-header h2,
+.post-content h1, .post-content h2, .post-content h3,
 body.dark .post-title,
-body.dark .post-content h1,
-body.dark .post-content h2,
-body.dark .post-content h3 { color: #e8ecf1; }
-body.dark a { color: #00c8b4; }
-body.dark a:hover { color: #33d6c8; }
-body.dark .entry:hover { background: #132a4a; }
-body.dark .home-info .entry-content { color: #b0bec5; }
-.social-icons a svg { fill: #00c8b4; }
-.social-icons a:hover svg { fill: #33d6c8; }
-body.dark .footer { color: #6b7d8d; }
-body.dark .nav a { color: #00c8b4; }
-body.dark .logo a { color: #00c8b4; }
-body.dark .post-tags a {
-  background: #0f2340; border: 1px solid #00c8b4; color: #00c8b4;
+body.dark .post-content h1, body.dark .post-content h2, body.dark .post-content h3 {
+  color: var(--primary);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  line-height: 1.15;
 }
-body.dark .post-tags a:hover { background: #00c8b4; color: #0a1930; }
 
-/* Directory styles */
+/* — links: signal orange — */
+a, body.dark a, .post-content a { color: var(--cd-signal); text-decoration: none; }
+a:hover, body.dark a:hover, .post-content a:hover {
+  color: var(--cd-signal-hover); text-decoration: underline; text-underline-offset: 3px;
+}
+:focus-visible { outline: 2px solid var(--cd-sky); outline-offset: 2px; }
+::selection { background: rgba(255,122,69,0.35); }
+
+/* — nav / header — */
+.nav { border-bottom: 1px solid var(--border); }
+.logo a, body.dark .logo a {
+  color: var(--primary) !important;
+  font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; font-size: 15px;
+}
+#menu a, .nav a, body.dark .nav a { color: rgba(255,255,255,0.75); font-weight: 500; }
+#menu a:hover, #menu li.active a {
+  color: var(--primary); text-decoration: none;
+  border-bottom: 2px solid var(--cd-signal);
+}
+.logo-switches .theme-toggle svg { fill: rgba(255,255,255,0.65); }
+
+/* — home info (hero) — */
+.home-info .entry-content, body.dark .home-info .entry-content { color: var(--secondary); font-weight: 300; }
+.home-info .entry-header h1, .home-info h1 { font-weight: 700; }
+
+/* — post entries (home / list cards) → petrol surface with accent rail — */
+.post-entry, .entry {
+  background: var(--entry);
+  border: 1px solid var(--border);
+  border-bottom: 5px solid var(--cd-signal);
+  border-radius: 14px;
+  padding: 28px;
+  transition: background .18s ease-out, transform .18s ease-out;
+}
+.post-entry:hover, .entry:hover, body.dark .entry:hover {
+  background: var(--tertiary);
+  transform: translateY(-2px);
+}
+.entry-header h2 { font-size: 21px; font-weight: 600; letter-spacing: -0.01em; }
+.entry-hint, .entry-footer, .post-meta {
+  color: var(--secondary); font-weight: 300; font-size: 13px;
+}
+.first-entry { min-height: auto; }
+.first-entry .entry-header h1 { font-size: clamp(30px, 5vw, 46px); }
+
+/* — post tags → pill chips — */
+.post-tags a, body.dark .post-tags a {
+  background: var(--entry); border: 1px solid var(--cd-signal); color: var(--cd-signal);
+  border-radius: 999px;
+}
+.post-tags a:hover, body.dark .post-tags a:hover { background: var(--cd-signal); color: #12262B; }
+
+/* — buttons / pagination / top-link — */
+.button, .top-link, .paginav a {
+  background: var(--cd-signal); color: #12262B; border-radius: 999px;
+  font-weight: 600; letter-spacing: 0.06em;
+}
+.button:hover, .top-link:hover { background: var(--cd-signal-hover); color: #12262B; }
+.paginav a { padding: 10px 18px; }
+
+/* — code / quotes — */
+.post-content code { background: var(--code-bg); border-radius: 4px; }
+.post-content pre, .post-content pre code { background: var(--code-block-bg); }
+.post-content blockquote { border-inline-start: 3px solid var(--cd-signal); color: var(--secondary); }
+
+/* — prose tables — */
+.post-content table th { background: var(--entry); color: var(--primary); }
+.post-content table td, .post-content table th { border-color: var(--border); }
+
+/* — footer / social — */
+.footer, .footer a, body.dark .footer { color: var(--secondary); font-weight: 300; }
+.social-icons a svg { fill: var(--cd-signal); }
+.social-icons a:hover svg { fill: var(--cd-signal-hover); }
+
+/* — misc chrome — */
+.page-header h1 { font-weight: 700; }
+.archive-month, .archive-year { border-color: var(--border); }
+hr { border-color: var(--border); }
+
+/* ============================================================
+   Data pages (directory / census) — existing classes,
+   recoloured from the old teal/navy to petrol tokens.
+   ============================================================ */
 .directory-stats, .census-stats {
   display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
   gap: 15px; margin: 20px 0;
 }
 .stat-card {
-  background: #0f2340; border-radius: 8px; padding: 15px; text-align: center;
+  background: var(--entry); border-radius: 8px; padding: 15px; text-align: center;
+  border: 1px solid var(--border);
 }
-.stat-card .number { font-size: 2em; font-weight: bold; color: #00c8b4; }
-.stat-card .label { font-size: 0.85em; color: #8899aa; margin-top: 4px; }
+.stat-card .number { font-size: 2em; font-weight: 800; color: var(--cd-sky); }
+.stat-card .label { font-size: 0.85em; color: var(--secondary); margin-top: 4px; }
 .company-grid {
   display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   gap: 12px; margin: 20px 0;
 }
 .company-card {
-  background: #0f2340; border-radius: 8px; padding: 15px;
-  border-left: 4px solid #00c8b4; transition: transform 0.15s;
+  background: var(--entry); border-radius: 8px; padding: 15px;
+  border-left: 4px solid var(--cd-signal); transition: transform 0.15s, background 0.15s;
 }
-.company-card:hover { transform: translateY(-2px); background: #132a4a; }
+.company-card:hover { transform: translateY(-2px); background: var(--tertiary); }
 .company-card h3 { margin: 0 0 6px 0; font-size: 1em; }
-.company-card h3 a { text-decoration: none; color: #e8ecf1; }
-.company-card .meta { font-size: 0.8em; color: #8899aa; }
+.company-card h3 a { text-decoration: none; color: var(--primary); }
+.company-card .meta { font-size: 0.8em; color: var(--secondary); }
 .pathway-badge {
-  display: inline-block; padding: 2px 8px; border-radius: 4px;
-  font-size: 0.75em; font-weight: bold; background: #00c8b4; color: #0a1930;
+  display: inline-block; padding: 2px 8px; border-radius: 999px;
+  font-size: 0.75em; font-weight: 600; background: var(--cd-sky); color: #12262B;
 }
 .health-badge { display: inline-block; margin-left: 6px; }
 .filter-bar {
   display: flex; gap: 10px; margin: 15px 0; flex-wrap: wrap;
 }
 .filter-bar select, .filter-bar input {
-  padding: 8px 12px; border-radius: 6px; border: 1px solid #1a3355;
-  background: #0f2340; color: #00c8b4; font-size: 0.9em;
+  padding: 8px 12px; border-radius: 8px; border: 1px solid var(--border);
+  background: var(--entry); color: var(--primary); font-size: 0.9em; font: inherit;
 }
 .pathway-table { width: 100%; border-collapse: collapse; margin: 15px 0; }
-.pathway-table th, .pathway-table td { padding: 8px 12px; text-align: left; border-bottom: 1px solid #1a3355; }
-.pathway-table th { background: #0f2340; font-weight: bold; }
+.pathway-table th, .pathway-table td { padding: 8px 12px; text-align: left; border-bottom: 1px solid var(--border); }
+.pathway-table th { background: var(--entry); font-weight: 600; color: var(--primary); text-transform: uppercase; letter-spacing: 0.06em; font-size: 0.8em; }
+.pathway-table a { color: var(--cd-sky); }
 .researcher-card {
-  background: #0f2340; border-radius: 8px; padding: 15px; margin: 10px 0;
-  border-left: 4px solid #00c8b4;
+  background: var(--entry); border-radius: 8px; padding: 15px; margin: 10px 0;
+  border-left: 4px solid var(--cd-signal);
 }
 .metrics-table { width: 100%; border-collapse: collapse; margin: 10px 0; }
-.metrics-table th, .metrics-table td { padding: 6px 10px; border-bottom: 1px solid #1a3355; }
+.metrics-table th, .metrics-table td { padding: 6px 10px; border-bottom: 1px solid var(--border); }
 #search-results .result-item {
-  padding: 10px; border-bottom: 1px solid #1a3355; cursor: pointer;
+  padding: 10px; border-bottom: 1px solid var(--border); cursor: pointer;
 }
-#search-results .result-item:hover { background: #0f2340; }
+#search-results .result-item:hover { background: var(--entry); }
