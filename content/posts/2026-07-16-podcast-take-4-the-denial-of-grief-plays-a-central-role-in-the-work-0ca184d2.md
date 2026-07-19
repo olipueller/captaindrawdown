@@ -2,7 +2,7 @@
 title: "Take: #4: the denial of grief plays a central role in the work"
 date: 2026-07-16T10:00:00+00:00
 slug: "podcast-take-4-the-denial-of-grief-plays-a-central-role-in-the-work-0ca184d2"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "carbon-removal-newsroom"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"

@@ -2,7 +2,7 @@
 title: "Take: 408: The impossible taxonomy of carbon dioxide removal"
 date: 2026-07-16T10:00:00+00:00
 slug: "podcast-take-408-the-impossible-taxonomy-of-carbon-dioxide-removal-5b47d3cd"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "reversing-climate-change"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"

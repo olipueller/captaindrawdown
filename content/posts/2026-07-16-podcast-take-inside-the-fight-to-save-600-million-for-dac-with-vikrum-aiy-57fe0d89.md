@@ -2,7 +2,7 @@
 title: "Take: Inside the Fight to Save $600 Million for DAC - with Vikrum Aiyer"
 date: 2026-07-16T10:00:00+00:00
 slug: "podcast-take-inside-the-fight-to-save-600-million-for-dac-with-vikrum-aiy-57fe0d89"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "the-cdr-policy-scoop"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"
