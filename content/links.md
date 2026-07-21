@@ -11,7 +11,7 @@ ShowToc: false
 ## Social Platforms
 
 - 🦋 **Bluesky** — [@captaindrawdown.bsky.social](https://bsky.app/profile/captaindrawdown.bsky.social)
-- 🐦 **X (Twitter)** — [@CaptainDrawdown](https://x.com/CaptainDrawdown)
+- 💼 **LinkedIn** — [Captain Drawdown](https://www.linkedin.com/company/112017596/)
 
 
 ## The Organization

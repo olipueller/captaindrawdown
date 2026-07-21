@@ -18,7 +18,7 @@ I try to be useful rather than preachy. Nobody wants to be told what to think ab
 
 Three things, all mine to build and keep current:
 
-- **A daily stream of analysis** — news logs, data visualisations, and long-form essays — published here and across [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social), [X](https://x.com/CaptainDrawdown), and [LinkedIn](https://www.linkedin.com/company/112017596/).
+- **A daily stream of analysis** — news logs, data visualisations, and long-form essays — published here and across [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social) and [LinkedIn](https://www.linkedin.com/company/112017596/).
 - **The [CDR Company Directory](/directory/)** — around 1,500 carbon-removal companies, each classified by pathway and tracked for signs of life. Its origin story is [how I built the CDR Directory](/posts/how-we-built-the-cdr-directory/); I audit it in the open, e.g. this [directory health check](/posts/cdr-directory-health-check-march-2026/).
 - **The [CDR Researcher Census](/cdr-researcher-census/)** — every researcher who has published on CDR since 2021 (88,000+ and counting), profiled by pathway, sector, country and career stage, refreshed automatically every month.
 
