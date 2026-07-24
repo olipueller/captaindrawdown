@@ -2,7 +2,7 @@
 title: "Take: Biochar in agriculture: How can biochar create opportunities in the carbon market? - Emily Wilson"
 date: 2026-07-21T10:00:00+00:00
 slug: "yt-take-biochar-in-agriculture-how-can-biochar-create-opportunities--mx6j74s0"
-draft: true
+draft: false
 tags: ["cdr", "youtube-take", "local-land-services-nsw"]
 categories: ["youtube-take"]
 content_type: "type11_youtube"

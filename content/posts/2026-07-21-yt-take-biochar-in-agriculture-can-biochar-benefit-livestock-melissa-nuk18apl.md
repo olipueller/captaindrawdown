@@ -2,7 +2,7 @@
 title: "Take: Biochar in agriculture: Can biochar benefit livestock - Melissa Rebeck"
 date: 2026-07-21T10:00:00+00:00
 slug: "yt-take-biochar-in-agriculture-can-biochar-benefit-livestock-melissa-nuk18apl"
-draft: true
+draft: false
 tags: ["cdr", "youtube-take", "local-land-services-nsw"]
 categories: ["youtube-take"]
 content_type: "type11_youtube"
