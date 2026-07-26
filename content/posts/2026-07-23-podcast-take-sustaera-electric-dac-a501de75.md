@@ -2,7 +2,7 @@
 title: "Take: Sustaera - electric DAC"
 date: 2026-07-23T10:00:00+00:00
 slug: "podcast-take-sustaera-electric-dac-a501de75"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "reviewer-2-does-geoengineering"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"

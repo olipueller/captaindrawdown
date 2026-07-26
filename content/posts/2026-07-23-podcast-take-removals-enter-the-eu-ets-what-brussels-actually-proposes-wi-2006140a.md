@@ -2,7 +2,7 @@
 title: "Take: Removals Enter the EU ETS: What Brussels Actually Proposes - with Mette Quinn"
 date: 2026-07-23T10:00:00+00:00
 slug: "podcast-take-removals-enter-the-eu-ets-what-brussels-actually-proposes-wi-2006140a"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "the-cdr-policy-scoop"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"

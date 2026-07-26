@@ -2,7 +2,7 @@
 title: "Take: #5: maybe CDR is a good decision that just feels bad right now."
 date: 2026-07-23T10:00:00+00:00
 slug: "podcast-take-5-maybe-cdr-is-a-good-decision-that-just-feels-bad-right-now-24f18adb"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "carbon-removal-newsroom"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"
