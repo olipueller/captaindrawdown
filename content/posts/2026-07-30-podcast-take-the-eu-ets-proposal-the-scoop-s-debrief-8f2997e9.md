@@ -2,7 +2,7 @@
 title: "Take: The EU ETS Proposal: the Scoop’s Debrief"
 date: 2026-07-30T10:00:00+00:00
 slug: "podcast-take-the-eu-ets-proposal-the-scoop-s-debrief-8f2997e9"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "the-cdr-policy-scoop"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"

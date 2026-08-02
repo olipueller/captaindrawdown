@@ -2,7 +2,7 @@
 title: "Take: 410: remove's new Latin American carbon dioxide removal accelerator program—w/ Hans Westerhof & Marian Krüger"
 date: 2026-07-30T10:00:00+00:00
 slug: "podcast-take-410-remove-s-new-latin-american-carbon-dioxide-removal-accel-75e8df47"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "reversing-climate-change"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"

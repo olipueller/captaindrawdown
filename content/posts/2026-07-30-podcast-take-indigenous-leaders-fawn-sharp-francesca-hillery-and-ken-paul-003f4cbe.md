@@ -2,7 +2,7 @@
 title: "Take: Indigenous Leaders Fawn Sharp, Francesca Hillery, and Ken Paul on the Role of Indigenous Knowledge in Ocean Climate Solu"
 date: 2026-07-30T10:00:00+00:00
 slug: "podcast-take-indigenous-leaders-fawn-sharp-francesca-hillery-and-ken-paul-003f4cbe"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "plan-sea:-ocean-interventions-to-address-climate-change"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"
