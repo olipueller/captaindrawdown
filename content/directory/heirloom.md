@@ -37,7 +37,6 @@ Heirloom is a U.S. Direct Air Capture pure-play that uses limestone-based solid 
 
 - **2026-07-13** — news mention: Marketplace ([source](https://www.marketplace.org/episode/2026/07/13/the-high-cost-of-vacuuming-carbon-from-the-sky))
 - **2026-07-11** — news mention: United States Carbon Removal Technology Market Size, Share & Growth Forecast 2035 | Global Industry  ([source](https://www.openpr.com/news/4574088/united-states-carbon-removal-technology-market-size-share))
-- **2026-07-05** — news mention: Cost of direct air carbon capture to remain higher than hoped | ScienceDaily ([source](https://www.sciencedaily.com/releases/2024/03/240304135808.htm))
 - **2026-06-09** — news mention: Climeworks Carbon Capture 2026, 31,000 Ton Schneider Deal - EnkiAI ([source](https://enkiai.com/carbon-capture/climeworks-dac-aviation-offtake/))
 - **2026-05-28** — news mention: Explainer: Direct Air Capture pulls CO2 out of ambient air at ~425 ppm, which is why it's energy-int ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmvh6b44x32b))
 - **2026-05-13** — news mention: What 900 carbon-removal social-media posts told me about engagement ([source](https://captaindrawdown.com/posts/what-900-cdr-posts-told-me-about-engagement/))
