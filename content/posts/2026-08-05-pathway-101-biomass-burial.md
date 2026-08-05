@@ -3,6 +3,7 @@ title: "Pathway 101: Biomass Burial"
 date: 2026-08-05T08:00:00+00:00
 slug: "pathway-101-biomass-burial"
 draft: true
+auto_approve: false
 tags: ["cdr", "pathway-101", "evergreen", "biomass-burial"]
 categories: ["pathway-101"]
 content_type: "type3_long_form"
