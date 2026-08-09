@@ -2,7 +2,7 @@
 title: "Take: Inside the Framework for Residual Emissions - with Injy Johnstone"
 date: 2026-08-06T10:00:00+00:00
 slug: "podcast-take-inside-the-framework-for-residual-emissions-with-injy-johnst-3de61717"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "the-cdr-policy-scoop"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"

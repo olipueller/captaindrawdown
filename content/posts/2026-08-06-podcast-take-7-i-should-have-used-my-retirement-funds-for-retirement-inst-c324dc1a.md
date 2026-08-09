@@ -2,7 +2,7 @@
 title: "Take: #7: I should have used my retirement funds for retirement instead of assuming the future of our planet is of interest to"
 date: 2026-08-06T10:00:00+00:00
 slug: "podcast-take-7-i-should-have-used-my-retirement-funds-for-retirement-inst-c324dc1a"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "carbon-removal-newsroom"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"

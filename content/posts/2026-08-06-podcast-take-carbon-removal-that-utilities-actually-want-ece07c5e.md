@@ -2,7 +2,7 @@
 title: "Take: Carbon removal that utilities actually want"
 date: 2026-08-06T10:00:00+00:00
 slug: "podcast-take-carbon-removal-that-utilities-actually-want-ece07c5e"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "the-carbon-curve"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"
