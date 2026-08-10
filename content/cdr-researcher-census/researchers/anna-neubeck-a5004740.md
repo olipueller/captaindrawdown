@@ -1,7 +1,7 @@
 ---
 title: "Anna Neubeck"
 description: "Anna Neubeck is a Senior Enhanced Weathering researcher at Uppsala University in SE. With 103 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.262243
+date: 2026-08-11T01:33:11.231762
 url: "/cdr-researcher-census/researchers/anna-neubeck-a5004740/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Is the climate change mitigation effect of enhanced silicate weathering governed by biological processes?** (2021)
-   139 citations · Enhanced Weathering
+   140 citations · Enhanced Weathering
 
 2. **Organic carbon source controlled microbial olivine dissolution in small-scale flow-through bioreactors, for CO2 removal** (2024)
    18 citations · Enhanced Weathering
@@ -63,7 +63,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    8 citations · Enhanced Weathering
 
 5. **Alive and dead earthworms capture carbon during mineral weathering through different pathways** (2025)
-   4 citations · Enhanced Weathering
+   5 citations · Enhanced Weathering
 
 6. **Machine learning-based identification of key biotic and abiotic drivers of mineral weathering rate in a complex enhanced weathering experiment** (2025)
    3 citations
@@ -74,11 +74,11 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 8. **Contribution of dissolved organic carbon to total alkalinity in Enhanced Weathering experiments** (2026)
    1 citations · Enhanced Weathering
 
-9. **Microbial dissolution of Gran Canaria lapilli in small-scale flow through columns: carbon dioxide removal potential** (2025)
+9. **Alkalinity production and carbon capture from dunite weathering: Individual effects of oxalate, citrate, and EDTA salts** (2025)
    1 citations · Enhanced Weathering
 
-10. **Alkalinity production and carbon capture from dunite weathering: Individual effects of oxalate, citrate, and EDTA salts** (2025)
-   0 citations · Enhanced Weathering
+10. **Microbial dissolution of Gran Canaria lapilli in small-scale flow through columns: carbon dioxide removal potential** (2025)
+   1 citations · Enhanced Weathering
 
 ## External Profiles
 

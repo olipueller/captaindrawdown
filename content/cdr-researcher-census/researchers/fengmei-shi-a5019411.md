@@ -1,7 +1,7 @@
 ---
 title: "Fengmei Shi"
 description: "Fengmei Shi is a Mid-career Biochar researcher at Heilongjiang Provincial Academy of Agricultural Sciences in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.946562
+date: 2026-08-11T01:33:11.841723
 url: "/cdr-researcher-census/researchers/fengmei-shi-a5019411/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **The Enhancing Effect of Biochar Derived from Biogas Residues on the Anaerobic Digestion Process of Pig Manure Water** (2024)
-   3 citations · Biochar
+   4 citations · Biochar
 
 ## External Profiles
 

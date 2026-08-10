@@ -1,7 +1,7 @@
 ---
 title: "Wenes Ramos da Silva"
 description: "Wenes Ramos da Silva is a Mid-career Biochar researcher at Universidade Federal de Sergipe in BR. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.087937
+date: 2026-08-11T01:33:11.980182
 url: "/cdr-researcher-census/researchers/wenes-ramos-da-silva-a5022775/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    19 citations · Biochar
 
 2. **Thermochemical conversion of aquatic weed biomass in a rotary kiln reactor for production of bio-based derivatives** (2023)
-   17 citations · BECCS
+   18 citations · BECCS
 
 3. **Sustainable Bioproducts of Coconut Husk Biomass─Part I: Pyrolytic Conversion into Biochar, Bio-Oil, and Pyrolytic Gas** (2026)
    1 citations · Biochar

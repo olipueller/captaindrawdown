@@ -1,7 +1,7 @@
 ---
 title: "Vineet Vimal"
 description: "Vineet Vimal is a Mid-career Biochar researcher at Jawaharlal Nehru University in IN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.733919
+date: 2026-08-11T01:33:11.650635
 url: "/cdr-researcher-census/researchers/vineet-vimal-a5045090/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar application for greenhouse gas mitigation, contaminants immobilization and soil fertility enhancement: A state-of-the-art review** (2022)
-   246 citations · Biochar
+   248 citations · Biochar
 
 2. **Engineered Biochar: Sink and Sequestration of Carbon** (2022)
    1 citations · Biochar

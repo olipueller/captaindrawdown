@@ -1,7 +1,7 @@
 ---
 title: "Subhra Prakash Dey"
 description: "Subhra Prakash Dey is a Mid-career Ocean CDR researcher at National Institute of Oceanography in IN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.192393
+date: 2026-08-11T01:33:12.076216
 url: "/cdr-researcher-census/researchers/subhra-prakash-dey-a5103101/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Do whales really increase the oceanic removal of atmospheric carbon?** (2023)
-   17 citations · General CDR
+   18 citations · General CDR
 
 ## External Profiles
 

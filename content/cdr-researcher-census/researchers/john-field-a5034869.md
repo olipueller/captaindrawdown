@@ -1,7 +1,7 @@
 ---
 title: "John Field"
 description: "John Field is a Senior General CDR researcher at Oak Ridge National Laboratory in US. With 126 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.141773
+date: 2026-08-11T01:33:11.119630
 url: "/cdr-researcher-census/researchers/john-field-a5034869/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Supply chain optimization of sustainable aviation fuel from carinata in the Southeastern United States** (2022)
-   40 citations · General CDR
+   42 citations · General CDR
 
 2. **Modeling Yield, Biogenic Emissions, and Carbon Sequestration in Southeastern Cropping Systems With Winter Carinata** (2022)
    19 citations · General CDR

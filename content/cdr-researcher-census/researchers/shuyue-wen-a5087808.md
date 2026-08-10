@@ -1,7 +1,7 @@
 ---
 title: "Shuyue Wen"
 description: "Shuyue Wen is a Mid-career Soil Carbon researcher at Nanjing University in CN. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.671227
+date: 2026-08-11T01:33:11.593878
 url: "/cdr-researcher-census/researchers/shuyue-wen-a5087808/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effect on greenhouse gas emissions (CH4 and N2O) of straw mulching or its incorporation in farmland ecosystems in China** (2024)
-   41 citations · Soil Carbon
+   43 citations · Soil Carbon
 
 ## External Profiles
 

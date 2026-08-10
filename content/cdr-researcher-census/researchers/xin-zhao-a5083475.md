@@ -1,7 +1,7 @@
 ---
 title: "Xin Zhao"
 description: "Xin Zhao is an Eminent Soil Carbon researcher at China Agricultural University in CN. With 129 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.125184
+date: 2026-08-11T01:33:11.103943
 url: "/cdr-researcher-census/researchers/xin-zhao-a5083475/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,34 +51,34 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Management‐induced changes in soil organic carbon and related crop yield dynamics in China's cropland** (2023)
-   99 citations · Soil Carbon
+   101 citations · Soil Carbon
 
-2. **Impacts of the components of conservation agriculture on soil organic carbon and total nitrogen storage: A global meta-analysis** (2022)
-   95 citations · Soil Carbon
+2. **Improving soil aggregates stability and soil organic carbon sequestration by no-till and legume-based crop rotations in the North China Plain** (2022)
+   96 citations · Soil Carbon
 
-3. **Improving soil aggregates stability and soil organic carbon sequestration by no-till and legume-based crop rotations in the North China Plain** (2022)
-   92 citations · Soil Carbon
+3. **Impacts of the components of conservation agriculture on soil organic carbon and total nitrogen storage: A global meta-analysis** (2022)
+   96 citations · Soil Carbon
 
 4. **Strategic tillage achieves lower carbon footprints with higher carbon accumulation and grain yield in a wheat-maize cropping system** (2021)
    59 citations · Soil Carbon
 
 5. **Greenhouse gas emissions from the wheat-maize cropping system under different tillage and crop residue management practices in the North China Plain** (2022)
-   44 citations · Soil Carbon
+   46 citations · Soil Carbon
 
 6. **Optimizing the rate of straw returning to balance trade-offs between carbon emission budget and rice yield in China** (2024)
-   40 citations · Soil Carbon
+   43 citations · Soil Carbon
 
 7. **Effects of tillage and straw management on grain yield and SOC storage in a wheat-maize cropping system** (2022)
-   36 citations · Soil Carbon
+   37 citations · Soil Carbon
 
 8. **Enhancing soil ecosystem multifunctionality through combined conservation tillage and legume-based crop rotation in the North China Plain** (2024)
    29 citations · Soil Carbon
 
-9. **Effects of fertilizer application strategies on soil organic carbon and total nitrogen storage under different agronomic practices: A meta‐analysis** (2023)
-   28 citations · General CDR
+9. **Changes in cropland soil carbon through improved management practices in China: A meta-analysis** (2022)
+   29 citations · Soil Carbon
 
-10. **Changes in cropland soil carbon through improved management practices in China: A meta-analysis** (2022)
-   28 citations · Soil Carbon
+10. **Effects of fertilizer application strategies on soil organic carbon and total nitrogen storage under different agronomic practices: A meta‐analysis** (2023)
+   28 citations · General CDR
 
 ## External Profiles
 

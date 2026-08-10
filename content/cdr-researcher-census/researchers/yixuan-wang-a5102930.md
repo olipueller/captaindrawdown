@@ -1,7 +1,7 @@
 ---
 title: "Yixuan Wang"
 description: "Yixuan Wang is a Mid-career Biochar researcher at China Agricultural University in CN. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.672089
+date: 2026-08-11T01:33:11.594623
 url: "/cdr-researcher-census/researchers/yixuan-wang-a5102930/"
 layout: "researcher"
 hiddenInHomeList: true

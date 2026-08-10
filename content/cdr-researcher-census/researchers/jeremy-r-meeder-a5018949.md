@@ -1,7 +1,7 @@
 ---
 title: "Jeremy R. Meeder"
 description: "Jeremy R. Meeder is a Mid-career Ocean CDR researcher at Texas A&M University in US. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.063978
+date: 2026-08-11T01:33:11.957772
 url: "/cdr-researcher-census/researchers/jeremy-r-meeder-a5018949/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Enabling Light-Driven CO<sub>2</sub> Removal from Seawater using Metastable Photoacids** (2024)
-   16 citations · Ocean CDR
+   18 citations · Ocean CDR
 
 ## External Profiles
 

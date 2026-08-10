@@ -1,7 +1,7 @@
 ---
 title: "Xukun Su"
 description: "Xukun Su is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 69 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.197510
+date: 2026-08-11T01:33:11.171739
 url: "/cdr-researcher-census/researchers/xukun-su-a5022222/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    15 citations
 
 3. **Assessing the destabilization risk of ecosystems dominated by carbon sequestration based on interpretable machine learning method** (2024)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 4. **Spatiotemporal heterogeneity management: Optimizing the critical role of ecosystem services in achieving Sustainable Development Goals** (2024)
    8 citations · Soil Carbon

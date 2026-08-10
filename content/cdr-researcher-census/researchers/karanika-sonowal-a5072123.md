@@ -1,7 +1,7 @@
 ---
 title: "Karanika Sonowal"
 description: "Karanika Sonowal is a Mid-career General CDR researcher at Indian Institute of Technology Guwahati in IN. With 21 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.594208
+date: 2026-08-11T01:33:11.524929
 url: "/cdr-researcher-census/researchers/karanika-sonowal-a5072123/"
 layout: "researcher"
 hiddenInHomeList: true

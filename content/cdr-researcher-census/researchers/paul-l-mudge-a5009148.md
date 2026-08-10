@@ -1,7 +1,7 @@
 ---
 title: "Paul L. Mudge"
 description: "Paul L. Mudge is a Senior Soil Carbon researcher at Landcare Research in NZ. With 63 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.265046
+date: 2026-08-11T01:33:11.234209
 url: "/cdr-researcher-census/researchers/paul-l-mudge-a5009148/"
 layout: "researcher"
 hiddenInHomeList: true

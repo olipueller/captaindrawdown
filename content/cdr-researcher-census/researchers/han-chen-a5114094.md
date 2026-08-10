@@ -1,7 +1,7 @@
 ---
 title: "Han Chen"
 description: "Han Chen is a Mid-career Soil Carbon researcher at South China Botanical Garden in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.412701
+date: 2026-08-11T01:33:12.272314
 url: "/cdr-researcher-census/researchers/han-chen-a5114094/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Fiddler crab bioturbation stimulates methane emissions in mangroves: Insights into microbial mechanisms** (2024)
-   38 citations · Soil Carbon
+   39 citations · Soil Carbon
 
 2. **Fate of soil organic carbon in estuarine mangroves: Evidences from stable isotopes and lignin biomarkers** (2024)
-   28 citations · Soil Carbon
+   29 citations · Soil Carbon
 
 ## External Profiles
 

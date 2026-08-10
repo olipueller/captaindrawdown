@@ -1,7 +1,7 @@
 ---
 title: "Jingchao Yuan"
 description: "Jingchao Yuan is a Mid-career Soil Carbon researcher at Shanghai University in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.791234
+date: 2026-08-11T01:33:11.702644
 url: "/cdr-researcher-census/researchers/jingchao-yuan-a5007211/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    152 citations · Biochar
 
 2. **Soil organic carbon accumulation mechanisms in soil amended with straw and biochar: entombing effect or biochemical protection?** (2025)
-   36 citations · Biochar
+   39 citations · Biochar
 
 3. **The Relationship of Soil Organic Carbon and Nutrient Contents to Maize Yield as Affected by Maize Straw Return Modes** (2023)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 4. **Effects of Straw Maize on the Bacterial Community and Carbon Stability at Different Soil Depths** (2023)
    8 citations
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Biochar
 
 6. **Differences in soil organic carbon among soil layers caused by microbial necromass carbon accumulation under different tillage and carbon input regimes** (2026)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 7. **Combined application of straw and bio-organic fertilizer improved organic carbon sequestration efficiency and carbon pool management index of degraded Mollisol** (2026)
    0 citations

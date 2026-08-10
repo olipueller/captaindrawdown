@@ -1,7 +1,7 @@
 ---
 title: "Timo Spiegel"
 description: "Timo Spiegel is a Mid-career Enhanced Weathering researcher at Universität Hamburg in DE. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.127536
+date: 2026-08-11T01:33:12.017146
 url: "/cdr-researcher-census/researchers/timo-spiegel-a5017129/"
 layout: "researcher"
 hiddenInHomeList: true

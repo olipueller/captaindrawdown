@@ -1,7 +1,7 @@
 ---
 title: "Guanglei Zhu"
 description: "Guanglei Zhu is a Mid-career Biochar researcher at Ministry of Water Resources of the People's Republic of China in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.332196
+date: 2026-08-11T01:33:12.199034
 url: "/cdr-researcher-census/researchers/guanglei-zhu-a5080919/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    16 citations
 
 2. **Inhibiting release of phenanthrene from rice-crab coculture sediments to overlying water with rice stalk biochar: Performance and mechanisms** (2023)
-   8 citations · Biochar
+   9 citations · Biochar
 
 ## External Profiles
 

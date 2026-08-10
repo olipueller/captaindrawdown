@@ -1,7 +1,7 @@
 ---
 title: "Jiefei Mao"
 description: "Jiefei Mao is a Senior Soil Carbon researcher at Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences in CN. With 62 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.297730
+date: 2026-08-11T01:33:11.264900
 url: "/cdr-researcher-census/researchers/jiefei-mao-a5101860/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,10 +57,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    10 citations · Soil Carbon
 
 3. **The response of soil organic carbon content of grasslands in Northern Xinjiang to future climate change** (2024)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 4. **Multiscale drivers and tipping points regulating particulate and mineral-associated organic carbon across Central Asian grasslands** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 5. **Shrub Encroachment: A Catalyst for Enhanced Soil Nutrients Storage in the Altai Mountains** (2025)
    2 citations · Soil Carbon

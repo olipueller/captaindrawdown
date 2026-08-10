@@ -1,7 +1,7 @@
 ---
 title: "Levis Kavagi"
 description: "Levis Kavagi is a Mid-career Soil Carbon researcher at Twitter (United States) in US. With 22 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.508203
+date: 2026-08-11T01:33:11.447925
 url: "/cdr-researcher-census/researchers/levis-kavagi-a5052132/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Plastic footprint deteriorates dryland carbon footprint across soil–plant-atmosphere continuum** (2024)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 2. **Environmental and Economic Impacts of Biodegradable Plastic Film Mulching on Rainfed Maize: Evaluations on Sustainability and Productivity** (2022)
    6 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Yawen Huang"
 description: "Yawen Huang is a Senior Soil Carbon researcher at Nanjing Agricultural University in CN. With 24 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.268530
+date: 2026-08-11T01:33:11.237312
 url: "/cdr-researcher-census/researchers/yawen-huang-a5046118/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Benefits and limitations of biochar for climate-smart agriculture: a review and case study from China** (2023)
-   111 citations · Biochar
+   118 citations · Biochar
 
 2. **A global synthesis of biochar's sustainability in climate-smart agriculture - Evidence from field and laboratory experiments** (2022)
-   76 citations · Biochar
+   78 citations · Biochar
 
 3. **Location-optimized remediation measures for soil multifunctionality and carbon sequestration of saline-alkali land in China** (2025)
-   21 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 4. **Waste baijiu distillers’ grains-derived biochar for efficient removal of organophosphate esters from water through adsorption** (2024)
-   14 citations · Biochar
+   15 citations · Biochar
 
 5. **Global patterns of microbial metabolic regulation under conservation tillage and implications for soil carbon cycling** (2026)
    0 citations · Soil Carbon

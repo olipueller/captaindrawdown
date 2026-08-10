@@ -1,7 +1,7 @@
 ---
 title: "Sowmya Shreedhar"
 description: "Sowmya Shreedhar is a Mid-career Biochar researcher at Delft University of Technology in NL. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.801871
+date: 2026-08-11T01:33:11.711832
 url: "/cdr-researcher-census/researchers/sowmya-shreedhar-a5055680/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Review of Large-Scale Biochar Field-Trials for Soil Amendment and the Observed Influences on Crop Yield Variations** (2021)
-   152 citations · Biochar
+   160 citations · Biochar
 
 2. **Negative emissions at negative cost-an opportunity for a scalable niche** (2022)
    4 citations · General CDR

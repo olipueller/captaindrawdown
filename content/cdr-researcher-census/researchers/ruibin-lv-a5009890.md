@@ -1,7 +1,7 @@
 ---
 title: "Ruibin Lv"
 description: "Ruibin Lv is a Senior Biochar researcher at Huazhong University of Science and Technology in CN. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.122000
+date: 2026-08-11T01:33:12.012102
 url: "/cdr-researcher-census/researchers/ruibin-lv-a5009890/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Calcium carbonate self fixed crayfish shell composite biochar for removing tetracycline from water** (2025)
-   9 citations · Biochar
+   10 citations · Biochar
 
 ## External Profiles
 

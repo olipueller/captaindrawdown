@@ -1,7 +1,7 @@
 ---
 title: "Yiting Lian"
 description: "Yiting Lian is a Mid-career Biochar researcher at Zhejiang A & F University in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.114810
+date: 2026-08-11T01:33:12.004991
 url: "/cdr-researcher-census/researchers/yiting-lian-a5111258/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Degradation of typical tetracycline antibiotics in landfill leachate by three-dimensional aerated electrocatalytic reactor (3D-AER): electrode properties, influencing factors and degradation mechanism** (2025)
-   58 citations
+   59 citations
 
 2. **Degradation of leachate and high concentration emerging pollutant tetracycline through electro oxidation** (2025)
-   58 citations
+   59 citations
 
 3. **Magnetic coconut shell biochar driven leachate activated sludge system treatment efficiency, antibiotic resistance gene response, and microbial community succession** (2025)
    3 citations · Biochar

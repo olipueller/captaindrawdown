@@ -1,7 +1,7 @@
 ---
 title: "Chido Hermes Chihobo"
 description: "Chido Hermes Chihobo is a Mid-career BECCS researcher at Chinhoyi University of Technology in ZW. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.405905
+date: 2026-08-11T01:33:11.359923
 url: "/cdr-researcher-census/researchers/chido-hermes-chihobo-a5029390/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Sustainable pathways for biomass production and utilization in carbon capture and storage—a review** (2024)
-   81 citations · BECCS
+   83 citations · BECCS
 
 2. **Integration of biomass and carbon capture for negative emission processes** (2025)
    0 citations · BECCS

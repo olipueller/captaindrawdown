@@ -1,7 +1,7 @@
 ---
 title: "Geoff Blanford"
 description: "Geoff Blanford is a Senior DAC researcher at Electric Power Research Institute in US. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.462709
+date: 2026-08-11T01:33:11.408718
 url: "/cdr-researcher-census/researchers/geoff-blanford-a5061208/"
 layout: "researcher"
 hiddenInHomeList: true

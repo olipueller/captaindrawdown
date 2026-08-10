@@ -1,7 +1,7 @@
 ---
 title: "Shamal Shasang Kumar"
 description: "Shamal Shasang Kumar is a Mid-career General CDR researcher at Ministry of Agriculture in FJ. With 35 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.463520
+date: 2026-08-11T01:33:11.409384
 url: "/cdr-researcher-census/researchers/shamal-shasang-kumar-a5101782/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Multi-scale processes influencing global carbon storage and land-carbon-climate nexus: A critical review** (2022)
-   83 citations · General CDR
+   84 citations · General CDR
 
-2. **Prospects of the sugarcane industry in Fiji for carbon sequestration and environmental sustainability amidst changing climate: a critical overview** (2024)
-   2 citations · General CDR
-
-3. **Pyrolyzed and unpyrolyzed residues enhance maize yield under varying rates of application and fertilization regimes** (2024)
+2. **Biochar for Food Security and Environmental Sustainability Under Current Climate Change Scenario** (2024)
    2 citations · Biochar
 
-4. **Biochar for Food Security and Environmental Sustainability Under Current Climate Change Scenario** (2024)
-   1 citations · Biochar
+3. **Prospects of the sugarcane industry in Fiji for carbon sequestration and environmental sustainability amidst changing climate: a critical overview** (2024)
+   2 citations · General CDR
+
+4. **Pyrolyzed and unpyrolyzed residues enhance maize yield under varying rates of application and fertilization regimes** (2024)
+   2 citations · Biochar
 
 ## External Profiles
 

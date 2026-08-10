@@ -1,7 +1,7 @@
 ---
 title: "Volanirina Ramahery"
 description: "Volanirina Ramahery is a Senior Ocean CDR researcher. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.204223
+date: 2026-08-11T01:33:12.086725
 url: "/cdr-researcher-census/researchers/volanirina-ramahery-a5082833/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Dynamics and fate of blue carbon in a mangrove–seagrass seascape: influence of landscape configuration and land-use change** (2021)
-   62 citations · Ocean CDR
+   63 citations · Ocean CDR
 
 ## External Profiles
 

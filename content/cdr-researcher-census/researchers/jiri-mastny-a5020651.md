@@ -1,7 +1,7 @@
 ---
 title: "Jiří Mastný"
 description: "Jiří Mastný is a Mid-career Soil Carbon researcher at University of South Bohemia in České Budějovice in CZ. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.060055
+date: 2026-08-11T01:33:11.933757
 url: "/cdr-researcher-census/researchers/jiri-mastny-a5020651/"
 layout: "researcher"
 hiddenInHomeList: true

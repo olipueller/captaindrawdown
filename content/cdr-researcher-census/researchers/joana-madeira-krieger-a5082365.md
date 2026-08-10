@@ -1,7 +1,7 @@
 ---
 title: "Joana Madeira Krieger"
 description: "Joana Madeira Krieger is a Mid-career Biochar researcher at Conservation International in US. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.464012
+date: 2026-08-11T01:33:12.320338
 url: "/cdr-researcher-census/researchers/joana-madeira-krieger-a5082365/"
 layout: "researcher"
 hiddenInHomeList: true

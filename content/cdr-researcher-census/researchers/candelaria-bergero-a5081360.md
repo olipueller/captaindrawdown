@@ -1,7 +1,7 @@
 ---
 title: "Candelaria Bergero"
 description: "Candelaria Bergero is a Mid-career General CDR researcher at University of Wisconsin–Madison in US. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.427771
+date: 2026-08-11T01:33:11.379815
 url: "/cdr-researcher-census/researchers/candelaria-bergero-a5081360/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Pathways to net-zero emissions from aviation** (2023)
-   372 citations · General CDR
+   392 citations · General CDR
 
 2. **Diverse carbon dioxide removal approaches could reduce impacts on the energy–water–land system** (2023)
-   197 citations · General CDR
+   199 citations · General CDR
 
 3. **Technology, technology, technology: An integrated assessment of deep decarbonization pathways for the Canadian oil sands** (2022)
    30 citations · DAC
@@ -66,7 +66,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    10 citations · Biochar
 
 6. **Deep decarbonization and U.S. biofuels production: a coordinated analysis with a detailed structural model and an integrated multisectoral model** (2023)
-   4 citations · BECCS
+   5 citations · BECCS
 
 7. **Diverse carbon dioxide removal approaches could reduce energy-water-land impacts** (2023)
    1 citations · General CDR

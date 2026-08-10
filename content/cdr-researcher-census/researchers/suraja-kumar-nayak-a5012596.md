@@ -1,7 +1,7 @@
 ---
 title: "Suraja Kumar Nayak"
 description: "Suraja Kumar Nayak is a Mid-career Soil Carbon researcher at Indian Institute of Science Bangalore in IN. With 38 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.621975
+date: 2026-08-11T01:33:11.549751
 url: "/cdr-researcher-census/researchers/suraja-kumar-nayak-a5012596/"
 layout: "researcher"
 hiddenInHomeList: true

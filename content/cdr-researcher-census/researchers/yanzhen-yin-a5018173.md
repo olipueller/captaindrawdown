@@ -1,7 +1,7 @@
 ---
 title: "Yanzhen Yin"
 description: "Yanzhen Yin is a Senior Biochar researcher at Qinzhou University in CN. With 82 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.307034
+date: 2026-08-11T01:33:11.274069
 url: "/cdr-researcher-census/researchers/yanzhen-yin-a5018173/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Supporting nanoscale zero-valent iron onto shrimp shell-derived N-doped biochar to boost its reactivity and electron utilization for selenite sequestration** (2023)
-   25 citations · Biochar
+   26 citations · Biochar
 
 2. **An innovative eco-friendly organic semiconductor-biochar photocatalytic adsorbent for efficient and stable removal mechanism of oxytetracycline hydrochloride under light illumination** (2024)
-   14 citations · Biochar
+   15 citations · Biochar
 
 3. **Simultaneous sequestration of Cd(II) and Se(IV) by sulfidated nanoscale zerovalent iron impregnated in shrimp shell-derived biochar: Mechanism and site energy distribution analysis** (2025)
-   2 citations · Biochar
+   3 citations · Biochar
 
 4. **An organic semiconductor biochar photocatalytic adsorbent for efficient and stable removal tetracycline hydrochloride through synergistic adsorption and photocatalysis** (2025)
    0 citations · Biochar

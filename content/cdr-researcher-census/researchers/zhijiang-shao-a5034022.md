@@ -1,7 +1,7 @@
 ---
 title: "Zhijiang Shao"
 description: "Zhijiang Shao is a Mid-career Biochar researcher at Agriculture and Forestry University in NP. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.946268
+date: 2026-08-11T01:33:11.841432
 url: "/cdr-researcher-census/researchers/zhijiang-shao-a5034022/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Sustained methane production enhancement by magnetic biochar and its recovery in semi-continuous anaerobic digestion with varying substrate C/N ratios** (2025)
-   18 citations · Biochar
+   20 citations · Biochar
 
 ## External Profiles
 

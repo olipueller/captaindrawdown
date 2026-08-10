@@ -1,7 +1,7 @@
 ---
 title: "Yangyang Bai"
 description: "Yangyang Bai is a Mid-career Biochar researcher at Xi'an University of Architecture and Technology in CN. With 20 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.778548
+date: 2026-08-11T01:33:11.691139
 url: "/cdr-researcher-census/researchers/yangyang-bai-a5045770/"
 layout: "researcher"
 hiddenInHomeList: true

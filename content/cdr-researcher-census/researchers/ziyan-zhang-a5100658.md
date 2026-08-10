@@ -1,7 +1,7 @@
 ---
 title: "Ziyan Zhang"
 description: "Ziyan Zhang is a Senior Enhanced Weathering researcher at Jilin University in CN. With 51 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.554035
+date: 2026-08-11T01:33:11.488554
 url: "/cdr-researcher-census/researchers/ziyan-zhang-a5100658/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,17 +50,17 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 ## Top CDR Publications
 
-1. **An Integrated Modelling Framework to Determine Terrestrial Carbon Dioxide Removal via Enhanced Rock Weathering** (2025)
-   2 citations · Enhanced Weathering
-
-2. **Utilizing soil centrifugation for accurate estimates of carbon dioxide removal via enhanced rock weathering** (2025)
+1. **Assessing thresholds and spatial effects of drivers on multi-scale ecosystem service supply-demand matching** (2026)
    2 citations
 
-3. **Assessing co-benefits of urban greening coupled with rainwater harvesting management under current and future climates across USA cities** (2022)
-   2 citations · Soil Carbon
+2. **An Integrated Modelling Framework to Determine Terrestrial Carbon Dioxide Removal via Enhanced Rock Weathering** (2025)
+   2 citations · Enhanced Weathering
 
-4. **Assessing thresholds and spatial effects of drivers on multi-scale ecosystem service supply-demand matching** (2026)
-   1 citations
+3. **Utilizing soil centrifugation for accurate estimates of carbon dioxide removal via enhanced rock weathering** (2025)
+   2 citations
+
+4. **Assessing co-benefits of urban greening coupled with rainwater harvesting management under current and future climates across USA cities** (2022)
+   2 citations · Soil Carbon
 
 5. **Utilizing Soil Centrifugation for Accurate Estimates of Carbon Dioxide Removal via Enhanced Rock Weathering** (2025)
    1 citations · Enhanced Weathering

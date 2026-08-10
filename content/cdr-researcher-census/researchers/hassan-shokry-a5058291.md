@@ -1,7 +1,7 @@
 ---
 title: "Hassan Shokry"
 description: "Hassan Shokry is a Senior Biochar researcher at Egypt-Japan University of Science and Technology in EG. With 97 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.174112
+date: 2026-08-11T01:33:11.149690
 url: "/cdr-researcher-census/researchers/hassan-shokry-a5058291/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biosorption of Congo Red dye from aqueous solutions using pristine biochar and ZnO biochar from green pea peels** (2022)
-   112 citations · Biochar
+   115 citations · Biochar
 
 2. **Effective decontamination of methylene blue from aqueous solutions using novel nano-magnetic biochar from green pea peels** (2023)
    47 citations · Biochar
@@ -63,10 +63,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    21 citations · Biochar
 
 5. **Sustainable utilization of plastic-derived graphene for tetracycline wastewater treatment and its recycling for biogas and biochar production** (2024)
-   12 citations · Biochar
+   13 citations · Biochar
 
 6. **Efficient oxidative degradation of organic pollutants in real industrial effluents using a green-synthesized magnetite supported on biochar catalyst** (2025)
-   7 citations · Biochar
+   8 citations · Biochar
 
 7. **Courgette Biochar-Activated Periodate System for Efficient Atrazine Degradation: Optimization, Kinetics, Effect of Coexisting Substances, and Real Wastewater Application** (2025)
    3 citations · Biochar

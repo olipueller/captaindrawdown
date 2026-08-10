@@ -1,7 +1,7 @@
 ---
 title: "Alix Vidal"
 description: "Alix Vidal is a Senior Enhanced Weathering researcher at Wageningen University & Research in NL. With 80 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.221812
+date: 2026-08-11T01:33:11.194486
 url: "/cdr-researcher-census/researchers/alix-vidal-a5059677/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -63,7 +63,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    8 citations · Enhanced Weathering
 
 5. **Alive and dead earthworms capture carbon during mineral weathering through different pathways** (2025)
-   4 citations · Enhanced Weathering
+   5 citations · Enhanced Weathering
 
 6. **Machine learning-based identification of key biotic and abiotic drivers of mineral weathering rate in a complex enhanced weathering experiment** (2025)
    3 citations

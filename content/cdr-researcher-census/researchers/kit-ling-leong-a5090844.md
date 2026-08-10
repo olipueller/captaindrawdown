@@ -1,7 +1,7 @@
 ---
 title: "Kit Ling Leong"
 description: "Kit Ling Leong is a Mid-career Soil Carbon researcher at Singapore Institute of Technology in SG. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.083335
+date: 2026-08-11T01:33:11.976034
 url: "/cdr-researcher-census/researchers/kit-ling-leong-a5090844/"
 layout: "researcher"
 hiddenInHomeList: true

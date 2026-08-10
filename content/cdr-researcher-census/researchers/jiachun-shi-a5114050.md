@@ -1,7 +1,7 @@
 ---
 title: "Jiachun Shi"
 description: "Jiachun Shi is a Mid-career Soil Carbon researcher at Zhejiang University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.231427
+date: 2026-08-11T01:33:12.111636
 url: "/cdr-researcher-census/researchers/jiachun-shi-a5114050/"
 layout: "researcher"
 hiddenInHomeList: true

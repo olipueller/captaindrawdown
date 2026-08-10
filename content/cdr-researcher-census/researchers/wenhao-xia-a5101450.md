@@ -1,7 +1,7 @@
 ---
 title: "Wenhao Xia"
 description: "Wenhao Xia is a Senior Soil Carbon researcher at Chengdu Normal University in CN. With 30 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.684756
+date: 2026-08-11T01:33:11.605969
 url: "/cdr-researcher-census/researchers/wenhao-xia-a5101450/"
 layout: "researcher"
 hiddenInHomeList: true

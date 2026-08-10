@@ -1,7 +1,7 @@
 ---
 title: "Leilei Qiao"
 description: "Leilei Qiao is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.552190
+date: 2026-08-11T01:33:11.487005
 url: "/cdr-researcher-census/researchers/leilei-qiao-a5079798/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of Long-Term Warming on Microbial Nutrients Limitation of Soil Aggregates on the Qinghai-Tibet Plateau** (2023)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Jiaping Song"
 description: "Jiaping Song is a Mid-career Biochar researcher at Anhui University in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.004590
+date: 2026-08-11T01:33:11.881574
 url: "/cdr-researcher-census/researchers/jiaping-song-a5005569/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **The management of Cd in rice with biochar and selenium: effects, efficiency, and practices** (2023)
-   25 citations · Biochar
+   26 citations · Biochar
 
 ## External Profiles
 

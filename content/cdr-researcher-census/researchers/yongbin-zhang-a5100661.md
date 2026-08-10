@@ -1,7 +1,7 @@
 ---
 title: "Yongbin Zhang"
 description: "Yongbin Zhang is a Senior Soil Carbon researcher at Hefei University of Technology in CN. With 51 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.666336
+date: 2026-08-11T01:33:11.589921
 url: "/cdr-researcher-census/researchers/yongbin-zhang-a5100661/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Estimation of Soil Organic Carbon Content in Coastal Wetlands with Measured VIS-NIR Spectroscopy Using Optimized Support Vector Machines and Random Forests** (2022)
-   48 citations · Soil Carbon
+   49 citations · Soil Carbon
 
 2. **Estimation of Coastal Wetland Soil Organic Carbon Content in Western Bohai Bay Using Remote Sensing, Climate, and Topographic Data** (2023)
-   23 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 3. **Prediction of Soil Organic Carbon Content in <i>Spartina alterniflora</i> by Using UAV Multispectral and LiDAR Data** (2025)
    6 citations · Soil Carbon

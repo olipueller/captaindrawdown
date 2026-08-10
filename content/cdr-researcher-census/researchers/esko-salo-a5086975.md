@@ -1,7 +1,7 @@
 ---
 title: "Esko Salo"
 description: "Esko Salo is a Mid-career Biochar researcher at VTT Technical Research Centre of Finland in FI. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.188329
+date: 2026-08-11T01:33:12.072150
 url: "/cdr-researcher-census/researchers/esko-salo-a5086975/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,6 +57,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    15 citations · Biochar
 
 3. **Emerging Business Models of Nordic Biochar Producers: A Sustainable Business Model Typology** (2026)
+   0 citations · Biochar
+
+4. **Emerging Business Models of Nordic Biochar Producers: A Sustainable Business Model Typology** (2026)
    0 citations · Biochar
 
 ## External Profiles

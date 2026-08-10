@@ -1,7 +1,7 @@
 ---
 title: "Stefan Vlaminck"
 description: "Stefan Vlaminck is a Senior Enhanced Weathering researcher at University of Antwerp in BE. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.317098
+date: 2026-08-11T01:33:12.185528
 url: "/cdr-researcher-census/researchers/stefan-vlaminck-a5070587/"
 layout: "researcher"
 hiddenInHomeList: true

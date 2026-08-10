@@ -1,7 +1,7 @@
 ---
 title: "Sumit Ray"
 description: "Sumit Ray is a Mid-career Soil Carbon researcher at Centurion University of Technology and Management in IN. With 39 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.454475
+date: 2026-08-11T01:33:12.311455
 url: "/cdr-researcher-census/researchers/sumit-ray-a5090504/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The nexus between intercropping systems, ecosystem services and sustainable agriculture: A review** (2025)
-   23 citations · Soil Carbon
+   27 citations · Soil Carbon
 
 2. **Assessing Soil Fertility Dynamics and Carbon Sequestration Potential in Groundnut (Arachis hypogaea L.) Cultivation Areas of Sri Satya Sai District, Andhra Pradesh, India** (2023)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

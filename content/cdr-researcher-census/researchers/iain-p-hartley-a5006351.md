@@ -1,7 +1,7 @@
 ---
 title: "Iain P. Hartley"
 description: "Iain P. Hartley is an Eminent Soil Carbon researcher at University of Exeter in GB. With 193 publications and an h-index of 41, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.100484
+date: 2026-08-11T01:33:11.080633
 url: "/cdr-researcher-census/researchers/iain-p-hartley-a5006351/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,34 +51,34 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Direct evidence for phosphorus limitation on Amazon forest productivity** (2022)
-   230 citations
+   238 citations
 
 2. **Storage, patterns and influencing factors for soil organic carbon in coastal wetlands of China** (2022)
-   151 citations · Soil Carbon
+   157 citations · Soil Carbon
 
 3. **<i>Spartina alterniflora</i> invasion controls organic carbon stocks in coastal marsh and mangrove soils across tropics and subtropics** (2021)
-   135 citations · Soil Carbon
+   137 citations · Soil Carbon
 
 4. **Patterns and determinants of plant‐derived lignin phenols in coastal wetlands: Implications for organic C accumulation** (2023)
-   56 citations · Soil Carbon
+   57 citations · Soil Carbon
 
 5. **Fine roots stimulate nutrient release during early stages of leaf litter decomposition in a Central Amazon rainforest** (2021)
-   53 citations
+   54 citations
 
 6. **Current and future potential soil organic carbon stocks of vegetated coastal ecosystems and their controls in the Bohai Rim Region, China** (2023)
    26 citations · Ocean CDR
 
 7. **Organic matter composition and stability in estuarine wetlands depending on soil salinity** (2024)
-   21 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 8. **Patterns and drivers of soil organic carbon fractions and persistence in coastal wetlands of China** (2025)
-   19 citations · Soil Carbon
+   22 citations · Soil Carbon
 
-9. **Organic phosphorus cycling may control grassland responses to nitrogen deposition: a long-term field manipulation and modelling study** (2021)
+9. **Mineral Association and Microbial Processing Jointly Prolong Carbon Turnover in Coastal Wetlands** (2026)
    12 citations · Soil Carbon
 
-10. **Specific PhytOC fractions in rice straw and consequent implications for potential of phytolith carbon sequestration in global paddy fields** (2022)
-   11 citations · Soil Carbon
+10. **Organic phosphorus cycling may control grassland responses to nitrogen deposition: a long-term field manipulation and modelling study** (2021)
+   12 citations · Soil Carbon
 
 ## External Profiles
 

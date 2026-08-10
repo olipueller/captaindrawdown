@@ -1,7 +1,7 @@
 ---
 title: "Ewa Mackiewicz-Walec"
 description: "Ewa Mackiewicz-Walec is a Mid-career Soil Carbon researcher at University of Warmia and Mazury in Olsztyn in PL. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.122546
+date: 2026-08-11T01:33:12.012537
 url: "/cdr-researcher-census/researchers/ewa-mackiewicz-walec-a5077753/"
 layout: "researcher"
 hiddenInHomeList: true

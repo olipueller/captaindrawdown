@@ -1,7 +1,7 @@
 ---
 title: "Elspeth Spence"
 description: "Elspeth Spence is a Mid-career General CDR researcher at Cardiff University in GB. With 15 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.488867
+date: 2026-08-11T01:33:11.431101
 url: "/cdr-researcher-census/researchers/elspeth-spence-a5051881/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -60,7 +60,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    25 citations · Enhanced Weathering
 
 4. **Question-Led Innovation: Public priorities for enhanced weathering research in Malaysia** (2024)
-   7 citations · Enhanced Weathering
+   8 citations · Enhanced Weathering
 
 5. **Public perception of carbon dioxide removal (CDR) and its influencing factors: evidence from a survey in Malaysia** (2024)
    4 citations · General CDR

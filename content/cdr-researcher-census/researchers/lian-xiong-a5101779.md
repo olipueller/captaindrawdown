@@ -1,7 +1,7 @@
 ---
 title: "Lian Xiong"
 description: "Lian Xiong is a Mid-career Enhanced Weathering researcher at Chinese Academy of Sciences in CN. With 28 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.348935
+date: 2026-08-11T01:33:11.311393
 url: "/cdr-researcher-census/researchers/lian-xiong-a5101779/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Storage, form, and influencing factors of karst inorganic carbon in a carbonate area in China** (2024)
-   59 citations
+   60 citations
 
 2. **Unexpected response of terrestrial carbon sink to rural depopulation in China** (2024)
-   41 citations · Soil Carbon
+   42 citations · Soil Carbon
 
 3. **Assessment of carbon sinks caused by the chemical weathering of carbonate rocks under the influence of exogenous acids: Methods, progress, and prospects** (2025)
-   29 citations · Enhanced Weathering
+   32 citations · Enhanced Weathering
 
 4. **Response of carbonate rock weathering carbon sink to seismic peak ground acceleration in China** (2025)
    1 citations · Enhanced Weathering

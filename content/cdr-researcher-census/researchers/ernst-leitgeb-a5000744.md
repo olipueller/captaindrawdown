@@ -1,7 +1,7 @@
 ---
 title: "Ernst Leitgeb"
 description: "Ernst Leitgeb is a Senior Soil Carbon researcher at Austrian Research Centre for Forests in AT. With 35 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.594017
+date: 2026-08-11T01:33:11.524694
 url: "/cdr-researcher-census/researchers/ernst-leitgeb-a5000744/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Organic soil carbon in Austria – Status quo and foreseeable trends** (2021)
-   19 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 2. **Recarbonizing global soils – A technical manual of recommended management practices** (2021)
    11 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Jamiu Mosebolatan Jabar"
 description: "Jamiu Mosebolatan Jabar is a Mid-career Biochar researcher at Federal University of Technology Akure School of Sciences in NG. With 44 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.296643
+date: 2026-08-11T01:33:11.263809
 url: "/cdr-researcher-census/researchers/jamiu-mosebolatan-jabar-a5084122/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **African almond (Terminalia catappa L) leaves biochar prepared through pyrolysis using H3PO4 as chemical activator for sequestration of methylene blue dye** (2022)
-   119 citations · Biochar
+   121 citations · Biochar
 
 2. **Synthesis of high surface area mesoporous ZnCl2–activated cocoa (Theobroma cacao L) leaves biochar derived via pyrolysis for crystal violet dye removal** (2022)
-   74 citations · Biochar
+   91 citations · Biochar
 
 3. **Characterization of prepared eco-friendly biochar from almond (Terminalia catappa L) leaf for sequestration of bromophenol blue (BPB) from aqueous solution** (2021)
-   66 citations
+   67 citations
 
 4. **Valorization of microwave-assisted H3PO4-activated plantain (Musa paradisiacal L) leaf biochar for malachite green sequestration: models and mechanism of adsorption** (2023)
    58 citations · Biochar

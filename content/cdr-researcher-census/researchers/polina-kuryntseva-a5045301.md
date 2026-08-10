@@ -1,7 +1,7 @@
 ---
 title: "Polina Kuryntseva"
 description: "Polina Kuryntseva is a Mid-career Soil Carbon researcher at Kazan Federal University in RU. With 79 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.042615
+date: 2026-08-11T01:33:11.917139
 url: "/cdr-researcher-census/researchers/polina-kuryntseva-a5045301/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Biochar Functions in Soil Depending on Feedstock and Pyrolyzation Properties with Particular Emphasis on Biological Properties** (2023)
-   43 citations · Biochar
+   48 citations · Biochar
 
 2. **CARBON SEQUESTRATION FROM INDUSTRIAL EMISSIONS USING MICROALGAE: RESULTS OF LABORATORY MODELING** (2022)
    2 citations

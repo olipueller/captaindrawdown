@@ -1,7 +1,7 @@
 ---
 title: "Yuanfeng Sun"
 description: "Yuanfeng Sun is a Mid-career Soil Carbon researcher at Shanghai Jiao Tong University in CN. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.595200
+date: 2026-08-11T01:33:11.525853
 url: "/cdr-researcher-census/researchers/yuanfeng-sun-a5110188/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Optimizing the rate of straw returning to balance trade-offs between carbon emission budget and rice yield in China** (2024)
-   40 citations · Soil Carbon
+   43 citations · Soil Carbon
 
 2. **Interactive effects of warming and drought on soil organic carbon sequestration and methane uptake in straw and biochar amended soils: Mechanisms and global implications** (2025)
-   5 citations · Biochar
+   7 citations · Biochar
 
 ## External Profiles
 

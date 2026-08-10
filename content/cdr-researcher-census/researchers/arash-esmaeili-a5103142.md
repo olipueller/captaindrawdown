@@ -1,7 +1,7 @@
 ---
 title: "Arash Esmaeili"
 description: "Arash Esmaeili is a Mid-career General CDR researcher at Shahid Beheshti University of Medical Sciences in IR. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.234707
+date: 2026-08-11T01:33:12.114821
 url: "/cdr-researcher-census/researchers/arash-esmaeili-a5103142/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Top CDR Publications
 
-1. **Simulation and validation of carbon dioxide removal from the ethane stream in the south pars phase 19 gas plant by different amine solutions using rate-based model** (2021)
+1. **Modeling of carbon dioxide absorption by solution of piperazine and methyldiethanolamine in a rotating packed bed** (2021)
+   42 citations
+
+2. **Simulation and validation of carbon dioxide removal from the ethane stream in the south pars phase 19 gas plant by different amine solutions using rate-based model** (2021)
    8 citations · General CDR
 
 ## External Profiles

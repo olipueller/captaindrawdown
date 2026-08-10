@@ -1,7 +1,7 @@
 ---
 title: "Lingfan Wan"
 description: "Lingfan Wan is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 32 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.705821
+date: 2026-08-11T01:33:11.625123
 url: "/cdr-researcher-census/researchers/lingfan-wan-a5057380/"
 layout: "researcher"
 hiddenInHomeList: true

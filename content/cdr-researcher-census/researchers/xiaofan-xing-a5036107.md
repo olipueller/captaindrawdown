@@ -1,7 +1,7 @@
 ---
 title: "Xiaofan Xing"
 description: "Xiaofan Xing is a Mid-career BECCS researcher at Hefei University of Technology in CN. With 22 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.218942
+date: 2026-08-11T01:33:11.191948
 url: "/cdr-researcher-census/researchers/xiaofan-xing-a5036107/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Delayed use of bioenergy crops might threaten climate and food security** (2022)
-   132 citations · BECCS
+   133 citations · BECCS
 
 2. **Spatially explicit analysis identifies significant potential for bioenergy with carbon capture and storage in China** (2021)
-   116 citations · BECCS
+   119 citations · BECCS
 
 3. **A review of influencing factors for policy interventions in the deployment of bioenergy with carbon capture and storage** (2024)
    11 citations · BECCS

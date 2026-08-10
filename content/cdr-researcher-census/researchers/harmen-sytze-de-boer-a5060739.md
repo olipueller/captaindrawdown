@@ -1,7 +1,7 @@
 ---
 title: "Harmen Sytze de Boer"
 description: "Harmen Sytze de Boer is a Senior General CDR researcher at Netherlands Environmental Assessment Agency in NL. With 68 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.106719
+date: 2026-08-11T01:33:11.086435
 url: "/cdr-researcher-census/researchers/harmen-sytze-de-boer-a5060739/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Environmental trade-offs of direct air capture technologies in climate change mitigation toward 2100** (2022)
-   152 citations · DAC
+   154 citations · DAC
 
 2. **Reducing sectoral hard-to-abate emissions to limit reliance on carbon dioxide removal** (2024)
-   94 citations · General CDR
+   100 citations · General CDR
 
 3. **Using Decomposition Analysis to Determine the Main Contributing Factors to Carbon Neutrality across Sectors** (2021)
    14 citations · General CDR

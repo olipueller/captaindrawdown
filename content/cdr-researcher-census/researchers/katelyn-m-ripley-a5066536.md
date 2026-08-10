@@ -1,7 +1,7 @@
 ---
 title: "Katelyn M. Ripley"
 description: "Katelyn M. Ripley is a Mid-career General CDR researcher at Massachusetts Institute of Technology in US. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.883499
+date: 2026-08-11T01:33:11.784466
 url: "/cdr-researcher-census/researchers/katelyn-m-ripley-a5066536/"
 layout: "researcher"
 hiddenInHomeList: true

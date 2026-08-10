@@ -1,7 +1,7 @@
 ---
 title: "Aneta H. Baczewska-Dąbrowska"
 description: "Aneta H. Baczewska-Dąbrowska is a Mid-career General CDR researcher at Polish Academy of Sciences Botanical Garden – Center for Biological Diversity Conservation in Powsin in PL. With 27 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.320824
+date: 2026-08-11T01:33:11.286508
 url: "/cdr-researcher-census/researchers/aneta-h-baczewska-dabrowska-a5033633/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The role of temperate agroforestry in mitigating climate change: A review** (2023)
-   38 citations · General CDR
+   41 citations · General CDR
 
 2. **Agronomy in the temperate zone and threats or mitigation from climate change: A review** (2022)
    12 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Suchanya Kojinok"
 description: "Suchanya Kojinok is a Mid-career Enhanced Weathering researcher at Maejo University in TH. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.180781
+date: 2026-08-11T01:33:12.065481
 url: "/cdr-researcher-census/researchers/suchanya-kojinok-a5080768/"
 layout: "researcher"
 hiddenInHomeList: true

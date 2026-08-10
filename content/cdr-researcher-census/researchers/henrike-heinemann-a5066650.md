@@ -1,7 +1,7 @@
 ---
 title: "Henrike Heinemann"
 description: "Henrike Heinemann is a Mid-career Soil Carbon researcher at Johann Heinrich von Thünen-Institut in DE. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.531022
+date: 2026-08-11T01:33:12.382065
 url: "/cdr-researcher-census/researchers/henrike-heinemann-a5066650/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Increasing root biomass derived carbon input to agricultural soils by genotype selection – a review** (2023)
-   50 citations · General CDR
+   51 citations · General CDR
 
 2. **Flower strips as a carbon sequestration measure in temperate croplands** (2022)
    19 citations · Soil Carbon

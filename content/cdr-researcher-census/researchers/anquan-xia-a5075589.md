@@ -1,7 +1,7 @@
 ---
 title: "Anquan Xia"
 description: "Anquan Xia is a Mid-career Soil Carbon researcher at China Geological Survey in CN. With 23 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.546492
+date: 2026-08-11T01:33:11.481840
 url: "/cdr-researcher-census/researchers/anquan-xia-a5075589/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A comprehensive review of soil organic carbon estimates: Integrating remote sensing and machine learning technologies** (2024)
-   46 citations · General CDR
+   48 citations · General CDR
 
 2. **Soil Organic Carbon Estimation via Remote Sensing and Machine Learning Techniques: Global Topic Modeling and Research Trend Exploration** (2024)
    31 citations · General CDR

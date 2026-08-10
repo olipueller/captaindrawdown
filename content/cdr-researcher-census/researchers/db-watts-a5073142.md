@@ -1,7 +1,7 @@
 ---
 title: "D.B. Watts"
 description: "D.B. Watts is an Early-career Soil Carbon researcher at National Soil Dynamics Research Laboratory in US. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.513517
+date: 2026-08-11T01:33:12.366175
 url: "/cdr-researcher-census/researchers/db-watts-a5073142/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Influence of gypsum and cover crop on greenhouse gas emissions in soybean cropping systems** (2023)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 ## External Profiles
 

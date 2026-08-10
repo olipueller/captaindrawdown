@@ -1,7 +1,7 @@
 ---
 title: "Liqun Lian"
 description: "Liqun Lian is a Mid-career Biochar researcher at Jiangsu University in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.307133
+date: 2026-08-11T01:33:12.176761
 url: "/cdr-researcher-census/researchers/liqun-lian-a5014169/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    39 citations · Biochar
 
 2. **A review on carbon-based and coordination polymer-based materials for adsorption of SO2 from flue gas** (2024)
-   28 citations
+   29 citations
 
 3. **Adsorption removal of CO2 using biomass porous carbon modified by a clean photochemical technique** (2026)
-   1 citations
+   4 citations
 
 ## External Profiles
 

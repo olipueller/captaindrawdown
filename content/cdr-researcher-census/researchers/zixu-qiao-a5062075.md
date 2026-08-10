@@ -1,7 +1,7 @@
 ---
 title: "Zixu Qiao"
 description: "Zixu Qiao is a Mid-career Soil Carbon researcher at Inner Mongolia Agricultural University in CN. With 27 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.413328
+date: 2026-08-11T01:33:12.272764
 url: "/cdr-researcher-census/researchers/zixu-qiao-a5062075/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,10 +50,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Exploring the Impact of Grain-for-Green Program on Trade-Offs and Synergies among Ecosystem Services in West Liao River Basin, China** (2023)
    19 citations · Soil Carbon
 
-2. **Effect and suitability evaluation of vegetation restoration on carbon, water, and sand** (2026)
-   0 citations · General CDR
+2. **Future climate change impacts on carbon dynamics and ecohydrological risks in the West Liao river Basin, China: implications for carbon management** (2025)
+   1 citations · General CDR
 
-3. **Future climate change impacts on carbon dynamics and ecohydrological risks in the West Liao river Basin, China: implications for carbon management** (2025)
+3. **Effect and suitability evaluation of vegetation restoration on carbon, water, and sand** (2026)
    0 citations · General CDR
 
 ## External Profiles

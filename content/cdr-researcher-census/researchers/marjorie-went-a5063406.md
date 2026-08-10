@@ -1,7 +1,7 @@
 ---
 title: "Marjorie Went"
 description: "Marjorie Went is a Senior BECCS researcher at University of California, Berkeley in US. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.254573
+date: 2026-08-11T01:33:12.132599
 url: "/cdr-researcher-census/researchers/marjorie-went-a5063406/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Market Potential for CO<sub>2</sub> Removal and Sequestration from Renewable Natural Gas Production in California** (2022)
-   15 citations · BECCS
+   18 citations · BECCS
 
 2. **Market Potential for CO2 Removal and Sequestration from Renewable Natural Gas Production in California** (2022)
    0 citations · BECCS

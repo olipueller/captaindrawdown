@@ -1,7 +1,7 @@
 ---
 title: "Shujian Yuan"
 description: "Shujian Yuan is a Mid-career Biochar researcher at Nanjing Agricultural University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.279854
+date: 2026-08-11T01:33:12.153405
 url: "/cdr-researcher-census/researchers/shujian-yuan-a5001533/"
 layout: "researcher"
 hiddenInHomeList: true

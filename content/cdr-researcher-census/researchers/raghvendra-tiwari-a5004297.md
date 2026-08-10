@@ -1,7 +1,7 @@
 ---
 title: "Raghvendra Tiwari"
 description: "Raghvendra Tiwari is a Mid-career Soil Carbon researcher at University of Lucknow in IN. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.303994
+date: 2026-08-11T01:33:12.174142
 url: "/cdr-researcher-census/researchers/raghvendra-tiwari-a5004297/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Trash management and Trichoderma harzianum influencing photosynthesis, soil carbon sequestration, and growth and yield of sugarcane ratoon in subtropical India** (2022)
-   19 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 2. **Carbon Sequestration for Sustaining Soil Health and Improving Crop Productivity in Sugarcane Based System** (2022)
    1 citations · General CDR

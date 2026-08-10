@@ -1,7 +1,7 @@
 ---
 title: "Théo Alerte"
 description: "Théo Alerte is an Early-career General CDR researcher at University of Toronto in CA. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.010750
+date: 2026-08-11T01:33:11.887415
 url: "/cdr-researcher-census/researchers/theo-alerte-a5076696/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Downstream of the CO<sub>2</sub> Electrolyzer: Assessing the Energy Intensity of Product Separation** (2021)
-   120 citations · General CDR
+   121 citations · General CDR
 
 2. **(Digital Presentation) Assessing the Energy Intensity of Product Purification in CO<sub>2</sub> Electrolysis** (2022)
    0 citations

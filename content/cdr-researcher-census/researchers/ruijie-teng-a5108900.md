@@ -1,7 +1,7 @@
 ---
 title: "Ruijie Teng"
 description: "Ruijie Teng is a Mid-career Biochar researcher at Xi'an University of Technology in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.347205
+date: 2026-08-11T01:33:12.212368
 url: "/cdr-researcher-census/researchers/ruijie-teng-a5108900/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,9 +48,12 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Molecular simulations of the tunable pore structure models elucidate the adsorption of sulfamethoxazole on biochar** (2026)
-   1 citations · Biochar
+   2 citations · Biochar
 
-2. **Tailoring catalytic performance: Carbonization strategies modulate PMS activation by Chenopodium album L.-derived biochar for iopamidol removal** (2026)
+2. **Unraveling the dual role of humic acid in sulfamethoxazole adsorption on biochar: A molecular-level perspective** (2026)
+   0 citations · Biochar
+
+3. **Tailoring catalytic performance: Carbonization strategies modulate PMS activation by Chenopodium album L.-derived biochar for iopamidol removal** (2026)
    0 citations · Biochar
 
 ## External Profiles

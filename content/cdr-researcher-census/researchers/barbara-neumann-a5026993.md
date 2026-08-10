@@ -1,7 +1,7 @@
 ---
 title: "Barbara Neumann"
 description: "Barbara Neumann is a Senior Ocean CDR researcher at Research Institute For Sustainability – Helmholtz Centre Potsdam in DE. With 58 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.123099
+date: 2026-08-11T01:33:11.101834
 url: "/cdr-researcher-census/researchers/barbara-neumann-a5026993/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Ocean-based negative emissions technologies: a governance framework review** (2023)
-   20 citations · General CDR
+   21 citations · General CDR
 
 2. **Marine carbon dioxide removal: an emerging topic for ocean governance and the sustainability agenda** (2026)
    1 citations · General CDR

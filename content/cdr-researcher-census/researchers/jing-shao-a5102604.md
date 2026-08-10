@@ -1,7 +1,7 @@
 ---
 title: "Jing Shao"
 description: "Jing Shao is a Mid-career Soil Carbon researcher at Henan Agricultural University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.342745
+date: 2026-08-11T01:33:12.208330
 url: "/cdr-researcher-census/researchers/jing-shao-a5102604/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The potential for soil C sequestration and N fixation under different planting patterns depends on the carbon and nitrogen content and stability of soil aggregates** (2023)
-   56 citations · Soil Carbon
+   57 citations · Soil Carbon
 
 2. **Enhancing productivity while reducing water footprint and groundwater depletion: Optimizing irrigation strategies in a wheat-soybean planting system** (2024)
-   13 citations
+   14 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Haowen Zou"
 description: "Haowen Zou is a Mid-career Biochar researcher at Xi'an Polytechnic University in CN. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.438638
+date: 2026-08-11T01:33:11.389080
 url: "/cdr-researcher-census/researchers/haowen-zou-a5073033/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **ZnO/biochar nanocomposites via solvent free ball milling for enhanced adsorption and photocatalytic degradation of methylene blue** (2021)
-   317 citations · Biochar
+   321 citations · Biochar
 
 ## External Profiles
 

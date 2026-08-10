@@ -1,7 +1,7 @@
 ---
 title: "Jing-Ping Zhao"
 description: "Jing-Ping Zhao is a Senior BECCS researcher at China University of Mining and Technology in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.622661
+date: 2026-08-11T01:33:11.550391
 url: "/cdr-researcher-census/researchers/jing-ping-zhao-a5102367/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **BECCS carbon-negative technologies based on biomass thermochemical conversion: A review of critical pathways and research advances** (2025)
-   15 citations · BECCS
+   18 citations · BECCS
 
 ## External Profiles
 

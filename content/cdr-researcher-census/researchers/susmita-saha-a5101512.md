@@ -1,7 +1,7 @@
 ---
 title: "Susmita Saha"
 description: "Susmita Saha is a Senior Soil Carbon researcher at Indian Institute of Technology Roorkee in IN. With 39 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.415022
+date: 2026-08-11T01:33:12.274345
 url: "/cdr-researcher-census/researchers/susmita-saha-a5101512/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,10 +50,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Urban Green Infrastructure for Climate Change Adaptation and Mitigation: Roles, Innovations, and Challenges in Sustainable Cities** (2025)
-   0 citations · General CDR
+1. **Review of Different Composting Methods towards End Product Quality, Cost of Production, Process Adoptability Potential, Post Soil Application Efficacy and GHG Mitigation Potential Fundamental Factors Behind Attending Objectivities of any Regenerative Far** (2024)
+   1 citations · General CDR
 
-2. **Review of Different Composting Methods towards End Product Quality, Cost of Production, Process Adoptability Potential, Post Soil Application Efficacy and GHG Mitigation Potential Fundamental Factors Behind Attending Objectivities of any Regenerative Far** (2024)
+2. **Urban Green Infrastructure for Climate Change Adaptation and Mitigation: Roles, Innovations, and Challenges in Sustainable Cities** (2025)
    0 citations · General CDR
 
 ## External Profiles

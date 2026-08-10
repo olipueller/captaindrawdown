@@ -1,7 +1,7 @@
 ---
 title: "Mesnan Silalahi"
 description: "Mesnan Silalahi is a Senior BECCS researcher. With 26 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.376632
+date: 2026-08-11T01:33:12.238797
 url: "/cdr-researcher-census/researchers/mesnan-silalahi-a5065841/"
 layout: "researcher"
 hiddenInHomeList: true

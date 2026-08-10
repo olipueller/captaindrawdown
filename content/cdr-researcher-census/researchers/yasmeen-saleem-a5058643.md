@@ -1,7 +1,7 @@
 ---
 title: "Yasmeen Saleem"
 description: "Yasmeen Saleem is a Mid-career Biochar researcher at Florida Department of Citrus in US. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.555821
+date: 2026-08-11T01:33:11.490083
 url: "/cdr-researcher-census/researchers/yasmeen-saleem-a5058643/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar for agronomy, animal farming, anaerobic digestion, composting, water treatment, soil remediation, construction, energy storage, and carbon sequestration: a review** (2022)
-   478 citations · Biochar
+   487 citations · Biochar
 
 ## External Profiles
 

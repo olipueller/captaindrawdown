@@ -1,7 +1,7 @@
 ---
 title: "Joseph K. Warren"
 description: "Joseph K. Warren is a Mid-career Ocean CDR researcher at Monterey Bay Aquarium Research Institute in US. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.598272
+date: 2026-08-11T01:33:11.528543
 url: "/cdr-researcher-census/researchers/joseph-k-warren-a5042862/"
 layout: "researcher"
 hiddenInHomeList: true

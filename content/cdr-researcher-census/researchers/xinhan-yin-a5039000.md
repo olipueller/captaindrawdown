@@ -1,7 +1,7 @@
 ---
 title: "Xinhan Yin"
 description: "Xinhan Yin is an Early-career Soil Carbon researcher at Chongqing University in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.338871
+date: 2026-08-11T01:33:12.204786
 url: "/cdr-researcher-census/researchers/xinhan-yin-a5039000/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of Elevation Gradient on Soil Carbon and Nitrogen in a Typical Karst Region of Chongqing, Southwest China** (2022)
-   17 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 ## External Profiles
 

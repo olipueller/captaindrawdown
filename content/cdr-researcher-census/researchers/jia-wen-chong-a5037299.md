@@ -1,7 +1,7 @@
 ---
 title: "Jia Wen Chong"
 description: "Jia Wen Chong is a Mid-career Biochar researcher at University of Nottingham Malaysia Campus in MY. With 15 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.942366
+date: 2026-08-11T01:33:11.837853
 url: "/cdr-researcher-census/researchers/jia-wen-chong-a5037299/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Development of predictive model for biochar surface properties based on biomass attributes and pyrolysis conditions using rough set machine learning** (2023)
-   37 citations · Biochar
+   38 citations · Biochar
 
 2. **Rough set approach to predict biochar stability and pH from pyrolysis conditions and feedstock characteristics** (2023)
    15 citations · Biochar

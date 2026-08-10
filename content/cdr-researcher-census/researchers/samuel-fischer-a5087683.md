@@ -1,7 +1,7 @@
 ---
 title: "Samuel Fischer"
 description: "Samuel Fischer is a Mid-career General CDR researcher at OTH Regensburg in DE. With 36 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.651459
+date: 2026-08-11T01:33:11.576623
 url: "/cdr-researcher-census/researchers/samuel-fischer-a5087683/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,10 +50,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Top CDR Publications
 
-1. **Uncovering the German public's perception of agricultural carbon dioxide removal measures - Evidence from deliberative workshops** (2026)
+1. **Uncovering the German public's perception of agricultural carbon dioxide removal measures : evidence from deliberative workshops** (2026)
    0 citations · General CDR
 
-2. **Quantifying the Importance of Ecosystem Services in the Context of Agricultural Carbon Dioxide Removal and Rewetting – a Deliberative Choice Experiment** (2025)
+2. **Uncovering the German public's perception of agricultural carbon dioxide removal measures - Evidence from deliberative workshops** (2026)
+   0 citations · General CDR
+
+3. **Quantifying the Importance of Ecosystem Services in the Context of Agricultural Carbon Dioxide Removal and Rewetting – a Deliberative Choice Experiment** (2025)
    0 citations · General CDR
 
 ## External Profiles

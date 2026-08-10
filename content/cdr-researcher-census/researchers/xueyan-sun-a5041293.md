@@ -1,7 +1,7 @@
 ---
 title: "Xueyan Sun"
 description: "Xueyan Sun is a Mid-career DAC researcher at Luoyang Institute of Science and Technology in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.759344
+date: 2026-08-11T01:33:11.673643
 url: "/cdr-researcher-census/researchers/xueyan-sun-a5041293/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Quaternized Plant-Based Porous Biochar for Direct Air Capture of CO<sub>2</sub> by Moisture-Swing Adsorption** (2024)
-   25 citations · Biochar
+   26 citations · Biochar
 
 ## External Profiles
 

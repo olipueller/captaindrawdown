@@ -1,7 +1,7 @@
 ---
 title: "Yufeng Zhou"
 description: "Yufeng Zhou is a Senior Soil Carbon researcher at Zhejiang A & F University in CN. With 109 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.210952
+date: 2026-08-11T01:33:11.184122
 url: "/cdr-researcher-census/researchers/yufeng-zhou-a5101560/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,17 +53,17 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Degradation reduces greenhouse gas emissions while weakening ecosystem carbon sequestration of Moso bamboo forests** (2023)
    45 citations · Soil Carbon
 
-2. **Interactions between soil properties and the rhizome-root distribution in a 12-year Moso bamboo reforested region: Combining ground-penetrating radar and soil coring in the field** (2021)
+2. **Rhizome extension characteristics, structure and carbon storage relationships with culms in a 10-year moso bamboo reforestation period** (2021)
+   25 citations · Soil Carbon
+
+3. **Effects of Climate on Variation of Soil Organic Carbon and Alkali-Hydrolyzed Nitrogen in Subtropical Forests: A Case Study of Zhejiang Province, China** (2023)
    24 citations · Soil Carbon
 
-3. **Rhizome extension characteristics, structure and carbon storage relationships with culms in a 10-year moso bamboo reforestation period** (2021)
+4. **Interactions between soil properties and the rhizome-root distribution in a 12-year Moso bamboo reforested region: Combining ground-penetrating radar and soil coring in the field** (2021)
    24 citations · Soil Carbon
-
-4. **Effects of Climate on Variation of Soil Organic Carbon and Alkali-Hydrolyzed Nitrogen in Subtropical Forests: A Case Study of Zhejiang Province, China** (2023)
-   23 citations · Soil Carbon
 
 5. **Growing in Mixed Stands Increased Leaf Photosynthesis and Physiological Stress Resistance in Moso Bamboo and Mature Chinese Fir Plantations** (2021)
-   22 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 6. **The phytolith carbon sequestration in terrestrial ecosystems: the underestimated potential of bamboo forest** (2023)
    15 citations · Soil Carbon
@@ -71,14 +71,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 7. **Degradation-driven vegetation-soil-microbe interactions alter microbial carbon use efficiency in Moso bamboo forests** (2024)
    9 citations · Soil Carbon
 
-8. **The current status and potential research directions of soil microbial carbon in bamboo forest** (2022)
+8. **Effects of Different Management Measures on Carbon Stocks and Soil Carbon Stocks in Moso Bamboo Forests: Meta-Analysis and Control Experiment** (2024)
    9 citations · Soil Carbon
 
-9. **Effects of Different Management Measures on Carbon Stocks and Soil Carbon Stocks in Moso Bamboo Forests: Meta-Analysis and Control Experiment** (2024)
-   8 citations · Soil Carbon
+9. **The current status and potential research directions of soil microbial carbon in bamboo forest** (2022)
+   9 citations · Soil Carbon
 
 10. **An Analysis of the Factors Affecting Forest Mortality and Research on Forecasting Models in Southern China: A Case Study in Zhejiang Province** (2023)
-   6 citations
+   7 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Amanda Stubbs"
 description: "Amanda Stubbs is a Senior Enhanced Weathering researcher at Royal Bank of Scotland (United Kingdom) in GB. With 58 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.521043
+date: 2026-08-11T01:33:11.458844
 url: "/cdr-researcher-census/researchers/amanda-stubbs-a5041395/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -63,7 +63,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    30 citations · Enhanced Weathering
 
 5. **Impact of wet-dry cycles on enhanced rock weathering of brucite, wollastonite, serpentinite and kimberlite: Implications for carbon verification** (2023)
-   16 citations · Enhanced Weathering
+   17 citations · Enhanced Weathering
 
 6. **Weathering and cementation of historic kimberlite residues from South Africa: Implications for residue stabilization and CO2 sequestration** (2024)
    6 citations · Enhanced Weathering
@@ -71,14 +71,14 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 7. **Quantifying potential carbon dioxide removal via enhanced weathering using porewater from a field trial in Scotland** (2025)
    2 citations · Enhanced Weathering
 
-8. **Evaluating Total Cation Accounting (TCA) as an MRV Approach for Enhanced Rock Weathering - Insights from a trial in Ontario, Canada** (2025)
+8. **Optimizing the management of quarry fines for on-site carbon removal: Implications of grain size and mineralogy on CO2 mineralization** (2025)
    1 citations · Enhanced Weathering
 
-9. **Assessing carbon balances through CO<sub>2</sub> mineralization and enhanced rock weathering rates using field-deployable leaching columns** (2021)
+9. **Evaluating Total Cation Accounting (TCA) as an MRV Approach for Enhanced Rock Weathering - Insights from a trial in Ontario, Canada** (2025)
    1 citations · Enhanced Weathering
 
-10. **A novel soil porewater extraction technique for enhanced rock weathering products: SATuration–Centrifugation** (2026)
-   0 citations · Enhanced Weathering
+10. **Assessing carbon balances through CO<sub>2</sub> mineralization and enhanced rock weathering rates using field-deployable leaching columns** (2021)
+   1 citations · Enhanced Weathering
 
 ## External Profiles
 

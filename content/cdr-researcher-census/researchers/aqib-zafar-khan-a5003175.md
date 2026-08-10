@@ -1,7 +1,7 @@
 ---
 title: "Aqib Zafar Khan"
 description: "Aqib Zafar Khan is a Mid-career BECCS researcher at Shenzhen University in CN. With 36 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.580265
+date: 2026-08-11T01:33:11.512004
 url: "/cdr-researcher-census/researchers/aqib-zafar-khan-a5003175/"
 layout: "researcher"
 hiddenInHomeList: true

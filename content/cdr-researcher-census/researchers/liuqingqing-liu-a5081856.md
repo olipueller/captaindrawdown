@@ -1,7 +1,7 @@
 ---
 title: "Liuqingqing Liu"
 description: "Liuqingqing Liu is a Mid-career Biochar researcher at Ministry of Ecology and Environment in CN. With 27 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.495222
+date: 2026-08-11T01:33:11.436469
 url: "/cdr-researcher-census/researchers/liuqingqing-liu-a5081856/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **CO2 and H2O as sweep gases elevated carbon stability and decreased phytotoxicity of biochars** (2023)
-   11 citations · Biochar
+   12 citations · Biochar
 
 2. **Co2 and H2o as Sweep Gases Elevated Carbon Stability and Decreased Phytotoxicity Of Biochars Produced from Sawdust and Pig Manure** (2023)
    0 citations · Biochar

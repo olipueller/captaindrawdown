@@ -1,7 +1,7 @@
 ---
 title: "Pankaj Bhardwaj"
 description: "Pankaj Bhardwaj is a Mid-career Biochar researcher at Government College Bahu in IN. With 33 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.528910
+date: 2026-08-11T01:33:11.465613
 url: "/cdr-researcher-census/researchers/pankaj-bhardwaj-a5101936/"
 layout: "researcher"
 hiddenInHomeList: true

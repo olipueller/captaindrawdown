@@ -1,7 +1,7 @@
 ---
 title: "S. Rakesh"
 description: "S. Rakesh is a Mid-career Soil Carbon researcher at North Bengal Agricultural University in IN. With 63 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.555327
+date: 2026-08-11T01:33:11.489655
 url: "/cdr-researcher-census/researchers/s-rakesh-a5076747/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -59,25 +59,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **Technologies, Programs, and Policies for Enhancing Soil Organic Carbon in Rainfed Dryland Ecosystems of India** (2022)
    4 citations · General CDR
 
-4. **Impact of Land Use Systems on Soil Chemical Properties in Semi-Arid Tropics of Western Maharashtra, India** (2025)
-   2 citations · Soil Carbon
+4. **Soil Carbon Sequestration and Agronomic Productivity as Influenced by the Long-Term Organic and Inorganic Fertilisation Under the Upland Rice–Wheat System in Vertisols of Central India** (2024)
+   3 citations · Soil Carbon
 
-5. **Soil Carbon Sequestration and Agronomic Productivity as Influenced by the Long-Term Organic and Inorganic Fertilisation Under the Upland Rice–Wheat System in Vertisols of Central India** (2024)
+5. **Impact of Land Use Systems on Soil Chemical Properties in Semi-Arid Tropics of Western Maharashtra, India** (2025)
    2 citations · Soil Carbon
 
 6. **On-farm soil organic carbon dynamics under conservation agriculture in different cropping systems of eastern Gangetic alluvial soils** (2026)
    1 citations · Soil Carbon
 
-7. **Challenges and Opportunities for Soil Carbon Sequestration** (2024)
+7. **Bamboo: A Fast-Growing, Eco-Friendly, and Versatile Resource for a Sustainable Future** (2025)
    1 citations · General CDR
 
-8. **Total Organic Carbon in Soil Extracts: Titration Method** (2026)
+8. **Challenges and Opportunities for Soil Carbon Sequestration** (2024)
+   1 citations · General CDR
+
+9. **Total Organic Carbon in Soil Extracts: Titration Method** (2026)
    0 citations · Soil Carbon
 
-9. **Background** (2026)
-   0 citations
-
-10. **Humic Acid (HA) and Fulvic Acid (FA) Carbon** (2026)
+10. **Background** (2026)
    0 citations
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Wenxuan Mei"
 description: "Wenxuan Mei is a Mid-career Soil Carbon researcher at Tongji University in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.549143
+date: 2026-08-11T01:33:12.398347
 url: "/cdr-researcher-census/researchers/wenxuan-mei-a5012322/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    9 citations · Soil Carbon
 
 5. **The combined effects of soil moisture and salinity on the spatial differences of soil humification intensity in the Yangtze River estuarine wetlands** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 6. **Particle size is an important factor influencing the effects of biochar return to woodland soils: An evaluation from the perspective of sapling growth and soil microbial carbon processes** (2024)
    2 citations · Biochar

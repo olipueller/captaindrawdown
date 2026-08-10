@@ -1,7 +1,7 @@
 ---
 title: "Robert J. Caldwell"
 description: "Robert J. Caldwell is a Senior Enhanced Weathering researcher. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.736706
+date: 2026-08-11T01:33:11.653356
 url: "/cdr-researcher-census/researchers/robert-j-caldwell-a5044596/"
 layout: "researcher"
 hiddenInHomeList: true

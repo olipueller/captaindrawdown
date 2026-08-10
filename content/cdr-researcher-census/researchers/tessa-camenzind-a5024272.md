@@ -1,7 +1,7 @@
 ---
 title: "Tessa Camenzind"
 description: "Tessa Camenzind is a Senior Soil Carbon researcher at Freie Universität Berlin in DE. With 57 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.172968
+date: 2026-08-11T01:33:11.148696
 url: "/cdr-researcher-census/researchers/tessa-camenzind-a5024272/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Formation of necromass-derived soil organic carbon determined by microbial death pathways** (2023)
-   403 citations · Soil Carbon
+   414 citations · Soil Carbon
 
 2. **Progressing beyond colonization strategies to understand arbuscular mycorrhizal fungal life history** (2024)
-   26 citations · General CDR
+   27 citations · General CDR
 
 3. **Global patterns of nutrient limitation in soil microorganisms** (2025)
    1 citations · Soil Carbon

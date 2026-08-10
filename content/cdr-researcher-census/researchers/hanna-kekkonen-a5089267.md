@@ -1,7 +1,7 @@
 ---
 title: "Hanna Kekkonen"
 description: "Hanna Kekkonen is a Mid-career Soil Carbon researcher at Natural Resources Institute Finland in FI. With 39 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.295465
+date: 2026-08-11T01:33:12.166673
 url: "/cdr-researcher-census/researchers/hanna-kekkonen-a5089267/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,10 +53,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Impact of crop type on the greenhouse gas (GHG) emissions of a rewetted cultivated peatland** (2024)
    7 citations · Soil Carbon
 
-2. **Comment on egusphere-2024-934** (2024)
+2. **Spatial information in targeting climate measures for cultivated peat soils** (2025)
+   0 citations
+
+3. **Comment on egusphere-2024-934** (2024)
    0 citations · Soil Carbon
 
-3. **Carbon balance and emissions of methane and nitrous oxide during four years of moderate rewetting of a cultivated peat soil site** (2024)
+4. **Carbon balance and emissions of methane and nitrous oxide during four years of moderate rewetting of a cultivated peat soil site** (2024)
    0 citations · Soil Carbon
 
 ## External Profiles

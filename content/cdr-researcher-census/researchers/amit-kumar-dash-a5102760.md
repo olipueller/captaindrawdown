@@ -1,7 +1,7 @@
 ---
 title: "Amit Kumar Dash"
 description: "Amit Kumar Dash is a Mid-career Soil Carbon researcher at Indian Institute of Soil Science in IN. With 24 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.544626
+date: 2026-08-11T01:33:12.394699
 url: "/cdr-researcher-census/researchers/amit-kumar-dash-a5102760/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Dual-crop basis residue-retained bed-planting and zinc fertilization lead to improved food-energy-water-carbon nexus in pearl millet-wheat cropping system in semi-arid agro-ecologies** (2025)
-   9 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 2. **Temporal Effects of Conservation Agriculture-Based Rice–Wheat Cropping System on Soil Aggregation and Organic Carbon Dynamics in Northwestern Indo-Gangetic Plains** (2025)
-   6 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 3. **Conservation Agriculture Strategies for Enhancing Soil Health** (2025)
    2 citations · Soil Carbon

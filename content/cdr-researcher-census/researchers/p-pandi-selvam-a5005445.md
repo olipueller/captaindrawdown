@@ -1,7 +1,7 @@
 ---
 title: "P. Pandi Selvam"
 description: "P. Pandi Selvam is a Mid-career General CDR researcher at GlobalFoundries (Singapore) in SG. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.326639
+date: 2026-08-11T01:33:12.193801
 url: "/cdr-researcher-census/researchers/p-pandi-selvam-a5005445/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Mangrove-based carbon market projects: Current trends and future perspectives** (2025)
-   2 citations · General CDR
+   3 citations · General CDR
 
 ## External Profiles
 

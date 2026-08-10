@@ -1,7 +1,7 @@
 ---
 title: "Madhu Madegowda"
 description: "Madhu Madegowda is an Early-career Soil Carbon researcher at Indian Institute of Soil and Water Conservation in IN. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.309094
+date: 2026-08-11T01:33:12.178429
 url: "/cdr-researcher-census/researchers/madhu-madegowda-a5064043/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Degraded land rehabilitation through agroforestry in India: Achievements, current understanding, and future prospectives** (2023)
-   110 citations · Soil Carbon
+   119 citations · Soil Carbon
 
 2. **Experimental study of the effect of tillage gradient along the slope transect on soil respiration rates under agricultural fields of Indian Himalaya** (2024)
    0 citations · Soil Carbon

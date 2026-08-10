@@ -1,7 +1,7 @@
 ---
 title: "Zetao Dai"
 description: "Zetao Dai is a Mid-career Soil Carbon researcher. With 22 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.004005
+date: 2026-08-11T01:33:11.881071
 url: "/cdr-researcher-census/researchers/zetao-dai-a5007349/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,10 +46,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Loss of microbial functional diversity following Spartina alterniflora invasion reduces the potential of carbon sequestration and nitrogen removal in mangrove sediments—from a gene perspective** (2024)
-   27 citations · Soil Carbon
+   29 citations · Soil Carbon
 
 2. **Effects of different restored vegetation on soil organic carbon pools in subtropic erosive lands: Insights from stable carbon isotopes** (2024)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 ## External Profiles
 

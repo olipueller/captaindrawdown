@@ -1,7 +1,7 @@
 ---
 title: "Qiong Chen"
 description: "Qiong Chen is a Senior Soil Carbon researcher at Northwestern Polytechnical University in CN. With 101 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-12T12:07:29.223155
+date: 2026-08-11T01:33:11.164592
 url: "/cdr-researcher-census/researchers/qiong-chen-a5100336/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Enhanced silicate weathering accelerates forest carbon sequestration by stimulating the soil mineral carbon pump** (2024)
-   57 citations · Enhanced Weathering
+   64 citations · Enhanced Weathering
 
 2. **Enhanced rock weathering increased soil phosphorus availability and altered root phosphorus‐acquisition strategies** (2024)
    45 citations · Enhanced Weathering
 
 3. **Enhanced Rock Weathering Promotes Soil Organic Carbon Accumulation: A Global Meta‐Analysis Based on Experimental Evidence** (2025)
-   11 citations · Enhanced Weathering
+   14 citations · Enhanced Weathering
 
 4. **Microbial Adaptations Within Fine‐Scale Soil Structure Alleviate Phosphorus Limitation on Carbon Sequestration Following Afforestation** (2023)
    10 citations · Soil Carbon
 
-5. **Enhanced rock weathering boosts ecosystem multifunctionality via improving microbial networks complexity in a tropical forest plantation** (2024)
+5. **Divergent responses of carbon and nitrogen functional genes composition to enhanced rock weathering** (2025)
    7 citations · Enhanced Weathering
 
-6. **Divergent responses of carbon and nitrogen functional genes composition to enhanced rock weathering** (2025)
-   6 citations · Enhanced Weathering
+6. **Enhanced rock weathering boosts ecosystem multifunctionality via improving microbial networks complexity in a tropical forest plantation** (2024)
+   7 citations · Enhanced Weathering
 
 ## External Profiles
 

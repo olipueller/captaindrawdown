@@ -1,7 +1,7 @@
 ---
 title: "Romina Zabaleta"
 description: "Romina Zabaleta is a Mid-career Biochar researcher at National University of San Juan in AR. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.163217
+date: 2026-08-11T01:33:12.049612
 url: "/cdr-researcher-census/researchers/romina-zabaleta-a5017658/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Almond shell biochar: characterization and application in soilless cultivation of Eruca sativa** (2023)
-   40 citations · Biochar
+   41 citations · Biochar
 
 ## External Profiles
 

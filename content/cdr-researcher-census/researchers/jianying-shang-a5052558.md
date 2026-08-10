@@ -1,7 +1,7 @@
 ---
 title: "Jianying Shang"
 description: "Jianying Shang is an Eminent Biochar researcher at China Agricultural University in CN. With 166 publications and an h-index of 44, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.114288
+date: 2026-08-11T01:33:11.093624
 url: "/cdr-researcher-census/researchers/jianying-shang-a5052558/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,25 +51,25 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Removal of hexavalent chromium via biochar-based adsorbents: State-of-the-art, challenges, and future perspectives** (2022)
-   135 citations · Biochar
+   154 citations · Biochar
 
 2. **Goethite modified biochar simultaneously mitigates the arsenic and cadmium accumulation in paddy rice (Oryza sativa) L** (2021)
    80 citations · Biochar
 
 3. **Inducing Inorganic Carbon Accrual in Subsoil through Biochar Application on Calcareous Topsoil** (2023)
-   71 citations · Biochar
+   72 citations · Biochar
 
 4. **Salt-affected marginal lands: a solution for biochar production** (2023)
-   44 citations · Biochar
+   46 citations · Biochar
 
 5. **Stabilization of organic carbon in top- and subsoil by biochar application into calcareous farmland** (2023)
+   34 citations · Biochar
+
+6. **Effect of biochar application on rice, wheat, and corn seedlings in hydroponic culture** (2023)
    33 citations · Biochar
 
-6. **Transport of biochar colloids under unsaturated flow condition: Roles of chemical aging and cation type** (2022)
-   32 citations · Biochar
-
-7. **Effect of biochar application on rice, wheat, and corn seedlings in hydroponic culture** (2023)
-   29 citations · Biochar
+7. **Transport of biochar colloids under unsaturated flow condition: Roles of chemical aging and cation type** (2022)
+   33 citations · Biochar
 
 8. **Microplastics Generate Less Mineral Protection of Soil Carbon and More CO<sub>2</sub> Emissions** (2024)
    26 citations · Soil Carbon
@@ -78,7 +78,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    20 citations · Biochar
 
 10. **Field aging slows down biochar-mediated soil carbon dioxide emissions** (2024)
-   15 citations · Biochar
+   16 citations · Biochar
 
 ## External Profiles
 

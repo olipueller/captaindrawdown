@@ -1,7 +1,7 @@
 ---
 title: "Sunwoo Kim"
 description: "Sunwoo Kim is a Mid-career DAC researcher at Korea Advanced Institute of Science and Technology in KR. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.541535
+date: 2026-08-11T01:33:11.477242
 url: "/cdr-researcher-census/researchers/sunwoo-kim-a5088919/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Integrating solid direct air capture systems with green hydrogen production: Economic benefits and curtailment reduction** (2025)
-   9 citations · DAC
+   12 citations · DAC
 
 2. **Techno-Economic and Environmental Assessments of Implementable Wastewater-to-Hydrogen Production Technologies: Pathway Towards Circular Hydrogen Economy in South Korea** (2025)
    1 citations

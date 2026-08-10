@@ -1,7 +1,7 @@
 ---
 title: "Kate M. Buckeridge"
 description: "Kate M. Buckeridge is a Senior Soil Carbon researcher at Luxembourg Institute of Science and Technology in LU. With 44 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.157551
+date: 2026-08-11T01:33:11.134061
 url: "/cdr-researcher-census/researchers/kate-m-buckeridge-a5081527/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Deconstructing the microbial necromass continuum to inform soil carbon sequestration** (2022)
-   286 citations · General CDR
+   294 citations · General CDR
 
 2. **Microbial necromass under global change and implications for soil organic matter** (2023)
-   155 citations · Soil Carbon
+   159 citations · Soil Carbon
 
 3. **Microbial necromass carbon and nitrogen persistence are decoupled in agricultural grassland soils** (2022)
-   63 citations · Soil Carbon
+   66 citations · Soil Carbon
 
 4. **Glucoproteins in particulate and mineral-associated organic matter pools during grassland restoration** (2024)
    9 citations · Soil Carbon

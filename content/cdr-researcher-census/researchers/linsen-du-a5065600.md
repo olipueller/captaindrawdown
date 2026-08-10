@@ -1,7 +1,7 @@
 ---
 title: "Linsen Du"
 description: "Linsen Du is a Mid-career Soil Carbon researcher at Hunan Research Academy of Environmental Sciences in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.828004
+date: 2026-08-11T01:33:11.734671
 url: "/cdr-researcher-census/researchers/linsen-du-a5065600/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Rice-crayfish farming increases soil organic carbon** (2022)
-   53 citations · Soil Carbon
+   55 citations · Soil Carbon
 
 2. **Rice-Crayfish Farming Increases Soil Organic Carbon** (2021)
    1 citations · Soil Carbon

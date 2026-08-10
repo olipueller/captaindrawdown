@@ -1,7 +1,7 @@
 ---
 title: "Diarmaid Clery"
 description: "Diarmaid Clery is a Mid-career BECCS researcher at University of Manchester in GB. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.114182
+date: 2026-08-11T01:33:12.004340
 url: "/cdr-researcher-census/researchers/diarmaid-clery-a5025748/"
 layout: "researcher"
 hiddenInHomeList: true

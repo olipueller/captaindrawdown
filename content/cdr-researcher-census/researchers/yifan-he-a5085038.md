@@ -1,7 +1,7 @@
 ---
 title: "Yifan He"
 description: "Yifan He is a Mid-career Biochar researcher at University of International Business and Economics in CN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.241559
+date: 2026-08-11T01:33:12.121228
 url: "/cdr-researcher-census/researchers/yifan-he-a5085038/"
 layout: "researcher"
 hiddenInHomeList: true

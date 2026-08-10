@@ -1,7 +1,7 @@
 ---
 title: "Zubaira Maqbool"
 description: "Zubaira Maqbool is an Early-career Soil Carbon researcher at Pir Mehr Ali Shah Arid Agriculture University in PK. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.494042
+date: 2026-08-11T01:33:12.347772
 url: "/cdr-researcher-census/researchers/zubaira-maqbool-a5088405/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Utilisation of Climate‐Smart Conservation Agriculture Practices for Improved Soil Carbon Sequestration, Greenhouse Gas Mitigation and Sustainable Crop Productivity** (2025)
-   10 citations · General CDR
+   14 citations · General CDR
 
 2. **Effects of land use type on soil aggregate stability and organic carbon fractions in the He Huang Valley, Qinghai-Tibet plateau** (2025)
    2 citations · Soil Carbon

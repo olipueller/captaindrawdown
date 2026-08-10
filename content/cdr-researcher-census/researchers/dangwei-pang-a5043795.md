@@ -1,7 +1,7 @@
 ---
 title: "Dangwei Pang"
 description: "Dangwei Pang is a Mid-career Soil Carbon researcher at Shandong Agricultural University in CN. With 17 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.392783
+date: 2026-08-11T01:33:11.348365
 url: "/cdr-researcher-census/researchers/dangwei-pang-a5043795/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Tillage strategies optimize SOC distribution to reduce carbon footprint** (2022)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 ## External Profiles
 

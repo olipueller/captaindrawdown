@@ -1,7 +1,7 @@
 ---
 title: "Mariia Belaia"
 description: "Mariia Belaia is a Mid-career General CDR researcher at George Mason University in US. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.081282
+date: 2026-08-11T01:33:11.974153
 url: "/cdr-researcher-census/researchers/mariia-belaia-a5077851/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **OPTIMAL CLIMATE POLICY IN 3D: MITIGATION, CARBON REMOVAL, AND SOLAR GEOENGINEERING** (2021)
-   44 citations · General CDR
+   45 citations · General CDR
 
 2. **The private sector to the rescue? Analysis of a hypothetical scenario of SG deployment** (2021)
    4 citations · General CDR

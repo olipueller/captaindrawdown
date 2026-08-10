@@ -1,7 +1,7 @@
 ---
 title: "Noah Mohammed Saleh"
 description: "Noah Mohammed Saleh is a Mid-career Biochar researcher at University of Tabriz in IR. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.946058
+date: 2026-08-11T01:33:11.841255
 url: "/cdr-researcher-census/researchers/noah-mohammed-saleh-a5034274/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    12 citations
 
 2. **Waste-to-Energy Innovations and Advances in Hydrothermal Carbonization, Microwave, and Pyrolysis Processes: A Review** (2026)
-   1 citations · Biochar
+   2 citations · Biochar
 
 3. **Optimization for the Effects of Coconut Shell Activated Carbon Xerogel Weight and Temperature on the Hydrogen Sulphide Adsorption Using Response Surface Methodology** (2024)
    1 citations · Biochar

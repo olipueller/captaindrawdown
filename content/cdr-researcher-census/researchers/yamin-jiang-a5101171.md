@@ -1,7 +1,7 @@
 ---
 title: "Yamin Jiang"
 description: "Yamin Jiang is a Mid-career Soil Carbon researcher at Hainan University in CN. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.396743
+date: 2026-08-11T01:33:12.258059
 url: "/cdr-researcher-census/researchers/yamin-jiang-a5101171/"
 layout: "researcher"
 hiddenInHomeList: true

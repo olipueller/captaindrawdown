@@ -1,7 +1,7 @@
 ---
 title: "M. Grace Andrews"
 description: "M. Grace Andrews is a Mid-career General CDR researcher at Climate Central in US. With 27 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.222967
+date: 2026-08-11T01:33:11.195626
 url: "/cdr-researcher-census/researchers/m-grace-andrews-a5102775/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Quantification of CO2 removal in a large-scale enhanced weathering field trial on an oil palm plantation in Sabah, Malaysia** (2022)
-   70 citations · Enhanced Weathering
+   71 citations · Enhanced Weathering
 
 2. **Responses of globally important phytoplankton species to olivine dissolution products and implications for carbon dioxide removal via ocean alkalinity enhancement** (2023)
    39 citations · General CDR
@@ -63,7 +63,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    13 citations · General CDR
 
 5. **Localized governance of carbon dioxide removal in small island developing states** (2023)
-   9 citations · General CDR
+   10 citations · General CDR
 
 6. **Metal bioaccumulation and effects of olivine sand exposure on benthic marine invertebrates** (2024)
    7 citations · Enhanced Weathering

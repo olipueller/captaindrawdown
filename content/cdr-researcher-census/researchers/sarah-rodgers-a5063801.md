@@ -1,7 +1,7 @@
 ---
 title: "Sarah Rodgers"
 description: "Sarah Rodgers is a Mid-career DAC researcher at University of Nottingham in GB. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.582455
+date: 2026-08-11T01:33:12.420403
 url: "/cdr-researcher-census/researchers/sarah-rodgers-a5063801/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Technical, economic and lifecycle greenhouse gas emissions analyses of solid sorbent direct air capture technologies** (2025)
-   8 citations
+   9 citations
 
 2. **Technical, Economic and Lifecycle Greenhouse Gas Emissions Analyses of Solid Sorbent Direct Air Capture Technologies** (2024)
    0 citations · DAC

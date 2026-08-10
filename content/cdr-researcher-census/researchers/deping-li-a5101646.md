@@ -1,7 +1,7 @@
 ---
 title: "Deping Li"
 description: "Deping Li is a Mid-career Biochar researcher at Shanghai Jiao Tong University in CN. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.526829
+date: 2026-08-11T01:33:11.463871
 url: "/cdr-researcher-census/researchers/deping-li-a5101646/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Evaluation of long-term carbon sequestration of biochar in soil with biogeochemical field model** (2022)
-   92 citations · Biochar
+   93 citations · Biochar
 
 ## External Profiles
 

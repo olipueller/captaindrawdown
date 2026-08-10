@@ -1,7 +1,7 @@
 ---
 title: "Kelly Ann Bona"
 description: "Kelly Ann Bona is a Senior Soil Carbon researcher at Environment and Climate Change Canada in CA. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.615610
+date: 2026-08-11T01:33:11.544090
 url: "/cdr-researcher-census/researchers/kelly-ann-bona-a5032781/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The essential carbon service provided by northern peatlands** (2021)
-   116 citations · Soil Carbon
+   120 citations · Soil Carbon
 
 2. **Using the Canadian Model for Peatlands (CaMP) to examine greenhouse gas emissions and carbon sink strength in Canada's boreal and temperate peatlands** (2024)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 ## External Profiles
 

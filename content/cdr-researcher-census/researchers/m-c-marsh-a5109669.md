@@ -1,7 +1,7 @@
 ---
 title: "M. C. Marsh"
 description: "M. C. Marsh is a Senior General CDR researcher at Trimeric (United States) in US. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.728139
+date: 2026-08-11T01:33:11.645721
 url: "/cdr-researcher-census/researchers/m-c-marsh-a5109669/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,13 +48,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Cost details from front-end engineering design of piperazine with the advanced stripper** (2023)
-   9 citations · General CDR
+   10 citations · General CDR
 
 2. **Front-End Engineering Design for Piperazine with the Advanced Stripper** (2022)
    6 citations · General CDR
 
 3. **Spatiotemporal Adaptive Passive Direct Air Capture** (2024)
-   0 citations · DAC
+   1 citations · DAC
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Daphné Lorne"
 description: "Daphné Lorne is a Senior BECCS researcher at IFP Énergies nouvelles in FR. With 31 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.898607
+date: 2026-08-11T01:33:11.798178
 url: "/cdr-researcher-census/researchers/daphne-lorne-a5021595/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Life cycle assessment of bioenergy with carbon capture and storage systems: Critical review of life cycle inventories** (2023)
-   50 citations · BECCS
+   54 citations · BECCS
 
 2. **Life cycle assessment of BECCS systems: critical review of life cycle inventories** (2022)
    2 citations · BECCS

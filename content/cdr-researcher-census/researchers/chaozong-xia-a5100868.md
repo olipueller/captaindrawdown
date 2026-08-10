@@ -1,7 +1,7 @@
 ---
 title: "Chaozong Xia"
 description: "Chaozong Xia is a Senior Soil Carbon researcher at State Forestry and Grassland Administration in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.379091
+date: 2026-08-11T01:33:11.336326
 url: "/cdr-researcher-census/researchers/chaozong-xia-a5100868/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A large carbon sink induced by the implementation of the largest afforestation program on Earth** (2023)
-   32 citations · General CDR
+   33 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Zhengmiao Deng"
 description: "Zhengmiao Deng is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 105 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.185168
+date: 2026-08-11T01:33:11.159894
 url: "/cdr-researcher-census/researchers/zhengmiao-deng-a5102829/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Mapping Chinese annual gross primary productivity with eddy covariance measurements and machine learning** (2022)
-   44 citations
+   45 citations
 
 2. **Effects of hydrological environment on litter carbon input into the surface soil organic carbon pool in the Dongting Lake floodplain** (2021)
    42 citations · Soil Carbon
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    21 citations · Soil Carbon
 
 4. **A dataset of annual gross primary productivity in China&amp;rsquo;s terrestrial ecosystems during 2000-2020** (2023)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 5. **Surface soil organic carbon losses in Dongting Lake floodplain as evidenced by field observations from 2013 to 2022** (2025)
    2 citations · Soil Carbon

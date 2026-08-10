@@ -1,7 +1,7 @@
 ---
 title: "Maria N.P. Olsen"
 description: "Maria N.P. Olsen is an Early-career Biochar researcher at SINTEF in NO. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.574597
+date: 2026-08-11T01:33:12.416905
 url: "/cdr-researcher-census/researchers/maria-np-olsen-a5024592/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Comparison of properties of biochar produced from different types of lignocellulosic biomass by slow pyrolysis at 600 °C** (2022)
-   79 citations · Biochar
+   82 citations · Biochar
 
 ## External Profiles
 

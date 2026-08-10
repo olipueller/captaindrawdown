@@ -1,7 +1,7 @@
 ---
 title: "Mutair A. Akanji"
 description: "Mutair A. Akanji is a Mid-career Biochar researcher at King Saud University in SA. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.088383
+date: 2026-08-11T01:33:11.980530
 url: "/cdr-researcher-census/researchers/mutair-a-akanji-a5053830/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Abdelrahman Refaie"
 description: "Abdelrahman Refaie is a Senior Ocean CDR researcher at University of Houston in US. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.831236
+date: 2026-08-11T01:33:11.737354
 url: "/cdr-researcher-census/researchers/abdelrahman-refaie-a5015287/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Direct ocean capture: the emergence of electrochemical processes for oceanic carbon removal** (2023)
-   66 citations · Ocean CDR
+   69 citations · Ocean CDR
 
 2. **Comparative assessment of United States coastal hubs for large scale electrochemical marine carbon dioxide removal** (2026)
    1 citations · General CDR

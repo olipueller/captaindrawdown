@@ -1,7 +1,7 @@
 ---
 title: "Xiongxiong Nan"
 description: "Xiongxiong Nan is a Senior Soil Carbon researcher at Ningxia University in CN. With 37 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.129056
+date: 2026-08-11T01:33:12.018617
 url: "/cdr-researcher-census/researchers/xiongxiong-nan-a5102201/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil Organic Carbon Pool and the Production of Goji Berry (Lycium barbarum L.) as Affected by Different Fertilizer Combinations Under Drip Fertigation** (2022)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 2. **[Soil carbon and nitrogen sequestration and associated influencing factors in a sustainable cultivation system of fruit trees intercropped with cover crops].** (2023)
    3 citations · Soil Carbon

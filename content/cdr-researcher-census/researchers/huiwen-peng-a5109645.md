@@ -1,7 +1,7 @@
 ---
 title: "Huiwen Peng"
 description: "Huiwen Peng is a Mid-career BECCS researcher at Chinese Academy of Meteorological Sciences in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.018699
+date: 2026-08-11T01:33:11.894899
 url: "/cdr-researcher-census/researchers/huiwen-peng-a5109645/"
 layout: "researcher"
 hiddenInHomeList: true

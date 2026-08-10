@@ -1,7 +1,7 @@
 ---
 title: "Naomi E. Vaughan"
 description: "Naomi E. Vaughan is a Senior General CDR researcher at University of East Anglia in GB. With 77 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.133093
+date: 2026-08-11T01:33:11.111523
 url: "/cdr-researcher-census/researchers/naomi-e-vaughan-a5022069/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The carbon dioxide removal gap** (2024)
-   84 citations
+   86 citations
 
 2. **Long-term national climate strategies bet on forests and soils to reach net-zero** (2022)
-   74 citations · General CDR
+   75 citations · General CDR
 
 3. **Bringing greenhouse gas removal down to earth: Stakeholder supply chain appraisals reveal complex challenges** (2021)
    27 citations · BECCS
 
 4. **Residual emissions in long-term national climate strategies show limited climate ambition** (2024)
-   25 citations · General CDR
+   26 citations · General CDR
 
 5. **Implementation of marine CO2 removal for climate mitigation: The challenges of additionality, predictability, and governability** (2024)
    24 citations · General CDR
@@ -68,10 +68,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 6. **The carbon dioxide removal gap** (2023)
    8 citations · General CDR
 
-7. **Countries need to provide clarity on the role of carbon dioxide removal in their climate pledges** (2024)
-   5 citations · General CDR
+7. **Current national proposals are off track to meet carbon dioxide removal needs** (2024)
+   7 citations · General CDR
 
-8. **Current national proposals are off track to meet carbon dioxide removal needs** (2024)
+8. **Countries need to provide clarity on the role of carbon dioxide removal in their climate pledges** (2024)
    5 citations · General CDR
 
 9. **Uncertain effectiveness of <i>Miscanthus</i> bioenergy expansion for climate change mitigation explored using land surface, agronomic and integrated assessment models** (2022)

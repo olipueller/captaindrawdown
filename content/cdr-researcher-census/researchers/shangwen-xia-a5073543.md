@@ -1,7 +1,7 @@
 ---
 title: "Shangwen Xia"
 description: "Shangwen Xia is a Mid-career Soil Carbon researcher at Xishuangbanna Tropical Botanical Garden in CN. With 49 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.452533
+date: 2026-08-11T01:33:11.400524
 url: "/cdr-researcher-census/researchers/shangwen-xia-a5073543/"
 layout: "researcher"
 hiddenInHomeList: true

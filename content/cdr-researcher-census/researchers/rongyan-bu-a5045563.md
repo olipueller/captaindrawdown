@@ -1,7 +1,7 @@
 ---
 title: "Rongyan Bu"
 description: "Rongyan Bu is a Mid-career Soil Carbon researcher at Anhui Academy of Agricultural Sciences in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.832942
+date: 2026-08-11T01:33:11.738669
 url: "/cdr-researcher-census/researchers/rongyan-bu-a5045563/"
 layout: "researcher"
 hiddenInHomeList: true

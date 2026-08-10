@@ -1,7 +1,7 @@
 ---
 title: "Aomei Jia"
 description: "Aomei Jia is an Early-career Soil Carbon researcher at Sichuan Agricultural University in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.520753
+date: 2026-08-11T01:33:12.372348
 url: "/cdr-researcher-census/researchers/aomei-jia-a5081262/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,7 +47,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **The rising power of females: Dioecious shrub enhances soil organic carbon sequestration via fungal necromass in chronosequence of desertified alpine grassland restoration** (2026)
+1. **Simulated Root Exudation Gradient Reveals Dosage‐Dependent Carbon Sequestration in Desertification Ecosystems** (2026)
+   0 citations
+
+2. **The rising power of females: Dioecious shrub enhances soil organic carbon sequestration via fungal necromass in chronosequence of desertified alpine grassland restoration** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

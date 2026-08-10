@@ -1,7 +1,7 @@
 ---
 title: "Gustavo Vicentini Popin"
 description: "Gustavo Vicentini Popin is a Mid-career Soil Carbon researcher at Universidade de São Paulo in BR. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.672188
+date: 2026-08-11T01:33:11.594725
 url: "/cdr-researcher-census/researchers/gustavo-vicentini-popin-a5073864/"
 layout: "researcher"
 hiddenInHomeList: true

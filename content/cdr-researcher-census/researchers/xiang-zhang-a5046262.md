@@ -1,7 +1,7 @@
 ---
 title: "Xiang Zhang"
 description: "Xiang Zhang is a Senior General CDR researcher at Southeast University in BD. With 21 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.763179
+date: 2026-08-11T01:33:11.677521
 url: "/cdr-researcher-census/researchers/xiang-zhang-a5046262/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    23 citations · Enhanced Weathering
 
 2. **Durability against dry-wet and freeze-thaw cycles of carbon sequestration foamed concrete utilizing abandoned soil and waste serpentine** (2024)
-   11 citations · General CDR
+   12 citations · General CDR
 
 3. **Scaled model test into the spatial variability and carbon storage potential of carbon sequestration foamed concrete as a subgrade filler** (2025)
    4 citations · General CDR

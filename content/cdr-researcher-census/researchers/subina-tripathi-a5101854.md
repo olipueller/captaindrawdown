@@ -1,7 +1,7 @@
 ---
 title: "Subina Tripathi"
 description: "Subina Tripathi is a Mid-career Ocean CDR researcher at Texas A&M in US. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.084510
+date: 2026-08-11T01:33:11.977166
 url: "/cdr-researcher-census/researchers/subina-tripathi-a5101854/"
 layout: "researcher"
 hiddenInHomeList: true

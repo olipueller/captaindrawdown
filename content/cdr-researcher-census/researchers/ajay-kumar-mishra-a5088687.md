@@ -1,7 +1,7 @@
 ---
 title: "Ajay Kumar Mishra"
 description: "Ajay Kumar Mishra is a Senior Soil Carbon researcher at International Rice Research Institute in IN. With 125 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.247579
+date: 2026-08-11T01:33:11.218632
 url: "/cdr-researcher-census/researchers/ajay-kumar-mishra-a5088687/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Regenerative Agriculture as Climate Smart Solution to Improve Soil Health and Crop Productivity Thereby Catalysing Farmers’ Livelihood and Sustainability** (2022)
-   21 citations · General CDR
+   22 citations · General CDR
 
 2. **Conservation agriculture enhances crop productivity and soil carbon fractions in Indo-Gangetic Plains of India** (2024)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 3. **Contributions of fine mineral particles and active Al/Fe to stabilization of plant material in neutral-to-alkaline soils of Indo-Gangetic Plain** (2023)
    13 citations · Soil Carbon
 
 4. **Evaluating the Influence of Ecological Diversity on Glomalin Production and Its Implications for Multifunctionality in Ecosystem Services** (2024)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 5. **Effect of tillage and residue management in rice-wheat system** (2021)
    9 citations · Soil Carbon

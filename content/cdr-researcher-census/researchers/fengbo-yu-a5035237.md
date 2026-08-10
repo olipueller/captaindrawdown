@@ -1,7 +1,7 @@
 ---
 title: "Fengbo Yu"
 description: "Fengbo Yu is a Mid-career Biochar researcher at Nanchang University in CN. With 34 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.536950
+date: 2026-08-11T01:33:11.473275
 url: "/cdr-researcher-census/researchers/fengbo-yu-a5035237/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    18 citations · Biochar
 
 2. **Upcycling trace amounts of biomass waste into flash graphene can boost crop yields by more than a quarter and offer climate benefits** (2025)
-   6 citations · Biochar
+   7 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Bobby Xiong"
 description: "Bobby Xiong is a Mid-career DAC researcher at Technische Universität Berlin in DE. With 13 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.311811
+date: 2026-08-11T01:33:12.180900
 url: "/cdr-researcher-census/researchers/bobby-xiong-a5044964/"
 layout: "researcher"
 hiddenInHomeList: true

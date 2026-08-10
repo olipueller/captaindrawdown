@@ -1,7 +1,7 @@
 ---
 title: "Ran Xiao"
 description: "Ran Xiao is a Senior Biochar researcher at Southwest University in CN. With 79 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.109020
+date: 2026-08-11T01:33:11.088657
 url: "/cdr-researcher-census/researchers/ran-xiao-a5084328/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Co-hydrothermal carbonization of lignocellulosic biomass and swine manure: Optimal parameters for enhanced nutrient reclamation, carbon sequestration, and heavy metals passivation** (2024)
-   34 citations · Biochar
+   35 citations · Biochar
 
 2. **Characteristics of adsorption behavior of potentially toxic metals by biochar derived from fallen leaves (Platanus) and its mechanism** (2022)
    20 citations · Biochar

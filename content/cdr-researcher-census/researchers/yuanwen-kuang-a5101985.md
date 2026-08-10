@@ -1,7 +1,7 @@
 ---
 title: "Yuanwen Kuang"
 description: "Yuanwen Kuang is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 103 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.136002
+date: 2026-08-11T01:33:11.114389
 url: "/cdr-researcher-census/researchers/yuanwen-kuang-a5101985/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Nitrogen addition stimulates soil aggregation and enhances carbon storage in terrestrial ecosystems of China: A meta‐analysis** (2021)
-   219 citations · Soil Carbon
+   224 citations · Soil Carbon
 
 2. **Climatic and edaphic controls over the elevational pattern of microbial necromass in subtropical forests** (2021)
-   91 citations · Soil Carbon
+   97 citations · Soil Carbon
 
 3. **Shifts in Above‐ Versus Below‐Ground Carbon Gains to Terrestrial Ecosystems Carbon Sinks Under Excess Nitrogen Inputs** (2023)
    10 citations · Soil Carbon

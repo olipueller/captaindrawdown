@@ -1,7 +1,7 @@
 ---
 title: "Huating Jiang"
 description: "Huating Jiang is a Mid-career Biochar researcher at East China University of Science and Technology in CN. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.408215
+date: 2026-08-11T01:33:11.361936
 url: "/cdr-researcher-census/researchers/huating-jiang-a5079594/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Phosphoric acid activation of cow dung biochar for adsorbing enrofloxacin in water: Icing on the cake** (2023)
-   138 citations · Biochar
+   141 citations · Biochar
 
 2. **Calcium carbonate self fixed crayfish shell composite biochar for removing tetracycline from water** (2025)
-   9 citations · Biochar
+   10 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Jens Hartmann"
 description: "Jens Hartmann is an Eminent Enhanced Weathering researcher at Universität Hamburg in DE. With 404 publications and an h-index of 69, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.083164
+date: 2026-08-11T01:33:11.064613
 url: "/cdr-researcher-census/researchers/jens-hartmann-a5019869/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,31 +51,31 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Potential CO2 removal from enhanced weathering by ecosystem responses to powdered rock** (2021)
-   196 citations · Enhanced Weathering
+   197 citations · Enhanced Weathering
 
 2. **Stability of alkalinity in ocean alkalinity enhancement (OAE) approaches – consequences for durability of CO <sub>2</sub> storage** (2023)
-   149 citations · General CDR
+   150 citations · General CDR
 
 3. **Is the climate change mitigation effect of enhanced silicate weathering governed by biological processes?** (2021)
-   139 citations · Enhanced Weathering
+   140 citations · Enhanced Weathering
 
 4. **Enhanced Weathering Using Basalt Rock Powder: Carbon Sequestration, Co-benefits and Risks in a Mesocosm Study With Solanum tuberosum** (2022)
-   124 citations · Enhanced Weathering
+   123 citations · Enhanced Weathering
 
 5. **Enhanced weathering potentials—the role of in situ CO2 and grain size distribution** (2022)
    59 citations · Enhanced Weathering
 
 6. **Using ikaite and other hydrated carbonate minerals to increase ocean alkalinity for carbon dioxide removal and environmental remediation** (2022)
-   39 citations · Ocean CDR
+   40 citations · Ocean CDR
 
 7. **Alkalinity generation from carbonate weathering in a silicate-dominated headwater catchment at Iskorasfjellet, northern Norway** (2023)
-   31 citations · Enhanced Weathering
+   33 citations · Enhanced Weathering
 
 8. **Carbon Accounting for Enhanced Weathering** (2022)
-   31 citations · Enhanced Weathering
+   32 citations · Enhanced Weathering
 
 9. **Ocean alkalinity enhancement approaches and the predictability of runaway precipitation processes: results of an experimental study to determine critical alkalinity ranges for safe and sustainable application scenarios** (2024)
-   30 citations · General CDR
+   31 citations · General CDR
 
 10. **Stability of alkalinity in Ocean Alkalinity Enhancement (OAE) approaches – consequences for durability of CO <sub>2</sub> storage** (2022)
    25 citations

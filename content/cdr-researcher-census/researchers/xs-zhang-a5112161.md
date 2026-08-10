@@ -1,7 +1,7 @@
 ---
 title: "X.S. Zhang"
 description: "X.S. Zhang is a Senior Soil Carbon researcher at Xi'an Jiaotong University in CN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.413438
+date: 2026-08-11T01:33:12.272862
 url: "/cdr-researcher-census/researchers/xs-zhang-a5112161/"
 layout: "researcher"
 hiddenInHomeList: true

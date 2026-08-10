@@ -1,7 +1,7 @@
 ---
 title: "Giulia Maria Curcio"
 description: "Giulia Maria Curcio is a Mid-career BECCS researcher at University of Calabria in IT. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.618542
+date: 2026-08-11T01:33:11.546603
 url: "/cdr-researcher-census/researchers/giulia-maria-curcio-a5083674/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Performance Evaluation of Pressurized Anaerobic Digestion (PDA) of Raw Compost Leachate** (2021)
-   24 citations · BECCS
+   25 citations · BECCS
 
 ## External Profiles
 

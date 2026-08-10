@@ -1,7 +1,7 @@
 ---
 title: "Joy Rajbanshi"
 description: "Joy Rajbanshi is a Mid-career Soil Carbon researcher at Council on Energy, Environment and Water in IN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.657072
+date: 2026-08-11T01:33:11.581540
 url: "/cdr-researcher-census/researchers/joy-rajbanshi-a5063572/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Responses of soil organic carbon to conservation practices including climate-smart agriculture in tropical and subtropical regions: A meta-analysis** (2021)
-   76 citations · Soil Carbon
+   77 citations · Soil Carbon
 
 2. **Changes in carbon stocks and its economic valuation under a changing land use pattern—A multitemporal study in Konar catchment, India** (2021)
    36 citations · General CDR
+
+3. **Implications of key uncertainties in long-term land use emissions for India's net-zero future — an integrated modelling assessment** (2026)
+   0 citations
 
 ## External Profiles
 

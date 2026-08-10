@@ -1,7 +1,7 @@
 ---
 title: "Thi My Hue Huynh"
 description: "Thi My Hue Huynh is a Mid-career Biochar researcher at National Central University in TW. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.581930
+date: 2026-08-11T01:33:11.513491
 url: "/cdr-researcher-census/researchers/thi-my-hue-huynh-a5020636/"
 layout: "researcher"
 hiddenInHomeList: true

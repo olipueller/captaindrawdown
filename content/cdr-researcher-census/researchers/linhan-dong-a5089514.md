@@ -1,7 +1,7 @@
 ---
 title: "Linhan Dong"
 description: "Linhan Dong is a Senior Biochar researcher at Harbin Institute of Technology in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.654880
+date: 2026-08-11T01:33:11.579708
 url: "/cdr-researcher-census/researchers/linhan-dong-a5089514/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Functional Biochar Synergistic Solid/Liquid-Phase CO<sub>2</sub> Capture: A Review** (2022)
-   82 citations · Biochar
+   84 citations · Biochar
 
 ## External Profiles
 

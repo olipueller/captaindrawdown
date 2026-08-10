@@ -1,7 +1,7 @@
 ---
 title: "Baixin Zhang"
 description: "Baixin Zhang is a Mid-career Soil Carbon researcher at South China Botanical Garden in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.464598
+date: 2026-08-11T01:33:12.320934
 url: "/cdr-researcher-census/researchers/baixin-zhang-a5046038/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Plant and Microbial Carbon Are Important Drivers of Free‐Living Nitrogen Fixation in Tropical Forest Soils: A New Discovery of Carbon‐Driven Nitrogen Input** (2024)
-   15 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 2. **Soil Quality Assessment for Sustainable Management: A Minimum Dataset for Long-Term Fertilization in Subtropical Plantations in South China** (2025)
    1 citations

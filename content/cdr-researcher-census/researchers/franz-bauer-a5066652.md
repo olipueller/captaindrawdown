@@ -1,7 +1,7 @@
 ---
 title: "Franz Bauer"
 description: "Franz Bauer is a Mid-career DAC researcher at OTH Regensburg in DE. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.449611
+date: 2026-08-11T01:33:11.397992
 url: "/cdr-researcher-census/researchers/franz-bauer-a5066652/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **19 Import options for green hydrogen and derivatives - An overview of efficiencies and technology readiness levels** (2024)
-   23 citations · DAC
+   26 citations · DAC
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Mattias Cape"
 description: "Mattias Cape is a Mid-career Ocean CDR researcher at Environmental Defense Fund in US. With 52 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.328006
+date: 2026-08-11T01:33:11.292699
 url: "/cdr-researcher-census/researchers/mattias-cape-a5069559/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -56,10 +56,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 2. **A sequential gated research framework for addressing potential impacts of marine carbon dioxide removal on fisheries, aquaculture, and Indigenous communities** (2026)
    0 citations · General CDR
 
-3. **Field notes on public communication and engagement for the LOC-NESS Ocean Alkalinity Enhancement field trial** (2026)
+3. **A sequential gated research framework for addressing potential impacts of marine carbon dioxide removal on fisheries, aquaculture, and Indigenous communities** (2026)
    0 citations · General CDR
 
-4. **Supplementary material to "Biological thresholds for marine carbon dioxide removal (mCDR): the effect of changes in carbonate chemistry"** (2026)
+4. **Field notes on public communication and engagement for the LOC-NESS Ocean Alkalinity Enhancement field trial** (2026)
+   0 citations · General CDR
+
+5. **Supplementary material to "Biological thresholds for marine carbon dioxide removal (mCDR): the effect of changes in carbonate chemistry"** (2026)
    0 citations · General CDR
 
 ## External Profiles

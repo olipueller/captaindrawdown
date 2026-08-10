@@ -1,7 +1,7 @@
 ---
 title: "Haiwei Xie"
 description: "Haiwei Xie is a Senior Biochar researcher at Tianjin University of Commerce in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.203466
+date: 2026-08-11T01:33:12.086068
 url: "/cdr-researcher-census/researchers/haiwei-xie-a5101805/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Quantum chemical DFT-based adsorption mechanism of Pb(II) on a modified biochar** (2024)
-   17 citations · Biochar
+   18 citations · Biochar
 
 ## External Profiles
 

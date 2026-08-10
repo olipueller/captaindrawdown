@@ -1,7 +1,7 @@
 ---
 title: "Sarah Shakil"
 description: "Sarah Shakil is a Mid-career Soil Carbon researcher at Uppsala University in SE. With 40 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.515759
+date: 2026-08-11T01:33:11.454324
 url: "/cdr-researcher-census/researchers/sarah-shakil-a5035460/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Evidence for preservation of organic carbon interacting with iron in material displaced from retrogressive thaw slumps: Case study in Peel Plateau, western Canadian Arctic** (2023)
-   25 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 2. **Permafrost Landscape History Shapes Fluvial Chemistry, Ecosystem Carbon Balance, and Potential Trajectories of Future Change** (2022)
    14 citations · Soil Carbon

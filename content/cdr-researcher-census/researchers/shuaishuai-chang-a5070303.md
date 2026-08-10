@@ -1,7 +1,7 @@
 ---
 title: "Shuaishuai Chang"
 description: "Shuaishuai Chang is a Mid-career Biochar researcher. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.199292
+date: 2026-08-11T01:33:12.082201
 url: "/cdr-researcher-census/researchers/shuaishuai-chang-a5070303/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Microwave biochar produced with activated carbon catalyst: Characterization and adsorption of heavy metals** (2022)
-   97 citations · Biochar
+   100 citations · Biochar
 
 ## External Profiles
 

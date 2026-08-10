@@ -1,7 +1,7 @@
 ---
 title: "Dali Song"
 description: "Dali Song is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 30 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.234973
+date: 2026-08-11T01:33:11.207094
 url: "/cdr-researcher-census/researchers/dali-song-a5063551/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,16 +48,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Living and Dead Microorganisms in Mediating Soil Carbon Stocks Under Long-Term Fertilization in a Rice-Wheat Rotation** (2022)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 2. **Distribution Characteristics of Microbial Residues within Aggregates of Fluvo-Aquic Soil under Biochar Application** (2023)
    11 citations · Biochar
 
 3. **Combined Fertilization Could Increase Crop Productivity and Reduce Greenhouse Gas Intensity through Carbon Sequestration under Rice-Wheat Rotation** (2021)
-   9 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 4. **Long-term organic amendments accelerate straw decomposition via specialized microbial enrichment in greenhouse vegetable soils** (2026)
-   1 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

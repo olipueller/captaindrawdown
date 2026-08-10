@@ -1,7 +1,7 @@
 ---
 title: "Nandita Das"
 description: "Nandita Das is a Mid-career General CDR researcher at Assam University in IN. With 35 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.727314
+date: 2026-08-11T01:33:11.644962
 url: "/cdr-researcher-census/researchers/nandita-das-a5000920/"
 layout: "researcher"
 hiddenInHomeList: true

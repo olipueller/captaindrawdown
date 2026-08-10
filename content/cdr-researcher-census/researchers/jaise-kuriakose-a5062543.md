@@ -1,7 +1,7 @@
 ---
 title: "Jaise Kuriakose"
 description: "Jaise Kuriakose is a Mid-career General CDR researcher. With 37 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.739886
+date: 2026-08-11T01:33:11.656610
 url: "/cdr-researcher-census/researchers/jaise-kuriakose-a5062543/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **What does the Paris climate change agreement mean for local policy? Downscaling the remaining global carbon budget to sub-national areas** (2022)
-   37 citations · General CDR
+   38 citations · General CDR
 
 2. **What Does the Paris Climate Change Agreement Mean for Local Policy? Downscaling the Remaining Global Carbon Budget to Sub-National Areas** (2022)
    5 citations · General CDR

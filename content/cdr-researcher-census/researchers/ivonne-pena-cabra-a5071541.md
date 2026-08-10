@@ -1,7 +1,7 @@
 ---
 title: "Ivonne Pena Cabra"
 description: "Ivonne Pena Cabra is a Mid-career DAC researcher at National Energy Technology Laboratory in US. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.784525
+date: 2026-08-11T01:33:11.696368
 url: "/cdr-researcher-census/researchers/ivonne-pena-cabra-a5071541/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Strategic Siting of Direct Air Capture Facilities in the United States** (2024)
-   7 citations · DAC
+   9 citations · DAC
 
 2. **Techno-economic Tool for Evaluating Direct Air Capture System Performance: A Case Study across U.S. Cities** (2024)
    0 citations · DAC

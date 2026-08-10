@@ -1,7 +1,7 @@
 ---
 title: "Mojtaba Raji"
 description: "Mojtaba Raji is a Mid-career Biochar researcher at University of Kashan in IR. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.469662
+date: 2026-08-11T01:33:11.414744
 url: "/cdr-researcher-census/researchers/mojtaba-raji-a5028691/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar performance evaluation for heavy metals removal from industrial wastewater based on machine learning: Application for environmental protection** (2023)
-   72 citations · Biochar
+   76 citations · Biochar
 
 2. **Evaluation of the Performance of Biochars for the Separation of Heavy Metals from Industrial Wastewater Based on Genetics Programming: Application for Environmental Protection** (2022)
    0 citations · Biochar

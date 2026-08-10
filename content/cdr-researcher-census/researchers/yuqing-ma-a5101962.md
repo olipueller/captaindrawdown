@@ -1,7 +1,7 @@
 ---
 title: "Yuqing Ma"
 description: "Yuqing Ma is a Mid-career Soil Carbon researcher at Hefei University of Technology in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.591064
+date: 2026-08-11T01:33:11.522067
 url: "/cdr-researcher-census/researchers/yuqing-ma-a5101962/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Global crop production increase by soil organic carbon** (2023)
-   279 citations · General CDR
+   289 citations · General CDR
 
 2. **Maize straw-based organic amendments and nitrogen fertilizer effects on soil and aggregate-associated carbon and nitrogen** (2024)
    21 citations · Biochar

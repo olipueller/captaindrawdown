@@ -1,7 +1,7 @@
 ---
 title: "Xin Song"
 description: "Xin Song is a Senior Soil Carbon researcher at Dalian Ocean University in CN. With 80 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.293773
+date: 2026-08-11T01:33:11.261142
 url: "/cdr-researcher-census/researchers/xin-song-a5011403/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,14 +50,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **The formation of humic acid and micro-aggregates facilitated long-time soil organic carbon sequestration after Medicago sativa L. introduction on abandoned farmlands** (2024)
    23 citations · Soil Carbon
 
-2. **Identifying a suitable revegetation method for soil organic carbon, nitrogen, and phosphorus sequestration: A 16‐year in situ experiment on abandoned farmland in a semiarid area of the Loess Plateau, China** (2022)
+2. **Soil organic carbon and nitrogen sequestration following grazing exclusion on the Loess Plateau, China** (2023)
    10 citations · Soil Carbon
 
-3. **Soil organic carbon and nitrogen sequestration following grazing exclusion on the Loess Plateau, China** (2023)
-   9 citations · Soil Carbon
+3. **Identifying a suitable revegetation method for soil organic carbon, nitrogen, and phosphorus sequestration: A 16‐year in situ experiment on abandoned farmland in a semiarid area of the Loess Plateau, China** (2022)
+   10 citations · Soil Carbon
 
 4. **Distinct mechanisms of soil organic carbon formation in natural and legume-based grasslands on the Loess Plateau, China** (2025)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 5. **How to develop nature-based solutions for revegetation on abandoned farmland in the Loess Plateau of China?** (2024)
    7 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Xuexin Shao"
 description: "Xuexin Shao is a Senior Soil Carbon researcher at Institute of Wetland Research in CN. With 30 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.730961
+date: 2026-08-11T01:33:11.648116
 url: "/cdr-researcher-census/researchers/xuexin-shao-a5031059/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,15 +51,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of land-use on soil C, N, and P stocks and stoichiometry in coastal wetlands dependent on soil depth and latitude** (2024)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 2. **Microplastics Alter Growth and Reproduction Strategy of Scirpus mariqueter by Modifying Soil Nutrient Availability** (2025)
-   2 citations
+   3 citations
 
 3. **Polymer type more strongly than concentration drives root responses to microplastics: root biomass–efficiency trade-offs and biogeochemical risks in coastal wetlands** (2025)
    0 citations
 
-4. **Spartina alterniflora-Derived Biochar Alters Biomass Allocation and Root Traits of Native Scirpus mariqueter** (2025)
+4. **Polymer type overrides concentration in driving plant-soil responses to microplastics: root decoupling strategy and biogeochemical risks in coastal wetlands** (2025)
+   0 citations
+
+5. **Spartina alterniflora-Derived Biochar Alters Biomass Allocation and Root Traits of Native Scirpus mariqueter** (2025)
    0 citations · Biochar
 
 ## External Profiles

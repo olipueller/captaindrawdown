@@ -1,7 +1,7 @@
 ---
 title: "Bonnie G. Waring"
 description: "Bonnie G. Waring is a Senior Enhanced Weathering researcher at Imperial College London in GB. With 109 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.128676
+date: 2026-08-11T01:33:11.107282
 url: "/cdr-researcher-census/researchers/bonnie-g-waring-a5010282/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,15 +51,15 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Land use drives the distribution of free, physically protected, and chemically protected soil organic carbon storage at a global scale** (2024)
-   21 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 2. **Alleviating Nitrogen and Phosphorus Limitation Does Not Amplify Potassium‐Induced Increase in Terrestrial Biomass** (2025)
    8 citations
 
-3. **An Integrated Modelling Framework to Determine Terrestrial Carbon Dioxide Removal via Enhanced Rock Weathering** (2025)
-   2 citations · Enhanced Weathering
+3. **Expert elicitation on agricultural enhanced weathering highlights CO2 removal potential and uncertainties in loss pathways** (2025)
+   3 citations · Enhanced Weathering
 
-4. **Expert elicitation on agricultural enhanced weathering highlights CO2 removal potential and uncertainties in loss pathways** (2025)
+4. **An Integrated Modelling Framework to Determine Terrestrial Carbon Dioxide Removal via Enhanced Rock Weathering** (2025)
    2 citations · Enhanced Weathering
 
 5. **Utilizing soil centrifugation for accurate estimates of carbon dioxide removal via enhanced rock weathering** (2025)

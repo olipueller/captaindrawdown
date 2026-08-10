@@ -1,7 +1,7 @@
 ---
 title: "Xuan Liu"
 description: "Xuan Liu is a Mid-career Soil Carbon researcher at Shihezi University in CN. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.582348
+date: 2026-08-11T01:33:11.513833
 url: "/cdr-researcher-census/researchers/xuan-liu-a5100362/"
 layout: "researcher"
 hiddenInHomeList: true

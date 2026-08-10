@@ -1,7 +1,7 @@
 ---
 title: "Jinah Moon"
 description: "Jinah Moon is a Mid-career Enhanced Weathering researcher at Kangwon National University in KR. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.450727
+date: 2026-08-11T01:33:12.307817
 url: "/cdr-researcher-census/researchers/jinah-moon-a5091588/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Nan Jiang"
 description: "Nan Jiang is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 119 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.206434
+date: 2026-08-11T01:33:11.180183
 url: "/cdr-researcher-census/researchers/nan-jiang-a5101850/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    28 citations · Biochar
 
 2. **Effects of straw and biochar amendment on hydrological fluxes of dissolved organic carbon in a subtropical montane agricultural landscape** (2021)
-   13 citations · Biochar
+   16 citations · Biochar
 
 3. **The role of oxidases and hydrolases in enhancing carbon sequestration through soil management practices: A global meta-analysis across diverse ecosystems** (2025)
    11 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Sarah Nordahl"
 description: "Sarah Nordahl is a Mid-career General CDR researcher at Lawrence Berkeley National Laboratory in US. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.441565
+date: 2026-08-11T01:33:11.391584
 url: "/cdr-researcher-census/researchers/sarah-nordahl-a5091675/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,12 +54,15 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    22 citations · General CDR
 
 2. **Uncertainty in determining carbon dioxide removal potential of biochar** (2024)
-   8 citations · Biochar
+   9 citations · Biochar
 
 3. **Energy Emissions Accounting Methods Can Determine Whether Direct Air Capture with Storage Achieves Net Removal** (2026)
    1 citations · DAC
 
 4. **Accounting Methods Dictate Carbon Removal Credit Integrity and Outcomes** (2026)
+   0 citations · DAC
+
+5. **Accounting Methods Dictate Carbon Removal Credit Integrity and Outcomes** (2026)
    0 citations · General CDR
 
 ## External Profiles

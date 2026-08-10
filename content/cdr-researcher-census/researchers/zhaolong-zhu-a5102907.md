@@ -1,7 +1,7 @@
 ---
 title: "Zhaolong Zhu"
 description: "Zhaolong Zhu is a Senior Soil Carbon researcher at State Key Laboratory of Soil and Water Conservation and Desertification Control in CN. With 39 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.418898
+date: 2026-08-11T01:33:11.371780
 url: "/cdr-researcher-census/researchers/zhaolong-zhu-a5102907/"
 layout: "researcher"
 hiddenInHomeList: true

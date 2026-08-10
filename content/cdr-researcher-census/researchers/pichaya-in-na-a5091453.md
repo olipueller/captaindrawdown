@@ -1,7 +1,7 @@
 ---
 title: "Pichaya In-na"
 description: "Pichaya In-na is a Mid-career Ocean CDR researcher at Chulalongkorn University in TH. With 27 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.458513
+date: 2026-08-11T01:33:11.405484
 url: "/cdr-researcher-census/researchers/pichaya-in-na-a5091453/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 ## Top CDR Publications
 
-1. **Engineered living photosynthetic biocomposites for intensified biological carbon capture** (2022)
-   19 citations · General CDR
+1. **Living textile biocomposites deliver enhanced carbon dioxide capture** (2021)
+   20 citations · Ocean CDR
 
-2. **Living textile biocomposites deliver enhanced carbon dioxide capture** (2021)
-   19 citations · Ocean CDR
+2. **Engineered living photosynthetic biocomposites for intensified biological carbon capture** (2022)
+   19 citations · General CDR
 
 3. **Carbon dioxide removal from triethanolamine solution using living microalgae-loofah biocomposites** (2025)
    11 citations

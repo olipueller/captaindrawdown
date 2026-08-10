@@ -1,7 +1,7 @@
 ---
 title: "Graham Hinchliffe"
 description: "Graham Hinchliffe is a Mid-career General CDR researcher at Auckland University of Technology in NZ. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.426757
+date: 2026-08-11T01:33:12.284929
 url: "/cdr-researcher-census/researchers/graham-hinchliffe-a5056264/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Using long-term experimental restoration of agroecosystems in Aotearoa New Zealand to improve implementation of Nature-based Solutions for climate change mitigation** (2023)
-   13 citations · General CDR
+   14 citations · General CDR
 
 ## External Profiles
 

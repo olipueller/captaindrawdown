@@ -1,7 +1,7 @@
 ---
 title: "Limei Sun"
 description: "Limei Sun is a Mid-career Biochar researcher at Xuzhou University of Technology in CN. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.283409
+date: 2026-08-11T01:33:12.156242
 url: "/cdr-researcher-census/researchers/limei-sun-a5082750/"
 layout: "researcher"
 hiddenInHomeList: true

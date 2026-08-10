@@ -1,7 +1,7 @@
 ---
 title: "Binbin Cao"
 description: "Binbin Cao is a Mid-career Soil Carbon researcher at Ningbo University in CN. With 29 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.633116
+date: 2026-08-11T01:33:11.559878
 url: "/cdr-researcher-census/researchers/binbin-cao-a5101053/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,15 +48,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effect of the combined addition of mineral nitrogen and crop residue on soil respiration, organic carbon sequestration, and exogenous nitrogen in stable organic matter** (2021)
-   56 citations · Soil Carbon
+   58 citations · Soil Carbon
 
 2. **Long-Term Nitrogen and Straw Application Improves Wheat Production and Soil Organic Carbon Sequestration** (2022)
    23 citations · Soil Carbon
 
-3. **[Soil organic and inorganic carbon pools as affected by straw return modes under a wheat-maize rotation system in the Guanzhong Plain, Northwest China].** (2021)
+3. **Organic amendment quality and quantity govern microbial necromass contributions to soil carbon sequestration: a meta-analysis** (2026)
    0 citations · Soil Carbon
 
-4. **Effects of Long-Term Straw-Return Modes on Soil Organic Carbon Content and Carbon Footprint in Wheat–Maize Rotation System** (2021)
+4. **[Soil organic and inorganic carbon pools as affected by straw return modes under a wheat-maize rotation system in the Guanzhong Plain, Northwest China].** (2021)
+   0 citations · Soil Carbon
+
+5. **Effects of Long-Term Straw-Return Modes on Soil Organic Carbon Content and Carbon Footprint in Wheat–Maize Rotation System** (2021)
    0 citations · Soil Carbon
 
 ## External Profiles

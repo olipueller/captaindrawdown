@@ -1,7 +1,7 @@
 ---
 title: "Samrat Ghosh"
 description: "Samrat Ghosh is a Mid-career Soil Carbon researcher at Bidhan Chandra Krishi Viswavidyalaya in IN. With 22 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.482367
+date: 2026-08-11T01:33:12.337077
 url: "/cdr-researcher-census/researchers/samrat-ghosh-a5079024/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Biochar
 
 3. **Impacts of Cropping Systems on Soil Aggregates and Associated Carbon and Nitrogen Storage in Four Entisols of Different Antecedent Carbon Levels** (2023)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 4. **Cropping System Effects on Organic Carbon Pools in Four Indo-Gangetic Alluvial Soils of Different Antecedent Carbon Levels** (2022)
    4 citations · Soil Carbon

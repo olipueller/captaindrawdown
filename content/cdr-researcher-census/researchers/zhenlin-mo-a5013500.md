@@ -1,7 +1,7 @@
 ---
 title: "Zhenlin Mo"
 description: "Zhenlin Mo is a Mid-career Biochar researcher at Guizhou University in CN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.519887
+date: 2026-08-11T01:33:11.457837
 url: "/cdr-researcher-census/researchers/zhenlin-mo-a5013500/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Efficient removal of Cd(II) from aqueous environment by potassium permanganate-modified eucalyptus biochar** (2021)
-   35 citations · Biochar
+   36 citations · Biochar
 
 ## External Profiles
 

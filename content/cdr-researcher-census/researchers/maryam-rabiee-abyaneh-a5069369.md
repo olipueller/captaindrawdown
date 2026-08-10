@@ -1,7 +1,7 @@
 ---
 title: "Maryam Rabiee Abyaneh"
 description: "Maryam Rabiee Abyaneh is a Mid-career Biochar researcher at University of Tehran in IR. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.651685
+date: 2026-08-11T01:33:11.576841
 url: "/cdr-researcher-census/researchers/maryam-rabiee-abyaneh-a5069369/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Pb(ΙΙ), Cd(ΙΙ), and Mn(ΙΙ) adsorption onto pruning-derived biochar: physicochemical characterization, modeling and application in real landfill leachate** (2024)
-   19 citations · Biochar
+   22 citations · Biochar
 
 2. **Importance of pyrolysis temperature and particle size on physicochemical and adsorptive properties of urban wood-derived biochar** (2024)
    8 citations · Biochar

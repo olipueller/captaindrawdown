@@ -1,7 +1,7 @@
 ---
 title: "Olawale Oladeji"
 description: "Olawale Oladeji is a Senior Soil Carbon researcher at United States Bureau of Reclamation in US. With 28 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.729809
+date: 2026-08-11T01:33:11.647146
 url: "/cdr-researcher-census/researchers/olawale-oladeji-a5073141/"
 layout: "researcher"
 hiddenInHomeList: true

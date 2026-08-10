@@ -1,7 +1,7 @@
 ---
 title: "Anne Merfort"
 description: "Anne Merfort is an Early-career General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.972770
+date: 2026-08-11T01:33:11.851703
 url: "/cdr-researcher-census/researchers/anne-merfort-a5022363/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Separating CO2 emission from removal targets comes with limited cost impacts** (2025)
-   12 citations · General CDR
+   13 citations · General CDR
 
 2. **Separating CO2 emission from removal targets comes with limited cost impacts** (2024)
    1 citations

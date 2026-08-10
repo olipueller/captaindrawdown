@@ -1,7 +1,7 @@
 ---
 title: "Magesh Rangaraju"
 description: "Magesh Rangaraju is a Mid-career Biochar researcher at L.V. Prasad Film & TV Academy in IN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.791092
+date: 2026-08-11T01:33:11.702547
 url: "/cdr-researcher-census/researchers/magesh-rangaraju-a5007747/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Comprehensive review on lignocellulosic biomass derived biochar production, characterization, utilization and applications** (2023)
-   90 citations · Biochar
+   92 citations · Biochar
 
 ## External Profiles
 

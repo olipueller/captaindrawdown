@@ -1,7 +1,7 @@
 ---
 title: "Lichang Yin"
 description: "Lichang Yin is a Senior Soil Carbon researcher at 中国科学院新疆生态与地理研究所 in CN. With 58 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.286311
+date: 2026-08-11T01:33:11.254131
 url: "/cdr-researcher-census/researchers/lichang-yin-a5009514/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    42 citations · General CDR
 
 2. **Interactive impacts of climate change and agricultural management on soil organic carbon sequestration potential of cropland in China over the coming decades** (2022)
-   40 citations · General CDR
+   41 citations · General CDR
 
 3. **Daily, seasonal and inter-annual variations in CO2 fluxes and carbon budget in a winter-wheat and summer-maize rotation system in the North China Plain** (2022)
-   30 citations · Soil Carbon
+   33 citations · Soil Carbon
 
 4. **Mapping the spatiotemporal patterns of tillage practices across Chinese croplands with Google Earth Engine** (2023)
    15 citations · Soil Carbon

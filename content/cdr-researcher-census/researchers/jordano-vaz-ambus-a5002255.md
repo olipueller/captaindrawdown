@@ -1,7 +1,7 @@
 ---
 title: "Jordano Vaz Ambus"
 description: "Jordano Vaz Ambus is a Mid-career Biochar researcher at Universidade Federal de Santa Maria in BR. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.215257
+date: 2026-08-11T01:33:12.096987
 url: "/cdr-researcher-census/researchers/jordano-vaz-ambus-a5002255/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Characterization of microstructural stability of biochar-amended Planosol under conventional tillage for irrigated lowland rice ecosystem** (2021)
-   24 citations · Biochar
+   25 citations · Biochar
 
 ## External Profiles
 

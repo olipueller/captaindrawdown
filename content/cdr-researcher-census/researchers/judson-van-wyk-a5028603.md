@@ -1,7 +1,7 @@
 ---
 title: "Judson Van Wyk"
 description: "Judson Van Wyk is a Mid-career BECCS researcher at Michigan State University in US. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.016169
+date: 2026-08-11T01:33:11.892376
 url: "/cdr-researcher-census/researchers/judson-van-wyk-a5028603/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Soil Origin and Plant Genotype Modulate Switchgrass Aboveground Productivity and Root Microbiome Assembly** (2022)
-   42 citations · BECCS
+   43 citations · BECCS
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Baoxian Tao"
 description: "Baoxian Tao is a Senior Soil Carbon researcher. With 32 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.778783
+date: 2026-08-11T01:33:11.691325
 url: "/cdr-researcher-census/researchers/baoxian-tao-a5037211/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Combined effects of biochar addition with varied particle size and temperature on the decomposition of soil organic carbon in a temperate forest, China** (2022)
-   4 citations · Biochar
+   5 citations · Biochar
 
 2. **Land use types regulate PhytOC storage in the ancient Yellow River channel** (2025)
    0 citations · Soil Carbon

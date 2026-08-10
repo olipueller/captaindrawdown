@@ -1,7 +1,7 @@
 ---
 title: "Wenfan Zhang"
 description: "Wenfan Zhang is a Senior Biochar researcher at Changzhou University in CN. With 38 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.061804
+date: 2026-08-11T01:33:11.935296
 url: "/cdr-researcher-census/researchers/wenfan-zhang-a5068146/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,6 +54,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    6 citations · Biochar
 
 2. **Immobilization of Peniophora Incarnata F1 in Pva-Sa-Biochar Matrix and its Degradation Performance and Mechanism for Erythromycin Degradation** (2024)
+   0 citations · Biochar
+
+3. **Immobilization of Peniophora Incarnata  F1 in Pva-Sa-Biochar Matrix and its Degradation Performance and Mechanism for Erythromycin Degradation** (2024)
    0 citations · Biochar
 
 ## External Profiles

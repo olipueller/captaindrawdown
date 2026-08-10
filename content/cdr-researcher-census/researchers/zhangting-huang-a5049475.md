@@ -1,7 +1,7 @@
 ---
 title: "Zhangting Huang"
 description: "Zhangting Huang is a Mid-career Biochar researcher at Zhejiang A & F University in CN. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.903642
+date: 2026-08-11T01:33:11.802762
 url: "/cdr-researcher-census/researchers/zhangting-huang-a5049475/"
 layout: "researcher"
 hiddenInHomeList: true

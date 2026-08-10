@@ -1,7 +1,7 @@
 ---
 title: "Mingliang Zhao"
 description: "Mingliang Zhao is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 32 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.647717
+date: 2026-08-11T01:33:11.573296
 url: "/cdr-researcher-census/researchers/mingliang-zhao-a5002051/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Mineral Association and Microbial Processing Jointly Prolong Carbon Turnover in Coastal Wetlands** (2026)
-   9 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 2. **Seven-year experimental warming decreases labile but not recalcitrant soil organic carbon fractions in a coastal wetland** (2023)
    9 citations · Soil Carbon
 
 3. **Seasonal precipitation distribution determines ecosystem <scp>CO<sub>2</sub></scp> and <scp>H<sub>2</sub>O</scp> exchange by regulating spring soil water–salt dynamics in a brackish wetland** (2024)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 4. **Restoration age enhances soil organic carbon sequestration primarily through plant-derived carbon in a coastal wetland** (2025)
    3 citations · Soil Carbon

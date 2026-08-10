@@ -1,7 +1,7 @@
 ---
 title: "Kati Koponen"
 description: "Kati Koponen is a Mid-career General CDR researcher at VTT Technical Research Centre of Finland in FI. With 52 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.447479
+date: 2026-08-11T01:33:11.396264
 url: "/cdr-researcher-census/researchers/kati-koponen-a5091330/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    13 citations · General CDR
 
 2. **Sustainable negative emissions in Europe: evaluating scenarios to meet carbon neutrality by 2050** (2024)
-   5 citations · BECCS
+   6 citations · BECCS
 
 3. **Modelling of Demands of Selected Minerals and Metals in Clean Energy Transition with 1.5–2.0 °C Mitigation Targets** (2024)
    3 citations · General CDR
@@ -62,16 +62,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 4. **Quantifying Climate Change Effects of Bioenergy and <scp>BECCS</scp>: Critical Considerations and Guidance on Methodology** (2025)
    2 citations · BECCS
 
-5. **District heating with negative emissions – direct air carbon capture and storage combined with small modular reactors** (2025)
+5. **Cascading wood use into bioenergy with carbon capture and storage ensures continuous and enduring temperature reduction** (2026)
+   1 citations · BECCS
+
+6. **District heating with negative emissions – direct air carbon capture and storage combined with small modular reactors** (2025)
    1 citations · DAC
 
-6. **Quantifying and Deploying Responsible Carbon Dioxide Removals in the Nordic Countries** (2026)
+7. **Quantifying and Deploying Responsible Carbon Dioxide Removals in the Nordic Countries** (2026)
    0 citations
 
-7. **Long-term scenarios and energy system impacts of technological carbon dioxide removal deployment in Finland** (2026)
-   0 citations · BECCS
-
-8. **Cascading wood use into bioenergy with carbon capture and storage ensures continuous and enduring temperature reduction** (2026)
+8. **Long-term scenarios and energy system impacts of technological carbon dioxide removal deployment in Finland** (2026)
    0 citations · BECCS
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Haili Long"
 description: "Haili Long is a Senior Soil Carbon researcher at Beibu Gulf University in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.149319
+date: 2026-08-11T01:33:12.037041
 url: "/cdr-researcher-census/researchers/haili-long-a5114021/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of Spartina alterniflora Invasion on Soil Organic Carbon Storage in the Beihai Coastal Wetlands of China** (2022)
-   23 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 ## External Profiles
 

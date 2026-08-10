@@ -1,7 +1,7 @@
 ---
 title: "Tuomas Mattila"
 description: "Tuomas Mattila is a Senior Soil Carbon researcher at Finnish Environment Institute in FI. With 181 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.136967
+date: 2026-08-11T01:33:11.115288
 url: "/cdr-researcher-census/researchers/tuomas-mattila-a5009198/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    39 citations · General CDR
 
 3. **Agricultural limitations to soil carbon sequestration: Plant growth, microbial activity, and carbon stabilization** (2024)
-   33 citations · General CDR
+   36 citations · General CDR
 
 4. **Do carbon farming practices build bioavailable nitrogen pools?** (2023)
    9 citations · General CDR
@@ -74,11 +74,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 8. **Towards agricultural soil carbon monitoring, reporting and verification through Field Observatory Network (FiON)** (2021)
    2 citations · General CDR
 
-9. **Identifying key parameters for cover crop C sequestration across process-based models** (2025)
-   1 citations · General CDR
+9. **Stocks and stoichiometry of carbon, nitrogen, and phosphorus in agricultural mineral soil profiles with views on the carbon sequestration** (2026)
+   1 citations · Soil Carbon
 
-10. **Carbon action MULTA Finnish carbon sequestration experimental field dataset 2023** (2023)
-   1 citations
+10. **Identifying key parameters for cover crop C sequestration across process-based models** (2025)
+   1 citations · General CDR
 
 ## External Profiles
 

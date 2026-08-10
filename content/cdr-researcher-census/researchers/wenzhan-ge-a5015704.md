@@ -1,7 +1,7 @@
 ---
 title: "Wenzhan Ge"
 description: "Wenzhan Ge is a Mid-career Biochar researcher at Huazhong Agricultural University in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.648935
+date: 2026-08-11T01:33:11.574429
 url: "/cdr-researcher-census/researchers/wenzhan-ge-a5015704/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Preparation, adsorption performance and mechanism of MgO-loaded biochar in wastewater treatment: A review** (2022)
-   94 citations · Biochar
+   97 citations · Biochar
 
 ## External Profiles
 

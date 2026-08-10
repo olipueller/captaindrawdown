@@ -1,7 +1,7 @@
 ---
 title: "Yanjiang Cai"
 description: "Yanjiang Cai is an Eminent Soil Carbon researcher at Zhejiang A&F University in CN. With 169 publications and an h-index of 44, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.116884
+date: 2026-08-11T01:33:11.096145
 url: "/cdr-researcher-census/researchers/yanjiang-cai-a5112048/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    119 citations
 
 2. **Biochar-based controlled-release fertilizers for enhancing plant growth and environmental sustainability: a review** (2025)
-   27 citations · Biochar
+   32 citations · Biochar
 
 3. **Patterns and abiotic drivers of soil organic carbon in perennial tea (Camellia sinensis L.) plantation system of China** (2023)
    24 citations · Soil Carbon
@@ -68,16 +68,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 6. **Nitrogen-induced suppression of methane uptake is alleviated by biochar in a subtropical forest soil** (2025)
    3 citations · Biochar
 
-7. **Increased mowing intensity reduces soil CH4 uptake but diversely affects CO2 emission in an alpine meadow on the Qinghai-Tibetan Plateau** (2025)
+7. **Higher density of earthworms (Pheretima guillelmi) enhances soil carbon sequestration and carbon pool management index in a subtropical forest** (2026)
    2 citations · Soil Carbon
 
-8. **Temperature-dependent modulation of soil organic carbon by earthworm (Pheretima guillelmi) bioturbation in a subtropical forest: Topsoil versus Subsoil** (2026)
+8. **Increased mowing intensity reduces soil CH4 uptake but diversely affects CO2 emission in an alpine meadow on the Qinghai-Tibetan Plateau** (2025)
+   2 citations · Soil Carbon
+
+9. **Temperature-dependent modulation of soil organic carbon by earthworm (Pheretima guillelmi) bioturbation in a subtropical forest: Topsoil versus Subsoil** (2026)
    1 citations
 
-9. **Higher density of earthworms (Pheretima guillelmi) enhances soil carbon sequestration and carbon pool management index in a subtropical forest** (2026)
-   1 citations · Soil Carbon
-
-10. **Effects of maize straw and its biochar application on soil organic carbon chemical composition and carbon degradation genes in a Moso bamboo forest.** (2023)
+10. **Biochar alleviates ammonium-induced suppression of methane uptake in a subtropical forest soil** (2025)
    1 citations · Biochar
 
 ## External Profiles

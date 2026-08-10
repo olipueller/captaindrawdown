@@ -1,7 +1,7 @@
 ---
 title: "Man Cheng"
 description: "Man Cheng is a Mid-career Soil Carbon researcher at Shanxi Agricultural University in CN. With 26 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.402918
+date: 2026-08-11T01:33:11.357285
 url: "/cdr-researcher-census/researchers/man-cheng-a5101679/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term Conservation Agriculture increases sulfur pools in soils together with increased soil organic carbon compared to conventional practices** (2022)
-   46 citations · Soil Carbon
+   47 citations · Soil Carbon
 
 2. **Soil Organic Carbon Sequestration under Long-Term Chemical and Manure Fertilization in a Cinnamon Soil, Northern China** (2022)
    21 citations · Soil Carbon

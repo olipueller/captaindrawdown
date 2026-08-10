@@ -1,7 +1,7 @@
 ---
 title: "Naomi Kitagawa"
 description: "Naomi Kitagawa is a Senior General CDR researcher at Furukawa Electric (Japan) in JP. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.014215
+date: 2026-08-11T01:33:11.890596
 url: "/cdr-researcher-census/researchers/naomi-kitagawa-a5021048/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Scenario assessment of introducing carbon utilization and carbon removal technologies considering future technological transition based on renewable energy and direct air capture** (2023)
-   20 citations · DAC
+   21 citations · DAC
 
 2. **Advancing e-methanol systems via direct air carbon capture, CO2 hydrogenation, and hydrothermal co-electrolysis** (2025)
-   5 citations · DAC
+   6 citations · DAC
 
 3. **Energy consumption assessment of silicate rock comminution options for enhanced weathering** (2025)
    3 citations · Enhanced Weathering

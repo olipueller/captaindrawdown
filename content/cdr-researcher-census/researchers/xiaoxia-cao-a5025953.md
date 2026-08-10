@@ -1,7 +1,7 @@
 ---
 title: "Xiaoxia Cao"
 description: "Xiaoxia Cao is a Senior Biochar researcher at Queen's University Belfast in GB. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.082212
+date: 2026-08-11T01:33:11.975019
 url: "/cdr-researcher-census/researchers/xiaoxia-cao-a5025953/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar enhanced anaerobic co-digestion of poultry litter and wheat straw: Performance, microbial analysis, and multiple factors’ interaction** (2024)
-   7 citations · Biochar
+   9 citations · Biochar
 
 ## External Profiles
 

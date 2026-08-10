@@ -1,7 +1,7 @@
 ---
 title: "Xiaohua Fu"
 description: "Xiaohua Fu is a Senior Soil Carbon researcher at Zhejiang Provincial People's Hospital in CN. With 123 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.199444
+date: 2026-08-11T01:33:11.173491
 url: "/cdr-researcher-census/researchers/xiaohua-fu-a5047290/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -66,13 +66,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    4 citations · Biochar
 
 6. **The combined effects of soil moisture and salinity on the spatial differences of soil humification intensity in the Yangtze River estuarine wetlands** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
-7. **Particle size is an important factor influencing the effects of biochar return to woodland soils: An evaluation from the perspective of sapling growth and soil microbial carbon processes** (2024)
+7. **Biomarker analysis revealed tidal organic carbon input enhanced soil respiration and weakened carbon sequestration function of estuarine wetland: Field validation of the Jiuduansha Wetland in the Yangtze River estuary** (2024)
+   3 citations · Ocean CDR
+
+8. **Particle size is an important factor influencing the effects of biochar return to woodland soils: An evaluation from the perspective of sapling growth and soil microbial carbon processes** (2024)
    2 citations · Biochar
-
-8. **Biomarker analysis revealed tidal organic carbon input enhanced soil respiration and weakened carbon sequestration function of estuarine wetland: Field validation of the Jiuduansha Wetland in the Yangtze River estuary** (2024)
-   1 citations · Ocean CDR
 
 9. **The High Organic Carbon Accumulation in Estuarine Wetlands Necessarily Does Not Represent a High Co2 Sequestration Capacity** (2022)
    1 citations · General CDR

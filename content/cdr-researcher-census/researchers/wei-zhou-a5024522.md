@@ -1,7 +1,7 @@
 ---
 title: "Wei Zhou"
 description: "Wei Zhou is a Mid-career Soil Carbon researcher at State Ethnic Affairs Commission in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.125454
+date: 2026-08-11T01:33:12.015169
 url: "/cdr-researcher-census/researchers/wei-zhou-a5024522/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of farmland landscape pattern on spatial distribution of soil organic carbon in Lower Liaohe Plain of northeastern China** (2022)
-   49 citations · General CDR
+   53 citations · General CDR
 
 2. **The impact of biochar and activated carbon on the purification efficiency of two wetland systems under varying pollution loads** (2025)
    5 citations · Biochar

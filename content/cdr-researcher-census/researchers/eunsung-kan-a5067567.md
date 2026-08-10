@@ -1,7 +1,7 @@
 ---
 title: "Eunsung Kan"
 description: "Eunsung Kan is a Senior Biochar researcher at Texas A&M University in US. With 99 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.124390
+date: 2026-08-11T01:33:11.103117
 url: "/cdr-researcher-census/researchers/eunsung-kan-a5067567/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Thermally enhanced adsorption and persulfate oxidation-driven regeneration on FeCl3-activated biochar for removal of microcystin-LR in water** (2021)
-   31 citations · Biochar
+   33 citations · Biochar
 
 2. **Enhanced Escherichia coli removal from stormwater with bermudagrass-derived activated biochar filtration systems** (2023)
    8 citations · Biochar

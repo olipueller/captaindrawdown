@@ -1,7 +1,7 @@
 ---
 title: "Wenxian Xu"
 description: "Wenxian Xu is a Mid-career Soil Carbon researcher at Chinese Academy of Tropical Agricultural Sciences in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.243543
+date: 2026-08-11T01:33:12.123204
 url: "/cdr-researcher-census/researchers/wenxian-xu-a5078794/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    4 citations · Soil Carbon
 
 3. **Rubber plant root-derived organic carbon influences aggregate stability through soil internal forces in tropical region** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 4. **Rubber based agroforestry systems enhance soil organic carbon sequestration through changes in soil properties and microbial community structure** (2026)
    0 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Ruifeng Li"
 description: "Ruifeng Li is a Senior Soil Carbon researcher at Shandong University in CN. With 41 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.584997
+date: 2026-08-11T01:33:11.516509
 url: "/cdr-researcher-census/researchers/ruifeng-li-a5100639/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Water deficit limits soil organic carbon sequestration under old apple orchards in the loess-covered region** (2023)
-   22 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 2. **Variations in Soil Organic Carbon after Farmland Conversion to Apple Orchard** (2024)
    5 citations · Soil Carbon

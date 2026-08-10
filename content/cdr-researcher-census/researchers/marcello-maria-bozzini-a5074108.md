@@ -1,7 +1,7 @@
 ---
 title: "Marcello Maria Bozzini"
 description: "Marcello Maria Bozzini is a Senior DAC researcher at Politecnico di Milano in IT. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.522221
+date: 2026-08-11T01:33:12.373721
 url: "/cdr-researcher-census/researchers/marcello-maria-bozzini-a5074108/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Techno-economic-assessment of the methanol synthesis from captured CO2 and modular nuclear power-based electrolysis** (2025)
-   11 citations · DAC
+   16 citations · DAC
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Mulugeta Betemariyam"
 description: "Mulugeta Betemariyam is a Mid-career Soil Carbon researcher at Madda Walabu University in ET. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.531527
+date: 2026-08-11T01:33:12.382527
 url: "/cdr-researcher-census/researchers/mulugeta-betemariyam-a5086278/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon stock estimation of mixed-age date palm (Phoenix dactylifera L.) farms in northeastern Ethiopia** (2022)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 ## External Profiles
 

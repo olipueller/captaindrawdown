@@ -1,7 +1,7 @@
 ---
 title: "Rémy Beugnon"
 description: "Rémy Beugnon is a Mid-career Soil Carbon researcher at Universität Leipzig in DE. With 57 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.296416
+date: 2026-08-11T01:33:11.263623
 url: "/cdr-researcher-census/researchers/remy-beugnon-a5022206/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Microclimate modulation: An overlooked mechanism influencing the impact of plant diversity on ecosystem functioning** (2024)
-   54 citations · General CDR
+   57 citations · General CDR
 
 2. **Abiotic and biotic drivers of tree trait effects on soil microbial biomass and soil carbon concentration** (2022)
    44 citations · Soil Carbon
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    31 citations · Soil Carbon
 
 4. **Sustainable Land Use Enhances Soil Microbial Respiration Responses to Experimental Heat Stress** (2025)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 ## External Profiles
 

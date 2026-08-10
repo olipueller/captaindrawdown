@@ -1,7 +1,7 @@
 ---
 title: "Caohui Han"
 description: "Caohui Han is a Mid-career Biochar researcher at Chang'an University in CN. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.463979
+date: 2026-08-11T01:33:11.409760
 url: "/cdr-researcher-census/researchers/caohui-han-a5034910/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Research Progress on Adsorption of Arsenic from Water by Modified Biochar and Its Mechanism: A Review** (2022)
-   56 citations · Biochar
+   57 citations · Biochar
 
 ## External Profiles
 

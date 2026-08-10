@@ -1,7 +1,7 @@
 ---
 title: "Qingkui Wang"
 description: "Qingkui Wang is a Senior Soil Carbon researcher at Anhui Agricultural University in CN. With 149 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.113042
+date: 2026-08-11T01:33:11.092467
 url: "/cdr-researcher-census/researchers/qingkui-wang-a5045058/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,13 +54,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    30 citations · Soil Carbon
 
 2. **Nitrogen deposition caused higher increases in plant-derived organic carbon than microbial-derived organic carbon in forest soils** (2024)
-   27 citations · Soil Carbon
+   28 citations · Soil Carbon
 
 3. **Non-additive effects of nitrogen and phosphorus fertilization on microbial biomass and residue distribution in a subtropical plantation** (2021)
    17 citations
 
 4. **Greater influences of nitrogen addition on priming effect in forest subsoil than topsoil regardless of incubation warming** (2024)
-   13 citations
+   15 citations
 
 5. **Carbon and nitrogen addition-derived enzyme activities in topsoil but nitrogen availability in subsoil controls the response of soil organic carbon decomposition to warming** (2024)
    6 citations · Soil Carbon

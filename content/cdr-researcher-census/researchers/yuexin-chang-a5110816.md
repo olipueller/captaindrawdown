@@ -1,7 +1,7 @@
 ---
 title: "Yuexin Chang"
 description: "Yuexin Chang is a Mid-career Soil Carbon researcher at Xi'an Jiaotong University in CN. With 27 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.453074
+date: 2026-08-11T01:33:11.401062
 url: "/cdr-researcher-census/researchers/yuexin-chang-a5110816/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Differences in the physical protection mechanisms of soil organic carbon with 13C-labeled straw and biochar** (2025)
-   21 citations · Biochar
+   25 citations · Biochar
 
 2. **[Effect of Straw Return on Soil Aggregate Composition and Carbon Fractions in Typical Farmland of the Loess Plateau].** (2025)
    0 citations · Soil Carbon

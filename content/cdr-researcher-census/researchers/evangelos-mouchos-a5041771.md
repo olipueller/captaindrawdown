@@ -1,7 +1,7 @@
 ---
 title: "Evangelos Mouchos"
 description: "Evangelos Mouchos is a Mid-career General CDR researcher at University of Bristol in GB. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.155111
+date: 2026-08-11T01:33:12.042424
 url: "/cdr-researcher-census/researchers/evangelos-mouchos-a5041771/"
 layout: "researcher"
 hiddenInHomeList: true

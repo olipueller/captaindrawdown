@@ -1,7 +1,7 @@
 ---
 title: "Assefa Abegaz"
 description: "Assefa Abegaz is a Senior Soil Carbon researcher at Addis Ababa University in ET. With 69 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.272611
+date: 2026-08-11T01:33:11.241310
 url: "/cdr-researcher-census/researchers/assefa-abegaz-a5019517/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Estimating spatially distributed SOC sequestration potentials of sustainable land management practices in Ethiopia** (2021)
-   29 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 2. **Modeling long-term attainable soil organic carbon sequestration across the highlands of Ethiopia** (2021)
    17 citations · Soil Carbon

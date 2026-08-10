@@ -1,7 +1,7 @@
 ---
 title: "Amrender Singh Rao"
 description: "Amrender Singh Rao is a Mid-career General CDR researcher at Indian Council of Forestry Research and Education in IN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.704473
+date: 2026-08-11T01:33:11.624094
 url: "/cdr-researcher-census/researchers/amrender-singh-rao-a5044269/"
 layout: "researcher"
 hiddenInHomeList: true

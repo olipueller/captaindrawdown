@@ -1,7 +1,7 @@
 ---
 title: "Keit Kill"
 description: "Keit Kill is a Mid-career Soil Carbon researcher at University of Tartu in EE. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.843117
+date: 2026-08-11T01:33:11.747500
 url: "/cdr-researcher-census/researchers/keit-kill-a5056790/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Restoring wetlands on intensive agricultural lands modifies nitrogen cycling microbial communities and reduces N2O production potential** (2021)
-   21 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 ## External Profiles
 

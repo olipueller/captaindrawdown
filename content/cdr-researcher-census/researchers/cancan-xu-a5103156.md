@@ -1,7 +1,7 @@
 ---
 title: "Cancan Xu"
 description: "Cancan Xu is a Senior Biochar researcher at Nanchang University in CN. With 51 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.235393
+date: 2026-08-11T01:33:11.207487
 url: "/cdr-researcher-census/researchers/cancan-xu-a5103156/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Removal of Phosphorus from Domestic Sewage in Rural Areas Using Oyster Shell-Modified Agricultural Waste–Rice Husk Biochar** (2023)
-   19 citations · Biochar
+   20 citations · Biochar
 
 2. **Adsorption Removal of Phosphate from Rural Domestic Sewage by Ca-Modified Biochar Derived from Waste Eggshell and Sawdust** (2023)
    13 citations · Biochar

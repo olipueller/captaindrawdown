@@ -1,7 +1,7 @@
 ---
 title: "Brandon Han Hoe Goh"
 description: "Brandon Han Hoe Goh is a Mid-career BECCS researcher at Shanghai Jiao Tong University in CN. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.252261
+date: 2026-08-11T01:33:11.222675
 url: "/cdr-researcher-census/researchers/brandon-han-hoe-goh-a5112474/"
 layout: "researcher"
 hiddenInHomeList: true

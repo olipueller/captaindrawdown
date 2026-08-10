@@ -1,7 +1,7 @@
 ---
 title: "Matthew J. Realff"
 description: "Matthew J. Realff is an Eminent DAC researcher at Georgia Institute of Technology in US. With 305 publications and an h-index of 46, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.097800
+date: 2026-08-11T01:33:11.078061
 url: "/cdr-researcher-census/researchers/matthew-j-realff-a5078923/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,34 +51,34 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Support Pore Structure and Composition Strongly Influence the Direct Air Capture of CO<sub>2</sub> on Supported Amines** (2023)
-   125 citations
+   130 citations
 
 2. **Research needs targeting direct air capture of carbon dioxide: Material &amp; process performance characteristics under realistic environmental conditions** (2022)
-   98 citations · DAC
+   99 citations · DAC
 
 3. **Sorbent-coated carbon fibers for direct air capture using electrically driven temperature swing adsorption** (2023)
-   91 citations
+   98 citations
 
 4. **Direct Air Capture of CO<sub>2</sub> Using Poly(ethyleneimine)-Functionalized Expanded Poly(tetrafluoroethylene)/Silica Composite Structured Sorbents** (2022)
-   68 citations
+   71 citations
 
 5. **Tuning sorbent properties to reduce the cost of direct air capture** (2024)
-   64 citations
+   70 citations
 
 6. **Water management and heat integration in direct air capture systems** (2024)
-   47 citations
+   50 citations
 
 7. **Defining Targets for Adsorbent Material Performance to Enable Viable BECCS Processes** (2021)
-   41 citations · BECCS
+   42 citations · BECCS
 
 8. **Investigation of Moisture Swing Adsorbents for Direct Air Capture by Dynamic Breakthrough Studies** (2025)
-   34 citations
+   36 citations
 
 9. **Near-cryogenic direct air capture using adsorbents** (2025)
-   25 citations
+   27 citations
 
 10. **Model-Based Energy and Cost Analysis of Direct Air Capture Using ePTFE-Based Laminate-Structured Gas–Solid Contactors** (2024)
-   24 citations · DAC
+   27 citations · DAC
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Sylvie Milin"
 description: "Sylvie Milin is a Senior Soil Carbon researcher at Biologie du Fruit et Pathologie in FR. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.632502
+date: 2026-08-11T01:33:11.559215
 url: "/cdr-researcher-census/researchers/sylvie-milin-a5064405/"
 layout: "researcher"
 hiddenInHomeList: true

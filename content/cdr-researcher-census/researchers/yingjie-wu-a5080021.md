@@ -1,7 +1,7 @@
 ---
 title: "Yingjie Wu"
 description: "Yingjie Wu is a Senior Soil Carbon researcher at Sichuan Agricultural University in CN. With 80 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.206538
+date: 2026-08-11T01:33:11.180285
 url: "/cdr-researcher-census/researchers/yingjie-wu-a5080021/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Temperature effects on cropland soil particulate and mineral-associated organic carbon are governed by agricultural land-use types** (2024)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 2. **Pore size and organic carbon of biochar limit the carbon sequestration potential of Bacillus cereus SR** (2024)
    10 citations · Biochar

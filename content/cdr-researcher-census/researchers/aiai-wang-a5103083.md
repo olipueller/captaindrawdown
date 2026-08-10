@@ -1,7 +1,7 @@
 ---
 title: "Aiai Wang"
 description: "Aiai Wang is a Mid-career Soil Carbon researcher at Harbin Normal University in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.378921
+date: 2026-08-11T01:33:12.241056
 url: "/cdr-researcher-census/researchers/aiai-wang-a5103083/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Conservation Effectiveness Assessment of the Three Northern Protection Forest Project Area** (2023)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 ## External Profiles
 

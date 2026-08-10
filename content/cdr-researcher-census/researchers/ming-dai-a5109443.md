@@ -1,7 +1,7 @@
 ---
 title: "Ming Dai"
 description: "Ming Dai is a Mid-career DAC researcher at Northeast Forestry University in CN. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.488636
+date: 2026-08-11T01:33:11.430925
 url: "/cdr-researcher-census/researchers/ming-dai-a5109443/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,10 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 1. **Circular and athermal atmospheric CO <sub>2</sub> capture by food waste-derived amyloid sorbents** (2026)
    1 citations · DAC
 
-2. **Closed-loop upcycling of protein amyloid fibrils from food waste for atmospheric CO2 capture** (2025)
+2. **Circular and athermal atmospheric CO₂ capture by food waste-derived amyloid sorbents** (2026)
+   0 citations · DAC
+
+3. **Closed-loop upcycling of protein amyloid fibrils from food waste for atmospheric CO2 capture** (2025)
    0 citations
 
 ## External Profiles

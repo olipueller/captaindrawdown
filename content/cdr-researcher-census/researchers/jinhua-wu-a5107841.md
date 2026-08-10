@@ -1,7 +1,7 @@
 ---
 title: "Jinhua Wu"
 description: "Jinhua Wu is a Senior Biochar researcher at South China University of Technology in CN. With 60 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.158993
+date: 2026-08-11T01:33:11.135465
 url: "/cdr-researcher-census/researchers/jinhua-wu-a5107841/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Enhanced Cr(VI) reduction and immobilization by Fe0 coupled with biochar through galvanic interaction** (2025)
-   5 citations · Biochar
+   6 citations · Biochar
 
 2. **Promoted Iron Corrosion Through Iron-Carbon Micro-Electrolysis with Mixed Fe0 and Biochar for Enhanced Cr(Vi) Removal** (2024)
    0 citations · Biochar

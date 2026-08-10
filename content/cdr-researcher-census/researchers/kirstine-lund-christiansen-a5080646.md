@@ -1,7 +1,7 @@
 ---
 title: "Kirstine Lund Christiansen"
 description: "Kirstine Lund Christiansen is a Mid-career General CDR researcher at University of Copenhagen in DK. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.316583
+date: 2026-08-11T01:33:12.185046
 url: "/cdr-researcher-census/researchers/kirstine-lund-christiansen-a5080646/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **What ‘climate positive future’? Emerging sociotechnical imaginaries of negative emissions in Sweden** (2021)
-   43 citations · General CDR
+   44 citations · General CDR
 
 2. **Over-reliance on land for carbon dioxide removal in net-zero climate pledges** (2024)
-   35 citations · General CDR
+   39 citations · General CDR
 
 3. **Author Correction: Over-reliance on land for carbon dioxide removal in net-zero climate pledges** (2025)
    1 citations · General CDR
 
 4. **Author Correction: Over-reliance on land for carbon dioxide removal in net-zero climate pledges** (2024)
    1 citations · General CDR
+
+5. **Undermining climate action? Challenges of public-private co-financing of carbon removal in the Global North** (2026)
+   0 citations · BECCS
 
 ## External Profiles
 

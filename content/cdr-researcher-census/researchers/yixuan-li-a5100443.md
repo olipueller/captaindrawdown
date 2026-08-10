@@ -1,7 +1,7 @@
 ---
 title: "Yixuan Li"
 description: "Yixuan Li is a Mid-career Soil Carbon researcher at Nankai University in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.031973
+date: 2026-08-11T01:33:11.907510
 url: "/cdr-researcher-census/researchers/yixuan-li-a5100443/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    72 citations · Soil Carbon
 
 2. **Effects of vegetation succession on soil organic carbon fractions and stability in a karst valley area, Southwest China** (2022)
-   22 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 3. **Changes in soil aggregate stability and aggregate-associated organic carbon during old-field succession in karst valley** (2021)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 4. **Piled straw return: A novel strategy for mitigating greenhouse gas emissions in paddy fields** (2025)
    3 citations · Soil Carbon

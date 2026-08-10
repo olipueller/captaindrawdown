@@ -1,7 +1,7 @@
 ---
 title: "Longyan Shi"
 description: "Longyan Shi is a Mid-career Soil Carbon researcher at Nanjing Forestry University in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.339585
+date: 2026-08-11T01:33:12.205404
 url: "/cdr-researcher-census/researchers/longyan-shi-a5035943/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Arbor-shrub mixed vegetation restoration strategies cause greater increases in plant-derived carbon than microbial-derived carbon in limestone hills** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 2. **Long-term thinning effects on fine root biomass, morphology, and chemistry in a Pinus massoniana forest** (2025)
    0 citations

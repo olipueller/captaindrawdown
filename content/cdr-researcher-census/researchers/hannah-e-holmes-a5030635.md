@@ -1,7 +1,7 @@
 ---
 title: "Hannah E. Holmes"
 description: "Hannah E. Holmes is a Mid-career General CDR researcher at Georgia Institute of Technology in US. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.563784
+date: 2026-08-11T01:33:11.497693
 url: "/cdr-researcher-census/researchers/hannah-e-holmes-a5030635/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,25 +51,25 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Tuning sorbent properties to reduce the cost of direct air capture** (2024)
-   64 citations
+   70 citations
 
 2. **Cold Temperature Direct Air CO<sub>2</sub> Capture with Amine-Loaded Metal–Organic Framework Monoliths** (2023)
-   53 citations
+   56 citations
 
 3. **Water management and heat integration in direct air capture systems** (2024)
-   47 citations
+   50 citations
 
 4. **Defining Targets for Adsorbent Material Performance to Enable Viable BECCS Processes** (2021)
-   41 citations · BECCS
+   42 citations · BECCS
 
 5. **Polymer‐Sorbent Direct Air Capture Contactors with Complex Geometries 3D‐Printed via Templated Phase Inversion** (2024)
-   17 citations
+   18 citations
 
 6. **Process systems engineering: a key enabler of adsorption-based direct air capture** (2025)
-   12 citations · DAC
+   14 citations · DAC
 
 7. **Two keys to scalable direct air capture: water management and contactor productivity** (2025)
-   4 citations
+   5 citations
 
 8. **Navigating the obstacles of carbon-negative technologies** (2024)
    4 citations · General CDR

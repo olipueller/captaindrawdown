@@ -1,7 +1,7 @@
 ---
 title: "Obey Gotore"
 description: "Obey Gotore is a Mid-career Biochar researcher at Nagasaki University in JP. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.654453
+date: 2026-08-11T01:33:11.579352
 url: "/cdr-researcher-census/researchers/obey-gotore-a5059089/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    146 citations · Biochar
 
 2. **The immobilization and adsorption mechanisms of agro-waste based biochar: A review on the effectiveness of pyrolytic temperatures on heavy metal removal** (2024)
-   47 citations · Biochar
+   48 citations · Biochar
 
 ## External Profiles
 

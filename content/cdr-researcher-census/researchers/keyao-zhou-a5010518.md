@@ -1,7 +1,7 @@
 ---
 title: "Keyao Zhou"
 description: "Keyao Zhou is a Mid-career Biochar researcher at Shenyang Agricultural University in CN. With 10 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.884294
+date: 2026-08-11T01:33:11.785257
 url: "/cdr-researcher-census/researchers/keyao-zhou-a5010518/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Soil Organic Carbon and Humus Characteristics: Response and Evolution to Long-Term Direct/Carbonized Straw Return to Field** (2024)
-   15 citations · Biochar
+   16 citations · Biochar
 
 ## External Profiles
 

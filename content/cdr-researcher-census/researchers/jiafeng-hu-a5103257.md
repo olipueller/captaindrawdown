@@ -1,7 +1,7 @@
 ---
 title: "Jiafeng Hu"
 description: "Jiafeng Hu is a Mid-career Biochar researcher at Hubei University of Chinese Medicine in CN. With 38 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.256311
+date: 2026-08-11T01:33:11.226167
 url: "/cdr-researcher-census/researchers/jiafeng-hu-a5103257/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Ultrasensitive and highly reusable electrochemical sensor with ion imprinted nanobiochar** (2022)
-   21 citations · Biochar
+   22 citations · Biochar
 
 2. **Ultrasensitive and Highly Reusable Electrochemical Sensor with Ion Imprinted Nanobiochar** (2021)
    1 citations · Biochar

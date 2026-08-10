@@ -1,7 +1,7 @@
 ---
 title: "Xiaowen Fu"
 description: "Xiaowen Fu is a Senior Biochar researcher at Qilu University of Technology in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.323475
+date: 2026-08-11T01:33:12.191196
 url: "/cdr-researcher-census/researchers/xiaowen-fu-a5003754/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Removal of ammonia nitrogen and phosphate from livestock wastewater by magnesite tailings modified biochar: performance and mechanisms** (2025)
-   3 citations · Biochar
+   4 citations · Biochar
 
 2. **Remove of Ammonia Nitrogen and Phosphate from Livestock Wastewater by Magnesite Tailings Modified Biochar: Performance and Mechanisms** (2025)
    0 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Yuwei Guo"
 description: "Yuwei Guo is a Mid-career Soil Carbon researcher at Yunnan Agricultural University in CN. With 32 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.134742
+date: 2026-08-11T01:33:12.023801
 url: "/cdr-researcher-census/researchers/yuwei-guo-a5101954/"
 layout: "researcher"
 hiddenInHomeList: true

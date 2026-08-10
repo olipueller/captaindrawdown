@@ -1,7 +1,7 @@
 ---
 title: "Yuquan Gao"
 description: "Yuquan Gao is a Mid-career Biochar researcher at Ningbo No. 2 Hospital in CN. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.787379
+date: 2026-08-11T01:33:11.699173
 url: "/cdr-researcher-census/researchers/yuquan-gao-a5051143/"
 layout: "researcher"
 hiddenInHomeList: true

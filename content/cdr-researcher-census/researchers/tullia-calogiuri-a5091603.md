@@ -1,7 +1,7 @@
 ---
 title: "Tullia Calogiuri"
 description: "Tullia Calogiuri is an Early-career Enhanced Weathering researcher at Wageningen University & Research in NL. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.527345
+date: 2026-08-11T01:33:12.378667
 url: "/cdr-researcher-census/researchers/tullia-calogiuri-a5091603/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -60,7 +60,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    8 citations · Enhanced Weathering
 
 4. **Alive and dead earthworms capture carbon during mineral weathering through different pathways** (2025)
-   4 citations · Enhanced Weathering
+   5 citations · Enhanced Weathering
 
 5. **Machine learning-based identification of key biotic and abiotic drivers of mineral weathering rate in a complex enhanced weathering experiment** (2025)
    3 citations
@@ -68,10 +68,10 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 6. **Contribution of dissolved organic carbon to total alkalinity in Enhanced Weathering experiments** (2026)
    1 citations · Enhanced Weathering
 
-7. **The role of earthworms in enhanced mineral weathering : Understanding their impact on carbon dynamics and sustainable fertilisation** (2026)
-   0 citations · Enhanced Weathering
+7. **Alkalinity production and carbon capture from dunite weathering: Individual effects of oxalate, citrate, and EDTA salts** (2025)
+   1 citations · Enhanced Weathering
 
-8. **Alkalinity production and carbon capture from dunite weathering: Individual effects of oxalate, citrate, and EDTA salts** (2025)
+8. **The role of earthworms in enhanced mineral weathering : Understanding their impact on carbon dynamics and sustainable fertilisation** (2026)
    0 citations · Enhanced Weathering
 
 9. **Machine learning-based identification of key biotic and abiotic drivers of mineral weathering rate in a complex enhanced weathering experiment** (2025)

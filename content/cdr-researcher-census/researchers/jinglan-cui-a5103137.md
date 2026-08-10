@@ -1,7 +1,7 @@
 ---
 title: "Jinglan Cui"
 description: "Jinglan Cui is a Mid-career Biochar researcher at Zhejiang University in CN. With 37 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.620705
+date: 2026-08-11T01:33:11.548608
 url: "/cdr-researcher-census/researchers/jinglan-cui-a5103137/"
 layout: "researcher"
 hiddenInHomeList: true

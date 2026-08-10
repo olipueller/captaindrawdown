@@ -1,7 +1,7 @@
 ---
 title: "Heidi W. Weiskel"
 description: "Heidi W. Weiskel is a Senior Ocean CDR researcher at International Union for Conservation of Nature (United States) in US. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.857087
+date: 2026-08-11T01:33:11.759799
 url: "/cdr-researcher-census/researchers/heidi-w-weiskel-a5022346/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xingyu Zhang"
 description: "Xingyu Zhang is a Senior Biochar researcher at Tianjin University of Science and Technology in CN. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.417351
+date: 2026-08-11T01:33:12.276596
 url: "/cdr-researcher-census/researchers/xingyu-zhang-a5101655/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Carbon slow release and enhanced denitrification performance and microbial function of sludge-based biochar composite filler in SBR application** (2025)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

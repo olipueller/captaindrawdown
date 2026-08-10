@@ -1,7 +1,7 @@
 ---
 title: "Tanushka Florence Panicker"
 description: "Tanushka Florence Panicker is a Mid-career Biochar researcher at Manipal Academy of Higher Education in IN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.195985
+date: 2026-08-11T01:33:12.079420
 url: "/cdr-researcher-census/researchers/tanushka-florence-panicker-a5114622/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A comprehensive review of production and characterization of biochar for removal of organic pollutants from water and wastewater** (2024)
-   46 citations · Biochar
+   48 citations · Biochar
 
 ## External Profiles
 

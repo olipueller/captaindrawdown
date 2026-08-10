@@ -1,7 +1,7 @@
 ---
 title: "Peng Dang"
 description: "Peng Dang is a Mid-career Soil Carbon researcher at Central South University of Forestry and Technology in CN. With 21 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.359265
+date: 2026-08-11T01:33:11.320098
 url: "/cdr-researcher-census/researchers/peng-dang-a5009162/"
 layout: "researcher"
 hiddenInHomeList: true

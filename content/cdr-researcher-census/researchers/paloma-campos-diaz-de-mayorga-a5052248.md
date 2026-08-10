@@ -1,7 +1,7 @@
 ---
 title: "Paloma Campos Díaz de Mayorga"
 description: "Paloma Campos Díaz de Mayorga is a Senior Biochar researcher. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.289094
+date: 2026-08-11T01:33:12.160845
 url: "/cdr-researcher-census/researchers/paloma-campos-diaz-de-mayorga-a5052248/"
 layout: "researcher"
 hiddenInHomeList: true

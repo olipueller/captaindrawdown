@@ -1,7 +1,7 @@
 ---
 title: "Audrey Wagner"
 description: "Audrey Wagner is a Senior Soil Carbon researcher at University of Oxford in GB. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.771787
+date: 2026-08-11T01:33:11.685008
 url: "/cdr-researcher-census/researchers/audrey-wagner-a5091599/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Tree Diversity Increases Carbon Stocks and Fluxes Above—But Not Belowground in a Tropical Forest Experiment** (2025)
-   18 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 2. **Tree diversity increases carbon stocks and fluxes above- but not belowground in a tropical forest experiment** (2024)
    1 citations · General CDR

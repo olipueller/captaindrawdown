@@ -1,7 +1,7 @@
 ---
 title: "Shikha Prasad"
 description: "Shikha Prasad is a Mid-career Soil Carbon researcher. With 7 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.500686
+date: 2026-08-11T01:33:12.353564
 url: "/cdr-researcher-census/researchers/shikha-prasad-a5083427/"
 layout: "researcher"
 hiddenInHomeList: true

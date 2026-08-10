@@ -1,7 +1,7 @@
 ---
 title: "Anshu Gangwar"
 description: "Anshu Gangwar is a Mid-career Soil Carbon researcher. With 35 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.549996
+date: 2026-08-11T01:33:12.399062
 url: "/cdr-researcher-census/researchers/anshu-gangwar-a5110695/"
 layout: "researcher"
 hiddenInHomeList: true

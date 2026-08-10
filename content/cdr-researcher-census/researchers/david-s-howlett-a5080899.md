@@ -1,7 +1,7 @@
 ---
 title: "David S. Howlett"
 description: "David S. Howlett is a Senior Soil Carbon researcher at United States Agency for International Development in US. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.981976
+date: 2026-08-11T01:33:11.860123
 url: "/cdr-researcher-census/researchers/david-s-howlett-a5080899/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zuhal Akyürek"
 description: "Zuhal Akyürek is a Mid-career BECCS researcher at Middle East Technical University in TR. With 29 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.027289
+date: 2026-08-11T01:33:11.903139
 url: "/cdr-researcher-census/researchers/zuhal-akyurek-a5011329/"
 layout: "researcher"
 hiddenInHomeList: true

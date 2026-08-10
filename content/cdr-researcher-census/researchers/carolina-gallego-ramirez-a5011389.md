@@ -1,7 +1,7 @@
 ---
 title: "Carolina Gallego-Ramírez"
 description: "Carolina Gallego-Ramírez is a Mid-career Biochar researcher at Universidad de Antioquia in CO. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.327442
+date: 2026-08-11T01:33:12.194594
 url: "/cdr-researcher-census/researchers/carolina-gallego-ramirez-a5011389/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Elimination of indigo carmine in water by Pinus patula biochar: Adsorption process optimization, kinetics and isotherms** (2024)
-   35 citations · Biochar
+   36 citations · Biochar
 
 2. **A Study of the Feasibility of Pinus patula Biochar: The Regeneration of the Indigo Carmine-Loaded Biochar and Its Efficiency for Real Textile Wastewater Treatment** (2024)
    6 citations · Biochar

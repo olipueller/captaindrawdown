@@ -1,7 +1,7 @@
 ---
 title: "Rongxiao Che"
 description: "Rongxiao Che is a Senior Soil Carbon researcher at Yunnan University in CN. With 99 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.130585
+date: 2026-08-11T01:33:11.109110
 url: "/cdr-researcher-census/researchers/rongxiao-che-a5061310/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Decades of reforestation significantly change microbial necromass, glomalin, and their contributions to soil organic carbon** (2023)
-   69 citations · Soil Carbon
+   71 citations · Soil Carbon
 
 2. **Fungal necromass contribution to carbon sequestration in global croplands: A meta-analysis of driving factors and conservation practices** (2024)
-   25 citations · Soil Carbon
+   27 citations · Soil Carbon
 
 3. **Microplastic pollution threatens mangrove carbon sequestration capacity** (2025)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 4. **Decades of Reforestation Significantly Change Microbial Necromass, Glomalin, and Their Contributions to Soil Organic Carbon** (2022)
    2 citations · Soil Carbon

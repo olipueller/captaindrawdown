@@ -1,7 +1,7 @@
 ---
 title: "Taotao Chen"
 description: "Taotao Chen is a Senior Biochar researcher at Shenyang Agricultural University in CN. With 131 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.129581
+date: 2026-08-11T01:33:11.108148
 url: "/cdr-researcher-census/researchers/taotao-chen-a5075507/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,16 +54,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    23 citations · Biochar
 
 2. **Soil carbon sequestration increment and carbon-negative emissions in alternate wetting and drying paddy ecosystems through biochar incorporation** (2024)
-   21 citations · Biochar
+   22 citations · Biochar
 
 3. **Effect of acid-modified biochar coupled with alternate wetting and drying on P leaching, soil P retention and plant P uptake in paddy fields** (2023)
-   14 citations · Biochar
+   15 citations · Biochar
 
 4. **Biochar decreased N loss from paddy ecosystem under alternate wetting and drying in the Lower Liaohe River Plain, China** (2024)
-   10 citations · Biochar
+   11 citations · Biochar
 
 5. **Biochar Makes Soil Organic Carbon More Labile, but Its Carbon Sequestration Potential Remains Large in an Alternate Wetting and Drying Paddy Ecosystem** (2025)
-   3 citations · Biochar
+   4 citations · Biochar
 
 6. **How alternate wetting and drying irrigation drives carbon reduction in rice-crab cocultural ecosystem: A quantitative assessment** (2026)
    0 citations

@@ -1,7 +1,7 @@
 ---
 title: "Lifang Deng"
 description: "Lifang Deng is a Senior Biochar researcher at South China Agricultural University College of Agriculture in CN. With 47 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.219437
+date: 2026-08-11T01:33:11.192415
 url: "/cdr-researcher-census/researchers/lifang-deng-a5030416/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Influence of pyrolysis temperature on the physicochemical properties of biochars obtained from herbaceous and woody plants** (2022)
-   111 citations · Biochar
+   113 citations · Biochar
 
 2. **Symbiotic synergy: How Arbuscular Mycorrhizal Fungi enhance nutrient uptake, stress tolerance, and soil health through molecular mechanisms and hormonal regulation** (2025)
-   82 citations
+   86 citations
 
 3. **Optimizing the dual role of biochar for phosphorus availability and arsenic immobilization in soils** (2024)
-   18 citations · Biochar
+   19 citations · Biochar
 
 4. **The multifunctional roles of arbuscular mycorrhizal fungi in soil health and nutrient dynamics** (2026)
-   1 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

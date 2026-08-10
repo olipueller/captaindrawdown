@@ -1,7 +1,7 @@
 ---
 title: "Jin Tang"
 description: "Jin Tang is a Senior Soil Carbon researcher at University of Science and Technology Beijing in CN. With 40 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.400020
+date: 2026-08-11T01:33:11.354743
 url: "/cdr-researcher-census/researchers/jin-tang-a5102910/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Net Carbon Sequestration Performance of Cropland Use in China’s Principal Grain-Producing Area: An Evaluation and Spatiotemporal Divergence** (2021)
+1. **Carbon neutrality assumption hides significant contribution of growers to carbon sequestration** (2023)
    10 citations · Soil Carbon
 
-2. **Carbon neutrality assumption hides significant contribution of growers to carbon sequestration** (2023)
-   9 citations · Soil Carbon
+2. **Net Carbon Sequestration Performance of Cropland Use in China’s Principal Grain-Producing Area: An Evaluation and Spatiotemporal Divergence** (2021)
+   10 citations · Soil Carbon
 
 ## External Profiles
 

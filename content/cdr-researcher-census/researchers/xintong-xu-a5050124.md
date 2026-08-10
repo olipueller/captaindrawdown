@@ -1,7 +1,7 @@
 ---
 title: "Xintong Xu"
 description: "Xintong Xu is a Senior Soil Carbon researcher at Jiangxi Agricultural University in CN. With 48 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.390202
+date: 2026-08-11T01:33:11.346148
 url: "/cdr-researcher-census/researchers/xintong-xu-a5050124/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    62 citations · Biochar
 
 2. **Biochar single application and reapplication decreased soil greenhouse gas and nitrogen oxide emissions from rice–wheat rotation: A three-year field observation** (2023)
-   41 citations · Biochar
+   44 citations · Biochar
 
 3. **Optimizing organic substitution: Balancing carbon sequestration and priming effects of a six-year field experiment for sustainable vegetable production** (2023)
    19 citations · Soil Carbon

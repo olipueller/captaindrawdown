@@ -1,7 +1,7 @@
 ---
 title: "Miaojing Meng"
 description: "Miaojing Meng is a Mid-career Enhanced Weathering researcher at Nanjing Forestry University in CN. With 33 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.345182
+date: 2026-08-11T01:33:11.308223
 url: "/cdr-researcher-census/researchers/miaojing-meng-a5110834/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Mineral-Solubilizing Microbial Inoculums Promote Robinia Pseudoacacia L. Growth By Optimizing Rhizospheric Soil Microbial Community Structure** (2024)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 2. **Mineral-Solubilizing Microbial Inoculums Promote &lt;em&gt;Robinia pseudoacacia&lt;/em&gt; L. Growth by Optimizing the Rhizosphere Soil Microbial Community Structure** (2023)
    1 citations · Enhanced Weathering

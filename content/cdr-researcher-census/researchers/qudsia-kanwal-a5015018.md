@@ -1,7 +1,7 @@
 ---
 title: "Qudsia Kanwal"
 description: "Qudsia Kanwal is a Senior General CDR researcher at King Abdullah University of Science and Technology in SA. With 31 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.386044
+date: 2026-08-11T01:33:11.342459
 url: "/cdr-researcher-census/researchers/qudsia-kanwal-a5015018/"
 layout: "researcher"
 hiddenInHomeList: true

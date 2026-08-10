@@ -1,7 +1,7 @@
 ---
 title: "Sarasadat Taherymoosavi"
 description: "Sarasadat Taherymoosavi is a Mid-career Biochar researcher at University of New South Wales in AU. With 26 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.187745
+date: 2026-08-11T01:33:11.162425
 url: "/cdr-researcher-census/researchers/sarasadat-taherymoosavi-a5051650/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Inducing Inorganic Carbon Accrual in Subsoil through Biochar Application on Calcareous Topsoil** (2023)
-   71 citations · Biochar
+   72 citations · Biochar
 
 2. **Stabilization of organic carbon in top- and subsoil by biochar application into calcareous farmland** (2023)
-   33 citations · Biochar
+   34 citations · Biochar
 
 3. **Combination of Biochar‐Based Fertilisers and Reactive Barriers Improved Soil Carbon Storage, Soil Moisture Retention, and Crop Yield in Short Term** (2025)
    14 citations · Biochar

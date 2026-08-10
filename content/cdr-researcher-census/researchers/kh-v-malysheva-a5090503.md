@@ -1,7 +1,7 @@
 ---
 title: "Kh. V. Malysheva"
 description: "Kh. V. Malysheva is a Mid-career BECCS researcher at Stepan Gzhytskyi National University of Veterinary Medicine and Biotechnologies Lviv in UA. With 14 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.570599
+date: 2026-08-11T01:33:12.413698
 url: "/cdr-researcher-census/researchers/kh-v-malysheva-a5090503/"
 layout: "researcher"
 hiddenInHomeList: true

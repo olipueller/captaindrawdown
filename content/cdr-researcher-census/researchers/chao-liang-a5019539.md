@@ -1,7 +1,7 @@
 ---
 title: "Chao Liang"
 description: "Chao Liang is an Eminent Soil Carbon researcher at Zhejiang A & F University in CN. With 300 publications and an h-index of 61, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.085767
+date: 2026-08-11T01:33:11.067042
 url: "/cdr-researcher-census/researchers/chao-liang-a5019539/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,34 +51,34 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Microbial necromass as the source of soil organic carbon in global ecosystems** (2021)
-   907 citations · Soil Carbon
+   936 citations · Soil Carbon
 
-2. **The soil Microbial Carbon Pump as a new concept for terrestrial carbon sequestration** (2021)
-   171 citations · Soil Carbon
+2. **Increasing contribution of microbial residues to soil organic carbon in grassland restoration chronosequence** (2022)
+   264 citations
 
-3. **Fungi determine increased soil organic carbon more than bacteria through their necromass inputs in conservation tillage croplands** (2022)
+3. **The soil Microbial Carbon Pump as a new concept for terrestrial carbon sequestration** (2021)
+   175 citations · Soil Carbon
+
+4. **Fungi determine increased soil organic carbon more than bacteria through their necromass inputs in conservation tillage croplands** (2022)
    163 citations · Soil Carbon
 
-4. **Rice rhizodeposition promotes the build-up of organic carbon in soil via fungal necromass** (2021)
-   123 citations · Soil Carbon
-
-5. **Revisiting the quantitative contribution of microbial necromass to soil carbon pool: Stoichiometric control by microbes and soil** (2021)
-   118 citations · Soil Carbon
+5. **Rice rhizodeposition promotes the build-up of organic carbon in soil via fungal necromass** (2021)
+   125 citations · Soil Carbon
 
 6. **Intercropping increases soil macroaggregate carbon through root traits induced microbial necromass accumulation** (2023)
-   117 citations · Soil Carbon
+   122 citations · Soil Carbon
 
-7. **The accumulation of microbial necromass carbon from litter to mineral soil and its contribution to soil organic carbon sequestration** (2021)
-   114 citations · Soil Carbon
+7. **Revisiting the quantitative contribution of microbial necromass to soil carbon pool: Stoichiometric control by microbes and soil** (2021)
+   121 citations · Soil Carbon
 
-8. **Arbuscular mycorrhizal fungi and goethite promote carbon sequestration via hyphal-aggregate mineral interactions** (2021)
-   113 citations · Soil Carbon
+8. **The accumulation of microbial necromass carbon from litter to mineral soil and its contribution to soil organic carbon sequestration** (2021)
+   118 citations · Soil Carbon
 
-9. **Exogenous carbon turnover within the soil food web strengthens soil carbon sequestration through microbial necromass accumulation** (2023)
-   83 citations · Soil Carbon
+9. **Arbuscular mycorrhizal fungi and goethite promote carbon sequestration via hyphal-aggregate mineral interactions** (2021)
+   116 citations · Soil Carbon
 
-10. **Assessing the accumulation efficiency of various microbial carbon components in soils of different minerals** (2021)
-   77 citations · Soil Carbon
+10. **Exogenous carbon turnover within the soil food web strengthens soil carbon sequestration through microbial necromass accumulation** (2023)
+   85 citations · Soil Carbon
 
 ## External Profiles
 

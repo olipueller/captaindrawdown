@@ -1,7 +1,7 @@
 ---
 title: "Radhia Msaadi"
 description: "Radhia Msaadi is a Mid-career Ocean CDR researcher at University of Gabès in TN. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.022242
+date: 2026-08-11T01:33:11.898573
 url: "/cdr-researcher-census/researchers/radhia-msaadi-a5062857/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 ## Top CDR Publications
 
-1. **More than Spicy, Moringa oleifera as a Feedstock for Functional biochar@ZnO** (2024)
-   1 citations · Biochar
+1. **MXenes–TiO₂ hybrid via electrochemical synthesis: A photoelectrocatalyst for hydrocarbon degradation in marine environments** (2025)
+   1 citations · Ocean CDR
 
-2. **MXenes–TiO₂ hybrid via electrochemical synthesis: A photoelectrocatalyst for hydrocarbon degradation in marine environments** (2025)
-   0 citations · Ocean CDR
+2. **More than Spicy, Moringa oleifera as a Feedstock for Functional biochar@ZnO** (2024)
+   1 citations · Biochar
 
 ## External Profiles
 

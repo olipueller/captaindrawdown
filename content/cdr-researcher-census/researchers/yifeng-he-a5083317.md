@@ -1,7 +1,7 @@
 ---
 title: "Yifeng He"
 description: "Yifeng He is a Senior Biochar researcher at Henan Agricultural University in CN. With 39 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.358851
+date: 2026-08-11T01:33:11.319722
 url: "/cdr-researcher-census/researchers/yifeng-he-a5083317/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    59 citations · Biochar
 
 2. **Progress in advanced carbon nanotubes composites for air purification** (2024)
-   16 citations
+   17 citations
 
 3. **Innovative Microwave Pyrolysis Approaches and Activation to Produce Biochar from Crab Shell Waste for Palm Oil Mill Wastewater Treatment** (2023)
    0 citations · Biochar

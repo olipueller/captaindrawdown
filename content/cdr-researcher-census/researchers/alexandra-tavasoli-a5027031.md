@@ -1,7 +1,7 @@
 ---
 title: "Alexandra Tavasoli"
 description: "Alexandra Tavasoli is a Mid-career General CDR researcher at University of British Columbia in CA. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.219543
+date: 2026-08-11T01:33:11.192517
 url: "/cdr-researcher-census/researchers/alexandra-tavasoli-a5027031/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Rail-based direct air carbon capture** (2022)
-   26 citations
+   27 citations
 
 2. **Feasibility and Design of Distributed Carbon Dioxide Capture Networks in Urban Environments** (2025)
-   0 citations · General CDR
+   3 citations · General CDR
 
 ## External Profiles
 

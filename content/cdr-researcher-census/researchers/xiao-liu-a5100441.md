@@ -1,7 +1,7 @@
 ---
 title: "Xiao Liu"
 description: "Xiao Liu is a Mid-career Biochar researcher at Hainan University in CN. With 25 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.467994
+date: 2026-08-11T01:33:11.413342
 url: "/cdr-researcher-census/researchers/xiao-liu-a5100441/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Unveiling adsorption mechanisms and regeneration challenges of durian peel biochar for ciprofloxacin removal: Batch experiments and DFT study** (2025)
-   18 citations · Biochar
+   19 citations · Biochar
 
 2. **Unveiling Adsorption Mechanisms and Regeneration Challenges of Durian Peel Biochar for Ciprofloxacin Removal: Batch Experiments and Dft Study** (2025)
    0 citations · Biochar

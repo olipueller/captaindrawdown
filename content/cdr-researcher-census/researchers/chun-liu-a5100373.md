@@ -1,7 +1,7 @@
 ---
 title: "Chun Liu"
 description: "Chun Liu is a Senior Soil Carbon researcher at South China Agricultural University in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.849469
+date: 2026-08-11T01:33:11.752999
 url: "/cdr-researcher-census/researchers/chun-liu-a5100373/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Fertilization and tillage influence on soil organic carbon fractions: A global meta-analysis** (2024)
-   51 citations · Soil Carbon
+   55 citations · Soil Carbon
 
 2. **Changes in the microbial necromass carbon and iron-bound organic carbon following land use and salinity in estuary soils** (2025)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 3. **Divergent accumulations of microbial-derived carbon and iron-bound organic carbon in mangrove soil organic matter fractions along a salinity gradient** (2025)
    4 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Maria-Elena Vorrath"
 description: "Maria-Elena Vorrath is a Mid-career General CDR researcher at Universität Hamburg in DE. With 76 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.689561
+date: 2026-08-11T01:33:11.610911
 url: "/cdr-researcher-census/researchers/maria-elena-vorrath-a5010895/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,24 +57,24 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    9 citations · Biochar
 
 3. **Exploring Site‐Specific Carbon Dioxide Removal Options With Storage or Sequestration in the Marine Environment – The 10 Mt CO<sub>2</sub> yr<sup>−1</sup> Removal Challenge for Germany** (2025)
-   7 citations · General CDR
+   8 citations · General CDR
 
 4. **Pyrogenic carbon and carbonating minerals for carbon capture and storage (PyMiCCS) part I: production, physico-chemical characterization and C-sink potential** (2025)
    6 citations · Biochar
 
 5. **Long-term carbon dioxide removal potential from the application of wood biochar and basanite rock powder in sandy soil using the LiDELSv2 process-based modeling approach** (2025)
-   2 citations · Biochar
+   3 citations · Biochar
 
-6. **Combining biochar and basanite rock powder enhances carbon dioxide removal by carbonate alkalinity production** (2026)
-   0 citations · Biochar
+6. **An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering** (2026)
+   0 citations · Enhanced Weathering
 
-7. **Carbon dioxide removal efficiency of co-applied and co-pyrolyzed feedstocks for enhanced rock weathering and biochar in a sandy soil** (2026)
+7. **Combining biochar and basanite rock powder enhances carbon dioxide removal by carbonate alkalinity production** (2026)
    0 citations · Biochar
 
 8. **Carbon dioxide removal efficiency of co-applied and co-pyrolyzed feedstocks for enhanced rock weathering and biochar in a sandy soil** (2026)
    0 citations · Biochar
 
-9. **Water chemistry dataset from two rain events studying enhanced rock weathering and biochar as single and co-application and co-pyrolysis in a semi-field lysimeter experiment** (2026)
+9. **Carbon dioxide removal efficiency of co-applied and co-pyrolyzed feedstocks for enhanced rock weathering and biochar in a sandy soil** (2026)
    0 citations · Biochar
 
 10. **Water chemistry dataset from two rain events studying enhanced rock weathering and biochar as single and co-application and co-pyrolysis in a semi-field lysimeter experiment** (2026)

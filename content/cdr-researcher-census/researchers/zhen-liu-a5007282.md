@@ -1,7 +1,7 @@
 ---
 title: "Zhen Liu"
 description: "Zhen Liu is a Senior Soil Carbon researcher at Jiamusi University in CN. With 58 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.411321
+date: 2026-08-11T01:33:11.364859
 url: "/cdr-researcher-census/researchers/zhen-liu-a5007282/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    28 citations · Biochar
 
 2. **Rotary and subsoiling tillage rotations influence soil carbon and nitrogen sequestration and crop yield** (2022)
-   23 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 3. **Long-term subsoiling and tillage rotation increase carbon storage in soil aggregates and the abundance of autotrophs** (2024)
    14 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Étienne Richy"
 description: "Étienne Richy is a Mid-career Soil Carbon researcher at Czech Academy of Sciences in CZ. With 27 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.275707
+date: 2026-08-11T01:33:12.149820
 url: "/cdr-researcher-census/researchers/etienne-richy-a5048257/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Phosphorus limitation promotes soil carbon storage in a boreal forest exposed to long‐term nitrogen fertilization** (2024)
-   28 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 2. **Long-read sequencing sheds light on key bacteria contributing to deadwood decomposition processes** (2024)
    14 citations

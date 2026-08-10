@@ -1,7 +1,7 @@
 ---
 title: "Changkang Li"
 description: "Changkang Li is a Mid-career Biochar researcher at Huazhong University of Science and Technology in CN. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.650358
+date: 2026-08-11T01:33:11.575631
 url: "/cdr-researcher-census/researchers/changkang-li-a5061317/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar as the effective adsorbent to combustion gaseous pollutants: Preparation, activation, functionalization and the adsorption mechanisms** (2023)
-   235 citations · Biochar
+   242 citations · Biochar
 
 ## External Profiles
 

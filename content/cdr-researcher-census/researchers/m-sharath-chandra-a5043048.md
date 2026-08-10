@@ -1,7 +1,7 @@
 ---
 title: "M. Sharath Chandra"
 description: "M. Sharath Chandra is a Mid-career Soil Carbon researcher. With 79 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.846767
+date: 2026-08-11T01:33:11.750550
 url: "/cdr-researcher-census/researchers/m-sharath-chandra-a5043048/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Harnessing the potential of pigeonpea and maize feedstock biochar for carbon sequestration, energy generation, and environmental sustainability** (2024)
-   28 citations
+   32 citations
 
 2. **Nano-Biochar: A promising tool for sustainable agriculture under climate change era** (2025)
    4 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Luozhong Tang"
 description: "Luozhong Tang is a Senior Soil Carbon researcher at Nanjing Forestry University in CN. With 60 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.445027
+date: 2026-08-11T01:33:11.394426
 url: "/cdr-researcher-census/researchers/luozhong-tang-a5052346/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Spatial Heterogeneity of Total and Labile Soil Organic Carbon Pools in Poplar Agroforestry Systems** (2023)
-   10 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 2. **Effects of different planting configurations and clones on biomass and carbon storage of a 12-year-old poplar ecosystem in southern China** (2021)
    7 citations · BECCS
 
 3. **Effects of Salt Stress on the Physiology and Biochemistry of Six Poplar Germplasms and Evaluation of Their Salt Tolerance** (2025)
-   0 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

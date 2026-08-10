@@ -1,7 +1,7 @@
 ---
 title: "Sunita Kumari Meena"
 description: "Sunita Kumari Meena is a Senior Soil Carbon researcher at Tamil Nadu Agricultural University in IN. With 74 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.180194
+date: 2026-08-11T01:33:11.155300
 url: "/cdr-researcher-census/researchers/sunita-kumari-meena-a5059480/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon Sequestration in Sugarcane Plant-soil System as Influenced by Nutrient Integration Practices under Indo-Gangetic Plains of India** (2024)
-   12 citations · General CDR
+   13 citations · General CDR
 
 2. **Conservation agriculture for riverine agri-food systems under the climate crisis: enhancing soil health and mitigating erosion** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 3. **Carbon sequestration in sugarcane plant - soil system as influenced by nutrient integration practices under Indo-Gangetic plains of India** (2024)
    1 citations · Soil Carbon

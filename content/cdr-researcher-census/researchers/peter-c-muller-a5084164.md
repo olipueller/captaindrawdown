@@ -1,7 +1,7 @@
 ---
 title: "Peter C. Müller"
 description: "Peter C. Müller is a Senior Soil Carbon researcher at RWTH Aachen University in DE. With 54 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.411676
+date: 2026-08-11T01:33:11.365143
 url: "/cdr-researcher-census/researchers/peter-c-muller-a5084164/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Wo Bin Bae"
 description: "Wo Bin Bae is a Mid-career DAC researcher at Rowan University in US. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.880572
+date: 2026-08-11T01:33:11.781912
 url: "/cdr-researcher-census/researchers/wo-bin-bae-a5049218/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Active metal cation exchanged in ZSM-5 for enhanced direct air capture of CO2** (2024)
-   16 citations
+   17 citations
 
 2. **Sodium cation exchanged zeolites for direct air capture of CO2** (2024)
    16 citations

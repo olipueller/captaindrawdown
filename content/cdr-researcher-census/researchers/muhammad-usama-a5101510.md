@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Usama"
 description: "Muhammad Usama is a Mid-career Biochar researcher at Government College University, Faisalabad in PK. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.166547
+date: 2026-08-11T01:33:12.052929
 url: "/cdr-researcher-census/researchers/muhammad-usama-a5101510/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    31 citations · Biochar
 
 2. **Competitive adsorption of antibiotics on waste-derived hybrid biochar: Performance, mechanism, and life cycle assessment** (2025)
-   6 citations · Biochar
+   8 citations · Biochar
 
 ## External Profiles
 

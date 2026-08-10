@@ -1,7 +1,7 @@
 ---
 title: "P.H.V. Nimarshana"
 description: "P.H.V. Nimarshana is a Mid-career Biochar researcher at University of Moratuwa in LK. With 38 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.249148
+date: 2026-08-11T01:33:11.220046
 url: "/cdr-researcher-census/researchers/phv-nimarshana-a5061798/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    26 citations · BECCS
 
 2. **Harnessing Algae: Advancements in Wastewater Treatment and Resource Recovery** (2024)
-   5 citations
+   6 citations
 
 3. **Synergistic effects of biomass sources and nitrogen doping on tuning biochar properties for efficient direct air capture of CO2** (2026)
    0 citations · Biochar

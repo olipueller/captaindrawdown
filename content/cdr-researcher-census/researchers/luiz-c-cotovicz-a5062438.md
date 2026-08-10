@@ -1,7 +1,7 @@
 ---
 title: "Luiz C. Cotovicz"
 description: "Luiz C. Cotovicz is a Mid-career Ocean CDR researcher at Universidade Federal do Paraná in BR. With 57 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.319445
+date: 2026-08-11T01:33:11.285442
 url: "/cdr-researcher-census/researchers/luiz-c-cotovicz-a5062438/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Blue Carbon Ecosystems in Brazil: Overview and an Urgent Call for Conservation and Restoration** (2022)
-   33 citations · Ocean CDR
+   34 citations · Ocean CDR
 
 2. **Blue carbon stock heterogeneity in Brazilian mangrove forests: A systematic review** (2023)
-   14 citations · General CDR
+   16 citations · General CDR
 
 3. **Large Porewater‐Derived Carbon Outwelling Across Mangrove Seascapes Revealed by Radium Isotopes** (2024)
    12 citations · Ocean CDR

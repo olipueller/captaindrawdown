@@ -1,7 +1,7 @@
 ---
 title: "Rakesh Chandra Nainwal"
 description: "Rakesh Chandra Nainwal is a Mid-career Biochar researcher at Indian Institute of Toxicology Research in IN. With 25 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.303549
+date: 2026-08-11T01:33:12.173749
 url: "/cdr-researcher-census/researchers/rakesh-chandra-nainwal-a5049844/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mahmoud Samy"
 description: "Mahmoud Samy is a Senior Biochar researcher at Mansoura University in EG. With 82 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.192485
+date: 2026-08-11T01:33:11.167028
 url: "/cdr-researcher-census/researchers/mahmoud-samy-a5019780/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Novel mint-stalks derived biochar for the adsorption of methylene blue dye: Effect of operating parameters, adsorption mechanism, kinetics, isotherms, and thermodynamics** (2024)
-   73 citations · Biochar
+   76 citations · Biochar
 
 2. **Green approach for fabricating hybrids of food waste-derived biochar/zinc oxide for effective degradation of bromothymol blue dye in a photocatalysis/persulfate activation system** (2024)
    21 citations · Biochar
@@ -60,10 +60,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    21 citations · Biochar
 
 4. **Efficient oxidative degradation of organic pollutants in real industrial effluents using a green-synthesized magnetite supported on biochar catalyst** (2025)
-   7 citations · Biochar
+   8 citations · Biochar
 
 5. **Novel Approach to Photocatalytic Removal of Linezolid by Advanced Nano-Biochar/Bismuth Oxychloride Hybrid** (2024)
-   7 citations · Biochar
+   8 citations · Biochar
 
 6. **Vacuum ultraviolet irradiation-assisted persulfate activation by a KOH-modified banana-peels derived biochar for the efficient removal of cefotaxime antibiotic** (2025)
    6 citations · Biochar

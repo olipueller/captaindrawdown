@@ -1,7 +1,7 @@
 ---
 title: "Brenda Rabell"
 description: "Brenda Rabell is a Mid-career DAC researcher at Technical University of Denmark in DK. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.405459
+date: 2026-08-11T01:33:12.265446
 url: "/cdr-researcher-census/researchers/brenda-rabell-a5048094/"
 layout: "researcher"
 hiddenInHomeList: true

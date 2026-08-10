@@ -1,7 +1,7 @@
 ---
 title: "Qiong Liu"
 description: "Qiong Liu is a Mid-career DAC researcher at University of Shanghai for Science and Technology in CN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.081689
+date: 2026-08-11T01:33:11.974521
 url: "/cdr-researcher-census/researchers/qiong-liu-a5060296/"
 layout: "researcher"
 hiddenInHomeList: true

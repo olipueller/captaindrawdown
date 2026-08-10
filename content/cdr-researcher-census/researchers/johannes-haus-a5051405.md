@@ -1,7 +1,7 @@
 ---
 title: "Johannes Haus"
 description: "Johannes Haus is a Senior BECCS researcher at BASF (Germany) in DE. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.042711
+date: 2026-08-11T01:33:11.917225
 url: "/cdr-researcher-census/researchers/johannes-haus-a5051405/"
 layout: "researcher"
 hiddenInHomeList: true

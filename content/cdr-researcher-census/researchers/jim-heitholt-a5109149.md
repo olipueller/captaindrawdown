@@ -1,7 +1,7 @@
 ---
 title: "Jim Heitholt"
 description: "Jim Heitholt is a Senior Soil Carbon researcher at University of Wyoming in US. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.855672
+date: 2026-08-11T01:33:11.758570
 url: "/cdr-researcher-census/researchers/jim-heitholt-a5109149/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Dry beans (<scp><i>Phaseolus vulgaris</i></scp> L.) as a vital component of sustainable agriculture and food security—A review** (2022)
-   217 citations · Soil Carbon
+   225 citations · Soil Carbon
 
 ## External Profiles
 

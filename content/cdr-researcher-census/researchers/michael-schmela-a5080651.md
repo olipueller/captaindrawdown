@@ -1,7 +1,7 @@
 ---
 title: "Michael Schmela"
 description: "Michael Schmela is a Mid-career DAC researcher. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.394160
+date: 2026-08-11T01:33:12.255961
 url: "/cdr-researcher-census/researchers/michael-schmela-a5080651/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Reflecting the energy transition from a European perspective and in the global context—Relevance of solar photovoltaics benchmarking two ambitious scenarios** (2022)
-   99 citations · DAC
+   103 citations · DAC
 
 ## External Profiles
 

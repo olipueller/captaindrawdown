@@ -1,7 +1,7 @@
 ---
 title: "Ayushman Malakar"
 description: "Ayushman Malakar is a Mid-career General CDR researcher at Indian Council of Forestry Research and Education in IN. With 34 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.391992
+date: 2026-08-11T01:33:12.253760
 url: "/cdr-researcher-census/researchers/ayushman-malakar-a5039118/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Harnessing green wealth: A two-decade global assessment of forest carbon sequestration and credits and the economic implications of sustainable forest management practices** (2025)
-   18 citations · General CDR
+   20 citations · General CDR
 
 2. **Agroforestry for Carbon Neutrality: An Effective Pathway to Net Zero** (2024)
    5 citations · General CDR

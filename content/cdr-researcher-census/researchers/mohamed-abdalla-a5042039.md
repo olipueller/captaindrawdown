@@ -1,7 +1,7 @@
 ---
 title: "Mohamed Abdalla"
 description: "Mohamed Abdalla is a Senior Soil Carbon researcher at University of Aberdeen in GB. With 124 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.131902
+date: 2026-08-11T01:33:11.110384
 url: "/cdr-researcher-census/researchers/mohamed-abdalla-a5042039/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Can cropland management practices lower net greenhouse emissions without compromising yield?** (2021)
-   139 citations · Soil Carbon
+   140 citations · Soil Carbon
 
 2. **Evaluation of the DNDC Model to Estimate Soil Parameters, Crop Yield and Nitrous Oxide Emissions for Alternative Long-Term Multi-Cropping Systems in the North China Plain** (2022)
    27 citations · Soil Carbon
@@ -59,11 +59,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **A systematic analysis and review of soil organic carbon stocks in urban greenspaces** (2024)
    15 citations · Soil Carbon
 
-4. **Predicting Long-Term Effects of Alternative Management Practices in Conventional and Organic Agricultural Systems on Soil Carbon Stocks Using the DayCent Model** (2023)
-   11 citations · Soil Carbon
+4. **Soil Carbon Sequestration and Biochar** (2022)
+   12 citations · Biochar
 
-5. **Soil Carbon Sequestration and Biochar** (2022)
-   11 citations · Biochar
+5. **Predicting Long-Term Effects of Alternative Management Practices in Conventional and Organic Agricultural Systems on Soil Carbon Stocks Using the DayCent Model** (2023)
+   11 citations · Soil Carbon
 
 6. **Metagenomic insights into the influence of soil microbiome on greenhouse gas emissions from paddy fields under varying irrigation and fertilisation regimes** (2025)
    9 citations · Soil Carbon

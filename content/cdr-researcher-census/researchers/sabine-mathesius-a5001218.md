@@ -1,7 +1,7 @@
 ---
 title: "Sabine Mathesius"
 description: "Sabine Mathesius is a Mid-career General CDR researcher at Leibniz Association in DE. With 32 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.657804
+date: 2026-08-11T01:33:11.582156
 url: "/cdr-researcher-census/researchers/sabine-mathesius-a5001218/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    15 citations · General CDR
 
 2. **Exploring Site‐Specific Carbon Dioxide Removal Options With Storage or Sequestration in the Marine Environment – The 10 Mt CO<sub>2</sub> yr<sup>−1</sup> Removal Challenge for Germany** (2025)
-   7 citations · General CDR
+   8 citations · General CDR
 
 3. **Temporary nature-based carbon removal can lower peak warming in a well-below 2&amp;#176;C scenario** (2022)
    1 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Aoyun Xue"
 description: "Aoyun Xue is a Mid-career General CDR researcher at University of California, Santa Barbara in US. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.250201
+date: 2026-08-11T01:33:12.128929
 url: "/cdr-researcher-census/researchers/aoyun-xue-a5060593/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Hysteresis of the El Niño–Southern Oscillation to CO <sub>2</sub> forcing** (2023)
-   37 citations · General CDR
+   38 citations · General CDR
 
 ## External Profiles
 

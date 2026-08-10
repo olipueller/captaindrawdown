@@ -1,7 +1,7 @@
 ---
 title: "Vincent Stevens"
 description: "Vincent Stevens is a Mid-career Soil Carbon researcher at Hasselt University in BE. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.358642
+date: 2026-08-11T01:33:11.319552
 url: "/cdr-researcher-census/researchers/vincent-stevens-a5037714/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Green Roof Substrate Microbes Compose a Core Community of Stress-Tolerant Taxa** (2024)
-   2 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 2. **Green Roof Substrate Microbes: Stress-Tolerant Communities Characterized by the Aeromicrobiome?** (2024)
    0 citations · Soil Carbon

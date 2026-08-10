@@ -1,7 +1,7 @@
 ---
 title: "Xiaohong Zhu"
 description: "Xiaohong Zhu is a Senior Biochar researcher at University of California, Berkeley in US. With 91 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.150779
+date: 2026-08-11T01:33:11.127765
 url: "/cdr-researcher-census/researchers/xiaohong-zhu-a5039299/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Cold-bonded biochar-cement lightweight aggregates for evaporation-enhanced permeable bricks** (2025)
-   17 citations · Biochar
+   18 citations · Biochar
 
 2. **Scaling biochar solutions for urban carbon dioxide removal** (2024)
-   16 citations · Biochar
+   17 citations · Biochar
 
 3. **Enhancing interface adhesion of 3D printable concrete by biochar integration** (2025)
    4 citations · Biochar

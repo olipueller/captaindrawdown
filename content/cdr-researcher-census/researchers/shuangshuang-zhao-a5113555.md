@@ -1,7 +1,7 @@
 ---
 title: "Shuangshuang Zhao"
 description: "Shuangshuang Zhao is a Senior Soil Carbon researcher at Hokkaido University in JP. With 31 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.284144
+date: 2026-08-11T01:33:12.156858
 url: "/cdr-researcher-census/researchers/shuangshuang-zhao-a5113555/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Five-year assessment of multiple inter-tillage weeding on greenhouse gas emissions, rice yield, and carbon balance in organic rice farming in Hokkaido, Japan** (2025)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 2. **Assessment of Multiple Inter-Tillage Weeding Over Five Years on Greenhouse Gas Emissions, Rice Yield, and Carbon Balance in Rice Paddy Field in Case of Hokkaido, Japan** (2025)
    1 citations · General CDR

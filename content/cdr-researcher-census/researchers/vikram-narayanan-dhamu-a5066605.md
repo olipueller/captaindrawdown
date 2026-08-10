@@ -1,7 +1,7 @@
 ---
 title: "Vikram Narayanan Dhamu"
 description: "Vikram Narayanan Dhamu is a Mid-career Soil Carbon researcher at The University of Texas at Dallas in US. With 72 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.458379
+date: 2026-08-11T01:33:11.405357
 url: "/cdr-researcher-census/researchers/vikram-narayanan-dhamu-a5066605/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **E-SCAN: Electrochemical Scanning of Carbonates, an In Situ Approach for Screening and Quantifying Inorganic Carbon in Soil** (2023)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 2. **ASSERT: A Platform Technology for Rapid Electrochemical Sensing of Soil Ammonium** (2024)
    9 citations

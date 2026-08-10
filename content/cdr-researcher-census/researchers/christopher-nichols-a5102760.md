@@ -1,7 +1,7 @@
 ---
 title: "Christopher Nichols"
 description: "Christopher Nichols is a Senior DAC researcher. With 38 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.313151
+date: 2026-08-11T01:33:11.279632
 url: "/cdr-researcher-census/researchers/christopher-nichols-a5102760/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Impact of carbon dioxide removal technologies on deep decarbonization: EMF37 MARKAL–NETL modeling results** (2024)
-   3 citations · BECCS
+   4 citations · BECCS
 
 2. **Techno-economic Tool for Evaluating Direct Air Capture System Performance: A Case Study across U.S. Cities** (2024)
    0 citations · DAC

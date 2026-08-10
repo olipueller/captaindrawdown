@@ -1,7 +1,7 @@
 ---
 title: "Dante Simonetti"
 description: "Dante Simonetti is a Senior Ocean CDR researcher at University of California, Los Angeles in US. With 70 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.134797
+date: 2026-08-11T01:33:11.113234
 url: "/cdr-researcher-census/researchers/dante-simonetti-a5044603/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Electrolytic Seawater Mineralization and the Mass Balances That Demonstrate Carbon Dioxide Removal** (2023)
-   66 citations · Ocean CDR
+   70 citations · Ocean CDR
 
 2. **Controls on CO<sub>2</sub> Mineralization Using Natural and Industrial Alkaline Solids under Ambient Conditions** (2021)
-   62 citations · Enhanced Weathering
+   64 citations · Enhanced Weathering
 
 3. **Process Simulations Reveal the Carbon Dioxide Removal Potential of a Process That Mineralizes Industrial Waste Streams via an Ion Exchange-Based Regenerable pH Swing** (2022)
    9 citations · Enhanced Weathering

@@ -1,7 +1,7 @@
 ---
 title: "Paulína Nalevanková"
 description: "Paulína Nalevanková is a Mid-career Soil Carbon researcher at Technická univerzita vo Zvolene in SK. With 25 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.109869
+date: 2026-08-11T01:33:12.000431
 url: "/cdr-researcher-census/researchers/paulina-nalevankova-a5005688/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Norway spruce monoculture has lower resilience and carbon sequestration capacity than a more diverse broadleaved forest: A case study in Central Europe** (2025)
-   6 citations
+   7 citations
 
 2. **Norway Spruce Monoculture Has Lower Resilience and Carbon Sequestration Capacity than More Diverse Broadleaved Forest in Central Europe** (2025)
    0 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Cody Shaw"
 description: "Cody Shaw is a Senior Ocean CDR researcher at Stony Brook University in US. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.238845
+date: 2026-08-11T01:33:12.118532
 url: "/cdr-researcher-census/researchers/cody-shaw-a5102793/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **An assessment of ocean alkalinity enhancement using aqueous hydroxides: kinetics, efficiency, and precipitation thresholds** (2024)
-   27 citations · Ocean CDR
+   28 citations · Ocean CDR
 
 2. **Using magnesium hydroxide for ocean alkalinity enhancement: elucidating the role of formation conditions on material properties and dissolution kinetics** (2025)
    6 citations · Ocean CDR

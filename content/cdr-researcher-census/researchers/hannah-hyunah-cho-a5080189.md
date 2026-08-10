@@ -1,7 +1,7 @@
 ---
 title: "Hannah Hyunah Cho"
 description: "Hannah Hyunah Cho is a Mid-career General CDR researcher at Macquarie University in AU. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.586948
+date: 2026-08-11T01:33:11.518601
 url: "/cdr-researcher-census/researchers/hannah-hyunah-cho-a5080189/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Life cycle assessment of power-to-methane and renewable methane production technologies** (2024)
-   21 citations · Biochar
+   24 citations · Biochar
 
 2. **Life Cycle Assessment of Renewable Methane Production Technologies** (2024)
    0 citations · General CDR

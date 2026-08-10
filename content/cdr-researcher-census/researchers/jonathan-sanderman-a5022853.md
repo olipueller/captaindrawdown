@@ -1,7 +1,7 @@
 ---
 title: "Jonathan Sanderman"
 description: "Jonathan Sanderman is an Eminent Soil Carbon researcher at Woodwell Climate Research Center in US. With 253 publications and an h-index of 58, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.083980
+date: 2026-08-11T01:33:11.065401
 url: "/cdr-researcher-census/researchers/jonathan-sanderman-a5022853/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Future carbon emissions from global mangrove forest loss** (2021)
-   239 citations · General CDR
+   244 citations · General CDR
 
 2. **The global potential for increased storage of carbon on land** (2022)
-   229 citations · General CDR
+   235 citations · General CDR
 
 3. **Crediting agricultural soil carbon sequestration** (2022)
-   197 citations · General CDR
+   203 citations · General CDR
 
 4. **Declines in soil carbon storage under no tillage can be alleviated in the long run** (2022)
-   101 citations · Soil Carbon
+   102 citations · Soil Carbon
 
 5. **Potential of globally distributed topsoil mid-infrared spectral library for organic carbon estimation** (2023)
    30 citations · Soil Carbon
@@ -69,7 +69,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    26 citations · General CDR
 
 7. **Greenhouse gas mitigation on croplands: clarifying the debate on knowns, unknowns and risks to move forward with effective management interventions** (2024)
-   23 citations · General CDR
+   24 citations · General CDR
 
 8. **Can Agricultural Management Induced Changes in Soil Organic Carbon Be Detected Using Mid-Infrared Spectroscopy?** (2021)
    20 citations · Soil Carbon
@@ -78,7 +78,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    18 citations · General CDR
 
 10. **Comparison of pyrogenic carbon abundance in coarse-textured soil by hydrogen pyrolysis, NMR and dichromate oxidation and MIR-PLSR** (2025)
-   5 citations · Biochar
+   6 citations · Biochar
 
 ## External Profiles
 

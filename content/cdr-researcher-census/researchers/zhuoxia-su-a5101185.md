@@ -1,7 +1,7 @@
 ---
 title: "Zhuoxia Su"
 description: "Zhuoxia Su is a Mid-career Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.160241
+date: 2026-08-11T01:33:12.046893
 url: "/cdr-researcher-census/researchers/zhuoxia-su-a5101185/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,13 +48,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Vegetation restoration altered the soil organic carbon composition and favoured its stability in a Robinia pseudoacacia plantation** (2023)
-   64 citations · Soil Carbon
+   68 citations · Soil Carbon
 
 2. **Nitrogen addition decreases the soil cumulative priming effect and favours soil net carbon gains in Robinia pseudoacacia plantation soil** (2023)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 3. **Vegetation restoration changed the soil aggregate stability and aggregate carbon stabilization pathway according to δ13C signatures** (2024)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 ## External Profiles
 

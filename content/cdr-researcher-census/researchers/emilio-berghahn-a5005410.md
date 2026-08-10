@@ -1,7 +1,7 @@
 ---
 title: "Emílio Berghahn"
 description: "Emílio Berghahn is a Mid-career Biochar researcher at Univates in BR. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.549279
+date: 2026-08-11T01:33:12.398434
 url: "/cdr-researcher-census/researchers/emilio-berghahn-a5005410/"
 layout: "researcher"
 hiddenInHomeList: true

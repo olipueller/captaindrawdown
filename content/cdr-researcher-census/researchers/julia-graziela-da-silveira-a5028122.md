@@ -1,7 +1,7 @@
 ---
 title: "Júlia Graziela da Silveira"
 description: "Júlia Graziela da Silveira is a Mid-career Soil Carbon researcher at Universidade Federal de Viçosa in BR. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.299727
+date: 2026-08-11T01:33:12.170332
 url: "/cdr-researcher-census/researchers/julia-graziela-da-silveira-a5028122/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    17 citations · General CDR
 
 2. **Land use change effect on organic matter dynamics and soil carbon sequestration in the Brazilian Cerrado: A study case in Mato Grosso do Sul state (Midwest-Brazil)** (2024)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 3. **Understanding the flux of nitrous oxide from the eucalypt soil in monoculture and Integrated Crop–Livestock–Forest systems** (2022)
    2 citations · Soil Carbon

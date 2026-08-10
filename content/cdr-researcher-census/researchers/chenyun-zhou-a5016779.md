@@ -1,7 +1,7 @@
 ---
 title: "Chenyun Zhou"
 description: "Chenyun Zhou is a Mid-career Biochar researcher at Central South University in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.675796
+date: 2026-08-11T01:33:11.598022
 url: "/cdr-researcher-census/researchers/chenyun-zhou-a5016779/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Highly efficient catalytic hydrogenation of nitrophenols by sewage sludge derived biochar** (2021)
-   94 citations · Biochar
+   96 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Michał Dudek"
 description: "Michał Dudek is a Mid-career Biochar researcher at Geological Institute in RU. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.937109
+date: 2026-08-11T01:33:11.833181
 url: "/cdr-researcher-census/researchers/micha-dudek-a5063915/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Enzyme Activity and Dissolved Organic Carbon Content in Soils Amended with Different Types of Biochar and Exogenous Organic Matter** (2023)
-   14 citations
+   15 citations
 
 2. **Enzyme Activity and Dissolved Organic Carbon Content in Soils Amended with Different Types of Biochar and Exogenous Organic Matter** (2023)
    7 citations · Biochar

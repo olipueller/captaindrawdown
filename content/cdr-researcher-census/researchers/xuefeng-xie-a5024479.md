@@ -1,7 +1,7 @@
 ---
 title: "Xuefeng Xie"
 description: "Xuefeng Xie is a Mid-career Soil Carbon researcher at Zhejiang Normal University in CN. With 57 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.285787
+date: 2026-08-11T01:33:11.253595
 url: "/cdr-researcher-census/researchers/xuefeng-xie-a5024479/"
 layout: "researcher"
 hiddenInHomeList: true

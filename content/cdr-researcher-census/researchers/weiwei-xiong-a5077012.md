@@ -1,7 +1,7 @@
 ---
 title: "Weiwei Xiong"
 description: "Weiwei Xiong is a Senior General CDR researcher at Laboratoire des Sciences du Climat et de l'Environnement in FR. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.626132
+date: 2026-08-11T01:33:11.553563
 url: "/cdr-researcher-census/researchers/weiwei-xiong-a5077012/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Atmospheric methane removal as a third climate intervention: termination risks and air pollutant effects** (2026)
-   0 citations · General CDR
+   1 citations · General CDR
 
 2. **Atmospheric Methane Removal as a Third Climate Intervention: Termination Risks and Air Pollutant Effects** (2026)
    0 citations

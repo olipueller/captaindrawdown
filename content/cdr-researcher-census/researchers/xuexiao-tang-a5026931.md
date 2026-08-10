@@ -1,7 +1,7 @@
 ---
 title: "Xuexiao Tang"
 description: "Xuexiao Tang is a Mid-career Soil Carbon researcher. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.567277
+date: 2026-08-11T01:33:12.411232
 url: "/cdr-researcher-census/researchers/xuexiao-tang-a5026931/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil Bacteria Mediate Soil Organic Carbon Sequestration under Different Tillage and Straw Management in Rice-Wheat Cropping Systems** (2022)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 ## External Profiles
 

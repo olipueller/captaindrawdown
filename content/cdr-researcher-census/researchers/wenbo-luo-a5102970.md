@@ -1,7 +1,7 @@
 ---
 title: "Wenbo Luo"
 description: "Wenbo Luo is a Senior Soil Carbon researcher at Northeast Normal University in CN. With 40 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.435827
+date: 2026-08-11T01:33:11.386512
 url: "/cdr-researcher-census/researchers/wenbo-luo-a5102970/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Fallow Land Enhances Carbon Sequestration in Glomalin and Soil Aggregates Through Regulating Diversity and Network Complexity of Arbuscular Mycorrhizal Fungi Under Climate Change in Relatively High-Latitude Regions** (2022)
-   35 citations · Soil Carbon
+   37 citations · Soil Carbon
 
 2. **Soil Microbial Carbon Use Efficiency in Natural Terrestrial Ecosystems** (2025)
    8 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Haonan Wang"
 description: "Haonan Wang is a Mid-career Biochar researcher at Ocean University of China in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.141023
+date: 2026-08-11T01:33:12.029712
 url: "/cdr-researcher-census/researchers/haonan-wang-a5100342/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yelin Zeng"
 description: "Yelin Zeng is a Senior Soil Carbon researcher at Central South University of Forestry and Technology in CN. With 87 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.181415
+date: 2026-08-11T01:33:11.156417
 url: "/cdr-researcher-census/researchers/yelin-zeng-a5003167/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Rotation age extension synergistically increases ecosystem carbon storage and timber production of Chinese fir plantations in southern China** (2022)
-   41 citations · Soil Carbon
+   47 citations · Soil Carbon
 
 2. **rTRIPLEXCWFlux: An R package for carbon–water coupling model to simulate net ecosystem productivity and evapotranspiration in forests** (2023)
    8 citations · Soil Carbon

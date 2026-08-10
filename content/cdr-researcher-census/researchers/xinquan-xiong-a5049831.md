@@ -1,7 +1,7 @@
 ---
 title: "Xinquan Xiong"
 description: "Xinquan Xiong is an Early-career Biochar researcher at Zhejiang University in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.690517
+date: 2026-08-11T01:33:11.611655
 url: "/cdr-researcher-census/researchers/xinquan-xiong-a5049831/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Association of biochar properties with changes in soil bacterial, fungal and fauna communities and nutrient cycling processes** (2021)
-   344 citations · Biochar
+   356 citations · Biochar
 
 ## External Profiles
 

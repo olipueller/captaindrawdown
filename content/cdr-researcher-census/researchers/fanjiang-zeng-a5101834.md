@@ -1,7 +1,7 @@
 ---
 title: "Fanjiang Zeng"
 description: "Fanjiang Zeng is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 158 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.151886
+date: 2026-08-11T01:33:11.128869
 url: "/cdr-researcher-census/researchers/fanjiang-zeng-a5101834/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    45 citations · Biochar
 
 2. **Response of topsoil Fe-bound organic carbon pool and microbial community to Spartina alterniflora invasion in coastal wetlands** (2023)
-   27 citations · Soil Carbon
+   29 citations · Soil Carbon
 
 3. **Microaggregates regulate the soil organic carbon sequestration and carbon flow of windproof sand fixation forests in desert ecosystems** (2024)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 4. **Soil minerals regulate soil organic carbon accumulation through glomalin-related soil protein along an elevation gradient in a mountain arid ecosystem** (2025)
    10 citations · Soil Carbon
@@ -65,11 +65,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 5. **Soil carbon pools and microbial network stability depletion associated with wetland conversion into aquaculture ponds in Southeast China** (2024)
    10 citations · Soil Carbon
 
-6. **Grazing exclusion significantly reduced soil organic carbon stocks but enhanced soil inorganic carbon stocks in desert steppe of northwest China** (2025)
-   7 citations · Soil Carbon
+6. **Desert ecosystems as carbon frontiers: innovations in sequestration and climate adaptation strategies** (2025)
+   8 citations · Soil Carbon
 
-7. **Desert ecosystems as carbon frontiers: innovations in sequestration and climate adaptation strategies** (2025)
-   6 citations · Soil Carbon
+7. **Grazing exclusion significantly reduced soil organic carbon stocks but enhanced soil inorganic carbon stocks in desert steppe of northwest China** (2025)
+   7 citations · Soil Carbon
 
 8. **Synergistic plant-fungal interactions under Phragmites australis - mangrove mixed growth regimes boost particulate organic carbon sequestration in estuarine wetlands** (2025)
    3 citations · Ocean CDR

@@ -1,7 +1,7 @@
 ---
 title: "Friedrich Fink"
 description: "Friedrich Fink is a Senior Biochar researcher at Federal Institute For Materials Research and Testing in DE. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.380088
+date: 2026-08-11T01:33:12.242119
 url: "/cdr-researcher-census/researchers/friedrich-fink-a5052698/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Persulfate activation by biochar for trace organic contaminant removal from urban stormwater** (2025)
-   14 citations · Biochar
+   16 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Yulong Shi"
 description: "Yulong Shi is a Senior Soil Carbon researcher at Chinese Academy of Agricultural Sciences in CN. With 42 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.392455
+date: 2026-08-11T01:33:11.348101
 url: "/cdr-researcher-census/researchers/yulong-shi-a5069726/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -56,10 +56,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 2. **Plastic mulching in agriculture: Dual effects on soil carbon and enzyme activity versus microplastic and phthalate contamination** (2025)
    2 citations · Soil Carbon
 
-3. **Organic amendments alleviate SOC loss from erosion-prone sloping farmland by enhancing physical protection and chemical stabilization** (2026)
+3. **Microbial adaptation to water erosion stress accelerated organic carbon decomposition** (2026)
    0 citations · Soil Carbon
 
-4. **Competitive equilibrium between carbon loss and sequestration driven by erosion: Stratified responses of microbial metabolism and mineral protection** (2026)
+4. **Organic amendments alleviate SOC loss from erosion-prone sloping farmland by enhancing physical protection and chemical stabilization** (2026)
+   0 citations · Soil Carbon
+
+5. **Competitive equilibrium between carbon loss and sequestration driven by erosion: Stratified responses of microbial metabolism and mineral protection** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

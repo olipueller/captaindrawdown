@@ -1,7 +1,7 @@
 ---
 title: "Amin Sharififar"
 description: "Amin Sharififar is a Mid-career Soil Carbon researcher at International Labour Organization in CH. With 37 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.471813
+date: 2026-08-11T01:33:11.416558
 url: "/cdr-researcher-census/researchers/amin-sharififar-a5044592/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil inorganic carbon, the other and equally important soil carbon pool: Distribution, controlling factors, and the impact of climate change** (2023)
-   111 citations · Soil Carbon
+   116 citations · Soil Carbon
 
 2. **Keeping thinning-derived deadwood logs on forest floor improves soil organic carbon, microbial biomass, and enzyme activity in a temperate spruce forest** (2022)
-   25 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 3. **Impact of spruce deadwood logs on physical properties of a loamy sand Podzol in a steep temperate forest** (2024)
    4 citations · Soil Carbon

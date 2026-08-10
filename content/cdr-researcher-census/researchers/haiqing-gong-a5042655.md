@@ -1,7 +1,7 @@
 ---
 title: "Haiqing Gong"
 description: "Haiqing Gong is a Mid-career Soil Carbon researcher at China Agricultural University in CN. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.868374
+date: 2026-08-11T01:33:11.770304
 url: "/cdr-researcher-census/researchers/haiqing-gong-a5042655/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,13 +48,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Underestimated sequestration of soil organic carbon in China** (2025)
-   24 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 2. **Integrated soil–crop system management stabilizes soil organic carbon in saline soils via calcium-mediated synergy between microbial and mineral carbon pumps** (2026)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 3. **Pursuing zero net greenhouse gas emission in crop production in China** (2025)
-   1 citations · General CDR
+   2 citations · General CDR
 
 4. **Global patterns of soil organic carbon dynamics in the 20–100 cm soil profile for different ecosystems: A global meta-analysis** (2023)
    1 citations · Soil Carbon

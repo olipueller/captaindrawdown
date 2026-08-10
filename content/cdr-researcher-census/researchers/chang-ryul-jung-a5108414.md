@@ -1,7 +1,7 @@
 ---
 title: "Chang Ryul Jung"
 description: "Chang Ryul Jung is a Senior DAC researcher at Samsung (South Korea) in KR. With 16 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.323131
+date: 2026-08-11T01:33:11.288292
 url: "/cdr-researcher-census/researchers/chang-ryul-jung-a5108414/"
 layout: "researcher"
 hiddenInHomeList: true

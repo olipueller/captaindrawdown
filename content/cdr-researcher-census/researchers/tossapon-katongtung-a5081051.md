@@ -1,7 +1,7 @@
 ---
 title: "Tossapon Katongtung"
 description: "Tossapon Katongtung is a Mid-career Biochar researcher at Khon Kaen University in TH. With 35 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.574392
+date: 2026-08-11T01:33:11.506969
 url: "/cdr-researcher-census/researchers/tossapon-katongtung-a5081051/"
 layout: "researcher"
 hiddenInHomeList: true

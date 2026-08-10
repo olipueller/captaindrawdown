@@ -1,7 +1,7 @@
 ---
 title: "Vadakkeveedu Narayan Amrish"
 description: "Vadakkeveedu Narayan Amrish is a Mid-career Ocean CDR researcher at Manipal Academy of Higher Education in IN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.182347
+date: 2026-08-11T01:33:12.066928
 url: "/cdr-researcher-census/researchers/vadakkeveedu-narayan-amrish-a5082825/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Dissolved carbon and silica fluxes from Kali, Sharavati and Sita-Swarna rivers, Southwestern India** (2021)
-   8 citations · Ocean CDR
+   9 citations · Ocean CDR
+
+2. **Dissolved nutrient (DOC, DSi and nitrate) dynamics of a regulated tropical river from Western Ghats, Sharavati: emphasis on cyclone-enhanced monsoons** (2026)
+   0 citations
 
 ## External Profiles
 

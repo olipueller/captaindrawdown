@@ -1,7 +1,7 @@
 ---
 title: "Lucy Amissah"
 description: "Lucy Amissah is a Mid-career Soil Carbon researcher at Twitter (United States) in US. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.327019
+date: 2026-08-11T01:33:11.291817
 url: "/cdr-researcher-census/researchers/lucy-amissah-a5107335/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Breaking down to build up: litter decomposition drives soil organic carbon accumulation in young secondary forests** (2025)
-   3 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 ## External Profiles
 

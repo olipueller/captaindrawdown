@@ -1,7 +1,7 @@
 ---
 title: "Jieqiong Yao"
 description: "Jieqiong Yao is a Mid-career General CDR researcher at Huazhong Agricultural University in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.216289
+date: 2026-08-11T01:33:12.098084
 url: "/cdr-researcher-census/researchers/jieqiong-yao-a5101205/"
 layout: "researcher"
 hiddenInHomeList: true

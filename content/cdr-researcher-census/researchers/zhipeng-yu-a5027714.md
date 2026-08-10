@@ -1,7 +1,7 @@
 ---
 title: "Zhipeng Yu"
 description: "Zhipeng Yu is a Senior DAC researcher at Hefei University of Technology in CN. With 39 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.566356
+date: 2026-08-11T01:33:11.499689
 url: "/cdr-researcher-census/researchers/zhipeng-yu-a5027714/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Feasibility study of renewable e-methanol production: A substitution pathway from blue to green** (2024)
-   14 citations · DAC
+   16 citations · DAC
 
 2. **Achieving 100 % renewable e-methanol incorporating biomass-fired generation: A techno-economic study** (2025)
    10 citations · BECCS

@@ -1,7 +1,7 @@
 ---
 title: "Yinxiu Liu"
 description: "Yinxiu Liu is an Early-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.580648
+date: 2026-08-11T01:33:12.418972
 url: "/cdr-researcher-census/researchers/yinxiu-liu-a5070812/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The enhanced nitrous oxide emissions are driven by prokaryotic ammonia oxidizers and nirK-denitrifiers under various combinations of nitrogen and rice straw in a paddy soil** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

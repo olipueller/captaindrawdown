@@ -1,7 +1,7 @@
 ---
 title: "Joseph P. Amsili"
 description: "Joseph P. Amsili is a Mid-career Soil Carbon researcher at Cornell University in US. With 36 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.359156
+date: 2026-08-11T01:33:11.320002
 url: "/cdr-researcher-census/researchers/joseph-p-amsili-a5062118/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Cover crop functional types differentially alter the content and composition of soil organic carbon in particulate and mineral‐associated fractions** (2022)
-   177 citations · Soil Carbon
+   187 citations · Soil Carbon
 
 2. **Lowering soil greenhouse gas emissions without sacrificing yields by increasing crop rotation diversity in the North China Plain** (2021)
-   51 citations · Soil Carbon
+   52 citations · Soil Carbon
 
 ## External Profiles
 

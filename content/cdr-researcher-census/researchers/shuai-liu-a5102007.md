@@ -1,7 +1,7 @@
 ---
 title: "Shuai Liu"
 description: "Shuai Liu is a Senior DAC researcher at Tianjin University of Technology and Education in CN. With 37 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.515647
+date: 2026-08-11T01:33:11.454234
 url: "/cdr-researcher-census/researchers/shuai-liu-a5102007/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Integrated power to methanol processes with steam-assisted direct air capture** (2025)
-   6 citations · DAC
+   9 citations · DAC
 
 2. **Integrated Power to Methanol Processes with Steam-Assisted Direct Air Capture** (2024)
    0 citations · DAC

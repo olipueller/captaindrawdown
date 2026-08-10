@@ -1,7 +1,7 @@
 ---
 title: "Venkat Durvasulu"
 description: "Venkat Durvasulu is a Mid-career DAC researcher at Idaho National Laboratory in US. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.288223
+date: 2026-08-11T01:33:12.160088
 url: "/cdr-researcher-census/researchers/venkat-durvasulu-a5040055/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Assessment of Nuclear Energy to Support Negative Emission Technologies** (2023)
-   12 citations · DAC
+   13 citations · DAC
 
 2. **Multiscale Electricity Modeling for Evaluating Carbon Capture and Sequestration Technologies (Final Report)** (2023)
    0 citations · DAC

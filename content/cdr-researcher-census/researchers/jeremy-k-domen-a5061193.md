@@ -1,7 +1,7 @@
 ---
 title: "Jeremy K. Domen"
 description: "Jeremy K. Domen is a Mid-career DAC researcher at Healthy Start in US. With 30 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.346128
+date: 2026-08-11T01:33:11.309219
 url: "/cdr-researcher-census/researchers/jeremy-k-domen-a5061193/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Life cycle impact and cost analysis of quarry materials for land-based enhanced weathering in Northern California** (2024)
-   12 citations · DAC
+   13 citations · DAC
 
 2. **Economical deployment of quarry minerals for land-based enhanced weathering in Northern California** (2024)
    1 citations · DAC

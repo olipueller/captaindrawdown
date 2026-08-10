@@ -1,7 +1,7 @@
 ---
 title: "Guoyin Yuan"
 description: "Guoyin Yuan is a Mid-career Soil Carbon researcher at Lishui University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.696071
+date: 2026-08-11T01:33:11.616372
 url: "/cdr-researcher-census/researchers/guoyin-yuan-a5073911/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of straw incorporation and potassium fertilizer on crop yields, soil organic carbon, and active carbon in the rice–wheat system** (2021)
-   133 citations · Soil Carbon
+   134 citations · Soil Carbon
 
 2. **Mung Bean Is Better Than Soybean in the Legume–Wheat Rotation System for Soil Carbon and Nitrogen Sequestration in Calcareous Soils of a Semiarid Region** (2023)
    5 citations · Soil Carbon

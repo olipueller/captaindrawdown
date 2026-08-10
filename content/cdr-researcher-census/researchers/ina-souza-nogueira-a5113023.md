@@ -1,7 +1,7 @@
 ---
 title: "Ina Souza Nogueira"
 description: "Ina Souza Nogueira is a Senior Enhanced Weathering researcher. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.225795
+date: 2026-08-11T01:33:12.106495
 url: "/cdr-researcher-census/researchers/ina-souza-nogueira-a5113023/"
 layout: "researcher"
 hiddenInHomeList: true

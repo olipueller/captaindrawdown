@@ -1,7 +1,7 @@
 ---
 title: "Shuo Wang"
 description: "Shuo Wang is a Mid-career Soil Carbon researcher at Shandong University in CN. With 32 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.246948
+date: 2026-08-11T01:33:12.125921
 url: "/cdr-researcher-census/researchers/shuo-wang-a5100400/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Negative emission potential from biomass/waste combined heat and power plants integrated with CO2 capture: An approach from the national perspective** (2024)
-   7 citations · BECCS
+   8 citations · BECCS
 
 2. **Climate change poses risks to water retention and carbon sequestration capacity in the source area of the Yangtze River** (2025)
    2 citations · Soil Carbon

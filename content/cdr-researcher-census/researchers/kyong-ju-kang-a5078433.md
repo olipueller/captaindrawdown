@@ -1,7 +1,7 @@
 ---
 title: "Kyong Ju Kang"
 description: "Kyong Ju Kang is a Mid-career BECCS researcher at Zhejiang University in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.810661
+date: 2026-08-11T01:33:11.719065
 url: "/cdr-researcher-census/researchers/kyong-ju-kang-a5078433/"
 layout: "researcher"
 hiddenInHomeList: true

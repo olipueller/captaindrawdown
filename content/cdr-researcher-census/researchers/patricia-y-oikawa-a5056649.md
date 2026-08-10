@@ -1,7 +1,7 @@
 ---
 title: "Patricia Y. Oikawa"
 description: "Patricia Y. Oikawa is a Senior Soil Carbon researcher at Cal State East Bay in US. With 66 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.190781
+date: 2026-08-11T01:33:11.165355
 url: "/cdr-researcher-census/researchers/patricia-y-oikawa-a5056649/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    100 citations · General CDR
 
 2. **Practical Guide to Measuring Wetland Carbon Pools and Fluxes** (2023)
-   80 citations
+   84 citations
 
 3. **Tidal and Nontidal Marsh Restoration: A Trade‐Off Between Carbon Sequestration, Methane Emissions, and Soil Accretion** (2021)
-   54 citations · Ocean CDR
+   56 citations · Ocean CDR
 
 4. **Investigating Ecosystem-Scale Responses to Compost Amendments in a Grazed Grassland** (2023)
    9 citations · Soil Carbon

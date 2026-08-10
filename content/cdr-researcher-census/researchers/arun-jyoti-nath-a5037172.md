@@ -1,7 +1,7 @@
 ---
 title: "Arun Jyoti Nath"
 description: "Arun Jyoti Nath is a Senior Soil Carbon researcher at Assam University in IN. With 235 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.128104
+date: 2026-08-11T01:33:11.106736
 url: "/cdr-researcher-census/researchers/arun-jyoti-nath-a5037172/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Degraded land rehabilitation through agroforestry in India: Achievements, current understanding, and future prospectives** (2023)
-   110 citations · Soil Carbon
+   119 citations · Soil Carbon
 
 2. **Quantifying Tree Diversity, Carbon Stocks, and Sequestration Potential for Diverse Land Uses in Northeast India** (2021)
-   71 citations · General CDR
+   73 citations · General CDR
 
 3. **Threats to inland wetlands and uncertainty around global soil carbon stocks and sequestration rates** (2024)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 4. **Variation in biomass and soil carbon storage and sequestration rates in different agroforestry systems with climatic zones and soil types** (2025)
    14 citations · General CDR
@@ -66,7 +66,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    13 citations · Soil Carbon
 
 6. **Biodiversity and Ecosystems Services of the Agroforestry Systems of the Himalayan Region: An Overview** (2023)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 7. **Carbon Farming with Bamboos in India: Opportunities and Challenges** (2022)
    5 citations · General CDR
@@ -75,7 +75,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    4 citations · General CDR
 
 9. **Significance of land management practices under haskap orchards to mitigate the degradations of soil organic carbon stocks and soil health because of land use changes from forest and grassland** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 10. **Biochar-Mediated Soil Amendment for Sustainable Agriculture** (2025)
    1 citations · Biochar

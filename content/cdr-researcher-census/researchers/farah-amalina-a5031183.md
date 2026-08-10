@@ -1,7 +1,7 @@
 ---
 title: "Farah Amalina"
 description: "Farah Amalina is a Mid-career Biochar researcher at Universiti Malaysia Pahang Al-Sultan Abdullah in MY. With 26 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.290975
+date: 2026-08-11T01:33:11.258804
 url: "/cdr-researcher-census/researchers/farah-amalina-a5031183/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar production techniques utilizing biomass waste-derived materials and environmental applications – A review** (2022)
-   333 citations · Biochar
+   339 citations · Biochar
 
 2. **Advanced techniques in the production of biochar from lignocellulosic biomass and environmental applications** (2022)
    158 citations · Biochar
@@ -57,7 +57,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    68 citations · Biochar
 
 4. **Pristine and modified biochar applications as multifunctional component towards sustainable future: Recent advances and new insights** (2023)
-   38 citations · Biochar
+   40 citations · Biochar
 
 5. **Comprehensive assessment of biochar integration in agricultural soil conditioning: Advantages, drawbacks, and future prospects** (2023)
    19 citations · Biochar

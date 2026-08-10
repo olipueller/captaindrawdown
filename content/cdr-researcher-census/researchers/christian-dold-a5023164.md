@@ -1,7 +1,7 @@
 ---
 title: "Christian Dold"
 description: "Christian Dold is a Senior Soil Carbon researcher at Aarhus University in DK. With 93 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.172329
+date: 2026-08-11T01:33:11.148083
 url: "/cdr-researcher-census/researchers/christian-dold-a5023164/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Scoping carbon dioxide removal options for Germany–What is their potential contribution to Net-Zero CO2?** (2022)
-   36 citations · General CDR
+   37 citations · General CDR
 
 2. **A Comprehensive Assessment of Carbon Dioxide Removal Options for Germany** (2024)
-   22 citations · BECCS
+   24 citations · BECCS
 
 3. **A Comprehensive Assessment of Carbon Dioxide Removal Options for Germany** (2023)
    1 citations

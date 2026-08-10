@@ -1,7 +1,7 @@
 ---
 title: "Xujiao Zhou"
 description: "Xujiao Zhou is a Mid-career Soil Carbon researcher at Gansu Academy of Agricultural Sciences in CN. With 31 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.975707
+date: 2026-08-11T01:33:11.854483
 url: "/cdr-researcher-census/researchers/xujiao-zhou-a5055344/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Exploring the Potential of Straw and Biochar Application on Soil Quality Indicators and Crop Yield in Semi-arid Regions** (2024)
-   25 citations · Biochar
+   26 citations · Biochar
 
 2. **How manure amendment counters no-tillage yield reduction in winter wheat: enhanced nitrogen components and soil enzyme activity** (2026)
    0 citations · Soil Carbon

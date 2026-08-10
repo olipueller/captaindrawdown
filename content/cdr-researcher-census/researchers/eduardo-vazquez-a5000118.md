@@ -1,7 +1,7 @@
 ---
 title: "Eduardo Vázquez"
 description: "Eduardo Vázquez is a Senior Soil Carbon researcher at Technical University of Madrid in ES. With 64 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.302662
+date: 2026-08-11T01:33:11.269818
 url: "/cdr-researcher-census/researchers/eduardo-vazquez-a5000118/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Tapping Into the Environmental Co-benefits of Improved Tropical Forages for an Agroecological Transformation of Livestock Production Systems** (2021)
-   39 citations · General CDR
+   41 citations · General CDR
 
 2. **What evidence exists relating the impact of different grassland management practices to soil carbon in livestock systems? A systematic map protocol** (2024)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 3. **Grasslands and soil carbon: What can livestock management practices teach us? A global map of scientific knowledge** (2026)
    0 citations · Soil Carbon

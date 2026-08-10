@@ -1,7 +1,7 @@
 ---
 title: "Rakibul I. Khan"
 description: "Rakibul I. Khan is a Mid-career Biochar researcher at Bethany College - West Virginia in US. With 16 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.504901
+date: 2026-08-11T01:33:11.444901
 url: "/cdr-researcher-census/researchers/rakibul-i-khan-a5040272/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Production of sustainable, low-permeable and self-sensing cementitious composites using biochar** (2021)
-   48 citations · Biochar
+   50 citations · Biochar
 
 ## External Profiles
 

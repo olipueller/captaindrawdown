@@ -1,7 +1,7 @@
 ---
 title: "Eloisa Aparecida Belleza Ferreira"
 description: "Eloisa Aparecida Belleza Ferreira is a Senior Soil Carbon researcher at Brazilian Agricultural Research Corporation in BR. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.979295
+date: 2026-08-11T01:33:11.857585
 url: "/cdr-researcher-census/researchers/eloisa-aparecida-belleza-ferreira-a5034055/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon Storage in Different Compartments in Eucalyptus Stands and Native Cerrado Vegetation** (2023)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 ## External Profiles
 

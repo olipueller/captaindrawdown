@@ -1,7 +1,7 @@
 ---
 title: "Cristina Antonini"
 description: "Cristina Antonini is a Mid-career BECCS researcher at ETH Zurich in CH. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.331219
+date: 2026-08-11T01:33:11.295628
 url: "/cdr-researcher-census/researchers/cristina-antonini-a5017639/"
 layout: "researcher"
 hiddenInHomeList: true

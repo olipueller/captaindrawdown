@@ -1,7 +1,7 @@
 ---
 title: "Cedric Goossens"
 description: "Cedric Goossens is a Mid-career Enhanced Weathering researcher at University of Liège in BE. With 20 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.500370
+date: 2026-08-11T01:33:12.353279
 url: "/cdr-researcher-census/researchers/cedric-goossens-a5048469/"
 layout: "researcher"
 hiddenInHomeList: true

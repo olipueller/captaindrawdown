@@ -1,7 +1,7 @@
 ---
 title: "M. Srinivas Kini"
 description: "M. Srinivas Kini is a Mid-career Biochar researcher at Manipal Academy of Higher Education in IN. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.623363
+date: 2026-08-11T01:33:11.551108
 url: "/cdr-researcher-census/researchers/m-srinivas-kini-a5027150/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A comprehensive review of production and characterization of biochar for removal of organic pollutants from water and wastewater** (2024)
-   46 citations · Biochar
+   48 citations · Biochar
 
 ## External Profiles
 

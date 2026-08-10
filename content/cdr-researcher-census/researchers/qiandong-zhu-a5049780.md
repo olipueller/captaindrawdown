@@ -1,7 +1,7 @@
 ---
 title: "Qiandong Zhu"
 description: "Qiandong Zhu is a Mid-career Soil Carbon researcher at Jinan University in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.444346
+date: 2026-08-11T01:33:12.302246
 url: "/cdr-researcher-census/researchers/qiandong-zhu-a5049780/"
 layout: "researcher"
 hiddenInHomeList: true

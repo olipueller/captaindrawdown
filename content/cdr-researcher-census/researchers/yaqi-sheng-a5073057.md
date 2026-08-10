@@ -1,7 +1,7 @@
 ---
 title: "Yaqi Sheng"
 description: "Yaqi Sheng is a Senior Biochar researcher at Chinese Academy of Medical Sciences & Peking Union Medical College in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.347191
+date: 2026-08-11T01:33:11.310113
 url: "/cdr-researcher-census/researchers/yaqi-sheng-a5073057/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Effects of biochar aging in the soil on its mechanical property and performance for soil CO2 and N2O emissions** (2021)
-   144 citations · Biochar
+   145 citations · Biochar
 
 ## External Profiles
 

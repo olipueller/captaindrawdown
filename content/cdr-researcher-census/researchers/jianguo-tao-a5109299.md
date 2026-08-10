@@ -1,7 +1,7 @@
 ---
 title: "Jianguo Tao"
 description: "Jianguo Tao is a Mid-career Soil Carbon researcher at Tsinghua University in CN. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.804446
+date: 2026-08-11T01:33:11.713938
 url: "/cdr-researcher-census/researchers/jianguo-tao-a5109299/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Microplastic-Derived Dissolved Organic Matter Regulates Soil Carbon Respiration via Microbial Ecophysiological Controls** (2025)
-   27 citations · Soil Carbon
+   31 citations · Soil Carbon
 
 2. **Multitrophic interactions support belowground carbon sequestration through microbial necromass accumulation in dryland biocrusts** (2024)
-   24 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 3. **Biocrusts benefit soil carbon sequestration via increasing the stability of soil dissolved organic carbon in dryland ecosystem** (2025)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 ## External Profiles
 

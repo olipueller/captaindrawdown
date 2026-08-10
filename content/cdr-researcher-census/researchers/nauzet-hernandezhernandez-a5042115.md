@@ -1,7 +1,7 @@
 ---
 title: "Nauzet Hernández‐Hernández"
 description: "Nauzet Hernández‐Hernández is a Mid-career Ocean CDR researcher at Universidad de Las Palmas de Gran Canaria in ES. With 48 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.664971
+date: 2026-08-11T01:33:11.589043
 url: "/cdr-researcher-census/researchers/nauzet-hernandezhernandez-a5042115/"
 layout: "researcher"
 hiddenInHomeList: true

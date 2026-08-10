@@ -1,7 +1,7 @@
 ---
 title: "Sebastian Weigl"
 description: "Sebastian Weigl is an Early-career Soil Carbon researcher. With 3 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.135576
+date: 2026-08-11T01:33:12.024585
 url: "/cdr-researcher-census/researchers/sebastian-weigl-a5051190/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon farming: Are soil carbon certificates a suitable tool for climate change mitigation?** (2023)
-   189 citations · General CDR
+   195 citations · General CDR
 
 2. **Suitability of soil carbon certificates for climate change mitigation** (2022)
    0 citations · General CDR

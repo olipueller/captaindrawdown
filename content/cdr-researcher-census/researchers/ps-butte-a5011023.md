@@ -1,7 +1,7 @@
 ---
 title: "P.S. Butte"
 description: "P.S. Butte is a Senior Soil Carbon researcher at ICAR-National Bureau of Soil Survey and Land Use Planning in IN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.571075
+date: 2026-08-11T01:33:12.414052
 url: "/cdr-researcher-census/researchers/ps-butte-a5011023/"
 layout: "researcher"
 hiddenInHomeList: true

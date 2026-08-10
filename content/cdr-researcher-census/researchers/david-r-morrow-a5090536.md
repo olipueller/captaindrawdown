@@ -1,7 +1,7 @@
 ---
 title: "David R. Morrow"
 description: "David R. Morrow is a Senior General CDR researcher at American University in US. With 61 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.276935
+date: 2026-08-11T01:33:11.245307
 url: "/cdr-researcher-census/researchers/david-r-morrow-a5090536/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,10 +57,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    57 citations · General CDR
 
 3. **Prioritizing Non-Carbon Dioxide Removal Mitigation Strategies Could Reduce the Negative Impacts Associated with Large-Scale Reliance on Negative Emissions** (2024)
-   48 citations · General CDR
+   50 citations · General CDR
 
 4. **GCAM-CDR v1.0: enhancing the representation of carbon dioxide removal technologies and policies in an integrated assessment model** (2023)
-   24 citations · DAC
+   25 citations · DAC
 
 5. **Splitting Climate Engineering Governance: How Problem Structure Shapes Institutional Design** (2021)
    20 citations · General CDR
@@ -68,11 +68,11 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 6. **Does China's pathway to carbon neutrality require the integration of land-based biological negative emission solutions with geochemical and chemical alternatives?** (2023)
    18 citations · Enhanced Weathering
 
-7. **Is there a role for carbon capture and storage in a just transition?** (2021)
-   6 citations · General CDR
+7. **Scaling carbon removal without delaying emission reductions** (2025)
+   7 citations · General CDR
 
-8. **Scaling carbon removal without delaying emission reductions** (2025)
-   5 citations · General CDR
+8. **Is there a role for carbon capture and storage in a just transition?** (2021)
+   6 citations · General CDR
 
 9. **GCAM-CDR v1.0: Enhancing the Representation of Carbon Dioxide Removal Technologies and Policies in an Integrated Assessment Model** (2022)
    4 citations

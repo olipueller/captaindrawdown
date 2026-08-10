@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Azroie Mohamed Yusoff"
 description: "Muhammad Azroie Mohamed Yusoff is an Early-career Biochar researcher at Ministry of Natural Resources and Environment in MY. With 13 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.048618
+date: 2026-08-11T01:33:11.923436
 url: "/cdr-researcher-census/researchers/muhammad-azroie-mohamed-yusoff-a5114078/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Adsorption of methylene blue from aqueous solution by peanut shell based activated carbon** (2021)
-   55 citations
+   57 citations
 
 2. **Synthesis of Microwave-Assisted Mango Peel Based Activated Carbon for Methylene Blue Dye Removal** (2023)
    3 citations

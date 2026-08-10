@@ -1,7 +1,7 @@
 ---
 title: "Youyang Chen"
 description: "Youyang Chen is a Mid-career Biochar researcher at Shanghai University in CN. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.789343
+date: 2026-08-11T01:33:11.701051
 url: "/cdr-researcher-census/researchers/youyang-chen-a5056049/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Effects of nitrogen-enriched biochar on rice growth and yield, iron dynamics, and soil carbon storage and emissions: A tool to improve sustainable rice cultivation** (2021)
-   69 citations · Biochar
+   70 citations · Biochar
 
 2. **Effects of addition of nitrogen-enriched biochar on bacteria and fungi community structure and C, N, P, and Fe stoichiometry in subtropical paddy soils** (2021)
-   30 citations · Biochar
+   31 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Qiaoqiao Zhou"
 description: "Qiaoqiao Zhou is a Mid-career BECCS researcher at Nanjing Tech University in CN. With 36 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.389755
+date: 2026-08-11T01:33:11.345753
 url: "/cdr-researcher-census/researchers/qiaoqiao-zhou-a5002644/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Synergistic intensification of membrane reactor with biochar catalyst for efficient production of clean syngas from biomass gasification** (2025)
-   8 citations · BECCS
+   10 citations · BECCS
 
 2. **Synergistic control of tar and particulate matter in steam gasification of six typical biowastes using a catalyst-integrated SiC membrane reactor** (2025)
-   2 citations · BECCS
+   3 citations · BECCS
 
 ## External Profiles
 

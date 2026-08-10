@@ -1,7 +1,7 @@
 ---
 title: "Yapeng Jiao"
 description: "Yapeng Jiao is a Mid-career Soil Carbon researcher at Northwest A&F University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.770095
+date: 2026-08-11T01:33:11.683471
 url: "/cdr-researcher-census/researchers/yapeng-jiao-a5026722/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,13 +48,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Nitrogen fertilizer builds soil organic carbon under straw return mainly via microbial necromass formation** (2023)
-   190 citations · Soil Carbon
+   201 citations · Soil Carbon
 
 2. **Effect of the combined addition of mineral nitrogen and crop residue on soil respiration, organic carbon sequestration, and exogenous nitrogen in stable organic matter** (2021)
-   56 citations · Soil Carbon
+   58 citations · Soil Carbon
 
 3. **Changes in soil particulate and mineral-associated organic carbon concentrations under nitrogen addition in China—a meta-analysis** (2023)
-   48 citations · Soil Carbon
+   49 citations · Soil Carbon
 
 4. **Long-Term Nitrogen and Straw Application Improves Wheat Production and Soil Organic Carbon Sequestration** (2022)
    23 citations · Soil Carbon
@@ -68,7 +68,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 7. **Nitrogen Fertilizers Prime Bacterial Necromass Formation and Carbon Sequestration in Soil** (2022)
    1 citations · Soil Carbon
 
-8. **Changes in soil particulate and mineral-associated organic carbon contents under nitrogen addition** (2022)
+8. **Organic amendment quality and quantity govern microbial necromass contributions to soil carbon sequestration: a meta-analysis** (2026)
+   0 citations · Soil Carbon
+
+9. **Changes in soil particulate and mineral-associated organic carbon contents under nitrogen addition** (2022)
    0 citations · Soil Carbon
 
 ## External Profiles

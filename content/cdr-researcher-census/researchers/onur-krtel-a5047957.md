@@ -1,7 +1,7 @@
 ---
 title: "Onur Kırtel"
 description: "Onur Kırtel is a Mid-career General CDR researcher at Danmarks Tekniske Universitet in DK. With 37 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.516204
+date: 2026-08-11T01:33:11.454682
 url: "/cdr-researcher-census/researchers/onur-krtel-a5047957/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -55,6 +55,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 2. **Amidase‐Catalyzed Desorption of CO <sub>2</sub> Captured in Aqueous Monoethanolamine (MEA) Solutions** (2026)
    0 citations · General CDR
+
+3. **Amidase-catalyzed Desorption of CO2 Captured in Aqueous Monoethanolamine (MEA) Solutions** (2026)
+   0 citations
 
 ## External Profiles
 

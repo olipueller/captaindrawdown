@@ -1,7 +1,7 @@
 ---
 title: "Yingxiao Hu"
 description: "Yingxiao Hu is a Mid-career Soil Carbon researcher at Southwest University in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.832489
+date: 2026-08-11T01:33:11.738339
 url: "/cdr-researcher-census/researchers/yingxiao-hu-a5044800/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,13 +48,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil organic carbon fractions in response to soil, environmental and agronomic factors under cover cropping systems: A global meta-analysis** (2023)
-   114 citations · Soil Carbon
+   119 citations · Soil Carbon
 
 2. **Legume cover crops sequester more soil organic carbon than non-legume cover crops by stimulating microbial transformations** (2024)
-   65 citations · Soil Carbon
+   67 citations · Soil Carbon
 
 3. **Legume cover crops enhance soil organic carbon via microbial necromass in orchard alleyways** (2023)
-   58 citations · Soil Carbon
+   60 citations · Soil Carbon
 
 ## External Profiles
 

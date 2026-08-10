@@ -1,7 +1,7 @@
 ---
 title: "Loukia-Pantzechroula Merkouri"
 description: "Loukia-Pantzechroula Merkouri is a Mid-career DAC researcher at University of Surrey in GB. With 23 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.659895
+date: 2026-08-11T01:33:11.584112
 url: "/cdr-researcher-census/researchers/loukia-pantzechroula-merkouri-a5003015/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Closing the Carbon Cycle with Dual Function Materials** (2021)
-   79 citations · DAC
+   82 citations · DAC
 
 2. **Feasibility of switchable dual function materials as a flexible technology for CO<sub>2</sub> capture and utilisation and evidence of passive direct air capture** (2022)
-   53 citations · DAC
+   55 citations · DAC
 
 3. **Feasibility of green mechanochemical synthesis for dual function materials preparation** (2024)
    14 citations · DAC
 
 4. **Evidence of ambient pressure methanol production on Ni-Ga-Ca dual function materials and dynamic restructuring effects on selectivity** (2025)
-   0 citations
+   2 citations
 
 ## External Profiles
 

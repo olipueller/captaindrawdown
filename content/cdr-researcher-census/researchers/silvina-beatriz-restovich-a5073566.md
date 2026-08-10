@@ -1,7 +1,7 @@
 ---
 title: "Silvina Beatriz Restovich"
 description: "Silvina Beatriz Restovich is a Mid-career Soil Carbon researcher at Instituto Nacional de Tecnologia in BR. With 34 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.564673
+date: 2026-08-11T01:33:11.498340
 url: "/cdr-researcher-census/researchers/silvina-beatriz-restovich-a5073566/"
 layout: "researcher"
 hiddenInHomeList: true

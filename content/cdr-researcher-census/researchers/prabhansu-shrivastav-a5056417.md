@@ -1,7 +1,7 @@
 ---
 title: "Prabhansu Shrivastav"
 description: "Prabhansu Shrivastav is a Mid-career Biochar researcher at S. V. National Institute of Technology Surat in IN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.032673
+date: 2026-08-11T01:33:11.908202
 url: "/cdr-researcher-census/researchers/prabhansu-shrivastav-a5056417/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Synthesis and characterization of sewage sludge biochar toward adsorptive removal of pollutants for sustainability: a review** (2025)
-   9 citations · Biochar
+   11 citations · Biochar
 
 ## External Profiles
 

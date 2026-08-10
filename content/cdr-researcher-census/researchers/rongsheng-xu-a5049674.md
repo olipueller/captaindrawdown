@@ -1,7 +1,7 @@
 ---
 title: "Rongsheng Xu"
 description: "Rongsheng Xu is an Early-career Biochar researcher at State Ethnic Affairs Commission in CN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.433557
+date: 2026-08-11T01:33:12.291178
 url: "/cdr-researcher-census/researchers/rongsheng-xu-a5049674/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Mechanistic insights into methylene blue removal by boron-doped biochar derived from lycium barbarum stalks** (2026)
-   1 citations · Biochar
+   2 citations · Biochar
 
 ## External Profiles
 

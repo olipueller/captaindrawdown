@@ -1,7 +1,7 @@
 ---
 title: "Usa Onthong"
 description: "Usa Onthong is a Senior Biochar researcher at Thaksin University in TH. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.909911
+date: 2026-08-11T01:33:11.808600
 url: "/cdr-researcher-census/researchers/usa-onthong-a5007979/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Removal of hydrogen sulfide from biogas using banana peel and banana empty fruit bunch biochars as alternative adsorbents** (2022)
-   14 citations · Biochar
+   15 citations · Biochar
 
 ## External Profiles
 

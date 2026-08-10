@@ -1,7 +1,7 @@
 ---
 title: "Daibing Hou"
 description: "Daibing Hou is a Mid-career Biochar researcher at Beijing University of Chemical Technology in CN. With 19 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.611792
+date: 2026-08-11T01:33:11.540639
 url: "/cdr-researcher-census/researchers/daibing-hou-a5060948/"
 layout: "researcher"
 hiddenInHomeList: true

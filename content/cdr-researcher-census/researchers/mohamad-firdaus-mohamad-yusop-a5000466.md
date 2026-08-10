@@ -1,7 +1,7 @@
 ---
 title: "Mohamad Firdaus Mohamad Yusop"
 description: "Mohamad Firdaus Mohamad Yusop is a Mid-career Biochar researcher at Universiti Sains Malaysia in MY. With 54 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.346429
+date: 2026-08-11T01:33:11.309480
 url: "/cdr-researcher-census/researchers/mohamad-firdaus-mohamad-yusop-a5000466/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Adsorption of cationic methylene blue dye using microwave-assisted activated carbon derived from acacia wood: Optimization and batch studies** (2021)
-   140 citations · Biochar
+   141 citations · Biochar
 
 2. **Conversion of teak wood waste into microwave-irradiated activated carbon for cationic methylene blue dye removal: Optimization and batch studies** (2022)
    71 citations
@@ -60,7 +60,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    65 citations · Biochar
 
 4. **Adsorption of methylene blue from aqueous solution by peanut shell based activated carbon** (2021)
-   55 citations
+   57 citations
 
 5. **Single-Stage Microwave-Assisted Coconut-Shell-Based Activated Carbon for Removal of Dichlorodiphenyltrichloroethane (DDT) from Aqueous Solution: Optimization and Batch Studies** (2021)
    33 citations · Biochar
@@ -72,7 +72,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    14 citations · Biochar
 
 8. **Amoxicillin adsorption onto oil palm trunk‐derived activated carbon: synthesis optimization, modelling of mass transfer and ultrasonic regeneration** (2025)
-   11 citations
+   12 citations
 
 9. **Utilization of landscape biomass waste as activated carbon to scavenge oxytetracycline: Attraction mechanism, batch and continuous studies** (2023)
    4 citations · Biochar

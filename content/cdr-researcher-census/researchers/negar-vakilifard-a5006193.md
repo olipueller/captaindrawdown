@@ -1,7 +1,7 @@
 ---
 title: "Negar Vakilifard"
 description: "Negar Vakilifard is a Mid-career Enhanced Weathering researcher at University of Sheffield in GB. With 31 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.487217
+date: 2026-08-11T01:33:11.429787
 url: "/cdr-researcher-census/researchers/negar-vakilifard-a5006193/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Substantial carbon drawdown potential from enhanced rock weathering in the United Kingdom** (2022)
-   159 citations · Enhanced Weathering
+   162 citations · Enhanced Weathering
 
 2. **The role of enhanced rock weathering deployment with agriculture in limiting future warming and protecting coral reefs** (2021)
    28 citations · Enhanced Weathering

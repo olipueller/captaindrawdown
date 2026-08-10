@@ -1,7 +1,7 @@
 ---
 title: "Yiping Jin"
 description: "Yiping Jin is a Senior Biochar researcher at Jilin Agricultural University in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.971559
+date: 2026-08-11T01:33:11.850474
 url: "/cdr-researcher-census/researchers/yiping-jin-a5030514/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    10 citations · Biochar
 
 3. **Biochar with enhanced performance prepared from bio-regulated lignocellulose for efficient removal of organic pollutants from wastewater** (2023)
-   7 citations · Biochar
+   8 citations · Biochar
 
 ## External Profiles
 

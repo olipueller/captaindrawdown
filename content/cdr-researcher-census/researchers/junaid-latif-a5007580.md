@@ -1,7 +1,7 @@
 ---
 title: "Junaid Latif"
 description: "Junaid Latif is a Mid-career Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.662324
+date: 2026-08-11T01:33:11.586607
 url: "/cdr-researcher-census/researchers/junaid-latif-a5007580/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The effect of redox fluctuation on carbon mineralization in riparian soil: An analysis of the hotspot zone of reactive oxygen species production** (2024)
-   40 citations · Soil Carbon
+   44 citations · Soil Carbon
 
 2. **Carbon emissions and priming effects derived from crop residues and their responses to nitrogen inputs** (2024)
-   20 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 ## External Profiles
 

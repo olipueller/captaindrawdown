@@ -1,7 +1,7 @@
 ---
 title: "Timothy Fout"
 description: "Timothy Fout is a Senior General CDR researcher at United States Department of Energy in US. With 57 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.167700
+date: 2026-08-11T01:33:11.143885
 url: "/cdr-researcher-census/researchers/timothy-fout-a5114032/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,13 +48,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Direct Air Capture Case Studies: Sorbent System** (2022)
-   24 citations
+   25 citations
 
 2. **Direct Air Capture Case Studies: Solvent System** (2022)
    14 citations
 
 3. **Assessment of Nuclear Energy to Support Negative Emission Technologies** (2023)
-   12 citations · DAC
+   13 citations · DAC
 
 4. **Natural Gas Combined Cycle (NGCC) Power Plants with Carbon Capture and Exhaust Gas Recycle (EGR)** (2023)
    2 citations

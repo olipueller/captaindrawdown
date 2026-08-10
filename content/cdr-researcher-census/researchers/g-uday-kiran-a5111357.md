@@ -1,7 +1,7 @@
 ---
 title: "G. Uday Kiran"
 description: "G. Uday Kiran is a Mid-career Biochar researcher. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.481019
+date: 2026-08-11T01:33:12.335839
 url: "/cdr-researcher-census/researchers/g-uday-kiran-a5111357/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Impact of biochar on strength, durability, and carbon sequestration in cement based materials** (2025)
-   12 citations · Biochar
+   13 citations · Biochar
 
 ## External Profiles
 

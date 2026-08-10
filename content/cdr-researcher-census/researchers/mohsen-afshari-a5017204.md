@@ -1,7 +1,7 @@
 ---
 title: "Mohsen Afshari"
 description: "Mohsen Afshari is a Mid-career Ocean CDR researcher at University of Houston in US. With 26 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.352497
+date: 2026-08-11T01:33:12.216724
 url: "/cdr-researcher-census/researchers/mohsen-afshari-a5017204/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Direct ocean capture: the emergence of electrochemical processes for oceanic carbon removal** (2023)
-   66 citations · Ocean CDR
+   69 citations · Ocean CDR
 
 2. **Comparative assessment of United States coastal hubs for large scale electrochemical marine carbon dioxide removal** (2026)
    1 citations · General CDR

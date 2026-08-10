@@ -1,7 +1,7 @@
 ---
 title: "David J. Varisco"
 description: "David J. Varisco is a Mid-career BECCS researcher at University of Maryland, Baltimore in US. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.977819
+date: 2026-08-11T01:33:11.856356
 url: "/cdr-researcher-census/researchers/david-j-varisco-a5038019/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    52 citations
 
 2. **Physicochemical characterization of biological and synthetic forms of two lipid A-based TLR4 agonists** (2023)
-   14 citations
+   16 citations
 
 3. **Development of a nano-emulsion based multivalent protein subunit vaccine against Pseudomonas aeruginosa** (2024)
-   6 citations
+   7 citations
 
 4. **Lipid A mimetics BECC438 and BECC470 potentiate durable and balanced immune responses using an ovalbumin murine vaccine model** (2021)
    2 citations

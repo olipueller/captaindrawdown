@@ -1,7 +1,7 @@
 ---
 title: "Roberta Farina"
 description: "Roberta Farina is a Senior Soil Carbon researcher at Consiglio per la ricerca in agricoltura e l’analisi dell’economia agraria (CREA) in IT. With 111 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.191269
+date: 2026-08-11T01:33:11.165844
 url: "/cdr-researcher-census/researchers/roberta-farina-a5067921/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Additional carbon inputs to reach a 4 per 1000 objective in Europe: feasibility and projected impacts of climate change based on Century simulations of long-term arable experiments** (2021)
-   45 citations · Soil Carbon
+   46 citations · Soil Carbon
 
 2. **Moving beyond agriculture and aquaculture to integrated sustainable food systems as part of a circular bioeconomy** (2023)
-   20 citations · General CDR
+   23 citations · General CDR
 
 3. **Modeling Soil Carbon Under Diverse Cropping Systems and Farming Management in Contrasting Climatic Regions in Europe** (2022)
    20 citations · Soil Carbon

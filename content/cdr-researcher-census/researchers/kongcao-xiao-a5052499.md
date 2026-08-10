@@ -1,7 +1,7 @@
 ---
 title: "Kongcao Xiao"
 description: "Kongcao Xiao is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 48 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.182167
+date: 2026-08-11T01:33:11.157185
 url: "/cdr-researcher-census/researchers/kongcao-xiao-a5052499/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,18 +48,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Afforestation enhances glomalin-related soil protein content but decreases its contribution to soil organic carbon in a subtropical karst area** (2024)
-   29 citations · Soil Carbon
+   31 citations · Soil Carbon
 
 2. **Dynamics of aggregate-associated organic carbon after long-term cropland conversion in a karst region, southwest China** (2023)
    10 citations
 
 3. **Microbial necromass dominates particulate and mineral‐associated organic carbon accumulation in calcareous soil following afforestation** (2026)
-   1 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 4. **Depth-dependent mechanisms underpinning soil organic carbon accumulation following afforestation** (2025)
    1 citations · Soil Carbon
 
 5. **Vegetation restoration promotes glomalin-related soil protein accumulation via mineral interactions in a Karst Region, southwest China** (2025)
+   1 citations · Soil Carbon
+
+6. **Microbial necromass outweighs lignin in contributing to soil recalcitrant carbon accumulation during vegetation restoration in a subtropical karst region** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

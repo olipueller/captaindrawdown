@@ -1,7 +1,7 @@
 ---
 title: "Xuechen Zhang"
 description: "Xuechen Zhang is a Senior Soil Carbon researcher at Agriculture and Forestry University in NP. With 102 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.161531
+date: 2026-08-11T01:33:11.137899
 url: "/cdr-researcher-census/researchers/xuechen-zhang-a5101979/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Nitrogen fertilizer builds soil organic carbon under straw return mainly via microbial necromass formation** (2023)
-   190 citations · Soil Carbon
+   201 citations · Soil Carbon
 
 2. **Fertilization regimes and the nitrification process in paddy soils: Lessons for agricultural sustainability from a meta-analysis** (2023)
    19 citations · Soil Carbon
 
 3. **Anthropogenic land-use driven changes in soil stoichiometry reduce microbial carbon use efficiency** (2025)
-   8 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 4. **A regime shift between soil moisture and temperature in the 1950s over the permafrost region of Northeast China** (2024)
    6 citations · Soil Carbon

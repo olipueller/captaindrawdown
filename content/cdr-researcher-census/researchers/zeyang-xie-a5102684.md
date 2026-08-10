@@ -1,7 +1,7 @@
 ---
 title: "Zeyang Xie"
 description: "Zeyang Xie is a Senior Soil Carbon researcher at Nanchang University in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.706072
+date: 2026-08-11T01:33:11.625318
 url: "/cdr-researcher-census/researchers/zeyang-xie-a5102684/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Exploring the interrelations and driving factors among typical ecosystem services in the Yangtze river economic Belt, China** (2023)
-   92 citations
+   96 citations
 
 2. **Spatial heterogeneity of natural and socio-economic features shape that of ecosystem services. A large-scale study on the Yangtze River economic Belt, China** (2024)
-   25 citations · General CDR
+   26 citations · General CDR
 
 3. **[Trade-off and Synergy of Ecosystem Services in the Yangtze River Economic Belt and Its Driving Factors].** (2024)
    7 citations · General CDR
 
-4. **Shifting patterns of ecosystem service trade-offs and synergies: Evidence from the Yangtze River Economic Belt, China** (2025)
-   1 citations
+4. **Drought diminishes ecosystem service supply and exacerbates trade-offs in the Yangtze River Economic Belt** (2025)
+   3 citations · Soil Carbon
 
-5. **Drought diminishes ecosystem service supply and exacerbates trade-offs in the Yangtze River Economic Belt** (2025)
-   1 citations · Soil Carbon
+5. **Shifting patterns of ecosystem service trade-offs and synergies: Evidence from the Yangtze River Economic Belt, China** (2025)
+   2 citations
 
 6. **Does Variation in Research Scales Alter the Relationships Among Ecosystem Services? A Case Study of the Yangtze River Economic Belt** (2025)
    0 citations

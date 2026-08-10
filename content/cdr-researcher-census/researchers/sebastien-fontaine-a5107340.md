@@ -1,7 +1,7 @@
 ---
 title: "Sébastien Fontaine"
 description: "Sébastien Fontaine is a Senior Soil Carbon researcher at Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement in FR. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.215804
+date: 2026-08-11T01:33:11.188866
 url: "/cdr-researcher-census/researchers/sebastien-fontaine-a5107340/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Advancing the mechanistic understanding of the priming effect on soil organic matter mineralisation** (2022)
-   217 citations · Soil Carbon
+   224 citations · Soil Carbon
 
 2. **Carbon sequestration-related traits of spontaneous flora under agroecological intensification in European Cropping Systems** (2026)
    0 citations · Soil Carbon

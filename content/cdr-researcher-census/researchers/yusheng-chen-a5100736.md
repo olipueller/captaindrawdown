@@ -1,7 +1,7 @@
 ---
 title: "Yusheng Chen"
 description: "Yusheng Chen is a Mid-career DAC researcher at National Taiwan University of Science and Technology in TW. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.582583
+date: 2026-08-11T01:33:12.420507
 url: "/cdr-researcher-census/researchers/yusheng-chen-a5100736/"
 layout: "researcher"
 hiddenInHomeList: true

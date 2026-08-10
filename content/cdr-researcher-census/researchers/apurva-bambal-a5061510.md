@@ -1,7 +1,7 @@
 ---
 title: "Apurva Bambal"
 description: "Apurva Bambal is a Mid-career Biochar researcher. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.124523
+date: 2026-08-11T01:33:12.014282
 url: "/cdr-researcher-census/researchers/apurva-bambal-a5061510/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Chitosan-Biopolymer-Entrapped Activated Charcoal for Adsorption of Reactive Orange Dye from Aqueous Phase and CO2 from Gaseous Phase** (2023)
-   57 citations
+   58 citations
 
 2. **Carbonization of golden shower pods to high surface area biochar for decontamination of cationic dyes and regeneration study by gamma radiations** (2024)
    8 citations · Biochar

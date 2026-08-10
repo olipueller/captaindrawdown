@@ -1,7 +1,7 @@
 ---
 title: "Joungho Park"
 description: "Joungho Park is a Senior DAC researcher at University of Southern California in US. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.547891
+date: 2026-08-11T01:33:11.483100
 url: "/cdr-researcher-census/researchers/joungho-park-a5006550/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Integrating solid direct air capture systems with green hydrogen production: Economic benefits and curtailment reduction** (2025)
-   9 citations · DAC
+   12 citations · DAC
 
 2. **Design and optimization of a moisture removal process for methane purification: a component of a palm oil mill effluent upgrading facility** (2025)
    0 citations

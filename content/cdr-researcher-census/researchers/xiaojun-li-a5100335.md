@@ -1,7 +1,7 @@
 ---
 title: "Xiaojun Li"
 description: "Xiaojun Li is a Senior Soil Carbon researcher at Northwest Institute of Eco-Environment and Resources in CN. With 70 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.200869
+date: 2026-08-11T01:33:11.174874
 url: "/cdr-researcher-census/researchers/xiaojun-li-a5100335/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Recovery of soil carbon and nitrogen stocks following afforestation with xerophytic shrubs in the Tengger Desert, North China** (2022)
-   41 citations
+   45 citations
 
-2. **Variations in organic carbon mineralization of the biological soil crusts following revegetation in the Tengger Desert, North China** (2022)
-   15 citations · Soil Carbon
+2. **Revegetation enhances soil organic carbon mineralization and its temperature sensitivity in the Tengger Desert, North China** (2022)
+   17 citations · Soil Carbon
 
-3. **Revegetation enhances soil organic carbon mineralization and its temperature sensitivity in the Tengger Desert, North China** (2022)
+3. **Variations in organic carbon mineralization of the biological soil crusts following revegetation in the Tengger Desert, North China** (2022)
    15 citations · Soil Carbon
 
 4. **Revegetation drives the accrual and stabilization of organic carbon in biocrusts and subsoils in the Tengger Desert, north China** (2025)
-   7 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 5. **Divergent changes of carbon and nitrogen in the density fractions of soil organic matter after revegetation in the Tengger Desert, north China** (2024)
    3 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Anaïs Noo"
 description: "Anaïs Noo is a Mid-career Biochar researcher at Luxembourg Institute of Science and Technology in LU. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.207694
+date: 2026-08-11T01:33:12.089880
 url: "/cdr-researcher-census/researchers/anais-noo-a5067541/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jieyuan Liu"
 description: "Jieyuan Liu is a Mid-career DAC researcher at University of Toronto in CA. With 36 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.152691
+date: 2026-08-11T01:33:11.129634
 url: "/cdr-researcher-census/researchers/jieyuan-liu-a5024820/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Redox-decoupled electrolysis for direct air capture of CO2** (2026)
-   1 citations · DAC
+   2 citations · DAC
 
 2. **Efficient Amino-Acid-Based Reactive Capture via Catalyst and System Designs** (2025)
    0 citations · DAC

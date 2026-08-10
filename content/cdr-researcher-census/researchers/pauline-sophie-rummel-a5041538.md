@@ -1,7 +1,7 @@
 ---
 title: "Pauline Sophie Rummel"
 description: "Pauline Sophie Rummel is a Mid-career Soil Carbon researcher at University of Copenhagen in DK. With 31 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.775367
+date: 2026-08-11T01:33:11.688213
 url: "/cdr-researcher-census/researchers/pauline-sophie-rummel-a5041538/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    4 citations · General CDR
 
 2. **Managing Soil Nitrogen Surplus: The Role of Winter Cover Crops in N <sub>2</sub> O Emissions and Carbon Sequestration** (2024)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 3. **Supplementary material to "Managing Soil Nitrogen Surplus: The Role of Winter Cover Crops in N<sub>2</sub>O Emissions and Carbon Sequestration"** (2024)
    2 citations · Soil Carbon

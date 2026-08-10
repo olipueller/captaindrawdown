@@ -1,7 +1,7 @@
 ---
 title: "Brody Teare"
 description: "Brody Teare is a Mid-career Soil Carbon researcher at Texas A&M University in US. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.563071
+date: 2026-08-11T01:33:11.497107
 url: "/cdr-researcher-census/researchers/brody-teare-a5070686/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Wavelet Analysis of GPR Data for Belowground Mass Assessment of Sorghum Hybrid for Soil Carbon Sequestration** (2023)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 2. **Ground Penetrating Radar for Belowground Phenotyping of High-biomass Grasses for Soil Carbon Sequestration** (2021)
    2 citations · General CDR

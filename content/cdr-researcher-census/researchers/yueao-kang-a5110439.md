@@ -1,7 +1,7 @@
 ---
 title: "Yueao Kang"
 description: "Yueao Kang is a Mid-career Soil Carbon researcher. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.518766
+date: 2026-08-11T01:33:12.370728
 url: "/cdr-researcher-census/researchers/yueao-kang-a5110439/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon neutrality assumption hides significant contribution of growers to carbon sequestration** (2023)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 ## External Profiles
 

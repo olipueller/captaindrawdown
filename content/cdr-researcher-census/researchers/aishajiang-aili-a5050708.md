@@ -1,7 +1,7 @@
 ---
 title: "Aishajiang Aili"
 description: "Aishajiang Aili is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 40 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.531509
+date: 2026-08-11T01:33:11.467973
 url: "/cdr-researcher-census/researchers/aishajiang-aili-a5050708/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar in sustainable agriculture and Climate Mitigation: Mechanisms, challenges, and applications in the circular bioeconomy** (2024)
-   89 citations · Biochar
+   93 citations · Biochar
 
 2. **Plant root-mediated carbon sequestration and nutrient cycling in grassland ecosystems under land use and climate change** (2025)
-   19 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 3. **Advances in ecological restoration of mining-impacted landscapes: Techniques, case studies, and key challenges** (2025)
-   7 citations
+   8 citations
 
 4. **Biochar as a climate-smart strategy for restoring dryland soils and mitigating desertification** (2026)
-   2 citations · Biochar
+   5 citations · Biochar
 
 ## External Profiles
 

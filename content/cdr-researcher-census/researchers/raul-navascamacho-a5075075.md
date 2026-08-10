@@ -1,7 +1,7 @@
 ---
 title: "Raúl Navas‐Camacho"
 description: "Raúl Navas‐Camacho is a Senior Ocean CDR researcher at José Benito Vives de Andréis Marine and Coastal Research Institute in CO. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.549192
+date: 2026-08-11T01:33:11.484279
 url: "/cdr-researcher-census/researchers/raul-navascamacho-a5075075/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Seagrass blue carbon stocks and sequestration rates in the Colombian Caribbean** (2021)
-   68 citations
+   69 citations
 
 2. **Seasonal Upwelling Conditions Modulate the Calcification Response of a Tropical Scleractinian Coral** (2023)
    9 citations · Ocean CDR

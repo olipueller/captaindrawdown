@@ -1,7 +1,7 @@
 ---
 title: "Sandiswa Figlan"
 description: "Sandiswa Figlan is a Mid-career Soil Carbon researcher at Tshwane University of Technology in ZA. With 57 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.441348
+date: 2026-08-11T01:33:11.391400
 url: "/cdr-researcher-census/researchers/sandiswa-figlan-a5075444/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Path Coefficient and Principal Component Analyses for Biomass Allocation, Drought Tolerance and Carbon Sequestration Potential in Wheat** (2022)
-   25 citations · Soil Carbon
+   27 citations · Soil Carbon
 
 2. **Response of Sorghum bicolor genotypes for yield and yield components and organic carbon storage in the shoot and root systems** (2024)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 3. **Combining ability analysis of yield and biomass allocation related traits in newly developed wheat populations** (2023)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 4. **Biomass allocation and carbon storage in the major cereal crops: A meta‐analysis** (2024)
    14 citations · General CDR
 
 5. **Genetic variation and association of yield, yield components, and carbon storage in sorghum (Sorghum bicolor [L.] Moench) genotypes** (2024)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 6. **Evaluation of maize (Zea mays L.) genotypes for yield and yield components and carbon storage** (2026)
    0 citations

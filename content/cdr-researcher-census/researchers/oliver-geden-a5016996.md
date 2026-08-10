@@ -1,7 +1,7 @@
 ---
 title: "Oliver Geden"
 description: "Oliver Geden is a Senior General CDR researcher at Stiftung Wissenschaft und Politik, German Institute for International and Security Affairs in DE. With 126 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.099057
+date: 2026-08-11T01:33:11.079269
 url: "/cdr-researcher-census/researchers/oliver-geden-a5016996/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,25 +51,25 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Operationalizing the net-negative carbon economy** (2021)
-   171 citations · General CDR
+   172 citations · General CDR
 
 2. **Carbon Dioxide Removal Policy in the Making: Assessing Developments in 9 OECD Cases** (2021)
-   149 citations · General CDR
+   150 citations · General CDR
 
 3. **Integrating Carbon Dioxide Removal Into European Emissions Trading** (2021)
-   117 citations · DAC
+   120 citations · DAC
 
 4. **The carbon dioxide removal gap** (2024)
-   84 citations
+   86 citations
 
 5. **Controversies of carbon dioxide removal** (2023)
-   47 citations · General CDR
+   49 citations · General CDR
 
 6. **Near-term deployment of novel carbon removal to facilitate longer-term deployment** (2023)
-   46 citations · General CDR
+   47 citations · General CDR
 
 7. **Ten new insights in climate science 2023** (2023)
-   42 citations · General CDR
+   45 citations · General CDR
 
 8. **Evaluating the near- and long-term role of carbon dioxide removal in meeting global climate objectives** (2024)
    34 citations · General CDR
@@ -78,7 +78,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    34 citations · General CDR
 
 10. **The formative phase of German carbon dioxide removal policy: Positioning between precaution, pragmatism and innovation** (2023)
-   32 citations · General CDR
+   34 citations · General CDR
 
 ## External Profiles
 

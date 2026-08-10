@@ -1,7 +1,7 @@
 ---
 title: "Meisam Rezaei"
 description: "Meisam Rezaei is a Mid-career Biochar researcher at Soil and Water Research Institute (SWRI), Agricultural Research, Education and Extension Organization (AREEO) in IR. With 40 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.340343
+date: 2026-08-11T01:33:11.303228
 url: "/cdr-researcher-census/researchers/meisam-rezaei-a5076660/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Progress and challenges in thermochemical technologies for biomass humification: A comprehensive review** (2026)
-   3 citations · Biochar
+   4 citations · Biochar
 
 2. **Land Uses Impacts on Soil Organic Carbon Dynamics: Isotopic Evidence From Stabilisation and Decomposition in Alluvial Soils** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

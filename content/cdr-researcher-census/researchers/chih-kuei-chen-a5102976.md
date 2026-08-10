@@ -1,7 +1,7 @@
 ---
 title: "Chih-Kuei Chen"
 description: "Chih-Kuei Chen is a Senior Biochar researcher at National Ilan University in TW. With 24 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.043285
+date: 2026-08-11T01:33:11.917851
 url: "/cdr-researcher-census/researchers/chih-kuei-chen-a5102976/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Specifically designed amine functional group doped sludge biochar for inorganic and organic arsenic removal** (2021)
-   8 citations · Biochar
+   9 citations · Biochar
 
 2. **Preparation of Metal Modified onto Biochar from Hazardous Waste for Arsenic Removal** (2021)
    6 citations · Biochar

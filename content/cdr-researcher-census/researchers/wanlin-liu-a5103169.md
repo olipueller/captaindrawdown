@@ -1,7 +1,7 @@
 ---
 title: "Wanlin Liu"
 description: "Wanlin Liu is a Senior Soil Carbon researcher at University of International Business and Economics in CN. With 31 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.935521
+date: 2026-08-11T01:33:11.831772
 url: "/cdr-researcher-census/researchers/wanlin-liu-a5103169/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xueying Zhao"
 description: "Xueying Zhao is a Senior Biochar researcher at Hebei Medical University in CN. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.666051
+date: 2026-08-11T01:33:11.589727
 url: "/cdr-researcher-census/researchers/xueying-zhao-a5070727/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    14 citations · Biochar
 
 2. **Catalytic pyrolysis of waste biomass via coal fly ash for synergistic production of cost-effective artificial humic acid** (2025)
-   7 citations · Biochar
+   9 citations · Biochar
 
 3. **Sustainable Synthesis of Artificial Humic Substances from Bamboo Powder by Fecl3-Catalyzed Low-Temperature Pyrolysis for Cadmium Contaminated Soil Remediation and Carbon Sequestration** (2025)
    0 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Yu-Chen Wang"
 description: "Yu-Chen Wang is a Senior Biochar researcher at Asia University in TW. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.031279
+date: 2026-08-11T01:33:11.906867
 url: "/cdr-researcher-census/researchers/yu-chen-wang-a5112399/"
 layout: "researcher"
 hiddenInHomeList: true

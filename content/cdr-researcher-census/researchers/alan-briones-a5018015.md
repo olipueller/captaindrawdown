@@ -1,7 +1,7 @@
 ---
 title: "Alan Briones"
 description: "Alan Briones is a Mid-career Soil Carbon researcher at Universitat Ramon Llull in ES. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.761995
+date: 2026-08-11T01:33:11.676305
 url: "/cdr-researcher-census/researchers/alan-briones-a5018015/"
 layout: "researcher"
 hiddenInHomeList: true

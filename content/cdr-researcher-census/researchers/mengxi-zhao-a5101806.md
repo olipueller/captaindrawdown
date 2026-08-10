@@ -1,7 +1,7 @@
 ---
 title: "Mengxi Zhao"
 description: "Mengxi Zhao is a Mid-career Biochar researcher at Hunan University in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.992585
+date: 2026-08-11T01:33:11.870184
 url: "/cdr-researcher-census/researchers/mengxi-zhao-a5101806/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Rapid reduction of chloramphenicol by sodium bicarbonate-activated biochar loaded with nano zero-valent iron: Influence of pyrolysis parameters and the key role of graphitic carbon structure** (2025)
-   5 citations · Biochar
+   6 citations · Biochar
 
 ## External Profiles
 

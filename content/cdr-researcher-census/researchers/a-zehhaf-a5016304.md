@@ -1,7 +1,7 @@
 ---
 title: "A. Zehhaf"
 description: "A. Zehhaf is a Mid-career Biochar researcher at Université Mustapha Stambouli Mascara in DZ. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.646522
+date: 2026-08-11T01:33:11.572204
 url: "/cdr-researcher-census/researchers/a-zehhaf-a5016304/"
 layout: "researcher"
 hiddenInHomeList: true

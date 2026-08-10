@@ -1,7 +1,7 @@
 ---
 title: "Zhengang Wang"
 description: "Zhengang Wang is a Senior Soil Carbon researcher at Sun Yat-sen University in CN. With 98 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.167834
+date: 2026-08-11T01:33:11.144004
 url: "/cdr-researcher-census/researchers/zhengang-wang-a5005405/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Significant accrual of soil organic carbon through long‐term rice cultivation in paddy fields in China** (2024)
-   55 citations · Soil Carbon
+   56 citations · Soil Carbon
 
 2. **Distribution, Storage, and Factors Influencing Particulate and Mineral‐Associated Organic Matter in Paddy Soils** (2025)
-   7 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 3. **Factors controlling <scp>SOC</scp> stability in colluvial soils under contrasting climate and soil weathering conditions** (2022)
    6 citations · Soil Carbon
 
 4. **Soil organic carbon accumulation along a chronosequence of vegetation colonization on debris flow fans in Southwest China** (2023)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 5. **Coupled geomorphic and climate-driven biogeochemical processes regulate soil organic carbon stocks in agricultural terraces** (2026)
    0 citations · Soil Carbon

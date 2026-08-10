@@ -1,7 +1,7 @@
 ---
 title: "Neil Craik"
 description: "Neil Craik is a Senior General CDR researcher at University of Waterloo in CA. With 83 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.459775
+date: 2026-08-11T01:33:11.406367
 url: "/cdr-researcher-census/researchers/neil-craik-a5062311/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Key uncertainties behind global projections of direct air capture deployment** (2023)
-   35 citations · DAC
+   36 citations · DAC
 
 2. **Scaling carbon removal systems: deploying direct air capture amidst Canada’s low-carbon transition** (2024)
    7 citations · DAC

@@ -1,7 +1,7 @@
 ---
 title: "Vicente Galvan"
 description: "Vicente Galvan is a Senior DAC researcher at University of Southern California in US. With 24 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.518710
+date: 2026-08-11T01:33:11.456841
 url: "/cdr-researcher-census/researchers/vicente-galvan-a5038923/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,10 +54,10 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    44 citations · DAC
 
 2. **Metal hydroxide assisted integrated direct air capture and conversion to methane with Ni/Al<sub>2</sub>O<sub>3</sub>catalysts** (2023)
-   29 citations · DAC
+   30 citations · DAC
 
 3. **Direct Conversion of Metal Carbonates and Bicarbonates to Methanol Over a Cu/ZnO/Al <sub>2</sub> O <sub>3</sub> Catalyst** (2026)
-   0 citations · DAC
+   1 citations · DAC
 
 ## External Profiles
 

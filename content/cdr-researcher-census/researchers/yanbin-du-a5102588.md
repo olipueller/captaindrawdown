@@ -1,7 +1,7 @@
 ---
 title: "Yanbin Du"
 description: "Yanbin Du is a Mid-career Biochar researcher at China University of Mining and Technology in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.114997
+date: 2026-08-11T01:33:12.005184
 url: "/cdr-researcher-census/researchers/yanbin-du-a5102588/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Carbon sequestration in soil affected by mineral-doped biochar: Roles of soil aggregate and microbial community** (2025)
-   5 citations · Biochar
+   6 citations · Biochar
 
 ## External Profiles
 

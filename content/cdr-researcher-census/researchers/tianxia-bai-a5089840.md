@@ -1,7 +1,7 @@
 ---
 title: "Tianxia Bai"
 description: "Tianxia Bai is a Mid-career Biochar researcher at Huaiyin Normal University in CN. With 11 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.727103
+date: 2026-08-11T01:33:11.644763
 url: "/cdr-researcher-census/researchers/tianxia-bai-a5089840/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Effect of Different Phosphates on Pyrolysis Temperature-Dependent Carbon Sequestration and Phosphorus Release Performance in Biochar** (2023)
-   24 citations · Biochar
+   26 citations · Biochar
 
 ## External Profiles
 

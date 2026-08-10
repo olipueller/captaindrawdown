@@ -1,7 +1,7 @@
 ---
 title: "Milad Amiri"
 description: "Milad Amiri is a Mid-career BECCS researcher at Częstochowa University of Technology in PL. With 35 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.735086
+date: 2026-08-11T01:33:11.651712
 url: "/cdr-researcher-census/researchers/milad-amiri-a5044894/"
 layout: "researcher"
 hiddenInHomeList: true

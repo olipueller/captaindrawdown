@@ -1,7 +1,7 @@
 ---
 title: "Yulu Chen"
 description: "Yulu Chen is a Mid-career Soil Carbon researcher at Anhui Jianzhu University in CN. With 50 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.585105
+date: 2026-08-11T01:33:11.516618
 url: "/cdr-researcher-census/researchers/yulu-chen-a5101545/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term green manure incorporation increases soil carbon sequestration and improves aggregate stability by changing organic carbon components** (2025)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 2. **Metagenomic insight into microbial regulation of nutrient cycling in amended bauxite residue under various planting strategies: Implications for soil formation** (2025)
    3 citations

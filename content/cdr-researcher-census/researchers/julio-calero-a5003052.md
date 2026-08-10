@@ -1,7 +1,7 @@
 ---
 title: "Julio Calero"
 description: "Julio Calero is a Senior Soil Carbon researcher at University of Jaén in ES. With 62 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.408519
+date: 2026-08-11T01:33:11.362249
 url: "/cdr-researcher-census/researchers/julio-calero-a5003052/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,16 +50,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Role of Clay Mineralogy in the Stabilization of Soil Organic Carbon in Olive Groves under Contrasted Soil Management** (2022)
+1. **The role of cover crops in the loss of protected and non-protected soil organic carbon fractions due to water erosion in a Mediterranean olive grove** (2021)
+   46 citations
+
+2. **Role of Clay Mineralogy in the Stabilization of Soil Organic Carbon in Olive Groves under Contrasted Soil Management** (2022)
    15 citations · Soil Carbon
 
-2. **Does spontaneous cover crop increase the stocks of soil organic carbon and nitrogen in commercial olive orchard?** (2024)
-   11 citations · Soil Carbon
+3. **Does spontaneous cover crop increase the stocks of soil organic carbon and nitrogen in commercial olive orchard?** (2024)
+   12 citations · Soil Carbon
 
-3. **Carbon and Nitrogen Mineralization of Common Organic Amendments in Olive Grove Soils** (2024)
+4. **Carbon and Nitrogen Mineralization of Common Organic Amendments in Olive Grove Soils** (2024)
    6 citations · Soil Carbon
 
-4. **Effects of Organic Agriculture in Structure and Organic Carbon Adsorption at Colloidal Scale in Marginal Olive Groves, Characterized by the Extended DLVO Model** (2022)
+5. **Effects of Organic Agriculture in Structure and Organic Carbon Adsorption at Colloidal Scale in Marginal Olive Groves, Characterized by the Extended DLVO Model** (2022)
    1 citations · Soil Carbon
 
 ## External Profiles

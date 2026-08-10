@@ -1,7 +1,7 @@
 ---
 title: "Zhenhua Rui"
 description: "Zhenhua Rui is a Mid-career General CDR researcher at China University of Petroleum, Beijing in CN. With 34 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.136275
+date: 2026-08-11T01:33:12.025189
 url: "/cdr-researcher-census/researchers/zhenhua-rui-a5074908/"
 layout: "researcher"
 hiddenInHomeList: true

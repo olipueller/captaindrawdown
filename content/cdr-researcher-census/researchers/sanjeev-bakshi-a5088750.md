@@ -1,7 +1,7 @@
 ---
 title: "Sanjeev Bakshi"
 description: "Sanjeev Bakshi is a Senior Soil Carbon researcher at Diabetes Care and Research Foundation in IN. With 37 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.779236
+date: 2026-08-11T01:33:11.691692
 url: "/cdr-researcher-census/researchers/sanjeev-bakshi-a5088750/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Disentangling Forest Dynamics for Litter Biomass Production in a Biosphere Reserve in Central India** (2022)
-   18 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 2. **A geospatial analysis of coal mine overburden reclamation: Land use, carbon stock, biomass, and soil genesis in chronosequence plantations** (2025)
    14 citations · General CDR

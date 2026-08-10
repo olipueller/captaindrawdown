@@ -1,7 +1,7 @@
 ---
 title: "Adnan Hussain"
 description: "Adnan Hussain is a Mid-career Soil Carbon researcher at National Chung Cheng University in TW. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.567028
+date: 2026-08-11T01:33:11.500210
 url: "/cdr-researcher-census/researchers/adnan-hussain-a5102868/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Assessing the impact of land use and land cover changes on soil properties and carbon sequestration in the upper Himalayan Region of Gilgit, Pakistan** (2024)
-   13 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 ## External Profiles
 

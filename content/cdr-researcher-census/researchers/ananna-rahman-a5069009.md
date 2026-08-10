@@ -1,7 +1,7 @@
 ---
 title: "Ananna Rahman"
 description: "Ananna Rahman is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.587645
+date: 2026-08-11T01:33:11.519294
 url: "/cdr-researcher-census/researchers/ananna-rahman-a5069009/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The impact of weathering, iron oxides, and aluminous clays on organic carbon storage and stability in an extensive tropical river system** (2025)
-   4 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 ## External Profiles
 

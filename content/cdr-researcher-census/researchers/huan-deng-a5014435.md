@@ -1,7 +1,7 @@
 ---
 title: "Huan Deng"
 description: "Huan Deng is a Senior Biochar researcher at Nanjing Normal University in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.174694
+date: 2026-08-11T01:33:12.059905
 url: "/cdr-researcher-census/researchers/huan-deng-a5014435/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    21 citations · General CDR
 
 2. **Polycaprolactone-Modified Biochar Supported Nanoscale Zero-Valent Iron Coupling with Shewanella putrefaciens CN32 for 1,1,1-Trichloroethane Removal from Simulated Groundwater: Synthesis, Optimization, and Mechanism** (2023)
-   9 citations · Biochar
+   10 citations · Biochar
 
 3. **Unraveling climate–land cover interactions: how SSP–RCP scenarios drive ecosystem service trade-offs in contrasting Yangtze and Yellow River Basins, China** (2026)
    3 citations · General CDR

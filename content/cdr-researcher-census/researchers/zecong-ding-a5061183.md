@@ -1,7 +1,7 @@
 ---
 title: "Zecong Ding"
 description: "Zecong Ding is a Mid-career Soil Carbon researcher at Ministry of Ecology and Environment in CN. With 33 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.346840
+date: 2026-08-11T01:33:11.309807
 url: "/cdr-researcher-census/researchers/zecong-ding-a5061183/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    101 citations · Soil Carbon
 
 2. **Organic Carbon Sequestration by Secondary Fe–Mn Complex Minerals via the Anoxic Redox Reaction of Fe(II) and Birnessite** (2025)
-   17 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 ## External Profiles
 

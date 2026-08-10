@@ -1,7 +1,7 @@
 ---
 title: "Jon McCalmont"
 description: "Jon McCalmont is a Senior BECCS researcher at University of Exeter in GB. With 62 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.234532
+date: 2026-08-11T01:33:11.206640
 url: "/cdr-researcher-census/researchers/jon-mccalmont-a5053097/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Perennial biomass cropping and use: Shaping the policy ecosystem in European countries** (2023)
-   51 citations · BECCS
+   53 citations · BECCS
 
 2. **Species selection determines carbon allocation and turnover in Miscanthus crops: Implications for biomass production and C sequestration** (2023)
    19 citations
@@ -68,10 +68,10 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 6. **Assessing the Sustainability of Miscanthus and Willow as Global Bioenergy Crops: Current and Future Climate Conditions (Part 2)** (2025)
    2 citations
 
-7. **Assessing the Sustainability of Miscanthus and Willow as Global Bioenergy Crops: Current and Future Climate Conditions (Part 2)** (2025)
-   1 citations · BECCS
+7. **Effect of tillage method on early root growth of <i>Miscanthus</i>** (2025)
+   2 citations · BECCS
 
-8. **Effect of tillage method on early root growth of <i>Miscanthus</i>** (2025)
+8. **Assessing the Sustainability of Miscanthus and Willow as Global Bioenergy Crops: Current and Future Climate Conditions (Part 2)** (2025)
    1 citations · BECCS
 
 9. **Dynamics of <i>Miscanthus</i> spp. Overwinter Leaf Litter Drop and Decomposition** (2025)

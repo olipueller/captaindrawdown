@@ -1,7 +1,7 @@
 ---
 title: "Jung-Tai Lu"
 description: "Jung-Tai Lu is a Senior Soil Carbon researcher at National Sun Yat-sen University in TW. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.031463
+date: 2026-08-11T01:33:11.907048
 url: "/cdr-researcher-census/researchers/jung-tai-lu-a5025342/"
 layout: "researcher"
 hiddenInHomeList: true

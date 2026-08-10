@@ -1,7 +1,7 @@
 ---
 title: "Rajni Yadav"
 description: "Rajni Yadav is a Mid-career Biochar researcher. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.314995
+date: 2026-08-11T01:33:12.183429
 url: "/cdr-researcher-census/researchers/rajni-yadav-a5101194/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    12 citations · Biochar
 
 2. **Pattern of litterfall production and nutrient addition in soil through litterfall by different tree species: A review** (2023)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 ## External Profiles
 

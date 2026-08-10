@@ -1,7 +1,7 @@
 ---
 title: "Ying Zhou"
 description: "Ying Zhou is a Mid-career Enhanced Weathering researcher at Johannes Gutenberg University Mainz in DE. With 34 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.442911
+date: 2026-08-11T01:33:11.392711
 url: "/cdr-researcher-census/researchers/ying-zhou-a5053099/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    9 citations · Enhanced Weathering
 
 2. **Soil formation and weathering over the past 60 kyr reconstructed using lithium isotopes from Maar records** (2026)
-   0 citations · Enhanced Weathering
+   1 citations · Enhanced Weathering
 
 ## External Profiles
 

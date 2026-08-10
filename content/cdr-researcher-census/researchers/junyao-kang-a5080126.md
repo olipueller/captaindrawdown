@@ -1,7 +1,7 @@
 ---
 title: "Junyao Kang"
 description: "Junyao Kang is a Mid-career Enhanced Weathering researcher at Fraunhofer Institute for Telecommunications, Heinrich Hertz Institute in DE. With 27 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.409718
+date: 2026-08-11T01:33:12.269591
 url: "/cdr-researcher-census/researchers/junyao-kang-a5080126/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,19 +53,22 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 1. **Agronomic co-benefits of enhanced rock weathering (ERW) with basalt applied to sugarcane grown on acidic soil in Brazil** (2025)
    1 citations · Enhanced Weathering
 
-2. **Project Araçari -- Health and Safety Dataset** (2026)
-   0 citations · Enhanced Weathering
+2. **A meta-analysis of the agronomic benefits of silicate rock powders in Brazil in the context of a novel classification** (2026)
+   0 citations
 
 3. **Project Araçari -- Health and Safety Dataset** (2026)
    0 citations · Enhanced Weathering
 
-4. **Carbon dioxide removal and co-benefits of enhanced weathering in tropical soils: a case study with sugarcane in Brazil** (2025)
+4. **Project Araçari -- Health and Safety Dataset** (2026)
    0 citations · Enhanced Weathering
 
-5. **Unlocking Gigatonne-scale Carbon Dioxide Removal with strategic tipping point frameworks** (2025)
+5. **Carbon dioxide removal and co-benefits of enhanced weathering in tropical soils: a case study with sugarcane in Brazil** (2025)
    0 citations · Enhanced Weathering
 
-6. **An assessment of the agronomic benefits of silicate rock powders in Brazil in the context of a novel classification** (2025)
+6. **Unlocking Gigatonne-scale Carbon Dioxide Removal with strategic tipping point frameworks** (2025)
+   0 citations · Enhanced Weathering
+
+7. **An assessment of the agronomic benefits of silicate rock powders in Brazil in the context of a novel classification** (2025)
    0 citations · Enhanced Weathering
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Marco Panettieri"
 description: "Marco Panettieri is a Mid-career Soil Carbon researcher at Instituto de Ciencias Agrarias in ES. With 79 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.299397
+date: 2026-08-11T01:33:11.266650
 url: "/cdr-researcher-census/researchers/marco-panettieri-a5078130/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yutaro Akimoto"
 description: "Yutaro Akimoto is a Senior Enhanced Weathering researcher at University of Tsukuba in JP. With 65 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.655829
+date: 2026-08-11T01:33:11.580489
 url: "/cdr-researcher-census/researchers/yutaro-akimoto-a5065451/"
 layout: "researcher"
 hiddenInHomeList: true

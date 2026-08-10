@@ -1,7 +1,7 @@
 ---
 title: "Linfang Tan"
 description: "Linfang Tan is a Mid-career Soil Carbon researcher at Huazhong Agricultural University in CN. With 21 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.560417
+date: 2026-08-11T01:33:11.494519
 url: "/cdr-researcher-census/researchers/linfang-tan-a5064720/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Erosion and deposition regulate soil carbon by mediating Fe-Carbon fixation mode in a typical catchment in the black soil region of Northeastern China** (2023)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 2. **Spatial heterogeneity of soil functions in the gully vicinity within a watershed: coupling effects of landscape characteristics and ridge practices** (2026)
    1 citations · Soil Carbon

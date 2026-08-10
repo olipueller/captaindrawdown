@@ -1,7 +1,7 @@
 ---
 title: "Gaoyang Qiu"
 description: "Gaoyang Qiu is a Mid-career Enhanced Weathering researcher at ZheJiang Academy of Agricultural Sciences in CN. With 16 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.484184
+date: 2026-08-11T01:33:11.427356
 url: "/cdr-researcher-census/researchers/gaoyang-qiu-a5004371/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Soil carbon turnover and balance in the priming effects of basalt, montmorillonite, and kaolinite in a Luvisol soil** (2023)
-   12 citations · Enhanced Weathering
+   13 citations · Enhanced Weathering
 
 2. **Evaluating basalt weathering for organic-inorganic ‘double carbon’ stabilization of the soil priming effect** (2023)
    0 citations · Enhanced Weathering

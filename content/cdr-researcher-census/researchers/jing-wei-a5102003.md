@@ -1,7 +1,7 @@
 ---
 title: "Jing Wei"
 description: "Jing Wei is a Senior Biochar researcher at Zhaoqing University in CN. With 59 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.185470
+date: 2026-08-11T01:33:11.160138
 url: "/cdr-researcher-census/researchers/jing-wei-a5102003/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    6 citations · Biochar
 
 3. **Bacteria-inoculated biochar boosts copper immobilization and carbon sequestration via microbial restructuring and pH regulation** (2025)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

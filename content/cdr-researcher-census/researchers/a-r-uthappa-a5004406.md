@@ -1,7 +1,7 @@
 ---
 title: "A. R. Uthappa"
 description: "A. R. Uthappa is a Mid-career Soil Carbon researcher at Central Coastal Agricultural Research Institute in IN. With 51 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.344005
+date: 2026-08-11T01:33:11.307056
 url: "/cdr-researcher-census/researchers/a-r-uthappa-a5004406/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,21 +48,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Degraded land rehabilitation through agroforestry in India: Achievements, current understanding, and future prospectives** (2023)
-   110 citations · Soil Carbon
+   119 citations · Soil Carbon
 
 2. **Carbon Sequestration Potential of Commercial Agroforestry Systems in Indo-Gangetic Plains of India: Poplar and Eucalyptus-Based Agroforestry Systems** (2023)
    72 citations · Soil Carbon
 
 3. **Global assessment of production benefits and risk reduction in agroforestry during extreme weather events under climate change scenarios** (2024)
-   30 citations · General CDR
+   32 citations · General CDR
 
 4. **Nature-based solutions for enhancing CO2 sequestration and rehabilitating degraded lands through silvo-aromatic system and soil moisture conservation techniques** (2025)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
-5. **Mulberry based agroforestry system and canopy management practices to combat soil erosion and enhancing carbon sequestration in degraded lands of Himalayan foothills** (2024)
-   13 citations · Soil Carbon
+5. **Optimizing planting geometries in eucalyptus-based food production systems for enhanced yield and carbon sequestration** (2024)
+   14 citations · Soil Carbon
 
-6. **Optimizing planting geometries in eucalyptus-based food production systems for enhanced yield and carbon sequestration** (2024)
+6. **Mulberry based agroforestry system and canopy management practices to combat soil erosion and enhancing carbon sequestration in degraded lands of Himalayan foothills** (2024)
    13 citations · Soil Carbon
 
 7. **Degraded Land Restoration Through Aromatic Plants in India: A Nature‐Based Solution** (2025)

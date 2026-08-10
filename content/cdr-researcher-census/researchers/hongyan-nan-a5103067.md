@@ -1,7 +1,7 @@
 ---
 title: "Hongyan Nan"
 description: "Hongyan Nan is a Senior Biochar researcher at Zhengzhou University in CN. With 44 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.197644
+date: 2026-08-11T01:33:11.171857
 url: "/cdr-researcher-census/researchers/hongyan-nan-a5103067/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Pyrolysis temperature-dependent carbon retention and stability of biochar with participation of calcium: Implications to carbon sequestration** (2021)
-   134 citations · Biochar
+   135 citations · Biochar
 
 2. **Minerals: A missing role for enhanced biochar carbon sequestration from the thermal conversion of biomass to the application in soil** (2022)
    50 citations · Biochar
 
 3. **How does ball-milling elevate biochar as a value-added peroxydisulfate activator for antibiotics removal?** (2024)
-   45 citations · Biochar
+   46 citations · Biochar
 
 4. **Unlocking the potential of element-doped biochar: from tailored synthesis to multifunctional applications in environment and energy** (2025)
-   35 citations · Biochar
+   39 citations · Biochar
 
 5. **New Insights into the Enhancement Effect of Exogenous Calcium on Biochar Stability during Its Aging in Farmland Soil** (2023)
    4 citations

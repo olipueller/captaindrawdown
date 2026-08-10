@@ -1,7 +1,7 @@
 ---
 title: "Carmen Segura"
 description: "Carmen Segura is a Senior Soil Carbon researcher at Rothamsted Research in GB. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.814103
+date: 2026-08-11T01:33:11.722832
 url: "/cdr-researcher-census/researchers/carmen-segura-a5083523/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    13 citations · Soil Carbon
 
 2. **What evidence exists relating the impact of different grassland management practices to soil carbon in livestock systems? A systematic map protocol** (2024)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 3. **Grasslands and soil carbon: What can livestock management practices teach us? A global map of scientific knowledge** (2026)
    0 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Yaying Feng"
 description: "Yaying Feng is a Mid-career Soil Carbon researcher at Guizhou University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.451580
+date: 2026-08-11T01:33:11.399660
 url: "/cdr-researcher-census/researchers/yaying-feng-a5102291/"
 layout: "researcher"
 hiddenInHomeList: true

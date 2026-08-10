@@ -1,7 +1,7 @@
 ---
 title: "Liang Chen"
 description: "Liang Chen is a Mid-career Soil Carbon researcher at Central South University of Forestry and Technology in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.858461
+date: 2026-08-11T01:33:11.761128
 url: "/cdr-researcher-census/researchers/liang-chen-a5115883/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Enzymatic Stoichiometry Reveals the Metabolic Limitations of Soil Microbes under Nitrogen and Phosphorus Addition in Chinese Fir Plantations** (2024)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 2. **Long-term field observations of the impacts of drought and stand development on runoff in a forested watershed** (2025)
    3 citations

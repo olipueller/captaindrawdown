@@ -1,7 +1,7 @@
 ---
 title: "Sibo Zeng"
 description: "Sibo Zeng is a Mid-career Enhanced Weathering researcher at Southwest University in CN. With 40 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.338665
+date: 2026-08-11T01:33:11.301907
 url: "/cdr-researcher-census/researchers/sibo-zeng-a5072963/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Large-scale CO2 removal by enhanced carbonate weathering from changes in land-use practices** (2022)
-   49 citations · Enhanced Weathering
+   50 citations · Enhanced Weathering
 
 2. **A greening Earth has reversed the trend of decreasing carbonate weathering under a warming climate** (2025)
-   22 citations · Enhanced Weathering
+   24 citations · Enhanced Weathering
 
 3. **Carbon sinks associated with biological carbon pump in karst surface waters: Progress, challenges, and prospects** (2024)
-   20 citations · General CDR
+   22 citations · General CDR
 
 4. **High stability of carbonate weathering relevant carbon sink under biological pump effect in inland waters: Insights from Shawan Karst Experimental Site, Southwest China** (2024)
-   14 citations · Enhanced Weathering
+   15 citations · Enhanced Weathering
 
 5. **Carbon capture and storage via enhanced carbonate weathering coupled with aquatic photosynthesis: Potential, cost, and advantages** (2025)
-   8 citations · Enhanced Weathering
+   11 citations · Enhanced Weathering
 
 6. **Extreme dry climate conditions undermine the benefits of ecological restoration on carbonate weathering: A case study from 7 years of monitoring data for an underground river in a typical karst trough valley, in Southwest China** (2025)
    2 citations

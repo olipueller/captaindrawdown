@@ -1,7 +1,7 @@
 ---
 title: "Xingchi Guo"
 description: "Xingchi Guo is a Senior Soil Carbon researcher at Landscape Institute in GB. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.150172
+date: 2026-08-11T01:33:12.037825
 url: "/cdr-researcher-census/researchers/xingchi-guo-a5102635/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Spectroscopic Evidence of Soil Carbon and DOM Transformation Across an 8–63-Year Paddy Chronosequence in Western Jilin, China** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

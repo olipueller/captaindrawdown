@@ -1,7 +1,7 @@
 ---
 title: "Yunxing Bai"
 description: "Yunxing Bai is a Mid-career Soil Carbon researcher at Guizhou University in CN. With 38 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.557502
+date: 2026-08-11T01:33:11.491561
 url: "/cdr-researcher-census/researchers/yunxing-bai-a5101577/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Mixing of pine and arbuscular mycorrhizal tree species changed soil organic carbon storage by affecting soil microbial characteristics** (2024)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 2. **Tree species influence microbiome-mediated nutrient sequestration in soil aggregates of subtropical plantations in China** (2025)
    9 citations
 
 3. **Soil phosphorus compared to nitrogen limitation increases the uncertainty of subsoil organic carbon sequestration in Pinus massoniana mixed forests** (2024)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 4. **Grazing Intensity Alters Vertical Nutrient Stratification Through Plant–Soil Cascading Effects in Karst Grasslands of Southern Guizhou, China** (2025)
    2 citations · Soil Carbon

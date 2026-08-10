@@ -1,7 +1,7 @@
 ---
 title: "Aaron Ferderer"
 description: "Aaron Ferderer is a Mid-career Ocean CDR researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.825414
+date: 2026-08-11T01:33:11.732427
 url: "/cdr-researcher-census/researchers/aaron-ferderer-a5058513/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Assessing the influence of ocean alkalinity enhancement on a coastal phytoplankton community** (2022)
-   155 citations · Ocean CDR
+   158 citations · Ocean CDR
 
 2. **Investigating the effect of nickel concentration on phytoplankton growth to assess potential side-effects of ocean alkalinity enhancement** (2022)
-   61 citations · Enhanced Weathering
+   62 citations · Enhanced Weathering
 
 3. **Investigating the effect of silicate- and calcium-based ocean alkalinity enhancement on diatom silicification** (2024)
    34 citations · Ocean CDR
@@ -65,11 +65,11 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 5. **Assessing the influence of ocean alkalinity enhancement on a coastal phytoplankton community** (2022)
    10 citations
 
-6. **Technical note: Ocean Alkalinity Enhancement Pelagic Impact Intercomparison Project (OAEPIIP)** (2024)
+6. **Winners and losers under hydroxide‐based ocean alkalinity enhancement in a Tasmanian plankton community** (2025)
    8 citations · Ocean CDR
 
-7. **Winners and losers under hydroxide‐based ocean alkalinity enhancement in a Tasmanian plankton community** (2025)
-   7 citations · Ocean CDR
+7. **Technical note: Ocean Alkalinity Enhancement Pelagic Impact Intercomparison Project (OAEPIIP)** (2024)
+   8 citations · Ocean CDR
 
 8. **Investigating the effect of nickel concentration on phytoplankton growth to inform the assessment of ocean alkalinity enhancement** (2022)
    4 citations · Enhanced Weathering

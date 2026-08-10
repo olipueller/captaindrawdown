@@ -1,7 +1,7 @@
 ---
 title: "Irmina Ćwieląg‐Piasecka"
 description: "Irmina Ćwieląg‐Piasecka is a Senior Soil Carbon researcher at Wroclaw University of Environmental and Life Sciences in PL. With 51 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.479596
+date: 2026-08-11T01:33:11.423169
 url: "/cdr-researcher-census/researchers/irmina-cwielagpiasecka-a5042130/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effect of Six Different Feedstocks on Biochar’s Properties and Expected Stability** (2022)
-   41 citations · Biochar
+   46 citations · Biochar
 
 2. **Deashed Wheat-Straw Biochar as a Potential Superabsorbent for Pesticides** (2023)
-   34 citations · Biochar
+   35 citations · Biochar
 
 3. **Enzyme Activity and Dissolved Organic Carbon Content in Soils Amended with Different Types of Biochar and Exogenous Organic Matter** (2023)
-   14 citations
+   15 citations
 
 4. **Biochar and Organic Fertilizer Co-Application Enhances Soil Carbon Priming, Increasing CO2 Fluxes in Two Contrasting Arable Soils** (2023)
    11 citations

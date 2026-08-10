@@ -1,7 +1,7 @@
 ---
 title: "Periyasamy Rathinapriya"
 description: "Periyasamy Rathinapriya is a Mid-career Soil Carbon researcher at National Institute of Horticultural and Herbal Science, Rural Development Administration in KR. With 26 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.486582
+date: 2026-08-11T01:33:11.429269
 url: "/cdr-researcher-census/researchers/periyasamy-rathinapriya-a5048968/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Coupling of microbial-explicit model and machine learning improves the prediction and turnover process simulation of soil organic carbon** (2024)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 2. **Effect of biochar and organic amendments on improving soil quality and apple orchard productivity: a 2-year field study** (2025)
    5 citations · Biochar

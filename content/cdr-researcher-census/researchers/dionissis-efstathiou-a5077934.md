@@ -1,7 +1,7 @@
 ---
 title: "Dionissis Efstathiou"
 description: "Dionissis Efstathiou is a Senior Soil Carbon researcher at Health Innovations (United States) in US. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.729915
+date: 2026-08-11T01:33:11.647233
 url: "/cdr-researcher-census/researchers/dionissis-efstathiou-a5077934/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Optimizing the water-ecosystem-food nexus using nature-based solutions at the basin scale** (2024)
-   16 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 2. **Modeling soil functions of forested ecosystems** (2025)
    2 citations · Soil Carbon

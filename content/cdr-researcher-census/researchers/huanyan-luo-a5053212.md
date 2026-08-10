@@ -1,7 +1,7 @@
 ---
 title: "Huanyan Luo"
 description: "Huanyan Luo is a Mid-career Biochar researcher at Sichuan University in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.579203
+date: 2026-08-11T01:33:11.511187
 url: "/cdr-researcher-census/researchers/huanyan-luo-a5053212/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar enhances Cd mineralization through microbially induced carbonate precipitation as a soil remediation strategy for rice paddies** (2024)
-   5 citations · Biochar
+   7 citations · Biochar
 
 ## External Profiles
 

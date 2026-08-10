@@ -1,7 +1,7 @@
 ---
 title: "Ninghui Xie"
 description: "Ninghui Xie is a Mid-career Soil Carbon researcher at Inner Mongolia University for Nationalities in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.827205
+date: 2026-08-11T01:33:11.734053
 url: "/cdr-researcher-census/researchers/ninghui-xie-a5065551/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Distributions of straw-derived carbon in Mollisol’s aggregates under different fertilization practices** (2021)
-   12 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 2. **Effects of Adding Different Corn Residue Components on Soil and Aggregate Organic Carbon** (2025)
    7 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Zhongyang Huo"
 description: "Zhongyang Huo is a Mid-career Biochar researcher at Yangzhou University in CN. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.528011
+date: 2026-08-11T01:33:11.464828
 url: "/cdr-researcher-census/researchers/zhongyang-huo-a5061355/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Preparation of biochar-interpenetrated iron-alginate hydrogel as a pH-independent sorbent for removal of Cr(VI) and Pb(II)** (2021)
-   100 citations · Biochar
+   101 citations · Biochar
 
 ## External Profiles
 

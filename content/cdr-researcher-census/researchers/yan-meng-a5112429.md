@@ -1,7 +1,7 @@
 ---
 title: "Yan Meng"
 description: "Yan Meng is a Mid-career Biochar researcher at Shandong Academy of Agricultural Sciences in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.207058
+date: 2026-08-11T01:33:12.089333
 url: "/cdr-researcher-census/researchers/yan-meng-a5112429/"
 layout: "researcher"
 hiddenInHomeList: true

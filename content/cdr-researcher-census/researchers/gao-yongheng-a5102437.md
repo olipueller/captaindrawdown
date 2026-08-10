@@ -1,7 +1,7 @@
 ---
 title: "Gao Yongheng"
 description: "Gao Yongheng is a Mid-career Enhanced Weathering researcher at Chinese Academy of Sciences in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.182045
+date: 2026-08-11T01:33:12.066619
 url: "/cdr-researcher-census/researchers/gao-yongheng-a5102437/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Shrub Encroachment Increases Deep Soil Carbon Stocks and Reduces Carbon Turnover Rates in Alpine Meadows on the Tibetan Plateau** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 2. **Rethinking CO<sub>2</sub> Removal Efficiency in Enhanced Rock Weathering** (2025)
    0 citations · Enhanced Weathering

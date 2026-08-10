@@ -1,7 +1,7 @@
 ---
 title: "Lucas Antônio Telles Rodrigues"
 description: "Lucas Antônio Telles Rodrigues is a Mid-career Soil Carbon researcher at Universidade Federal do Rio Grande do Sul in BR. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.091379
+date: 2026-08-11T01:33:11.983352
 url: "/cdr-researcher-census/researchers/lucas-antonio-telles-rodrigues-a5064749/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon sequestration capacity in no-till soil decreases in the long-term due to saturation of fine silt plus clay-size fraction** (2022)
-   38 citations · Soil Carbon
+   39 citations · Soil Carbon
 
 ## External Profiles
 

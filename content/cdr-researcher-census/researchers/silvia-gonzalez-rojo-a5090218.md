@@ -1,7 +1,7 @@
 ---
 title: "Silvia González-Rojo"
 description: "Silvia González-Rojo is a Mid-career Biochar researcher at Universidad de León in ES. With 38 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.420661
+date: 2026-08-11T01:33:11.373261
 url: "/cdr-researcher-census/researchers/silvia-gonzalez-rojo-a5090218/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Strategies for PPCP Removal from Sewage Sludge in a Circular Economy Context** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 2. **&lt;span class="word"&gt;Strategies &lt;span class="word"&gt;for &lt;span class="word allCaps"&gt;PPCP &lt;span class="word"&gt;&lt;span class="changedDisabled"&gt;Removal &lt;span class="word"&gt;from &lt;span class="word"&gt;&lt;span class="changedDisabled"&gt;Sewage &lt;span class="word"&gt;&lt;span class="changedDisabled"&gt;Sludge &lt;span class="word"&gt;in &lt;span class="word"&gt;a &lt;span class="word"&gt;&lt;span class="changedDisabled"&gt;Circular &lt;span class="word"&gt;&lt;span class="changedDisabled"&gt;Economy &lt;span class="word"&gt;&lt;span class="changedDisabled"&gt;Context** (2026)
    0 citations · Biochar

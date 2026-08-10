@@ -1,7 +1,7 @@
 ---
 title: "Raja Chowdhury"
 description: "Raja Chowdhury is a Senior General CDR researcher. With 33 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.554725
+date: 2026-08-11T01:33:11.489125
 url: "/cdr-researcher-census/researchers/raja-chowdhury-a5065872/"
 layout: "researcher"
 hiddenInHomeList: true

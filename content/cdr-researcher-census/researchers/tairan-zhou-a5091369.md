@@ -1,7 +1,7 @@
 ---
 title: "Tairan Zhou"
 description: "Tairan Zhou is a Mid-career Soil Carbon researcher at China Agricultural University in CN. With 37 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.071126
+date: 2026-08-11T01:33:11.965352
 url: "/cdr-researcher-census/researchers/tairan-zhou-a5091369/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    11 citations · Soil Carbon
 
 3. **Amendment of saline-alkali soils promotes the formation and stability of iron-bound organic carbon** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 4. **Enhancement of the Formation and Stability of Iron-Bound Organic Carbon in Saline-alkali soils through Soil Improvement and Its Potential Mechanisms** (2025)
    0 citations · Soil Carbon

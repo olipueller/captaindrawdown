@@ -1,7 +1,7 @@
 ---
 title: "Marisol Yglesias-González"
 description: "Marisol Yglesias-González is a Mid-career General CDR researcher at Universidad Peruana Cayetano Heredia in PE. With 13 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.122562
+date: 2026-08-11T01:33:11.101311
 url: "/cdr-researcher-census/researchers/marisol-yglesias-gonzalez-a5047684/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The 2023 Latin America report of the Lancet Countdown on health and climate change: the imperative for health-centred climate-resilient development** (2024)
-   88 citations · General CDR
+   93 citations · General CDR
 
 ## External Profiles
 

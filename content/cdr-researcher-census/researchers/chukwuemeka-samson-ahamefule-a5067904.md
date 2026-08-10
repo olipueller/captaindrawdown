@@ -1,7 +1,7 @@
 ---
 title: "Chukwuemeka Samson Ahamefule"
 description: "Chukwuemeka Samson Ahamefule is a Mid-career BECCS researcher at University of Nigeria in NG. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.299094
+date: 2026-08-11T01:33:12.169801
 url: "/cdr-researcher-census/researchers/chukwuemeka-samson-ahamefule-a5067904/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Biofuel-Integrated Routes** (2023)
-   0 citations · BECCS
+   1 citations · BECCS
 
 ## External Profiles
 

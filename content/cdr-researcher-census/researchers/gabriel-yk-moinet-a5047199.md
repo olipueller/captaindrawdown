@@ -1,7 +1,7 @@
 ---
 title: "Gabriel Y.K. Moinet"
 description: "Gabriel Y.K. Moinet is a Mid-career Soil Carbon researcher at Wageningen University & Research in NL. With 54 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.313943
+date: 2026-08-11T01:33:11.280380
 url: "/cdr-researcher-census/researchers/gabriel-yk-moinet-a5047199/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,16 +48,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon for soils, not soils for carbon** (2023)
-   231 citations · General CDR
+   240 citations · General CDR
 
 2. **The challenge of selecting an appropriate soil organic carbon simulation model: A comprehensive global review and validation assessment** (2023)
-   55 citations · General CDR
+   60 citations · General CDR
 
 3. **Climate change mitigation through soil carbon sequestration in working lands: A reality check** (2023)
-   10 citations · General CDR
+   11 citations · General CDR
 
 4. **Large underestimations of warming-induced soil carbon emissions from oversimplistic Q10 indicator** (2025)
-   4 citations
+   5 citations
 
 5. **Grounding carbon farming, or how to break the market logic and promote the cocreation of farming systems** (2025)
    0 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Ranabir Chakraborty"
 description: "Ranabir Chakraborty is a Mid-career Soil Carbon researcher at Indian Institute of Water Management in IN. With 29 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.812856
+date: 2026-08-11T01:33:11.721571
 url: "/cdr-researcher-census/researchers/ranabir-chakraborty-a5053769/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Influence of Clay Mineralogy on Soil Organic Carbon Stabilization under Tropical Climate, India** (2022)
-   32 citations · Soil Carbon
+   33 citations · Soil Carbon
 
 2. **Carbon Sequestration Potential of Natural Sandalwood Forest in Southern Western Ghats, India** (2023)
    1 citations · Soil Carbon

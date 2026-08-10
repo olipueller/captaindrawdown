@@ -1,7 +1,7 @@
 ---
 title: "Rida Ihsan"
 description: "Rida Ihsan is a Mid-career Biochar researcher at University of Peshawar in PK. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.486902
+date: 2026-08-11T01:33:11.429528
 url: "/cdr-researcher-census/researchers/rida-ihsan-a5084119/"
 layout: "researcher"
 hiddenInHomeList: true

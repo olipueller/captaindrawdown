@@ -1,7 +1,7 @@
 ---
 title: "Niklas Hartmann"
 description: "Niklas Hartmann is a Senior General CDR researcher at Offenburg University of Applied Sciences in DE. With 48 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.375264
+date: 2026-08-11T01:33:11.333419
 url: "/cdr-researcher-census/researchers/niklas-hartmann-a5005409/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Energy system planning under variable solar and wind conditions: Pyrolysis as a key to system robustness through flexibility and negative emissions** (2026)
-   1 citations · Biochar
+   2 citations · Biochar
 
 2. **Pyrolysis as a strategic element in energy system transformation to achieve net zero emissions** (2025)
-   1 citations · Biochar
+   2 citations · Biochar
 
 3. **Impulse für eine Forschungsagenda zu Negativemissionstechnologien in der Energiesystemanalyse** (2026)
    0 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Shiwen Ding"
 description: "Shiwen Ding is a Mid-career Soil Carbon researcher at Northeast Normal University in CN. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.112164
+date: 2026-08-11T01:33:12.002508
 url: "/cdr-researcher-census/researchers/shiwen-ding-a5102371/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Grazing effects on the relationship between plant functional diversity and soil carbon sequestration regulated by livestock species** (2024)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 2. **Species-specific herbivore grazing of type-specific grassland can assist with promotion of shallow layer of soil carbon sequestration** (2021)
    8 citations · Soil Carbon

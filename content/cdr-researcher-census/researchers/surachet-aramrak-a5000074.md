@@ -1,7 +1,7 @@
 ---
 title: "Surachet Aramrak"
 description: "Surachet Aramrak is a Mid-career Soil Carbon researcher at Kasetsart University in TH. With 46 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.480820
+date: 2026-08-11T01:33:11.424275
 url: "/cdr-researcher-census/researchers/surachet-aramrak-a5000074/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Influence of Biochar on Unsaturated Hydraulic Characteristics of a Tropical Residual Silty Sand** (2024)
-   7 citations · Biochar
+   8 citations · Biochar
 
 2. **Impacts of long‐term tillage and fertilization on soil carbon stock and aggregate stability in tropical agriculture** (2025)
    1 citations · Soil Carbon
 
 3. **Effect of long-term maize and cassava cropping management on soil organic carbon sequestration in different soil aggregate fractions** (2024)
    1 citations · Soil Carbon
+
+4. **Data from: Impacts of long-term tillage and fertilization on soil carbon stock and aggregate stability in tropical agriculture** (2026)
+   0 citations · Soil Carbon
+
+5. **Data from: Impacts of long-term tillage and fertilization on soil carbon stock and aggregate stability in tropical agriculture** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

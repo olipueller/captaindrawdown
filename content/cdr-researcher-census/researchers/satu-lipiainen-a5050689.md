@@ -1,7 +1,7 @@
 ---
 title: "Satu Lipiäinen"
 description: "Satu Lipiäinen is a Mid-career General CDR researcher at Lappeenranta-Lahti University of Technology in FI. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.745086
+date: 2026-08-11T01:33:11.660856
 url: "/cdr-researcher-census/researchers/satu-lipiainen-a5050689/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Future of forest industry in carbon-neutral reality: Finnish and Swedish visions** (2022)
-   29 citations · General CDR
+   32 citations · General CDR
 
 2. **Effect of biomass-based carbon capture on the sustainability and economics of pulp and paper production in the Nordic mills** (2022)
    25 citations · BECCS

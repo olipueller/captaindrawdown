@@ -1,7 +1,7 @@
 ---
 title: "Phạm Nguyễn Kim Tuyến"
 description: "Phạm Nguyễn Kim Tuyến is a Mid-career Biochar researcher at Saigon University in VN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.563643
+date: 2026-08-11T01:33:12.409137
 url: "/cdr-researcher-census/researchers/pham-nguyen-kim-tuyen-a5110737/"
 layout: "researcher"
 hiddenInHomeList: true

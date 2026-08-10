@@ -1,7 +1,7 @@
 ---
 title: "Tianchen He"
 description: "Tianchen He is a Senior Enhanced Weathering researcher at Hohai University in GB. With 68 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.203094
+date: 2026-08-11T01:33:11.176961
 url: "/cdr-researcher-census/researchers/tianchen-he-a5066873/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,13 +54,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    57 citations
 
 2. **A chemical weathering control on the delivery of particulate iron to the continental shelf** (2021)
-   32 citations · Enhanced Weathering
+   34 citations · Enhanced Weathering
 
 3. **First record of the early Toarcian Oceanic Anoxic Event in the Hebrides Basin (UK) and implications for redox and weathering changes** (2021)
    27 citations · Enhanced Weathering
 
 4. **Heterogeneous sulfide reoxidation buffered oxygen release in the Ediacaran Shuram ocean** (2023)
-   9 citations
+   10 citations
 
 5. **Strontium isotope evidence for regional enhanced continental weathering during the early Toarcian in the Tethys Himalaya** (2024)
    6 citations · Enhanced Weathering

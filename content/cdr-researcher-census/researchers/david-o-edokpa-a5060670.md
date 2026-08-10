@@ -1,7 +1,7 @@
 ---
 title: "David O. Edokpa"
 description: "David O. Edokpa is a Mid-career Soil Carbon researcher at Rivers State University in NG. With 33 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.164389
+date: 2026-08-11T01:33:12.050760
 url: "/cdr-researcher-census/researchers/david-o-edokpa-a5060670/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil organic carbon stocks as driven by land use in Mato Grosso State: the Brazilian Cerrado agricultural frontier** (2024)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 2. **Unveiling the Prospects of Regenerative Agriculture in Promoting Soil-C Stocks, Food Security, and Climate Change Mollification and Resilience** (2025)
    1 citations · General CDR

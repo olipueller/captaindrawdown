@@ -1,7 +1,7 @@
 ---
 title: "André Mundstock Xavier de Carvalho"
 description: "André Mundstock Xavier de Carvalho is a Senior Enhanced Weathering researcher at Universidade Federal de Viçosa in BR. With 58 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-12T12:07:29.402232
+date: 2026-08-11T01:33:11.338040
 url: "/cdr-researcher-census/researchers/andre-mundstock-xavier-de-carvalho-a5065884/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Crushed Volcanic Rock as Soil Remineralizer: A Strategy to Overcome the Global Fertilizer Crisis** (2022)
-   26 citations
+   27 citations
 
 2. **Rock Powder Enhances Soil Nutrition and Coffee Quality in Agroforestry Systems** (2023)
    13 citations · Enhanced Weathering

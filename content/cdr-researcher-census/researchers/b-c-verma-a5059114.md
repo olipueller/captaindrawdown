@@ -1,7 +1,7 @@
 ---
 title: "B. C. Verma"
 description: "B. C. Verma is a Senior Soil Carbon researcher. With 39 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.777437
+date: 2026-08-11T01:33:11.690157
 url: "/cdr-researcher-census/researchers/b-c-verma-a5059114/"
 layout: "researcher"
 hiddenInHomeList: true

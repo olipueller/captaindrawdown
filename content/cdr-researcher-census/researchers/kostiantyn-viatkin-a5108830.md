@@ -1,7 +1,7 @@
 ---
 title: "Kostiantyn Viatkin"
 description: "Kostiantyn Viatkin is a Mid-career Enhanced Weathering researcher at Cornell University in US. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.373415
+date: 2026-08-11T01:33:11.332087
 url: "/cdr-researcher-census/researchers/kostiantyn-viatkin-a5108830/"
 layout: "researcher"
 hiddenInHomeList: true

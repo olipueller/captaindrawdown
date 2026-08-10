@@ -1,7 +1,7 @@
 ---
 title: "Peng Miao"
 description: "Peng Miao is a Mid-career Soil Carbon researcher at Horiba (Japan) in JP. With 39 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.224975
+date: 2026-08-11T01:33:11.197613
 url: "/cdr-researcher-census/researchers/peng-miao-a5015819/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Sequestration potential of phytolith occluded carbon in China's paddy rice (Oryza sativa L.) systems** (2021)
-   31 citations · Soil Carbon
+   32 citations · Soil Carbon
 
 2. **The spatial distribution of phytoliths and phytolith-occluded carbon in wheat (Triticum aestivum L.) ecosystem in China** (2022)
    25 citations · Soil Carbon
 
 3. **Phytolith-occluded carbon in residues and economic benefits under rice/single-season Zizania latifolia rotation** (2022)
-   13 citations · Biochar
+   14 citations · Biochar
 
 ## External Profiles
 

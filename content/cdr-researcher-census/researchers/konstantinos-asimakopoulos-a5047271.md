@@ -1,7 +1,7 @@
 ---
 title: "Konstantinos Asimakopoulos"
 description: "Konstantinos Asimakopoulos is a Mid-career BECCS researcher at Danmarks Tekniske Universitet in DK. With 31 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.530349
+date: 2026-08-11T01:33:11.466923
 url: "/cdr-researcher-census/researchers/konstantinos-asimakopoulos-a5047271/"
 layout: "researcher"
 hiddenInHomeList: true

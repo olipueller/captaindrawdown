@@ -1,7 +1,7 @@
 ---
 title: "Isimemen Osemwegie"
 description: "Isimemen Osemwegie is a Mid-career Biochar researcher at University of Bonn in DE. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.159792
+date: 2026-08-11T01:33:12.046503
 url: "/cdr-researcher-census/researchers/isimemen-osemwegie-a5043287/"
 layout: "researcher"
 hiddenInHomeList: true

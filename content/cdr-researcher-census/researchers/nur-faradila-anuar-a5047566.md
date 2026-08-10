@@ -1,7 +1,7 @@
 ---
 title: "Nur Faradila Anuar"
 description: "Nur Faradila Anuar is a Mid-career Biochar researcher at Universiti Teknologi MARA in MY. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.327981
+date: 2026-08-11T01:33:12.195059
 url: "/cdr-researcher-census/researchers/nur-faradila-anuar-a5047566/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Optimization and mechanistic insights into amoxicillin adsorption by KOH-modified palm kernel shell biochar: Experimental, Box-Behnken response surface methodology, and density functional theory analysis** (2025)
-   3 citations · Biochar
+   6 citations · Biochar
 
 ## External Profiles
 

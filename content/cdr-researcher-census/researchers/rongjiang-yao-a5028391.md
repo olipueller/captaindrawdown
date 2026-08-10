@@ -1,7 +1,7 @@
 ---
 title: "Rongjiang Yao"
 description: "Rongjiang Yao is a Senior Soil Carbon researcher at Institute of Soil Science in CN. With 112 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.169891
+date: 2026-08-11T01:33:11.145936
 url: "/cdr-researcher-census/researchers/rongjiang-yao-a5028391/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Salinity-dependent potential soil fungal decomposers under straw amendment** (2023)
-   29 citations · Soil Carbon
+   31 citations · Soil Carbon
 
 2. **Interactive effects of salinity and straw on the soil aggregate stability and organic carbon sequestration in saline soils in the Hetao area, China** (2024)
-   18 citations · Soil Carbon
+   20 citations · Soil Carbon
 
-3. **Soil organic carbon distribution and storage along reclamation chronosequences in a typical coastal farming area, Eastern China** (2023)
+3. **Abiotic and biotic factors mediate the decomposition of crop straw in saline farmland soils** (2025)
    5 citations · Soil Carbon
 
-4. **Abiotic and biotic factors mediate the decomposition of crop straw in saline farmland soils** (2025)
-   3 citations · Soil Carbon
+4. **Soil organic carbon distribution and storage along reclamation chronosequences in a typical coastal farming area, Eastern China** (2023)
+   5 citations · Soil Carbon
 
 5. **Long-term reclamation enhances soil organic carbon accumulation via mitigating salinity and alkalinity in coastal saline soils** (2026)
    1 citations · Soil Carbon

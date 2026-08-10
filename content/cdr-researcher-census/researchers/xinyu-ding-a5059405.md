@@ -1,7 +1,7 @@
 ---
 title: "Xinyu Ding"
 description: "Xinyu Ding is an Early-career Biochar researcher at Institute of Agricultural Resources and Regional Planning in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.274813
+date: 2026-08-11T01:33:12.149098
 url: "/cdr-researcher-census/researchers/xinyu-ding-a5059405/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar application significantly increases soil organic carbon under conservation tillage: an 11-year field experiment** (2023)
-   116 citations · Biochar
+   118 citations · Biochar
 
 ## External Profiles
 

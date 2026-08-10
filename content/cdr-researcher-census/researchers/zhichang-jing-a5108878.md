@@ -1,7 +1,7 @@
 ---
 title: "Zhichang Jing"
 description: "Zhichang Jing is a Senior Soil Carbon researcher at Qingdao Agricultural University in CN. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.324748
+date: 2026-08-11T01:33:12.192286
 url: "/cdr-researcher-census/researchers/zhichang-jing-a5108878/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    15 citations · Soil Carbon
 
 2. **Straw Incorporation and Nitrogen Fertilization Enhance Soil Organic Carbon Sequestration by Promoting Aggregate Stability and Iron Oxide Transformation** (2025)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 3. **Response of the Stabilization of Organic Carbon to Straw Incorporation and Nitrogen Application: Evidence from Carbon Fractions and Bacterial Survival Strategies** (2025)
    2 citations · Soil Carbon
+
+4. **The impact of silicon-modified biochar on carbon sequestration pathways in saline-alkali soil under different pyrolysis temperatures** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Chen-Yi Jiang"
 description: "Chen-Yi Jiang is a Mid-career Biochar researcher at Harbin Institute of Technology in CN. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.900904
+date: 2026-08-11T01:33:11.800296
 url: "/cdr-researcher-census/researchers/chen-yi-jiang-a5025363/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Enhanced Denitrification in Constructed Wetlands with Low Carbon/Nitrogen Ratios: Insights into Reallocation of Carbon Metabolism Based on Electron Utilization** (2024)
-   14 citations · Biochar
+   17 citations · Biochar
 
 ## External Profiles
 

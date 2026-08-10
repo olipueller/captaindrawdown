@@ -1,7 +1,7 @@
 ---
 title: "Timothée Bourgeois"
 description: "Timothée Bourgeois is a Mid-career General CDR researcher at Bjerknes Centre for Climate Research in NO. With 50 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.659685
+date: 2026-08-11T01:33:11.583904
 url: "/cdr-researcher-census/researchers/timothee-bourgeois-a5041193/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **On the emission-path dependency of the efficiency of ocean alkalinity enhancement** (2024)
-   18 citations · Ocean CDR
+   19 citations · Ocean CDR
 
 2. **Efficacy of individual and combined terrestrial and marine carbon dioxide removal** (2025)
    2 citations · BECCS

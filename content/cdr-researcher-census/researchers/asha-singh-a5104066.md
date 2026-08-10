@@ -1,7 +1,7 @@
 ---
 title: "Asha Singh"
 description: "Asha Singh is a Senior Biochar researcher. With 60 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.223388
+date: 2026-08-11T01:33:11.196061
 url: "/cdr-researcher-census/researchers/asha-singh-a5104066/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    173 citations · Biochar
 
 2. **Biochar-modified constructed wetlands using Eclipta alba as a plant for sustainable rural wastewater treatment** (2024)
-   17 citations · Biochar
+   18 citations · Biochar
 
 3. **Horizontal flow biochar amended constructed wetlands as a sustainable approach for rural wastewater treatment** (2024)
    0 citations · Biochar

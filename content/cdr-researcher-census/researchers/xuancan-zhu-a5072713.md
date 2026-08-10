@@ -1,7 +1,7 @@
 ---
 title: "Xuancan Zhu"
 description: "Xuancan Zhu is a Senior DAC researcher at Shanghai Jiao Tong University in CN. With 44 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.154041
+date: 2026-08-11T01:33:11.130947
 url: "/cdr-researcher-census/researchers/xuancan-zhu-a5072713/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,34 +51,34 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Recent advances in direct air capture by adsorption** (2022)
-   425 citations
+   438 citations
 
 2. **Operating temperatures affect direct air capture of CO2 in polyamine-loaded mesoporous silica** (2021)
-   140 citations
+   144 citations
 
 3. **Mixed Diethanolamine and Polyethyleneimine with Enhanced CO<sub>2</sub> Capture Capacity from Air** (2023)
-   55 citations
+   59 citations
 
 4. **Modified layered double hydroxides for efficient and reversible carbon dioxide capture from air** (2021)
-   53 citations
+   54 citations
 
 5. **The analysis and evaluation of direct air capture adsorbents on the material characterization level** (2022)
-   50 citations
+   52 citations
 
-6. **Mixed polyamines promotes CO2 adsorption from air** (2022)
+6. **Facile synthesis of structured adsorbent with enhanced hydrophobicity and low energy consumption for CO2 capture from the air** (2023)
    45 citations
 
-7. **Facile synthesis of structured adsorbent with enhanced hydrophobicity and low energy consumption for CO2 capture from the air** (2023)
-   44 citations
+7. **Mixed polyamines promotes CO2 adsorption from air** (2022)
+   45 citations
 
 8. **Additives enhancing supported amines performance in CO<sub>2</sub> capture from air** (2023)
    31 citations
 
 9. **Innovative process integrating high temperature heat pump and direct air capture** (2023)
-   28 citations
+   29 citations
 
-10. **Minimizing the effect of oxygen on supported polyamine for direct air capture** (2022)
-   27 citations
+10. **Frontier science and challenges on offshore carbon storage** (2023)
+   28 citations · General CDR
 
 ## External Profiles
 

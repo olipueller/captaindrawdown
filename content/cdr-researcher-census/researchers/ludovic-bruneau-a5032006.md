@@ -1,7 +1,7 @@
 ---
 title: "Ludovic Bruneau"
 description: "Ludovic Bruneau is a Mid-career Enhanced Weathering researcher at Centre National de la Recherche Scientifique in FR. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.739379
+date: 2026-08-11T01:33:11.656066
 url: "/cdr-researcher-census/researchers/ludovic-bruneau-a5032006/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Imran Haider"
 description: "Imran Haider is a Mid-career Soil Carbon researcher at Islamia University of Bahawalpur in PK. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.384729
+date: 2026-08-11T01:33:11.341149
 url: "/cdr-researcher-census/researchers/imran-haider-a5036484/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Impacts of Conservation Tillage on Agricultural Land Development: A Review** (2024)
-   29 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 2. **Combined Effects of Reduced Tillage and Strip Intercropping on Soil Carbon Sequestration in Semi-Arid Environment** (2025)
    7 citations · Soil Carbon
 
 3. **Wheat-Berseem intercropping system enhances soil fertility, carbon sequestration and crop productivity under nutrient-deficient conditions** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 4. **Correction: Combined Effects of Reduced Tillage and Strip Intercropping on Soil Carbon Sequestration in Semi-Arid Environment** (2025)
    0 citations · Soil Carbon

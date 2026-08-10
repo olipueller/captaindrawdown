@@ -1,7 +1,7 @@
 ---
 title: "Senthil Kumar Muniasamy"
 description: "Senthil Kumar Muniasamy is a Mid-career Ocean CDR researcher at Karpagam Academy of Higher Education in IN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.510137
+date: 2026-08-11T01:33:11.449735
 url: "/cdr-researcher-census/researchers/senthil-kumar-muniasamy-a5100751/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zhifeng Lu"
 description: "Zhifeng Lu is a Senior Soil Carbon researcher at Huazhong Agricultural University in CN. With 103 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.167525
+date: 2026-08-11T01:33:11.143725
 url: "/cdr-researcher-census/researchers/zhifeng-lu-a5024040/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Integrated rice-aquatic animals culture systems promote the sustainable development of agriculture by improving soil fertility and reducing greenhouse gas emissions** (2023)
-   34 citations · Soil Carbon
+   38 citations · Soil Carbon
 
 2. **Rice-crayfish farming increases soil organic carbon sequestration by promoting aggregate protection and microbial necromass accumulation** (2025)
    13 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Xufan Zheng"
 description: "Xufan Zheng is a Mid-career Enhanced Weathering researcher at Huazhong University of Science and Technology in CN. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.100592
+date: 2026-08-11T01:33:11.991643
 url: "/cdr-researcher-census/researchers/xufan-zheng-a5029804/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Evaluation of the kinetics of direct aqueous mineral carbonation of wood combustion ash using modified shrinking core models** (2022)
-   11 citations · Enhanced Weathering
+   12 citations · Enhanced Weathering
 
 ## External Profiles
 

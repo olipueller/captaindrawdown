@@ -1,7 +1,7 @@
 ---
 title: "Longfei Diao"
 description: "Longfei Diao is a Mid-career Soil Carbon researcher at Shaanxi Normal University in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.419006
+date: 2026-08-11T01:33:12.278245
 url: "/cdr-researcher-census/researchers/longfei-diao-a5061334/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Changes in soil organic carbon and nitrogen pool sizes, dynamics, and biochemical stability during ∼160 years natural vegetation restoration on the Loess Plateau, China** (2022)
-   37 citations · Soil Carbon
+   38 citations · Soil Carbon
 
 2. **Natural revegetation over ∼ 160 years alters carbon and nitrogen sequestration and stabilization in soil organic matter on the Loess Plateau of China** (2022)
-   32 citations · Soil Carbon
+   33 citations · Soil Carbon
 
 ## External Profiles
 

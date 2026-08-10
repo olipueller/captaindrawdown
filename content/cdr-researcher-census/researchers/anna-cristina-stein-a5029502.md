@@ -1,7 +1,7 @@
 ---
 title: "Anna Cristina Stein"
 description: "Anna Cristina Stein is a Mid-career General CDR researcher at Hospital Moinhos de Vento in BR. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.287413
+date: 2026-08-11T01:33:12.159484
 url: "/cdr-researcher-census/researchers/anna-cristina-stein-a5029502/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xingyu Sun"
 description: "Xingyu Sun is a Mid-career Soil Carbon researcher at Harbin Normal University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.193496
+date: 2026-08-11T01:33:12.077269
 url: "/cdr-researcher-census/researchers/xingyu-sun-a5034294/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term nitrogen addition further increased carbon sequestration in a boreal forest** (2021)
-   17 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 2. **Long term low-level nitrogen addition enhances microbial carbon use efficiency and turnover rate across different seasons** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 3. **Effects of Long-Term Nitrogen Addition on Glomalin-Related Soil Protein Dynamics, Soil Aggregate Stability and Organic Carbon Sequestration in the Boreal Forest** (2026)
    0 citations · Soil Carbon

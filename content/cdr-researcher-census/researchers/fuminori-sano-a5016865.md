@@ -1,7 +1,7 @@
 ---
 title: "Fuminori Sano"
 description: "Fuminori Sano is a Senior General CDR researcher at Research Institute of Innovative Technology for the Earth in JP. With 150 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.139483
+date: 2026-08-11T01:33:11.117436
 url: "/cdr-researcher-census/researchers/fuminori-sano-a5016865/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Climate change mitigation measures for global net-zero emissions and the roles of CO2 capture and utilization and direct air capture** (2021)
-   91 citations · BECCS
+   92 citations · BECCS
 
 2. **Impacts of ride and car-sharing associated with fully autonomous cars on global energy consumptions and carbon dioxide emissions** (2021)
    79 citations · General CDR
 
 3. **Assessment of comprehensive energy systems for achieving carbon neutrality in road transport** (2022)
-   25 citations · General CDR
+   26 citations · General CDR
 
 4. **The contribution of bioenergy to the decarbonization of transport: a multi-model assessment** (2022)
    21 citations · BECCS

@@ -1,7 +1,7 @@
 ---
 title: "Waleed A. Alsakkaf"
 description: "Waleed A. Alsakkaf is an Early-career Soil Carbon researcher at King Saud University in SA. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.455897
+date: 2026-08-11T01:33:12.312733
 url: "/cdr-researcher-census/researchers/waleed-a-alsakkaf-a5094209/"
 layout: "researcher"
 hiddenInHomeList: true

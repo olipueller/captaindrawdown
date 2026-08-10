@@ -1,7 +1,7 @@
 ---
 title: "Tiantian She"
 description: "Tiantian She is a Mid-career Biochar researcher at Tianjin Medical University in CN. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.594991
+date: 2026-08-11T01:33:11.525638
 url: "/cdr-researcher-census/researchers/tiantian-she-a5021512/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Transition metal induced interfacial d-p orbital hybridization boosting biochar for efficient fenton-like decontamination** (2024)
-   7 citations · Biochar
+   9 citations · Biochar
 
 2. **Transition Metal Induced Interfacial D-P Orbital Hybridization Boosting Biochar for Efficient Fenton-Like Decontamination** (2024)
    0 citations · Biochar

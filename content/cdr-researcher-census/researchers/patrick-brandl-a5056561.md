@@ -1,7 +1,7 @@
 ---
 title: "Patrick Brandl"
 description: "Patrick Brandl is a Mid-career General CDR researcher at Imperial College London in GB. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.776046
+date: 2026-08-11T01:33:11.688882
 url: "/cdr-researcher-census/researchers/patrick-brandl-a5056561/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Beyond 90% capture: Possible, but at what cost?** (2021)
-   193 citations · General CDR
+   195 citations · General CDR
 
 ## External Profiles
 

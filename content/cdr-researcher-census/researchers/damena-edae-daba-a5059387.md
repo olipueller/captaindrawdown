@@ -1,7 +1,7 @@
 ---
 title: "Damena Edae Daba"
 description: "Damena Edae Daba is a Mid-career Soil Carbon researcher at Department of Forestry in MW. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.437015
+date: 2026-08-11T01:33:12.294521
 url: "/cdr-researcher-census/researchers/damena-edae-daba-a5059387/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effect of Forest Management on Carbon Stock of Tropical Moist Afromontane Forest** (2022)
-   18 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 ## External Profiles
 

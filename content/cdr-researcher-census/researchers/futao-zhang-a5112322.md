@@ -1,7 +1,7 @@
 ---
 title: "Futao Zhang"
 description: "Futao Zhang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 29 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.601427
+date: 2026-08-11T01:33:11.531310
 url: "/cdr-researcher-census/researchers/futao-zhang-a5112322/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Responses of soil mineral-associated and particulate organic carbon to carbon input: A meta-analysis** (2022)
-   80 citations · Soil Carbon
+   103 citations · Soil Carbon
 
 2. **Soil organic carbon increase via microbial assimilation or soil protection against the priming effect is mediated by the availability of soil N relative to input C** (2024)
-   31 citations · Soil Carbon
+   35 citations · Soil Carbon
 
 3. **The Different Roles of Mineralogy in Soil Organic Carbon Accumulation in Northern and Southern China** (2023)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

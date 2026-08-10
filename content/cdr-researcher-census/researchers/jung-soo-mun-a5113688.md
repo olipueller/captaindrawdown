@@ -1,7 +1,7 @@
 ---
 title: "Jung Soo Mun"
 description: "Jung Soo Mun is a Senior General CDR researcher. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.033142
+date: 2026-08-11T01:33:11.908593
 url: "/cdr-researcher-census/researchers/jung-soo-mun-a5113688/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Continued permafrost ecosystem carbon loss under net-zero and negative emissions** (2025)
-   11 citations · General CDR
+   15 citations · General CDR
 
 ## External Profiles
 

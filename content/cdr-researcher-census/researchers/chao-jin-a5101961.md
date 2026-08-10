@@ -1,7 +1,7 @@
 ---
 title: "Chao Jin"
 description: "Chao Jin is a Senior General CDR researcher at Tianjin University in CN. With 170 publications and an h-index of 39, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.114734
+date: 2026-08-11T01:33:11.094052
 url: "/cdr-researcher-census/researchers/chao-jin-a5101961/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,14 +50,14 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Top CDR Publications
 
-1. **Deployment of hydrogen in hard-to-abate transport sectors under limited carbon dioxide removal (CDR): Implications on global energy-land-water system** (2023)
+1. **Prioritizing Non-Carbon Dioxide Removal Mitigation Strategies Could Reduce the Negative Impacts Associated with Large-Scale Reliance on Negative Emissions** (2024)
+   50 citations · General CDR
+
+2. **Deployment of hydrogen in hard-to-abate transport sectors under limited carbon dioxide removal (CDR): Implications on global energy-land-water system** (2023)
    49 citations · General CDR
 
-2. **Prioritizing Non-Carbon Dioxide Removal Mitigation Strategies Could Reduce the Negative Impacts Associated with Large-Scale Reliance on Negative Emissions** (2024)
-   48 citations · General CDR
-
 3. **Deployment expectations of multi-gigatonne scale carbon removal could have adverse impacts on Asia’s energy-water-land nexus** (2024)
-   26 citations · General CDR
+   28 citations · General CDR
 
 4. **Does China's pathway to carbon neutrality require the integration of land-based biological negative emission solutions with geochemical and chemical alternatives?** (2023)
    18 citations · Enhanced Weathering
@@ -66,7 +66,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    13 citations · General CDR
 
 6. **Scaling carbon removal without delaying emission reductions** (2025)
-   5 citations · General CDR
+   7 citations · General CDR
 
 7. **Ambitious Co-scaling of Carbon Dioxide Removal and Decarbonization Delivers Better Climate Outcomes Than Strategies That Prioritize Efforts in One Domain** (2026)
    0 citations · General CDR

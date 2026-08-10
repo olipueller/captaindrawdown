@@ -1,7 +1,7 @@
 ---
 title: "Sorina Dumitru"
 description: "Sorina Dumitru is a Mid-career Soil Carbon researcher at National Institute for Research and Development in Environmental Protection in RO. With 51 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.512535
+date: 2026-08-11T01:33:12.365140
 url: "/cdr-researcher-census/researchers/sorina-dumitru-a5024331/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil organic carbon and total nitrogen stocks related to land use and basic environmental properties − assessment of soil carbon sequestration potential in different ecosystems** (2024)
-   36 citations · General CDR
+   37 citations · General CDR
 
 2. **SOIL RESPIRATION AS MICROBIAL RESPONSE TO THE ENDOGEN INPUT OF BIO-SYNTHESIZED ORGANIC MATTER AND ITS IMPLICATION IN CARBON SEQUESTRATION** (2023)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 3. **ASSESSING CARBON SEQUESTRATION AND POSSIBLE GREENHOUSE GAS EMISSION WITHIN THE DANUBE DELTA SOILS – PAST AND CURRENT ENVIRONMENTAL CONSIDERATIONS** (2022)
    4 citations · General CDR
@@ -64,6 +64,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 5. **DYNAMICS OF SOIL ORGANIC CARBON AFTER MORE THAN 25 YEARS OF FARMING IN THE DANUBE DELTA** (2023)
    1 citations · Soil Carbon
+
+6. **THE INFLUENCE OF INOCULATION WITH SYNTHETIC MICROBIOMES ON THE EVOLUTION OF SOIL CARBON SEQUESTRATION UNDER THERMAL STRESS** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

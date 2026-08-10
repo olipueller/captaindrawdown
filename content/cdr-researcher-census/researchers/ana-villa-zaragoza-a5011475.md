@@ -1,7 +1,7 @@
 ---
 title: "Ana Villa Zaragoza"
 description: "Ana Villa Zaragoza is a Senior DAC researcher. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.434629
+date: 2026-08-11T01:33:12.292226
 url: "/cdr-researcher-census/researchers/ana-villa-zaragoza-a5011475/"
 layout: "researcher"
 hiddenInHomeList: true

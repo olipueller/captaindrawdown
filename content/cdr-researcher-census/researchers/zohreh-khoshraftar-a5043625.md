@@ -1,7 +1,7 @@
 ---
 title: "Zohreh Khoshraftar"
 description: "Zohreh Khoshraftar is a Mid-career General CDR researcher at Islamic Azad University Rasht Branch in IR. With 34 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.469772
+date: 2026-08-11T01:33:11.414830
 url: "/cdr-researcher-census/researchers/zohreh-khoshraftar-a5043625/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Characterization and evaluation of low-cost biomass-based-AC for CO2 capture: A review** (2023)
-   38 citations · Biochar
+   39 citations · Biochar
 
 2. **Organic and Inorganic CO2 Adsorbents** (2025)
    1 citations · General CDR

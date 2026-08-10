@@ -1,7 +1,7 @@
 ---
 title: "Nirupama Mallick"
 description: "Nirupama Mallick is a Mid-career General CDR researcher at Indian Institute of Technology Kharagpur in IN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.051727
+date: 2026-08-11T01:33:11.926060
 url: "/cdr-researcher-census/researchers/nirupama-mallick-a5065432/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **A circular economy approach for harnessing inorganic and organic carbons coupled with waste remediation using Chlorella minutissima for sustainable biodiesel production** (2025)
-   3 citations · General CDR
+   4 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Hang Zhai"
 description: "Hang Zhai is a Mid-career Enhanced Weathering researcher at Southwest University in CN. With 33 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.529338
+date: 2026-08-11T01:33:11.466047
 url: "/cdr-researcher-census/researchers/hang-zhai-a5085487/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,18 +51,21 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Direct Air Capture and Sequestration of CO<sub>2</sub> by Accelerated Indirect Aqueous Mineral Carbonation under Ambient Conditions** (2022)
-   47 citations · DAC
+   49 citations · DAC
 
 2. **Enhancing Aqueous Carbonation of Calcium Silicate through Acid and Base Pretreatments with Implications for Efficient Carbon Mineralization** (2023)
    30 citations · Enhanced Weathering
 
 3. **Enhancing aqueous carbonation via co-milled serpentine and wollastonite: Effects of mechanochemical activation** (2024)
-   11 citations · Enhanced Weathering
+   13 citations · Enhanced Weathering
 
-4. **Slag carbonation-driven surface activation for simultaneous crystallization of heavy metals: Implications for carbon mineralization and environmental remediation** (2025)
+4. **Trade-off between soil organic carbon accrual and stability driven by 30 years high-level phosphorus fertilization in paddy rice field** (2026)
+   0 citations
+
+5. **Slag carbonation-driven surface activation for simultaneous crystallization of heavy metals: Implications for carbon mineralization and environmental remediation** (2025)
    0 citations · Enhanced Weathering
 
-5. **Enhanced Aqueous Carbonation of Alkali-Activated Slag Improving the Removal of Heavy Metals** (2024)
+6. **Enhanced Aqueous Carbonation of Alkali-Activated Slag Improving the Removal of Heavy Metals** (2024)
    0 citations · Enhanced Weathering
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Fengfeng Du"
 description: "Fengfeng Du is a Mid-career Soil Carbon researcher at Natural Resources Conservation Service in US. With 33 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.813901
+date: 2026-08-11T01:33:11.722632
 url: "/cdr-researcher-census/researchers/fengfeng-du-a5082834/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Similar carbon accumulation rates with distinct drivers in two temperate forest restoration approaches** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 2. **Similar Carbon Accumulation Rate But with Different Drivers between Two Restoration Approaches in a Temperate Forest** (2024)
    0 citations · Soil Carbon

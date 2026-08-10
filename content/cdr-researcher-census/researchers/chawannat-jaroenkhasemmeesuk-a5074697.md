@@ -1,7 +1,7 @@
 ---
 title: "Chawannat Jaroenkhasemmeesuk"
 description: "Chawannat Jaroenkhasemmeesuk is a Mid-career DAC researcher at Chiang Mai University in TH. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.913155
+date: 2026-08-11T01:33:11.811653
 url: "/cdr-researcher-census/researchers/chawannat-jaroenkhasemmeesuk-a5074697/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Lei Zhang"
 description: "Lei Zhang is a Senior DAC researcher at National Research Council Canada in CA. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.248275
+date: 2026-08-11T01:33:11.219249
 url: "/cdr-researcher-census/researchers/lei-zhang-a5100770/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Electrochemical Cell Designs for Efficient Carbon Dioxide Reduction and Water Electrolysis: Status and Perspectives** (2025)
-   27 citations · DAC
+   39 citations · DAC
 
 ## External Profiles
 

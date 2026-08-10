@@ -1,7 +1,7 @@
 ---
 title: "Jieqiong Su"
 description: "Jieqiong Su is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 44 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.413156
+date: 2026-08-11T01:33:11.366576
 url: "/cdr-researcher-census/researchers/jieqiong-su-a5110033/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Cumulative effects of experimental nitrogen deposition on soil chemistry in a desert steppe: A 12-year field study** (2024)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 2. **Recalcification‐Driven Restoration of Degraded Calcareous Soil for Metal Sequestration: Insights From Soil Solution Chemistry Dynamics** (2025)
    1 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Himanshu Kachroo"
 description: "Himanshu Kachroo is an Early-career Biochar researcher at Helmholtz-Zentrum Dresden-Rossendorf in DE. With 15 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.429694
+date: 2026-08-11T01:33:12.287623
 url: "/cdr-researcher-census/researchers/himanshu-kachroo-a5058325/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar production and its environmental applications: Recent developments and machine learning insights** (2023)
-   83 citations · Biochar
+   89 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Danbo Pang"
 description: "Danbo Pang is a Mid-career Soil Carbon researcher at Ministry of Education of the People's Republic of China in CN. With 53 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.469139
+date: 2026-08-11T01:33:11.414306
 url: "/cdr-researcher-census/researchers/danbo-pang-a5056053/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The effect of agricultural management on soil microbial necromass: A hierarchical meta-analysis** (2024)
-   12 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 2. **Carbon Sequestration and Stability and Soil Erosion in Forest Ecosystems** (2024)
    8 citations · Soil Carbon
 
 3. **Aridity Index Explains the Accumulation of Soil Organic Carbon Sources in Grassland Ecosystem** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 4. **Elevational control on microbial residues contributions to soil organic carbon: Dual regulation by soil moisture and total nitrogen dynamics in semi-arid mountain soils** (2025)
    0 citations · Soil Carbon

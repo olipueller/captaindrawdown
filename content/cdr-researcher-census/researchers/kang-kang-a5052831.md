@@ -1,7 +1,7 @@
 ---
 title: "Kang Kang"
 description: "Kang Kang is a Mid-career Biochar researcher at Lakehead University in CA. With 43 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.396107
+date: 2026-08-11T01:33:11.351060
 url: "/cdr-researcher-census/researchers/kang-kang-a5052831/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    23 citations · Biochar
 
 2. **Sustained methane production enhancement by magnetic biochar and its recovery in semi-continuous anaerobic digestion with varying substrate C/N ratios** (2025)
-   18 citations · Biochar
+   20 citations · Biochar
 
 3. **Application of Biochar for the Removal of Heavy Metals from Industrial Wastewater** (2025)
    1 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Yen-Heng Henry Chen"
 description: "Yen-Heng Henry Chen is a Mid-career General CDR researcher at Massachusetts Institute of Technology in US. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.092604
+date: 2026-08-11T01:33:11.984699
 url: "/cdr-researcher-census/researchers/yen-heng-henry-chen-a5003525/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    28 citations · DAC
 
 2. **Integrated assessment of carbon dioxide removal portfolios: land, energy, and economic trade-offs for climate policy** (2025)
-   16 citations · BECCS
+   17 citations · BECCS
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Kumuduni Niroshika Palansooriya"
 description: "Kumuduni Niroshika Palansooriya is a Senior Biochar researcher at University of Regina in CA. With 54 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.102023
+date: 2026-08-11T01:33:11.082183
 url: "/cdr-researcher-census/researchers/kumuduni-niroshika-palansooriya-a5033246/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Natural and engineered clays and clay minerals for the removal of poly- and perfluoroalkyl substances from water: State-of-the-art and future perspectives** (2021)
-   134 citations
+   139 citations
 
 2. **Machine learning exploration of the direct and indirect roles of Fe impregnation on Cr(VI) removal by engineered biochar** (2021)
-   96 citations · Biochar
+   98 citations · Biochar
 
-3. **Sustainable phosphate removal using Mg/Ca-modified biochar hybrids: Current trends and future outlooks** (2023)
+3. **Biochar-based controlled-release fertilizers for enhancing plant growth and environmental sustainability: a review** (2025)
+   32 citations · Biochar
+
+4. **Sustainable phosphate removal using Mg/Ca-modified biochar hybrids: Current trends and future outlooks** (2023)
    28 citations · Biochar
-
-4. **Biochar-based controlled-release fertilizers for enhancing plant growth and environmental sustainability: a review** (2025)
-   27 citations · Biochar
 
 5. **Biochar Affects Greenhouse Gas Emissions from Urban Forestry Waste** (2025)
    2 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Boris Ťupek"
 description: "Boris Ťupek is a Senior Soil Carbon researcher at Natural Resources Institute Finland in FI. With 96 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.494316
+date: 2026-08-11T01:33:11.435678
 url: "/cdr-researcher-census/researchers/boris-tupek-a5050075/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **How does management affect soil C sequestration and greenhouse gas fluxes in boreal and temperate forests? – A review** (2022)
-   148 citations
+   154 citations
 
 2. **Phosphorus limitation promotes soil carbon storage in a boreal forest exposed to long‐term nitrogen fertilization** (2024)
-   28 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 3. **Simulation modelling of greenhouse gas balance in continuous-cover forestry of Norway spruce stands on nutrient-rich drained peatlands** (2021)
-   26 citations
+   28 citations
 
 4. **Norway spruce monoculture has lower resilience and carbon sequestration capacity than a more diverse broadleaved forest: A case study in Central Europe** (2025)
-   6 citations
+   7 citations
 
 5. **Long-term nitrogen fertilization alters microbial respiration sensitivity to temperature and moisture, potentially enhancing soil carbon retention in a boreal Scots pine forest** (2025)
    2 citations · Soil Carbon

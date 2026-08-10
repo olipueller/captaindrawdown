@@ -1,7 +1,7 @@
 ---
 title: "Hao‐Wei Wey"
 description: "Hao‐Wei Wey is a Mid-career General CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 28 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.162132
+date: 2026-08-11T01:33:12.048586
 url: "/cdr-researcher-census/researchers/haowei-wey-a5080453/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Exploring Site‐Specific Carbon Dioxide Removal Options With Storage or Sequestration in the Marine Environment – The 10 Mt CO<sub>2</sub> yr<sup>−1</sup> Removal Challenge for Germany** (2025)
-   7 citations · General CDR
+   8 citations · General CDR
 
 2. **CMIP6 models agree on similar carbon cycle feedbacks between enhancing terrestrial and marine carbon sinks** (2025)
    7 citations · General CDR

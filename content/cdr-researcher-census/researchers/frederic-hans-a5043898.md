@@ -1,7 +1,7 @@
 ---
 title: "Frederic Hans"
 description: "Frederic Hans is a Mid-career General CDR researcher at NewClimate Institute in DE. With 35 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.327371
+date: 2026-08-11T01:33:11.292135
 url: "/cdr-researcher-census/researchers/frederic-hans-a5043898/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Twenty years of climate policy: G20 coverage and gaps** (2021)
-   107 citations · General CDR
+   109 citations · General CDR
 
 2. **Implications of current net zero targets for long-term emissions pathways and warming levels** (2021)
    0 citations · General CDR

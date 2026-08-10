@@ -1,7 +1,7 @@
 ---
 title: "Chuqi Yuan"
 description: "Chuqi Yuan is a Mid-career Biochar researcher at Hong Kong Polytechnic University in HK. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.547839
+date: 2026-08-11T01:33:12.397326
 url: "/cdr-researcher-census/researchers/chuqi-yuan-a5016858/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Adsorption of Atrazine by Fe-Mn-Modified Biochar: The Dominant Mechanism of π–π Interaction and Pore Structure** (2022)
-   28 citations · Biochar
+   29 citations · Biochar
 
 ## External Profiles
 

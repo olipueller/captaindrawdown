@@ -1,7 +1,7 @@
 ---
 title: "Manon Mathieu"
 description: "Manon Mathieu is an Early-career Biochar researcher at IMT Mines Albi in FR. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.898811
+date: 2026-08-11T01:33:11.798365
 url: "/cdr-researcher-census/researchers/manon-mathieu-a5084948/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Huimin Huang"
 description: "Huimin Huang is a Mid-career Biochar researcher at Jiangsu University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.059191
+date: 2026-08-11T01:33:11.932942
 url: "/cdr-researcher-census/researchers/huimin-huang-a5091862/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Preparation of high performance porous carbon by microwave synergistic nitrogen/phosphorus doping for efficient removal of Cu2+ via capacitive deionization** (2023)
-   46 citations
+   48 citations
 
 2. **Effects of intrinsic and external potassium on biochar structure evolution in volatile-char interactions during biomass pyrolysis** (2025)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

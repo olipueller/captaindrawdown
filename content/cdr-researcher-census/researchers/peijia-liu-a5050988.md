@@ -1,7 +1,7 @@
 ---
 title: "Peijia Liu"
 description: "Peijia Liu is a Mid-career Soil Carbon researcher at Harbin Medical University in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.035288
+date: 2026-08-11T01:33:11.910385
 url: "/cdr-researcher-census/researchers/peijia-liu-a5050988/"
 layout: "researcher"
 hiddenInHomeList: true

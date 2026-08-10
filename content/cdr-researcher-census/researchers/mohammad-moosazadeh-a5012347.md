@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Moosazadeh"
 description: "Mohammad Moosazadeh is a Mid-career DAC researcher at Dongguk University in KR. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.104141
+date: 2026-08-11T01:33:11.994924
 url: "/cdr-researcher-census/researchers/mohammad-moosazadeh-a5012347/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,7 +53,10 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 1. **Techno-Economic and Environmental Assessments of Implementable Wastewater-to-Hydrogen Production Technologies: Pathway Towards Circular Hydrogen Economy in South Korea** (2025)
    1 citations
 
-2. **Techno-economic feasibility and life cycle carbon assessment of an integrated bioenergy driven direct air capture for sustainable hydrogen carrier production** (2026)
+2. **Thermodynamic assessment of a novel liquid direct air capture system integrated with natural gas reforming for synergistic methanol production** (2026)
+   0 citations · DAC
+
+3. **Techno-economic feasibility and life cycle carbon assessment of an integrated bioenergy driven direct air capture for sustainable hydrogen carrier production** (2026)
    0 citations · DAC
 
 ## External Profiles

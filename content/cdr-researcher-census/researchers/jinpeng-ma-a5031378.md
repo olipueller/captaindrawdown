@@ -1,7 +1,7 @@
 ---
 title: "Jinpeng Ma"
 description: "Jinpeng Ma is an Early-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.514201
+date: 2026-08-11T01:33:12.366844
 url: "/cdr-researcher-census/researchers/jinpeng-ma-a5031378/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Aridity Index Explains the Accumulation of Soil Organic Carbon Sources in Grassland Ecosystem** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 2. **Elevational control on microbial residues contributions to soil organic carbon: Dual regulation by soil moisture and total nitrogen dynamics in semi-arid mountain soils** (2025)
    0 citations · Soil Carbon

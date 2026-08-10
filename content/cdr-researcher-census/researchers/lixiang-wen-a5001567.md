@@ -1,7 +1,7 @@
 ---
 title: "Lixiang Wen"
 description: "Lixiang Wen is a Mid-career Soil Carbon researcher at Guizhou University in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.922112
+date: 2026-08-11T01:33:11.819342
 url: "/cdr-researcher-census/researchers/lixiang-wen-a5001567/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Habitat‐specific responses of soil organic matter decomposition to <scp><i>Spartina alterniflora</i></scp> invasion along China's coast** (2022)
-   5 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 ## External Profiles
 

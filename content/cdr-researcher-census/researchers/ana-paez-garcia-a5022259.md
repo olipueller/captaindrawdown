@@ -1,7 +1,7 @@
 ---
 title: "Ana Páez-García"
 description: "Ana Páez-García is a Mid-career Soil Carbon researcher at Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria in ES. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.421104
+date: 2026-08-11T01:33:11.373775
 url: "/cdr-researcher-census/researchers/ana-paez-garcia-a5022259/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Stefan Grönkvist"
 description: "Stefan Grönkvist is a Senior General CDR researcher at KTH Royal Institute of Technology in SE. With 64 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.173219
+date: 2026-08-11T01:33:11.148927
 url: "/cdr-researcher-census/researchers/stefan-gronkvist-a5027184/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,13 +54,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    33 citations · BECCS
 
 2. **Lost in the scenarios of negative emissions: The role of bioenergy with carbon capture and storage (BECCS)** (2023)
-   30 citations · BECCS
+   31 citations · BECCS
 
 3. **BECCS with combined heat and power: Assessing the energy penalty** (2021)
    28 citations · BECCS
 
 4. **BECCS with combined heat and power: assessing the energy penalty** (2021)
-   22 citations
+   23 citations
 
 5. **Smarter ways to capture carbon dioxide – exploring alternatives for small to medium-scale carbon capture in Kraft pulp mills** (2023)
    11 citations · General CDR

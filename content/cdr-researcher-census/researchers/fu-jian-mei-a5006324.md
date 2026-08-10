@@ -1,7 +1,7 @@
 ---
 title: "Fu-Jian Mei"
 description: "Fu-Jian Mei is a Mid-career Soil Carbon researcher at Henan Agricultural University in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.638269
+date: 2026-08-11T01:33:11.565082
 url: "/cdr-researcher-census/researchers/fu-jian-mei-a5006324/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Does continuous straw returning keep China farmland soil organic carbon continued increase? A meta-analysis** (2021)
-   224 citations · Soil Carbon
+   232 citations · Soil Carbon
 
 ## External Profiles
 

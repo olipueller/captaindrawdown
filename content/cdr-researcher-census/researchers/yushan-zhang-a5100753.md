@@ -1,7 +1,7 @@
 ---
 title: "Yushan Zhang"
 description: "Yushan Zhang is a Mid-career Biochar researcher at China Earthquake Disaster Prevention Centre in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.075027
+date: 2026-08-11T01:33:11.968675
 url: "/cdr-researcher-census/researchers/yushan-zhang-a5100753/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Preparation of mesoporous biogas residue biochar via a self-template strategy for efficient removal of ciprofloxacin: Effect of pyrolysis temperature** (2024)
-   22 citations · Biochar
+   25 citations · Biochar
 
 ## External Profiles
 

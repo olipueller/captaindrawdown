@@ -1,7 +1,7 @@
 ---
 title: "Tianxiao Li"
 description: "Tianxiao Li is a Senior Soil Carbon researcher at Northeast Agricultural University in CN. With 72 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.291555
+date: 2026-08-11T01:33:11.259330
 url: "/cdr-researcher-census/researchers/tianxiao-li-a5100689/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,16 +57,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    50 citations · Biochar
 
 3. **Soil environment, carbon and nitrogen cycle functional genes in response to freeze-thaw cycles and biochar** (2024)
-   49 citations · Biochar
+   50 citations · Biochar
 
 4. **Modified biochar reduces the greenhouse gas emission intensity and enhances the net ecosystem economic budget in black soil soybean fields** (2023)
    42 citations · Biochar
 
 5. **Mechanisms of soil respiration and its temperature sensitivity in black soil farmland** (2023)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 6. **Effects of coupled biochar and snow cover on soil carbon components and CO2 emissions in seasonally frozen soil areas under climate change conditions** (2024)
-   11 citations · Biochar
+   12 citations · Biochar
 
 7. **Effects of plastic film mulching and biochar on soil carbon sequestration and soybean yield in cold regions: Based on the pathways of photosynthetic carbon allocation and microbial functional genes regulation** (2025)
    5 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Fuchang Jiang"
 description: "Fuchang Jiang is a Mid-career Soil Carbon researcher at Tarim University in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.212166
+date: 2026-08-11T01:33:12.093776
 url: "/cdr-researcher-census/researchers/fuchang-jiang-a5088413/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Optimizing drip irrigation and nitrogen fertilization regimes to reduce greenhouse gas emissions, increase net ecosystem carbon budget and reduce carbon footprint in saline cotton fields** (2024)
-   57 citations · Soil Carbon
+   61 citations · Soil Carbon
 
 ## External Profiles
 

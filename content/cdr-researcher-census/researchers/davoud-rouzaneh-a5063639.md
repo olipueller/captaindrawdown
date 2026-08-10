@@ -1,7 +1,7 @@
 ---
 title: "Davoud Rouzaneh"
 description: "Davoud Rouzaneh is a Mid-career Soil Carbon researcher at Agricultural Sciences and Natural Resources University of Khuzestan. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.156932
+date: 2026-08-11T01:33:12.043903
 url: "/cdr-researcher-census/researchers/davoud-rouzaneh-a5063639/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Applying conservation agriculture practices as a strategy to control soil erosion and carbon sequestration** (2025)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 ## External Profiles
 

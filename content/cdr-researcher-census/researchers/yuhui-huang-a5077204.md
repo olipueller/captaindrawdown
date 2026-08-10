@@ -1,7 +1,7 @@
 ---
 title: "Yuhui Huang"
 description: "Yuhui Huang is a Mid-career Soil Carbon researcher at Center for Excellence in Molecular Plant Sciences in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.885019
+date: 2026-08-11T01:33:11.785986
 url: "/cdr-researcher-census/researchers/yuhui-huang-a5077204/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Rethinking the Ecosystem Functions of Dicranopteris, a Widespread Genus of Ferns** (2021)
-   43 citations
+   45 citations
 
 2. **Responses of Soil Organic Carbon Fractions and Stability to Forest Conversion in the Nanling Nature Reserve, China** (2024)
    6 citations · Soil Carbon

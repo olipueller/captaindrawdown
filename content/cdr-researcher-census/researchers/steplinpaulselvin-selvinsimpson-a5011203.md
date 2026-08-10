@@ -1,7 +1,7 @@
 ---
 title: "Steplinpaulselvin Selvinsimpson"
 description: "Steplinpaulselvin Selvinsimpson is a Mid-career Biochar researcher at Huazhong University of Science and Technology in CN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.572301
+date: 2026-08-11T01:33:11.505042
 url: "/cdr-researcher-census/researchers/steplinpaulselvin-selvinsimpson-a5011203/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Photogeneration of Reactive Species from Biochar-Derived Dissolved Black Carbon for the Degradation of Amine and Phenolic Pollutants** (2021)
-   132 citations · Biochar
+   134 citations · Biochar
 
 ## External Profiles
 

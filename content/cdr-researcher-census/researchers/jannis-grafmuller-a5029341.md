@@ -1,7 +1,7 @@
 ---
 title: "Jannis Grafmüller"
 description: "Jannis Grafmüller is a Mid-career Biochar researcher at Ithaka Harbors in US. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.511102
+date: 2026-08-11T01:33:12.363666
 url: "/cdr-researcher-census/researchers/jannis-grafmuller-a5029341/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Wood Ash as an Additive in Biomass Pyrolysis: Effects on Biochar Yield, Properties, and Agricultural Performance** (2022)
-   60 citations · Biochar
+   61 citations · Biochar
 
 2. **Proxies for use in biochar decay models: Hydropyrolysis, electric conductivity, and H/Corg molar ratio** (2025)
-   6 citations · Biochar
+   8 citations · Biochar
 
 ## External Profiles
 

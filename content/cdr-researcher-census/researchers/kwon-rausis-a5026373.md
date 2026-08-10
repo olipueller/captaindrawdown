@@ -1,7 +1,7 @@
 ---
 title: "Kwon Rausis"
 description: "Kwon Rausis is a Mid-career Enhanced Weathering researcher at Trent University in CA. With 25 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.730720
+date: 2026-08-11T01:33:11.647902
 url: "/cdr-researcher-census/researchers/kwon-rausis-a5026373/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,13 +57,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    39 citations · Enhanced Weathering
 
 3. **Passive direct air capture using calcium oxide powder: The importance of water vapor** (2024)
-   31 citations
+   32 citations
 
 4. **Are enhanced rock weathering rates overestimated? A few geochemical and mineralogical pitfalls** (2025)
-   23 citations · Enhanced Weathering
+   24 citations · Enhanced Weathering
 
 5. **Carbon dioxide supply and scaling constraints on direct air capture using calcium oxide powder** (2025)
-   4 citations
+   5 citations
 
 6. **Enhanced weathering of kimberlite residues in a field experiment: implications for carbon removal quantification and mine waste valorization** (2025)
    3 citations · Enhanced Weathering

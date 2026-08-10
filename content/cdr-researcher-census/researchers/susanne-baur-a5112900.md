@@ -1,7 +1,7 @@
 ---
 title: "Susanne Baur"
 description: "Susanne Baur is a Senior General CDR researcher at Centre National de la Recherche Scientifique in FR. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.865809
+date: 2026-08-11T01:33:11.768175
 url: "/cdr-researcher-census/researchers/susanne-baur-a5112900/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The deployment length of solar radiation modification: an interplay of mitigation, net-negative emissions and climate uncertainty** (2023)
-   41 citations · General CDR
+   43 citations · General CDR
 
 2. **Deploying Solar Radiation Modification to limit warming under a current climate policy scenario results in a multi-century commitment** (2022)
    2 citations · General CDR

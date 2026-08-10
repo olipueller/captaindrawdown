@@ -1,7 +1,7 @@
 ---
 title: "Emily Polk"
 description: "Emily Polk is a Mid-career DAC researcher at Stanford University in US. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.006585
+date: 2026-08-11T01:33:11.883501
 url: "/cdr-researcher-census/researchers/emily-polk-a5082048/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hongjia Yao"
 description: "Hongjia Yao is a Mid-career Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 7 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.622764
+date: 2026-08-11T01:33:11.550525
 url: "/cdr-researcher-census/researchers/hongjia-yao-a5014329/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Initial soil formation by biocrusts: Nitrogen demand and clay protection control microbial necromass accrual and recycling** (2022)
-   201 citations · Soil Carbon
+   205 citations · Soil Carbon
 
 2. **The accumulation of microbial necromass carbon from litter to mineral soil and its contribution to soil organic carbon sequestration** (2021)
-   114 citations · Soil Carbon
+   118 citations · Soil Carbon
 
 3. **Removal of chlorophenols in the aquatic environment by activation of peroxymonosulfate with nMnOx@Biochar hybrid composites: Performance and mechanism** (2021)
    42 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Emma Gray"
 description: "Emma Gray is a Senior Soil Carbon researcher. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.633311
+date: 2026-08-11T01:33:11.560072
 url: "/cdr-researcher-census/researchers/emma-gray-a5077524/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil carbon in tropical savannas mostly derived from grasses** (2023)
-   54 citations · Soil Carbon
+   55 citations · Soil Carbon
 
 ## External Profiles
 

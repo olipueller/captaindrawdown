@@ -1,7 +1,7 @@
 ---
 title: "Jasmin Cooper"
 description: "Jasmin Cooper is a Senior DAC researcher at Imperial College London in GB. With 39 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.380366
+date: 2026-08-11T01:33:11.337489
 url: "/cdr-researcher-census/researchers/jasmin-cooper-a5019075/"
 layout: "researcher"
 hiddenInHomeList: true

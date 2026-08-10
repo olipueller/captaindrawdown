@@ -1,7 +1,7 @@
 ---
 title: "Long Pan"
 description: "Long Pan is a Senior Biochar researcher at Tongji University in CN. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.965323
+date: 2026-08-11T01:33:11.844997
 url: "/cdr-researcher-census/researchers/long-pan-a5101610/"
 layout: "researcher"
 hiddenInHomeList: true

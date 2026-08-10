@@ -1,7 +1,7 @@
 ---
 title: "Zhanjun Wang"
 description: "Zhanjun Wang is a Mid-career Soil Carbon researcher at Zhejiang Normal University in CN. With 39 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.641004
+date: 2026-08-11T01:33:11.567316
 url: "/cdr-researcher-census/researchers/zhanjun-wang-a5115592/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Revegetation promotes soil mineral-associated organic carbon sequestration and soil carbon stability in the Tengger Desert, northern China** (2023)
-   58 citations · Soil Carbon
+   61 citations · Soil Carbon
 
 2. **Planting Ages Inhibited Soil Respiration and CO2-C Emissions Attribute to Soil Degradation in Gravel-Mulched Land in Arid Areas** (2024)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

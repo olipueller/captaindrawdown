@@ -1,7 +1,7 @@
 ---
 title: "Shima Masoumi"
 description: "Shima Masoumi is a Mid-career BECCS researcher at Université du Québec à Montréal in CA. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.377249
+date: 2026-08-11T01:33:11.335655
 url: "/cdr-researcher-census/researchers/shima-masoumi-a5025812/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Hydrochar: A Review on Its Production Technologies and Applications** (2021)
-   333 citations · Biochar
+   347 citations · Biochar
 
 2. **Effects of various carbon-supported iron catalysts on tar removal efficiency and syngas yield during catalytic biomass gasification** (2023)
    42 citations · BECCS

@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Rezvani Ghalhari"
 description: "Mohammad Rezvani Ghalhari is a Mid-career Biochar researcher at Tehran University of Medical Sciences in IR. With 58 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.430648
+date: 2026-08-11T01:33:11.382072
 url: "/cdr-researcher-census/researchers/mohammad-rezvani-ghalhari-a5021263/"
 layout: "researcher"
 hiddenInHomeList: true

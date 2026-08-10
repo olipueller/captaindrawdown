@@ -1,7 +1,7 @@
 ---
 title: "Pippa J. Chapman"
 description: "Pippa J. Chapman is an Eminent Soil Carbon researcher at University of Leeds in GB. With 200 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.106258
+date: 2026-08-11T01:33:11.085971
 url: "/cdr-researcher-census/researchers/pippa-j-chapman-a5071473/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -60,22 +60,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    41 citations · Soil Carbon
 
 4. **The emerging global agricultural soil carbon market: the case for reconciling farmers’ expectations with the demands of the market** (2023)
-   22 citations · General CDR
+   24 citations · General CDR
 
 5. **Planting hedgerows: Biomass carbon sequestration and contribution towards net-zero targets** (2023)
-   19 citations · BECCS
+   20 citations · BECCS
 
 6. **Consistent soil organic carbon accumulation under hedges driven by increase in light particulate organic matter** (2025)
    6 citations · Soil Carbon
 
-7. **Factors affecting the net ecosystem productivity of agroecosystems on mineral soils: a meta-analysis** (2025)
+7. **The role of information in shaping the emerging agricultural soil carbon market** (2025)
+   4 citations · General CDR
+
+8. **Factors affecting the net ecosystem productivity of agroecosystems on mineral soils: a meta-analysis** (2025)
    3 citations · Soil Carbon
 
-8. **Maize grown for bioenergy on peat emits twice as much carbon as when grown on mineral soil** (2024)
+9. **Maize grown for bioenergy on peat emits twice as much carbon as when grown on mineral soil** (2024)
    3 citations · BECCS
-
-9. **The role of information in shaping the emerging agricultural soil carbon market** (2025)
-   2 citations · General CDR
 
 10. **Alley width and slope position influence soil carbon storage, nutrient dynamics and hydrology at a mature silvoarable site, SW England** (2025)
    1 citations · Soil Carbon

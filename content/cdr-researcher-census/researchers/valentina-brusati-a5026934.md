@@ -1,7 +1,7 @@
 ---
 title: "Valentina Brusati"
 description: "Valentina Brusati is a Senior General CDR researcher at Saipem (Italy) in IT. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.691613
+date: 2026-08-11T01:33:11.612530
 url: "/cdr-researcher-census/researchers/valentina-brusati-a5026934/"
 layout: "researcher"
 hiddenInHomeList: true

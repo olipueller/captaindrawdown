@@ -1,7 +1,7 @@
 ---
 title: "Quan Zhou"
 description: "Quan Zhou is a Mid-career Soil Carbon researcher at Jiangxi Agricultural University in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.005353
+date: 2026-08-11T01:33:11.882307
 url: "/cdr-researcher-census/researchers/quan-zhou-a5024067/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Winter crop rotation intensification to increase rice yield, soil carbon, and microbial diversity** (2023)
-   26 citations · Soil Carbon
+   27 citations · Soil Carbon
 
 ## External Profiles
 

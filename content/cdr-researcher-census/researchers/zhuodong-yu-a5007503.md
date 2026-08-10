@@ -1,7 +1,7 @@
 ---
 title: "Zhuodong Yu"
 description: "Zhuodong Yu is a Mid-career Biochar researcher at Yangtze University in CN. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.405803
+date: 2026-08-11T01:33:11.359835
 url: "/cdr-researcher-census/researchers/zhuodong-yu-a5007503/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Efficient and low-cost adsorption of sulfamethoxazole by modified sludge-derived biochar** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

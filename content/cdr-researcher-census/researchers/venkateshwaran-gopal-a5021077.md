@@ -1,7 +1,7 @@
 ---
 title: "Venkateshwaran Gopal"
 description: "Venkateshwaran Gopal is a Senior Biochar researcher at Green Chemistry in PL. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.214915
+date: 2026-08-11T01:33:12.096662
 url: "/cdr-researcher-census/researchers/venkateshwaran-gopal-a5021077/"
 layout: "researcher"
 hiddenInHomeList: true

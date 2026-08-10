@@ -1,7 +1,7 @@
 ---
 title: "Caleb M. Woodall"
 description: "Caleb M. Woodall is a Senior BECCS researcher at Global Policy Institute in US. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.620499
+date: 2026-08-11T01:33:11.548423
 url: "/cdr-researcher-census/researchers/caleb-m-woodall-a5088329/"
 layout: "researcher"
 hiddenInHomeList: true

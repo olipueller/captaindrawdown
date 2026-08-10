@@ -1,7 +1,7 @@
 ---
 title: "Xiaorong Zhao"
 description: "Xiaorong Zhao is a Senior Soil Carbon researcher at China Three Gorges University in CN. With 66 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.160967
+date: 2026-08-11T01:33:11.137400
 url: "/cdr-researcher-census/researchers/xiaorong-zhao-a5108116/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Biochar application significantly increases soil organic carbon under conservation tillage: an 11-year field experiment** (2023)
-   116 citations · Biochar
+   118 citations · Biochar
 
 2. **Stimulatory effects of nutrient addition on microbial necromass C formation depend on soil stoichiometry** (2025)
    18 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Giulia Lotti"
 description: "Giulia Lotti is a Mid-career Biochar researcher at University of Florence in IT. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.794932
+date: 2026-08-11T01:33:11.705724
 url: "/cdr-researcher-census/researchers/giulia-lotti-a5027199/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Assessment of long-lived Carbon permanence in agricultural soil: Unearthing 15 years-old biochar from long-term field experiment in vineyard** (2024)
-   17 citations · Biochar
+   19 citations · Biochar
 
-2. **Assessment of Long-Lived Carbon Permanence in Agricultural Soil: Unearthing 15 Years-Old Biochar from Long-Term Field Experiment in Vineyard** (2024)
+2. **Is soil sampling appropriate for quantitative carbon accounting for biochar? An experimental investigation to assess soil carbon accumulation** (2025)
+   3 citations · Biochar
+
+3. **Assessment of Long-Lived Carbon Permanence in Agricultural Soil: Unearthing 15 Years-Old Biochar from Long-Term Field Experiment in Vineyard** (2024)
    2 citations · Biochar
-
-3. **Is soil sampling appropriate for quantitative carbon accounting for biochar? An experimental investigation to assess soil carbon accumulation** (2025)
-   1 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Radomir Schmidt"
 description: "Radomir Schmidt is a Senior Enhanced Weathering researcher at University of California System in US. With 50 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.206926
+date: 2026-08-11T01:33:11.180583
 url: "/cdr-researcher-census/researchers/radomir-schmidt-a5029955/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Reduced accrual of mineral-associated organic matter after two years of enhanced rock weathering in cropland soils, though no net losses of soil organic carbon** (2024)
-   31 citations · Enhanced Weathering
+   33 citations · Enhanced Weathering
 
 2. **Combining organic amendments with enhanced rock weathering shifts soil carbon storage in croplands** (2025)
-   10 citations · Enhanced Weathering
+   12 citations · Enhanced Weathering
 
 3. **Reduced accrual of mineral-associated organic matter after two years of enhanced rock weathering in cropland soils, though no net losses of soil organic carbon** (2024)
    4 citations

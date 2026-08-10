@@ -1,7 +1,7 @@
 ---
 title: "Thea Hatlen Heimdal"
 description: "Thea Hatlen Heimdal is a Mid-career Ocean CDR researcher at Lamont-Doherty Earth Observatory in US. With 34 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.630686
+date: 2026-08-11T01:33:11.557631
 url: "/cdr-researcher-census/researchers/thea-hatlen-heimdal-a5089759/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Understanding the early Paleozoic carbon cycle balance and climate change from modelling** (2022)
-   33 citations
+   34 citations
 
 2. **How well do global ocean approaches constrain local fCO <sub>2</sub> ?** (2026)
    0 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Zhenhong Huang"
 description: "Zhenhong Huang is a Mid-career Biochar researcher at Hunan University in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.104342
+date: 2026-08-11T01:33:11.995145
 url: "/cdr-researcher-census/researchers/zhenhong-huang-a5102021/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **The pH-sensitive sorption governed reduction of Cr(VI) by sludge derived biochar and the accelerating effect of organic acids** (2021)
-   47 citations · Biochar
+   48 citations · Biochar
 
 2. **Hexavalent Chromium Detoxification by Biochars: Influences of Organic and Inorganic Electron Donors** (2024)
    1 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Mijndert van der Spek"
 description: "Mijndert van der Spek is a Senior General CDR researcher at ETH Zürich in CH. With 124 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.148866
+date: 2026-08-11T01:33:11.126199
 url: "/cdr-researcher-census/researchers/mijndert-van-der-spek-a5062642/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The cost of direct air capture and storage can be reduced via strategic deployment but is unlikely to fall below stated cost targets** (2023)
-   191 citations · DAC
+   194 citations · DAC
 
 2. **The impact of binary water–CO <sub>2</sub> isotherm models on the optimal performance of sorbent-based direct air capture processes** (2021)
-   168 citations
+   173 citations
 
 3. **A roadmap for achieving scalable, safe, and low-cost direct air carbon capture and storage** (2023)
-   107 citations
+   114 citations
 
 4. **Process-informed adsorbent design guidelines for direct air capture** (2022)
-   78 citations
+   79 citations
 
 5. **An ecosystem of carbon dioxide removal reviews – part 1: direct air CO <sub>2</sub> capture and storage** (2025)
-   32 citations · General CDR
+   38 citations · General CDR
 
 6. **Discerning molecular-level CO<sub>2</sub> adsorption behavior in amine-modified sorbents within a controlled CO<sub>2</sub>/H<sub>2</sub>O environment towards direct air capture** (2024)
    24 citations
@@ -72,7 +72,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    16 citations · General CDR
 
 8. **Scientific literature on carbon dioxide removal revealed as much larger through AI-enhanced systematic mapping** (2025)
-   13 citations · General CDR
+   14 citations · General CDR
 
 9. **The cost of direct air capture and storage: the impact of technological learning, regional diversity, and policy.** (2022)
    12 citations

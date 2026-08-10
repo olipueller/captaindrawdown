@@ -1,7 +1,7 @@
 ---
 title: "Xianghui Meng"
 description: "Xianghui Meng is a Senior Soil Carbon researcher. With 49 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.260861
+date: 2026-08-11T01:33:11.230534
 url: "/cdr-researcher-census/researchers/xianghui-meng-a5100686/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,13 +46,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Artificial humic acid regulates the impact of fungal community on soil macroaggregates formation** (2023)
-   36 citations · Soil Carbon
+   37 citations · Soil Carbon
 
 2. **Microbial community assemblage altered by coprecipitation of artificial humic substances and ferrihydrite: Implications for carbon fixation pathway transformation** (2024)
-   9 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 3. **Artificial carbon materials’ impact on soil fertility and greenhouse gas emission** (2024)
-   9 citations · Biochar
+   10 citations · Biochar
 
 4. **Engineered biochar with MgO impregnation: A phosphorus vector bridging aquatic systems and agricultural soils via targeted adsorption and controlled release** (2025)
    5 citations · Biochar

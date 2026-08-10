@@ -1,7 +1,7 @@
 ---
 title: "Haruo Kanaboshi"
 description: "Haruo Kanaboshi is a Senior DAC researcher at Research Institute of Innovative Technology for the Earth in JP. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.381278
+date: 2026-08-11T01:33:12.243409
 url: "/cdr-researcher-census/researchers/haruo-kanaboshi-a5045627/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Climate change mitigation measures for global net-zero emissions and the roles of CO2 capture and utilization and direct air capture** (2021)
-   91 citations · BECCS
+   92 citations · BECCS
 
 ## External Profiles
 

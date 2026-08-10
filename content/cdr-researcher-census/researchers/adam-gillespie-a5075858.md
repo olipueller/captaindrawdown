@@ -1,7 +1,7 @@
 ---
 title: "Adam Gillespie"
 description: "Adam Gillespie is a Senior Soil Carbon researcher at University of Guelph in CA. With 92 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.207603
+date: 2026-08-11T01:33:11.181060
 url: "/cdr-researcher-census/researchers/adam-gillespie-a5075858/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,17 +53,17 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Chemical composition of soil humin in an organic soil profile** (2024)
    19 citations
 
-2. **Impacts of land use conversions on soil organic carbon in a warming-induced agricultural frontier in Northern Ontario, Canada under historical and future climate** (2023)
-   18 citations · Soil Carbon
+2. **Chemical composition and thermal stability of topsoil organic carbon: Influence of cropping system and tillage practices** (2024)
+   19 citations · Soil Carbon
 
-3. **Chemical composition and thermal stability of topsoil organic carbon: Influence of cropping system and tillage practices** (2024)
-   17 citations · Soil Carbon
+3. **Impacts of land use conversions on soil organic carbon in a warming-induced agricultural frontier in Northern Ontario, Canada under historical and future climate** (2023)
+   19 citations · Soil Carbon
 
-4. **Adaptive multi-paddock grazing increases soil carbon stocks and decreases the carbon footprint of beef production in Ontario, Canada** (2024)
-   12 citations · General CDR
+4. **Evidence for the formation of fused aromatic ring structures in an organic soil profile in the early diagenesis** (2023)
+   14 citations
 
-5. **Evidence for the formation of fused aromatic ring structures in an organic soil profile in the early diagenesis** (2023)
-   12 citations
+5. **Adaptive multi-paddock grazing increases soil carbon stocks and decreases the carbon footprint of beef production in Ontario, Canada** (2024)
+   13 citations · General CDR
 
 6. **Development of a Land Use Carbon Inventory for Agricultural Soils in the Canadian Province of Ontario** (2021)
    9 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Xiaoming Mou"
 description: "Xiaoming Mou is a Senior Soil Carbon researcher at Inner Mongolia University for Nationalities in CN. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.761493
+date: 2026-08-11T01:33:11.675796
 url: "/cdr-researcher-census/researchers/xiaoming-mou-a5013871/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,20 +50,20 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Plant species richness mediates the responses of microbial necromass carbon accumulation to climate aridity in alpine meadows** (2025)
+1. **Contrasting contributions of microbial and plant-derived C to soil carbon in desertified grassland restoration** (2025)
+   14 citations · Soil Carbon
+
+2. **Plant species richness mediates the responses of microbial necromass carbon accumulation to climate aridity in alpine meadows** (2025)
    13 citations · Soil Carbon
 
-2. **Plant species richness and legume presence increase microbial necromass carbon accumulation** (2024)
+3. **Plant species richness and legume presence increase microbial necromass carbon accumulation** (2024)
    13 citations · Soil Carbon
-
-3. **Contrasting contributions of microbial and plant-derived C to soil carbon in desertified grassland restoration** (2025)
-   11 citations · Soil Carbon
 
 4. **Reduced plant species diversity and soil carbon and nitrogen contents driven by vegetation patchiness in alpine meadows** (2024)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 5. **Waterlogging increases microbial necromass carbon and particulate organic carbon in alpine meadow soils** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 6. **Afforestation of severely desertified land in semi-arid areas promotes soil carbon and nitrogen accumulation through microbial necromass** (2026)
    1 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Liwei Zhang"
 description: "Liwei Zhang is a Mid-career Soil Carbon researcher at Shaanxi Institute of Zoology in CN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.345027
+date: 2026-08-11T01:33:12.210558
 url: "/cdr-researcher-census/researchers/liwei-zhang-a5109362/"
 layout: "researcher"
 hiddenInHomeList: true

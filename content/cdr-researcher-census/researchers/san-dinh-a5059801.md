@@ -1,7 +1,7 @@
 ---
 title: "San Dinh"
 description: "San Dinh is a Mid-career DAC researcher at West Virginia University in US. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.485949
+date: 2026-08-11T01:33:12.340093
 url: "/cdr-researcher-census/researchers/san-dinh-a5059801/"
 layout: "researcher"
 hiddenInHomeList: true

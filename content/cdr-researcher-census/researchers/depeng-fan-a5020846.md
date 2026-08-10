@@ -1,7 +1,7 @@
 ---
 title: "Depeng Fan"
 description: "Depeng Fan is a Mid-career Biochar researcher at Beike Biotechnology (China) in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.828867
+date: 2026-08-11T01:33:11.735473
 url: "/cdr-researcher-census/researchers/depeng-fan-a5020846/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jiashu Zhou"
 description: "Jiashu Zhou is a Mid-career Biochar researcher at Zhejiang A & F University in CN. With 26 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.538278
+date: 2026-08-11T01:33:11.474470
 url: "/cdr-researcher-census/researchers/jiashu-zhou-a5111136/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,11 +53,11 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 2. **Nitrogen-induced suppression of methane uptake is alleviated by biochar in a subtropical forest soil** (2025)
    3 citations · Biochar
 
-3. **Effects of maize straw and its biochar application on soil organic carbon chemical composition and carbon degradation genes in a Moso bamboo forest.** (2023)
+3. **Biochar alleviates ammonium-induced suppression of methane uptake in a subtropical forest soil** (2025)
    1 citations · Biochar
 
-4. **Biochar alleviates ammonium-induced suppression of methane uptake in a subtropical forest soil** (2025)
-   0 citations · Biochar
+4. **Effects of maize straw and its biochar application on soil organic carbon chemical composition and carbon degradation genes in a Moso bamboo forest.** (2023)
+   1 citations · Biochar
 
 ## External Profiles
 

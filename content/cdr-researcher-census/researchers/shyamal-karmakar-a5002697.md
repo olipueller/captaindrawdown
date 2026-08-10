@@ -1,7 +1,7 @@
 ---
 title: "Shyamal Karmakar"
 description: "Shyamal Karmakar is a Senior Soil Carbon researcher at University of Chittagong in BD. With 40 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.702373
+date: 2026-08-11T01:33:11.622299
 url: "/cdr-researcher-census/researchers/shyamal-karmakar-a5002697/"
 layout: "researcher"
 hiddenInHomeList: true

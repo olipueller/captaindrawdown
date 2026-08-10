@@ -1,7 +1,7 @@
 ---
 title: "W.M.P.S.B. Wahala"
 description: "W.M.P.S.B. Wahala is a Senior Ocean CDR researcher at Sabaragamuwa University of Sri Lanka in LK. With 23 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.467454
+date: 2026-08-11T01:33:12.323873
 url: "/cdr-researcher-census/researchers/wmpsb-wahala-a5000250/"
 layout: "researcher"
 hiddenInHomeList: true

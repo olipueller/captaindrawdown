@@ -1,7 +1,7 @@
 ---
 title: "Ranjan Bhattacharyya"
 description: "Ranjan Bhattacharyya is a Senior Soil Carbon researcher at Vinoba Bhave University in IN. With 82 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.224863
+date: 2026-08-11T01:33:11.197506
 url: "/cdr-researcher-census/researchers/ranjan-bhattacharyya-a5070607/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    8 citations · Soil Carbon
 
 4. **Impact of Conservation Agriculture on Soil Organic Carbon Sequestration and Enzyme Activity Under Rice–Wheat Cropping System in a Vertisol** (2024)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 5. **60 years of fertilization and liming impacts on soil organic carbon stabilization in a sub-tropical Alfisol** (2021)
    6 citations · Soil Carbon

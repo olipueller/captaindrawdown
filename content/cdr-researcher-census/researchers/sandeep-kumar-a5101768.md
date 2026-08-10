@@ -1,7 +1,7 @@
 ---
 title: "Sandeep Kumar"
 description: "Sandeep Kumar is a Mid-career Biochar researcher at Nitte University in IN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.406942
+date: 2026-08-11T01:33:11.360704
 url: "/cdr-researcher-census/researchers/sandeep-kumar-a5101768/"
 layout: "researcher"
 hiddenInHomeList: true

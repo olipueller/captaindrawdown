@@ -1,7 +1,7 @@
 ---
 title: "Maureen O. Chijioke-Okere"
 description: "Maureen O. Chijioke-Okere is a Mid-career Biochar researcher at Universiti Putra Malaysia in MY. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.475917
+date: 2026-08-11T01:33:12.330896
 url: "/cdr-researcher-census/researchers/maureen-o-chijioke-okere-a5015174/"
 layout: "researcher"
 hiddenInHomeList: true

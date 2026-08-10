@@ -1,7 +1,7 @@
 ---
 title: "Hannah Goldstein"
 description: "Hannah Goldstein is a Senior General CDR researcher at Lawrence Livermore National Laboratory in US. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.816219
+date: 2026-08-11T01:33:11.724573
 url: "/cdr-researcher-census/researchers/hannah-goldstein-a5078253/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,13 +48,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Roads to Removal: Options for Carbon Dioxide Removal in the United States** (2023)
-   60 citations · General CDR
+   61 citations · General CDR
 
 2. **Leveraging the bioeconomy for carbon drawdown** (2023)
-   53 citations · BECCS
+   55 citations · BECCS
 
 3. **Land-based resources for engineered carbon dioxide removal in the United States exceed the expected needs** (2025)
-   1 citations · General CDR
+   2 citations · General CDR
 
 4. **Direct Air Reactive Capture and Conversion for Utility-Scale Energy Storage (Final Report)** (2025)
    0 citations · DAC

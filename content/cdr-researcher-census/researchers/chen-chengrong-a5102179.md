@@ -1,7 +1,7 @@
 ---
 title: "Chen Chengrong"
 description: "Chen Chengrong is an Early-career Biochar researcher at Griffith University in AU. With 9 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.148596
+date: 2026-08-11T01:33:12.036381
 url: "/cdr-researcher-census/researchers/chen-chengrong-a5102179/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Application of Rice Husk Biochar for Achieving Sustainable Agriculture and Environment** (2021)
-   177 citations · Biochar
+   182 citations · Biochar
 
 ## External Profiles
 

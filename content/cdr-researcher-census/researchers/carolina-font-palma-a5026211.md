@@ -1,7 +1,7 @@
 ---
 title: "Carolina Font-Palma"
 description: "Carolina Font-Palma is a Senior DAC researcher at University of Hull in GB. With 56 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.201922
+date: 2026-08-11T01:33:11.175871
 url: "/cdr-researcher-census/researchers/carolina-font-palma-a5026211/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Sorption direct air capture with CO2 utilization** (2023)
-   299 citations · DAC
+   308 citations · DAC
 
 2. **Review of Cryogenic Carbon Capture Innovations and Their Potential Applications** (2021)
    152 citations · DAC
 
 3. **Experimental analysis of CO2 frost front behaviour in moving packed beds for cryogenic CO2 capture** (2021)
-   27 citations
+   28 citations
 
 4. **Scale-up strategies for adsorption-based reactors with efficient direct air capture** (2025)
-   8 citations
+   11 citations
 
 5. **Modelling tools to advance the appraisal of low-carbon hydrogen pathways to reach net zero targets** (2026)
    0 citations · BECCS

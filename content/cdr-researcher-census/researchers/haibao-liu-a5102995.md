@@ -1,7 +1,7 @@
 ---
 title: "Haibao Liu"
 description: "Haibao Liu is a Senior Biochar researcher at Ludong University in CN. With 28 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.388324
+date: 2026-08-11T01:33:11.344533
 url: "/cdr-researcher-census/researchers/haibao-liu-a5102995/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Preparation of green concrete from bamboo biochar (BB) and concrete slurry waste (CSW): Preparation method and performance evaluation** (2025)
-   13 citations · Biochar
+   14 citations · Biochar
 
 2. **Performance Optimization and Carbon Reduction Potential of Bamboo Biochar for Lightweight Artificial Aggregates** (2025)
    0 citations · Biochar

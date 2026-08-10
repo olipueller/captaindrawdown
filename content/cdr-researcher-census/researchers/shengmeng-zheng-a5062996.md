@@ -1,7 +1,7 @@
 ---
 title: "Shengmeng Zheng"
 description: "Shengmeng Zheng is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.348528
+date: 2026-08-11T01:33:11.311102
 url: "/cdr-researcher-census/researchers/shengmeng-zheng-a5062996/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Contrasting pathways of carbon sequestration in paddy and upland soils** (2021)
-   401 citations · Soil Carbon
+   418 citations · Soil Carbon
 
 ## External Profiles
 

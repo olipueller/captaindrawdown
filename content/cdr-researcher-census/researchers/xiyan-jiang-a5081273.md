@@ -1,7 +1,7 @@
 ---
 title: "Xiyan Jiang"
 description: "Xiyan Jiang is a Mid-career Biochar researcher at University of Chinese Academy of Sciences in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.510447
+date: 2026-08-11T01:33:12.362977
 url: "/cdr-researcher-census/researchers/xiyan-jiang-a5081273/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Study on the mechanism of biochar loaded typical microalgae Chlorella removal of cadmium** (2021)
-   39 citations · Biochar
+   40 citations · Biochar
 
 2. **Efficient removal of chromium by a novel biochar-microalga complex: Mechanism and performance** (2023)
-   25 citations · Biochar
+   26 citations · Biochar
 
 3. **Contrasting effects of a novel biochar-microalgae complex on arsenic and mercury removal** (2023)
    13 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Simone Speizer"
 description: "Simone Speizer is a Mid-career General CDR researcher at University of California, Berkeley in US. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.803109
+date: 2026-08-11T01:33:11.712793
 url: "/cdr-researcher-census/researchers/simone-speizer-a5082284/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Ambitious efforts on residual emissions can reduce CO<sub>2</sub> removal and lower peak temperatures in a net-zero future** (2024)
-   27 citations · General CDR
+   28 citations · General CDR
 
 2. **Ambitious Efforts on Residual Emissions can Reduce CO2 Removal and Lower Peak Temperatures in a Net-Zero Future** (2024)
    0 citations · General CDR

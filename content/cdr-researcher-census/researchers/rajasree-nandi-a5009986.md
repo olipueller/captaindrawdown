@@ -1,7 +1,7 @@
 ---
 title: "Rajasree Nandi"
 description: "Rajasree Nandi is a Mid-career Soil Carbon researcher at University of Chittagong in BD. With 32 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.251923
+date: 2026-08-11T01:33:11.222358
 url: "/cdr-researcher-census/researchers/rajasree-nandi-a5009986/"
 layout: "researcher"
 hiddenInHomeList: true

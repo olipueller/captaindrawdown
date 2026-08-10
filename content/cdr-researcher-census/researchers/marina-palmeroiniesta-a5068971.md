@@ -1,7 +1,7 @@
 ---
 title: "Marina Palmero‐Iniesta"
 description: "Marina Palmero‐Iniesta is a Mid-career General CDR researcher at Generalitat de Catalunya in ES. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.995312
+date: 2026-08-11T01:33:11.872921
 url: "/cdr-researcher-census/researchers/marina-palmeroiniesta-a5068971/"
 layout: "researcher"
 hiddenInHomeList: true

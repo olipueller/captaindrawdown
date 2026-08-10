@@ -1,7 +1,7 @@
 ---
 title: "Aman Kumar Gupta"
 description: "Aman Kumar Gupta is a Mid-career Soil Carbon researcher. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.511482
+date: 2026-08-11T01:33:12.364085
 url: "/cdr-researcher-census/researchers/aman-kumar-gupta-a5101497/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Climate-Smart Agriculture Practices for Mitigating Greenhouse Gas Emissions** (2021)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 ## External Profiles
 

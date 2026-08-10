@@ -1,7 +1,7 @@
 ---
 title: "Rida Khellouk"
 description: "Rida Khellouk is a Mid-career Soil Carbon researcher. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.393964
+date: 2026-08-11T01:33:11.349433
 url: "/cdr-researcher-census/researchers/rida-khellouk-a5031594/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Detection of urban LULC changes and its effect on soil organic carbon stocks: A case study of Béni Mellal City (Morocco)** (2021)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 ## External Profiles
 

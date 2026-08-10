@@ -1,7 +1,7 @@
 ---
 title: "Danielle Vieira Guimarães"
 description: "Danielle Vieira Guimarães is a Senior Biochar researcher at Universidade Federal de Sergipe in BR. With 34 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.749811
+date: 2026-08-11T01:33:11.665014
 url: "/cdr-researcher-census/researchers/danielle-vieira-guimaraes-a5052690/"
 layout: "researcher"
 hiddenInHomeList: true

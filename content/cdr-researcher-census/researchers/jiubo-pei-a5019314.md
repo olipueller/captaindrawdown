@@ -1,7 +1,7 @@
 ---
 title: "Jiubo Pei"
 description: "Jiubo Pei is a Mid-career Soil Carbon researcher at Shenyang Agricultural University in CN. With 34 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.385517
+date: 2026-08-11T01:33:11.341934
 url: "/cdr-researcher-census/researchers/jiubo-pei-a5019314/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -59,13 +59,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **Long‐term fertilization and plastic film mulching modify temporal incorporation of <scp> <sup>13</sup> C </scp> / <scp> <sup>15</sup> N </scp> ‐labelled particulate organic matter** (2023)
    2 citations · Soil Carbon
 
-4. **Soil fertility and crop residue type mediate microbial assimilation of crop residue carbon within aggregates** (2026)
+4. **Maize residue components dictate soil organic carbon allocation and microbial C use: Contrasting impacts modulated by soil fertility** (2026)
    0 citations
 
-5. **Reclamation and agricultural management measures altered the distribution characteristics of organic carbon and microbial biomass carbon between topsoil and subsoil** (2025)
+5. **Soil fertility and crop residue type mediate microbial assimilation of crop residue carbon within aggregates** (2026)
+   0 citations
+
+6. **Reclamation and agricultural management measures altered the distribution characteristics of organic carbon and microbial biomass carbon between topsoil and subsoil** (2025)
    0 citations · Soil Carbon
 
-6. **Long-term fertilization and PFM changed the accumulation of stalk-derived POM in soil aggregates under field conditions** (2023)
+7. **Long-term fertilization and PFM changed the accumulation of stalk-derived POM in soil aggregates under field conditions** (2023)
    0 citations · Soil Carbon
 
 ## External Profiles

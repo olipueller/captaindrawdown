@@ -1,7 +1,7 @@
 ---
 title: "Hailan Shi"
 description: "Hailan Shi is a Mid-career Soil Carbon researcher at Northwestern Polytechnical University in CN. With 29 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.599781
+date: 2026-08-11T01:33:11.529968
 url: "/cdr-researcher-census/researchers/hailan-shi-a5012831/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Grazing exclusion enriches arbuscular mycorrhizal fungal communities and improves soil organic carbon sequestration in the alpine steppe of northern Xizang** (2024)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 2. **Grazing Exclusion Enriches Arbuscular Mycorrhizal Fungal Communities and Improve Soil Organic Carbon Sequestration** (2024)
    0 citations · Soil Carbon

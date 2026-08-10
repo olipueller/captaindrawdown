@@ -1,7 +1,7 @@
 ---
 title: "Pasquale Napoletano"
 description: "Pasquale Napoletano is a Mid-career Soil Carbon researcher at The Graduate Center, CUNY in US. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.154410
+date: 2026-08-11T01:33:12.041777
 url: "/cdr-researcher-census/researchers/pasquale-napoletano-a5086617/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Pedological features affecting carbon accumulation in submerged-soils sequence assessed with Vis-NIR spectroscopy in a coastal wetland in Albania** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 2. **Soil Properties, Processes, Ecological Services and Management Practices of Mediterranean Riparian Systems** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 3. **Soil Quality: Effects of Fire, Grazing, And Agricultural Practices from Microbial Metabolism to Carbon Sequestration** (2026)
    0 citations

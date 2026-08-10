@@ -1,7 +1,7 @@
 ---
 title: "Man Zhang"
 description: "Man Zhang is an Early-career DAC researcher at Shanghai Jiao Tong University in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.600697
+date: 2026-08-11T01:33:11.530735
 url: "/cdr-researcher-census/researchers/man-zhang-a5053529/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Recent advances in direct air capture by adsorption** (2022)
-   425 citations
+   438 citations
 
 2. **Innovative process integrating high temperature heat pump and direct air capture** (2023)
-   28 citations
+   29 citations
 
 3. **Enhancing adsorbent performance for direct air capture of CO2 by in-situ amine-grafting of layered double hydroxides** (2024)
    20 citations
 
 4. **Integrated power to methanol processes with steam-assisted direct air capture** (2025)
-   6 citations · DAC
+   9 citations · DAC
 
 5. **Unraveling the interplay of adsorption and catalytic sites in Ru-Na/Al2O3 for integrated humid direct air capture and methanation** (2026)
    0 citations

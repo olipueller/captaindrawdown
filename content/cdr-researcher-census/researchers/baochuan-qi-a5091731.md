@@ -1,7 +1,7 @@
 ---
 title: "Baochuan Qi"
 description: "Baochuan Qi is a Mid-career Biochar researcher at Chongqing University in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.491762
+date: 2026-08-11T01:33:12.345971
 url: "/cdr-researcher-census/researchers/baochuan-qi-a5091731/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Enhanced nickel removal by N, S co-doped hierarchical porous biochar in capacitive deionization process: Performance and application** (2024)
-   23 citations · Biochar
+   25 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Zhaoyang Liu"
 description: "Zhaoyang Liu is a Senior Biochar researcher at Jilin University in CN. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.487915
+date: 2026-08-11T01:33:11.430358
 url: "/cdr-researcher-census/researchers/zhaoyang-liu-a5100603/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Porous Fe-doped graphitized biochar: An innovative approach for co-removing per-/polyfluoroalkyl substances with different chain lengths from natural waters and wastewater** (2023)
-   64 citations · Biochar
+   65 citations · Biochar
 
 2. **Green construction strategies to combat climate change and public-health issues** (2026)
-   2 citations · General CDR
+   4 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Shivangi Pathak"
 description: "Shivangi Pathak is a Mid-career Biochar researcher at University of Allahabad in IN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.282863
+date: 2026-08-11T01:33:12.155803
 url: "/cdr-researcher-census/researchers/shivangi-pathak-a5039502/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A state-of-the-art review of various adsorption media employed for the removal of toxic Polycyclic aromatic hydrocarbons (PAHs): An approach towards a cleaner environment** (2022)
-   63 citations
+   64 citations
 
 2. **Copper(II) removal from aqua solution using rice straw derived biochar** (2021)
    19 citations · Biochar

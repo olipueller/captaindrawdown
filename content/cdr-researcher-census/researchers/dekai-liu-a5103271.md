@@ -1,7 +1,7 @@
 ---
 title: "Dekai Liu"
 description: "Dekai Liu is a Mid-career General CDR researcher at Huaqiao University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.274166
+date: 2026-08-11T01:33:12.148569
 url: "/cdr-researcher-census/researchers/dekai-liu-a5103271/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Green and Efficient Fabrication of Polydopamine/Mega-Carbonic Anhydrase Coatings for Direct Air CO <sub>2</sub> Capture** (2025)
-   1 citations · General CDR
+   2 citations · General CDR
 
 ## External Profiles
 

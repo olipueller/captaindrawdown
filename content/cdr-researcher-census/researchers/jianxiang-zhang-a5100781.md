@@ -1,7 +1,7 @@
 ---
 title: "Jianxiang Zhang"
 description: "Jianxiang Zhang is a Mid-career Soil Carbon researcher at Nanjing Normal University in CN. With 32 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.467365
+date: 2026-08-11T01:33:11.412770
 url: "/cdr-researcher-census/researchers/jianxiang-zhang-a5100781/"
 layout: "researcher"
 hiddenInHomeList: true

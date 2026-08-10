@@ -1,7 +1,7 @@
 ---
 title: "Wenjuan Sun"
 description: "Wenjuan Sun is a Senior Soil Carbon researcher at Institute of Botany Chinese Academy of Sciences in CN. With 131 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.114988
+date: 2026-08-11T01:33:11.094297
 url: "/cdr-researcher-census/researchers/wenjuan-sun-a5101830/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Can cropland management practices lower net greenhouse emissions without compromising yield?** (2021)
-   139 citations · Soil Carbon
+   140 citations · Soil Carbon
 
 2. **Increased straw return promoted soil organic carbon accumulation in China's croplands over the past 40 years** (2024)
-   36 citations · Soil Carbon
+   39 citations · Soil Carbon
 
 3. **Land availability and policy commitments limit global climate mitigation from forestation** (2025)
-   22 citations · General CDR
+   24 citations · General CDR
 
 4. **Distinct environmental controls on above- and below-ground net primary productivity in Northern China’s grasslands** (2024)
    20 citations

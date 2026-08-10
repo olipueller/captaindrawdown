@@ -1,7 +1,7 @@
 ---
 title: "Aditya Sinha"
 description: "Aditya Sinha is a Mid-career General CDR researcher at North Carolina State University in US. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.139908
+date: 2026-08-11T01:33:12.028631
 url: "/cdr-researcher-census/researchers/aditya-sinha-a5103134/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Diverse decarbonization pathways under near cost-optimal futures** (2024)
-   37 citations · DAC
+   42 citations · DAC
 
 2. **State-led climate action can cut emissions at near-federal costs but favors different technologies** (2025)
-   7 citations · DAC
+   8 citations · DAC
 
 3. **Bioenergy pathways within United States net-zero CO2 emissions scenarios in the Energy Modeling Forum 37 study** (2025)
    2 citations · BECCS

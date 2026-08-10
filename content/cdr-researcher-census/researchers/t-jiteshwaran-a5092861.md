@@ -1,7 +1,7 @@
 ---
 title: "T. Jiteshwaran"
 description: "T. Jiteshwaran is an Early-career Biochar researcher. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.486341
+date: 2026-08-11T01:33:12.340492
 url: "/cdr-researcher-census/researchers/t-jiteshwaran-a5092861/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Harnessing iron-rich biochar boosted single crystalline Co2VO4 nano-hexagons: A green photo-Fenton catalyst for rifampicin remediation and byproduct toxicity evaluation** (2023)
-   16 citations · Biochar
+   17 citations · Biochar
 
 ## External Profiles
 

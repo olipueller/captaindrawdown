@@ -1,7 +1,7 @@
 ---
 title: "Guojun Han"
 description: "Guojun Han is a Senior Soil Carbon researcher at Gansu Agricultural University in CN. With 38 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.276261
+date: 2026-08-11T01:33:12.150295
 url: "/cdr-researcher-census/researchers/guojun-han-a5103657/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Changes in soil particulate and mineral-associated organic carbon concentrations under nitrogen addition in China—a meta-analysis** (2023)
-   48 citations · Soil Carbon
+   49 citations · Soil Carbon
 
 2. **Interaction Regulation Mechanism of Soil Organic Carbon Fraction and Greenhouse Gases by Organic and Inorganic Fertilization** (2025)
    0 citations · Soil Carbon

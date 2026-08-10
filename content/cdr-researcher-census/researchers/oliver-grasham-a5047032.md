@@ -1,7 +1,7 @@
 ---
 title: "Oliver Grasham"
 description: "Oliver Grasham is a Mid-career BECCS researcher at University of Leeds in GB. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.837662
+date: 2026-08-11T01:33:11.743065
 url: "/cdr-researcher-census/researchers/oliver-grasham-a5047032/"
 layout: "researcher"
 hiddenInHomeList: true

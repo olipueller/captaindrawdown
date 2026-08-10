@@ -1,7 +1,7 @@
 ---
 title: "Baolin Wang"
 description: "Baolin Wang is a Senior Enhanced Weathering researcher at Qilu University of Technology in CN. With 45 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.619283
+date: 2026-08-11T01:33:11.547246
 url: "/cdr-researcher-census/researchers/baolin-wang-a5100648/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -66,7 +66,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    28 citations · Enhanced Weathering
 
 6. **Impact of wet-dry cycles on enhanced rock weathering of brucite, wollastonite, serpentinite and kimberlite: Implications for carbon verification** (2023)
-   16 citations · Enhanced Weathering
+   17 citations · Enhanced Weathering
 
 7. **Changes to the mineralogical, geochemical, and isotopic compositions of mineral feedstocks during enhanced rock weathering: Implications for carbon verification** (2022)
    0 citations · Enhanced Weathering

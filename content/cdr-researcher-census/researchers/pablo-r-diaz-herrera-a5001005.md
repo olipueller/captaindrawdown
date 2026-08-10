@@ -1,7 +1,7 @@
 ---
 title: "Pablo R. Díaz-Herrera"
 description: "Pablo R. Díaz-Herrera is a Mid-career BECCS researcher. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.563300
+date: 2026-08-11T01:33:12.408843
 url: "/cdr-researcher-census/researchers/pablo-r-diaz-herrera-a5001005/"
 layout: "researcher"
 hiddenInHomeList: true

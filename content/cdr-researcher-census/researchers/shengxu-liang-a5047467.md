@@ -1,7 +1,7 @@
 ---
 title: "Shengxu Liang"
 description: "Shengxu Liang is an Early-career Biochar researcher at Henan Normal University in CN. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.986288
+date: 2026-08-11T01:33:11.864306
 url: "/cdr-researcher-census/researchers/shengxu-liang-a5047467/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Mechanism of persulfate activation by biochar for the catalytic degradation of antibiotics: Synergistic effects of environmentally persistent free radicals and the defective structure of biochar** (2021)
-   149 citations · Biochar
+   153 citations · Biochar
 
 ## External Profiles
 

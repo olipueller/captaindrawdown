@@ -1,7 +1,7 @@
 ---
 title: "Shunxi Zhou"
 description: "Shunxi Zhou is a Mid-career Biochar researcher at North West Agriculture and Forestry University in CN. With 13 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.673756
+date: 2026-08-11T01:33:11.596158
 url: "/cdr-researcher-census/researchers/shunxi-zhou-a5060219/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Co-applying biochar and manganese ore can improve the formation and stability of humic acid during co-composting of sewage sludge and corn straw** (2022)
-   29 citations · Biochar
+   30 citations · Biochar
 
 2. **Application of Biochar for the Removal of Dyes from Industrial Wastewater** (2025)
    0 citations · Biochar

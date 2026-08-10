@@ -1,7 +1,7 @@
 ---
 title: "Sahar A. Shahin"
 description: "Sahar A. Shahin is a Senior Soil Carbon researcher at National Water Research Center in EG. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.988562
+date: 2026-08-11T01:33:11.866468
 url: "/cdr-researcher-census/researchers/sahar-a-shahin-a5013061/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yiyu Liu"
 description: "Yiyu Liu is a Mid-career DAC researcher at Xihua University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.103844
+date: 2026-08-11T01:33:11.994631
 url: "/cdr-researcher-census/researchers/yiyu-liu-a5101625/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Enhanced post-combustion CO2 capture and direct air capture by plasma surface functionalization of graphene adsorbent** (2024)
-   25 citations
+   27 citations
 
 2. **Advancing the deployment and information management of direct air capture: A solution enabled by integrating consortium blockchain system** (2024)
    4 citations · DAC

@@ -1,7 +1,7 @@
 ---
 title: "Ginevra Giangeri"
 description: "Ginevra Giangeri is a Mid-career Biochar researcher at Technical University of Denmark in DK. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.904969
+date: 2026-08-11T01:33:11.803885
 url: "/cdr-researcher-census/researchers/ginevra-giangeri-a5016284/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **An integrated Metagenomic-Pangenomic strategy revealed native microbes and magnetic biochar cooperation in plasticizer degradation** (2023)
-   23 citations · Biochar
+   24 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Jonas Martin"
 description: "Jonas Martin is a Mid-career DAC researcher at Norwegian University of Science and Technology in NO. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.250396
+date: 2026-08-11T01:33:12.129096
 url: "/cdr-researcher-census/researchers/jonas-martin-a5082386/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Renewable hydrogen and synthetic fuels versus fossil fuels for trucking, shipping and aviation: A holistic cost model** (2023)
-   69 citations · DAC
+   72 citations · DAC
 
 ## External Profiles
 

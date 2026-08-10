@@ -1,7 +1,7 @@
 ---
 title: "Chunai Ma"
 description: "Chunai Ma is an Early-career General CDR researcher at China University of Petroleum, Beijing in CN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.470226
+date: 2026-08-11T01:33:12.326279
 url: "/cdr-researcher-census/researchers/chunai-ma-a5072879/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Central environmental protection inspection, green technology innovation and carbon intensity of industrial enterprises – Empirical research based on multi-period differences-in-differences model** (2024)
-   29 citations · General CDR
+   30 citations · General CDR
 
 ## External Profiles
 

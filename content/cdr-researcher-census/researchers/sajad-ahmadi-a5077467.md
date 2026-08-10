@@ -1,7 +1,7 @@
 ---
 title: "Sajad Ahmadi"
 description: "Sajad Ahmadi is a Mid-career Biochar researcher at University of Oulu in FI. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.914023
+date: 2026-08-11T01:33:11.812469
 url: "/cdr-researcher-census/researchers/sajad-ahmadi-a5077467/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar and Hydrochar from Organic Side-Streams Induce Species-Specific Responses in Plants** (2025)
-   11 citations · Biochar
+   12 citations · Biochar
 
 2. **Biochar and Hydrochar from Organic Side-Streams Have Species-Specific Responses in Plants** (2024)
    0 citations · Biochar

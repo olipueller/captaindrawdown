@@ -1,7 +1,7 @@
 ---
 title: "Julie Thivet"
 description: "Julie Thivet is an Early-career Biochar researcher at École Nationale Supérieure de Chimie de Montpellier in FR. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.458117
+date: 2026-08-11T01:33:12.314828
 url: "/cdr-researcher-census/researchers/julie-thivet-a5092447/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Synthesis, Characterization, and Adsorption Properties of Nitrogen-Doped Nanoporous Biochar: Efficient Removal of Reactive Orange 16 Dye and Colorful Effluents** (2023)
-   39 citations · Biochar
+   40 citations · Biochar
 
 ## External Profiles
 

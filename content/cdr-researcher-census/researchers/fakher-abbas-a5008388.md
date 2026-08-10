@@ -1,7 +1,7 @@
 ---
 title: "Fakher Abbas"
 description: "Fakher Abbas is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 25 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.649679
+date: 2026-08-11T01:33:11.575069
 url: "/cdr-researcher-census/researchers/fakher-abbas-a5008388/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Contribution of roots to soil organic carbon: From growth to decomposition experiment** (2023)
-   97 citations · Soil Carbon
+   102 citations · Soil Carbon
 
 2. **Shrub Encroachment: A Catalyst for Enhanced Soil Nutrients Storage in the Altai Mountains** (2025)
    2 citations · Soil Carbon

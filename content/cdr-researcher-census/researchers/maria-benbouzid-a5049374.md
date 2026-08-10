@@ -1,7 +1,7 @@
 ---
 title: "Maria Benbouzid"
 description: "Maria Benbouzid is a Mid-career Biochar researcher at Mohammed V University in MA. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.251148
+date: 2026-08-11T01:33:12.129742
 url: "/cdr-researcher-census/researchers/maria-benbouzid-a5049374/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Optimisation of chromium adsorption by the Box-Behnken design method: Isothermal and kinetic study on biochar and activated carbon** (2025)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

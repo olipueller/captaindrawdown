@@ -1,7 +1,7 @@
 ---
 title: "Liwei Qian"
 description: "Liwei Qian is a Mid-career Soil Carbon researcher at Tongji University in CN. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.212393
+date: 2026-08-11T01:33:12.093990
 url: "/cdr-researcher-census/researchers/liwei-qian-a5102336/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -60,10 +60,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    9 citations · Soil Carbon
 
 5. **The combined effects of soil moisture and salinity on the spatial differences of soil humification intensity in the Yangtze River estuarine wetlands** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 6. **Biomarker analysis revealed tidal organic carbon input enhanced soil respiration and weakened carbon sequestration function of estuarine wetland: Field validation of the Jiuduansha Wetland in the Yangtze River estuary** (2024)
-   1 citations · Ocean CDR
+   3 citations · Ocean CDR
 
 7. **The High Organic Carbon Accumulation in Estuarine Wetlands Necessarily Does Not Represent a High Co2 Sequestration Capacity** (2022)
    1 citations · General CDR

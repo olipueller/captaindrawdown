@@ -1,7 +1,7 @@
 ---
 title: "Yuanmeng Zhang"
 description: "Yuanmeng Zhang is a Mid-career Biochar researcher at Fujian Normal University in CN. With 9 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.735360
+date: 2026-08-11T01:33:11.652009
 url: "/cdr-researcher-census/researchers/yuanmeng-zhang-a5011444/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Porous pie-like nitrogen-doped biochar as a metal-free peroxymonosulfate activator for sulfamethoxazole degradation: Performance, DFT calculation and mechanism** (2023)
-   51 citations · Biochar
+   52 citations · Biochar
 
 ## External Profiles
 

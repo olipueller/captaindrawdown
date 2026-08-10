@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Ahmed Waqas"
 description: "Muhammad Ahmed Waqas is a Mid-career Soil Carbon researcher at Aarhus University in DK. With 38 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.244126
+date: 2026-08-11T01:33:11.215440
 url: "/cdr-researcher-census/researchers/muhammad-ahmed-waqas-a5101955/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,15 +51,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Microbial Metabolic Quotient is a Dynamic Indicator of Soil Health: Trends, Implications and Perspectives (Review)** (2022)
-   60 citations · General CDR
+   64 citations · General CDR
 
 2. **Long‐term manure application enhances organic carbon and nitrogen stocks in Mollisol subsoil** (2022)
    27 citations · Soil Carbon
 
-3. **Legume Inclusion in Wheat Rotations Increases Long‐Term Soil Carbon Storage via Carbon Management Indices and Microbial Stoichiometry** (2025)
-   7 citations · Soil Carbon
+3. **Organic carbon sequestration in global croplands: evidenced through a bibliometric approach** (2025)
+   8 citations · Soil Carbon
 
-4. **Organic carbon sequestration in global croplands: evidenced through a bibliometric approach** (2025)
+4. **Legume Inclusion in Wheat Rotations Increases Long‐Term Soil Carbon Storage via Carbon Management Indices and Microbial Stoichiometry** (2025)
    7 citations · Soil Carbon
 
 5. **Organic carbon and nitrogen accrual evidenced by the underpinning protection mechanisms in soil profile following contrasting 35-year fertilization regimes** (2025)

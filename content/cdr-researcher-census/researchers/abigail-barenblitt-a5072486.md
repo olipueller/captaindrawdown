@@ -1,7 +1,7 @@
 ---
 title: "Abigail Barenblitt"
 description: "Abigail Barenblitt is a Mid-career Soil Carbon researcher at Essilor (Germany) in DE. With 24 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.928526
+date: 2026-08-11T01:33:11.825042
 url: "/cdr-researcher-census/researchers/abigail-barenblitt-a5072486/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A New Global Mangrove Height Map with a 12 meter spatial resolution** (2025)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 2. **Multi-scale observations of mangrove blue carbon fluxes; the NASA Carbon Monitoring System BlueFlux field campaign** (2022)
    1 citations · General CDR

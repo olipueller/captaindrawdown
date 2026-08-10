@@ -1,7 +1,7 @@
 ---
 title: "Xing Zhou"
 description: "Xing Zhou is a Mid-career Enhanced Weathering researcher at Georgia Institute of Technology in US. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.582076
+date: 2026-08-11T01:33:12.420087
 url: "/cdr-researcher-census/researchers/xing-zhou-a5072007/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Bai‐Jian Lin"
 description: "Bai‐Jian Lin is a Mid-career Soil Carbon researcher at Northeast Agricultural University in CN. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.573847
+date: 2026-08-11T01:33:11.506506
 url: "/cdr-researcher-census/researchers/baijian-lin-a5084353/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,25 +51,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Management‐induced changes in soil organic carbon and related crop yield dynamics in China's cropland** (2023)
-   99 citations · Soil Carbon
+   101 citations · Soil Carbon
 
 2. **Impacts of the components of conservation agriculture on soil organic carbon and total nitrogen storage: A global meta-analysis** (2022)
-   95 citations · Soil Carbon
+   96 citations · Soil Carbon
 
 3. **Optimizing the rate of straw returning to balance trade-offs between carbon emission budget and rice yield in China** (2024)
-   40 citations · Soil Carbon
+   43 citations · Soil Carbon
 
 4. **Enhancing soil ecosystem multifunctionality through combined conservation tillage and legume-based crop rotation in the North China Plain** (2024)
    29 citations · Soil Carbon
 
 5. **Changes in cropland soil carbon through improved management practices in China: A meta-analysis** (2022)
-   28 citations · Soil Carbon
+   29 citations · Soil Carbon
 
 6. **Improving soil organic carbon sequestration through conservation tillage incorporating legume-based crop rotations** (2025)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 7. **From growth to decline: The dynamic effects of maize-based cropping systems on soil organic carbon storage in Northeast China** (2025)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 8. **Management-induced changes in soil organic carbon and related crop yield dynamics in China's cropland** (2023)
    0 citations · General CDR

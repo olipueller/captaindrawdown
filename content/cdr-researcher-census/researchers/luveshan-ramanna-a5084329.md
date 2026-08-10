@@ -1,7 +1,7 @@
 ---
 title: "Luveshan Ramanna"
 description: "Luveshan Ramanna is a Mid-career Ocean CDR researcher at Durban University of Technology in ZA. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.310716
+date: 2026-08-11T01:33:11.277402
 url: "/cdr-researcher-census/researchers/luveshan-ramanna-a5084329/"
 layout: "researcher"
 hiddenInHomeList: true

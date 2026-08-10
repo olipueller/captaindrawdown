@@ -1,7 +1,7 @@
 ---
 title: "Rashad S. Alghamdi"
 description: "Rashad S. Alghamdi is a Mid-career Soil Carbon researcher. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.240305
+date: 2026-08-11T01:33:12.119978
 url: "/cdr-researcher-census/researchers/rashad-s-alghamdi-a5062414/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,10 +46,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil Inorganic Carbon Formation and the Sequestration of Secondary Carbonates in Global Carbon Pools: A Review** (2024)
-   61 citations · Soil Carbon
+   68 citations · Soil Carbon
 
 2. **Coarse carbonate fragments (CCFs) and their contribution to the soil carbon stocks in the northern Great Plains, USA** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

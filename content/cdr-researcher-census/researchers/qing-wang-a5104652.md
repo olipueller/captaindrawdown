@@ -1,7 +1,7 @@
 ---
 title: "Qing Wang"
 description: "Qing Wang is a Mid-career Biochar researcher at North China Electric Power University in CN. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.398128
+date: 2026-08-11T01:33:11.352958
 url: "/cdr-researcher-census/researchers/qing-wang-a5104652/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Degradation of antibiotic pollutants by persulfate activated with various carbon materials** (2021)
-   456 citations · Biochar
+   459 citations · Biochar
 
 ## External Profiles
 

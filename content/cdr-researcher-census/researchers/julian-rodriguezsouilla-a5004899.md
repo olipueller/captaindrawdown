@@ -1,7 +1,7 @@
 ---
 title: "Julián Rodríguez‐Souilla"
 description: "Julián Rodríguez‐Souilla is a Mid-career Soil Carbon researcher at Universidad Mayor in CL. With 34 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.285479
+date: 2026-08-11T01:33:12.157906
 url: "/cdr-researcher-census/researchers/julian-rodriguezsouilla-a5004899/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Forest carbon management strategies influence storage compartmentalization in <i>Nothofagus antarctica</i> forest landscapes** (2023)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 2. **Types of silvopastoral systems: adding trees to pasture/rangelands** (2025)
    0 citations · Soil Carbon

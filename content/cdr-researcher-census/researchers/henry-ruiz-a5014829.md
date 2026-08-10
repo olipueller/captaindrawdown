@@ -1,7 +1,7 @@
 ---
 title: "Henry Ruiz"
 description: "Henry Ruiz is a Mid-career Soil Carbon researcher at Texas A&M University System in US. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.368632
+date: 2026-08-11T01:33:11.327747
 url: "/cdr-researcher-census/researchers/henry-ruiz-a5014829/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Wavelet Analysis of GPR Data for Belowground Mass Assessment of Sorghum Hybrid for Soil Carbon Sequestration** (2023)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 2. **Ground Penetrating Radar for Belowground Phenotyping of High-biomass Grasses for Soil Carbon Sequestration** (2021)
    2 citations · General CDR

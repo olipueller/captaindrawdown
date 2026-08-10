@@ -1,7 +1,7 @@
 ---
 title: "Christoph Rosinger"
 description: "Christoph Rosinger is a Senior Soil Carbon researcher at University of Cologne in DE. With 79 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.273673
+date: 2026-08-11T01:33:11.242418
 url: "/cdr-researcher-census/researchers/christoph-rosinger-a5035283/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Fungal biomass and microbial necromass facilitate soil carbon sequestration and aggregate stability under different soil tillage intensities** (2022)
-   120 citations · Soil Carbon
+   121 citations · Soil Carbon
 
 2. **On-farm soil organic carbon sequestration potentials are dominated by site effects, not by management practices** (2023)
-   39 citations · Soil Carbon
+   40 citations · Soil Carbon
 
 3. **Benchmarking carbon sequestration potentials in arable soils by on-farm research on innovative pioneer farms** (2022)
    27 citations

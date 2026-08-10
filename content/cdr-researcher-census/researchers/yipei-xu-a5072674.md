@@ -1,7 +1,7 @@
 ---
 title: "Yipei Xu"
 description: "Yipei Xu is an Early-career Soil Carbon researcher. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.465374
+date: 2026-08-11T01:33:12.321762
 url: "/cdr-researcher-census/researchers/yipei-xu-a5072674/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Agricultural management strategies for balancing yield increase, carbon sequestration, and emission reduction after straw return for three major grain crops in China: A meta-analysis** (2023)
-   106 citations · General CDR
+   109 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Saiwei Zhang"
 description: "Saiwei Zhang is a Mid-career Ocean CDR researcher at Shanghai Academy of Environmental Sciences in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.354113
+date: 2026-08-11T01:33:12.218193
 url: "/cdr-researcher-census/researchers/saiwei-zhang-a5043833/"
 layout: "researcher"
 hiddenInHomeList: true

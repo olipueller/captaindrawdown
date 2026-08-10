@@ -1,7 +1,7 @@
 ---
 title: "Sukbyung Chae"
 description: "Sukbyung Chae is a Senior Enhanced Weathering researcher at Pusan National University in KR. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.194591
+date: 2026-08-11T01:33:12.078272
 url: "/cdr-researcher-census/researchers/sukbyung-chae-a5080886/"
 layout: "researcher"
 hiddenInHomeList: true

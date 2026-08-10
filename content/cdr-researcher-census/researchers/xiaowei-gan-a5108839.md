@@ -1,7 +1,7 @@
 ---
 title: "Xiaowei Gan"
 description: "Xiaowei Gan is a Mid-career General CDR researcher at Kunming University of Science and Technology in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.210708
+date: 2026-08-11T01:33:12.092562
 url: "/cdr-researcher-census/researchers/xiaowei-gan-a5108839/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Study on using waste biomass as carbon reducing agent in industrial silicon smelting** (2024)
-   21 citations · General CDR
+   23 citations · General CDR
 
 ## External Profiles
 

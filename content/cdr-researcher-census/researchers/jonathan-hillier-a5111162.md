@@ -1,7 +1,7 @@
 ---
 title: "Jonathan Hillier"
 description: "Jonathan Hillier is a Senior Soil Carbon researcher at University of Wyoming in US. With 38 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.233279
+date: 2026-08-11T01:33:11.205455
 url: "/cdr-researcher-census/researchers/jonathan-hillier-a5111162/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Green manure rotation and application increase rice yield and soil carbon in the Yangtze River valley of China** (2022)
-   23 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 2. **Rotation with Green Manure Increased Rice Yield and Soil Carbon in Paddies from Yangtze River Valley, China** (2022)
    2 citations · Soil Carbon

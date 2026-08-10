@@ -1,7 +1,7 @@
 ---
 title: "Suphatra Hiranphinyophat"
 description: "Suphatra Hiranphinyophat is a Mid-career General CDR researcher at Chulalongkorn University in TH. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.327136
+date: 2026-08-11T01:33:12.194306
 url: "/cdr-researcher-census/researchers/suphatra-hiranphinyophat-a5013924/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Synthesized structure of Mg-MOF-74 decorated on ZIF-8 as solid adsorbent for CO2 capture** (2025)
-   9 citations · General CDR
+   10 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Samra Ijaz"
 description: "Samra Ijaz is a Mid-career Biochar researcher at University of Science and Technology of China in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.132246
+date: 2026-08-11T01:33:12.021504
 url: "/cdr-researcher-census/researchers/samra-ijaz-a5112967/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Synergistic interactions and reaction mechanisms of biochar surface functionalities in antibiotics removal from industrial wastewater** (2024)
-   60 citations · Biochar
+   64 citations · Biochar
 
 ## External Profiles
 

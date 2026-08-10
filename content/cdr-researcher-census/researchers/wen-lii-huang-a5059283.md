@@ -1,7 +1,7 @@
 ---
 title: "Wen-Lii Huang"
 description: "Wen-Lii Huang is a Senior Soil Carbon researcher at National Chiayi University in TW. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.559744
+date: 2026-08-11T01:33:11.493810
 url: "/cdr-researcher-census/researchers/wen-lii-huang-a5059283/"
 layout: "researcher"
 hiddenInHomeList: true

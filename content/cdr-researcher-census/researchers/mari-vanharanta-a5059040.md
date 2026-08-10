@@ -1,7 +1,7 @@
 ---
 title: "Mari Vanharanta"
 description: "Mari Vanharanta is a Mid-career Ocean CDR researcher at Finnish Environment Institute in FI. With 24 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.490587
+date: 2026-08-11T01:33:12.344782
 url: "/cdr-researcher-census/researchers/mari-vanharanta-a5059040/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -62,10 +62,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 4. **Particle fluxes by subtropical pelagic communities under ocean alkalinity enhancement** (2023)
    1 citations
 
-5. **Comment on egusphere-2023-2800** (2024)
+5. **Ylijäämäisen fosfaatin kohtalo pohjoisella Itämerellä: Kokeellisia näkökulmia** (2024)
    0 citations
 
-6. **Effect of different rates and modes of artificial upwelling on particle flux and potential POC deep export** (2021)
+6. **Comment on egusphere-2023-2800** (2024)
+   0 citations
+
+7. **Effect of different rates and modes of artificial upwelling on particle flux and potential POC deep export** (2021)
    0 citations · General CDR
 
 ## External Profiles

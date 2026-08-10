@@ -1,7 +1,7 @@
 ---
 title: "Upasana Sahoo"
 description: "Upasana Sahoo is a Mid-career General CDR researcher at Centurion University of Technology and Management in IN. With 30 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.167945
+date: 2026-08-11T01:33:12.054257
 url: "/cdr-researcher-census/researchers/upasana-sahoo-a5102914/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Cultivating sustainability: A comprehensive review on intercropping in a changing climate** (2023)
-   41 citations · General CDR
+   42 citations · General CDR
 
 2. **Agroforestry: A Resource Conserving Technology for Efficient Utilization of Agricultural Inputs, Leads to Food and Environmental Security** (2024)
-   14 citations · General CDR
+   15 citations · General CDR
 
 ## External Profiles
 

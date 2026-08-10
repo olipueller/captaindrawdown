@@ -1,7 +1,7 @@
 ---
 title: "Dalen Zuidema"
 description: "Dalen Zuidema is a Mid-career Soil Carbon researcher at South Dakota State University in US. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.962435
+date: 2026-08-11T01:33:11.842623
 url: "/cdr-researcher-census/researchers/dalen-zuidema-a5011490/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil carbon fraction responses to grazing intensity and texture in a semiarid grassland** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 2. **451 Establishing producer research sites for the development of beef and bison climate-smart agriculture** (2024)
    0 citations · General CDR

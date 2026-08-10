@@ -1,7 +1,7 @@
 ---
 title: "Tony Manoj K. Nandipamu"
 description: "Tony Manoj K. Nandipamu is a Mid-career Biochar researcher at Govind Ballabh Pant University of Agriculture and Technology in IN. With 27 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.226838
+date: 2026-08-11T01:33:12.107446
 url: "/cdr-researcher-census/researchers/tony-manoj-k-nandipamu-a5029018/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar application in constructed wetlands for wastewater treatment: A critical review** (2024)
-   52 citations · Biochar
+   57 citations · Biochar
 
-2. **Climate smart land configurations and cropping systems diversification sustaining soil–water–carbon synergy and resource use efficiency** (2025)
+2. **Holistic Approaches to Enhancing Climate Resilience and Biodiversity Conservation for Food Security** (2025)
+   3 citations · General CDR
+
+3. **Climate smart land configurations and cropping systems diversification sustaining soil–water–carbon synergy and resource use efficiency** (2025)
    2 citations · Soil Carbon
-
-3. **Holistic Approaches to Enhancing Climate Resilience and Biodiversity Conservation for Food Security** (2025)
-   2 citations · General CDR
 
 4. **Biochar as climate-smart strategy to address climate change mitigation and adoption in 21st century** (2024)
    2 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Jianhua Zhu"
 description: "Jianhua Zhu is a Senior Soil Carbon researcher at Xinjiang Uygur Autonomous Region Institute of Metrology and Measurement in CN. With 38 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.496910
+date: 2026-08-11T01:33:11.437948
 url: "/cdr-researcher-census/researchers/jianhua-zhu-a5012091/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    190 citations · Soil Carbon
 
 2. **Climate, soil nutrients, and stand characteristics jointly determine large-scale patterns of biomass growth rates and allocation in Pinus massoniana plantations** (2021)
-   43 citations · Soil Carbon
+   44 citations · Soil Carbon
 
 3. **Urbanization Intensifies the Mismatch between the Supply and Demand of Regional Ecosystem Services: A Large-Scale Case of the Yangtze River Economic Belt in China** (2022)
    34 citations

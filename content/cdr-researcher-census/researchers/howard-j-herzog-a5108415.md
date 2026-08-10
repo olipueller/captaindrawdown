@@ -1,7 +1,7 @@
 ---
 title: "Howard J. Herzog"
 description: "Howard J. Herzog is an Eminent General CDR researcher at Massachusetts Institute of Technology in US. With 175 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.088616
+date: 2026-08-11T01:33:11.069653
 url: "/cdr-researcher-census/researchers/howard-j-herzog-a5108415/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    134 citations · BECCS
 
 2. **Drivers and implications of alternative routes to fuels decarbonization in net-zero energy systems** (2024)
-   36 citations · General CDR
+   38 citations · General CDR
 
 3. **Deploying direct air capture at scale: How close to reality?** (2023)
    28 citations · DAC
 
-4. **Direct Air Capture** (2022)
+4. **Getting real about capturing carbon from the air** (2024)
+   17 citations · General CDR
+
+5. **Direct Air Capture** (2022)
    16 citations · DAC
 
-5. **Getting real about capturing carbon from the air** (2024)
-   15 citations · General CDR
-
 6. **Optimization of a combined power plant CO<sub>2</sub> capture and direct air capture concept for flexible power plant operation** (2024)
-   14 citations · DAC
+   15 citations · DAC
 
 7. **Techno-economic analysis of a combined power plant CO2 capture and direct air capture concept for flexible power plant operation** (2023)
    4 citations · DAC

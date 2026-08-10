@@ -1,7 +1,7 @@
 ---
 title: "Stefanie Tille"
 description: "Stefanie Tille is a Senior Soil Carbon researcher at Deutsches Elektronen-Synchrotron DESY in DE. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.554836
+date: 2026-08-11T01:33:11.489220
 url: "/cdr-researcher-census/researchers/stefanie-tille-a5055381/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,9 +48,12 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Regenerative agriculture effects on biomass, drought resilience and 14C-photosynthate allocation in wheat drilled into ley compared to disc or ploughed arable soil** (2026)
+   0 citations
+
+2. **Regenerative agriculture effects on biomass, drought resilience and 14C-photosynthate allocation in wheat drilled into ley compared to disc or ploughed arable soil** (2026)
    0 citations · Soil Carbon
 
-2. **Regenerative agriculture effects on biomass, drought resilience and <sup>14</sup> C-photosynthate allocation in wheat drilled into ley compared to disc or ploughed arable soil** (2025)
+3. **Regenerative agriculture effects on biomass, drought resilience and <sup>14</sup> C-photosynthate allocation in wheat drilled into ley compared to disc or ploughed arable soil** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Mehr Ahmed Mujtaba Munir"
 description: "Mehr Ahmed Mujtaba Munir is a Senior Biochar researcher at Pakistan Agricultural Research Council in PK. With 57 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.166022
+date: 2026-08-11T01:33:11.142269
 url: "/cdr-researcher-census/researchers/mehr-ahmed-mujtaba-munir-a5040023/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Carbon dioxide activated biochar-clay mineral composite efficiently removes ciprofloxacin from contaminated water - Reveals an incubation study** (2021)
-   65 citations · Biochar
+   68 citations · Biochar
 
 2. **Impregnation of biochar with montmorillonite and its activation for the removal of azithromycin from aqueous media** (2023)
-   21 citations · Biochar
+   22 citations · Biochar
 
 3. **Unraveling the mechanisms of free radicals-based transformation and accumulation of potentially toxic metal(loid)s in biochar- and compost-amended soil-plant systems** (2024)
    15 citations · Biochar
 
 4. **Novel Styrofoam-sludge biochar for Pb and Zn adsorption: Bioavailability and reduction in maize-cultivated contaminated soils** (2026)
-   2 citations · Biochar
+   4 citations · Biochar
 
 ## External Profiles
 

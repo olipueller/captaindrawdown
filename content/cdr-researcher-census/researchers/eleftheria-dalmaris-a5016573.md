@@ -1,7 +1,7 @@
 ---
 title: "Eleftheria Dalmaris"
 description: "Eleftheria Dalmaris is a Mid-career General CDR researcher at Aristotle University of Thessaloniki in GR. With 18 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.920924
+date: 2026-08-11T01:33:11.818347
 url: "/cdr-researcher-census/researchers/eleftheria-dalmaris-a5016573/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Climate-Smart Forestry and Its Strong Correlation with Forest Genetic Resources: Current State and Future Actions** (2026)
-   0 citations · General CDR
+   1 citations · General CDR
 
 ## External Profiles
 

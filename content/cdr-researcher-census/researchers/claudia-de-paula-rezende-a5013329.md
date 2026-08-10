@@ -1,7 +1,7 @@
 ---
 title: "Cláudia de Paula Rezende"
 description: "Cláudia de Paula Rezende is a Senior Soil Carbon researcher at Comissão Executiva do Plano da Lavoura Cacaueira - Ceplac in BR. With 33 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.411786
+date: 2026-08-11T01:33:11.365245
 url: "/cdr-researcher-census/researchers/claudia-de-paula-rezende-a5013329/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Soil carbon sequestration under N fertilized or mixed legume-grass pastures depends on soil type and prior land-use** (2024)
+1. **Legume-grass mixed pasture enhances soil organic matter, enzymatic activity and microbial necromass of sandy soils aggregates** (2026)
    2 citations · Soil Carbon
 
-2. **Legume-grass mixed pasture enhances soil organic matter, enzymatic activity and microbial necromass of sandy soils aggregates** (2026)
-   1 citations · Soil Carbon
+2. **Soil carbon sequestration under N fertilized or mixed legume-grass pastures depends on soil type and prior land-use** (2024)
+   2 citations · Soil Carbon
 
 ## External Profiles
 

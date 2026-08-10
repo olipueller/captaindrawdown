@@ -1,7 +1,7 @@
 ---
 title: "Andrei Briones-Hidrovo"
 description: "Andrei Briones-Hidrovo is a Mid-career BECCS researcher at Sustainability Institute in ZA. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.736923
+date: 2026-08-11T01:33:11.653567
 url: "/cdr-researcher-census/researchers/andrei-briones-hidrovo-a5056690/"
 layout: "researcher"
 hiddenInHomeList: true

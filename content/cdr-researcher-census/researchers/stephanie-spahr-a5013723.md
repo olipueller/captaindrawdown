@@ -1,7 +1,7 @@
 ---
 title: "Stephanie Spahr"
 description: "Stephanie Spahr is a Mid-career Biochar researcher at Leibniz Institute of Freshwater Ecology and Inland Fisheries in DE. With 71 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.255026
+date: 2026-08-11T01:33:11.225052
 url: "/cdr-researcher-census/researchers/stephanie-spahr-a5013723/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Wood Ash as an Additive in Biomass Pyrolysis: Effects on Biochar Yield, Properties, and Agricultural Performance** (2022)
-   60 citations · Biochar
+   61 citations · Biochar
 
 2. **Black Carbon-Amended Engineered Media Filters for Improved Treatment of Stormwater Runoff** (2022)
    29 citations · Biochar
@@ -60,10 +60,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    25 citations · Biochar
 
 4. **Flow rate and kinetics of trace organic contaminants removal in black carbon-amended engineered media filters for improved stormwater runoff treatment** (2024)
-   16 citations · Biochar
+   17 citations · Biochar
 
 5. **Persulfate activation by biochar for trace organic contaminant removal from urban stormwater** (2025)
-   14 citations · Biochar
+   16 citations · Biochar
 
 6. **Hydrophilic Organic Compound Migration in Biochar-Amended Stormwater Filters with Dynamic Conditions and Varied Background Dissolved Organic Carbon Contents** (2025)
    4 citations · Biochar

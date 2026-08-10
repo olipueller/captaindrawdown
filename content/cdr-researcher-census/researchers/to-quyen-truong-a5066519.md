@@ -1,7 +1,7 @@
 ---
 title: "To Quyen Truong"
 description: "To Quyen Truong is a Senior Soil Carbon researcher at Korea Institute of Science and Technology in KR. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.765463
+date: 2026-08-11T01:33:11.679543
 url: "/cdr-researcher-census/researchers/to-quyen-truong-a5066519/"
 layout: "researcher"
 hiddenInHomeList: true

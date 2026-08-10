@@ -1,7 +1,7 @@
 ---
 title: "Nan Chen"
 description: "Nan Chen is a Mid-career Biochar researcher at University of Alabama in US. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.082679
+date: 2026-08-11T01:33:11.975470
 url: "/cdr-researcher-census/researchers/nan-chen-a5107519/"
 layout: "researcher"
 hiddenInHomeList: true

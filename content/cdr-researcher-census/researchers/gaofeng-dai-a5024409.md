@@ -1,7 +1,7 @@
 ---
 title: "Gaofeng Dai"
 description: "Gaofeng Dai is a Mid-career BECCS researcher at Xi'an Jiaotong University in CN. With 38 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.656073
+date: 2026-08-11T01:33:11.580692
 url: "/cdr-researcher-census/researchers/gaofeng-dai-a5024409/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Nitrogen evolution, NOX formation and reduction in pressurized oxy coal combustion** (2021)
-   84 citations
+   85 citations
 
 2. **Calcination and desulfurization characteristics of calcium carbonate in pressurized oxy-combustion** (2022)
-   9 citations
+   10 citations
 
 3. **A full-scale staged, pressurized oxy-biomass combustion towards BECCS: Performance assessment via CFD approach** (2025)
-   7 citations · BECCS
+   8 citations · BECCS
 
 4. **Innovative performance evaluation and process simulation of a 550 MW staged, pressurized oxy-biomass combustion power plant for negative carbon emissions** (2025)
-   1 citations · BECCS
+   3 citations · BECCS
 
 ## External Profiles
 

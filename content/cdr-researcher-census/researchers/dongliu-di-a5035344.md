@@ -1,7 +1,7 @@
 ---
 title: "Dongliu Di"
 description: "Dongliu Di is a Mid-career Biochar researcher at Hebei Agricultural University in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.486425
+date: 2026-08-11T01:33:12.340585
 url: "/cdr-researcher-census/researchers/dongliu-di-a5035344/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Immobilization of Cd(II) by phosphorus-modified bamboo biochar from solution: mechanistic study from qualitative to quantitative analysis** (2025)
-   12 citations · Biochar
+   13 citations · Biochar
+
+2. **Multi-omics analysis reveals the mechanisms on biochar-mediated cadmium transport in <i>Salix</i> : insight into rhizosphere phosphorus-iron coupling and transporter expression** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

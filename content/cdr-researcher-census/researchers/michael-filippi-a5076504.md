@@ -1,7 +1,7 @@
 ---
 title: "Michael Filippi"
 description: "Michael Filippi is a Mid-career DAC researcher at Technische Universität Berlin in DE. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.878695
+date: 2026-08-11T01:33:11.780216
 url: "/cdr-researcher-census/researchers/michael-filippi-a5076504/"
 layout: "researcher"
 hiddenInHomeList: true

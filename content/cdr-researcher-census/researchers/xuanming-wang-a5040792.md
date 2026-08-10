@@ -1,7 +1,7 @@
 ---
 title: "Xuanming Wang"
 description: "Xuanming Wang is a Mid-career Biochar researcher at Shenyang Agricultural University in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.746813
+date: 2026-08-11T01:33:11.662395
 url: "/cdr-researcher-census/researchers/xuanming-wang-a5040792/"
 layout: "researcher"
 hiddenInHomeList: true

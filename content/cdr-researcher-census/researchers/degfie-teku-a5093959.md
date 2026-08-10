@@ -1,7 +1,7 @@
 ---
 title: "Degfie Teku"
 description: "Degfie Teku is a Mid-career Soil Carbon researcher at Ambo University in ET. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.055987
+date: 2026-08-11T01:33:11.930032
 url: "/cdr-researcher-census/researchers/degfie-teku-a5093959/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Review of area exclosure practices for sustainable land management and erosion control in Ethiopia: objectives and PRISMA review** (2025)
-   5 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 ## External Profiles
 

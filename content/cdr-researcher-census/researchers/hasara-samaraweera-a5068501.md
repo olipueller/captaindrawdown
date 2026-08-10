@@ -1,7 +1,7 @@
 ---
 title: "Hasara Samaraweera"
 description: "Hasara Samaraweera is a Mid-career Biochar researcher at Western University in CA. With 24 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.621873
+date: 2026-08-11T01:33:11.549663
 url: "/cdr-researcher-census/researchers/hasara-samaraweera-a5068501/"
 layout: "researcher"
 hiddenInHomeList: true

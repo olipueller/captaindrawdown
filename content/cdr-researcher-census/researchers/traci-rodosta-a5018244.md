@@ -1,7 +1,7 @@
 ---
 title: "Traci Rodosta"
 description: "Traci Rodosta is a Mid-career General CDR researcher at Fossil Energy Research (United States) in US. With 25 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.408972
+date: 2026-08-11T01:33:11.362621
 url: "/cdr-researcher-census/researchers/traci-rodosta-a5018244/"
 layout: "researcher"
 hiddenInHomeList: true

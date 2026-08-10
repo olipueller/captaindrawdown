@@ -1,7 +1,7 @@
 ---
 title: "Zhenyi Jia"
 description: "Zhenyi Jia is a Mid-career Soil Carbon researcher at Zhejiang Normal University in CN. With 40 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.223939
+date: 2026-08-11T01:33:11.196629
 url: "/cdr-researcher-census/researchers/zhenyi-jia-a5100566/"
 layout: "researcher"
 hiddenInHomeList: true

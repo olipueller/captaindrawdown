@@ -1,7 +1,7 @@
 ---
 title: "Guanlin Li"
 description: "Guanlin Li is a Mid-career Soil Carbon researcher at Changchun University of Science and Technology in CN. With 30 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.570108
+date: 2026-08-11T01:33:11.503022
 url: "/cdr-researcher-census/researchers/guanlin-li-a5084570/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Spartina alterniflora invasion altered soil greenhouse gas emissions via affecting labile organic carbon in a coastal wetland** (2024)
-   54 citations · Soil Carbon
+   57 citations · Soil Carbon
 
 2. **Unraveling the ecological threads: How invasive alien plants influence soil carbon dynamics** (2024)
-   35 citations · Soil Carbon
+   37 citations · Soil Carbon
 
 3. **Remediation of microplastics-contaminated agricultural soils by unmodified and modified biochar derived from Solidago canadensis L.** (2025)
-   11 citations · Biochar
+   12 citations · Biochar
 
 4. **Biochar and iron minerals facilitate the reduction of pollution and sequestration of carbon in chloramphenicol-contaminated soil under dry conditions** (2025)
-   4 citations · Biochar
+   6 citations · Biochar
 
 ## External Profiles
 

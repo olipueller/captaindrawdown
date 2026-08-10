@@ -1,7 +1,7 @@
 ---
 title: "Sajal Rudra Paul"
 description: "Sajal Rudra Paul is a Mid-career Biochar researcher at National Institute of Technology Agartala in IN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.930463
+date: 2026-08-11T01:33:11.826829
 url: "/cdr-researcher-census/researchers/sajal-rudra-paul-a5072934/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,19 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Fabrication of biochar from jarul (Lagerstroemia speciosa) seed hull for ultrasound aided sequestration of ofloxacin from water: Phytotoxic assessments and cost analysis** (2023)
-   95 citations · Biochar
+   97 citations · Biochar
 
 2. **Enhanced performance of Lagerstroemia speciosa seed biochar and polypyrrole composite for the sequestration of emerging contaminant from wastewater sample: Case study of ofloxacin drug** (2024)
-   50 citations · Biochar
+   52 citations · Biochar
 
 3. **Cost analysis and adsorption efficiency of chemically activated biochar from rubber wood sawdust for ciprofloxacin removal in environmental remediation** (2026)
    4 citations · Biochar
 
 4. **Augmented Efficacy of Rubber Wood Sawdust Biochar and Polypyrrole Composite for the Sequestration of Ciprofloxacin from Aqueous Solution** (2026)
    3 citations · Biochar
+
+5. **Enhanced sequestration of malachite green dye from aqueous medium using zirconium oxide modified biochar from aegle marmelos: mechanism, reusability, and economic evaluation** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

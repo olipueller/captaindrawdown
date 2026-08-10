@@ -1,7 +1,7 @@
 ---
 title: "Haijie Yi"
 description: "Haijie Yi is a Mid-career Soil Carbon researcher at Henan Polytechnic University in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.933247
+date: 2026-08-11T01:33:11.829555
 url: "/cdr-researcher-census/researchers/haijie-yi-a5035982/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Plant diversity drives soil carbon sequestration: evidence from 150 years of vegetation restoration in the temperate zone** (2023)
-   33 citations · General CDR
+   34 citations · General CDR
 
 2. **[Carbon Sequestration Characteristics of Different Restored Vegetation Types in Loess Hilly Region].** (2022)
    4 citations · General CDR

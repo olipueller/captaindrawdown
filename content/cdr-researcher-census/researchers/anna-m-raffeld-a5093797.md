@@ -1,7 +1,7 @@
 ---
 title: "Anna M. Raffeld"
 description: "Anna M. Raffeld is an Early-career Soil Carbon researcher at Environmental Defense Fund in US. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.267337
+date: 2026-08-11T01:33:12.143257
 url: "/cdr-researcher-census/researchers/anna-m-raffeld-a5093797/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Greenhouse gas mitigation on croplands: clarifying the debate on knowns, unknowns and risks to move forward with effective management interventions** (2024)
-   23 citations · General CDR
+   24 citations · General CDR
 
 ## External Profiles
 

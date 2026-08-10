@@ -1,7 +1,7 @@
 ---
 title: "Joeri Rogelj"
 description: "Joeri Rogelj is an Eminent General CDR researcher at Imperial College London in GB. With 448 publications and an h-index of 93, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.078724
+date: 2026-08-11T01:33:11.060600
 url: "/cdr-researcher-census/researchers/joeri-rogelj-a5017820/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,31 +51,31 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Overconfidence in climate overshoot** (2024)
-   151 citations · General CDR
+   159 citations · General CDR
 
 2. **An emission pathway classification reflecting the Paris Agreement climate objectives** (2022)
-   119 citations · General CDR
+   121 citations · General CDR
 
 3. **Net-zero approaches must consider Earth system impacts to achieve climate goals** (2023)
    89 citations · General CDR
 
 4. **Geological Net Zero and the need for disaggregated accounting for carbon sinks** (2024)
-   80 citations · General CDR
+   83 citations · General CDR
 
 5. **A prudent planetary limit for geologic carbon storage** (2025)
-   64 citations · General CDR
+   70 citations · General CDR
 
 6. **The need for carbon-emissions-driven climate projections in CMIP7** (2024)
-   40 citations · General CDR
+   42 citations · General CDR
 
 7. **A taxonomy to map evidence on the co-benefits, challenges, and limits of carbon dioxide removal** (2024)
    37 citations · General CDR
 
 8. **Understanding the carbon dioxide removal range in 1.5 °C compatible and high overshoot pathways** (2023)
-   36 citations · General CDR
+   37 citations · General CDR
 
 9. **Preserving carbon dioxide removal to serve critical needs** (2025)
-   23 citations · General CDR
+   25 citations · General CDR
 
 10. **The need for carbon emissions-driven climate projections in CMIP7** (2023)
    17 citations · General CDR

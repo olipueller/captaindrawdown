@@ -1,7 +1,7 @@
 ---
 title: "Ziyue Jia"
 description: "Ziyue Jia is a Mid-career BECCS researcher at Beijing Jiaotong University in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.679639
+date: 2026-08-11T01:33:11.601385
 url: "/cdr-researcher-census/researchers/ziyue-jia-a5024554/"
 layout: "researcher"
 hiddenInHomeList: true

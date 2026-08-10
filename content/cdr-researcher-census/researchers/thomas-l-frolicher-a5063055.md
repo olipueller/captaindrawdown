@@ -1,7 +1,7 @@
 ---
 title: "Thomas L. Frölicher"
 description: "Thomas L. Frölicher is an Eminent General CDR researcher at University of Bern in CH. With 283 publications and an h-index of 66, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.087142
+date: 2026-08-11T01:33:11.068324
 url: "/cdr-researcher-census/researchers/thomas-l-frolicher-a5063055/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Overconfidence in climate overshoot** (2024)
-   151 citations · General CDR
+   159 citations · General CDR
 
 2. **Ocean carbon from space: Current status and priorities for the next decade** (2023)
-   62 citations · General CDR
+   64 citations · General CDR
 
 3. **Ten new insights in climate science 2023** (2023)
-   42 citations · General CDR
+   45 citations · General CDR
 
 4. **Overconfidence in climate overshoot** (2023)
    7 citations
 
 5. **Ten new insights in climate science 2025** (2026)
-   5 citations · General CDR
+   6 citations · General CDR
 
 6. **The efficiency and ocean acidification mitigation potential of ocean alkalinity enhancement on multi-centennial timescales** (2026)
    2 citations · General CDR

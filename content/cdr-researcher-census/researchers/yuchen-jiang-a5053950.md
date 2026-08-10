@@ -1,7 +1,7 @@
 ---
 title: "Yuchen Jiang"
 description: "Yuchen Jiang is a Mid-career Biochar researcher at Henan Polytechnic University in CN. With 53 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.461579
+date: 2026-08-11T01:33:11.407698
 url: "/cdr-researcher-census/researchers/yuchen-jiang-a5053950/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Activation of cellulose with CO2 and/or H2O: Evolution of functionalities of the biochar and environmental impacts** (2023)
-   28 citations · Biochar
+   30 citations · Biochar
 
 2. **Contribution of hemicellulose/cellulose to structural evolution of char from pyrolysis, hydrothermal carbonization, gasification and activation of poplar wood** (2025)
-   13 citations · Biochar
+   14 citations · Biochar
 
 3. **Influence of steric hindrance created by silica in rice husk on evolution of products from pyrolysis, hydrothermal carbonization, activation and gasification** (2026)
    1 citations · Biochar

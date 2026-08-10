@@ -1,7 +1,7 @@
 ---
 title: "Haowei Ni"
 description: "Haowei Ni is a Mid-career Soil Carbon researcher at University of Chinese Academy of Sciences in CN. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.371060
+date: 2026-08-11T01:33:11.330016
 url: "/cdr-researcher-census/researchers/haowei-ni-a5022530/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Laís Helena Sousa Vieira"
 description: "Laís Helena Sousa Vieira is a Mid-career Biochar researcher at Universidade Federal do Ceará in BR. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.008628
+date: 2026-08-11T01:33:11.885438
 url: "/cdr-researcher-census/researchers/lais-helena-sousa-vieira-a5061451/"
 layout: "researcher"
 hiddenInHomeList: true

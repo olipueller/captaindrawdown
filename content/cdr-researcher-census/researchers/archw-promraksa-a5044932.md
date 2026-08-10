@@ -1,7 +1,7 @@
 ---
 title: "Archw Promraksa"
 description: "Archw Promraksa is a Mid-career BECCS researcher at Walailak University in TH. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.275341
+date: 2026-08-11T01:33:12.149528
 url: "/cdr-researcher-census/researchers/archw-promraksa-a5044932/"
 layout: "researcher"
 hiddenInHomeList: true

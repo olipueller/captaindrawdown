@@ -1,7 +1,7 @@
 ---
 title: "Xiaojing Yu"
 description: "Xiaojing Yu is a Mid-career Biochar researcher at Shandong University in CN. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.781723
+date: 2026-08-11T01:33:11.693813
 url: "/cdr-researcher-census/researchers/xiaojing-yu-a5109590/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar superior than straw in enhancing soil carbon sequestration via altering organic matter stability and carbon cycle genes in Cd-Contaminated soil** (2025)
-   6 citations · Biochar
+   8 citations · Biochar
 
 ## External Profiles
 

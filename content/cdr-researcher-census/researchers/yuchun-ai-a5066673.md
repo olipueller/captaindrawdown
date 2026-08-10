@@ -1,7 +1,7 @@
 ---
 title: "Yuchun Ai"
 description: "Yuchun Ai is a Mid-career Biochar researcher at Jiangsu Academy of Agricultural Sciences in CN. With 14 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.674375
+date: 2026-08-11T01:33:11.596713
 url: "/cdr-researcher-census/researchers/yuchun-ai-a5066673/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Optimizing organic amendment applications to enhance carbon sequestration and economic benefits in an infertile sandy soil** (2021)
-   29 citations · General CDR
+   30 citations · General CDR
 
 2. **Integrated Application of Biochar and Polyacrylamide with Conservation Tillage Promotes Fertilizer-N Recovery in the Short Term** (2026)
    0 citations · Biochar

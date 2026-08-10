@@ -1,7 +1,7 @@
 ---
 title: "Yinping Feng"
 description: "Yinping Feng is a Mid-career Soil Carbon researcher at Lishui University in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.603063
+date: 2026-08-11T01:33:11.532744
 url: "/cdr-researcher-census/researchers/yinping-feng-a5025131/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of shrub encroachment on soil aggregates and organic carbon vary in different grasslands in Inner Mongolia, China** (2021)
-   13 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 ## External Profiles
 

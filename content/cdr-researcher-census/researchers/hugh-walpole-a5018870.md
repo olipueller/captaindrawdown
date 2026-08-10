@@ -1,7 +1,7 @@
 ---
 title: "Hugh Walpole"
 description: "Hugh Walpole is a Mid-career Soil Carbon researcher at Albany State University in US. With 31 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.522091
+date: 2026-08-11T01:33:11.459711
 url: "/cdr-researcher-census/researchers/hugh-walpole-a5018870/"
 layout: "researcher"
 hiddenInHomeList: true

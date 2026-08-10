@@ -1,7 +1,7 @@
 ---
 title: "Mardin Abdalqadir"
 description: "Mardin Abdalqadir is a Mid-career Enhanced Weathering researcher at Newcastle University in GB. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-12T12:07:29.956574
+date: 2026-08-11T01:33:11.880868
 url: "/cdr-researcher-census/researchers/mardin-abdalqadir-a5034890/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    10 citations · Enhanced Weathering
 
 3. **Divergent responses of carbon and nitrogen functional genes composition to enhanced rock weathering** (2025)
-   6 citations · Enhanced Weathering
+   7 citations · Enhanced Weathering
 
 4. **Feasibility Study of Using Redcar Mudstone Formation in the UK for Mineral Carbonation and Enhanced Weathering** (2024)
    0 citations · Enhanced Weathering

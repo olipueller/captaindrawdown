@@ -1,7 +1,7 @@
 ---
 title: "Viktor Walter"
 description: "Viktor Walter is a Senior BECCS researcher at Region Västra Götaland in SE. With 39 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.643066
+date: 2026-08-11T01:33:11.569010
 url: "/cdr-researcher-census/researchers/viktor-walter-a5087027/"
 layout: "researcher"
 hiddenInHomeList: true

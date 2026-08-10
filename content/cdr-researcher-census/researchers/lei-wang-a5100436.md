@@ -1,7 +1,7 @@
 ---
 title: "Lei Wang"
 description: "Lei Wang is a Mid-career Soil Carbon researcher at Xiamen University in CN. With 27 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.768430
+date: 2026-08-11T01:33:11.681975
 url: "/cdr-researcher-census/researchers/lei-wang-a5100436/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Optimizing organic amendment applications to enhance carbon sequestration and economic benefits in an infertile sandy soil** (2021)
-   29 citations · General CDR
+   30 citations · General CDR
 
 2. **Tree diversity-related soil P accumulation in high latitude temperate forests of China is regulated by soil C and N amounts as well as microbial network and denitrification genes** (2025)
    3 citations · Soil Carbon

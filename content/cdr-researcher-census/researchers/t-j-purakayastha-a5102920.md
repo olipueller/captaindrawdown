@@ -1,7 +1,7 @@
 ---
 title: "T. J. Purakayastha"
 description: "T. J. Purakayastha is a Senior Soil Carbon researcher at Indian Agricultural Research Institute in IN. With 66 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.168107
+date: 2026-08-11T01:33:11.144230
 url: "/cdr-researcher-census/researchers/t-j-purakayastha-a5102920/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,13 +54,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    15 citations · Biochar
 
 2. **Role of Biochar on Greenhouse Gas Emissions and Carbon Sequestration in Soil: Opportunities for Mitigating Climate Change** (2021)
-   13 citations · Biochar
+   14 citations · Biochar
 
 3. **Assessment of carbon carrying capacities of Alfisols and Vertisols under long-term manuring and fertilization** (2024)
    9 citations · Soil Carbon
 
 4. **Exploring soil organic carbon fractions, stocks, and carbon management index across land uses in subtropical ecosystems of Tripura, India** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 5. **Variability in soil organic carbon pools in different land use systems in the north-eastern region of India** (2024)
    3 citations · Soil Carbon

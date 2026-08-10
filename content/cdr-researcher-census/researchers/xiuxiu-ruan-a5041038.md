@@ -1,7 +1,7 @@
 ---
 title: "Xiuxiu Ruan"
 description: "Xiuxiu Ruan is a Mid-career Soil Carbon researcher at Shanghai University in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.434244
+date: 2026-08-11T01:33:12.291848
 url: "/cdr-researcher-census/researchers/xiuxiu-ruan-a5041038/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Comparative organic pollutants removal efficiency and life cycle assessment of pyrolysis and solvent elution for industrial waste salt recycling** (2024)
-   19 citations
+   20 citations
 
 2. **A facile “one-pot” synthesized CaAl MnO4 LDH with a high loading capacity of oxidants for the sustained oxidation of oxytetracycline in soil** (2024)
    8 citations · Soil Carbon

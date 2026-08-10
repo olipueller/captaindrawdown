@@ -1,7 +1,7 @@
 ---
 title: "Beth Drewniak"
 description: "Beth Drewniak is a Senior BECCS researcher at Argonne National Laboratory in US. With 51 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.129909
+date: 2026-08-11T01:33:11.108485
 url: "/cdr-researcher-census/researchers/beth-drewniak-a5044829/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Continental United States may lose 1.8 petagrams of soil organic carbon under climate change by 2100** (2022)
-   38 citations · Soil Carbon
+   39 citations · Soil Carbon
 
 2. **Modeling Perennial Bioenergy Crops in the E3SM Land Model (ELMv2)** (2022)
    17 citations · BECCS

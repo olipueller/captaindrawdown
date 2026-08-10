@@ -1,7 +1,7 @@
 ---
 title: "Xingpeng Xu"
 description: "Xingpeng Xu is a Mid-career Soil Carbon researcher at Guangxi University in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.901579
+date: 2026-08-11T01:33:11.800910
 url: "/cdr-researcher-census/researchers/xingpeng-xu-a5100550/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon storage in an arable soil combining field measurements, aggregate turnover modeling and climate scenarios** (2022)
-   164 citations · Soil Carbon
+   169 citations · Soil Carbon
 
 ## External Profiles
 

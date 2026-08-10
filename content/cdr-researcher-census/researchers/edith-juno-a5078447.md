@@ -1,7 +1,7 @@
 ---
 title: "Edith Juno"
 description: "Edith Juno is a Mid-career General CDR researcher at National Wildlife Federation in US. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.575191
+date: 2026-08-11T01:33:12.417337
 url: "/cdr-researcher-census/researchers/edith-juno-a5078447/"
 layout: "researcher"
 hiddenInHomeList: true

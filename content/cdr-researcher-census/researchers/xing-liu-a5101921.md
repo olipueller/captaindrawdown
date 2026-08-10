@@ -1,7 +1,7 @@
 ---
 title: "Xing Liu"
 description: "Xing Liu is a Senior Soil Carbon researcher at South China Agricultural University in CN. With 99 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.317232
+date: 2026-08-11T01:33:11.283569
 url: "/cdr-researcher-census/researchers/xing-liu-a5101921/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil carbon sequestration in paddy field and its simultaneous mineralization to supply available nutrients for the crops are affected by no-tillage with straw management: A meta-analysis** (2023)
-   34 citations · Soil Carbon
+   36 citations · Soil Carbon
 
 2. **Enhanced biological pump and carbonate pump synergy: The primary pathway for phosphorus clearance in the century-long dynamics of a karst lake** (2025)
    12 citations · Ocean CDR

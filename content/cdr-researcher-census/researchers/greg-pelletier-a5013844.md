@@ -1,7 +1,7 @@
 ---
 title: "Greg Pelletier"
 description: "Greg Pelletier is a Senior Ocean CDR researcher at Independent Scientist in US. With 54 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.260370
+date: 2026-08-11T01:33:11.230050
 url: "/cdr-researcher-census/researchers/greg-pelletier-a5013844/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Natural Analogues in pH Variability and Predictability across the Coastal Pacific Estuaries: Extrapolation of the Increased Oyster Dissolution under Increased pH Amplitude and Low Predictability Related to Ocean Acidification** (2022)
-   33 citations · Ocean CDR
+   34 citations · Ocean CDR
 
 2. **Assessment framework to predict sensitivity of marine calcifiers to ocean alkalinity enhancement – identification of biological thresholds and importance of precautionary principle** (2025)
-   18 citations · Ocean CDR
+   19 citations · Ocean CDR
 
 3. **Substantial Limitations of Ocean Alkalinity Enhancement in Mitigating the Negative Impacts of Ocean Acidification on Marine Calcifiers** (2025)
    5 citations · Ocean CDR

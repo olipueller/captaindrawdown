@@ -1,7 +1,7 @@
 ---
 title: "Vartika Srivastava"
 description: "Vartika Srivastava is a Mid-career Biochar researcher. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.362412
+date: 2026-08-11T01:33:11.322911
 url: "/cdr-researcher-census/researchers/vartika-srivastava-a5048216/"
 layout: "researcher"
 hiddenInHomeList: true

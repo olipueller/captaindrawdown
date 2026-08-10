@@ -1,7 +1,7 @@
 ---
 title: "Wenmin Huang"
 description: "Wenmin Huang is a Senior Biochar researcher at Sun Yat-sen University in CN. With 42 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.555724
+date: 2026-08-11T01:33:11.490006
 url: "/cdr-researcher-census/researchers/wenmin-huang-a5073767/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Silica–magnesium coupling in lignin–based biochar: A promising remediation for composite heavy metal pollution in environment** (2024)
-   22 citations · Biochar
+   23 citations · Biochar
 
 2. **Silica–Magnesium Coupling in Lignin-Based Biochar: A Promising Remediation for Composite Heavy Metal Pollution in Environment** (2024)
    1 citations · Biochar

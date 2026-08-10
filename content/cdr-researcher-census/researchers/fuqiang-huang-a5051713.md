@@ -1,7 +1,7 @@
 ---
 title: "Fu‐Qiang Huang"
 description: "Fu‐Qiang Huang is a Mid-career Soil Carbon researcher at Foshan University in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.708185
+date: 2026-08-11T01:33:11.627158
 url: "/cdr-researcher-census/researchers/fuqiang-huang-a5051713/"
 layout: "researcher"
 hiddenInHomeList: true

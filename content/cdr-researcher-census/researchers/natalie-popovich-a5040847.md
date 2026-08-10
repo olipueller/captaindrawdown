@@ -1,7 +1,7 @@
 ---
 title: "Natalie Popovich"
 description: "Natalie Popovich is a Mid-career DAC researcher at Lawrence Berkeley National Laboratory in US. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.431313
+date: 2026-08-11T01:33:11.382562
 url: "/cdr-researcher-census/researchers/natalie-popovich-a5040847/"
 layout: "researcher"
 hiddenInHomeList: true

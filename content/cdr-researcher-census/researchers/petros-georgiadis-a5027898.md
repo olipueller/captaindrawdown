@@ -1,7 +1,7 @@
 ---
 title: "Petros Georgiadis"
 description: "Petros Georgiadis is a Mid-career Soil Carbon researcher at AGRIDEA in CH. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.379670
+date: 2026-08-11T01:33:12.241781
 url: "/cdr-researcher-census/researchers/petros-georgiadis-a5027898/"
 layout: "researcher"
 hiddenInHomeList: true

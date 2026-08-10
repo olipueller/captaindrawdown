@@ -1,7 +1,7 @@
 ---
 title: "Samuel Eberenz"
 description: "Samuel Eberenz is a Mid-career General CDR researcher at ETH Zurich in CH. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.843622
+date: 2026-08-11T01:33:11.747855
 url: "/cdr-researcher-census/researchers/samuel-eberenz-a5027440/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The ABC of Governance Principles for Carbon Dioxide Removal Policy** (2022)
-   43 citations · General CDR
+   44 citations · General CDR
 
 2. **Productive in disagreement: stakeholder deliberation insights on carbon dioxide removal in Germany** (2024)
    5 citations · General CDR

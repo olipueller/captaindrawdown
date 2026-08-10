@@ -1,7 +1,7 @@
 ---
 title: "Xiaohou Zhou"
 description: "Xiaohou Zhou is a Mid-career Biochar researcher at Sichuan University in CN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.181314
+date: 2026-08-11T01:33:12.065988
 url: "/cdr-researcher-census/researchers/xiaohou-zhou-a5006285/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Treatment of distiller grain with wet-process phosphoric acid leads to biochar for the sustained release of nutrients and adsorption of Cr(VI)** (2022)
-   53 citations · Biochar
+   57 citations · Biochar
 
 2. **Production of new fertilizers by combining distiller's grains waste and wet-process phosphoric acid: Synthesis, characterization, mechanisms and application** (2022)
-   32 citations
+   33 citations
 
 3. **Biochar from wet-process phosphoric acid in-situ modified bagasse for Cr (VI) removal** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 4. **Valorization of penicillin mycelial residue via wet-process phosphoric acid: Nutrient recovery, carbon sequestration, and antibiotic adsorption mechanism** (2025)
    0 citations · Biochar

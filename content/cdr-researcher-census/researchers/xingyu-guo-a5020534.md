@@ -1,7 +1,7 @@
 ---
 title: "Xingyu Guo"
 description: "Xingyu Guo is a Mid-career Soil Carbon researcher at Huazhong Agricultural University in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.334159
+date: 2026-08-11T01:33:12.200736
 url: "/cdr-researcher-census/researchers/xingyu-guo-a5020534/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of different tillage and residue management systems on soil organic carbon stock and grain yield of rice–wheat double cropping system** (2023)
-   23 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 2. **Carbon trade-off and energy budgeting under conventional and conservation tillage in a rice-wheat double cropping system** (2024)
-   21 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 3. **Effects of 12-year cropping systems and tillage practices on crop yield and carbon trade-off in dryland Loess Plateau** (2024)
    12 citations · Soil Carbon

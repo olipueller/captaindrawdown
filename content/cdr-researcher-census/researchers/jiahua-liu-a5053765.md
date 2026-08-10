@@ -1,7 +1,7 @@
 ---
 title: "Jiahua Liu"
 description: "Jiahua Liu is a Mid-career Soil Carbon researcher at Hunan Normal University in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.547692
+date: 2026-08-11T01:33:12.397232
 url: "/cdr-researcher-census/researchers/jiahua-liu-a5053765/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Cell adhesion in microalgae biofilms for wastewater treatment** (2026)
-   2 citations
+   3 citations
 
 2. **Labile organic matter components drive the accumulation of microbial necromass carbon in seasonal flooded wetland soils** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Bingyu Zhu"
 description: "Bingyu Zhu is a Mid-career Biochar researcher at Northeast Agricultural University in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.004778
+date: 2026-08-11T01:33:11.881786
 url: "/cdr-researcher-census/researchers/bingyu-zhu-a5030155/"
 layout: "researcher"
 hiddenInHomeList: true

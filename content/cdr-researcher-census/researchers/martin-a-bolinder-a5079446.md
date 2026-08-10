@@ -1,7 +1,7 @@
 ---
 title: "Martin A. Bolinder"
 description: "Martin A. Bolinder is a Senior Soil Carbon researcher at Swedish University of Agricultural Sciences in SE. With 86 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.115660
+date: 2026-08-11T01:33:11.094971
 url: "/cdr-researcher-census/researchers/martin-a-bolinder-a5079446/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon sequestration in the subsoil and the time required to stabilize carbon for climate change mitigation** (2024)
-   61 citations · General CDR
+   66 citations · General CDR
 
 2. **Higher carbon sequestration on Swedish dairy farms compared with other farm types as revealed by national soil inventories** (2022)
    27 citations · Soil Carbon
 
 3. **Agriculture practices to improve soil carbon storage in upland soil** (2022)
-   18 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 4. **Response of maize yield to changes in soil organic matter in a Swedish long‐term experiment** (2024)
-   14 citations · General CDR
+   15 citations · General CDR
 
 5. **Bayesian calibration of the ICBM/3 soil organic carbon model constrained by data from long-term experiments and uncertainties of C inputs** (2024)
    4 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Mohit Aggarwal"
 description: "Mohit Aggarwal is a Mid-career Biochar researcher at Indian Institute of Technology Roorkee in IN. With 25 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.075243
+date: 2026-08-11T01:33:11.968866
 url: "/cdr-researcher-census/researchers/mohit-aggarwal-a5021135/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Multifaceted application of modified biochar for water and wastewater treatment** (2024)
-   17 citations · Biochar
+   18 citations · Biochar
 
 2. **Application of Biochar for Removal of Emerging Contaminants** (2021)
    3 citations · Biochar

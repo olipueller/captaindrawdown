@@ -1,7 +1,7 @@
 ---
 title: "Richard Boudreault"
 description: "Richard Boudreault is a Mid-career General CDR researcher at Université de Sherbrooke in CA. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.405133
+date: 2026-08-11T01:33:12.265168
 url: "/cdr-researcher-census/researchers/richard-boudreault-a5017703/"
 layout: "researcher"
 hiddenInHomeList: true

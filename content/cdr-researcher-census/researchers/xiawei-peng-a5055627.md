@@ -1,7 +1,7 @@
 ---
 title: "Xiawei Peng"
 description: "Xiawei Peng is a Senior Soil Carbon researcher at Beijing Forestry University in CN. With 53 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.288460
+date: 2026-08-11T01:33:11.256256
 url: "/cdr-researcher-census/researchers/xiawei-peng-a5055627/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Phosphorus addition increases microbial necromass by increasing N availability in China: A meta-analysis** (2023)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 2. **Greater variation of soil organic carbon in limestone- than shale-based soil along soil depth in a subtropical coniferous forest within a karst faulted basin of China** (2024)
    8 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Anna P. M. Michel"
 description: "Anna P. M. Michel is a Senior Ocean CDR researcher at Woods Hole Oceanographic Institution in US. With 116 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.219325
+date: 2026-08-11T01:33:11.192304
 url: "/cdr-researcher-census/researchers/anna-p-m-michel-a5024026/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,34 +51,34 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Site selection for ocean alkalinity enhancement informed by passive tracer simulations** (2025)
-   9 citations · Ocean CDR
+   11 citations · Ocean CDR
 
 2. **A tracer study for the development of in-water monitoring, reporting, and verification (MRV) of ship-based ocean alkalinity enhancement** (2025)
-   5 citations · General CDR
+   7 citations · General CDR
 
 3. **Development of the ecological activity index as an integrative ecosystem assessment and monitoring asset for ocean alkalinity enhancement** (2025)
    4 citations · General CDR
 
-4. **A tracer study for the development of in-water monitoring, reporting, and verification (MRV) of ship-based ocean alkalinity enhancement** (2025)
+4. **The effects of elevated seawater pH and total alkalinity following dosing of sodium hydroxide in <i>Calanus finmarchicus</i>** (2026)
+   2 citations · General CDR
+
+5. **Carbonate System Site Selection Characteristics for Ocean Alkalinity Enhancement in the US Northeast Shelf and Slope** (2025)
+   2 citations · General CDR
+
+6. **A tracer study for the development of in-water monitoring, reporting, and verification (MRV) of ship-based ocean alkalinity enhancement** (2025)
    2 citations
 
-5. **The effects of elevated seawater pH and total alkalinity following dosing of sodium hydroxide in <i>Calanus finmarchicus</i>** (2026)
-   1 citations · General CDR
-
-6. **Carbonate System Site Selection Characteristics for Ocean Alkalinity Enhancement in the US Northeast Shelf and Slope** (2025)
-   1 citations · General CDR
-
-7. **Data for "The Ecological Activity Index tool for mapping potential ecosystem exposure to ocean alkalinity enhancement"** (2026)
+7. **The Ecological Activity Index tool for mapping potential ecosystem exposure to ocean alkalinity enhancement** (2026)
    0 citations · Ocean CDR
 
 8. **Data for "The Ecological Activity Index tool for mapping potential ecosystem exposure to ocean alkalinity enhancement"** (2026)
    0 citations · Ocean CDR
 
-9. **Field notes on public communication and engagement for the LOC-NESS Ocean Alkalinity Enhancement field trial** (2026)
-   0 citations · General CDR
-
-10. **Seawater carbonate chemistry and survival, escape performance, and oxygen consumption for the copepod Calanus finmarchicus** (2026)
+9. **Data for "The Ecological Activity Index tool for mapping potential ecosystem exposure to ocean alkalinity enhancement"** (2026)
    0 citations · Ocean CDR
+
+10. **Field notes on public communication and engagement for the LOC-NESS Ocean Alkalinity Enhancement field trial** (2026)
+   0 citations · General CDR
 
 ## External Profiles
 

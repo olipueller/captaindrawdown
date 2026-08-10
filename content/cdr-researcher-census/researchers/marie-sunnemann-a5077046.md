@@ -1,7 +1,7 @@
 ---
 title: "Marie Sünnemann"
 description: "Marie Sünnemann is a Mid-career Soil Carbon researcher at German Centre for Integrative Biodiversity Research in DE. With 29 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.398895
+date: 2026-08-11T01:33:11.353691
 url: "/cdr-researcher-census/researchers/marie-sunnemann-a5077046/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    31 citations · Soil Carbon
 
 2. **Sustainable Land Use Enhances Soil Microbial Respiration Responses to Experimental Heat Stress** (2025)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 ## External Profiles
 

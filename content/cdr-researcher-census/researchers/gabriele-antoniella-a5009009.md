@@ -1,7 +1,7 @@
 ---
 title: "Gabriele Antoniella"
 description: "Gabriele Antoniella is a Mid-career Soil Carbon researcher at Università degli Studi della Tuscia in IT. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.190611
+date: 2026-08-11T01:33:12.074410
 url: "/cdr-researcher-census/researchers/gabriele-antoniella-a5009009/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Recent advances in regenerative sustainable agricultural strategies for managing soil carbon and mitigating climate change consequences** (2025)
-   32 citations · General CDR
+   34 citations · General CDR
 
 2. **Carbon farming practices for European cropland: A review on the effect on soil organic carbon** (2024)
-   26 citations · General CDR
+   27 citations · General CDR
 
 3. **The misconception of soil organic carbon sequestration notion: When do we achieve climate benefit?** (2023)
    17 citations · General CDR

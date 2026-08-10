@@ -1,7 +1,7 @@
 ---
 title: "Lionel Avignon"
 description: "Lionel Avignon is an Early-career General CDR researcher. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.555831
+date: 2026-08-11T01:33:12.402593
 url: "/cdr-researcher-census/researchers/lionel-avignon-a5008126/"
 layout: "researcher"
 hiddenInHomeList: true

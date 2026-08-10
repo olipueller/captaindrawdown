@@ -1,7 +1,7 @@
 ---
 title: "Alaa Abushawish"
 description: "Alaa Abushawish is a Mid-career Biochar researcher at United Arab Emirates University in AE. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.657924
+date: 2026-08-11T01:33:11.582248
 url: "/cdr-researcher-census/researchers/alaa-abushawish-a5043539/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Desalination Pretreatment Technologies: Current Status and Future Developments** (2023)
-   75 citations
+   79 citations
 
 2. **Tailored olive pomace biochar anchored with CaAl layered double oxides for phosphate remediation from food industry wastewater: Role of pyrolysis and mechanistic insights** (2025)
    5 citations · Biochar

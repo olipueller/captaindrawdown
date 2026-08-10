@@ -1,7 +1,7 @@
 ---
 title: "Yaojing Qiu"
 description: "Yaojing Qiu is a Mid-career BECCS researcher at North Carolina State University in US. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.941151
+date: 2026-08-11T01:33:11.836717
 url: "/cdr-researcher-census/researchers/yaojing-qiu-a5067493/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    6 citations · BECCS
 
 2. **Environmental Life Cycle Assessment and Techno-Economic Analysis of Textile Waste Valorization via Modular Bioenergy with Carbon Capture, Utilization, and Storage** (2025)
-   2 citations · BECCS
+   5 citations · BECCS
 
 ## External Profiles
 

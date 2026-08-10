@@ -1,7 +1,7 @@
 ---
 title: "D. Barisano"
 description: "D. Barisano is a Senior BECCS researcher at National Agency for New Technologies, Energy and Sustainable Economic Development in IT. With 31 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.532382
+date: 2026-08-11T01:33:11.468771
 url: "/cdr-researcher-census/researchers/d-barisano-a5003105/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Investigation of an Intensified Thermo-Chemical Experimental Set-Up for Hydrogen Production from Biomass: Gasification Process Performance—Part I** (2021)
-   18 citations · BECCS
+   19 citations · BECCS
 
 2. **Purification of Wastewater from Biomass-Derived Syngas Scrubber Using Biochar and Activated Carbons** (2021)
    16 citations · Biochar

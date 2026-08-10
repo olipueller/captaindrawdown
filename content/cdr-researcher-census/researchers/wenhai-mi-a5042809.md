@@ -1,7 +1,7 @@
 ---
 title: "Wenhai Mi"
 description: "Wenhai Mi is a Mid-career Soil Carbon researcher at Yangzhou University in CN. With 49 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.269474
+date: 2026-08-11T01:33:11.238245
 url: "/cdr-researcher-census/researchers/wenhai-mi-a5042809/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Agroforestry increases soil carbon sequestration, especially in arid areas: A global meta-analysis** (2024)
-   32 citations · General CDR
+   43 citations · General CDR
 
 2. **Patterns and drivers of soil organic carbon fractions and persistence in coastal wetlands of China** (2025)
-   19 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 3. **Long-term organic-inorganic fertilization promoted the microbial necromass carbon accumulation in particulate and mineral-associated organic matter fractions in paddy soil** (2025)
-   14 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 4. **Long-term fertilization reshaped the accumulation of plant- and microbially-derived carbon by regulating biotic and abiotic factors in acidic paddy soil** (2024)
    8 citations · Soil Carbon
@@ -67,6 +67,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 6. **Agroforestry Increases Soil Carbon Sequestration, Especially in Arid Areas: A Global Meta-Analysis** (2023)
    1 citations · General CDR
+
+7. **Growth stage mediates the effects of water regime and long-term fertilization on carbon partitioning in the rice–rhizosphere system** (2026)
+   0 citations
 
 ## External Profiles
 

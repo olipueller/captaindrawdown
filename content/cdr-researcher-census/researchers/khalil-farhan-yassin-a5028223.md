@@ -1,7 +1,7 @@
 ---
 title: "Khalil Farhan Yassin"
 description: "Khalil Farhan Yassin is a Mid-career Biochar researcher at Northern Technical University in IQ. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.381181
+date: 2026-08-11T01:33:12.243325
 url: "/cdr-researcher-census/researchers/khalil-farhan-yassin-a5028223/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Waste-to-Energy Innovations and Advances in Hydrothermal Carbonization, Microwave, and Pyrolysis Processes: A Review** (2026)
-   1 citations · Biochar
+   2 citations · Biochar
 
 2. **Optimization for the Effects of Coconut Shell Activated Carbon Xerogel Weight and Temperature on the Hydrogen Sulphide Adsorption Using Response Surface Methodology** (2024)
    1 citations · Biochar

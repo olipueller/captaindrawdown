@@ -1,7 +1,7 @@
 ---
 title: "Teresa Mendiara"
 description: "Teresa Mendiara is a Senior BECCS researcher at Instituto de Carboquímica in ES. With 96 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.134675
+date: 2026-08-11T01:33:11.113112
 url: "/cdr-researcher-census/researchers/teresa-mendiara-a5039958/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -60,7 +60,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    16 citations · BECCS
 
 4. **Life Cycle Assessment of Wheat Straw Pyrolysis with Volatile Fractions Chemical Looping Combustion** (2024)
-   12 citations · Biochar
+   13 citations · Biochar
 
 5. **Evaluation of the effect of pressure and heat transfer on the efficiency of a batch fuel reactor, using Iron-based Oxygen Carrier with a CFD model** (2022)
    6 citations · BECCS

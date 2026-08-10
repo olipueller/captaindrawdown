@@ -1,7 +1,7 @@
 ---
 title: "Rodolfo Fagundes Costa"
 description: "Rodolfo Fagundes Costa is a Mid-career Soil Carbon researcher at Universidade de São Paulo in BR. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.094432
+date: 2026-08-11T01:33:11.986446
 url: "/cdr-researcher-census/researchers/rodolfo-fagundes-costa-a5037855/"
 layout: "researcher"
 hiddenInHomeList: true

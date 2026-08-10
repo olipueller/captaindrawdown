@@ -1,7 +1,7 @@
 ---
 title: "Alireza Komaei"
 description: "Alireza Komaei is a Mid-career General CDR researcher at Amirkabir University of Technology in IR. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.930747
+date: 2026-08-11T01:33:11.827086
 url: "/cdr-researcher-census/researchers/alireza-komaei-a5092199/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Stabilization of rammed earth with waste materials for sustainable construction under rainfall Conditions: With consideration of life cycle assessment (LCA)** (2025)
-   5 citations · General CDR
+   6 citations · General CDR
 
 ## External Profiles
 

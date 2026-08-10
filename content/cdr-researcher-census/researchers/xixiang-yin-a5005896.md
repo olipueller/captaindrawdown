@@ -1,7 +1,7 @@
 ---
 title: "Xixiang Yin"
 description: "Xixiang Yin is a Senior Biochar researcher at Shandong Jinan Eco-environmental Monitoring Center in CN. With 36 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.314555
+date: 2026-08-11T01:33:11.280973
 url: "/cdr-researcher-census/researchers/xixiang-yin-a5005896/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Study on the mechanism of biochar loaded typical microalgae Chlorella removal of cadmium** (2021)
-   39 citations · Biochar
+   40 citations · Biochar
 
 2. **Efficient removal of chromium by a novel biochar-microalga complex: Mechanism and performance** (2023)
-   25 citations · Biochar
+   26 citations · Biochar
 
 3. **Contrasting effects of a novel biochar-microalgae complex on arsenic and mercury removal** (2023)
    13 citations · Biochar

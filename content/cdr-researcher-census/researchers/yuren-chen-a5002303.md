@@ -1,7 +1,7 @@
 ---
 title: "Yuren Chen"
 description: "Yuren Chen is a Senior Ocean CDR researcher at University of Maryland Center for Environmental Science in US. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.657395
+date: 2026-08-11T01:33:11.581829
 url: "/cdr-researcher-census/researchers/yuren-chen-a5002303/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Wastewater alkalinity enhancement for carbon emission reduction and marine CO<sub>2</sub> removal** (2025)
-   6 citations · General CDR
+   7 citations · General CDR
 
 2. **Disentangling the Effects of Global and Regional Drivers on Diverse Long‐Term pH Trends in Coastal Waters** (2025)
    3 citations · Enhanced Weathering

@@ -1,7 +1,7 @@
 ---
 title: "Yingde Xu"
 description: "Yingde Xu is a Mid-career Soil Carbon researcher at Shenyang Agricultural University in CN. With 34 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.377584
+date: 2026-08-11T01:33:11.335972
 url: "/cdr-researcher-census/researchers/yingde-xu-a5003704/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Differential accumulation patterns of microbial necromass induced by maize root vs. shoot residue addition in agricultural Alfisols** (2021)
-   60 citations · Soil Carbon
+   62 citations · Soil Carbon
 
 2. **Influence of environmental factors on soil organic carbon in different soil layers for Chinese Mollisols under intensive maize cropping** (2022)
    24 citations · Soil Carbon
@@ -60,10 +60,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    23 citations
 
 4. **Maize residue types and soil fertility levels influence sequestration of newly associated carbon in aggregates with in situ experiments** (2023)
-   17 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 5. **Distributions of straw-derived carbon in Mollisol’s aggregates under different fertilization practices** (2021)
-   12 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 6. **Fungal necromass carbon contributes to organic carbon sequestration within soil macroaggregates under manure application combined with plastic film mulching** (2024)
    7 citations · Biochar

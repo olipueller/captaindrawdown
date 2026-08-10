@@ -1,7 +1,7 @@
 ---
 title: "Nazir Ahmed"
 description: "Nazir Ahmed is a Mid-career Soil Carbon researcher at Zhongkai University of Agriculture and Engineering in CN. With 50 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.286672
+date: 2026-08-11T01:33:11.254484
 url: "/cdr-researcher-census/researchers/nazir-ahmed-a5051990/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,17 +50,17 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Symbiotic synergy: How Arbuscular Mycorrhizal Fungi enhance nutrient uptake, stress tolerance, and soil health through molecular mechanisms and hormonal regulation** (2025)
-   82 citations
+1. **The role of biochar in enhancing soil health &amp; interactions with rhizosphere properties and enzyme activities in organic fertilizer substitution** (2025)
+   86 citations · Biochar
 
-2. **The role of biochar in enhancing soil health &amp; interactions with rhizosphere properties and enzyme activities in organic fertilizer substitution** (2025)
-   75 citations · Biochar
+2. **Symbiotic synergy: How Arbuscular Mycorrhizal Fungi enhance nutrient uptake, stress tolerance, and soil health through molecular mechanisms and hormonal regulation** (2025)
+   86 citations
 
 3. **Optimizing the dual role of biochar for phosphorus availability and arsenic immobilization in soils** (2024)
-   18 citations · Biochar
+   19 citations · Biochar
 
 4. **The multifunctional roles of arbuscular mycorrhizal fungi in soil health and nutrient dynamics** (2026)
-   1 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

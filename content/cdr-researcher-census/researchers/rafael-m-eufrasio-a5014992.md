@@ -1,7 +1,7 @@
 ---
 title: "Rafael M. Eufrasio"
 description: "Rafael M. Eufrasio is a Mid-career Enhanced Weathering researcher at University of Sheffield in GB. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.351084
+date: 2026-08-11T01:33:11.312983
 url: "/cdr-researcher-census/researchers/rafael-m-eufrasio-a5014992/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,24 +51,27 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Substantial carbon drawdown potential from enhanced rock weathering in the United Kingdom** (2022)
-   159 citations · Enhanced Weathering
+   162 citations · Enhanced Weathering
 
 2. **Environmental and health impacts of atmospheric CO2 removal by enhanced rock weathering depend on nations’ energy mix** (2022)
-   66 citations · Enhanced Weathering
+   68 citations · Enhanced Weathering
 
 3. **Transforming US agriculture for carbon removal with enhanced weathering** (2025)
-   48 citations · Enhanced Weathering
+   55 citations · Enhanced Weathering
 
-4. **Sustainability performance of enhanced weathering across countries: A triple bottom line approach** (2024)
-   8 citations · Enhanced Weathering
+4. **Towards sustainable food production and climate change mitigation: an attributional life cycle assessment comparing industrial and basalt rock dust fertilisers** (2023)
+   12 citations
 
-5. **Larger rock extraction sites could improve the efficiency of enhanced rock weathering in the United Kingdom** (2025)
+5. **Sustainability performance of enhanced weathering across countries: A triple bottom line approach** (2024)
+   9 citations · Enhanced Weathering
+
+6. **Larger rock extraction sites could improve the efficiency of enhanced rock weathering in the United Kingdom** (2025)
    2 citations · Enhanced Weathering
 
-6. **Transforming U.S. agriculture with crushed rock for CO$_2$ sequestration and increased production** (2023)
+7. **Transforming U.S. agriculture with crushed rock for CO$_2$ sequestration and increased production** (2023)
    1 citations · Enhanced Weathering
 
-7. **Source Data for figures in this Article:** (2022)
+8. **Source Data for figures in this Article:** (2022)
    0 citations · Enhanced Weathering
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Balasubramanya Manjunath"
 description: "Balasubramanya Manjunath is a Mid-career Biochar researcher at National Institute of Technology Karnataka in IN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.517059
+date: 2026-08-11T01:33:12.369407
 url: "/cdr-researcher-census/researchers/balasubramanya-manjunath-a5085993/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Areca nut husk biochar as a sustainable carbonaceous filler for cement: Pyrolysis temperature and its effect on characterization, strength, and hydration** (2024)
-   28 citations · Biochar
+   29 citations · Biochar
 
 ## External Profiles
 

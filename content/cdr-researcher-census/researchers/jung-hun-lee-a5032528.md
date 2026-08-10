@@ -1,7 +1,7 @@
 ---
 title: "Jung Hun Lee"
 description: "Jung Hun Lee is a Senior Ocean CDR researcher at National University in SD. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.268635
+date: 2026-08-11T01:33:12.144348
 url: "/cdr-researcher-census/researchers/jung-hun-lee-a5032528/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    4 citations
 
 2. **Design of Electrified Fiber Sorbents for Direct Air Capture with Electrically‐Driven Temperature Vacuum Swing Adsorption (Adv. Mater. 45/2025)** (2025)
-   1 citations
+   2 citations
 
 3. **A Compact Hollow Fiber Electrode Assembly Architecture for Continuous Electrochemical Marine Carbon Dioxide Removal** (2026)
    0 citations · General CDR

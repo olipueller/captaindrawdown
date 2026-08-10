@@ -1,7 +1,7 @@
 ---
 title: "Abhijeet Anand"
 description: "Abhijeet Anand is a Mid-career Biochar researcher at Indian Institute of Technology Delhi in IN. With 24 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.313604
+date: 2026-08-11T01:33:11.280068
 url: "/cdr-researcher-census/researchers/abhijeet-anand-a5034335/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A state-of-the-art review of various adsorption media employed for the removal of toxic Polycyclic aromatic hydrocarbons (PAHs): An approach towards a cleaner environment** (2022)
-   63 citations
+   64 citations
 
 2. **Copper(II) removal from aqua solution using rice straw derived biochar** (2021)
    19 citations · Biochar
@@ -59,10 +59,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 3. **Carbon sequestration in soil from paddy straw derived biochar in India** (2022)
    3 citations · Biochar
 
-4. **Techno-economic and emission impact evaluation of crop residues-biochar system for carbon sequestration** (2025)
-   1 citations · Biochar
+4. **Assessment of Sugarcane Residues Derived Biochar for Carbon Sequestration in the Soil in India** (2022)
+   2 citations · Biochar
 
-5. **Assessment of Sugarcane Residues Derived Biochar for Carbon Sequestration in the Soil in India** (2022)
+5. **Techno-economic and emission impact evaluation of crop residues-biochar system for carbon sequestration** (2025)
    1 citations · Biochar
 
 ## External Profiles

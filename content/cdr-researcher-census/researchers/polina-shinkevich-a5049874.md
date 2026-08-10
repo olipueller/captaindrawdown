@@ -1,7 +1,7 @@
 ---
 title: "Polina Shinkevich"
 description: "Polina Shinkevich is a Mid-career BECCS researcher at Peter the Great St. Petersburg Polytechnic University in RU. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.440284
+date: 2026-08-11T01:33:12.297638
 url: "/cdr-researcher-census/researchers/polina-shinkevich-a5049874/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Production of Biohydrogen from Microalgae Biomass after Wastewater Treatment and Air Purification from CO2** (2023)
-   26 citations · BECCS
+   28 citations · BECCS
 
 ## External Profiles
 

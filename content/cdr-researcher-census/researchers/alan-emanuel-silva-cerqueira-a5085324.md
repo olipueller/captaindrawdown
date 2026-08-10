@@ -1,7 +1,7 @@
 ---
 title: "Alan Emanuel Silva Cerqueira"
 description: "Alan Emanuel Silva Cerqueira is a Mid-career Soil Carbon researcher at Universidade Federal de Viçosa in BR. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.443372
+date: 2026-08-11T01:33:12.301120
 url: "/cdr-researcher-census/researchers/alan-emanuel-silva-cerqueira-a5085324/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon accumulation in the soil and biomass of macauba palm commercial plantations** (2024)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 2. **Spatial Variability and Age Cropping of Macauba Palm Drive Stocks of Soil Organic Carbon** (2023)
    1 citations · Soil Carbon

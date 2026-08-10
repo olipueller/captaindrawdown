@@ -1,7 +1,7 @@
 ---
 title: "Yali Meng"
 description: "Yali Meng is a Senior Soil Carbon researcher at Nanjing Agricultural University in CN. With 121 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.130891
+date: 2026-08-11T01:33:11.109418
 url: "/cdr-researcher-census/researchers/yali-meng-a5101480/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Responses of SOC, labile SOC fractions, and amino sugars to different organic amendments in a coastal saline-alkali soil** (2024)
-   45 citations · Soil Carbon
+   48 citations · Soil Carbon
 
 2. **Responses of greenhouse gas emissions to different straw management methods with the same amount of carbon input in cotton field** (2021)
-   41 citations · Soil Carbon
+   43 citations · Soil Carbon
 
 3. **Long-term ditch-buried straw return alters soil carbon sequestration, nitrogen availability and grain production in a rice–wheat rotation system** (2021)
    16 citations · Biochar
 
 4. **Enhancement joint fertilization efficacy of straw and nitrogen fertilizer on soil quality and seedcotton yield for sustainable cotton farming** (2025)
-   8 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 5. **External carbon addition alters soil photosynthetic carbon accumulation and rhizosphere processes of carbon** (2024)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 6. **Effect of Straw Input on Soil Carbon Sequestration in Clay Loam and Sandy Loam Soils in a Wheat-cotton Cropping System** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 7. **Soil carbon sequestration and microbial metabolic limitation under wheat-cotton straw returning with potassium fertilization** (2026)
    0 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Thi-An-Sa Do"
 description: "Thi-An-Sa Do is a Senior Biochar researcher at Vietnam National University Ho Chi Minh City in VN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.249796
+date: 2026-08-11T01:33:12.128480
 url: "/cdr-researcher-census/researchers/thi-an-sa-do-a5037963/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Hierarchical factors governing the removal of ionizable pharmaceuticals by cassava peel–derived biochar: Bayesian modeling and DFT approaches** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

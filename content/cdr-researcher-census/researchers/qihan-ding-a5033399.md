@@ -1,7 +1,7 @@
 ---
 title: "Qihan Ding"
 description: "Qihan Ding is a Mid-career Biochar researcher at Institute of Mechanics in BG. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.049325
+date: 2026-08-11T01:33:11.924014
 url: "/cdr-researcher-census/researchers/qihan-ding-a5033399/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Cobalt-loaded biochar composites as effective sonocatalysts for degradation of tetracycline in water under activation of peroxymonosulfate** (2025)
-   3 citations · Biochar
+   4 citations · Biochar
 
 2. **Construction of LaFeO3 loaded nitrogen-doped biochar for enhanced removal of tetracycline via ultrasonication-induced peroxymonosulfate activation process** (2025)
    3 citations · Biochar

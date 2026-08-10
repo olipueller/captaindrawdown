@@ -1,7 +1,7 @@
 ---
 title: "Katsumasa Tanaka"
 description: "Katsumasa Tanaka is a Senior General CDR researcher at LSCE in FR. With 300 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.108773
+date: 2026-08-11T01:33:11.088422
 url: "/cdr-researcher-census/researchers/katsumasa-tanaka-a5033739/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Comparing national greenhouse gas budgets reported in UNFCCC inventories against atmospheric inversions** (2022)
-   203 citations · General CDR
+   206 citations · General CDR
 
 2. **Potential CO2 removal from enhanced weathering by ecosystem responses to powdered rock** (2021)
-   196 citations · Enhanced Weathering
+   197 citations · Enhanced Weathering
 
 3. **Impact of bioenergy crop expansion on climate–carbon cycle feedbacks in overshoot scenarios** (2022)
-   37 citations · BECCS
+   38 citations · BECCS
 
 4. **Comparing national greenhouse gas budgets reported in UNFCCC inventories against atmospheric inversions** (2021)
    29 citations
@@ -69,10 +69,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    16 citations · BECCS
 
 7. **Leveraging ecosystems responses to enhanced rock weathering in mitigation scenarios** (2025)
-   10 citations · Enhanced Weathering
+   12 citations · Enhanced Weathering
 
 8. **Spaces of anthropogenic CO2 emissions compatible with climate boundaries** (2025)
-   4 citations · General CDR
+   5 citations · General CDR
 
 9. **On the chances of staying below the 1.5°C warming target** (2024)
    4 citations · General CDR

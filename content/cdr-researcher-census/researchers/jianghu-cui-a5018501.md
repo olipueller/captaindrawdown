@@ -1,7 +1,7 @@
 ---
 title: "Jianghu Cui"
 description: "Jianghu Cui is a Senior Biochar researcher at Dongguan University of Technology in CN. With 68 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.122860
+date: 2026-08-11T01:33:11.101588
 url: "/cdr-researcher-census/researchers/jianghu-cui-a5018501/"
 layout: "researcher"
 hiddenInHomeList: true

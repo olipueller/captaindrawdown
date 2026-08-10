@@ -1,7 +1,7 @@
 ---
 title: "Sashikesh Ganeshalingam"
 description: "Sashikesh Ganeshalingam is a Senior Biochar researcher at University of Jaffna in LK. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.376728
+date: 2026-08-11T01:33:12.238909
 url: "/cdr-researcher-census/researchers/sashikesh-ganeshalingam-a5037218/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Mechanisms of emerging contaminants removal by novel neem chip biochar** (2021)
-   23 citations · Biochar
+   24 citations · Biochar
 
 2. **Understanding the Mechanism of Emerging Contaminant Removal by Novel Neem Chip Biochar** (2021)
    0 citations · Biochar

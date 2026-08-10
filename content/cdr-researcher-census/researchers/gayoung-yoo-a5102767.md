@@ -1,7 +1,7 @@
 ---
 title: "Gayoung Yoo"
 description: "Gayoung Yoo is a Senior Soil Carbon researcher at Kyung Hee University in KR. With 111 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.208463
+date: 2026-08-11T01:33:11.181811
 url: "/cdr-researcher-census/researchers/gayoung-yoo-a5102767/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Urban roadside greenery as a carbon sink: Systematic assessment considering understory shrubs and soil respiration** (2024)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
-2. **Cost-Effective Carbon Dioxide Removal via CaO/Ca(OH)2-Based Mineralization with Concurrent Recovery of Value-Added Calcite Nanoparticles** (2025)
+2. **Vulnerability of soil organic carbon in artificially constructed urban green spaces: Linking soil organic carbon physical fractions, microbial dynamics, and soil properties** (2025)
+   4 citations · Soil Carbon
+
+3. **Cost-Effective Carbon Dioxide Removal via CaO/Ca(OH)2-Based Mineralization with Concurrent Recovery of Value-Added Calcite Nanoparticles** (2025)
    3 citations · Enhanced Weathering
-
-3. **Vulnerability of soil organic carbon in artificially constructed urban green spaces: Linking soil organic carbon physical fractions, microbial dynamics, and soil properties** (2025)
-   3 citations · Soil Carbon
 
 4. **Beyond Total C: Integrative Analysis of Carbon Forms in Urban Soils** (2025)
    1 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Michael U. Ben-Eli"
 description: "Michael U. Ben-Eli is a Senior Soil Carbon researcher. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.028461
+date: 2026-08-11T01:33:11.904237
 url: "/cdr-researcher-census/researchers/michael-u-ben-eli-a5112747/"
 layout: "researcher"
 hiddenInHomeList: true

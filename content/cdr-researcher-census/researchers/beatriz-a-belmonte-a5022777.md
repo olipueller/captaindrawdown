@@ -1,7 +1,7 @@
 ---
 title: "Beatriz A. Belmonte"
 description: "Beatriz A. Belmonte is a Mid-career Biochar researcher at University of Santo Tomas in PH. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.180658
+date: 2026-08-11T01:33:12.065393
 url: "/cdr-researcher-census/researchers/beatriz-a-belmonte-a5022777/"
 layout: "researcher"
 hiddenInHomeList: true

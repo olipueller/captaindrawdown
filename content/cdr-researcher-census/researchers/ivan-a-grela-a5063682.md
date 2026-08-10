@@ -1,7 +1,7 @@
 ---
 title: "Iván A. Grela"
 description: "Iván A. Grela is a Senior Soil Carbon researcher. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.587219
+date: 2026-08-11T01:33:12.423264
 url: "/cdr-researcher-census/researchers/ivan-a-grela-a5063682/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Grazing exclusion effects on vegetation structure and soil organic matter in savannas of Río de la Plata grasslands** (2024)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Meiying He"
 description: "Meiying He is a Mid-career Biochar researcher at Guangdong University of Technology in CN. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.603721
+date: 2026-08-11T01:33:11.533266
 url: "/cdr-researcher-census/researchers/meiying-he-a5102447/"
 layout: "researcher"
 hiddenInHomeList: true

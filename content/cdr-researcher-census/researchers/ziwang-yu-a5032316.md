@@ -1,7 +1,7 @@
 ---
 title: "Ziwang Yu"
 description: "Ziwang Yu is a Senior Enhanced Weathering researcher at Jilin University in CN. With 62 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-12T12:07:29.261271
+date: 2026-08-11T01:33:11.202129
 url: "/cdr-researcher-census/researchers/ziwang-yu-a5032316/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **CO₂ sequestration and soil improvement in enhanced rock weathering: A review from an experimental perspective** (2024)
-   19 citations · Enhanced Weathering
+   20 citations · Enhanced Weathering
 
 2. **Harnessing enhanced rock weathering for carbon neutrality: potential and challenges in China** (2025)
-   3 citations · Enhanced Weathering
+   5 citations · Enhanced Weathering
 
 3. **Basalt mineralization with soda saline soil for enhanced CO₂ sequestration: An experimental study** (2025)
    3 citations · Enhanced Weathering

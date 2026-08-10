@@ -1,7 +1,7 @@
 ---
 title: "Marco Diers"
 description: "Marco Diers is an Early-career Soil Carbon researcher at Landesbetrieb Landwirtschaft Hessen in DE. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.506939
+date: 2026-08-11T01:33:12.359567
 url: "/cdr-researcher-census/researchers/marco-diers-a5088481/"
 layout: "researcher"
 hiddenInHomeList: true

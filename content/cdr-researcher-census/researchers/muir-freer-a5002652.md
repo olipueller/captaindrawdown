@@ -1,7 +1,7 @@
 ---
 title: "Muir Freer"
 description: "Muir Freer is a Mid-career BECCS researcher at University of Manchester in GB. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.498410
+date: 2026-08-11T01:33:12.351405
 url: "/cdr-researcher-census/researchers/muir-freer-a5002652/"
 layout: "researcher"
 hiddenInHomeList: true

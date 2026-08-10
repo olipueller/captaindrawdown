@@ -1,7 +1,7 @@
 ---
 title: "Xin-xin LIN"
 description: "Xin-xin LIN is a Mid-career Soil Carbon researcher at Jilin Agricultural University in CN. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.425478
+date: 2026-08-11T01:33:12.283858
 url: "/cdr-researcher-census/researchers/xin-xin-lin-a5003152/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Deep incorporation of corn straw benefits soil organic carbon and microbial community composition in a black soil of Northeast China** (2022)
-   66 citations · Soil Carbon
+   68 citations · Soil Carbon
 
 ## External Profiles
 

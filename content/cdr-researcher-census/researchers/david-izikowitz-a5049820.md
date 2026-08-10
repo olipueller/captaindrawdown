@@ -1,7 +1,7 @@
 ---
 title: "David Izikowitz"
 description: "David Izikowitz is a Mid-career DAC researcher at Shanghai Jiao Tong University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.816357
+date: 2026-08-11T01:33:11.724678
 url: "/cdr-researcher-census/researchers/david-izikowitz-a5049820/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Operating temperatures affect direct air capture of CO2 in polyamine-loaded mesoporous silica** (2021)
-   140 citations
+   144 citations
 
 2. **A comparative review of performance of nanomaterials for Direct Air Capture** (2021)
    62 citations · DAC

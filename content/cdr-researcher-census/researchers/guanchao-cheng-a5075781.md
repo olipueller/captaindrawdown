@@ -1,7 +1,7 @@
 ---
 title: "Guanchao Cheng"
 description: "Guanchao Cheng is a Mid-career Soil Carbon researcher at Zhejiang A & F University in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.313471
+date: 2026-08-11T01:33:12.182263
 url: "/cdr-researcher-census/researchers/guanchao-cheng-a5075781/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -59,17 +59,17 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Tree diversity-related soil P accumulation in high latitude temperate forests of China is regulated by soil C and N amounts as well as microbial network and denitrification genes** (2025)
    3 citations · Soil Carbon
 
-5. **Tree size and spatial clustering drive contrasting carbon sequestration in soil aggregates in temperate forests in China** (2025)
+5. **Tree spatial arrangement and size outweigh species diversity in regulating soil particulate and mineral-associated carbon accrual: mediated by soil properties and microbes** (2026)
+   2 citations
+
+6. **Tree size and spatial clustering drive contrasting carbon sequestration in soil aggregates in temperate forests in China** (2025)
    2 citations · Soil Carbon
 
-6. **Tree spatial arrangement and size outweigh species diversity in regulating soil particulate and mineral-associated carbon accrual: mediated by soil properties and microbes** (2026)
-   1 citations
+7. **Arbuscular mycorrhizal dominated forests facilitate organic carbon stabilization in soil aggregates** (2026)
+   1 citations · Soil Carbon
 
-7. **Soil functional carbon fraction accrual in temperate forests is linked to understory herbs, soil nutrients and microbial alterations** (2026)
+8. **Soil functional carbon fraction accrual in temperate forests is linked to understory herbs, soil nutrients and microbial alterations** (2026)
    0 citations
-
-8. **Arbuscular mycorrhizal dominated forests facilitate organic carbon stabilization in soil aggregates** (2026)
-   0 citations · Soil Carbon
 
 9. **Data from: "Arbuscular mycorrhizal dominated forests facilitate organic carbon stabilization in soil aggregates"** (2026)
    0 citations · Soil Carbon

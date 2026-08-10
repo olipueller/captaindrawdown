@@ -1,7 +1,7 @@
 ---
 title: "Jonathan G.M. Lee"
 description: "Jonathan G.M. Lee is a Senior BECCS researcher at Newcastle University in GB. With 51 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.258391
+date: 2026-08-11T01:33:11.228129
 url: "/cdr-researcher-census/researchers/jonathan-gm-lee-a5028121/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 
 ## Top CDR Publications
 
-1. **Engineered living photosynthetic biocomposites for intensified biological carbon capture** (2022)
-   19 citations · General CDR
+1. **Living textile biocomposites deliver enhanced carbon dioxide capture** (2021)
+   20 citations · Ocean CDR
 
-2. **Living textile biocomposites deliver enhanced carbon dioxide capture** (2021)
-   19 citations · Ocean CDR
+2. **Engineered living photosynthetic biocomposites for intensified biological carbon capture** (2022)
+   19 citations · General CDR
 
 3. **Pilot-scale demonstration and practical challenges of bioenergy with CCS (BECCS) using rotating packed bed** (2025)
    2 citations · BECCS

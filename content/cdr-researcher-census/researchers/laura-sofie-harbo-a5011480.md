@@ -1,7 +1,7 @@
 ---
 title: "Laura Sofie Harbo"
 description: "Laura Sofie Harbo is a Mid-career Soil Carbon researcher at Johann Heinrich von Thünen-Institut in DE. With 21 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.223949
+date: 2026-08-11T01:33:12.104725
 url: "/cdr-researcher-census/researchers/laura-sofie-harbo-a5011480/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of land use on soil microbial community structure and diversity in the Yellow River floodplain** (2022)
-   35 citations · Soil Carbon
+   36 citations · Soil Carbon
 
 2. **Flower strips as a carbon sequestration measure in temperate croplands** (2022)
    19 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Gaihe Yang"
 description: "Gaihe Yang is an Eminent Soil Carbon researcher at Yangon Technological University in MM. With 248 publications and an h-index of 60, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.092344
+date: 2026-08-11T01:33:11.073111
 url: "/cdr-researcher-census/researchers/gaihe-yang-a5044765/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,19 +48,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Biochar combined with N fertilization and straw return in wheat-maize agroecosystem: Key practices to enhance crop yields and minimize carbon and nitrogen footprints** (2023)
-   105 citations · Biochar
+   106 citations · Biochar
 
 2. **The biogeography of soil microbiome potential growth rates** (2024)
-   60 citations
+   64 citations
 
 3. **Impact of straw-biochar amendments on microbial activity and soil carbon dynamics in wheat-maize system** (2024)
-   44 citations · Biochar
+   45 citations · Biochar
 
-4. **Effect of forest thinning on soil organic carbon stocks from the perspective of carbon-degrading enzymes** (2022)
+4. **The contribution of microbial necromass carbon to soil organic carbon in soil aggregates** (2023)
+   43 citations · Soil Carbon
+
+5. **Effect of forest thinning on soil organic carbon stocks from the perspective of carbon-degrading enzymes** (2022)
    42 citations · Soil Carbon
-
-5. **The contribution of microbial necromass carbon to soil organic carbon in soil aggregates** (2023)
-   39 citations · Soil Carbon
 
 6. **Plastic film mulching mitigates the straw-induced soil greenhouse gas emissions in summer maize field** (2021)
    37 citations
@@ -74,8 +74,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 9. **Changes in Soil Aggregate Carbon Components and Responses to Plant Input during Vegetation Restoration in the Loess Plateau, China** (2024)
    5 citations · Soil Carbon
 
-10. **Regulation of photosynthetic carbon fate by plant diversity and nutrients in abandoned farmland on the Loess Plateau** (2024)
-   2 citations · Soil Carbon
+10. **Contrasting carbon cycle responses of semiarid abandoned farmland to simulated warmer-drier and warmer-wetter climates** (2024)
+   3 citations · Soil Carbon
 
 ## External Profiles
 

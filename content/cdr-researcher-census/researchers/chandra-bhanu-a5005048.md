@@ -1,7 +1,7 @@
 ---
 title: "Chandra Bhanu"
 description: "Chandra Bhanu is a Mid-career Soil Carbon researcher. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.342850
+date: 2026-08-11T01:33:12.208440
 url: "/cdr-researcher-census/researchers/chandra-bhanu-a5005048/"
 layout: "researcher"
 hiddenInHomeList: true

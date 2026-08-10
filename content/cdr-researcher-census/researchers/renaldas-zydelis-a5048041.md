@@ -1,7 +1,7 @@
 ---
 title: "Renaldas Žydelis"
 description: "Renaldas Žydelis is a Mid-career Enhanced Weathering researcher at Lithuanian Research Centre for Agriculture and Forestry in LT. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.870019
+date: 2026-08-11T01:33:11.771739
 url: "/cdr-researcher-census/researchers/renaldas-zydelis-a5048041/"
 layout: "researcher"
 hiddenInHomeList: true

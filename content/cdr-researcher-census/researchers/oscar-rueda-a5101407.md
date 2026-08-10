@@ -1,7 +1,7 @@
 ---
 title: "Oscar Rueda"
 description: "Oscar Rueda is a Senior General CDR researcher at Leiden University in NL. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.519562
+date: 2026-08-11T01:33:11.457566
 url: "/cdr-researcher-census/researchers/oscar-rueda-a5101407/"
 layout: "researcher"
 hiddenInHomeList: true

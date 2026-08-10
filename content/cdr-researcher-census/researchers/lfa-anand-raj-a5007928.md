@@ -1,7 +1,7 @@
 ---
 title: "L.F.A. Anand Raj"
 description: "L.F.A. Anand Raj is a Mid-career Biochar researcher at Saint Joseph's College in US. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.918730
+date: 2026-08-11T01:33:11.816367
 url: "/cdr-researcher-census/researchers/lfa-anand-raj-a5007928/"
 layout: "researcher"
 hiddenInHomeList: true

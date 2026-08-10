@@ -1,7 +1,7 @@
 ---
 title: "Xiaofei Lu"
 description: "Xiaofei Lu is a Mid-career Soil Carbon researcher at Shanghai University of Sport in CN. With 42 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.503898
+date: 2026-08-11T01:33:11.443899
 url: "/cdr-researcher-census/researchers/xiaofei-lu-a5062448/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Nitrogen addition stimulates soil aggregation and enhances carbon storage in terrestrial ecosystems of China: A meta‐analysis** (2021)
-   219 citations · Soil Carbon
+   224 citations · Soil Carbon
 
 2. **Shifts in Above‐ Versus Below‐Ground Carbon Gains to Terrestrial Ecosystems Carbon Sinks Under Excess Nitrogen Inputs** (2023)
    10 citations · Soil Carbon
 
 3. **Effects of nitrogen inputs on soil organic carbon in a subtropical plantation forest: variation with nitrogen addition methodology** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 4. **Shifts in above- versus below-ground carbon gains to terrestrial ecosystems carbon sinks under excess nitrogen inputs** (2023)
    0 citations

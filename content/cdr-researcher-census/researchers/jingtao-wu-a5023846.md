@@ -1,7 +1,7 @@
 ---
 title: "Jingtao Wu"
 description: "Jingtao Wu is a Senior Soil Carbon researcher at Dongguan University of Technology in CN. With 77 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.211697
+date: 2026-08-11T01:33:11.184866
 url: "/cdr-researcher-census/researchers/jingtao-wu-a5023846/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Contributions of plant‐ and microbial‐derived residuals to mangrove soil carbon stocks: Implications for blue carbon sequestration** (2024)
-   86 citations · General CDR
+   91 citations · General CDR
 
-2. **Fiddling with the blue carbon: Fiddler crab burrows enhance CO2 and CH4 efflux in saltmarsh** (2022)
+2. **Fiddler crab bioturbation stimulates methane emissions in mangroves: Insights into microbial mechanisms** (2024)
    39 citations · Soil Carbon
 
-3. **Fiddler crab bioturbation stimulates methane emissions in mangroves: Insights into microbial mechanisms** (2024)
-   38 citations · Soil Carbon
+3. **Fiddling with the blue carbon: Fiddler crab burrows enhance CO2 and CH4 efflux in saltmarsh** (2022)
+   39 citations · Soil Carbon
 
 4. **Intensified rainfall in the wet season alters the microbial contribution to soil carbon storage** (2022)
    31 citations · Soil Carbon

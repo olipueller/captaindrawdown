@@ -1,7 +1,7 @@
 ---
 title: "Bingxiong Fan"
 description: "Bingxiong Fan is a Mid-career Soil Carbon researcher at Xiamen University in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.094635
+date: 2026-08-11T01:33:11.986625
 url: "/cdr-researcher-census/researchers/bingxiong-fan-a5058309/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **China's conservation and restoration of coastal wetlands offset much of the reclamation‐induced blue carbon losses** (2023)
-   59 citations · Soil Carbon
+   62 citations · Soil Carbon
 
 ## External Profiles
 

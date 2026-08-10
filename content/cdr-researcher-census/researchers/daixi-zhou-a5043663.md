@@ -1,7 +1,7 @@
 ---
 title: "Daixi Zhou"
 description: "Daixi Zhou is a Mid-career Biochar researcher at Jinan University in CN. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.663862
+date: 2026-08-11T01:33:11.588083
 url: "/cdr-researcher-census/researchers/daixi-zhou-a5043663/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Single Atom Catalyst in Persulfate Oxidation Reaction: From Atom Species to Substance** (2024)
-   47 citations · Biochar
+   48 citations · Biochar
 
 ## External Profiles
 

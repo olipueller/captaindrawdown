@@ -1,7 +1,7 @@
 ---
 title: "Azhar Ul Islam"
 description: "Azhar Ul Islam is a Mid-career Biochar researcher at COMSATS University Islamabad in PK. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.354016
+date: 2026-08-11T01:33:12.218098
 url: "/cdr-researcher-census/researchers/azhar-ul-islam-a5041025/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Thomas Rinder"
 description: "Thomas Rinder is a Senior Enhanced Weathering researcher at AFRY (Austria) in AT. With 50 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.606615
+date: 2026-08-11T01:33:11.535626
 url: "/cdr-researcher-census/researchers/thomas-rinder-a5012622/"
 layout: "researcher"
 hiddenInHomeList: true

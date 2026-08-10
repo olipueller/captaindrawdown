@@ -1,7 +1,7 @@
 ---
 title: "Keneth Reátegui"
 description: "Keneth Reátegui is a Senior Soil Carbon researcher at Universidad Nacional Intercultural de la Amazonía in PE. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.039276
+date: 2026-08-11T01:33:11.913930
 url: "/cdr-researcher-census/researchers/keneth-reategui-a5086691/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon reserves in coffee agroforestry in the Peruvian Amazon** (2024)
-   16 citations
+   18 citations
 
 2. **Carbon stocks in coffee farms and secondary forest systems in the Peruvian Amazon rainforest** (2023)
    0 citations · Soil Carbon

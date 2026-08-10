@@ -1,7 +1,7 @@
 ---
 title: "Blanca Prado"
 description: "Blanca Prado is a Senior Soil Carbon researcher at Universidad Autónoma de la Ciudad de México in MX. With 45 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.481708
+date: 2026-08-11T01:33:11.425163
 url: "/cdr-researcher-census/researchers/blanca-prado-a5110133/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil Ecosystem Services in Urban Parks as a Basis for Better Urban Planning: The Case of Mexico City** (2024)
-   6 citations · General CDR
+   7 citations · General CDR
 
 2. **Landscape Dynamics Revealed by Multiscale Land Cover, Use, Vegetation and Soil Analyses: The Megalopolis of Mexico as a Case Study** (2024)
    1 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Jabraeil Ahbabi Saray"
 description: "Jabraeil Ahbabi Saray is a Mid-career DAC researcher at Iran University of Science and Technology in IR. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.184305
+date: 2026-08-11T01:33:12.068600
 url: "/cdr-researcher-census/researchers/jabraeil-ahbabi-saray-a5039690/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Integration of direct air capture with Allam cycle: Innovative pathway in negative emission technologies** (2025)
-   10 citations · DAC
+   11 citations · DAC
 
 2. **Economic assessment and environmental challenges of carbon capture using membrane techniques** (2024)
    1 citations

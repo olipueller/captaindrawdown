@@ -1,7 +1,7 @@
 ---
 title: "Jiacheng Shao"
 description: "Jiacheng Shao is a Mid-career General CDR researcher at Zhejiang University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.978742
+date: 2026-08-11T01:33:11.857098
 url: "/cdr-researcher-census/researchers/jiacheng-shao-a5024786/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Exploring the complex trade-offs and synergies of global ecosystem services** (2024)
-   89 citations · General CDR
+   93 citations · General CDR
 
 ## External Profiles
 

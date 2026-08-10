@@ -1,7 +1,7 @@
 ---
 title: "Hongyun Shao"
 description: "Hongyun Shao is a Senior Soil Carbon researcher at Shanghai University in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.228681
+date: 2026-08-11T01:33:12.109100
 url: "/cdr-researcher-census/researchers/hongyun-shao-a5100948/"
 layout: "researcher"
 hiddenInHomeList: true

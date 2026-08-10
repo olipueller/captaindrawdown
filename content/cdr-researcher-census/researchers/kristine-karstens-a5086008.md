@@ -1,7 +1,7 @@
 ---
 title: "Kristine Karstens"
 description: "Kristine Karstens is a Mid-career General CDR researcher at Leibniz Association in DE. With 49 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.508759
+date: 2026-08-11T01:33:11.448427
 url: "/cdr-researcher-census/researchers/kristine-karstens-a5086008/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Exploring risks and benefits of overshooting a 1.5 °C carbon budget over space and time** (2023)
-   24 citations · General CDR
+   25 citations · General CDR
 
 2. **Food and land system transformations under different societal perspectives on sustainable development** (2024)
    12 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "B.G. Fouda-Mbanga"
 description: "B.G. Fouda-Mbanga is a Mid-career Biochar researcher at Nelson Mandela University in ZA. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.426768
+date: 2026-08-11T01:33:11.378989
 url: "/cdr-researcher-census/researchers/bg-fouda-mbanga-a5007339/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Sustainable wastewater treatment: Mechanistic, environmental, and economic insights into biochar for synthetic dye removal** (2025)
-   27 citations · Biochar
+   29 citations · Biochar
 
 2. **Synthesis and Characterization of MC/TiO<sub>2</sub> NPs Nanocomposite for Removal of Pb<sup>2+</sup> and Reuse of Spent Adsorbent for Blood Fingerprint Detection** (2023)
    16 citations · Biochar
 
 3. **The nexuses of micro(nano)plastics at environmental interfaces: Challenges in wastewater treatment and sustainable water management** (2025)
-   7 citations · Biochar
+   10 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Mayank Singh"
 description: "Mayank Singh is a Senior Biochar researcher at Indian Institute of Technology Indore in IN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.981065
+date: 2026-08-11T01:33:11.859237
 url: "/cdr-researcher-census/researchers/mayank-singh-a5101562/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Cultivation of aromatic plant for nature-based sustainable solutions for the management of degraded/marginal lands: techno-economics and carbon dynamic** (2023)
-   12 citations · Biochar
+   13 citations · Biochar
 
 2. **An innovative circular model for recycling the wastes into biochar using distillation units** (2022)
    11 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Antonella Mazzone"
 description: "Antonella Mazzone is a Mid-career General CDR researcher at University of Oxford in GB. With 41 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.370957
+date: 2026-08-11T01:33:11.329924
 url: "/cdr-researcher-census/researchers/antonella-mazzone-a5042388/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Assessing potential implications of the EU's carbon dioxide removal strategy on Brazil's land ecosystems and local communities** (2025)
-   0 citations · BECCS
+   1 citations · General CDR
 
 2. **Assessing potential implications of the EU's carbon dioxide removal strategy on Brazil's land ecosystems and local communities** (2025)
-   0 citations · General CDR
+   0 citations · BECCS
 
 3. **Considering the Cross-Boundary Environmental and Social Implications of the EU’s Carbon Dioxide Removal Strategy in Brazil** (2024)
    0 citations · General CDR

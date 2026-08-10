@@ -1,7 +1,7 @@
 ---
 title: "Min Jiao"
 description: "Min Jiao is a Mid-career Soil Carbon researcher at Guizhou University in CN. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.468440
+date: 2026-08-11T01:33:11.413713
 url: "/cdr-researcher-census/researchers/min-jiao-a5110954/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    19 citations
 
 2. **Heavy metal contamination threats carbon sequestration of paddy soils with an attenuated microbial anabolism** (2025)
-   5 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 3. **Arbuscular mycorrhizal fungi and glomalin mediate the effects of microplastics on soil carbon storage** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 ## External Profiles
 

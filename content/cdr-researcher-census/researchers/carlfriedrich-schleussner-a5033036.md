@@ -1,7 +1,7 @@
 ---
 title: "Carl‐Friedrich Schleussner"
 description: "Carl‐Friedrich Schleussner is an Eminent General CDR researcher at International Institute for Applied Systems Analysis in AT. With 369 publications and an h-index of 56, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.090259
+date: 2026-08-11T01:33:11.071191
 url: "/cdr-researcher-census/researchers/carlfriedrich-schleussner-a5033036/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Overconfidence in climate overshoot** (2024)
-   151 citations · General CDR
+   159 citations · General CDR
 
 2. **An emission pathway classification reflecting the Paris Agreement climate objectives** (2022)
-   119 citations · General CDR
+   121 citations · General CDR
 
 3. **A prudent planetary limit for geologic carbon storage** (2025)
-   64 citations · General CDR
+   70 citations · General CDR
 
 4. **The deployment length of solar radiation modification: an interplay of mitigation, net-negative emissions and climate uncertainty** (2023)
-   41 citations · General CDR
+   43 citations · General CDR
 
 5. **The need for carbon-emissions-driven climate projections in CMIP7** (2024)
-   40 citations · General CDR
+   42 citations · General CDR
 
 6. **Fair distributions of carbon dioxide removal obligations and implications for effective national net-zero targets** (2021)
    37 citations · General CDR

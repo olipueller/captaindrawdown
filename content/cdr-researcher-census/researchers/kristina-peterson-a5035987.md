@@ -1,7 +1,7 @@
 ---
 title: "Kristina Peterson"
 description: "Kristina Peterson is a Senior Ocean CDR researcher at Northland Pioneer College in US. With 37 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.594600
+date: 2026-08-11T01:33:11.525287
 url: "/cdr-researcher-census/researchers/kristina-peterson-a5035987/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Using ikaite and other hydrated carbonate minerals to increase ocean alkalinity for carbon dioxide removal and environmental remediation** (2022)
-   39 citations · Ocean CDR
+   40 citations · Ocean CDR
 
 2. **Novel method of ocean alkalinity enhancement using ikaite and other hydratedcarbonate minerals** (2023)
    0 citations · Ocean CDR

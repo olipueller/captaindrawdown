@@ -1,7 +1,7 @@
 ---
 title: "Suhail Ahmad Khanday"
 description: "Suhail Ahmad Khanday is a Mid-career Biochar researcher at National Institute Of Technology Silchar in IN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.127635
+date: 2026-08-11T01:33:12.017237
 url: "/cdr-researcher-census/researchers/suhail-ahmad-khanday-a5051845/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Microporous Erionite-activated Carbon Composite From Oil Palm Ash for Doxycycline Antibiotic Removal** (2021)
-   27 citations · Biochar
+   28 citations · Biochar
 
 ## External Profiles
 

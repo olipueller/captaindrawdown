@@ -1,7 +1,7 @@
 ---
 title: "Pornphimol Winyuchakrit"
 description: "Pornphimol Winyuchakrit is a Mid-career General CDR researcher at Sustainable Energy and Built Environment, Thammasat University in TH. With 30 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.662829
+date: 2026-08-11T01:33:11.587107
 url: "/cdr-researcher-census/researchers/pornphimol-winyuchakrit-a5031396/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Thailand’s net-zero emissions by 2050: analysis of economy-wide impacts** (2023)
-   39 citations · General CDR
+   41 citations · General CDR
 
 2. **A Multicriteria Decision Analysis to Selection of Low-carbon Emitting Technologies under Joint Crediting Mechanism for Thailand's Carbon Neutrality 2050** (2024)
    3 citations · General CDR

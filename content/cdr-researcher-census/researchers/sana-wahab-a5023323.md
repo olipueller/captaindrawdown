@@ -1,7 +1,7 @@
 ---
 title: "Sana Wahab"
 description: "Sana Wahab is a Senior Biochar researcher at Quaid-i-Azam University in PK. With 58 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.829929
+date: 2026-08-11T01:33:11.736332
 url: "/cdr-researcher-census/researchers/sana-wahab-a5023323/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Surya Chandra Tiwari"
 description: "Surya Chandra Tiwari is a Mid-career General CDR researcher at Mitchell Institute in US. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.242464
+date: 2026-08-11T01:33:12.122196
 url: "/cdr-researcher-census/researchers/surya-chandra-tiwari-a5017256/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **A strategy of development and selection of absorbent for efficient CO2 capture: An overview of properties and performance** (2022)
-   63 citations · General CDR
+   65 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Xiangrui He"
 description: "Xiangrui He is a Mid-career Biochar researcher at Huazhong University of Science and Technology in CN. With 25 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.632104
+date: 2026-08-11T01:33:11.558869
 url: "/cdr-researcher-census/researchers/xiangrui-he-a5005967/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **In-situ carbonate mineral coupling by hydrothermal carbonization: a strategy for enhanced hydrochar stability and long-term carbon sequestration** (2025)
-   10 citations · Biochar
+   11 citations · Biochar
 
 2. **In-Situ Carbonate Mineral Coupling by Hydrothermal Carbonization: A Strategy for Enhanced Hydrochar Stability and Long-Term Carbon Sequestration** (2025)
    0 citations · Biochar

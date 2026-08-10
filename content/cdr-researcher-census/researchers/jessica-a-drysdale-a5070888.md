@@ -1,7 +1,7 @@
 ---
 title: "Jessica A. Drysdale"
 description: "Jessica A. Drysdale is a Senior Ocean CDR researcher at Woods Hole Oceanographic Institution in US. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.852586
+date: 2026-08-11T01:33:11.755844
 url: "/cdr-researcher-census/researchers/jessica-a-drysdale-a5070888/"
 layout: "researcher"
 hiddenInHomeList: true

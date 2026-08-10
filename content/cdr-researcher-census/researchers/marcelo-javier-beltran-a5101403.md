@@ -1,7 +1,7 @@
 ---
 title: "Marcelo Javier Beltrán"
 description: "Marcelo Javier Beltrán is a Mid-career Soil Carbon researcher. With 26 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.558800
+date: 2026-08-11T01:33:12.405195
 url: "/cdr-researcher-census/researchers/marcelo-javier-beltran-a5101403/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,16 +46,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Do soil carbon sequestration and soil fertility increase by including a gramineous cover crop in continuous soybean?** (2021)
-   15 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 2. **An evaluation of soil carbon models and their role on finding ways to net-zero carbon in agricultural systems** (2024)
-   3 citations · General CDR
+   4 citations · General CDR
 
-3. **Types of silvopastoral systems: adding trees to pasture/rangelands** (2025)
+3. **The Argentinian experience with yerba mate in agroforestry** (2024)
+   1 citations · General CDR
+
+4. **Types of silvopastoral systems: adding trees to pasture/rangelands** (2025)
    0 citations · Soil Carbon
-
-4. **The Argentinian experience with yerba mate in agroforestry** (2024)
-   0 citations · General CDR
 
 5. **Argentina: Soil Organic Carbon Sequestration Potential National Map. National Report. Version 1.0. Year: 2021** (2021)
    0 citations · General CDR

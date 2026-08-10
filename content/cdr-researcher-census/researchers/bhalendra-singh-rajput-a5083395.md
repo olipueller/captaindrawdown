@@ -1,7 +1,7 @@
 ---
 title: "Bhalendra Singh Rajput"
 description: "Bhalendra Singh Rajput is a Mid-career Soil Carbon researcher at Agriculture and Forestry University in NP. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.760174
+date: 2026-08-11T01:33:11.674427
 url: "/cdr-researcher-census/researchers/bhalendra-singh-rajput-a5083395/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon storage and economic efficiency of fruit-based systems in semi-arid region: a symbiotic approach for sustainable agriculture and climate resilience** (2024)
-   22 citations · General CDR
+   24 citations · General CDR
 
 2. **Carbon stock inventory and biomass production in different land use systems of Northwestern Himalaya** (2023)
    6 citations · General CDR

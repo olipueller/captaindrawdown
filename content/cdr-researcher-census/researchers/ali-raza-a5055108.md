@@ -1,7 +1,7 @@
 ---
 title: "Ali Raza"
 description: "Ali Raza is a Senior Biochar researcher at University of Engineering and Technology Taxila in PK. With 13 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.854968
+date: 2026-08-11T01:33:11.758025
 url: "/cdr-researcher-census/researchers/ali-raza-a5055108/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Advancing carbon sequestration in engineered cementitious composites: Incorporating slag and pyrolysis-enhanced biochar for net-zero emissions** (2025)
-   10 citations · Biochar
+   12 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Shweta Rawat"
 description: "Shweta Rawat is a Mid-career Biochar researcher at Kumaun University in IN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.734158
+date: 2026-08-11T01:33:11.650824
 url: "/cdr-researcher-census/researchers/shweta-rawat-a5102892/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Emerging Trends of Bioelectricity Production Using Biomass Derived Biochar: Bibliometric Analysis, Research Progress and Technoeconomic Assessment** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

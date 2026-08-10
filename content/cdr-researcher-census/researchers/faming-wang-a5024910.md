@@ -1,7 +1,7 @@
 ---
 title: "Faming Wang"
 description: "Faming Wang is an Eminent Soil Carbon researcher at South China Botanical Garden in CN. With 189 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.106446
+date: 2026-08-11T01:33:11.086155
 url: "/cdr-researcher-census/researchers/faming-wang-a5024910/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,34 +51,34 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Faster accumulation and greater contribution of glomalin to the soil organic carbon pool than amino sugars do under tropical coastal forest restoration** (2022)
-   100 citations · Soil Carbon
+   102 citations · Soil Carbon
 
 2. **Contributions of plant‐ and microbial‐derived residuals to mangrove soil carbon stocks: Implications for blue carbon sequestration** (2024)
-   86 citations · General CDR
+   91 citations · General CDR
 
 3. **Accumulation of glomalin‐related soil protein benefits soil carbon sequestration: Tropical coastal forest restoration experiences** (2022)
    45 citations · Soil Carbon
 
-4. **Fiddling with the blue carbon: Fiddler crab burrows enhance CO2 and CH4 efflux in saltmarsh** (2022)
-   39 citations · Soil Carbon
+4. **Spartina alterniflora invasion benefits blue carbon sequestration in China** (2024)
+   39 citations
 
 5. **Fiddler crab bioturbation stimulates methane emissions in mangroves: Insights into microbial mechanisms** (2024)
-   38 citations · Soil Carbon
+   39 citations · Soil Carbon
 
-6. **Spartina alterniflora invasion benefits blue carbon sequestration in China** (2024)
-   37 citations
+6. **Fiddling with the blue carbon: Fiddler crab burrows enhance CO2 and CH4 efflux in saltmarsh** (2022)
+   39 citations · Soil Carbon
 
 7. **Nitrogen deposition enhances soil organic carbon and microbial residual carbon in a tropical forest** (2022)
-   32 citations · Soil Carbon
+   33 citations · Soil Carbon
 
 8. **Intensified rainfall in the wet season alters the microbial contribution to soil carbon storage** (2022)
    31 citations · Soil Carbon
 
 9. **Fate of soil organic carbon in estuarine mangroves: Evidences from stable isotopes and lignin biomarkers** (2024)
-   28 citations · Soil Carbon
+   29 citations · Soil Carbon
 
 10. **Blue carbon sink function, formation mechanism and sequestration potential of coastal salt marshes** (2022)
-   28 citations · Soil Carbon
+   29 citations · Soil Carbon
 
 ## External Profiles
 

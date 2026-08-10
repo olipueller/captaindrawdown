@@ -1,7 +1,7 @@
 ---
 title: "Debela Hunde Feyssa"
 description: "Debela Hunde Feyssa is a Mid-career Soil Carbon researcher at Jimma University in ET. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.461935
+date: 2026-08-11T01:33:11.408006
 url: "/cdr-researcher-census/researchers/debela-hunde-feyssa-a5087052/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Challenges of Smallholder Farming in Ethiopia and Opportunities by Adopting Climate-Smart Agriculture** (2021)
-   344 citations · Soil Carbon
+   354 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Md Tahmid Islam"
 description: "Md Tahmid Islam is a Mid-career Biochar researcher at Kunming Medical University in CN. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.884801
+date: 2026-08-11T01:33:11.785776
 url: "/cdr-researcher-census/researchers/md-tahmid-islam-a5085907/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Recent Progress on Emerging Applications of Hydrochar** (2022)
-   61 citations · Biochar
+   63 citations · Biochar
 
 ## External Profiles
 

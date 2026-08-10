@@ -1,7 +1,7 @@
 ---
 title: "Benjamin Lux"
 description: "Benjamin Lux is a Senior General CDR researcher at Fraunhofer Institute for Systems and Innovation Research in DE. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.560736
+date: 2026-08-11T01:33:11.494855
 url: "/cdr-researcher-census/researchers/benjamin-lux-a5009129/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -56,14 +56,14 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 2. **Potentials of Direct Air Capture and Storage in a Greenhouse Gas-Neutral European Energy System** (2022)
    6 citations · DAC
 
-3. **CO2-compensated natural gas economically beats synthetic methane** (2025)
+3. **Transformations of the energy supply sector towards EU’s net-zero goal** (2026)
+   1 citations · BECCS
+
+4. **CO2-compensated natural gas economically beats synthetic methane** (2025)
    1 citations
 
-4. **Transformations of the energy supply sector towards EU’s net-zero goal** (2026)
-   0 citations
-
 5. **Transformations of the energy supply sector towards EU’s net-zero goal** (2026)
-   0 citations · BECCS
+   0 citations
 
 6. **Co2-Compensated Natural Gas Economically Beats Synthetic Methane** (2025)
    0 citations · General CDR

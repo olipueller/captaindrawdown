@@ -1,7 +1,7 @@
 ---
 title: "Andrew Langendam"
 description: "Andrew Langendam is a Mid-career Enhanced Weathering researcher at Australian Nuclear Science and Technology Organisation in AU. With 33 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.850815
+date: 2026-08-11T01:33:11.754235
 url: "/cdr-researcher-census/researchers/andrew-langendam-a5001848/"
 layout: "researcher"
 hiddenInHomeList: true

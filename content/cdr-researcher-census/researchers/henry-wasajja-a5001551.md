@@ -1,7 +1,7 @@
 ---
 title: "Henry Wasajja"
 description: "Henry Wasajja is a Mid-career Biochar researcher at Ndejje University in UG. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.239904
+date: 2026-08-11T01:33:12.119571
 url: "/cdr-researcher-census/researchers/henry-wasajja-a5001551/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Improving the Economic Feasibility of Small-Scale Biogas-Solid Oxide Fuel Cell Energy Systems through a Local Ugandan Biochar Production Method** (2024)
-   2 citations · Biochar
+   4 citations · Biochar
 
 ## External Profiles
 

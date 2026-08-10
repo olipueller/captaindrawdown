@@ -1,7 +1,7 @@
 ---
 title: "Cia Yin Yee"
 description: "Cia Yin Yee is a Mid-career General CDR researcher at Universiti Teknologi Petronas in MY. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.078101
+date: 2026-08-11T01:33:11.971400
 url: "/cdr-researcher-census/researchers/cia-yin-yee-a5007389/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **A systematic review of the molecular simulation of hybrid membranes for performance enhancements and contaminant removals** (2022)
-   18 citations · General CDR
+   20 citations · General CDR
 
 ## External Profiles
 

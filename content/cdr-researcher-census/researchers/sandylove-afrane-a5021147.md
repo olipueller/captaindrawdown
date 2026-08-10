@@ -1,7 +1,7 @@
 ---
 title: "Sandylove Afrane"
 description: "Sandylove Afrane is a Senior General CDR researcher at Tianjin University in CN. With 52 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.193793
+date: 2026-08-11T01:33:11.168323
 url: "/cdr-researcher-census/researchers/sandylove-afrane-a5021147/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,17 +47,17 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Top CDR Publications
 
-1. **Deployment of hydrogen in hard-to-abate transport sectors under limited carbon dioxide removal (CDR): Implications on global energy-land-water system** (2023)
-   49 citations · General CDR
+1. **Prioritizing Non-Carbon Dioxide Removal Mitigation Strategies Could Reduce the Negative Impacts Associated with Large-Scale Reliance on Negative Emissions** (2024)
+   50 citations · General CDR
 
-2. **Prioritizing Non-Carbon Dioxide Removal Mitigation Strategies Could Reduce the Negative Impacts Associated with Large-Scale Reliance on Negative Emissions** (2024)
-   48 citations · General CDR
+2. **Deployment of hydrogen in hard-to-abate transport sectors under limited carbon dioxide removal (CDR): Implications on global energy-land-water system** (2023)
+   49 citations · General CDR
 
 3. **Role of negative emission technologies in South Africa's pathway to net zero emissions by 2050** (2024)
    35 citations · General CDR
 
 4. **Deployment expectations of multi-gigatonne scale carbon removal could have adverse impacts on Asia’s energy-water-land nexus** (2024)
-   26 citations · General CDR
+   28 citations · General CDR
 
 5. **Does China's pathway to carbon neutrality require the integration of land-based biological negative emission solutions with geochemical and chemical alternatives?** (2023)
    18 citations · Enhanced Weathering
@@ -71,11 +71,11 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 8. **Carbon dioxide removal and net zero emissions in Africa: an integrated assessment modelling based on three different land-based negative emission solutions** (2024)
    8 citations · General CDR
 
-9. **Deployment of carbon removal technologies could reduce the rapid and potentially disruptive pace of decarbonization in South Africa's climate ambitions** (2024)
-   6 citations · General CDR
+9. **Scaling carbon removal without delaying emission reductions** (2025)
+   7 citations · General CDR
 
-10. **Scaling carbon removal without delaying emission reductions** (2025)
-   5 citations · General CDR
+10. **Deployment of carbon removal technologies could reduce the rapid and potentially disruptive pace of decarbonization in South Africa's climate ambitions** (2024)
+   6 citations · General CDR
 
 ## External Profiles
 

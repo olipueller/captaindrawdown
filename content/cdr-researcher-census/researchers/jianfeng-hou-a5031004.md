@@ -1,7 +1,7 @@
 ---
 title: "Jianfeng Hou"
 description: "Jianfeng Hou is a Mid-career Soil Carbon researcher at Chizhou University in CN. With 30 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.664139
+date: 2026-08-11T01:33:11.588350
 url: "/cdr-researcher-census/researchers/jianfeng-hou-a5031004/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil organic carbon stock in China’s tea plantations and their great potential of carbon sequestration** (2023)
-   27 citations · Soil Carbon
+   28 citations · Soil Carbon
 
 2. **Long-Term Forestry Restoration Projects Have Changed the Spatial Variation of the Forest Soil Organic Carbon, Nitrogen, and Phosphorus Stocks Across Southwestern China** (2024)
    0 citations · Soil Carbon

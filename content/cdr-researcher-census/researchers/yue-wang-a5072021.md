@@ -1,7 +1,7 @@
 ---
 title: "Yue Wang"
 description: "Yue Wang is a Senior Soil Carbon researcher at Dalian Maritime University in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.765015
+date: 2026-08-11T01:33:11.679206
 url: "/cdr-researcher-census/researchers/yue-wang-a5072021/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Ecosystem water use efficiency and carbon use efficiency respond oppositely to vegetation greening in China's Loess Plateau** (2025)
-   21 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 2. **Afforestation Reduces Deep Soil Carbon Sequestration in Semiarid Regions: Lessons From Variations of Soil Water and Carbon Along Afforestation Stages in China's Loess Plateau** (2024)
    14 citations · Soil Carbon

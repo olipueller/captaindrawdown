@@ -1,7 +1,7 @@
 ---
 title: "Katie Lebling"
 description: "Katie Lebling is a Mid-career General CDR researcher. With 52 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.017282
+date: 2026-08-11T01:33:11.893498
 url: "/cdr-researcher-census/researchers/katie-lebling-a5029759/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -52,7 +52,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    10 citations · DAC
 
 4. **Principles for responsible and effective marine carbon dioxide removal development and governance** (2025)
-   7 citations · General CDR
+   8 citations · General CDR
 
 5. **Measurement, Reporting, and Verification for Novel Carbon Dioxide Removal in US Federal Policy** (2024)
    5 citations · General CDR

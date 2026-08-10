@@ -1,7 +1,7 @@
 ---
 title: "Mengke Zhu"
 description: "Mengke Zhu is a Mid-career Soil Carbon researcher at First Affiliated Hospital of Xi'an Jiaotong University in CN. With 49 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.295016
+date: 2026-08-11T01:33:11.262229
 url: "/cdr-researcher-census/researchers/mengke-zhu-a5108988/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The formation of small macro‐aggregates induces soil organic carbon stocks in the restoration process used on cut slopes in alpine regions of China** (2022)
-   17 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 2. **Response Patterns of Soil Organic Carbon Fractions and Storage to Vegetation Types in the Yellow River Wetland** (2025)
    2 citations · Soil Carbon

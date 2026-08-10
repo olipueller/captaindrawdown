@@ -1,7 +1,7 @@
 ---
 title: "Yiyang Ding"
 description: "Yiyang Ding is a Mid-career Biochar researcher at Peking University in CN. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.832037
+date: 2026-08-11T01:33:11.737984
 url: "/cdr-researcher-census/researchers/yiyang-ding-a5043814/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Effects of biochar on soil carbon pool stability in the Dahurian larch (Larix gmelinii) forest are regulated by the dominant soil microbial ecological strategy** (2024)
-   13 citations · Biochar
+   14 citations · Biochar
 
 2. **The Effects of Biochar on Soil Carbon Pool Stability in the Dahurian Larch (Larix Gmelinii) Forest are Regulated by the Soil Microbial Dominant Ecological Strategy** (2024)
    0 citations · Biochar

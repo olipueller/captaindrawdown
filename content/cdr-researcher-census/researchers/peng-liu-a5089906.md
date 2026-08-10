@@ -1,7 +1,7 @@
 ---
 title: "Peng Liu"
 description: "Peng Liu is a Mid-career Soil Carbon researcher at South China University of Technology in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.797670
+date: 2026-08-11T01:33:11.708083
 url: "/cdr-researcher-census/researchers/peng-liu-a5089906/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "E. C. Laurenceau‐Cornec"
 description: "E. C. Laurenceau‐Cornec is a Mid-career Ocean CDR researcher at Centre National de la Recherche Scientifique in FR. With 21 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.489692
+date: 2026-08-11T01:33:11.431752
 url: "/cdr-researcher-census/researchers/e-c-laurenceaucornec-a5014225/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Identifying the Most (Cost‐)Efficient Regions for CO<sub>2</sub> Removal With Iron Fertilization in the Southern Ocean** (2023)
-   14 citations · General CDR
+   15 citations · General CDR
 
 2. **Identifying the most (cost-)efficient regions for CO2 removal with Iron Fertilization in the Southern Ocean** (2023)
    1 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Wooiklee S. Paye"
 description: "Wooiklee S. Paye is a Mid-career Soil Carbon researcher at Agricultural Research Service in US. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.997807
+date: 2026-08-11T01:33:11.875525
 url: "/cdr-researcher-census/researchers/wooiklee-s-paye-a5024736/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -52,6 +52,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 1. **Limited impacts of occasional tillage on dry aggregate size distribution and soil carbon and nitrogen fractions in semi-arid drylands** (2023)
    31 citations · Soil Carbon
+
+2. **Linking soil health and fertility with sustainable crop production in Sub-Saharan Africa for improving food security and resilience** (2026)
+   0 citations
 
 ## External Profiles
 

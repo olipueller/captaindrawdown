@@ -1,7 +1,7 @@
 ---
 title: "Olga Vindušková"
 description: "Olga Vindušková is a Senior Soil Carbon researcher at Charles University in CZ. With 66 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.250020
+date: 2026-08-11T01:33:11.220788
 url: "/cdr-researcher-census/researchers/olga-vinduskova-a5057468/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Global stocks and capacity of mineral-associated soil organic carbon** (2022)
-   829 citations · Soil Carbon
+   883 citations · Soil Carbon
 
 2. **Earthworms in an enhanced weathering mesocosm experiment: Effects on soil carbon sequestration, base cation exchange and soil CO2 efflux** (2024)
-   23 citations · Enhanced Weathering
+   24 citations · Enhanced Weathering
 
 3. **KEYLINK: towards a more integrative soil representation for inclusion in ecosystem scale models—II: model description, implementation and testing** (2021)
-   17 citations
+   18 citations
 
 4. **Soil Carbon Sequestration and the Role of Earthworms in an Enhanced Weathering Mesocosm Experiment** (2023)
    6 citations · Enhanced Weathering

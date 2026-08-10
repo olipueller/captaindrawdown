@@ -1,7 +1,7 @@
 ---
 title: "Stephanie Delacroix"
 description: "Stephanie Delacroix is a Mid-career Ocean CDR researcher at Norwegian Institute for Water Research in NO. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.127746
+date: 2026-08-11T01:33:12.017360
 url: "/cdr-researcher-census/researchers/stephanie-delacroix-a5014117/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    5 citations · Ocean CDR
 
 2. **Ocean alkalinity enhancement impacts: regrowth of marine microalgae in alkaline mineral concentrations simulating the initial concentrations after ship-based dispersions** (2024)
-   3 citations · Ocean CDR
+   4 citations · Ocean CDR
 
 3. **Reply on CC1** (2023)
    0 citations · General CDR

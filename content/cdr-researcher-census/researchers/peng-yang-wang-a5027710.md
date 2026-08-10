@@ -1,7 +1,7 @@
 ---
 title: "Peng-Yang Wang"
 description: "Peng-Yang Wang is a Mid-career Soil Carbon researcher at State Key Laboratory of Herbage Improvement and Grassland Agro-ecosystems. With 13 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.851498
+date: 2026-08-11T01:33:11.754835
 url: "/cdr-researcher-census/researchers/peng-yang-wang-a5027710/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Plastic footprint deteriorates dryland carbon footprint across soil–plant-atmosphere continuum** (2024)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 ## External Profiles
 

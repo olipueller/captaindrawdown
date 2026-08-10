@@ -1,7 +1,7 @@
 ---
 title: "Qinwen Zheng"
 description: "Qinwen Zheng is an Early-career Biochar researcher at Guizhou University in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.981166
+date: 2026-08-11T01:33:11.859374
 url: "/cdr-researcher-census/researchers/qinwen-zheng-a5100586/"
 layout: "researcher"
 hiddenInHomeList: true

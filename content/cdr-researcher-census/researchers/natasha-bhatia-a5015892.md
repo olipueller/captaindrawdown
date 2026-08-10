@@ -1,7 +1,7 @@
 ---
 title: "Natasha Bhatia"
 description: "Natasha Bhatia is a Mid-career Soil Carbon researcher at National University of Singapore in SG. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.784161
+date: 2026-08-11T01:33:11.695916
 url: "/cdr-researcher-census/researchers/natasha-bhatia-a5015892/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Edge effects impact blue carbon dynamics across coastal ecotones in a tropical seascape** (2024)
-   5 citations · General CDR
+   6 citations · General CDR
 
 ## External Profiles
 

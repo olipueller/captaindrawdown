@@ -1,7 +1,7 @@
 ---
 title: "Tengteng Li"
 description: "Tengteng Li is a Mid-career Soil Carbon researcher at South China Botanical Garden in CN. With 19 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.428043
+date: 2026-08-11T01:33:11.380012
 url: "/cdr-researcher-census/researchers/tengteng-li-a5101434/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Faster accumulation and greater contribution of glomalin to the soil organic carbon pool than amino sugars do under tropical coastal forest restoration** (2022)
-   100 citations · Soil Carbon
+   102 citations · Soil Carbon
 
 2. **Divergent accumulation of amino sugars and lignins mediated by soil functional carbon pools under tropical forest conversion** (2023)
    48 citations · Soil Carbon
 
 3. **Fractionation of soil organic carbon in a calcareous soil after long-term tillage and straw residue management** (2022)
-   23 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 4. **Biomass producing and CO2 capturing simultaneously by Chlorella vulgaris: Effect of CO2 concentration and aeration rate** (2024)
    16 citations · General CDR
 
 5. **Illuminate underground phenology to aid carbon sequestration** (2025)
-   1 citations
+   2 citations
 
 6. **Divergent chemical responses of soil carbon and phosphorus to nutrient addition mediated by functional carbon pools in tropical forests** (2025)
    0 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Jinjin Liu"
 description: "Jinjin Liu is a Mid-career DAC researcher at Tiangong University in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.455364
+date: 2026-08-11T01:33:11.403193
 url: "/cdr-researcher-census/researchers/jinjin-liu-a5046934/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,10 +50,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Top CDR Publications
 
-1. **Bifluorinated Motif‐Tailored Hybrid Membranes for Ultra‐Permeable CO <sub>2</sub> Separation From Air Under High Humidity** (2026)
+1. **Outside Back Cover: Bifluorinated Motif‐Tailored Hybrid Membranes for Ultra‐Permeable CO <sub>2</sub> Separation From Air Under High Humidity** (2026)
    0 citations · DAC
 
 2. **Bifluorinated Motif‐Tailored Hybrid Membranes for Ultra‐Permeable CO <sub>2</sub> Separation From Air Under High Humidity** (2026)
+   0 citations · DAC
+
+3. **Bifluorinated Motif‐Tailored Hybrid Membranes for Ultra‐Permeable CO <sub>2</sub> Separation From Air Under High Humidity** (2026)
    0 citations · DAC
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Xianni Chen"
 description: "Xianni Chen is a Senior Soil Carbon researcher at Henan University of Science and Technology in CN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.634422
+date: 2026-08-11T01:33:11.561124
 url: "/cdr-researcher-census/researchers/xianni-chen-a5085965/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Differences of SOC storage and stability between soil layers influenced by long-term fertilization in a typical paddy soil of Southern China** (2023)
    9 citations · Soil Carbon
 
-2. **Changes in soil aggregation characteristics and the sequestration of carbon and nitrogen after long-term slight nighttime warming in the farmland of central China** (2025)
-   3 citations · Soil Carbon
+2. **Increased Light Intensity Mitigates CO2 and CH4 Emissions from Paddy Soil by Mediating Iron Redox Cycling Coupled with Organic Carbon Transformation** (2025)
+   4 citations · Soil Carbon
 
-3. **Increased Light Intensity Mitigates CO2 and CH4 Emissions from Paddy Soil by Mediating Iron Redox Cycling Coupled with Organic Carbon Transformation** (2025)
-   2 citations · Soil Carbon
+3. **Changes in soil aggregation characteristics and the sequestration of carbon and nitrogen after long-term slight nighttime warming in the farmland of central China** (2025)
+   3 citations · Soil Carbon
 
 4. **Long-term organic amendments enhanced soil organic carbon storage and stability in a typical paddy soil of Southern China** (2023)
    0 citations · Soil Carbon

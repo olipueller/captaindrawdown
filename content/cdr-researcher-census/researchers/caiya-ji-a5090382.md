@@ -1,7 +1,7 @@
 ---
 title: "Caiya Ji"
 description: "Caiya Ji is an Early-career Biochar researcher at Changzhou University in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.293313
+date: 2026-08-11T01:33:12.164737
 url: "/cdr-researcher-census/researchers/caiya-ji-a5090382/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Advances in preparation, application in contaminant removal, and environmental risks of biochar-based catalysts: a review** (2022)
-   76 citations · Biochar
+   79 citations · Biochar
 
 2. **Adsorption of total petroleum hydrocarbon in groundwater by KOH-activated biochar loaded double surfactant-modified nZVI** (2023)
-   11 citations · Biochar
+   14 citations · Biochar
 
 ## External Profiles
 

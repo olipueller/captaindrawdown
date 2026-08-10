@@ -1,7 +1,7 @@
 ---
 title: "Roger L. Viticoski"
 description: "Roger L. Viticoski is a Mid-career Biochar researcher at Auburn University in US. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.546348
+date: 2026-08-11T01:33:12.396163
 url: "/cdr-researcher-census/researchers/roger-l-viticoski-a5032636/"
 layout: "researcher"
 hiddenInHomeList: true

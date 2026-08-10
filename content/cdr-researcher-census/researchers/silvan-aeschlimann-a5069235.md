@@ -1,7 +1,7 @@
 ---
 title: "Silvan Aeschlimann"
 description: "Silvan Aeschlimann is an Early-career General CDR researcher. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-12T12:07:30.038238
+date: 2026-08-11T01:33:11.984818
 url: "/cdr-researcher-census/researchers/silvan-aeschlimann-a5069235/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,10 +46,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **A roadmap for achieving scalable, safe, and low-cost direct air carbon capture and storage** (2023)
-   107 citations
+   114 citations
 
 2. **Geochemical Negative Emissions Technologies: Part I. Review** (2022)
-   65 citations · DAC
+   66 citations · DAC
 
 3. **Geochemical Negative Emissions Technologies: Part II. Roadmap** (2022)
    20 citations

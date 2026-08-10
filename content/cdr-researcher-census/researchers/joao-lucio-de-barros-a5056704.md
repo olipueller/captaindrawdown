@@ -1,7 +1,7 @@
 ---
 title: "João Lúcio de Barros"
 description: "João Lúcio de Barros is a Mid-career Biochar researcher at Federal Institute of São Paulo in BR. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.583959
+date: 2026-08-11T01:33:12.421499
 url: "/cdr-researcher-census/researchers/joao-lucio-de-barros-a5056704/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **<i> <b>Eucalyptus</b> </i> Bark Biochar: Production and Characterization** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

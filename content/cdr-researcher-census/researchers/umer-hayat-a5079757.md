@@ -1,7 +1,7 @@
 ---
 title: "Umer Hayat"
 description: "Umer Hayat is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.365434
+date: 2026-08-11T01:33:12.228214
 url: "/cdr-researcher-census/researchers/umer-hayat-a5079757/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,11 +47,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **EVALUATION OF GROWING STOCK, BIOMASS AND SOIL CARBONS AND THEIR ASSOCIATION WITH A DIAMETER: A CASE STUDY FROM A PLANTED CHIR PINE (PINUS ROXBURGHII) FOREST** (2021)
+1. **Altitudinal Variations in Coniferous Vegetation and Soil Carbon Storage in Kalam Temperate Forest, Pakistan** (2025)
    7 citations · Soil Carbon
 
-2. **Altitudinal Variations in Coniferous Vegetation and Soil Carbon Storage in Kalam Temperate Forest, Pakistan** (2025)
-   6 citations · Soil Carbon
+2. **EVALUATION OF GROWING STOCK, BIOMASS AND SOIL CARBONS AND THEIR ASSOCIATION WITH A DIAMETER: A CASE STUDY FROM A PLANTED CHIR PINE (PINUS ROXBURGHII) FOREST** (2021)
+   7 citations · Soil Carbon
 
 ## External Profiles
 

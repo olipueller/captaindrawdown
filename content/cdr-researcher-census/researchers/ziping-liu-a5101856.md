@@ -1,7 +1,7 @@
 ---
 title: "Ziping Liu"
 description: "Ziping Liu is a Senior Soil Carbon researcher at Pharmaron (United Kingdom) in CN. With 109 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.183078
+date: 2026-08-11T01:33:11.157833
 url: "/cdr-researcher-census/researchers/ziping-liu-a5101856/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Erosion effects on soil microbial carbon use efficiency in the mollisol cropland in northeast China** (2023)
-   18 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 2. **Profile soil organic and inorganic carbon sequestration in maize cropland after long-term straw return** (2023)
    13 citations · Soil Carbon
 
-3. **Temperature effects on microbial carbon use efficiency and priming effects in soils under vegetation restoration** (2024)
+3. **Refining Amino Sugar‐Based Conversion Factors for Quantification of Microbial Necromass Carbon in Soils** (2025)
    10 citations · Soil Carbon
 
-4. **Isotopic evidence for increased carbon and nitrogen exchanges between peatland plants and their symbiotic microbes with rising atmospheric <scp>CO<sub>2</sub></scp> concentrations since 15,000 cal. year <scp>BP</scp>** (2022)
-   10 citations · General CDR
+4. **Temperature effects on microbial carbon use efficiency and priming effects in soils under vegetation restoration** (2024)
+   10 citations · Soil Carbon
 
-5. **Refining Amino Sugar‐Based Conversion Factors for Quantification of Microbial Necromass Carbon in Soils** (2025)
-   6 citations · Soil Carbon
+5. **Isotopic evidence for increased carbon and nitrogen exchanges between peatland plants and their symbiotic microbes with rising atmospheric <scp>CO<sub>2</sub></scp> concentrations since 15,000 cal. year <scp>BP</scp>** (2022)
+   10 citations · General CDR
 
 6. **Soil priming effect in the organic and mineral layers regulated by nitrogen mining mechanism in a temperate forest** (2024)
    3 citations · Soil Carbon

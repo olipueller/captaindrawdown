@@ -1,7 +1,7 @@
 ---
 title: "Mari Ariluoma"
 description: "Mari Ariluoma is a Mid-career General CDR researcher at Aalto University in FI. With 36 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.102332
+date: 2026-08-11T01:33:11.993249
 url: "/cdr-researcher-census/researchers/mari-ariluoma-a5024517/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **A framework for a carbon-based urban vegetation typology - A thematic review** (2023)
-   18 citations · General CDR
+   19 citations · General CDR
 
 2. **How urban green infrastructure contributes to carbon neutrality** (2025)
    5 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Nina Đukanović"
 description: "Nina Đukanović is a Mid-career Biochar researcher at University of Novi Sad in RS. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.247240
+date: 2026-08-11T01:33:12.126179
 url: "/cdr-researcher-census/researchers/nina-ukanovic-a5006634/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar in the Remediation of Organic Pollutants in Water: A Review of Polycyclic Aromatic Hydrocarbon and Pesticide Removal** (2024)
-   58 citations · Biochar
+   59 citations · Biochar
 
 2. **The efficiency of the hard wood origin biochar addition on the PAHs bioavailability and stability in sediment** (2023)
    15 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Khadija Meftah"
 description: "Khadija Meftah is a Mid-career Biochar researcher at Université Sultan Moulay Slimane in MA. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.272629
+date: 2026-08-11T01:33:12.147357
 url: "/cdr-researcher-census/researchers/khadija-meftah-a5094107/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **the main types of derivatives of plant matter and agricultural waste used as bio-adsorbents for the removal of heavy metals and dyes: a review** (2024)
-   14 citations · Biochar
+   15 citations · Biochar
 
 2. **Comparative analysis of 13 types of adsorbent materials for water pollutant removal via a multi-criteria evaluation of performance cost circular economy green chemistry and durability** (2026)
-   0 citations
+   3 citations
 
 ## External Profiles
 

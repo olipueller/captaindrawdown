@@ -1,7 +1,7 @@
 ---
 title: "Zhenke Zhu"
 description: "Zhenke Zhu is an Eminent Soil Carbon researcher at Ningbo University in CN. With 121 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.114454
+date: 2026-08-11T01:33:11.093780
 url: "/cdr-researcher-census/researchers/zhenke-zhu-a5089120/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,34 +51,34 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Stoichiometric regulation of priming effects and soil carbon balance by microbial life strategies** (2022)
-   210 citations · Soil Carbon
+   216 citations · Soil Carbon
 
 2. **Rice rhizodeposition promotes the build-up of organic carbon in soil via fungal necromass** (2021)
-   123 citations · Soil Carbon
+   125 citations · Soil Carbon
 
 3. **Decreasing microbial phosphorus limitation increases soil carbon release** (2022)
-   119 citations · Soil Carbon
+   122 citations · Soil Carbon
 
 4. **Abiotic and biotic regulation on carbon mineralization and stabilization in paddy soils along iron oxide gradients** (2021)
-   105 citations · Soil Carbon
+   108 citations · Soil Carbon
 
 5. **Visualization and quantification of carbon “rusty sink” by rice root iron plaque: Mechanisms, functions, and global implications** (2022)
-   81 citations · Soil Carbon
+   84 citations · Soil Carbon
 
 6. **Carbon stabilization by iron plaque on rice roots: The role of oxygen loss** (2025)
-   21 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 7. **Microbial strategies regulate organic carbon accumulation in saline paddy soils: A millennium chronosequence** (2025)
-   19 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 8. **Residence time of carbon in paddy soils** (2023)
    18 citations · Soil Carbon
 
 9. **Bacterial necromass decomposition and priming effects in paddy soils depend on long-term fertilization** (2025)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 10. **Stability of iron-carbon complexes determines carbon sequestration efficiency in iron-rich soils** (2025)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 ## External Profiles
 

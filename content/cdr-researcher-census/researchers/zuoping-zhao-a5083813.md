@@ -1,7 +1,7 @@
 ---
 title: "Zuoping Zhao"
 description: "Zuoping Zhao is a Senior Biochar researcher at Shaanxi University of Technology in CN. With 52 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.547041
+date: 2026-08-11T01:33:11.482339
 url: "/cdr-researcher-census/researchers/zuoping-zhao-a5083813/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    12 citations · Biochar
 
 4. **The adsorption behavior and mechanism of Cu(Ⅱ), Fe(Ⅱ) and Co(Ⅱ) on straw biochar and their Fenton-like performance for ciprofloxacin decontamination** (2025)
-   10 citations · Biochar
+   11 citations · Biochar
 
 5. **Preparation and properties of rapeseed straw based porous carbon materials** (2024)
    1 citations · Biochar

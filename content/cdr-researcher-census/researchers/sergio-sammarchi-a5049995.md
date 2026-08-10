@@ -1,7 +1,7 @@
 ---
 title: "Sergio Sammarchi"
 description: "Sergio Sammarchi is a Mid-career BECCS researcher at Hong Kong University of Science and Technology in HK. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.371603
+date: 2026-08-11T01:33:12.234478
 url: "/cdr-researcher-census/researchers/sergio-sammarchi-a5049995/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Interdisciplinary challenges in bio-energy carbon capture utilization &amp; storage deployment: A review** (2024)
-   15 citations · BECCS
+   16 citations · BECCS
 
 2. **Decarbonizing China’s coal power with sustainable BECCS: a techno-spatial analysis** (2023)
    12 citations · BECCS

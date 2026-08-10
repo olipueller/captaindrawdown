@@ -1,7 +1,7 @@
 ---
 title: "Daniela Cala"
 description: "Daniela Cala is a Mid-career General CDR researcher at Indiana University Bloomington in US. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.933435
+date: 2026-08-11T01:33:11.829744
 url: "/cdr-researcher-census/researchers/daniela-cala-a5004015/"
 layout: "researcher"
 hiddenInHomeList: true

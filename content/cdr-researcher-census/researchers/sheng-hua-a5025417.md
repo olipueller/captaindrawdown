@@ -1,7 +1,7 @@
 ---
 title: "Sheng Hua"
 description: "Sheng Hua is an Early-career Biochar researcher at Nanjing Agricultural University in CN. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.735268
+date: 2026-08-11T01:33:11.651916
 url: "/cdr-researcher-census/researchers/sheng-hua-a5025417/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Pyrrolic N-rich biochar without exogenous nitrogen doping as a functional material for bisphenol A removal: Performance and mechanism** (2021)
-   276 citations · Biochar
+   279 citations · Biochar
 
 ## External Profiles
 

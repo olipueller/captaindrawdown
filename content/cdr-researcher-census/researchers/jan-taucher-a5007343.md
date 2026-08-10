@@ -1,7 +1,7 @@
 ---
 title: "Jan Taucher"
 description: "Jan Taucher is a Senior Ocean CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 106 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.195956
+date: 2026-08-11T01:33:11.170255
 url: "/cdr-researcher-census/researchers/jan-taucher-a5007343/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Stability of alkalinity in ocean alkalinity enhancement (OAE) approaches – consequences for durability of CO <sub>2</sub> storage** (2023)
-   149 citations · General CDR
+   150 citations · General CDR
 
 2. **Effect of Intensity and Mode of Artificial Upwelling on Particle Flux and Carbon Export** (2021)
    42 citations · General CDR
@@ -60,10 +60,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    25 citations
 
 4. **Plankton food web structure and productivity under ocean alkalinity enhancement** (2024)
-   21 citations · General CDR
+   23 citations · General CDR
 
 5. **Resilience of Phytoplankton and Microzooplankton Communities under Ocean Alkalinity Enhancement in the Oligotrophic Ocean** (2024)
-   20 citations · General CDR
+   21 citations · General CDR
 
 6. **Particle fluxes by subtropical pelagic communities under ocean alkalinity enhancement** (2025)
    8 citations · General CDR

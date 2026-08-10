@@ -1,7 +1,7 @@
 ---
 title: "Chootrakul Siripaiboon"
 description: "Chootrakul Siripaiboon is a Mid-career BECCS researcher at Kasetsart University in TH. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.226198
+date: 2026-08-11T01:33:12.106867
 url: "/cdr-researcher-census/researchers/chootrakul-siripaiboon-a5068278/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Integration of amine-based CO2 capture with bio-methanol synthesis using waste methanol solvent: Toward energy-efficient and circular carbon solutions for biogas-fueled power plants** (2025)
-   2 citations · BECCS
+   3 citations · BECCS
 
 ## External Profiles
 

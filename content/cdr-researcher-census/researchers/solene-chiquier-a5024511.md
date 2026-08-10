@@ -1,7 +1,7 @@
 ---
 title: "Solène Chiquier"
 description: "Solène Chiquier is a Mid-career General CDR researcher at IFP Énergies nouvelles in FR. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.852140
+date: 2026-08-11T01:33:11.755438
 url: "/cdr-researcher-census/researchers/solene-chiquier-a5024511/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **A comparative analysis of the efficiency, timing, and permanence of CO<sub>2</sub> removal pathways** (2022)
-   90 citations · General CDR
+   91 citations · General CDR
 
 2. **CO<sub>2</sub> removal and 1.5 °C: what, when, where, and how?** (2022)
-   23 citations · BECCS
+   24 citations · BECCS
 
 3. **Integrated assessment of carbon dioxide removal portfolios: land, energy, and economic trade-offs for climate policy** (2025)
-   16 citations · BECCS
+   17 citations · BECCS
 
 4. **Considering durability in carbon dioxide removal strategies for climate change mitigation** (2025)
-   8 citations · General CDR
+   12 citations · General CDR
 
 5. **Assessing the impact of carbon dioxide removal on the power system** (2023)
-   7 citations · BECCS
+   8 citations · BECCS
 
 6. **Bargaining powers in cooperative Carbon Dioxide Removal deployment** (2025)
    4 citations · General CDR

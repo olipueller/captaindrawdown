@@ -1,7 +1,7 @@
 ---
 title: "Klaus Lorenz"
 description: "Klaus Lorenz is a Senior Soil Carbon researcher at The Ohio State University in US. With 115 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.107703
+date: 2026-08-11T01:33:11.087377
 url: "/cdr-researcher-census/researchers/klaus-lorenz-a5046739/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A global synthesis of biochar's sustainability in climate-smart agriculture - Evidence from field and laboratory experiments** (2022)
-   76 citations · Biochar
+   78 citations · Biochar
 
 2. **Biochar as a negative emission technology: A synthesis of field research on greenhouse gas emissions** (2023)
-   67 citations · Biochar
+   70 citations · Biochar
 
 3. **Soil Organic Carbon Sequestration in Terrestrial Biomes of the United States** (2022)
    9 citations · General CDR

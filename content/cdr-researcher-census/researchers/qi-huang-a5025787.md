@@ -1,7 +1,7 @@
 ---
 title: "Qi Huang"
 description: "Qi Huang is a Mid-career General CDR researcher at University of Edinburgh in GB. With 15 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.280215
+date: 2026-08-11T01:33:11.248460
 url: "/cdr-researcher-census/researchers/qi-huang-a5025787/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Potential photo-switching sorbents for CO2 capture – A review** (2022)
-   39 citations · General CDR
+   43 citations · General CDR
 
 ## External Profiles
 

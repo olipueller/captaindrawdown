@@ -1,7 +1,7 @@
 ---
 title: "Jiaqi Xue"
 description: "Jiaqi Xue is a Mid-career Biochar researcher at Beijing Institute of Technology in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.823681
+date: 2026-08-11T01:33:11.730779
 url: "/cdr-researcher-census/researchers/jiaqi-xue-a5028832/"
 layout: "researcher"
 hiddenInHomeList: true

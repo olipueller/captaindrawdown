@@ -1,7 +1,7 @@
 ---
 title: "Sheng-Ao Li"
 description: "Sheng-Ao Li is a Senior Soil Carbon researcher at Chongqing University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.329675
+date: 2026-08-11T01:33:12.196629
 url: "/cdr-researcher-census/researchers/sheng-ao-li-a5078367/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Wildfire-Derived Pyrogenic Dissolved Organic Matter (pyDOM) Enhances Riverine DOM Reactivities and Nitrogen Metabolisms** (2025)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 ## External Profiles
 

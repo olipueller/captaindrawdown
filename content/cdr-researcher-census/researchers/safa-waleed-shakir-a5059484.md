@@ -1,7 +1,7 @@
 ---
 title: "Safa Waleed Shakir"
 description: "Safa Waleed Shakir is a Senior Biochar researcher at University of Tikrit in IQ. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.147521
+date: 2026-08-11T01:33:12.035538
 url: "/cdr-researcher-census/researchers/safa-waleed-shakir-a5059484/"
 layout: "researcher"
 hiddenInHomeList: true

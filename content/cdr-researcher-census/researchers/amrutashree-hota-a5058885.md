@@ -1,7 +1,7 @@
 ---
 title: "Amrutashree Hota"
 description: "Amrutashree Hota is a Mid-career Biochar researcher at Vellore Institute of Technology University in IN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.499623
+date: 2026-08-11T01:33:12.352573
 url: "/cdr-researcher-census/researchers/amrutashree-hota-a5058885/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Timothy F. Baars"
 description: "Timothy F. Baars is a Mid-career Biochar researcher at Union Bank of Switzerland in CH. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.546472
+date: 2026-08-11T01:33:12.396254
 url: "/cdr-researcher-census/researchers/timothy-f-baars-a5017531/"
 layout: "researcher"
 hiddenInHomeList: true

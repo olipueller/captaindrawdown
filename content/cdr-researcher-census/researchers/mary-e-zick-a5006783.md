@@ -1,7 +1,7 @@
 ---
 title: "Mary E. Zick"
 description: "Mary E. Zick is a Mid-career DAC researcher at Cornell University in US. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.642959
+date: 2026-08-11T01:33:11.568913
 url: "/cdr-researcher-census/researchers/mary-e-zick-a5006783/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Capturing carbon dioxide from air with charged-sorbents** (2024)
-   166 citations
+   172 citations
 
 2. **Carbon Dioxide Capture at Nucleophilic Hydroxide Sites in Oxidation‐Resistant Cyclodextrin‐Based Metal–Organic Frameworks**** (2022)
-   55 citations
+   58 citations
 
 3. **Carbon Capture from Natural Gas Flue Emissions and Air via (Bi)Carbonate Formation in a Cyclodextrin-Based Metal–Organic Framework** (2025)
-   12 citations · DAC
+   14 citations · DAC
 
-4. **Carbon Capture Beyond Amines: CO<sub>2</sub> Sorption at Nucleophilic Oxygen Sites in Materials** (2022)
+4. **Carbon Dioxide Capture at Nucleophilic Hydroxide Sites in Oxidation‐Resistant Cyclodextrin‐Based Metal–Organic Frameworks**** (2022)
+   11 citations
+
+5. **Carbon Capture Beyond Amines: CO<sub>2</sub> Sorption at Nucleophilic Oxygen Sites in Materials** (2022)
    10 citations · DAC
-
-5. **Carbon Dioxide Capture at Nucleophilic Hydroxide Sites in Oxidation‐Resistant Cyclodextrin‐Based Metal–Organic Frameworks**** (2022)
-   10 citations
 
 6. **Carbon Dioxide Capture at Nucleophilic Hydroxide Sites in Oxidation-Resistant Cyclodextrin-Based Metal-Organic Frameworks** (2022)
    4 citations

@@ -1,7 +1,7 @@
 ---
 title: "Marta Velasco-Molina"
 description: "Marta Velasco-Molina is a Senior Biochar researcher at Instituto de Recursos Naturales y Agrobiología de Sevilla in ES. With 26 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.052569
+date: 2026-08-11T01:33:11.926881
 url: "/cdr-researcher-census/researchers/marta-velasco-molina-a5042244/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar ageing in polluted soils and trace elements immobilisation in a 2-year field experiment** (2021)
-   23 citations · Biochar
+   25 citations · Biochar
 
 2. **NMR-spectroscopic virtual fractionation of soils mixed with pyrogenic carbon as a tool to separate chemical processes related to aging of pyrogenic carbon from those occurring during humification of soil organic matter&amp;#160;** (2022)
    0 citations · Biochar

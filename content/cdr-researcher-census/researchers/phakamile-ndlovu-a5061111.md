@@ -1,7 +1,7 @@
 ---
 title: "Phakamile Ndlovu"
 description: "Phakamile Ndlovu is a Mid-career DAC researcher. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.009081
+date: 2026-08-11T01:33:11.885806
 url: "/cdr-researcher-census/researchers/phakamile-ndlovu-a5061111/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Progress in carbon dioxide capture, storage and monitoring in geological landform** (2024)
-   28 citations · DAC
+   29 citations · DAC
 
 ## External Profiles
 

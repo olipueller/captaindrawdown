@@ -1,7 +1,7 @@
 ---
 title: "Peter Contos"
 description: "Peter Contos is a Mid-career Soil Carbon researcher at La Trobe University in AU. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.300692
+date: 2026-08-11T01:33:12.171247
 url: "/cdr-researcher-census/researchers/peter-contos-a5037750/"
 layout: "researcher"
 hiddenInHomeList: true

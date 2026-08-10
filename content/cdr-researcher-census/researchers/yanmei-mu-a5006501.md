@@ -1,7 +1,7 @@
 ---
 title: "Yanmei Mu"
 description: "Yanmei Mu is a Mid-career Soil Carbon researcher at Guangxi Normal University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.047710
+date: 2026-08-11T01:33:11.922598
 url: "/cdr-researcher-census/researchers/yanmei-mu-a5006501/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Dry-season length affects the annual ecosystem carbon balance of a temperate semi-arid shrubland** (2024)
-   12 citations · General CDR
+   13 citations · General CDR
 
 2. **Vegetation factors and atmospheric dryness regulate the dynamics of ecosystem water use efficiency in a temperate semiarid shrubland** (2024)
-   11 citations
+   12 citations
 
 3. **Mapping Alpine Grassland Fraction Coverage Using Zhuhai-1 OHS Imagery in the Three River Headwaters Region, China** (2023)
    7 citations · Soil Carbon

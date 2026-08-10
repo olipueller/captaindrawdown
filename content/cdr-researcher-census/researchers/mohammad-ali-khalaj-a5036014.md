@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Ali Khalaj"
 description: "Mohammad Ali Khalaj is a Mid-career Biochar researcher. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.062126
+date: 2026-08-11T01:33:11.956128
 url: "/cdr-researcher-census/researchers/mohammad-ali-khalaj-a5036014/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **The effects of biochar on soil nutrients status, microbial activity and carbon sequestration potential in two calcareous soils** (2021)
-   134 citations · Biochar
+   150 citations · Biochar
 
 ## External Profiles
 

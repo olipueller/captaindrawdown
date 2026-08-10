@@ -1,7 +1,7 @@
 ---
 title: "Guofeng Sun"
 description: "Guofeng Sun is a Senior Soil Carbon researcher at Beihua University in CN. With 59 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.614848
+date: 2026-08-11T01:33:11.543482
 url: "/cdr-researcher-census/researchers/guofeng-sun-a5101023/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,13 +48,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Organic fertilizer substitution increased soil organic carbon through the association of microbial necromass C with iron oxides** (2024)
-   25 citations · Soil Carbon
+   27 citations · Soil Carbon
 
 2. **Sustainability assessment on paddy-upland crop rotations by carbon, nitrogen and water footprint integrated analysis: A field scale investigation** (2023)
-   21 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 3. **Effects of crop rotation on plant- and microbial-derived carbon within particulate and mineral fractions in paddy soils** (2024)
-   18 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 4. **The effect on the carbon footprint of the rice-wheat system of substituting chemical fertilizers by pig manure: The results of a field experiment** (2024)
    12 citations · Soil Carbon

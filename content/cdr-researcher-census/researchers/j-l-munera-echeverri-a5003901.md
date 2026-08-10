@@ -1,7 +1,7 @@
 ---
 title: "J. L. Munera-Echeverri"
 description: "J. L. Munera-Echeverri is a Mid-career Soil Carbon researcher at Université d'Orléans in FR. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.599002
+date: 2026-08-11T01:33:11.529234
 url: "/cdr-researcher-census/researchers/j-l-munera-echeverri-a5003901/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil inorganic carbon, the other and equally important soil carbon pool: Distribution, controlling factors, and the impact of climate change** (2023)
-   111 citations · Soil Carbon
+   116 citations · Soil Carbon
 
 ## External Profiles
 

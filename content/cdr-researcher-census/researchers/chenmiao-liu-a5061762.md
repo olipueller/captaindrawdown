@@ -1,7 +1,7 @@
 ---
 title: "Chenmiao Liu"
 description: "Chenmiao Liu is a Mid-career Soil Carbon researcher at New York University in US. With 28 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.364821
+date: 2026-08-11T01:33:12.227784
 url: "/cdr-researcher-census/researchers/chenmiao-liu-a5061762/"
 layout: "researcher"
 hiddenInHomeList: true

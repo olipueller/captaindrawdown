@@ -1,7 +1,7 @@
 ---
 title: "Juhyung Lee"
 description: "Juhyung Lee is a Mid-career Ocean CDR researcher at Korea Institute of Ocean Science and Technology in KR. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.222133
+date: 2026-08-11T01:33:12.103077
 url: "/cdr-researcher-census/researchers/juhyung-lee-a5070356/"
 layout: "researcher"
 hiddenInHomeList: true

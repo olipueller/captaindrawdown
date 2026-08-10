@@ -1,7 +1,7 @@
 ---
 title: "Gary Y. Gan"
 description: "Gary Y. Gan is a Mid-career Soil Carbon researcher. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.844949
+date: 2026-08-11T01:33:11.748986
 url: "/cdr-researcher-census/researchers/gary-y-gan-a5109309/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,16 +46,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Response of Soil Organic Carbon and Bacterial Community to Amendments in Saline‐Alkali Soils of the Yellow River Delta** (2025)
-   72 citations · Soil Carbon
+   83 citations · Soil Carbon
 
 2. **Spatiotemporal diversification enables sustainable cotton-soybean production with enhanced yield and reduced emissions** (2025)
-   15 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 3. **Improving agricultural mulching to reduce environmental footprint and enhance economic profit across China** (2025)
-   6 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 4. **Straw plus straw interlayer alter soil organic carbon and bacterial community in a saline-alkali soil from the Yellow River Delta** (2026)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 5. **Biodiversity mediates the trade-off between crop productivity and soil carbon sequestration in intercropping systems** (2026)
    0 citations · Soil Carbon

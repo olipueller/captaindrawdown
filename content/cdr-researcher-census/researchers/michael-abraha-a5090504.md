@@ -1,7 +1,7 @@
 ---
 title: "Michael Abraha"
 description: "Michael Abraha is a Senior Soil Carbon researcher at LI-COR Biosciences (United States) in US. With 71 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.232214
+date: 2026-08-11T01:33:11.204381
 url: "/cdr-researcher-census/researchers/michael-abraha-a5090504/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    14 citations · General CDR
 
 2. **Coupling Remote Sensing With a Process Model for the Simulation of Rangeland Carbon Dynamics** (2025)
-   3 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 3. **Combining Eddy Covariance Towers, Field Measurements, and the <scp>MEMS</scp> 2 Ecosystem Model Improves Confidence in the Climate Impacts of Bioenergy With Carbon Capture and Storage** (2025)
    3 citations · BECCS

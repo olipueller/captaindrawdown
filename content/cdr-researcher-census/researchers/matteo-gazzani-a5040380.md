@@ -1,7 +1,7 @@
 ---
 title: "Matteo Gazzani"
 description: "Matteo Gazzani is a Senior DAC researcher at Technische Universiteit Eindhoven in NL. With 123 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.106593
+date: 2026-08-11T01:33:11.086303
 url: "/cdr-researcher-census/researchers/matteo-gazzani-a5040380/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **A comparative energy and costs assessment and optimization for direct air capture technologies** (2021)
-   404 citations · DAC
+   415 citations · DAC
 
 2. **Optimal Design and Operation of Solid Sorbent Direct Air Capture Processes at Varying Ambient Conditions** (2022)
-   133 citations
+   135 citations
 
 3. **Modeling, Optimization, and Techno-Economic Analysis of Bipolar Membrane Electrodialysis for Direct Air Capture Processes** (2022)
-   61 citations · DAC
+   65 citations · DAC
 
 4. **Direct air capture based on ionic liquids: From molecular design to process assessment** (2023)
-   54 citations
+   56 citations
 
 5. **How Would Ideal Sorbents Improve the Technical and Economic Performance of Adsorption-Based Direct Air Capture?** (2024)
    17 citations · DAC
@@ -72,7 +72,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    16 citations · DAC
 
 8. **A Machine Learning-Aided Equilibrium Model of VTSA Processes for Sorbents Screening Applied to CO<sub>2</sub> Capture from Diluted Sources** (2022)
-   13 citations · DAC
+   14 citations · DAC
 
 9. **On the climate impacts of blue hydrogen production** (2021)
    12 citations · BECCS

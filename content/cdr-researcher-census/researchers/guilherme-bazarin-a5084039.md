@@ -1,7 +1,7 @@
 ---
 title: "Guilherme Bazarin"
 description: "Guilherme Bazarin is a Senior Biochar researcher at Universidade Estadual do Oeste do Paraná in BR. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.509052
+date: 2026-08-11T01:33:12.361393
 url: "/cdr-researcher-census/researchers/guilherme-bazarin-a5084039/"
 layout: "researcher"
 hiddenInHomeList: true

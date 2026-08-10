@@ -1,7 +1,7 @@
 ---
 title: "R. Manivannan"
 description: "R. Manivannan is a Mid-career Soil Carbon researcher at Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology in IN. With 39 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.454270
+date: 2026-08-11T01:33:12.311272
 url: "/cdr-researcher-census/researchers/r-manivannan-a5037032/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Carbon Sequestration in Low Land Paddy Soils: Effect of Certain Cultural and Nutrient Management Practices: A Review** (2023)
-   4 citations · Soil Carbon
+1. **Integrated nutrient management - promising way to reduce carbon dioxide and methane emission in flooded rice ecosystem: A review** (2021)
+   5 citations · General CDR
 
-2. **Integrated nutrient management - promising way to reduce carbon dioxide and methane emission in flooded rice ecosystem: A review** (2021)
-   4 citations · General CDR
+2. **Carbon Sequestration in Low Land Paddy Soils: Effect of Certain Cultural and Nutrient Management Practices: A Review** (2023)
+   4 citations · Soil Carbon
 
 ## External Profiles
 

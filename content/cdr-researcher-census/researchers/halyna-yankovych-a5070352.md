@@ -1,7 +1,7 @@
 ---
 title: "Halyna Yankovych"
 description: "Halyna Yankovych is a Mid-career Biochar researcher at Slovak Academy of Sciences in SK. With 24 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.293630
+date: 2026-08-11T01:33:12.165002
 url: "/cdr-researcher-census/researchers/halyna-yankovych-a5070352/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **New perception of Zn(II) and Mn(II) removal mechanism on sustainable sunflower biochar from alkaline batteries contaminated water** (2021)
-   38 citations · Biochar
+   39 citations · Biochar
 
 2. **NOVEL PERCEPTION OF Zn(II) AND Mn(II) REMOVAL MECHANISM ON SUSTAINABLE SUNFLOWER BIOCHAR FROM ALKALINE BATTERIES CONTAMINATED WATER** (2021)
    0 citations · Biochar

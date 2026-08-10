@@ -1,7 +1,7 @@
 ---
 title: "Nasser A. Ibrahim"
 description: "Nasser A. Ibrahim is a Senior Enhanced Weathering researcher at Central Laboratory for Agricultural Climate in EG. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.448038
+date: 2026-08-11T01:33:12.305337
 url: "/cdr-researcher-census/researchers/nasser-a-ibrahim-a5074721/"
 layout: "researcher"
 hiddenInHomeList: true

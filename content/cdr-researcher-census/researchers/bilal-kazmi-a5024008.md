@@ -1,7 +1,7 @@
 ---
 title: "Bilal Kazmi"
 description: "Bilal Kazmi is a Mid-career General CDR researcher at NED University of Engineering and Technology in PK. With 47 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.365941
+date: 2026-08-11T01:33:11.325377
 url: "/cdr-researcher-census/researchers/bilal-kazmi-a5024008/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,10 +57,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    34 citations
 
 3. **Thermodynamic and economic assessment of cyano functionalized anion based ionic liquid for CO2 removal from natural gas integrated with, single mixed refrigerant liquefaction process for clean energy** (2021)
-   31 citations · DAC
+   32 citations · DAC
 
 4. **Carbon-negative process Integration: Techno-economic framework for biomass-blend bio-energy carbon capture and storage polygeneration with high-value co-product streams** (2025)
-   10 citations · BECCS
+   13 citations · BECCS
 
 5. **Carbon-Negative Process Integration: Techno-Economic Framework for Biomass-Blend Beccs Polygeneration with High-Value Co-Product Streams** (2025)
    1 citations · BECCS

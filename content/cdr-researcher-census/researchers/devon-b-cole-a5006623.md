@@ -1,7 +1,7 @@
 ---
 title: "Devon B. Cole"
 description: "Devon B. Cole is a Senior Enhanced Weathering researcher at Climate Central in US. With 58 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.177153
+date: 2026-08-11T01:33:11.152571
 url: "/cdr-researcher-census/researchers/devon-b-cole-a5006623/"
 layout: "researcher"
 hiddenInHomeList: true

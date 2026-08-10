@@ -1,7 +1,7 @@
 ---
 title: "Linxia Gao"
 description: "Linxia Gao is a Mid-career Biochar researcher at Hubei University of Technology in CN. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.517529
+date: 2026-08-11T01:33:11.455753
 url: "/cdr-researcher-census/researchers/linxia-gao-a5049466/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Enhanced VOCs adsorption mechanism on biochar synthesized by one-step molten salt thermal treatment: Experimental and DFT insights** (2025)
-   2 citations · Biochar
+   3 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Arup Borgohain"
 description: "Arup Borgohain is a Mid-career Biochar researcher. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.136934
+date: 2026-08-11T01:33:12.025737
 url: "/cdr-researcher-census/researchers/arup-borgohain-a5009968/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar-Based Hydrogel Nanocomposites: An Innovative Technique for Contaminant-Free Environment** (2023)
-   6 citations · Biochar
+   7 citations · Biochar
 
 ## External Profiles
 

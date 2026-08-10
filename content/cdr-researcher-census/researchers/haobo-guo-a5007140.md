@@ -1,7 +1,7 @@
 ---
 title: "Haobo Guo"
 description: "Haobo Guo is a Mid-career Biochar researcher at Beijing University of Posts and Telecommunications in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.332089
+date: 2026-08-11T01:33:12.198935
 url: "/cdr-researcher-census/researchers/haobo-guo-a5007140/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Fe3O4 loaded on ball milling biochar enhanced bisphenol a removal by activating persulfate: Performance and activating mechanism** (2022)
-   51 citations · Biochar
+   52 citations · Biochar
 
 ## External Profiles
 

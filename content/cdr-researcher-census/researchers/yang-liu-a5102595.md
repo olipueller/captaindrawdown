@@ -1,7 +1,7 @@
 ---
 title: "Yang Liu"
 description: "Yang Liu is a Mid-career Soil Carbon researcher at Shanghai Institute of Quality Inspection and Technical Research in CN. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.065393
+date: 2026-08-11T01:33:11.959162
 url: "/cdr-researcher-census/researchers/yang-liu-a5102595/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    18 citations · Biochar
 
 2. **Tree age affects carbon sequestration potential via altering soil bacterial community composition and function** (2024)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 ## External Profiles
 

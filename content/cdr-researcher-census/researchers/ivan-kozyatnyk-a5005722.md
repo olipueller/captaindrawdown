@@ -1,7 +1,7 @@
 ---
 title: "Ivan Kozyatnyk"
 description: "Ivan Kozyatnyk is a Senior Biochar researcher at Linköping University in SE. With 29 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.492407
+date: 2026-08-11T01:33:11.433994
 url: "/cdr-researcher-census/researchers/ivan-kozyatnyk-a5005722/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Removal of contaminants of emerging concern from multicomponent systems using carbon dioxide activated biochar from lignocellulosic feedstocks** (2021)
-   87 citations · Biochar
+   88 citations · Biochar
 
 2. **Early-stage sustainability assessment of greywater treatment with Moringa oleifera seed extract and biochar** (2025)
    0 citations · Biochar

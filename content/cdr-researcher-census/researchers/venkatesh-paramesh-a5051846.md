@@ -1,7 +1,7 @@
 ---
 title: "Venkatesh Paramesh"
 description: "Venkatesh Paramesh is a Senior Soil Carbon researcher at Central Coastal Agricultural Research Institute in IN. With 121 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.195114
+date: 2026-08-11T01:33:11.169407
 url: "/cdr-researcher-census/researchers/venkatesh-paramesh-a5051846/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Degraded land rehabilitation through agroforestry in India: Achievements, current understanding, and future prospectives** (2023)
-   110 citations · Soil Carbon
+   119 citations · Soil Carbon
 
 2. **Integrated farming system approaches to achieve food and nutritional security for enhancing profitability, employment, and climate resilience in India** (2022)
    88 citations · Soil Carbon
@@ -60,10 +60,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    28 citations · Soil Carbon
 
 5. **Integrated watershed management for transforming dryland livelihoods: A climate-smart strategy for sustainable dryland agriculture in India** (2025)
-   17 citations · General CDR
+   19 citations · General CDR
 
 6. **Nature-based solutions for enhancing CO2 sequestration and rehabilitating degraded lands through silvo-aromatic system and soil moisture conservation techniques** (2025)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 7. **Long-term effect of rice-rice and rice-cowpea systems on soil carbon and soil quality indicators under rice-based cropping systems in West Coast India** (2026)
    0 citations · Soil Carbon

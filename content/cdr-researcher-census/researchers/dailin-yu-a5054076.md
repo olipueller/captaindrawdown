@@ -1,7 +1,7 @@
 ---
 title: "Dailin Yu"
 description: "Dailin Yu is an Early-career Soil Carbon researcher at Huazhong Agricultural University in CN. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.151759
+date: 2026-08-11T01:33:12.039228
 url: "/cdr-researcher-census/researchers/dailin-yu-a5054076/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Local temperature increases reduce soil microbial residues and carbon stocks** (2022)
-   98 citations · Soil Carbon
+   103 citations · Soil Carbon
 
 2. **Trade‐offs in carbon‐degrading enzyme activities limit long‐term soil carbon sequestration with biochar addition** (2023)
-   84 citations · Biochar
+   86 citations · Biochar
 
 3. **Reduced ligninase‐cellulase ratio enhances soil carbon sequestration following afforestation of agricultural land** (2024)
    1 citations · Soil Carbon

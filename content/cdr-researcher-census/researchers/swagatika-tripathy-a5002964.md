@@ -1,7 +1,7 @@
 ---
 title: "Swagatika Tripathy"
 description: "Swagatika Tripathy is a Mid-career Biochar researcher at Veer Surendra Sai University of Technology in IN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.065184
+date: 2026-08-11T01:33:11.958965
 url: "/cdr-researcher-census/researchers/swagatika-tripathy-a5002964/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A detailed insight into the adsorption efficiency of Cr(VI) by a novel polypyrrole modified kendu (Diospyros melanoxylon Roxb) seed biochar** (2023)
-   12 citations · Biochar
+   13 citations · Biochar
 
 ## External Profiles
 

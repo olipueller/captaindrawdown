@@ -1,7 +1,7 @@
 ---
 title: "Shihang Zhang"
 description: "Shihang Zhang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 36 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.768640
+date: 2026-08-11T01:33:11.682154
 url: "/cdr-researcher-census/researchers/shihang-zhang-a5061616/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Spatial distribution patterns and drivers of above- and below- biomass in Chinese terrestrial ecosystems** (2024)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 2. **Spatial distribution, drivers and future trends of soil organic carbon in cropland of China** (2025)
    3 citations · Soil Carbon
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations · Soil Carbon
 
 4. **Effects of pH thresholds on carbon, nitrogen, and phosphorus dynamics in Chinese terrestrial ecosystems: Differentiation of drivers in vegetation-soil-microorganisms** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 5. **Spatial distributions, driving factors, and future changes of soil organic carbon in China: arid regions vs. humid regions** (2025)
    0 citations · Soil Carbon

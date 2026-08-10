@@ -1,7 +1,7 @@
 ---
 title: "Dipanti Chourasiya"
 description: "Dipanti Chourasiya is a Mid-career Soil Carbon researcher at Shri Mata Vaishno Devi University in IN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.007666
+date: 2026-08-11T01:33:11.884514
 url: "/cdr-researcher-census/researchers/dipanti-chourasiya-a5002785/"
 layout: "researcher"
 hiddenInHomeList: true

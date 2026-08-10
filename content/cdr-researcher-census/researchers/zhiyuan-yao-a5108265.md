@@ -1,7 +1,7 @@
 ---
 title: "Zhiyuan Yao"
 description: "Zhiyuan Yao is a Mid-career Soil Carbon researcher at Ningbo University in CN. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.734898
+date: 2026-08-11T01:33:11.651514
 url: "/cdr-researcher-census/researchers/zhiyuan-yao-a5108265/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **High-Resolution Mapping of Cropland Soil Organic Carbon in Northern China** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 2. **Soil Organic Carbon Stocks Under Daylily Cultivation and Their Influencing Factors in the Agro-Pastoral Ecotone of Northern China** (2025)
    1 citations · Soil Carbon

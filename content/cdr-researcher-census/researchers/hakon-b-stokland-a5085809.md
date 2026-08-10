@@ -1,7 +1,7 @@
 ---
 title: "Håkon B. Stokland"
 description: "Håkon B. Stokland is a Mid-career Soil Carbon researcher at Norwegian Institute for Nature Research in NO. With 30 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.539109
+date: 2026-08-11T01:33:12.389774
 url: "/cdr-researcher-census/researchers/hakon-b-stokland-a5085809/"
 layout: "researcher"
 hiddenInHomeList: true

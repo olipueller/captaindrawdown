@@ -1,7 +1,7 @@
 ---
 title: "Raúl Abad Viñas"
 description: "Raúl Abad Viñas is a Mid-career General CDR researcher at University of the Basque Country in ES. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.353132
+date: 2026-08-11T01:33:11.314740
 url: "/cdr-researcher-census/researchers/raul-abad-vinas-a5040967/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Carbon fluxes from land 2000–2020: bringing clarity to countries' reporting** (2022)
-   87 citations · General CDR
+   88 citations · General CDR
 
 2. **Carbon fluxes from land 2000–2020: bringing clarity on countries’ reporting** (2022)
    26 citations · General CDR

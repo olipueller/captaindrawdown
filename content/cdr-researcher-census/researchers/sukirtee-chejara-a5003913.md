@@ -1,7 +1,7 @@
 ---
 title: "Sukirtee Chejara"
 description: "Sukirtee Chejara is an Early-career Biochar researcher at Central Soil Salinity Research Institute in IN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.916051
+date: 2026-08-11T01:33:11.814109
 url: "/cdr-researcher-census/researchers/sukirtee-chejara-a5003913/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Sustainable Approach and Safe Use of Biochar and Its Possible Consequences** (2021)
-   107 citations · Biochar
+   108 citations · Biochar
 
 ## External Profiles
 

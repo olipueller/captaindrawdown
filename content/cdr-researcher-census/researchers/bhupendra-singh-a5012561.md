@@ -1,7 +1,7 @@
 ---
 title: "Bhupendra Singh"
 description: "Bhupendra Singh is a Senior Soil Carbon researcher at Hemwati Nandan Bahuguna Garhwal University in IN. With 83 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.457835
+date: 2026-08-11T01:33:11.404980
 url: "/cdr-researcher-census/researchers/bhupendra-singh-a5012561/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,16 +54,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    50 citations · General CDR
 
 2. **Carbon Sequestration Potential of Agroforestry versus Adjoining Forests at Different Altitudes in the Garhwal Himalayas** (2024)
-   20 citations
+   21 citations
 
 3. **Vegetation composition, soil properties, and carbon stock of montane forests along a disturbance in the Garhwal Himalaya, India** (2023)
-   19 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 4. **Tree diversity, carbon sequestration and production potential of Oryza sativa L. in traditional agroforestry systems of Garhwal Himalaya, India** (2025)
    9 citations · General CDR
 
 5. **Effect of altitudes and aspects on carbon sequestration potential of Quercus floribunda forests of Garhwal Himalayas** (2024)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 6. **From forest to future: A sustainable perspective on bamboo’s nexus with biodiversity, indigenous knowledge, ecological resilience, and current status in Northeast India** (2025)
    3 citations

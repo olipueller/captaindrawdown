@@ -1,7 +1,7 @@
 ---
 title: "Sivarethinamohan Rajamanickam"
 description: "Sivarethinamohan Rajamanickam is a Mid-career Biochar researcher at Symbiosis International University in IN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.506920
+date: 2026-08-11T01:33:11.446759
 url: "/cdr-researcher-census/researchers/sivarethinamohan-rajamanickam-a5085191/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Production and modifications of biochar to engineered materials and its application for environmental sustainability: a review** (2024)
-   160 citations · Biochar
+   172 citations · Biochar
 
 ## External Profiles
 

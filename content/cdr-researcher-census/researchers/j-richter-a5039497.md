@@ -1,7 +1,7 @@
 ---
 title: "J. Richter"
 description: "J. Richter is a Mid-career Enhanced Weathering researcher at Pennsylvania State University in US. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-12T12:07:29.802608
+date: 2026-08-11T01:33:11.731999
 url: "/cdr-researcher-census/researchers/j-richter-a5039497/"
 layout: "researcher"
 hiddenInHomeList: true

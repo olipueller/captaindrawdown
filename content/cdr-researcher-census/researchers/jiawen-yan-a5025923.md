@@ -1,7 +1,7 @@
 ---
 title: "Jiawen Yan"
 description: "Jiawen Yan is a Mid-career Soil Carbon researcher at Northeast Normal University in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.654121
+date: 2026-08-11T01:33:11.579050
 url: "/cdr-researcher-census/researchers/jiawen-yan-a5025923/"
 layout: "researcher"
 hiddenInHomeList: true

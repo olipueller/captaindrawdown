@@ -1,7 +1,7 @@
 ---
 title: "Mirza Čengić"
 description: "Mirza Čengić is a Mid-career BECCS researcher at Radboud University Nijmegen in NL. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.374976
+date: 2026-08-11T01:33:11.333246
 url: "/cdr-researcher-census/researchers/mirza-cengic-a5035424/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Global implications of crop‐based bioenergy with carbon capture and storage for terrestrial vertebrate biodiversity** (2021)
-   51 citations · BECCS
+   52 citations · BECCS
 
 2. **Global implications of lignocellulosic crop-based BECCS for terrestrial vertebrate biodiversity** (2022)
    0 citations · BECCS

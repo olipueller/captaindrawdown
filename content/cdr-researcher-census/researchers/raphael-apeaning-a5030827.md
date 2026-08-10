@@ -1,7 +1,7 @@
 ---
 title: "Raphael Apeaning"
 description: "Raphael Apeaning is a Mid-career General CDR researcher at Stony Brook University in US. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.812101
+date: 2026-08-11T01:33:11.720753
 url: "/cdr-researcher-census/researchers/raphael-apeaning-a5030827/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **GCAM-CDR v1.0: enhancing the representation of carbon dioxide removal technologies and policies in an integrated assessment model** (2023)
-   24 citations · DAC
+   25 citations · DAC
 
 2. **Techno-economic assessment of waste heat-powered direct air capture in the refinery and petrochemical sectors in Saudi Arabia** (2025)
-   5 citations · DAC
+   6 citations · DAC
 
 3. **GCAM-CDR v1.0: Enhancing the Representation of Carbon Dioxide Removal Technologies and Policies in an Integrated Assessment Model** (2022)
    4 citations

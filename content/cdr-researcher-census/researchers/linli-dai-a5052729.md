@@ -1,7 +1,7 @@
 ---
 title: "Linli Dai"
 description: "Linli Dai is a Senior Biochar researcher at East China University of Science and Technology in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.920352
+date: 2026-08-11T01:33:11.817823
 url: "/cdr-researcher-census/researchers/linli-dai-a5052729/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Waste baijiu distillers’ grains-derived biochar for efficient removal of organophosphate esters from water through adsorption** (2024)
-   14 citations · Biochar
+   15 citations · Biochar
 
 ## External Profiles
 

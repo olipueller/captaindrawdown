@@ -1,7 +1,7 @@
 ---
 title: "Gabriel Kahn"
 description: "Gabriel Kahn is a Mid-career Biochar researcher. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.411709
+date: 2026-08-11T01:33:12.271466
 url: "/cdr-researcher-census/researchers/gabriel-kahn-a5067524/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar<scp>supply‐chain</scp>and challenges to commercialization** (2022)
-   74 citations · Biochar
+   76 citations · Biochar
 
 ## External Profiles
 

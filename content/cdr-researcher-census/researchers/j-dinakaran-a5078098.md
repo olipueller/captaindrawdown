@@ -1,7 +1,7 @@
 ---
 title: "J. Dinakaran"
 description: "J. Dinakaran is a Senior Biochar researcher at University of Delhi in IN. With 28 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.679863
+date: 2026-08-11T01:33:11.601575
 url: "/cdr-researcher-census/researchers/j-dinakaran-a5078098/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ambika Selvaraj"
 description: "Ambika Selvaraj is a Senior Biochar researcher at Committee on Climate Change in GB. With 59 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.253721
+date: 2026-08-11T01:33:11.223956
 url: "/cdr-researcher-census/researchers/ambika-selvaraj-a5103058/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Conversion of locally available materials to biochar and activated carbon for drinking water treatment** (2024)
-   35 citations · Biochar
+   38 citations · Biochar
 
 2. **Carbonaceous-TiO2 Photocatalyst for Treatment of Textile Dye-Contaminated Wastewater** (2022)
    2 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Bonnie X. Chang"
 description: "Bonnie X. Chang is a Senior Ocean CDR researcher at Climate Central in US. With 45 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.175465
+date: 2026-08-11T01:33:11.150980
 url: "/cdr-researcher-census/researchers/bonnie-x-chang-a5056879/"
 layout: "researcher"
 hiddenInHomeList: true

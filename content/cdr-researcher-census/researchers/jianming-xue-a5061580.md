@@ -1,7 +1,7 @@
 ---
 title: "Jianming Xue"
 description: "Jianming Xue is a Senior Soil Carbon researcher at Scion in NZ. With 131 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.120836
+date: 2026-08-11T01:33:11.099741
 url: "/cdr-researcher-census/researchers/jianming-xue-a5061580/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Factors shaping soil organic carbon stocks in grass covered orchards across China: A meta-analysis** (2021)
-   73 citations · Soil Carbon
+   79 citations · Soil Carbon
 
 2. **Mixed plantations enhance more soil organic carbon stocks than monocultures across China: Implication for optimizing afforestation/reforestation strategies** (2022)
    71 citations · Soil Carbon
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    59 citations · Soil Carbon
 
 4. **Impact of nitrogen input from biosolids application on carbon sequestration in a Pinus radiata forest** (2022)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 5. **Capturing differences in the release potential of dissolved organic matter from biochar and hydrochar: Insights from component characterization and molecular identification** (2024)
    11 citations · Biochar
@@ -72,7 +72,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Biochar
 
 8. **Biochar derived from feedstock with high lignin content leads to better soil improvement performance in red soils: from the perspective of soil microbial regulation and carbon stabilization** (2025)
-   3 citations · Biochar
+   4 citations · Biochar
 
 9. **Micro-mesoporous biochars derived from the copyrolysis of agroforestry residue and eggshell for removing plasticizer from water** (2025)
    3 citations

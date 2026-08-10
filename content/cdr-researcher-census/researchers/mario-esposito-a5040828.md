@@ -1,7 +1,7 @@
 ---
 title: "Mario Espósito"
 description: "Mario Espósito is a Senior General CDR researcher at GEOMAR Helmholtz-Zentrum für Ozeanforschung Kiel in DE. With 60 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.333309
+date: 2026-08-11T01:33:11.297353
 url: "/cdr-researcher-census/researchers/mario-esposito-a5040828/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    10 citations · Enhanced Weathering
 
 2. **Exploring Site‐Specific Carbon Dioxide Removal Options With Storage or Sequestration in the Marine Environment – The 10 Mt CO<sub>2</sub> yr<sup>−1</sup> Removal Challenge for Germany** (2025)
-   7 citations · General CDR
+   8 citations · General CDR
 
 3. **Monitoring tools and best practice guidelines for attribution and quantification of potential CO2 leakages into deep waters at ocean crust CCS sites** (2024)
    0 citations · Enhanced Weathering

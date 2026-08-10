@@ -1,7 +1,7 @@
 ---
 title: "Claudia M. Grisales-Cifuentes"
 description: "Claudia M. Grisales-Cifuentes is an Early-career Biochar researcher at Universidad Nacional de Colombia in CO. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.528545
+date: 2026-08-11T01:33:12.379786
 url: "/cdr-researcher-census/researchers/claudia-m-grisales-cifuentes-a5008065/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar from palm fiber wastes as an activator of different oxidants for the elimination of pharmaceuticals from diverse classes in aqueous samples** (2022)
-   18 citations · Biochar
+   20 citations · Biochar
 
 ## External Profiles
 

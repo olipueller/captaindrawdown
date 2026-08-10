@@ -1,7 +1,7 @@
 ---
 title: "Melinda Martinez"
 description: "Melinda Martinez is a Mid-career Soil Carbon researcher at United States Geological Survey in US. With 29 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.334489
+date: 2026-08-11T01:33:12.201043
 url: "/cdr-researcher-census/researchers/melinda-martinez-a5021739/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    14 citations · Soil Carbon
 
 2. **Hydrological Control on Soil Redox Condition and Carbon Loss of Coastal Wetland Under Sea‐Level Rise** (2026)
-   0 citations
+   1 citations
 
 3. **State Changes in Coastal Wetlands: Anticipating Transitions and Evaluating the Role of Ghost Forests in Regional Greenhouse Gas Emissions.** (2021)
    0 citations · General CDR

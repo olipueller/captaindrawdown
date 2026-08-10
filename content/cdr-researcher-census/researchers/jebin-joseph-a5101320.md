@@ -1,7 +1,7 @@
 ---
 title: "Jebin Joseph"
 description: "Jebin Joseph is a Senior Soil Carbon researcher at Mahatma Gandhi University in IN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.179190
+date: 2026-08-11T01:33:12.063958
 url: "/cdr-researcher-census/researchers/jebin-joseph-a5101320/"
 layout: "researcher"
 hiddenInHomeList: true

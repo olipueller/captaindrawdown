@@ -1,7 +1,7 @@
 ---
 title: "Xingchang Wang"
 description: "Xingchang Wang is a Senior Soil Carbon researcher at 东北林业大学 in CN. With 64 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.344154
+date: 2026-08-11T01:33:11.307170
 url: "/cdr-researcher-census/researchers/xingchang-wang-a5057303/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,11 +53,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Achieving grain security and carbon neutrality: Challenges from carbon allocation** (2023)
    4 citations · General CDR
 
-2. **Rising carbon uptake and sequestration but declining carbon allocation to biomass production and grain yield in a high-yield agroecosystem** (2023)
+2. **Similar carbon accumulation rates with distinct drivers in two temperate forest restoration approaches** (2025)
    1 citations · Soil Carbon
 
-3. **Similar carbon accumulation rates with distinct drivers in two temperate forest restoration approaches** (2025)
-   0 citations · Soil Carbon
+3. **Rising carbon uptake and sequestration but declining carbon allocation to biomass production and grain yield in a high-yield agroecosystem** (2023)
+   1 citations · Soil Carbon
 
 4. **Similar Carbon Accumulation Rate But with Different Drivers between Two Restoration Approaches in a Temperate Forest** (2024)
    0 citations · Soil Carbon

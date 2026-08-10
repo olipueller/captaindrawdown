@@ -1,7 +1,7 @@
 ---
 title: "Chengzheng Li"
 description: "Chengzheng Li is a Mid-career Soil Carbon researcher at Jinan University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.496853
+date: 2026-08-11T01:33:12.349949
 url: "/cdr-researcher-census/researchers/chengzheng-li-a5063949/"
 layout: "researcher"
 hiddenInHomeList: true

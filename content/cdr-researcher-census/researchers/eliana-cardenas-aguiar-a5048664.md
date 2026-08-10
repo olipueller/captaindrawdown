@@ -1,7 +1,7 @@
 ---
 title: "Eliana Cárdenas-Aguiar"
 description: "Eliana Cárdenas-Aguiar is a Mid-career Biochar researcher at Universidade da Coruña in ES. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.787480
+date: 2026-08-11T01:33:11.699275
 url: "/cdr-researcher-census/researchers/eliana-cardenas-aguiar-a5048664/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    18 citations · Biochar
 
 2. **Temperature-Driven Trade-Offs Between Carbon Stability and DTPA-Extractable Micronutrients in Vineyard-Pruning Biochars (NW Spain)** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Hafiz Muhammad Mazhar Abbas"
 description: "Hafiz Muhammad Mazhar Abbas is a Mid-career Soil Carbon researcher at Hainan University in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.083542
+date: 2026-08-11T01:33:11.976228
 url: "/cdr-researcher-census/researchers/hafiz-muhammad-mazhar-abbas-a5111137/"
 layout: "researcher"
 hiddenInHomeList: true

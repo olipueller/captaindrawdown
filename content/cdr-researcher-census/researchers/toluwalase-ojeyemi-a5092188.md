@@ -1,7 +1,7 @@
 ---
 title: "Toluwalase Ojeyemi"
 description: "Toluwalase Ojeyemi is a Mid-career Biochar researcher at Texas Tech University in US. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.784719
+date: 2026-08-11T01:33:11.696564
 url: "/cdr-researcher-census/researchers/toluwalase-ojeyemi-a5092188/"
 layout: "researcher"
 hiddenInHomeList: true

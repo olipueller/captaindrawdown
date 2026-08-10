@@ -1,7 +1,7 @@
 ---
 title: "Katsutoshi Taki"
 description: "Katsutoshi Taki is a Senior Soil Carbon researcher at National Science Centre in PL. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.204620
+date: 2026-08-11T01:33:12.087094
 url: "/cdr-researcher-census/researchers/katsutoshi-taki-a5075087/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of long-term application of inorganic fertilizer and organic amendments on the amounts of fractionated soil organic carbon and their determining factors in paddy fields** (2024)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 2. **Effects of long-term application of inorganic fertilizers and organic amendments on the turnover rates of fractionated soil organic carbon and their determining factors in paddy fields** (2024)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 ## External Profiles
 

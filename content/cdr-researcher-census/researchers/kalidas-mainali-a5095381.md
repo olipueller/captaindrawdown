@@ -1,7 +1,7 @@
 ---
 title: "Kalidas Mainali"
 description: "Kalidas Mainali is a Mid-career Biochar researcher at Eastern Regional Research Center in US. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.802795
+date: 2026-08-11T01:33:11.712540
 url: "/cdr-researcher-census/researchers/kalidas-mainali-a5095381/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Thermal treatment and densification of manure and biomass blends to produce stabilized soil amendments** (2024)
-   3 citations
+   4 citations
 
 2. **Designing biochars for improved sorptive removal of per‐ and polyfluoroalkyl substances** (2026)
    0 citations · Biochar

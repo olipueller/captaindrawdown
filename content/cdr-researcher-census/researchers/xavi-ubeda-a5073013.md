@@ -1,7 +1,7 @@
 ---
 title: "Xavi Úbeda"
 description: "Xavi Úbeda is an Early-career Soil Carbon researcher. With 8 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.277183
+date: 2026-08-11T01:33:12.151066
 url: "/cdr-researcher-census/researchers/xavi-ubeda-a5073013/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **How does management affect soil C sequestration and greenhouse gas fluxes in boreal and temperate forests? – A review** (2022)
-   148 citations
+   154 citations
 
 2. **Forest soils can increase climate change mitigation with targeted management** (2023)
    0 citations

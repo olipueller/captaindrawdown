@@ -1,7 +1,7 @@
 ---
 title: "Liqun Xiu"
 description: "Liqun Xiu is a Mid-career Biochar researcher at Shenyang Agricultural University in CN. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.638077
+date: 2026-08-11T01:33:11.564844
 url: "/cdr-researcher-census/researchers/liqun-xiu-a5079063/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Long-term fertilization regimes modulate dissolved organic matter molecular chemodiversity and greenhouse gas emissions in paddy soil** (2025)
-   15 citations · Biochar
+   17 citations · Biochar
 
 ## External Profiles
 

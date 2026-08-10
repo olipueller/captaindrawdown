@@ -1,7 +1,7 @@
 ---
 title: "Carmen Alicia Parrado Moreno"
 description: "Carmen Alicia Parrado Moreno is a Mid-career Soil Carbon researcher at Corporación colombiana de investigación agropecuaria in CO. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.292096
+date: 2026-08-11T01:33:12.163643
 url: "/cdr-researcher-census/researchers/carmen-alicia-parrado-moreno-a5040846/"
 layout: "researcher"
 hiddenInHomeList: true

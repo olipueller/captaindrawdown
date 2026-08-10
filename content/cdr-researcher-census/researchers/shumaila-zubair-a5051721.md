@@ -1,7 +1,7 @@
 ---
 title: "Shumaila Zubair"
 description: "Shumaila Zubair is a Mid-career Biochar researcher at Pakistan Institute of Nuclear Science and Technology in PK. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.870903
+date: 2026-08-11T01:33:11.772606
 url: "/cdr-researcher-census/researchers/shumaila-zubair-a5051721/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,13 +50,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 ## Top CDR Publications
 
-1. **Environmental applications of agricultural waste-derived biochars for soil improvement and lead adsorption** (2026)
+1. **Okoljska uporaba biooglja, pridobljenega iz kmetijskih odpadkov, za izboljšanje tal in adsorpcijo svinca** (2026)
    0 citations · Biochar
 
-2. **Raw and processed dataset for agricultural waste-derived biochars characterization and lead (Pb) adsorption** (2026)
-   0 citations
+2. **Environmental applications of agricultural waste-derived biochars for soil improvement and lead adsorption** (2026)
+   0 citations · Biochar
 
 3. **Raw and processed dataset for agricultural waste-derived biochars characterization and lead (Pb) adsorption** (2026)
+   0 citations
+
+4. **Raw and processed dataset for agricultural waste-derived biochars characterization and lead (Pb) adsorption** (2026)
    0 citations
 
 ## External Profiles

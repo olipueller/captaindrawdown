@@ -1,7 +1,7 @@
 ---
 title: "Ponnapat Watjanatepin"
 description: "Ponnapat Watjanatepin is a Mid-career Enhanced Weathering researcher at Evangelical Theological Faculty in BE. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.418268
+date: 2026-08-11T01:33:12.277433
 url: "/cdr-researcher-census/researchers/ponnapat-watjanatepin-a5034762/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Higher Inorganic CO <sub>2</sub> Removal Despite Slower Weathering in an Enhanced Weathering Experiment With Steel Slags and Basalt** (2026)
-   2 citations · Enhanced Weathering
+   3 citations · Enhanced Weathering
 
 ## External Profiles
 

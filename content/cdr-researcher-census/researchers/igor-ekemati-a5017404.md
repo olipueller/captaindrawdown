@@ -1,7 +1,7 @@
 ---
 title: "Igor Ðekemati"
 description: "Igor Ðekemati is a Mid-career Soil Carbon researcher at Magyar Agrár- és Élettudományi Egyetem in HU. With 35 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.741264
+date: 2026-08-11T01:33:11.657822
 url: "/cdr-researcher-census/researchers/igor-ekemati-a5017404/"
 layout: "researcher"
 hiddenInHomeList: true

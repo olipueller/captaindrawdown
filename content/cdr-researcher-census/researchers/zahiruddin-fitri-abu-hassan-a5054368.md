@@ -1,7 +1,7 @@
 ---
 title: "Zahiruddin Fitri Abu Hassan"
 description: "Zahiruddin Fitri Abu Hassan is a Mid-career Enhanced Weathering researcher at University of Malaya in MY. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.365809
+date: 2026-08-11T01:33:11.325243
 url: "/cdr-researcher-census/researchers/zahiruddin-fitri-abu-hassan-a5054368/"
 layout: "researcher"
 hiddenInHomeList: true

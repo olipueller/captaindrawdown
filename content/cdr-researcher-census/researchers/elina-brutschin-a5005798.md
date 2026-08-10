@@ -1,7 +1,7 @@
 ---
 title: "Elina Brutschin"
 description: "Elina Brutschin is a Senior General CDR researcher at International Institute for Applied Systems Analysis in AT. With 72 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.193096
+date: 2026-08-11T01:33:11.167624
 url: "/cdr-researcher-census/researchers/elina-brutschin-a5005798/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,25 +51,25 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Global fossil fuel reduction pathways under different climate mitigation strategies and ambitions** (2023)
-   395 citations · General CDR
+   408 citations · General CDR
 
 2. **A prudent planetary limit for geologic carbon storage** (2025)
-   64 citations · General CDR
+   70 citations · General CDR
 
-3. **Secure robust carbon dioxide removal policy through credible certification** (2023)
+3. **Fairness and feasibility in deep mitigation pathways with novel carbon dioxide removal considering institutional capacity to mitigate** (2023)
+   35 citations · DAC
+
+4. **Secure robust carbon dioxide removal policy through credible certification** (2023)
    34 citations · General CDR
 
-4. **Fairness and feasibility in deep mitigation pathways with novel carbon dioxide removal considering institutional capacity to mitigate** (2023)
-   34 citations · DAC
-
 5. **Drivers and attitudes of public support for technological solutions to climate change in 30 countries** (2024)
-   16 citations · General CDR
+   17 citations · General CDR
 
 6. **Taking stock of carbon dioxide removal policy in emerging economies: developments in Brazil, China, and India** (2024)
-   14 citations · General CDR
+   15 citations · General CDR
 
 7. **A new hope or phantom menace? Exploring climate emotions and public support for climate interventions across 30 countries** (2025)
-   6 citations · General CDR
+   10 citations · General CDR
 
 8. **Fairness and feasibility in deep mitigation pathways with novel carbon dioxide removal considering institutional capacity to mitigate** (2023)
    3 citations

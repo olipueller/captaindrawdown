@@ -1,7 +1,7 @@
 ---
 title: "Abhas Kumar Sinha"
 description: "Abhas Kumar Sinha is a Senior Soil Carbon researcher at Uttar Banga Krishi Viswavidyalaya in IN. With 65 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.484310
+date: 2026-08-11T01:33:11.427464
 url: "/cdr-researcher-census/researchers/abhas-kumar-sinha-a5103078/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Meta-Analysis Approach to Measure the Effect of Integrated Nutrient Management on Crop Performance, Microbial Activity, and Carbon Stocks in Indian Soils** (2021)
-   51 citations · General CDR
+   52 citations · General CDR
 
 2. **Addition of biofertilizers with crop residue in conservation agriculture improves soil carbon sequestration: a long-term field study** (2025)
    6 citations · Biochar

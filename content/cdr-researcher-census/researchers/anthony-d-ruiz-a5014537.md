@@ -1,7 +1,7 @@
 ---
 title: "Anthony D. Ruiz"
 description: "Anthony D. Ruiz is an Early-career DAC researcher at University of California, Riverside in US. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.783116
+date: 2026-08-11T01:33:11.694962
 url: "/cdr-researcher-census/researchers/anthony-d-ruiz-a5014537/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Current status and pillars of direct air capture technologies** (2022)
-   334 citations · DAC
+   345 citations · DAC
 
 ## External Profiles
 

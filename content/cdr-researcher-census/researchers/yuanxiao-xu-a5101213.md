@@ -1,7 +1,7 @@
 ---
 title: "Yuanxiao Xu"
 description: "Yuanxiao Xu is a Mid-career Soil Carbon researcher at Ministry of Agriculture in EE. With 35 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.417342
+date: 2026-08-11T01:33:11.370426
 url: "/cdr-researcher-census/researchers/yuanxiao-xu-a5101213/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Distribution of soil organic carbon and carbon sequestration potential of different geomorphic units in Shiyang river basin, China** (2023)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 2. **Agricultural activities increased soil organic carbon in Shiyang River Basin, a typical inland river basin in China** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 3. **Terraced fields increased soil organic carbon content in croplands of the loess plateau** (2025)
    2 citations · Soil Carbon

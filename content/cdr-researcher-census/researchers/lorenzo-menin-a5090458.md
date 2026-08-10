@@ -1,7 +1,7 @@
 ---
 title: "Lorenzo Menin"
 description: "Lorenzo Menin is a Mid-career BECCS researcher at Free University of Bozen-Bolzano in IT. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.946161
+date: 2026-08-11T01:33:11.841346
 url: "/cdr-researcher-census/researchers/lorenzo-menin-a5090458/"
 layout: "researcher"
 hiddenInHomeList: true

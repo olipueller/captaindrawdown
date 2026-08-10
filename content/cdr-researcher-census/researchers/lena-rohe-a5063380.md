@@ -1,7 +1,7 @@
 ---
 title: "Lena Rohe"
 description: "Lena Rohe is a Senior Soil Carbon researcher. With 55 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.361173
+date: 2026-08-11T01:33:11.321802
 url: "/cdr-researcher-census/researchers/lena-rohe-a5063380/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Land use impact on carbon mineralization in well aerated soils is mainly explained by variations of particulate organic matter rather than of soil structure** (2022)
-   29 citations · Soil Carbon
+   31 citations · Soil Carbon
 
 2. **Land use impact on carbon mineralization is mainly caused by variation of particulate organic matter content rather than of soil structure** (2021)
    6 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Pelopidas Siskos"
 description: "Pelopidas Siskos is a Mid-career General CDR researcher. With 28 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.231892
+date: 2026-08-11T01:33:11.204056
 url: "/cdr-researcher-census/researchers/pelopidas-siskos-a5041165/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Narrative-driven alternative roads to achieve mid-century CO2 net neutrality in Europe** (2021)
-   90 citations · General CDR
+   93 citations · General CDR
 
 2. **Energy Systems Analysis and Modelling towards Decarbonisation** (2022)
    0 citations · DAC

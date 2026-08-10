@@ -1,7 +1,7 @@
 ---
 title: "Shengsen Wang"
 description: "Shengsen Wang is an Eminent Biochar researcher at Yangzhou University in CN. With 162 publications and an h-index of 52, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.092497
+date: 2026-08-11T01:33:11.073267
 url: "/cdr-researcher-census/researchers/shengsen-wang-a5001287/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,34 +51,34 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Carbon defects in biochar facilitated nitrogen doping: The significant role of pyridinic nitrogen in peroxymonosulfate activation and ciprofloxacin degradation** (2022)
-   220 citations · Biochar
+   223 citations · Biochar
 
 2. **Formation and mechanisms of nano-metal oxide-biochar composites for pollutants removal: A review** (2021)
-   174 citations
+   175 citations
 
 3. **Preparation of biochar-interpenetrated iron-alginate hydrogel as a pH-independent sorbent for removal of Cr(VI) and Pb(II)** (2021)
-   100 citations · Biochar
+   101 citations · Biochar
 
 4. **Modification of ordered mesoporous carbon for removal of environmental contaminants from aqueous phase: A review** (2021)
-   83 citations
+   84 citations
 
 5. **Engineered biochar effects on soil physicochemical properties and biota communities: A critical review** (2022)
-   50 citations · Biochar
+   52 citations · Biochar
 
 6. **Carbon matrix of biochar from biomass modeling components facilitates electron transfer from zero-valent iron to Cr(VI)** (2021)
-   27 citations · Biochar
+   28 citations · Biochar
 
 7. **Patterns and determinants of microbial- and plant-derived carbon contributions to soil organic carbon in tea plantation chronosequence** (2024)
    15 citations · Soil Carbon
 
 8. **Engineered biochar for simultaneous removal of heavy metals and organic pollutants from wastewater: mechanisms, efficiency, and applications** (2025)
-   5 citations · Biochar
+   9 citations · Biochar
 
 9. **Straw and Biochar Amendments Over a Decade Differently Modulates Denitrification Gas Products** (2024)
    5 citations · Biochar
 
-10. **Agricultural Waste-Based Biochar for Soil Carbon Sequestration and Emission Reduction: Preparation, Evaluation, Application, and Mechanism** (2023)
-   1 citations · Biochar
+10. **Noncondensed aromatic carbon of sludge-derived biochar predominated peroxydisulfate activation mechanism for tetracycline degradation via an electron transfer pathway** (2023)
+   3 citations · Biochar
 
 ## External Profiles
 

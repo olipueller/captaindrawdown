@@ -1,7 +1,7 @@
 ---
 title: "Michael B. Fong"
 description: "Michael B. Fong is a Senior Ocean CDR researcher at Material Measurement Laboratory in US. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.553209
+date: 2026-08-11T01:33:11.487944
 url: "/cdr-researcher-census/researchers/michael-b-fong-a5085815/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yuan Zhou"
 description: "Yuan Zhou is a Senior Biochar researcher at Sinopec (China) in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.535791
+date: 2026-08-11T01:33:12.386414
 url: "/cdr-researcher-census/researchers/yuan-zhou-a5100630/"
 layout: "researcher"
 hiddenInHomeList: true

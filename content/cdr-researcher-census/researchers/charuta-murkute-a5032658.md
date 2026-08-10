@@ -1,7 +1,7 @@
 ---
 title: "Charuta Murkute"
 description: "Charuta Murkute is a Mid-career Soil Carbon researcher at Brandenburg University of Technology Cottbus-Senftenberg in DE. With 31 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.305006
+date: 2026-08-11T01:33:12.175009
 url: "/cdr-researcher-census/researchers/charuta-murkute-a5032658/"
 layout: "researcher"
 hiddenInHomeList: true

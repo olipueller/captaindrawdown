@@ -1,7 +1,7 @@
 ---
 title: "Matteo Francioni"
 description: "Matteo Francioni is a Mid-career Biochar researcher at Marche Polytechnic University in IT. With 39 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.629579
+date: 2026-08-11T01:33:11.556656
 url: "/cdr-researcher-census/researchers/matteo-francioni-a5081021/"
 layout: "researcher"
 hiddenInHomeList: true

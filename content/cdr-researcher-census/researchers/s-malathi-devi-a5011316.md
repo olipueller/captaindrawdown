@@ -1,7 +1,7 @@
 ---
 title: "S. Malathi Devi"
 description: "S. Malathi Devi is an Early-career Biochar researcher. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.101316
+date: 2026-08-11T01:33:11.992272
 url: "/cdr-researcher-census/researchers/s-malathi-devi-a5011316/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A complete review on biochar: Production, property, multifaceted applications, interaction mechanism and computational approach** (2021)
-   190 citations · Biochar
+   195 citations · Biochar
 
 ## External Profiles
 

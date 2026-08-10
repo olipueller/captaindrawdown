@@ -1,7 +1,7 @@
 ---
 title: "Jean-Yves Cahurel"
 description: "Jean-Yves Cahurel is a Senior Soil Carbon researcher at Industrieverband Feuerverzinken (Germany) in DE. With 29 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.894831
+date: 2026-08-11T01:33:11.794650
 url: "/cdr-researcher-census/researchers/jean-yves-cahurel-a5017951/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    15 citations · General CDR
 
 2. **Why do French winegrowers adopt soil organic carbon sequestration practices? Understanding motivations and barriers** (2023)
-   10 citations · General CDR
+   11 citations · General CDR
 
 ## External Profiles
 

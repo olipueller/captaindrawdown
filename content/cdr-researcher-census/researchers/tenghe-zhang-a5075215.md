@@ -1,7 +1,7 @@
 ---
 title: "Tenghe Zhang"
 description: "Tenghe Zhang is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.210500
+date: 2026-08-11T01:33:12.092373
 url: "/cdr-researcher-census/researchers/tenghe-zhang-a5075215/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Synthesis of biochar/clay mineral nanocomposites using oil shale semi-coke waste for removal of organic pollutants** (2023)
-   47 citations · Biochar
+   49 citations · Biochar
 
 ## External Profiles
 

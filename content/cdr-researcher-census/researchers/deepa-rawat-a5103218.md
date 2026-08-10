@@ -1,7 +1,7 @@
 ---
 title: "Deepa Rawat"
 description: "Deepa Rawat is a Mid-career Soil Carbon researcher at Veer Chandra Singh Garhwali Uttarakhand University of Horticulture and Forestry College of Forestry in IN. With 111 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.283586
+date: 2026-08-11T01:33:11.251565
 url: "/cdr-researcher-census/researchers/deepa-rawat-a5103218/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,19 +54,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    50 citations · General CDR
 
 2. **Carbon Sequestration Potential of Agroforestry versus Adjoining Forests at Different Altitudes in the Garhwal Himalayas** (2024)
-   20 citations
+   21 citations
 
 3. **Vegetation composition, soil properties, and carbon stock of montane forests along a disturbance in the Garhwal Himalaya, India** (2023)
-   19 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 4. **Carbon Sequestration Potential of Different Land Use Sectors of Western Himalaya** (2021)
-   15 citations
+   18 citations
 
 5. **Tree diversity, carbon sequestration and production potential of Oryza sativa L. in traditional agroforestry systems of Garhwal Himalaya, India** (2025)
    9 citations · General CDR
 
 6. **Effect of altitudes and aspects on carbon sequestration potential of Quercus floribunda forests of Garhwal Himalayas** (2024)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 7. **Harnessing Soil Ecosystem Services for Achieving Soil-Based SDGs in Indian Himalaya** (2023)
    3 citations · General CDR

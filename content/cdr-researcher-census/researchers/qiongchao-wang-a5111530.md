@@ -1,7 +1,7 @@
 ---
 title: "Qiongchao Wang"
 description: "Qiongchao Wang is a Mid-career Biochar researcher at Hunan Agricultural University in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.174794
+date: 2026-08-11T01:33:12.059992
 url: "/cdr-researcher-census/researchers/qiongchao-wang-a5111530/"
 layout: "researcher"
 hiddenInHomeList: true

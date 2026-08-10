@@ -1,7 +1,7 @@
 ---
 title: "Astley Hastings"
 description: "Astley Hastings is an Eminent BECCS researcher at University of Aberdeen in GB. With 207 publications and an h-index of 43, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.098075
+date: 2026-08-11T01:33:11.078326
 url: "/cdr-researcher-census/researchers/astley-hastings-a5058476/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Perennial biomass cropping and use: Shaping the policy ecosystem in European countries** (2023)
-   51 citations · BECCS
+   53 citations · BECCS
 
 2. **Soil Organic Carbon Significantly Increases When Perennial Biomass Plantations Are Reverted Back to Annual Arable Crops** (2023)
    20 citations · Soil Carbon
@@ -66,7 +66,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    13 citations · BECCS
 
 6. **A Review of Life Cycle Assessment Methods to Inform the Scale‐Up of Carbon Dioxide Removal Interventions** (2024)
-   7 citations · General CDR
+   8 citations · General CDR
 
 7. **Uncertain effectiveness of <i>Miscanthus</i> bioenergy expansion for climate change mitigation explored using land surface, agronomic and integrated assessment models** (2022)
    4 citations · BECCS

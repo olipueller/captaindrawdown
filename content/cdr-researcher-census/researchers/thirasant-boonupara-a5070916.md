@@ -1,7 +1,7 @@
 ---
 title: "Thirasant Boonupara"
 description: "Thirasant Boonupara is a Mid-career Biochar researcher at Chiang Mai University in TH. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.907460
+date: 2026-08-11T01:33:11.806092
 url: "/cdr-researcher-census/researchers/thirasant-boonupara-a5070916/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Enhancing soil health, microbial count, and hydrophilic methomyl and hydrophobic lambda-cyhalothrin remediation with biochar and nano-biochar** (2024)
-   21 citations · Biochar
+   23 citations · Biochar
 
 2. **Innovative approaches: Exploring nano-biochar technology’s impact on soil properties, alachlor retention, and microbial populations** (2024)
    17 citations · Biochar
 
-3. **Contrasting Pre- and Post-Pyrolysis Incorporation of Bentonite into Manure Biochar: Impacts on Nutrient Availability, Carbon Stability, and Physicochemical Properties** (2025)
-   3 citations · Biochar
+3. **A Critical Review of Regenerative Soil Management: A Novel Scoring System for <scp>SOC</scp> and <scp>GHG</scp> Emissions in Southeast Asia** (2025)
+   4 citations · General CDR
 
-4. **A Critical Review of Regenerative Soil Management: A Novel Scoring System for <scp>SOC</scp> and <scp>GHG</scp> Emissions in Southeast Asia** (2025)
-   3 citations · General CDR
+4. **Contrasting Pre- and Post-Pyrolysis Incorporation of Bentonite into Manure Biochar: Impacts on Nutrient Availability, Carbon Stability, and Physicochemical Properties** (2025)
+   3 citations · Biochar
 
 5. **Sustainable bioremediation of atrazine-contaminated soils via biochar and microbial ball co-amendments** (2025)
    0 citations · Biochar

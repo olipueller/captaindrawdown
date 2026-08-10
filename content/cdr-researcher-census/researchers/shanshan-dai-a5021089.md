@@ -1,7 +1,7 @@
 ---
 title: "Shan‐Shan Dai"
 description: "Shan‐Shan Dai is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.552993
+date: 2026-08-11T01:33:11.487761
 url: "/cdr-researcher-census/researchers/shanshan-dai-a5021089/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    25 citations · Soil Carbon
 
 2. **Coupled mineral and microbial carbon pumps govern soil organic carbon accumulation in croplands at a large spatial scale** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

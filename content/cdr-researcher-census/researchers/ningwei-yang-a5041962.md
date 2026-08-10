@@ -1,7 +1,7 @@
 ---
 title: "Ningwei Yang"
 description: "Ningwei Yang is a Mid-career Biochar researcher at Huaqiao University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.497654
+date: 2026-08-11T01:33:12.350664
 url: "/cdr-researcher-census/researchers/ningwei-yang-a5041962/"
 layout: "researcher"
 hiddenInHomeList: true

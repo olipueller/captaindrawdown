@@ -1,7 +1,7 @@
 ---
 title: "Francisco José Blanco Velázquez"
 description: "Francisco José Blanco Velázquez is a Mid-career Biochar researcher at Aut Even Hospital in IE. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.377624
+date: 2026-08-11T01:33:12.239770
 url: "/cdr-researcher-census/researchers/francisco-jose-blanco-velazquez-a5088642/"
 layout: "researcher"
 hiddenInHomeList: true

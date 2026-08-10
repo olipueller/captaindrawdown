@@ -1,7 +1,7 @@
 ---
 title: "Yuzhen Shen"
 description: "Yuzhen Shen is a Mid-career General CDR researcher at Tongji University in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.330274
+date: 2026-08-11T01:33:12.197133
 url: "/cdr-researcher-census/researchers/yuzhen-shen-a5013793/"
 layout: "researcher"
 hiddenInHomeList: true

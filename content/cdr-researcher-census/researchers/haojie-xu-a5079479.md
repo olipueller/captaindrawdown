@@ -1,7 +1,7 @@
 ---
 title: "Haojie Xu"
 description: "Haojie Xu is a Mid-career Biochar researcher at Tianjin University of Technology and Education in CN. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.575566
+date: 2026-08-11T01:33:11.507931
 url: "/cdr-researcher-census/researchers/haojie-xu-a5079479/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Association of biochar properties with changes in soil bacterial, fungal and fauna communities and nutrient cycling processes** (2021)
-   344 citations · Biochar
+   356 citations · Biochar
 
 2. **Magnesium-Doped Phosphoric Acid-Activated Tea Branch Biochar for Efficient Removal of Cd <sup>2+</sup> and Pb <sup>2+</sup> from Water: Adsorption Behavior and Insight into the Quantitative Mechanism** (2026)
-   1 citations · Biochar
+   3 citations · Biochar
 
 ## External Profiles
 

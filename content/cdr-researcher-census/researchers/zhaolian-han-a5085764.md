@@ -1,7 +1,7 @@
 ---
 title: "Zhaolian Han"
 description: "Zhaolian Han is a Mid-career Biochar researcher at Jilin Medical University in CN. With 46 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.434525
+date: 2026-08-11T01:33:11.385363
 url: "/cdr-researcher-census/researchers/zhaolian-han-a5085764/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **NH2-MIL-125 (Ti)/biochar fibers for enhanced direct dyes adsorption** (2021)
-   39 citations · Biochar
+   41 citations · Biochar
 
 2. **Remediation of atrazine in environment by persulfate activation via N/B co-doped Si-rich biochar: Performance, mechanisms, degradation pathways and phytotoxicity** (2023)
    28 citations · Biochar

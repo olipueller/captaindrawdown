@@ -1,7 +1,7 @@
 ---
 title: "Penghui Jin"
 description: "Penghui Jin is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.283760
+date: 2026-08-11T01:33:12.156565
 url: "/cdr-researcher-census/researchers/penghui-jin-a5075936/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Ecoenzymatic stoichiometry reveals stronger microbial carbon and nitrogen limitation in biochar amendment soils: A meta-analysis** (2022)
-   48 citations · Biochar
+   56 citations · Biochar
 
 2. **Long-Term Field Biochar Application for Rice Production: Effects on Soil Nutrient Supply, Carbon Sequestration, Crop Yield and Grain Minerals** (2022)
    24 citations · Biochar
 
 3. **12-year continuous biochar application: Mitigating reactive nitrogen loss in paddy fields but without rice yield enhancement** (2024)
-   21 citations · Biochar
+   22 citations · Biochar
 
 4. **Decade-long successive biochar amendment enhances wheat production and increases crop system resistance to unfavorable meteorological factors** (2025)
    10 citations · Biochar

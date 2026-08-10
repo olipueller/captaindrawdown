@@ -1,7 +1,7 @@
 ---
 title: "Meiwen Bao"
 description: "Meiwen Bao is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 13 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.693766
+date: 2026-08-11T01:33:11.614308
 url: "/cdr-researcher-census/researchers/meiwen-bao-a5031062/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Dissolved organic carbon, a critical factor to increase the bioavailability of phosphorus during biochar-amended aerobic composting** (2021)
-   41 citations · Biochar
+   42 citations · Biochar
 
 ## External Profiles
 

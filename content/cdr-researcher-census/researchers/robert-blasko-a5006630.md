@@ -1,7 +1,7 @@
 ---
 title: "Róbert Blaško"
 description: "Róbert Blaško is a Mid-career Soil Carbon researcher at Swedish University of Agricultural Sciences in SE. With 11 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.759768
+date: 2026-08-11T01:33:11.674038
 url: "/cdr-researcher-census/researchers/robert-blasko-a5006630/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ziqi Lin"
 description: "Ziqi Lin is a Mid-career Soil Carbon researcher at Xi'an University of Architecture and Technology in CN. With 60 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.303541
+date: 2026-08-11T01:33:11.270687
 url: "/cdr-researcher-census/researchers/ziqi-lin-a5082169/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Increased straw return promoted soil organic carbon accumulation in China's croplands over the past 40 years** (2024)
-   36 citations · Soil Carbon
+   39 citations · Soil Carbon
 
 2. **Climate-management interactions drive soil organic carbon sequestration potential in China's croplands during 2020–2060** (2025)
    11 citations · General CDR

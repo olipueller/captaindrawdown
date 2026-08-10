@@ -1,7 +1,7 @@
 ---
 title: "Zhuo Zhang"
 description: "Zhuo Zhang is a Mid-career Biochar researcher at Ministry of Natural Resources in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.555094
+date: 2026-08-11T01:33:11.489457
 url: "/cdr-researcher-census/researchers/zhuo-zhang-a5041260/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Life cycle assessment of greenhouse gas emissions for various feedstocks-based biochars as soil amendment** (2023)
-   85 citations · Biochar
+   89 citations · Biochar
 
 2. **Hydrochemical evolution driven by hyporheic exchange of the Weihe River Basin, Northwest China** (2026)
    1 citations

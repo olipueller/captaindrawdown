@@ -1,7 +1,7 @@
 ---
 title: "Dingmu Hou"
 description: "Dingmu Hou is an Early-career Soil Carbon researcher at Heilongjiang University in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.564428
+date: 2026-08-11T01:33:12.409788
 url: "/cdr-researcher-census/researchers/dingmu-hou-a5113184/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A meta-analysis of conservation tillage management effects on soil organic carbon sequestration and soil greenhouse gas flux** (2024)
-   44 citations · Soil Carbon
+   46 citations · Soil Carbon
 
 2. **The effect of biochar types on carbon cycles in farmland soils: A meta analysis** (2024)
    25 citations · Biochar

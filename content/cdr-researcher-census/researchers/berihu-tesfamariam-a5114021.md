@@ -1,7 +1,7 @@
 ---
 title: "Berihu Tesfamariam"
 description: "Berihu Tesfamariam is a Mid-career Soil Carbon researcher at Mekelle University in ET. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.120562
+date: 2026-08-11T01:33:12.010921
 url: "/cdr-researcher-census/researchers/berihu-tesfamariam-a5114021/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hans Meerman"
 description: "Hans Meerman is a Senior BECCS researcher at Hogeschool van Arnhem en Nijmegen in NL. With 36 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.270563
+date: 2026-08-11T01:33:11.239358
 url: "/cdr-researcher-census/researchers/hans-meerman-a5050679/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Harmonized comparison of virgin steel production using biomass with carbon capture and storage for negative emissions** (2021)
-   27 citations · BECCS
+   28 citations · BECCS
 
 2. **Spatially explicit transition pathways for decarbonizing China’s steel industry during 2030–2050** (2025)
    2 citations · BECCS

@@ -1,7 +1,7 @@
 ---
 title: "Séguy Enock"
 description: "Séguy Enock is a Mid-career Soil Carbon researcher at Université de Yaoundé I in CM. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.244281
+date: 2026-08-11T01:33:12.123812
 url: "/cdr-researcher-census/researchers/seguy-enock-a5029902/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Dynamics of soil organic carbon pools following conversion of savannah to cocoa agroforestry systems in the Centre region of Cameroon** (2024)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Yierfan Maierdan"
 description: "Yierfan Maierdan is a Mid-career Biochar researcher at Columbia University in US. With 19 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.547141
+date: 2026-08-11T01:33:11.482465
 url: "/cdr-researcher-census/researchers/yierfan-maierdan-a5090964/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar as carbon sequestration material combines with sewage sludge incineration ash to prepare lightweight concrete** (2022)
-   90 citations · Biochar
+   95 citations · Biochar
 
 ## External Profiles
 

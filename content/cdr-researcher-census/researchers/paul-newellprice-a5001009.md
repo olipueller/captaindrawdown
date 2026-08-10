@@ -1,7 +1,7 @@
 ---
 title: "Paul Newell‐Price"
 description: "Paul Newell‐Price is a Mid-career Soil Carbon researcher at ADAS Gleadthorpe in GB. With 36 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.414521
+date: 2026-08-11T01:33:11.367824
 url: "/cdr-researcher-census/researchers/paul-newellprice-a5001009/"
 layout: "researcher"
 hiddenInHomeList: true

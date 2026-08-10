@@ -1,7 +1,7 @@
 ---
 title: "Đỗ Trà Hương"
 description: "Đỗ Trà Hương is a Mid-career Biochar researcher at Thai Nguyen University in VN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.394907
+date: 2026-08-11T01:33:12.256650
 url: "/cdr-researcher-census/researchers/o-tra-huong-a5112899/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Durian peel–seed biochar for efficient methylene blue removal from water: synthesis, characterization, and adsorption performance** (2025)
-   12 citations · Biochar
+   14 citations · Biochar
 
 2. **Valorization of Spent Coffee Grounds into Hydrothermal Biochar for Sustainable Ciprofloxacin Removal from Water: Mechanistic and Thermodynamic Insights** (2025)
    2 citations · Biochar

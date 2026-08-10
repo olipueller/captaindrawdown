@@ -1,7 +1,7 @@
 ---
 title: "Shijie Zhou"
 description: "Shijie Zhou is a Mid-career General CDR researcher at Chinese Academy of Sciences in CN. With 23 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.633693
+date: 2026-08-11T01:33:11.560466
 url: "/cdr-researcher-census/researchers/shijie-zhou-a5026811/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Varying contributions of fast and slow responses cause asymmetric tropical rainfall change between CO2 ramp-up and ramp-down** (2022)
-   27 citations
+   28 citations
 
 2. **More Pronounced El Niño–like Warming in Boreal Autumn and Winter under CO2 Removal Scenario** (2026)
    0 citations · General CDR

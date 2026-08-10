@@ -1,7 +1,7 @@
 ---
 title: "Mauro Zampilli"
 description: "Mauro Zampilli is a Mid-career BECCS researcher at University of Perugia in IT. With 31 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.605893
+date: 2026-08-11T01:33:11.535064
 url: "/cdr-researcher-census/researchers/mauro-zampilli-a5040458/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    6 citations · BECCS
 
 3. **Dimensioning Air Reactor and Fuel Reactor of a Pressurized CLC Plant to Be Coupled to a Gas Turbine: Part 2, the Fuel Reactor** (2023)
-   4 citations · BECCS
+   5 citations · BECCS
 
 4. **Pressurised Chemical Looping Combustion (PCLC): Air Reactor design** (2022)
    2 citations · BECCS

@@ -1,7 +1,7 @@
 ---
 title: "Yu-Fang Chang"
 description: "Yu-Fang Chang is a Mid-career Biochar researcher at National Ilan University in TW. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.255132
+date: 2026-08-11T01:33:12.133048
 url: "/cdr-researcher-census/researchers/yu-fang-chang-a5048027/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Poultry Litter Biochar as a Gentle Soil Amendment in Multi-Contaminated Soil: Quality Evaluation on Nutrient Preservation and Contaminant Immobilization** (2022)
-   14 citations · Biochar
+   15 citations · Biochar
 
 2. **Quality Evaluation of Poultry Litter Biochar Produced at Different Pyrolysis Temperatures as a Sustainable Management Approach and Its Impact on Soil Carbon Mineralization** (2021)
    13 citations · Biochar

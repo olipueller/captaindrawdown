@@ -1,7 +1,7 @@
 ---
 title: "Silvia Escudero-Curiel"
 description: "Silvia Escudero-Curiel is a Mid-career Biochar researcher at International Iberian Nanotechnology Laboratory in PT. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.946367
+date: 2026-08-11T01:33:11.841558
 url: "/cdr-researcher-census/researchers/silvia-escudero-curiel-a5033671/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Enhancing surface area of HNO3-activated digestate-derived biochar for methylene blue adsorption: RSM-CCD optimization, DFT-MD calculations, and mechanistic study** (2025)
-   13 citations · Biochar
+   16 citations · Biochar
 
 ## External Profiles
 

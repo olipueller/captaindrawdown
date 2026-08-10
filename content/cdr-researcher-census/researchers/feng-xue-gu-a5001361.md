@@ -1,7 +1,7 @@
 ---
 title: "Feng-Xue Gu"
 description: "Feng-Xue Gu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.449706
+date: 2026-08-11T01:33:12.306890
 url: "/cdr-researcher-census/researchers/feng-xue-gu-a5001361/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Mapping Chinese annual gross primary productivity with eddy covariance measurements and machine learning** (2022)
-   44 citations
+   45 citations
 
 2. **A dataset of annual gross primary productivity in China&amp;rsquo;s terrestrial ecosystems during 2000-2020** (2023)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 ## External Profiles
 

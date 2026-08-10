@@ -1,7 +1,7 @@
 ---
 title: "Ruben Prütz"
 description: "Ruben Prütz is a Mid-career General CDR researcher at Leibniz Association in DE. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.856873
+date: 2026-08-11T01:33:11.759562
 url: "/cdr-researcher-census/researchers/ruben-prutz-a5011946/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Overconfidence in climate overshoot** (2024)
-   151 citations · General CDR
+   159 citations · General CDR
 
 2. **A taxonomy to map evidence on the co-benefits, challenges, and limits of carbon dioxide removal** (2024)
    37 citations · General CDR
 
 3. **Understanding the carbon dioxide removal range in 1.5 °C compatible and high overshoot pathways** (2023)
-   36 citations · General CDR
+   37 citations · General CDR
 
 4. **Implications of states’ dependence on carbon dioxide removal for achieving the Paris temperature goal** (2025)
-   7 citations · General CDR
+   9 citations · General CDR
 
 5. **Overconfidence in climate overshoot** (2023)
    7 citations

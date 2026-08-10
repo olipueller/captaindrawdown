@@ -1,7 +1,7 @@
 ---
 title: "Mengyang Zhou"
 description: "Mengyang Zhou is a Senior Ocean CDR researcher at Yale University in US. With 70 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.230754
+date: 2026-08-11T01:33:11.202957
 url: "/cdr-researcher-census/researchers/mengyang-zhou-a5074727/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Mapping the global variation in the efficiency of ocean alkalinity enhancement for carbon dioxide removal** (2024)
-   46 citations · Ocean CDR
+   51 citations · Ocean CDR
 
 2. **Mapping the global variation in the efficiency of ocean alkalinity enhancement for carbon dioxide removal** (2024)
    9 citations · General CDR
@@ -59,14 +59,14 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 3. **Impulse response functions as a framework for quantifying ocean-based carbon dioxide removal** (2024)
    4 citations
 
-4. **A global efficiency map of ocean alkalinity enhancement (OAE) for CO2 removal** (2024)
+4. **Impulse response functions as a framework for quantifying ocean-based carbon dioxide removal** (2025)
    2 citations · General CDR
 
-5. **Impulse response functions as a framework for quantifying ocean-based carbon dioxide removal** (2025)
-   1 citations · General CDR
+5. **A global efficiency map of ocean alkalinity enhancement (OAE) for CO2 removal** (2024)
+   2 citations · General CDR
 
 6. **Substantial inter-model variation in OAE efficiency between the CESM2/MARBL and ECCO-Darwin ocean biogeochemistry models** (2025)
-   0 citations · General CDR
+   1 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "So‐Won Park"
 description: "So‐Won Park is a Mid-career General CDR researcher at Seoul National University in KR. With 40 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.848093
+date: 2026-08-11T01:33:11.751756
 url: "/cdr-researcher-census/researchers/sowon-park-a5012875/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    26 citations · General CDR
 
 3. **Continued permafrost ecosystem carbon loss under net-zero and negative emissions** (2025)
-   11 citations · General CDR
+   15 citations · General CDR
 
 4. **Negative CO2 emissions mitigate extremes of the terrestrial hydrological cycle via a vegetation physiological feedback** (2023)
    2 citations · General CDR

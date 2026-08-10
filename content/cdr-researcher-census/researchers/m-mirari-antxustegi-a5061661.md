@@ -1,7 +1,7 @@
 ---
 title: "M. Mirari Antxustegi"
 description: "M. Mirari Antxustegi is a Senior Biochar researcher at University of the Basque Country in ES. With 33 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.631003
+date: 2026-08-11T01:33:11.557903
 url: "/cdr-researcher-census/researchers/m-mirari-antxustegi-a5061661/"
 layout: "researcher"
 hiddenInHomeList: true

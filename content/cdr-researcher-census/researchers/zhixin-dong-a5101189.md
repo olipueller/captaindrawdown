@@ -1,7 +1,7 @@
 ---
 title: "Zhixin Dong"
 description: "Zhixin Dong is a Mid-career Biochar researcher at Institute of Mountain Hazards and Environment in CN. With 33 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.570320
+date: 2026-08-11T01:33:11.503224
 url: "/cdr-researcher-census/researchers/zhixin-dong-a5101189/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    26 citations · Biochar
 
 2. **Biochar mitigates greenhouse gas emissions from bulk soil in wheat-corn rotation system by inhibiting biochemical decomposition** (2025)
-   14 citations · Biochar
+   15 citations · Biochar
 
 3. **Biochar carbon-based amendment rather than straw contributes to the mitigation of greenhouse gas emissions while increasing crop yield: Insights from a field experiment and density functional theory calculation** (2025)
    4 citations · Biochar

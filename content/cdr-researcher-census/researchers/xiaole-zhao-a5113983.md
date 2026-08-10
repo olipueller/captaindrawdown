@@ -1,7 +1,7 @@
 ---
 title: "Xiaole Zhao"
 description: "Xiaole Zhao is a Mid-career Soil Carbon researcher at Peking University in CN. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.916166
+date: 2026-08-11T01:33:11.814202
 url: "/cdr-researcher-census/researchers/xiaole-zhao-a5113983/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Exploring the Potential of Straw and Biochar Application on Soil Quality Indicators and Crop Yield in Semi-arid Regions** (2024)
-   25 citations · Biochar
+   26 citations · Biochar
 
 2. **Structural equation modeling revealed optimized ridge-furrow configuration integrated with straw-soil crust enhancing carbon sequestration and sainfoin yield in semiarid agroecosystems** (2026)
-   0 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

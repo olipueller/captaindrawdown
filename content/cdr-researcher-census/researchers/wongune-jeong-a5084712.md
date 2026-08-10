@@ -1,7 +1,7 @@
 ---
 title: "Won‐Gune Jeong"
 description: "Won‐Gune Jeong is a Senior General CDR researcher at Jeonbuk National University in KR. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.964897
+date: 2026-08-11T01:33:11.844630
 url: "/cdr-researcher-census/researchers/wongune-jeong-a5084712/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,7 +47,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Top CDR Publications
 
-1. **Assessment of Plant‐Based Carbon Bio‐Fixation under Elevated CO <sub>2</sub> , Nutrient Enrichment, and Temperature Variations** (2025)
+1. **Binder-free biochar electrode driven from wood biomass for selective electroreduction of nitrate to ammonia** (2026)
+   0 citations · Biochar
+
+2. **Quantitative estimation on carbon sequestration potential of agricultural by-products biochar using chemical oxidation** (2026)
+   0 citations · Biochar
+
+3. **Assessment of Plant‐Based Carbon Bio‐Fixation under Elevated CO <sub>2</sub> , Nutrient Enrichment, and Temperature Variations** (2025)
    0 citations · General CDR
 
 ## External Profiles

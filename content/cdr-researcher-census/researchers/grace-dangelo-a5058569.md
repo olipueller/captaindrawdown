@@ -1,7 +1,7 @@
 ---
 title: "Grace D’Angelo"
 description: "Grace D’Angelo is a Mid-career Soil Carbon researcher at Max Planck Institute for Marine Microbiology in DE. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.050359
+date: 2026-08-11T01:33:11.924923
 url: "/cdr-researcher-census/researchers/grace-dangelo-a5058569/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Sugars dominate the seagrass rhizosphere** (2022)
-   91 citations · Soil Carbon
+   94 citations · Soil Carbon
 
 ## External Profiles
 

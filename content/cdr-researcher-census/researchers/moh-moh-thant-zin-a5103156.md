@@ -1,7 +1,7 @@
 ---
 title: "Moh Moh Thant Zin"
 description: "Moh Moh Thant Zin is a Mid-career Biochar researcher at University of Missouri in US. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.930561
+date: 2026-08-11T01:33:11.826926
 url: "/cdr-researcher-census/researchers/moh-moh-thant-zin-a5103156/"
 layout: "researcher"
 hiddenInHomeList: true

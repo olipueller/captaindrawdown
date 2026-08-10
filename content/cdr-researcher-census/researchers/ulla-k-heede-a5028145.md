@@ -1,7 +1,7 @@
 ---
 title: "Ulla K. Heede"
 description: "Ulla K. Heede is a Mid-career Ocean CDR researcher at Worthing Hospital in GB. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.581132
+date: 2026-08-11T01:33:11.512744
 url: "/cdr-researcher-census/researchers/ulla-k-heede-a5028145/"
 layout: "researcher"
 hiddenInHomeList: true

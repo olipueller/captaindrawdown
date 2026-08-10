@@ -1,7 +1,7 @@
 ---
 title: "Dong Shikui"
 description: "Dong Shikui is a Senior Soil Carbon researcher at Beijing Normal University in CN. With 23 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.228787
+date: 2026-08-11T01:33:12.109193
 url: "/cdr-researcher-census/researchers/dong-shikui-a5101944/"
 layout: "researcher"
 hiddenInHomeList: true

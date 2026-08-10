@@ -1,7 +1,7 @@
 ---
 title: "Xue Jiang"
 description: "Xue Jiang is a Mid-career Enhanced Weathering researcher at Northeast Agricultural University in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.049673
+date: 2026-08-11T01:33:11.924302
 url: "/cdr-researcher-census/researchers/xue-jiang-a5102000/"
 layout: "researcher"
 hiddenInHomeList: true

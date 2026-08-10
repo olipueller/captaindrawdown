@@ -1,7 +1,7 @@
 ---
 title: "Aarti Muley"
 description: "Aarti Muley is a Senior Biochar researcher at Department of Commerce in AU. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.848485
+date: 2026-08-11T01:33:11.752120
 url: "/cdr-researcher-census/researchers/aarti-muley-a5060824/"
 layout: "researcher"
 hiddenInHomeList: true

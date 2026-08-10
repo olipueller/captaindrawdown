@@ -1,7 +1,7 @@
 ---
 title: "Huibo Ren"
 description: "Huibo Ren is a Mid-career Soil Carbon researcher at Peking University in CN. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.633211
+date: 2026-08-11T01:33:11.559980
 url: "/cdr-researcher-census/researchers/huibo-ren-a5111287/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Divergent dynamics and drivers of mass remaining and chemical traits during leaf and fine root litter decomposition in a Chinese estuarine mangrove: Implications for soil carbon sequestration** (2025)
-   1 citations · Ocean CDR
+   2 citations · Ocean CDR
 
 2. **Mangrove species and soil properties influence soil carbon dioxide and methane fluxes from heterotrophic and root‐affected sources in an estuarine mangrove** (2025)
    0 citations · Soil Carbon

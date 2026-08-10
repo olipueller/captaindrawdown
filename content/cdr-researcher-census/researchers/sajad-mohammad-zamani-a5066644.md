@@ -1,7 +1,7 @@
 ---
 title: "Sajad Mohammad Zamani"
 description: "Sajad Mohammad Zamani is a Mid-career Biochar researcher at National Iranian Oil Company in IR. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.380274
+date: 2026-08-11T01:33:12.242321
 url: "/cdr-researcher-census/researchers/sajad-mohammad-zamani-a5066644/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Valorization of poultry litter through biochar production: Linking feedstock chemistry, pyrolysis conditions, and application performance for the Canadian poultry industry** (2026)
-   0 citations · Biochar
+   2 citations · Biochar
 
 ## External Profiles
 

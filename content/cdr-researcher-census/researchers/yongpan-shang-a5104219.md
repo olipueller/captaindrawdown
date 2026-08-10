@@ -1,7 +1,7 @@
 ---
 title: "Yongpan Shang"
 description: "Yongpan Shang is a Mid-career Soil Carbon researcher at Gansu Agricultural University in CN. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.789710
+date: 2026-08-11T01:33:11.701372
 url: "/cdr-researcher-census/researchers/yongpan-shang-a5104219/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,16 +48,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Reducing nitrogen application by 20% under the condition of multiple cropping using green manure after wheat harvesting can mitigate carbon emission without sacrificing maize yield in arid areas** (2023)
-   30 citations · Soil Carbon
+   32 citations · Soil Carbon
 
-2. **Mechanistic Insights into Farmland Soil Carbon Sequestration: A Review of Substituting Green Manure for Nitrogen Fertilizer** (2025)
+2. **Green manure incorporation with 20 % nitrogen reduction enhances soil organic carbon storage by improving aggregate stability and functional group composition** (2026)
+   9 citations · Soil Carbon
+
+3. **Mechanistic Insights into Farmland Soil Carbon Sequestration: A Review of Substituting Green Manure for Nitrogen Fertilizer** (2025)
    7 citations · Soil Carbon
 
-3. **No-tillage mulch with green manure retention can mitigate carbon emissions, increase crop productivity, and promote agricultural sustainability** (2024)
+4. **No-tillage mulch with green manure retention can mitigate carbon emissions, increase crop productivity, and promote agricultural sustainability** (2024)
    7 citations · Soil Carbon
-
-4. **Green manure incorporation with 20 % nitrogen reduction enhances soil organic carbon storage by improving aggregate stability and functional group composition** (2026)
-   4 citations · Soil Carbon
 
 5. **No-tillage with total green manure mulching reduces soil respiration by regulating soil moisture affecting heterotrophic respiration** (2024)
    1 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Babacar Thioye"
 description: "Babacar Thioye is a Mid-career Soil Carbon researcher at UniLaSalle in FR. With 35 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.471172
+date: 2026-08-11T01:33:12.327024
 url: "/cdr-researcher-census/researchers/babacar-thioye-a5076354/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Prebiotics: A Solution for Improving Plant Growth, Soil Health, and Carbon Sequestration?** (2023)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 2. **Prebiotics' application as an agroecological approach to improve plant growth, soil conditions, and carbon sequestration** (2023)
    0 citations · Soil Carbon

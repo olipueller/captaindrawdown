@@ -1,7 +1,7 @@
 ---
 title: "Laura Marín-Samper"
 description: "Laura Marín-Samper is an Early-career Ocean CDR researcher at Universidad de Las Palmas de Gran Canaria in ES. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.087080
+date: 2026-08-11T01:33:11.979427
 url: "/cdr-researcher-census/researchers/laura-marin-samper-a5013241/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Stability of alkalinity in ocean alkalinity enhancement (OAE) approaches – consequences for durability of CO <sub>2</sub> storage** (2023)
-   149 citations · General CDR
+   150 citations · General CDR
 
 2. **Stability of alkalinity in Ocean Alkalinity Enhancement (OAE) approaches – consequences for durability of CO <sub>2</sub> storage** (2022)
    25 citations

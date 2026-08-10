@@ -1,7 +1,7 @@
 ---
 title: "Michael Asiedu Kumi"
 description: "Michael Asiedu Kumi is a Mid-career General CDR researcher at Beijing Normal University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.800538
+date: 2026-08-11T01:33:11.710675
 url: "/cdr-researcher-census/researchers/michael-asiedu-kumi-a5018882/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Spatio-temporal variations of ecosystem services and their drivers in the Pearl River Delta, China** (2022)
-   125 citations · General CDR
+   127 citations · General CDR
 
 2. **Scale Effects and Time Variation of Trade-Offs and Synergies among Ecosystem Services in the Pearl River Delta, China** (2022)
    27 citations
 
 3. **Linking Ecosystem Service Supply and Demand to Evaluate the Ecological Security in the Pearl River Delta Based on the Pressure-State-Response Model** (2023)
-   14 citations
+   17 citations
 
 ## External Profiles
 

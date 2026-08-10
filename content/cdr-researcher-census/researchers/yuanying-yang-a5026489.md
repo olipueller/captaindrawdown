@@ -1,7 +1,7 @@
 ---
 title: "Yuanying Yang"
 description: "Yuanying Yang is a Mid-career Biochar researcher at University of Technology Sydney in AU. With 19 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.481587
+date: 2026-08-11T01:33:11.425059
 url: "/cdr-researcher-census/researchers/yuanying-yang-a5026489/"
 layout: "researcher"
 hiddenInHomeList: true

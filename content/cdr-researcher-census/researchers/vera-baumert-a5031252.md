@@ -1,7 +1,7 @@
 ---
 title: "Vera Baumert"
 description: "Vera Baumert is a Mid-career Soil Carbon researcher at Technical University of Munich in DE. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.510574
+date: 2026-08-11T01:33:11.450140
 url: "/cdr-researcher-census/researchers/vera-baumert-a5031252/"
 layout: "researcher"
 hiddenInHomeList: true

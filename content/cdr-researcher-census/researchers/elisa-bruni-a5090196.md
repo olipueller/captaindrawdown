@@ -1,7 +1,7 @@
 ---
 title: "Elisa Bruni"
 description: "Elisa Bruni is a Mid-career Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 55 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.403819
+date: 2026-08-11T01:33:11.357989
 url: "/cdr-researcher-census/researchers/elisa-bruni-a5090196/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Additional carbon inputs to reach a 4 per 1000 objective in Europe: feasibility and projected impacts of climate change based on Century simulations of long-term arable experiments** (2021)
-   45 citations · Soil Carbon
+   46 citations · Soil Carbon
 
 2. **Long-term nitrogen fertilization alters microbial respiration sensitivity to temperature and moisture, potentially enhancing soil carbon retention in a boreal Scots pine forest** (2025)
    2 citations · Soil Carbon

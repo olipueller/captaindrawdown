@@ -1,7 +1,7 @@
 ---
 title: "Jin Woo Kang"
 description: "Jin Woo Kang is a Senior Ocean CDR researcher at Institute for Basic Science in KR. With 36 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.927647
+date: 2026-08-11T01:33:11.824310
 url: "/cdr-researcher-census/researchers/jin-woo-kang-a5101432/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    14 citations · Ocean CDR
 
 2. **Alkalinity (Bicarbonate) Pumping by Coastal Macroalgal Forests** (2025)
-   6 citations · Ocean CDR
+   7 citations · Ocean CDR
 
 3. **Carbon dioxide removal (CDR) potential in temperate macroalgal forests: A comparative study of chemical and biological net ecosystem production (NEP)** (2024)
    5 citations · Ocean CDR

@@ -1,7 +1,7 @@
 ---
 title: "Yiming Guo"
 description: "Yiming Guo is a Senior Ocean CDR researcher at Illinois State University in US. With 79 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.198808
+date: 2026-08-11T01:33:12.081728
 url: "/cdr-researcher-census/researchers/yiming-guo-a5100723/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Site selection for ocean alkalinity enhancement informed by passive tracer simulations** (2025)
-   9 citations · Ocean CDR
+   11 citations · Ocean CDR
 
 2. **A tracer study for the development of in-water monitoring, reporting, and verification (MRV) of ship-based ocean alkalinity enhancement** (2025)
-   5 citations · General CDR
+   7 citations · General CDR
 
 3. **Development of the ecological activity index as an integrative ecosystem assessment and monitoring asset for ocean alkalinity enhancement** (2025)
    4 citations · General CDR
@@ -62,16 +62,19 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 4. **A tracer study for the development of in-water monitoring, reporting, and verification (MRV) of ship-based ocean alkalinity enhancement** (2025)
    2 citations
 
-5. **Data for "The Ecological Activity Index tool for mapping potential ecosystem exposure to ocean alkalinity enhancement"** (2026)
+5. **The Ecological Activity Index tool for mapping potential ecosystem exposure to ocean alkalinity enhancement** (2026)
    0 citations · Ocean CDR
 
 6. **Data for "The Ecological Activity Index tool for mapping potential ecosystem exposure to ocean alkalinity enhancement"** (2026)
    0 citations · Ocean CDR
 
-7. **Field notes on public communication and engagement for the LOC-NESS Ocean Alkalinity Enhancement field trial** (2026)
+7. **Data for "The Ecological Activity Index tool for mapping potential ecosystem exposure to ocean alkalinity enhancement"** (2026)
+   0 citations · Ocean CDR
+
+8. **Field notes on public communication and engagement for the LOC-NESS Ocean Alkalinity Enhancement field trial** (2026)
    0 citations · General CDR
 
-8. **Supplementary material to "A tracer study for the development of in-water monitoring, reporting, and verification (MRV) of ship-based ocean alkalinity enhancement"** (2025)
+9. **Supplementary material to "A tracer study for the development of in-water monitoring, reporting, and verification (MRV) of ship-based ocean alkalinity enhancement"** (2025)
    0 citations · General CDR
 
 ## External Profiles

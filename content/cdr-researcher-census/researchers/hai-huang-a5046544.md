@@ -1,7 +1,7 @@
 ---
 title: "Hai Huang"
 description: "Hai Huang is a Mid-career Biochar researcher at Hunan University in CN. With 33 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.400997
+date: 2026-08-11T01:33:11.355617
 url: "/cdr-researcher-census/researchers/hai-huang-a5046544/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Removing antibiotic resistance genes under heavy metal stress with carbon-based materials and clay minerals: By sorption alone?** (2022)
-   75 citations
+   76 citations
 
 2. **Construction of biochar supported single cobalt atom catalysts from coffee grounds on peroxymonosulfate activation for sulfamethoxazole degradation** (2024)
    30 citations · Biochar

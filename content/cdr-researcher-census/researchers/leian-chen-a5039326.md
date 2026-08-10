@@ -1,7 +1,7 @@
 ---
 title: "Leian Chen"
 description: "Leian Chen is a Mid-career General CDR researcher at University of Regina in CA. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.660764
+date: 2026-08-11T01:33:11.584996
 url: "/cdr-researcher-census/researchers/leian-chen-a5039326/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Manas Ranjan Mohanta"
 description: "Manas Ranjan Mohanta is a Mid-career Soil Carbon researcher at Indian Institute of Technology Kharagpur in IN. With 21 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.319785
+date: 2026-08-11T01:33:12.187918
 url: "/cdr-researcher-census/researchers/manas-ranjan-mohanta-a5047891/"
 layout: "researcher"
 hiddenInHomeList: true

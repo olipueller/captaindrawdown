@@ -1,7 +1,7 @@
 ---
 title: "Lanqiong Zhang"
 description: "Lanqiong Zhang is a Mid-career DAC researcher at Xi'an Jiaotong University in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.040423
+date: 2026-08-11T01:33:11.915026
 url: "/cdr-researcher-census/researchers/lanqiong-zhang-a5006259/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Advances, challenges, and prospects of carbon dioxide capture, utilization, and storage technologies for carbon neutrality** (2025)
-   10 citations · DAC
+   14 citations · DAC
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "George Victor Brigagão"
 description: "George Victor Brigagão is a Mid-career BECCS researcher at Universidade Federal do Rio de Janeiro in BR. With 26 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.564168
+date: 2026-08-11T01:33:11.497997
 url: "/cdr-researcher-census/researchers/george-victor-brigagao-a5054167/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,18 +51,21 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **A zero-emission sustainable landfill-gas-to-wire oxyfuel process: Bioenergy with carbon capture and sequestration** (2021)
-   30 citations · BECCS
+   32 citations · BECCS
 
-2. **Exergy Analysis of Offshore Natural Gas Partial Oxidation to Methanol Coupled to Power Generation with CO2 Capture** (2024)
+2. **Ironmaking hot-blast-stove retrofit with post-combustion CO2 capture by chemical absorption: Techno-economic evaluation under carbon taxation** (2025)
    3 citations · General CDR
 
-3. **Ironmaking hot-blast-stove retrofit with post-combustion CO2 capture by chemical absorption: Techno-economic evaluation under carbon taxation** (2025)
-   1 citations · General CDR
+3. **Exergy Analysis of Offshore Natural Gas Partial Oxidation to Methanol Coupled to Power Generation with CO2 Capture** (2024)
+   3 citations · General CDR
 
 4. **Enhancing Efficiency of Corncob-Fired Power Generation with Carbon Capture and Storage** (2023)
    1 citations · BECCS
 
-5. **BIOENERGY WITH CARBON CAPTURE AND STORAGE VIA LANDFILL GAS OXY-COMBUSTION** (2024)
+5. **Ironmaking Hot-Blast-Stove Retrofit with Post-Combustion Co2 Capture by Chemical Absorption: Techno-Economic Evaluation Under Carbon Taxation** (2025)
+   0 citations
+
+6. **BIOENERGY WITH CARBON CAPTURE AND STORAGE VIA LANDFILL GAS OXY-COMBUSTION** (2024)
    0 citations · BECCS
 
 ## External Profiles

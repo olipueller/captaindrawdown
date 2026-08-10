@@ -1,7 +1,7 @@
 ---
 title: "Ayoub Chaoui"
 description: "Ayoub Chaoui is a Mid-career Biochar researcher at Université Ibn Zohr in MA. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.893177
+date: 2026-08-11T01:33:11.793118
 url: "/cdr-researcher-census/researchers/ayoub-chaoui-a5010862/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Enhancing surface area of HNO3-activated digestate-derived biochar for methylene blue adsorption: RSM-CCD optimization, DFT-MD calculations, and mechanistic study** (2025)
-   13 citations · Biochar
+   16 citations · Biochar
 
 ## External Profiles
 

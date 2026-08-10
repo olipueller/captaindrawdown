@@ -1,7 +1,7 @@
 ---
 title: "Yasmin Singh"
 description: "Yasmin Singh is a Senior General CDR researcher. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.415679
+date: 2026-08-11T01:33:12.274949
 url: "/cdr-researcher-census/researchers/yasmin-singh-a5109212/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mari-Karoliina Henriikka Winkler"
 description: "Mari-Karoliina Henriikka Winkler is a Mid-career Soil Carbon researcher at University of Washington in US. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.625026
+date: 2026-08-11T01:33:11.552532
 url: "/cdr-researcher-census/researchers/mari-karoliina-henriikka-winkler-a5042467/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Wetlands harbor lactic acid-driven chain elongators** (2023)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 ## External Profiles
 

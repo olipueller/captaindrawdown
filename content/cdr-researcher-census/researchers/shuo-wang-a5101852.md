@@ -1,7 +1,7 @@
 ---
 title: "Shuo Wang"
 description: "Shuo Wang is a Senior Soil Carbon researcher at Jiangnan University in CN. With 72 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.252487
+date: 2026-08-11T01:33:11.222889
 url: "/cdr-researcher-census/researchers/shuo-wang-a5101852/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    25 citations · Ocean CDR
 
 2. **Unveiling the top-down control of soil viruses over microbial communities and soil organic carbon cycling: A review** (2024)
-   18 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 3. **Necessity of stirring for outdoor microalgal-bacterial granular sludge process** (2023)
    15 citations

@@ -1,7 +1,7 @@
 ---
 title: "Alaa Al Khourdajie"
 description: "Alaa Al Khourdajie is a Mid-career General CDR researcher at International Institute for Applied Systems Analysis in AT. With 61 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.184363
+date: 2026-08-11T01:33:11.159056
 url: "/cdr-researcher-census/researchers/alaa-al-khourdajie-a5048714/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    84 citations · General CDR
 
 2. **Defining ‘abated’ fossil fuel and industrial process emissions** (2025)
-   4 citations · General CDR
+   6 citations · General CDR
 
 3. **Climate overshoot legacy: Distinguishing transient biophysical change from irreversible socioeconomic loss** (2026)
    0 citations · General CDR

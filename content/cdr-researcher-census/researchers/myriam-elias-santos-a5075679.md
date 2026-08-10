@@ -1,7 +1,7 @@
 ---
 title: "Myriam Elías-Santos"
 description: "Myriam Elías-Santos is a Senior Biochar researcher at Universidad Autónoma de Nuevo León in MX. With 38 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.490174
+date: 2026-08-11T01:33:12.344361
 url: "/cdr-researcher-census/researchers/myriam-elias-santos-a5075679/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zhijie Tan"
 description: "Zhijie Tan is a Mid-career Soil Carbon researcher at Luliang University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.537194
+date: 2026-08-11T01:33:12.387899
 url: "/cdr-researcher-census/researchers/zhijie-tan-a5040996/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of stand density on soil respiration and labile organic carbon in different aged Larix principis-rupprechtii plantations** (2021)
-   26 citations · Soil Carbon
+   27 citations · Soil Carbon
 
 2. **Do stand density and month regulate soil enzymes and the stoichiometry of differently aged Larix principis-rupprechtii plantations?** (2022)
    11 citations · Soil Carbon

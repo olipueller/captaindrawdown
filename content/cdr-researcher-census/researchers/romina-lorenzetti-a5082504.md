@@ -1,7 +1,7 @@
 ---
 title: "Romina Lorenzetti"
 description: "Romina Lorenzetti is a Mid-career Soil Carbon researcher at Institute of Biosciences and Bioresources in IT. With 55 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.641456
+date: 2026-08-11T01:33:11.567662
 url: "/cdr-researcher-census/researchers/romina-lorenzetti-a5082504/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Disentangling soil-based ecosystem services synergies, trade-offs, multifunctionality, and bundles: A case study at regional scale (NE Italy) to support environmental planning** (2024)
-   18 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 2. **Review of Soil Threats and Soil‐Related Ecosystem Services European Maps: Can We Use Them to Study Their Relationships?** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 3. **IESS project: quantifying the economic, social, and environmental impact of agroecological tools for soil carbon sequestration** (2026)
    0 citations

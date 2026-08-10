@@ -1,7 +1,7 @@
 ---
 title: "Hayato Maruyama"
 description: "Hayato Maruyama is a Senior Enhanced Weathering researcher at Hokkaido University in JP. With 90 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.500309
+date: 2026-08-11T01:33:11.440784
 url: "/cdr-researcher-census/researchers/hayato-maruyama-a5044914/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -56,16 +56,16 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 2. **Impact of basalt application on soil chemical properties and elemental uptake by paddy rice through enhanced rock weathering** (2025)
    2 citations · Enhanced Weathering
 
-3. **Enhanced CO2 removal and improved carbon budget by enhanced rock weathering: A field experiment in Hokkaido, Japan** (2024)
+3. **Soil physical properties and soil CO <sub>2</sub> dynamics at soybean field under basalt powder application** (2025)
+   1 citations · Enhanced Weathering
+
+4. **Enhanced CO2 removal and improved carbon budget by enhanced rock weathering: A field experiment in Hokkaido, Japan** (2024)
    1 citations
 
-4. **Effects of basalt application on crop growth and carbon sequestration through enhanced rock weathering** (2026)
+5. **Effects of basalt application on crop growth and carbon sequestration through enhanced rock weathering** (2026)
    0 citations · Enhanced Weathering
 
-5. **Enhanced Rock Weathering–Induced Carbon Dioxide Removal in Flooded Rice Paddies: Mineral-Based Monitoring from Field Experiments in Japan** (2026)
-   0 citations · Enhanced Weathering
-
-6. **Soil physical properties and soil CO <sub>2</sub> dynamics at soybean field under basalt powder application** (2025)
+6. **Enhanced Rock Weathering–Induced Carbon Dioxide Removal in Flooded Rice Paddies: Mineral-Based Monitoring from Field Experiments in Japan** (2026)
    0 citations · Enhanced Weathering
 
 ## External Profiles

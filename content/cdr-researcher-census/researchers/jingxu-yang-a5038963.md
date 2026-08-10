@@ -1,7 +1,7 @@
 ---
 title: "Jingxu Yang"
 description: "Jingxu Yang is a Mid-career Biochar researcher at Sichuan University in CN. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.778445
+date: 2026-08-11T01:33:11.691042
 url: "/cdr-researcher-census/researchers/jingxu-yang-a5038963/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Treatment of distiller grain with wet-process phosphoric acid leads to biochar for the sustained release of nutrients and adsorption of Cr(VI)** (2022)
-   53 citations · Biochar
+   57 citations · Biochar
 
 2. **Biochar from wet-process phosphoric acid in-situ modified bagasse for Cr (VI) removal** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 3. **Valorization of penicillin mycelial residue via wet-process phosphoric acid: Nutrient recovery, carbon sequestration, and antibiotic adsorption mechanism** (2025)
    0 citations · Biochar

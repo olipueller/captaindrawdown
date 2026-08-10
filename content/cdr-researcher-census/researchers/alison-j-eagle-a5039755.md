@@ -1,7 +1,7 @@
 ---
 title: "Alison J. Eagle"
 description: "Alison J. Eagle is a Senior Soil Carbon researcher at Environmental Defense Fund in US. With 67 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.183426
+date: 2026-08-11T01:33:11.158182
 url: "/cdr-researcher-census/researchers/alison-j-eagle-a5039755/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Crediting agricultural soil carbon sequestration** (2022)
-   197 citations · General CDR
+   203 citations · General CDR
 
 2. **Greenhouse gas mitigation on croplands: clarifying the debate on knowns, unknowns and risks to move forward with effective management interventions** (2024)
-   23 citations · General CDR
+   24 citations · General CDR
 
 3. **The Realistic Potential of Soil Carbon Sequestration in U.S. Croplands for Climate Mitigation** (2024)
    13 citations · General CDR

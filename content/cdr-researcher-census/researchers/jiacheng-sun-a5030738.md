@@ -1,7 +1,7 @@
 ---
 title: "Jiacheng Sun"
 description: "Jiacheng Sun is an Early-career Biochar researcher at Nankai University in CN. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.816836
+date: 2026-08-11T01:33:11.725039
 url: "/cdr-researcher-census/researchers/jiacheng-sun-a5030738/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -59,10 +59,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 3. **Comparative Characterisation and Phytotoxicity Assessment of Biochar and Hydrochar Derived from Municipal Wastewater Microalgae Biomass** (2023)
    2 citations · Biochar
 
-4. **Comparative Characterisation and Phytotoxicity Assessment of Biochar and Hydrochar Derived from Municipal Wastewater Microalgae Biomass** (2023)
-   1 citations · Biochar
+4. **A comprehensive review of algal biochar for soil improvement: bottlenecks and opportunities** (2021)
+   2 citations · Biochar
 
-5. **A comprehensive review of algal biochar for soil improvement: bottlenecks and opportunities** (2021)
+5. **Comparative Characterisation and Phytotoxicity Assessment of Biochar and Hydrochar Derived from Municipal Wastewater Microalgae Biomass** (2023)
    1 citations · Biochar
 
 6. **Engineering Thermochemistry and Process Technologies to Enable Gigaton‐Scale Sustainable Biochar Production** (2026)

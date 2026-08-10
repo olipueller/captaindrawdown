@@ -1,7 +1,7 @@
 ---
 title: "Ellen Desie"
 description: "Ellen Desie is a Mid-career Soil Carbon researcher at Research Institute for Nature and Forest in BE. With 51 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.602641
+date: 2026-08-11T01:33:11.532391
 url: "/cdr-researcher-census/researchers/ellen-desie-a5016330/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil organic carbon stocks and fertility in smallholder indigenous agroforestry systems of the North-Eastern mountains, Tanzania** (2024)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 2. **Pedogenic Threshold in Acidity Explains Context-Dependent Tree Species Effects on Soil Carbon** (2021)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 3. **Spatial Variation in Carbon Effluxes Mediated by Grazing–Soil Interactions in a Semi‐Natural Floodplain Grassland of North‐Eastern Belgium** (2025)
    3 citations · Soil Carbon

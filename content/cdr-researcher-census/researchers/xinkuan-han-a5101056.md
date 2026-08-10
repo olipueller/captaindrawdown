@@ -1,7 +1,7 @@
 ---
 title: "Xinkuan Han"
 description: "Xinkuan Han is a Mid-career Enhanced Weathering researcher at Luoyang Normal University in CN. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.465053
+date: 2026-08-11T01:33:11.410724
 url: "/cdr-researcher-census/researchers/xinkuan-han-a5101056/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,11 +47,11 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 ## Top CDR Publications
 
-1. **Land-use conversion alters soil organic carbon fractions and biological properties in a floodplain wetland: A case study in the Mengjin National Yellow River Wetland Reserve, Henan, China** (2026)
-   0 citations
+1. **The effect of enhanced rock weathering on soil respiration was modulated by understory removal in a subtropical fir plantation** (2025)
+   2 citations · Enhanced Weathering
 
-2. **The effect of enhanced rock weathering on soil respiration was modulated by understory removal in a subtropical fir plantation** (2025)
-   0 citations · Enhanced Weathering
+2. **Land-use conversion alters soil organic carbon fractions and biological properties in a floodplain wetland: A case study in the Mengjin National Yellow River Wetland Reserve, Henan, China** (2026)
+   0 citations
 
 ## External Profiles
 

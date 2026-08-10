@@ -1,7 +1,7 @@
 ---
 title: "Hilman Ibnu Mahdi"
 description: "Hilman Ibnu Mahdi is a Mid-career Biochar researcher at Universidade de São Paulo in BR. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.709323
+date: 2026-08-11T01:33:11.628288
 url: "/cdr-researcher-census/researchers/hilman-ibnu-mahdi-a5045141/"
 layout: "researcher"
 hiddenInHomeList: true

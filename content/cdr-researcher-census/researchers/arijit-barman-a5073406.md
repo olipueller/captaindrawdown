@@ -1,7 +1,7 @@
 ---
 title: "Arijit Barman"
 description: "Arijit Barman is a Senior Soil Carbon researcher at Central Soil Salinity Research Institute in IN. With 40 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.574783
+date: 2026-08-11T01:33:11.507261
 url: "/cdr-researcher-census/researchers/arijit-barman-a5073406/"
 layout: "researcher"
 hiddenInHomeList: true

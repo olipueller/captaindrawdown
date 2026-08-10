@@ -1,7 +1,7 @@
 ---
 title: "Anamika Ghose"
 description: "Anamika Ghose is a Mid-career BECCS researcher at Agricultural Research Organization in IL. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.224268
+date: 2026-08-11T01:33:12.105052
 url: "/cdr-researcher-census/researchers/anamika-ghose-a5062877/"
 layout: "researcher"
 hiddenInHomeList: true

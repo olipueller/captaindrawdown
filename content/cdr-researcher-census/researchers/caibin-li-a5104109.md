@@ -1,7 +1,7 @@
 ---
 title: "Caibin Li"
 description: "Caibin Li is a Mid-career Biochar researcher at IE University in ES. With 59 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.414309
+date: 2026-08-11T01:33:11.367640
 url: "/cdr-researcher-census/researchers/caibin-li-a5104109/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Comparison of long-term effects of biochar application on soil organic carbon and its fractions in two ecological sites in karst regions** (2021)
-   33 citations · Biochar
+   34 citations · Biochar
 
 2. **Optimizing biochar for carbon sequestration: a synergistic approach using machine learning and natural language processing** (2025)
    6 citations · Biochar

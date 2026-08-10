@@ -1,7 +1,7 @@
 ---
 title: "Imlisongla Aier"
 description: "Imlisongla Aier is a Mid-career Biochar researcher at Indian Institute of Technology Delhi in IN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.064882
+date: 2026-08-11T01:33:11.958664
 url: "/cdr-researcher-census/researchers/imlisongla-aier-a5090202/"
 layout: "researcher"
 hiddenInHomeList: true

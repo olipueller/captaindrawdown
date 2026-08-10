@@ -1,7 +1,7 @@
 ---
 title: "Tina Chinyere Ndiwe"
 description: "Tina Chinyere Ndiwe is a Mid-career General CDR researcher at Young Men's Christian Association Of Greater Grand Rapids in US. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.512085
+date: 2026-08-11T01:33:12.364700
 url: "/cdr-researcher-census/researchers/tina-chinyere-ndiwe-a5093076/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **POWERING RURAL HEALTHCARE WITH SUSTAINABLE ENERGY: A GLOBAL REVIEW OF SOLAR SOLUTIONS** (2023)
-   38 citations · General CDR
+   40 citations · General CDR
 
 ## External Profiles
 

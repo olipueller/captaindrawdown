@@ -1,7 +1,7 @@
 ---
 title: "Valentina Pidlisnyuk"
 description: "Valentina Pidlisnyuk is a Senior Soil Carbon researcher at Jan Evangelista Purkyně Military Medical Academy in CZ. With 88 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.278723
+date: 2026-08-11T01:33:11.247021
 url: "/cdr-researcher-census/researchers/valentina-pidlisnyuk-a5110428/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,13 +54,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    8 citations
 
 2. **Evaluation of ash derived from conversion of contaminated Miscanthus × giganteus biomass as a soil amendment: impacts on soil parameters and physiological characteristics of Zea mays L.** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
-3. **Comprehensive study of biochars from different vegetative feedstocks: influence on soil properties and development of Zea mays L.** (2025)
+3. **Field scale evaluation of the influence of organic amendments on Miscanthus × giganteus biomass production and soil bioindicators in the marginal degraded land** (2025)
    3 citations · Biochar
 
-4. **Field scale evaluation of the influence of organic amendments on Miscanthus × giganteus biomass production and soil bioindicators in the marginal degraded land** (2025)
-   2 citations · Biochar
+4. **Comprehensive study of biochars from different vegetative feedstocks: influence on soil properties and development of Zea mays L.** (2025)
+   3 citations · Biochar
 
 5. **Economics of Phytoremediation with Biomass Production** (2021)
    2 citations · General CDR

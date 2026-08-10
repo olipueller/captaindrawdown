@@ -1,7 +1,7 @@
 ---
 title: "TIAGO ROBERTO DA COSTA"
 description: "TIAGO ROBERTO DA COSTA is a Mid-career BECCS researcher at Instituto Federal do Rio Grande do Norte in BR. With 21 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.121440
+date: 2026-08-11T01:33:12.011687
 url: "/cdr-researcher-census/researchers/tiago-roberto-da-costa-a5108649/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shaorong Hao"
 description: "Shaorong Hao is a Mid-career Soil Carbon researcher at Hebei University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.408453
+date: 2026-08-11T01:33:12.268254
 url: "/cdr-researcher-census/researchers/shaorong-hao-a5081761/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Dry-season length affects the annual ecosystem carbon balance of a temperate semi-arid shrubland** (2024)
-   12 citations · General CDR
+   13 citations · General CDR
 
 2. **Vegetation factors and atmospheric dryness regulate the dynamics of ecosystem water use efficiency in a temperate semiarid shrubland** (2024)
-   11 citations
+   12 citations
 
 ## External Profiles
 

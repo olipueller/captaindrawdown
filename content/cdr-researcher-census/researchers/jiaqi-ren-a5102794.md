@@ -1,7 +1,7 @@
 ---
 title: "Jiaqi Ren"
 description: "Jiaqi Ren is a Senior Biochar researcher at Beijing Normal University in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.978174
+date: 2026-08-11T01:33:11.856618
 url: "/cdr-researcher-census/researchers/jiaqi-ren-a5102794/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar as a green solution to drive the soil carbon pump** (2024)
-   22 citations · Biochar
+   24 citations · Biochar
 
 ## External Profiles
 

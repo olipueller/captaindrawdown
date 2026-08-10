@@ -1,7 +1,7 @@
 ---
 title: "Kunyu Zhong"
 description: "Kunyu Zhong is a Mid-career General CDR researcher at Beijing Jiaotong University in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.843345
+date: 2026-08-11T01:33:11.747661
 url: "/cdr-researcher-census/researchers/kunyu-zhong-a5011488/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Applying supervised intelligent scenarios to numerical investigate carbon dioxide capture using nanofluids** (2022)
-   13 citations · General CDR
+   14 citations · General CDR
 
 ## External Profiles
 

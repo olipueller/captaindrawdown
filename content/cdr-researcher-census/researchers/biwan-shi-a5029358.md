@@ -1,7 +1,7 @@
 ---
 title: "Biwan Shi"
 description: "Biwan Shi is an Early-career Soil Carbon researcher at Lanzhou University in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.481945
+date: 2026-08-11T01:33:12.336683
 url: "/cdr-researcher-census/researchers/biwan-shi-a5029358/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    59 citations · Soil Carbon
 
 2. **Effects of short- and long-term nutrient addition on microbial carbon use efficiency and carbon accumulation efficiency in the Tibetan alpine grassland** (2023)
-   31 citations · Soil Carbon
+   32 citations · Soil Carbon
 
 ## External Profiles
 

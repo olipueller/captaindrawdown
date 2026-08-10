@@ -1,7 +1,7 @@
 ---
 title: "Paul P.J. Gaffney"
 description: "Paul P.J. Gaffney is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 54 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.469002
+date: 2026-08-11T01:33:11.414192
 url: "/cdr-researcher-census/researchers/paul-pj-gaffney-a5037063/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Elevating water table reduces net ecosystem carbon losses from global drained wetlands** (2024)
-   17 citations
+   21 citations
 
 2. **A comparison between constructed wetland substrates: Impacts on microbial community and wastewater treatment** (2024)
    13 citations · Biochar

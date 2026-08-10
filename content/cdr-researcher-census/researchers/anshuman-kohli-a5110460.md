@@ -1,7 +1,7 @@
 ---
 title: "Anshuman Kohli"
 description: "Anshuman Kohli is a Senior Soil Carbon researcher at Bihar Agricultural University in IN. With 59 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.754009
+date: 2026-08-11T01:33:11.668929
 url: "/cdr-researcher-census/researchers/anshuman-kohli-a5110460/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Meta-Analysis Approach to Measure the Effect of Integrated Nutrient Management on Crop Performance, Microbial Activity, and Carbon Stocks in Indian Soils** (2021)
-   51 citations · General CDR
+   52 citations · General CDR
 
 2. **Novel Potassium Management Strategies for Improvement of Soil Health** (2022)
    2 citations · Soil Carbon

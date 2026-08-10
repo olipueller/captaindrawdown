@@ -1,7 +1,7 @@
 ---
 title: "Hui-Ting Zheng"
 description: "Hui-Ting Zheng is a Mid-career General CDR researcher at Sun Yat-sen University in CN. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.024367
+date: 2026-08-11T01:33:11.900729
 url: "/cdr-researcher-census/researchers/hui-ting-zheng-a5108854/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Synthesis and Modification of Formate Zr‐MOF (ZrFA) Toward Scalable and Cost‐Cutting Gas Separation** (2025)
-   17 citations
+   19 citations
 
 2. **Synthesis and Modification of Formate Zr‐MOF (ZrFA) Toward Scalable and Cost‐Cutting Gas Separation** (2025)
    5 citations

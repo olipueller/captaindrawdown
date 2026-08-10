@@ -1,7 +1,7 @@
 ---
 title: "Adrienne B. Keller"
 description: "Adrienne B. Keller is a Mid-career Soil Carbon researcher at Michigan Technological University in US. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.279718
+date: 2026-08-11T01:33:11.248005
 url: "/cdr-researcher-census/researchers/adrienne-b-keller-a5081452/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil carbon stocks in temperate grasslands differ strongly across sites but are insensitive to decade‐long fertilization** (2021)
-   78 citations · Soil Carbon
+   79 citations · Soil Carbon
 
 2. **Land use change and forest management effects on soil carbon stocks in the Northeast U.S.** (2024)
    27 citations · Soil Carbon

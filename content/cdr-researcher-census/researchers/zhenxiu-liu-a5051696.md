@@ -1,7 +1,7 @@
 ---
 title: "Zhenxiu Liu"
 description: "Zhenxiu Liu is a Mid-career Soil Carbon researcher at South China Agricultural University in CN. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.706723
+date: 2026-08-11T01:33:11.625913
 url: "/cdr-researcher-census/researchers/zhenxiu-liu-a5051696/"
 layout: "researcher"
 hiddenInHomeList: true

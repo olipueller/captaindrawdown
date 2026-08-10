@@ -1,7 +1,7 @@
 ---
 title: "Shulin You"
 description: "Shulin You is a Mid-career Biochar researcher at South China University of Technology in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.368160
+date: 2026-08-11T01:33:12.230826
 url: "/cdr-researcher-census/researchers/shulin-you-a5081694/"
 layout: "researcher"
 hiddenInHomeList: true

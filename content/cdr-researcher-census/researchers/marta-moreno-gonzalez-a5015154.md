@@ -1,7 +1,7 @@
 ---
 title: "Marta Moreno-González"
 description: "Marta Moreno-González is a Mid-career General CDR researcher. With 11 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.467784
+date: 2026-08-11T01:33:11.413150
 url: "/cdr-researcher-census/researchers/marta-moreno-gonzalez-a5015154/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Carbon-neutral fuels and chemicals: Economic analysis of renewable syngas pathways via CO2 electrolysis** (2021)
-   52 citations · General CDR
+   53 citations · General CDR
 
 ## External Profiles
 

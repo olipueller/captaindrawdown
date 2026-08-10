@@ -1,7 +1,7 @@
 ---
 title: "Binay Kumar Tripathy"
 description: "Binay Kumar Tripathy is a Mid-career Biochar researcher at Manipal Academy of Higher Education in IN. With 15 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.536329
+date: 2026-08-11T01:33:11.472642
 url: "/cdr-researcher-census/researchers/binay-kumar-tripathy-a5070779/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A review on waste biomass-derived biochar: Production, characterisation, and advanced analytical techniques for pollutants assessment in water and wastewater** (2025)
-   26 citations · Biochar
+   32 citations · Biochar
 
 ## External Profiles
 

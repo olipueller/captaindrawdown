@@ -1,7 +1,7 @@
 ---
 title: "María Toledo‐Garibaldi"
 description: "María Toledo‐Garibaldi is a Senior Soil Carbon researcher at Instituto de Ecología in MX. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.944510
+date: 2026-08-11T01:33:11.839811
 url: "/cdr-researcher-census/researchers/maria-toledogaribaldi-a5055139/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Tree species diversity increases carbon stocks in tropical montane cloud forests across successional stages** (2025)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 2. **Prioritisation of native trees for enhancing carbon sequestration in shade-grown coffee plantations in the State of Veracruz (México): linking conservation and ecological traits to community needs** (2025)
-   6 citations
+   7 citations
 
 3. **Urban forests as essential infrastructure for climate resilience and biodiversity: A call to policymakers** (2025)
    1 citations · General CDR

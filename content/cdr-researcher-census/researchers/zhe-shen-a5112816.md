@@ -1,7 +1,7 @@
 ---
 title: "Zhe Shen"
 description: "Zhe Shen is a Senior Soil Carbon researcher at Zhejiang Chinese Medical University in CN. With 42 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.655326
+date: 2026-08-11T01:33:11.580083
 url: "/cdr-researcher-census/researchers/zhe-shen-a5112816/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -59,10 +59,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **Chemical fertilizer and liming-induced changes in aluminum, iron oxides and soil organic carbon fractions: implications for carbon sequestration in an upland red soil** (2025)
    1 citations · General CDR
 
-4. **Impact of long-term straw and manure incorporation on carbon sequestration and yield through alteration of aluminum and iron oxides in acidic red soil** (2026)
-   0 citations · Soil Carbon
+4. **Inorganic amendments increase soil carbon sequestration across global acidic agroecosystems: A meta-analysis** (2025)
+   1 citations · Soil Carbon
 
-5. **Inorganic amendments increase soil carbon sequestration across global acidic agroecosystems: A meta-analysis** (2025)
+5. **Impact of long-term straw and manure incorporation on carbon sequestration and yield through alteration of aluminum and iron oxides in acidic red soil** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

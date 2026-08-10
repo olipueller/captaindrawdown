@@ -1,7 +1,7 @@
 ---
 title: "Prince Aleta"
 description: "Prince Aleta is a Mid-career Ocean CDR researcher at University of Houston in US. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.020506
+date: 2026-08-11T01:33:11.896768
 url: "/cdr-researcher-census/researchers/prince-aleta-a5092670/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Direct ocean capture: the emergence of electrochemical processes for oceanic carbon removal** (2023)
-   66 citations · Ocean CDR
+   69 citations · Ocean CDR
 
 ## External Profiles
 

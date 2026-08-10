@@ -1,7 +1,7 @@
 ---
 title: "Longlong Xia"
 description: "Longlong Xia is an Eminent Biochar researcher at Karlsruhe Institute of Technology in DE. With 93 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.106124
+date: 2026-08-11T01:33:11.085833
 url: "/cdr-researcher-census/researchers/longlong-xia-a5055554/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,30 +51,33 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Integrated biochar solutions can achieve carbon-neutral staple crop production** (2023)
-   176 citations · Biochar
+   177 citations · Biochar
 
 2. **Can cropland management practices lower net greenhouse emissions without compromising yield?** (2021)
-   139 citations · Soil Carbon
+   140 citations · Soil Carbon
 
 3. **Optimizing cover crop practices as a sustainable solution for global agroecosystem services** (2024)
-   84 citations · Soil Carbon
+   90 citations · Soil Carbon
 
 4. **Biochar application reduced carbon footprint of maize production in the saline−alkali soils** (2024)
-   32 citations · Biochar
+   33 citations · Biochar
 
 5. **Upcycling trace amounts of biomass waste into flash graphene can boost crop yields by more than a quarter and offer climate benefits** (2025)
-   6 citations · Biochar
+   7 citations · Biochar
 
 6. **Declines of peatland water table forces climate warming despite methane emission drawdown** (2023)
    1 citations
 
-7. **Mixed Forestation Outperforms Pure Stands in Soil Carbon Sequestration and Stability** (2026)
+7. **Biochar saved over half of water and nitrogen compared to conventional management by improving soil structure and organic carbon** (2026)
+   0 citations · Biochar
+
+8. **Mixed Forestation Outperforms Pure Stands in Soil Carbon Sequestration and Stability** (2026)
    0 citations · Soil Carbon
 
-8. **Losing a Hidden Ally: The Shrinking Capacity of Upland Soils to Remove Atmospheric Methane** (2026)
+9. **Losing a Hidden Ally: The Shrinking Capacity of Upland Soils to Remove Atmospheric Methane** (2026)
    0 citations
 
-9. **Reply to Sun: Real-world bulk density changes support high carbon sequestration potential of biochar** (2026)
+10. **Reply to Sun: Real-world bulk density changes support high carbon sequestration potential of biochar** (2026)
    0 citations · Biochar
 
 ## External Profiles

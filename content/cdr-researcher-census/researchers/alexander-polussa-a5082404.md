@@ -1,7 +1,7 @@
 ---
 title: "Alexander Polussa"
 description: "Alexander Polussa is a Mid-career Enhanced Weathering researcher at Yale University in US. With 35 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.756735
+date: 2026-08-11T01:33:11.671258
 url: "/cdr-researcher-census/researchers/alexander-polussa-a5082404/"
 layout: "researcher"
 hiddenInHomeList: true

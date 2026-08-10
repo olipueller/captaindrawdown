@@ -1,7 +1,7 @@
 ---
 title: "Kamal P. Adhikari"
 description: "Kamal P. Adhikari is a Mid-career Soil Carbon researcher at Manaaki Whenua – Landcare Research in NZ. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.243289
+date: 2026-08-11T01:33:12.122990
 url: "/cdr-researcher-census/researchers/kamal-p-adhikari-a5083739/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil organic carbon sequestration potential of conservation agriculture in arid and semi-arid regions: A review** (2023)
-   71 citations · General CDR
+   73 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Shuili Ren"
 description: "Shuili Ren is a Mid-career Soil Carbon researcher at Xijing University in CN. With 8 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.484558
+date: 2026-08-11T01:33:12.338962
 url: "/cdr-researcher-census/researchers/shuili-ren-a5102211/"
 layout: "researcher"
 hiddenInHomeList: true

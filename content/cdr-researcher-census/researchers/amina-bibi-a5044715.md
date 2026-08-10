@@ -1,7 +1,7 @@
 ---
 title: "Amina Bibi"
 description: "Amina Bibi is a Mid-career Biochar researcher at University of Sargodha in PK. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.520653
+date: 2026-08-11T01:33:12.372249
 url: "/cdr-researcher-census/researchers/amina-bibi-a5044715/"
 layout: "researcher"
 hiddenInHomeList: true

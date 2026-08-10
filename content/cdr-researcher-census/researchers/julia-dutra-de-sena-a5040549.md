@@ -1,7 +1,7 @@
 ---
 title: "Julia Dutra de Sena"
 description: "Julia Dutra de Sena is an Early-career Biochar researcher at Universidade Federal de Santa Catarina in BR. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.844823
+date: 2026-08-11T01:33:11.748878
 url: "/cdr-researcher-census/researchers/julia-dutra-de-sena-a5040549/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A review on hydrothermal carbonization of potential biomass wastes, characterization and environmental applications of hydrochar, and biorefinery perspectives of the process** (2022)
-   300 citations · Biochar
+   304 citations · Biochar
 
 ## External Profiles
 

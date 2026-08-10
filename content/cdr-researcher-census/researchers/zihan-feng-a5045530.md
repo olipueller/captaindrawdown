@@ -1,7 +1,7 @@
 ---
 title: "Zihan Feng"
 description: "Zihan Feng is an Early-career Biochar researcher at Northeast Agricultural University in CN. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.346667
+date: 2026-08-11T01:33:12.211910
 url: "/cdr-researcher-census/researchers/zihan-feng-a5045530/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **One-step preparation of Fe/N co-doped porous biochar for chromium(VI) and bisphenol a decontamination in water: Insights to co-activation and adsorption mechanisms** (2022)
-   98 citations · Biochar
+   100 citations · Biochar
 
 ## External Profiles
 

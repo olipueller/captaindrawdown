@@ -1,7 +1,7 @@
 ---
 title: "Kristin Jones"
 description: "Kristin Jones is a Senior Ocean CDR researcher at Pacific Northwest National Laboratory in US. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.883198
+date: 2026-08-11T01:33:11.784182
 url: "/cdr-researcher-census/researchers/kristin-jones-a5101408/"
 layout: "researcher"
 hiddenInHomeList: true

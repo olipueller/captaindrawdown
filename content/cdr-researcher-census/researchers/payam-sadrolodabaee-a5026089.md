@@ -1,7 +1,7 @@
 ---
 title: "Payam Sadrolodabaee"
 description: "Payam Sadrolodabaee is a Mid-career Biochar researcher at AstraZeneca (United Kingdom) in GB. With 25 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.533295
+date: 2026-08-11T01:33:11.469632
 url: "/cdr-researcher-census/researchers/payam-sadrolodabaee-a5026089/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,12 +51,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Long-Term Properties of Ternary Cementitious Grout Systems Incorporating Wood-Based Biochar and Fly Ash** (2025)
-   6 citations · Biochar
+   7 citations · Biochar
 
 2. **Effect of Metakaolin and Biochar Addition on the Performance of 3D Concrete Printing: A Meta-Analysis Approach** (2025)
    4 citations · Biochar
 
-3. **Influence of Biochar and Industrial By-Products on the Long-Term Performance of Cement Grouts** (2026)
+3. **An interdisciplinary approach for advancing the use of biochar in buildings** (2026)
+   0 citations · Biochar
+
+4. **Influence of Biochar and Industrial By-Products on the Long-Term Performance of Cement Grouts** (2026)
    0 citations · Biochar
 
 ## External Profiles

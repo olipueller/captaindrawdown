@@ -1,7 +1,7 @@
 ---
 title: "José Alexander Rodriguez"
 description: "José Alexander Rodriguez is a Mid-career Biochar researcher at Colombian Corporation for Agricultural Research - AGROSAVIA in CO. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.144741
+date: 2026-08-11T01:33:12.033455
 url: "/cdr-researcher-census/researchers/jose-alexander-rodriguez-a5016077/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Co-pyrolysis of agricultural and industrial wastes changes the composition and stability of biochars and can improve their agricultural and environmental benefits** (2021)
-   59 citations · Biochar
+   60 citations · Biochar
 
 ## External Profiles
 

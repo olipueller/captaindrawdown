@@ -1,7 +1,7 @@
 ---
 title: "R. H. Rizvi"
 description: "R. H. Rizvi is a Senior Soil Carbon researcher at Central Soil Salinity Research Institute in IN. With 61 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.578451
+date: 2026-08-11T01:33:11.510576
 url: "/cdr-researcher-census/researchers/r-h-rizvi-a5043817/"
 layout: "researcher"
 hiddenInHomeList: true

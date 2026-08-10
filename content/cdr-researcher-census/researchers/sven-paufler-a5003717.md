@@ -1,7 +1,7 @@
 ---
 title: "Sven Paufler"
 description: "Sven Paufler is a Mid-career Soil Carbon researcher at Helmholtz Centre for Environmental Research in DE. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.467036
+date: 2026-08-11T01:33:12.323483
 url: "/cdr-researcher-census/researchers/sven-paufler-a5003717/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A novel approach for calorespirometry: Integrating a CO2 sensor into an isothermal microcalorimeter for simultaneous measurement of microbial heat evolution and mineralization** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 2. **An Isothermal Microcalorimeter with Integrated Co2 Sensor for Simultaneous Measurement of Microbial Heat Evolution and Mineralization** (2025)
    0 citations

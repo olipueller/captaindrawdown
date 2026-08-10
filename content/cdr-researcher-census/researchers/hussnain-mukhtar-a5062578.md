@@ -1,7 +1,7 @@
 ---
 title: "Hussnain Mukhtar"
 description: "Hussnain Mukhtar is a Mid-career Biochar researcher at National Taiwan University in TW. With 35 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.288576
+date: 2026-08-11T01:33:11.256367
 url: "/cdr-researcher-census/researchers/hussnain-mukhtar-a5062578/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Phthalates in the environment: characteristics, fate and transport, and advanced wastewater treatment technologies** (2021)
-   228 citations
+   233 citations
 
 2. **Soil microbiome feedback to climate change and options for mitigation** (2023)
    68 citations · General CDR
 
 3. **Agricultural waste-derived biochar in microbial fuel cells towards a carbon-negative circular economy** (2022)
-   62 citations · Biochar
+   63 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "William A. González"
 description: "William A. González is a Mid-career BECCS researcher at Universidad de Sevilla in ES. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.266334
+date: 2026-08-11T01:33:12.142358
 url: "/cdr-researcher-census/researchers/william-a-gonzalez-a5012524/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Impact of solar thermal energy and calcium looping implementation on biomass gasification for low-carbon hydrogen production** (2025)
-   4 citations · BECCS
+   5 citations · BECCS
 
 ## External Profiles
 

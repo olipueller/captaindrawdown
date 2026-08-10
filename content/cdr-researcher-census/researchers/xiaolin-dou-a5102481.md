@@ -1,7 +1,7 @@
 ---
 title: "Xiaolin Dou"
 description: "Xiaolin Dou is a Mid-career Soil Carbon researcher at Central South University in CN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.149959
+date: 2026-08-11T01:33:12.037643
 url: "/cdr-researcher-census/researchers/xiaolin-dou-a5102481/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Unraveling the distribution and stability of deep soil organic carbon after long-term conservation tillage practices** (2025)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 2. **Decoupled Soil Labile Carbon and Nitrogen Dynamics Triggered by Urban Vegetation** (2021)
    1 citations · Soil Carbon

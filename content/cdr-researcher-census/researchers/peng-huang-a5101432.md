@@ -1,7 +1,7 @@
 ---
 title: "Peng Huang"
 description: "Peng Huang is a Senior Biochar researcher at Nankai University in CN. With 46 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.209741
+date: 2026-08-11T01:33:11.182918
 url: "/cdr-researcher-census/researchers/peng-huang-a5101432/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Enhancement of persulfate activation by Fe-biochar composites: Synergism of Fe and N-doped biochar** (2021)
-   334 citations · Biochar
+   341 citations · Biochar
 
 2. **Unveiling adsorption mechanisms and regeneration challenges of durian peel biochar for ciprofloxacin removal: Batch experiments and DFT study** (2025)
-   18 citations · Biochar
+   19 citations · Biochar
 
 3. **Unveiling Adsorption Mechanisms and Regeneration Challenges of Durian Peel Biochar for Ciprofloxacin Removal: Batch Experiments and Dft Study** (2025)
    0 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Xiaobo Luo"
 description: "Xiaobo Luo is a Senior Biochar researcher at Qinghai University in CN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.458318
+date: 2026-08-11T01:33:12.315010
 url: "/cdr-researcher-census/researchers/xiaobo-luo-a5114164/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar and iron minerals facilitate the reduction of pollution and sequestration of carbon in chloramphenicol-contaminated soil under dry conditions** (2025)
-   4 citations · Biochar
+   6 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Xiaojuan Feng"
 description: "Xiaojuan Feng is an Eminent Soil Carbon researcher at University of the Chinese Academy of Sciences in CN. With 153 publications and an h-index of 46, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.099750
+date: 2026-08-11T01:33:11.079931
 url: "/cdr-researcher-census/researchers/xiaojuan-feng-a5091768/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,29 +50,29 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Plant influences on soil microbial carbon pump efficiency** (2023)
-   105 citations · Soil Carbon
+1. **Sphagnum increases soil’s sequestration capacity of mineral-associated organic carbon via activating metal oxides** (2023)
+   108 citations · Soil Carbon
 
-2. **Sphagnum increases soil’s sequestration capacity of mineral-associated organic carbon via activating metal oxides** (2023)
-   103 citations · Soil Carbon
+2. **Plant influences on soil microbial carbon pump efficiency** (2023)
+   108 citations · Soil Carbon
 
 3. **Assessing the accumulation efficiency of various microbial carbon components in soils of different minerals** (2021)
-   77 citations · Soil Carbon
+   81 citations · Soil Carbon
 
 4. **Soil organic carbon sourcing variance in the rhizosphere vs. non-rhizosphere of two mycorrhizal tree species** (2022)
-   55 citations · Soil Carbon
+   56 citations · Soil Carbon
 
 5. **Understanding the mechanisms and potential pathways of soil carbon sequestration from the biogeochemistry perspective** (2024)
-   51 citations · Soil Carbon
+   55 citations · Soil Carbon
 
 6. **Enhanced Mineral Preservation Rather Than Microbial Residue Production Dictates the Accrual of Mineral‐Associated Organic Carbon Along a Weathering Gradient** (2024)
-   38 citations · Soil Carbon
+   43 citations · Soil Carbon
 
 7. **Organic Carbon and Lignin Protection by Metal Oxides Versus Silicate Clay: Comparative Study Based on Wetland and Upland Soils** (2023)
-   34 citations · Soil Carbon
+   35 citations · Soil Carbon
 
 8. **Fast Decomposition of Nitrogen‐Rich Mineral‐Associated Organic Matter in Soils** (2025)
-   12 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 9. **Plant influences on soil organic carbon dynamics** (2022)
    12 citations · Soil Carbon

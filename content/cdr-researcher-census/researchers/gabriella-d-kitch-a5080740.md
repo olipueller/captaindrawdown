@@ -1,7 +1,7 @@
 ---
 title: "Gabriella D. Kitch"
 description: "Gabriella D. Kitch is a Mid-career Ocean CDR researcher at Cambridge Carbon Capture (United Kingdom) in GB. With 33 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.562117
+date: 2026-08-11T01:33:12.407781
 url: "/cdr-researcher-census/researchers/gabriella-d-kitch-a5080740/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,21 +51,24 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Calcium isotope ratios of malformed foraminifera reveal biocalcification stress preceded Oceanic Anoxic Event 2** (2022)
-   13 citations · Ocean CDR
+   14 citations · Ocean CDR
 
 2. **Perspectives on Marine Carbon Dioxide Removal from the Global Ocean Acidification Observing Network** (2025)
    5 citations · General CDR
 
-3. **Early Career Recommendations for the Equitable Growth of a Marine Carbon Dioxide Removal Sector** (2025)
+3. **The importance of engagement with fisheries, aquaculture, and Indigenous communities in the planning and implementation of marine carbon dioxide removal (mCDR)** (2025)
    4 citations · General CDR
 
-4. **The importance of engagement with fisheries, aquaculture, and Indigenous communities in the planning and implementation of marine carbon dioxide removal (mCDR)** (2025)
-   3 citations · General CDR
+4. **Early Career Recommendations for the Equitable Growth of a Marine Carbon Dioxide Removal Sector** (2025)
+   4 citations · General CDR
 
 5. **A sequential gated research framework for addressing potential impacts of marine carbon dioxide removal on fisheries, aquaculture, and Indigenous communities** (2026)
    0 citations · General CDR
 
-6. **A Practitioner-Informed Roadmap for Enhancing Coastal Resilience and CDR Potential Along the U.S. Coastline** (2026)
+6. **A sequential gated research framework for addressing potential impacts of marine carbon dioxide removal on fisheries, aquaculture, and Indigenous communities** (2026)
+   0 citations · General CDR
+
+7. **A Practitioner-Informed Roadmap for Enhancing Coastal Resilience and CDR Potential Along the U.S. Coastline** (2026)
    0 citations · General CDR
 
 ## External Profiles

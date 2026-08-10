@@ -1,7 +1,7 @@
 ---
 title: "Dan Dong"
 description: "Dan Dong is a Senior Biochar researcher at Huaiyin Normal University in CN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.653675
+date: 2026-08-11T01:33:11.578613
 url: "/cdr-researcher-census/researchers/dan-dong-a5103695/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Effect of Different Phosphates on Pyrolysis Temperature-Dependent Carbon Sequestration and Phosphorus Release Performance in Biochar** (2023)
-   24 citations · Biochar
+   26 citations · Biochar
 
 2. **Effects of animal manure and nitrification inhibitor on N2O emissions and soil carbon stocks of a maize cropping system in Northeast China** (2022)
    13 citations · Soil Carbon

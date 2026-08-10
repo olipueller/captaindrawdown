@@ -1,7 +1,7 @@
 ---
 title: "Caidi Yang"
 description: "Caidi Yang is a Mid-career Soil Carbon researcher at Northwest University in CN. With 25 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.460570
+date: 2026-08-11T01:33:11.406917
 url: "/cdr-researcher-census/researchers/caidi-yang-a5101961/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Differences in the physical protection mechanisms of soil organic carbon with 13C-labeled straw and biochar** (2025)
-   21 citations · Biochar
+   25 citations · Biochar
 
 2. **Effects of cover crops and nitrogen fertilization on soil physical properties, carbon and nitrogen fractions, and winter wheat yield in the Chinese loess plateau: A 4-year field experiment** (2024)
-   19 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 3. **Long-Term Chemical and Organic Fertilization Differently Affect Soil Aggregates and Associated Carbon and Nitrogen in the Loess Plateau of China** (2023)
    15 citations · Soil Carbon
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    6 citations · Soil Carbon
 
 5. **Mulching practices decreased soil microbial carbon degradation potential under spring maize in the Loess Plateau of China** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 6. **[Effect of Straw Return on Soil Aggregate Composition and Carbon Fractions in Typical Farmland of the Loess Plateau].** (2025)
    0 citations · Soil Carbon

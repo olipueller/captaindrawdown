@@ -1,7 +1,7 @@
 ---
 title: "Ajinkya Khandekar"
 description: "Ajinkya Khandekar is an Early-career Biochar researcher at University of Mumbai in IN. With 6 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.057070
+date: 2026-08-11T01:33:11.931040
 url: "/cdr-researcher-census/researchers/ajinkya-khandekar-a5109762/"
 layout: "researcher"
 hiddenInHomeList: true

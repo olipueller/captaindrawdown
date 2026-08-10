@@ -1,7 +1,7 @@
 ---
 title: "Yuri Kim"
 description: "Yuri Kim is a Senior General CDR researcher at Gangnam Severance Hospital in KR. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.171629
+date: 2026-08-11T01:33:12.057387
 url: "/cdr-researcher-census/researchers/yuri-kim-a5100623/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Temporal variations in pore water and gas geochemistry in shallow marine sediments over four years following offshore CO2 injection in Yeongil Bay, South Korea** (2025)
-   1 citations · General CDR
+   2 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "ShouWei Han"
 description: "ShouWei Han is a Senior Soil Carbon researcher at Ministry of Agriculture and Rural Affairs in CN. With 64 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.180332
+date: 2026-08-11T01:33:11.155428
 url: "/cdr-researcher-census/researchers/shouwei-han-a5110428/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -59,10 +59,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Higher sequestration of wheat versus maize crop carbon in soils under rotations** (2021)
    9 citations · Soil Carbon
 
-5. **Coupling Effects of Soil Carbon and Nitrogen Mineralization on Crop Growth in Response to Tillage Practices** (2025)
-   4 citations · Soil Carbon
+5. **Unraveling carbon mineralization patterns and mechanisms in conservation agriculture: A global synthesis and multi-point experiment** (2025)
+   5 citations · Soil Carbon
 
-6. **Unraveling carbon mineralization patterns and mechanisms in conservation agriculture: A global synthesis and multi-point experiment** (2025)
+6. **Coupling Effects of Soil Carbon and Nitrogen Mineralization on Crop Growth in Response to Tillage Practices** (2025)
    4 citations · Soil Carbon
 
 7. **Aridity Drives the Response of Soil Organic Carbon and Inorganic Carbon to Drought in Cropland** (2025)

@@ -1,7 +1,7 @@
 ---
 title: "Emanuele Moioli"
 description: "Emanuele Moioli is a Mid-career General CDR researcher at Politecnico di MILANO in IT. With 75 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.245236
+date: 2026-08-11T01:33:11.216505
 url: "/cdr-researcher-census/researchers/emanuele-moioli-a5025191/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,10 +54,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    52 citations · BECCS
 
 2. **Techno-economic-assessment of the methanol synthesis from captured CO2 and modular nuclear power-based electrolysis** (2025)
-   11 citations · DAC
+   16 citations · DAC
 
 3. **Enhancing CO2 hydrogenation to methanol in fixed and fluidized bed reactors by selective in-situ adsorption of water** (2025)
-   3 citations · General CDR
+   5 citations · General CDR
 
 4. **Negative CO&lt;sub&gt;2&lt;/sub&gt; Emissions from Flexible Biofuel Synthesis: Concepts, Potentials, Technologies** (2021)
    1 citations · BECCS

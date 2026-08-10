@@ -1,7 +1,7 @@
 ---
 title: "Daniela Basso"
 description: "Daniela Basso is a Senior Ocean CDR researcher at Università degli Studi di Milano-Bicocca in IT. With 272 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.144591
+date: 2026-08-11T01:33:11.122225
 url: "/cdr-researcher-census/researchers/daniela-basso-a5026560/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -59,14 +59,14 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 3. **The response of phytoplankton to pH-equilibrated ocean alkalinization: A mesocosm experiment with harbour waters** (2025)
    6 citations · Ocean CDR
 
-4. **The effect of ocean alkalinity enhancement on zooplankton standing stock and community composition in the Eastern Mediterranean Sea: a mesocosm study** (2025)
-   3 citations · Ocean CDR
+4. **Plankton do not care: Minimal effects of ocean liming on plankton growth and grazing in the Eastern Mediterranean** (2025)
+   4 citations · Ocean CDR
 
-5. **Plankton do not care: Minimal effects of ocean liming on plankton growth and grazing in the Eastern Mediterranean** (2025)
-   3 citations · Ocean CDR
+5. **Data reporting and sharing for ocean alkalinity enhancement research** (2023)
+   4 citations · General CDR
 
-6. **Data reporting and sharing for ocean alkalinity enhancement research** (2023)
-   3 citations · General CDR
+6. **The effect of ocean alkalinity enhancement on zooplankton standing stock and community composition in the Eastern Mediterranean Sea: a mesocosm study** (2025)
+   3 citations · Ocean CDR
 
 7. **Data reporting and sharing for ocean alkalinity enhancement research** (2023)
    2 citations

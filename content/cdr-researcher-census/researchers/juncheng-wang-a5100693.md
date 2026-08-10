@@ -1,7 +1,7 @@
 ---
 title: "Juncheng Wang"
 description: "Juncheng Wang is a Mid-career Biochar researcher at Qilu University of Technology in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.944044
+date: 2026-08-11T01:33:11.839427
 url: "/cdr-researcher-census/researchers/juncheng-wang-a5100693/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Insights on the rapid removal mechanism of phenol from water by activating persulfate with environmentally friendly porous non-metallic carbon materials** (2025)
-   1 citations
+   2 citations
 
 2. **Enhanced remediation of cadmium and lead in soil using two-step ball-milled micro zero-valent iron/phosphate/biochar composites: Synthesis, performance, and mechanisms** (2026)
    0 citations · Biochar

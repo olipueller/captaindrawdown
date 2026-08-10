@@ -1,7 +1,7 @@
 ---
 title: "Xing Wang"
 description: "Xing Wang is a Senior Soil Carbon researcher at Ministry of Education in TH. With 121 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-12T12:07:29.211979
+date: 2026-08-11T01:33:11.153920
 url: "/cdr-researcher-census/researchers/xing-wang-a5100682/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Biochar combined with N fertilization and straw return in wheat-maize agroecosystem: Key practices to enhance crop yields and minimize carbon and nitrogen footprints** (2023)
-   105 citations · Biochar
+   106 citations · Biochar
 
 2. **Enhanced silicate weathering accelerates forest carbon sequestration by stimulating the soil mineral carbon pump** (2024)
-   57 citations · Enhanced Weathering
+   64 citations · Enhanced Weathering
 
-3. **Enhanced rock weathering increased soil phosphorus availability and altered root phosphorus‐acquisition strategies** (2024)
+3. **Impact of straw-biochar amendments on microbial activity and soil carbon dynamics in wheat-maize system** (2024)
+   45 citations · Biochar
+
+4. **Enhanced rock weathering increased soil phosphorus availability and altered root phosphorus‐acquisition strategies** (2024)
    45 citations · Enhanced Weathering
-
-4. **Impact of straw-biochar amendments on microbial activity and soil carbon dynamics in wheat-maize system** (2024)
-   44 citations · Biochar
 
 5. **A 40 % paddy surface soil organic carbon increase after 5-year no-tillage is linked with shifts in soil bacterial composition and functions** (2022)
    35 citations · Soil Carbon

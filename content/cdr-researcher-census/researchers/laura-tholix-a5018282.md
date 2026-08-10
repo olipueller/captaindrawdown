@@ -1,7 +1,7 @@
 ---
 title: "Laura Thölix"
 description: "Laura Thölix is a Senior Soil Carbon researcher at Finnish Meteorological Institute in FI. With 60 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.620839
+date: 2026-08-11T01:33:11.548711
 url: "/cdr-researcher-census/researchers/laura-tholix-a5018282/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon sequestration in different urban vegetation types in Southern Finland** (2025)
-   12 citations · General CDR
+   14 citations · General CDR
 
 2. **Model results of LAI, GPP, soil respiration, soil temperature, and soil moisture in 2018-2021 and NEE in 2006-2021 in urban green spaces in Helsinki** (2024)
    0 citations

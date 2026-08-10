@@ -1,7 +1,7 @@
 ---
 title: "Seung-Hun Chae"
 description: "Seung-Hun Chae is a Mid-career Biochar researcher at Chungnam National University in KR. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.128363
+date: 2026-08-11T01:33:12.017904
 url: "/cdr-researcher-census/researchers/seung-hun-chae-a5109537/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Valorization of pine bark extracts for microporous biochar production and enhanced diazinon adsorption performance** (2025)
-   2 citations · Biochar
+   4 citations · Biochar
 
 ## External Profiles
 

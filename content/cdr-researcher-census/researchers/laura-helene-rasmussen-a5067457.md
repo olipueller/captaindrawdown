@@ -1,7 +1,7 @@
 ---
 title: "Laura Helene Rasmussen"
 description: "Laura Helene Rasmussen is a Mid-career Soil Carbon researcher at Department of Mathematical Sciences in RU. With 29 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.224747
+date: 2026-08-11T01:33:12.105524
 url: "/cdr-researcher-census/researchers/laura-helene-rasmussen-a5067457/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Nitrogen transport in a tundra landscape: the effects of early and late growing season lateral N inputs on arctic soil and plant N pools and N2O fluxes** (2021)
-   22 citations
+   23 citations
 
 2. **Modelling impacts of lateral N flows and seasonal warming on an arctic footslope ecosystem N budget and N2O emissions based on species-level responses** (2022)
-   8 citations
+   9 citations
 
 3. **Modelling Impacts of Lateral N Flows And Seasonal Warming on an Arctic Footslope Ecosystem N Budget and N2O Emissions Based on Species-Level Responses** (2021)
    2 citations · Soil Carbon

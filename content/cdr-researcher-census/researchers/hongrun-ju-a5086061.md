@@ -1,7 +1,7 @@
 ---
 title: "Hongrun Ju"
 description: "Hongrun Ju is a Senior Soil Carbon researcher at Qingdao University in CN. With 38 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.311943
+date: 2026-08-11T01:33:11.278495
 url: "/cdr-researcher-census/researchers/hongrun-ju-a5086061/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Vegetation successions of coastal wetlands in southern Laizhou Bay, Bohai Sea, northern China, influenced by the changes in relative surface elevation and soil salinity** (2021)
-   42 citations · Soil Carbon
+   43 citations · Soil Carbon
 
 2. **Linking scale-dependent ecosystem service interactions with driver-based zoning strategies: A case study of the Songnen Plain** (2026)
    2 citations · General CDR

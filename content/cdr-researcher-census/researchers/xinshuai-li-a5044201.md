@@ -1,7 +1,7 @@
 ---
 title: "Xinshuai Li"
 description: "Xinshuai Li is a Mid-career Soil Carbon researcher at South China Agricultural University in CN. With 31 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.407471
+date: 2026-08-11T01:33:11.361210
 url: "/cdr-researcher-census/researchers/xinshuai-li-a5044201/"
 layout: "researcher"
 hiddenInHomeList: true

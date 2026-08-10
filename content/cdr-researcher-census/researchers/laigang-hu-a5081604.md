@@ -1,7 +1,7 @@
 ---
 title: "Laigang Hu"
 description: "Laigang Hu is a Mid-career Biochar researcher at State Key Laboratory of Pollution Control and Resource Reuse in CN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.832147
+date: 2026-08-11T01:33:11.738065
 url: "/cdr-researcher-census/researchers/laigang-hu-a5081604/"
 layout: "researcher"
 hiddenInHomeList: true

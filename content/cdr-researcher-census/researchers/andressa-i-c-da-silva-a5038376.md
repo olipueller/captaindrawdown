@@ -1,7 +1,7 @@
 ---
 title: "Andressa I. C. da Silva"
 description: "Andressa I. C. da Silva is a Mid-career Biochar researcher at Universidade do Estado do Rio de Janeiro in BR. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.188543
+date: 2026-08-11T01:33:12.072355
 url: "/cdr-researcher-census/researchers/andressa-i-c-da-silva-a5038376/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Prospective Life Cycle Assessment Prospective (LCA) of Activated Carbon Production, Derived from Banana Peel Waste for Methylene Blue Removal** (2024)
-   29 citations · Biochar
+   31 citations · Biochar
 
 2. **Prospective life cycle assessment of activated carbon production derived from banana peel for methylene blue dye removal** (2024)
    0 citations

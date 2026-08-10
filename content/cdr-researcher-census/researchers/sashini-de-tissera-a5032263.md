@@ -1,7 +1,7 @@
 ---
 title: "Sashini De Tissera"
 description: "Sashini De Tissera is a Mid-career General CDR researcher at Rush University Medical Center in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.401318
+date: 2026-08-11T01:33:11.355905
 url: "/cdr-researcher-census/researchers/sashini-de-tissera-a5032263/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Addendum: Carbon-negative production of acetone and isopropanol by gas fermentation at industrial pilot scale** (2025)
-   2 citations · General CDR
+   3 citations · General CDR
 
 ## External Profiles
 

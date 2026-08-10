@@ -1,7 +1,7 @@
 ---
 title: "Lydie‐Stella Koutika"
 description: "Lydie‐Stella Koutika is a Senior Soil Carbon researcher at CRDPI in CG. With 92 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.176241
+date: 2026-08-11T01:33:11.151763
 url: "/cdr-researcher-census/researchers/lydiestella-koutika-a5067455/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Nitrogen-fixing trees increase organic carbon sequestration in forest and agroforestry ecosystems in the Congo basin** (2021)
-   33 citations · General CDR
+   34 citations · General CDR
 
 2. **The role of soil carbon sequestration in enhancing human resilience in tackling global crises including pandemics** (2022)
-   27 citations · General CDR
+   29 citations · General CDR
 
 3. **Current NPP cannot predict future soil organic carbon sequestration potential. Comment on “Photosynthetic limits on carbon sequestration in croplands”** (2022)
-   25 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 4. **Boosting C Sequestration and Land Restoration through Forest Management in Tropical Ecosystems: A Mini-Review** (2022)
-   16 citations · General CDR
+   17 citations · General CDR
 
 5. **Does the Introduction of N2-Fixing Trees in Forest Plantations on Tropical Soils Ameliorate Low Fertility and Enhance Carbon Sequestration via Interactions Between Biota and Nutrient Availability? Case Studies From Central Africa and South America** (2021)
    12 citations · Soil Carbon

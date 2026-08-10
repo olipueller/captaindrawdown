@@ -1,7 +1,7 @@
 ---
 title: "Alberto Almena"
 description: "Alberto Almena is a Mid-career BECCS researcher at Universidad de Salamanca in ES. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.544702
+date: 2026-08-11T01:33:11.480216
 url: "/cdr-researcher-census/researchers/alberto-almena-a5045274/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Carbon dioxide removal potential from decentralised bioenergy with carbon capture and storage (BECCS) and the relevance of operational choices** (2022)
-   106 citations · BECCS
+   108 citations · BECCS
 
 2. **Opportunities and challenges for Bioenergy with Carbon Capture and Storage (BECCS) systems supporting net-zero emission targets** (2021)
    6 citations · BECCS

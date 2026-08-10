@@ -1,7 +1,7 @@
 ---
 title: "Nur Aainaa Hasbullah"
 description: "Nur Aainaa Hasbullah is a Senior Biochar researcher. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.619584
+date: 2026-08-11T01:33:11.547532
 url: "/cdr-researcher-census/researchers/nur-aainaa-hasbullah-a5060153/"
 layout: "researcher"
 hiddenInHomeList: true

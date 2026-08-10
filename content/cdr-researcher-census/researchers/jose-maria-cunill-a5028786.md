@@ -1,7 +1,7 @@
 ---
 title: "Jose Maria Cunill"
 description: "Jose Maria Cunill is an Early-career Soil Carbon researcher at Universidad Politécnica de Puebla in MX. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.310272
+date: 2026-08-11T01:33:11.277003
 url: "/cdr-researcher-census/researchers/jose-maria-cunill-a5028786/"
 layout: "researcher"
 hiddenInHomeList: true

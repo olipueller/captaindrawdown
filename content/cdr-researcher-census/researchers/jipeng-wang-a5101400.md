@@ -1,7 +1,7 @@
 ---
 title: "Jipeng Wang"
 description: "Jipeng Wang is a Senior Soil Carbon researcher at China Metallurgical Geology Bureau in CN. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.912250
+date: 2026-08-11T01:33:11.810841
 url: "/cdr-researcher-census/researchers/jipeng-wang-a5101400/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Microbial metabolic traits drive the differential contribution of microbial necromass to soil organic carbon between the rhizosphere of absorptive roots and transport roots** (2024)
-   41 citations · Soil Carbon
+   42 citations · Soil Carbon
 
 2. **Rock powder amendment mitigates microplastic induced destabilization of soil organic carbon by modulating molecular composition and microbial assembly** (2025)
    1 citations · Enhanced Weathering

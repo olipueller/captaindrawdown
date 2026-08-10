@@ -1,7 +1,7 @@
 ---
 title: "Dongliang Zhang"
 description: "Dongliang Zhang is a Senior Biochar researcher at Jangan University in KR. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.762569
+date: 2026-08-11T01:33:11.676859
 url: "/cdr-researcher-census/researchers/dongliang-zhang-a5100444/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    26 citations · Biochar
 
 2. **Co-application of microalgae and biochar increases yield and mitigates greenhouse gas emissions in saline-alkali soil** (2025)
-   13 citations · Biochar
+   14 citations · Biochar
 
 ## External Profiles
 

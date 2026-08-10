@@ -1,7 +1,7 @@
 ---
 title: "Yechul Shin"
 description: "Yechul Shin is a Mid-career General CDR researcher at Seoul National University in KR. With 55 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.554967
+date: 2026-08-11T01:33:11.489329
 url: "/cdr-researcher-census/researchers/yechul-shin-a5025269/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,11 +53,11 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 1. **Soil Moisture Controls on Permafrost Carbon Cycle under Greenhouse Warming and Zero Emission Pathways** (2026)
    1 citations · General CDR
 
-2. **Soil Moisture Controls on Permafrost Carbon Cycle under Greenhouse Warming and Zero Emission Pathways** (2026)
-   0 citations
+2. **Fast recovery of North Atlantic sea level in response to atmospheric carbon dioxide removal** (2024)
+   1 citations · General CDR
 
-3. **Fast recovery of North Atlantic sea level in response to atmospheric carbon dioxide removal** (2024)
-   0 citations · General CDR
+3. **Soil Moisture Controls on Permafrost Carbon Cycle under Greenhouse Warming and Zero Emission Pathways** (2026)
+   0 citations
 
 4. **Fast recovery of North Atlantic sea level in response to atmospheric CO2 removal** (2024)
    0 citations

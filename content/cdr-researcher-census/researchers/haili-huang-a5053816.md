@@ -1,7 +1,7 @@
 ---
 title: "Haili Huang"
 description: "Haili Huang is a Mid-career Soil Carbon researcher. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.742063
+date: 2026-08-11T01:33:11.658425
 url: "/cdr-researcher-census/researchers/haili-huang-a5053816/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A review on digital mapping of soil carbon in cropland: progress, challenge, and prospect** (2022)
-   66 citations · General CDR
+   67 citations · General CDR
 
 ## External Profiles
 

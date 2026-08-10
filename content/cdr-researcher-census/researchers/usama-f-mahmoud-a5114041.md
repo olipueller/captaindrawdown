@@ -1,7 +1,7 @@
 ---
 title: "Usama F. Mahmoud"
 description: "Usama F. Mahmoud is a Senior Biochar researcher at Al-Azhar University in EG. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.907856
+date: 2026-08-11T01:33:11.806484
 url: "/cdr-researcher-census/researchers/usama-f-mahmoud-a5114041/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **ARUNDO DONAX BASED- BIOCHAR AS A SUSTAINABLE ADSORBENT FOR NATURAL ORGANIC MATTER REMOVAL FROM SURFACE WATER** (2024)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

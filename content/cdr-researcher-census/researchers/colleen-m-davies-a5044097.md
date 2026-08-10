@@ -1,7 +1,7 @@
 ---
 title: "Colleen M. Davies"
 description: "Colleen M. Davies is a Senior General CDR researcher at University of Alberta in CA. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.290655
+date: 2026-08-11T01:33:12.162234
 url: "/cdr-researcher-census/researchers/colleen-m-davies-a5044097/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "India Mansour"
 description: "India Mansour is a Senior Soil Carbon researcher at Berlin Brandenburg Institute of Advanced Biodiversity Research in DE. With 37 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.250519
+date: 2026-08-11T01:33:11.221117
 url: "/cdr-researcher-census/researchers/india-mansour-a5043675/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Formation of necromass-derived soil organic carbon determined by microbial death pathways** (2023)
-   403 citations · Soil Carbon
+   414 citations · Soil Carbon
 
 2. **Microbial necromass ≠ microbial biomass: Microbial death pathways affect soil organic carbon sequestration** (2023)
    0 citations · Soil Carbon

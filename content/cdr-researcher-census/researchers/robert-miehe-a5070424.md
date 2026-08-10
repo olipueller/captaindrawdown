@@ -1,7 +1,7 @@
 ---
 title: "Robert Miehe"
 description: "Robert Miehe is a Senior BECCS researcher at University of Stuttgart in DE. With 107 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.238667
+date: 2026-08-11T01:33:11.210176
 url: "/cdr-researcher-census/researchers/robert-miehe-a5070424/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **A New Perspective for Climate Change Mitigation—Introducing Carbon-Negative Hydrogen Production from Biomass with Carbon Capture and Storage (HyBECCS)** (2021)
-   61 citations · BECCS
+   62 citations · BECCS
 
 2. **Carbon-negative hydrogen production (HyBECCS): An exemplary techno-economic and environmental assessment** (2023)
-   25 citations · BECCS
+   28 citations · BECCS
 
 3. **Carbon‐negative hydrogen production: Fundamentals for a techno‐economic and environmental assessment of HyBECCS approaches** (2022)
-   25 citations · BECCS
+   27 citations · BECCS
 
 4. **Carbon-Negative Hydrogen Production (HyBECCS) from Organic Waste Materials in Germany: How to Estimate Bioenergy and Greenhouse Gas Mitigation Potential** (2021)
-   20 citations · BECCS
+   21 citations · BECCS
 
 5. **Perspectives of Biogas Plants as BECCS Facilities: A Comparative Analysis of Biomethane vs. Biohydrogen Production with Carbon Capture and Storage or Use (CCS/CCU)** (2023)
-   16 citations · BECCS
+   17 citations · BECCS
 
 6. **Biogas Plants as Hydrogen Production Facilities and Greenhouse Gas Sinks: Technology Comparison, Challenges and Potentials for Carbon Negative Hydrogen Production (HyBECCS)** (2022)
    7 citations · BECCS

@@ -1,7 +1,7 @@
 ---
 title: "Danwyn J. Aranha"
 description: "Danwyn J. Aranha is an Early-career BECCS researcher at The Ohio State University in US. With 7 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.335422
+date: 2026-08-11T01:33:12.201877
 url: "/cdr-researcher-census/researchers/danwyn-j-aranha-a5027557/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "María González‐Hourcade"
 description: "María González‐Hourcade is a Mid-career Biochar researcher at Swedish University of Agricultural Sciences in ES. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.900307
+date: 2026-08-11T01:33:11.799760
 url: "/cdr-researcher-census/researchers/maria-gonzalezhourcade-a5082656/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Microalgae biomass as a sustainable precursor to produce nitrogen-doped biochar for efficient removal of emerging pollutants from aqueous media** (2022)
-   177 citations · Biochar
+   180 citations · Biochar
 
 ## External Profiles
 

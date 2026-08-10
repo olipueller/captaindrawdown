@@ -1,7 +1,7 @@
 ---
 title: "Shunli Yu"
 description: "Shunli Yu is a Mid-career Biochar researcher at Ministry of Education of the People's Republic of China in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.174480
+date: 2026-08-11T01:33:12.059706
 url: "/cdr-researcher-census/researchers/shunli-yu-a5110830/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Excellent adsorptive-photocatalytic performance of zinc oxide and biomass derived N, O-contained biochar nanocomposites for dyes and antibiotic removal** (2022)
-   102 citations · Biochar
+   103 citations · Biochar
 
 2. **Excellent Adsorptive-Photocatalytic Performances of Zinc Oxide and Biomass Derived O, N-Contained Biochar Nanocomposites for Dye and Antibiotic Degradations** (2022)
    0 citations · Biochar

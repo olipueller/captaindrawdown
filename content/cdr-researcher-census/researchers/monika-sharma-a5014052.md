@@ -1,7 +1,7 @@
 ---
 title: "Monika Sharma"
 description: "Monika Sharma is a Mid-career Biochar researcher at Lanzhou University in CN. With 28 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.459950
+date: 2026-08-11T01:33:11.406470
 url: "/cdr-researcher-census/researchers/monika-sharma-a5014052/"
 layout: "researcher"
 hiddenInHomeList: true

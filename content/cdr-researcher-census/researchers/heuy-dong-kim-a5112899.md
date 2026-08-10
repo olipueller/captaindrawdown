@@ -1,7 +1,7 @@
 ---
 title: "Heuy Dong Kim"
 description: "Heuy Dong Kim is a Senior General CDR researcher at Gyeongguk National University in KR. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.581474
+date: 2026-08-11T01:33:12.419617
 url: "/cdr-researcher-census/researchers/heuy-dong-kim-a5112899/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Supersonic separation towards sustainable gas removal and carbon capture** (2024)
-   59 citations · General CDR
+   61 citations · General CDR
 
 ## External Profiles
 

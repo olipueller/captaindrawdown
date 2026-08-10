@@ -1,7 +1,7 @@
 ---
 title: "Jinju Hou"
 description: "Jinju Hou is a Mid-career Biochar researcher at East China Normal University in CN. With 34 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.388622
+date: 2026-08-11T01:33:11.344814
 url: "/cdr-researcher-census/researchers/jinju-hou-a5010269/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    20 citations · Biochar
 
 2. **Efficient sulfamethoxazole degradation via staged PMS activation on magnetic pyrite–biochar: Enhanced mineralization and mechanism** (2026)
-   4 citations · Biochar
+   6 citations · Biochar
 
 ## External Profiles
 

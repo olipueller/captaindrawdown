@@ -1,7 +1,7 @@
 ---
 title: "Arthur Groß"
 description: "Arthur Groß is a Mid-career Soil Carbon researcher at Martin Luther University Halle-Wittenberg in DE. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.420441
+date: 2026-08-11T01:33:11.373042
 url: "/cdr-researcher-census/researchers/arthur-gro-a5072098/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,28 +51,28 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Meta-analysis on how manure application changes soil organic carbon storage** (2021)
-   321 citations · Soil Carbon
+   329 citations · Soil Carbon
 
 2. **Soil Organic Carbon Sequestration after Biochar Application: A Global Meta-Analysis** (2021)
-   197 citations · Biochar
+   201 citations · Biochar
 
 3. **Long-term biochar and soil organic carbon stability – Evidence from field experiments in Germany** (2024)
-   84 citations · Biochar
+   92 citations · Biochar
 
 4. **Effects of recultivation on soil organic carbon sequestration in abandoned coal mining sites: a meta-analysis** (2022)
-   28 citations
+   29 citations
 
 5. **Impact of Biochar Aging on Soil Physicochemical Properties** (2024)
-   23 citations · Biochar
+   24 citations · Biochar
 
 6. **Relevance of biochar metabolization—evidence from a long-term biochar field experiment** (2025)
    5 citations · Biochar
 
-7. **Impact of Biochar Aging on Soil Physicochemical Properties** (2025)
-   1 citations
+7. **Weathering of biochar: implications to soil health, carbon sequestration and soil remediation** (2026)
+   2 citations · Biochar
 
-8. **Weathering of biochar: implications to soil health, carbon sequestration and soil remediation** (2026)
-   0 citations · Biochar
+8. **Impact of Biochar Aging on Soil Physicochemical Properties** (2025)
+   1 citations
 
 9. **Vertical biochar transport in soil in a long-term field experiment in Germany** (2025)
    0 citations · Biochar

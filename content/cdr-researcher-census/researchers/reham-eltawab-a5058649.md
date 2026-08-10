@@ -1,7 +1,7 @@
 ---
 title: "Reham Eltawab"
 description: "Reham Eltawab is a Mid-career Biochar researcher at Jiangsu University in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.383528
+date: 2026-08-11T01:33:11.340046
 url: "/cdr-researcher-census/researchers/reham-eltawab-a5058649/"
 layout: "researcher"
 hiddenInHomeList: true

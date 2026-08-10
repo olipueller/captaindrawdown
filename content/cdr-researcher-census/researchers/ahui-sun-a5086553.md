@@ -1,7 +1,7 @@
 ---
 title: "Ahui Sun"
 description: "Ahui Sun is a Senior Biochar researcher at Hainan Normal University in CN. With 26 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.697151
+date: 2026-08-11T01:33:11.617421
 url: "/cdr-researcher-census/researchers/ahui-sun-a5086553/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -60,6 +60,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    2 citations · Biochar
 
 4. **Oxidative carbothermal reduction for preparation of high-loading nano-zero-valent iron doped biochar for removal of tetracyclines and fluoroquinolones** (2026)
+   1 citations · Biochar
+
+5. **A robust nano zero-valent iron doped biochar prepared by inherent oxidation-driven carbothermal reduction for activating peroxymonosulfate to degrade antibiotics and phenols** (2026)
    0 citations · Biochar
 
 ## External Profiles

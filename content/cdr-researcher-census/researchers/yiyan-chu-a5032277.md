@@ -1,7 +1,7 @@
 ---
 title: "Yiyan Chu"
 description: "Yiyan Chu is a Mid-career Soil Carbon researcher at Ministry of Agriculture and Rural Affairs in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.857852
+date: 2026-08-11T01:33:11.760541
 url: "/cdr-researcher-census/researchers/yiyan-chu-a5032277/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Underestimated sequestration of soil organic carbon in China** (2025)
-   24 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 2. **Global patterns of soil organic carbon dynamics in the 20–100 cm soil profile for different ecosystems: A global meta-analysis** (2023)
    1 citations · Soil Carbon

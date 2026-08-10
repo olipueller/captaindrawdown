@@ -1,7 +1,7 @@
 ---
 title: "Harekrishna Das"
 description: "Harekrishna Das is a Mid-career BECCS researcher at Directorate of Health in IS. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.533822
+date: 2026-08-11T01:33:12.384488
 url: "/cdr-researcher-census/researchers/harekrishna-das-a5036937/"
 layout: "researcher"
 hiddenInHomeList: true

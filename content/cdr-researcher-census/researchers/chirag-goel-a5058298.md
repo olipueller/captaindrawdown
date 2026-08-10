@@ -1,7 +1,7 @@
 ---
 title: "Chirag Goel"
 description: "Chirag Goel is an Early-career Biochar researcher at École de Technologie Supérieure in CA. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.970121
+date: 2026-08-11T01:33:11.849006
 url: "/cdr-researcher-census/researchers/chirag-goel-a5058298/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **CO2 capture by adsorption on biomass-derived activated char: A review** (2021)
-   200 citations · Biochar
+   202 citations · Biochar
 
 ## External Profiles
 

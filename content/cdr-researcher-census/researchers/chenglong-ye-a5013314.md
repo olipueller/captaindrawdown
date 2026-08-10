@@ -1,7 +1,7 @@
 ---
 title: "Chenglong Ye"
 description: "Chenglong Ye is a Senior Soil Carbon researcher at Nanjing Agricultural University in CN. With 80 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.220617
+date: 2026-08-11T01:33:11.193340
 url: "/cdr-researcher-census/researchers/chenglong-ye-a5013314/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Form of nitrogen input dominates N effects on root growth and soil aggregation: A meta-analysis** (2021)
-   73 citations · Soil Carbon
+   77 citations · Soil Carbon
 
 2. **Increased Mineral‐Associated Organic Carbon and Persistent Molecules in Allochthonous Blue Carbon Ecosystems** (2025)
-   29 citations · Soil Carbon
+   31 citations · Soil Carbon
 
 3. **Soil pH and precipitation controls on organic carbon retention from organic amendments across soil orders: A meta-analysis** (2025)
-   26 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 4. **[Effects of adding basalt powder on organic carbon sequestration in red and yellow-brown soils under earthworm inoculation].** (2025)
    0 citations · Enhanced Weathering

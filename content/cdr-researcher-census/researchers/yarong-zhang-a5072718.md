@@ -1,7 +1,7 @@
 ---
 title: "Yarong Zhang"
 description: "Yarong Zhang is a Mid-career Soil Carbon researcher at Xi'an University of Architecture and Technology in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.232724
+date: 2026-08-11T01:33:12.112882
 url: "/cdr-researcher-census/researchers/yarong-zhang-a5072718/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Responses of Soil Labile Organic Carbon and Carbon Management Index to Different Long-Term Fertilization Treatments in a Typical Yellow Soil Region** (2021)
-   23 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 2. **Characteristics of Greenhouse Gas Emissions from Yellow Paddy Soils under Long-Term Organic Fertilizer Application** (2022)
-   20 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 3. **[Seasonal Variation and Differences in Microbial Biomass Carbon in Yellow Soil Under Different Long-term Crop Rotation Patterns].** (2025)
    0 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Lixia Wang"
 description: "Lixia Wang is a Senior Soil Carbon researcher at University of British Columbia in CN. With 131 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.153762
+date: 2026-08-11T01:33:11.130665
 url: "/cdr-researcher-census/researchers/lixia-wang-a5100442/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,13 +54,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    47 citations · Soil Carbon
 
 2. **Environmental conditions and litter nutrients are key determinants of soluble C, N, and P release during litter mixture decomposition** (2021)
-   43 citations
+   45 citations
 
 3. **Dissolved organic carbon, a critical factor to increase the bioavailability of phosphorus during biochar-amended aerobic composting** (2021)
-   41 citations · Biochar
+   42 citations · Biochar
 
 4. **Fertilization effects on soil organic matter chemistry** (2024)
-   27 citations · Soil Carbon
+   29 citations · Soil Carbon
 
 5. **Temporal dynamics of mixed litter humification in an alpine treeline ecotone** (2021)
    14 citations · Soil Carbon
@@ -74,11 +74,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 8. **Forest Gaps Slow the Humification Process of Fir (Abies faxoniana Rehder &amp; E.H.Wilson) Twig Litter during Eight Years of Decomposition in an Alpine Forest** (2023)
    8 citations · Soil Carbon
 
-9. **Exploring the role of the rhizosphere in soil carbon cycling: impacts on pools and components of SOC along a chronosequence of Cryptomeria japonica plantations in subtropical China** (2025)
-   4 citations · Soil Carbon
+9. **Acidification and Nutrient Imbalances Drive Fusarium Wilt Severity in Banana (Musa spp.) Grown on Tropical Latosols** (2025)
+   4 citations
 
-10. **Acidification and Nutrient Imbalances Drive Fusarium Wilt Severity in Banana (Musa spp.) Grown on Tropical Latosols** (2025)
-   1 citations
+10. **Exploring the role of the rhizosphere in soil carbon cycling: impacts on pools and components of SOC along a chronosequence of Cryptomeria japonica plantations in subtropical China** (2025)
+   4 citations · Soil Carbon
 
 ## External Profiles
 

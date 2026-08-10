@@ -1,7 +1,7 @@
 ---
 title: "Wenao Wu"
 description: "Wenao Wu is a Mid-career Soil Carbon researcher at Peking University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.130876
+date: 2026-08-11T01:33:12.020282
 url: "/cdr-researcher-census/researchers/wenao-wu-a5082109/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **High-Dose Biochar Hinders Micro/Nanoplastic-Induced Soil Positive Priming by Reducing Substrate Quality and Microbial Activity** (2026)
-   5 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 2. **Terrestrial ecosystem nitrogen cycling in response to field warming: Global patterns and future trends** (2026)
    3 citations · Soil Carbon

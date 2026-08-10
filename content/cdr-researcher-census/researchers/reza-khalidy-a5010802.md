@@ -1,7 +1,7 @@
 ---
 title: "Reza Khalidy"
 description: "Reza Khalidy is a Mid-career Enhanced Weathering researcher at University of Guelph in CA. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-12T12:07:29.858967
+date: 2026-08-11T01:33:11.786809
 url: "/cdr-researcher-census/researchers/reza-khalidy-a5010802/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Natural and Human-Induced Factors on the Accumulation and Migration of Pedogenic Carbonate in Soil: A Review** (2022)
-   41 citations · Soil Carbon
+   42 citations · Soil Carbon
 
 2. **The fate of atmospheric carbon sequestrated through weathering in mine tailings** (2021)
    33 citations
 
 3. **Constraining the Capacity of Global Croplands to CO<sub>2</sub> Drawdown via Mineral Weathering** (2023)
-   24 citations · Enhanced Weathering
+   25 citations · Enhanced Weathering
 
 4. **Fate and migration of enhanced rock weathering products through soil horizons; implications of irrigation and percolation regimes** (2023)
-   18 citations · Enhanced Weathering
+   20 citations · Enhanced Weathering
 
 5. **Pathways, roundabouts, roadblocks, and shortcuts to safe and sustainable deployment of enhanced rock weathering in agriculture** (2023)
    13 citations · Enhanced Weathering

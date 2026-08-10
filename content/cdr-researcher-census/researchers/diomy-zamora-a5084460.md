@@ -1,7 +1,7 @@
 ---
 title: "Diomy Zamora"
 description: "Diomy Zamora is a Senior Soil Carbon researcher at University of Minnesota in US. With 32 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.025518
+date: 2026-08-11T01:33:11.901705
 url: "/cdr-researcher-census/researchers/diomy-zamora-a5084460/"
 layout: "researcher"
 hiddenInHomeList: true

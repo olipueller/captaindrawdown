@@ -1,7 +1,7 @@
 ---
 title: "Guangyin Du"
 description: "Guangyin Du is a Mid-career Enhanced Weathering researcher at Southeast University in CN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.183535
+date: 2026-08-11T01:33:12.067985
 url: "/cdr-researcher-census/researchers/guangyin-du-a5103030/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Evaluation of a novel in situ constructed CO2-carbonated MgO-mixing column: Mechanical performance, carbon sequestration, and microstructural analysis** (2025)
-   2 citations · General CDR
+   3 citations · General CDR
 
 2. **Assessment of MgO and captured CO2 in deep mixing applications: Electrical properties and environmental impacts** (2025)
-   1 citations · Enhanced Weathering
+   2 citations · Enhanced Weathering
 
 ## External Profiles
 

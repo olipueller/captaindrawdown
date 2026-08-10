@@ -1,7 +1,7 @@
 ---
 title: "K. Suganya"
 description: "K. Suganya is a Mid-career Soil Carbon researcher at Gastroenterology Medical Center and Hospital in IN. With 59 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.871330
+date: 2026-08-11T01:33:11.773054
 url: "/cdr-researcher-census/researchers/k-suganya-a5078084/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Organo-monomers coated slow-release fertilizers: Current understanding and future prospects** (2024)
-   20 citations
+   21 citations
 
 2. **Biosolids towards Back–To–Earth alternative concept (BEA) for environmental sustainability: a review** (2021)
-   17 citations
+   18 citations
 
 3. **Myco-assisted phytoextraction of heavy metals with vetiver grass: a green technology for cleaning tannery effluent contaminated sites** (2024)
    5 citations
@@ -69,7 +69,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    1 citations · Soil Carbon
 
 8. **Physiological insights into the carbon sequestration potential of vetiver grass in effluent-contaminated soil ecosystems** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

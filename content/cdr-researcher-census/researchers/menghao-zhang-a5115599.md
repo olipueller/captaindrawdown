@@ -1,7 +1,7 @@
 ---
 title: "Menghao Zhang"
 description: "Menghao Zhang is a Mid-career Soil Carbon researcher at Henan Academy of Agricultural Sciences in CN. With 52 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.589645
+date: 2026-08-11T01:33:11.521001
 url: "/cdr-researcher-census/researchers/menghao-zhang-a5115599/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · General CDR
 
 2. **Intensive culture of anecic earthworms (Amynthas aspergillum) under monoculture and coculture: impacts on vertical soil organic carbon accumulation via regulating microbial biomass and community structure in South China** (2025)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 3. **Field Cultivation of Medicinal Earthworms Increases Soil Large Macroaggregates and Subsurface Organic Carbon Storage** (2026)
    1 citations · Soil Carbon

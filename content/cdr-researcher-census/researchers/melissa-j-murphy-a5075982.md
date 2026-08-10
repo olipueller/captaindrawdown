@@ -1,7 +1,7 @@
 ---
 title: "Melissa J. Murphy"
 description: "Melissa J. Murphy is a Senior Enhanced Weathering researcher at Carbon Drawdown Initiative in DE. With 45 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-12T12:07:29.261848
+date: 2026-08-11T01:33:11.202699
 url: "/cdr-researcher-census/researchers/melissa-j-murphy-a5075982/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Lithium isotope evidence for enhanced weathering and erosion during the Paleocene-Eocene Thermal Maximum** (2021)
-   133 citations · Enhanced Weathering
+   138 citations · Enhanced Weathering
 
 2. **Initial agronomic benefits of enhanced weathering using basalt: A study of spring oat in a temperate climate** (2024)
-   46 citations
+   47 citations
 
 3. **The lithium and magnesium isotope signature of olivine dissolution in soil experiments** (2020)
    27 citations · Enhanced Weathering

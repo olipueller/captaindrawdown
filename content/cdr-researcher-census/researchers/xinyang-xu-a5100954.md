@@ -1,7 +1,7 @@
 ---
 title: "Xinyang Xu"
 description: "Xinyang Xu is a Senior Biochar researcher at Shandong University in CN. With 42 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.810769
+date: 2026-08-11T01:33:11.719184
 url: "/cdr-researcher-census/researchers/xinyang-xu-a5100954/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Multi-walled carbon nanotubes modified corn straw biochar as high-performance anode in microbial fuel cells** (2024)
-   28 citations · Biochar
+   30 citations · Biochar
 
 2. **Effects of AMF on plant nutrition and growth depend on substrate gravel content and patchiness in the karst species Bidens pilosa L** (2022)
    19 citations
 
 3. **Straw-derived macroporous biochar as high-performance anode in microbial fuel cells** (2024)
-   17 citations · Biochar
+   18 citations · Biochar
 
 4. **Dual HNO₃/NH₃ modification of loofah biochar carbonised enabling high-performance and sustainable anodes for microbial fuel cells** (2025)
-   2 citations · Biochar
+   3 citations · Biochar
 
 ## External Profiles
 

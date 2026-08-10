@@ -1,7 +1,7 @@
 ---
 title: "Norbert Bischoff"
 description: "Norbert Bischoff is a Mid-career Soil Carbon researcher at Landesamt für Bergbau, Energie und Geologie in DE. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.261466
+date: 2026-08-11T01:33:12.138019
 url: "/cdr-researcher-census/researchers/norbert-bischoff-a5060435/"
 layout: "researcher"
 hiddenInHomeList: true

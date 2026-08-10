@@ -1,7 +1,7 @@
 ---
 title: "Evelyn M. Mervine"
 description: "Evelyn M. Mervine is a Mid-career Enhanced Weathering researcher at The University of Queensland in AU. With 30 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.635657
+date: 2026-08-11T01:33:11.562405
 url: "/cdr-researcher-census/researchers/evelyn-m-mervine-a5064127/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Impact of wet-dry cycles on enhanced rock weathering of brucite, wollastonite, serpentinite and kimberlite: Implications for carbon verification** (2023)
-   16 citations · Enhanced Weathering
+   17 citations · Enhanced Weathering
 
 2. **Changes to the mineralogical, geochemical, and isotopic compositions of mineral feedstocks during enhanced rock weathering: Implications for carbon verification** (2022)
    0 citations · Enhanced Weathering

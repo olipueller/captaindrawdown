@@ -1,7 +1,7 @@
 ---
 title: "Kalina C. Grabb"
 description: "Kalina C. Grabb is a Mid-career General CDR researcher at Dalhousie University in CA. With 30 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.664822
+date: 2026-08-11T01:33:11.588934
 url: "/cdr-researcher-census/researchers/kalina-c-grabb-a5071547/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,11 +53,11 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 1. **Perspectives on Marine Carbon Dioxide Removal from the Global Ocean Acidification Observing Network** (2025)
    5 citations · General CDR
 
-2. **Early Career Recommendations for the Equitable Growth of a Marine Carbon Dioxide Removal Sector** (2025)
+2. **The importance of engagement with fisheries, aquaculture, and Indigenous communities in the planning and implementation of marine carbon dioxide removal (mCDR)** (2025)
    4 citations · General CDR
 
-3. **The importance of engagement with fisheries, aquaculture, and Indigenous communities in the planning and implementation of marine carbon dioxide removal (mCDR)** (2025)
-   3 citations · General CDR
+3. **Early Career Recommendations for the Equitable Growth of a Marine Carbon Dioxide Removal Sector** (2025)
+   4 citations · General CDR
 
 4. **Report for the Carbon Dioxide Removal (CDR): Towards a Unified Monitoring, Measuring, Reporting and Verification (MMRV) Framework Workshop** (2023)
    2 citations · DAC
@@ -68,7 +68,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 6. **A sequential gated research framework for addressing potential impacts of marine carbon dioxide removal on fisheries, aquaculture, and Indigenous communities** (2026)
    0 citations · General CDR
 
-7. **Monitoring, reporting, and verification of marine carbon dioxide removal: Exploring scientific consensus and divergences across continents** (2026)
+7. **A sequential gated research framework for addressing potential impacts of marine carbon dioxide removal on fisheries, aquaculture, and Indigenous communities** (2026)
+   0 citations · General CDR
+
+8. **Monitoring, reporting, and verification of marine carbon dioxide removal: Exploring scientific consensus and divergences across continents** (2026)
    0 citations · General CDR
 
 ## External Profiles

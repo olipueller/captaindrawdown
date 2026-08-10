@@ -1,7 +1,7 @@
 ---
 title: "Sadegh Papari"
 description: "Sadegh Papari is a Senior Biochar researcher at Western University in CA. With 28 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.262816
+date: 2026-08-11T01:33:11.232141
 url: "/cdr-researcher-census/researchers/sadegh-papari-a5002326/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Soil amendments for sustainable agriculture: Microbial organic fertilizers** (2021)
-   138 citations · Biochar
+   139 citations · Biochar
 
 2. **Self-Energized Pyrolysis Process for Sustainable Biochar Production** (2024)
    4 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Xiubo Zhang"
 description: "Xiubo Zhang is a Senior Biochar researcher at University of Macau in MO. With 33 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.345703
+date: 2026-08-11T01:33:11.308765
 url: "/cdr-researcher-census/researchers/xiubo-zhang-a5048275/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **One-step preparation of Fe/N co-doped porous biochar for chromium(VI) and bisphenol a decontamination in water: Insights to co-activation and adsorption mechanisms** (2022)
-   98 citations · Biochar
+   100 citations · Biochar
 
 2. **One-step self-assembly of Fe-biochar composite for enhanced persulfate activation to phenol degradation: Different active sites-induced radical/non-radical mechanism** (2023)
    20 citations · Biochar

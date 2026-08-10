@@ -1,7 +1,7 @@
 ---
 title: "Shicheng Zhao"
 description: "Shicheng Zhao is a Senior Soil Carbon researcher at Shandong University in CN. With 63 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.175229
+date: 2026-08-11T01:33:11.150742
 url: "/cdr-researcher-census/researchers/shicheng-zhao-a5017257/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon storage in an arable soil combining field measurements, aggregate turnover modeling and climate scenarios** (2022)
-   164 citations · Soil Carbon
+   169 citations · Soil Carbon
 
-2. **Deep tillage enhanced soil organic carbon sequestration in China: A meta-analysis** (2023)
-   44 citations · Soil Carbon
+2. **Responses of soil aggregation and aggregate-associated carbon and nitrogen in black soil to different long-term fertilization regimes** (2021)
+   45 citations · Soil Carbon
 
-3. **Responses of soil aggregation and aggregate-associated carbon and nitrogen in black soil to different long-term fertilization regimes** (2021)
+3. **Deep tillage enhanced soil organic carbon sequestration in China: A meta-analysis** (2023)
    44 citations · Soil Carbon
 
 4. **Aggregate mass and carbon stocks in a paddy soil after long‐term application of chemical or organic fertilizers** (2022)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 5. **Optimized Nitrogen Fertilization Promoted Soil Organic Carbon Accumulation by Increasing Microbial Necromass Carbon in Potato Continuous Cropping Field** (2024)
    11 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Xin Qian"
 description: "Xin Qian is a Mid-career Soil Carbon researcher at Shandong Academy of Agricultural Sciences in CN. With 21 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.602864
+date: 2026-08-11T01:33:11.532564
 url: "/cdr-researcher-census/researchers/xin-qian-a5101842/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Optimizing straw return to enhance grain production and approach carbon neutrality in the intensive cropping systems** (2025)
-   23 citations · General CDR
+   24 citations · General CDR
 
 2. **Optimal straw management co‐benefits crop yield and soil carbon sequestration of intensive farming systems** (2023)
    11 citations · Soil Carbon

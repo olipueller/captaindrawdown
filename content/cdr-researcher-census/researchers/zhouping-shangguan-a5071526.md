@@ -1,7 +1,7 @@
 ---
 title: "Zhouping Shangguan"
 description: "Zhouping Shangguan is an Eminent Soil Carbon researcher at 中国科学院水利部水土保持研究所 in CN. With 391 publications and an h-index of 74, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.085984
+date: 2026-08-11T01:33:11.067252
 url: "/cdr-researcher-census/researchers/zhouping-shangguan-a5071526/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,25 +51,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon stabilization pathways in soil aggregates during long-term forest succession: Implications from δ13C signatures** (2023)
-   96 citations
+   102 citations
 
 2. **Thinning increases forest ecosystem carbon stocks** (2024)
-   91 citations · Soil Carbon
+   94 citations · Soil Carbon
 
 3. **Soil Organic Carbon Increases With Decreasing Microbial Carbon Use Efficiency During Vegetation Restoration** (2024)
-   72 citations · Soil Carbon
+   77 citations · Soil Carbon
 
 4. **Recalcitrant organic carbon plays a key role in soil carbon sequestration along a long-term vegetation succession on the Loess Plateau** (2023)
-   72 citations · Soil Carbon
+   76 citations · Soil Carbon
 
 5. **Forestation delivers significantly more effective results in soil C and N sequestrations than natural succession on badly degraded areas: Evidence from the Central Loess Plateau case** (2021)
    72 citations · Soil Carbon
 
-6. **Forests have a higher soil C sequestration benefit due to lower C mineralization efficiency: Evidence from the central loess plateau case** (2022)
-   66 citations
+6. **Vegetation restoration altered the soil organic carbon composition and favoured its stability in a Robinia pseudoacacia plantation** (2023)
+   68 citations · Soil Carbon
 
-7. **Vegetation restoration altered the soil organic carbon composition and favoured its stability in a Robinia pseudoacacia plantation** (2023)
-   64 citations · Soil Carbon
+7. **Forests have a higher soil C sequestration benefit due to lower C mineralization efficiency: Evidence from the central loess plateau case** (2022)
+   67 citations
 
 8. **Mixed plantations have more soil carbon sequestration benefits than pure plantations in China** (2022)
    55 citations · Soil Carbon
@@ -78,7 +78,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    49 citations · Soil Carbon
 
 10. **Deciphering microbial drivers of soil organic matter mineralization in surface and subsurface soil during long-term vegetation succession** (2024)
-   45 citations · Soil Carbon
+   48 citations · Soil Carbon
 
 ## External Profiles
 

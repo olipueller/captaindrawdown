@@ -1,7 +1,7 @@
 ---
 title: "Xilong Huang"
 description: "Xilong Huang is a Mid-career Biochar researcher at Shantou University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.871622
+date: 2026-08-11T01:33:11.773347
 url: "/cdr-researcher-census/researchers/xilong-huang-a5103189/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Exploring effects of novel chemical modification of biochar on soil water retention and crack suppression: towards commercialization of production of biochar for soil remediation** (2021)
-   23 citations · Biochar
+   24 citations · Biochar
 
 ## External Profiles
 

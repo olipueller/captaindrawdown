@@ -1,7 +1,7 @@
 ---
 title: "Jiayi Fu"
 description: "Jiayi Fu is a Mid-career Biochar researcher at National Academy of Agricultural Sciences in IN. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.481230
+date: 2026-08-11T01:33:12.336032
 url: "/cdr-researcher-census/researchers/jiayi-fu-a5101396/"
 layout: "researcher"
 hiddenInHomeList: true

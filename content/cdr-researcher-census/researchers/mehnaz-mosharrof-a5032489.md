@@ -1,7 +1,7 @@
 ---
 title: "Mehnaz Mosharrof"
 description: "Mehnaz Mosharrof is a Mid-career Biochar researcher at Universiti Putra Malaysia in MY. With 10 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.824079
+date: 2026-08-11T01:33:11.731142
 url: "/cdr-researcher-census/researchers/mehnaz-mosharrof-a5032489/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Combined Application of Biochar and Lime Increases Maize Yield and Accelerates Carbon Loss from an Acidic Soil** (2021)
-   43 citations · Biochar
+   44 citations · Biochar
 
 2. **Changes in Acidic Soil Chemical Properties and Carbon Dioxide Emission Due to Biochar and Lime Treatments** (2021)
    36 citations · Biochar

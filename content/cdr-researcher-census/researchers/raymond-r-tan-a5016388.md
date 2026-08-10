@@ -1,7 +1,7 @@
 ---
 title: "Raymond R. Tan"
 description: "Raymond R. Tan is an Eminent General CDR researcher at Hefei University of Technology in CN. With 648 publications and an h-index of 66, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.085173
+date: 2026-08-11T01:33:11.066530
 url: "/cdr-researcher-census/researchers/raymond-r-tan-a5016388/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Development of predictive model for biochar surface properties based on biomass attributes and pyrolysis conditions using rough set machine learning** (2023)
-   37 citations · Biochar
+   38 citations · Biochar
 
 2. **Regional carbon drawdown with enhanced weathering of non-hazardous industrial wastes** (2021)
-   33 citations · Enhanced Weathering
+   34 citations · Enhanced Weathering
 
 3. **Computing optimal carbon dioxide removal portfolios** (2022)
-   29 citations · General CDR
+   30 citations · General CDR
 
 4. **A multi-period model for optimizing negative emission technology portfolios with economic and carbon value discount rates** (2023)
-   24 citations · General CDR
+   27 citations · General CDR
 
 5. **On life-cycle sustainability optimization of enhanced weathering systems** (2021)
    23 citations · Enhanced Weathering
@@ -78,7 +78,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    15 citations · Biochar
 
 10. **Optimization and decision support models for deploying negative emissions technologies** (2023)
-   14 citations · General CDR
+   15 citations · General CDR
 
 ## External Profiles
 

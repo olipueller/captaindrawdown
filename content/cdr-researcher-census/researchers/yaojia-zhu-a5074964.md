@@ -1,7 +1,7 @@
 ---
 title: "Yaojia Zhu"
 description: "Yaojia Zhu is a Mid-career Soil Carbon researcher at Zhejiang Ocean University in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.384203
+date: 2026-08-11T01:33:12.246252
 url: "/cdr-researcher-census/researchers/yaojia-zhu-a5074964/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Mangrove restoration built soil organic carbon stocks over six decades: a chronosequence study** (2022)
-   32 citations · Soil Carbon
+   35 citations · Soil Carbon
 
 ## External Profiles
 

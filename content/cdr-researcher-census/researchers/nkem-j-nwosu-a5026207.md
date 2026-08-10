@@ -1,7 +1,7 @@
 ---
 title: "Nkem J. Nwosu"
 description: "Nkem J. Nwosu is a Mid-career Soil Carbon researcher at University of Florida in US. With 25 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.137372
+date: 2026-08-11T01:33:12.026147
 url: "/cdr-researcher-census/researchers/nkem-j-nwosu-a5026207/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,14 +50,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Sustainable Regenerative Practices for Land Restoration and Climate Change Management in the Tropics** (2024)
+1. **Agricultural sustainability under unpredicted atmospheric changes—strategies to enhance crop resilience and system efficiency: a narrative review** (2025)
+   3 citations
+
+2. **Sustainable Regenerative Practices for Land Restoration and Climate Change Management in the Tropics** (2024)
    2 citations · General CDR
 
-2. **Biochar As a Sustainable Strategy for Improving Nutrient Use Efficiency and Crop Performance** (2026)
+3. **Biochar As a Sustainable Strategy for Improving Nutrient Use Efficiency and Crop Performance** (2026)
    1 citations · Biochar
-
-3. **Agricultural sustainability under unpredicted atmospheric changes—strategies to enhance crop resilience and system efficiency: a narrative review** (2025)
-   1 citations
 
 4. **Sustainable Regenerative Practices for Land Restoration and Climate Change Management in the Tropics** (2025)
    0 citations · Soil Carbon

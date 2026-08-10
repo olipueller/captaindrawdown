@@ -1,7 +1,7 @@
 ---
 title: "Kelly Cristine da Silva Rodrigues‐Corrêa"
 description: "Kelly Cristine da Silva Rodrigues‐Corrêa is a Mid-career Soil Carbon researcher at University of Hawaiʻi at Mānoa in US. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.618117
+date: 2026-08-11T01:33:11.546178
 url: "/cdr-researcher-census/researchers/kelly-cristine-da-silva-rodriguescorrea-a5057766/"
 layout: "researcher"
 hiddenInHomeList: true

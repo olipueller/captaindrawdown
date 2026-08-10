@@ -1,7 +1,7 @@
 ---
 title: "Min Shen"
 description: "Min Shen is a Senior Biochar researcher at Hunan Communications Research Institute in CN. With 45 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.397264
+date: 2026-08-11T01:33:11.352191
 url: "/cdr-researcher-census/researchers/min-shen-a5011257/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Exploring the interfacial electron transfer mechanism for enhanced phosphate removal via bamboo biochar in flow-electrode capacitive deionization** (2026)
-   1 citations · Biochar
+   2 citations · Biochar
 
 2. **Exploring the Interfacial Electron Transfer Mechanism in Fcdi for Phosphate Removal: Insights from Bamboo Biochar Electrodes** (2025)
    1 citations · Biochar

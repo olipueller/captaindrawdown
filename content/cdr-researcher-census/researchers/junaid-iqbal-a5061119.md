@@ -1,7 +1,7 @@
 ---
 title: "Junaid Iqbal"
 description: "Junaid Iqbal is a Mid-career Biochar researcher at Lahore Leads University in PK. With 12 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.412155
+date: 2026-08-11T01:33:12.271821
 url: "/cdr-researcher-census/researchers/junaid-iqbal-a5061119/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar for Climate Change Adaptation and Mitigation** (2025)
-   2 citations · Biochar
+   3 citations · Biochar
 
 ## External Profiles
 

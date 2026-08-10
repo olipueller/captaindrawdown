@@ -1,7 +1,7 @@
 ---
 title: "Tongchuan Li"
 description: "Tongchuan Li is a Senior Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 49 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.305414
+date: 2026-08-11T01:33:11.272474
 url: "/cdr-researcher-census/researchers/tongchuan-li-a5027832/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Factors controlling deep-profile soil organic carbon and water storage following Robinia pseudoacacia afforestation of the Loess Plateau in China** (2022)
-   44 citations · Soil Carbon
+   45 citations · Soil Carbon
 
 2. **Soil macroaggregates determine soil organic carbon in the natural grasslands of the Loess Plateau** (2022)
-   21 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 3. **Review of Managing Soil Organic C Sequestration from Vegetation Restoration on the Loess Plateau** (2023)
-   19 citations · General CDR
+   20 citations · General CDR
 
 4. **Forest expansion on cropland on China’s Loess Plateau facilitates C sequestration by increasing microbial-derived but not plant-derived carbohydrates** (2022)
    13 citations

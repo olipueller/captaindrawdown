@@ -1,7 +1,7 @@
 ---
 title: "Rachel M. Lauer"
 description: "Rachel M. Lauer is a Senior Enhanced Weathering researcher at University of Calgary in CA. With 34 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.054058
+date: 2026-08-11T01:33:11.928235
 url: "/cdr-researcher-census/researchers/rachel-m-lauer-a5102965/"
 layout: "researcher"
 hiddenInHomeList: true

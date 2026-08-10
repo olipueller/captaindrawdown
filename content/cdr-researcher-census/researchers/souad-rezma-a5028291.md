@@ -1,7 +1,7 @@
 ---
 title: "Souad Rezma"
 description: "Souad Rezma is a Mid-career Biochar researcher at Centre de Recherches et des Technologies des Eaux in TN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.258331
+date: 2026-08-11T01:33:12.135647
 url: "/cdr-researcher-census/researchers/souad-rezma-a5028291/"
 layout: "researcher"
 hiddenInHomeList: true

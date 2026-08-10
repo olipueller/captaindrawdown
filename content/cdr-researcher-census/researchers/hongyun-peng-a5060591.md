@@ -1,7 +1,7 @@
 ---
 title: "Hongyun Peng"
 description: "Hongyun Peng is a Senior Soil Carbon researcher at Zhejiang University in CN. With 77 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.293902
+date: 2026-08-11T01:33:11.261259
 url: "/cdr-researcher-census/researchers/hongyun-peng-a5060591/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    25 citations · Soil Carbon
 
 2. **Phytolith-occluded carbon in residues and economic benefits under rice/single-season Zizania latifolia rotation** (2022)
-   13 citations · Biochar
+   14 citations · Biochar
 
 3. **Spatial variation in stability of wheat (Triticum aestivum L.) straw phytolith-occluded carbon in China** (2024)
    4 citations · Soil Carbon

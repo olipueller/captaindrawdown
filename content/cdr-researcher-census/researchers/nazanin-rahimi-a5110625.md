@@ -1,7 +1,7 @@
 ---
 title: "Nazanin Rahimi"
 description: "Nazanin Rahimi is a Mid-career DAC researcher at Shell (United States) in US. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.345500
+date: 2026-08-11T01:33:11.308558
 url: "/cdr-researcher-census/researchers/nazanin-rahimi-a5110625/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Direct Reduction of Magnesium Carbonate to Methane** (2021)
-   30 citations · DAC
+   31 citations · DAC
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Katherine Blumanthal"
 description: "Katherine Blumanthal is an Early-career DAC researcher. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.454025
+date: 2026-08-11T01:33:11.401926
 url: "/cdr-researcher-census/researchers/katherine-blumanthal-a5007121/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **A review of direct air capture (DAC): scaling up commercial technologies and innovating for the future** (2021)
-   687 citations · DAC
+   700 citations · DAC
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Bulcha Jifara Daba"
 description: "Bulcha Jifara Daba is a Mid-career Biochar researcher at Haramaya University in ET. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.064791
+date: 2026-08-11T01:33:11.958572
 url: "/cdr-researcher-census/researchers/bulcha-jifara-daba-a5066664/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Comprehensive review on lignocellulosic biomass derived biochar production, characterization, utilization and applications** (2023)
-   90 citations · Biochar
+   92 citations · Biochar
 
 2. **Response surface method based parametric optimization of Cr(VI) removal from tannery wastewater using a mixed banana peel and corn cob activated carbon: Kinetic and isotherm modeling studies** (2024)
-   35 citations
+   39 citations
 
 ## External Profiles
 

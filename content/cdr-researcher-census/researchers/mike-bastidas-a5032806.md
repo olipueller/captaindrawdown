@@ -1,7 +1,7 @@
 ---
 title: "Mike Bastidas"
 description: "Mike Bastidas is a Mid-career Soil Carbon researcher at University of Houston in US. With 22 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.523553
+date: 2026-08-11T01:33:12.375022
 url: "/cdr-researcher-census/researchers/mike-bastidas-a5032806/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,15 +51,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **What evidence exists relating the impact of different grassland management practices to soil carbon in livestock systems? A systematic map protocol** (2024)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
-2. **Grasslands and soil carbon: What can livestock management practices teach us? A global map of scientific knowledge** (2026)
+2. **Potential of different Urochloa grass hybrids to enhance soil organic carbon stocks in a Mollisol of Valle del Cauca, Colombia** (2025)
+   0 citations
+
+3. **Grasslands and soil carbon: What can livestock management practices teach us? A global map of scientific knowledge** (2026)
    0 citations · Soil Carbon
 
-3. **What evidence exists relating the impact of different grassland management practices to soil carbon in livestock systems? A systematic map in progress** (2025)
+4. **What evidence exists relating the impact of different grassland management practices to soil carbon in livestock systems? A systematic map in progress** (2025)
    0 citations · General CDR
 
-4. **Soil carbon stocks in tropical pasture systems in Colombia’s Orinoquía region: supporting readiness for climate finance** (2021)
+5. **Soil carbon stocks in tropical pasture systems in Colombia’s Orinoquía region: supporting readiness for climate finance** (2021)
    0 citations
 
 ## External Profiles

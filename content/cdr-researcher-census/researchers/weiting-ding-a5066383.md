@@ -1,7 +1,7 @@
 ---
 title: "Weiting Ding"
 description: "Weiting Ding is a Mid-career Soil Carbon researcher at Ministry of Agriculture in BW. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.800961
+date: 2026-08-11T01:33:11.711029
 url: "/cdr-researcher-census/researchers/weiting-ding-a5066383/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Ground cover management improves orchard soil moisture content: A global meta-analysis** (2024)
-   23 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 2. **Depth-driven responses of soil organic carbon fractions to orchard cover crops across China: A meta-analysis** (2024)
    21 citations · Soil Carbon
 
 3. **Conservation tillage enhances both organic and inorganic carbon in dryland: Insights from a 20-year field experiment and meta-analysis** (2025)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
-4. **Enhancing soil ecological stoichiometry and orchard yield through ground cover management: A meta-analysis across China** (2025)
+4. **Agricultural management-driven soil inorganic carbon dynamics: Evidence from Chinese field experiments** (2025)
    5 citations · Soil Carbon
 
-5. **Agricultural management-driven soil inorganic carbon dynamics: Evidence from Chinese field experiments** (2025)
-   4 citations · Soil Carbon
+5. **Enhancing soil ecological stoichiometry and orchard yield through ground cover management: A meta-analysis across China** (2025)
+   5 citations · Soil Carbon
 
 ## External Profiles
 

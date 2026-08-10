@@ -1,7 +1,7 @@
 ---
 title: "Sunanda Biswas"
 description: "Sunanda Biswas is a Senior Soil Carbon researcher at University College of Technology in CM. With 66 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-12T12:07:29.277520
+date: 2026-08-11T01:33:11.218082
 url: "/cdr-researcher-census/researchers/sunanda-biswas-a5102958/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Influence of Clay Mineralogy on Soil Organic Carbon Stabilization under Tropical Climate, India** (2022)
-   32 citations · Soil Carbon
+   33 citations · Soil Carbon
 
 2. **Imprint of clay mineralogy, sesquioxides, and crop residue addition for evaluation of soil organic carbon stability and associated microbial activity in dominant soil orders of Indian subcontinent** (2024)
    6 citations · Biochar
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    4 citations
 
 5. **Impact of Long-term Residue Management on Soil Aggregation and Carbon Accumulation Under Wheat-based Cropping Systems in a Typic Haplustept** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 6. **Impact of nutrient management practices on sulphur availability in soils under rice-wheat cropping system** (2026)
    0 citations

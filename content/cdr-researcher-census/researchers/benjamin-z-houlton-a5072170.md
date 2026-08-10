@@ -1,7 +1,7 @@
 ---
 title: "Benjamin Z. Houlton"
 description: "Benjamin Z. Houlton is an Eminent Enhanced Weathering researcher at Cornell University in US. With 209 publications and an h-index of 44, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.090084
+date: 2026-08-11T01:33:11.071046
 url: "/cdr-researcher-census/researchers/benjamin-z-houlton-a5072170/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,22 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Direct evidence for atmospheric carbon dioxide removal via enhanced weathering in cropland soil** (2023)
-   35 citations · Enhanced Weathering
+   36 citations · Enhanced Weathering
 
 2. **Methods for determining the CO2 removal capacity of enhanced weathering in agronomic settings** (2022)
-   35 citations · Enhanced Weathering
+   36 citations · Enhanced Weathering
 
 3. **Reduced accrual of mineral-associated organic matter after two years of enhanced rock weathering in cropland soils, though no net losses of soil organic carbon** (2024)
-   31 citations · Enhanced Weathering
+   33 citations · Enhanced Weathering
 
 4. **Controls on soil microbial carbon use efficiency over long-term ecosystem development** (2021)
-   30 citations
+   31 citations
 
-5. **A review of carbon farming impacts on nitrogen cycling, retention, and loss** (2021)
+5. **Inorganic and organic synergies in enhanced weathering to promote carbon dioxide removal** (2024)
+   21 citations · Enhanced Weathering
+
+6. **A review of carbon farming impacts on nitrogen cycling, retention, and loss** (2021)
    21 citations · General CDR
-
-6. **Inorganic and organic synergies in enhanced weathering to promote carbon dioxide removal** (2024)
-   19 citations · Enhanced Weathering
 
 7. **Effects of Afforestation on Soil Carbon and Nitrogen Accumulation Depend on Initial Soil Nitrogen Status** (2022)
    17 citations · General CDR
@@ -75,7 +75,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    14 citations · Enhanced Weathering
 
 9. **Combining organic amendments with enhanced rock weathering shifts soil carbon storage in croplands** (2025)
-   10 citations · Enhanced Weathering
+   12 citations · Enhanced Weathering
 
 10. **Isotopic evidence for increased carbon and nitrogen exchanges between peatland plants and their symbiotic microbes with rising atmospheric <scp>CO<sub>2</sub></scp> concentrations since 15,000 cal. year <scp>BP</scp>** (2022)
    10 citations · General CDR

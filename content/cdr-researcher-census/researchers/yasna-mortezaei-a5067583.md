@@ -1,7 +1,7 @@
 ---
 title: "Yasna Mortezaei"
 description: "Yasna Mortezaei is a Mid-career BECCS researcher at Central Michigan University in US. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.230844
+date: 2026-08-11T01:33:12.111068
 url: "/cdr-researcher-census/researchers/yasna-mortezaei-a5067583/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Progress in lignocellulosic biomass valorization for biofuels and value‐added chemical production in the <scp>EU</scp>: A focus on thermochemical conversion processes** (2023)
-   73 citations · BECCS
+   77 citations · BECCS
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Thiago Massao Inagaki"
 description: "Thiago Massao Inagaki is a Senior Soil Carbon researcher at Norsk Institutt for Bioøkonomi in NO. With 80 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.270056
+date: 2026-08-11T01:33:11.238830
 url: "/cdr-researcher-census/researchers/thiago-massao-inagaki-a5007391/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -65,13 +65,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 5. **Accessing and Modelling Soil Organic Carbon Stocks in Prairies, Savannas, and Forests** (2023)
    4 citations · Soil Carbon
 
-6. **Sixty Years of Sugarcane Monoculture Alters Carbon Preservation in Large Soil Macroaggregates in Tropical Soil** (2025)
+6. **Improving soil carbon in semiarid agroecosystems: reclaimed water and mulch effects in cactus-sorghum intercropping** (2026)
    1 citations · Soil Carbon
 
-7. **The role of undersown cover crops for improving P cycling in high latitudes arable soils** (2026)
-   0 citations · Soil Carbon
+7. **Sixty Years of Sugarcane Monoculture Alters Carbon Preservation in Large Soil Macroaggregates in Tropical Soil** (2025)
+   1 citations · Soil Carbon
 
-8. **Improving soil carbon in semiarid agroecosystems: reclaimed water and mulch effects in cactus-sorghum intercropping** (2026)
+8. **The role of undersown cover crops for improving P cycling in high latitudes arable soils** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

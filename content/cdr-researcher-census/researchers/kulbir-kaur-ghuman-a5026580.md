@@ -1,7 +1,7 @@
 ---
 title: "Kulbir Kaur Ghuman"
 description: "Kulbir Kaur Ghuman is a Senior General CDR researcher at Institut national de la recherche scientifique in CA. With 55 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.188072
+date: 2026-08-11T01:33:11.162756
 url: "/cdr-researcher-census/researchers/kulbir-kaur-ghuman-a5026580/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **A comprehensive review of life cycle assessments of direct air capture and carbon dioxide storage** (2025)
-   34 citations · DAC
+   37 citations · DAC
 
 2. **Life cycle and experimental assessment of solar-driven photothermal desorption for CO2 capture and storage** (2026)
    1 citations · DAC

@@ -1,7 +1,7 @@
 ---
 title: "Siwei Shi"
 description: "Siwei Shi is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.383019
+date: 2026-08-11T01:33:12.245137
 url: "/cdr-researcher-census/researchers/siwei-shi-a5102986/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    11 citations
 
 2. **Long-term organic fertilization decreases soil carbon biodegradability by mediating molecular transformation of dissolved organic matter** (2025)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 3. **Green manuring outperforms cattle manure in soil carbon sequestration by reshaping dissolved organic matter composition and fungal life strategies** (2026)
    2 citations · Soil Carbon

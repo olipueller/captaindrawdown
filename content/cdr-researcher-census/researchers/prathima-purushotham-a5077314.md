@@ -1,7 +1,7 @@
 ---
 title: "Prathima Purushotham"
 description: "Prathima Purushotham is a Mid-career Soil Carbon researcher at Institute of Wood Science and Technology in IN. With 12 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.257584
+date: 2026-08-11T01:33:12.135047
 url: "/cdr-researcher-census/researchers/prathima-purushotham-a5077314/"
 layout: "researcher"
 hiddenInHomeList: true

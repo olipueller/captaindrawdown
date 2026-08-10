@@ -1,7 +1,7 @@
 ---
 title: "Yunzhu Qin"
 description: "Yunzhu Qin is a Mid-career Biochar researcher at Hong Kong Polytechnic University in HK. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.162732
+date: 2026-08-11T01:33:12.049100
 url: "/cdr-researcher-census/researchers/yunzhu-qin-a5048726/"
 layout: "researcher"
 hiddenInHomeList: true

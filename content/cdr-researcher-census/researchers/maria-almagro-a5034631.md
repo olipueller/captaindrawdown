@@ -1,7 +1,7 @@
 ---
 title: "María Almagro"
 description: "María Almagro is a Senior Soil Carbon researcher at Centro de Edafología y Biología Aplicada del Segura in ES. With 89 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.147792
+date: 2026-08-11T01:33:11.125248
 url: "/cdr-researcher-census/researchers/maria-almagro-a5034631/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,25 +51,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Conservation Agriculture and Soil Organic Carbon: Principles, Processes, Practices and Policy Options** (2023)
-   195 citations · General CDR
+   200 citations · General CDR
 
 2. **Pruning residues incorporation and reduced tillage improve soil organic matter stabilization and structure of salt-affected soils in a semi-arid Citrus tree orchard** (2021)
-   57 citations · Soil Carbon
+   58 citations · Soil Carbon
 
 3. **Perennial alley cropping contributes to decrease soil CO2 and N2O emissions and increase soil carbon sequestration in a Mediterranean almond orchard** (2022)
    41 citations · Soil Carbon
 
 4. **Short-term impact of crop diversification on soil carbon fluxes and balance in rainfed and irrigated woody cropping systems under semiarid Mediterranean conditions** (2021)
-   38 citations · General CDR
+   40 citations · General CDR
 
 5. **Cover crops improve the long‐term stabilization of soil organic carbon and total nitrogen through physico‐chemical protection in rainfed semiarid Mediterranean woody crop systems** (2024)
-   17 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 6. **Analysis of the environmental and economic performance of common agricultural policy eco-schemes in soil organic carbon sequestration** (2024)
-   14 citations · General CDR
+   15 citations · General CDR
 
 7. **Crop diversification effects on soil organic carbon and nitrogen storage and stabilization is mediated by soil management practices in semiarid woody crops** (2023)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 8. **Editorial: Agricultural diversification: Benefits and barriers for sustainable soil management** (2022)
    7 citations · Soil Carbon

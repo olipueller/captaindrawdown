@@ -1,7 +1,7 @@
 ---
 title: "Amanda J. Holder"
 description: "Amanda J. Holder is a Mid-career Soil Carbon researcher at Institute of Biological, Environmental and Rural Sciences in GB. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.516507
+date: 2026-08-11T01:33:12.368947
 url: "/cdr-researcher-census/researchers/amanda-j-holder-a5058619/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations · BECCS
 
 3. **Effect of tillage method on early root growth of <i>Miscanthus</i>** (2025)
-   1 citations · BECCS
+   2 citations · BECCS
 
 4. **Identifying a cell wall ideotype for increased soil carbon contents associated with Miscanthus cultivation** (2026)
    0 citations · Soil Carbon

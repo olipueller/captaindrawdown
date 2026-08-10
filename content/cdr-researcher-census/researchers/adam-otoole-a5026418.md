@@ -1,7 +1,7 @@
 ---
 title: "Adam O’Toole"
 description: "Adam O’Toole is a Mid-career General CDR researcher at Norwegian Institute of Bioeconomy Research in NO. With 34 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.331004
+date: 2026-08-11T01:33:11.295441
 url: "/cdr-researcher-census/researchers/adam-otoole-a5026418/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Life-cycle assessment to unravel co-benefits and trade-offs of large-scale biochar deployment in Norwegian agriculture** (2021)
-   66 citations · Biochar
+   68 citations · Biochar
 
 2. **Trade‐offs and synergies of soil carbon sequestration: Addressing knowledge gaps related to soil management strategies** (2024)
-   35 citations · General CDR
+   37 citations · General CDR
 
 3. **Qualitative evaluation of nine agricultural methods for increasing soil carbon storage in Norway** (2024)
    9 citations · General CDR

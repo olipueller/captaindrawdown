@@ -1,7 +1,7 @@
 ---
 title: "Fengxia Zhao"
 description: "Fengxia Zhao is a Senior Soil Carbon researcher at Huazhong Agricultural University in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.256186
+date: 2026-08-11T01:33:12.133911
 url: "/cdr-researcher-census/researchers/fengxia-zhao-a5109657/"
 layout: "researcher"
 hiddenInHomeList: true

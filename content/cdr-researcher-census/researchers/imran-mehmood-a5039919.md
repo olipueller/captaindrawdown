@@ -1,7 +1,7 @@
 ---
 title: "Imran Mehmood"
 description: "Imran Mehmood is a Mid-career Soil Carbon researcher. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.025190
+date: 2026-08-11T01:33:11.901455
 url: "/cdr-researcher-census/researchers/imran-mehmood-a5039919/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Not all soil carbon is created equal: Labile and stable pools under nitrogen input** (2024)
-   54 citations · Soil Carbon
+   56 citations · Soil Carbon
 
 2. **Maize straw-based organic amendments and nitrogen fertilizer effects on soil and aggregate-associated carbon and nitrogen** (2024)
    21 citations · Biochar

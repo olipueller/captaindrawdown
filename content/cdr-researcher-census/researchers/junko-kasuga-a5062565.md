@@ -1,7 +1,7 @@
 ---
 title: "Junko Kasuga"
 description: "Junko Kasuga is a Senior Soil Carbon researcher at Shimane University in JP. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.013635
+date: 2026-08-11T01:33:11.890104
 url: "/cdr-researcher-census/researchers/junko-kasuga-a5062565/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Silicon uptake by rice increases mineral-associated organic carbon in the rhizosphere soil** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

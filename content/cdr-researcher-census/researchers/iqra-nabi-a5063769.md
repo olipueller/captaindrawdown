@@ -1,7 +1,7 @@
 ---
 title: "Iqra Nabi"
 description: "Iqra Nabi is a Mid-career Biochar researcher at Harbin Institute of Technology (Shenzhen), China in CN. With 33 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.182417
+date: 2026-08-11T01:33:11.157404
 url: "/cdr-researcher-census/researchers/iqra-nabi-a5063769/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Comparative study on characterization and adsorption properties of phosphoric acid activated biochar and nitrogen-containing modified biochar employing Eucalyptus as a precursor** (2021)
-   142 citations · Biochar
+   144 citations · Biochar
 
 2. **Efficient performance of magnesium oxide loaded biochar for the significant removal of Pb2+ and Cd2+ from aqueous solution** (2021)
-   124 citations · Biochar
+   126 citations · Biochar
 
 ## External Profiles
 

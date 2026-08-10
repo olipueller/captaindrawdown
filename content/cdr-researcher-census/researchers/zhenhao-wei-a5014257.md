@@ -1,7 +1,7 @@
 ---
 title: "Zhenhao Wei"
 description: "Zhenhao Wei is a Mid-career Soil Carbon researcher at China Construction Industrial & Energy Engineering Group Co Ltd  in CN. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.807115
+date: 2026-08-11T01:33:11.715972
 url: "/cdr-researcher-census/researchers/zhenhao-wei-a5014257/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term vegetation restoration enhances soil carbon sequestration along a 170-year chronosequence** (2026)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
-2. **Fungal residue dominates soil organic carbon accumulation during vegetation restoration** (2026)
+2. **Effect of arbuscular mycorrhizal fungi community structure on soil organic carbon in the vegetation restoration chronosequence of Robinia pseudoacacia plantation** (2026)
+   1 citations
+
+3. **Fungal residue dominates soil organic carbon accumulation during vegetation restoration** (2026)
    0 citations · Soil Carbon
-
-3. **Effect of arbuscular mycorrhizal fungi community structure on soil organic carbon in the vegetation restoration chronosequence of Robinia pseudoacacia plantation** (2026)
-   0 citations
 
 ## External Profiles
 

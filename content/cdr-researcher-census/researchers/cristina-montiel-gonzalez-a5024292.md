@@ -1,7 +1,7 @@
 ---
 title: "Cristina Montiel-González"
 description: "Cristina Montiel-González is a Senior Soil Carbon researcher at Autonomous University of Campeche in MX. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.438607
+date: 2026-08-11T01:33:12.295871
 url: "/cdr-researcher-census/researchers/cristina-montiel-gonzalez-a5024292/"
 layout: "researcher"
 hiddenInHomeList: true

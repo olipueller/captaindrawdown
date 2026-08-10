@@ -1,7 +1,7 @@
 ---
 title: "Klaas Korte"
 description: "Klaas Korte is a Mid-career General CDR researcher at Helmholtz Centre for Environmental Research in DE. With 48 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.676644
+date: 2026-08-11T01:33:11.598770
 url: "/cdr-researcher-census/researchers/klaas-korte-a5034385/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Framework for Assessing the Feasibility of Carbon Dioxide Removal Options Within the National Context of Germany** (2022)
-   37 citations · General CDR
+   38 citations · General CDR
 
 2. **A Comprehensive Assessment of Carbon Dioxide Removal Options for Germany** (2024)
-   22 citations · BECCS
+   24 citations · BECCS
 
 3. **Atmospheric CO<sub>2</sub> as a resource for renewable energy production: A European energy law appraisal of direct air capture fuels** (2022)
    5 citations · DAC
@@ -62,19 +62,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 4. **A Comprehensive Assessment of Carbon Dioxide Removal Options for Germany** (2023)
    1 citations
 
-5. **Uncovering the German public's perception of agricultural carbon dioxide removal measures - Evidence from deliberative workshops** (2026)
+5. **Uncovering the German public's perception of agricultural carbon dioxide removal measures : evidence from deliberative workshops** (2026)
    0 citations · General CDR
 
-6. **Entnahme von Kohlendioxid aus der Atmosphäre durch Anpassungen in der landwirtschaftlichen Landnutzung: Eine Analyse des geltenden Rechtsrahmens in Deutschland** (2025)
+6. **Uncovering the German public's perception of agricultural carbon dioxide removal measures - Evidence from deliberative workshops** (2026)
    0 citations · General CDR
 
-7. **Quantifying the Importance of Ecosystem Services in the Context of Agricultural Carbon Dioxide Removal and Rewetting – a Deliberative Choice Experiment** (2025)
+7. **Entnahme von Kohlendioxid aus der Atmosphäre durch Anpassungen in der landwirtschaftlichen Landnutzung: Eine Analyse des geltenden Rechtsrahmens in Deutschland** (2025)
    0 citations · General CDR
 
-8. **A storyline approach: integrating comprehensive, interdisciplinary research results to create narratives – in the context of the net-zero target in Germany** (2024)
+8. **Quantifying the Importance of Ecosystem Services in the Context of Agricultural Carbon Dioxide Removal and Rewetting – a Deliberative Choice Experiment** (2025)
    0 citations · General CDR
 
-9. **A Comprehensive Assessment of Carbon Dioxide Removal Options for Germany** (2023)
+9. **A storyline approach: integrating comprehensive, interdisciplinary research results to create narratives – in the context of the net-zero target in Germany** (2024)
+   0 citations · General CDR
+
+10. **A Comprehensive Assessment of Carbon Dioxide Removal Options for Germany** (2023)
    0 citations
 
 ## External Profiles

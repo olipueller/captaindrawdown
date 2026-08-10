@@ -1,7 +1,7 @@
 ---
 title: "Mengyao Guo"
 description: "Mengyao Guo is an Early-career Soil Carbon researcher at Taiyuan University of Technology in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.427054
+date: 2026-08-11T01:33:12.285212
 url: "/cdr-researcher-census/researchers/mengyao-guo-a5017389/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Enhancement joint fertilization efficacy of straw and nitrogen fertilizer on soil quality and seedcotton yield for sustainable cotton farming** (2025)
-   8 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 ## External Profiles
 

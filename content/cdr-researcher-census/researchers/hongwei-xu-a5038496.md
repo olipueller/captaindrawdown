@@ -1,7 +1,7 @@
 ---
 title: "Hongwei Xu"
 description: "Hongwei Xu is a Senior Soil Carbon researcher at Hetao College in CN. With 150 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.158127
+date: 2026-08-11T01:33:11.134587
 url: "/cdr-researcher-census/researchers/hongwei-xu-a5038496/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    37 citations
 
 2. **Fertilization effects on soil organic matter chemistry** (2024)
-   27 citations · Soil Carbon
+   29 citations · Soil Carbon
 
 3. **Effects of vegetation restoration on soil microbial necromass carbon and organic carbon in grazed and degraded sandy land** (2025)
-   19 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 4. **Heavy Nitrogen Application Rate and Long-Term Duration Decrease the Soil Organic Carbon and Nitrogen Sequestration Rates in Forest Ecosystems** (2024)
    17 citations · Soil Carbon

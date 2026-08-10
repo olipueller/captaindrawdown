@@ -1,7 +1,7 @@
 ---
 title: "Leticia Barbero"
 description: "Leticia Barbero is a Senior Ocean CDR researcher at University of Miami in US. With 105 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.092949
+date: 2026-08-11T01:33:11.073672
 url: "/cdr-researcher-census/researchers/leticia-barbero-a5085492/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,14 +50,14 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 ## Top CDR Publications
 
-1. **Increasing River Alkalinity Slows Ocean Acidification in the Northern Gulf of Mexico** (2021)
+1. **Ocean acidification in the Gulf of Mexico: Drivers, impacts, and unknowns** (2022)
+   38 citations · Ocean CDR
+
+2. **Increasing River Alkalinity Slows Ocean Acidification in the Northern Gulf of Mexico** (2021)
    38 citations · General CDR
 
-2. **Ocean acidification in the Gulf of Mexico: Drivers, impacts, and unknowns** (2022)
-   35 citations · Ocean CDR
-
 3. **Effects of the Pandemic on Observing the Global Ocean** (2022)
-   17 citations
+   18 citations
 
 4. **Random and systematic uncertainty in ship‐based seawater carbonate chemistry observations** (2024)
    8 citations · General CDR

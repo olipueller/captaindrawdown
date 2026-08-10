@@ -1,7 +1,7 @@
 ---
 title: "Chikezie Chimere Onyekwena"
 description: "Chikezie Chimere Onyekwena is a Mid-career Ocean CDR researcher at Wuhan Institute of Geo-Environmental Industry and Technology (China) in CN. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.762675
+date: 2026-08-11T01:33:11.676966
 url: "/cdr-researcher-census/researchers/chikezie-chimere-onyekwena-a5063323/"
 layout: "researcher"
 hiddenInHomeList: true

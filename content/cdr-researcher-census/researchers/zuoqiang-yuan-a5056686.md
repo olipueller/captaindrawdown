@@ -1,7 +1,7 @@
 ---
 title: "Zuoqiang Yuan"
 description: "Zuoqiang Yuan is a Senior Soil Carbon researcher at Northwestern Polytechnical University in CN. With 120 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-12T12:07:29.155343
+date: 2026-08-11T01:33:11.097822
 url: "/cdr-researcher-census/researchers/zuoqiang-yuan-a5056686/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,25 +51,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Enhanced silicate weathering accelerates forest carbon sequestration by stimulating the soil mineral carbon pump** (2024)
-   57 citations · Enhanced Weathering
+   64 citations · Enhanced Weathering
 
 2. **How do mountain ecosystem services respond to changes in vegetation and climate? An evidence from the Qinling Mountains, China** (2023)
-   51 citations
+   52 citations
 
 3. **Enhanced rock weathering increased soil phosphorus availability and altered root phosphorus‐acquisition strategies** (2024)
    45 citations · Enhanced Weathering
 
 4. **Grazing intensity alters the plant diversity–ecosystem carbon storage relationship in rangelands across topographic and climatic gradients** (2023)
-   33 citations · Soil Carbon
+   34 citations · Soil Carbon
 
 5. **Enhanced Rock Weathering Promotes Soil Organic Carbon Accumulation: A Global Meta‐Analysis Based on Experimental Evidence** (2025)
-   11 citations · Enhanced Weathering
+   14 citations · Enhanced Weathering
 
-6. **Enhanced rock weathering boosts ecosystem multifunctionality via improving microbial networks complexity in a tropical forest plantation** (2024)
+6. **Divergent responses of carbon and nitrogen functional genes composition to enhanced rock weathering** (2025)
    7 citations · Enhanced Weathering
 
-7. **Divergent responses of carbon and nitrogen functional genes composition to enhanced rock weathering** (2025)
-   6 citations · Enhanced Weathering
+7. **Enhanced rock weathering boosts ecosystem multifunctionality via improving microbial networks complexity in a tropical forest plantation** (2024)
+   7 citations · Enhanced Weathering
 
 ## External Profiles
 

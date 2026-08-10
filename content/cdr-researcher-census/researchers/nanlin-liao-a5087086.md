@@ -1,7 +1,7 @@
 ---
 title: "Nanlin Liao"
 description: "Nanlin Liao is a Mid-career Biochar researcher at Tongji University in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.312259
+date: 2026-08-11T01:33:12.181261
 url: "/cdr-researcher-census/researchers/nanlin-liao-a5087086/"
 layout: "researcher"
 hiddenInHomeList: true

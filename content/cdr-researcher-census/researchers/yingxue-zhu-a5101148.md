@@ -1,7 +1,7 @@
 ---
 title: "Yingxue Zhu"
 description: "Yingxue Zhu is a Mid-career Soil Carbon researcher at Heilongjiang Academy of Sciences in CN. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.002409
+date: 2026-08-11T01:33:11.879569
 url: "/cdr-researcher-census/researchers/yingxue-zhu-a5101148/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Responses of Soil Humus Composition and Humic Acid Structural Characteristics to the Addition of Different Types of Biochar in Phaeozems** (2023)
-   19 citations · Biochar
+   20 citations · Biochar
 
 2. **Transformation and Sequestration of Total Organic Carbon in Black Soil under Different Fertilization Regimes with Straw Carbon Inputs** (2024)
    4 citations · Soil Carbon

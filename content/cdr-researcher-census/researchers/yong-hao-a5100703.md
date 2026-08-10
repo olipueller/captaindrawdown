@@ -1,7 +1,7 @@
 ---
 title: "Yong Hao"
 description: "Yong Hao is a Mid-career Soil Carbon researcher at Yangtze University in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.102719
+date: 2026-08-11T01:33:11.993641
 url: "/cdr-researcher-census/researchers/yong-hao-a5100703/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Exogenous glomalin boosts kumquat seedling growth by enhancing soil structure and biochemical activity** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

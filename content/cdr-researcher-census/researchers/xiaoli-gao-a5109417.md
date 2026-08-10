@@ -1,7 +1,7 @@
 ---
 title: "Xiaoli Gao"
 description: "Xiaoli Gao is a Mid-career Soil Carbon researcher at Xinyang Normal University in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.863344
+date: 2026-08-11T01:33:11.765822
 url: "/cdr-researcher-census/researchers/xiaoli-gao-a5109417/"
 layout: "researcher"
 hiddenInHomeList: true

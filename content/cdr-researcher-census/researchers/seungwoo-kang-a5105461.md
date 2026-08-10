@@ -1,7 +1,7 @@
 ---
 title: "Seungwoo Kang"
 description: "Seungwoo Kang is a Mid-career General CDR researcher. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.585233
+date: 2026-08-11T01:33:11.516713
 url: "/cdr-researcher-census/researchers/seungwoo-kang-a5105461/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Pathways to net-zero emissions from aviation** (2023)
-   372 citations · General CDR
+   392 citations · General CDR
 
 ## External Profiles
 

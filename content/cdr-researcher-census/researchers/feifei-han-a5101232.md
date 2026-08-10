@@ -1,7 +1,7 @@
 ---
 title: "Feifei Han"
 description: "Feifei Han is a Mid-career Biochar researcher at Beijing Normal University in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.768923
+date: 2026-08-11T01:33:11.682414
 url: "/cdr-researcher-census/researchers/feifei-han-a5101232/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Mechanism on Cr(VI) removal from aqueous solution by camphor branch biochar** (2022)
-   18 citations · Biochar
+   19 citations · Biochar
 
 2. **The focus on addressing vegetation risks in China should shift from the western past to the eastern future** (2024)
    4 citations

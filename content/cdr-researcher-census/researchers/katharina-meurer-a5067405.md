@@ -1,7 +1,7 @@
 ---
 title: "Katharina Meurer"
 description: "Katharina Meurer is a Mid-career Soil Carbon researcher at Swedish University of Agricultural Sciences in SE. With 91 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.303662
+date: 2026-08-11T01:33:11.270807
 url: "/cdr-researcher-census/researchers/katharina-meurer-a5067405/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Interactions between soil structure dynamics, hydrological processes, and organic matter cycling: A new soil‐crop model** (2024)
-   47 citations · Soil Carbon
+   53 citations · Soil Carbon
 
-2. **Higher carbon sequestration on Swedish dairy farms compared with other farm types as revealed by national soil inventories** (2022)
+2. **Emissions of CO2, N2O and CH4 From Cultivated and Set Aside Drained Peatland in Central Sweden** (2021)
+   35 citations · Soil Carbon
+
+3. **Higher carbon sequestration on Swedish dairy farms compared with other farm types as revealed by national soil inventories** (2022)
    27 citations · Soil Carbon
-
-3. **Emissions of CO2, N2O and CH4 From Cultivated and Set Aside Drained Peatland in Central Sweden** (2021)
-   25 citations · Soil Carbon
 
 4. **Editorial for the Second <scp>EJP SOIL</scp> Special Issue: “Climate‐Smart Sustainable Agricultural Soil Management for the Future II”** (2026)
    0 citations · General CDR

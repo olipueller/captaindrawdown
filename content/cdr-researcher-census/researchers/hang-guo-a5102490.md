@@ -1,7 +1,7 @@
 ---
 title: "Hang Guo"
 description: "Hang Guo is a Senior Soil Carbon researcher at Heilongjiang University in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.431843
+date: 2026-08-11T01:33:12.289618
 url: "/cdr-researcher-census/researchers/hang-guo-a5102490/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Dual Role of Iron Oxides in Stabilizing Particulate and Mineral-Associated Organic Carbon Under Field Management in Paddies** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

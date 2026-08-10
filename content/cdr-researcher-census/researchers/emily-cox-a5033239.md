@@ -1,7 +1,7 @@
 ---
 title: "Emily Cox"
 description: "Emily Cox is a Mid-career General CDR researcher at Cardiff University in GB. With 51 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.325093
+date: 2026-08-11T01:33:11.289982
 url: "/cdr-researcher-census/researchers/emily-cox-a5033239/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -60,7 +60,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    25 citations · Enhanced Weathering
 
 4. **Carbon removal demonstrations and problems of public perception** (2023)
-   22 citations · General CDR
+   23 citations · General CDR
 
 5. **Public attitudes and emotions toward novel carbon removal methods in alternative sociotechnical scenarios** (2024)
    20 citations · General CDR
@@ -68,14 +68,14 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 6. **Public engagement and collaboration for carbon dioxide removal: lessons from a project in the Dominican Republic** (2024)
    13 citations · General CDR
 
-7. **Editorial: Governing Carbon Dioxide Removal** (2021)
+7. **Localized governance of carbon dioxide removal in small island developing states** (2023)
    10 citations · General CDR
 
-8. **Localized governance of carbon dioxide removal in small island developing states** (2023)
-   9 citations · General CDR
+8. **Editorial: Governing Carbon Dioxide Removal** (2021)
+   10 citations · General CDR
 
 9. **Question-Led Innovation: Public priorities for enhanced weathering research in Malaysia** (2024)
-   7 citations · Enhanced Weathering
+   8 citations · Enhanced Weathering
 
 10. **Localized governance of carbon dioxide removal in Small Island Developing States** (2022)
    5 citations · General CDR

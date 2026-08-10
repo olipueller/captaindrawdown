@@ -1,7 +1,7 @@
 ---
 title: "Zhaolei Li"
 description: "Zhaolei Li is a Senior Soil Carbon researcher at Southwest University in CN. With 113 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.120447
+date: 2026-08-11T01:33:11.099466
 url: "/cdr-researcher-census/researchers/zhaolei-li-a5005341/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Plant height as an indicator for alpine carbon sequestration and ecosystem response to warming** (2024)
-   82 citations · Soil Carbon
+   83 citations · Soil Carbon
 
 2. **Soil carbon sequestration benefits of active versus natural restoration vary with initial carbon content and soil layer** (2023)
-   51 citations · Soil Carbon
+   52 citations · Soil Carbon
 
 3. **Microbial traits dictate soil necromass accumulation coefficient: A global synthesis** (2023)
-   45 citations · Soil Carbon
+   46 citations · Soil Carbon
 
 4. **Augmenting the stability of soil aggregate carbon with nutrient management in worldwide croplands** (2024)
    21 citations · Soil Carbon

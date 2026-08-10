@@ -1,7 +1,7 @@
 ---
 title: "Thomas Tanner"
 description: "Thomas Tanner is a Senior Ocean CDR researcher at Planetary Science Institute in US. With 29 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.299315
+date: 2026-08-11T01:33:12.170009
 url: "/cdr-researcher-census/researchers/thomas-tanner-a5012975/"
 layout: "researcher"
 hiddenInHomeList: true

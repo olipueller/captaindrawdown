@@ -1,7 +1,7 @@
 ---
 title: "Hongjie Li"
 description: "Hongjie Li is a Mid-career Biochar researcher at Qilu University of Technology in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.750924
+date: 2026-08-11T01:33:11.666061
 url: "/cdr-researcher-census/researchers/hongjie-li-a5031194/"
 layout: "researcher"
 hiddenInHomeList: true

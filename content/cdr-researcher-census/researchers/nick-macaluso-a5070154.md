@@ -1,7 +1,7 @@
 ---
 title: "Nick Macaluso"
 description: "Nick Macaluso is a Mid-career DAC researcher at Environment and Climate Change Canada in CA. With 25 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.395241
+date: 2026-08-11T01:33:11.350285
 url: "/cdr-researcher-census/researchers/nick-macaluso-a5070154/"
 layout: "researcher"
 hiddenInHomeList: true

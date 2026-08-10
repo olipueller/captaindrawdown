@@ -1,7 +1,7 @@
 ---
 title: "Svenja Hoffmeister"
 description: "Svenja Hoffmeister is a Mid-career Soil Carbon researcher at Karlsruhe Institute of Technology in DE. With 28 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.217282
+date: 2026-08-11T01:33:12.099096
 url: "/cdr-researcher-census/researchers/svenja-hoffmeister-a5023951/"
 layout: "researcher"
 hiddenInHomeList: true

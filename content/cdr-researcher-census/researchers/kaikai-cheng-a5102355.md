@@ -1,7 +1,7 @@
 ---
 title: "Kaikai Cheng"
 description: "Kaikai Cheng is a Mid-career Soil Carbon researcher at Soil and Fertilizer Institute of Hunan Province in CN. With 38 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.671343
+date: 2026-08-11T01:33:11.593991
 url: "/cdr-researcher-census/researchers/kaikai-cheng-a5102355/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of long-term organic matter application on soil carbon accumulation and nitrogen use efficiency in a double-cropping rice field** (2022)
-   46 citations · Soil Carbon
+   48 citations · Soil Carbon
 
 2. **Effects of fertilizer practice on fungal and actinobacterial cellulolytic community with different humified particle-size fractions in double-cropping field** (2021)
-   18 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 3. **Functional soil organic matter fraction in response to short-term tillage management under the double-cropping rice paddy field in southern of China** (2021)
    13 citations · Soil Carbon
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    4 citations · Soil Carbon
 
 5. **Effects of Long-Term Soil Tillage Practices on Soil Organic C Accumulation Characteristics in Double-Cropped Rice Paddy** (2024)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 6. **Effects of long-term fertilizer practice on fungal and actinobacterial cellulolytic communities with different humified particle-size fractions in a double-cropping paddy field** (2021)
    1 citations · Soil Carbon

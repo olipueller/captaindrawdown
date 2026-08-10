@@ -1,7 +1,7 @@
 ---
 title: "Apipong Putkham"
 description: "Apipong Putkham is a Senior Biochar researcher at Mahasarakham University in TH. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.506077
+date: 2026-08-11T01:33:11.445927
 url: "/cdr-researcher-census/researchers/apipong-putkham-a5025251/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Effect of the non-uniform combustion core shape on the biochar production characteristics of the household biomass gasifier stove** (2023)
-   3 citations · Biochar
+   4 citations · Biochar
 
 ## External Profiles
 

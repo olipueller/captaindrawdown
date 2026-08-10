@@ -1,7 +1,7 @@
 ---
 title: "Rutger L. van Hall"
 description: "Rutger L. van Hall is a Mid-career Biochar researcher at Institute for Biodiversity in DE. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.922461
+date: 2026-08-11T01:33:11.819598
 url: "/cdr-researcher-census/researchers/rutger-l-van-hall-a5039677/"
 layout: "researcher"
 hiddenInHomeList: true

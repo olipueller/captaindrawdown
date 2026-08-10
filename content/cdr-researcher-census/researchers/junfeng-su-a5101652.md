@@ -1,7 +1,7 @@
 ---
 title: "Junfeng Su"
 description: "Junfeng Su is an Eminent Biochar researcher at Jiangnan University in CN. With 266 publications and an h-index of 49, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.102343
+date: 2026-08-11T01:33:11.082486
 url: "/cdr-researcher-census/researchers/junfeng-su-a5101652/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    72 citations · Biochar
 
 2. **Magnetite-loaded rice husk biochar promoted the denitrification performance of Aquabacterium sp. XL4 under low carbon to nitrogen ratio: Optimization and mechanism** (2022)
-   69 citations · Biochar
+   70 citations · Biochar
 
 3. **Removal of oxytetracycline from wastewater by biochar modified with biosynthesized iron oxide nanoparticles and carbon nanotubes: Modification performance and adsorption mechanism** (2023)
    35 citations · Biochar
@@ -62,23 +62,23 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 4. **Nano iron tetroxide-modified rice husk biochar promoted Feammox performance of Klebsiella sp. FC61 and synergistically removed Ni2+ and ciprofloxacin** (2023)
    30 citations · Biochar
 
-5. **Degradation of oxytetracycline in wastewater based on activated persulfate by biosynthesized iron oxide nanoparticles and carbon nanotube-modified biochar** (2023)
+5. **Simultaneous removal of ammonia, copper ions and sulfamethoxazole from aquaculture wastewater with low carbon to nitrogen ratio enhanced by manganese redox driven by a two-stage synergistic bioreactor: Optimization and potential mechanism** (2024)
+   24 citations
+
+6. **Degradation of oxytetracycline in wastewater based on activated persulfate by biosynthesized iron oxide nanoparticles and carbon nanotube-modified biochar** (2023)
    24 citations · Biochar
 
-6. **Enhanced nitrate, fluoride, and phenol removal using polyurethane sponges loaded with rice husk biochar in immobilized bioreactor** (2022)
+7. **Enhanced nitrate, fluoride, and phenol removal using polyurethane sponges loaded with rice husk biochar in immobilized bioreactor** (2022)
    23 citations · Biochar
 
-7. **Simultaneous removal of ammonia, copper ions and sulfamethoxazole from aquaculture wastewater with low carbon to nitrogen ratio enhanced by manganese redox driven by a two-stage synergistic bioreactor: Optimization and potential mechanism** (2024)
-   22 citations
+8. **Cornstalk biochar promoted the denitrification performance and cellulose degradation rate of Burkholderia sp. CF6** (2021)
+   21 citations · Biochar
 
-8. **Hydrophilic spongy biochar crosslinked with starch and polyvinyl alcohol biocarrier for nitrate, phosphorus, and cadmium removal in low carbon wastewater: Enhanced performance mechanism and detoxification** (2022)
-   19 citations · Biochar
-
-9. **Cornstalk biochar promoted the denitrification performance and cellulose degradation rate of Burkholderia sp. CF6** (2021)
-   19 citations · Biochar
+9. **Hydrophilic spongy biochar crosslinked with starch and polyvinyl alcohol biocarrier for nitrate, phosphorus, and cadmium removal in low carbon wastewater: Enhanced performance mechanism and detoxification** (2022)
+   20 citations · Biochar
 
 10. **Loofah sponge crosslinked polyethyleneimine loaded with biochar biofilm reactor for ecological remediation of oligotrophic water: Mechanism, performance, and functional characterization** (2024)
-   17 citations · Biochar
+   18 citations · Biochar
 
 ## External Profiles
 

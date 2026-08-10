@@ -1,7 +1,7 @@
 ---
 title: "Luxiang Lin"
 description: "Luxiang Lin is a Senior Soil Carbon researcher at Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences in CN. With 115 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-12T12:07:29.202308
+date: 2026-08-11T01:33:11.144120
 url: "/cdr-researcher-census/researchers/luxiang-lin-a5112873/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Enhanced silicate weathering accelerates forest carbon sequestration by stimulating the soil mineral carbon pump** (2024)
-   57 citations · Enhanced Weathering
+   64 citations · Enhanced Weathering
 
 2. **Enhanced rock weathering increased soil phosphorus availability and altered root phosphorus‐acquisition strategies** (2024)
    45 citations · Enhanced Weathering
@@ -60,19 +60,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    32 citations · Soil Carbon
 
 4. **Forest structure predicts aboveground biomass better than community-weighted mean of traits, functional diversity, topography, and soil in a tropical forest across spatial scales** (2024)
-   17 citations
+   18 citations
 
 5. **Top Canopy Height and Stem Size Variation Enhance Aboveground Biomass across Spatial Scales in Seasonal Tropical Forests** (2023)
    13 citations · Soil Carbon
 
 6. **Climate Sensitivities of Carbon Turnover Times in Soil and Vegetation: Understanding Their Effects on Forest Carbon Sequestration** (2022)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 7. **Enhanced rock weathering boosts ecosystem multifunctionality via improving microbial networks complexity in a tropical forest plantation** (2024)
    7 citations · Enhanced Weathering
 
 8. **Tree diversity–soil organic carbon relationships strengthen under colder and more arid conditions** (2026)
-   0 citations
+   3 citations
 
 ## External Profiles
 

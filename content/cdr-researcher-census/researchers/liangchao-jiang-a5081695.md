@@ -1,7 +1,7 @@
 ---
 title: "Liangchao Jiang"
 description: "Liangchao Jiang is a Mid-career Soil Carbon researcher at First Affiliated Hospital of Xi'an Jiaotong University in CN. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.223828
+date: 2026-08-11T01:33:12.104619
 url: "/cdr-researcher-census/researchers/liangchao-jiang-a5081695/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil organic carbon formation in grassland ecosystems: Higher efficiency of roots than shoots and rhizodeposition** (2025)
-   21 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 2. **Labile carbon inputs offset nitrogen-induced soil aggregate destabilization via enhanced growth of saprophytic fungi in a meadow steppe** (2024)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 3. **Greater soil microbial biomass loss at low frequency of N addition in an Inner Mongolia grassland** (2022)
    12 citations · Soil Carbon

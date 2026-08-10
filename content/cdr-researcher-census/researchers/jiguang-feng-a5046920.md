@@ -1,7 +1,7 @@
 ---
 title: "Jiguang Feng"
 description: "Jiguang Feng is a Senior Soil Carbon researcher at Inner Mongolia University in CN. With 77 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.156684
+date: 2026-08-11T01:33:11.133195
 url: "/cdr-researcher-census/researchers/jiguang-feng-a5046920/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,30 +51,33 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Changes in plant inputs alter soil carbon and microbial communities in forest ecosystems** (2022)
-   382 citations · Soil Carbon
+   392 citations · Soil Carbon
 
 2. **The patterns of forest soil particulate and mineral associated organic carbon characteristics with latitude and soil depth across eastern China** (2024)
-   18 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 3. **Sustained Green Manure‐Rice Rotations Can Mitigate Methane Emissions by Enhancing Microbial Methane Oxidation in Southern China** (2025)
+   8 citations · Soil Carbon
+
+4. **Soil Carbon Availability Drives Depth‐Dependent Responses of Microbial Nitrogen Use Efficiency to Warming** (2025)
    5 citations · Soil Carbon
 
-4. **Terrestrial ecosystem nitrogen cycling in response to field warming: Global patterns and future trends** (2026)
-   3 citations · Soil Carbon
-
-5. **Soil Carbon Availability Drives Depth‐Dependent Responses of Microbial Nitrogen Use Efficiency to Warming** (2025)
+5. **Terrestrial ecosystem nitrogen cycling in response to field warming: Global patterns and future trends** (2026)
    3 citations · Soil Carbon
 
 6. **Changes in plant detritus inputs alter soil carbon and microbial communities in forest ecosystems** (2022)
    1 citations · Soil Carbon
 
-7. **Data for the responses of soil carbon and microbial community in forests** (2022)
-   0 citations · Soil Carbon
+7. **Wetness modulates the effects of grazing on net ecosystem productivity in global grasslands** (2026)
+   0 citations
 
 8. **Data for the responses of soil carbon and microbial community in forests** (2022)
    0 citations · Soil Carbon
 
-9. **DIRT data for forest soil carbon, nutrients and microbes** (2022)
+9. **Data for the responses of soil carbon and microbial community in forests** (2022)
+   0 citations · Soil Carbon
+
+10. **DIRT data for forest soil carbon, nutrients and microbes** (2022)
    0 citations · Soil Carbon
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Lumei Xiao"
 description: "Lumei Xiao is a Mid-career Soil Carbon researcher at Chengdu Institute of Biology in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.558126
+date: 2026-08-11T01:33:11.492205
 url: "/cdr-researcher-census/researchers/lumei-xiao-a5012965/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The formation of large macroaggregates induces soil organic carbon sequestration in short-term cropland restoration in a typical karst area** (2021)
-   100 citations · Soil Carbon
+   103 citations · Soil Carbon
 
 2. **Bedrock outcrops weakly promote rather than inhibit soil carbon sequestration after vegetation restoration** (2022)
-   18 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 ## External Profiles
 

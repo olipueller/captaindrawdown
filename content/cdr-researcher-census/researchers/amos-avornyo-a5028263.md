@@ -1,7 +1,7 @@
 ---
 title: "Amos Avornyo"
 description: "Amos Avornyo is a Mid-career Ocean CDR researcher at Khalifa University of Science and Technology in AE. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.913638
+date: 2026-08-11T01:33:11.812101
 url: "/cdr-researcher-census/researchers/amos-avornyo-a5028263/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Phycoremediation for carbon neutrality and circular economy: Potential, trends, and challenges** (2022)
-   28 citations · General CDR
+   29 citations · General CDR
 
 ## External Profiles
 

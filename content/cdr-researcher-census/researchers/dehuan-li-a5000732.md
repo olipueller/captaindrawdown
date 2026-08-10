@@ -1,7 +1,7 @@
 ---
 title: "Dehuan Li"
 description: "Dehuan Li is a Senior General CDR researcher at Fudan University in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.709609
+date: 2026-08-11T01:33:11.628588
 url: "/cdr-researcher-census/researchers/dehuan-li-a5000732/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **A comprehensive perspective for exploring the trade-offs and synergies between carbon sequestration and grain supply in China based on the production possibility frontier** (2022)
-   16 citations · General CDR
+   17 citations · General CDR
 
 ## External Profiles
 

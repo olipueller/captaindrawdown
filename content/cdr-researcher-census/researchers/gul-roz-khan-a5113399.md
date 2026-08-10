@@ -1,7 +1,7 @@
 ---
 title: "Gul Roz Khan"
 description: "Gul Roz Khan is a Mid-career General CDR researcher at Pakistan Council of Scientific & Industrial Research in PK. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.136383
+date: 2026-08-11T01:33:12.025295
 url: "/cdr-researcher-census/researchers/gul-roz-khan-a5113399/"
 layout: "researcher"
 hiddenInHomeList: true

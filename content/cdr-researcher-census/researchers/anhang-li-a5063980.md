@@ -1,7 +1,7 @@
 ---
 title: "Anhang Li"
 description: "Anhang Li is a Mid-career Biochar researcher at Zhejiang University of Technology in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.907672
+date: 2026-08-11T01:33:11.806291
 url: "/cdr-researcher-census/researchers/anhang-li-a5063980/"
 layout: "researcher"
 hiddenInHomeList: true

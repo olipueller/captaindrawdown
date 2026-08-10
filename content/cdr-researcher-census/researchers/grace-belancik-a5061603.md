@@ -1,7 +1,7 @@
 ---
 title: "Grace Belancik"
 description: "Grace Belancik is a Mid-career DAC researcher at Ames Research Center in US. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.540325
+date: 2026-08-11T01:33:12.391065
 url: "/cdr-researcher-census/researchers/grace-belancik-a5061603/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    9 citations
 
 2. **Dual Function Materials Enabling Human Space Flight: Carbon Dioxide Capture and Conversion for Life Support on Crewed Missions** (2025)
-   5 citations · DAC
+   6 citations · DAC
 
 3. **Carbon Dioxide Deposition for Removal of Volatile Organic Compounds (CDep VOC)** (2025)
    0 citations

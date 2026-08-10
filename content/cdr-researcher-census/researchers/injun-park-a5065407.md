@@ -1,7 +1,7 @@
 ---
 title: "Injun Park"
 description: "Injun Park is a Senior DAC researcher at Korea Advanced Institute of Science and Technology in KR. With 34 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.689403
+date: 2026-08-11T01:33:11.610755
 url: "/cdr-researcher-census/researchers/injun-park-a5065407/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,13 +53,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 1. **Design of Electrified Fiber Sorbents for Direct Air Capture with Electrically‐Driven Temperature Vacuum Swing Adsorption** (2025)
    4 citations
 
-2. **Solvent-Free Manufacturing of Electrified Structured Sorbents for Scalable Direct Air Capture** (2026)
+2. **Design of Electrified Fiber Sorbents for Direct Air Capture with Electrically‐Driven Temperature Vacuum Swing Adsorption (Adv. Mater. 45/2025)** (2025)
+   2 citations
+
+3. **Solvent-Free Manufacturing of Electrified Structured Sorbents for Scalable Direct Air Capture** (2026)
    1 citations
 
-3. **Sub-hour Rapid Cycling of Direct Air Capture Enabled by Engineered Hollow Fiber Sorbents** (2026)
-   1 citations
-
-4. **Design of Electrified Fiber Sorbents for Direct Air Capture with Electrically‐Driven Temperature Vacuum Swing Adsorption (Adv. Mater. 45/2025)** (2025)
+4. **Sub-hour Rapid Cycling of Direct Air Capture Enabled by Engineered Hollow Fiber Sorbents** (2026)
    1 citations
 
 5. **Scale-bridging solid adsorbents for direct air capture: integrating material chemistry, structured contactors, and advanced regeneration processes** (2026)

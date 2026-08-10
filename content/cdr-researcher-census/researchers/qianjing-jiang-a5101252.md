@@ -1,7 +1,7 @@
 ---
 title: "Qianjing Jiang"
 description: "Qianjing Jiang is a Mid-career Soil Carbon researcher at Zhejiang University in CN. With 64 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.425022
+date: 2026-08-11T01:33:11.377431
 url: "/cdr-researcher-census/researchers/qianjing-jiang-a5101252/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,20 +53,20 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 2. **Maximizing the carbon sink function of paddy systems in China with machine learning** (2023)
    11 citations · Soil Carbon
 
-3. **Potential contribution of water management practices under intensive crop production to climate-change-associated global warming** (2024)
+3. **Quantifying microbial necromass contributions to soil carbon sequestration under diverse cropland management practices: A meta-analysis** (2025)
+   9 citations · General CDR
+
+4. **Potential contribution of water management practices under intensive crop production to climate-change-associated global warming** (2024)
    8 citations
 
-4. **Simulation of soil temperature under maize: An inter-comparison among 33 maize models** (2024)
+5. **Simulation of soil temperature under maize: An inter-comparison among 33 maize models** (2024)
    7 citations
 
-5. **Quantifying microbial necromass contributions to soil carbon sequestration under diverse cropland management practices: A meta-analysis** (2025)
-   6 citations · General CDR
+6. **Cover crops potentially enhance soil organic carbon sequestration to offset greenhouse gas emissions without yield penalty towards net-zero rice agriculture** (2025)
+   3 citations · Soil Carbon
 
-6. **Unlocking the potential of microbial necromass for enhancing soil carbon sequestration: A global perspective on cropland management using meta-analysis** (2025)
+7. **Unlocking the potential of microbial necromass for enhancing soil carbon sequestration: A global perspective on cropland management using meta-analysis** (2025)
    3 citations · Biochar
-
-7. **Cover crops potentially enhance soil organic carbon sequestration to offset greenhouse gas emissions without yield penalty towards net-zero rice agriculture** (2025)
-   2 citations · Soil Carbon
 
 8. **Data-driven optimization of county-scale straw management for low-carbon and income-enhancing rice production in China** (2025)
    0 citations · Soil Carbon

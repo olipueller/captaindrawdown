@@ -1,7 +1,7 @@
 ---
 title: "Seyed Ali Nabavi"
 description: "Seyed Ali Nabavi is a Senior General CDR researcher at Cranfield University in GB. With 102 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.140350
+date: 2026-08-11T01:33:11.118270
 url: "/cdr-researcher-census/researchers/seyed-ali-nabavi-a5024329/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Carbon emissions and decarbonisation: The role and relevance of fermentation industry in chemical sector** (2023)
-   58 citations · General CDR
+   63 citations · General CDR
 
-2. **Assessment of optimal conditions for the performance of greenhouse gas removal methods** (2021)
+2. **Evaluation of Moderately Grafted Primary, Diamine, and Triamine Sorbents for CO<sub>2</sub> Adsorption from Ambient Air: Balancing Kinetics and Capacity under Humid Conditions** (2021)
+   23 citations · DAC
+
+3. **Assessment of optimal conditions for the performance of greenhouse gas removal methods** (2021)
    23 citations · General CDR
-
-3. **Evaluation of Moderately Grafted Primary, Diamine, and Triamine Sorbents for CO<sub>2</sub> Adsorption from Ambient Air: Balancing Kinetics and Capacity under Humid Conditions** (2021)
-   21 citations · DAC
 
 4. **A country-level assessment of the deployment potential of greenhouse gas removal technologies** (2022)
    14 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Débora Federici dos Santos"
 description: "Débora Federici dos Santos is a Mid-career Biochar researcher at Centro Universitário Cesumar in BR. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.225600
+date: 2026-08-11T01:33:12.106289
 url: "/cdr-researcher-census/researchers/debora-federici-dos-santos-a5004515/"
 layout: "researcher"
 hiddenInHomeList: true

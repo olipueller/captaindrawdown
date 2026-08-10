@@ -1,7 +1,7 @@
 ---
 title: "Irene Criscuoli"
 description: "Irene Criscuoli is a Mid-career Soil Carbon researcher at Ministry of Agricultural, Food and Forestry Policies in IT. With 33 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.725975
+date: 2026-08-11T01:33:11.643718
 url: "/cdr-researcher-census/researchers/irene-criscuoli-a5033074/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon farming: The foundation for carbon farming schemes – lessons learned from 160 European schemes** (2025)
-   11 citations · General CDR
+   13 citations · General CDR
 
 2. **Effects of woodchip biochar on temperature sensitivity of greenhouse gas emissions in amended soils within a mountain vineyard** (2024)
-   6 citations · Biochar
+   7 citations · Biochar
 
 3. **Carbon Farming: The Foundation For Carbon Farming Schemes – Lessons Learned from 160 European Schemes** (2024)
    3 citations · General CDR

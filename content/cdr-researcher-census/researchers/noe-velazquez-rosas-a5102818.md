@@ -1,7 +1,7 @@
 ---
 title: "Noé Velázquez-Rosas"
 description: "Noé Velázquez-Rosas is a Senior Soil Carbon researcher at Universidad EAN in CO. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.532724
+date: 2026-08-11T01:33:12.383574
 url: "/cdr-researcher-census/researchers/noe-velazquez-rosas-a5102818/"
 layout: "researcher"
 hiddenInHomeList: true

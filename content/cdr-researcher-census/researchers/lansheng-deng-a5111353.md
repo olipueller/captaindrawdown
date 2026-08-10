@@ -1,7 +1,7 @@
 ---
 title: "Lansheng Deng"
 description: "Lansheng Deng is a Mid-career Soil Carbon researcher at South China Agricultural University in CN. With 23 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.441773
+date: 2026-08-11T01:33:11.391762
 url: "/cdr-researcher-census/researchers/lansheng-deng-a5111353/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,13 +48,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Symbiotic synergy: How Arbuscular Mycorrhizal Fungi enhance nutrient uptake, stress tolerance, and soil health through molecular mechanisms and hormonal regulation** (2025)
-   82 citations
+   86 citations
 
 2. **Optimizing the dual role of biochar for phosphorus availability and arsenic immobilization in soils** (2024)
-   18 citations · Biochar
+   19 citations · Biochar
 
 3. **The multifunctional roles of arbuscular mycorrhizal fungi in soil health and nutrient dynamics** (2026)
-   1 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

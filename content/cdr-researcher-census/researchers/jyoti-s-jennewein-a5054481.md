@@ -1,7 +1,7 @@
 ---
 title: "Jyoti S. Jennewein"
 description: "Jyoti S. Jennewein is a Senior Soil Carbon researcher at Agricultural Research Service in US. With 40 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.583870
+date: 2026-08-11T01:33:11.515342
 url: "/cdr-researcher-census/researchers/jyoti-s-jennewein-a5054481/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Spaceborne imaging spectroscopy enables carbon trait estimation in cover crop and cash crop residues** (2024)
-   4 citations · General CDR
+   5 citations · General CDR
 
 2. **Satellite Remote Sensing Analysis to Support Winter Cover Crop Conservation Program Management in Maryland, USA** (2024)
    2 citations · General CDR

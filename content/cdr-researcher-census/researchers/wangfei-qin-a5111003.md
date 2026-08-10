@@ -1,7 +1,7 @@
 ---
 title: "Wangfei Qin"
 description: "Wangfei Qin is an Early-career Soil Carbon researcher at Guizhou University in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.530916
+date: 2026-08-11T01:33:12.381964
 url: "/cdr-researcher-census/researchers/wangfei-qin-a5111003/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of conservation tillage and straw mulching on crop yield, water use efficiency, carbon sequestration and economic benefits in the Loess Plateau region of China: A meta-analysis** (2024)
-   66 citations · Soil Carbon
+   68 citations · Soil Carbon
 
 2. **Integrated Physical-Chemical Mechanisms Drive Carbon Stabilization Under Conservation Tillage in Karst Agroecosystems** (2025)
    0 citations · Soil Carbon

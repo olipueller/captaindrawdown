@@ -1,7 +1,7 @@
 ---
 title: "Michael Fuhr"
 description: "Michael Fuhr is a Mid-career Enhanced Weathering researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.680937
+date: 2026-08-11T01:33:11.602502
 url: "/cdr-researcher-census/researchers/michael-fuhr-a5072752/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Kinetics of Olivine Weathering in Seawater: An Experimental Study** (2022)
-   159 citations · Enhanced Weathering
+   160 citations · Enhanced Weathering
 
 2. **Enhanced olivine dissolution in seawater through continuous grain collisions** (2023)
-   40 citations · Enhanced Weathering
+   43 citations · Enhanced Weathering
 
 3. **Disentangling artificial and natural benthic weathering in organic rich Baltic Sea sediments** (2023)
    20 citations · Enhanced Weathering

@@ -1,7 +1,7 @@
 ---
 title: "Meixia Lin"
 description: "Meixia Lin is a Mid-career Biochar researcher at Hunan Agricultural University in CN. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.927354
+date: 2026-08-11T01:33:11.824041
 url: "/cdr-researcher-census/researchers/meixia-lin-a5059661/"
 layout: "researcher"
 hiddenInHomeList: true

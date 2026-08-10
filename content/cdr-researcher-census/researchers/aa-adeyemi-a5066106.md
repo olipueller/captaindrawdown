@@ -1,7 +1,7 @@
 ---
 title: "A.A. Adeyemi"
 description: "A.A. Adeyemi is a Senior Soil Carbon researcher at Ministry of Agriculture and Forestry in LA. With 40 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.974281
+date: 2026-08-11T01:33:11.853236
 url: "/cdr-researcher-census/researchers/aa-adeyemi-a5066106/"
 layout: "researcher"
 hiddenInHomeList: true

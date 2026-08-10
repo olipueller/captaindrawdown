@@ -1,7 +1,7 @@
 ---
 title: "Shisuo Fan"
 description: "Shisuo Fan is a Senior Biochar researcher at Anhui Agricultural University in CN. With 74 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.118585
+date: 2026-08-11T01:33:11.097691
 url: "/cdr-researcher-census/researchers/shisuo-fan-a5022283/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Effect of Fe–N modification on the properties of biochars and their adsorption behavior on tetracycline removal from aqueous solution** (2021)
-   408 citations
+   440 citations
 
 2. **Simultaneous carbonization, activation, and magnetization for producing tea waste biochar and its application in tetracycline removal from the aquatic environment** (2021)
-   84 citations · Biochar
+   85 citations · Biochar
 
 3. **Effects of KMnO4 pre- and post-treatments on biochar properties and its adsorption of tetracycline** (2023)
-   64 citations · Biochar
+   65 citations · Biochar
 
 4. **Effect of chitosan modification on the properties of magnetic porous biochar and its adsorption performance towards tetracycline and Cu2+** (2023)
    57 citations · Biochar
 
 5. **Enhanced adsorption performance of tetracycline in aqueous solutions by KOH-modified peanut shell-derived biochar** (2021)
-   49 citations · Biochar
+   50 citations · Biochar
 
 6. **Preparation of magnetic porous biochar through hydrothermal pretreatment combined with K2FeO4 activation to improve tetracycline removal** (2022)
    48 citations · Biochar
@@ -75,7 +75,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    27 citations · Biochar
 
 9. **Preparation of mesoporous biogas residue biochar via a self-template strategy for efficient removal of ciprofloxacin: Effect of pyrolysis temperature** (2024)
-   22 citations · Biochar
+   25 citations · Biochar
 
 10. **Magnetic mesoporous corncob biochar for tetracycline adsorption: 2D-FTIR-COS analysis and quantitative mechanistic insight** (2025)
    18 citations · Biochar

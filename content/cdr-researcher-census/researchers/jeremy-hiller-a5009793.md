@@ -1,7 +1,7 @@
 ---
 title: "Jeremy Hiller"
 description: "Jeremy Hiller is a Mid-career Soil Carbon researcher at University of Nebraska–Lincoln in US. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.995929
+date: 2026-08-11T01:33:11.873562
 url: "/cdr-researcher-census/researchers/jeremy-hiller-a5009793/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil organic carbon fractionation in sandy soils in the semiarid grasslands and forested areas of Nebraska Sandhills** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

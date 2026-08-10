@@ -1,7 +1,7 @@
 ---
 title: "Po‐Jen Tseng"
 description: "Po‐Jen Tseng is a Mid-career General CDR researcher at École Polytechnique Fédérale de Lausanne in CH. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.696748
+date: 2026-08-11T01:33:11.617037
 url: "/cdr-researcher-census/researchers/pojen-tseng-a5026279/"
 layout: "researcher"
 hiddenInHomeList: true

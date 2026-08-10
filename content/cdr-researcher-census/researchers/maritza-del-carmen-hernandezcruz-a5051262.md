@@ -1,7 +1,7 @@
 ---
 title: "Maritza del Carmen Hernández‐Cruz"
 description: "Maritza del Carmen Hernández‐Cruz is a Mid-career Biochar researcher at Universidad Autónoma de Chiapas in MX. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.926813
+date: 2026-08-11T01:33:11.823577
 url: "/cdr-researcher-census/researchers/maritza-del-carmen-hernandezcruz-a5051262/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Activated Biochar from Pineapple Crown Biomass: A High-Efficiency Adsorbent for Organic Dye Removal** (2024)
-   34 citations · Biochar
+   35 citations · Biochar
 
 ## External Profiles
 

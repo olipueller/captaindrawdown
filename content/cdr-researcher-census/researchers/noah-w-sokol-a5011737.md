@@ -1,7 +1,7 @@
 ---
 title: "Noah W. Sokol"
 description: "Noah W. Sokol is a Senior Enhanced Weathering researcher. With 55 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.106853
+date: 2026-08-11T01:33:11.086558
 url: "/cdr-researcher-census/researchers/noah-w-sokol-a5011737/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -49,22 +49,22 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    78 citations · Enhanced Weathering
 
 2. **Roads to Removal: Options for Carbon Dioxide Removal in the United States** (2023)
-   60 citations · General CDR
+   61 citations · General CDR
 
 3. **Applying minerals to soil to draw down atmospheric carbon dioxide through synergistic organic and inorganic pathways** (2024)
-   46 citations · Biochar
+   47 citations · Biochar
 
 4. **Reduced accrual of mineral-associated organic matter after two years of enhanced rock weathering in cropland soils, though no net losses of soil organic carbon** (2024)
-   31 citations · Enhanced Weathering
+   33 citations · Enhanced Weathering
 
 5. **Combining organic amendments with enhanced rock weathering shifts soil carbon storage in croplands** (2025)
-   10 citations · Enhanced Weathering
+   12 citations · Enhanced Weathering
 
 6. **Reduced accrual of mineral-associated organic matter after two years of enhanced rock weathering in cropland soils, though no net losses of soil organic carbon** (2024)
    4 citations
 
 7. **Evidence for carbon dioxide removal via enhanced rock weathering with steel slag, though not basalt, in a midwestern U.S. field trial** (2026)
-   0 citations
+   1 citations
 
 8. **Synergistic effects of enhanced rock weathering and organic inputs on soil carbon accrual.** (2025)
    0 citations · Enhanced Weathering

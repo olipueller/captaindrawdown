@@ -1,7 +1,7 @@
 ---
 title: "Ming Lang"
 description: "Ming Lang is a Mid-career Soil Carbon researcher at Southwest University in CN. With 16 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.545584
+date: 2026-08-11T01:33:11.481027
 url: "/cdr-researcher-census/researchers/ming-lang-a5011255/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Microbial life‐history strategies mediate microbial carbon pump efficacy in response to N management depending on stoichiometry of microbial demand** (2024)
-   130 citations · Soil Carbon
+   141 citations · Soil Carbon
 
 ## External Profiles
 

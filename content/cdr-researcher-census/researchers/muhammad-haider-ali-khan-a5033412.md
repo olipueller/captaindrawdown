@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Haider Ali Khan"
 description: "Muhammad Haider Ali Khan is a Mid-career General CDR researcher at The University of New South Wales in AU. With 29 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.292027
+date: 2026-08-11T01:33:11.259694
 url: "/cdr-researcher-census/researchers/muhammad-haider-ali-khan-a5033412/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **A model for assessing pathways to integrate intermittent renewable energy for e-methanol production** (2023)
-   52 citations · DAC
+   54 citations · DAC
 
 2. **A Model for Assessing Pathways to Integrate Intermittent Renewable Energy for E-Methanol Production** (2023)
    1 citations · General CDR

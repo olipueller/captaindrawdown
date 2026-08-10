@@ -1,7 +1,7 @@
 ---
 title: "Xueli Ding"
 description: "Xueli Ding is a Senior Soil Carbon researcher at Nanjing University of Information Science and Technology in CN. With 46 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.226093
+date: 2026-08-11T01:33:11.198635
 url: "/cdr-researcher-census/researchers/xueli-ding-a5031488/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Response of topsoil Fe-bound organic carbon pool and microbial community to Spartina alterniflora invasion in coastal wetlands** (2023)
-   27 citations · Soil Carbon
+   29 citations · Soil Carbon
 
 2. **Spartina alterniflora invasion differentially alters microbial residues and their contribution to soil organic C in coastal marsh and mangrove wetlands** (2023)
-   27 citations · Soil Carbon
+   29 citations · Soil Carbon
 
 3. **Mangrove wetland recovery enhances soil carbon sequestration capacity of soil aggregates and microbial network stability in southeastern China** (2024)
-   22 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 4. **Non-additive effects of nitrogen and phosphorus fertilization on microbial biomass and residue distribution in a subtropical plantation** (2021)
    17 citations
@@ -69,7 +69,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    6 citations · Soil Carbon
 
 7. **Depth-discrepant impact of winter cover crops on particulate and mineral-associated organic carbon in a subtropical paddy field** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
+
+8. **Warming and elevated CO2 destabilize mineral-associated organic carbon in subtropical paddy subsoils** (2026)
+   0 citations
 
 ## External Profiles
 

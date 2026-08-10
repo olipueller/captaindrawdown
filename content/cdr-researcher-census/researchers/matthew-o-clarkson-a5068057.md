@@ -1,7 +1,7 @@
 ---
 title: "Matthew O Clarkson"
 description: "Matthew O Clarkson is a Mid-career Enhanced Weathering researcher at ETH Zurich in CH. With 51 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.246508
+date: 2026-08-11T01:33:11.217650
 url: "/cdr-researcher-census/researchers/matthew-o-clarkson-a5068057/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **A review of measurement for quantification of carbon dioxide removal by enhanced weathering in soil** (2024)
-   51 citations · Enhanced Weathering
+   53 citations · Enhanced Weathering
 
 2. **A Review of Measurement for Quantification of Carbon Dioxide Removal by Enhanced Weathering in Soil** (2023)
    6 citations

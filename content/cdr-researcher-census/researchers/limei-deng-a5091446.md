@@ -1,7 +1,7 @@
 ---
 title: "Limei Deng"
 description: "Limei Deng is a Senior Enhanced Weathering researcher at Chinese Academy of Sciences in CN. With 25 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.550362
+date: 2026-08-11T01:33:12.399331
 url: "/cdr-researcher-census/researchers/limei-deng-a5091446/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Acidic condition accelerates cation release from purple rock in Southwestern China** (2022)
-   6 citations · Enhanced Weathering
+   7 citations · Enhanced Weathering
 
 2. **Acidic Condition Accelerates Base Cation Release from Purple Rock in Southwestern China** (2022)
    0 citations · Enhanced Weathering

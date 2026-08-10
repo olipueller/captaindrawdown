@@ -1,7 +1,7 @@
 ---
 title: "Albert C. Brangarí"
 description: "Albert C. Brangarí is a Mid-career Soil Carbon researcher at University of Amsterdam in NL. With 49 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.539494
+date: 2026-08-11T01:33:11.475494
 url: "/cdr-researcher-census/researchers/albert-c-brangari-a5059186/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    3 citations · Soil Carbon
 
 2. **Soil Microbial Communities Adjust Thermal Traits and Carbon Allocation in Response to Climate Manipulations in Subtropical Forest and Cropland** (2026)
-   0 citations
+   1 citations
 
 3. **Plant diversity and root depth modulate microbial resistance and resilience to drought** (2026)
    0 citations

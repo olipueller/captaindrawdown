@@ -1,7 +1,7 @@
 ---
 title: "Jinxin Zhang"
 description: "Jinxin Zhang is a Senior General CDR researcher at Shandong University in CN. With 26 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.559557
+date: 2026-08-11T01:33:11.493611
 url: "/cdr-researcher-census/researchers/jinxin-zhang-a5100741/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **A large carbon sink induced by the implementation of the largest afforestation program on Earth** (2023)
-   32 citations · General CDR
+   33 citations · General CDR
 
 2. **Assessing the ecological effects of the World’s Largest Forestry Eco-engineering: Three-North Protective Forest Program within the initially scheduled range from 1978 to 2022** (2024)
-   30 citations
+   32 citations
 
 3. **Carbon sink of forest ecosystems: Concept, time effect and improvement approaches.** (2024)
    3 citations · General CDR

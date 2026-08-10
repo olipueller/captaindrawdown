@@ -1,7 +1,7 @@
 ---
 title: "Mutlu Canpolat"
 description: "Mutlu Canpolat is a Mid-career Biochar researcher at Batman University in TR. With 31 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.075132
+date: 2026-08-11T01:33:11.968769
 url: "/cdr-researcher-census/researchers/mutlu-canpolat-a5005088/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,10 +50,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 ## Top CDR Publications
 
-1. **Production, characterization, and adsorption modeling of Pb(II) ions using eco-friendly pomegranate peel, biochar, and activated carbon** (2026)
+1. **Adsorptive removal of Pb(II) using raw almond shell and its derived biochar and activated carbon: preparation, characterization, and adsorption modeling** (2026)
    0 citations · Biochar
 
-2. **Comparative adsorption of <scp>P</scp> b( <scp>II</scp> ) onto raw green almond hull and its derived biochar and activated carbon: Characterization and modeling** (2026)
+2. **Production, characterization, and adsorption modeling of Pb(II) ions using eco-friendly pomegranate peel, biochar, and activated carbon** (2026)
+   0 citations · Biochar
+
+3. **Comparative adsorption of <scp>P</scp> b( <scp>II</scp> ) onto raw green almond hull and its derived biochar and activated carbon: Characterization and modeling** (2026)
    0 citations · Biochar
 
 ## External Profiles

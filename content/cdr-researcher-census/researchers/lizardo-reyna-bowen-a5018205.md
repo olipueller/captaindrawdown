@@ -1,7 +1,7 @@
 ---
 title: "Lizardo Reyna-Bowen"
 description: "Lizardo Reyna-Bowen is a Mid-career Soil Carbon researcher at Escuela Superior Politécnica Agropecuaria de Manabí Manuel Félix López in EC. With 27 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.560157
+date: 2026-08-11T01:33:12.406249
 url: "/cdr-researcher-census/researchers/lizardo-reyna-bowen-a5018205/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · Soil Carbon
 
 2. **Soil health and dragon fruit cultivation: Assessing the impact on soil organic carbon** (2023)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 3. **Assessment of soil organic carbon: The influence of Ecuadorian cocoa varieties** (2025)
    1 citations · Soil Carbon

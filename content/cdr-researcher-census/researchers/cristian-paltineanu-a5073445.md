@@ -1,7 +1,7 @@
 ---
 title: "Cristian Paltineanu"
 description: "Cristian Paltineanu is a Senior Soil Carbon researcher at Institute for Soil Science and Agrochemistry Research in UA. With 66 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.418618
+date: 2026-08-11T01:33:11.371553
 url: "/cdr-researcher-census/researchers/cristian-paltineanu-a5073445/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil organic carbon and total nitrogen stocks related to land use and basic environmental properties − assessment of soil carbon sequestration potential in different ecosystems** (2024)
-   36 citations · General CDR
+   37 citations · General CDR
 
 2. **ASSESSING CARBON SEQUESTRATION AND POSSIBLE GREENHOUSE GAS EMISSION WITHIN THE DANUBE DELTA SOILS – PAST AND CURRENT ENVIRONMENTAL CONSIDERATIONS** (2022)
    4 citations · General CDR

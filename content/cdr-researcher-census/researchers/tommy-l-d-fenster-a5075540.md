@@ -1,7 +1,7 @@
 ---
 title: "Tommy L. D. Fenster"
 description: "Tommy L. D. Fenster is an Early-career Soil Carbon researcher at ASIS Foundation in US. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.449334
+date: 2026-08-11T01:33:12.306555
 url: "/cdr-researcher-census/researchers/tommy-l-d-fenster-a5075540/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "C. Sudha Rani"
 description: "C. Sudha Rani is a Mid-career Soil Carbon researcher at Guntur Medical College in IN. With 36 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.298758
+date: 2026-08-11T01:33:12.169509
 url: "/cdr-researcher-census/researchers/c-sudha-rani-a5022922/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Harnessing the potential of pigeonpea and maize feedstock biochar for carbon sequestration, energy generation, and environmental sustainability** (2024)
-   28 citations
+   32 citations
 
 2. **Comparative Analysis of Pigeonpea Stalk Biochar Characteristics and Energy Use under Different Biochar Production Methods** (2023)
    17 citations · Biochar

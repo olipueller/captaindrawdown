@@ -1,7 +1,7 @@
 ---
 title: "Hengxi Zhu"
 description: "Hengxi Zhu is a Mid-career Biochar researcher at Zhejiang Sci-Tech University in CN. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.594802
+date: 2026-08-11T01:33:11.525471
 url: "/cdr-researcher-census/researchers/hengxi-zhu-a5070315/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biomass-derived carbon/iron composite (FexOy-BC (RM)) with excellent Cd(II) adsorption from wastewater – Red mud resource utilization** (2023)
-   19 citations · Biochar
+   20 citations · Biochar
 
 ## External Profiles
 

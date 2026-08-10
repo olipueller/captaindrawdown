@@ -1,7 +1,7 @@
 ---
 title: "Ingred Suellen Carvalho Carregosa"
 description: "Ingred Suellen Carvalho Carregosa is a Mid-career Biochar researcher at Universidade Federal de Sergipe in BR. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.886854
+date: 2026-08-11T01:33:11.787763
 url: "/cdr-researcher-census/researchers/ingred-suellen-carvalho-carregosa-a5085364/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    19 citations · Biochar
 
 2. **Thermochemical conversion of aquatic weed biomass in a rotary kiln reactor for production of bio-based derivatives** (2023)
-   17 citations · BECCS
+   18 citations · BECCS
 
 3. **Thermochemical Conversion of Aquatic Weed Biomass in a Rotary Kiln Reactor for Production of Bio-Based Derivatives** (2023)
    1 citations · Biochar

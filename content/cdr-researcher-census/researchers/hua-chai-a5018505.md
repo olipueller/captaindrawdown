@@ -1,7 +1,7 @@
 ---
 title: "Hua Chai"
 description: "Hua Chai is a Mid-career Soil Carbon researcher at Harbin Institute of Technology in CN. With 25 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.547360
+date: 2026-08-11T01:33:11.482656
 url: "/cdr-researcher-census/researchers/hua-chai-a5018505/"
 layout: "researcher"
 hiddenInHomeList: true

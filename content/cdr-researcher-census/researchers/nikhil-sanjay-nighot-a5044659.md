@@ -1,7 +1,7 @@
 ---
 title: "Nikhil Sanjay Nighot"
 description: "Nikhil Sanjay Nighot is an Early-career Biochar researcher at Academy of Scientific and Innovative Research in IN. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.417671
+date: 2026-08-11T01:33:12.276904
 url: "/cdr-researcher-census/researchers/nikhil-sanjay-nighot-a5044659/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Toshiyuki Ohtsuka"
 description: "Toshiyuki Ohtsuka is a Senior Soil Carbon researcher at Gifu University in JP. With 93 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.135328
+date: 2026-08-11T01:33:11.113756
 url: "/cdr-researcher-census/researchers/toshiyuki-ohtsuka-a5055903/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,16 +53,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Root exudates in mangrove forests accelerate bicarbonate production in the soil environment** (2024)
    9 citations · Ocean CDR
 
-2. **Decrease in Inorganic Nitrogen and Net Nitrogen Transformation Rates with Biochar Application in a Warm-Temperate Broadleaved Forest** (2024)
+2. **Long-Term Effects of Biochar Application on Soil Heterotrophic Respiration in a Warm–Temperate Oak Forest** (2025)
    4 citations · Biochar
 
-3. **Long-Term Effects of Biochar Application on Soil Heterotrophic Respiration in a Warm–Temperate Oak Forest** (2025)
-   3 citations · Biochar
+3. **Decrease in Inorganic Nitrogen and Net Nitrogen Transformation Rates with Biochar Application in a Warm-Temperate Broadleaved Forest** (2024)
+   4 citations · Biochar
 
-4. **In Situ Quantification of Root Exudates in a Subtropical Mangrove (Bruguiera gymnorhiza) Forest** (2026)
+4. **Ecosystem carbon storage including soil to 3 m depth and carbon increment along a young mangrove restoration in Central Thailand** (2026)
+   0 citations
+
+5. **In Situ Quantification of Root Exudates in a Subtropical Mangrove (Bruguiera gymnorhiza) Forest** (2026)
    0 citations · Ocean CDR
 
-5. **Ecological Significance of Throughfall and Stemflow to the Carbon Cycle in Forest Ecosystems** (2022)
+6. **Ecological Significance of Throughfall and Stemflow to the Carbon Cycle in Forest Ecosystems** (2022)
    0 citations · Soil Carbon
 
 ## External Profiles

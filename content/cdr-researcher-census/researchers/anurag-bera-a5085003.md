@@ -1,7 +1,7 @@
 ---
 title: "Anurag Bera"
 description: "Anurag Bera is a Mid-career Soil Carbon researcher at Tea Research Association in IN. With 34 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.137057
+date: 2026-08-11T01:33:12.025837
 url: "/cdr-researcher-census/researchers/anurag-bera-a5085003/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    13 citations · Soil Carbon
 
 2. **Synergizing sustainability: a critical review on harnessing agroforestry for biomass, carbon sequestration, and water-food-energy nexus** (2024)
-   7 citations · BECCS
+   10 citations · BECCS
 
 3. **The use of biochar to reduce carbon footprint: toward net zero emission from agriculture** (2024)
    1 citations · Biochar

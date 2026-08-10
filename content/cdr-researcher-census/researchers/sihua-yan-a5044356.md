@@ -1,7 +1,7 @@
 ---
 title: "Sihua Yan"
 description: "Sihua Yan is a Mid-career Biochar researcher at Northeast Agricultural University in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.805361
+date: 2026-08-11T01:33:11.714698
 url: "/cdr-researcher-census/researchers/sihua-yan-a5044356/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar application increased soil carbon sequestration by altering organic carbon components in aggregates** (2025)
-   8 citations · Biochar
+   9 citations · Biochar
 
 ## External Profiles
 

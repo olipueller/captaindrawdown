@@ -1,7 +1,7 @@
 ---
 title: "Ayumi Koishi"
 description: "Ayumi Koishi is a Mid-career Enhanced Weathering researcher at Lawrence Berkeley National Laboratory in US. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.575145
+date: 2026-08-11T01:33:11.507547
 url: "/cdr-researcher-census/researchers/ayumi-koishi-a5029515/"
 layout: "researcher"
 hiddenInHomeList: true

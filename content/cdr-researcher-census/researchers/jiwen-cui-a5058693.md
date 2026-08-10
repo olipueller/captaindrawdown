@@ -1,7 +1,7 @@
 ---
 title: "Jiwen Cui"
 description: "Jiwen Cui is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.397796
+date: 2026-08-11T01:33:11.352673
 url: "/cdr-researcher-census/researchers/jiwen-cui-a5058693/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term maize-soybean rotation in Northeast China: impact on soil organic matter stability and microbial decomposition** (2024)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Narinder Panotra"
 description: "Narinder Panotra is a Mid-career Soil Carbon researcher at Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir in IN. With 103 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.879377
+date: 2026-08-11T01:33:11.780771
 url: "/cdr-researcher-census/researchers/narinder-panotra-a5024454/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · Biochar
 
 2. **A thorough Analysis of Crop Stubble Burning Mitigation Using Pusa Decomposer: A Comprehensive Review** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 3. **Impact of Conservation Tillage and Organic Nutrient Sources on Finger Millet Performance in Legume-based Cropping Systems** (2025)
    1 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Charly A. Moras"
 description: "Charly A. Moras is a Mid-career Ocean CDR researcher at Universität Hamburg in DE. With 39 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.837248
+date: 2026-08-11T01:33:11.742691
 url: "/cdr-researcher-census/researchers/charly-a-moras-a5020057/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Ocean alkalinity enhancement – avoiding runaway CaCO <sub>3</sub> precipitation during quick and hydrated lime dissolution** (2022)
-   174 citations · Ocean CDR
+   177 citations · Ocean CDR
 
 2. **Ocean alkalinity enhancement approaches and the predictability of runaway precipitation processes: results of an experimental study to determine critical alkalinity ranges for safe and sustainable application scenarios** (2024)
-   30 citations · General CDR
+   31 citations · General CDR
 
 3. **Ocean Alkalinity Enhancement – Avoiding runaway CaCO <sub>3</sub> precipitation during quick and hydrated lime dissolution** (2021)
    15 citations

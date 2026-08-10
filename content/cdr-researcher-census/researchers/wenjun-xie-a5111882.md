@@ -1,7 +1,7 @@
 ---
 title: "Wenjun Xie"
 description: "Wenjun Xie is a Senior Soil Carbon researcher at Qingdao University in CN. With 25 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.547571
+date: 2026-08-11T01:33:11.482827
 url: "/cdr-researcher-census/researchers/wenjun-xie-a5111882/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Straw application coupled with N and P supply enhanced microbial biomass, enzymatic activity, and carbon use efficiency in saline soil** (2021)
-   46 citations · Soil Carbon
+   47 citations · Soil Carbon
 
 2. **Salinity decreases the soil organic carbon stock while increasing its stability: A case study in the coastal region of China** (2025)
-   9 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 3. **Straw mineralization and carbon dioxide emissions in soils with different salinity levels** (2025)
    3 citations · Soil Carbon

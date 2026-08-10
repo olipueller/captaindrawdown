@@ -1,7 +1,7 @@
 ---
 title: "Janina Onigkeit"
 description: "Janina Onigkeit is a Senior BECCS researcher at University of Kassel in DE. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.835426
+date: 2026-08-11T01:33:11.740900
 url: "/cdr-researcher-census/researchers/janina-onigkeit-a5030250/"
 layout: "researcher"
 hiddenInHomeList: true

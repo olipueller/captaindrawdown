@@ -1,7 +1,7 @@
 ---
 title: "Dandan Huang"
 description: "Dandan Huang is a Senior Biochar researcher at East China University of Technology in CN. With 114 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.230636
+date: 2026-08-11T01:33:11.202838
 url: "/cdr-researcher-census/researchers/dandan-huang-a5101709/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,13 +54,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    21 citations · Biochar
 
 2. **Effects of tillage practices on environment, energy, and economy of maize production in Northeast China** (2024)
-   18 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 3. **The efficiency and mechanism of humidity in alleviating CO2 inhibition on H2S adsorption to straw biochars** (2022)
    12 citations · Biochar
 
 4. **Tillage effects on residue-derived carbon distribution among soil fractions in a Mollisol** (2024)
-   9 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 5. **Microbial assembly regulated microbial succession of biochar-mediated CH4 biofiltration to resume function under H2S stress** (2025)
    7 citations · Biochar
@@ -71,7 +71,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 7. **Enhanced methane oxidation efficiency by digestate biochar in landfill cover soil: Microbial shifts and carbon metabolites insights** (2023)
    4 citations · Biochar
 
-8. **Enhanced Methane Oxidation Efficiency by Digestate Biochar in Landfill Cover Soil: Microbial Shifts and Carbon Metabolites Insights** (2023)
+8. **Directional desorption-driven nutrient fractionation enables product-oriented recovery from MBR-treated digestate by solar-powered MCDI** (2026)
+   0 citations
+
+9. **Enhanced Methane Oxidation Efficiency by Digestate Biochar in Landfill Cover Soil: Microbial Shifts and Carbon Metabolites Insights** (2023)
    0 citations · Biochar
 
 ## External Profiles

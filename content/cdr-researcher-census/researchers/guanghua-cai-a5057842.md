@@ -1,7 +1,7 @@
 ---
 title: "Guanghua Cai"
 description: "Guanghua Cai is a Mid-career General CDR researcher at Nanjing Forestry University in CN. With 45 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.393746
+date: 2026-08-11T01:33:11.349213
 url: "/cdr-researcher-census/researchers/guanghua-cai-a5057842/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Model investigation of the low-carbon MgO-treated soil foundation based on CO2 overall carbonation** (2023)
-   24 citations · General CDR
+   27 citations · General CDR
 
 2. **Influence of organic matter and carbonation time on engineering performance of reactive MgO carbonated soils** (2025)
-   6 citations
+   8 citations
 
 3. **Scaled model test into the spatial variability and carbon storage potential of carbon sequestration foamed concrete as a subgrade filler** (2025)
    4 citations · General CDR
 
 4. **The synergistic effects of straw biochar and MgO carbonation on improving the physico-mechanical properties of silty clay** (2025)
-   0 citations · Biochar
+   1 citations · Biochar
+
+5. **Strengthening Comparison of Carbonated Stabilized Soils Under Different Organic Matters** (2026)
+   0 citations
 
 ## External Profiles
 

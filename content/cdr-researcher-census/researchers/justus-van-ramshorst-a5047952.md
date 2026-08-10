@@ -1,7 +1,7 @@
 ---
 title: "Justus van Ramshorst"
 description: "Justus van Ramshorst is a Mid-career Soil Carbon researcher at University of Exeter in GB. With 29 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.047299
+date: 2026-08-11T01:33:11.922150
 url: "/cdr-researcher-census/researchers/justus-van-ramshorst-a5047952/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Multifunctionality of temperate alley-cropping agroforestry outperforms open cropland and grassland** (2023)
-   74 citations · General CDR
+   78 citations · General CDR
 
 2. **Comparison of ecosystem-scale carbon fluxes at agroforestry and adjacent monocropping sites in Germany** (2025)
    3 citations · General CDR

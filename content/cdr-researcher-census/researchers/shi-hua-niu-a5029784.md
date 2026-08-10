@@ -1,7 +1,7 @@
 ---
 title: "Shi-Hua Niu"
 description: "Shi-Hua Niu is a Mid-career Soil Carbon researcher at Wen's Food Group (China) in CN. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.068623
+date: 2026-08-11T01:33:11.963012
 url: "/cdr-researcher-census/researchers/shi-hua-niu-a5029784/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of the oversized microplastic pollution layer on soil aggregates and organic carbon at different soil depths** (2023)
-   49 citations · Soil Carbon
+   50 citations · Soil Carbon
 
 2. **Effects of the Oversized Microplastic Pollution Layer on Soil Aggregates and Organic Carbon at Different Soil Depths** (2022)
    5 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Xueqiang Zhu"
 description: "Xueqiang Zhu is a Mid-career Biochar researcher at China University of Mining and Technology in CN. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.042198
+date: 2026-08-11T01:33:11.916658
 url: "/cdr-researcher-census/researchers/xueqiang-zhu-a5004285/"
 layout: "researcher"
 hiddenInHomeList: true

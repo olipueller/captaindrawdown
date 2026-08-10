@@ -1,7 +1,7 @@
 ---
 title: "Xinkun Zhao"
 description: "Xinkun Zhao is a Mid-career Soil Carbon researcher at Shanghai Jiao Tong University in CN. With 39 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.518294
+date: 2026-08-11T01:33:11.456491
 url: "/cdr-researcher-census/researchers/xinkun-zhao-a5040348/"
 layout: "researcher"
 hiddenInHomeList: true

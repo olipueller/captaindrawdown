@@ -1,7 +1,7 @@
 ---
 title: "Mingyang Zhang"
 description: "Mingyang Zhang is a Mid-career Biochar researcher at Ministry of Ecology and Environment in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.514993
+date: 2026-08-11T01:33:12.367514
 url: "/cdr-researcher-census/researchers/mingyang-zhang-a5100432/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Driving biochar applications via intrinsic redox superiority: electron transfer mechanisms, quantification, aging effects, and design strategies** (2026)
-   4 citations · Biochar
+   6 citations · Biochar
 
 ## External Profiles
 

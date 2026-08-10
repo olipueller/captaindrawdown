@@ -1,7 +1,7 @@
 ---
 title: "Guang Li"
 description: "Guang Li is a Mid-career Biochar researcher at Gansu Agricultural University in CN. With 26 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.896954
+date: 2026-08-11T01:33:11.796655
 url: "/cdr-researcher-census/researchers/guang-li-a5101451/"
 layout: "researcher"
 hiddenInHomeList: true

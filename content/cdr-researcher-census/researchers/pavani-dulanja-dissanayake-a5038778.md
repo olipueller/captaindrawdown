@@ -1,7 +1,7 @@
 ---
 title: "Pavani Dulanja Dissanayake"
 description: "Pavani Dulanja Dissanayake is a Senior Biochar researcher at University of Peradeniya in LK. With 38 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.123461
+date: 2026-08-11T01:33:11.102193
 url: "/cdr-researcher-census/researchers/pavani-dulanja-dissanayake-a5038778/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 ## Top CDR Publications
 
-1. **Sustainable phosphate removal using Mg/Ca-modified biochar hybrids: Current trends and future outlooks** (2023)
-   28 citations · Biochar
+1. **Biochar-based controlled-release fertilizers for enhancing plant growth and environmental sustainability: a review** (2025)
+   32 citations · Biochar
 
-2. **Biochar-based controlled-release fertilizers for enhancing plant growth and environmental sustainability: a review** (2025)
-   27 citations · Biochar
+2. **Sustainable phosphate removal using Mg/Ca-modified biochar hybrids: Current trends and future outlooks** (2023)
+   28 citations · Biochar
 
 3. **Engineered biochar as a potential adsorbent for carbon dioxide capture** (2022)
    1 citations · Biochar

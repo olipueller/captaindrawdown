@@ -1,7 +1,7 @@
 ---
 title: "Weishan Liu"
 description: "Weishan Liu is a Senior DAC researcher at State Key Laboratory of Clean Energy Utilization. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.371914
+date: 2026-08-11T01:33:11.330806
 url: "/cdr-researcher-census/researchers/weishan-liu-a5030542/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,22 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Modified metal–organic framework by a novel coordinatively unsaturated amine grafting mechanism for direct air capture of CO2** (2022)
-   67 citations
+   69 citations
 
 2. **Humidity sensitivity reducing of moisture swing adsorbents by hydrophobic carrier doping for CO2 direct air capture** (2023)
-   50 citations
+   53 citations
 
 3. **Module optimization and array design of moisture swing direct air capture based on 2D-3D coupled analysis** (2024)
-   11 citations
+   13 citations
 
 4. **Kinetic research on ion exchange regeneration of quaternary ammonium-based CO2 sorbent for direct air capture** (2023)
    11 citations
 
-5. **Modified Metal-Organic Framework by a Novel Coordinatively Unsaturated Amine Grafting Mechanism for Direct Air Capture of Co2** (2022)
+5. **Challenges of Integrating Direct Air Capture with Methanol Synthesis: A Techno-Economic Analysis** (2025)
    3 citations
 
-6. **Challenges of Integrating Direct Air Capture with Methanol Synthesis: A Techno-Economic Analysis** (2025)
-   2 citations
+6. **Modified Metal-Organic Framework by a Novel Coordinatively Unsaturated Amine Grafting Mechanism for Direct Air Capture of Co2** (2022)
+   3 citations
 
 7. **Challenges of Integrating Direct Air Capture with Methanol Synthesis: A Techno-Economic Analysis** (2025)
    1 citations

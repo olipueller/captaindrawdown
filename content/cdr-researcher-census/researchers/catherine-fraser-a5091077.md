@@ -1,7 +1,7 @@
 ---
 title: "Catherine Fraser"
 description: "Catherine Fraser is a Senior DAC researcher at New South Wales Department of Primary Industries in AU. With 56 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.188476
+date: 2026-08-11T01:33:11.163126
 url: "/cdr-researcher-census/researchers/catherine-fraser-a5091077/"
 layout: "researcher"
 hiddenInHomeList: true

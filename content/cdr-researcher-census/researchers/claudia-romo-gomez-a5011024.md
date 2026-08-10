@@ -1,7 +1,7 @@
 ---
 title: "Claudia Romo-Gómez"
 description: "Claudia Romo-Gómez is a Senior Soil Carbon researcher at Universidad Autónoma del Estado de Hidalgo in MX. With 45 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.271865
+date: 2026-08-11T01:33:12.146830
 url: "/cdr-researcher-census/researchers/claudia-romo-gomez-a5011024/"
 layout: "researcher"
 hiddenInHomeList: true

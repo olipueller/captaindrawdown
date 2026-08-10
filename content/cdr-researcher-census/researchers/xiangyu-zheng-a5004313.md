@@ -1,7 +1,7 @@
 ---
 title: "Xiangyu Zheng"
 description: "Xiangyu Zheng is a Mid-career Biochar researcher at Sichuan Agricultural University in CN. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.804006
+date: 2026-08-11T01:33:11.713571
 url: "/cdr-researcher-census/researchers/xiangyu-zheng-a5004313/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Matching ecosystem services supply and demand in China's urban agglomerations for multiple-scale management** (2023)
-   83 citations · General CDR
+   85 citations · General CDR
 
 2. **Enhanced Cr(VI) reduction and immobilization by Fe0 coupled with biochar through galvanic interaction** (2025)
-   5 citations · Biochar
+   6 citations · Biochar
 
 3. **Quantifying the effects of urban agglomeration on cropland ecological efficiency in the Sichuan–Chongqing region, China** (2026)
-   0 citations
+   1 citations
 
 4. **Promoted Iron Corrosion Through Iron-Carbon Micro-Electrolysis with Mixed Fe0 And Biochar for Enhanced Cr(Vi) Removal** (2024)
    0 citations · Biochar

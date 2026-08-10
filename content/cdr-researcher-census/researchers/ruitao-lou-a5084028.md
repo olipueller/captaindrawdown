@@ -1,7 +1,7 @@
 ---
 title: "Ruitao Lou"
 description: "Ruitao Lou is a Mid-career Soil Carbon researcher at Zhejiang University in CN. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.482585
+date: 2026-08-11T01:33:12.337295
 url: "/cdr-researcher-census/researchers/ruitao-lou-a5084028/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    8 citations
 
 2. **Cover crops potentially enhance soil organic carbon sequestration to offset greenhouse gas emissions without yield penalty towards net-zero rice agriculture** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 3. **Data-driven optimization of county-scale straw management for low-carbon and income-enhancing rice production in China** (2025)
    0 citations · Soil Carbon

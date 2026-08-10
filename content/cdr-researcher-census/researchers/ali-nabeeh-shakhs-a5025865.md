@@ -1,7 +1,7 @@
 ---
 title: "Ali Nabeeh Shakhs"
 description: "Ali Nabeeh Shakhs is a Mid-career DAC researcher at North China Electric Power University in CN. With 29 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.143645
+date: 2026-08-11T01:33:12.032373
 url: "/cdr-researcher-census/researchers/ali-nabeeh-shakhs-a5025865/"
 layout: "researcher"
 hiddenInHomeList: true

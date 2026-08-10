@@ -1,7 +1,7 @@
 ---
 title: "Jianfei Zheng"
 description: "Jianfei Zheng is a Mid-career DAC researcher. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.843975
+date: 2026-08-11T01:33:11.748163
 url: "/cdr-researcher-census/researchers/jianfei-zheng-a5010427/"
 layout: "researcher"
 hiddenInHomeList: true

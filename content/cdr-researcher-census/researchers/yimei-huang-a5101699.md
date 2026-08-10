@@ -1,7 +1,7 @@
 ---
 title: "Yimei Huang"
 description: "Yimei Huang is a Senior Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 84 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.161665
+date: 2026-08-11T01:33:11.138015
 url: "/cdr-researcher-census/researchers/yimei-huang-a5101699/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Initial soil formation by biocrusts: Nitrogen demand and clay protection control microbial necromass accrual and recycling** (2022)
-   201 citations · Soil Carbon
+   205 citations · Soil Carbon
 
 2. **Metabolic pathways of CO2 fixing microorganisms determined C-fixation rates in grassland soils along the precipitation gradient** (2022)
-   141 citations · Soil Carbon
+   145 citations · Soil Carbon
 
 3. **Belowground allocation and fate of tree assimilates in plant–soil–microorganisms system: 13C labeling and tracing under field conditions** (2021)
-   25 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 4. **Composition and contribution of Stipa bungeana root exudates to soil organic carbon fractions in the Loess Plateau** (2023)
    15 citations · Soil Carbon

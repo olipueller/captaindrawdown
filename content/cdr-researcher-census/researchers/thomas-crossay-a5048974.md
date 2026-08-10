@@ -1,7 +1,7 @@
 ---
 title: "Thomas Crossay"
 description: "Thomas Crossay is a Mid-career Soil Carbon researcher at University of New Caledonia in NC. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.858565
+date: 2026-08-11T01:33:11.761212
 url: "/cdr-researcher-census/researchers/thomas-crossay-a5048974/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Alison Mohr"
 description: "Alison Mohr is a Senior BECCS researcher at University of Nottingham in GB. With 37 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.289397
+date: 2026-08-11T01:33:11.257216
 url: "/cdr-researcher-census/researchers/alison-mohr-a5021924/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **A net-zero storyline for success? News media analysis of the social legitimacy of bioenergy with carbon capture and storage in the United Kingdom** (2023)
-   31 citations · BECCS
+   32 citations · BECCS
 
 2. **Without SLO BECCS, fast net-zero looks unlikely** (2021)
    2 citations · BECCS

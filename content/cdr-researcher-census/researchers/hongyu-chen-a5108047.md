@@ -1,7 +1,7 @@
 ---
 title: "Hongyu Chen"
 description: "Hongyu Chen is a Mid-career Soil Carbon researcher at South China Institute of Collaborative Innovation in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.534518
+date: 2026-08-11T01:33:11.470905
 url: "/cdr-researcher-census/researchers/hongyu-chen-a5108047/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil carbon-fixing bacterial communities respond to plant community change in coastal salt marsh wetlands** (2023)
-   38 citations · Soil Carbon
+   39 citations · Soil Carbon
 
 ## External Profiles
 

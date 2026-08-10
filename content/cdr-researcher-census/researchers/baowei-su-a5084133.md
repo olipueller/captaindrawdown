@@ -1,7 +1,7 @@
 ---
 title: "Baowei Su"
 description: "Baowei Su is a Senior Soil Carbon researcher at Ocean University of China in CN. With 83 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.148368
+date: 2026-08-11T01:33:11.125757
 url: "/cdr-researcher-census/researchers/baowei-su-a5084133/"
 layout: "researcher"
 hiddenInHomeList: true

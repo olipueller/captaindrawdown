@@ -1,7 +1,7 @@
 ---
 title: "Zijun Wu"
 description: "Zijun Wu is a Mid-career Biochar researcher. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.537625
+date: 2026-08-11T01:33:11.473908
 url: "/cdr-researcher-census/researchers/zijun-wu-a5006445/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Facile fabrication of robust, versatile, and recyclable biochar-graphene oxide composite monoliths for efficient removal of different contaminants in water** (2021)
-   36 citations · Biochar
+   37 citations · Biochar
 
 2. **Groundwater-derived carbon stimulates headwater stream CO2 emission potential on the Qinghai-Tibet Plateau** (2024)
    9 citations

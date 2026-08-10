@@ -1,7 +1,7 @@
 ---
 title: "Liuming Yang"
 description: "Liuming Yang is a Senior Soil Carbon researcher at Fujian Normal University in CN. With 55 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.232671
+date: 2026-08-11T01:33:11.204875
 url: "/cdr-researcher-census/researchers/liuming-yang-a5115595/"
 layout: "researcher"
 hiddenInHomeList: true

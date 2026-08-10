@@ -1,7 +1,7 @@
 ---
 title: "Chenyu Zhao"
 description: "Chenyu Zhao is a Mid-career Soil Carbon researcher at Jilin Agricultural University in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.567399
+date: 2026-08-11T01:33:12.411327
 url: "/cdr-researcher-census/researchers/chenyu-zhao-a5067893/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Does the Biennial Straw Return Have an Identical Characteristic of Soil Organic Carbon Sequestration as the Annual? A Case Study of Cornfield in Northeast China** (2024)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 2. **Deep Plowing Increases Subsoil Carbon Accrual Through Enhancing Macroaggregate Protection in a Mollisol with Two Different Tillage Regimes** (2026)
    0 citations · Soil Carbon

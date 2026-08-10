@@ -1,7 +1,7 @@
 ---
 title: "Xinlong Wang"
 description: "Xinlong Wang is a Mid-career Biochar researcher at Dalian University of Technology in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.409396
+date: 2026-08-11T01:33:12.269193
 url: "/cdr-researcher-census/researchers/xinlong-wang-a5033500/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar from wet-process phosphoric acid in-situ modified bagasse for Cr (VI) removal** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

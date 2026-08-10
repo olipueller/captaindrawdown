@@ -1,7 +1,7 @@
 ---
 title: "Caspar Donnison"
 description: "Caspar Donnison is a Mid-career General CDR researcher at University of Southampton in GB. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.783253
+date: 2026-08-11T01:33:11.695068
 url: "/cdr-researcher-census/researchers/caspar-donnison-a5007876/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    34 citations · BECCS
 
 2. **A net-zero storyline for success? News media analysis of the social legitimacy of bioenergy with carbon capture and storage in the United Kingdom** (2023)
-   31 citations · BECCS
+   32 citations · BECCS
 
 3. **Land-use change from food to energy: meta-analysis unravels effects of bioenergy on biodiversity and amenity** (2021)
    3 citations · BECCS
@@ -63,15 +63,18 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    2 citations · BECCS
 
 5. **Accounting Methods Dictate Carbon Removal Credit Integrity and Outcomes** (2026)
+   0 citations · DAC
+
+6. **Accounting Methods Dictate Carbon Removal Credit Integrity and Outcomes** (2026)
    0 citations · General CDR
 
-6. **Preparing California’s Cap-and-Trade Program for 2045: Integrating Carbon Dioxide Removal** (2026)
+7. **Preparing California’s Cap-and-Trade Program for 2045: Integrating Carbon Dioxide Removal** (2026)
    0 citations · General CDR
 
-7. **Without SLO BECCS, fast net-zero looks unlikely** (2021)
+8. **Without SLO BECCS, fast net-zero looks unlikely** (2021)
    0 citations
 
-8. **Improved biodiversity from food to energy: Meta-analysis of land-use change to dedicated bioenergy crops** (2021)
+9. **Improved biodiversity from food to energy: Meta-analysis of land-use change to dedicated bioenergy crops** (2021)
    0 citations · BECCS
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Marcel Dossow"
 description: "Marcel Dossow is a Mid-career DAC researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.841666
+date: 2026-08-11T01:33:11.746454
 url: "/cdr-researcher-census/researchers/marcel-dossow-a5057048/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Techno-economic assessment and comparison of Fischer–Tropsch and Methanol-to-Jet processes to produce sustainable aviation fuel via Power-to-Liquid** (2024)
-   75 citations · DAC
+   86 citations · DAC
 
 ## External Profiles
 

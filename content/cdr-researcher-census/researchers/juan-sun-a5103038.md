@@ -1,7 +1,7 @@
 ---
 title: "Juan Sun"
 description: "Juan Sun is a Mid-career Soil Carbon researcher at Qingdao Agricultural University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.531128
+date: 2026-08-11T01:33:12.382153
 url: "/cdr-researcher-census/researchers/juan-sun-a5103038/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Divergent effects of moderate grazing duration on carbon sequestration between temperate and alpine grasslands in China** (2022)
-   20 citations · General CDR
+   21 citations · General CDR
 
 2. **Soil organic carbon stock responded more sensitively to degradation in alpine meadows than in alpine steppes on the <scp>Qinghai‐Tibetan</scp> Plateau** (2022)
    20 citations · Soil Carbon

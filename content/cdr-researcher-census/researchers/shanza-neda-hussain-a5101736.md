@@ -1,7 +1,7 @@
 ---
 title: "Shanza Neda Hussain"
 description: "Shanza Neda Hussain is a Mid-career General CDR researcher at University of Exeter in GB. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.009866
+date: 2026-08-11T01:33:11.886558
 url: "/cdr-researcher-census/researchers/shanza-neda-hussain-a5101736/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ruimin Qin"
 description: "Ruimin Qin is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.567247
+date: 2026-08-11T01:33:11.500398
 url: "/cdr-researcher-census/researchers/ruimin-qin-a5032896/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ingrid Busch"
 description: "Ingrid Busch is a Senior General CDR researcher at Oak Ridge National Laboratory in US. With 26 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.026555
+date: 2026-08-11T01:33:11.902511
 url: "/cdr-researcher-census/researchers/ingrid-busch-a5015056/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Roads to Removal: Options for Carbon Dioxide Removal in the United States** (2023)
-   60 citations · General CDR
+   61 citations · General CDR
 
 2. **Comparison of Long-Term Bioenergy with Carbon Capture and Storage to Reference Power Generation Technologies Using CO2 Avoidance Cost in the U.S.** (2021)
    7 citations · BECCS

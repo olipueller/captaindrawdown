@@ -1,7 +1,7 @@
 ---
 title: "Yangen Xie"
 description: "Yangen Xie is a Mid-career General CDR researcher at Chinese Academy of Sciences in CN. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.574494
+date: 2026-08-11T01:33:11.507071
 url: "/cdr-researcher-census/researchers/yangen-xie-a5029682/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Floatable artificial leaf to couple oxygen-tolerant CO2 conversion with water purification** (2025)
-   47 citations
+   49 citations
 
 2. **Solar-driven direct coupling of atmospheric CO2 with ammonia for urea synthesis** (2025)
    5 citations · General CDR

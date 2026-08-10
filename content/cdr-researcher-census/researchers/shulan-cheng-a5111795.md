@@ -1,7 +1,7 @@
 ---
 title: "Shulan Cheng"
 description: "Shulan Cheng is a Senior Soil Carbon researcher at University of Chinese Academy of Sciences in CN. With 50 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.250674
+date: 2026-08-11T01:33:11.221216
 url: "/cdr-researcher-census/researchers/shulan-cheng-a5111795/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Linkages between the molecular composition of dissolved organic matter and soil microbial community in a boreal forest during freeze–thaw cycles** (2023)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 2. **Organic Fertilization Enhances Microbial-Mediated Dissolved Organic Matter Composition and Transformation in Paddy Soil** (2025)
    0 citations · Biochar

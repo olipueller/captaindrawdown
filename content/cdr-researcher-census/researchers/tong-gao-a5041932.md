@@ -1,7 +1,7 @@
 ---
 title: "Tong Gao"
 description: "Tong Gao is a Mid-career Soil Carbon researcher at Nanjing Tech University in CN. With 25 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.453193
+date: 2026-08-11T01:33:11.401172
 url: "/cdr-researcher-census/researchers/tong-gao-a5041932/"
 layout: "researcher"
 hiddenInHomeList: true

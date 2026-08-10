@@ -1,7 +1,7 @@
 ---
 title: "P Ashoka"
 description: "P Ashoka is a Mid-career Soil Carbon researcher at University of Agricultural Sciences, Dharwad in IN. With 89 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.752759
+date: 2026-08-11T01:33:11.667811
 url: "/cdr-researcher-census/researchers/p-ashoka-a5070588/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Zero Tillage Lead to Enhanced Productivity and Soil Health** (2023)
-   17 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 2. **Agroforestry: Multifunctional Benefits and Implementation Strategies** (2024)
    9 citations · General CDR
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    6 citations · Soil Carbon
 
 4. **Carbon-Based Nanomaterials for Soil Amendment: A Paradigm Shift in Agriculture Practices** (2024)
-   4 citations · Biochar
+   5 citations · Biochar
 
 5. **Impact of Organic Agriculture on Soil Quality and Ecosystem Services: A Review** (2025)
    2 citations · General CDR

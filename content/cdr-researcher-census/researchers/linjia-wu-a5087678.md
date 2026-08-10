@@ -1,7 +1,7 @@
 ---
 title: "Linjia Wu"
 description: "Linjia Wu is an Early-career Soil Carbon researcher at Shenzhen University in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.221915
+date: 2026-08-11T01:33:12.102919
 url: "/cdr-researcher-census/researchers/linjia-wu-a5087678/"
 layout: "researcher"
 hiddenInHomeList: true

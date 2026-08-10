@@ -1,7 +1,7 @@
 ---
 title: "Heng Zhang"
 description: "Heng Zhang is a Mid-career Biochar researcher at Chongqing University of Posts and Telecommunications in CN. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.798352
+date: 2026-08-11T01:33:11.708684
 url: "/cdr-researcher-census/researchers/heng-zhang-a5101476/"
 layout: "researcher"
 hiddenInHomeList: true

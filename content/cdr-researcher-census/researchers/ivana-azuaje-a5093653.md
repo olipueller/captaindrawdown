@@ -1,7 +1,7 @@
 ---
 title: "Ivana Azuaje"
 description: "Ivana Azuaje is a Mid-career Soil Carbon researcher at North Carolina State University in US. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.270788
+date: 2026-08-11T01:33:12.146044
 url: "/cdr-researcher-census/researchers/ivana-azuaje-a5093653/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Evaluating biomass sustainability: Why below-ground carbon sequestration matters** (2024)
-   47 citations · BECCS
+   49 citations · BECCS
 
 2. **Life cycle assessment of Brazilian bleached eucalyptus kraft pulp: Integrating bleaching processes and biogenic carbon impacts** (2024)
-   4 citations · General CDR
+   5 citations · General CDR
 
 3. **Carbon footprint software for market pulp: Kraft and APMP processes across twelve biomass types with soil carbon sequestration** (2026)
    0 citations · Biochar

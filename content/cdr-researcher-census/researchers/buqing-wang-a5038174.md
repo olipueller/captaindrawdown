@@ -1,7 +1,7 @@
 ---
 title: "Buqing Wang"
 description: "Buqing Wang is a Senior Soil Carbon researcher at China Geological Survey in CN. With 43 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.785433
+date: 2026-08-11T01:33:11.697206
 url: "/cdr-researcher-census/researchers/buqing-wang-a5038174/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,21 +48,24 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Examining Ecology–Agriculture–Economy Nexus Shifts to Propose Win–Win–Win Pathways for Sustainable Development in Mountainous Areas: Insights From the Greenest City in China** (2025)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 2. **Moving forward from escaping the poverty trap in China's greenest regions: Examining four decades of socioecological evolution to re-orient sustainable development policies** (2024)
    5 citations · General CDR
 
-3. **Surface soil organic carbon losses in Dongting Lake floodplain as evidenced by field observations from 2013 to 2022** (2025)
+3. **Policy-driven industrial transformation and associated agriculture–ecology–economy nexus shifts within social–ecological system: a case of the greenest coastal province of China** (2026)
+   2 citations
+
+4. **Surface soil organic carbon losses in Dongting Lake floodplain as evidenced by field observations from 2013 to 2022** (2025)
    2 citations · Soil Carbon
 
-4. **Vegetation-mediated surface soil organic carbon formation and potential carbon loss risks in Dongting Lake floodplain, China** (2026)
+5. **Vegetation-mediated surface soil organic carbon formation and potential carbon loss risks in Dongting Lake floodplain, China** (2026)
    1 citations · Soil Carbon
 
-5. **Land-Use Change Impacts on Glomalin-Related Soil Protein and Soil Organic Carbon in Huangshan Mountain Region** (2025)
+6. **Land-Use Change Impacts on Glomalin-Related Soil Protein and Soil Organic Carbon in Huangshan Mountain Region** (2025)
    1 citations · Soil Carbon
 
-6. **Vegetation-mediated surface soil organic carbon formation and potential carbon loss risks in Dongting Lake floodplain, China** (2025)
+7. **Vegetation-mediated surface soil organic carbon formation and potential carbon loss risks in Dongting Lake floodplain, China** (2025)
    0 citations
 
 ## External Profiles

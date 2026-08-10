@@ -1,7 +1,7 @@
 ---
 title: "Yong Wang"
 description: "Yong Wang is a Mid-career Soil Carbon researcher at National Laboratory of the Rockies in US. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.046796
+date: 2026-08-11T01:33:11.921589
 url: "/cdr-researcher-census/researchers/yong-wang-a5074064/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil carbon stocks in temperate grasslands differ strongly across sites but are insensitive to decade‐long fertilization** (2021)
-   78 citations · Soil Carbon
+   79 citations · Soil Carbon
 
 2. **Pathways for Agricultural Decarbonization in the United States** (2024)
    2 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Ning Zhao"
 description: "Ning Zhao is a Senior Soil Carbon researcher at University of Shanghai for Science and Technology in CN. With 30 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.291814
+date: 2026-08-11T01:33:11.259527
 url: "/cdr-researcher-census/researchers/ning-zhao-a5101994/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Biochar promoted soil organic carbon accumulation and aggregate stability by increasing the content of organic complex metal oxides in paddy soil** (2025)
-   24 citations · Biochar
+   26 citations · Biochar
 
 2. **Editorial: Soil carbon sequestration and microbial energy metabolism** (2026)
    0 citations · Soil Carbon

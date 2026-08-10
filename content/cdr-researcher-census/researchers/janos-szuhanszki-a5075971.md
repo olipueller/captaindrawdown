@@ -1,7 +1,7 @@
 ---
 title: "Janos Szuhánszki"
 description: "Janos Szuhánszki is a Mid-career BECCS researcher at Business Innovation Centre in IT. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.632901
+date: 2026-08-11T01:33:11.559649
 url: "/cdr-researcher-census/researchers/janos-szuhanszki-a5075971/"
 layout: "researcher"
 hiddenInHomeList: true

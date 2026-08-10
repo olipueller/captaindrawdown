@@ -1,7 +1,7 @@
 ---
 title: "Howard Hendrix"
 description: "Howard Hendrix is a Senior DAC researcher at Hendrix College in US. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.422352
+date: 2026-08-11T01:33:12.281318
 url: "/cdr-researcher-census/researchers/howard-hendrix-a5080285/"
 layout: "researcher"
 hiddenInHomeList: true

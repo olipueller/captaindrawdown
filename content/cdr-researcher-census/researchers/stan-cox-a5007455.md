@@ -1,7 +1,7 @@
 ---
 title: "Stan Cox"
 description: "Stan Cox is a Mid-career Soil Carbon researcher at The Land Institute in US. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.086700
+date: 2026-08-11T01:33:11.979104
 url: "/cdr-researcher-census/researchers/stan-cox-a5007455/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,11 +47,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Prediction of regrowth and biomass of perennial sorghum using unoccupied aerial systems** (2022)
-   3 citations
+1. **Utilizing genetic variation in perennial sorghum to improve host plant resistance to aphids** (2025)
+   3 citations · General CDR
 
-2. **Utilizing genetic variation in perennial sorghum to improve host plant resistance to aphids** (2025)
-   2 citations · General CDR
+2. **Prediction of regrowth and biomass of perennial sorghum using unoccupied aerial systems** (2022)
+   3 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Qianqian Zhao"
 description: "Qianqian Zhao is a Mid-career Soil Carbon researcher at Chongqing Medical University in CN. With 40 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.456814
+date: 2026-08-11T01:33:11.404292
 url: "/cdr-researcher-census/researchers/qianqian-zhao-a5078536/"
 layout: "researcher"
 hiddenInHomeList: true

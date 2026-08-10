@@ -1,7 +1,7 @@
 ---
 title: "Namita Das Saha"
 description: "Namita Das Saha is a Senior Soil Carbon researcher at Indian Agricultural Statistics Research Institute in IN. With 42 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.904064
+date: 2026-08-11T01:33:11.803122
 url: "/cdr-researcher-census/researchers/namita-das-saha-a5074504/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -56,7 +56,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 2. **60 years of fertilization and liming impacts on soil organic carbon stabilization in a sub-tropical Alfisol** (2021)
    6 citations · Soil Carbon
 
-3. **Elevated Co2 Alters Aggregate-Carbon and Microbial Community But Does Not Affect Total Soil Organic C in the Tropics** (2022)
+3. **Soil Microbial Diversity and Function Respond Contrastingly to Elevated CO2 and Ozone with Implications for Carbon Sequestration in Wheat Cultivation** (2026)
+   0 citations
+
+4. **Elevated Co2 Alters Aggregate-Carbon and Microbial Community But Does Not Affect Total Soil Organic C in the Tropics** (2022)
    0 citations · Soil Carbon
 
 ## External Profiles

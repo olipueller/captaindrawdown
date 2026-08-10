@@ -1,7 +1,7 @@
 ---
 title: "Mingxin Zhou"
 description: "Mingxin Zhou is a Mid-career Soil Carbon researcher at Heilongjiang Institute of Technology in CN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.221575
+date: 2026-08-11T01:33:12.102658
 url: "/cdr-researcher-census/researchers/mingxin-zhou-a5016032/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of Nitrogen Addition on Soil Aggregate Stability and Mycorrhizal Morphological Characteristics: Differential Responses of Arbuscular Mycorrhizal and Ectomycorrhizal Fungi** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 ## External Profiles
 

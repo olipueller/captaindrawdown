@@ -1,7 +1,7 @@
 ---
 title: "Shareq Mohd Nazir"
 description: "Shareq Mohd Nazir is a Mid-career General CDR researcher at KTH Royal Institute of Technology in SE. With 45 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.374216
+date: 2026-08-11T01:33:11.332746
 url: "/cdr-researcher-census/researchers/shareq-mohd-nazir-a5033121/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,21 +51,24 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Process concepts and analysis for co-removing methane and carbon dioxide from the atmosphere** (2023)
-   13 citations
+   15 citations
 
 2. **Multiple greenhouse gases mitigation (MGM): Process concepts to co-remove non-CO2 (CH4) greenhouse gases and CO2 from air** (2022)
    3 citations · General CDR
 
-3. **BECCS potential in the pulp and paper industry: Technical and practical considerations for oxyfuel firing in Kraft recovery boilers** (2025)
+3. **Combining Nuclear Energy, Bioenergy, and Carbon Capture Can Significantly Reduce Thermal Energy Losses** (2026)
    0 citations · BECCS
 
-4. **Reduced life cycle climate impact from manure through catalytic methane conversion and carbon dioxide removal** (2025)
-   0 citations · General CDR
+4. **BECCS potential in the pulp and paper industry: Technical and practical considerations for oxyfuel firing in Kraft recovery boilers** (2025)
+   0 citations · BECCS
 
 5. **Reduced life cycle climate impact from manure through catalytic methane conversion and carbon dioxide removal** (2025)
+   0 citations · General CDR
+
+6. **Reduced life cycle climate impact from manure through catalytic methane conversion and carbon dioxide removal** (2025)
    0 citations
 
-6. **Co-removing methane and carbon dioxide from the atmosphere: Process concepts and analysis** (2023)
+7. **Co-removing methane and carbon dioxide from the atmosphere: Process concepts and analysis** (2023)
    0 citations
 
 ## External Profiles

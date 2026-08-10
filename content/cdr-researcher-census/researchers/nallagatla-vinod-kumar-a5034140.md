@@ -1,7 +1,7 @@
 ---
 title: "Nallagatla Vinod Kumar"
 description: "Nallagatla Vinod Kumar is an Early-career Biochar researcher at Central Research Institute for Dryland Agriculture in IN. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.406487
+date: 2026-08-11T01:33:12.266436
 url: "/cdr-researcher-census/researchers/nallagatla-vinod-kumar-a5034140/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Harnessing the potential of pigeonpea and maize feedstock biochar for carbon sequestration, energy generation, and environmental sustainability** (2024)
-   28 citations
+   32 citations
 
 2. **Comparative Analysis of Pigeonpea Stalk Biochar Characteristics and Energy Use under Different Biochar Production Methods** (2023)
    17 citations · Biochar

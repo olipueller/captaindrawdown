@@ -1,7 +1,7 @@
 ---
 title: "Ming Cheng"
 description: "Ming Cheng is a Mid-career Soil Carbon researcher at Dalian University of Technology in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.845737
+date: 2026-08-11T01:33:11.749641
 url: "/cdr-researcher-census/researchers/ming-cheng-a5005142/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Land-Use Impacts on Soil Nutrients, Particle Composition, and Ecological Functions in the Green Heart of the Chang-Zhu-Tan Urban Agglomeration, China** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

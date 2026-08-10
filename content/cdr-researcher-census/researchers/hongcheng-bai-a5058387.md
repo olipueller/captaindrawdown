@@ -1,7 +1,7 @@
 ---
 title: "Hongcheng Bai"
 description: "Hongcheng Bai is a Senior Soil Carbon researcher at Chengdu University in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.842399
+date: 2026-08-11T01:33:11.746977
 url: "/cdr-researcher-census/researchers/hongcheng-bai-a5058387/"
 layout: "researcher"
 hiddenInHomeList: true

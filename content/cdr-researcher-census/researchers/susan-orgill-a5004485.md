@@ -1,7 +1,7 @@
 ---
 title: "Susan Orgill"
 description: "Susan Orgill is a Mid-career Soil Carbon researcher at New South Wales Department of Primary Industries in AU. With 45 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.263647
+date: 2026-08-11T01:33:11.232928
 url: "/cdr-researcher-census/researchers/susan-orgill-a5004485/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    101 citations · Soil Carbon
 
 2. **Grazing management for soil carbon in Australia: A review** (2023)
-   70 citations · General CDR
+   73 citations · General CDR
 
 3. **Digital mapping of soil carbon sequestration potential with enhanced vegetation cover over New South Wales, Australia** (2021)
    24 citations · General CDR

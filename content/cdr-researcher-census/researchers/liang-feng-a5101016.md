@@ -1,7 +1,7 @@
 ---
 title: "Liang Feng"
 description: "Liang Feng is a Mid-career Soil Carbon researcher at Jiangsu University in CN. With 24 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.483309
+date: 2026-08-11T01:33:11.426548
 url: "/cdr-researcher-census/researchers/liang-feng-a5101016/"
 layout: "researcher"
 hiddenInHomeList: true

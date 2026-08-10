@@ -1,7 +1,7 @@
 ---
 title: "Kui Wang"
 description: "Kui Wang is a Mid-career Biochar researcher at Nanjing Forestry University in CN. With 32 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.751703
+date: 2026-08-11T01:33:11.666799
 url: "/cdr-researcher-census/researchers/kui-wang-a5106552/"
 layout: "researcher"
 hiddenInHomeList: true

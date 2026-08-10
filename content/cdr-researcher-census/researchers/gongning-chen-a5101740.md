@@ -1,7 +1,7 @@
 ---
 title: "Gongning Chen"
 description: "Gongning Chen is a Mid-career Biochar researcher at Guilin University of Technology in CN. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.638557
+date: 2026-08-11T01:33:11.565368
 url: "/cdr-researcher-census/researchers/gongning-chen-a5101740/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Beyond conventional biochar: Sulfur-iron modification unlocks redox control for synergistic cadmium-arsenic sequestration in paddy soils** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 2. **Organic fertilizer induced Fe–Sb transformation and rhizosphere barrier enhancement reduce antimony uptake in rice: Mechanisms and implications** (2026)
    0 citations

@@ -1,7 +1,7 @@
 ---
 title: "Jing-Jing Luo"
 description: "Jing-Jing Luo is an Early-career Biochar researcher at Xuzhou Medical College in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.150478
+date: 2026-08-11T01:33:12.038060
 url: "/cdr-researcher-census/researchers/jing-jing-luo-a5090517/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **In-situ growth of bimetallic FeCo-MOF on magnetic biochar for enhanced clearance of tetracycline and fruit preservation** (2022)
-   89 citations · Biochar
+   91 citations · Biochar
 
 ## External Profiles
 

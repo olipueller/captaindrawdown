@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Adnan"
 description: "Muhammad Adnan is a Mid-career Soil Carbon researcher at Institute of Geochemistry in CN. With 44 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.276269
+date: 2026-08-11T01:33:11.244693
 url: "/cdr-researcher-census/researchers/muhammad-adnan-a5062163/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of Ca<sup>2+</sup> on migration of dissolved organic matter in limestone soils of the southwest China karst area** (2021)
-   28 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 2. **Carbon sinks associated with biological carbon pump in karst surface waters: Progress, challenges, and prospects** (2024)
-   20 citations · General CDR
+   22 citations · General CDR
 
 3. **Prospecting the engineered environmental carbon sinks and ensuring long-term sustainability of karst areas impacted by heavy metal** (2025)
-   8 citations · General CDR
+   9 citations · General CDR
 
 4. **Effects of Ca2+ on migration of dissolved organic matter in limestone soils of the southwest China karst area** (2021)
    1 citations · Soil Carbon

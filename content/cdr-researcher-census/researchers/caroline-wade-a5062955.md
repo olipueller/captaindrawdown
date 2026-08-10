@@ -1,7 +1,7 @@
 ---
 title: "Caroline Wade"
 description: "Caroline Wade is a Senior Soil Carbon researcher at University of Alberta in CA. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.568147
+date: 2026-08-11T01:33:12.411898
 url: "/cdr-researcher-census/researchers/caroline-wade-a5062955/"
 layout: "researcher"
 hiddenInHomeList: true

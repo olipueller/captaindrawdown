@@ -1,7 +1,7 @@
 ---
 title: "Yanying He"
 description: "Yanying He is a Mid-career Biochar researcher at Tianjin University in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.543999
+date: 2026-08-11T01:33:11.479499
 url: "/cdr-researcher-census/researchers/yanying-he-a5087207/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Net-zero greenhouse gas emission from wastewater treatment: Mechanisms, opportunities and perspectives** (2023)
-   107 citations
+   112 citations
 
 2. **Mechanisms insights into Cd passivation in soil by lignin biochar: Transition from flooding to natural air-drying** (2024)
-   20 citations · Biochar
+   21 citations · Biochar
 
 ## External Profiles
 

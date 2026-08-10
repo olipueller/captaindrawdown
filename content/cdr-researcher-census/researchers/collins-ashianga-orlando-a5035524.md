@@ -1,7 +1,7 @@
 ---
 title: "Collins Ashianga Orlando"
 description: "Collins Ashianga Orlando is a Mid-career Soil Carbon researcher at Université du Québec à Rimouski in CA. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.472947
+date: 2026-08-11T01:33:12.328304
 url: "/cdr-researcher-census/researchers/collins-ashianga-orlando-a5035524/"
 layout: "researcher"
 hiddenInHomeList: true

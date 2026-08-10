@@ -1,7 +1,7 @@
 ---
 title: "Oscar Iu‐Fan Chen"
 description: "Oscar Iu‐Fan Chen is a Mid-career DAC researcher at University of California System in US. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.440495
+date: 2026-08-11T01:33:11.390645
 url: "/cdr-researcher-census/researchers/oscar-iufan-chen-a5018952/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Water-Enhanced Direct Air Capture of Carbon Dioxide in Metal–Organic Frameworks** (2024)
-   242 citations · DAC
+   252 citations · DAC
 
 ## External Profiles
 

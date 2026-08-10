@@ -1,7 +1,7 @@
 ---
 title: "Abdullah Dik"
 description: "Abdullah Dik is a Mid-career General CDR researcher at University of Nottingham in GB. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.709517
+date: 2026-08-11T01:33:11.628497
 url: "/cdr-researcher-census/researchers/abdullah-dik-a5065690/"
 layout: "researcher"
 hiddenInHomeList: true

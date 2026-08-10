@@ -1,7 +1,7 @@
 ---
 title: "Dana Fabienne Liebke"
 description: "Dana Fabienne Liebke is an Early-career Soil Carbon researcher at Klinikum Magdeburg in DE. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.652335
+date: 2026-08-11T01:33:11.577437
 url: "/cdr-researcher-census/researchers/dana-fabienne-liebke-a5083027/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Impact of rainforest conversion into monoculture plantation systems on pseudoscorpion density, diversity and trophic niches** (2021)
-   18 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 ## External Profiles
 

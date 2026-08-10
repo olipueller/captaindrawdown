@@ -1,7 +1,7 @@
 ---
 title: "Xianliang Wu"
 description: "Xianliang Wu is a Mid-career Biochar researcher at Guizhou Academy of Sciences in CN. With 52 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.351758
+date: 2026-08-11T01:33:11.313541
 url: "/cdr-researcher-census/researchers/xianliang-wu-a5016398/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Control of soil organic carbon under karst landforms: A case study of Guizhou Province, in southwest China** (2022)
-   33 citations · Soil Carbon
+   34 citations · Soil Carbon
 
-2. **Cd(II) removal from aqueous solutions by pomelo peel derived biochar in a permeable reactive barrier: modelling, optimization and mechanism** (2021)
+2. **Optimizing the Methylene Blue Removalfrom Aqueous Solution Using Pomelo Peel BasedBiochar Assisted by RSM and ANN-PSO** (2021)
+   12 citations · Biochar
+
+3. **Cd(II) removal from aqueous solutions by pomelo peel derived biochar in a permeable reactive barrier: modelling, optimization and mechanism** (2021)
    11 citations · Biochar
-
-3. **Optimizing the Methylene Blue Removalfrom Aqueous Solution Using Pomelo Peel BasedBiochar Assisted by RSM and ANN-PSO** (2021)
-   10 citations · Biochar
 
 ## External Profiles
 

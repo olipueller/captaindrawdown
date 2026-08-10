@@ -1,7 +1,7 @@
 ---
 title: "Sofiane El Barkaoui"
 description: "Sofiane El Barkaoui is an Early-career Biochar researcher at Water Research Institute in IT. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.535321
+date: 2026-08-11T01:33:12.385919
 url: "/cdr-researcher-census/researchers/sofiane-el-barkaoui-a5011564/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A critical review on using biochar as constructed wetland substrate: Characteristics, feedstock, design and pollutants removal mechanisms** (2023)
-   72 citations · Biochar
+   73 citations · Biochar
 
 2. **Biochar Synthesis, Characterization, and Application in Constructed Wetlands Systems for Removing Organic Matter, Nutrients, Pathogens, and Pharmaceutical Pollutants** (2025)
    0 citations · Biochar

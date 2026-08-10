@@ -1,7 +1,7 @@
 ---
 title: "Carina Hofmann"
 description: "Carina Hofmann is a Mid-career General CDR researcher at Technische Universität Darmstadt in DE. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.331357
+date: 2026-08-11T01:33:12.198266
 url: "/cdr-researcher-census/researchers/carina-hofmann-a5055594/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Efficient CO2 capture from lime production by an indirectly heated carbonate looping process** (2021)
-   37 citations
+   39 citations
 
 2. **Efficient CO2 Capture from Lime Production by an Indirectly Heated Carbonate Looping Process** (2021)
    8 citations · General CDR

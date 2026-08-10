@@ -1,7 +1,7 @@
 ---
 title: "Yanjie Niu"
 description: "Yanjie Niu is a Mid-career Biochar researcher at Hefei University of Technology in CN. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.675588
+date: 2026-08-11T01:33:11.597830
 url: "/cdr-researcher-census/researchers/yanjie-niu-a5019939/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Efficient removal of methylene blue via two-step modification hazelnut shell biochar: Process intensification, kinetics and thermodynamics** (2023)
-   13 citations · Biochar
+   14 citations · Biochar
 
 ## External Profiles
 

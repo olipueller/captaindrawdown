@@ -1,7 +1,7 @@
 ---
 title: "Hongyuan Zhang"
 description: "Hongyuan Zhang is a Senior Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 80 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.241142
+date: 2026-08-11T01:33:11.212412
 url: "/cdr-researcher-census/researchers/hongyuan-zhang-a5024164/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,17 +50,17 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Potentially toxic trace element pollution in long-term fertilized agricultural soils in China: A meta-analysis** (2021)
-   44 citations
+1. **High soil salinity reduces straw decomposition but primes soil organic carbon loss** (2025)
+   49 citations · Soil Carbon
 
-2. **High soil salinity reduces straw decomposition but primes soil organic carbon loss** (2025)
-   42 citations · Soil Carbon
+2. **Potentially toxic trace element pollution in long-term fertilized agricultural soils in China: A meta-analysis** (2021)
+   46 citations
 
 3. **Bacterial necromass as the main source of organic matter in saline soils** (2024)
    19 citations
 
 4. **Green manure roots return drives saline-alkali soil organic carbon accumulation via microbial necromass formation** (2025)
-   12 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 5. **Subsurface application of organic ameliorant in saline soils increases microbial necromass accumulation in mineral-associated organic matter** (2025)
    8 citations · Soil Carbon

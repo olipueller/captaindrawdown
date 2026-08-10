@@ -1,7 +1,7 @@
 ---
 title: "Hardeep Singh Sheoran"
 description: "Hardeep Singh Sheoran is a Mid-career Soil Carbon researcher at Chaudhary Charan Singh Haryana Agricultural University in IN. With 27 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.343641
+date: 2026-08-11T01:33:12.209219
 url: "/cdr-researcher-census/researchers/hardeep-singh-sheoran-a5000402/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Regenerative Agriculture as Climate Smart Solution to Improve Soil Health and Crop Productivity Thereby Catalysing Farmers’ Livelihood and Sustainability** (2022)
-   21 citations · General CDR
+   22 citations · General CDR
 
 2. **Effect of Conservation Agriculture on Energy Consumption and Carbon Emission** (2022)
    3 citations · Soil Carbon

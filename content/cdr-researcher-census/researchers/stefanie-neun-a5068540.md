@@ -1,7 +1,7 @@
 ---
 title: "Stefanie Neun"
 description: "Stefanie Neun is a Mid-career General CDR researcher at Novozymes (Denmark) in DK. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.829564
+date: 2026-08-11T01:33:11.736048
 url: "/cdr-researcher-census/researchers/stefanie-neun-a5068540/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -59,7 +59,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 3. **Amidase‐Catalyzed Desorption of CO <sub>2</sub> Captured in Aqueous Monoethanolamine (MEA) Solutions** (2026)
    0 citations · General CDR
 
-4. **Enzyme Assisted Direct Air Capture of carbon dioxide** (2024)
+4. **Amidase-catalyzed Desorption of CO2 Captured in Aqueous Monoethanolamine (MEA) Solutions** (2026)
+   0 citations
+
+5. **Enzyme Assisted Direct Air Capture of carbon dioxide** (2024)
    0 citations
 
 ## External Profiles

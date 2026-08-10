@@ -1,7 +1,7 @@
 ---
 title: "Sumera Shabir"
 description: "Sumera Shabir is a Mid-career Biochar researcher. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.546922
+date: 2026-08-11T01:33:11.482211
 url: "/cdr-researcher-census/researchers/sumera-shabir-a5072241/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Development of novel kinetic model based on microbiome and biochar for in-situ remediation of total petroleum hydrocarbons (TPHs) contaminated soil** (2023)
-   35 citations · Biochar
+   36 citations · Biochar
 
 ## External Profiles
 

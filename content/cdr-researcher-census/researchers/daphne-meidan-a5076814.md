@@ -1,7 +1,7 @@
 ---
 title: "Daphne Meidan"
 description: "Daphne Meidan is a Mid-career General CDR researcher at Consejo Superior de Investigaciones Científicas in ES. With 33 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.407692
+date: 2026-08-11T01:33:11.361445
 url: "/cdr-researcher-census/researchers/daphne-meidan-a5076814/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Opinion: A research roadmap for exploring atmospheric methane removal via iron salt aerosol** (2024)
-   10 citations · General CDR
+   11 citations · General CDR
 
 2. **Exploring potential atmospheric methane removal approaches: an example research roadmap for chlorine radical enhancement** (2023)
    1 citations · General CDR

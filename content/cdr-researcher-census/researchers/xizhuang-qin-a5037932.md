@@ -1,7 +1,7 @@
 ---
 title: "Xizhuang Qin"
 description: "Xizhuang Qin is a Mid-career DAC researcher at Shandong University of Science and Technology in CN. With 32 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.674778
+date: 2026-08-11T01:33:11.597080
 url: "/cdr-researcher-census/researchers/xizhuang-qin-a5037932/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Reza Maghsoodi"
 description: "Mohammad Reza Maghsoodi is a Mid-career Biochar researcher at University of Tabriz in IR. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.511962
+date: 2026-08-11T01:33:11.451349
 url: "/cdr-researcher-census/researchers/mohammad-reza-maghsoodi-a5103901/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Nutrient recovery in pyrolysis biochars for agricultural applications–Biochemical compositions and nutrient extraction techniques** (2025)
-   7 citations · Biochar
+   9 citations · Biochar
 
 ## External Profiles
 

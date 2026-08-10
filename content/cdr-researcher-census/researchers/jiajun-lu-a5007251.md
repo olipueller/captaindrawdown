@@ -1,7 +1,7 @@
 ---
 title: "Jiajun Lu"
 description: "Jiajun Lu is an Early-career Biochar researcher at Guangxi University in CN. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.161991
+date: 2026-08-11T01:33:12.048359
 url: "/cdr-researcher-census/researchers/jiajun-lu-a5007251/"
 layout: "researcher"
 hiddenInHomeList: true

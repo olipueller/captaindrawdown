@@ -1,7 +1,7 @@
 ---
 title: "Mathew C. Holliday"
 description: "Mathew C. Holliday is an Early-career Biochar researcher at University of Hull in GB. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.357458
+date: 2026-08-11T01:33:12.221378
 url: "/cdr-researcher-census/researchers/mathew-c-holliday-a5017744/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Microwave-Assisted Hydrothermal Carbonisation of Waste Biomass: The Effect of Process Conditions on Hydrochar Properties** (2022)
-   25 citations · Biochar
+   27 citations · Biochar
 
 ## External Profiles
 

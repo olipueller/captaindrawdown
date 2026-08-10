@@ -1,7 +1,7 @@
 ---
 title: "Mujib Rahman"
 description: "Mujib Rahman is a Senior Biochar researcher at Aston University in GB. With 49 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.290185
+date: 2026-08-11T01:33:11.258045
 url: "/cdr-researcher-census/researchers/mujib-rahman-a5101669/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Long-Term Properties of Ternary Cementitious Grout Systems Incorporating Wood-Based Biochar and Fly Ash** (2025)
-   6 citations · Biochar
+   7 citations · Biochar
 
 2. **Effect of Metakaolin and Biochar Addition on the Performance of 3D Concrete Printing: A Meta-Analysis Approach** (2025)
    4 citations · Biochar

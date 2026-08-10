@@ -1,7 +1,7 @@
 ---
 title: "Patrick von Jeetze"
 description: "Patrick von Jeetze is a Mid-career General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 34 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.391810
+date: 2026-08-11T01:33:11.347579
 url: "/cdr-researcher-census/researchers/patrick-von-jeetze-a5002714/"
 layout: "researcher"
 hiddenInHomeList: true

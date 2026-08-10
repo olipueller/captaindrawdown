@@ -1,7 +1,7 @@
 ---
 title: "Jiangzhou Qin"
 description: "Jiangzhou Qin is a Mid-career Biochar researcher at Guizhou University in CN. With 47 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.282545
+date: 2026-08-11T01:33:11.250626
 url: "/cdr-researcher-census/researchers/jiangzhou-qin-a5031130/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -56,7 +56,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 3. **Adsorption-enhanced PMS activation over waste iron sludge-derived Fe/biochar for sulfamethoxazole degradation: A singlet oxygen-dominated pathway** (2026)
    0 citations · Biochar
 
-4. **Preparation and Study of Straw Porous Biochar with Aromatic Ring Structure for Adsorption Performance and Mechanism towards TNT Red Water** (2023)
+4. **Adsorption-enhanced PMS activation over waste iron sludge-derived Fe/biochar for sulfamethoxazole degradation: A singlet oxygen-dominated pathway** (2026)
+   0 citations · Biochar
+
+5. **Preparation and Study of Straw Porous Biochar with Aromatic Ring Structure for Adsorption Performance and Mechanism towards TNT Red Water** (2023)
    0 citations · Biochar
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Karina Pulrolnik"
 description: "Karina Pulrolnik is a Senior Soil Carbon researcher at Brazilian Agricultural Research Corporation in BR. With 48 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.566001
+date: 2026-08-11T01:33:11.499429
 url: "/cdr-researcher-census/researchers/karina-pulrolnik-a5064620/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Chemical composition of cover crops and soil organic matter pools in no‐tillage systems in the Cerrado** (2021)
-   23 citations · General CDR
+   24 citations · General CDR
 
 2. **Carbon Storage in Different Compartments in Eucalyptus Stands and Native Cerrado Vegetation** (2023)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 3. **Soil Carbon and Organic Matter Fractions Under Nitrogen Management in a Maize–Soybean–Cover Crop System in the Cerrado** (2025)
    2 citations · Soil Carbon

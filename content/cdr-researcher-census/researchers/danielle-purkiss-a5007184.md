@@ -1,7 +1,7 @@
 ---
 title: "Danielle Purkiss"
 description: "Danielle Purkiss is a Mid-career General CDR researcher at University College London in GB. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.780015
+date: 2026-08-11T01:33:11.692356
 url: "/cdr-researcher-census/researchers/danielle-purkiss-a5007184/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The environmental performance of different end-of-life options for compostable diapers in a UK system** (2025)
-   0 citations · General CDR
+   3 citations · General CDR
 
 ## External Profiles
 

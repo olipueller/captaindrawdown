@@ -1,7 +1,7 @@
 ---
 title: "Jintu Kumar Bania"
 description: "Jintu Kumar Bania is a Mid-career Soil Carbon researcher at Assam University in IN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.518539
+date: 2026-08-11T01:33:12.370540
 url: "/cdr-researcher-census/researchers/jintu-kumar-bania-a5002821/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Threats to inland wetlands and uncertainty around global soil carbon stocks and sequestration rates** (2024)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 2. **Variation in biomass and soil carbon storage and sequestration rates in different agroforestry systems with climatic zones and soil types** (2025)
    14 citations · General CDR

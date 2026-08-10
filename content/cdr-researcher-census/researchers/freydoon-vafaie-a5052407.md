@@ -1,7 +1,7 @@
 ---
 title: "Freydoon Vafaie"
 description: "Freydoon Vafaie is a Mid-career Biochar researcher at K.N.Toosi University of Technology in IR. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.735773
+date: 2026-08-11T01:33:11.652401
 url: "/cdr-researcher-census/researchers/freydoon-vafaie-a5052407/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Comparative Life Cycle Assessment of Two Urban Wastewater Treatment Plants: A Case Study for Iran** (2025)
-   2 citations
+   3 citations
 
 2. **Life cycle assessment of feedstocks-based biochars as soil amendment in Iranian agriculture: Sustainability analysis and strategy optimization** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

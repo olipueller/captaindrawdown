@@ -1,7 +1,7 @@
 ---
 title: "H. L. Zhang"
 description: "H. L. Zhang is a Mid-career DAC researcher at Line Corporation (Japan) in JP. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.274556
+date: 2026-08-11T01:33:11.243098
 url: "/cdr-researcher-census/researchers/h-l-zhang-a5076411/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Techno-economic analysis and multi-objective optimization of a novel direct air capture system integrating concentrating solar power with alkali metal-based solid adsorption technology** (2025)
-   3 citations · DAC
+   4 citations · DAC
 
 ## External Profiles
 

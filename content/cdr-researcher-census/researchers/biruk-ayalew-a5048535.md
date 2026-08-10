@@ -1,7 +1,7 @@
 ---
 title: "Biruk Ayalew"
 description: "Biruk Ayalew is a Mid-career Soil Carbon researcher at St. Paul's Hospital Millennium Medical College in ET. With 22 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.576769
+date: 2026-08-11T01:33:11.509093
 url: "/cdr-researcher-census/researchers/biruk-ayalew-a5048535/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of shade tree species on soil biogeochemistry and coffee bean quality in plantation coffee** (2023)
-   26 citations · Soil Carbon
+   29 citations · Soil Carbon
 
 2. **Shade Tree Species Effects on Soil Biogeochemistry and Coffee Bean Quality in Plantation Coffee Agroforestry** (2022)
    0 citations · Soil Carbon

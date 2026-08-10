@@ -1,7 +1,7 @@
 ---
 title: "Xiaoyun Xu"
 description: "Xiaoyun Xu is an Eminent Biochar researcher at Shanghai Jiao Tong University in CN. With 161 publications and an h-index of 56, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.091141
+date: 2026-08-11T01:33:11.072023
 url: "/cdr-researcher-census/researchers/xiaoyun-xu-a5067165/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Impacts of different activation processes on the carbon stability of biochar for oxidation resistance** (2021)
-   160 citations · Biochar
+   163 citations · Biochar
 
 2. **Evaluation of long-term carbon sequestration of biochar in soil with biogeochemical field model** (2022)
-   92 citations · Biochar
+   93 citations · Biochar
 
 3. **Stabilization of dissolvable biochar by soil minerals: Release reduction and organo-mineral complexes formation** (2021)
-   79 citations · Biochar
+   81 citations · Biochar
 
 4. **Development of phosphorus composite biochar for simultaneous enhanced carbon sink and heavy metal immobilization in soil** (2022)
-   68 citations · Biochar
+   69 citations · Biochar
 
 5. **Minerals: A missing role for enhanced biochar carbon sequestration from the thermal conversion of biomass to the application in soil** (2022)
    50 citations · Biochar
@@ -69,16 +69,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    46 citations · General CDR
 
 7. **Biochar-amended soil can further sorb atmospheric CO2 for more carbon sequestration** (2025)
-   33 citations · Biochar
+   37 citations · Biochar
 
 8. **Synergistic role of bulk carbon and iron minerals inherent in the sludge-derived biochar for As(V) immobilization** (2021)
-   28 citations · Biochar
+   29 citations · Biochar
 
 9. **Converting coastal silt into subgrade soil with biochar as reinforcing agent, CO2 adsorbent, and carbon sequestrating material** (2023)
    18 citations · Biochar
 
 10. **Beyond universal application: dissecting the differential amelioration and carbon sequestration performance of biochar in chloride-, sulfate-, and soda saline-alkali soils** (2026)
-   1 citations · Biochar
+   2 citations · Biochar
 
 ## External Profiles
 

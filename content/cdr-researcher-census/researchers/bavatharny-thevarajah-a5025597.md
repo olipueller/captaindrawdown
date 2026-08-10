@@ -1,7 +1,7 @@
 ---
 title: "Bavatharny Thevarajah"
 description: "Bavatharny Thevarajah is a Mid-career BECCS researcher at University of Moratuwa in LK. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.655944
+date: 2026-08-11T01:33:11.580582
 url: "/cdr-researcher-census/researchers/bavatharny-thevarajah-a5025597/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    26 citations · BECCS
 
 2. **Harnessing Algae: Advancements in Wastewater Treatment and Resource Recovery** (2024)
-   5 citations
+   6 citations
 
 ## External Profiles
 

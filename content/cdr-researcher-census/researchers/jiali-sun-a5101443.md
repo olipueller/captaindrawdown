@@ -1,7 +1,7 @@
 ---
 title: "Jiali Sun"
 description: "Jiali Sun is a Mid-career Soil Carbon researcher at Inner Mongolia Agricultural University in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.771102
+date: 2026-08-11T01:33:11.684418
 url: "/cdr-researcher-census/researchers/jiali-sun-a5101443/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil multifunctionality of paddy field is explained by soil pH rather than microbial diversity after 8-years of repeated applications of biochar and nitrogen fertilizer** (2022)
-   80 citations · Biochar
+   82 citations · Biochar
 
 2. **Differences in the regulation of soil carbon quality and stability by topsoil and deep soil under grazing** (2025)
    0 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Lujian Lin"
 description: "Lujian Lin is a Mid-career Soil Carbon researcher at Xiamen University in CN. With 20 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.275426
+date: 2026-08-11T01:33:11.243946
 url: "/cdr-researcher-census/researchers/lujian-lin-a5101086/"
 layout: "researcher"
 hiddenInHomeList: true

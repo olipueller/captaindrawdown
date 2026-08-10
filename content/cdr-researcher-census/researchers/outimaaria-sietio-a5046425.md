@@ -1,7 +1,7 @@
 ---
 title: "Outi‐Maaria Sietiö"
 description: "Outi‐Maaria Sietiö is a Mid-career Soil Carbon researcher at Häme University of Applied Sciences in FI. With 58 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.294257
+date: 2026-08-11T01:33:11.261562
 url: "/cdr-researcher-census/researchers/outimaaria-sietio-a5046425/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Biochar reduced the mineralization of native and added soil organic carbon: evidence of negative priming and enhanced microbial carbon use efficiency** (2024)
-   96 citations · Biochar
+   101 citations · Biochar
 
 2. **Effects of biochar, ligneous soil amendments, and a microbial stimulant on soil biological activity, and carbon content and stability after two-years of their application in a boreal cropland** (2025)
    1 citations · Biochar

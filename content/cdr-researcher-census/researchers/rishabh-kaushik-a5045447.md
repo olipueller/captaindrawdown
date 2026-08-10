@@ -1,7 +1,7 @@
 ---
 title: "Rishabh Kaushik"
 description: "Rishabh Kaushik is a Mid-career Biochar researcher at International Centre for Theoretical Sciences in IN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.347515
+date: 2026-08-11T01:33:12.212655
 url: "/cdr-researcher-census/researchers/rishabh-kaushik-a5045447/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar-Induced Microbial Shifts: Advancing Soil Sustainability** (2025)
-   39 citations · Biochar
+   41 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Chokchai Mueanmas"
 description: "Chokchai Mueanmas is a Senior BECCS researcher. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.075861
+date: 2026-08-11T01:33:11.969404
 url: "/cdr-researcher-census/researchers/chokchai-mueanmas-a5085721/"
 layout: "researcher"
 hiddenInHomeList: true

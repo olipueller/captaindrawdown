@@ -1,7 +1,7 @@
 ---
 title: "Yueyue Xu"
 description: "Yueyue Xu is a Mid-career Soil Carbon researcher at Shanxi Agricultural University in CN. With 33 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.773658
+date: 2026-08-11T01:33:11.686640
 url: "/cdr-researcher-census/researchers/yueyue-xu-a5101480/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Bacterial community drives soil organic carbon transformation in vanadium titanium magnetite tailings through remediation using Pongamia pinnata** (2024)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 2. **Green manure reduces global agricultural carbon footprint by enhancing soil organic carbon stocks: Evidence from global meta-analysis and machine learning assessment** (2026)
    0 citations · Soil Carbon

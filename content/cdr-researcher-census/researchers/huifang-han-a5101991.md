@@ -1,7 +1,7 @@
 ---
 title: "Huifang Han"
 description: "Huifang Han is a Mid-career Soil Carbon researcher at Shandong Agricultural University in CN. With 23 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.671136
+date: 2026-08-11T01:33:11.593771
 url: "/cdr-researcher-census/researchers/huifang-han-a5101991/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Crop – Livestock integration via maize straw recycling increased carbon sequestration and crop production in China** (2023)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 2. **Enhancing the coupling coordination of soil–crop systems by optimising soil properties and crop production via subsoiling** (2024)
    11 citations · Soil Carbon

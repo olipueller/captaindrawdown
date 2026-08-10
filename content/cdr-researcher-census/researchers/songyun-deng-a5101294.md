@@ -1,7 +1,7 @@
 ---
 title: "Songyun Deng"
 description: "Songyun Deng is a Mid-career Biochar researcher at Hunan University of Science and Technology in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.238604
+date: 2026-08-11T01:33:12.118295
 url: "/cdr-researcher-census/researchers/songyun-deng-a5101294/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Adsorption of Sb(III) and Pb(II) in wastewater by magnetic γ-Fe2O3-loaded sludge biochar: Performance and mechanisms** (2023)
-   64 citations · Biochar
+   66 citations · Biochar
 
 ## External Profiles
 

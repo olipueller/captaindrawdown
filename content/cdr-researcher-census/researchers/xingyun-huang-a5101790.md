@@ -1,7 +1,7 @@
 ---
 title: "Xingyun Huang"
 description: "Xingyun Huang is a Senior Soil Carbon researcher at South China Botanical Garden in CN. With 50 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.273857
+date: 2026-08-11T01:33:11.242553
 url: "/cdr-researcher-census/researchers/xingyun-huang-a5101790/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,34 +50,34 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Fiddler crab bioturbation stimulates methane emissions in mangroves: Insights into microbial mechanisms** (2024)
-   38 citations · Soil Carbon
+1. **Spartina alterniflora invasion benefits blue carbon sequestration in China** (2024)
+   39 citations
 
-2. **Spartina alterniflora invasion benefits blue carbon sequestration in China** (2024)
-   37 citations
+2. **Fiddler crab bioturbation stimulates methane emissions in mangroves: Insights into microbial mechanisms** (2024)
+   39 citations · Soil Carbon
 
 3. **Grassland degradation-induced soil organic carbon loss associated with micro-food web simplification** (2024)
-   28 citations · Soil Carbon
+   29 citations · Soil Carbon
 
 4. **Fate of soil organic carbon in estuarine mangroves: Evidences from stable isotopes and lignin biomarkers** (2024)
-   28 citations · Soil Carbon
+   29 citations · Soil Carbon
 
 5. **Blue carbon storage of tidal flats and salt marshes: A comparative assessment in two Chinese coastal areas** (2024)
-   21 citations · Ocean CDR
+   25 citations · Ocean CDR
 
 6. **Mangrove restoration enhances blue carbon sequestration and its stability in a subtropical tidal wetland** (2025)
-   12 citations · Ocean CDR
+   13 citations · Ocean CDR
 
 7. **Enhanced abundance of generalist and litter saprotrophs explain increased tropical forest soil carbon with long‐term nitrogen deposition** (2023)
    12 citations · Soil Carbon
 
 8. **Responses of depth-dependence of C:N:P stoichiometry to check dam in mangrove wetlands** (2024)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 9. **Mangrove sediment carbon burial offset by methane emissions from mangrove tree stems** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
-10. **Microbial carbon limitation shapes blue carbon quality during mangrove restoration** (2026)
+10. **Estimation of mangrove blue carbon stock in Ghana, West Africa** (2026)
    0 citations
 
 ## External Profiles

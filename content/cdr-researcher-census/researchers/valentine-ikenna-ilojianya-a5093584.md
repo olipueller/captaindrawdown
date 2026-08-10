@@ -1,7 +1,7 @@
 ---
 title: "Valentine Ikenna Ilojianya"
 description: "Valentine Ikenna Ilojianya is a Senior General CDR researcher at University of Alabama in US. With 33 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.242148
+date: 2026-08-11T01:33:11.213445
 url: "/cdr-researcher-census/researchers/valentine-ikenna-ilojianya-a5093584/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,11 +47,11 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Top CDR Publications
 
-1. **AI and machine learning in climate change research: A review of predictive models and environmental impact** (2024)
-   46 citations · General CDR
+1. **A cradle-to-gate life cycle assessment of green methanol production using direct air capture** (2024)
+   49 citations · DAC
 
-2. **A cradle-to-gate life cycle assessment of green methanol production using direct air capture** (2024)
-   44 citations · DAC
+2. **AI and machine learning in climate change research: A review of predictive models and environmental impact** (2024)
+   48 citations · General CDR
 
 ## External Profiles
 

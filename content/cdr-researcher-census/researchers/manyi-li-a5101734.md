@@ -1,7 +1,7 @@
 ---
 title: "Manyi Li"
 description: "Manyi Li is a Senior Soil Carbon researcher at Shandong University in CN. With 56 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.437333
+date: 2026-08-11T01:33:11.387876
 url: "/cdr-researcher-census/researchers/manyi-li-a5101734/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,11 +53,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Responses of aggregate-associated carbon and their fractions to different positions in a karst valley of Southwest China** (2025)
    2 citations · Soil Carbon
 
-2. **Enhanced Rock Weathering Increases Soil Carbon but Reduces Soil Organic Carbon Stability in Subtropical Croplands** (2026)
-   0 citations · Enhanced Weathering
+2. **Impacts of Ecological Restoration Projects on Ecosystem Carbon Storage of Tongluo Mountain Mining Area, Chongqing, in Southwest China** (2025)
+   1 citations · Soil Carbon
 
-3. **Impacts of Ecological Restoration Projects on Ecosystem Carbon Storage of Tongluo Mountain Mining Area, Chongqing, in Southwest China** (2025)
-   0 citations · Soil Carbon
+3. **Enhanced Rock Weathering Increases Soil Carbon but Reduces Soil Organic Carbon Stability in Subtropical Croplands** (2026)
+   0 citations · Enhanced Weathering
 
 4. **Evaluation of Carbon Sequestration Benefits of Ecological Restoration in Open Pit Mines —— A Case Study of Tongluo Mountain Mine** (2025)
    0 citations · Soil Carbon

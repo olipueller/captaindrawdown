@@ -1,7 +1,7 @@
 ---
 title: "Nurullah Acır"
 description: "Nurullah Acır is a Mid-career Soil Carbon researcher at Ahi Evran University in TR. With 39 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.591614
+date: 2026-08-11T01:33:11.522536
 url: "/cdr-researcher-census/researchers/nurullah-acr-a5033084/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Improvement of spatial estimation for soil organic carbon stocks in Yuksekova plain using Sentinel 2 imagery and gradient descent–boosted regression tree** (2023)
-   21 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 2. **Improvement of Spatial Estimation for Soil Organic Carbon Stocks in Yuksekova Plain using Sentinel 2 imagery and Gradient Descent Boosted Regression Tree** (2022)
    0 citations · Soil Carbon

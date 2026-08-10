@@ -1,7 +1,7 @@
 ---
 title: "Antonio Gasós"
 description: "Antonio Gasós is a Mid-career DAC researcher at ETH Zurich in CH. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.900707
+date: 2026-08-11T01:33:11.800120
 url: "/cdr-researcher-census/researchers/antonio-gasos-a5021269/"
 layout: "researcher"
 hiddenInHomeList: true

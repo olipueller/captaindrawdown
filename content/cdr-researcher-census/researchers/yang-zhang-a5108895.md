@@ -1,7 +1,7 @@
 ---
 title: "Yang Zhang"
 description: "Yang Zhang is a Mid-career Soil Carbon researcher at Xijing University in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.987771
+date: 2026-08-11T01:33:11.865701
 url: "/cdr-researcher-census/researchers/yang-zhang-a5108895/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of tillage practices on environment, energy, and economy of maize production in Northeast China** (2024)
-   18 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 ## External Profiles
 

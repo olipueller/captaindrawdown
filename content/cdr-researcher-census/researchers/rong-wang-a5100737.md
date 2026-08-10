@@ -1,7 +1,7 @@
 ---
 title: "Rong Wang"
 description: "Rong Wang is a Senior Soil Carbon researcher at SGIDI Engineering Consulting (China) in CN. With 29 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.248182
+date: 2026-08-11T01:33:11.219159
 url: "/cdr-researcher-census/researchers/rong-wang-a5100737/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Macroaggregate is crucial in soil carbon and nitrogen accumulation under different vegetation types in the Loess Plateau, China** (2024)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 2. **Residue carbon and C-degradation gene indicated the increase of soil organic carbon following vegetation restoration on the Loess Plateau, China** (2025)
    2 citations · Soil Carbon

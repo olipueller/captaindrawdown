@@ -1,7 +1,7 @@
 ---
 title: "Lingyue Liu"
 description: "Lingyue Liu is a Mid-career Soil Carbon researcher at City University of Hong Kong in HK. With 39 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.284409
+date: 2026-08-11T01:33:11.252283
 url: "/cdr-researcher-census/researchers/lingyue-liu-a5102794/"
 layout: "researcher"
 hiddenInHomeList: true

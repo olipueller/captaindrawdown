@@ -1,7 +1,7 @@
 ---
 title: "Rome-Ming Wu"
 description: "Rome-Ming Wu is an Early-career Biochar researcher at Ming Chi University of Technology in TW. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.434808
+date: 2026-08-11T01:33:12.292397
 url: "/cdr-researcher-census/researchers/rome-ming-wu-a5070108/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Manganese ferrite modified agricultural waste-derived biochars for copper ions adsorption** (2022)
-   54 citations · Biochar
+   58 citations · Biochar
 
 ## External Profiles
 

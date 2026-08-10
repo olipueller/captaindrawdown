@@ -1,7 +1,7 @@
 ---
 title: "Haiyan Jiang"
 description: "Haiyan Jiang is a Mid-career Biochar researcher at Nanjing Tech University in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.088599
+date: 2026-08-11T01:33:11.980716
 url: "/cdr-researcher-census/researchers/haiyan-jiang-a5102445/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Fungal Necromass Carbon Stabilizes Rhizosphere Soil Organic Carbon: Microbial Degradation Gene Insights Under Straw and Biochar** (2025)
-   2 citations · Biochar
+   4 citations · Biochar
 
 ## External Profiles
 

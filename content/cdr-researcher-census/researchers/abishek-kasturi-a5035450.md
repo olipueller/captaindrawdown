@@ -1,7 +1,7 @@
 ---
 title: "Abishek Kasturi"
 description: "Abishek Kasturi is a Mid-career General CDR researcher at Oak Ridge National Laboratory in US. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.874791
+date: 2026-08-11T01:33:11.776443
 url: "/cdr-researcher-census/researchers/abishek-kasturi-a5035450/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,10 +54,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    42 citations
 
 2. **Ultra-fast microwave regeneration of CO2 solid sorbents for energy-efficient direct air capture** (2022)
-   38 citations
+   41 citations
 
 3. **An effective air–liquid contactor for CO2 direct air capture using aqueous solvents** (2023)
-   34 citations
+   35 citations
 
 4. **Determination of the regeneration energy of direct air capture solvents/sorbents using calorimetric methods** (2023)
    28 citations

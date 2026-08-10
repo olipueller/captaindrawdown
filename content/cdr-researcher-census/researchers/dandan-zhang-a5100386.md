@@ -1,7 +1,7 @@
 ---
 title: "Dandan Zhang"
 description: "Dandan Zhang is a Senior Biochar researcher at Heilongjiang Academy of Sciences in CN. With 52 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.428292
+date: 2026-08-11T01:33:11.380181
 url: "/cdr-researcher-census/researchers/dandan-zhang-a5100386/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Synergistic effects of adsorption and chemical reduction towards the effective Cr(VI) removal in the presence of the sulfur-doped biochar material** (2024)
-   22 citations · Biochar
+   24 citations · Biochar
 
 2. **Increasing soil organic carbon pools and wheat yields by optimising tillage and fertilisation on the Loess Plateau in China** (2021)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 3. **Synergistic effects between adsorption and chemical reduction towards the effective Cr(Ⅵ) removal in the presence of the sulfur-doped biochar material** (2023)
    0 citations · Biochar

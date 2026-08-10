@@ -1,7 +1,7 @@
 ---
 title: "Tinghua Li"
 description: "Tinghua Li is a Senior Soil Carbon researcher at University of Groningen in NL. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.117563
+date: 2026-08-11T01:33:12.007851
 url: "/cdr-researcher-census/researchers/tinghua-li-a5004154/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon dioxide fluxes and carbon budget of a sugarcane ecosystem with crop residue returning in South China** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
+
+2. **Integrated assessment of straw return and nitrogen fertilization on net global warming potential and greenhouse gas intensity of a sugarcane field in South China** (2026)
+   0 citations
 
 ## External Profiles
 

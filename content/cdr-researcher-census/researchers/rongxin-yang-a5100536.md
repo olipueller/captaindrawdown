@@ -1,7 +1,7 @@
 ---
 title: "Rongxin Yang"
 description: "Rongxin Yang is a Senior Biochar researcher at Shanxi University of Finance and Economics in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.447840
+date: 2026-08-11T01:33:11.396572
 url: "/cdr-researcher-census/researchers/rongxin-yang-a5100536/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Synergistic effects of mixed Robinia-Pinus plantations enhance soil carbon sequestration and microbial functional potential in a 32-year-old reclaimed coal mine** (2025)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

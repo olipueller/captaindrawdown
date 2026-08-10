@@ -1,7 +1,7 @@
 ---
 title: "Victor Brun"
 description: "Victor Brun is a Mid-career Ocean CDR researcher at Centre National de la Recherche Scientifique in FR. With 22 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.528586
+date: 2026-08-11T01:33:11.465327
 url: "/cdr-researcher-census/researchers/victor-brun-a5068117/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Three challenges to marine carbon dioxide removal** (2026)
-   0 citations · General CDR
+   1 citations · General CDR
 
 2. **Challenges and opportunities for marine carbon dioxide removal (mCDR)** (2025)
    0 citations · General CDR

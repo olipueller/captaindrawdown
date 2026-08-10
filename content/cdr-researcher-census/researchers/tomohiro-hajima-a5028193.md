@@ -1,7 +1,7 @@
 ---
 title: "Tomohiro Hajima"
 description: "Tomohiro Hajima is a Senior General CDR researcher at Japan Agency for Marine-Earth Science and Technology in JP. With 138 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.106995
+date: 2026-08-11T01:33:11.086692
 url: "/cdr-researcher-census/researchers/tomohiro-hajima-a5028193/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The need for carbon-emissions-driven climate projections in CMIP7** (2024)
-   40 citations · General CDR
+   42 citations · General CDR
 
 2. **Impact of bioenergy crop expansion on climate–carbon cycle feedbacks in overshoot scenarios** (2022)
-   37 citations · BECCS
+   38 citations · BECCS
 
 3. **Carbon cycle feedbacks in an idealized simulation and a scenario simulation of negative emissions in CMIP6 Earth system models** (2024)
-   17 citations · General CDR
+   18 citations · General CDR
 
 4. **The need for carbon emissions-driven climate projections in CMIP7** (2023)
    17 citations · General CDR

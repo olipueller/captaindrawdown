@@ -1,7 +1,7 @@
 ---
 title: "Theophilus Nii Odai Mensah"
 description: "Theophilus Nii Odai Mensah is a Mid-career DAC researcher at Lappeenranta-Lahti University of Technology in FI. With 18 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.379443
+date: 2026-08-11T01:33:11.336638
 url: "/cdr-researcher-census/researchers/theophilus-nii-odai-mensah-a5023009/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Global demand analysis for carbon dioxide as raw material from key industrial sources and direct air capture to produce renewable electricity-based fuels and chemicals** (2022)
-   133 citations · DAC
+   139 citations · DAC
 
 2. **Reflecting the energy transition from a European perspective and in the global context—Relevance of solar photovoltaics benchmarking two ambitious scenarios** (2022)
-   99 citations · DAC
+   103 citations · DAC
 
 3. **CO2 Supply Strategies for e-Fuels: A Comparative Techno-Economic Assessment Across Finland, Germany, and Spain** (2026)
    0 citations

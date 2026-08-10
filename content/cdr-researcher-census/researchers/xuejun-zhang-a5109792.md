@@ -1,7 +1,7 @@
 ---
 title: "Xuejun Zhang"
 description: "Xuejun Zhang is a Senior Enhanced Weathering researcher at Linyi University in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.908239
+date: 2026-08-11T01:33:11.806865
 url: "/cdr-researcher-census/researchers/xuejun-zhang-a5109792/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Anomalously low silicate weathering in the North China Craton during the hydroclimatic crisis of the Oceanic Anoxic Event 1a interval** (2025)
-   5 citations · Enhanced Weathering
+   6 citations · Enhanced Weathering
 
 2. **Exceptionally Weak Continental Weathering During the Early Cretaceous Hyperthermal Crisis: Rain Shadow Effect by a High-Altitude Mountain Range in East China** (2025)
    0 citations

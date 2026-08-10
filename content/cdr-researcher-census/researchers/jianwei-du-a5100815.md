@@ -1,7 +1,7 @@
 ---
 title: "Jianwei Du"
 description: "Jianwei Du is a Mid-career Biochar researcher at Ministry of Ecology and Environment in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.291901
+date: 2026-08-11T01:33:12.163420
 url: "/cdr-researcher-census/researchers/jianwei-du-a5100815/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Driving biochar applications via intrinsic redox superiority: electron transfer mechanisms, quantification, aging effects, and design strategies** (2026)
-   4 citations · Biochar
+   6 citations · Biochar
 
 ## External Profiles
 

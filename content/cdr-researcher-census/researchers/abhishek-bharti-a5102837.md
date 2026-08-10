@@ -1,7 +1,7 @@
 ---
 title: "Abhishek Bharti"
 description: "Abhishek Bharti is a Mid-career Soil Carbon researcher at Military Hospital in PK. With 38 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.765357
+date: 2026-08-11T01:33:11.679463
 url: "/cdr-researcher-census/researchers/abhishek-bharti-a5102837/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Glomalin related protein and C16:1ω5 PLFA associated with AM fungi as potential signatures for assessing the soil C sequestration under contrasting soil management practices** (2021)
-   58 citations · Soil Carbon
+   59 citations · Soil Carbon
 
 2. **Exploring microbial symbionts for improving soybean production and soil carbon sequestration** (2023)
    0 citations · Soil Carbon

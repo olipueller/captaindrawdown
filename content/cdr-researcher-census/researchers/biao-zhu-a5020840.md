@@ -1,7 +1,7 @@
 ---
 title: "Biao Zhu"
 description: "Biao Zhu is an Eminent Soil Carbon researcher at Peking University in CN. With 380 publications and an h-index of 75, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.084360
+date: 2026-08-11T01:33:11.065751
 url: "/cdr-researcher-census/researchers/biao-zhu-a5020840/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,34 +51,34 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Changes in plant inputs alter soil carbon and microbial communities in forest ecosystems** (2022)
-   382 citations · Soil Carbon
+   392 citations · Soil Carbon
 
 2. **Phosphorus addition decreases plant lignin but increases microbial necromass contribution to soil organic carbon in a subalpine forest** (2022)
-   207 citations · Soil Carbon
+   214 citations · Soil Carbon
 
 3. **Ecoenzymatic stoichiometry reveals widespread soil phosphorus limitation to microbial metabolism across Chinese forests** (2022)
-   156 citations · Soil Carbon
+   161 citations · Soil Carbon
 
 4. **Decreasing microbial phosphorus limitation increases soil carbon release** (2022)
-   119 citations · Soil Carbon
+   122 citations · Soil Carbon
 
 5. **Human interventions have enhanced the net ecosystem productivity of farmland in China** (2024)
-   48 citations · General CDR
+   52 citations · General CDR
 
 6. **Degrading poly(lactic acid) microplastic induces priming in agricultural soils** (2025)
-   21 citations
+   23 citations
 
 7. **The patterns of forest soil particulate and mineral associated organic carbon characteristics with latitude and soil depth across eastern China** (2024)
-   18 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 8. **Contrasting effects of warming and N deposition on soil microbial functional genes in a subtropical forest** (2021)
-   16 citations
+   17 citations
 
 9. **Soil particulate organic carbon regulates microbial carbon use efficiency in subtropical forests under nitrogen addition in different seasons** (2024)
-   12 citations · Soil Carbon
+   14 citations · Soil Carbon
 
-10. **Micro‐Faunal and Edaphic Controls on Microbial Carbon Cycling Across Primary and Secondary Successional Trajectories** (2025)
-   6 citations · Soil Carbon
+10. **High-Dose Biochar Hinders Micro/Nanoplastic-Induced Soil Positive Priming by Reducing Substrate Quality and Microbial Activity** (2026)
+   7 citations · Soil Carbon
 
 ## External Profiles
 

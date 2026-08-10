@@ -1,7 +1,7 @@
 ---
 title: "Yu-Ling Hou"
 description: "Yu-Ling Hou is a Senior General CDR researcher at Liaoning University in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.512180
+date: 2026-08-11T01:33:12.364803
 url: "/cdr-researcher-census/researchers/yu-ling-hou-a5102439/"
 layout: "researcher"
 hiddenInHomeList: true

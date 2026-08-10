@@ -1,7 +1,7 @@
 ---
 title: "Chad Frischmann"
 description: "Chad Frischmann is a Mid-career Ocean CDR researcher at Intel (United States) in US. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.520327
+date: 2026-08-11T01:33:11.458185
 url: "/cdr-researcher-census/researchers/chad-frischmann-a5008225/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Climate benefits from establishing marine protected areas targeted at blue carbon solutions** (2022)
-   59 citations · General CDR
+   61 citations · General CDR
 
 ## External Profiles
 

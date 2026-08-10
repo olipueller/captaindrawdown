@@ -1,7 +1,7 @@
 ---
 title: "Xiaolong Liang"
 description: "Xiaolong Liang is a Senior Soil Carbon researcher at Washington University in Saint Louis in US. With 78 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.276152
+date: 2026-08-11T01:33:11.244591
 url: "/cdr-researcher-census/researchers/xiaolong-liang-a5061895/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Unveiling the top-down control of soil viruses over microbial communities and soil organic carbon cycling: A review** (2024)
-   18 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 2. **Effects of Adding Different Corn Residue Components on Soil and Aggregate Organic Carbon** (2025)
    7 citations · Soil Carbon

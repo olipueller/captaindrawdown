@@ -1,7 +1,7 @@
 ---
 title: "Abhijeet Singh"
 description: "Abhijeet Singh is a Mid-career Enhanced Weathering researcher at Uppsala University in SE. With 48 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.480273
+date: 2026-08-11T01:33:11.423744
 url: "/cdr-researcher-census/researchers/abhijeet-singh-a5044155/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    8 citations · Enhanced Weathering
 
 2. **Alive and dead earthworms capture carbon during mineral weathering through different pathways** (2025)
-   4 citations · Enhanced Weathering
+   5 citations · Enhanced Weathering
 
 3. **Machine learning-based identification of key biotic and abiotic drivers of mineral weathering rate in a complex enhanced weathering experiment** (2025)
    3 citations
@@ -62,14 +62,14 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 4. **Contribution of dissolved organic carbon to total alkalinity in Enhanced Weathering experiments** (2026)
    1 citations · Enhanced Weathering
 
-5. **Microbial dissolution of Gran Canaria lapilli in small-scale flow through columns: carbon dioxide removal potential** (2025)
+5. **Alkalinity production and carbon capture from dunite weathering: Individual effects of oxalate, citrate, and EDTA salts** (2025)
    1 citations · Enhanced Weathering
 
-6. **Contribution of dissolved organic carbon to total alkalinity in Enhanced Weathering experiments** (2026)
-   0 citations
+6. **Microbial dissolution of Gran Canaria lapilli in small-scale flow through columns: carbon dioxide removal potential** (2025)
+   1 citations · Enhanced Weathering
 
-7. **Alkalinity production and carbon capture from dunite weathering: Individual effects of oxalate, citrate, and EDTA salts** (2025)
-   0 citations · Enhanced Weathering
+7. **Contribution of dissolved organic carbon to total alkalinity in Enhanced Weathering experiments** (2026)
+   0 citations
 
 8. **Machine learning-based identification of key biotic and abiotic drivers of mineral weathering rate in a complex enhanced weathering experiment** (2025)
    0 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Samantha J. Clevenger"
 description: "Samantha J. Clevenger is a Mid-career Ocean CDR researcher at Woodwell Climate Research Center in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.263825
+date: 2026-08-11T01:33:12.140033
 url: "/cdr-researcher-census/researchers/samantha-j-clevenger-a5046473/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 ## Top CDR Publications
 
-1. **An upper-mesopelagic-zone carbon budget for the subarctic North Pacific** (2025)
-   4 citations · Ocean CDR
+1. **The importance of engagement with fisheries, aquaculture, and Indigenous communities in the planning and implementation of marine carbon dioxide removal (mCDR)** (2025)
+   4 citations · General CDR
 
-2. **The importance of engagement with fisheries, aquaculture, and Indigenous communities in the planning and implementation of marine carbon dioxide removal (mCDR)** (2025)
-   3 citations · General CDR
+2. **An upper-mesopelagic-zone carbon budget for the subarctic North Pacific** (2025)
+   4 citations · Ocean CDR
 
 3. **An upper mesopelagic zone carbon budget for the subarctic North Pacific** (2024)
    1 citations · Ocean CDR

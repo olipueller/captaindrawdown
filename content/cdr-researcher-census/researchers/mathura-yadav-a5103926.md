@@ -1,7 +1,7 @@
 ---
 title: "Mathura Yadav"
 description: "Mathura Yadav is an Early-career Soil Carbon researcher at Agriculture and Forestry University in NP. With 3 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.788244
+date: 2026-08-11T01:33:11.699983
 url: "/cdr-researcher-census/researchers/mathura-yadav-a5103926/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Tillage and residue management strategies enhance crop yields, soil health, and profitability in the rice-wheat system of Nepal’s Western Terai** (2025)
-   0 citations · General CDR
+   1 citations · General CDR
 
 ## External Profiles
 

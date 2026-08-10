@@ -1,7 +1,7 @@
 ---
 title: "Jia-Wei Cheng"
 description: "Jia-Wei Cheng is a Mid-career Biochar researcher at National Kaohsiung University of Science and Technology. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.033670
+date: 2026-08-11T01:33:11.909034
 url: "/cdr-researcher-census/researchers/jia-wei-cheng-a5002316/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    75 citations · Biochar
 
 2. **Activation of calcium peroxide by nitrogen and sulfur co-doped metal-free lignin biochar for enhancing the removal of emerging organic contaminants from waste activated sludge** (2023)
-   32 citations · Biochar
+   33 citations · Biochar
 
 3. **Peracetic acid activation by CO2-derived peat moss biochar for remediation of PAH-contaminated marine sediments: Catalytic performance and microbial responses** (2026)
    0 citations · Biochar

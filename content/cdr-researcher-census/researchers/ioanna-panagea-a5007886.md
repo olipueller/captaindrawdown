@@ -1,7 +1,7 @@
 ---
 title: "Ioanna Panagea"
 description: "Ioanna Panagea is a Mid-career Soil Carbon researcher. With 50 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.532488
+date: 2026-08-11T01:33:11.468873
 url: "/cdr-researcher-census/researchers/ioanna-panagea-a5007886/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Forage vs. Grain Legumes: Contrasting Effects on Soil Organic Carbon Stocks–Evidence From 30 European Field Experiments** (2025)
-   8 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 2. **Feasible Carbon Sequestration Potential in European Agricultural Mineral Soils Through Improved Management** (2026)
    1 citations · Biochar

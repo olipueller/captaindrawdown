@@ -1,7 +1,7 @@
 ---
 title: "Abdoul Salam Issiaka Abdoul Magid"
 description: "Abdoul Salam Issiaka Abdoul Magid is a Mid-career Biochar researcher at Agro-Environmental Protection Institute in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.568055
+date: 2026-08-11T01:33:11.501131
 url: "/cdr-researcher-census/researchers/abdoul-salam-issiaka-abdoul-magid-a5011237/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Application of biochar on soil bioelectrochemical remediation: behind roles, progress, and potential** (2022)
-   25 citations · Biochar
+   26 citations · Biochar
 
 ## External Profiles
 

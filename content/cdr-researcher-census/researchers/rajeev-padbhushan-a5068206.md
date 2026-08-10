@@ -1,7 +1,7 @@
 ---
 title: "Rajeev Padbhushan"
 description: "Rajeev Padbhushan is a Mid-career Soil Carbon researcher at Bihar Agricultural University in IN. With 79 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.413787
+date: 2026-08-11T01:33:11.367143
 url: "/cdr-researcher-census/researchers/rajeev-padbhushan-a5068206/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Meta-Analysis Approach to Measure the Effect of Integrated Nutrient Management on Crop Performance, Microbial Activity, and Carbon Stocks in Indian Soils** (2021)
-   51 citations · General CDR
+   52 citations · General CDR
 
 2. **Hedge and Alder-Based Agroforestry Systems: Potential Interventions to Carbon Sequestration and Better Crop Productivity in Indian Sub-Himalayas** (2022)
    23 citations · General CDR

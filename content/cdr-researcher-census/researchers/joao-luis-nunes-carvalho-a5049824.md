@@ -1,7 +1,7 @@
 ---
 title: "João Luís Nunes Carvalho"
 description: "João Luís Nunes Carvalho is a Senior Soil Carbon researcher at Universidade de São Paulo in BR. With 120 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.123224
+date: 2026-08-11T01:33:11.101963
 url: "/cdr-researcher-census/researchers/joao-luis-nunes-carvalho-a5049824/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Land Use and Management Effects on Sustainable Sugarcane-Derived Bioenergy** (2021)
-   116 citations
+   119 citations
 
 2. **Peculiarities of bio-oil and biochar obtained from the lignin-rich residue of the enzymatic hydrolysis of sugarcane bagasse** (2025)
-   18 citations · Biochar
+   19 citations · Biochar
 
 3. **Soil carbon allocation, composition, and sequestration changes induced by cropping diversification in tropical systems** (2025)
    15 citations · Soil Carbon

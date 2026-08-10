@@ -1,7 +1,7 @@
 ---
 title: "Amit Kumar Behera"
 description: "Amit Kumar Behera is a Mid-career Biochar researcher at Veer Surendra Sai University of Technology in IN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.147094
+date: 2026-08-11T01:33:12.035208
 url: "/cdr-researcher-census/researchers/amit-kumar-behera-a5038335/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Efficient removal of Rhodamine B dye using biochar as an adsorbent: Study the performance, kinetics, thermodynamics, adsorption isotherms and its reusability** (2024)
-   120 citations · Biochar
+   124 citations · Biochar
 
 ## External Profiles
 

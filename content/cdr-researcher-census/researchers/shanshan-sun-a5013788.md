@@ -1,7 +1,7 @@
 ---
 title: "Shanshan Sun"
 description: "Shanshan Sun is a Senior Soil Carbon researcher at Shanghai Jiao Tong University in CN. With 25 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.562209
+date: 2026-08-11T01:33:11.496282
 url: "/cdr-researcher-census/researchers/shanshan-sun-a5013788/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Tracing the electron transfer behavior driven by hydrophyte-derived carbon materials empowered autotrophic denitrification in iron-based constructed wetlands: Efficacy and enhancement mechanism** (2025)
-   56 citations · Soil Carbon
+   62 citations · Soil Carbon
 
 2. **Synergistic Nitrogen and Phosphorus Elimination via Iron–Carbon Micro-Electrolysis in Constructed Wetlands Treating Low-Pollution Water** (2025)
-   1 citations · Biochar
+   3 citations · Biochar
 
 3. **Mechanistic insights into Fe–C coupling enhancing nitrogen removal in salt marsh wetlands: Performance and electrochemical-microbial mechanism modulated by salinity and carbon materials** (2026)
    0 citations

@@ -1,7 +1,7 @@
 ---
 title: "Yao Zhang"
 description: "Yao Zhang is a Senior General CDR researcher at Colorado State University in US. With 76 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.320069
+date: 2026-08-11T01:33:11.285897
 url: "/cdr-researcher-census/researchers/yao-zhang-a5091014/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Roads to Removal: Options for Carbon Dioxide Removal in the United States** (2023)
-   60 citations · General CDR
+   61 citations · General CDR
 
 2. **Simulations of nitrous oxide emissions and global warming potential in a C4 turfgrass system using process-based models** (2022)
    10 citations
 
 3. **Representing cropping systems with the MEMS 2 ecosystem model** (2024)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 4. **Combining Eddy Covariance Towers, Field Measurements, and the <scp>MEMS</scp> 2 Ecosystem Model Improves Confidence in the Climate Impacts of Bioenergy With Carbon Capture and Storage** (2025)
    3 citations · BECCS

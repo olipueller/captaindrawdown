@@ -1,7 +1,7 @@
 ---
 title: "Gunter Flipkens"
 description: "Gunter Flipkens is a Mid-career Enhanced Weathering researcher at University of Antwerp in BE. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.190277
+date: 2026-08-11T01:33:12.074090
 url: "/cdr-researcher-census/researchers/gunter-flipkens-a5082394/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    76 citations · Enhanced Weathering
 
 2. **Enhanced olivine dissolution in seawater through continuous grain collisions** (2023)
-   40 citations · Enhanced Weathering
+   43 citations · Enhanced Weathering
 
 3. **Acute bioaccumulation and chronic toxicity of olivine in the marine amphipod Gammarus locusta** (2023)
    21 citations · Enhanced Weathering

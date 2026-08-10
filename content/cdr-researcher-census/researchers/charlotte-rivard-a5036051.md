@@ -1,7 +1,7 @@
 ---
 title: "Charlotte Rivard"
 description: "Charlotte Rivard is an Early-career Soil Carbon researcher at Brookings Institution in US. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.551869
+date: 2026-08-11T01:33:11.486718
 url: "/cdr-researcher-census/researchers/charlotte-rivard-a5036051/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    20 citations · Soil Carbon
 
 2. **Coupling Remote Sensing With a Process Model for the Simulation of Rangeland Carbon Dynamics** (2025)
-   3 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 3. **Coupling Remote Sensing with a Process Model for the Simulation of Rangeland Carbon Dynamics** (2024)
    2 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Marianna Babboni"
 description: "Marianna Babboni is a Mid-career General CDR researcher at Science Exchange (United States) in US. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.367142
+date: 2026-08-11T01:33:12.229774
 url: "/cdr-researcher-census/researchers/marianna-babboni-a5022764/"
 layout: "researcher"
 hiddenInHomeList: true

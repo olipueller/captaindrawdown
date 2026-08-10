@@ -1,7 +1,7 @@
 ---
 title: "Ali Kiani"
 description: "Ali Kiani is a Mid-career DAC researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.493790
+date: 2026-08-11T01:33:11.435230
 url: "/cdr-researcher-census/researchers/ali-kiani-a5070604/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,16 +57,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    60 citations · General CDR
 
 3. **An ecosystem of carbon dioxide removal reviews – part 1: direct air CO <sub>2</sub> capture and storage** (2025)
-   32 citations · General CDR
+   38 citations · General CDR
 
 4. **A mass transfer study of CO2 absorption in aqueous solutions of isomeric forms of sodium alaninate for direct air capture application** (2024)
-   21 citations
+   22 citations
 
 5. **A study on degradation and CO<sub>2</sub> capture performance of aqueous amino acid salts for direct air capture applications** (2024)
    16 citations
 
 6. **The effects of counter ion on CO2 capture performance of amino acid salt solutions for direct air capture applications** (2024)
-   8 citations
+   10 citations
 
 7. **Direct Air Capture of CO2 using Amine-based Capture Technology** (2022)
    4 citations · DAC
@@ -77,8 +77,8 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 9. **Large eddy simulation of CO2 direct air capture units in different atmospheric boundary layer wind profiles** (2025)
    2 citations
 
-10. **Session 24. Oral Presentation for: Amine based liquid capture technology for direct air capture of CO2 – an overview on technology development** (2025)
-   1 citations
+10. **Integrated direct air capture and CO2 mineralization using amino acid salt solutions and alkaline solid wastes** (2026)
+   1 citations · DAC
 
 ## External Profiles
 

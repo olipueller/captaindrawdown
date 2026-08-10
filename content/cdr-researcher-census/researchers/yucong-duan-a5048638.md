@@ -1,7 +1,7 @@
 ---
 title: "Yucong Duan"
 description: "Yucong Duan is a Mid-career Soil Carbon researcher at Jilin University in CN. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.983990
+date: 2026-08-11T01:33:11.862094
 url: "/cdr-researcher-census/researchers/yucong-duan-a5048638/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Rhizosphere enzyme activities and microorganisms drive the transformation of organic and inorganic carbon in saline–alkali soil region** (2022)
-   71 citations · Soil Carbon
+   74 citations · Soil Carbon
 
 2. **The Development and Utilization of Saline–Alkali Land in Western Jilin Province Promoted the Sequestration of Organic Carbon Fractions in Soil Aggregates** (2021)
    13 citations · Soil Carbon

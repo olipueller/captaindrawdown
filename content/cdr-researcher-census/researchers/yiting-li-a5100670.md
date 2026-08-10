@@ -1,7 +1,7 @@
 ---
 title: "Yiting Li"
 description: "Yiting Li is a Senior Soil Carbon researcher at University of California, Davis in US. With 45 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.516433
+date: 2026-08-11T01:33:11.454864
 url: "/cdr-researcher-census/researchers/yiting-li-a5100670/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Protists regulate microbially mediated organic carbon turnover in soil aggregates** (2023)
-   53 citations · Soil Carbon
+   59 citations · Soil Carbon
 
 2. **Enhanced adsorption of copper citrate complexes by ferromanganese oxide biochar from water: performance and mechanism** (2025)
    0 citations · Biochar

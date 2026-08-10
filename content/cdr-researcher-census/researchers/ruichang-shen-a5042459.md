@@ -1,7 +1,7 @@
 ---
 title: "Ruichang Shen"
 description: "Ruichang Shen is a Mid-career Soil Carbon researcher at Nanchang University in CN. With 37 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.397704
+date: 2026-08-11T01:33:11.352580
 url: "/cdr-researcher-census/researchers/ruichang-shen-a5042459/"
 layout: "researcher"
 hiddenInHomeList: true

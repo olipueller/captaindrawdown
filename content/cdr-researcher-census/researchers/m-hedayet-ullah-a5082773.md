@@ -1,7 +1,7 @@
 ---
 title: "M. Hedayet Ullah"
 description: "M. Hedayet Ullah is a Mid-career Biochar researcher at Bangladesh University of Engineering and Technology in BD. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.009294
+date: 2026-08-11T01:33:11.886001
 url: "/cdr-researcher-census/researchers/m-hedayet-ullah-a5082773/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Adsorptive removal of toxic heavy metals from wastewater using water hyacinth and its biochar: A review** (2024)
-   36 citations · Biochar
+   37 citations · Biochar
 
 2. **Adsorptive Removal of Toxic Heavy Metals from Wastewater Using Water Hyacinth and its Biochar: A Review** (2024)
    2 citations

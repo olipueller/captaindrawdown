@@ -1,7 +1,7 @@
 ---
 title: "Shaozhuang Guo"
 description: "Shaozhuang Guo is a Mid-career Biochar researcher at Anqing Normal University in CN. With 21 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.665703
+date: 2026-08-11T01:33:11.589466
 url: "/cdr-researcher-census/researchers/shaozhuang-guo-a5058453/"
 layout: "researcher"
 hiddenInHomeList: true

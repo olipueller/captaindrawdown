@@ -1,7 +1,7 @@
 ---
 title: "Jyotsna Kaushal"
 description: "Jyotsna Kaushal is a Senior Biochar researcher at Chitkara University in IN. With 98 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.155700
+date: 2026-08-11T01:33:11.132318
 url: "/cdr-researcher-census/researchers/jyotsna-kaushal-a5004193/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,10 +53,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 1. **Efficient adsorption of anionic dye (congo red) using copper-carbon dots doped magnetic biochar: kinetic, isothermal, and regeneration studies** (2023)
    32 citations · Biochar
 
-2. **Bryophyllum pinnatum activated biochar for competent removal of fluoride from water: sorption and equilibrium studies** (2024)
-   5 citations · Biochar
+2. **Encapsulated cobalt-doped coconut husk biochar (Co@CHBc) for the remediation of anionic dye from wastewater** (2024)
+   7 citations · Biochar
 
-3. **Encapsulated cobalt-doped coconut husk biochar (Co@CHBc) for the remediation of anionic dye from wastewater** (2024)
+3. **Bryophyllum pinnatum activated biochar for competent removal of fluoride from water: sorption and equilibrium studies** (2024)
    5 citations · Biochar
 
 4. **Visible light promoted photocatalytic degradation of benzidine-based anionic diazo dye and its mechanistic studies using copper carbon dots incorporated biochar** (2025)

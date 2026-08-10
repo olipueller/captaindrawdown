@@ -1,7 +1,7 @@
 ---
 title: "Dacheng Xiao"
 description: "Dacheng Xiao is a Mid-career Enhanced Weathering researcher at Pennsylvania State University in US. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.908134
+date: 2026-08-11T01:33:11.806769
 url: "/cdr-researcher-census/researchers/dacheng-xiao-a5078911/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Vertical Connectivity Regulates Water Transit Time and Chemical Weathering at the Hillslope Scale** (2021)
-   69 citations · Enhanced Weathering
+   71 citations · Enhanced Weathering
 
 2. **Drought diminishes ecosystem service supply and exacerbates trade-offs in the Yangtze River Economic Belt** (2025)
-   1 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

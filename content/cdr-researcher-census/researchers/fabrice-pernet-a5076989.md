@@ -1,7 +1,7 @@
 ---
 title: "Fabrice Pernet"
 description: "Fabrice Pernet is an Eminent Ocean CDR researcher at Ifremer Centre de Bretagne in FR. With 153 publications and an h-index of 43, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.123599
+date: 2026-08-11T01:33:11.102325
 url: "/cdr-researcher-census/researchers/fabrice-pernet-a5076989/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -56,14 +56,14 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 2. **Scientific evidence does not support oyster farming as a marine carbon dioxide removal strategy for climate mitigation** (2026)
    2 citations · Ocean CDR
 
-3. **Supplementary material to "Effectiveness of olivine dissolution in beach simulations for ocean alkalinity enhancement – insights from flow-through experiments"** (2026)
+3. **Three challenges to marine carbon dioxide removal** (2026)
+   1 citations · General CDR
+
+4. **Supplementary material to "Effectiveness of olivine dissolution in beach simulations for ocean alkalinity enhancement – insights from flow-through experiments"** (2026)
    0 citations · Enhanced Weathering
 
-4. **Effectiveness of olivine dissolution in beach simulations for ocean alkalinity enhancement – insights from flow-through experiments** (2026)
+5. **Effectiveness of olivine dissolution in beach simulations for ocean alkalinity enhancement – insights from flow-through experiments** (2026)
    0 citations · Enhanced Weathering
-
-5. **Three challenges to marine carbon dioxide removal** (2026)
-   0 citations · General CDR
 
 6. **A system-based analysis of carbon fluxes shows that bivalve aquaculture cannot be considered a marine carbon dioxide removal strategy** (2026)
    0 citations · General CDR

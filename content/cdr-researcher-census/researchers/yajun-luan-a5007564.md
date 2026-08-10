@@ -1,7 +1,7 @@
 ---
 title: "Yajun Luan"
 description: "Yajun Luan is a Mid-career Soil Carbon researcher at Hohai University in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.519206
+date: 2026-08-11T01:33:12.371074
 url: "/cdr-researcher-census/researchers/yajun-luan-a5007564/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The flip side of coupling water-saving irrigation with organic amendments: Long-term application increases the bioavailability and ecological risk of cadmium in paddy fields** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 2. **Dual Role of Iron Oxides in Stabilizing Particulate and Mineral-Associated Organic Carbon Under Field Management in Paddies** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

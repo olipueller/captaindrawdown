@@ -1,7 +1,7 @@
 ---
 title: "Yanru Tao"
 description: "Yanru Tao is a Mid-career Biochar researcher at Qingdao University of Science and Technology in CN. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.868003
+date: 2026-08-11T01:33:11.770007
 url: "/cdr-researcher-census/researchers/yanru-tao-a5003116/"
 layout: "researcher"
 hiddenInHomeList: true

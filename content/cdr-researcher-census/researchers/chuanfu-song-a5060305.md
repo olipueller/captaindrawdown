@@ -1,7 +1,7 @@
 ---
 title: "Chuanfu Song"
 description: "Chuanfu Song is a Mid-career Biochar researcher at Wuhu Fourth People Hospital in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.219552
+date: 2026-08-11T01:33:12.101117
 url: "/cdr-researcher-census/researchers/chuanfu-song-a5060305/"
 layout: "researcher"
 hiddenInHomeList: true

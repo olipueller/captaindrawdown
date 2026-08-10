@@ -1,7 +1,7 @@
 ---
 title: "Jaane Krüger"
 description: "Jaane Krüger is a Senior Soil Carbon researcher at North-West University , South Africa in ZA. With 47 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.249383
+date: 2026-08-11T01:33:11.220272
 url: "/cdr-researcher-census/researchers/jaane-kruger-a5068067/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Andreas Hagenbo"
 description: "Andreas Hagenbo is a Mid-career Biochar researcher at Norwegian Institute of Bioeconomy Research in NO. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.398361
+date: 2026-08-11T01:33:11.353171
 url: "/cdr-researcher-census/researchers/andreas-hagenbo-a5073623/"
 layout: "researcher"
 hiddenInHomeList: true

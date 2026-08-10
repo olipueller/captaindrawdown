@@ -1,7 +1,7 @@
 ---
 title: "Shuxi Zhang"
 description: "Shuxi Zhang is a Senior Biochar researcher at Ningbo University in CN. With 29 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.188440
+date: 2026-08-11T01:33:12.072255
 url: "/cdr-researcher-census/researchers/shuxi-zhang-a5055990/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Study on the mechanism of biochar loaded typical microalgae Chlorella removal of cadmium** (2021)
-   39 citations · Biochar
+   40 citations · Biochar
 
 2. **Efficient removal of chromium by a novel biochar-microalga complex: Mechanism and performance** (2023)
-   25 citations · Biochar
+   26 citations · Biochar
 
 3. **Contrasting effects of a novel biochar-microalgae complex on arsenic and mercury removal** (2023)
    13 citations · Biochar

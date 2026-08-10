@@ -1,7 +1,7 @@
 ---
 title: "Tongbin Zhu"
 description: "Tongbin Zhu is a Senior Soil Carbon researcher at Chinese Academy of Geological Sciences in CN. With 118 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.129445
+date: 2026-08-11T01:33:11.108018
 url: "/cdr-researcher-census/researchers/tongbin-zhu-a5013664/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil pH and precipitation controls on organic carbon retention from organic amendments across soil orders: A meta-analysis** (2025)
-   26 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 2. **Reduced Organic Carbon Content during the Evolvement of Calcareous Soils in Karst Region** (2021)
    16 citations · Soil Carbon

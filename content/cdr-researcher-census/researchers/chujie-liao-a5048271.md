@@ -1,7 +1,7 @@
 ---
 title: "Chujie Liao"
 description: "Chujie Liao is a Mid-career Soil Carbon researcher at Nanning Normal University in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.376309
+date: 2026-08-11T01:33:11.334248
 url: "/cdr-researcher-census/researchers/chujie-liao-a5048271/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Comprehensive assessment of rocky desertification treatment in Southwest China karst** (2024)
-   34 citations · Soil Carbon
+   35 citations · Soil Carbon
 
 2. **Rural–Urban Migration and Conservation Drive the Ecosystem Services Improvement in China Karst: A Case Study of HuanJiang County, Guangxi** (2021)
    24 citations

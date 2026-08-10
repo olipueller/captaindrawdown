@@ -1,7 +1,7 @@
 ---
 title: "Mohamed Mohamed Gaber"
 description: "Mohamed Mohamed Gaber is a Mid-career Biochar researcher at Egypt-Japan University of Science and Technology in EG. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.078550
+date: 2026-08-11T01:33:11.971756
 url: "/cdr-researcher-census/researchers/mohamed-mohamed-gaber-a5008390/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    21 citations · Biochar
 
 3. **Efficient oxidative degradation of organic pollutants in real industrial effluents using a green-synthesized magnetite supported on biochar catalyst** (2025)
-   7 citations · Biochar
+   8 citations · Biochar
 
 4. **Courgette Biochar-Activated Periodate System for Efficient Atrazine Degradation: Optimization, Kinetics, Effect of Coexisting Substances, and Real Wastewater Application** (2025)
    3 citations · Biochar

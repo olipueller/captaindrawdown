@@ -1,7 +1,7 @@
 ---
 title: "Naghi Shabanian"
 description: "Naghi Shabanian is a Senior Soil Carbon researcher at University of Kurdistan in IR. With 54 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.472146
+date: 2026-08-11T01:33:11.416845
 url: "/cdr-researcher-census/researchers/naghi-shabanian-a5029164/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Land-use change in the Zagros forests and its impact on soil carbon sequestration** (2022)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 2. **Sacred groves: a model of Zagros forests for carbon sequestration and climate change mitigation** (2023)
    8 citations · General CDR

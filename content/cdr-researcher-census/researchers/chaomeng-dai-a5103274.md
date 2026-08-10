@@ -1,7 +1,7 @@
 ---
 title: "Chaomeng Dai"
 description: "Chaomeng Dai is a Senior Biochar researcher at Tongji University in CN. With 90 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.135217
+date: 2026-08-11T01:33:11.113630
 url: "/cdr-researcher-census/researchers/chaomeng-dai-a5103274/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,13 +54,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    35 citations · Biochar
 
 2. **Effects of cellulase treatment on properties of lignocellulose-based biochar** (2024)
-   18 citations · Biochar
+   19 citations · Biochar
 
 3. **Tailoring lignocellulose-derived biochar for peroxymonosulfate-based catalytic environments: Optimizing active sites, revealing activation mechanisms, and advancing groundwater remediation applications** (2025)
-   6 citations · Biochar
+   8 citations · Biochar
 
 4. **Interface selectivity-based biochar: Directional evolution of properties, application &amp; carbon neutralization evaluation** (2025)
-   2 citations · Biochar
+   4 citations · Biochar
 
 5. **Precursor-oriented design of naturally doped fulvic acid biochar for peroxymonosulfate activation: Non-radical pathway for sulfadiazine degradation in groundwater** (2026)
    0 citations · Biochar

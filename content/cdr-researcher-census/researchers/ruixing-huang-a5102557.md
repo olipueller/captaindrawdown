@@ -1,7 +1,7 @@
 ---
 title: "Ruixing Huang"
 description: "Ruixing Huang is a Mid-career Biochar researcher at Harbin Institute of Technology in CN. With 36 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.315093
+date: 2026-08-11T01:33:11.281501
 url: "/cdr-researcher-census/researchers/ruixing-huang-a5102557/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **The application of machine learning methods for prediction of heavy metal by activated carbons, biochars, and carbon nanotubes** (2024)
-   34 citations · Biochar
+   36 citations · Biochar
 
 2. **The Application of Machine Learning Methods for Prediction of Heavy Metal by Activated Carbons, Biochars, and Carbon Nanotubes** (2023)
    1 citations · Biochar

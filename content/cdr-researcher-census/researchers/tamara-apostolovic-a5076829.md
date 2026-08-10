@@ -1,7 +1,7 @@
 ---
 title: "Tamara Apostolović"
 description: "Tamara Apostolović is a Mid-career Biochar researcher at University of Novi Sad in RS. With 34 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.831700
+date: 2026-08-11T01:33:11.737717
 url: "/cdr-researcher-census/researchers/tamara-apostolovic-a5076829/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar in the Remediation of Organic Pollutants in Water: A Review of Polycyclic Aromatic Hydrocarbon and Pesticide Removal** (2024)
-   58 citations · Biochar
+   59 citations · Biochar
 
 2. **Impact of Biochar Aging on Soil Physicochemical Properties** (2024)
-   23 citations · Biochar
+   24 citations · Biochar
 
 3. **The efficiency of the hard wood origin biochar addition on the PAHs bioavailability and stability in sediment** (2023)
    15 citations · Biochar

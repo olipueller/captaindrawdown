@@ -1,7 +1,7 @@
 ---
 title: "Jinzhi Liang"
 description: "Jinzhi Liang is a Mid-career Biochar researcher at Huanggang Normal University in CN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.533193
+date: 2026-08-11T01:33:11.469523
 url: "/cdr-researcher-census/researchers/jinzhi-liang-a5016685/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **NaOH-modified biochar supported Fe/Mn bimetallic composites as efficient peroxymonosulfate activator for enhance tetracycline removal** (2022)
-   136 citations · Biochar
+   139 citations · Biochar
 
 2. **Biochar encapsulated metal nanoflowers for high efficient degradation of metronidazole via peroxymonosulfate activation** (2023)
-   49 citations
+   50 citations
 
 ## External Profiles
 

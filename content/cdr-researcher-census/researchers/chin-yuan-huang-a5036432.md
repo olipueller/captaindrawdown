@@ -1,7 +1,7 @@
 ---
 title: "Chin-Yuan Huang"
 description: "Chin-Yuan Huang is a Mid-career Soil Carbon researcher at Chaoyang University of Technology in TW. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.399618
+date: 2026-08-11T01:33:12.260256
 url: "/cdr-researcher-census/researchers/chin-yuan-huang-a5036432/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Adaptation and carbon reduction for petroleum contaminated soil remediation in response to climate change-a case study of phytoremediation combined with biochar** (2025)
-   2 citations · Biochar
+   3 citations · Biochar
 
 2. **Adaptation and Benefits of Petroleum Contaminated Soil Remediation in Response to Climate Change-A Case Study** (2025)
    0 citations · Soil Carbon

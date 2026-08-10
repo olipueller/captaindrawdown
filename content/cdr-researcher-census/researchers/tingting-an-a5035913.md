@@ -1,7 +1,7 @@
 ---
 title: "Tingting An"
 description: "Tingting An is a Senior Soil Carbon researcher at Shenyang Agricultural University in CN. With 64 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.212829
+date: 2026-08-11T01:33:11.185970
 url: "/cdr-researcher-census/researchers/tingting-an-a5035913/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    24 citations · Soil Carbon
 
 2. **Distributions of straw-derived carbon in Mollisol’s aggregates under different fertilization practices** (2021)
-   12 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 3. **The fungal feeding channel of the soil micro‐food web contributes to the transformation of exogenous C into soil C—A <scp><sup>13</sup>C</scp> labelling microcosm experiment** (2022)
    8 citations · Soil Carbon

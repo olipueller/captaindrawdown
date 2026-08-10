@@ -1,7 +1,7 @@
 ---
 title: "Mohd Hafif Samsudin"
 description: "Mohd Hafif Samsudin is a Mid-career Biochar researcher at Universiti Putra Malaysia in MY. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.774530
+date: 2026-08-11T01:33:11.687477
 url: "/cdr-researcher-census/researchers/mohd-hafif-samsudin-a5036092/"
 layout: "researcher"
 hiddenInHomeList: true

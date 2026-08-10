@@ -1,7 +1,7 @@
 ---
 title: "Fangchao Wang"
 description: "Fangchao Wang is a Mid-career Soil Carbon researcher at Jiangxi Agricultural University in CN. With 95 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.527210
+date: 2026-08-11T01:33:11.464198
 url: "/cdr-researcher-census/researchers/fangchao-wang-a5063543/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    26 citations · Soil Carbon
 
 2. **Contrasting Effects of Nitrogen Deposition and Phosphorus Addition on Soil Organic Carbon in a Subtropical Forest: Physical Protection versus Chemical Stability** (2024)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 3. **Exploring the boost by dominant ectomycorrhizal trees to soil organic carbon sequestration in the subtropical forest of the Jiulianshan National Nature Reserve** (2025)
    3 citations · Soil Carbon
@@ -62,10 +62,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Stoichiometry Influences on Microbial Necromass Carbon Contributions to Soil Organic Carbon in A Chinese Fir Plantation Under a 7‐Year Litter Manipulation** (2025)
    1 citations · Soil Carbon
 
-5. **Effects of interplanting Liquidambarformosana on soil microbial derived and plant derived carbon in pure Pinus massoniana plantation** (2026)
-   0 citations · Soil Carbon
+5. **Nutrient enrichment weakens the positive feedback of soil organic carbon decomposition to short-term warming in subtropical forests** (2025)
+   1 citations · Soil Carbon
 
-6. **Nutrient enrichment weakens the positive feedback of soil organic carbon decomposition to short-term warming in subtropical forests** (2025)
+6. **Effects of interplanting Liquidambarformosana on soil microbial derived and plant derived carbon in pure Pinus massoniana plantation** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

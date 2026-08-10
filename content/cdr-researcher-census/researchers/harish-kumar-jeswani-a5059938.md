@@ -1,7 +1,7 @@
 ---
 title: "Harish Kumar Jeswani"
 description: "Harish Kumar Jeswani is a Senior General CDR researcher at University of Manchester in GB. With 74 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.117832
+date: 2026-08-11T01:33:11.097008
 url: "/cdr-researcher-census/researchers/harish-kumar-jeswani-a5059938/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    105 citations · General CDR
 
 2. **Biochar from agricultural wastes: Environmental sustainability, economic viability and the potential as a negative emissions technology in Malaysia** (2024)
-   51 citations · Biochar
+   54 citations · Biochar
 
 3. **Bioenergy with carbon capture and storage (BECSS): Life cycle environmental and economic assessment of electricity generated from palm oil wastes** (2023)
-   42 citations · BECCS
+   43 citations · BECCS
 
 4. **Building with biomass using tropical timber as a negative emissions technology (NET): Sustainability assessment, comparison with other bio-based NETs and their potential in Malaysia** (2025)
    1 citations · BECCS

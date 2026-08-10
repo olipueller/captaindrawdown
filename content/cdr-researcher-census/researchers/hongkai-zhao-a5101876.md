@@ -1,7 +1,7 @@
 ---
 title: "Hongkai Zhao"
 description: "Hongkai Zhao is a Senior Soil Carbon researcher at North China Electric Power University in CN. With 39 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.206741
+date: 2026-08-11T01:33:11.180474
 url: "/cdr-researcher-census/researchers/hongkai-zhao-a5101876/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Decades of reforestation significantly change microbial necromass, glomalin, and their contributions to soil organic carbon** (2023)
-   69 citations · Soil Carbon
+   71 citations · Soil Carbon
 
 2. **Decades of Reforestation Significantly Change Microbial Necromass, Glomalin, and Their Contributions to Soil Organic Carbon** (2022)
    2 citations · Soil Carbon

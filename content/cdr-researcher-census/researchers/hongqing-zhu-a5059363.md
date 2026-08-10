@@ -1,7 +1,7 @@
 ---
 title: "Hongqing Zhu"
 description: "Hongqing Zhu is a Mid-career Biochar researcher at Chengdu University of Technology in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.078655
+date: 2026-08-11T01:33:11.971845
 url: "/cdr-researcher-census/researchers/hongqing-zhu-a5059363/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Electron transfer tuning for persulfate activation via the radical and non-radical pathways with biochar mediator** (2024)
-   28 citations · Biochar
+   34 citations · Biochar
 
 2. **Electron Transfer Tuning for Persulfate Activation Via the Radical and Non-Radical Pathways with Biochar Mediator** (2024)
    1 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Fuxing Guo"
 description: "Fuxing Guo is a Mid-career Enhanced Weathering researcher at Northwest A&F University in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-12T12:07:30.185668
+date: 2026-08-11T01:33:12.118640
 url: "/cdr-researcher-census/researchers/fuxing-guo-a5052860/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    40 citations · Enhanced Weathering
 
 2. **Improving food security and farmland carbon sequestration in China through enhanced rock weathering: Field evidence and potential assessment in different humid regions** (2023)
-   34 citations · Enhanced Weathering
+   35 citations · Enhanced Weathering
 
 3. **Integrating no-tillage and organic amendment optimizes carbon sequestration in agricultural enhanced rock weathering: Evidence from a six-year field trial** (2026)
    0 citations · Enhanced Weathering

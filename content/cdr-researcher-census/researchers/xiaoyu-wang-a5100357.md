@@ -1,7 +1,7 @@
 ---
 title: "Xiaoyu Wang"
 description: "Xiaoyu Wang is a Senior Soil Carbon researcher at Wenzhou University in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.667013
+date: 2026-08-11T01:33:11.590421
 url: "/cdr-researcher-census/researchers/xiaoyu-wang-a5100357/"
 layout: "researcher"
 hiddenInHomeList: true

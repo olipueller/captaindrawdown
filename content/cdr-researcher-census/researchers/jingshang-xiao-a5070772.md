@@ -1,7 +1,7 @@
 ---
 title: "Jingshang Xiao"
 description: "Jingshang Xiao is a Mid-career Soil Carbon researcher at Jiangxi Institute of Red Soil in CN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.478546
+date: 2026-08-11T01:33:12.333359
 url: "/cdr-researcher-census/researchers/jingshang-xiao-a5070772/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations
 
 2. **Organic Manure with Chemical Fertilizers Improves Rice Productivity and Decreases N2O Emissions by Increasing Soil Nitrogen Sequestration** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

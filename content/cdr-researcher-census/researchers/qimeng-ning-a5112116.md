@@ -1,7 +1,7 @@
 ---
 title: "Qimeng Ning"
 description: "Qimeng Ning is a Mid-career General CDR researcher at Hunan City University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.583195
+date: 2026-08-11T01:33:11.514608
 url: "/cdr-researcher-census/researchers/qimeng-ning-a5112116/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Impacts of the land use transition on ecosystem services in the Dongting Lake area** (2024)
-   15 citations · General CDR
+   16 citations · General CDR
 
 2. **Impacts of Land Use Transition on Ecosystem Services in the Dongting Lake Area** (2024)
    1 citations

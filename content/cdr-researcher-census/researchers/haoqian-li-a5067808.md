@@ -1,7 +1,7 @@
 ---
 title: "Haoqian Li"
 description: "Haoqian Li is a Mid-career Biochar researcher at Hebei Agricultural University in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.387734
+date: 2026-08-11T01:33:12.249612
 url: "/cdr-researcher-census/researchers/haoqian-li-a5067808/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Potassium and phosphorous co-doped g-C3N4/shrimp shell biochar composite attached onto polylactic acid degradable mulching film for photocatalytic removal of atrazine in water and soil** (2025)
-   18 citations · Biochar
+   19 citations · Biochar
 
 2. **Polylactic acid degradable mulching film modified by N-TiO2/g-C3N4 photocatalyst for removal of carbendazim in water and soil under visible light** (2025)
-   3 citations
+   4 citations
 
 3. **Potassium and Phosphorous Co-Doped G-C3n4/Shrimp Shell Biochar Composite Attached Onto Polylactic Acid Degradable Mulching Film for Photocatalytic Removal of Atrazine in Water and Soil** (2025)
    0 citations · Biochar

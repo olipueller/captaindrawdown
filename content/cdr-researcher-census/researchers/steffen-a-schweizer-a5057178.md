@@ -1,7 +1,7 @@
 ---
 title: "Steffen A. Schweizer"
 description: "Steffen A. Schweizer is a Senior Soil Carbon researcher at Technical University of Munich in DE. With 125 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.169556
+date: 2026-08-11T01:33:11.145565
 url: "/cdr-researcher-census/researchers/steffen-a-schweizer-a5057178/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil Carbon Saturation: What Do We Really Know?** (2025)
-   109 citations · Soil Carbon
+   121 citations · Soil Carbon
 
 2. **Perspectives from the Fritz‐Scheffer Awardee 2021: Soil organic matter storage and functions determined by patchy and piled‐up arrangements at the microscale** (2022)
    42 citations · Soil Carbon
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Soil Carbon
 
 4. **Increased Retention of Litter‐Derived Organic Carbon With Increasing Initial Carbon Content in Temperate Agricultural Soils** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 5. **Is initial soil organic carbon more important than texture for the fate of carbon inputs into temperate agricultural soils?** (2026)
    0 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Shuai Xue"
 description: "Shuai Xue is a Mid-career Soil Carbon researcher at Hunan Agricultural University in CN. With 57 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.404184
+date: 2026-08-11T01:33:11.358321
 url: "/cdr-researcher-census/researchers/shuai-xue-a5018969/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,13 +54,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    36 citations · Soil Carbon
 
 2. **Carbon sequestration potential and its main drivers in soils under alfalfa (Medicago sativa L.)** (2024)
-   24 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 3. **The efficiency and stability of soil organic carbon sequestration by perennial energy crops cultivation on marginal land depended on root traits** (2023)
    24 citations · Soil Carbon
 
 4. **Effects of soil physics, chemistry, and microbiology on soil carbon sequestration in infertile red soils after long‐term cultivation of perennial grasses** (2022)
-   9 citations · General CDR
+   10 citations · General CDR
 
 5. **<i>Pleurotus pulmonarius</i> Pretreated Lignocellulosic Feedstock as a Sustainable Precursor to Produce Biochar for Efficient Removal of NO<sub>3</sub><sup>–</sup>** (2024)
    7 citations · Biochar

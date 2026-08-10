@@ -1,7 +1,7 @@
 ---
 title: "Maopan Fan"
 description: "Maopan Fan is a Mid-career Enhanced Weathering researcher at Yunnan Agricultural University in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.054782
+date: 2026-08-11T01:33:11.928940
 url: "/cdr-researcher-census/researchers/maopan-fan-a5108762/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    7 citations · Soil Carbon
 
 3. **Acidic condition accelerates cation release from purple rock in Southwestern China** (2022)
-   6 citations · Enhanced Weathering
+   7 citations · Enhanced Weathering
 
 4. **Effects of nitrogen fertilizers on the bacterial community diversity and the weathering of purple mudstone in Southwest China** (2023)
    3 citations

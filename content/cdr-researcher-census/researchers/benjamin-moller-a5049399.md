@@ -1,7 +1,7 @@
 ---
 title: "Benjamin Möller"
 description: "Benjamin Möller is a Mid-career Enhanced Weathering researcher at Fraunhofer Institute for Structural Durability and System Reliability in DE. With 47 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.351332
+date: 2026-08-11T01:33:11.313173
 url: "/cdr-researcher-census/researchers/benjamin-moller-a5049399/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Potential accumulation of toxic trace elements in soils during enhanced rock weathering** (2023)
-   86 citations · Enhanced Weathering
+   88 citations · Enhanced Weathering
 
 2. **Geochemical Drivers of Enhanced Rock Weathering in Soils** (2025)
    6 citations · Enhanced Weathering

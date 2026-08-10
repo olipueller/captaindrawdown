@@ -1,7 +1,7 @@
 ---
 title: "Aurélie Bacq-Labreuil"
 description: "Aurélie Bacq-Labreuil is a Mid-career Soil Carbon researcher. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.707822
+date: 2026-08-11T01:33:11.626856
 url: "/cdr-researcher-census/researchers/aurelie-bacq-labreuil-a5080975/"
 layout: "researcher"
 hiddenInHomeList: true

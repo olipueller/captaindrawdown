@@ -1,7 +1,7 @@
 ---
 title: "Wensheng Liu"
 description: "Wensheng Liu is a Mid-career Soil Carbon researcher at Central South University of Forestry and Technology in CN. With 45 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.305962
+date: 2026-08-11T01:33:11.272994
 url: "/cdr-researcher-census/researchers/wensheng-liu-a5100678/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of tillage and straw management on grain yield and SOC storage in a wheat-maize cropping system** (2022)
-   36 citations · Soil Carbon
+   37 citations · Soil Carbon
 
 2. **Conservation tillage increases surface soil organic carbon stock by altering fungal communities and enzyme activity** (2023)
    25 citations · Soil Carbon

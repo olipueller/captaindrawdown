@@ -1,7 +1,7 @@
 ---
 title: "Changpeng Sang"
 description: "Changpeng Sang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.473585
+date: 2026-08-11T01:33:11.417987
 url: "/cdr-researcher-census/researchers/changpeng-sang-a5027957/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Stoichiometric imbalance and microbial community regulate microbial elements use efficiencies under nitrogen addition** (2021)
-   210 citations
+   217 citations
 
 2. **Integrating microbial community properties, biomass and necromass to predict cropland soil organic carbon** (2023)
-   137 citations · Soil Carbon
+   141 citations · Soil Carbon
 
 ## External Profiles
 

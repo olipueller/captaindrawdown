@@ -1,7 +1,7 @@
 ---
 title: "Jun Zhong"
 description: "Jun Zhong is a Senior Enhanced Weathering researcher at Tianjin University in CN. With 105 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.160423
+date: 2026-08-11T01:33:11.136866
 url: "/cdr-researcher-census/researchers/jun-zhong-a5017137/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,28 +51,28 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Dynamics and fluxes of dissolved carbon under short-term climate variabilities in headwaters of the Changjiang River, draining the Qinghai-Tibet Plateau** (2021)
-   43 citations
+   45 citations
 
 2. **Escalating Carbon Export from High-Elevation Rivers in a Warming Climate** (2024)
-   37 citations · General CDR
+   38 citations · General CDR
 
 3. **Calcium isotopes tracing secondary mineral formation in the high-relief Yalong River Basin, Southeast Tibetan Plateau** (2022)
    20 citations · Enhanced Weathering
 
 4. **Carbon sequestration and decreased CO2 emission caused by biological carbon pump effect: Insights from diel hydrochemical variations in subtropical karst reservoirs** (2024)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 5. **Constraining sulfur cycling in the Eastern Tibetan Plateau: Evidence for cryptic sulfur cycling and implications for the weathering budget** (2025)
-   10 citations · Enhanced Weathering
+   12 citations · Enhanced Weathering
 
 6. **A review of dissolved inorganic carbon isotopic fractionations in carbonate-bearing areas: Processes, models and applications** (2025)
-   9 citations
+   11 citations
 
-7. **Flow paths control on spatiotemporal weathering dynamics in high-relief regions, eastern Qinghai-Tibet Plateau: Insight from dissolved Li-Sr-O isotopes** (2025)
+7. **Constraining sulfate sources and its implications on atmospheric pCO2 in Arid Regions: Evidence from the Tarim Basin** (2025)
+   3 citations
+
+8. **Flow paths control on spatiotemporal weathering dynamics in high-relief regions, eastern Qinghai-Tibet Plateau: Insight from dissolved Li-Sr-O isotopes** (2025)
    1 citations · Enhanced Weathering
-
-8. **Constraining sulfate sources and its implications on atmospheric pCO2 in Arid Regions: Evidence from the Tarim Basin** (2025)
-   1 citations
 
 9. **Climate warming and strengthened hydrologic cycle accelerate CO2 release from rock weathering** (2025)
    0 citations · Enhanced Weathering

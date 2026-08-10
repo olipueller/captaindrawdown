@@ -1,7 +1,7 @@
 ---
 title: "Jieyun Liu"
 description: "Jieyun Liu is a Mid-career Soil Carbon researcher. With 60 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.286201
+date: 2026-08-11T01:33:11.254025
 url: "/cdr-researcher-census/researchers/jieyun-liu-a5002652/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,13 +43,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effect of biochar application rate on changes in soil labile organic carbon fractions and the association between bacterial community assembly and carbon metabolism with time** (2022)
-   68 citations · Biochar
+   71 citations · Biochar
 
 2. **Effect of Biochar on Labile Organic Carbon Fractions and Soil Carbon Pool Management Index** (2023)
    25 citations · Biochar
 
 3. **Rice straw carbon mineralization is affected by the timing of exogenous glucose addition in flooded paddy soil** (2022)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 4. **Impact of waterlogging and heat stress on rice rhizosphere microbiome assembly and potential function in carbon and nitrogen transformation** (2022)
    12 citations

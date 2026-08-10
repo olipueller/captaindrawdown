@@ -1,7 +1,7 @@
 ---
 title: "Huanchao Zhang"
 description: "Huanchao Zhang is a Senior Soil Carbon researcher at Nanjing Forestry University in CN. With 74 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.361741
+date: 2026-08-11T01:33:11.322314
 url: "/cdr-researcher-census/researchers/huanchao-zhang-a5021494/"
 layout: "researcher"
 hiddenInHomeList: true

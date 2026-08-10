@@ -1,7 +1,7 @@
 ---
 title: "Andrea Burešová"
 description: "Andrea Burešová is a Mid-career Soil Carbon researcher at Czech Agrifood Research Center in CZ. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.923605
+date: 2026-08-11T01:33:11.820582
 url: "/cdr-researcher-census/researchers/andrea-buresova-a5047140/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Litter chemical quality and bacterial community structure influenced decomposition in acidic forest soil** (2021)
-   25 citations
+   27 citations
 
 2. **<p>Raw data of all measurements.</p>** (2026)
    0 citations

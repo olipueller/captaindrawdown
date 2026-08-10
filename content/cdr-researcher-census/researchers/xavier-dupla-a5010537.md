@@ -1,7 +1,7 @@
 ---
 title: "Xavier Dupla"
 description: "Xavier Dupla is a Mid-career Enhanced Weathering researcher at Planetary Science Institute in US. With 23 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-12T12:07:29.913959
+date: 2026-08-11T01:33:11.838745
 url: "/cdr-researcher-census/researchers/xavier-dupla-a5010537/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Potential accumulation of toxic trace elements in soils during enhanced rock weathering** (2023)
-   86 citations · Enhanced Weathering
+   88 citations · Enhanced Weathering
 
 2. **Changes in topsoil organic carbon content in the Swiss leman region cropland from 1993 to present. Insights from large scale on-farm study** (2021)
    36 citations · General CDR
 
 3. **Let the dust settle: Impact of enhanced rock weathering on soil biological, physical, and geochemical fertility** (2024)
-   30 citations · Enhanced Weathering
+   31 citations · Enhanced Weathering
 
 4. **Uncertainties of enhanced rock weathering for climate-change mitigation** (2026)
-   6 citations · Enhanced Weathering
+   8 citations · Enhanced Weathering
 
 5. **Geochemical Drivers of Enhanced Rock Weathering in Soils** (2025)
    6 citations · Enhanced Weathering
@@ -74,10 +74,10 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 8. **Biased selection and incomplete characterization of feedstock materials in enhanced rock weathering experiments** (2025)
    1 citations · Enhanced Weathering
 
-9. **Accelerating weathering, lessons from a century of soil rejuvenation** (2026)
+9. **An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering** (2026)
    0 citations · Enhanced Weathering
 
-10. **Enhanced rock weathering in grassland: Impacts of basalt dust on hay meadow soil, forage, and floristic diversity** (2026)
+10. **Accelerating weathering, lessons from a century of soil rejuvenation** (2026)
    0 citations · Enhanced Weathering
 
 ## External Profiles

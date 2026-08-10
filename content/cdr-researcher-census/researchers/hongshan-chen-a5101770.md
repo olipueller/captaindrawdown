@@ -1,7 +1,7 @@
 ---
 title: "Hongshan Chen"
 description: "Hongshan Chen is a Senior General CDR researcher at Tianjin Medical University General Hospital in CN. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.262710
+date: 2026-08-11T01:33:11.232057
 url: "/cdr-researcher-census/researchers/hongshan-chen-a5101770/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **A cross-scale study on the relationship between urban expansion and ecosystem services in China** (2022)
-   39 citations · General CDR
+   43 citations · General CDR
 
 2. **Integrating Ecosystem Services Into Landscape Ecological Risk Warning: An Empirical Study in Jiangsu Province, China** (2026)
-   0 citations · General CDR
+   1 citations · General CDR
 
 ## External Profiles
 

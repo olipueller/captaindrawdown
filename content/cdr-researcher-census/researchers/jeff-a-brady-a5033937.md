@@ -1,7 +1,7 @@
 ---
 title: "Jeff A. Brady"
 description: "Jeff A. Brady is a Senior Soil Carbon researcher at STAR Council in US. With 61 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.267994
+date: 2026-08-11T01:33:11.236890
 url: "/cdr-researcher-census/researchers/jeff-a-brady-a5033937/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Response of soil microbial Communities, inorganic and organic soil carbon pools in arid saline soils to alternative land use practices** (2023)
-   33 citations · Soil Carbon
+   34 citations · Soil Carbon
 
 2. **Dairy Effluent-Saturated Biochar’s Short-Term Effects on Vigna unguiculata and Cynodon dactylon Performance and Soil Properties** (2024)
    2 citations · Biochar

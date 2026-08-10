@@ -1,7 +1,7 @@
 ---
 title: "Minghao Zhuang"
 description: "Minghao Zhuang is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 99 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.165026
+date: 2026-08-11T01:33:11.141328
 url: "/cdr-researcher-census/researchers/minghao-zhuang-a5022828/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Integrated biochar solutions can achieve carbon-neutral staple crop production** (2023)
-   176 citations · Biochar
+   177 citations · Biochar
 
 2. **Synergistic improvement of carbon sequestration and crop yield by organic material addition in saline soil: A global meta-analysis** (2023)
-   93 citations · Soil Carbon
+   95 citations · Soil Carbon
 
 3. **Effects of long-term straw return on grain yield stability in China: A meta-analysis** (2025)
-   11 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 4. **Optimizing carbon and nitrogen cycles towards net-zero greenhouse gas emissions in agrifood systems: a case study in Quzhou, China** (2025)
    1 citations · General CDR

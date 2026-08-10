@@ -1,7 +1,7 @@
 ---
 title: "Maurice Dörr"
 description: "Maurice Dörr is a Mid-career DAC researcher at SINTEF in NO. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.886238
+date: 2026-08-11T01:33:11.787200
 url: "/cdr-researcher-census/researchers/maurice-dorr-a5041665/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Solid sorbents for direct air capture: a technological and environmental perspective** (2025)
-   6 citations · DAC
+   7 citations · DAC
 
 ## External Profiles
 

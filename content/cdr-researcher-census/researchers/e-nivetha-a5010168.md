@@ -1,7 +1,7 @@
 ---
 title: "E. Nivetha"
 description: "E. Nivetha is a Mid-career Biochar researcher at Kerala Veterinary and Animal Sciences University in IN. With 8 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.323708
+date: 2026-08-11T01:33:12.191382
 url: "/cdr-researcher-census/researchers/e-nivetha-a5010168/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A review on biochar’s effect on soil properties and crop growth** (2023)
-   137 citations · Biochar
+   142 citations · Biochar
 
 ## External Profiles
 

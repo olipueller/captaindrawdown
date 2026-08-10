@@ -1,7 +1,7 @@
 ---
 title: "Zalalem Bekele"
 description: "Zalalem Bekele is a Senior Soil Carbon researcher at Ethiopian Institute of Agricultural Research in ET. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.403492
+date: 2026-08-11T01:33:12.263689
 url: "/cdr-researcher-census/researchers/zalalem-bekele-a5113036/"
 layout: "researcher"
 hiddenInHomeList: true

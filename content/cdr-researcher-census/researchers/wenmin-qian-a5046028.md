@@ -1,7 +1,7 @@
 ---
 title: "Wenmin Qian"
 description: "Wenmin Qian is a Senior Biochar researcher at Kunming University of Science and Technology in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.014839
+date: 2026-08-11T01:33:11.891167
 url: "/cdr-researcher-census/researchers/wenmin-qian-a5046028/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biomass-derived carbon/iron composite (FexOy-BC (RM)) with excellent Cd(II) adsorption from wastewater – Red mud resource utilization** (2023)
-   19 citations · Biochar
+   20 citations · Biochar
 
 ## External Profiles
 

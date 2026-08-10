@@ -1,7 +1,7 @@
 ---
 title: "Chayanoot Sangwichien"
 description: "Chayanoot Sangwichien is a Senior Biochar researcher at Prince of Songkla University in TH. With 35 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.409401
+date: 2026-08-11T01:33:11.363026
 url: "/cdr-researcher-census/researchers/chayanoot-sangwichien-a5079629/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Enhancement of adsorption capacity of Methylene blue, Malachite green, and Rhodamine B onto KOH activated carbon derived from oil palm empty fruit bunches** (2023)
-   52 citations · Biochar
+   56 citations · Biochar
 
 2. **Adsorption of Cu(II) and Zn(II) onto Activated Carbon from Oil Palm Empty Fruit Bunch Prepared by Two-Step Acid Treatment and Microwave-Assisted Pyrolysis** (2023)
-   15 citations · Biochar
+   17 citations · Biochar
 
 ## External Profiles
 

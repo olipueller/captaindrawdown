@@ -1,7 +1,7 @@
 ---
 title: "Yu Zhang"
 description: "Yu Zhang is a Mid-career Soil Carbon researcher at Huazhong Agricultural University in CN. With 38 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.409625
+date: 2026-08-11T01:33:11.363244
 url: "/cdr-researcher-census/researchers/yu-zhang-a5100433/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Forests have a higher soil C sequestration benefit due to lower C mineralization efficiency: Evidence from the central loess plateau case** (2022)
-   66 citations
+   67 citations
 
 2. **Effects of land clearing for agriculture on soil organic carbon stocks in drylands: A meta‐analysis** (2022)
-   35 citations · Soil Carbon
+   38 citations · Soil Carbon
 
 3. **Optimal N management improves crop yields and soil carbon, nitrogen sequestration in Chinese cabbage-maize rotation** (2022)
    5 citations · Soil Carbon

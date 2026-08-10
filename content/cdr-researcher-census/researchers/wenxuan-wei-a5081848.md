@@ -1,7 +1,7 @@
 ---
 title: "Wenxuan Wei"
 description: "Wenxuan Wei is a Mid-career Biochar researcher at State Key Laboratory of Pollution Control and Resource Reuse in CN. With 32 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.597939
+date: 2026-08-11T01:33:11.528279
 url: "/cdr-researcher-census/researchers/wenxuan-wei-a5081848/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Metal-Modified Biochar Activates Persulfate for the Removal of Phenolic Pollutants from Water: Mechanism Prediction and Non-Radical Targeted Regulation** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 2. **Copper and iron co-loaded biochar (CuFe-BC) activated peroxydisulfate (PDS): A novel non-radical system for 4-chlorophenol removal through electron-transfer-induced polymerization** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

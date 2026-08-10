@@ -1,7 +1,7 @@
 ---
 title: "Seong-Yeun Yoo"
 description: "Seong-Yeun Yoo is a Mid-career Biochar researcher at University of Seoul in KR. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.336907
+date: 2026-08-11T01:33:11.300430
 url: "/cdr-researcher-census/researchers/seong-yeun-yoo-a5109371/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,11 +47,11 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 ## Top CDR Publications
 
-1. **The Role of HCl-Catalyzed Sequential Carbonization in Producing Highly Carbonaceous Porous Biochar with Minimized Heavy Metal Content from Swine Manure** (2025)
+1. **Optimized Biochar from Chicken Manure via Hydrothermal Activation and Catalytic HTC: Properties and CO2 Reduction Potential** (2025)
    3 citations · Biochar
 
-2. **Optimized Biochar from Chicken Manure via Hydrothermal Activation and Catalytic HTC: Properties and CO2 Reduction Potential** (2025)
-   2 citations · Biochar
+2. **The Role of HCl-Catalyzed Sequential Carbonization in Producing Highly Carbonaceous Porous Biochar with Minimized Heavy Metal Content from Swine Manure** (2025)
+   3 citations · Biochar
 
 ## External Profiles
 

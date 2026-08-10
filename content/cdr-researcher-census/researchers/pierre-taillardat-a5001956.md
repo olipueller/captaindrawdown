@@ -1,7 +1,7 @@
 ---
 title: "Pierre Taillardat"
 description: "Pierre Taillardat is a Senior Soil Carbon researcher at Nanyang Technological University in SG. With 77 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.186814
+date: 2026-08-11T01:33:11.161486
 url: "/cdr-researcher-census/researchers/pierre-taillardat-a5001956/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Deconstructing the mangrove carbon cycle: Gains, transformation, and losses** (2024)
-   60 citations · Soil Carbon
+   63 citations · Soil Carbon
 
 2. **Comment on egusphere-2025-6519** (2026)
    0 citations · Ocean CDR

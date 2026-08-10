@@ -1,7 +1,7 @@
 ---
 title: "Muhammed Mustapha Ibrahim"
 description: "Muhammed Mustapha Ibrahim is a Senior Soil Carbon researcher at South China Botanical Garden, Chinese Academy of Sciences in CN. With 62 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.364798
+date: 2026-08-11T01:33:11.324495
 url: "/cdr-researcher-census/researchers/muhammed-mustapha-ibrahim-a5040806/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    27 citations · Biochar
 
 2. **Global Distribution and Influencing Factors of Plant‐Available Phosphorus in (Semi‐)Natural Soils** (2025)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 3. **Grazing exclusion promotes soil organic carbon accumulation in Tibetan grasslands with lower temperatures** (2024)
    11 citations · Soil Carbon

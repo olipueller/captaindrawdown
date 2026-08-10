@@ -1,7 +1,7 @@
 ---
 title: "Zhongye Yu"
 description: "Zhongye Yu is a Mid-career Biochar researcher at Nanchang University in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.815004
+date: 2026-08-11T01:33:11.723632
 url: "/cdr-researcher-census/researchers/zhongye-yu-a5030485/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Ultra-high selective removal of Congo red and Ciprofloxacin using unusual LDO modified biochar: Influence of emerging pollutants and application attempts** (2024)
-   30 citations · Biochar
+   31 citations · Biochar
 
 ## External Profiles
 

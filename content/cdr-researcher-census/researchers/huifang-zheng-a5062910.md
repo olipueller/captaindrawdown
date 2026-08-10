@@ -1,7 +1,7 @@
 ---
 title: "Huifang Zheng"
 description: "Huifang Zheng is a Mid-career Biochar researcher at Wuhan Institute of Technology in CN. With 16 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.663763
+date: 2026-08-11T01:33:11.588002
 url: "/cdr-researcher-census/researchers/huifang-zheng-a5062910/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Carbon-based adsorbents for micro/nano-plastics removal: current advances and perspectives** (2024)
-   51 citations · Biochar
+   55 citations · Biochar
 
 ## External Profiles
 

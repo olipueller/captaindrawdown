@@ -1,7 +1,7 @@
 ---
 title: "Bekchanov Davronbek"
 description: "Bekchanov Davronbek is a Mid-career Biochar researcher at National University of Uzbekistan in UZ. With 40 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.824675
+date: 2026-08-11T01:33:11.731650
 url: "/cdr-researcher-census/researchers/bekchanov-davronbek-a5068545/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    14 citations · Biochar
 
 2. **Catalytic pyrolysis of waste biomass via coal fly ash for synergistic production of cost-effective artificial humic acid** (2025)
-   7 citations · Biochar
+   9 citations · Biochar
 
 3. **Sustainable Synthesis of Artificial Humic Substances from Bamboo Powder by Fecl3-Catalyzed Low-Temperature Pyrolysis for Cadmium Contaminated Soil Remediation and Carbon Sequestration** (2025)
    0 citations · Biochar

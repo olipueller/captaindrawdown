@@ -1,7 +1,7 @@
 ---
 title: "Shreekar Pradhan"
 description: "Shreekar Pradhan is a Senior DAC researcher at University of Virginia in US. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.686655
+date: 2026-08-11T01:33:11.607938
 url: "/cdr-researcher-census/researchers/shreekar-pradhan-a5110689/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **The role of direct air capture and negative emissions technologies in the shared socioeconomic pathways towards +1.5 °C and +2 °C futures** (2021)
-   110 citations · DAC
+   112 citations · DAC
 
 2. **Effects of Direct Air Capture Technology Availability on Stranded Assets and Committed Emissions in the Power Sector** (2021)
    25 citations · BECCS

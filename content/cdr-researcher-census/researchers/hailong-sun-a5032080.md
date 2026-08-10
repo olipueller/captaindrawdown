@@ -1,7 +1,7 @@
 ---
 title: "Hailong Sun"
 description: "Hailong Sun is a Senior Ocean CDR researcher at Institute of Geochemistry in CN. With 95 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.216365
+date: 2026-08-11T01:33:11.189423
 url: "/cdr-researcher-census/researchers/hailong-sun-a5032080/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **A greening Earth has reversed the trend of decreasing carbonate weathering under a warming climate** (2025)
-   22 citations · Enhanced Weathering
+   24 citations · Enhanced Weathering
 
 2. **Carbon sinks associated with biological carbon pump in karst surface waters: Progress, challenges, and prospects** (2024)
-   20 citations · General CDR
+   22 citations · General CDR
 
 3. **High stability of carbonate weathering relevant carbon sink under biological pump effect in inland waters: Insights from Shawan Karst Experimental Site, Southwest China** (2024)
-   14 citations · Enhanced Weathering
+   15 citations · Enhanced Weathering
 
 4. **Enhanced biological pump and carbonate pump synergy: The primary pathway for phosphorus clearance in the century-long dynamics of a karst lake** (2025)
    12 citations · Ocean CDR

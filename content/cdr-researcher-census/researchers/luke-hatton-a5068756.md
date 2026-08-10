@@ -1,7 +1,7 @@
 ---
 title: "Luke Hatton"
 description: "Luke Hatton is a Mid-career General CDR researcher at Imperial College London in GB. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.206562
+date: 2026-08-11T01:33:12.088854
 url: "/cdr-researcher-census/researchers/luke-hatton-a5068756/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    6 citations · General CDR
 
 2. **Historical and future projected costs of capital for ten energy technologies across 176 countries** (2025)
-   2 citations · General CDR
+   3 citations · General CDR
 
 ## External Profiles
 

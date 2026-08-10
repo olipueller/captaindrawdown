@@ -1,7 +1,7 @@
 ---
 title: "Jin Hua Li"
 description: "Jin Hua Li is a Senior Soil Carbon researcher at Lanzhou University in CN. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.565675
+date: 2026-08-11T01:33:11.499161
 url: "/cdr-researcher-census/researchers/jin-hua-li-a5101729/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,9 +54,12 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    15 citations · Soil Carbon
 
 2. **Planting of nitrogen-fixing shrubs promote soil carbon sequestration by increasing mineral-associated organic fraction** (2025)
-   10 citations · Soil Carbon
+   12 citations · Soil Carbon
 
-3. **Corrigendum to “Planting of nitrogen-fixing shrubs promote soil carbon sequestration by increasing mineral-associated organic fraction” [Geoderma 457 (2025) 117282]** (2025)
+3. **Forestation enhances soil organic carbon sequestration with divergent coupling mechanisms along aridity gradients** (2026)
+   0 citations · Soil Carbon
+
+4. **Corrigendum to “Planting of nitrogen-fixing shrubs promote soil carbon sequestration by increasing mineral-associated organic fraction” [Geoderma 457 (2025) 117282]** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

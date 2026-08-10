@@ -1,7 +1,7 @@
 ---
 title: "Carlos Paulo"
 description: "Carlos Paulo is a Senior Enhanced Weathering researcher at Trent University in CA. With 60 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.399407
+date: 2026-08-11T01:33:11.354170
 url: "/cdr-researcher-census/researchers/carlos-paulo-a5077581/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -69,7 +69,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    28 citations · Enhanced Weathering
 
 7. **Impact of wet-dry cycles on enhanced rock weathering of brucite, wollastonite, serpentinite and kimberlite: Implications for carbon verification** (2023)
-   16 citations · Enhanced Weathering
+   17 citations · Enhanced Weathering
 
 8. **Geochemical Drivers of Enhanced Rock Weathering in Soils** (2025)
    6 citations · Enhanced Weathering

@@ -1,7 +1,7 @@
 ---
 title: "Jiangyan Lu"
 description: "Jiangyan Lu is a Mid-career Biochar researcher at Guangzhou University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.070250
+date: 2026-08-11T01:33:11.964594
 url: "/cdr-researcher-census/researchers/jiangyan-lu-a5057535/"
 layout: "researcher"
 hiddenInHomeList: true

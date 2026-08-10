@@ -1,7 +1,7 @@
 ---
 title: "Bouthaina Aoudi"
 description: "Bouthaina Aoudi is a Mid-career Biochar researcher at University of Alberta in CA. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.166312
+date: 2026-08-11T01:33:12.052718
 url: "/cdr-researcher-census/researchers/bouthaina-aoudi-a5056952/"
 layout: "researcher"
 hiddenInHomeList: true

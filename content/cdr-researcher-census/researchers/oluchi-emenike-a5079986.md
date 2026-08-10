@@ -1,7 +1,7 @@
 ---
 title: "Oluchi Emenike"
 description: "Oluchi Emenike is a Mid-career BECCS researcher at Robert Gordon's College in GB. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.416929
+date: 2026-08-11T01:33:12.276186
 url: "/cdr-researcher-census/researchers/oluchi-emenike-a5079986/"
 layout: "researcher"
 hiddenInHomeList: true

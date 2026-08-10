@@ -1,7 +1,7 @@
 ---
 title: "Junjie Liu"
 description: "Junjie Liu is a Senior Soil Carbon researcher at Sun Yat-sen University in CN. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.610150
+date: 2026-08-11T01:33:11.538976
 url: "/cdr-researcher-census/researchers/junjie-liu-a5006462/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,10 +50,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Conservation tillage could achieve SOC accumulation of eroding farmland in black soil regions** (2025)
-   1 citations · Soil Carbon
+1. **Warming-induced unstable microbial community metabolically lowers straw-carbon sequestration in paddy soils** (2025)
+   2 citations · Soil Carbon
 
-2. **Warming-induced unstable microbial community metabolically lowers straw-carbon sequestration in paddy soils** (2025)
+2. **Conservation tillage could achieve SOC accumulation of eroding farmland in black soil regions** (2025)
    1 citations · Soil Carbon
 
 ## External Profiles

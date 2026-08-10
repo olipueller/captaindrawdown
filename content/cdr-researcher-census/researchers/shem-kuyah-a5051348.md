@@ -1,7 +1,7 @@
 ---
 title: "Shem Kuyah"
 description: "Shem Kuyah is a Senior Soil Carbon researcher at Jomo Kenyatta University of Agriculture and Technology in KE. With 81 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.119010
+date: 2026-08-11T01:33:11.098060
 url: "/cdr-researcher-census/researchers/shem-kuyah-a5051348/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Agroforestry's contribution to livelihoods and carbon sequestration in East Africa: A systematic review** (2023)
-   106 citations · General CDR
+   112 citations · General CDR
 
 2. **Grain legumes and dryland cereals contribute to carbon sequestration in the drylands of Africa and South Asia** (2023)
    39 citations · Soil Carbon
 
-3. **Potential of Alnus acuminata based agroforestry for carbon sequestration and other ecosystem services in Rwanda** (2021)
-   27 citations · BECCS
+3. **Farmer-Managed Natural Regeneration in Africa: Evidence for Climate Change Mitigation and Adaptation in Drylands** (2023)
+   27 citations · General CDR
 
-4. **Farmer-Managed Natural Regeneration in Africa: Evidence for Climate Change Mitigation and Adaptation in Drylands** (2023)
-   26 citations · General CDR
+4. **Potential of Alnus acuminata based agroforestry for carbon sequestration and other ecosystem services in Rwanda** (2021)
+   27 citations · BECCS
 
 5. **Push-pull technology improves carbon stocks in rainfed smallholder agriculture in Western Kenya** (2022)
    26 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Édouard Konan Kouassi"
 description: "Édouard Konan Kouassi is a Mid-career Soil Carbon researcher at Université Félix Houphouët-Boigny in CI. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.339472
+date: 2026-08-11T01:33:12.205304
 url: "/cdr-researcher-census/researchers/edouard-konan-kouassi-a5068009/"
 layout: "researcher"
 hiddenInHomeList: true

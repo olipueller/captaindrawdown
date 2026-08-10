@@ -1,7 +1,7 @@
 ---
 title: "Sara Nawaz"
 description: "Sara Nawaz is a Mid-career General CDR researcher at University of British Columbia in CA. With 34 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.724132
+date: 2026-08-11T01:33:11.641896
 url: "/cdr-researcher-census/researchers/sara-nawaz-a5083576/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,34 +51,34 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Public evaluations of four approaches to ocean-based carbon dioxide removal** (2023)
-   55 citations · General CDR
+   57 citations · General CDR
 
 2. **Exploring public acceptability of direct air carbon capture with storage: climate urgency, moral hazards and perceptions of the ‘whole versus the parts’** (2023)
-   52 citations · General CDR
+   54 citations · General CDR
 
 3. **Broaden Research on Ocean Alkalinity Enhancement to Better Characterize Social Impacts** (2023)
-   34 citations · General CDR
+   35 citations · General CDR
 
 4. **Grappling with a sea change: Tensions in expert imaginaries of marine carbon dioxide removal** (2024)
    19 citations · General CDR
 
-5. **Social considerations and best practices to apply to engaging publics on ocean alkalinity enhancement** (2023)
+5. **Towards just, responsible, and socially viable carbon removal: lessons from offshore DACCS research for early-stage carbon removal projects** (2023)
+   19 citations · DAC
+
+6. **Social considerations and best practices to apply to engaging publics on ocean alkalinity enhancement** (2023)
    18 citations · General CDR
 
-6. **Towards just, responsible, and socially viable carbon removal: lessons from offshore DACCS research for early-stage carbon removal projects** (2023)
-   18 citations · DAC
+7. **Carbon removal for a just transition** (2024)
+   17 citations · General CDR
 
-7. **Upscaling DAC Hubs with Wind Energy and CO<sub>2</sub> Mineral Storage: Considerations for Large-Scale Carbon Removal from the Atmosphere** (2023)
+8. **Next steps for assessing ocean iron fertilization for marine carbon dioxide removal** (2024)
+   15 citations · General CDR
+
+9. **Upscaling DAC Hubs with Wind Energy and CO<sub>2</sub> Mineral Storage: Considerations for Large-Scale Carbon Removal from the Atmosphere** (2023)
    15 citations · DAC
 
-8. **Carbon removal for a just transition** (2024)
-   14 citations · General CDR
-
-9. **Next steps for assessing ocean iron fertilization for marine carbon dioxide removal** (2024)
-   12 citations · General CDR
-
 10. **Community perspectives on marine carbon dioxide removal and ocean alkalinity enhancement: A future scenario approach** (2025)
-   8 citations · General CDR
+   9 citations · General CDR
 
 ## External Profiles
 

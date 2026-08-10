@@ -1,7 +1,7 @@
 ---
 title: "Chonghua Xu"
 description: "Chonghua Xu is a Mid-career Soil Carbon researcher at Zhejiang A & F University in CN. With 24 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.582452
+date: 2026-08-11T01:33:11.513936
 url: "/cdr-researcher-census/researchers/chonghua-xu-a5102001/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Unveiling Pervasive Soil Microbial P Limitation in Terrestrial Ecosystems Worldwide** (2024)
-   19 citations
+   20 citations
 
 2. **Soil organic carbon regulation from chemistry in top- but microbial community in subsoil in eastern coastal China poplar plantations** (2023)
    3 citations · Soil Carbon

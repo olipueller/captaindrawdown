@@ -1,7 +1,7 @@
 ---
 title: "Shuming Li"
 description: "Shuming Li is a Mid-career General CDR researcher at Jilin University in CN. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.696657
+date: 2026-08-11T01:33:11.616950
 url: "/cdr-researcher-census/researchers/shuming-li-a5104181/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Recent advances of graphitic carbon nitride (g-C3N4) based materials for photocatalytic applications: A review** (2024)
-   73 citations · General CDR
+   81 citations · General CDR
 
 ## External Profiles
 

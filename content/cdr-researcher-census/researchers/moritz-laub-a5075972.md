@@ -1,7 +1,7 @@
 ---
 title: "Moritz Laub"
 description: "Moritz Laub is a Mid-career Soil Carbon researcher at ETH Zurich in CH. With 92 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.426945
+date: 2026-08-11T01:33:11.379123
 url: "/cdr-researcher-census/researchers/moritz-laub-a5075972/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The six rights of how and when to test for soil C saturation** (2024)
-   54 citations · Soil Carbon
+   56 citations · Soil Carbon
 
 2. **Potentials and barriers to land-based mitigation technologies and practices (LMTs)—a review** (2023)
-   11 citations · BECCS
+   13 citations · BECCS
 
 3. **Litter Quality and Microbes Explain Aggregation Differences in a Tropical Sandy Soil** (2021)
    11 citations · Soil Carbon
@@ -65,11 +65,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 5. **A novel approach to use the DayCent model for simulating agroforestry systems with multiple components** (2025)
    6 citations · General CDR
 
-6. **Initial soil carbon losses may offset decades of biomass carbon accumulation in Mediterranean afforestation** (2024)
-   5 citations · General CDR
+6. **Capacity gaps in land-based mitigation technologies and practices: A first stock take** (2023)
+   6 citations · BECCS
 
-7. **Capacity gaps in land-based mitigation technologies and practices: A first stock take** (2023)
-   5 citations · BECCS
+7. **Initial soil carbon losses may offset decades of biomass carbon accumulation in Mediterranean afforestation** (2024)
+   5 citations · General CDR
 
 8. **A novel approach to mapping and monitoring land carbon sinks by combining remote sensing and biogeochemical modeling: A case study in Burkina Faso** (2025)
    2 citations · General CDR

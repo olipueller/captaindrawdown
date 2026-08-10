@@ -1,7 +1,7 @@
 ---
 title: "Mariana Delgado Oliveira Zenero"
 description: "Mariana Delgado Oliveira Zenero is a Mid-career Biochar researcher. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.070682
+date: 2026-08-11T01:33:11.964957
 url: "/cdr-researcher-census/researchers/mariana-delgado-oliveira-zenero-a5043465/"
 layout: "researcher"
 hiddenInHomeList: true

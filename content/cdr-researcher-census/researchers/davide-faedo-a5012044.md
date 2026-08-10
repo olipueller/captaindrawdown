@@ -1,7 +1,7 @@
 ---
 title: "Davide Faedo"
 description: "Davide Faedo is a Mid-career DAC researcher at Istituto Nazionale di Fisica Nucleare, Galileo Galilei Institute for Theoretical Physics in IT. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.640332
+date: 2026-08-11T01:33:11.566753
 url: "/cdr-researcher-census/researchers/davide-faedo-a5012044/"
 layout: "researcher"
 hiddenInHomeList: true

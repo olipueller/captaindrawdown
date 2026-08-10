@@ -1,7 +1,7 @@
 ---
 title: "Shengpeng Li"
 description: "Shengpeng Li is a Mid-career General CDR researcher at China University of Geosciences (Beijing) in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.443979
+date: 2026-08-11T01:33:12.301838
 url: "/cdr-researcher-census/researchers/shengpeng-li-a5027288/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hari Mohan Meena"
 description: "Hari Mohan Meena is a Mid-career Biochar researcher at University of Delhi in IN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.124224
+date: 2026-08-11T01:33:12.013937
 url: "/cdr-researcher-census/researchers/hari-mohan-meena-a5092734/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,13 +50,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 ## Top CDR Publications
 
-1. **Correction: Cost-effective adsorptive removal of Congo red azo dye from industrial effluents using magnetic biochar-derived activated carbon** (2026)
-   0 citations · Biochar
+1. **Mechanistic insights into Cd (II) and Zn (II) adsorption on magnetic chitosan/activated biochar: kinetics, thermodynamics, and recyclability** (2026)
+   4 citations · Biochar
 
 2. **Cost-effective adsorptive removal of Congo red azo dye from industrial effluents using magnetic biochar-derived activated carbon** (2026)
-   0 citations · Biochar
+   2 citations · Biochar
 
-3. **Mechanistic insights into Cd (II) and Zn (II) adsorption on magnetic chitosan/activated biochar: kinetics, thermodynamics, and recyclability** (2026)
+3. **Correction: Cost-effective adsorptive removal of Congo red azo dye from industrial effluents using magnetic biochar-derived activated carbon** (2026)
    0 citations · Biochar
 
 ## External Profiles

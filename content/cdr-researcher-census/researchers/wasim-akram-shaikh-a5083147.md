@@ -1,7 +1,7 @@
 ---
 title: "Wasim Akram Shaikh"
 description: "Wasim Akram Shaikh is a Senior Biochar researcher at The Neotia University in IN. With 46 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.243676
+date: 2026-08-11T01:33:11.214988
 url: "/cdr-researcher-census/researchers/wasim-akram-shaikh-a5083147/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Valorization of fruit waste-based biochar for arsenic removal in soils** (2022)
-   62 citations · Biochar
+   63 citations · Biochar
 
 2. **Adsorptive removal of anthracene from water by biochar derived amphiphilic carbon dots decorated with chitosan** (2024)
    20 citations · Biochar

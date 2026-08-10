@@ -1,7 +1,7 @@
 ---
 title: "Ana Rodríguez"
 description: "Ana Rodríguez is a Senior Soil Carbon researcher at Ministry of Economy in MK. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.773128
+date: 2026-08-11T01:33:11.686149
 url: "/cdr-researcher-census/researchers/ana-rodriguez-a5013507/"
 layout: "researcher"
 hiddenInHomeList: true

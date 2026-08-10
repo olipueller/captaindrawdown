@@ -1,7 +1,7 @@
 ---
 title: "Chad M. Baum"
 description: "Chad M. Baum is a Senior General CDR researcher at Aarhus University in DK. With 76 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-12T12:07:29.269467
+date: 2026-08-11T01:33:11.210395
 url: "/cdr-researcher-census/researchers/chad-m-baum-a5057828/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Public perceptions and support of climate intervention technologies across the Global North and Global South** (2024)
-   87 citations · General CDR
+   88 citations · General CDR
 
 2. **Taking it outside: Exploring social opposition to 21 early-stage experiments in radical climate interventions** (2022)
    85 citations · General CDR
@@ -60,7 +60,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    76 citations · DAC
 
 4. **Public engagement for inclusive and sustainable governance of climate interventions** (2024)
-   70 citations · General CDR
+   74 citations · General CDR
 
 5. **Public perceptions on carbon removal from focus groups in 22 countries** (2024)
    61 citations · BECCS
@@ -69,16 +69,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    59 citations · DAC
 
 7. **Risk–risk governance in a low‐carbon future: Exploring institutional, technological, and behavioral tradeoffs in climate geoengineering pathways** (2022)
-   56 citations · General CDR
+   57 citations · General CDR
 
 8. **An ecosystem of carbon dioxide removal reviews – part 1: direct air CO <sub>2</sub> capture and storage** (2025)
-   32 citations · General CDR
+   38 citations · General CDR
 
 9. **Beyond the new normal for sustainability: transformative operations and supply chain management for negative emissions** (2024)
-   30 citations · General CDR
+   32 citations · General CDR
 
 10. **Coral reefs, cloud forests and radical climate interventions in Australia’s Wet Tropics and Great Barrier Reef** (2023)
-   19 citations · General CDR
+   20 citations · General CDR
 
 ## External Profiles
 

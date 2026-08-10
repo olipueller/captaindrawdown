@@ -1,7 +1,7 @@
 ---
 title: "Xiaojing Chu"
 description: "Xiaojing Chu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 42 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.315598
+date: 2026-08-11T01:33:11.282018
 url: "/cdr-researcher-census/researchers/xiaojing-chu-a5101558/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,11 +53,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Seven-year experimental warming decreases labile but not recalcitrant soil organic carbon fractions in a coastal wetland** (2023)
    9 citations · Soil Carbon
 
-2. **Seasonal precipitation distribution determines ecosystem <scp>CO<sub>2</sub></scp> and <scp>H<sub>2</sub>O</scp> exchange by regulating spring soil water–salt dynamics in a brackish wetland** (2024)
-   7 citations · Soil Carbon
+2. **Thresholds of Wetland Carbon Sink Regulation by Water Level** (2025)
+   8 citations · Soil Carbon
 
-3. **Thresholds of Wetland Carbon Sink Regulation by Water Level** (2025)
-   4 citations · Soil Carbon
+3. **Seasonal precipitation distribution determines ecosystem <scp>CO<sub>2</sub></scp> and <scp>H<sub>2</sub>O</scp> exchange by regulating spring soil water–salt dynamics in a brackish wetland** (2024)
+   8 citations · Soil Carbon
 
 4. **Coarse Root Enhancement Increases Soil Organic Carbon While Decreasing Its Stability in a Wetland** (2026)
    3 citations · Soil Carbon

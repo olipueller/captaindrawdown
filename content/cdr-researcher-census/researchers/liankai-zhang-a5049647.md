@@ -1,7 +1,7 @@
 ---
 title: "Liankai Zhang"
 description: "Liankai Zhang is a Senior Soil Carbon researcher. With 64 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.473732
+date: 2026-08-11T01:33:11.418089
 url: "/cdr-researcher-census/researchers/liankai-zhang-a5049647/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,10 +43,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Synergizing carbon sequestration mechanisms during the remediation of Cr(VI) by nano zero-valent iron loaded biochar (nZVI-BC)** (2024)
-   14 citations · Biochar
+   15 citations · Biochar
 
 2. **Response of weathering carbon sink effect to anthropogenic sulfuric acid in different lithological catchments: A case study from Southwest China** (2024)
-   7 citations · Enhanced Weathering
+   8 citations · Enhanced Weathering
 
 3. **Multi-pathway vegetation restoration drives differential carbon sequestration regulated by hydrogeological conditions in Lijiang River Basin** (2026)
    0 citations · Soil Carbon

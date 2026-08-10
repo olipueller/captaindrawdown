@@ -1,7 +1,7 @@
 ---
 title: "Zhixiong Tang"
 description: "Zhixiong Tang is a Senior Soil Carbon researcher at Xi'an University of Science and Technology in CN. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.827102
+date: 2026-08-11T01:33:11.733965
 url: "/cdr-researcher-census/researchers/zhixiong-tang-a5021012/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Exploring the factors influencing the carbon sink function of coastal wetlands in the Yellow River Delta** (2024)
-   22 citations · General CDR
+   26 citations · General CDR
 
 ## External Profiles
 

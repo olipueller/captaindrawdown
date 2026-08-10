@@ -1,7 +1,7 @@
 ---
 title: "Xue Zhang"
 description: "Xue Zhang is a Senior Biochar researcher at Qingdao University in CN. With 21 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.037221
+date: 2026-08-11T01:33:11.912136
 url: "/cdr-researcher-census/researchers/xue-zhang-a5104116/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Revegetation promotes soil mineral-associated organic carbon sequestration and soil carbon stability in the Tengger Desert, northern China** (2023)
-   58 citations · Soil Carbon
+   61 citations · Soil Carbon
 
 2. **Pyrolysis temperature dependent effects of biochar on shifting fluorescence spectrum characteristics of soil dissolved organic matter under warming** (2023)
-   41 citations · Biochar
+   42 citations · Biochar
 
 ## External Profiles
 

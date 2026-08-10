@@ -1,7 +1,7 @@
 ---
 title: "Kazi Suleman Memon"
 description: "Kazi Suleman Memon is a Senior Soil Carbon researcher at Sindh Agriculture University in PK. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.840827
+date: 2026-08-11T01:33:11.745799
 url: "/cdr-researcher-census/researchers/kazi-suleman-memon-a5111594/"
 layout: "researcher"
 hiddenInHomeList: true

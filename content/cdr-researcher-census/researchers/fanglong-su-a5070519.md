@@ -1,7 +1,7 @@
 ---
 title: "Fanglong Su"
 description: "Fanglong Su is a Mid-career Soil Carbon researcher at Henan University in CN. With 24 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.248605
+date: 2026-08-11T01:33:11.219554
 url: "/cdr-researcher-census/researchers/fanglong-su-a5070519/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Distinct storage mechanisms of soil organic carbon in coniferous forest and evergreen broadleaf forest in tropical China** (2021)
-   53 citations · Soil Carbon
+   55 citations · Soil Carbon
 
 2. **Climate change drivers alter root controls over litter decomposition in a semi-arid grassland** (2021)
-   45 citations
+   47 citations
 
 3. **Long-Term Nitrogen Addition Decreases Soil Carbon Mineralization in an N-Rich Primary Tropical Forest** (2021)
    18 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Francielle Carvalho"
 description: "Francielle Carvalho is a Mid-career General CDR researcher at University Hospital Heidelberg in DE. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.818176
+date: 2026-08-11T01:33:11.726098
 url: "/cdr-researcher-census/researchers/francielle-carvalho-a5031780/"
 layout: "researcher"
 hiddenInHomeList: true

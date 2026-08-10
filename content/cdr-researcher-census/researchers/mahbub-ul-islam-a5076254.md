@@ -1,7 +1,7 @@
 ---
 title: "Mahbub Ul Islam"
 description: "Mahbub Ul Islam is a Senior Soil Carbon researcher at Institute of Soil Science in CN. With 41 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.164449
+date: 2026-08-11T01:33:11.140767
 url: "/cdr-researcher-census/researchers/mahbub-ul-islam-a5076254/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Impacts of straw return coupled with tillage practices on soil organic carbon stock in upland wheat and maize croplands in China: A meta-analysis** (2023)
-   58 citations · Soil Carbon
+   60 citations · Soil Carbon
 
 2. **Impact of straw return combined with different fertilizations on soil organic carbon stock in upland wheat and maize croplands in China: A meta-analysis** (2023)
-   27 citations · Soil Carbon
+   28 citations · Soil Carbon
 
 3. **Dynamics of SOC Stocks and Chemical Composition Under Straw and Organic Fertilizer Application in an Acidic Soil** (2026)
    0 citations

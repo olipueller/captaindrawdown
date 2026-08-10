@@ -1,7 +1,7 @@
 ---
 title: "Judith Hauck"
 description: "Judith Hauck is an Eminent Ocean CDR researcher at Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung in DE. With 310 publications and an h-index of 41, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.083801
+date: 2026-08-11T01:33:11.065224
 url: "/cdr-researcher-census/researchers/judith-hauck-a5068651/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Trends and variability in the ocean carbon sink** (2023)
-   263 citations · General CDR
+   267 citations · General CDR
 
 2. **Ocean carbon from space: Current status and priorities for the next decade** (2023)
-   62 citations · General CDR
+   64 citations · General CDR
 
 3. **Ten new insights in climate science 2023** (2023)
-   42 citations · General CDR
+   45 citations · General CDR
 
 4. **Alkalinity biases in CMIP6 Earth System Models and implications for simulated CO2 drawdown via artificial alkalinity enhancement** (2023)
    17 citations · General CDR
@@ -66,19 +66,19 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    15 citations · General CDR
 
 6. **Ocean Alkalinity Enhancement in Deep Water Formation Regions Under Low and High Emission Pathways** (2024)
-   9 citations · General CDR
+   10 citations · General CDR
 
 7. **Exploring Site‐Specific Carbon Dioxide Removal Options With Storage or Sequestration in the Marine Environment – The 10 Mt CO<sub>2</sub> yr<sup>−1</sup> Removal Challenge for Germany** (2025)
-   7 citations · General CDR
+   8 citations · General CDR
 
-8. **Interactions between ocean alkalinity enhancement and phytoplankton in an Earth system model** (2025)
+8. **From global to national GHG budgets: the REgional Carbon Cycle Assessment and Processes-3 (RECCAP3)** (2025)
+   8 citations · Ocean CDR
+
+9. **Interactions between ocean alkalinity enhancement and phytoplankton in an Earth system model** (2025)
    3 citations · General CDR
 
-9. **Alkalinity enhancement in subduction regions and the global ocean: efficiency, earth system feedbacks, and scenario sensitivity** (2025)
+10. **Alkalinity enhancement in subduction regions and the global ocean: efficiency, earth system feedbacks, and scenario sensitivity** (2025)
    2 citations · General CDR
-
-10. **Prospects and Challenges of Investigating Ocean-Based Negative Emission Technologies: Insights from the OceanNETs Project** (2025)
-   1 citations · General CDR
 
 ## External Profiles
 

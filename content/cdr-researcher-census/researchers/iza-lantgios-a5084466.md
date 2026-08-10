@@ -1,7 +1,7 @@
 ---
 title: "Iza Lantgios"
 description: "Iza Lantgios is an Early-career DAC researcher at Idaho National Laboratory in US. With 7 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.846420
+date: 2026-08-11T01:33:11.750225
 url: "/cdr-researcher-census/researchers/iza-lantgios-a5084466/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,18 +51,21 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **A comparative assessment of the economic viability of nuclear-integrated direct air capture systems** (2026)
-   1 citations · DAC
+   2 citations · DAC
 
 2. **Light Water Reactor Sustainability Program: Technical and Economic Considerations for Uprate of Existing Nuclear Reactors with Cogeneration** (2024)
    1 citations · DAC
 
-3. **Design Considerations for Integrating Direct Air Capture with a Nuclear Power Plant** (2023)
+3. **Nuclear Reactor Heat Extraction for Synthetic Fuel Plants** (2025)
    0 citations · DAC
 
-4. **Techno-Economic Performance of Nuclear Reactors to Power Direct Air Capture Technologies** (2025)
+4. **Design Considerations for Integrating Direct Air Capture with a Nuclear Power Plant** (2023)
    0 citations · DAC
 
-5. **The Potential for Coupling Direct Air Capture with Nuclear Power Plant Uprate** (2024)
+5. **Techno-Economic Performance of Nuclear Reactors to Power Direct Air Capture Technologies** (2025)
+   0 citations · DAC
+
+6. **The Potential for Coupling Direct Air Capture with Nuclear Power Plant Uprate** (2024)
    0 citations · DAC
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Xiangbi Chen"
 description: "Xiangbi Chen is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 107 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.156948
+date: 2026-08-11T01:33:11.133455
 url: "/cdr-researcher-census/researchers/xiangbi-chen-a5036068/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Contrasting pathways of carbon sequestration in paddy and upland soils** (2021)
-   401 citations · Soil Carbon
+   418 citations · Soil Carbon
 
 2. **Rice straw carbon mineralization is affected by the timing of exogenous glucose addition in flooded paddy soil** (2022)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 3. **Stability of iron-carbon complexes determines carbon sequestration efficiency in iron-rich soils** (2025)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 4. **Carbon accumulation efficiency of granulated straw incorporation and its response to nutrient supplement in infertile agricultural soils: Evidence from biomarkers** (2025)
    9 citations · Soil Carbon

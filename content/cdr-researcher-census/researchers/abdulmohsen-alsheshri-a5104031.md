@@ -1,7 +1,7 @@
 ---
 title: "Abdulmohsen Alsheshri"
 description: "Abdulmohsen Alsheshri is an Early-career Biochar researcher at King Abdulaziz University in SA. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.235700
+date: 2026-08-11T01:33:12.115572
 url: "/cdr-researcher-census/researchers/abdulmohsen-alsheshri-a5104031/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Orange waste Biochar-Magnesium Silicate (OBMS) composite for enhanced removal of U(VI) ions from aqueous solutions** (2022)
-   57 citations · Biochar
+   58 citations · Biochar
 
 ## External Profiles
 

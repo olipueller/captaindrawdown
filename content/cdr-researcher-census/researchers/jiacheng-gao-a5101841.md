@@ -1,7 +1,7 @@
 ---
 title: "Jiacheng Gao"
 description: "Jiacheng Gao is a Senior Soil Carbon researcher at China Meteorological Administration in CN. With 37 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.590486
+date: 2026-08-11T01:33:11.521629
 url: "/cdr-researcher-census/researchers/jiacheng-gao-a5101841/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,13 +54,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    23 citations
 
 2. **Evaluation of carbon sink in the Taklimakan Desert based on correction of abnormal negative CO2 flux of IRGASON** (2022)
-   22 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 3. **Precipitation Controls on Carbon Sinks in an Artificial Green Space in the Taklimakan Desert** (2024)
    7 citations · Soil Carbon
 
 4. **Assessment of CO2 fluxes in the hinterland of the Gurbantunggut Desert and its response to climate change** (2025)
-   5 citations
+   6 citations
 
 5. **Flux Balance and Attribution Analysis of Co2 in Grassland Ecosystems in Xinjiang of China** (2024)
    0 citations · Soil Carbon

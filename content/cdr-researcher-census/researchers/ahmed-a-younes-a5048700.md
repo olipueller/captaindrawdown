@@ -1,7 +1,7 @@
 ---
 title: "Ahmed A. Younes"
 description: "Ahmed A. Younes is a Senior Biochar researcher at Helwan University Faculty of Science in EG. With 39 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.386270
+date: 2026-08-11T01:33:11.342652
 url: "/cdr-researcher-census/researchers/ahmed-a-younes-a5048700/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Construction of porous biochar decorated with NiS for the removal of ciprofloxacin antibiotic from pharmaceutical wastewaters** (2022)
-   62 citations · Biochar
+   63 citations · Biochar
 
 2. **Valorization of paper-mill sludge laden with 2-chlorotoluene using hydroxyapatite@biochar nanocomposite to enrich methanogenic community: A techno-economic approach** (2024)
    6 citations · Biochar

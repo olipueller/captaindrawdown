@@ -1,7 +1,7 @@
 ---
 title: "Youchao Chen"
 description: "Youchao Chen is a Senior Soil Carbon researcher at Zhejiang A & F University in CN. With 62 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.202044
+date: 2026-08-11T01:33:11.175983
 url: "/cdr-researcher-census/researchers/youchao-chen-a5030729/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,14 +53,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 2. **Soil carbon and nitrogen accumulation during long-term natural vegetation restoration following agricultural abandonment in Qingling Mountains** (2024)
    9 citations · Soil Carbon
 
-3. **Increased mowing intensity reduces soil CH4 uptake but diversely affects CO2 emission in an alpine meadow on the Qinghai-Tibetan Plateau** (2025)
+3. **Higher density of earthworms (Pheretima guillelmi) enhances soil carbon sequestration and carbon pool management index in a subtropical forest** (2026)
    2 citations · Soil Carbon
 
-4. **Temperature-dependent modulation of soil organic carbon by earthworm (Pheretima guillelmi) bioturbation in a subtropical forest: Topsoil versus Subsoil** (2026)
-   1 citations
+4. **Increased mowing intensity reduces soil CH4 uptake but diversely affects CO2 emission in an alpine meadow on the Qinghai-Tibetan Plateau** (2025)
+   2 citations · Soil Carbon
 
-5. **Higher density of earthworms (Pheretima guillelmi) enhances soil carbon sequestration and carbon pool management index in a subtropical forest** (2026)
-   1 citations · Soil Carbon
+5. **Temperature-dependent modulation of soil organic carbon by earthworm (Pheretima guillelmi) bioturbation in a subtropical forest: Topsoil versus Subsoil** (2026)
+   1 citations
 
 6. **Afforestation alters functions of soil and microbiome but does not drive soil carbon accumulation in two decades** (2022)
    1 citations · Soil Carbon

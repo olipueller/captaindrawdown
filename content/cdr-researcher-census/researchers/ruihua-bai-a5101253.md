@@ -1,7 +1,7 @@
 ---
 title: "Ruihua Bai"
 description: "Ruihua Bai is a Senior Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 61 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.403428
+date: 2026-08-11T01:33:11.357669
 url: "/cdr-researcher-census/researchers/ruihua-bai-a5101253/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effect of vegetation restoration on soil erosion control and soil carbon and nitrogen dynamics: A meta-analysis** (2023)
-   57 citations · Soil Carbon
+   60 citations · Soil Carbon
 
 2. **SOC erosion reduction of the “Grain for green” program on the Loess Plateau, China** (2025)
    7 citations · Soil Carbon

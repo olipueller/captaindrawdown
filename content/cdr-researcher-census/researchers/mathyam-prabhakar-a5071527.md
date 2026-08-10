@@ -1,7 +1,7 @@
 ---
 title: "Mathyam Prabhakar"
 description: "Mathyam Prabhakar is a Mid-career Soil Carbon researcher at Central Research Institute for Dryland Agriculture in IN. With 36 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.462247
+date: 2026-08-11T01:33:11.408301
 url: "/cdr-researcher-census/researchers/mathyam-prabhakar-a5071527/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Characterization of Biochar Derived from Crop Residues for Soil Amendment, Carbon Sequestration and Energy Use** (2022)
-   72 citations · Biochar
+   73 citations · Biochar
 
 2. **Influence of Crops and Different Production Systems on Soil Carbon Fractions and Carbon Sequestration in Rainfed Areas of Semiarid Tropics in India** (2022)
    19 citations · General CDR

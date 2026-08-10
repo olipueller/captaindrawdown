@@ -1,7 +1,7 @@
 ---
 title: "Con A. Campbell"
 description: "Con A. Campbell is a Senior Soil Carbon researcher at Agriculture and Agri-Food Canada in CA. With 15 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.235680
+date: 2026-08-11T01:33:11.207712
 url: "/cdr-researcher-census/researchers/con-a-campbell-a5109358/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Measuring and modeling soil carbon sequestration under diverse cropping systems in the semiarid prairies of western Canada** (2021)
-   33 citations · Soil Carbon
+   34 citations · Soil Carbon
 
 ## External Profiles
 

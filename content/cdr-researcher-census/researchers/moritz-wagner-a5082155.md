@@ -1,7 +1,7 @@
 ---
 title: "Moritz Wagner"
 description: "Moritz Wagner is a Senior General CDR researcher at Hochschule Geisenheim University in DE. With 51 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.229674
+date: 2026-08-11T01:33:11.201898
 url: "/cdr-researcher-census/researchers/moritz-wagner-a5082155/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Perennial biomass cropping and use: Shaping the policy ecosystem in European countries** (2023)
-   51 citations · BECCS
+   53 citations · BECCS
 
 2. **A parsimonious model for calculating the greenhouse gas emissions of miscanthus cultivation using current commercial practice in the United Kingdom** (2021)
    20 citations · General CDR

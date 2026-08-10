@@ -1,7 +1,7 @@
 ---
 title: "Keqi Zhao"
 description: "Keqi Zhao is a Mid-career Biochar researcher at Hunan Agricultural University in CN. With 28 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.467267
+date: 2026-08-11T01:33:11.412678
 url: "/cdr-researcher-census/researchers/keqi-zhao-a5101185/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Synergistic effects of biochar-microbial inoculants on greenhouse gas mitigation in paddy ecosystems: organic substitution and enzyme driven emission reduction** (2025)
-   1 citations · Biochar
+   2 citations · Biochar
 
 2. **Synergistic effects of biochar and probiotic fermentation agent on soil aggregate stability, carbon sequestration, and heavy metal(loid)s passivation in paddy fields** (2026)
    0 citations · Biochar

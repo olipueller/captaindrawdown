@@ -1,7 +1,7 @@
 ---
 title: "Eun Ju Kang"
 description: "Eun Ju Kang is a Senior Ocean CDR researcher at Kunsan National University in KR. With 22 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.607546
+date: 2026-08-11T01:33:11.536476
 url: "/cdr-researcher-census/researchers/eun-ju-kang-a5103162/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    5 citations · Ocean CDR
 
 2. **The photosynthetic quotient (PQ) of Ulva ohnoi (Chlorophyta) under future ocean conditions** (2024)
-   3 citations
+   4 citations
 
 3. **Net primary production of cultivated Saccharina japonica (Laminariales) as an indicator of carbon dioxide removal potential in seaweed aquaculture** (2026)
    0 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Jiong Wen"
 description: "Jiong Wen is a Senior Soil Carbon researcher at Anyang Academy of Agricultural Sciences in CN. With 36 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.580794
+date: 2026-08-11T01:33:11.512457
 url: "/cdr-researcher-census/researchers/jiong-wen-a5102196/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,13 +48,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Phosphorus fractions and their transformation in coupling with organic carbon cycling after seven-year manure application in subtropical soil** (2025)
-   15 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 2. **Effects of organic material addition on carbon cycling and soil fertility in paddy soil** (2025)
-   12 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 3. **Exogenous fulvic acid enhances stability of mineral-associated soil organic matter better than manure** (2021)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 ## External Profiles
 

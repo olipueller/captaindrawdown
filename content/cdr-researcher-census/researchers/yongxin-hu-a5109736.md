@@ -1,7 +1,7 @@
 ---
 title: "Yongxin Hu"
 description: "Yongxin Hu is a Senior DAC researcher at Southwest Petroleum University in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.669827
+date: 2026-08-11T01:33:11.592616
 url: "/cdr-researcher-census/researchers/yongxin-hu-a5109736/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Assessing the future impact of 12 direct air capture technologies** (2024)
-   18 citations · DAC
+   19 citations · DAC
 
 2. **Direct air capture: recent progress in materials, equipment, and process engineering** (2025)
-   1 citations · DAC
+   2 citations · DAC
 
 ## External Profiles
 

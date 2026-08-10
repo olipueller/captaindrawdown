@@ -1,7 +1,7 @@
 ---
 title: "Tyler L. Anthony"
 description: "Tyler L. Anthony is a Mid-career Soil Carbon researcher at University of California, Berkeley in US. With 26 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.484950
+date: 2026-08-11T01:33:11.428010
 url: "/cdr-researcher-census/researchers/tyler-l-anthony-a5077468/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Productive wetlands restored for carbon sequestration quickly become net CO2 sinks with site-level factors driving uptake variability** (2021)
-   91 citations · General CDR
+   93 citations · General CDR
 
 2. **Restoring wetlands on intensive agricultural lands modifies nitrogen cycling microbial communities and reduces N2O production potential** (2021)
-   21 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 3. **Supplementing Enhanced Weathering With Organic Amendments Accelerates the Net Climate Benefit of Soil Amendments in Rangeland Soils** (2025)
-   12 citations · Enhanced Weathering
+   13 citations · Enhanced Weathering
 
 4. **Impacts of Compost Amendment Type and Application Frequency on a Fire-Impacted Grassland Ecosystem** (2024)
    3 citations · Soil Carbon

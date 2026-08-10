@@ -1,7 +1,7 @@
 ---
 title: "Ahmad Numery Ashfaqul Haque"
 description: "Ahmad Numery Ashfaqul Haque is a Senior Biochar researcher at Bangladesh Institute of Nuclear Agriculture in BD. With 32 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.548874
+date: 2026-08-11T01:33:11.483973
 url: "/cdr-researcher-census/researchers/ahmad-numery-ashfaqul-haque-a5046080/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Combined Application of Biochar and Lime Increases Maize Yield and Accelerates Carbon Loss from an Acidic Soil** (2021)
-   43 citations · Biochar
+   44 citations · Biochar
 
 2. **Changes in Acidic Soil Chemical Properties and Carbon Dioxide Emission Due to Biochar and Lime Treatments** (2021)
    36 citations · Biochar

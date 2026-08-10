@@ -1,7 +1,7 @@
 ---
 title: "Hermano Melo Queiroz"
 description: "Hermano Melo Queiroz is a Senior Soil Carbon researcher at Universidade de São Paulo in BR. With 87 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.220024
+date: 2026-08-11T01:33:11.192860
 url: "/cdr-researcher-census/researchers/hermano-melo-queiroz-a5016308/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Iron’s role in soil organic carbon (de)stabilization in mangroves under land use change** (2024)
-   66 citations · Soil Carbon
+   70 citations · Soil Carbon
 
 2. **Changes in soil iron biogeochemistry in response to mangrove dieback** (2022)
    21 citations
 
-3. **How do soil processes control the provision of ecosystem services in coastal wetlands?** (2024)
-   15 citations · Soil Carbon
+3. **Potential Environmental Impacts and Management Strategies for Metal Release during Ocean Alkalinity Enhancement Using Olivine** (2025)
+   15 citations · Enhanced Weathering
 
-4. **Potential Environmental Impacts and Management Strategies for Metal Release during Ocean Alkalinity Enhancement Using Olivine** (2025)
-   13 citations · Enhanced Weathering
+4. **How do soil processes control the provision of ecosystem services in coastal wetlands?** (2024)
+   15 citations · Soil Carbon
 
 5. **Soil greenhouse gas fluxes partially reduce the net gains in carbon sequestration in mangroves of the Brazilian Amazon** (2024)
    11 citations · Soil Carbon
@@ -69,15 +69,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    9 citations · Soil Carbon
 
 7. **Masked diversity and contrasting soil processes in tropical seagrass meadows: the control of environmental settings** (2023)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
-8. **Masked diversity and contrasting soil processes in tropical seagrass meadows: the control of environmental settings** (2022)
+8. **Soil carbon storage in Brazilian drylands: A review** (2025)
+   2 citations · Soil Carbon
+
+9. **Masked diversity and contrasting soil processes in tropical seagrass meadows: the control of environmental settings** (2022)
    2 citations
 
-9. **Tracking mangrove restoration using a biogeochemical soil health index and ecosystem service indicators** (2025)
-   1 citations · Soil Carbon
-
-10. **Soil carbon storage in Brazilian drylands: A review** (2025)
+10. **Tracking mangrove restoration using a biogeochemical soil health index and ecosystem service indicators** (2025)
    1 citations · Soil Carbon
 
 ## External Profiles

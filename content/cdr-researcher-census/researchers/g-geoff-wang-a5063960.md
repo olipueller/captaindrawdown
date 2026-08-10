@@ -1,7 +1,7 @@
 ---
 title: "G. Geoff Wang"
 description: "G. Geoff Wang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 20 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.567843
+date: 2026-08-11T01:33:11.500941
 url: "/cdr-researcher-census/researchers/g-geoff-wang-a5063960/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The response of soil organic carbon content of grasslands in Northern Xinjiang to future climate change** (2024)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 2. **Multiscale drivers and tipping points regulating particulate and mineral-associated organic carbon across Central Asian grasslands** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 ## External Profiles
 

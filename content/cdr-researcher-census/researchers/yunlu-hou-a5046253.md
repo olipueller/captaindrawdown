@@ -1,7 +1,7 @@
 ---
 title: "Yunlu Hou"
 description: "Yunlu Hou is a Mid-career Enhanced Weathering researcher at Centre National de la Recherche Scientifique in FR. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.878313
+date: 2026-08-11T01:33:11.779841
 url: "/cdr-researcher-census/researchers/yunlu-hou-a5046253/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,14 +50,17 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 ## Top CDR Publications
 
-1. **Experimental investigation of marine soil stabilization with recycled aggregates and MgO: implications for CO<sub>2</sub> sequestration** (2025)
-   6 citations · General CDR
+1. **In-situ mineral carbonation of ultramafic tailings for carbon dioxide removal: A critical review** (2025)
+   7 citations · Enhanced Weathering
 
-2. **In-situ mineral carbonation of ultramafic tailings for carbon dioxide removal: A critical review** (2025)
-   5 citations · Enhanced Weathering
+2. **Experimental investigation of marine soil stabilization with recycled aggregates and MgO: implications for CO<sub>2</sub> sequestration** (2025)
+   6 citations · General CDR
 
 3. **Impacts of biochar and slag on carbon sequestration potential and sustainability assessment of MgO-stabilized marine soils: insights from MIP analysis** (2024)
    5 citations · Biochar
+
+4. **Role of carbon sequestration methods in enhancing water holding capacity of dredged Yellow River sediment: biochar and CO2 utilization** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

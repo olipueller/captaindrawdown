@@ -1,7 +1,7 @@
 ---
 title: "Yanxiao Sun"
 description: "Yanxiao Sun is a Senior General CDR researcher at Southeast University in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.490732
+date: 2026-08-11T01:33:11.432593
 url: "/cdr-researcher-census/researchers/yanxiao-sun-a5101731/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Evaluation of a novel in situ constructed CO2-carbonated MgO-mixing column: Mechanical performance, carbon sequestration, and microstructural analysis** (2025)
-   2 citations · General CDR
+   3 citations · General CDR
 
 ## External Profiles
 

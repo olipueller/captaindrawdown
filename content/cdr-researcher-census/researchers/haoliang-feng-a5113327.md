@@ -1,7 +1,7 @@
 ---
 title: "Haoliang Feng"
 description: "Haoliang Feng is an Early-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.449615
+date: 2026-08-11T01:33:12.306802
 url: "/cdr-researcher-census/researchers/haoliang-feng-a5113327/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Evaluation of the soil aggregate stability under long term manure and chemical fertilizer applications: Insights from organic carbon and humic acid structure in aggregates** (2024)
-   52 citations
+   53 citations
 
 2. **Long-term organic material application enhances black soil productivity by improving aggregate stability and dissolved organic matter dynamics** (2025)
-   27 citations · Soil Carbon
+   32 citations · Soil Carbon
 
 3. **Evaluation of the Soil Aggregate Stability Under Long Term Manure and Chemical Fertilizer Applications: Insights from Organic Carbon and Humic Acid Structure in Aggregates** (2024)
    2 citations · Soil Carbon

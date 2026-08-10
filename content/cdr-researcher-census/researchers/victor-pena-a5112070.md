@@ -1,7 +1,7 @@
 ---
 title: "Víctor Peña"
 description: "Víctor Peña is a Senior Soil Carbon researcher at Universidad Autónoma Metropolitana in MX. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.838490
+date: 2026-08-11T01:33:11.743774
 url: "/cdr-researcher-census/researchers/victor-pena-a5112070/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil Ecosystem Services in Urban Parks as a Basis for Better Urban Planning: The Case of Mexico City** (2024)
-   6 citations · General CDR
+   7 citations · General CDR
 
 2. **Soil ecosystem services of an urban park in Mexico as a basis for planning** (2023)
    1 citations · Soil Carbon

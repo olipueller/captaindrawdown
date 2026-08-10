@@ -1,7 +1,7 @@
 ---
 title: "Xinzhe Zhu"
 description: "Xinzhe Zhu is a Senior Biochar researcher at Sun Yat-sen University in CN. With 33 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.169782
+date: 2026-08-11T01:33:11.145825
 url: "/cdr-researcher-census/researchers/xinzhe-zhu-a5016030/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Insights into the adsorption of pharmaceuticals and personal care products (PPCPs) on biochar and activated carbon with the aid of machine learning** (2021)
-   206 citations · Biochar
+   209 citations · Biochar
 
 2. **Machine learning exploration of the direct and indirect roles of Fe impregnation on Cr(VI) removal by engineered biochar** (2021)
-   96 citations · Biochar
+   98 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "William Ramos da Silva"
 description: "William Ramos da Silva is a Mid-career Soil Carbon researcher at Universidade Federal Rural de Pernambuco in BR. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.962076
+date: 2026-08-11T01:33:11.842455
 url: "/cdr-researcher-census/researchers/william-ramos-da-silva-a5012709/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,14 +53,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Why no-till system sequesters more carbon and is more resilient and productive with contrasting fertilization regimes in a highly weathered soil?** (2024)
    9 citations
 
-2. **Sixty Years of Sugarcane Monoculture Alters Carbon Preservation in Large Soil Macroaggregates in Tropical Soil** (2025)
+2. **Improving soil carbon in semiarid agroecosystems: reclaimed water and mulch effects in cactus-sorghum intercropping** (2026)
    1 citations · Soil Carbon
 
-3. **Relationship of Microbial and Fertility Attributes to Organic Carbon Accumulation in a Subtropical Weathered Soil Impacted by a Long-Term Tillage Chronosequence** (2024)
+3. **Sixty Years of Sugarcane Monoculture Alters Carbon Preservation in Large Soil Macroaggregates in Tropical Soil** (2025)
    1 citations · Soil Carbon
 
-4. **Improving soil carbon in semiarid agroecosystems: reclaimed water and mulch effects in cactus-sorghum intercropping** (2026)
-   0 citations · Soil Carbon
+4. **Relationship of Microbial and Fertility Attributes to Organic Carbon Accumulation in a Subtropical Weathered Soil Impacted by a Long-Term Tillage Chronosequence** (2024)
+   1 citations · Soil Carbon
 
 ## External Profiles
 

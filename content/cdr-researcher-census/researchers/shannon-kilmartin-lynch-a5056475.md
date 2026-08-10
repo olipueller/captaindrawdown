@@ -1,7 +1,7 @@
 ---
 title: "Shannon Kilmartin-Lynch"
 description: "Shannon Kilmartin-Lynch is a Mid-career Biochar researcher at Monash University in AU. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.464825
+date: 2026-08-11T01:33:11.410540
 url: "/cdr-researcher-census/researchers/shannon-kilmartin-lynch-a5056475/"
 layout: "researcher"
 hiddenInHomeList: true

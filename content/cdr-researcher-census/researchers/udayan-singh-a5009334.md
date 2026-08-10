@@ -1,7 +1,7 @@
 ---
 title: "Udayan Singh"
 description: "Udayan Singh is a Senior General CDR researcher at Argonne National Laboratory in US. With 60 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.389644
+date: 2026-08-11T01:33:11.345668
 url: "/cdr-researcher-census/researchers/udayan-singh-a5009334/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    29 citations · DAC
 
 2. **Implications of CO<sub>2</sub> Sourcing on the Life-Cycle Greenhouse Gas Emissions and Costs of Algae Biofuels** (2023)
-   27 citations · BECCS
+   28 citations · BECCS
 
 3. **The Role of Biofuels and Biomass Feedstocks for Decarbonizing the U.S. Economy by 2050 - (DECARB) Decarbonizing Energy Through Collaborative Analysis of Routes and Benefits** (2024)
    5 citations · BECCS
@@ -63,7 +63,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    4 citations · DAC
 
 5. **What Is the Best Use of Biomass? A Harmonized <scp>LCA</scp> ‐ <scp>TEA</scp> Framework Quantifying Economic and Environmental Metrics for Bioenergy Pathways** (2026)
-   1 citations
+   2 citations
 
 6. **A Novel Framework to Evaluate the Costs and Potential of Bioenergy in Decarbonization of the U.S. Economy** (2024)
    0 citations · BECCS

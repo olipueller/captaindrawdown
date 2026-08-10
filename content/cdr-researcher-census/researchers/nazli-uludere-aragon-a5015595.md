@@ -1,7 +1,7 @@
 ---
 title: "Nazli Uludere Aragon"
 description: "Nazli Uludere Aragon is a Mid-career Soil Carbon researcher at University of Montana in US. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.592339
+date: 2026-08-11T01:33:11.523174
 url: "/cdr-researcher-census/researchers/nazli-uludere-aragon-a5015595/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Greenhouse gas mitigation on croplands: clarifying the debate on knowns, unknowns and risks to move forward with effective management interventions** (2024)
-   23 citations · General CDR
+   24 citations · General CDR
 
 2. **The Realistic Potential of Soil Carbon Sequestration in U.S. Croplands for Climate Mitigation** (2024)
    13 citations · General CDR

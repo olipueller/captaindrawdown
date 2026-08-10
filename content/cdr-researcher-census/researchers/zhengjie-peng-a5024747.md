@@ -1,7 +1,7 @@
 ---
 title: "Zhengjie Peng"
 description: "Zhengjie Peng is a Mid-career Biochar researcher at Hunan University in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.452485
+date: 2026-08-11T01:33:12.309553
 url: "/cdr-researcher-census/researchers/zhengjie-peng-a5024747/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Novel α-amino acid-like structure decorated biochar for heavy metal remediation in acid soil** (2023)
-   44 citations · Biochar
+   46 citations · Biochar
 
 ## External Profiles
 

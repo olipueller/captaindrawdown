@@ -1,7 +1,7 @@
 ---
 title: "Bishnu Hari Pandit"
 description: "Bishnu Hari Pandit is a Senior Soil Carbon researcher at Kathmandu Forestry College in NP. With 53 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.291415
+date: 2026-08-11T01:33:11.259207
 url: "/cdr-researcher-census/researchers/bishnu-hari-pandit-a5067879/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Trade-off between yield and carbon storage in Nepali coffee agroforestry** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 2. **Coffee yield peaks at intermediate shade tree cover in the mid-hills of Nepal** (2025)
    0 citations · General CDR

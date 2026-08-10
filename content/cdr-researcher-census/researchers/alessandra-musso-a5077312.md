@@ -1,7 +1,7 @@
 ---
 title: "Alessandra Musso"
 description: "Alessandra Musso is a Mid-career Soil Carbon researcher at University of Zurich in CH. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.858042
+date: 2026-08-11T01:33:11.760720
 url: "/cdr-researcher-census/researchers/alessandra-musso-a5077312/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Pedogenesis and carbon sequestration in transformed agricultural soils of Sicily** (2021)
-   8 citations · Enhanced Weathering
+   9 citations · Enhanced Weathering
 
 2. **Nitrogen deposition effects on forest ecosystems: Linking N leaching patterns to long-term dynamics of soil C/N ratios in Swiss ICP Forests Level II Plots** (2024)
    0 citations · Soil Carbon

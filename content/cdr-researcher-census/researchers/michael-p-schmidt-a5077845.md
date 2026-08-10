@@ -1,7 +1,7 @@
 ---
 title: "Michael P. Schmidt"
 description: "Michael P. Schmidt is a Senior Biochar researcher at USDA-ARS Salinity Laboratory in US. With 39 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.284185
+date: 2026-08-11T01:33:11.252101
 url: "/cdr-researcher-census/researchers/michael-p-schmidt-a5077845/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar selection for removal of perfluoroalkyl substances from reclaimed water for agricultural irrigation** (2025)
-   21 citations · Biochar
+   22 citations · Biochar
 
 2. **Feedstock selection influences performance and mechanism of DNA adsorption onto biochar** (2025)
    0 citations · Biochar

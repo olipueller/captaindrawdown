@@ -1,7 +1,7 @@
 ---
 title: "Defu Wang"
 description: "Defu Wang is a Senior Soil Carbon researcher at Shanxi Agricultural University in CN. With 57 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.237221
+date: 2026-08-11T01:33:11.208891
 url: "/cdr-researcher-census/researchers/defu-wang-a5103159/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Natural grassland restoration exhibits enhanced carbon sequestration and soil improvement potential in northern sandy grasslands of China: An empirical study** (2024)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 2. **Vegetation restoration in the coarse‐textured soil area is more conducive to the accumulation of Fe‐associated C** (2024)
    13 citations · Soil Carbon

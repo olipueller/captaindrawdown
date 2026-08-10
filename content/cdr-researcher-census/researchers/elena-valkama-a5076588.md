@@ -1,7 +1,7 @@
 ---
 title: "Elena Valkama"
 description: "Elena Valkama is a Senior Soil Carbon researcher at Natural Resources Institute Finland (Luke) in FI. With 85 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.198697
+date: 2026-08-11T01:33:11.172811
 url: "/cdr-researcher-census/researchers/elena-valkama-a5076588/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,13 +54,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    80 citations
 
 2. **Trade‐offs and synergies of soil carbon sequestration: Addressing knowledge gaps related to soil management strategies** (2024)
-   35 citations · General CDR
+   37 citations · General CDR
 
-3. **Quality assessment of meta-analyses on soil organic carbon** (2023)
+3. **Computation of total soil organic carbon stock and its standard deviation from layered soils** (2022)
+   35 citations · Soil Carbon
+
+4. **Quality assessment of meta-analyses on soil organic carbon** (2023)
    34 citations · General CDR
-
-4. **Computation of total soil organic carbon stock and its standard deviation from layered soils** (2022)
-   34 citations · Soil Carbon
 
 5. **Do Soil Microbes Drive the Trade-Off Between C Sequestration and Non-CO2 GHG Emissions in EU Agricultural Soils? A Systematic Review** (2025)
    3 citations · General CDR
@@ -71,14 +71,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 7. **Quality Assessment of Meta-Analyses on Soil Organic Carbon** (2022)
    1 citations
 
-8. **Revealing trade-offs in cropping systems sustainability by piecing together pedo-climatic datasets and agronomic knowledge with fuzzy logic** (2023)
+8. **Do Soil Microbes Drive the Trade-Off Between C Sequestration and Non-CO2 GHG Emissions in EU Agricultural Soils? A Systematic Review** (2026)
    0 citations
 
-9. **Cover Crops Affecting Pool Specific Soil Organic Carbon Sequestration in Cropland – A Meta-Analysis** (2023)
-   0 citations · Soil Carbon
+9. **Do Soil Microbes Drive the Trade-Off Between C Sequestration and Non-CO2 GHG Emissions in EU Agricultural Soils? A Systematic Review** (2026)
+   0 citations
 
-10. **A meta-analysis of field experiments on the effect of organic matter inputs on N2O emissions in European arable land** (2023)
-   0 citations · Soil Carbon
+10. **Revealing trade-offs in cropping systems sustainability by piecing together pedo-climatic datasets and agronomic knowledge with fuzzy logic** (2023)
+   0 citations
 
 ## External Profiles
 

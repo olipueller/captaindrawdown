@@ -1,7 +1,7 @@
 ---
 title: "Niccolò Storni"
 description: "Niccolò Storni is a Mid-career Enhanced Weathering researcher at Institute of Materials, Minerals and Mining in GB. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.255660
+date: 2026-08-11T01:33:12.133466
 url: "/cdr-researcher-census/researchers/niccolo-storni-a5086255/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **The Availability of Limestone and Other Raw Materials for Ocean Alkalinity Enhancement** (2022)
-   125 citations · Enhanced Weathering
+   126 citations · Enhanced Weathering
 
 ## External Profiles
 

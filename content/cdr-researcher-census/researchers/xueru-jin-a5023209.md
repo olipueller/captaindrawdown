@@ -1,7 +1,7 @@
 ---
 title: "Xueru Jin"
 description: "Xueru Jin is a Mid-career Soil Carbon researcher at Peking University in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.742276
+date: 2026-08-11T01:33:11.658584
 url: "/cdr-researcher-census/researchers/xueru-jin-a5023209/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Relationship of Ecosystem Services in the Beijing–Tianjin–Hebei Region Based on the Production Possibility Frontier** (2021)
-   24 citations · General CDR
+   25 citations · General CDR
 
 ## External Profiles
 

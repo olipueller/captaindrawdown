@@ -1,7 +1,7 @@
 ---
 title: "Suchada Ukaew"
 description: "Suchada Ukaew is a Mid-career Soil Carbon researcher at Naresuan University in TH. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.071822
+date: 2026-08-11T01:33:11.966009
 url: "/cdr-researcher-census/researchers/suchada-ukaew-a5002476/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Implication of soil carbon changes on the greenhouse gas emissions of pickled ginger: a case study of crop rotation cultivation in Northern Thailand** (2023)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Terrence G. Gardner"
 description: "Terrence G. Gardner is a Senior Biochar researcher at North Carolina State University in US. With 29 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.414838
+date: 2026-08-11T01:33:11.368112
 url: "/cdr-researcher-census/researchers/terrence-g-gardner-a5027417/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Anugunj Pal"
 description: "Anugunj Pal is an Early-career Biochar researcher at National Kaohsiung Marine University in TW. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.656855
+date: 2026-08-11T01:33:11.581356
 url: "/cdr-researcher-census/researchers/anugunj-pal-a5028809/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Advances on tailored biochar for bioremediation of antibiotics, pesticides and polycyclic aromatic hydrocarbon pollutants from aqueous and solid phases** (2022)
-   95 citations · Biochar
+   97 citations · Biochar
 
 ## External Profiles
 

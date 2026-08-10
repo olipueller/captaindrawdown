@@ -1,7 +1,7 @@
 ---
 title: "Rasmus O. Jensen"
 description: "Rasmus O. Jensen is a Senior General CDR researcher. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.297824
+date: 2026-08-11T01:33:11.265002
 url: "/cdr-researcher-census/researchers/rasmus-o-jensen-a5110166/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Addendum: Carbon-negative production of acetone and isopropanol by gas fermentation at industrial pilot scale** (2025)
-   2 citations · General CDR
+   3 citations · General CDR
 
 ## External Profiles
 

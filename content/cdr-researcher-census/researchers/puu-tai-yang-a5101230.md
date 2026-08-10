@@ -1,7 +1,7 @@
 ---
 title: "Puu-Tai Yang"
 description: "Puu-Tai Yang is a Mid-career Enhanced Weathering researcher at National Agriculture and Food Research Organization in JP. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.632599
+date: 2026-08-11T01:33:11.559313
 url: "/cdr-researcher-census/researchers/puu-tai-yang-a5101230/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,9 +51,12 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **The potential of enhanced rock weathering for CO2 removal and soil organic carbon storage via organo-mineral aggregation: the trade-off induced by basaltic rock particle size** (2026)
-   2 citations · Enhanced Weathering
+   3 citations · Enhanced Weathering
 
-2. **Contribution of primary and secondary mineral phases to organo-mineral aggregation during crushed basalt weathering in the presence of fresh plant residue** (2025)
+2. **Formation of mineral-associated organic matter via rock weathering: an experimental test for the organo-metallic glue hypothesis** (2025)
+   0 citations · Soil Carbon
+
+3. **Contribution of primary and secondary mineral phases to organo-mineral aggregation during crushed basalt weathering in the presence of fresh plant residue** (2025)
    0 citations · Enhanced Weathering
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Austin Lieber"
 description: "Austin Lieber is a Mid-career Ocean CDR researcher at University of Pittsburgh in US. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.165417
+date: 2026-08-11T01:33:12.051805
 url: "/cdr-researcher-census/researchers/austin-lieber-a5021745/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    42 citations
 
 2. **Demonstration of direct ocean carbon capture using hollow fiber membrane contactors** (2023)
-   22 citations · Ocean CDR
+   23 citations · Ocean CDR
 
 3. **Parametric simulations of hierarchical core–shell MOF materials for direct air capture** (2023)
    15 citations

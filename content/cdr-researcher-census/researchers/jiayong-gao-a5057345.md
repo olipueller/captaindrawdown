@@ -1,7 +1,7 @@
 ---
 title: "Jiayong Gao"
 description: "Jiayong Gao is a Mid-career Soil Carbon researcher at Southwest University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.220106
+date: 2026-08-11T01:33:12.101545
 url: "/cdr-researcher-census/researchers/jiayong-gao-a5057345/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Diagnosis of the coupling coordination relationships between crop and soil carbon sequestration function for sloping farmland under erosive environments in the Three Gorges Reservoir Area, China** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Kerou Zhang"
 description: "Kerou Zhang is a Senior Soil Carbon researcher at Gansu Agricultural University in CN. With 54 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.191775
+date: 2026-08-11T01:33:11.166341
 url: "/cdr-researcher-census/researchers/kerou-zhang-a5101833/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Alpine wetlands degradation leads to soil nutrient imbalances that affect plant growth and microbial diversity** (2024)
-   34 citations · Soil Carbon
+   36 citations · Soil Carbon
 
 2. **Alpine wetland degradation reduces carbon sequestration in the Zoige Plateau, China** (2022)
    32 citations · Soil Carbon

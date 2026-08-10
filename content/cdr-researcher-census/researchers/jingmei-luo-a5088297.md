@@ -1,7 +1,7 @@
 ---
 title: "JINGMEI LUO"
 description: "JINGMEI LUO is a Mid-career Soil Carbon researcher. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.543633
+date: 2026-08-11T01:33:12.393855
 url: "/cdr-researcher-census/researchers/jingmei-luo-a5088297/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of residue mulching amounts on metabolic footprints based on production and respiration of soil nematodes in a long‐term no‐tillage system** (2021)
-   31 citations · Soil Carbon
+   32 citations · Soil Carbon
 
 ## External Profiles
 

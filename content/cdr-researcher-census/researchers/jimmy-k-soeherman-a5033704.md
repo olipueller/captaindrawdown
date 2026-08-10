@@ -1,7 +1,7 @@
 ---
 title: "Jimmy K. Soeherman"
 description: "Jimmy K. Soeherman is a Mid-career DAC researcher at University of Minnesota in US. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.311093
+date: 2026-08-11T01:33:12.180308
 url: "/cdr-researcher-census/researchers/jimmy-k-soeherman-a5033704/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Overcoming the Entropy Penalty of Direct Air Capture for Efficient Gigatonne Removal of Carbon Dioxide** (2023)
-   28 citations · DAC
+   29 citations · DAC
 
 2. **Overcoming the Entropy Penalty of Direct Air Capture for Efficient Gigatonne Removal of Carbon Dioxide** (2022)
    0 citations

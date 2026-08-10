@@ -1,7 +1,7 @@
 ---
 title: "N. B. Zinyakova"
 description: "N. B. Zinyakova is a Mid-career Soil Carbon researcher at Institute of Physical-Chemical and Biological Problems in Soil Science in RU. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.901391
+date: 2026-08-11T01:33:11.800732
 url: "/cdr-researcher-census/researchers/n-b-zinyakova-a5016357/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,10 +50,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Effects of Long-Term Application of Mineral Fertilizers and Manure on the Agrochemical Properties of Gray Forest Soil, Crop Productivity, and Carbon Sequestration** (2025)
-   1 citations · Soil Carbon
+1. **Effects of LongTerm Application of Mineral Fertilizers and Manure on Agrochemical Properties of Gray Forest Soil, Crops Productivity and Carbon Sequestration** (2024)
+   3 citations · Soil Carbon
 
-2. **Effects of LongTerm Application of Mineral Fertilizers and Manure on Agrochemical Properties of Gray Forest Soil, Crops Productivity and Carbon Sequestration** (2024)
+2. **Effects of Long-Term Application of Mineral Fertilizers and Manure on the Agrochemical Properties of Gray Forest Soil, Crop Productivity, and Carbon Sequestration** (2025)
    1 citations · Soil Carbon
 
 ## External Profiles

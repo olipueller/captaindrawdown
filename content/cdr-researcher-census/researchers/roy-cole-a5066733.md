@@ -1,7 +1,7 @@
 ---
 title: "Roy Cole"
 description: "Roy Cole is a Senior Soil Carbon researcher at AgResearch in NZ. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.639851
+date: 2026-08-11T01:33:11.566414
 url: "/cdr-researcher-census/researchers/roy-cole-a5066733/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Regenerative grazing practices and the sustainability of a beef production system in New Zealand** (2024)
-   2 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 2. **Will wide-spaced silvo-pastoral plantings maintain soil carbon stocks?** (2025)
    0 citations · General CDR

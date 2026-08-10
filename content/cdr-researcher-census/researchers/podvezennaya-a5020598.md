@@ -1,7 +1,7 @@
 ---
 title: "М. А. Podvezennaya"
 description: "М. А. Podvezennaya is a Senior Soil Carbon researcher at Lomonosov Moscow State University in RU. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.403607
+date: 2026-08-11T01:33:12.263791
 url: "/cdr-researcher-census/researchers/podvezennaya-a5020598/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,14 +50,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **CONIFEROUS LEAF-BEARING FOREST BIOMASS ASSESSMENT BY THE EXAMPLE OF THE EDUCATIONAL AND EXPERIMENTAL SOIL AND ECOLOGICAL CENTER OF LOMONOSOV MOSCOW STATE UNIVERSITY “CHASHNIKOVO”** (2024)
    4 citations
 
-2. **An assessment of the most important carbon pools in the mixed forests of the Moscow region** (2025)
+2. **Assessment of the Biomass of Coniferous–Deciduous Forest by the Example of the Chashnikovo Training and Experimental Soil Ecological Center of Moscow State University** (2024)
+   2 citations
+
+3. **Assessment of the Most Important Carbon Pools in Moscow Oblast Mixed Forests** (2025)
    1 citations · Soil Carbon
 
-3. **Assessment of the Biomass of Coniferous–Deciduous Forest by the Example of the Chashnikovo Training and Experimental Soil Ecological Center of Moscow State University** (2024)
-   1 citations
-
-4. **Assessment of the Most Important Carbon Pools in Moscow Oblast Mixed Forests** (2025)
-   0 citations · Soil Carbon
+4. **An assessment of the most important carbon pools in the mixed forests of the Moscow region** (2025)
+   1 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Liyang Hu"
 description: "Liyang Hu is a Mid-career Biochar researcher at Beijing University of Technology in CN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.864018
+date: 2026-08-11T01:33:11.766490
 url: "/cdr-researcher-census/researchers/liyang-hu-a5023397/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar-amended soil can further sorb atmospheric CO2 for more carbon sequestration** (2025)
-   33 citations · Biochar
+   37 citations · Biochar
 
 ## External Profiles
 

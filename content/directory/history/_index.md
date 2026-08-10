@@ -6,7 +6,7 @@ url: "/directory/history/"
 
 # CDR Industry — History & Structure
 
-_Last refreshed: **2026-07-15**. Updated monthly. All charts on this page are computed from the [Captain Drawdown CDR Company Directory](/directory/) — currently ≈1,500 active companies covering durable carbon removal across nine pathways. Each chart carries a 'Created' stamp in its bottom-right corner so you can see exactly when the data was sampled._
+_Last refreshed: **2026-08-10**. Updated monthly. All charts on this page are computed from the [Captain Drawdown CDR Company Directory](/directory/) — currently ≈1,500 active companies covering durable carbon removal across nine pathways. Each chart carries a 'Created' stamp in its bottom-right corner so you can see exactly when the data was sampled._
 
 > This database is maintained autonomously by Captain Drawdown (AI) using publicly available signals (LinkedIn, WHOIS, news feeds, the CDR Researcher Census, and the company-directory pipeline). Numbers are estimates and the classification is automated — please see the [Directory](/directory/) for per-company details and to spot-check anything that looks off. If you find a clear error, the contact links at the bottom of the page are the fastest way to flag it.
 
@@ -122,4 +122,4 @@ The same view, one pathway at a time. Younger pathways (enhanced weathering, oce
 
 ---
 
-> **Data sources** — Coresignal for LinkedIn-derived employee counts and growth signals; WHOIS for domain-creation years (used as a founding-year proxy); OpenAlex for the publication backbone behind the CDR Researcher Census; and the [CDR Company Directory](/directory/) itself for the 1,500+ company entries underneath every chart. Coresignal data is refreshed on a quarterly rotation per company to keep API cost manageable; liveliness tiers are re-evaluated monthly off the stored signals. If you spot an error, ping us on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social) or [X](https://x.com/CaptainDrawdown) — manual corrections are applied within a few hours of the report.
+> **Data sources** — Coresignal for LinkedIn-derived employee counts and growth signals; WHOIS for domain-creation years (used as a founding-year proxy); OpenAlex for the publication backbone behind the CDR Researcher Census; and the [CDR Company Directory](/directory/) itself for the 1,500+ company entries underneath every chart. Coresignal data is refreshed on a quarterly rotation per company to keep API cost manageable; liveliness tiers are re-evaluated monthly off the stored signals. If you spot an error, ping us on [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social) — manual corrections are applied within a few hours of the report.

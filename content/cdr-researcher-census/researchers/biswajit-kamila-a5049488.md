@@ -1,7 +1,7 @@
 ---
 title: "Biswajit Kamila"
 description: "Biswajit Kamila is a Mid-career Biochar researcher at University of Calcutta in IN. With 25 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.974723
+date: 2026-08-11T01:33:11.853602
 url: "/cdr-researcher-census/researchers/biswajit-kamila-a5049488/"
 layout: "researcher"
 hiddenInHomeList: true

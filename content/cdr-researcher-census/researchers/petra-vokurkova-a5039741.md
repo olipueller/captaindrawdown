@@ -1,7 +1,7 @@
 ---
 title: "Petra Vokurková"
 description: "Petra Vokurková is a Senior Soil Carbon researcher. With 38 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.649452
+date: 2026-08-11T01:33:11.574885
 url: "/cdr-researcher-census/researchers/petra-vokurkova-a5039741/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -49,7 +49,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Soil Carbon
 
 2. **Changes in the Composition of Soil Organic Matter after the Transformation of Natural Beech Stands into Spruce Monoculture** (2024)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 ## External Profiles
 

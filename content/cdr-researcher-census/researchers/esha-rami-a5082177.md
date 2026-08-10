@@ -1,7 +1,7 @@
 ---
 title: "Esha Rami"
 description: "Esha Rami is a Mid-career Biochar researcher at Parul University in IN. With 28 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.475604
+date: 2026-08-11T01:33:12.330625
 url: "/cdr-researcher-census/researchers/esha-rami-a5082177/"
 layout: "researcher"
 hiddenInHomeList: true

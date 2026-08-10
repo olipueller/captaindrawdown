@@ -1,7 +1,7 @@
 ---
 title: "Xuetao Liang"
 description: "Xuetao Liang is a Mid-career Biochar researcher at Tsinghua University in CN. With 26 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.692081
+date: 2026-08-11T01:33:11.612922
 url: "/cdr-researcher-census/researchers/xuetao-liang-a5062754/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,12 +51,15 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Efficient activation of peroxyacetic acid by cobalt-iron alloy/oxide heterojunctions anchored in defect-rich biochar for pesticide degradation in water: Unravelling the radical-unradical mechanism** (2024)
-   17 citations · Biochar
+   19 citations · Biochar
 
 2. **Efficient Activation of Peroxyacetic Acid by Cobalt-Iron Alloy/Oxide Heterojunctions Anchored in Defect-Rich Biochar for Pesticide Degradation in Water: Unravelling the Radical-Unradical Mechanism** (2024)
    1 citations
 
-3. **Zirconium-iron oxide nitrogen-doped biochar particle electrodes for enhanced tetracycline degradation: Mechanisms and reactive species analysis** (2025)
+3. **Oxygen-vacancy mediated CoFe bimetallic modified biochar for peroxymonosulfate activated degradation of organochlorine pesticides: Effect of the metal carbon interface** (2026)
+   0 citations · Biochar
+
+4. **Zirconium-iron oxide nitrogen-doped biochar particle electrodes for enhanced tetracycline degradation: Mechanisms and reactive species analysis** (2025)
    0 citations · Biochar
 
 ## External Profiles

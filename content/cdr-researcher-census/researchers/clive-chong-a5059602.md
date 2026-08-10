@@ -1,7 +1,7 @@
 ---
 title: "Clive Chong"
 description: "Clive Chong is an Early-career DAC researcher. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.214355
+date: 2026-08-11T01:33:12.096047
 url: "/cdr-researcher-census/researchers/clive-chong-a5059602/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Toward Sustainable Agriculture: The Design of Environmentally Friendly, Economical, and Modular Vertical Farming Systems** (2025)
-   2 citations · DAC
+   4 citations · DAC
 
 ## External Profiles
 

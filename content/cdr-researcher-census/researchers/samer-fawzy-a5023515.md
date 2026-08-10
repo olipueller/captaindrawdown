@@ -1,7 +1,7 @@
 ---
 title: "Samer Fawzy"
 description: "Samer Fawzy is a Mid-career General CDR researcher at Queen's University Belfast in GB. With 29 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.107825
+date: 2026-08-11T01:33:11.087492
 url: "/cdr-researcher-census/researchers/samer-fawzy-a5023515/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Circular economy strategies for combating climate change and other environmental issues** (2022)
-   748 citations · General CDR
+   776 citations · General CDR
 
 2. **Biochar for agronomy, animal farming, anaerobic digestion, composting, water treatment, soil remediation, construction, energy storage, and carbon sequestration: a review** (2022)
-   478 citations · Biochar
+   487 citations · Biochar
 
 3. **Industrial biochar systems for atmospheric carbon removal: a review** (2021)
-   196 citations · Biochar
+   201 citations · Biochar
 
 4. **Materials, fuels, upgrading, economy, and life cycle assessment of the pyrolysis of algal and lignocellulosic biomass: a review** (2023)
-   188 citations · Biochar
+   197 citations · Biochar
 
 5. **Atmospheric carbon removal via industrial biochar systems: A techno-economic-environmental study** (2022)
-   179 citations · Biochar
+   185 citations · Biochar
 
 6. **Biomass residue to carbon dioxide removal: quantifying the global impact of biochar** (2023)
-   98 citations · Biochar
+   101 citations · Biochar
 
 ## External Profiles
 

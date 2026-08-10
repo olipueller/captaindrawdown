@@ -1,7 +1,7 @@
 ---
 title: "Hans‐Peter Schmidt"
 description: "Hans‐Peter Schmidt is an Eminent Biochar researcher at Ithaka Institute in CH. With 203 publications and an h-index of 44, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.095630
+date: 2026-08-11T01:33:11.075968
 url: "/cdr-researcher-census/researchers/hanspeter-schmidt-a5065464/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar in agriculture – A systematic review of 26 global meta‐analyses** (2021)
-   447 citations · Biochar
+   464 citations · Biochar
 
 2. **Wood Ash as an Additive in Biomass Pyrolysis: Effects on Biochar Yield, Properties, and Agricultural Performance** (2022)
-   60 citations · Biochar
+   61 citations · Biochar
 
 3. **Low tech biochar production could be a highly effective nature-based solution for climate change mitigation in the developing world** (2021)
    15 citations · Biochar
@@ -63,13 +63,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    13 citations · Biochar
 
 5. **Biochar Permanence—A Policy Commentary** (2025)
+   12 citations · Biochar
+
+6. **Proxies for use in biochar decay models: Hydropyrolysis, electric conductivity, and H/Corg molar ratio** (2025)
    8 citations · Biochar
 
-6. **Quantifying soil organic carbon after biochar application: how to avoid (the risk of) counting CDR twice?** (2024)
+7. **Quantifying soil organic carbon after biochar application: how to avoid (the risk of) counting CDR twice?** (2024)
    7 citations · Biochar
-
-7. **Proxies for use in biochar decay models: Hydropyrolysis, electric conductivity, and H/Corg molar ratio** (2025)
-   6 citations · Biochar
 
 8. **Pyrogenic carbon and carbonating minerals for carbon capture and storage (PyMiCCS) part I: production, physico-chemical characterization and C-sink potential** (2025)
    6 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "R Chandrasekaran"
 description: "R Chandrasekaran is a Senior General CDR researcher at National Institute of Technology Karnataka in IN. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.255555
+date: 2026-08-11T01:33:12.133380
 url: "/cdr-researcher-census/researchers/r-chandrasekaran-a5101397/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **From printing to performance: a review on 3D concrete printing processes, materials, and life cycle assessment** (2025)
-   24 citations · General CDR
+   26 citations · General CDR
 
 ## External Profiles
 

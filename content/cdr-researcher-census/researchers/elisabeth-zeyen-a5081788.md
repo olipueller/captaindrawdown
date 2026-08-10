@@ -1,7 +1,7 @@
 ---
 title: "Elisabeth Zeyen"
 description: "Elisabeth Zeyen is a Mid-career General CDR researcher at Energy Transitions (United Kingdom) in GB. With 42 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.361399
+date: 2026-08-11T01:33:11.322012
 url: "/cdr-researcher-census/researchers/elisabeth-zeyen-a5081788/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Are biofuel mandates cost-effective? - An analysis of transport fuels and biomass usage to achieve emissions targets in the European energy system** (2022)
-   55 citations · BECCS
+   57 citations · BECCS
 
 2. **Diversity of biomass usage pathways to achieve emissions targets in the European energy system** (2025)
-   46 citations · BECCS
+   47 citations · BECCS
 
 3. **H2 and CO2 network strategies for the European energy system** (2025)
-   33 citations · DAC
+   40 citations · DAC
 
 4. **Biomass exclusion must be weighed against benefits of carbon supply in European energy system** (2025)
    6 citations · BECCS

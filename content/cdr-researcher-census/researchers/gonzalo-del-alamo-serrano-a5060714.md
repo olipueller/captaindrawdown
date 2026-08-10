@@ -1,7 +1,7 @@
 ---
 title: "Gonzalo del Alamo Serrano"
 description: "Gonzalo del Alamo Serrano is a Senior BECCS researcher at SINTEF in NO. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.672696
+date: 2026-08-11T01:33:11.595178
 url: "/cdr-researcher-census/researchers/gonzalo-del-alamo-serrano-a5060714/"
 layout: "researcher"
 hiddenInHomeList: true

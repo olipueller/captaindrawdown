@@ -1,7 +1,7 @@
 ---
 title: "Kęstutis Armolaitis"
 description: "Kęstutis Armolaitis is a Senior Soil Carbon researcher at Vytautas Magnus University in LT. With 73 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.205724
+date: 2026-08-11T01:33:11.179503
 url: "/cdr-researcher-census/researchers/kestutis-armolaitis-a5000303/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,11 +53,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Evaluation of Soil Organic Carbon Stability in Different Land Uses in Lithuania** (2023)
    6 citations · Soil Carbon
 
-2. **Changes in Soil Properties and Scots Pine Tree Growth Induced by Different Soil Ploughing Prior to Afforestation: A Case Study** (2022)
-   5 citations · General CDR
+2. **Organic soils can be CO <sub>2</sub> sinks in both drained and undrained hemiboreal peatland forests** (2025)
+   5 citations · Soil Carbon
 
-3. **Organic soils can be CO <sub>2</sub> sinks in both drained and undrained hemiboreal peatland forests** (2025)
-   4 citations · Soil Carbon
+3. **Changes in Soil Properties and Scots Pine Tree Growth Induced by Different Soil Ploughing Prior to Afforestation: A Case Study** (2022)
+   5 citations · General CDR
 
 4. **Soil and forest floor carbon balance in drained and undrained hemiboreal peatland forests** (2024)
    3 citations · Soil Carbon

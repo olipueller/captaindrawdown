@@ -1,7 +1,7 @@
 ---
 title: "Juan-Ying Li"
 description: "Juan-Ying Li is a Mid-career Biochar researcher at Shanghai Ocean University in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.294326
+date: 2026-08-11T01:33:12.165582
 url: "/cdr-researcher-census/researchers/juan-ying-li-a5057518/"
 layout: "researcher"
 hiddenInHomeList: true

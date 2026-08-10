@@ -1,7 +1,7 @@
 ---
 title: "Guang Hu"
 description: "Guang Hu is a Senior Ocean CDR researcher at Southwest Petroleum University in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.483078
+date: 2026-08-11T01:33:12.337744
 url: "/cdr-researcher-census/researchers/guang-hu-a5102509/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Volcanic fertilization of Late Triassic lacustrine algal blooms** (2025)
-   7 citations · Ocean CDR
+   9 citations · Ocean CDR
 
 ## External Profiles
 

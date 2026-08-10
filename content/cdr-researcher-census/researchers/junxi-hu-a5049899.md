@@ -1,7 +1,7 @@
 ---
 title: "Junxi Hu"
 description: "Junxi Hu is a Mid-career Soil Carbon researcher at Sichuan Agricultural University in CN. With 22 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.433549
+date: 2026-08-11T01:33:11.384525
 url: "/cdr-researcher-census/researchers/junxi-hu-a5049899/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Microbial necromass under global change and implications for soil organic matter** (2023)
-   155 citations · Soil Carbon
+   159 citations · Soil Carbon
 
 2. **Nitrogen addition increases microbial necromass in croplands and bacterial necromass in forests: A global meta-analysis** (2021)
-   131 citations · Soil Carbon
+   138 citations · Soil Carbon
 
-3. **Unlocking the potential of microbial necromass for enhancing soil carbon sequestration: A global perspective on cropland management using meta-analysis** (2025)
+3. **Contrasting responses of particulate and mineral-associated organic carbon stocks to grazing exclusion in an alpine meadow** (2026)
+   3 citations · Soil Carbon
+
+4. **Unlocking the potential of microbial necromass for enhancing soil carbon sequestration: A global perspective on cropland management using meta-analysis** (2025)
    3 citations · Biochar
-
-4. **Contrasting responses of particulate and mineral-associated organic carbon stocks to grazing exclusion in an alpine meadow** (2026)
-   2 citations · Soil Carbon
 
 5. **Optimizing strip clear-cutting regimes for carbon sequestration and maintaining ecosystem health in Cryptomeria japonica plantations** (2025)
    1 citations · Soil Carbon

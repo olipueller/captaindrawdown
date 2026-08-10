@@ -1,7 +1,7 @@
 ---
 title: "Hugo Ernesto Flores-López"
 description: "Hugo Ernesto Flores-López is a Senior Soil Carbon researcher at Instituto Nacional de Investigaciones Forestales Agrícolas y Pecuarias in MX. With 23 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.229299
+date: 2026-08-11T01:33:12.109667
 url: "/cdr-researcher-census/researchers/hugo-ernesto-flores-lopez-a5050110/"
 layout: "researcher"
 hiddenInHomeList: true

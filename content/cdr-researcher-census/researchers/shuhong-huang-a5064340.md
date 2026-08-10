@@ -1,7 +1,7 @@
 ---
 title: "Shuhong Huang"
 description: "Shuhong Huang is a Mid-career Biochar researcher at South China University of Technology in CN. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.634636
+date: 2026-08-11T01:33:11.561337
 url: "/cdr-researcher-census/researchers/shuhong-huang-a5064340/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Synthesis of Fe-Nx site-based iron-nitrogen co-doped biochar catalysts for efficient removal of sulfamethoxazole from water by activation of persulfate: Electron transfer mechanism of non-free radical degradation** (2022)
-   53 citations · Biochar
+   54 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Hui Liang"
 description: "Hui Liang is a Senior Soil Carbon researcher at Guangxi Medical University in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.998323
+date: 2026-08-11T01:33:11.876081
 url: "/cdr-researcher-census/researchers/hui-liang-a5101865/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Anthropogenic land-use driven changes in soil stoichiometry reduce microbial carbon use efficiency** (2025)
-   8 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 ## External Profiles
 

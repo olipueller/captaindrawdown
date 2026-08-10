@@ -1,7 +1,7 @@
 ---
 title: "Nouman Rafique Mirza"
 description: "Nouman Rafique Mirza is a Mid-career DAC researcher at CSIRO in AU. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.490847
+date: 2026-08-11T01:33:11.432696
 url: "/cdr-researcher-census/researchers/nouman-rafique-mirza-a5036697/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Reclaiming water from a direct air capture plant using vacuum membrane distillation – A bench-scale study** (2022)
-   8 citations · DAC
+   9 citations · DAC
 
 2. **Mineralisation as a carbon sink for DAC: A case-study for solar thermal process integration** (2025)
    1 citations · DAC

@@ -1,7 +1,7 @@
 ---
 title: "Kamil Niesporek"
 description: "Kamil Niesporek is a Mid-career DAC researcher at Silesian University of Technology in PL. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.242031
+date: 2026-08-11T01:33:12.121789
 url: "/cdr-researcher-census/researchers/kamil-niesporek-a5093792/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Advancements and Challenges in Direct Air Capture Technologies: Energy Intensity, Novel Methods, Economics, and Location Strategies** (2025)
-   30 citations · DAC
+   31 citations · DAC
 
 2. **Integration of membrane-based atmospheric CO2 capture with a combined cycle power plant: A novel hybrid CCS/DAC process concept** (2025)
-   7 citations · DAC
+   8 citations · DAC
 
 3. **Effect of Humidity on the Energy and CO2 Separation Characteristics of Membranes in Direct Air Capture Technology** (2025)
    5 citations

@@ -1,7 +1,7 @@
 ---
 title: "Hua Gong"
 description: "Hua Gong is a Mid-career Soil Carbon researcher. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.055670
+date: 2026-08-11T01:33:11.929773
 url: "/cdr-researcher-census/researchers/hua-gong-a5051230/"
 layout: "researcher"
 hiddenInHomeList: true

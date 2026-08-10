@@ -1,7 +1,7 @@
 ---
 title: "Guillaume Peterson St‐Laurent"
 description: "Guillaume Peterson St‐Laurent is a Mid-career General CDR researcher at University of British Columbia in CA. With 34 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.316233
+date: 2026-08-11T01:33:11.282602
 url: "/cdr-researcher-census/researchers/guillaume-peterson-stlaurent-a5069003/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Public evaluations of four approaches to ocean-based carbon dioxide removal** (2023)
-   55 citations · General CDR
+   57 citations · General CDR
 
 2. **Exploring public acceptability of direct air carbon capture with storage: climate urgency, moral hazards and perceptions of the ‘whole versus the parts’** (2023)
-   52 citations · General CDR
+   54 citations · General CDR
 
 ## External Profiles
 

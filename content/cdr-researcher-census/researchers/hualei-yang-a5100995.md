@@ -1,7 +1,7 @@
 ---
 title: "Hualei Yang"
 description: "Hualei Yang is a Mid-career Soil Carbon researcher at Ningxia Water Conservancy in CN. With 27 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.427172
+date: 2026-08-11T01:33:11.379317
 url: "/cdr-researcher-census/researchers/hualei-yang-a5100995/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,17 +47,17 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Replacing Spartina alterniflora with northward-afforested mangroves has the potential to acquire extra blue carbon** (2024)
+1. **Restoration of native saltmarshes enhances carbon sequestration and mitigates warming effects following <i>Spartina alterniflora</i> removal** (2025)
    10 citations · Ocean CDR
 
-2. **Restoration of native saltmarshes enhances carbon sequestration and mitigates warming effects following <i>Spartina alterniflora</i> removal** (2025)
-   9 citations · Ocean CDR
+2. **Replacing Spartina alterniflora with northward-afforested mangroves has the potential to acquire extra blue carbon** (2024)
+   10 citations · Ocean CDR
 
-3. **Restoration of native saltmarshes enhances carbon sequestration and mitigates warming effects following Spartina alterniflora removal** (2025)
+3. **Unlocking the Impact of Temperature and Salinity on Greenhouse Gas Emissions From Estuarine Salt Marsh Soils** (2026)
+   1 citations · Soil Carbon
+
+4. **Restoration of native saltmarshes enhances carbon sequestration and mitigates warming effects following Spartina alterniflora removal** (2025)
    1 citations · General CDR
-
-4. **Unlocking the Impact of Temperature and Salinity on Greenhouse Gas Emissions From Estuarine Salt Marsh Soils** (2026)
-   0 citations · Soil Carbon
 
 5. **Salinity determines the blue carbon sequestration capacity of <scp> <i>Phragmites australis</i> </scp> in coastal ecosystems** (2025)
    0 citations · Ocean CDR

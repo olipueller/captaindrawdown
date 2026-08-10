@@ -1,7 +1,7 @@
 ---
 title: "Yuejing Rong"
 description: "Yuejing Rong is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 34 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.407914
+date: 2026-08-11T01:33:11.361670
 url: "/cdr-researcher-census/researchers/yuejing-rong-a5102381/"
 layout: "researcher"
 hiddenInHomeList: true

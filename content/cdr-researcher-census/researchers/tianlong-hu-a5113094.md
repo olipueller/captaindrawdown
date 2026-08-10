@@ -1,7 +1,7 @@
 ---
 title: "Tianlong Hu"
 description: "Tianlong Hu is a Senior Biochar researcher at Hohai University in CN. With 30 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.427285
+date: 2026-08-11T01:33:11.379422
 url: "/cdr-researcher-census/researchers/tianlong-hu-a5113094/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Ecoenzymatic stoichiometry reveals stronger microbial carbon and nitrogen limitation in biochar amendment soils: A meta-analysis** (2022)
-   48 citations · Biochar
+   56 citations · Biochar
 
 2. **12-year continuous biochar application: Mitigating reactive nitrogen loss in paddy fields but without rice yield enhancement** (2024)
-   21 citations · Biochar
+   22 citations · Biochar
 
 3. **Decade-long successive biochar amendment enhances wheat production and increases crop system resistance to unfavorable meteorological factors** (2025)
    10 citations · Biochar

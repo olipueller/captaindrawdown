@@ -1,7 +1,7 @@
 ---
 title: "Greg H. Rau"
 description: "Greg H. Rau is an Eminent General CDR researcher at Planetary Science Institute in US. With 126 publications and an h-index of 45, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.096176
+date: 2026-08-11T01:33:11.076492
 url: "/cdr-researcher-census/researchers/greg-h-rau-a5035528/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Assessing the technical aspects of ocean-alkalinity-enhancement approaches** (2023)
-   105 citations · General CDR
+   106 citations · General CDR
 
 2. **Increased carbon capture by a silicate-treated forested watershed affected by acid deposition** (2021)
-   93 citations · Enhanced Weathering
+   94 citations · Enhanced Weathering
 
 3. **Magnesium hydroxide addition reduces aqueous carbon dioxide in wastewater discharged to the ocean** (2024)
-   28 citations · General CDR
+   30 citations · General CDR
 
 4. **Assessing technical aspects of ocean alkalinity enhancement approaches** (2023)
-   22 citations · General CDR
+   23 citations · General CDR
 
 5. **Planetary Technologies' Groundbreaking Marine Carbon Dioxide Removal (mCDR) Project in Halifax, and the Emergence of Halifax as a Global mCDR Hub** (2024)
    4 citations · General CDR

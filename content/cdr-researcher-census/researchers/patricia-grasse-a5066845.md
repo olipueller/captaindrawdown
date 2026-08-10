@@ -1,7 +1,7 @@
 ---
 title: "Patricia Grasse"
 description: "Patricia Grasse is a Senior Ocean CDR researcher at German Center for Integrative Biodiversity Research in DE. With 107 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.225959
+date: 2026-08-11T01:33:11.198509
 url: "/cdr-researcher-census/researchers/patricia-grasse-a5066845/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Assessing the technical aspects of ocean-alkalinity-enhancement approaches** (2023)
-   105 citations · General CDR
+   106 citations · General CDR
 
 2. **Assessing technical aspects of ocean alkalinity enhancement approaches** (2023)
-   22 citations · General CDR
+   23 citations · General CDR
 
 3. **Future Scenarios of Global Fisheries and Ocean Alkalinity Enhancement Under Socio‐Economic and Climate Pathways** (2025)
    5 citations · General CDR
@@ -62,23 +62,23 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 4. **Alkalinity enhancement in intertidal environments: preliminary results of a field experiment** (2023)
    1 citations · Ocean CDR
 
-5. **Guidance on integrating marine environmental impacts of ocean alkalinity enhancement into life cycle assessment** (2026)
+5. **Commercial and logistical considerations for MCDR implementation** (2026)
    0 citations · General CDR
 
-6. **Author response for "An ecosystem of carbon dioxide removal reviews – part 2: CO2 removal via Blue Carbon Ecosystems"** (2026)
+6. **Guidance on integrating marine environmental impacts of ocean alkalinity enhancement into life cycle assessment** (2026)
    0 citations · General CDR
 
-7. **An ecosystem of carbon dioxide removal reviews – part 2: CO <sub>2</sub> removal <i>via</i> blue carbon ecosystems** (2026)
+7. **Author response for "An ecosystem of carbon dioxide removal reviews – part 2: CO2 removal via Blue Carbon Ecosystems"** (2026)
    0 citations · General CDR
 
-8. **Author response for "An ecosystem of carbon dioxide removal reviews – part 2: CO2 removal via Blue Carbon Ecosystems"** (2026)
+8. **An ecosystem of carbon dioxide removal reviews – part 2: CO <sub>2</sub> removal <i>via</i> blue carbon ecosystems** (2026)
    0 citations · General CDR
 
-9. **Guidance on integrating marine environmental impacts of marine technologies into life cycle assessment — Application to ocean alkalinity enhancement** (2026)
+9. **Author response for "An ecosystem of carbon dioxide removal reviews – part 2: CO2 removal via Blue Carbon Ecosystems"** (2026)
+   0 citations · General CDR
+
+10. **Guidance on integrating marine environmental impacts of marine technologies into life cycle assessment — Application to ocean alkalinity enhancement** (2026)
    0 citations · Ocean CDR
-
-10. **Marine Geoengineering for a Sustainable Future: Integrating Fisheries and Ocean Alkalinity Enhancement in Global Scenarios** (2024)
-   0 citations · General CDR
 
 ## External Profiles
 

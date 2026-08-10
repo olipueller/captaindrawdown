@@ -1,7 +1,7 @@
 ---
 title: "Yongmei Xiong"
 description: "Yongmei Xiong is a Mid-career Soil Carbon researcher at Nanjing Forestry University in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.991221
+date: 2026-08-11T01:33:11.869015
 url: "/cdr-researcher-census/researchers/yongmei-xiong-a5016016/"
 layout: "researcher"
 hiddenInHomeList: true

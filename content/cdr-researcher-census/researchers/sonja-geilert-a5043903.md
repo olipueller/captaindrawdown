@@ -1,7 +1,7 @@
 ---
 title: "Sonja Geilert"
 description: "Sonja Geilert is a Senior Ocean CDR researcher at Utrecht University in NL. With 76 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.255313
+date: 2026-08-11T01:33:11.225302
 url: "/cdr-researcher-census/researchers/sonja-geilert-a5043903/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Kinetics of Olivine Weathering in Seawater: An Experimental Study** (2022)
-   159 citations · Enhanced Weathering
+   160 citations · Enhanced Weathering
 
 2. **Assessing the technical aspects of ocean-alkalinity-enhancement approaches** (2023)
-   105 citations · General CDR
+   106 citations · General CDR
 
 3. **Assessing technical aspects of ocean alkalinity enhancement approaches** (2023)
-   22 citations · General CDR
+   23 citations · General CDR
 
 4. **Disentangling artificial and natural benthic weathering in organic rich Baltic Sea sediments** (2023)
    20 citations · Enhanced Weathering
@@ -74,11 +74,11 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 8. **Calcite is an efficient and low-cost material to enhance benthic weathering in shelf sediments of the Baltic Sea** (2025)
    9 citations · Enhanced Weathering
 
-9. **Mesocosm experiments in ocean alkalinity enhancement research** (2023)
-   8 citations
+9. **Exploring Site‐Specific Carbon Dioxide Removal Options With Storage or Sequestration in the Marine Environment – The 10 Mt CO<sub>2</sub> yr<sup>−1</sup> Removal Challenge for Germany** (2025)
+   8 citations · General CDR
 
-10. **Exploring Site‐Specific Carbon Dioxide Removal Options With Storage or Sequestration in the Marine Environment – The 10 Mt CO<sub>2</sub> yr<sup>−1</sup> Removal Challenge for Germany** (2025)
-   7 citations · General CDR
+10. **Mesocosm experiments in ocean alkalinity enhancement research** (2023)
+   8 citations
 
 ## External Profiles
 

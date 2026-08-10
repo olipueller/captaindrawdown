@@ -1,7 +1,7 @@
 ---
 title: "Sebastian U. Busby"
 description: "Sebastian U. Busby is a Senior Soil Carbon researcher. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.793997
+date: 2026-08-11T01:33:11.704936
 url: "/cdr-researcher-census/researchers/sebastian-u-busby-a5014945/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Prospects for silvicultural enhancement of fire resistance in mesic westside forests of the Pacific Northwest** (2025)
-   0 citations · General CDR
+   1 citations · General CDR
 
 ## External Profiles
 

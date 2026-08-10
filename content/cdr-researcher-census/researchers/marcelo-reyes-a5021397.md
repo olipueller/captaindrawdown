@@ -1,7 +1,7 @@
 ---
 title: "Marcelo Reyes"
 description: "Marcelo Reyes is a Mid-career Biochar researcher at University of Bío-Bío in CL. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.934451
+date: 2026-08-11T01:33:11.830742
 url: "/cdr-researcher-census/researchers/marcelo-reyes-a5021397/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Activated Biochar from Pineapple Crown Biomass: A High-Efficiency Adsorbent for Organic Dye Removal** (2024)
-   34 citations · Biochar
+   35 citations · Biochar
 
 ## External Profiles
 

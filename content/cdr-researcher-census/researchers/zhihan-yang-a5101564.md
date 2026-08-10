@@ -1,7 +1,7 @@
 ---
 title: "Zhihan Yang"
 description: "Zhihan Yang is a Mid-career Soil Carbon researcher at Chengdu University of Technology in CN. With 34 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.149552
+date: 2026-08-11T01:33:12.037219
 url: "/cdr-researcher-census/researchers/zhihan-yang-a5101564/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Prediction of soil organic carbon stock combining Sentinel-1 and Sentinel-2 images in the Zoige Plateau, the northeastern Qinghai-Tibet Plateau** (2024)
-   23 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 2. **Accumulation of soil microbial necromass carbon and its contribution to soil organic carbon after vegetation restoration in the Tibetan Plateau** (2024)
    2 citations · Soil Carbon

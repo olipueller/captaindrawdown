@@ -1,7 +1,7 @@
 ---
 title: "Xinchuang Xu"
 description: "Xinchuang Xu is a Mid-career Soil Carbon researcher at Hubei University of Science and Technology in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.551034
+date: 2026-08-11T01:33:12.399863
 url: "/cdr-researcher-census/researchers/xinchuang-xu-a5101001/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Nonlinear response of soil organic carbon sequestration to deadwood decomposition in a subtropical–temperate ecotonal forest** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 2. **Coniferous Deadwood Decomposition Improves Soil Organic Carbon Storage in a Temperate Forest** (2023)
    0 citations · Soil Carbon

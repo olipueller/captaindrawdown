@@ -1,7 +1,7 @@
 ---
 title: "Zhiheng Zhou"
 description: "Zhiheng Zhou is a Senior Biochar researcher at Aarhus University in DK. With 44 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.635970
+date: 2026-08-11T01:33:11.562716
 url: "/cdr-researcher-census/researchers/zhiheng-zhou-a5100680/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **micro-Raman indicates biochar has similar stability and structural features as natural fusinite and semifusinite** (2025)
-   17 citations · Biochar
+   19 citations · Biochar
 
 2. **A Unified Framework for Biochar Carbon Permanence** (2026)
    0 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Christopher Just"
 description: "Christopher Just is a Mid-career Soil Carbon researcher at Technical University of Munich in DE. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.028276
+date: 2026-08-11T01:33:11.904066
 url: "/cdr-researcher-census/researchers/christopher-just-a5031354/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,12 +51,15 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil organic carbon sequestration in agricultural long-term field experiments as derived from particulate and mineral-associated organic matter** (2023)
-   72 citations · Soil Carbon
+   73 citations · Soil Carbon
 
 2. **Balancing Organic and Inorganic Carbon Dynamics in Enhanced Rock Weathering: Implications for Carbon Sequestration** (2025)
-   20 citations · Enhanced Weathering
+   23 citations · Enhanced Weathering
 
-3. **The POM-C / MAOM-C ratio as a compliance indicator for sustainable soil organic carbon management of arable soils in Central Europe** (2023)
+3. **Enhanced RockWeathering Affects Formation of Mineral-AssociatedOrganic Carbon in Soil** (2026)
+   0 citations
+
+4. **The POM-C / MAOM-C ratio as a compliance indicator for sustainable soil organic carbon management of arable soils in Central Europe** (2023)
    0 citations · Soil Carbon
 
 ## External Profiles

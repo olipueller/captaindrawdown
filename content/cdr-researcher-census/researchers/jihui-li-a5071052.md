@@ -1,7 +1,7 @@
 ---
 title: "Jihui Li"
 description: "Jihui Li is a Senior Biochar researcher at Hainan University in CN. With 144 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.153626
+date: 2026-08-11T01:33:11.130534
 url: "/cdr-researcher-census/researchers/jihui-li-a5071052/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Association of biochar properties with changes in soil bacterial, fungal and fauna communities and nutrient cycling processes** (2021)
-   344 citations · Biochar
+   356 citations · Biochar
 
 2. **Highly adsorptive pristine and magnetic biochars prepared from crayfish shell for removal of Cu(II) and Pb(II)** (2021)
-   56 citations · Biochar
+   58 citations · Biochar
 
 3. **Generalists and specialists decomposing labile and aromatic biochar compounds and sequestering carbon in soil** (2022)
    33 citations · Biochar
@@ -72,6 +72,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    2 citations · Biochar
 
 8. **Oxidative carbothermal reduction for preparation of high-loading nano-zero-valent iron doped biochar for removal of tetracyclines and fluoroquinolones** (2026)
+   1 citations · Biochar
+
+9. **A robust nano zero-valent iron doped biochar prepared by inherent oxidation-driven carbothermal reduction for activating peroxymonosulfate to degrade antibiotics and phenols** (2026)
    0 citations · Biochar
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Khanh Nguyen"
 description: "Khanh Nguyen is a Senior Biochar researcher. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.645055
+date: 2026-08-11T01:33:11.570874
 url: "/cdr-researcher-census/researchers/khanh-nguyen-a5030023/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Assessment of cadmium ion adsorption capacity in water by biochar produced from pyrolysis of cow dung** (2021)
-   4 citations · Biochar
+   5 citations · Biochar
 
 ## External Profiles
 

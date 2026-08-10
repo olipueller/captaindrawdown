@@ -1,7 +1,7 @@
 ---
 title: "Sebastian Bastek"
 description: "Sebastian Bastek is a Mid-career DAC researcher. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.210287
+date: 2026-08-11T01:33:12.092179
 url: "/cdr-researcher-census/researchers/sebastian-bastek-a5050668/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Techno-economic assessment and comparison of Fischer–Tropsch and Methanol-to-Jet processes to produce sustainable aviation fuel via Power-to-Liquid** (2024)
-   75 citations · DAC
+   86 citations · DAC
 
 ## External Profiles
 

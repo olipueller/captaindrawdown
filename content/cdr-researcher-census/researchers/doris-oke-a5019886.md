@@ -1,7 +1,7 @@
 ---
 title: "Doris Oke"
 description: "Doris Oke is a Mid-career BECCS researcher at Argonne National Laboratory in US. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.998816
+date: 2026-08-11T01:33:11.876550
 url: "/cdr-researcher-census/researchers/doris-oke-a5019886/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Reducing Economy-Wide Greenhouse Gas Emissions with Electrofuels and Biofuels as the Grid Decarbonizes** (2024)
-   21 citations · BECCS
+   22 citations · BECCS
 
 2. **The Role of Biofuels and Biomass Feedstocks for Decarbonizing the U.S. Economy by 2050 - (DECARB) Decarbonizing Energy Through Collaborative Analysis of Routes and Benefits** (2024)
    5 citations · BECCS
 
 3. **What Is the Best Use of Biomass? A Harmonized <scp>LCA</scp> ‐ <scp>TEA</scp> Framework Quantifying Economic and Environmental Metrics for Bioenergy Pathways** (2026)
-   1 citations
+   2 citations
 
 4. **A Novel Framework to Evaluate the Costs and Potential of Bioenergy in Decarbonization of the U.S. Economy** (2024)
    0 citations · BECCS

@@ -1,7 +1,7 @@
 ---
 title: "Haotian Yang"
 description: "Haotian Yang is a Mid-career Soil Carbon researcher. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.698379
+date: 2026-08-11T01:33:11.618536
 url: "/cdr-researcher-census/researchers/haotian-yang-a5100567/"
 layout: "researcher"
 hiddenInHomeList: true

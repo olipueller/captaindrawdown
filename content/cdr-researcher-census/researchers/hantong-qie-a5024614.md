@@ -1,7 +1,7 @@
 ---
 title: "Hantong Qie"
 description: "Hantong Qie is a Mid-career Biochar researcher at Beijing University of Chemical Technology in CN. With 21 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.408873
+date: 2026-08-11T01:33:11.362537
 url: "/cdr-researcher-census/researchers/hantong-qie-a5024614/"
 layout: "researcher"
 hiddenInHomeList: true

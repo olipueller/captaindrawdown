@@ -1,7 +1,7 @@
 ---
 title: "Zhihui Shen"
 description: "Zhihui Shen is a Senior Soil Carbon researcher at Guizhou University in CN. With 34 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.844402
+date: 2026-08-11T01:33:11.748528
 url: "/cdr-researcher-census/researchers/zhihui-shen-a5103840/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Combined effects of plant establishment and organic matter amendment on coal gangue transformation into soil-like substrates** (2026)
-   1 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 2. **Synergistic effects of plant establishment and organic matter amendments on coal gangue transformation into soil-like substrates** (2025)
    0 citations · Soil Carbon

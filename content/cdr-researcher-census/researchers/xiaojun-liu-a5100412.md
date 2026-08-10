@@ -1,7 +1,7 @@
 ---
 title: "Xiaojun Liu"
 description: "Xiaojun Liu is a Mid-career Soil Carbon researcher at Jiangsu Changjiang Electronics Technology (China) in CN. With 43 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.451866
+date: 2026-08-11T01:33:11.399898
 url: "/cdr-researcher-census/researchers/xiaojun-liu-a5100412/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Changes in Soil Aggregate Fractions, Stability, and Associated Organic Carbon and Nitrogen in Different Land Use Types in the Loess Plateau, China** (2022)
-   36 citations · Soil Carbon
+   37 citations · Soil Carbon
 
 2. **The response of soil organic carbon to climate and soil texture in China** (2022)
    36 citations · Soil Carbon
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    28 citations · Soil Carbon
 
 4. **Response of carbon acquisition enzyme activity and organic carbon mineralization to soil erosion and deposition** (2024)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 5. **Soil N2O emissions increased by litter removal but decreased by phosphorus additions** (2021)
    12 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Maurício Roberto Cherubin"
 description: "Maurício Roberto Cherubin is an Eminent Soil Carbon researcher at Universidade de São Paulo - Escola Superior de Agricultura Luiz de Queiroz in BR. With 306 publications and an h-index of 50, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.101009
+date: 2026-08-11T01:33:11.081187
 url: "/cdr-researcher-census/researchers/mauricio-roberto-cherubin-a5047372/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Land Use and Management Effects on Sustainable Sugarcane-Derived Bioenergy** (2021)
-   116 citations
+   119 citations
 
 2. **Cover crops enhance soil health, crop yield and resilience of tropical agroecosystem** (2025)
-   49 citations · Soil Carbon
+   52 citations · Soil Carbon
 
 3. **Soil health in Latin America and the Caribbean** (2025)
-   29 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 4. **Greenhouse gas fluxes in brazilian climate-smart agricultural and livestock systems: A systematic and critical overview** (2024)
-   23 citations · General CDR
+   24 citations · General CDR
 
 5. **Carbon farming initiative: a national-scale public-private partnership to promote regenerative agriculture in Brazil** (2024)
    16 citations · General CDR

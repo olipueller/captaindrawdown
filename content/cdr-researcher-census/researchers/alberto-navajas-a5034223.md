@@ -1,7 +1,7 @@
 ---
 title: "Alberto Navajas"
 description: "Alberto Navajas is a Senior Biochar researcher at Universidad Pública de Navarra in ES. With 29 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.334053
+date: 2026-08-11T01:33:11.297964
 url: "/cdr-researcher-census/researchers/alberto-navajas-a5034223/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Life Cycle Assessment of Wheat Straw Pyrolysis with Volatile Fractions Chemical Looping Combustion** (2024)
-   12 citations · Biochar
+   13 citations · Biochar
 
 2. **Towards carbon-negative biomass conversion: Life cycle assessment of a pyrolysis plant with integrated CO2 capture via chemical looping combustion** (2026)
    0 citations · Biochar

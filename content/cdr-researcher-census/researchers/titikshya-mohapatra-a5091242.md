@@ -1,7 +1,7 @@
 ---
 title: "Titikshya Mohapatra"
 description: "Titikshya Mohapatra is a Mid-career Biochar researcher at National Institute of Technology Raipur in IN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.070452
+date: 2026-08-11T01:33:11.964777
 url: "/cdr-researcher-census/researchers/titikshya-mohapatra-a5091242/"
 layout: "researcher"
 hiddenInHomeList: true

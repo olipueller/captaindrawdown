@@ -1,7 +1,7 @@
 ---
 title: "Zhiyuan Yang"
 description: "Zhiyuan Yang is a Mid-career General CDR researcher at Tsinghua University in CN. With 31 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.463304
+date: 2026-08-11T01:33:11.409179
 url: "/cdr-researcher-census/researchers/zhiyuan-yang-a5100619/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Do adaptive policy adjustments deliver ecosystem-agriculture-economy co-benefits in land degradation neutrality efforts? Evidence from southeast coast of China** (2023)
-   141 citations · General CDR
+   143 citations · General CDR
 
 2. **Win-win-win pathway for ecological restoration by balancing hydrological, ecological, and agricultural dimensions: Contrasting lessons from highly eroded agroforestry** (2021)
    38 citations

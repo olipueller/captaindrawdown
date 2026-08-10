@@ -1,7 +1,7 @@
 ---
 title: "Samanyita Mohanty"
 description: "Samanyita Mohanty is a Mid-career Biochar researcher at Siksha O Anusandhan University in IN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.435977
+date: 2026-08-11T01:33:12.293529
 url: "/cdr-researcher-census/researchers/samanyita-mohanty-a5101325/"
 layout: "researcher"
 hiddenInHomeList: true

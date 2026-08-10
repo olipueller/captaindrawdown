@@ -1,7 +1,7 @@
 ---
 title: "Kyle Mason‐Jones"
 description: "Kyle Mason‐Jones is a Senior Soil Carbon researcher at University of Tübingen in DE. With 60 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.193643
+date: 2026-08-11T01:33:11.168138
 url: "/cdr-researcher-census/researchers/kyle-masonjones-a5091705/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Formation of necromass-derived soil organic carbon determined by microbial death pathways** (2023)
-   403 citations · Soil Carbon
+   414 citations · Soil Carbon
 
 2. **Stability of iron-carbon complexes determines carbon sequestration efficiency in iron-rich soils** (2025)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 3. **Grassland above- and below-ground inputs have similar effects on soil organic matter: A five-year field trial** (2025)
    1 citations · Soil Carbon

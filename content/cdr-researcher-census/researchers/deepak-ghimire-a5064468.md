@@ -1,7 +1,7 @@
 ---
 title: "Deepak Ghimire"
 description: "Deepak Ghimire is a Mid-career General CDR researcher at University of Nebraska–Lincoln in US. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.401179
+date: 2026-08-11T01:33:12.261623
 url: "/cdr-researcher-census/researchers/deepak-ghimire-a5064468/"
 layout: "researcher"
 hiddenInHomeList: true

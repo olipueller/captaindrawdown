@@ -1,7 +1,7 @@
 ---
 title: "Yao Liang"
 description: "Yao Liang is a Senior Soil Carbon researcher at Sun Yat-sen University in CN. With 41 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.393282
+date: 2026-08-11T01:33:11.348806
 url: "/cdr-researcher-census/researchers/yao-liang-a5100750/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,22 +54,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    152 citations · Biochar
 
 2. **Soil organic carbon accumulation mechanisms in soil amended with straw and biochar: entombing effect or biochemical protection?** (2025)
-   36 citations · Biochar
+   39 citations · Biochar
 
 3. **Soil microbial community and physicochemical properties together drive soil organic carbon in <i>Cunninghamia lanceolata</i> plantations of different stand ages** (2022)
-   21 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 4. **The Relationship of Soil Organic Carbon and Nutrient Contents to Maize Yield as Affected by Maize Straw Return Modes** (2023)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 5. **Deep tillage with straw retention increased organic carbon sequestration and enhanced homogenization of microbial communities and functions across soil depths** (2025)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 6. **Influence of straw, compost, and biochar on soil carbon and aggregates in Chernozem** (2025)
    5 citations · Biochar
 
 7. **Differences in soil organic carbon among soil layers caused by microbial necromass carbon accumulation under different tillage and carbon input regimes** (2026)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

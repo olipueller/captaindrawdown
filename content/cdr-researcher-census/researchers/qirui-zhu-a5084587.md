@@ -1,7 +1,7 @@
 ---
 title: "Qirui Zhu"
 description: "Qirui Zhu is a Mid-career Soil Carbon researcher at Hunan Agricultural University in CN. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.921813
+date: 2026-08-11T01:33:11.819056
 url: "/cdr-researcher-census/researchers/qirui-zhu-a5084587/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Intercropping regulates plant- and microbe-derived carbon accumulation by influencing soil physicochemical and microbial physiological properties** (2024)
-   71 citations · Soil Carbon
+   76 citations · Soil Carbon
 
 ## External Profiles
 

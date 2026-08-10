@@ -1,7 +1,7 @@
 ---
 title: "Yiran Wang"
 description: "Yiran Wang is a Mid-career Soil Carbon researcher at Zhejiang University in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.544059
+date: 2026-08-11T01:33:12.394206
 url: "/cdr-researcher-census/researchers/yiran-wang-a5100367/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Evolution Characteristics of Wetland Landscape Pattern and Its Impact on Carbon Sequestration in Wuhan from 2000 to 2020** (2023)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 ## External Profiles
 

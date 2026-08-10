@@ -1,7 +1,7 @@
 ---
 title: "Sarah J. Thorne"
 description: "Sarah J. Thorne is a Mid-career Enhanced Weathering researcher at University of Sheffield in GB. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.588799
+date: 2026-08-11T01:33:11.520345
 url: "/cdr-researcher-census/researchers/sarah-j-thorne-a5076381/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Enhanced weathering in the US Corn Belt delivers carbon removal with agronomic benefits** (2024)
-   131 citations
+   134 citations
 
 2. **Enhanced weathering in the U.S. Corn Belt delivers carbon removal with agronomic benefits** (2023)
    5 citations · Enhanced Weathering

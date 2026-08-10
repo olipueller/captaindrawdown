@@ -1,7 +1,7 @@
 ---
 title: "Grzegorz Gałko"
 description: "Grzegorz Gałko is a Mid-career Biochar researcher at Institute For Ecology of Industrial Areas in PL. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.043933
+date: 2026-08-11T01:33:11.918491
 url: "/cdr-researcher-census/researchers/grzegorz-gako-a5003508/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Perspectives of Using Sewage Sludge Char in CO2 Sequestration on Degraded and Brownfield Sites** (2023)
-   6 citations · Biochar
+   7 citations · Biochar
 
 2. **Evaluation of the Feasibility of Using TCR-Derived Chars from Selected Biomass Wastes and MSW Fractions in CO2 Sequestration on Degraded and Post-Industrial Areas** (2023)
    3 citations

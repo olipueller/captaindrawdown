@@ -1,7 +1,7 @@
 ---
 title: "Louise Olde"
 description: "Louise Olde is a Mid-career Soil Carbon researcher at Rothamsted Research in GB. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.876237
+date: 2026-08-11T01:33:11.777823
 url: "/cdr-researcher-census/researchers/louise-olde-a5069034/"
 layout: "researcher"
 hiddenInHomeList: true

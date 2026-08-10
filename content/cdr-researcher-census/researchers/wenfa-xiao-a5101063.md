@@ -1,7 +1,7 @@
 ---
 title: "Wenfa Xiao"
 description: "Wenfa Xiao is a Senior Soil Carbon researcher at China Three Gorges University in CN. With 166 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.139987
+date: 2026-08-11T01:33:11.117911
 url: "/cdr-researcher-census/researchers/wenfa-xiao-a5101063/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,19 +48,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Integrating ecosystem service trade-offs and rocky desertification into ecological security pattern construction in the Daning river basin of southwest China** (2022)
-   85 citations · General CDR
+   87 citations · General CDR
 
-2. **Climate, soil nutrients, and stand characteristics jointly determine large-scale patterns of biomass growth rates and allocation in Pinus massoniana plantations** (2021)
-   43 citations · Soil Carbon
+2. **Rotation age extension synergistically increases ecosystem carbon storage and timber production of Chinese fir plantations in southern China** (2022)
+   47 citations · Soil Carbon
 
-3. **Rotation age extension synergistically increases ecosystem carbon storage and timber production of Chinese fir plantations in southern China** (2022)
-   41 citations · Soil Carbon
+3. **Climate, soil nutrients, and stand characteristics jointly determine large-scale patterns of biomass growth rates and allocation in Pinus massoniana plantations** (2021)
+   44 citations · Soil Carbon
 
 4. **Urbanization Intensifies the Mismatch between the Supply and Demand of Regional Ecosystem Services: A Large-Scale Case of the Yangtze River Economic Belt in China** (2022)
    34 citations
 
 5. **Contrasting change patterns of lignin and microbial necromass carbon and the determinants in a chronosequence of subtropical Pinus massoniana plantations** (2024)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 6. **Soil microbial residue characteristics in Pinus massoniana lamb. Plantations** (2023)
    14 citations · Soil Carbon

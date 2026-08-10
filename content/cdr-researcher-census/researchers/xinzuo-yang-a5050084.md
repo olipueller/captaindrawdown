@@ -1,7 +1,7 @@
 ---
 title: "Xinzuo Yang"
 description: "Xinzuo Yang is a Mid-career Biochar researcher at Nankai University in CN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.064590
+date: 2026-08-11T01:33:11.958356
 url: "/cdr-researcher-census/researchers/xinzuo-yang-a5050084/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Silicon (Si) modification of biochars from different Si-bearing precursors improves cadmium remediation** (2022)
-   85 citations · Biochar
+   87 citations · Biochar
 
 2. **Mechanistic details of the removal of 2,4,6-trichlorophenol from aqueous solution by iron and nitrogen co-doped biochar: Characterization, performance, and mechanism studies** (2023)
    25 citations · Biochar

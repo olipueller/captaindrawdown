@@ -1,7 +1,7 @@
 ---
 title: "Courtney Hammond Wagner"
 description: "Courtney Hammond Wagner is a Mid-career Soil Carbon researcher at USDA Agricultural Research Service in US. With 39 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.366930
+date: 2026-08-11T01:33:11.326096
 url: "/cdr-researcher-census/researchers/courtney-hammond-wagner-a5013217/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Spatial mapping and predictive modeling of soil organic carbon stocks in Vermont agricultural lands using machine learning and environmental variables** (2025)
-   10 citations · General CDR
+   13 citations · General CDR
 
 2. **Market approaches to sequester soil organic carbon on farms: justifications and suggested transformations from embedded market actors** (2025)
    2 citations · General CDR

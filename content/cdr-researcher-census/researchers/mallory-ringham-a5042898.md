@@ -1,7 +1,7 @@
 ---
 title: "Mallory Ringham"
 description: "Mallory Ringham is a Mid-career Ocean CDR researcher at Carbon180 in US. With 30 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.988833
+date: 2026-08-11T01:33:11.866729
 url: "/cdr-researcher-census/researchers/mallory-ringham-a5042898/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **An assessment of ocean alkalinity enhancement using aqueous hydroxides: kinetics, efficiency, and precipitation thresholds** (2024)
-   27 citations · Ocean CDR
+   28 citations · Ocean CDR
 
 2. **Mixing and dilution controls on marine CO<sub>2</sub> removal using alkalinity enhancement** (2024)
    16 citations · Ocean CDR

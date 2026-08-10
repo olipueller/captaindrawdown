@@ -1,7 +1,7 @@
 ---
 title: "Hayder H. Abdullah"
 description: "Hayder H. Abdullah is a Mid-career Biochar researcher at Curtin University in AU. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.557094
+date: 2026-08-11T01:33:11.491183
 url: "/cdr-researcher-census/researchers/hayder-h-abdullah-a5090131/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Performance Study on Laterite Road Base Stabilised with Emulsions Incorporating Biochar** (2024)
-   3 citations · Biochar
+   4 citations · Biochar
 
 ## External Profiles
 

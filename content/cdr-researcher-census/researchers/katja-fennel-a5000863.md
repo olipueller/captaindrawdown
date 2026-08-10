@@ -1,7 +1,7 @@
 ---
 title: "Katja Fennel"
 description: "Katja Fennel is an Eminent Ocean CDR researcher at Dalhousie University in CA. With 358 publications and an h-index of 51, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.092004
+date: 2026-08-11T01:33:11.072793
 url: "/cdr-researcher-census/researchers/katja-fennel-a5000863/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Perspectives and challenges of marine carbon dioxide removal** (2025)
-   39 citations · General CDR
+   41 citations · General CDR
 
 2. **Modelling considerations for research on ocean alkalinity enhancement (OAE)** (2023)
-   37 citations · General CDR
+   38 citations · General CDR
 
 3. **Modeling considerations for research on Ocean Alkalinity Enhancement (OAE)** (2023)
    21 citations · General CDR
@@ -63,13 +63,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    10 citations · General CDR
 
 5. **The Verification Challenge of Marine Carbon Dioxide Removal** (2025)
-   7 citations · General CDR
+   8 citations · General CDR
 
 6. **Lethal by design? Guiding environmental assessments of ocean alkalinity enhancement toward realistic contextualization of the alkalinity perturbation** (2025)
    4 citations · General CDR
 
 7. **Data reporting and sharing for ocean alkalinity enhancement research** (2023)
-   3 citations · General CDR
+   4 citations · General CDR
 
 8. **Prospective site-specific life cycle assessment of ocean alkalinity enhancement** (2026)
    2 citations · General CDR

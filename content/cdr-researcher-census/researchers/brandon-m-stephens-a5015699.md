@@ -1,7 +1,7 @@
 ---
 title: "Brandon M. Stephens"
 description: "Brandon M. Stephens is a Senior Ocean CDR researcher at National Taiwan University in TW. With 50 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.300250
+date: 2026-08-11T01:33:11.267503
 url: "/cdr-researcher-census/researchers/brandon-m-stephens-a5015699/"
 layout: "researcher"
 hiddenInHomeList: true

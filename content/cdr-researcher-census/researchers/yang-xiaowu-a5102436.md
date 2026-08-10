@@ -1,7 +1,7 @@
 ---
 title: "Yang Xiaowu"
 description: "Yang Xiaowu is a Senior Soil Carbon researcher at North China University of Science and Technology in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.276149
+date: 2026-08-11T01:33:12.150201
 url: "/cdr-researcher-census/researchers/yang-xiaowu-a5102436/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Estimation of Soil Organic Carbon Content in Coastal Wetlands with Measured VIS-NIR Spectroscopy Using Optimized Support Vector Machines and Random Forests** (2022)
-   48 citations · Soil Carbon
+   49 citations · Soil Carbon
 
 ## External Profiles
 

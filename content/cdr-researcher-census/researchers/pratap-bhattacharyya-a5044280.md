@@ -1,7 +1,7 @@
 ---
 title: "Pratap Bhattacharyya"
 description: "Pratap Bhattacharyya is an Eminent Soil Carbon researcher at Central Rice Research Institute in IN. With 171 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.117566
+date: 2026-08-11T01:33:11.096772
 url: "/cdr-researcher-census/researchers/pratap-bhattacharyya-a5044280/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,19 +54,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    26 citations · Soil Carbon
 
 2. **Spatial variation of algal diversity due to conversion of mangrove to rice ecology in Sundarban, India** (2024)
-   10 citations
+   11 citations
 
 3. **Trade-off between soil aggregate stability and carbon decomposition under 44 years long-term integrated nutrient management in rice-wheat-jute system** (2021)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 4. **Harnessing the potential of microalgae for carbon sequestration to achieve net-zero emissions** (2025)
-   6 citations · Ocean CDR
+   8 citations · Ocean CDR
 
-5. **Impact of Conservation Agriculture on Greenhouse Gas Emission and Its Implications** (2021)
+5. **Comparative assessment of biomass, carbon storage and soil CO2 fluxes in degraded mangroves in the major estuarine gradients of the sundarban, India** (2025)
+   6 citations · Soil Carbon
+
+6. **Impact of Conservation Agriculture on Greenhouse Gas Emission and Its Implications** (2021)
    5 citations · General CDR
-
-6. **Comparative assessment of biomass, carbon storage and soil CO2 fluxes in degraded mangroves in the major estuarine gradients of the sundarban, India** (2025)
-   4 citations · Soil Carbon
 
 7. **Blue Carbon Sequestration Potential of Soils in Degraded Mangroves of Sundarban, India: A Geochemical Approach** (2025)
    1 citations · Soil Carbon
@@ -77,8 +77,8 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 9. **Carbon Dynamics and Greenhouse Gases Emissions in Coastal Agriculture: Mangrove-Rice Ecology in Sundarban, India** (2022)
    1 citations · Soil Carbon
 
-10. **Pricing of Soil and Water Conservation in Agriculture** (2022)
-   0 citations · General CDR
+10. **Identification of key carbon-fixation pathways and underlying genes for higher CO2 fixation of mangrove-associated microalgae** (2026)
+   0 citations
 
 ## External Profiles
 

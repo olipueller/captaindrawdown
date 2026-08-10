@@ -1,7 +1,7 @@
 ---
 title: "Maya Liyana Hamzah"
 description: "Maya Liyana Hamzah is a Mid-career Soil Carbon researcher. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.290450
+date: 2026-08-11T01:33:12.162036
 url: "/cdr-researcher-census/researchers/maya-liyana-hamzah-a5082781/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Total ecosystem blue carbon stocks and sequestration potential along a naturally regenerated mangrove forest chronosequence** (2022)
-   40 citations · Ocean CDR
+   42 citations · Ocean CDR
 
 2. **Total Ecosystem Blue Carbon Stocks and Sequestration Potential Along a Naturally Regenerated Mangrove Forest Chronosequence** (2022)
    4 citations · Soil Carbon

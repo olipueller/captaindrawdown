@@ -1,7 +1,7 @@
 ---
 title: "Light I. Nwobia"
 description: "Light I. Nwobia is a Mid-career BECCS researcher. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.088703
+date: 2026-08-11T01:33:11.980802
 url: "/cdr-researcher-census/researchers/light-i-nwobia-a5060172/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Advancing Decarbonisation through Sustainable Solid-State Digestate Management in Biogas Systems: Economic, Agronomic, and Environmental Implications** (2026)
-   0 citations · BECCS
+   1 citations · BECCS
 
 ## External Profiles
 

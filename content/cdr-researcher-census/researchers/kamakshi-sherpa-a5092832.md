@@ -1,7 +1,7 @@
 ---
 title: "Kamakshi Sherpa"
 description: "Kamakshi Sherpa is an Early-career Biochar researcher at National Kaohsiung University of Science and Technology. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.017033
+date: 2026-08-11T01:33:11.893133
 url: "/cdr-researcher-census/researchers/kamakshi-sherpa-a5092832/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar for soil remediation: A comprehensive review of current research on pollutant removal** (2023)
-   164 citations · Biochar
+   170 citations · Biochar
 
 ## External Profiles
 

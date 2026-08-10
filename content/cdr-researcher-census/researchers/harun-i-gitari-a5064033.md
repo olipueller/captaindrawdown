@@ -1,7 +1,7 @@
 ---
 title: "Harun I. Gitari"
 description: "Harun I. Gitari is a Senior Soil Carbon researcher at Kenyatta University in KE. With 134 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.137983
+date: 2026-08-11T01:33:11.116041
 url: "/cdr-researcher-census/researchers/harun-i-gitari-a5064033/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Cultivating sustainability: A comprehensive review on intercropping in a changing climate** (2023)
-   41 citations · General CDR
+   42 citations · General CDR
 
 2. **The nexus between intercropping systems, ecosystem services and sustainable agriculture: A review** (2025)
-   23 citations · Soil Carbon
+   27 citations · Soil Carbon
 
 3. **Ecosystem Services Through Agroforestry Systems and Its Sustainability** (2024)
-   18 citations · General CDR
+   21 citations · General CDR
 
 4. **Agroforestry: A Resource Conserving Technology for Efficient Utilization of Agricultural Inputs, Leads to Food and Environmental Security** (2024)
-   14 citations · General CDR
+   15 citations · General CDR
 
 5. **Revitalizing the Biochemical Soil Properties of Degraded Coastal Soil Using Prosopis juliflora Biochar** (2023)
-   14 citations · Biochar
+   15 citations · Biochar
 
 6. **Economic Viability and Market Prospects of Organic and Natural Farming in Climate-Resilient Agriculture** (2025)
    5 citations · General CDR

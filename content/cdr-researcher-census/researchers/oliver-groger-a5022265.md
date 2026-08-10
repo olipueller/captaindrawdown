@@ -1,7 +1,7 @@
 ---
 title: "Oliver Gröger"
 description: "Oliver Gröger is a Mid-career DAC researcher at Volkswagen Group (United States) in US. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.545674
+date: 2026-08-11T01:33:11.481112
 url: "/cdr-researcher-census/researchers/oliver-groger-a5022265/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Direct Air Capture of Carbon Dioxide into MFI Frameworks by Low‐Temperature Swing Under Realistic Humidity** (2025)
-   1 citations · DAC
+   2 citations · DAC
 
 ## External Profiles
 

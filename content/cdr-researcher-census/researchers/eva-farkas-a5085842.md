@@ -1,7 +1,7 @@
 ---
 title: "Éva Farkas"
 description: "Éva Farkas is a Mid-career Soil Carbon researcher at Norwegian Institute of Bioeconomy Research in NO. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.774928
+date: 2026-08-11T01:33:11.687856
 url: "/cdr-researcher-census/researchers/eva-farkas-a5085842/"
 layout: "researcher"
 hiddenInHomeList: true

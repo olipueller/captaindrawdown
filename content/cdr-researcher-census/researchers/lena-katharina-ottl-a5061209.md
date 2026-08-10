@@ -1,7 +1,7 @@
 ---
 title: "Lena Katharina Öttl"
 description: "Lena Katharina Öttl is a Mid-career Soil Carbon researcher. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.460809
+date: 2026-08-11T01:33:12.317219
 url: "/cdr-researcher-census/researchers/lena-katharina-ottl-a5061209/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Tillage erosion as an underestimated driver of carbon dynamics** (2024)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 ## External Profiles
 

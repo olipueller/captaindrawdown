@@ -1,7 +1,7 @@
 ---
 title: "Xueqing Ma"
 description: "Xueqing Ma is an Early-career General CDR researcher at China University of Petroleum, Beijing in CN. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.001276
+date: 2026-08-11T01:33:11.878673
 url: "/cdr-researcher-census/researchers/xueqing-ma-a5016169/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Accelerating carbon neutrality could help China's energy system align with below 1.5 °C** (2023)
-   41 citations · General CDR
+   42 citations · General CDR
 
 2. **Carbon assets alone are insufficient to sustain China’s agroforestry biomass power generation** (2025)
    3 citations · BECCS

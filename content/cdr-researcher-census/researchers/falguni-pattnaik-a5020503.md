@@ -1,7 +1,7 @@
 ---
 title: "Falguni Pattnaik"
 description: "Falguni Pattnaik is a Mid-career Biochar researcher at Dalhousie University in CA. With 43 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.287500
+date: 2026-08-11T01:33:11.255336
 url: "/cdr-researcher-census/researchers/falguni-pattnaik-a5020503/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A Review of Carbon Capture and Valorization Technologies** (2023)
-   74 citations · DAC
+   75 citations · DAC
 
 2. **Investigations of thermal effects during pyrolysis of agro-forestry biomass and physicochemical characterizations of biofuel products** (2024)
    16 citations · Biochar
 
-3. **KOH-Assisted Chemical Activation of Camelina Meal (Wild Flax) to Treat PFOA-Contaminated Wastewater** (2025)
+3. **Steam activation of camelina meal biochar to remediate PFOA-contaminated wastewater** (2025)
    4 citations · Biochar
 
-4. **Steam activation of camelina meal biochar to remediate PFOA-contaminated wastewater** (2025)
-   3 citations · Biochar
+4. **KOH-Assisted Chemical Activation of Camelina Meal (Wild Flax) to Treat PFOA-Contaminated Wastewater** (2025)
+   4 citations · Biochar
 
 5. **Oat Hull Valorization: Integrated Biofuel and Hydrochar Production via Hydrothermal Processing** (2026)
    0 citations · Biochar

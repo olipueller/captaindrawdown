@@ -1,7 +1,7 @@
 ---
 title: "Adelaide Munodawafa"
 description: "Adelaide Munodawafa is a Senior Biochar researcher at Midlands State University in ZW. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.685416
+date: 2026-08-11T01:33:11.606620
 url: "/cdr-researcher-census/researchers/adelaide-munodawafa-a5064840/"
 layout: "researcher"
 hiddenInHomeList: true

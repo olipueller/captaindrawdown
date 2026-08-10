@@ -1,7 +1,7 @@
 ---
 title: "Maria Gabriela Fontanetti Rodrigues"
 description: "Maria Gabriela Fontanetti Rodrigues is a Senior Enhanced Weathering researcher at Universidade Estadual Paulista (Unesp) in BR. With 64 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.150824
+date: 2026-08-11T01:33:12.038382
 url: "/cdr-researcher-census/researchers/maria-gabriela-fontanetti-rodrigues-a5076807/"
 layout: "researcher"
 hiddenInHomeList: true

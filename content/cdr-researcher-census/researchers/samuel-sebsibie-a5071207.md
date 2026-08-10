@@ -1,7 +1,7 @@
 ---
 title: "Samuel Sebsibie"
 description: "Samuel Sebsibie is a Mid-career General CDR researcher at University of Copenhagen in DK. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.434440
+date: 2026-08-11T01:33:12.292045
 url: "/cdr-researcher-census/researchers/samuel-sebsibie-a5071207/"
 layout: "researcher"
 hiddenInHomeList: true

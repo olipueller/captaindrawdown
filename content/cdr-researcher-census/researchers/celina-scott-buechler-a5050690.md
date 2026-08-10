@@ -1,7 +1,7 @@
 ---
 title: "Celina Scott-Buechler"
 description: "Celina Scott-Buechler is a Mid-career General CDR researcher at Duke University in US. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.135301
+date: 2026-08-11T01:33:12.024379
 url: "/cdr-researcher-census/researchers/celina-scott-buechler-a5050690/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    33 citations · DAC
 
 2. **Carbon removal for a just transition** (2024)
-   14 citations · General CDR
+   17 citations · General CDR
 
 3. **An earth system governance research agenda for carbon removal** (2024)
    12 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Somasundaram Jayaraman"
 description: "Somasundaram Jayaraman is a Senior Soil Carbon researcher at ICAR-Indian Institute of Soil and Water Conservation, Dehradun, India in IN. With 72 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.199707
+date: 2026-08-11T01:33:11.173735
 url: "/cdr-researcher-census/researchers/somasundaram-jayaraman-a5025981/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil Inorganic Carbon as a Potential Sink in Carbon Storage in Dryland Soils—A Review** (2022)
-   138 citations · Soil Carbon
+   142 citations · Soil Carbon
 
 2. **Nature‐based solutions in soil restoration for improving agricultural productivity** (2022)
-   61 citations · Soil Carbon
+   64 citations · Soil Carbon
 
 3. **No-till farming: prospects, challenges – productivity, soil health, and ecosystem services** (2022)
    24 citations · Soil Carbon
@@ -65,17 +65,17 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 5. **Soil Carbon Sequestration Through Conservation Tillage and Residue Management** (2021)
    5 citations · Soil Carbon
 
-6. **Soil Organic Carbon Sequestration and Turnover in Semi-Arid Tropics and Subtropics in Relation to Agronomic Yield and Sustainability** (2021)
+6. **Soil Carbon Sequestration and Agronomic Productivity as Influenced by the Long-Term Organic and Inorganic Fertilisation Under the Upland Rice–Wheat System in Vertisols of Central India** (2024)
    3 citations · Soil Carbon
 
-7. **Conservation Agriculture: Issues, Prospects, and Challenges in Rainfed Regions of India** (2021)
+7. **Soil Organic Carbon Sequestration and Turnover in Semi-Arid Tropics and Subtropics in Relation to Agronomic Yield and Sustainability** (2021)
    3 citations · Soil Carbon
 
-8. **Conservation Agriculture: Carbon Turnover and Carbon Sequestration for Enhancing Soil Sustainability and Mitigation of Climate Change** (2021)
+8. **Conservation Agriculture: Issues, Prospects, and Challenges in Rainfed Regions of India** (2021)
+   3 citations · Soil Carbon
+
+9. **Conservation Agriculture: Carbon Turnover and Carbon Sequestration for Enhancing Soil Sustainability and Mitigation of Climate Change** (2021)
    3 citations · General CDR
-
-9. **Soil Carbon Sequestration and Agronomic Productivity as Influenced by the Long-Term Organic and Inorganic Fertilisation Under the Upland Rice–Wheat System in Vertisols of Central India** (2024)
-   2 citations · Soil Carbon
 
 10. **Can Conservation Agriculture Deliver Its Benefits in Arid Soils?: An Overview** (2021)
    2 citations · General CDR

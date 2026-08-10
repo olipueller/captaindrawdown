@@ -1,7 +1,7 @@
 ---
 title: "Fengwei Ran"
 description: "Fengwei Ran is a Mid-career Soil Carbon researcher at Changsha University of Science and Technology in CN. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.828300
+date: 2026-08-11T01:33:11.734978
 url: "/cdr-researcher-census/researchers/fengwei-ran-a5007139/"
 layout: "researcher"
 hiddenInHomeList: true

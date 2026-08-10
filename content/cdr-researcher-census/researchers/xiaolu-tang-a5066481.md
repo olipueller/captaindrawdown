@@ -1,7 +1,7 @@
 ---
 title: "Xiaolu Tang"
 description: "Xiaolu Tang is a Senior Soil Carbon researcher at Chengdu University of Technology in CN. With 168 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.185322
+date: 2026-08-11T01:33:11.160037
 url: "/cdr-researcher-census/researchers/xiaolu-tang-a5066481/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Prediction of soil organic carbon stock combining Sentinel-1 and Sentinel-2 images in the Zoige Plateau, the northeastern Qinghai-Tibet Plateau** (2024)
-   23 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 2. **Subsoil organic carbon turnover is dominantly controlled by soil properties in grasslands across China** (2021)
    10 citations · Soil Carbon

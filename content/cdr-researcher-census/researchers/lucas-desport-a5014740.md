@@ -1,7 +1,7 @@
 ---
 title: "Lucas Desport"
 description: "Lucas Desport is a Mid-career General CDR researcher at Total (France) in FR. With 26 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.103739
+date: 2026-08-11T01:33:11.994535
 url: "/cdr-researcher-census/researchers/lucas-desport-a5014740/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    28 citations · DAC
 
 2. **Feasibility, conditions, and opportunities for achieving net-negative emissions in the global cement industry** (2024)
-   11 citations
+   13 citations
 
 3. **Deploying Direct Air Capture at Scale: How Close to Reality?** (2023)
    2 citations · DAC

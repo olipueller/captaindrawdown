@@ -1,7 +1,7 @@
 ---
 title: "Hongyi Li"
 description: "Hongyi Li is a Senior Soil Carbon researcher. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.988374
+date: 2026-08-11T01:33:11.866303
 url: "/cdr-researcher-census/researchers/hongyi-li-a5100413/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sabbie A. Miller"
 description: "Sabbie A. Miller is a Senior General CDR researcher at University of California, Davis in US. With 100 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.095029
+date: 2026-08-11T01:33:11.075400
 url: "/cdr-researcher-census/researchers/sabbie-a-miller-a5030953/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Building materials could store more than 16 billion tonnes of CO <sub>2</sub> annually** (2025)
-   89 citations · General CDR
+   97 citations · General CDR
 
 2. **The climate benefits from cement carbonation are being overestimated** (2024)
-   83 citations · DAC
+   91 citations · DAC
 
 3. **Meeting industrial decarbonization goals: a case study of and roadmap to a net-zero emissions cement industry in California** (2023)
    27 citations
@@ -63,7 +63,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    17 citations · Biochar
 
 5. **Uncertainty in determining carbon dioxide removal potential of biochar** (2024)
-   8 citations · Biochar
+   9 citations · Biochar
 
 6. **A review of carbon dioxide removal through concrete carbonation: key parameters and life cycle assessment** (2026)
    0 citations · General CDR

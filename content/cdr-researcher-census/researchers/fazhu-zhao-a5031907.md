@@ -1,7 +1,7 @@
 ---
 title: "Fazhu Zhao"
 description: "Fazhu Zhao is a Senior Soil Carbon researcher at Northwest University in CN. With 103 publications and an h-index of 39, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.116600
+date: 2026-08-11T01:33:11.095864
 url: "/cdr-researcher-census/researchers/fazhu-zhao-a5031907/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The biogeography of soil microbiome potential growth rates** (2024)
-   60 citations
+   64 citations
 
 2. **Cover cropping promotes soil carbon sequestration by enhancing microaggregate-protected and mineral-associated carbon** (2023)
-   29 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 3. **Long-Term Chemical and Organic Fertilization Differently Affect Soil Aggregates and Associated Carbon and Nitrogen in the Loess Plateau of China** (2023)
    15 citations · Soil Carbon
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    6 citations · Soil Carbon
 
 5. **Mulching practices decreased soil microbial carbon degradation potential under spring maize in the Loess Plateau of China** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 6. **Effects of long-term diversified crop rotations on soil carbon dynamics mediated by microbial carbon degradation genes in the Loess Plateau** (2026)
    2 citations · Soil Carbon

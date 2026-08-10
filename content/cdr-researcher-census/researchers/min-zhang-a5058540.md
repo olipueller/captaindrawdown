@@ -1,7 +1,7 @@
 ---
 title: "Min Zhang"
 description: "Min Zhang is a Senior Soil Carbon researcher at China Tobacco in CN. With 58 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.278841
+date: 2026-08-11T01:33:11.247113
 url: "/cdr-researcher-census/researchers/min-zhang-a5058540/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil microbial trait-based strategies drive the storage and stability of the soil carbon pool in Robinia pseudoacacia plantations** (2022)
-   35 citations · Soil Carbon
+   36 citations · Soil Carbon
 
 2. **Nonlinear response of soil organic carbon sequestration to deadwood decomposition in a subtropical–temperate ecotonal forest** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 3. **Coniferous Deadwood Decomposition Improves Soil Organic Carbon Storage in a Temperate Forest** (2023)
    0 citations · Soil Carbon

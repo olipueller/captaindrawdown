@@ -1,7 +1,7 @@
 ---
 title: "Weiwei Huan"
 description: "Weiwei Huan is a Mid-career Biochar researcher at University of Chinese Academy of Sciences in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.893859
+date: 2026-08-11T01:33:11.793748
 url: "/cdr-researcher-census/researchers/weiwei-huan-a5037991/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Effects of straw incorporation and potassium fertilizer on crop yields, soil organic carbon, and active carbon in the rice–wheat system** (2021)
-   133 citations · Soil Carbon
+   134 citations · Soil Carbon
 
 2. **Exogenous organic matter modulates cadmium uptake in rice (Oryza sativa L.): Linking root surface chemistry to metal translocation and tolerance** (2026)
    1 citations · Biochar

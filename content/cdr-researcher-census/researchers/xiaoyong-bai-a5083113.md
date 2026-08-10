@@ -1,7 +1,7 @@
 ---
 title: "Xiaoyong Bai"
 description: "Xiaoyong Bai is an Eminent Soil Carbon researcher at Guizhou University in CN. With 134 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.123874
+date: 2026-08-11T01:33:11.102596
 url: "/cdr-researcher-census/researchers/xiaoyong-bai-a5083113/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Storage, form, and influencing factors of karst inorganic carbon in a carbonate area in China** (2024)
-   59 citations
+   60 citations
 
 2. **Climate change has enhanced the positive contribution of rock weathering to the major ions in riverine transport** (2023)
-   46 citations · Enhanced Weathering
+   48 citations · Enhanced Weathering
 
 3. **Unexpected response of terrestrial carbon sink to rural depopulation in China** (2024)
-   41 citations · Soil Carbon
+   42 citations · Soil Carbon
 
 4. **Assessment of carbon sinks caused by the chemical weathering of carbonate rocks under the influence of exogenous acids: Methods, progress, and prospects** (2025)
-   29 citations · Enhanced Weathering
+   32 citations · Enhanced Weathering
 
 5. **Vegetation restoration promotes soil carbon stability by enhancing mineral-associated organic carbon and microbial necromass accumulation in karst ecosystems** (2025)
    6 citations · Soil Carbon

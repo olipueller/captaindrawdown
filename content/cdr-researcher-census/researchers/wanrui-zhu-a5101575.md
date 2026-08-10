@@ -1,7 +1,7 @@
 ---
 title: "Wanrui Zhu"
 description: "Wanrui Zhu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.141990
+date: 2026-08-11T01:33:12.030703
 url: "/cdr-researcher-census/researchers/wanrui-zhu-a5101575/"
 layout: "researcher"
 hiddenInHomeList: true

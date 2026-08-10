@@ -1,7 +1,7 @@
 ---
 title: "Meilin Du"
 description: "Meilin Du is a Mid-career Soil Carbon researcher at Sichuan Agricultural University in CN. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.108772
+date: 2026-08-11T01:33:11.999368
 url: "/cdr-researcher-census/researchers/meilin-du-a5050511/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Microbial necromass under global change and implications for soil organic matter** (2023)
-   155 citations · Soil Carbon
+   159 citations · Soil Carbon
 
 ## External Profiles
 

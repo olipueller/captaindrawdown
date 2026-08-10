@@ -1,7 +1,7 @@
 ---
 title: "Xingyu Wang"
 description: "Xingyu Wang is a Mid-career Soil Carbon researcher at South China Agricultural University in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.058076
+date: 2026-08-11T01:33:11.931983
 url: "/cdr-researcher-census/researchers/xingyu-wang-a5054319/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Annual greenhouse gas emissions from a rice paddy with different water-nitrogen management strategies in Central China** (2023)
-   27 citations · Soil Carbon
+   31 citations · Soil Carbon
 
 ## External Profiles
 

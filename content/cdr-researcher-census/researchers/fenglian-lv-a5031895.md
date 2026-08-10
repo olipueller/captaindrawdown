@@ -1,7 +1,7 @@
 ---
 title: "Fenglian Lv"
 description: "Fenglian Lv is a Mid-career Soil Carbon researcher at Changzhi University in CN. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.427056
+date: 2026-08-11T01:33:11.379215
 url: "/cdr-researcher-census/researchers/fenglian-lv-a5031895/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Manure replacing synthetic fertilizer improves crop yield sustainability and reduces carbon footprint under winter wheat–summer maize cropping system** (2024)
-   33 citations · Soil Carbon
+   36 citations · Soil Carbon
 
 2. **Manure Replacing Synthetic Fertilizer Improves Crop Yield Sustainability and Reduces the Carbon Footprint Under a Double Cropping System** (2023)
    0 citations

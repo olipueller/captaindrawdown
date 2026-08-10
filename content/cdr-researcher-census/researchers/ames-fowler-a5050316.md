@@ -1,7 +1,7 @@
 ---
 title: "Ames Fowler"
 description: "Ames Fowler is a Mid-career General CDR researcher at University of Liège in BE. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.131614
+date: 2026-08-11T01:33:12.020986
 url: "/cdr-researcher-census/researchers/ames-fowler-a5050316/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Roads to Removal: Options for Carbon Dioxide Removal in the United States** (2023)
-   60 citations · General CDR
+   61 citations · General CDR
 
 2. **A multi model ensemble reveals net climate benefits from regenerative practices in US Midwest croplands** (2025)
    15 citations · General CDR

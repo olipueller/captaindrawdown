@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Tanvir Arifin"
 description: "Mohammad Tanvir Arifin is an Early-career Biochar researcher at Bangladesh University of Engineering and Technology in BD. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.486971
+date: 2026-08-11T01:33:12.341165
 url: "/cdr-researcher-census/researchers/mohammad-tanvir-arifin-a5051325/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Chitosan-ZnO decorated Moringa oleifera seed biochar for sequestration of methylene blue: Isotherms, kinetics, and response surface analysis** (2022)
-   48 citations · Biochar
+   49 citations · Biochar
 
 ## External Profiles
 

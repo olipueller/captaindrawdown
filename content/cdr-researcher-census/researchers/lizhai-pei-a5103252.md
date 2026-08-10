@@ -1,7 +1,7 @@
 ---
 title: "Lizhai Pei"
 description: "Lizhai Pei is a Mid-career Biochar researcher at National University of Singapore in SG. With 39 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.389452
+date: 2026-08-11T01:33:12.251221
 url: "/cdr-researcher-census/researchers/lizhai-pei-a5103252/"
 layout: "researcher"
 hiddenInHomeList: true

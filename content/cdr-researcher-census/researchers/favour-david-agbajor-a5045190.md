@@ -1,7 +1,7 @@
 ---
 title: "Favour David Agbajor"
 description: "Favour David Agbajor is a Mid-career General CDR researcher. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.655206
+date: 2026-08-11T01:33:11.579974
 url: "/cdr-researcher-census/researchers/favour-david-agbajor-a5045190/"
 layout: "researcher"
 hiddenInHomeList: true

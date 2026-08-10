@@ -1,7 +1,7 @@
 ---
 title: "Xiao-Xuan Du"
 description: "Xiao-Xuan Du is a Mid-career Soil Carbon researcher at Kyungpook National University in KR. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.012955
+date: 2026-08-11T01:33:11.889482
 url: "/cdr-researcher-census/researchers/xiao-xuan-du-a5016066/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    27 citations · Soil Carbon
 
 2. **From Microbial Functions to Measurable Indicators: A Framework for Predicting Grassland Productivity and Stability** (2025)
-   6 citations · General CDR
+   8 citations · General CDR
 
 ## External Profiles
 

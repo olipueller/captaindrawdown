@@ -1,7 +1,7 @@
 ---
 title: "Ehsan Sarlaki"
 description: "Ehsan Sarlaki is a Mid-career Biochar researcher at University of Tehran in IR. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.610651
+date: 2026-08-11T01:33:11.539507
 url: "/cdr-researcher-census/researchers/ehsan-sarlaki-a5020787/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Advances and challenges in humic acid production technologies from natural carbonaceous material wastes** (2024)
-   71 citations
+   72 citations
 
 2. **Progress and challenges in thermochemical technologies for biomass humification: A comprehensive review** (2026)
-   3 citations · Biochar
+   4 citations · Biochar
 
 3. **CAN HYDROTHERMAL BIOMASS PROCESSING SERVE AS AN ANALOGUE OF MILLENNIA-SCALE NATURAL CARBON MATURATION? A UNIFIED PERSPECTIVE ON CARBONISATION, HUMIFICATION, AND FULVIFICATION** (2026)
    1 citations · Biochar

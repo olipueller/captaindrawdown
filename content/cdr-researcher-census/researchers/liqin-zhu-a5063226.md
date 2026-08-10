@@ -1,7 +1,7 @@
 ---
 title: "Liqin Zhu"
 description: "Liqin Zhu is a Senior Soil Carbon researcher at Fujian Normal University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.414409
+date: 2026-08-11T01:33:12.273741
 url: "/cdr-researcher-census/researchers/liqin-zhu-a5063226/"
 layout: "researcher"
 hiddenInHomeList: true

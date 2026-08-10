@@ -1,7 +1,7 @@
 ---
 title: "Joyce Arabian"
 description: "Joyce Arabian is a Mid-career Soil Carbon researcher at Geospatial Research (United Kingdom) in GB. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.441222
+date: 2026-08-11T01:33:11.391292
 url: "/cdr-researcher-census/researchers/joyce-arabian-a5113883/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Large scale mapping of soil organic carbon concentration with 3D machine learning and satellite observations** (2021)
-   130 citations · Soil Carbon
+   132 citations · Soil Carbon
 
 ## External Profiles
 

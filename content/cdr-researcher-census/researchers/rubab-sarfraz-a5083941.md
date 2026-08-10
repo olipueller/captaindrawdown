@@ -1,7 +1,7 @@
 ---
 title: "Rubab Sarfraz"
 description: "Rubab Sarfraz is a Senior Biochar researcher. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.374632
+date: 2026-08-11T01:33:11.333041
 url: "/cdr-researcher-census/researchers/rubab-sarfraz-a5083941/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Advancements in modified biochar production techniques and soil application: a critical review** (2025)
-   40 citations · Biochar
+   45 citations · Biochar
 
 2. **Potential of mycorrhizal fungi in soil C sequestration under climate change scenario: current research and prospects** (2025)
    2 citations · Soil Carbon

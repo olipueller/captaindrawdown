@@ -1,7 +1,7 @@
 ---
 title: "Simon Angombe"
 description: "Simon Angombe is a Mid-career Soil Carbon researcher at University of Namibia in NA. With 36 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.207796
+date: 2026-08-11T01:33:12.090012
 url: "/cdr-researcher-census/researchers/simon-angombe-a5040809/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Conservation with elevated elephant densities sequesters carbon in soils despite losses of woody biomass** (2021)
-   48 citations · Soil Carbon
+   50 citations · Soil Carbon
 
 2. **The effect of water deficit and livestock stocking density on soil organic carbon stocks in Namibia** (2021)
    6 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "George J. Fulham"
 description: "George J. Fulham is an Early-career DAC researcher at University of Cambridge in GB. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.534768
+date: 2026-08-11T01:33:12.385409
 url: "/cdr-researcher-census/researchers/george-j-fulham-a5084498/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Managing intermittency of renewable power in sustainable production of methanol, coupled with direct air capture** (2024)
-   41 citations · DAC
+   50 citations · DAC
 
 2. **Studies on the Conversion of Atmospheric Carbon Dioxide to Methanol** (2025)
    0 citations · DAC

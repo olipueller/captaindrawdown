@@ -1,7 +1,7 @@
 ---
 title: "Christiane Hennig"
 description: "Christiane Hennig is a Mid-career BECCS researcher at Deutsches Biomasseforschungszentrum in DE. With 40 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.504322
+date: 2026-08-11T01:33:11.444352
 url: "/cdr-researcher-census/researchers/christiane-hennig-a5045674/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,10 +50,10 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 1. **Defining bioenergy system services to accelerate the integration of bioenergy into a low‐carbon economy** (2024)
    8 citations · BECCS
 
-2. **Bioenergy with carbon capture and storage/utilization (BECCUS)** (2026)
-   0 citations · BECCS
+2. **Cascading wood use into bioenergy with carbon capture and storage ensures continuous and enduring temperature reduction** (2026)
+   1 citations · BECCS
 
-3. **Cascading wood use into bioenergy with carbon capture and storage ensures continuous and enduring temperature reduction** (2026)
+3. **Bioenergy with carbon capture and storage/utilization (BECCUS)** (2026)
    0 citations · BECCS
 
 4. **Bioenergy with carbon capture and storage or utilization (BECCUS): From innovation to deployment** (2024)

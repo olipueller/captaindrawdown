@@ -1,7 +1,7 @@
 ---
 title: "Soh Sugihara"
 description: "Soh Sugihara is a Senior Soil Carbon researcher at Tokyo University of Agriculture and Technology in JP. With 98 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.333814
+date: 2026-08-11T01:33:11.297757
 url: "/cdr-researcher-census/researchers/soh-sugihara-a5022325/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,13 +54,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    25 citations · Soil Carbon
 
 2. **No Tillage Increases SOM in Labile Fraction but Not Stable Fraction of Andosols from a Long-Term Experiment in Japan** (2022)
-   17 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 3. **Controls on soil organic carbon across soil depths in tropical and temperate non-volcanic regions** (2025)
    6 citations · Soil Carbon
 
 4. **Long-term NPK fertilization enhances microbial carbon use efficiency in Andosols by alleviating P limitation and shifting microbial strategies** (2025)
-   3 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 5. **Quantifying the dynamics of <i>Miscanthus</i> × <i>giganteus</i> belowground biomass and soil carbon and nitrogen stocks for three years of cultivation on Andosols, Iwate, Japan** (2025)
    2 citations

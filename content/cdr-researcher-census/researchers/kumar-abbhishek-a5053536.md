@@ -1,7 +1,7 @@
 ---
 title: "Kumar Abbhishek"
 description: "Kumar Abbhishek is a Mid-career Soil Carbon researcher at Dr. Reddy's Foundation in IN. With 24 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.658509
+date: 2026-08-11T01:33:11.582718
 url: "/cdr-researcher-census/researchers/kumar-abbhishek-a5053536/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    10 citations · Soil Carbon
 
 2. **Biochar‐based nutrient management as a futuristic scalable strategy for C‐sequestration in semiarid tropics** (2023)
-   7 citations · Biochar
+   8 citations · Biochar
 
 3. **Consortium of Management Practices in Long-Run Improves Soil Fertility and Carbon Sequestration in Drylands of Semi-Arid Tropics** (2023)
    4 citations · Soil Carbon

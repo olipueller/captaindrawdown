@@ -1,7 +1,7 @@
 ---
 title: "Marine Herrmann"
 description: "Marine Herrmann is an Early-career Biochar researcher at Centre National de la Recherche Scientifique in FR. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.526491
+date: 2026-08-11T01:33:12.377843
 url: "/cdr-researcher-census/researchers/marine-herrmann-a5062698/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Preparation and Characterization of Biochar Derived from Agricultural By-Products for Dye Removal** (2021)
-   54 citations · Biochar
+   58 citations · Biochar
 
 ## External Profiles
 

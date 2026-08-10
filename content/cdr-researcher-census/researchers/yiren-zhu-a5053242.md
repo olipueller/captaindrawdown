@@ -1,7 +1,7 @@
 ---
 title: "Yiren Zhu"
 description: "Yiren Zhu is an Early-career Soil Carbon researcher at University of Warwick in GB. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.401483
+date: 2026-08-11T01:33:12.261915
 url: "/cdr-researcher-census/researchers/yiren-zhu-a5053242/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · Soil Carbon
 
 2. **Estimating microbial necromass contribution to mineral-associated organic matter: comparison of stoichiometric and biomarker methods** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 3. **Soil Organic Carbon Stock, Source, and Stability after 20-Year Mangrove Afforestation in Southern China** (2023)
    1 citations · Soil Carbon

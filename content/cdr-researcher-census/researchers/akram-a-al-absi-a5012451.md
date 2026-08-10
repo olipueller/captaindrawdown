@@ -1,7 +1,7 @@
 ---
 title: "Akram A. Al-Absi"
 description: "Akram A. Al-Absi is a Mid-career DAC researcher at University of Calgary in CA. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.508896
+date: 2026-08-11T01:33:11.448550
 url: "/cdr-researcher-census/researchers/akram-a-al-absi-a5012451/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -63,7 +63,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    26 citations · General CDR
 
 5. **Review of polyethylenimine through ring-opening polymerization reactions and its application in CO2 capture** (2024)
-   20 citations
+   21 citations
 
 6. **Co2 Capture Using In-Situ Polymerized Amines into Pore-Expanded-Sba-15: Performance Evaluation, Kinetics, and Adsorption Isotherms** (2022)
    5 citations · DAC

@@ -1,7 +1,7 @@
 ---
 title: "Xintan Zhang"
 description: "Xintan Zhang is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.917005
+date: 2026-08-11T01:33:11.814877
 url: "/cdr-researcher-census/researchers/xintan-zhang-a5061647/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of tillage on soil organic carbon and crop yield under straw return** (2023)
-   115 citations · Soil Carbon
+   117 citations · Soil Carbon
 
 2. **Trade-off between organic and inorganic carbon in soils under alfalfa-grass-cropland rotation** (2025)
    1 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "José Monteza"
 description: "José Monteza is a Senior Soil Carbon researcher at Smithsonian Tropical Research Institute in PA. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.560896
+date: 2026-08-11T01:33:12.406799
 url: "/cdr-researcher-census/researchers/jose-monteza-a5067785/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Tree Diversity Increases Carbon Stocks and Fluxes Above—But Not Belowground in a Tropical Forest Experiment** (2025)
-   18 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 2. **Tree diversity increases carbon stocks and fluxes above- but not belowground in a tropical forest experiment** (2024)
    1 citations · General CDR

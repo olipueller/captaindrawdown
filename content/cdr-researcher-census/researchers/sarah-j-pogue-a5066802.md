@@ -1,7 +1,7 @@
 ---
 title: "Sarah J. Pogue"
 description: "Sarah J. Pogue is a Mid-career General CDR researcher at Agriculture and Agri-Food Canada in CA. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.931395
+date: 2026-08-11T01:33:11.827688
 url: "/cdr-researcher-census/researchers/sarah-j-pogue-a5066802/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Hongtao Jia"
 description: "Hongtao Jia is a Senior Soil Carbon researcher at College of Grassland and Environment Science, Xinjiang Agricultural University in CN. With 81 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.211459
+date: 2026-08-11T01:33:11.184604
 url: "/cdr-researcher-census/researchers/hongtao-jia-a5063286/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    60 citations · Soil Carbon
 
 2. **Grassland degradation-induced soil organic carbon loss associated with micro-food web simplification** (2024)
-   28 citations · Soil Carbon
+   29 citations · Soil Carbon
 
 3. **Grazing and reclamation-induced microbiome alterations drive organic carbon stability within soil aggregates in alpine steppes** (2023)
    27 citations · Soil Carbon

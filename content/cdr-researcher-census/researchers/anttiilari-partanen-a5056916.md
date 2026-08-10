@@ -1,7 +1,7 @@
 ---
 title: "Antti‐Ilari Partanen"
 description: "Antti‐Ilari Partanen is a Senior General CDR researcher at Finnish Meteorological Institute in FI. With 115 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.241278
+date: 2026-08-11T01:33:11.212536
 url: "/cdr-researcher-census/researchers/anttiilari-partanen-a5056916/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Prudent carbon dioxide removal strategies hedge against high climate sensitivity** (2024)
-   9 citations · General CDR
+   10 citations · General CDR
 
 2. **Efficacy of individual and combined terrestrial and marine carbon dioxide removal** (2025)
    2 citations · BECCS
@@ -59,19 +59,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 3. **Material to reproduce "The coupled uncertainties in carbon dioxide removal and transient climate response to cumulative CO2 emissions". Di Natale et al. 2025** (2025)
    1 citations
 
-4. **The impacts of ocean- and land-based Carbon Dioxide Removal on Planetary Boundaries** (2026)
-   0 citations · General CDR
+4. **The coupled uncertainties in carbon dioxide removal and transient climate response to cumulative CO <sub>2</sub> emissions** (2025)
+   1 citations · General CDR
 
-5. **Material to reproduce "The coupled uncertainties in carbon dioxide removal and transient climate response to cumulative CO2 emissions". Di Natale et al. 2025** (2025)
-   0 citations
+5. **The impacts of ocean- and land-based Carbon Dioxide Removal on Planetary Boundaries** (2026)
+   0 citations · General CDR
 
 6. **Material to reproduce "The coupled uncertainties in carbon dioxide removal and transient climate response to cumulative CO2 emissions". Di Natale et al. 2025** (2025)
    0 citations
 
 7. **Material to reproduce "The coupled uncertainties in carbon dioxide removal and transient climate response to cumulative CO2 emissions". Di Natale et al. 2025** (2025)
-   0 citations · General CDR
+   0 citations
 
-8. **The coupled uncertainties in carbon dioxide removal and transient climate response to cumulative CO <sub>2</sub> emissions** (2025)
+8. **Material to reproduce "The coupled uncertainties in carbon dioxide removal and transient climate response to cumulative CO2 emissions". Di Natale et al. 2025** (2025)
    0 citations · General CDR
 
 9. **Sensitivity of global land-based mitigation potential to land-use scenarios and interactions across sectors** (2025)

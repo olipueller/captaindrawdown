@@ -1,7 +1,7 @@
 ---
 title: "Zezhen Pan"
 description: "Zezhen Pan is a Senior Biochar researcher at Washington University in St. Louis in US. With 87 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.171214
+date: 2026-08-11T01:33:11.147209
 url: "/cdr-researcher-census/researchers/zezhen-pan-a5019091/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Microbially Driven Iron Cycling Facilitates Organic Carbon Accrual in Decadal Biochar-Amended Soil** (2024)
-   69 citations · Biochar
+   72 citations · Biochar
 
 2. **The preferential preservation of both different minerals and polyethylene microplastics on aromatic or aliphatic carbon fractions within low or high pyrolysis temperature biochar under mineralization** (2022)
-   7 citations · Biochar
+   8 citations · Biochar
 
 3. **Biochar and straw application reshape organic carbon pool via altering soil carbon pump function based on a decadal field experiment** (2025)
-   6 citations · Biochar
+   7 citations · Biochar
 
 4. **Long-Term Flooding Mitigates the Linkage between Paddy Soil Organic Carbon Sink and Climate Factors** (2024)
    2 citations · Soil Carbon

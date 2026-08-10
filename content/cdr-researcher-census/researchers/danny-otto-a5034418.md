@@ -1,7 +1,7 @@
 ---
 title: "Danny Otto"
 description: "Danny Otto is a Mid-career General CDR researcher. With 44 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.663670
+date: 2026-08-11T01:33:11.587901
 url: "/cdr-researcher-census/researchers/danny-otto-a5034418/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Let Us Get Regional: Exploring Prospects for Biomass-Based Carbon Dioxide Removal on the Ground** (2024)
-   6 citations · General CDR
+   7 citations · General CDR
 
 2. **Scenario Storylines for Carbon Dioxide Removal in Germany: Drawing From Regional Perspectives** (2025)
    3 citations · BECCS

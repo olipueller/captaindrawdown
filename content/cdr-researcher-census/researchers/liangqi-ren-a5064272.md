@@ -1,7 +1,7 @@
 ---
 title: "Liangqi Ren"
 description: "Liangqi Ren is a Mid-career Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.324625
+date: 2026-08-11T01:33:12.192182
 url: "/cdr-researcher-census/researchers/liangqi-ren-a5064272/"
 layout: "researcher"
 hiddenInHomeList: true

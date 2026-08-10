@@ -1,7 +1,7 @@
 ---
 title: "Anjiang Gao"
 description: "Anjiang Gao is a Mid-career Biochar researcher at Nanjing Forestry University in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.365543
+date: 2026-08-11T01:33:11.325036
 url: "/cdr-researcher-census/researchers/anjiang-gao-a5056369/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Oxidative pyrolysis of poplar sawdust: Probing the influence of oxidation reactions on property of biochar** (2024)
-   15 citations · Biochar
+   16 citations · Biochar
 
 ## External Profiles
 

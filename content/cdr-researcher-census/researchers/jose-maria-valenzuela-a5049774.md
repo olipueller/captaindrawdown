@@ -1,7 +1,7 @@
 ---
 title: "José María Valenzuela"
 description: "José María Valenzuela is a Mid-career General CDR researcher at El Colegio de México in MX. With 30 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.095402
+date: 2026-08-11T01:33:11.987312
 url: "/cdr-researcher-census/researchers/jose-maria-valenzuela-a5049774/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Broaden Research on Ocean Alkalinity Enhancement to Better Characterize Social Impacts** (2023)
-   34 citations · General CDR
+   35 citations · General CDR
 
 2. **An earth system governance research agenda for carbon removal** (2024)
    12 citations · General CDR

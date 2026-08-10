@@ -1,7 +1,7 @@
 ---
 title: "Tiehu He"
 description: "Tiehu He is a Mid-career Soil Carbon researcher at Institute of soil science, Chinese academy of Sciences in CN. With 34 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.253943
+date: 2026-08-11T01:33:11.224143
 url: "/cdr-researcher-census/researchers/tiehu-he-a5062800/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,10 +53,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Long-Term Compost Amendment Spurs Cellulose Decomposition by Driving Shifts in Fungal Community Composition and Promoting Fungal Diversity and Phylogenetic Relatedness** (2022)
    20 citations · Soil Carbon
 
-2. **Ecological multifunctionality of watersheds increases with tree species richness** (2026)
+2. **Divergent stabilization pathways shape soil carbon sequestration efficiency in restored forests and grasslands** (2026)
+   0 citations · Soil Carbon
+
+3. **Ecological multifunctionality of watersheds increases with tree species richness** (2026)
    0 citations
 
-3. **Seeding pioneer trees to restore lands with varying degrees of degradation: biomass accumulation and carbon fixation** (2025)
+4. **Seeding pioneer trees to restore lands with varying degrees of degradation: biomass accumulation and carbon fixation** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

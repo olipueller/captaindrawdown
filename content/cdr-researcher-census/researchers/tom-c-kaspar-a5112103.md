@@ -1,7 +1,7 @@
 ---
 title: "Tom C. Kaspar"
 description: "Tom C. Kaspar is a Senior BECCS researcher at National Laboratory for Agriculture and the Environment in US. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.801461
+date: 2026-08-11T01:33:11.711465
 url: "/cdr-researcher-census/researchers/tom-c-kaspar-a5112103/"
 layout: "researcher"
 hiddenInHomeList: true

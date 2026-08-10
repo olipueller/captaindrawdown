@@ -1,7 +1,7 @@
 ---
 title: "Ashim Datta"
 description: "Ashim Datta is a Senior Soil Carbon researcher at Central Soil Salinity Research Institute in IN. With 98 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.146131
+date: 2026-08-11T01:33:11.123696
 url: "/cdr-researcher-census/researchers/ashim-datta-a5051541/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon sequestration potential, challenges, and strategies towards climate action in smallholder agricultural systems of South Asia** (2022)
-   102 citations · Soil Carbon
+   104 citations · Soil Carbon
 
 2. **Stability of humic acid carbon under conservation agriculture practices** (2021)
-   38 citations · Soil Carbon
+   39 citations · Soil Carbon
 
 3. **Distribution of sequestered carbon in different pools in Alfisols under long-term groundnut system of hot arid region of India** (2022)
-   18 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 4. **Soil Carbon Sequestration for Soil Quality Improvement and Climate Change Mitigation** (2021)
    7 citations · General CDR

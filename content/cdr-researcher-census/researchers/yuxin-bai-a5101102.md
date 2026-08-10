@@ -1,7 +1,7 @@
 ---
 title: "Yuxin Bai"
 description: "Yuxin Bai is a Senior Biochar researcher at North West Agriculture and Forestry University in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.236449
+date: 2026-08-11T01:33:12.116176
 url: "/cdr-researcher-census/researchers/yuxin-bai-a5101102/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,13 +48,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Impact of straw-biochar amendments on microbial activity and soil carbon dynamics in wheat-maize system** (2024)
-   44 citations · Biochar
+   45 citations · Biochar
 
 2. **Toward Low-Emission Agriculture: Synergistic Contribution of Inorganic Nitrogen and Organic Fertilizers to GHG Emissions and Strategies for Mitigation** (2025)
-   11 citations
+   13 citations
 
 3. **Potential relationships between greenhouse gas emissions and soil physicochemical properties in summer maize field with straw-biochar amendment** (2025)
-   6 citations · Biochar
+   7 citations · Biochar
 
 ## External Profiles
 

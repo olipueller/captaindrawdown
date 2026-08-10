@@ -1,7 +1,7 @@
 ---
 title: "M. Virginia Pravia"
 description: "M. Virginia Pravia is a Mid-career Soil Carbon researcher at Instituto Nacional de Investigación Agropecuaria in UY. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.290103
+date: 2026-08-11T01:33:12.161736
 url: "/cdr-researcher-census/researchers/m-virginia-pravia-a5088899/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon stocks and potential sequestration of Uruguayan soils: a road map to a comprehensive characterization of temporal and spatial changes to assess carbon footprint** (2023)
-   27 citations · Soil Carbon
+   28 citations · Soil Carbon
 
 2. **Irrigated rice rotations affect yield and soil organic carbon sequestration in temperate South America** (2021)
    16 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Jinhong Huang"
 description: "Jinhong Huang is a Mid-career Soil Carbon researcher at Guangdong Ocean University in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.974176
+date: 2026-08-11T01:33:11.853141
 url: "/cdr-researcher-census/researchers/jinhong-huang-a5113836/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Integrating fractional-order derivatives of soil and leaf hyperspectral reflectance for improved estimation of mangrove soil organic carbon** (2025)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Zhou Shen"
 description: "Zhou Shen is a Mid-career General CDR researcher at Nankai University in CN. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.839008
+date: 2026-08-11T01:33:11.744268
 url: "/cdr-researcher-census/researchers/zhou-shen-a5063784/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **A cross-scale study on the relationship between urban expansion and ecosystem services in China** (2022)
-   39 citations · General CDR
+   43 citations · General CDR
 
 2. **From hemp grown on carbon-vulnerable lands to long-lasting bio-based products: Uncovering trade-offs between overall environmental impacts, sequestration in soil, and dynamic influences on global temperature** (2022)
-   36 citations · Biochar
+   38 citations · Biochar
 
 3. **Simultaneous carbon storage in arable land and anthropogenic products (CSAAP): Demonstrating an integrated concept towards well below 2°C** (2022)
    18 citations · General CDR

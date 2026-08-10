@@ -1,7 +1,7 @@
 ---
 title: "Changxun Yu"
 description: "Changxun Yu is a Senior Soil Carbon researcher at Linnaeus University in SE. With 94 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.184719
+date: 2026-08-11T01:33:11.159428
 url: "/cdr-researcher-census/researchers/changxun-yu-a5043106/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Storage, patterns and influencing factors for soil organic carbon in coastal wetlands of China** (2022)
-   151 citations · Soil Carbon
+   157 citations · Soil Carbon
 
 2. **Organic blue carbon sequestration in vegetated coastal wetlands: Processes and influencing factors** (2024)
-   59 citations · Soil Carbon
+   64 citations · Soil Carbon
 
 3. **Microbial Necromass, Lignin, and Glycoproteins for Determining and Optimizing Blue Carbon Formation** (2023)
    57 citations · Ocean CDR
@@ -63,13 +63,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    55 citations · Soil Carbon
 
 5. **Organic matter composition and stability in estuarine wetlands depending on soil salinity** (2024)
-   21 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 6. **Patterns and drivers of soil organic carbon fractions and persistence in coastal wetlands of China** (2025)
-   19 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 7. **Mineral Association and Microbial Processing Jointly Prolong Carbon Turnover in Coastal Wetlands** (2026)
-   9 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 8. **Effects of nitrogen and phosphorus addition on phytolith carbon sequestration in alpine grassland** (2025)
    1 citations · Soil Carbon

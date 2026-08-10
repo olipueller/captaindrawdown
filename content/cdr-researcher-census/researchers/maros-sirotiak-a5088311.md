@@ -1,7 +1,7 @@
 ---
 title: "Maroš Sirotiak"
 description: "Maroš Sirotiak is a Senior Biochar researcher. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.697257
+date: 2026-08-11T01:33:11.617514
 url: "/cdr-researcher-census/researchers/maros-sirotiak-a5088311/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Chlorella vulgaris-Derived Biochars for Metribuzin Removal: Influence of Thermal Processing Pathways on Sorption Properties** (2025)
-   5 citations · Biochar
+   7 citations · Biochar
 
 2. **Biochars from Cardboard as an Alternative adsorbent for the Removal of Pesticides from the Water Environment** (2024)
    3 citations · Biochar

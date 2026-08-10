@@ -1,7 +1,7 @@
 ---
 title: "Dominic Wodehouse"
 description: "Dominic Wodehouse is a Mid-career Ocean CDR researcher at The Nature Conservancy in US. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.577456
+date: 2026-08-11T01:33:11.509664
 url: "/cdr-researcher-census/researchers/dominic-wodehouse-a5006244/"
 layout: "researcher"
 hiddenInHomeList: true

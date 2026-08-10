@@ -1,7 +1,7 @@
 ---
 title: "Mengru He"
 description: "Mengru He is a Mid-career Biochar researcher at Ministry of Agriculture in CZ. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.141131
+date: 2026-08-11T01:33:12.029822
 url: "/cdr-researcher-census/researchers/mengru-he-a5011663/"
 layout: "researcher"
 hiddenInHomeList: true

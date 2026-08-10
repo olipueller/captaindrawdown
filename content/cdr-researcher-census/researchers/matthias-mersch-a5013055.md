@@ -1,7 +1,7 @@
 ---
 title: "Matthias Mersch"
 description: "Matthias Mersch is a Mid-career General CDR researcher at Clean Energy (United States) in US. With 49 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.803747
+date: 2026-08-11T01:33:11.713351
 url: "/cdr-researcher-census/researchers/matthias-mersch-a5013055/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The role of negative emissions technologies in the UK’s net-zero strategy** (2024)
-   5 citations · General CDR
+   6 citations · General CDR
 
 2. **How Far Should the UK Go with Negative Emission Technologies?** (2023)
    2 citations · BECCS

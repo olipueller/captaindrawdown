@@ -1,7 +1,7 @@
 ---
 title: "Xiaojun Liang"
 description: "Xiaojun Liang is a Mid-career Biochar researcher at Ningxia Academy of Agriculture and Forestry Sciences in CN. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.019932
+date: 2026-08-11T01:33:11.896115
 url: "/cdr-researcher-census/researchers/xiaojun-liang-a5101689/"
 layout: "researcher"
 hiddenInHomeList: true

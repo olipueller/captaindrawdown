@@ -1,7 +1,7 @@
 ---
 title: "Pengfei Chang"
 description: "Pengfei Chang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.689189
+date: 2026-08-11T01:33:11.610536
 url: "/cdr-researcher-census/researchers/pengfei-chang-a5046433/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Influences of plant functional traits on soil organic carbon stocks: The roles of carbon input quality and diversity** (2025)
-   13 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 ## External Profiles
 

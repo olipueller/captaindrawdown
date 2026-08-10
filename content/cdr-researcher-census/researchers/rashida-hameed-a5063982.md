@@ -1,7 +1,7 @@
 ---
 title: "Rashida Hameed"
 description: "Rashida Hameed is a Mid-career Biochar researcher at Jiangsu University in CN. With 51 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.386671
+date: 2026-08-11T01:33:11.342982
 url: "/cdr-researcher-census/researchers/rashida-hameed-a5063982/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,10 +53,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 1. **The role of agricultural land management in modulating water-carbon interplay within dryland ecological systems** (2024)
    11 citations · Soil Carbon
 
-2. **Biochar Integration Sustaining Carbon-Nutrient Cycling and Soil Restoration** (2025)
-   1 citations · Biochar
+2. **Biochar mediated carbon and nutrient dynamics under arable land** (2024)
+   2 citations · Biochar
 
-3. **Biochar mediated carbon and nutrient dynamics under arable land** (2024)
+3. **Biochar Integration Sustaining Carbon-Nutrient Cycling and Soil Restoration** (2025)
    1 citations · Biochar
 
 4. **Adsorption mechanisms of aniline on nitrogen-doped biochar in the presence of dissolved Mn2+: The role of surface functionality** (2026)

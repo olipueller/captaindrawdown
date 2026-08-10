@@ -1,7 +1,7 @@
 ---
 title: "Yanyan Zhang"
 description: "Yanyan Zhang is a Mid-career Soil Carbon researcher at Westlake University in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.280825
+date: 2026-08-11T01:33:12.154190
 url: "/cdr-researcher-census/researchers/yanyan-zhang-a5066605/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Decadal manure substitution reshapes microbial communities to drive plant and microbial carbon accumulation in soil carbon fractions** (2025)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 ## External Profiles
 

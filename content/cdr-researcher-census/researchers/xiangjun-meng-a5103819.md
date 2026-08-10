@@ -1,7 +1,7 @@
 ---
 title: "Xiangjun Meng"
 description: "Xiangjun Meng is a Senior Soil Carbon researcher at Gansu Agricultural University in CN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.212890
+date: 2026-08-11T01:33:12.094521
 url: "/cdr-researcher-census/researchers/xiangjun-meng-a5103819/"
 layout: "researcher"
 hiddenInHomeList: true

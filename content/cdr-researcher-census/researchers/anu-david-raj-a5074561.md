@@ -1,7 +1,7 @@
 ---
 title: "Anu David Raj"
 description: "Anu David Raj is a Mid-career Soil Carbon researcher at Indian Institute of Science Education and Research Pune in IN. With 42 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.739275
+date: 2026-08-11T01:33:11.655965
 url: "/cdr-researcher-census/researchers/anu-david-raj-a5074561/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Assessment of soil erosion rates, carbon stocks, and erosion-induced carbon loss in dominant forest types of the Himalayan region using fallout-137Cs** (2025)
-   19 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 2. **<sup>137</sup> Cs radiotracer in investigating influence of hillslope positions and land use on soil erosion and soil organic carbon stock—A case study in the Himalayan region** (2024)
    7 citations · Soil Carbon

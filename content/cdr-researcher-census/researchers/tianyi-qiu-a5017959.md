@@ -1,7 +1,7 @@
 ---
 title: "Tianyi Qiu"
 description: "Tianyi Qiu is a Senior Soil Carbon researcher at Wuhan University of Technology in CN. With 41 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.237903
+date: 2026-08-11T01:33:11.209500
 url: "/cdr-researcher-census/researchers/tianyi-qiu-a5017959/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,15 +51,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Crop residue return achieves environmental mitigation and enhances grain yield: a global meta-analysis** (2023)
-   109 citations · Soil Carbon
+   117 citations · Soil Carbon
 
 2. **Optimizing cover crop practices as a sustainable solution for global agroecosystem services** (2024)
-   84 citations · Soil Carbon
+   90 citations · Soil Carbon
 
 3. **From Barren Rock to Thriving Life: How Nitrogen Fuels Microbial Carbon Fixation in Deglaciated Landscapes** (2025)
    9 citations · Soil Carbon
 
-4. **Towards 2030: advancing climate-resilient and sustainable cover cropping systems under global change** (2026)
+4. **Harnessing cover crop–rock weathering synergies for climate-smart agriculture** (2026)
+   0 citations
+
+5. **Towards 2030: advancing climate-resilient and sustainable cover cropping systems under global change** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

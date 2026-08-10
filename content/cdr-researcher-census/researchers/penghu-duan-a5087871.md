@@ -1,7 +1,7 @@
 ---
 title: "Penghu Duan"
 description: "Penghu Duan is a Mid-career Biochar researcher at Jilin University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.504817
+date: 2026-08-11T01:33:12.357532
 url: "/cdr-researcher-census/researchers/penghu-duan-a5087871/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Ultrasensitive and highly reusable electrochemical sensor with ion imprinted nanobiochar** (2022)
-   21 citations · Biochar
+   22 citations · Biochar
 
 2. **Ultrasensitive and Highly Reusable Electrochemical Sensor with Ion Imprinted Nanobiochar** (2021)
    1 citations · Biochar

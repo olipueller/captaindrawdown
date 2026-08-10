@@ -1,7 +1,7 @@
 ---
 title: "Zhuozhen Gan"
 description: "Zhuozhen Gan is a Mid-career DAC researcher at Shanghai Jiao Tong University in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.544965
+date: 2026-08-11T01:33:11.480465
 url: "/cdr-researcher-census/researchers/zhuozhen-gan-a5020127/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,28 +51,28 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Recent advances in direct air capture by adsorption** (2022)
-   425 citations
+   438 citations
 
 2. **Facile synthesis of structured adsorbent with enhanced hydrophobicity and low energy consumption for CO2 capture from the air** (2023)
-   44 citations
+   45 citations
 
 3. **3D printing of poly(ethyleneimine)-functionalized Mg-Al mixed metal oxide monoliths for direct air capture of CO2** (2024)
-   25 citations
+   26 citations
 
 4. **A direct air capture rotary adsorber for CO2 enrichment in greenhouses** (2024)
-   18 citations
+   20 citations
 
 5. **Scalable Synthesis of Amine-Grafted Ultrafine Layered Double Hydroxide Nanosheets with Improved Carbon Dioxide Capture Capacity from Air** (2023)
    15 citations
 
-6. **Single-component and binary H2O and CO2 co-adsorption isotherm model on amine-functionalised Mg-Al mixed metal oxides** (2024)
+6. **Integrated power to methanol processes with steam-assisted direct air capture** (2025)
+   9 citations · DAC
+
+7. **Single-component and binary H2O and CO2 co-adsorption isotherm model on amine-functionalised Mg-Al mixed metal oxides** (2024)
    9 citations
 
-7. **Multi-dimensional process optimization of temperature-vacuum swing adsorption for CO2 capture from humid air** (2025)
-   7 citations
-
-8. **Integrated power to methanol processes with steam-assisted direct air capture** (2025)
-   6 citations · DAC
+8. **Multi-dimensional process optimization of temperature-vacuum swing adsorption for CO2 capture from humid air** (2025)
+   8 citations
 
 9. **Efficient Adsorption‐Based Direct Air Capture Via Triply Periodic Minimal Surface Architectures** (2026)
    0 citations · DAC

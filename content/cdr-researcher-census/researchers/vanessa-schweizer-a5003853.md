@@ -1,7 +1,7 @@
 ---
 title: "Vanessa Schweizer"
 description: "Vanessa Schweizer is a Senior DAC researcher at University of Waterloo in CA. With 57 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.242358
+date: 2026-08-11T01:33:11.213640
 url: "/cdr-researcher-census/researchers/vanessa-schweizer-a5003853/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Key uncertainties behind global projections of direct air capture deployment** (2023)
-   35 citations · DAC
+   36 citations · DAC
 
 2. **Scaling carbon removal systems: deploying direct air capture amidst Canada’s low-carbon transition** (2024)
    7 citations · DAC

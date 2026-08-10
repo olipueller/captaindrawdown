@@ -1,7 +1,7 @@
 ---
 title: "Nini Wen"
 description: "Nini Wen is a Mid-career DAC researcher at Zhejiang Sci-Tech University in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.977581
+date: 2026-08-11T01:33:11.856165
 url: "/cdr-researcher-census/researchers/nini-wen-a5046830/"
 layout: "researcher"
 hiddenInHomeList: true

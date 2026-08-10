@@ -1,7 +1,7 @@
 ---
 title: "G. Canneto"
 description: "G. Canneto is a Mid-career BECCS researcher at National Agency for New Technologies, Energy and Sustainable Economic Development in IT. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.154889
+date: 2026-08-11T01:33:12.042211
 url: "/cdr-researcher-census/researchers/g-canneto-a5021192/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Investigation of an Intensified Thermo-Chemical Experimental Set-Up for Hydrogen Production from Biomass: Gasification Process Performance—Part I** (2021)
-   18 citations · BECCS
+   19 citations · BECCS
 
 ## External Profiles
 

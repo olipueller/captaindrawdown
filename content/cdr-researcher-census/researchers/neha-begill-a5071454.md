@@ -1,7 +1,7 @@
 ---
 title: "Neha Begill"
 description: "Neha Begill is an Early-career Soil Carbon researcher at Johann Heinrich von Thünen-Institut in DE. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.887096
+date: 2026-08-11T01:33:11.788042
 url: "/cdr-researcher-census/researchers/neha-begill-a5071454/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **No detectable upper limit of mineral‐associated organic carbon in temperate agricultural soils** (2023)
-   182 citations · Soil Carbon
+   186 citations · Soil Carbon
 
 2. **Root litter quality drives the dynamic of native mineral-associated organic carbon in a temperate agricultural soil** (2023)
-   28 citations
+   30 citations
 
 3. **Increased Retention of Litter‐Derived Organic Carbon With Increasing Initial Carbon Content in Temperate Agricultural Soils** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 4. **Different Amounts of Added Litter Do Not Affect Long‐Term Carbon Mineralization and Stabilization in Topsoils and Subsoils** (2025)
    2 citations · Soil Carbon

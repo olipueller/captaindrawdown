@@ -1,7 +1,7 @@
 ---
 title: "Burcu Gunes"
 description: "Burcu Gunes is a Mid-career BECCS researcher at Dublin City University in IE. With 30 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.231382
+date: 2026-08-11T01:33:11.203539
 url: "/cdr-researcher-census/researchers/burcu-gunes-a5061193/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Progress in lignocellulosic biomass valorization for biofuels and value‐added chemical production in the <scp>EU</scp>: A focus on thermochemical conversion processes** (2023)
-   73 citations · BECCS
+   77 citations · BECCS
 
 2. **Assessing the potential of machine learning methods to study the removal of pharmaceuticals from wastewater using biochar or activated carbon** (2022)
-   41 citations · Biochar
+   42 citations · Biochar
 
 ## External Profiles
 

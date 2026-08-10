@@ -1,7 +1,7 @@
 ---
 title: "David Wårlind"
 description: "David Wårlind is a Senior General CDR researcher at Lunds universitet Naturvetenskapliga fakulteten in SE. With 116 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.117711
+date: 2026-08-11T01:33:11.096909
 url: "/cdr-researcher-census/researchers/david-warlind-a5086576/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -56,10 +56,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 2. **Forestation in CMIP6: wide model spread in tree cover and land carbon uptake** (2025)
    4 citations · General CDR
 
-3. **Phosphorus enrichment does not enlarge the predicted CO2 fertilization effect on forest carbon sequestration.** (2026)
-   0 citations
+3. **Phosphorus enrichment does not enlarge the predicted CO <sub>2</sub> fertilization effect on forest carbon sequestration** (2026)
+   1 citations
 
-4. **Phosphorus enrichment does not enlarge the predicted CO <sub>2</sub> fertilization effect on forest carbon sequestration** (2026)
+4. **Phosphorus enrichment does not enlarge the predicted CO2 fertilization effect on forest carbon sequestration.** (2026)
    0 citations
 
 5. **Assessing Earth system responses in deep mitigation scenarios with activity-driven simulation of carbon dioxide removal** (2026)

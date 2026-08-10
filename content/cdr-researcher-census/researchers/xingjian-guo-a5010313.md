@@ -1,7 +1,7 @@
 ---
 title: "Xingjian Guo"
 description: "Xingjian Guo is a Mid-career Soil Carbon researcher at Northwest University in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.071728
+date: 2026-08-11T01:33:11.965893
 url: "/cdr-researcher-census/researchers/xingjian-guo-a5010313/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Combining spatiotemporal interactions of ecosystem services with land patterns and processes can benefit sensible landscape management in dryland regions** (2023)
-   22 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 2. **The thresholds of forest-to-grassland ratios can be critical for harmonizing ecosystem service relationships spatiotemporally in dryland regions** (2024)
    7 citations · Soil Carbon

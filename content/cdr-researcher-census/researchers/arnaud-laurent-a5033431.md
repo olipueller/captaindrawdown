@@ -1,7 +1,7 @@
 ---
 title: "﻿Arnaud Laurent"
 description: "﻿Arnaud Laurent is a Senior Ocean CDR researcher at Dalhousie University in CA. With 82 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.259616
+date: 2026-08-11T01:33:11.229339
 url: "/cdr-researcher-census/researchers/arnaud-laurent-a5033431/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Modelling considerations for research on ocean alkalinity enhancement (OAE)** (2023)
-   37 citations · General CDR
+   38 citations · General CDR
 
 2. **Modeling considerations for research on Ocean Alkalinity Enhancement (OAE)** (2023)
    21 citations · General CDR
@@ -74,10 +74,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 8. **A high-resolution nested model to study the effects of alkalinity additions in a mid-latitude coastal fjord** (2024)
    1 citations · General CDR
 
-9. **Tracer release experiments in Halifax Harbour and implications for coastal ocean alkalinity enhancement** (2026)
-   0 citations · Ocean CDR
+9. **Prospective site-specific life cycle assessment of ocean alkalinity enhancement** (2026)
+   0 citations · General CDR
 
-10. **Physical controls on alkalinity variability in Halifax Harbour: The roles of wind and tides** (2026)
+10. **Tracer release experiments in Halifax Harbour and implications for coastal ocean alkalinity enhancement** (2026)
    0 citations · Ocean CDR
 
 ## External Profiles

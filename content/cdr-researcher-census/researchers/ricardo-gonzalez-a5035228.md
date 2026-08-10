@@ -1,7 +1,7 @@
 ---
 title: "Ricardo González"
 description: "Ricardo González is a Mid-career Soil Carbon researcher at Universidad de La Frontera in CL. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.119611
+date: 2026-08-11T01:33:12.010037
 url: "/cdr-researcher-census/researchers/ricardo-gonzalez-a5035228/"
 layout: "researcher"
 hiddenInHomeList: true

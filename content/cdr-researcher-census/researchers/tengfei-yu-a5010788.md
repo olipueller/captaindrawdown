@@ -1,7 +1,7 @@
 ---
 title: "Tengfei Yu"
 description: "Tengfei Yu is a Senior Soil Carbon researcher at Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences in CN. With 82 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.257756
+date: 2026-08-11T01:33:11.227501
 url: "/cdr-researcher-census/researchers/tengfei-yu-a5010788/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Divergent response to abiotic factor determines the decoupling of water and carbon fluxes over an artificial C4 shrub in desert** (2023)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 2. **Divergent responses of soil organic and inorganic carbon to edaphic factors within shelterbelts and croplands in dryland, Northwest China** (2026)
    1 citations · Soil Carbon

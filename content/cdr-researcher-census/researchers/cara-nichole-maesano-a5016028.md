@@ -1,7 +1,7 @@
 ---
 title: "Cara Nichole Maesano"
 description: "Cara Nichole Maesano is a Senior General CDR researcher at Rocky Mountain Institute in FR. With 65 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-12T12:07:29.252531
+date: 2026-08-11T01:33:11.193464
 url: "/cdr-researcher-census/researchers/cara-nichole-maesano-a5016028/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,25 +51,25 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **A roadmap for achieving scalable, safe, and low-cost direct air carbon capture and storage** (2023)
-   107 citations
+   114 citations
 
 2. **Geochemical Negative Emissions Technologies: Part I. Review** (2022)
-   65 citations · DAC
+   66 citations · DAC
 
 3. **A review of measurement for quantification of carbon dioxide removal by enhanced weathering in soil** (2024)
-   51 citations · Enhanced Weathering
+   53 citations · Enhanced Weathering
 
 4. **Geochemical Negative Emissions Technologies: Part II. Roadmap** (2022)
    20 citations
 
 5. **Pros and cons for the role of air pollution on COVID‐19 development** (2021)
-   16 citations
+   17 citations
 
-6. **A Review of Measurement for Quantification of Carbon Dioxide Removal by Enhanced Weathering in Soil** (2023)
+6. **Ten new insights in climate science 2025** (2026)
+   6 citations · General CDR
+
+7. **A Review of Measurement for Quantification of Carbon Dioxide Removal by Enhanced Weathering in Soil** (2023)
    6 citations
-
-7. **Ten new insights in climate science 2025** (2026)
-   5 citations · General CDR
 
 8. **A Roadmap for Achieving Scalable, Safe, and Low-cost Direct Air Carbon Capture and Storage** (2023)
    3 citations

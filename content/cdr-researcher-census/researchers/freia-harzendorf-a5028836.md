@@ -1,7 +1,7 @@
 ---
 title: "Freia Harzendorf"
 description: "Freia Harzendorf is a Mid-career DAC researcher at Forschungszentrum Jülich in DE. With 41 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.268420
+date: 2026-08-11T01:33:12.144138
 url: "/cdr-researcher-census/researchers/freia-harzendorf-a5028836/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Weather conditions severely impact optimal direct air capture siting** (2025)
-   14 citations · DAC
+   16 citations · DAC
 
 2. **Towards water-conscious green hydrogen and methanol production: A techno-economic review** (2025)
-   10 citations · DAC
+   11 citations · DAC
 
-3. **Criteria for effective site selection of direct air capture and storage projects** (2024)
-   6 citations · DAC
+3. **Weather-dependent direct air capture process modeling for techno-economic assessments** (2026)
+   7 citations · DAC
 
-4. **Weather-dependent direct air capture process modeling for techno-economic assessments** (2026)
-   5 citations · DAC
+4. **Criteria for effective site selection of direct air capture and storage projects** (2024)
+   7 citations · DAC
 
 5. **From Diverse Perspectives to Informed Policymaking -An Interdisciplinary Perspective on the Assessment of DACCS and Other Terrestrial CDR Technologies** (2025)
    5 citations · DAC
@@ -72,13 +72,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    0 citations · DAC
 
 8. **Global strategic deployment of Direct Air Capture technologies** (2026)
-   0 citations
+   0 citations · DAC
 
-9. **Weather-dependent direct air capture process modeling for techno-economic assessments** (2026)
-   0 citations
+9. **Global strategic deployment of Direct Air Capture technologies** (2026)
+   0 citations · DAC
 
-10. **Weather-dependent direct air capture process modeling for techno-economic assessments** (2026)
-   0 citations
+10. **Global strategic deployment of Direct Air Capture technologies** (2026)
+   0 citations · DAC
 
 ## External Profiles
 

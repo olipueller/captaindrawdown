@@ -1,7 +1,7 @@
 ---
 title: "Zhong Liu"
 description: "Zhong Liu is an Early-career Soil Carbon researcher at Ministry of Natural Resources in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.373856
+date: 2026-08-11T01:33:12.236449
 url: "/cdr-researcher-census/researchers/zhong-liu-a5016123/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Exploring the interrelations and driving factors among typical ecosystem services in the Yangtze river economic Belt, China** (2023)
-   92 citations
+   96 citations
 
 2. **[Trade-off and Synergy of Ecosystem Services in the Yangtze River Economic Belt and Its Driving Factors].** (2024)
    7 citations · General CDR

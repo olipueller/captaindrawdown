@@ -1,7 +1,7 @@
 ---
 title: "Chenxi Yu"
 description: "Chenxi Yu is a Senior Soil Carbon researcher at Jiangxi Agricultural University in CN. With 48 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.377690
+date: 2026-08-11T01:33:11.336062
 url: "/cdr-researcher-census/researchers/chenxi-yu-a5102986/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    33 citations · Soil Carbon
 
 2. **Comparison of fine root biomass and soil organic carbon stock between exotic and native mangrove** (2021)
-   30 citations · Soil Carbon
+   31 citations · Soil Carbon
 
 3. **The role of blue carbon stocks becomes more labile with mangrove development** (2023)
    23 citations · Soil Carbon

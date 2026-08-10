@@ -1,7 +1,7 @@
 ---
 title: "Munawar Abbas"
 description: "Munawar Abbas is a Mid-career BECCS researcher at Henan University of Technology in CN. With 13 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.514570
+date: 2026-08-11T01:33:12.367154
 url: "/cdr-researcher-census/researchers/munawar-abbas-a5075643/"
 layout: "researcher"
 hiddenInHomeList: true

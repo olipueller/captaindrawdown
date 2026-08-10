@@ -1,7 +1,7 @@
 ---
 title: "Shigeng Chen"
 description: "Shigeng Chen is a Mid-career Biochar researcher at Griffith University in AU. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.717034
+date: 2026-08-11T01:33:11.635788
 url: "/cdr-researcher-census/researchers/shigeng-chen-a5028432/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Microwave biochars produced with activated carbon catalyst: Characterization and sorption of volatile organic compounds (VOCs)** (2022)
-   86 citations · Biochar
+   88 citations · Biochar
 
 ## External Profiles
 

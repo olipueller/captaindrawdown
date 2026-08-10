@@ -1,7 +1,7 @@
 ---
 title: "Jaya Nepal"
 description: "Jaya Nepal is a Mid-career Soil Carbon researcher at Pennsylvania State University in US. With 24 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.546385
+date: 2026-08-11T01:33:11.481752
 url: "/cdr-researcher-census/researchers/jaya-nepal-a5000089/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Advances and prospects of biochar in improving soil fertility, biochemical quality, and environmental applications** (2023)
-   150 citations · Biochar
+   158 citations · Biochar
 
 2. **Biochar particle size coupled with biofertilizer enhances soil carbon-nitrogen microbial pools and CO2 sequestration in lentil** (2023)
-   17 citations · Biochar
+   18 citations · Biochar
 
 3. **Residual Effect of Finely-Ground Biochar Inoculated with Bio-Fertilization Impact on Productivity in a Lentil–Maize Cropping System** (2022)
-   14 citations · Biochar
+   15 citations · Biochar
 
 4. **From Chaos to Clarity** (2024)
    0 citations · General CDR

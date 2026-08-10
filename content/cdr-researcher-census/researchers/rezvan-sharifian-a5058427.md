@@ -1,7 +1,7 @@
 ---
 title: "Rezvan Sharifian"
 description: "Rezvan Sharifian is a Mid-career Ocean CDR researcher at Delft University of Technology in NL. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.372267
+date: 2026-08-11T01:33:11.331089
 url: "/cdr-researcher-census/researchers/rezvan-sharifian-a5058427/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Fouling management in oceanic carbon capture via in-situ electrochemical bipolar membrane electrodialysis** (2023)
-   40 citations · DAC
+   41 citations · DAC
 
 2. **Fouling Management in Oceanic Carbon Capture Via In-Situ Electrochemical Bipolar Membrane Electrodialysis** (2022)
    2 citations · Ocean CDR

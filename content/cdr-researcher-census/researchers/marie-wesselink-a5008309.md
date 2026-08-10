@@ -1,7 +1,7 @@
 ---
 title: "Marie Wesselink"
 description: "Marie Wesselink is a Mid-career Soil Carbon researcher at Wageningen University & Research in NL. With 20 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.020413
+date: 2026-08-11T01:33:11.896674
 url: "/cdr-researcher-census/researchers/marie-wesselink-a5008309/"
 layout: "researcher"
 hiddenInHomeList: true

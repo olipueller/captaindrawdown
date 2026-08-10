@@ -1,7 +1,7 @@
 ---
 title: "Seongmin Son"
 description: "Seongmin Son is a Senior DAC researcher at Kyungpook National University - Sangju Campus in KR. With 66 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.302544
+date: 2026-08-11T01:33:11.269706
 url: "/cdr-researcher-census/researchers/seongmin-son-a5055286/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,12 +51,12 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **System design of a novel open-air brayton cycle integrating direct air capture** (2024)
-   2 citations · DAC
+   3 citations · DAC
 
-2. **Preliminary techno-economic assessment of open-air Brayton cycle coupled with direct air capture for innovative small modular reactor applications** (2026)
-   0 citations · DAC
+2. **Review of Direct Air Capture Systems Powered by Nuclear Energy** (2026)
+   1 citations · DAC
 
-3. **Review of Direct Air Capture Systems Powered by Nuclear Energy** (2026)
+3. **Preliminary techno-economic assessment of open-air Brayton cycle coupled with direct air capture for innovative small modular reactor applications** (2026)
    0 citations · DAC
 
 4. **Thermodynamic assessment of a DAC integrated with an open-air brayton cycle for application in the small modular reactor** (2026)

@@ -1,7 +1,7 @@
 ---
 title: "Anandkumar Naorem"
 description: "Anandkumar Naorem is a Mid-career Soil Carbon researcher at Central Arid Zone Research Institute in IN. With 70 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.251007
+date: 2026-08-11T01:33:11.221523
 url: "/cdr-researcher-census/researchers/anandkumar-naorem-a5077182/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil Inorganic Carbon as a Potential Sink in Carbon Storage in Dryland Soils—A Review** (2022)
-   138 citations · Soil Carbon
+   142 citations · Soil Carbon
 
 2. **No-till farming and climate change mitigation: Lessons learnt from long-term no-till experiments and future perspectives** (2024)
    14 citations · Soil Carbon

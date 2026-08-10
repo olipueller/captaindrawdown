@@ -1,7 +1,7 @@
 ---
 title: "Antonia Helf"
 description: "Antonia Helf is a Mid-career BECCS researcher at Universitätsklinikum Würzburg in DE. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.462808
+date: 2026-08-11T01:33:11.408800
 url: "/cdr-researcher-census/researchers/antonia-helf-a5084534/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Carbon-negative hydrogen from biomass using gas switching integrated gasification: Techno-economic assessment** (2022)
-   30 citations · BECCS
+   31 citations · BECCS
 
 ## External Profiles
 

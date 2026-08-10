@@ -1,7 +1,7 @@
 ---
 title: "Leyi Zhang"
 description: "Leyi Zhang is an Early-career Soil Carbon researcher at Kunming University of Science and Technology in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.525436
+date: 2026-08-11T01:33:12.376837
 url: "/cdr-researcher-census/researchers/leyi-zhang-a5102661/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Spatiotemporal variations and driving mechanisms of carbon storage in Central Asia: Insights from the PLUS-InVEST models and machine learning** (2025)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 ## External Profiles
 

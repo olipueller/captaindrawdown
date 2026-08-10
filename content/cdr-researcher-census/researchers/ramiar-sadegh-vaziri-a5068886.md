@@ -1,7 +1,7 @@
 ---
 title: "Ramiar Sadegh-Vaziri"
 description: "Ramiar Sadegh-Vaziri is a Mid-career BECCS researcher at KTH Royal Institute of Technology in SE. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.241911
+date: 2026-08-11T01:33:12.121662
 url: "/cdr-researcher-census/researchers/ramiar-sadegh-vaziri-a5068886/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    28 citations · BECCS
 
 2. **BECCS with combined heat and power: assessing the energy penalty** (2021)
-   22 citations
+   23 citations
 
 3. **Corrigendum to ’BECCS with combined heat and power: assessing the energy penalty’ [International Journal of Greenhouse Gas Control (2021) 103248]** (2021)
    0 citations · BECCS

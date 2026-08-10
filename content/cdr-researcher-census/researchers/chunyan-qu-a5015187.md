@@ -1,7 +1,7 @@
 ---
 title: "Chunyan Qu"
 description: "Chunyan Qu is a Senior Soil Carbon researcher. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.899423
+date: 2026-08-11T01:33:11.798940
 url: "/cdr-researcher-census/researchers/chunyan-qu-a5015187/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Nitrogen fertilizer builds soil organic carbon under straw return mainly via microbial necromass formation** (2023)
-   190 citations · Soil Carbon
+   201 citations · Soil Carbon
 
 2. **Long-Term Nitrogen and Straw Application Improves Wheat Production and Soil Organic Carbon Sequestration** (2022)
    23 citations · Soil Carbon

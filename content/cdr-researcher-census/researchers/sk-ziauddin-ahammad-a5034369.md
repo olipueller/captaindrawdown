@@ -1,7 +1,7 @@
 ---
 title: "Sk. Ziauddin Ahammad"
 description: "Sk. Ziauddin Ahammad is a Senior Biochar researcher at Indian Institute of Technology Delhi in IN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.541745
+date: 2026-08-11T01:33:11.477434
 url: "/cdr-researcher-census/researchers/sk-ziauddin-ahammad-a5034369/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar production and its environmental applications: Recent developments and machine learning insights** (2023)
-   83 citations · Biochar
+   89 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Patric Bourceau"
 description: "Patric Bourceau is a Mid-career Soil Carbon researcher at Max Planck Institute for Marine Microbiology in DE. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.688887
+date: 2026-08-11T01:33:11.610242
 url: "/cdr-researcher-census/researchers/patric-bourceau-a5055114/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Sugars dominate the seagrass rhizosphere** (2022)
-   91 citations · Soil Carbon
+   94 citations · Soil Carbon
 
 ## External Profiles
 

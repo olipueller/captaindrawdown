@@ -1,7 +1,7 @@
 ---
 title: "Amjad Ali"
 description: "Amjad Ali is a Senior Biochar researcher at Khyber Medical College in PK. With 101 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.139350
+date: 2026-08-11T01:33:11.117306
 url: "/cdr-researcher-census/researchers/amjad-ali-a5089384/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,22 +54,22 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    72 citations · Biochar
 
 2. **Magnetite-loaded rice husk biochar promoted the denitrification performance of Aquabacterium sp. XL4 under low carbon to nitrogen ratio: Optimization and mechanism** (2022)
-   69 citations · Biochar
+   70 citations · Biochar
 
-3. **Hydrophilic spongy biochar crosslinked with starch and polyvinyl alcohol biocarrier for nitrate, phosphorus, and cadmium removal in low carbon wastewater: Enhanced performance mechanism and detoxification** (2022)
-   19 citations · Biochar
+3. **Cornstalk biochar promoted the denitrification performance and cellulose degradation rate of Burkholderia sp. CF6** (2021)
+   21 citations · Biochar
 
-4. **Cornstalk biochar promoted the denitrification performance and cellulose degradation rate of Burkholderia sp. CF6** (2021)
-   19 citations · Biochar
+4. **Hydrophilic spongy biochar crosslinked with starch and polyvinyl alcohol biocarrier for nitrate, phosphorus, and cadmium removal in low carbon wastewater: Enhanced performance mechanism and detoxification** (2022)
+   20 citations · Biochar
 
 5. **Loofah sponge crosslinked polyethyleneimine loaded with biochar biofilm reactor for ecological remediation of oligotrophic water: Mechanism, performance, and functional characterization** (2024)
-   17 citations · Biochar
+   18 citations · Biochar
 
 6. **Modified biochar improved simultaneous nitrate removal and soluble microbial products regulation in low carbon wastewater: Insights from the biocarrier and community function** (2024)
-   15 citations · Biochar
+   16 citations · Biochar
 
 7. **Residual Effect of Finely-Ground Biochar Inoculated with Bio-Fertilization Impact on Productivity in a Lentil–Maize Cropping System** (2022)
-   14 citations · Biochar
+   15 citations · Biochar
 
 8. **Coinstantaneous removal of nitrate and phenol by modified corncob and manganese dioxide based immobilized bioreactor: Enhancement and microbial synergistic mechanisms** (2023)
    10 citations

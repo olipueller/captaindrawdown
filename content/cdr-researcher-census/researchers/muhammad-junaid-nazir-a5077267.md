@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Junaid Nazir"
 description: "Muhammad Junaid Nazir is a Mid-career Soil Carbon researcher at University Town of Shenzhen in CN. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.661780
+date: 2026-08-11T01:33:11.586050
 url: "/cdr-researcher-census/researchers/muhammad-junaid-nazir-a5077267/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Harnessing soil carbon sequestration to address climate change challenges in agriculture** (2023)
-   351 citations · General CDR
+   372 citations · General CDR
 
 2. **Remediation of microplastics-contaminated agricultural soils by unmodified and modified biochar derived from Solidago canadensis L.** (2025)
-   11 citations · Biochar
+   12 citations · Biochar
 
 3. **The Role of Nitrogen Fertilization in Enhancing Soil Carbon Sequestration: A Tool for Sustainable Agriculture** (2025)
    3 citations · Soil Carbon

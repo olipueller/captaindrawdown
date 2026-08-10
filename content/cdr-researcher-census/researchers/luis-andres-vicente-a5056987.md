@@ -1,7 +1,7 @@
 ---
 title: "Luis Andrés Vicente"
 description: "Luis Andrés Vicente is a Mid-career Soil Carbon researcher at Government of Extremadura in ES. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.420501
+date: 2026-08-11T01:33:12.279714
 url: "/cdr-researcher-census/researchers/luis-andres-vicente-a5056987/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Comparative Analysis of Soil Biological Activity and Macroinvertebrate Diversity in Amazonian Chakra Agroforestry and Tropical Rainforests in Ecuador** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

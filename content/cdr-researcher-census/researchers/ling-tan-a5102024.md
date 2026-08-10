@@ -1,7 +1,7 @@
 ---
 title: "Ling Tan"
 description: "Ling Tan is a Senior Enhanced Weathering researcher at Hunan University of Science and Technology in CN. With 39 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.210803
+date: 2026-08-11T01:33:11.183978
 url: "/cdr-researcher-census/researchers/ling-tan-a5102024/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Biochar: Preserving the long-term catalytic activity of biosynthesized PdNPs/AuNPs in Cr(VI) reduction** (2024)
-   2 citations · Biochar
+   3 citations · Biochar
 
 2. **Laboratory-Based Bacterial Weathering of the Merensky Reef and Its Impact on Platinum Group Mineral Migration** (2021)
    1 citations · Enhanced Weathering

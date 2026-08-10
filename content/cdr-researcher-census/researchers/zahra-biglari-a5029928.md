@@ -1,7 +1,7 @@
 ---
 title: "Zahra Biglari"
 description: "Zahra Biglari is a Mid-career General CDR researcher at University of Tehran in IR. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.503736
+date: 2026-08-11T01:33:12.356534
 url: "/cdr-researcher-census/researchers/zahra-biglari-a5029928/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Computational investigation on CO2 capturing capacity of N-doped and Na-decorated Graphdiyne** (2023)
-   20 citations · General CDR
+   21 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Francisco S. M. Araujo"
 description: "Francisco S. M. Araujo is a Mid-career General CDR researcher at Environmental and Water Resources Engineering in IL. With 22 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.930062
+date: 2026-08-11T01:33:11.826457
 url: "/cdr-researcher-census/researchers/francisco-s-m-araujo-a5053951/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -59,13 +59,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 3. **Adapting and Verifying the Liming Index for Enhanced Rock Weathering Minerals as an Alternative Liming Approach** (2024)
    1 citations · Enhanced Weathering
 
-4. **Soil Calcimetry Dynamics to Resolve Weathering Flux in Wollastonite-Amended Croplands** (2025)
+4. **Carbon Dioxide Removal Potential of Carnauba (Copernicia prunifera) Straw Biochar** (2026)
+   0 citations · Biochar
+
+5. **Carbon Dioxide Removal Potential of Carnauba (Copernicia prunifera) Straw Biochar** (2026)
+   0 citations · Biochar
+
+6. **Soil Calcimetry Dynamics to Resolve Weathering Flux in Wollastonite-Amended Croplands** (2025)
    0 citations · Enhanced Weathering
 
-5. **Soil Calcimetry Dynamics to Monitor Weathering Flux: Method Calibration in Wollastonite-Amended Croplands** (2025)
+7. **Soil Calcimetry Dynamics to Monitor Weathering Flux: Method Calibration in Wollastonite-Amended Croplands** (2025)
    0 citations · Enhanced Weathering
 
-6. **GeoRewind: Engineering carbon-sequestering soil amendments for carbon- smart soils** (2022)
+8. **GeoRewind: Engineering carbon-sequestering soil amendments for carbon- smart soils** (2022)
    0 citations · General CDR
 
 ## External Profiles

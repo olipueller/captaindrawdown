@@ -1,7 +1,7 @@
 ---
 title: "Renaud de Richter"
 description: "Renaud de Richter is a Senior General CDR researcher. With 78 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.165401
+date: 2026-08-11T01:33:11.141685
 url: "/cdr-researcher-census/researchers/renaud-de-richter-a5059775/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -55,22 +55,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    47 citations · General CDR
 
 4. **Atmospheric removal of methane by enhancing the natural hydroxyl radical sink** (2022)
-   30 citations
+   31 citations
 
 5. **Numerical analysis of solar chimney power plant integrated with CH4 photocatalytic reactors for fighting global warming under ambient crosswind** (2022)
    21 citations · General CDR
 
 6. **A novel green technology: Reducing carbon dioxide and eliminating methane from the atmosphere** (2022)
-   18 citations
+   19 citations
 
 7. **Experimental and kinetic studies on the photocatalysis of UV–vis light irradiation for low concentrations of the methane** (2024)
-   15 citations
+   16 citations
 
-8. **Removal of methane and other non-CO2 GHGs** (2023)
+8. **Atmospheric methane removal as a third climate intervention: termination risks and air pollutant effects** (2026)
+   1 citations · General CDR
+
+9. **Removal of methane and other non-CO2 GHGs** (2023)
    1 citations
-
-9. **Atmospheric methane removal as a third climate intervention: termination risks and air pollutant effects** (2026)
-   0 citations · General CDR
 
 10. **Atmospheric Methane Removal as a Third Climate Intervention: Termination Risks and Air Pollutant Effects** (2026)
    0 citations

@@ -1,7 +1,7 @@
 ---
 title: "Mingsheng Fan"
 description: "Mingsheng Fan is a Senior Soil Carbon researcher at China Agricultural University in CN. With 75 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.094908
+date: 2026-08-11T01:33:11.075277
 url: "/cdr-researcher-census/researchers/mingsheng-fan-a5027705/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Global crop production increase by soil organic carbon** (2023)
-   279 citations · General CDR
+   289 citations · General CDR
 
 2. **Not all soil carbon is created equal: Labile and stable pools under nitrogen input** (2024)
-   54 citations · Soil Carbon
+   56 citations · Soil Carbon
 
 3. **Maize straw-based organic amendments and nitrogen fertilizer effects on soil and aggregate-associated carbon and nitrogen** (2024)
    21 citations · Biochar

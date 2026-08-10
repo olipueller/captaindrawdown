@@ -1,7 +1,7 @@
 ---
 title: "Norihiko Tsuboi"
 description: "Norihiko Tsuboi is a Mid-career General CDR researcher at National Center For Child Health and Development in JP. With 46 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.945486
+date: 2026-08-11T01:33:11.840658
 url: "/cdr-researcher-census/researchers/norihiko-tsuboi-a5027788/"
 layout: "researcher"
 hiddenInHomeList: true

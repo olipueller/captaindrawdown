@@ -1,7 +1,7 @@
 ---
 title: "Haoyu Xia"
 description: "Haoyu Xia is a Mid-career Soil Carbon researcher at Beijing Normal University in CN. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.443017
+date: 2026-08-11T01:33:11.392797
 url: "/cdr-researcher-census/researchers/haoyu-xia-a5073932/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Warming, rather than drought, remains the primary factor limiting carbon sequestration** (2023)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 2. **Wind mediates the responses of net ecosystem carbon balance to climatic change in a temperate semiarid steppe of Northern China** (2023)
    8 citations

@@ -1,7 +1,7 @@
 ---
 title: "Haiying Cui"
 description: "Haiying Cui is a Senior Soil Carbon researcher at Northeast Normal University in CN. With 28 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.352345
+date: 2026-08-11T01:33:11.314077
 url: "/cdr-researcher-census/researchers/haiying-cui-a5010084/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The global contribution of soil mosses to ecosystem services** (2023)
-   94 citations · Soil Carbon
+   100 citations · Soil Carbon
 
 2. **Mowing enhances the positive effects of nitrogen addition on ecosystem carbon fluxes and water use efficiency in a semi-arid meadow steppe** (2022)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 ## External Profiles
 

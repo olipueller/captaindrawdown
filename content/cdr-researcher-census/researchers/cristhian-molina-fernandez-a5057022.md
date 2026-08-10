@@ -1,7 +1,7 @@
 ---
 title: "Cristhian Molina-Fernández"
 description: "Cristhian Molina-Fernández is a Mid-career DAC researcher at University of Liège in BE. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.872839
+date: 2026-08-11T01:33:11.774523
 url: "/cdr-researcher-census/researchers/cristhian-molina-fernandez-a5057022/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Stability of Adsorbents for Direct Air Capture (DAC): Challenges and Perspectives** (2026)
-   1 citations · DAC
+   3 citations · DAC
 
 ## External Profiles
 

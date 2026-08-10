@@ -1,7 +1,7 @@
 ---
 title: "Diana-Maria Seserman"
 description: "Diana-Maria Seserman is a Mid-career Soil Carbon researcher at Leibniz Centre for Agricultural Landscape Research in DE. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.901671
+date: 2026-08-11T01:33:11.800990
 url: "/cdr-researcher-census/researchers/diana-maria-seserman-a5057070/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Multifunctionality of temperate alley-cropping agroforestry outperforms open cropland and grassland** (2023)
-   74 citations · General CDR
+   78 citations · General CDR
 
 ## External Profiles
 

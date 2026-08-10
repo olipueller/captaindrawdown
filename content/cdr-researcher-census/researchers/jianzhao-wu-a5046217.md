@@ -1,7 +1,7 @@
 ---
 title: "Jianzhao Wu"
 description: "Jianzhao Wu is a Senior Soil Carbon researcher at Chinese University of Hong Kong in CN. With 69 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.115247
+date: 2026-08-11T01:33:11.094582
 url: "/cdr-researcher-census/researchers/jianzhao-wu-a5046217/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Driving factors of ecosystem services and their spatiotemporal change assessment based on land use types in the Loess Plateau** (2022)
-   221 citations · General CDR
+   224 citations · General CDR
 
 2. **Soil Organic Carbon Increases With Decreasing Microbial Carbon Use Efficiency During Vegetation Restoration** (2024)
-   72 citations · Soil Carbon
+   77 citations · Soil Carbon
 
 3. **Recalcitrant organic carbon plays a key role in soil carbon sequestration along a long-term vegetation succession on the Loess Plateau** (2023)
-   72 citations · Soil Carbon
+   76 citations · Soil Carbon
 
 4. **Forestation delivers significantly more effective results in soil C and N sequestrations than natural succession on badly degraded areas: Evidence from the Central Loess Plateau case** (2021)
    72 citations · Soil Carbon
 
 5. **Forests have a higher soil C sequestration benefit due to lower C mineralization efficiency: Evidence from the central loess plateau case** (2022)
-   66 citations
+   67 citations
 
 6. **Inorganic Carbon Should Be Considered for Carbon Sequestration in Agricultural Soils** (2025)
-   37 citations · Soil Carbon
+   42 citations · Soil Carbon
 
 7. **Vegetation restoration in the coarse‐textured soil area is more conducive to the accumulation of Fe‐associated C** (2024)
    13 citations · Soil Carbon
@@ -75,7 +75,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    11 citations · Soil Carbon
 
 9. **Microbial regulation mechanisms of soil organic carbon sequestration by biochar application** (2026)
-   3 citations
+   5 citations
 
 10. **Theoretical and Actual Carbon Sequestration Potential in China's Terrestrial Ecosystems** (2026)
    2 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Lili Liang"
 description: "Lili Liang is a Senior General CDR researcher at Bengbu Medical College in CN. With 36 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.660670
+date: 2026-08-11T01:33:11.584900
 url: "/cdr-researcher-census/researchers/lili-liang-a5101623/"
 layout: "researcher"
 hiddenInHomeList: true

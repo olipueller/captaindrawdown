@@ -1,7 +1,7 @@
 ---
 title: "Chao Bao"
 description: "Chao Bao is a Mid-career Enhanced Weathering researcher at Huazhong University of Science and Technology in CN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.505210
+date: 2026-08-11T01:33:11.445155
 url: "/cdr-researcher-census/researchers/chao-bao-a5101847/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Effects of Carbon–Magnesium Reactions on the Physical and Mechanical Properties of Lightweight Carbonated Stabilized Soil** (2025)
-   1 citations · Enhanced Weathering
+   2 citations · Enhanced Weathering
 
 ## External Profiles
 

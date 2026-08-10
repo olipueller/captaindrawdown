@@ -1,7 +1,7 @@
 ---
 title: "Chengxiang Ding"
 description: "Chengxiang Ding is a Mid-career Soil Carbon researcher at Qinghai University in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.044895
+date: 2026-08-11T01:33:11.919498
 url: "/cdr-researcher-census/researchers/chengxiang-ding-a5016836/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Stabilization of soil organic carbon in the alpine meadow is dependent on the nitrogen deposition level on the Qinghai-Tibetan Plateau** (2021)
-   29 citations · General CDR
+   30 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Esraa A. El-Masry"
 description: "Esraa A. El-Masry is a Mid-career Soil Carbon researcher at Alexandria University in EG. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.420953
+date: 2026-08-11T01:33:12.280114
 url: "/cdr-researcher-census/researchers/esraa-a-el-masry-a5063514/"
 layout: "researcher"
 hiddenInHomeList: true

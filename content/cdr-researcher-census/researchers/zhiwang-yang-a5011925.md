@@ -1,7 +1,7 @@
 ---
 title: "Zhiwang Yang"
 description: "Zhiwang Yang is a Mid-career Biochar researcher at Ingenierie des Materiaux polymeres in FR. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.711326
+date: 2026-08-11T01:33:11.630444
 url: "/cdr-researcher-census/researchers/zhiwang-yang-a5011925/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Excellent adsorptive-photocatalytic performance of zinc oxide and biomass derived N, O-contained biochar nanocomposites for dyes and antibiotic removal** (2022)
-   102 citations · Biochar
+   103 citations · Biochar
 
 2. **Excellent Adsorptive-Photocatalytic Performances of Zinc Oxide and Biomass Derived O, N-Contained Biochar Nanocomposites for Dye and Antibiotic Degradations** (2022)
    0 citations · Biochar

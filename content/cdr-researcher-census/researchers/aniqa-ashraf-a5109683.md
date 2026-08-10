@@ -1,7 +1,7 @@
 ---
 title: "Aniqa Ashraf"
 description: "Aniqa Ashraf is a Mid-career Biochar researcher at University of Science and Technology of China in CN. With 27 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.301633
+date: 2026-08-11T01:33:11.268873
 url: "/cdr-researcher-census/researchers/aniqa-ashraf-a5109683/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,19 +48,19 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Synthesis, characteristics and mechanistic insight into the clays and clay minerals-biochar surface interactions for contaminants removal-A review** (2021)
-   143 citations · Biochar
+   147 citations · Biochar
 
 2. **Carbon dioxide activated biochar-clay mineral composite efficiently removes ciprofloxacin from contaminated water - Reveals an incubation study** (2021)
-   65 citations · Biochar
+   68 citations · Biochar
 
 3. **Synergistic interactions and reaction mechanisms of biochar surface functionalities in antibiotics removal from industrial wastewater** (2024)
-   60 citations · Biochar
+   64 citations · Biochar
 
 4. **The development of plastic waste and sewage sludge co-pyrolyzed biochar composites with improved interfacial characteristics for the effective removal of ciprofloxacin** (2024)
-   31 citations · Biochar
+   33 citations · Biochar
 
 5. **Impregnation of biochar with montmorillonite and its activation for the removal of azithromycin from aqueous media** (2023)
-   21 citations · Biochar
+   22 citations · Biochar
 
 ## External Profiles
 

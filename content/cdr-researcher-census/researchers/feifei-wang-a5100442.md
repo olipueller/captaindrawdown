@@ -1,7 +1,7 @@
 ---
 title: "Feifei Wang"
 description: "Feifei Wang is a Senior Soil Carbon researcher at Huazhong University of Science and Technology in CN. With 65 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.233177
+date: 2026-08-11T01:33:11.205350
 url: "/cdr-researcher-census/researchers/feifei-wang-a5100442/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,13 +54,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    63 citations · Soil Carbon
 
 2. **Source and stability of soil organic carbon jointly regulate soil carbon pool, but source alteration is more effective in mangrove ecosystem following Spartina alterniflora invasion** (2023)
-   39 citations · Soil Carbon
+   41 citations · Soil Carbon
 
 3. **Loss of microbial functional diversity following Spartina alterniflora invasion reduces the potential of carbon sequestration and nitrogen removal in mangrove sediments—from a gene perspective** (2024)
-   27 citations · Soil Carbon
+   29 citations · Soil Carbon
 
 4. **Effects of different restored vegetation on soil organic carbon pools in subtropic erosive lands: Insights from stable carbon isotopes** (2024)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 5. **Warming and flooding have different effects on organic carbon stability in mangrove soils** (2023)
    12 citations · Soil Carbon

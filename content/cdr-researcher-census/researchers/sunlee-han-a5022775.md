@@ -1,7 +1,7 @@
 ---
 title: "Sunlee Han"
 description: "Sunlee Han is a Mid-career BECCS researcher at Mineral Resources in AU. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.118177
+date: 2026-08-11T01:33:12.008487
 url: "/cdr-researcher-census/researchers/sunlee-han-a5022775/"
 layout: "researcher"
 hiddenInHomeList: true

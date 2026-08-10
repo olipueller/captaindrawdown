@@ -1,7 +1,7 @@
 ---
 title: "Bonface O. Manono"
 description: "Bonface O. Manono is a Mid-career Soil Carbon researcher at University of Wisconsin–Extension in US. With 32 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.824267
+date: 2026-08-11T01:33:11.731309
 url: "/cdr-researcher-census/researchers/bonface-o-manono-a5059380/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Biochar Characteristics and Application: Effects on Soil Ecosystem Services and Nutrient Dynamics for Enhanced Crop Yields** (2025)
-   25 citations · Biochar
+   29 citations · Biochar
 
 2. **Conservation Agriculture for Sustainable Soil Health Management: A Review of Impacts, Benefits and Future Directions** (2025)
-   23 citations · Soil Carbon
+   27 citations · Soil Carbon
 
 ## External Profiles
 

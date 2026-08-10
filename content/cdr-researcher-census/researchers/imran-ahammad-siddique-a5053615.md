@@ -1,7 +1,7 @@
 ---
 title: "Imran Ahammad Siddique"
 description: "Imran Ahammad Siddique is a Mid-career Soil Carbon researcher at Aarhus University in DK. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.425285
+date: 2026-08-11T01:33:12.283679
 url: "/cdr-researcher-census/researchers/imran-ahammad-siddique-a5053615/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil organic carbon stock change following perennialization: a meta-analysis** (2023)
-   58 citations · Soil Carbon
+   61 citations · Soil Carbon
 
 2. **Microbial and plant-derived carbon contributions to particulate and mineral-associated organic carbon in perennial and annual cropping systems** (2026)
-   3 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 3. **A Meta-Analysis of the Soil Organic Carbon Stock Change Following Perennialization** (2022)
    2 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Jingzhe Li"
 description: "Jingzhe Li is a Mid-career Biochar researcher at Guangxi University in CN. With 38 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.559994
+date: 2026-08-11T01:33:11.494061
 url: "/cdr-researcher-census/researchers/jingzhe-li-a5101464/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Investigation of the properties and sustainability of modified biochar-doped cement-based composite** (2024)
-   50 citations · Biochar
+   52 citations · Biochar
 
 2. **Investigation of the Properties and Sustainability of Modified Biochar-Doped Cement-Based Composite** (2024)
    3 citations · Biochar

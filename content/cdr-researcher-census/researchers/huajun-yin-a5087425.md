@@ -1,7 +1,7 @@
 ---
 title: "Huajun Yin"
 description: "Huajun Yin is a Senior Soil Carbon researcher at ???????????? in CN. With 123 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.142396
+date: 2026-08-11T01:33:11.120199
 url: "/cdr-researcher-census/researchers/huajun-yin-a5087425/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Microbial metabolic traits drive the differential contribution of microbial necromass to soil organic carbon between the rhizosphere of absorptive roots and transport roots** (2024)
-   41 citations · Soil Carbon
+   42 citations · Soil Carbon
 
 2. **Reference carbon cycle dataset for typical Chinese forests via colocated observations and data assimilation** (2021)
    32 citations · Soil Carbon
 
 3. **The accumulation capacity of microbial residues in the rhizosphere increased along an elevation gradient** (2024)
-   21 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 4. **Absorptive roots drive a larger microbial carbon pump efficacy than transport roots in alpine coniferous forests** (2022)
    21 citations · Soil Carbon
@@ -66,16 +66,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    15 citations · Soil Carbon
 
 6. **Climate Sensitivities of Carbon Turnover Times in Soil and Vegetation: Understanding Their Effects on Forest Carbon Sequestration** (2022)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 7. **Nitrogen addition enhances stable soil carbon accumulation during ectomycorrhizal hyphae decomposition** (2024)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
-8. **The rhizosphere exhibits higher microbial carbon use efficiency compared to bulk soil** (2026)
+8. **Microbial necromass carbon accumulation is associated with soil microbial life history strategies and multitrophic network complexity under nitrogen addition in alpine forests** (2026)
+   2 citations
+
+9. **The rhizosphere exhibits higher microbial carbon use efficiency compared to bulk soil** (2026)
    2 citations · Soil Carbon
-
-9. **Microbial necromass carbon accumulation is associated with soil microbial life history strategies and multitrophic network complexity under nitrogen addition in alpine forests** (2026)
-   1 citations
 
 10. **Conservative roots confer a larger microbial carbon pump efficacy than acquisitive roots by regulating microbial life‐history strategy** (2026)
    0 citations

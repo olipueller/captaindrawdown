@@ -1,7 +1,7 @@
 ---
 title: "Zhipeng Shu"
 description: "Zhipeng Shu is a Mid-career Biochar researcher at Fudan University in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.884109
+date: 2026-08-11T01:33:11.785071
 url: "/cdr-researcher-census/researchers/zhipeng-shu-a5023261/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Microbially Driven Iron Cycling Facilitates Organic Carbon Accrual in Decadal Biochar-Amended Soil** (2024)
-   69 citations · Biochar
+   72 citations · Biochar
 
 2. **Microbially Driven Iron Cycling Facilitates Organic Carbon Accrual in Decadal Biochar-amended Soil** (2024)
    0 citations

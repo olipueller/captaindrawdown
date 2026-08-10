@@ -1,7 +1,7 @@
 ---
 title: "Raphael Ganzenmüller"
 description: "Raphael Ganzenmüller is a Mid-career General CDR researcher at Ludwig Maximilian University of Munich in DE. With 39 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.451727
+date: 2026-08-11T01:33:11.399780
 url: "/cdr-researcher-census/researchers/raphael-ganzenmuller-a5037061/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    57 citations
 
 2. **On the use of Earth Observation to support estimates of national greenhouse gas emissions and sinks for the Global stocktake process: lessons learned from ESA-CCI RECCAP2** (2022)
-   31 citations · General CDR
+   33 citations · General CDR
 
 3. **The consolidated European synthesis of CO <sub>2</sub> emissions and removals for the European Union and United Kingdom: 1990–2020** (2023)
    15 citations
@@ -63,7 +63,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    9 citations
 
 5. **Differences and uncertainties in land-use CO2 flux estimates** (2025)
-   1 citations · General CDR
+   2 citations · General CDR
 
 6. **Reviewing differences and uncertainties in land-use CO2 flux estimates** (2024)
    1 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Ruijie Shi"
 description: "Ruijie Shi is a Mid-career Soil Carbon researcher at Nanjing Normal University in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.488291
+date: 2026-08-11T01:33:12.342538
 url: "/cdr-researcher-census/researchers/ruijie-shi-a5091710/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Emission dynamics of greenhouse gases regulated by fluctuation of water level in river-connected wetland** (2022)
-   26 citations · Soil Carbon
+   29 citations · Soil Carbon
 
 ## External Profiles
 

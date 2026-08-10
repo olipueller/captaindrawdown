@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Syamsu Rizaludin"
 description: "Muhammad Syamsu Rizaludin is a Mid-career Soil Carbon researcher at Netherlands Institute of Ecology in NL. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.757274
+date: 2026-08-11T01:33:11.671695
 url: "/cdr-researcher-census/researchers/muhammad-syamsu-rizaludin-a5030817/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Understanding Socio-Economic and Environmental Impacts of Agroforestry on Rural Communities** (2022)
-   102 citations · Soil Carbon
+   106 citations · Soil Carbon
 
 ## External Profiles
 

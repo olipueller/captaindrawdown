@@ -1,7 +1,7 @@
 ---
 title: "Steven Mortier"
 description: "Steven Mortier is a Mid-career Enhanced Weathering researcher at University of Antwerp in BE. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.352878
+date: 2026-08-11T01:33:12.217063
 url: "/cdr-researcher-census/researchers/steven-mortier-a5082936/"
 layout: "researcher"
 hiddenInHomeList: true

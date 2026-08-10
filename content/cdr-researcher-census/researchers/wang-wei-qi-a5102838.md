@@ -1,7 +1,7 @@
 ---
 title: "Wang Wei-qi"
 description: "Wang Wei-qi is a Senior Soil Carbon researcher. With 34 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.542344
+date: 2026-08-11T01:33:12.392769
 url: "/cdr-researcher-census/researchers/wang-wei-qi-a5102838/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,10 +46,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Fertilizer reduction and biochar amendment promote soil mineral-associated organic carbon, bacterial activity, and enzyme activity in a jasmine garden in southeast China** (2024)
-   22 citations · Biochar
+   23 citations · Biochar
 
 2. **Enhancing soil carbon sequestration in jasmine gardens: Differential effects of straw and biochar on mineral-associated and particulate organic carbon** (2025)
-   4 citations · Biochar
+   6 citations · Biochar
 
 3. **Long‐term fate of photosynthetic carbon in desert plants: microbial necromass‐driven pathways for soil carbon stabilization** (2025)
    2 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Justin Flory"
 description: "Justin Flory is a Mid-career DAC researcher at Arizona State University in US. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.287949
+date: 2026-08-11T01:33:12.159898
 url: "/cdr-researcher-census/researchers/justin-flory-a5041990/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,30 +51,33 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Moisture-driven CO2 pump for direct air capture** (2023)
-   25 citations
+   26 citations
 
 2. **Comprehensive structural characterization of charged polymers involved in moisture-driven direct air capture** (2026)
    1 citations
 
 3. **ASU’s DAC polymer-enhanced cyanobacterial bioproductivity (AUDACity)** (2026)
-   0 citations · DAC
+   1 citations · DAC
 
-4. **Design and demonstration of a direct air capture system with moisture-driven CO2 delivery into aqueous medium** (2025)
+4. **Moisture-driven CO2 direct air capture and delivery for cultivating cyanobacteria** (2025)
+   1 citations
+
+5. **Moisture-DrivenCO2 Direct Air Captureand Delivery for Cultivating Cyanobacteria** (2026)
    0 citations
 
-5. **Comprehensive Structural Characterization of Charged Polymers Involved in Moisture-Driven Direct Air Capture** (2025)
+6. **Design and demonstration of a direct air capture system with moisture-driven CO2 delivery into aqueous medium** (2025)
    0 citations
 
-6. **Comprehensive Structural Characterization of Charged Polymers Involved in Moisture-Driven Direct Air Capture** (2025)
+7. **Comprehensive Structural Characterization of Charged Polymers Involved in Moisture-Driven Direct Air Capture** (2025)
    0 citations
 
-7. **Moisture-driven CO2 direct air capture and delivery for cultivating cyanobacteria** (2025)
+8. **Comprehensive Structural Characterization of Charged Polymers Involved in Moisture-Driven Direct Air Capture** (2025)
    0 citations
 
-8. **Moisture Driven Co2 Pump for Direct Air Capture** (2023)
+9. **Moisture Driven Co2 Pump for Direct Air Capture** (2023)
    0 citations
 
-9. **Mining Air for Fuels and Fine Chemicals** (2022)
+10. **Mining Air for Fuels and Fine Chemicals** (2022)
    0 citations · DAC
 
 ## External Profiles

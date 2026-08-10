@@ -1,7 +1,7 @@
 ---
 title: "Colin McCormick"
 description: "Colin McCormick is a Senior General CDR researcher at Georgetown University in US. With 106 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.183919
+date: 2026-08-11T01:33:11.158640
 url: "/cdr-researcher-census/researchers/colin-mccormick-a5064487/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **A review of direct air capture (DAC): scaling up commercial technologies and innovating for the future** (2021)
-   687 citations · DAC
+   700 citations · DAC
 
 2. **Biomass Carbon Removal and Storage (BiRCS) Roadmap** (2021)
    51 citations · General CDR

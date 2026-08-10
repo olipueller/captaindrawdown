@@ -1,7 +1,7 @@
 ---
 title: "Jingmeng Wang"
 description: "Jingmeng Wang is a Senior General CDR researcher at Tsinghua University in CN. With 31 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.549730
+date: 2026-08-11T01:33:11.484787
 url: "/cdr-researcher-census/researchers/jingmeng-wang-a5012158/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Global soil organic carbon changes and economic revenues with biochar application** (2021)
-   58 citations · Biochar
+   59 citations · Biochar
 
 2. **Bioenergy Crops for Low Warming Targets Require Half of the Present Agricultural Fertilizer Use** (2021)
    30 citations · BECCS
@@ -63,7 +63,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    17 citations · BECCS
 
 5. **Contributions of countries without a carbon neutrality target to limit global warming** (2025)
-   8 citations · BECCS
+   9 citations · BECCS
 
 6. **Contributions of countries without a carbon neutrality target to limit global warming** (2024)
    0 citations

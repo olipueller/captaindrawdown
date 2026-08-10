@@ -1,7 +1,7 @@
 ---
 title: "Ramu Meena"
 description: "Ramu Meena is a Senior Biochar researcher at Sri Karan Narendra Agriculture University, Jobner in IN. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.542694
+date: 2026-08-11T01:33:12.393070
 url: "/cdr-researcher-census/researchers/ramu-meena-a5102052/"
 layout: "researcher"
 hiddenInHomeList: true

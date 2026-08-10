@@ -1,7 +1,7 @@
 ---
 title: "Tyler Kukla"
 description: "Tyler Kukla is a Mid-career Enhanced Weathering researcher at Colorado State University in US. With 67 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.554158
+date: 2026-08-11T01:33:11.488666
 url: "/cdr-researcher-census/researchers/tyler-kukla-a5044186/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,19 +50,25 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 ## Top CDR Publications
 
-1. **Riverine photosynthesis influences the carbon sequestration potential of enhanced rock weathering** (2025)
+1. **Expert elicitation on agricultural enhanced weathering highlights CO2 removal potential and uncertainties in loss pathways** (2025)
    3 citations · Enhanced Weathering
 
-2. **Expert elicitation on agricultural enhanced weathering highlights CO2 removal potential and uncertainties in loss pathways** (2025)
-   2 citations · Enhanced Weathering
+2. **Riverine photosynthesis influences the carbon sequestration potential of enhanced rock weathering** (2025)
+   3 citations · Enhanced Weathering
 
 3. **Expert elicitation on agricultural enhanced weathering reveals carbon dioxide removal potential and uncertainties in loss pathways** (2026)
    1 citations · Enhanced Weathering
 
-4. **Swapping carbonate for silicate in agricultural enhanced rock weathering** (2025)
+4. **Moving fast without breaking things: The benefits of preprinting for CDR research** (2026)
+   0 citations · General CDR
+
+5. **An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering** (2026)
    0 citations · Enhanced Weathering
 
-5. **Photosynthesis in Rivers as a Loss Pathway for ERW-Derived DIC and Alkalinity** (2025)
+6. **Swapping carbonate for silicate in agricultural enhanced rock weathering** (2025)
+   0 citations · Enhanced Weathering
+
+7. **Photosynthesis in Rivers as a Loss Pathway for ERW-Derived DIC and Alkalinity** (2025)
    0 citations · Enhanced Weathering
 
 ## External Profiles

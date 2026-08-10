@@ -1,7 +1,7 @@
 ---
 title: "Yicheng Wang"
 description: "Yicheng Wang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.038194
+date: 2026-08-11T01:33:11.913009
 url: "/cdr-researcher-census/researchers/yicheng-wang-a5100411/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,13 +54,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    42 citations · General CDR
 
 2. **Interactive impacts of climate change and agricultural management on soil organic carbon sequestration potential of cropland in China over the coming decades** (2022)
-   40 citations · General CDR
+   41 citations · General CDR
 
 3. **Mapping the spatiotemporal patterns of tillage practices across Chinese croplands with Google Earth Engine** (2023)
    15 citations · Soil Carbon
 
 4. **Nitrogen nutrient supply and greenhouse gas mitigation potentials from cover crops across Chinese croplands** (2023)
-   10 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 5. **Climate mitigation potential and economic costs of natural climate solutions for main cropping systems across China** (2024)
    7 citations · General CDR

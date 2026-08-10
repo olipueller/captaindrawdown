@@ -1,7 +1,7 @@
 ---
 title: "Alexa K. Byers"
 description: "Alexa K. Byers is a Mid-career Soil Carbon researcher at Lincoln University in NZ. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.193817
+date: 2026-08-11T01:33:12.077570
 url: "/cdr-researcher-census/researchers/alexa-k-byers-a5041617/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ruiling Ma"
 description: "Ruiling Ma is a Senior Biochar researcher at Nanjing Agricultural University in CN. With 21 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.564183
+date: 2026-08-11T01:33:12.409575
 url: "/cdr-researcher-census/researchers/ruiling-ma-a5064604/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar-plant interactions enhance nonbiochar carbon sequestration in a rice paddy soil** (2023)
-   24 citations · Biochar
+   26 citations · Biochar
 
 2. **The divergent response of fungal and bacterial necromass carbon in soil aggregates under biochar amendment in paddy soil** (2025)
    7 citations · Biochar
 
-3. **Biochar amendment reduced microbial necromass carbon accumulation in a paddy soil profile** (2025)
-   1 citations · Biochar
+3. **Developing diversity indicators from organic matter and microbe to depict their changes across different soil-landscapes in a subtropical hilly area** (2025)
+   2 citations · Soil Carbon
 
-4. **Developing diversity indicators from organic matter and microbe to depict their changes across different soil-landscapes in a subtropical hilly area** (2025)
-   1 citations · Soil Carbon
+4. **Biochar amendment reduced microbial necromass carbon accumulation in a paddy soil profile** (2025)
+   1 citations · Biochar
 
 5. **Biochar amendment increases microbial necromass carbon accumulation by regulating microbial life strategies in a coastal saline soil** (2026)
    0 citations · Biochar

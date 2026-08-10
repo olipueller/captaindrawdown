@@ -1,7 +1,7 @@
 ---
 title: "Yefeng Wang"
 description: "Yefeng Wang is a Senior Soil Carbon researcher at Shaanxi Normal University in CN. With 58 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.345079
+date: 2026-08-11T01:33:11.308119
 url: "/cdr-researcher-census/researchers/yefeng-wang-a5089362/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Pore structure analysis via X-ray μCT: Enhancing soil macroaggregate models for water permeability and carbon sequestration** (2024)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 2. **Pore Structure Analysis Via X-Ray Μct: Enhancing Soil Macroaggregate Models for Water Permeability and Carbon Sequestration** (2023)
    1 citations · Soil Carbon

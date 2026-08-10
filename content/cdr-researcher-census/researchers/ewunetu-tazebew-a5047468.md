@@ -1,7 +1,7 @@
 ---
 title: "Ewunetu Tazebew"
 description: "Ewunetu Tazebew is a Mid-career Soil Carbon researcher at Stellenbosch University in ZA. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.580523
+date: 2026-08-11T01:33:12.418890
 url: "/cdr-researcher-census/researchers/ewunetu-tazebew-a5047468/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,13 +50,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Contribution of exclosures to woody species conservation and ecosystem restoration in degraded lands in Ethiopia** (2026)
+1. **Biomass carbon stocks and sequestration potential of remnant forests in the subtropical highlands of Ethiopia** (2026)
    0 citations
 
-2. **Woody plant diversity, regeneration and carbon sequestration across forests and agroforestry landscapes in Ethiopia** (2026)
+2. **Contribution of exclosures to woody species conservation and ecosystem restoration in degraded lands in Ethiopia** (2026)
    0 citations
 
-3. **Ecological and Socio-economic Contributions of Coffee-based Agroforestry Systems in Ethiopia: A Systematic Review** (2025)
+3. **Woody plant diversity, regeneration and carbon sequestration across forests and agroforestry landscapes in Ethiopia** (2026)
+   0 citations
+
+4. **Ecological and Socio-economic Contributions of Coffee-based Agroforestry Systems in Ethiopia: A Systematic Review** (2025)
    0 citations · General CDR
 
 ## External Profiles

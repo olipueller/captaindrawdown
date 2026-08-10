@@ -1,7 +1,7 @@
 ---
 title: "Jiangwei Zhang"
 description: "Jiangwei Zhang is a Senior DAC researcher at First Affiliated Hospital of Xi'an Jiaotong University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.549827
+date: 2026-08-11T01:33:11.484884
 url: "/cdr-researcher-census/researchers/jiangwei-zhang-a5100771/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Direct Air Capture and Photoconversion of CO <sub>2</sub> to Ethylene by Defect‐Tailored Cu <sub>3</sub> ‐Based Metal–Organic Frameworks** (2025)
-   1 citations · DAC
+   2 citations · DAC
 
 ## External Profiles
 

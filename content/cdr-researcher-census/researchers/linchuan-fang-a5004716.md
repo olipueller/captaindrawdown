@@ -1,7 +1,7 @@
 ---
 title: "Linchuan Fang"
 description: "Linchuan Fang is an Eminent Soil Carbon researcher at 中科院水土保持研究所 in CN. With 207 publications and an h-index of 70, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.089557
+date: 2026-08-11T01:33:11.070568
 url: "/cdr-researcher-census/researchers/linchuan-fang-a5004716/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,28 +51,28 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Ecoenzymatic stoichiometry reveals widespread soil phosphorus limitation to microbial metabolism across Chinese forests** (2022)
-   156 citations · Soil Carbon
+   161 citations · Soil Carbon
 
 2. **Decreasing microbial phosphorus limitation increases soil carbon release** (2022)
-   119 citations · Soil Carbon
+   122 citations · Soil Carbon
 
 3. **Crop residue return achieves environmental mitigation and enhances grain yield: a global meta-analysis** (2023)
-   109 citations · Soil Carbon
+   117 citations · Soil Carbon
 
 4. **Soil aggregate development and associated microbial metabolic limitations alter grassland carbon storage following livestock removal** (2022)
-   94 citations
+   96 citations
 
 5. **Optimizing cover crop practices as a sustainable solution for global agroecosystem services** (2024)
-   84 citations · Soil Carbon
+   90 citations · Soil Carbon
 
 6. **Heavy metal pollution increases soil microbial carbon limitation: Evidence from ecological enzyme stoichiometry** (2021)
-   68 citations · Soil Carbon
+   69 citations · Soil Carbon
 
 7. **New perspectives on microbiome and nutrient sequestration in soil aggregates during long‐term grazing exclusion** (2023)
    60 citations · Soil Carbon
 
 8. **Ecoenzymatic stoichiometry reveals phosphorus addition alleviates microbial nutrient limitation and promotes soil carbon sequestration in agricultural ecosystems** (2021)
-   58 citations · Soil Carbon
+   60 citations · Soil Carbon
 
 9. **Microbial metabolic limitation response to experimental warming along an altitudinal gradient in alpine grasslands, eastern Tibetan Plateau** (2022)
    57 citations

@@ -1,7 +1,7 @@
 ---
 title: "Lizhu Suo"
 description: "Lizhu Suo is a Mid-career Soil Carbon researcher at Ludong University in CN. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.839881
+date: 2026-08-11T01:33:11.745047
 url: "/cdr-researcher-census/researchers/lizhu-suo-a5013548/"
 layout: "researcher"
 hiddenInHomeList: true

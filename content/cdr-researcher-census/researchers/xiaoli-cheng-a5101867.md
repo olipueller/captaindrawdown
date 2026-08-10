@@ -1,7 +1,7 @@
 ---
 title: "Xiaoli Cheng"
 description: "Xiaoli Cheng is an Eminent Soil Carbon researcher at Yunnan University in CN. With 183 publications and an h-index of 47, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.100050
+date: 2026-08-11T01:33:11.080205
 url: "/cdr-researcher-census/researchers/xiaoli-cheng-a5101867/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Nitrogen availability and mineral particles contributed fungal necromass to the newly formed stable carbon pool in the alpine areas of Southwest China** (2022)
-   70 citations · Soil Carbon
+   71 citations · Soil Carbon
 
 2. **Increased soil organic carbon response to fertilization is associated with increasing microbial carbon use efficiency: Data synthesis** (2022)
-   53 citations · Soil Carbon
+   54 citations · Soil Carbon
 
 3. **Changes in soil organic carbon and nitrogen pool sizes, dynamics, and biochemical stability during ∼160 years natural vegetation restoration on the Loess Plateau, China** (2022)
-   37 citations · Soil Carbon
+   38 citations · Soil Carbon
 
 4. **Natural revegetation over ∼ 160 years alters carbon and nitrogen sequestration and stabilization in soil organic matter on the Loess Plateau of China** (2022)
-   32 citations · Soil Carbon
+   33 citations · Soil Carbon
 
 5. **Microbial Adaptations Within Fine‐Scale Soil Structure Alleviate Phosphorus Limitation on Carbon Sequestration Following Afforestation** (2023)
    10 citations · Soil Carbon
 
 6. **Warming inhibits new soil organic carbon formation with higher bacterial necromass contribution** (2025)
-   4 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 7. **Shifts and drivers in soil carbon and nitrogen sequestration and stabilization along a 2100-m altitudinal gradient from temperate forests to alpine shrub meadow** (2025)
    1 citations · Soil Carbon

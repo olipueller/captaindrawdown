@@ -1,7 +1,7 @@
 ---
 title: "Ronggao Qin"
 description: "Ronggao Qin is a Mid-career Biochar researcher at Kunming University of Science and Technology in CN. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.710312
+date: 2026-08-11T01:33:11.629442
 url: "/cdr-researcher-census/researchers/ronggao-qin-a5085360/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Magnetic composite photocatalyst NiFe₂O₄/ZnIn₂S₄/biochar for efficient removal of antibiotics in water under visible light: Performance, mechanism and pathway** (2024)
-   22 citations · Biochar
+   23 citations · Biochar
 
 2. **Magnetic Composite Photocatalyst Nife₂O₄/Znin₂S₄/Biochar for Efficient Removal of Antibiotics in Water Under Visible Light: Performance, Mechanism and Pathway** (2024)
    0 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Roman Maletz"
 description: "Roman Maletz is a Mid-career Biochar researcher. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.940738
+date: 2026-08-11T01:33:11.836344
 url: "/cdr-researcher-census/researchers/roman-maletz-a5045253/"
 layout: "researcher"
 hiddenInHomeList: true

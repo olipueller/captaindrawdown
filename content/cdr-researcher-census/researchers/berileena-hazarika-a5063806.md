@@ -1,7 +1,7 @@
 ---
 title: "Berileena Hazarika"
 description: "Berileena Hazarika is an Early-career Biochar researcher at National Institute Of Technology Silchar in IN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.911828
+date: 2026-08-11T01:33:11.810479
 url: "/cdr-researcher-census/researchers/berileena-hazarika-a5063806/"
 layout: "researcher"
 hiddenInHomeList: true

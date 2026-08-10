@@ -1,7 +1,7 @@
 ---
 title: "Georges Martial Ndzana"
 description: "Georges Martial Ndzana is a Mid-career Soil Carbon researcher at Université de Dschang in CM. With 34 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.358547
+date: 2026-08-11T01:33:11.319463
 url: "/cdr-researcher-census/researchers/georges-martial-ndzana-a5075196/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil organic carbon increase via microbial assimilation or soil protection against the priming effect is mediated by the availability of soil N relative to input C** (2024)
-   31 citations · Soil Carbon
+   35 citations · Soil Carbon
 
 2. **Effects of nutrient addition on the composition and chemical characteristics of soil dissolved organic matter in a desert steppe in northern China** (2023)
    11 citations · Soil Carbon

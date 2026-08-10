@@ -1,7 +1,7 @@
 ---
 title: "Dener Márcio da Silva Oliveira"
 description: "Dener Márcio da Silva Oliveira is a Mid-career Soil Carbon researcher at Universidade Federal de Viçosa in BR. With 66 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.273991
+date: 2026-08-11T01:33:11.242681
 url: "/cdr-researcher-census/researchers/dener-marcio-da-silva-oliveira-a5012234/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,13 +48,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Thermal stability of soil organic carbon after long-term manure application across land uses and tillage systems in an oxisol** (2021)
-   25 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 2. **Depth assessed and up-scaling of single case studies might overestimate the role of C sequestration by pastures in the commitments of Brazil’s low-carbon agriculture plan** (2021)
    9 citations · Soil Carbon
 
 3. **A Global Meta-Analysis of Soil Carbon Stock in Agroforestry Coffee Cultivation** (2025)
-   7 citations · General CDR
+   8 citations · General CDR
 
 4. **Soil carbon dynamics in integrated agricultural systems in Minas Gerais state, Brazil: A meta-analysis** (2024)
    7 citations · Soil Carbon
@@ -63,19 +63,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · Soil Carbon
 
 6. **Biodiversification with perennial forages increases soil carbon stocks and soybean yield** (2025)
-   4 citations · Soil Carbon
+   6 citations · Soil Carbon
 
-7. **Well-Managed Pasture and Integrated Crop-Livestock-Forestry Systems Improving the Soil Organic Matter Quality: A Ftir Spectroscopy and Thermogravimetric Assessment** (2025)
+7. **Soil organic carbon dynamics in agroforestry systems across urban and peri-urban landscapes** (2026)
+   0 citations · Soil Carbon
+
+8. **Well-Managed Pasture and Integrated Crop-Livestock-Forestry Systems Improving the Soil Organic Matter Quality: A Ftir Spectroscopy and Thermogravimetric Assessment** (2025)
    0 citations
 
-8. **Well-Managed Pasture and Integrated Crop-Livestock-Forestry Systems Improving the Soil Organic Matter Quality: A Ftir Spectroscopy and Thermogravimetric Assessment** (2024)
+9. **Well-Managed Pasture and Integrated Crop-Livestock-Forestry Systems Improving the Soil Organic Matter Quality: A Ftir Spectroscopy and Thermogravimetric Assessment** (2024)
    0 citations · Soil Carbon
 
-9. **Data Set on Soil Physicochemical Parameters, Biomass Accumulation and Carbon Credit Generation in Different Management Systems in Rio Verde, Go, Brazil** (2024)
+10. **Data Set on Soil Physicochemical Parameters, Biomass Accumulation and Carbon Credit Generation in Different Management Systems in Rio Verde, Go, Brazil** (2024)
    0 citations · General CDR
-
-10. **Climate-smart agriculture and soil C sequestration in Brazilian Cerrado: a systematic review** (2023)
-   0 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Yudi Feng"
 description: "Yudi Feng is a Mid-career Biochar researcher at Jilin University in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.065292
+date: 2026-08-11T01:33:11.959057
 url: "/cdr-researcher-census/researchers/yudi-feng-a5101381/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar Input to Saline-Alkali Farmland Can Improve Soil Health and Crop Yield: A Meta-Analysis** (2025)
-   12 citations · Biochar
+   15 citations · Biochar
 
 ## External Profiles
 

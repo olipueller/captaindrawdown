@@ -1,7 +1,7 @@
 ---
 title: "Iordanis Magiopoulos"
 description: "Iordanis Magiopoulos is a Mid-career Ocean CDR researcher at Hellenic Centre for Marine Research in GR. With 39 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.707405
+date: 2026-08-11T01:33:11.626481
 url: "/cdr-researcher-census/researchers/iordanis-magiopoulos-a5069820/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,10 +50,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 ## Top CDR Publications
 
-1. **The effect of ocean alkalinity enhancement on zooplankton standing stock and community composition in the Eastern Mediterranean Sea: a mesocosm study** (2025)
-   3 citations · Ocean CDR
+1. **Plankton do not care: Minimal effects of ocean liming on plankton growth and grazing in the Eastern Mediterranean** (2025)
+   4 citations · Ocean CDR
 
-2. **Plankton do not care: Minimal effects of ocean liming on plankton growth and grazing in the Eastern Mediterranean** (2025)
+2. **The effect of ocean alkalinity enhancement on zooplankton standing stock and community composition in the Eastern Mediterranean Sea: a mesocosm study** (2025)
    3 citations · Ocean CDR
 
 3. **Ocean liming in eutrophic vs. ultraoligotrophic environments and the response of algal calcifiers** (2024)

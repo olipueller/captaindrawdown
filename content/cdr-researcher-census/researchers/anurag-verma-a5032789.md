@@ -1,7 +1,7 @@
 ---
 title: "Anurag Verma"
 description: "Anurag Verma is a Mid-career Biochar researcher at Energy and Resources Institute in IN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.201332
+date: 2026-08-11T01:33:11.175325
 url: "/cdr-researcher-census/researchers/anurag-verma-a5032789/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Adsorptive behavior of micro(nano)plastics through biochar: Co-existence, consequences, and challenges in contaminated ecosystems** (2022)
-   156 citations · Biochar
+   159 citations · Biochar
 
 ## External Profiles
 

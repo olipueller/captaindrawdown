@@ -1,7 +1,7 @@
 ---
 title: "Kristine Lister"
 description: "Kristine Lister is a Mid-career General CDR researcher at World Resources Institute in US. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.452210
+date: 2026-08-11T01:33:11.400226
 url: "/cdr-researcher-census/researchers/kristine-lister-a5012693/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Protect young secondary forests for optimum carbon removal** (2025)
-   28 citations · General CDR
+   31 citations · General CDR
 
 ## External Profiles
 

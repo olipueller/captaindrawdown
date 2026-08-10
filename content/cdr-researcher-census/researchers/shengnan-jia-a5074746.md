@@ -1,7 +1,7 @@
 ---
 title: "Shengnan Jia"
 description: "Shengnan Jia is an Early-career Soil Carbon researcher at Nanjing University of Information Science and Technology in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.506551
+date: 2026-08-11T01:33:12.359192
 url: "/cdr-researcher-census/researchers/shengnan-jia-a5074746/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,11 +47,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Analysis of the consequences of land-use changes and soil types on organic carbon storage in the Tarim River Basin from 2000 to 2020** (2021)
-   49 citations · Soil Carbon
+1. **Soil Chemical Properties Depending on Fertilization and Management in China: A Meta-Analysis** (2022)
+   50 citations · Soil Carbon
 
-2. **Soil Chemical Properties Depending on Fertilization and Management in China: A Meta-Analysis** (2022)
-   48 citations · Soil Carbon
+2. **Analysis of the consequences of land-use changes and soil types on organic carbon storage in the Tarim River Basin from 2000 to 2020** (2021)
+   50 citations · Soil Carbon
 
 ## External Profiles
 

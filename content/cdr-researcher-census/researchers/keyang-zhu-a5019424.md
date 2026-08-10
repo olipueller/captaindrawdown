@@ -1,7 +1,7 @@
 ---
 title: "Keyang Zhu"
 description: "Keyang Zhu is a Mid-career Soil Carbon researcher at North Sichuan Medical University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.419655
+date: 2026-08-11T01:33:11.372411
 url: "/cdr-researcher-census/researchers/keyang-zhu-a5019424/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xianzhao Zhang"
 description: "Xianzhao Zhang is a Senior Biochar researcher at Clark College in US. With 55 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.456034
+date: 2026-08-11T01:33:11.403749
 url: "/cdr-researcher-census/researchers/xianzhao-zhang-a5052562/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **An achieved strategy for magnetic biochar for removal of tetracyclines and fluoroquinolones: Adsorption and mechanism studies** (2022)
-   144 citations · Biochar
+   146 citations · Biochar
 
 2. **In situ assembly of Cu/N dual active sites on biochar via a metal ionic liquid for nonradical peroxydisulfate activation and efficient tetracycline degradation** (2026)
    1 citations · Biochar

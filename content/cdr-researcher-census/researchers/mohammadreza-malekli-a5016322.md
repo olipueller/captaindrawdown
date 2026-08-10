@@ -1,7 +1,7 @@
 ---
 title: "Mohammadreza Malekli"
 description: "Mohammadreza Malekli is a Mid-career General CDR researcher at University of Tehran in IR. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.341307
+date: 2026-08-11T01:33:12.206924
 url: "/cdr-researcher-census/researchers/mohammadreza-malekli-a5016322/"
 layout: "researcher"
 hiddenInHomeList: true

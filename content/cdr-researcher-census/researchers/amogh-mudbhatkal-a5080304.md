@@ -1,7 +1,7 @@
 ---
 title: "Amogh Mudbhatkal"
 description: "Amogh Mudbhatkal is a Mid-career Enhanced Weathering researcher at University of Lincoln in GB. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.587146
+date: 2026-08-11T01:33:11.518801
 url: "/cdr-researcher-census/researchers/amogh-mudbhatkal-a5080304/"
 layout: "researcher"
 hiddenInHomeList: true

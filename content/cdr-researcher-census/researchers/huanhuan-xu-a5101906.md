@@ -1,7 +1,7 @@
 ---
 title: "Huanhuan Xu"
 description: "Huanhuan Xu is a Senior Biochar researcher at Innovation Team (China) in CN. With 33 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.402020
+date: 2026-08-11T01:33:11.356502
 url: "/cdr-researcher-census/researchers/huanhuan-xu-a5101906/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Maize stalk incorporation increases N2O emissions that offset the benefit of SOC sequestration in a winter wheat-summer maize field: A four-year measurement in long-term fertilizer experiments** (2023)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 2. **Unveiling mechanisms of nZVI-biochar enhanced nitrogen removal in constructed wetlands: Microbial community assembly** (2025)
    3 citations · Biochar

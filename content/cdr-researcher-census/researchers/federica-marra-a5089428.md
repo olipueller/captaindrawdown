@@ -1,7 +1,7 @@
 ---
 title: "Federica Marra"
 description: "Federica Marra is a Mid-career Soil Carbon researcher at University of Reggio Calabria in IT. With 58 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.347079
+date: 2026-08-11T01:33:11.310023
 url: "/cdr-researcher-census/researchers/federica-marra-a5089428/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Humic Substances: Bridging Ecology and Agriculture for a Greener Future** (2025)
-   75 citations · Soil Carbon
+   84 citations · Soil Carbon
 
 2. **Sustainable fertilizers from wastes: a strategy to enhance soil carbon, improve soil quality, and mitigate emissions** (2026)
    2 citations · Soil Carbon

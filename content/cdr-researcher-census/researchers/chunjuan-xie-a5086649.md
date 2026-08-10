@@ -1,7 +1,7 @@
 ---
 title: "Chunjuan Xie"
 description: "Chunjuan Xie is a Senior Soil Carbon researcher at East China Jiaotong University in CN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.091943
+date: 2026-08-11T01:33:11.983955
 url: "/cdr-researcher-census/researchers/chunjuan-xie-a5086649/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Microplastic pollution threatens mangrove carbon sequestration capacity** (2025)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 ## External Profiles
 

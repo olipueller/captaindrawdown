@@ -1,7 +1,7 @@
 ---
 title: "Dhruba Jyoti Das"
 description: "Dhruba Jyoti Das is a Mid-career Soil Carbon researcher at Rain Forest Research Institute in IN. With 11 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.193181
+date: 2026-08-11T01:33:12.076965
 url: "/cdr-researcher-census/researchers/dhruba-jyoti-das-a5057280/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Quantifying Tree Diversity, Carbon Stocks, and Sequestration Potential for Diverse Land Uses in Northeast India** (2021)
-   71 citations · General CDR
+   73 citations · General CDR
 
 ## External Profiles
 

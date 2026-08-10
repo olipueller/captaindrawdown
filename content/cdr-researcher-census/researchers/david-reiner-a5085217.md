@@ -1,7 +1,7 @@
 ---
 title: "David Reiner"
 description: "David Reiner is an Eminent General CDR researcher at University of Cambridge in GB. With 225 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.092646
+date: 2026-08-11T01:33:11.073412
 url: "/cdr-researcher-census/researchers/david-reiner-a5085217/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Direct air capture: process technology, techno-economic and socio-political challenges** (2022)
-   655 citations · DAC
+   669 citations · DAC
 
 2. **Sustainable scale-up of negative emissions technologies and practices: where to focus** (2022)
    53 citations · General CDR
@@ -63,16 +63,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    39 citations · General CDR
 
 5. **Modelling flexibility requirements in deep decarbonisation scenarios: The role of conventional flexibility and sector coupling options in the European 2050 energy system** (2024)
-   31 citations
+   32 citations
 
 6. **Expert insights into future trajectories: assessing cost reductions and scalability of carbon dioxide removal technologies** (2024)
    21 citations · BECCS
 
-7. **Responsible carbon dioxide removals and the EU’s 2040 climate target** (2024)
-   13 citations · General CDR
+7. **Co-deploying biochar and bioenergy with carbon capture and storage improves cost-effectiveness and sustainability of China’s carbon neutrality** (2025)
+   14 citations · BECCS
 
-8. **Co-deploying biochar and bioenergy with carbon capture and storage improves cost-effectiveness and sustainability of China’s carbon neutrality** (2025)
-   12 citations · BECCS
+8. **Responsible carbon dioxide removals and the EU’s 2040 climate target** (2024)
+   13 citations · General CDR
 
 9. **Europe’s ‘green deal’ and carbon dioxide removal** (2021)
    5 citations · General CDR

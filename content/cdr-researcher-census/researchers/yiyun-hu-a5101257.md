@@ -1,7 +1,7 @@
 ---
 title: "Yiyun Hu"
 description: "Yiyun Hu is a Senior Biochar researcher. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.022532
+date: 2026-08-11T01:33:11.898862
 url: "/cdr-researcher-census/researchers/yiyun-hu-a5101257/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **The response of crop yield, carbon sequestration, and global warming potential to straw and biochar applications: A meta-analysis** (2023)
-   30 citations · Biochar
+   31 citations · Biochar
 
 ## External Profiles
 

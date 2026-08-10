@@ -1,7 +1,7 @@
 ---
 title: "Sohum Sen"
 description: "Sohum Sen is an Early-career General CDR researcher at University College London in GB. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.498297
+date: 2026-08-11T01:33:12.351293
 url: "/cdr-researcher-census/researchers/sohum-sen-a5056484/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The Mathematics of life cycle sustainability assessment** (2021)
-   60 citations · General CDR
+   61 citations · General CDR
 
 2. **Energy System Optimization for Net-Zero Electricity** (2022)
-   22 citations · General CDR
+   23 citations · General CDR
 
 3. **Framework for optimal energy storage duration for maximum-reliability renewable electricity** (2024)
    4 citations · General CDR

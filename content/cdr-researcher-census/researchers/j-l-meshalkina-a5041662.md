@@ -1,7 +1,7 @@
 ---
 title: "J. L. Meshalkina"
 description: "J. L. Meshalkina is a Senior Soil Carbon researcher. With 68 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.830188
+date: 2026-08-11T01:33:11.736551
 url: "/cdr-researcher-census/researchers/j-l-meshalkina-a5041662/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -49,22 +49,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    15 citations · Soil Carbon
 
 2. **Forecasting the Carbon Stock Dynamics in the Soils of Cultivated Croplands in European Russia in the Context of the Low-Carbon Development** (2023)
-   7 citations · General CDR
+   9 citations · General CDR
 
 3. **CONIFEROUS LEAF-BEARING FOREST BIOMASS ASSESSMENT BY THE EXAMPLE OF THE EDUCATIONAL AND EXPERIMENTAL SOIL AND ECOLOGICAL CENTER OF LOMONOSOV MOSCOW STATE UNIVERSITY “CHASHNIKOVO”** (2024)
    4 citations
 
-4. **An assessment of the most important carbon pools in the mixed forests of the Moscow region** (2025)
+4. **Assessment of the Biomass of Coniferous–Deciduous Forest by the Example of the Chashnikovo Training and Experimental Soil Ecological Center of Moscow State University** (2024)
+   2 citations
+
+5. **Assessment of the Most Important Carbon Pools in Moscow Oblast Mixed Forests** (2025)
    1 citations · Soil Carbon
 
-5. **Soil Organic Carbon Sequestration Potential Maps in the Russian Cropland** (2024)
+6. **An assessment of the most important carbon pools in the mixed forests of the Moscow region** (2025)
+   1 citations · Soil Carbon
+
+7. **Soil Organic Carbon Sequestration Potential Maps in the Russian Cropland** (2024)
    1 citations · General CDR
-
-6. **Assessment of the Biomass of Coniferous–Deciduous Forest by the Example of the Chashnikovo Training and Experimental Soil Ecological Center of Moscow State University** (2024)
-   1 citations
-
-7. **Assessment of the Most Important Carbon Pools in Moscow Oblast Mixed Forests** (2025)
-   0 citations · Soil Carbon
 
 8. **Sensitivity Analysis of the RothC Model Using Two Climatic Datasets: A Case Study of Arable Soils in Rostov Oblast** (2024)
    0 citations · Soil Carbon

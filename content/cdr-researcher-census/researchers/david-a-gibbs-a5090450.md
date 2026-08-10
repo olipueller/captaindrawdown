@@ -1,7 +1,7 @@
 ---
 title: "David A. Gibbs"
 description: "David A. Gibbs is a Senior Soil Carbon researcher at World Resources Institute in US. With 50 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.180453
+date: 2026-08-11T01:33:11.155537
 url: "/cdr-researcher-census/researchers/david-a-gibbs-a5090450/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    52 citations · Soil Carbon
 
 2. **Protect young secondary forests for optimum carbon removal** (2025)
-   28 citations · General CDR
+   31 citations · General CDR
 
 3. **Comment on essd-2024-397** (2025)
    0 citations

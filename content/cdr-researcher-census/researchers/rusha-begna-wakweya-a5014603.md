@@ -1,7 +1,7 @@
 ---
 title: "Rusha Begna Wakweya"
 description: "Rusha Begna Wakweya is an Early-career Soil Carbon researcher at Ethiopian Institute of Agricultural Research in ET. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.133690
+date: 2026-08-11T01:33:12.022847
 url: "/cdr-researcher-census/researchers/rusha-begna-wakweya-a5014603/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Mitigating climate change impacts on food security via climate-smart agriculture** (2025)
-   13 citations · General CDR
+   16 citations · General CDR
+
+2. **The Bamboo Nexus: Review of Environmental, Economic, and Social Benefits for Sustainable Development** (2026)
+   0 citations
 
 ## External Profiles
 

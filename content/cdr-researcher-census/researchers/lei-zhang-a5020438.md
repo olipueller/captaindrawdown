@@ -1,7 +1,7 @@
 ---
 title: "Lei Zhang"
 description: "Lei Zhang is a Senior Soil Carbon researcher at University of Michigan in US. With 112 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.170167
+date: 2026-08-11T01:33:11.146176
 url: "/cdr-researcher-census/researchers/lei-zhang-a5020438/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A review on digital mapping of soil carbon in cropland: progress, challenge, and prospect** (2022)
-   66 citations · General CDR
+   67 citations · General CDR
 
 2. **Spatio-temporal mapping reveals changes in soil organic carbon stocks across the contiguous United States since 1955** (2025)
-   10 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 3. **Synergistic adsorption and photodegradation of ciprofloxacin in water by biochar-supported titanates: Mechanistic analysis, DFT calculations and toxicity risk assessment** (2025)
    9 citations · Biochar

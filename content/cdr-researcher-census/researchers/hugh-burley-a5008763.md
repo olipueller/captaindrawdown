@@ -1,7 +1,7 @@
 ---
 title: "Hugh Burley"
 description: "Hugh Burley is a Mid-career General CDR researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.656402
+date: 2026-08-11T01:33:11.580956
 url: "/cdr-researcher-census/researchers/hugh-burley-a5008763/"
 layout: "researcher"
 hiddenInHomeList: true

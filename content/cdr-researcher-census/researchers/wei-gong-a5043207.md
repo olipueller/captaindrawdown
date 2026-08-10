@@ -1,7 +1,7 @@
 ---
 title: "Wei Gong"
 description: "Wei Gong is a Senior Soil Carbon researcher at Sichuan Agricultural University in CN. With 67 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.240901
+date: 2026-08-11T01:33:11.212170
 url: "/cdr-researcher-census/researchers/wei-gong-a5043207/"
 layout: "researcher"
 hiddenInHomeList: true

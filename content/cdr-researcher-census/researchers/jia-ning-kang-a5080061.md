@@ -1,7 +1,7 @@
 ---
 title: "Jia-Ning Kang"
 description: "Jia-Ning Kang is a Senior General CDR researcher at Beijing Institute of Technology in CN. With 62 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.158787
+date: 2026-08-11T01:33:11.135248
 url: "/cdr-researcher-census/researchers/jia-ning-kang-a5080061/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The global mismatch between equitable carbon dioxide removal liability and capacity** (2023)
-   31 citations · General CDR
+   32 citations · General CDR
 
 2. **Unlocking the economic potential of Direct Air Capture technology: Insights from a component-based learning curve** (2025)
-   7 citations · DAC
+   8 citations · DAC
 
 3. **The role of BECCS technology in achieving carbon neutrality: evidences from China’ coal power sector** (2023)
-   7 citations · BECCS
+   8 citations · BECCS
 
 4. **Non-carbon dioxide emissions modeling in integrated assessment models: A review** (2024)
    4 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Diego Fernando Urbina Salazar"
 description: "Diego Fernando Urbina Salazar is a Mid-career Soil Carbon researcher at Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement in FR. With 28 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.469251
+date: 2026-08-11T01:33:11.414407
 url: "/cdr-researcher-census/researchers/diego-fernando-urbina-salazar-a5063567/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Using Sentinel-2 Images for Soil Organic Carbon Content Mapping in Croplands of Southwestern France. The Usefulness of Sentinel-1/2 Derived Moisture Maps and Mismatches between Sentinel Images and Sampling Dates** (2021)
-   36 citations · Soil Carbon
+   37 citations · Soil Carbon
 
 2. **Combined use of Sentinel-2 images and Sentinel-1-derived moisture maps for soil organic carbon content mapping in croplands, South-western France** (2021)
    0 citations · Soil Carbon

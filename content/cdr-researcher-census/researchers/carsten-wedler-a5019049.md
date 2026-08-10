@@ -1,7 +1,7 @@
 ---
 title: "Carsten Wedler"
 description: "Carsten Wedler is a Mid-career General CDR researcher at Imperial College London in GB. With 39 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.858985
+date: 2026-08-11T01:33:11.761591
 url: "/cdr-researcher-census/researchers/carsten-wedler-a5019049/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Saurav Saha"
 description: "Saurav Saha is a Senior Soil Carbon researcher at University of Pittsburgh in US. With 97 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.342744
+date: 2026-08-11T01:33:11.305652
 url: "/cdr-researcher-census/researchers/saurav-saha-a5027956/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Prospects of Biochar for Sustainable Agriculture and Carbon Sequestration: An Overview for Eastern Himalayas** (2022)
-   57 citations · Biochar
+   58 citations · Biochar
 
 2. **Potential soil organic carbon sequestration vis-a-vis methane emission in lowland rice agroecosystem** (2023)
    24 citations · Soil Carbon
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Biochar
 
 5. **Impact of different cropping systems on structural attributes and aggregate-associated carbon dynamics of clayey soil under conservation agriculture** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

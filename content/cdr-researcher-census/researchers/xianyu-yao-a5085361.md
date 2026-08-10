@@ -1,7 +1,7 @@
 ---
 title: "Xianyu Yao"
 description: "Xianyu Yao is a Mid-career Soil Carbon researcher at Guangxi University in CN. With 34 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.850943
+date: 2026-08-11T01:33:11.754350
 url: "/cdr-researcher-census/researchers/xianyu-yao-a5085361/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,15 +54,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · Soil Carbon
 
 2. **Estimating microbial necromass contribution to mineral-associated organic matter: comparison of stoichiometric and biomarker methods** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 3. **Soil Organic Carbon Stock, Source, and Stability after 20-Year Mangrove Afforestation in Southern China** (2023)
    1 citations · Soil Carbon
 
-4. **Nitrogen-fixing Trees Increase Weathering Indices and Soil Nutrients in coral sand substrates** (2026)
+4. **Nitrogen-Fixing Trees Shift Soil Organic Carbon Toward Mineral-Associated Stability by Enhancing Microbial-Derived Carbon in Subtropical Plantations** (2026)
+   0 citations
+
+5. **Nitrogen-fixing Trees Increase Weathering Indices and Soil Nutrients in coral sand substrates** (2026)
    0 citations · Enhanced Weathering
 
-5. **Introduction of Dalbergia Odorifera Enhances Nitrogen Absorption on Eucalyputs Through Stimulating Microbially Mediated Soil Nitrogen-cycling** (2021)
+6. **Introduction of Dalbergia Odorifera Enhances Nitrogen Absorption on Eucalyputs Through Stimulating Microbially Mediated Soil Nitrogen-cycling** (2021)
    0 citations · Soil Carbon
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Liming Yin"
 description: "Liming Yin is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 43 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.309421
+date: 2026-08-11T01:33:11.276253
 url: "/cdr-researcher-census/researchers/liming-yin-a5039625/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,13 +54,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    29 citations
 
 2. **Nitrogen deposition enhances soil organic carbon sequestration through plant–soil–microbe synergies** (2025)
-   16 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 3. **Similar mineral-associated organic carbon formation but distinct efficiencies by powdered wollastonite addition between two soils** (2025)
-   3 citations · Enhanced Weathering
+   5 citations · Enhanced Weathering
 
 4. **Long term low-level nitrogen addition enhances microbial carbon use efficiency and turnover rate across different seasons** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

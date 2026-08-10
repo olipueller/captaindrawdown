@@ -1,7 +1,7 @@
 ---
 title: "Michelle C. Mack"
 description: "Michelle C. Mack is a Senior Soil Carbon researcher at Northern Arizona University in US. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.731453
+date: 2026-08-11T01:33:11.648513
 url: "/cdr-researcher-census/researchers/michelle-c-mack-a5019826/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Wildfire and Permafrost Thaw Reduce C Pools and Diminish Carbon Sequestration Potential in Yedoma Surface Soils** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

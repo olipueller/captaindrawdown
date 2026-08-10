@@ -1,7 +1,7 @@
 ---
 title: "Danyang Chen"
 description: "Danyang Chen is a Mid-career Biochar researcher at Wuhan University in CN. With 26 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.764517
+date: 2026-08-11T01:33:11.678853
 url: "/cdr-researcher-census/researchers/danyang-chen-a5100652/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar combined with N fertilization and straw return in wheat-maize agroecosystem: Key practices to enhance crop yields and minimize carbon and nitrogen footprints** (2023)
-   105 citations · Biochar
+   106 citations · Biochar
 
 2. **Impact of straw-biochar amendments on microbial activity and soil carbon dynamics in wheat-maize system** (2024)
-   44 citations · Biochar
+   45 citations · Biochar
 
 3. **Potential relationships between greenhouse gas emissions and soil physicochemical properties in summer maize field with straw-biochar amendment** (2025)
-   6 citations · Biochar
+   7 citations · Biochar
 
 ## External Profiles
 

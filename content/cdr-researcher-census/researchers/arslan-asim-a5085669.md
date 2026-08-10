@@ -1,7 +1,7 @@
 ---
 title: "Arslan Asim"
 description: "Arslan Asim is a Mid-career Biochar researcher at Niğde Ömer Halisdemir Üniversitesi in TR. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.037757
+date: 2026-08-11T01:33:11.912635
 url: "/cdr-researcher-census/researchers/arslan-asim-a5085669/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar for Climate Change Adaptation and Mitigation** (2025)
-   2 citations · Biochar
+   3 citations · Biochar
 
 ## External Profiles
 

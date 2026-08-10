@@ -1,7 +1,7 @@
 ---
 title: "Priyanka Katiyar"
 description: "Priyanka Katiyar is a Mid-career Biochar researcher at Shiv Nadar University in IN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.468923
+date: 2026-08-11T01:33:12.325256
 url: "/cdr-researcher-census/researchers/priyanka-katiyar-a5085790/"
 layout: "researcher"
 hiddenInHomeList: true

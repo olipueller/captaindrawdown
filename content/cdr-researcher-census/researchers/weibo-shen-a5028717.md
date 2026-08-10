@@ -1,7 +1,7 @@
 ---
 title: "Weibo Shen"
 description: "Weibo Shen is a Senior Biochar researcher at Chinese Academy of Sciences in CN. With 38 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.385835
+date: 2026-08-11T01:33:11.342234
 url: "/cdr-researcher-census/researchers/weibo-shen-a5028717/"
 layout: "researcher"
 hiddenInHomeList: true

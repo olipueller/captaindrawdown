@@ -1,7 +1,7 @@
 ---
 title: "Sandro Lúcio Silva Moreira"
 description: "Sandro Lúcio Silva Moreira is a Mid-career Soil Carbon researcher at Universidade Federal de Viçosa in BR. With 25 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.215464
+date: 2026-08-11T01:33:12.097218
 url: "/cdr-researcher-census/researchers/sandro-lucio-silva-moreira-a5032482/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon accumulation in the soil and biomass of macauba palm commercial plantations** (2024)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 2. **Iron ore Tailling-enriched biochar for carbon improvement in coarse textured soils** (2025)
    1 citations · Biochar

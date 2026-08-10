@@ -1,7 +1,7 @@
 ---
 title: "Guoquan Zeng"
 description: "Guoquan Zeng is a Mid-career Biochar researcher at Sichuan University in CN. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.390922
+date: 2026-08-11T01:33:11.346789
 url: "/cdr-researcher-census/researchers/guoquan-zeng-a5062537/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar enhances Cd mineralization through microbially induced carbonate precipitation as a soil remediation strategy for rice paddies** (2024)
-   5 citations · Biochar
+   7 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Anna Emanuelsson"
 description: "Anna Emanuelsson is a Senior DAC researcher. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.120780
+date: 2026-08-11T01:33:12.011111
 url: "/cdr-researcher-census/researchers/anna-emanuelsson-a5045778/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **BECCS and DACCS as Negative Emission Providers in an Intermittent Electricity System: Why Levelized Cost of Carbon May Be a Misleading Measure for Policy Decisions** (2021)
-   48 citations · BECCS
+   49 citations · BECCS
 
 ## External Profiles
 

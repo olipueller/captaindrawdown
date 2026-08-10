@@ -1,7 +1,7 @@
 ---
 title: "Marina Caselli"
 description: "Marina Caselli is a Mid-career Soil Carbon researcher at Consejo Nacional de Investigaciones Científicas y Técnicas in AR. With 23 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.367582
+date: 2026-08-11T01:33:12.230195
 url: "/cdr-researcher-census/researchers/marina-caselli-a5052555/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon density and sequestration in the temperate forests of northern Patagonia, Argentina** (2024)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 2. **Forestry, from theory to practice: Central European ideas in native Patagonian forests in a context of climate change** (2025)
    2 citations · Soil Carbon

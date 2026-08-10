@@ -1,7 +1,7 @@
 ---
 title: "Yi Wuying"
 description: "Yi Wuying is a Mid-career Biochar researcher at Institute of Subtropical Agriculture in CN. With 13 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.046614
+date: 2026-08-11T01:33:11.921389
 url: "/cdr-researcher-census/researchers/yi-wuying-a5001381/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Contrasting effects of straw and straw-derived biochar applications on soil carbon accumulation and nitrogen use efficiency in double-rice cropping systems** (2021)
-   181 citations · Biochar
+   183 citations · Biochar
 
 ## External Profiles
 

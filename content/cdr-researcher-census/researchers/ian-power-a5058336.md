@@ -1,7 +1,7 @@
 ---
 title: "Ian Power"
 description: "Ian Power is an Eminent Enhanced Weathering researcher at Trent University in CA. With 368 publications and an h-index of 49, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.096945
+date: 2026-08-11T01:33:11.077245
 url: "/cdr-researcher-census/researchers/ian-power-a5058336/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -62,11 +62,11 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 4. **The Mining Industry’s Role in Enhanced Weathering and Mineralization for CO<sub>2</sub> Removal** (2023)
    39 citations · Enhanced Weathering
 
-5. **Impacts of dissolved phosphorus and soil-mineral-fluid interactions on CO2 removal through enhanced weathering of wollastonite in soils** (2022)
-   32 citations · Enhanced Weathering
+5. **Passive direct air capture using calcium oxide powder: The importance of water vapor** (2024)
+   32 citations
 
-6. **Passive direct air capture using calcium oxide powder: The importance of water vapor** (2024)
-   31 citations
+6. **Impacts of dissolved phosphorus and soil-mineral-fluid interactions on CO2 removal through enhanced weathering of wollastonite in soils** (2022)
+   31 citations · Enhanced Weathering
 
 7. **Cation Exchange in Smectites as a New Approach to Mineral Carbonation** (2022)
    30 citations · Enhanced Weathering
@@ -75,10 +75,10 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    28 citations · Enhanced Weathering
 
 9. **Are enhanced rock weathering rates overestimated? A few geochemical and mineralogical pitfalls** (2025)
-   23 citations · Enhanced Weathering
+   24 citations · Enhanced Weathering
 
 10. **Impact of wet-dry cycles on enhanced rock weathering of brucite, wollastonite, serpentinite and kimberlite: Implications for carbon verification** (2023)
-   16 citations · Enhanced Weathering
+   17 citations · Enhanced Weathering
 
 ## External Profiles
 

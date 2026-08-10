@@ -1,7 +1,7 @@
 ---
 title: "Sovan Debnath"
 description: "Sovan Debnath is a Mid-career Soil Carbon researcher at Bidhan Chandra Krishi Viswavidyalaya in IN. With 75 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.667617
+date: 2026-08-11T01:33:11.590899
 url: "/cdr-researcher-census/researchers/sovan-debnath-a5036899/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,17 +53,17 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Can agroforestry–conservation agriculture integration improve soil organic matter (SOM) quality? An FTIR–spectroscopic investigation** (2025)
    3 citations · Soil Carbon
 
-2. **Potential of Agroforestry for Climate Change Adaptation and Mitigation** (2024)
-   2 citations · General CDR
-
-3. **Soil Carbon and Nutrient Cycling Regulated by Fine Roots Distribution and Dynamics in Teak (Tectona grandis L.)-Based Agroforestry System in Semi-Arid Central India** (2025)
+2. **Grasses improve soil multifunctionality by strengthening aggregate-carbon-enzyme linkage in semi-arid degraded land** (2025)
    2 citations · Soil Carbon
 
-4. **Grasses improve soil multifunctionality by strengthening aggregate-carbon-enzyme linkage in semi-arid degraded land** (2025)
-   1 citations · Soil Carbon
+3. **Potential of Agroforestry for Climate Change Adaptation and Mitigation** (2024)
+   2 citations · General CDR
+
+4. **Soil Carbon and Nutrient Cycling Regulated by Fine Roots Distribution and Dynamics in Teak (Tectona grandis L.)-Based Agroforestry System in Semi-Arid Central India** (2025)
+   2 citations · Soil Carbon
 
 5. **Restoration of Degraded Lands Through Agroforestry: Impact of Trees on Soil Organic Carbon and Nutrient Stocks in Central India** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

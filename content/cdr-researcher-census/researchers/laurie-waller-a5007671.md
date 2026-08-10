@@ -1,7 +1,7 @@
 ---
 title: "Laurie Waller"
 description: "Laurie Waller is a Mid-career General CDR researcher at University of Manchester in GB. With 28 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.069651
+date: 2026-08-11T01:33:11.964067
 url: "/cdr-researcher-census/researchers/laurie-waller-a5007671/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Searching for a Public in Controversies over Carbon Dioxide Removal: An Issue Mapping Study on BECCS and Afforestation** (2021)
-   23 citations · BECCS
+   24 citations · BECCS
 
 2. **Carbon removal demonstrations and problems of public perception** (2023)
-   22 citations · General CDR
+   23 citations · General CDR
 
 3. **Public attitudes and emotions toward novel carbon removal methods in alternative sociotechnical scenarios** (2024)
    20 citations · General CDR

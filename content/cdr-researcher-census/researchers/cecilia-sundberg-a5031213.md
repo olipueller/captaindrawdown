@@ -1,7 +1,7 @@
 ---
 title: "Cecilia Sundberg"
 description: "Cecilia Sundberg is a Senior Biochar researcher at Swedish University of Agricultural Sciences in SE. With 151 publications and an h-index of 39, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.121652
+date: 2026-08-11T01:33:11.100393
 url: "/cdr-researcher-census/researchers/cecilia-sundberg-a5031213/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,13 +54,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    104 citations · Biochar
 
 2. **Modelling biochar long-term carbon storage in soil with harmonized analysis of decomposition data** (2023)
-   80 citations · Biochar
+   86 citations · Biochar
 
 3. **Life cycle assessment of urban uses of biochar and case study in Uppsala, Sweden** (2022)
-   55 citations · Biochar
+   56 citations · Biochar
 
 4. **Potential for biochar carbon sequestration from crop residues: A global spatially explicit assessment** (2023)
-   52 citations · Biochar
+   53 citations · Biochar
 
 5. **Assessing the diverse environmental effects of biochar systems: An evaluation framework** (2021)
    43 citations · Biochar
@@ -69,13 +69,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    28 citations · BECCS
 
 7. **BECCS with combined heat and power: assessing the energy penalty** (2021)
-   22 citations
+   23 citations
 
 8. **Soils, sinks, and smallholder farmers: Examining the benefits of biochar energy transitions in Kenya** (2021)
    20 citations · Biochar
 
 9. **Climate impact of bioenergy with or without carbon dioxide removal: influence of functional unit and parameter variability** (2023)
-   17 citations · BECCS
+   18 citations · BECCS
 
 10. **A spatial framework for prioritizing biochar application to arable land: A case study for Sweden** (2022)
    16 citations

@@ -1,7 +1,7 @@
 ---
 title: "Yuanyu Yang"
 description: "Yuanyu Yang is a Mid-career Soil Carbon researcher at Xidian University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.160128
+date: 2026-08-11T01:33:12.046790
 url: "/cdr-researcher-census/researchers/yuanyu-yang-a5101238/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Legume cover crops sequester more soil organic carbon than non-legume cover crops by stimulating microbial transformations** (2024)
-   65 citations · Soil Carbon
+   67 citations · Soil Carbon
 
 2. **Legume cover crops enhance soil organic carbon via microbial necromass in orchard alleyways** (2023)
-   58 citations · Soil Carbon
+   60 citations · Soil Carbon
 
 ## External Profiles
 

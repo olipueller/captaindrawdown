@@ -1,7 +1,7 @@
 ---
 title: "Xiuxian Men"
 description: "Xiuxian Men is a Mid-career Soil Carbon researcher at Yunnan University in CN. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.149224
+date: 2026-08-11T01:33:12.036922
 url: "/cdr-researcher-census/researchers/xiuxian-men-a5021393/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Nitrogen availability and mineral particles contributed fungal necromass to the newly formed stable carbon pool in the alpine areas of Southwest China** (2022)
-   70 citations · Soil Carbon
+   71 citations · Soil Carbon
 
 2. **Forest types predominantly regulate soil-dissolved organic matter dynamics along an elevational gradient in the Hengduan Mountains** (2025)
    1 citations · Soil Carbon

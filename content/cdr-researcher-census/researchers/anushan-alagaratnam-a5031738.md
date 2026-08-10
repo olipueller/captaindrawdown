@@ -1,7 +1,7 @@
 ---
 title: "Anushan Alagaratnam"
 description: "Anushan Alagaratnam is a Mid-career DAC researcher at University of Southern California in US. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.379992
+date: 2026-08-11T01:33:12.242023
 url: "/cdr-researcher-census/researchers/anushan-alagaratnam-a5031738/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Direct Conversion of Metal Carbonates and Bicarbonates to Methanol Over a Cu/ZnO/Al <sub>2</sub> O <sub>3</sub> Catalyst** (2026)
-   0 citations · DAC
+   1 citations · DAC
 
 ## External Profiles
 

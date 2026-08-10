@@ -1,7 +1,7 @@
 ---
 title: "Kiran Thirumaran"
 description: "Kiran Thirumaran is a Mid-career DAC researcher at Oak Ridge National Laboratory in US. With 37 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.195313
+date: 2026-08-11T01:33:12.078911
 url: "/cdr-researcher-census/researchers/kiran-thirumaran-a5108150/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Techno-economic and environmental life cycle assessment of next-generation fiber-encapsulated nanoscale hybrid materials for direct air carbon capture** (2023)
-   15 citations · DAC
+   16 citations · DAC
 
 2. **Techno-Economic and Environmental Life Cycle Assessment of Nextgeneration Fiber-Encapsulated Nanoscale Hybrid Materials for Direct Air Capture** (2023)
    0 citations · DAC

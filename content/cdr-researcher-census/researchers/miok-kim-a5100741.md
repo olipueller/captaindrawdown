@@ -1,7 +1,7 @@
 ---
 title: "Miok Kim"
 description: "Miok Kim is a Senior Ocean CDR researcher at Pohang University of Science and Technology in KR. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.644003
+date: 2026-08-11T01:33:11.569907
 url: "/cdr-researcher-census/researchers/miok-kim-a5100741/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Alkalinity (Bicarbonate) Pumping by Coastal Macroalgal Forests** (2025)
-   6 citations · Ocean CDR
+   7 citations · Ocean CDR
 
 2. **Carbon dioxide removal (CDR) potential in temperate macroalgal forests: A comparative study of chemical and biological net ecosystem production (NEP)** (2024)
    5 citations · Ocean CDR

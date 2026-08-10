@@ -1,7 +1,7 @@
 ---
 title: "Maurizio Ventura"
 description: "Maurizio Ventura is a Senior Soil Carbon researcher at Free University of Bozen-Bolzano in IT. With 86 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.187510
+date: 2026-08-11T01:33:11.162174
 url: "/cdr-researcher-census/researchers/maurizio-ventura-a5024196/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Inclusion of biochar in a C dynamics model based on observations from an 8-year field experiment** (2022)
-   27 citations · Biochar
+   29 citations · Biochar
 
 2. **Nitrogen fertilization increases N2O emission but does not offset the reduced radiative forcing caused by the increased carbon uptake in boreal forests** (2024)
    12 citations
 
 3. **Effects of woodchip biochar on temperature sensitivity of greenhouse gas emissions in amended soils within a mountain vineyard** (2024)
-   6 citations · Biochar
+   7 citations · Biochar
 
 4. **An in situ 15N labeling experiment unveils distinct responses to N application approaches in a mountain beech forest** (2024)
    3 citations · General CDR

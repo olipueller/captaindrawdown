@@ -1,7 +1,7 @@
 ---
 title: "Shaojun Chen"
 description: "Shaojun Chen is a Mid-career Soil Carbon researcher at Hohai University in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.479476
+date: 2026-08-11T01:33:12.334257
 url: "/cdr-researcher-census/researchers/shaojun-chen-a5100324/"
 layout: "researcher"
 hiddenInHomeList: true

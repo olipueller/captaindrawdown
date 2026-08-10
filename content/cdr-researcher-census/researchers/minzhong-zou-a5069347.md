@@ -1,7 +1,7 @@
 ---
 title: "Minzhong Zou"
 description: "Minzhong Zou is a Mid-career Soil Carbon researcher at Huawei Technologies (China) in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.866505
+date: 2026-08-11T01:33:11.768737
 url: "/cdr-researcher-census/researchers/minzhong-zou-a5069347/"
 layout: "researcher"
 hiddenInHomeList: true

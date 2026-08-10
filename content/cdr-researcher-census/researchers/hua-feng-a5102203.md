@@ -1,7 +1,7 @@
 ---
 title: "Hua Feng"
 description: "Hua Feng is a Senior Soil Carbon researcher at Southwest University in CN. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.991543
+date: 2026-08-11T01:33:11.869265
 url: "/cdr-researcher-census/researchers/hua-feng-a5102203/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shidayaichenbi Devi"
 description: "Shidayaichenbi Devi is an Early-career Soil Carbon researcher at Dr. Rajendra Prasad Central Agriculture University in IN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.499342
+date: 2026-08-11T01:33:12.352293
 url: "/cdr-researcher-census/researchers/shidayaichenbi-devi-a5090266/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Prospects of Biochar for Sustainable Agriculture and Carbon Sequestration: An Overview for Eastern Himalayas** (2022)
-   57 citations · Biochar
+   58 citations · Biochar
 
 2. **Soil Organic Carbon Sequestration in Dryland Soils to Alleviate Impacts of Climate Change** (2023)
    5 citations · Soil Carbon

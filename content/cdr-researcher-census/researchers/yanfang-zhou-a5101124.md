@@ -1,7 +1,7 @@
 ---
 title: "Yanfang Zhou"
 description: "Yanfang Zhou is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 36 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.607126
+date: 2026-08-11T01:33:11.536065
 url: "/cdr-researcher-census/researchers/yanfang-zhou-a5101124/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,13 +50,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **The Process of Soil Carbon Sequestration in Different Ecological Zones of Qingtu Lake in the Arid–Semi-Arid Region of Western China** (2024)
    7 citations · Soil Carbon
 
-2. **Effects of silicate rock weathering and agricultural cultivation on carbon sequestration in saline soils: an example from the saline soils of Bayannur, Northwest China** (2025)
+2. **Dual mechanisms of mineral-microbial interactions in suppressing organic carbon sequestration in calcareous soils** (2026)
+   3 citations
+
+3. **Effects of silicate rock weathering and agricultural cultivation on carbon sequestration in saline soils: an example from the saline soils of Bayannur, Northwest China** (2025)
    1 citations · Enhanced Weathering
 
-3. **Dual mechanisms of mineral-microbial interactions in suppressing organic carbon sequestration in calcareous soils** (2026)
-   0 citations
+4. **Exogenous organic matter and clay mineral additions regulate microbial-mineral mediated soil organic carbon accumulation in alkaline-calcareous soils** (2026)
+   0 citations · Soil Carbon
 
-4. **Dual mechanisms of mineral-microbial interactions in suppressing organic carbon sequestration in calcareous soils** (2025)
+5. **Dual mechanisms of mineral-microbial interactions in suppressing organic carbon sequestration in calcareous soils** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

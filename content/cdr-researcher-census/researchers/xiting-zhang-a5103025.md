@@ -1,7 +1,7 @@
 ---
 title: "Xiting Zhang"
 description: "Xiting Zhang is a Mid-career Soil Carbon researcher at Leshan Normal University in CN. With 42 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.546166
+date: 2026-08-11T01:33:11.481560
 url: "/cdr-researcher-census/researchers/xiting-zhang-a5103025/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -66,7 +66,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations · Soil Carbon
 
 6. **Arbuscular mycorrhizal dominated forests facilitate organic carbon stabilization in soil aggregates** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 7. **Data from: "Arbuscular mycorrhizal dominated forests facilitate organic carbon stabilization in soil aggregates"** (2026)
    0 citations · Soil Carbon

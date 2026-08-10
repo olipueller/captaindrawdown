@@ -1,7 +1,7 @@
 ---
 title: "Yunlong He"
 description: "Yunlong He is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.426956
+date: 2026-08-11T01:33:12.285122
 url: "/cdr-researcher-census/researchers/yunlong-he-a5041814/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Decadal soil total carbon loss in northern hinterland of Tibetan Plateau** (2024)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 ## External Profiles
 

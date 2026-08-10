@@ -1,7 +1,7 @@
 ---
 title: "Feng Shi"
 description: "Feng Shi is a Mid-career Biochar researcher at Southwest Forestry University in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.052279
+date: 2026-08-11T01:33:11.926565
 url: "/cdr-researcher-census/researchers/feng-shi-a5008869/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Bamboo-derived nitrogen-doping magnetic porous hydrochar coactivated by K2FeO4 and CaCO3 for phenol removal: Governing factors and mechanisms** (2023)
-   48 citations · Biochar
+   51 citations · Biochar
 
 ## External Profiles
 

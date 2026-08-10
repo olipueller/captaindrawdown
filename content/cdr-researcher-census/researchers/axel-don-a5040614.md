@@ -1,7 +1,7 @@
 ---
 title: "Axel Don"
 description: "Axel Don is an Eminent Soil Carbon researcher at Thünen-Institute of Climate-Smart Agriculture in DE. With 301 publications and an h-index of 64, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.087360
+date: 2026-08-11T01:33:11.068526
 url: "/cdr-researcher-census/researchers/axel-don-a5040614/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,34 +51,34 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon sequestration in soils and climate change mitigation—Definitions and pitfalls** (2023)
-   209 citations · General CDR
+   218 citations · General CDR
 
 2. **Carbon farming: Are soil carbon certificates a suitable tool for climate change mitigation?** (2023)
-   189 citations · General CDR
+   195 citations · General CDR
 
 3. **No detectable upper limit of mineral‐associated organic carbon in temperate agricultural soils** (2023)
-   182 citations · Soil Carbon
+   186 citations · Soil Carbon
 
 4. **Reduced tillage in organic farming affects soil organic carbon stocks in temperate Europe** (2021)
-   129 citations · Soil Carbon
+   130 citations · Soil Carbon
 
 5. **The potential of cover crops to increase soil organic carbon storage in German croplands** (2022)
-   104 citations · Soil Carbon
+   105 citations · Soil Carbon
 
 6. **Carbon sequestration in hedgerow biomass and soil in the temperate climate zone** (2021)
    87 citations · General CDR
 
-7. **Sequestration of soil carbon by burying it deeper within the profile: A theoretical exploration of three possible mechanisms** (2021)
-   67 citations · Soil Carbon
+7. **Twenty percent of agricultural management effects on organic carbon stocks occur in subsoils – Results of ten long-term experiments** (2023)
+   71 citations
 
-8. **Twenty percent of agricultural management effects on organic carbon stocks occur in subsoils – Results of ten long-term experiments** (2023)
-   66 citations
+8. **Sequestration of soil carbon by burying it deeper within the profile: A theoretical exploration of three possible mechanisms** (2021)
+   68 citations · Soil Carbon
 
 9. **Soil carbon losses due to priming moderated by adaptation and legacy effects** (2023)
    64 citations · Soil Carbon
 
 10. **Increasing root biomass derived carbon input to agricultural soils by genotype selection – a review** (2023)
-   50 citations · General CDR
+   51 citations · General CDR
 
 ## External Profiles
 

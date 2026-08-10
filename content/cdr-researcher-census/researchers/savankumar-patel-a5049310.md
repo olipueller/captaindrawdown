@@ -1,7 +1,7 @@
 ---
 title: "Savankumar Patel"
 description: "Savankumar Patel is a Senior Biochar researcher at RMIT University in AU. With 51 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.227352
+date: 2026-08-11T01:33:11.199762
 url: "/cdr-researcher-census/researchers/savankumar-patel-a5049310/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,24 +51,27 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Production of H2 and CNM from biogas decomposition using biosolids-derived biochar and the application of the CNM-coated biochar for PFAS adsorption** (2023)
-   27 citations · Biochar
+   29 citations · Biochar
 
 2. **Enhancing the pyrolytic conversion of biosolids to value-added products via mild acid pre-treatment** (2023)
-   22 citations · Biochar
+   23 citations · Biochar
 
 3. **Ammonium nitrogen (NH4+-N) recovery from synthetic wastewater using biosolids-derived biochar** (2023)
-   12 citations · Biochar
+   13 citations · Biochar
 
 4. **Enhancing energy efficiency and by-product quality of anaerobic co-digestion of food and garden waste: hybridisation with thermochemical conversion to create a sustainable circular economy** (2026)
-   2 citations · Biochar
+   3 citations · Biochar
 
 5. **The pyrolysis of biosolids in a novel fluidized bed heat exchanger reactor: Pilot plant trials, biochar properties, gas emissions testing, and fate of PFAS** (2025)
    1 citations · Biochar
 
-6. **Gas-Environment-Dependent H₂S Removal over Biosolid-Derived Carbon Materials: Mechanistic Divergence between Biochar and Hydrochar** (2026)
+6. **Chemical vapour deposition of biogas over biosolids biochar catalyst: Effects of operating conditions, process modelling, and techno-economic assessment** (2026)
    0 citations · Biochar
 
-7. **Potential of ionic liquid applications in natural gas/biogas sweetening and liquid fuel cleaning process** (2021)
+7. **Gas-Environment-Dependent H₂S Removal over Biosolid-Derived Carbon Materials: Mechanistic Divergence between Biochar and Hydrochar** (2026)
+   0 citations · Biochar
+
+8. **Potential of ionic liquid applications in natural gas/biogas sweetening and liquid fuel cleaning process** (2021)
    0 citations
 
 ## External Profiles

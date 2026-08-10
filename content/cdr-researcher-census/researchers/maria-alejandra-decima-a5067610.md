@@ -1,7 +1,7 @@
 ---
 title: "María Alejandra Décima"
 description: "María Alejandra Décima is an Early-career Biochar researcher at German University Association of Advanced Graduate Training in DE. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.040800
+date: 2026-08-11T01:33:11.915381
 url: "/cdr-researcher-census/researchers/maria-alejandra-decima-a5067610/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A Review on the Removal of Carbamazepine from Aqueous Solution by Using Activated Carbon and Biochar** (2021)
-   84 citations · Biochar
+   86 citations · Biochar
 
 2. **A Life Cycle Assessment of an Energy-Biochar Chain Involving a Gasification Plant in Italy** (2021)
-   61 citations · Biochar
+   62 citations · Biochar
 
 3. **LCA Sensitivity Analysis of an Energy-Biochar Chain from an Italian Gasification Plant: Environmental Trade-offs Assessment** (2023)
    3 citations · Biochar

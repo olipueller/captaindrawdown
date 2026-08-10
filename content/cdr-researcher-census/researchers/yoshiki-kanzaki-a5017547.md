@@ -1,7 +1,7 @@
 ---
 title: "Yoshiki Kanzaki"
 description: "Yoshiki Kanzaki is a Mid-career Enhanced Weathering researcher at Georgia Institute of Technology in US. With 88 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.450699
+date: 2026-08-11T01:33:11.398895
 url: "/cdr-researcher-census/researchers/yoshiki-kanzaki-a5017547/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **River chemistry constraints on the carbon capture potential of surficial enhanced rock weathering** (2022)
-   60 citations · Enhanced Weathering
+   61 citations · Enhanced Weathering
 
 2. **Transforming US agriculture for carbon removal with enhanced weathering** (2025)
-   48 citations · Enhanced Weathering
+   55 citations · Enhanced Weathering
 
 3. **Impact of Climate on the Global Capacity for Enhanced Rock Weathering on Croplands** (2023)
-   39 citations · Enhanced Weathering
+   41 citations · Enhanced Weathering
 
 4. **New estimates of the storage permanence and ocean co-benefits of enhanced rock weathering** (2023)
    38 citations · Enhanced Weathering
@@ -69,16 +69,16 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    14 citations · Enhanced Weathering
 
 7. **A framework for modeling carbon loss from rivers following terrestrial enhanced weathering** (2024)
-   9 citations · Enhanced Weathering
+   10 citations · Enhanced Weathering
 
-8. **In silico calculation of soil pH by SCEPTER v1.0** (2024)
+8. **Soil cation storage as a key control on the timescales of carbon dioxide removal through enhanced weathering** (2024)
+   5 citations · Enhanced Weathering
+
+9. **In silico calculation of soil pH by SCEPTER v1.0** (2024)
    4 citations
 
-9. **Soil cation storage as a key control on the timescales of carbon dioxide removal through enhanced weathering** (2024)
-   4 citations · Enhanced Weathering
-
 10. **Expert elicitation on agricultural enhanced weathering highlights CO2 removal potential and uncertainties in loss pathways** (2025)
-   2 citations · Enhanced Weathering
+   3 citations · Enhanced Weathering
 
 ## External Profiles
 

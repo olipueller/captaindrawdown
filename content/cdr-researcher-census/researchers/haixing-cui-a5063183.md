@@ -1,7 +1,7 @@
 ---
 title: "Haixing Cui"
 description: "Haixing Cui is an Early-career Soil Carbon researcher at Heze University in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.319925
+date: 2026-08-11T01:33:12.188005
 url: "/cdr-researcher-census/researchers/haixing-cui-a5063183/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Tillage strategies optimize SOC distribution to reduce carbon footprint** (2022)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 ## External Profiles
 

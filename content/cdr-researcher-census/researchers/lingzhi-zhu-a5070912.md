@@ -1,7 +1,7 @@
 ---
 title: "Lingzhi Zhu"
 description: "Lingzhi Zhu is a Mid-career Biochar researcher at Fudan University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.980583
+date: 2026-08-11T01:33:11.858776
 url: "/cdr-researcher-census/researchers/lingzhi-zhu-a5070912/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Experimental study on the synergy between lignin and cellulose during co-torrefaction and its impact on the properties and structural characteristics of pyrolysis biochar** (2024)
-   16 citations · Biochar
+   17 citations · Biochar
 
 ## External Profiles
 

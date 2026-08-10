@@ -1,7 +1,7 @@
 ---
 title: "Nicole Ferru"
 description: "Nicole Ferru is an Early-career DAC researcher at ETH Zurich in CH. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.341470
+date: 2026-08-11T01:33:12.207070
 url: "/cdr-researcher-census/researchers/nicole-ferru-a5053323/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Measuring and Modeling Water and Carbon Dioxide Adsorption on Amine Functionalized Alumina under Direct Air Capture Conditions** (2025)
-   21 citations
+   22 citations
 
 2. **Direct air capture by direct steam heating - experiments and comparison with indirect heating** (2025)
    5 citations

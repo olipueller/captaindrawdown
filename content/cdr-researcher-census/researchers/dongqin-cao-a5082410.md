@@ -1,7 +1,7 @@
 ---
 title: "Dongqin Cao"
 description: "Dongqin Cao is a Mid-career General CDR researcher at Lanzhou University of Finance and Economics in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.683639
+date: 2026-08-11T01:33:11.604875
 url: "/cdr-researcher-census/researchers/dongqin-cao-a5082410/"
 layout: "researcher"
 hiddenInHomeList: true

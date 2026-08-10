@@ -1,7 +1,7 @@
 ---
 title: "Tomi J. Lindroos"
 description: "Tomi J. Lindroos is a Mid-career General CDR researcher at VTT Technical Research Centre of Finland in FI. With 39 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.682705
+date: 2026-08-11T01:33:11.603975
 url: "/cdr-researcher-census/researchers/tomi-j-lindroos-a5103166/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Impact of power-to-gas on the cost and design of the future low-carbon urban energy system** (2021)
-   81 citations
+   83 citations
 
 2. **Estimating the CO2 Impacts of Wind Energy in the Transition Towards Carbon-Neutral Energy Systems** (2025)
    4 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Giulia Bondi"
 description: "Giulia Bondi is a Mid-career Soil Carbon researcher at Teagasc - The Irish Agriculture and Food Development Authority in IE. With 60 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.579753
+date: 2026-08-11T01:33:11.511629
 url: "/cdr-researcher-census/researchers/giulia-bondi-a5007227/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Corrigendum to “Empirical estimation of saturated soil-paste electrical conductivity in the EU using pedotransfer functions and Quantile Regression Forests: A mapping approach based on LUCAS topsoil data” [Geoderma 454 (2025) 117199]** (2025)
-   1 citations
+1. **Impact of management intensity of agricultural systems and soil intrinsic characteristics on soil organic carbon stocks** (2026)
+   1 citations · Soil Carbon
 
-2. **Impact of management intensity of agricultural systems and soil intrinsic characteristics on soil organic carbon stocks** (2026)
-   0 citations · Soil Carbon
+2. **Corrigendum to “Empirical estimation of saturated soil-paste electrical conductivity in the EU using pedotransfer functions and Quantile Regression Forests: A mapping approach based on LUCAS topsoil data” [Geoderma 454 (2025) 117199]** (2025)
+   1 citations
 
 3. **Estimating Soil Compaction Risk at Regional Scales Using Meteorological Data and Soil Spectroscopy** (2026)
    0 citations

@@ -1,7 +1,7 @@
 ---
 title: "Hamed A. Al-Swadi"
 description: "Hamed A. Al-Swadi is a Mid-career Biochar researcher at Sana'a University in YE. With 22 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.764632
+date: 2026-08-11T01:33:11.678949
 url: "/cdr-researcher-census/researchers/hamed-a-al-swadi-a5081259/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Impacts of kaolinite enrichment on biochar and hydrochar characterization, stability, toxicity, and maize germination and growth** (2024)
-   18 citations · Biochar
+   20 citations · Biochar
 
 2. **Clay-Biochar Composites: Emerging Applications in Soil** (2023)
-   4 citations · Biochar
+   5 citations · Biochar
 
 ## External Profiles
 

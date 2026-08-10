@@ -1,7 +1,7 @@
 ---
 title: "Nur Ayshah Rosli"
 description: "Nur Ayshah Rosli is a Mid-career Biochar researcher at Universiti Sains Malaysia in MY. With 24 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.788773
+date: 2026-08-11T01:33:11.700532
 url: "/cdr-researcher-census/researchers/nur-ayshah-rosli-a5064086/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Adsorption of cationic methylene blue dye using microwave-assisted activated carbon derived from acacia wood: Optimization and batch studies** (2021)
-   140 citations · Biochar
+   141 citations · Biochar
 
 2. **Adsorption of reactive dye by microwave irradiated rice husk-based activated carbon: optimization and batch studies** (2025)
    0 citations · Biochar

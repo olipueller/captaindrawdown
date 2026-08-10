@@ -1,7 +1,7 @@
 ---
 title: "Poonam Khatri"
 description: "Poonam Khatri is a Senior BECCS researcher at Institute of Chemical Technology in IN. With 23 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.751199
+date: 2026-08-11T01:33:11.666316
 url: "/cdr-researcher-census/researchers/poonam-khatri-a5102851/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Degraded land rehabilitation through agroforestry in India: Achievements, current understanding, and future prospectives** (2023)
-   110 citations · Soil Carbon
+   119 citations · Soil Carbon
 
 2. **Integrated environmental and economic assessments of producing energy crops with cover crops for simultaneous use as biofuel feedstocks and animal fodder** (2022)
    8 citations · BECCS

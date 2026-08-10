@@ -1,7 +1,7 @@
 ---
 title: "Cong Liu"
 description: "Cong Liu is a Mid-career Soil Carbon researcher at East China Normal University in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.453869
+date: 2026-08-11T01:33:12.310864
 url: "/cdr-researcher-census/researchers/cong-liu-a5101461/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effect of forest soil viruses on bacterial community succession and the implication for soil carbon sequestration** (2023)
-   20 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Zhiyuan Xie"
 description: "Zhiyuan Xie is a Senior General CDR researcher at Chinese University of Hong Kong in HK. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.825707
+date: 2026-08-11T01:33:11.732743
 url: "/cdr-researcher-census/researchers/zhiyuan-xie-a5101844/"
 layout: "researcher"
 hiddenInHomeList: true

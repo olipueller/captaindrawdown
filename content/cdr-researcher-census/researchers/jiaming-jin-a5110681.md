@@ -1,7 +1,7 @@
 ---
 title: "Jiaming Jin"
 description: "Jiaming Jin is a Mid-career Soil Carbon researcher at Nanjing University of Chinese Medicine in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.350016
+date: 2026-08-11T01:33:12.214682
 url: "/cdr-researcher-census/researchers/jiaming-jin-a5110681/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A Framework Combining CENTURY Modeling and Chronosequences Sampling to Estimate Soil Organic Carbon Stock in an Agricultural Region with Large Land Use Change** (2023)
-   17 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 ## External Profiles
 

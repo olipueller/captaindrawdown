@@ -1,7 +1,7 @@
 ---
 title: "Shengai Jin"
 description: "Shengai Jin is a Senior Biochar researcher at Qingdao Agricultural University in CN. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.251485
+date: 2026-08-11T01:33:12.130012
 url: "/cdr-researcher-census/researchers/shengai-jin-a5038768/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Organic material additions have stronger effects on humic substances and enzyme activities than soil types** (2022)
-   13 citations · Biochar
+   14 citations · Biochar
 
 2. **Organic material types have stronger effects on humic substances and enzyme activities than soil types** (2022)
    0 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Zehua Song"
 description: "Zehua Song is a Mid-career Enhanced Weathering researcher at Chinese Academy of Sciences in CN. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.795465
+date: 2026-08-11T01:33:11.706177
 url: "/cdr-researcher-census/researchers/zehua-song-a5038640/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,15 +51,18 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Evolution of silicate weathering in South China since 30 Ma: Controlling factors and global implications** (2023)
-   20 citations · Enhanced Weathering
+   21 citations · Enhanced Weathering
 
 2. **History of human activity in South China since 7 cal ka BP: Evidence from a sediment record in the South China Sea** (2024)
-   15 citations
+   18 citations
 
-3. **High-resolution marine records of human-nature interactions in the Yellow River Basin since 2.2 kyr ago** (2025)
+3. **Sedimentary records of silicate weathering on the continental shelf of the South Yellow Sea during glacial periods** (2026)
    0 citations
 
-4. **Human Activities Induced Stronger Silicate Weathering in the Red River Basin: A Growing Carbon Sink During the Late Holocene** (2025)
+4. **High-resolution marine records of human-nature interactions in the Yellow River Basin since 2.2 kyr ago** (2025)
+   0 citations
+
+5. **Human Activities Induced Stronger Silicate Weathering in the Red River Basin: A Growing Carbon Sink During the Late Holocene** (2025)
    0 citations · Enhanced Weathering
 
 ## External Profiles

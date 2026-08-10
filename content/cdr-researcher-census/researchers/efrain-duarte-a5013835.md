@@ -1,7 +1,7 @@
 ---
 title: "Efraín Duarte"
 description: "Efraín Duarte is a Mid-career Soil Carbon researcher at University of Concepción in CL. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.453956
+date: 2026-08-11T01:33:12.310956
 url: "/cdr-researcher-census/researchers/efrain-duarte-a5013835/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Emilie Grossteffan"
 description: "Emilie Grossteffan is a Mid-career Ocean CDR researcher at Centre National de la Recherche Scientifique in FR. With 27 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.540631
+date: 2026-08-11T01:33:11.476440
 url: "/cdr-researcher-census/researchers/emilie-grossteffan-a5008525/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **An updated synthesis of ocean total alkalinity and dissolved inorganic carbon measurements from 1993 to 2023: the SNAPO-CO <sub>2</sub> -v2 dataset** (2025)
-   6 citations · General CDR
+   8 citations · General CDR
 
 2. **An updated synthesis of ocean total alkalinity and dissolved inorganic carbon measurements from 1993 to 2023: the SNAPO-CO2-v2 dataset** (2024)
    1 citations · General CDR

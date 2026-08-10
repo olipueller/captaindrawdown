@@ -1,7 +1,7 @@
 ---
 title: "Rasul Satymov"
 description: "Rasul Satymov is a Mid-career DAC researcher at Lappeenranta-Lahti University of Technology in FI. With 39 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.530235
+date: 2026-08-11T01:33:11.466823
 url: "/cdr-researcher-census/researchers/rasul-satymov-a5063453/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Energy and industry transition to carbon-neutrality in Nordic conditions via local renewable sources, electrification, sector coupling, and power-to-X** (2025)
-   37 citations · BECCS
+   44 citations · BECCS
 
 2. **The value of CO2 point source capture for the energy-industry system transition** (2026)
    1 citations · DAC

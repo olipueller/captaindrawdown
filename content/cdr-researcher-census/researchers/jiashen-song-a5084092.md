@@ -1,7 +1,7 @@
 ---
 title: "Jiashen Song"
 description: "Jiashen Song is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 33 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.634268
+date: 2026-08-11T01:33:11.561022
 url: "/cdr-researcher-census/researchers/jiashen-song-a5084092/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,13 +48,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Divergent responses of particulate and mineral-associated organic carbon with soil depth under straw interlayer in saline-alkali soil** (2024)
-   34 citations · Soil Carbon
+   35 citations · Soil Carbon
 
 2. **Bacterial necromass as the main source of organic matter in saline soils** (2024)
    19 citations
 
 3. **Green manure roots return drives saline-alkali soil organic carbon accumulation via microbial necromass formation** (2025)
-   12 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 4. **Subsurface application of organic ameliorant in saline soils increases microbial necromass accumulation in mineral-associated organic matter** (2025)
    8 citations · Soil Carbon

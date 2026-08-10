@@ -1,7 +1,7 @@
 ---
 title: "Xiaowei Yin"
 description: "Xiaowei Yin is a Mid-career Soil Carbon researcher at Xi'an Jiaotong University in CN. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.771340
+date: 2026-08-11T01:33:11.684605
 url: "/cdr-researcher-census/researchers/xiaowei-yin-a5017672/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The Grain-for-Green project offsets warming-induced soil organic carbon loss and increases soil carbon stock in Chinese Loess Plateau** (2022)
-   65 citations · Soil Carbon
+   74 citations · Soil Carbon
 
 2. **Toward Sustainable Revegetation in the Loess Plateau Using Coupled Water and Carbon Management** (2021)
-   41 citations · Soil Carbon
+   44 citations · Soil Carbon
 
 3. **Assessing and predicting hydro-biogeochemical dynamics in the Weihe River basin in a shifting climate** (2025)
    5 citations

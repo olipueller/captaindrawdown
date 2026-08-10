@@ -1,7 +1,7 @@
 ---
 title: "Erika Tobiašová"
 description: "Erika Tobiašová is a Senior Soil Carbon researcher at Slovak University of Agriculture in Nitra in SK. With 41 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.702874
+date: 2026-08-11T01:33:11.622695
 url: "/cdr-researcher-census/researchers/erika-tobiasova-a5089460/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil Fertility Improvement and Carbon Sequestration through Exogenous Organic Matter and Biostimulant Application** (2022)
-   24 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 2. **The Effect of Reduced and Conventional Tillage Systems on Soil Aggregates and Organic Carbon Parameters of Different Soil Types** (2023)
    20 citations · Soil Carbon

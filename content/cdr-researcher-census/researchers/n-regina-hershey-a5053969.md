@@ -1,7 +1,7 @@
 ---
 title: "N. Regina Hershey"
 description: "N. Regina Hershey is a Mid-career Soil Carbon researcher at Cochin University of Science and Technology in IN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.494969
+date: 2026-08-11T01:33:12.348382
 url: "/cdr-researcher-census/researchers/n-regina-hershey-a5053969/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Ecosystem Carbon Stock and Stable Isotopic Signatures of Soil Organic Carbon Sources Across the Mangrove Ecosystems of Kerala, Southern India** (2022)
-   21 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 ## External Profiles
 

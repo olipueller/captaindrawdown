@@ -1,7 +1,7 @@
 ---
 title: "Prashan M. Rodrigo"
 description: "Prashan M. Rodrigo is a Mid-career Biochar researcher at Mississippi State University in US. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.820924
+date: 2026-08-11T01:33:11.728475
 url: "/cdr-researcher-census/researchers/prashan-m-rodrigo-a5080424/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Unraveling biochar surface area on structure and heavy metal removal performances of carbothermal reduced nanoscale zero-valent iron** (2023)
-   45 citations · Biochar
+   46 citations · Biochar
 
 2. **Pyrolytic synthesis of graphene-encapsulated zero-valent iron nanoparticles supported on biochar for heavy metal removal** (2022)
-   43 citations · Biochar
+   45 citations · Biochar
 
 3. **Fabrication of Redox Active Mn3O4 on Douglas fir Biochar for Aqueous Arsenic(III) Oxidation and Remediation** (2026)
    0 citations · Biochar

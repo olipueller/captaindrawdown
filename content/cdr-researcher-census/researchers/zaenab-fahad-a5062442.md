@@ -1,7 +1,7 @@
 ---
 title: "Zaenab Fahad"
 description: "Zaenab Fahad is a Mid-career Enhanced Weathering researcher at Swedish University of Agricultural Sciences in SE. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.995517
+date: 2026-08-11T01:33:11.873120
 url: "/cdr-researcher-census/researchers/zaenab-fahad-a5062442/"
 layout: "researcher"
 hiddenInHomeList: true

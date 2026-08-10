@@ -1,7 +1,7 @@
 ---
 title: "Lipeng Wu"
 description: "Lipeng Wu is a Senior Soil Carbon researcher at China Institute of Water Resources and Hydropower Research in CN. With 34 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.239789
+date: 2026-08-11T01:33:11.211154
 url: "/cdr-researcher-census/researchers/lipeng-wu-a5100669/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Impacts of continuous biochar application on major carbon fractions in soil profile of North China Plain’s cropland: In comparison with straw incorporation** (2021)
-   43 citations · Biochar
+   44 citations · Biochar
 
 2. **Impacts of biochar amendment and straw incorporation on soil heterotrophic respiration and desorption of soil organic carbon** (2023)
    10 citations · Biochar

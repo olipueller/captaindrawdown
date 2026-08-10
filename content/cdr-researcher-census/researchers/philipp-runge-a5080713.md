@@ -1,7 +1,7 @@
 ---
 title: "Philipp Runge"
 description: "Philipp Runge is a Mid-career Biochar researcher at Friedrich-Alexander-Universität Erlangen-Nürnberg in DE. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.741372
+date: 2026-08-11T01:33:11.657907
 url: "/cdr-researcher-census/researchers/philipp-runge-a5080713/"
 layout: "researcher"
 hiddenInHomeList: true

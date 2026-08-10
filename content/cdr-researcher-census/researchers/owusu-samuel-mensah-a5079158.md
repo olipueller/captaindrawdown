@@ -1,7 +1,7 @@
 ---
 title: "Owusu Samuel Mensah"
 description: "Owusu Samuel Mensah is a Mid-career Soil Carbon researcher at University of Ghana in GH. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.284957
+date: 2026-08-11T01:33:12.157513
 url: "/cdr-researcher-census/researchers/owusu-samuel-mensah-a5079158/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Organic amendment in climate change mitigation: Challenges in an era of micro- and nanoplastics** (2023)
-   20 citations · General CDR
+   21 citations · General CDR
 
 ## External Profiles
 

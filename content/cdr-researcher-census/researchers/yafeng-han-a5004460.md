@@ -1,7 +1,7 @@
 ---
 title: "Yafeng Han"
 description: "Yafeng Han is a Mid-career Soil Carbon researcher at Henan University of Science and Technology in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.365933
+date: 2026-08-11T01:33:12.228651
 url: "/cdr-researcher-census/researchers/yafeng-han-a5004460/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    6 citations · Soil Carbon
 
 3. **Increased Light Intensity Mitigates CO2 and CH4 Emissions from Paddy Soil by Mediating Iron Redox Cycling Coupled with Organic Carbon Transformation** (2025)
-   2 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 ## External Profiles
 

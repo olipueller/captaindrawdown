@@ -1,7 +1,7 @@
 ---
 title: "Marlena Gęca"
 description: "Marlena Gęca is a Mid-career Biochar researcher at Maria Curie-Skłodowska University in PL. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.769537
+date: 2026-08-11T01:33:11.682936
 url: "/cdr-researcher-census/researchers/marlena-geca-a5069548/"
 layout: "researcher"
 hiddenInHomeList: true

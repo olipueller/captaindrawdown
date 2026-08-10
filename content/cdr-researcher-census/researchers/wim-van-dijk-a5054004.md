@@ -1,7 +1,7 @@
 ---
 title: "Wim van Dijk"
 description: "Wim van Dijk is a Senior Soil Carbon researcher at Wageningen University & Research in NL. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.809731
+date: 2026-08-11T01:33:11.718108
 url: "/cdr-researcher-census/researchers/wim-van-dijk-a5054004/"
 layout: "researcher"
 hiddenInHomeList: true

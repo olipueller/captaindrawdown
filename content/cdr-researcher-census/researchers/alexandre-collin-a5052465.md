@@ -1,7 +1,7 @@
 ---
 title: "Alexandre Collin"
 description: "Alexandre Collin is a Senior Soil Carbon researcher at Université du Québec en Outaouais in CA. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.216952
+date: 2026-08-11T01:33:12.098762
 url: "/cdr-researcher-census/researchers/alexandre-collin-a5052465/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of harvest treatments on forest carbon pools in eastern North America: A meta‐analysis** (2025)
-   5 citations · General CDR
+   6 citations · General CDR
 
 ## External Profiles
 

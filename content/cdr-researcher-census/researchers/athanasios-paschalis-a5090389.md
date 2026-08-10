@@ -1,7 +1,7 @@
 ---
 title: "Athanasios Paschalis"
 description: "Athanasios Paschalis is a Senior Enhanced Weathering researcher at Imperial College London in GB. With 156 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.164115
+date: 2026-08-11T01:33:11.140433
 url: "/cdr-researcher-census/researchers/athanasios-paschalis-a5090389/"
 layout: "researcher"
 hiddenInHomeList: true

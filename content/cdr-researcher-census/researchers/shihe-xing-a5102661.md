@@ -1,7 +1,7 @@
 ---
 title: "Shihe Xing"
 description: "Shihe Xing is a Senior Soil Carbon researcher at Fujian Agriculture and Forestry University in CN. With 77 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.211578
+date: 2026-08-11T01:33:11.184740
 url: "/cdr-researcher-census/researchers/shihe-xing-a5102661/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Spatiotemporal variations and driving factors of farmland soil organic carbon in various landforms of a complex topography** (2024)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 2. **Soil organic carbon dynamics (2008–2020) across different cultivated land use types in a subtropical region** (2025)
    4 citations · Soil Carbon

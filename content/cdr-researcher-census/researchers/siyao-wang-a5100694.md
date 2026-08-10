@@ -1,7 +1,7 @@
 ---
 title: "Siyao Wang"
 description: "Siyao Wang is a Mid-career BECCS researcher. With 38 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.737020
+date: 2026-08-11T01:33:11.653672
 url: "/cdr-researcher-census/researchers/siyao-wang-a5100694/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Performance assessments of an integrated system for post-combustion CO2 capture and NH4HCO3 production in a biomass power plant based on green ammonia** (2024)
-   6 citations · BECCS
+   8 citations · BECCS
 
 2. **Performance Assessments of an Integrated System for Post-Combustion Co2 Capture and Nh4hco3 Production in a Biomass Power Plant Based on Green Ammonia** (2024)
    0 citations · BECCS

@@ -1,7 +1,7 @@
 ---
 title: "Jay Fuhrman"
 description: "Jay Fuhrman is a Mid-career General CDR researcher at Joint Global Change Research Institute in US. With 64 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.253002
+date: 2026-08-11T01:33:11.223341
 url: "/cdr-researcher-census/researchers/jay-fuhrman-a5034052/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,28 +51,28 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Diverse carbon dioxide removal approaches could reduce impacts on the energy–water–land system** (2023)
-   197 citations · General CDR
+   199 citations · General CDR
 
 2. **The role of direct air capture and negative emissions technologies in the shared socioeconomic pathways towards +1.5 °C and +2 °C futures** (2021)
-   110 citations · DAC
+   112 citations · DAC
 
-3. **The role of carbon dioxide removal in net-zero emissions pledges** (2021)
+3. **The Science, Engineering, and Validation of Marine Carbon Dioxide Removal and Storage** (2024)
+   63 citations · General CDR
+
+4. **The role of carbon dioxide removal in net-zero emissions pledges** (2021)
    58 citations · General CDR
 
-4. **The Science, Engineering, and Validation of Marine Carbon Dioxide Removal and Storage** (2024)
-   48 citations · General CDR
-
 5. **Modeling direct air carbon capture and storage in a 1.5 °C climate future using historical analogs** (2024)
-   38 citations · DAC
+   40 citations · DAC
 
 6. **Technology, technology, technology: An integrated assessment of deep decarbonization pathways for the Canadian oil sands** (2022)
    30 citations · DAC
 
-7. **Ambitious efforts on residual emissions can reduce CO<sub>2</sub> removal and lower peak temperatures in a net-zero future** (2024)
-   27 citations · General CDR
+7. **Deployment expectations of multi-gigatonne scale carbon removal could have adverse impacts on Asia’s energy-water-land nexus** (2024)
+   28 citations · General CDR
 
-8. **Deployment expectations of multi-gigatonne scale carbon removal could have adverse impacts on Asia’s energy-water-land nexus** (2024)
-   26 citations · General CDR
+8. **Ambitious efforts on residual emissions can reduce CO<sub>2</sub> removal and lower peak temperatures in a net-zero future** (2024)
+   28 citations · General CDR
 
 9. **Effects of Direct Air Capture Technology Availability on Stranded Assets and Committed Emissions in the Power Sector** (2021)
    25 citations · BECCS

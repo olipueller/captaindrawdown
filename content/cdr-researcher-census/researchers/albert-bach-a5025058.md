@@ -1,7 +1,7 @@
 ---
 title: "Albert Bach"
 description: "Albert Bach is a Mid-career General CDR researcher at Universitat Autònoma de Barcelona in ES. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.824571
+date: 2026-08-11T01:33:11.731562
 url: "/cdr-researcher-census/researchers/albert-bach-a5025058/"
 layout: "researcher"
 hiddenInHomeList: true

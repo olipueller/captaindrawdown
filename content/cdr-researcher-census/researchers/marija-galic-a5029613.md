@@ -1,7 +1,7 @@
 ---
 title: "Marija Galić"
 description: "Marija Galić is a Senior Soil Carbon researcher. With 53 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.114404
+date: 2026-08-11T01:33:12.004575
 url: "/cdr-researcher-census/researchers/marija-galic-a5029613/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,11 +48,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Carbon Balance of Miscanthus Biomass from Rhizomes and Seedlings** (2022)
    10 citations · BECCS
 
-2. **The Role of Grassland Land Use in Enhancing Soil Resilience and Climate Adaptation in Periurban Landscapes** (2025)
-   2 citations · Soil Carbon
+2. **Comparing the Grain Yields and Other Properties of Old and New Wheat Cultivars** (2023)
+   3 citations · General CDR
 
-3. **Comparing the Grain Yields and Other Properties of Old and New Wheat Cultivars** (2023)
-   2 citations · General CDR
+3. **The Role of Grassland Land Use in Enhancing Soil Resilience and Climate Adaptation in Periurban Landscapes** (2025)
+   2 citations · Soil Carbon
 
 4. **Comparison of soil carbon dioxide emissions between conventional and conservation tillage systems in Križevci, Croatia** (2026)
    0 citations · Soil Carbon

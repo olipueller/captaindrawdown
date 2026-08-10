@@ -1,7 +1,7 @@
 ---
 title: "Roberto Schaeffer"
 description: "Roberto Schaeffer is an Eminent General CDR researcher at Universidade Federal do Rio de Janeiro in BR. With 317 publications and an h-index of 63, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.086373
+date: 2026-08-11T01:33:11.067605
 url: "/cdr-researcher-census/researchers/roberto-schaeffer-a5032681/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Global fossil fuel reduction pathways under different climate mitigation strategies and ambitions** (2023)
-   395 citations · General CDR
+   408 citations · General CDR
 
 2. **Land-based implications of early climate actions without global net-negative emissions** (2021)
    67 citations · General CDR
@@ -60,7 +60,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    49 citations · General CDR
 
 4. **Nature‐based solutions are critical for putting Brazil on track towards net‐zero emissions by 2050** (2023)
-   30 citations · General CDR
+   31 citations · General CDR
 
 5. **Are there synergies in the decarbonization of aviation and shipping? An integrated perspective for the case of Brazil** (2022)
    22 citations · General CDR
@@ -69,7 +69,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    19 citations
 
 7. **Taking stock of carbon dioxide removal policy in emerging economies: developments in Brazil, China, and India** (2024)
-   14 citations · General CDR
+   15 citations · General CDR
 
 8. **The role of bioenergy in Brazil's low-carbon future** (2023)
    12 citations · BECCS

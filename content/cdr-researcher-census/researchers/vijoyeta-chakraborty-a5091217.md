@@ -1,7 +1,7 @@
 ---
 title: "Vijoyeta Chakraborty"
 description: "Vijoyeta Chakraborty is a Senior Biochar researcher at Adamas University in IN. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.842176
+date: 2026-08-11T01:33:11.746798
 url: "/cdr-researcher-census/researchers/vijoyeta-chakraborty-a5091217/"
 layout: "researcher"
 hiddenInHomeList: true

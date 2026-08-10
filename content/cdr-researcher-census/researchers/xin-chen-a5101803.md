@@ -1,7 +1,7 @@
 ---
 title: "Xin Chen"
 description: "Xin Chen is a Senior Biochar researcher at Chinese Academy of Sciences in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.443077
+date: 2026-08-11T01:33:12.300785
 url: "/cdr-researcher-census/researchers/xin-chen-a5101803/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Murilo G. Veloso"
 description: "Murilo G. Veloso is a Mid-career Soil Carbon researcher at Universidade La Salle in BR. With 37 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.495903
+date: 2026-08-11T01:33:11.437083
 url: "/cdr-researcher-census/researchers/murilo-g-veloso-a5013923/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Weathering of biochar: implications to soil health, carbon sequestration and soil remediation** (2026)
-   0 citations · Biochar
+   2 citations · Biochar
 
 2. **Distribution of soil organic carbon across contrasting fractionation techniques - results from a long-term field trial with increasing shares of leguminous cover crops** (2024)
    0 citations · Soil Carbon

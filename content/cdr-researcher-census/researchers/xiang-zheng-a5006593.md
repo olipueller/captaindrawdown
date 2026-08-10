@@ -1,7 +1,7 @@
 ---
 title: "Xiang Zheng"
 description: "Xiang Zheng is a Senior Soil Carbon researcher at Ningxia University in CN. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.852355
+date: 2026-08-11T01:33:11.755625
 url: "/cdr-researcher-census/researchers/xiang-zheng-a5006593/"
 layout: "researcher"
 hiddenInHomeList: true

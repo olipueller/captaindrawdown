@@ -1,7 +1,7 @@
 ---
 title: "Caogui Cao"
 description: "Caogui Cao is an Early-career Soil Carbon researcher at Yangtze University in CN. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.442745
+date: 2026-08-11T01:33:12.300453
 url: "/cdr-researcher-census/researchers/caogui-cao-a5006393/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of long-term no tillage and straw return on greenhouse gas emissions and crop yields from a rice-wheat system in central China** (2021)
-   122 citations · Soil Carbon
+   124 citations · Soil Carbon
 
 ## External Profiles
 

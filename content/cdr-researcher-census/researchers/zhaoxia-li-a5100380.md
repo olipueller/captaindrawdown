@@ -1,7 +1,7 @@
 ---
 title: "Zhaoxia Li"
 description: "Zhaoxia Li is a Mid-career Biochar researcher at Nanjing Tech University in CN. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.619132
+date: 2026-08-11T01:33:11.547134
 url: "/cdr-researcher-census/researchers/zhaoxia-li-a5100380/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Adsorption of ibuprofen using biomass carbon derived from one-step pyrolysis of ginkgo leaves** (2025)
-   12 citations · Biochar
+   13 citations · Biochar
 
 ## External Profiles
 

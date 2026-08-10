@@ -1,7 +1,7 @@
 ---
 title: "Lanfang Han"
 description: "Lanfang Han is an Eminent Biochar researcher at Guangdong University of Technology in CN. With 122 publications and an h-index of 48, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.105881
+date: 2026-08-11T01:33:11.085590
 url: "/cdr-researcher-census/researchers/lanfang-han-a5068964/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,25 +51,25 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar stability and impact on soil organic carbon mineralization depend on biochar processing, aging and soil clay content** (2022)
-   257 citations · Biochar
+   262 citations · Biochar
 
 2. **Impact of biochar amendment on soil aggregation varied with incubation duration and biochar pyrolysis temperature** (2021)
-   84 citations · Biochar
+   85 citations · Biochar
 
 3. **Assessment of livestock manure-derived hydrochar as cleaner products: Insights into basic properties, nutrient composition, and heavy metal content** (2021)
-   77 citations · Biochar
+   80 citations · Biochar
 
 4. **Changes in soil properties and CO2 emissions after biochar addition: Role of pyrolysis temperature and aging** (2022)
-   64 citations · Biochar
+   72 citations · Biochar
 
 5. **Effect of Fe and Al ions on the production of biochar from agricultural biomass: Properties, stability and adsorption efficiency of biochar** (2021)
    57 citations · Biochar
 
 6. **Polylactic acid microplastics induced negative priming and improved carbon sequestration via microbial processes in different paddy soils** (2024)
-   49 citations · Soil Carbon
+   51 citations · Soil Carbon
 
 7. **Carbon sequestration potential of biochar in soil from the perspective of organic carbon structural modification** (2024)
-   30 citations · Biochar
+   32 citations · Biochar
 
 8. **Biogas residue biochar shifted bacterial community, mineralization, and molecular structure of organic carbon in a sandy loam Alfisol** (2021)
    21 citations · Biochar
@@ -78,7 +78,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    19 citations · Biochar
 
 10. **High-Dose Biochar Hinders Micro/Nanoplastic-Induced Soil Positive Priming by Reducing Substrate Quality and Microbial Activity** (2026)
-   5 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 ## External Profiles
 

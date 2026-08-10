@@ -1,7 +1,7 @@
 ---
 title: "Modian Xie"
 description: "Modian Xie is a Mid-career Soil Carbon researcher at Jiangxi University of Finance and Economics in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.786567
+date: 2026-08-11T01:33:11.698368
 url: "/cdr-researcher-census/researchers/modian-xie-a5024370/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A high-resolution map of soil organic carbon in cropland of Southern China** (2024)
-   56 citations · Soil Carbon
+   59 citations · Soil Carbon
 
 2. **Effects of straw return on soil carbon sequestration, soil nutrients and rice yield of in acidic farmland soil of Southern China** (2024)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 3. **A high-resolution map of soil organic carbon in cropland of Southern Chinas** (2024)
    0 citations · Soil Carbon

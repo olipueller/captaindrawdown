@@ -1,7 +1,7 @@
 ---
 title: "Hang Shi"
 description: "Hang Shi is a Senior Soil Carbon researcher at Nanjing University of Chinese Medicine in CN. With 37 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.701636
+date: 2026-08-11T01:33:11.621603
 url: "/cdr-researcher-census/researchers/hang-shi-a5042228/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -56,11 +56,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 2. **Short-term P addition weakens the positive effects of N addition on CH4 uptake in alpine grasslands of the Qinghai-Tibetan Plateau** (2024)
    5 citations · Soil Carbon
 
-3. **Fertilization practices for balancing carbon sequestration, emissions and yield in rice-wheat rotation: A meta-analysis** (2025)
-   2 citations · General CDR
+3. **Microbial nutrient limitations and chemical composition of soil organic carbon regulate the organic carbon mineralization and temperature sensitivity in forest and grassland soils** (2025)
+   3 citations · Soil Carbon
 
-4. **Microbial nutrient limitations and chemical composition of soil organic carbon regulate the organic carbon mineralization and temperature sensitivity in forest and grassland soils** (2025)
-   2 citations · Soil Carbon
+4. **Fertilization practices for balancing carbon sequestration, emissions and yield in rice-wheat rotation: A meta-analysis** (2025)
+   2 citations · General CDR
 
 5. **P addition weakens the positive effects of N addition on CH4 uptake and does not affect the effects of N addition on CO2 emission in alpine grasslands** (2024)
    0 citations · Soil Carbon

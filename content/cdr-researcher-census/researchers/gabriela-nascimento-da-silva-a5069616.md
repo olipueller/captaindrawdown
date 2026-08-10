@@ -1,7 +1,7 @@
 ---
 title: "Gabriela Nascimento da Silva"
 description: "Gabriela Nascimento da Silva is a Mid-career General CDR researcher at Universidade Federal do Rio de Janeiro in BR. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.056478
+date: 2026-08-11T01:33:11.930508
 url: "/cdr-researcher-census/researchers/gabriela-nascimento-da-silva-a5069616/"
 layout: "researcher"
 hiddenInHomeList: true

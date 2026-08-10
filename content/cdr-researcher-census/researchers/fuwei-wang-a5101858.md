@@ -1,7 +1,7 @@
 ---
 title: "Fuwei Wang"
 description: "Fuwei Wang is a Mid-career Soil Carbon researcher at Anhui Agricultural University in CN. With 37 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.352673
+date: 2026-08-11T01:33:11.314366
 url: "/cdr-researcher-census/researchers/fuwei-wang-a5101858/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Climate change drivers alter root controls over litter decomposition in a semi-arid grassland** (2021)
-   45 citations
+   47 citations
 
 2. **Earthworm breeding techniques and their roles in microbial regulation and soil carbon sequestration** (2025)
    1 citations · Soil Carbon

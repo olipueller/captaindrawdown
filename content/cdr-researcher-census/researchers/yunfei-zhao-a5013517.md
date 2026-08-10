@@ -1,7 +1,7 @@
 ---
 title: "Yunfei Zhao"
 description: "Yunfei Zhao is a Senior Soil Carbon researcher at Lanzhou University in CN. With 74 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.256572
+date: 2026-08-11T01:33:11.226386
 url: "/cdr-researcher-census/researchers/yunfei-zhao-a5013517/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,16 +54,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    53 citations · Soil Carbon
 
 2. **Alpine wetland degradation affects carbon cycle function genes but does not reduce soil microbial diversity** (2024)
-   34 citations
+   36 citations
 
 3. **Effects of recovery models on organic carbon pathways: A method using 13C natural abundance** (2022)
-   25 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 4. **Aridity-driven divergence in soil microbial necromass carbon in alpine grasslands of the Tibetan Plateau** (2024)
-   20 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 5. **Soil organic carbon stability of vegetation restoration during 11-year-old grassland succession** (2023)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 6. **Effect of Time since Afforestation on Soil Organic Carbon Stock and Turnover Rate** (2022)
    7 citations · Soil Carbon

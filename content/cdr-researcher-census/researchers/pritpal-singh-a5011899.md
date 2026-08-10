@@ -1,7 +1,7 @@
 ---
 title: "Pritpal Singh"
 description: "Pritpal Singh is a Senior Soil Carbon researcher at Punjab Agricultural University in IN. With 190 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.131197
+date: 2026-08-11T01:33:11.109701
 url: "/cdr-researcher-census/researchers/pritpal-singh-a5011899/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Rice–wheat system in the northwest Indo-Gangetic plains of South Asia: issues and technological interventions for increasing productivity and sustainability** (2021)
-   196 citations · Soil Carbon
+   199 citations · Soil Carbon
 
 2. **Structural Stability and Organic Matter Stabilization in Soils: Differential Impacts of Soil Salinity and Sodicity** (2023)
    46 citations · Soil Carbon
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    27 citations · Soil Carbon
 
 5. **Data envelopment analysis based optimization for improving net ecosystem carbon and energy budget in cotton (Gossypium hirsutum L.) cultivation: methods and a case study of north-western India** (2021)
-   22 citations
+   23 citations
 
 6. **Nutrient management impacts on organic carbon pool in soils under different cropping systems in the Indo-Gangetic Plains in South Asia** (2023)
    18 citations · Soil Carbon

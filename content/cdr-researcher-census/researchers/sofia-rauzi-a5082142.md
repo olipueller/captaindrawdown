@@ -1,7 +1,7 @@
 ---
 title: "Sofia Rauzi"
 description: "Sofia Rauzi is a Mid-career Enhanced Weathering researcher at University of Waikato in NZ. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.076158
+date: 2026-08-11T01:33:11.969678
 url: "/cdr-researcher-census/researchers/sofia-rauzi-a5082142/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Marine siliceous ecosystem decline led to sustained anomalous Early Triassic warmth** (2022)
-   31 citations
+   33 citations
 
 2. **Lithium isotopic evidence for enhanced reverse weathering during the Early Triassic warm period** (2024)
-   17 citations · Enhanced Weathering
+   19 citations · Enhanced Weathering
 
 3. **Heterogeneous Carbonate Lithium Isotope Records Across the end-Permian Mass Extinction Indicate a Highly Perturbed Lithium Cycle in the Early Triassic** (2026)
    1 citations

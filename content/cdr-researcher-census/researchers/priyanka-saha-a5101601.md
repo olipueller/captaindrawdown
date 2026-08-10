@@ -1,7 +1,7 @@
 ---
 title: "Priyanka Saha"
 description: "Priyanka Saha is a Senior General CDR researcher at Krishi Vigyan Kendra, Ghatkhed Amravati in IN. With 114 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.251679
+date: 2026-08-11T01:33:11.222141
 url: "/cdr-researcher-census/researchers/priyanka-saha-a5101601/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Synergizing sustainability: a critical review on harnessing agroforestry for biomass, carbon sequestration, and water-food-energy nexus** (2024)
-   7 citations · BECCS
+   10 citations · BECCS
 
 2. **Agroforestry for Food Security and Ecological Sustainability Under Changing Climatic Scenarios** (2024)
-   4 citations · General CDR
+   5 citations · General CDR
 
 3. **Soil Carbon Sequestration Potential in Achieving the Land Degradation Neutrality (LDN)** (2025)
    2 citations · General CDR

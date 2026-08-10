@@ -1,7 +1,7 @@
 ---
 title: "Tobias Gebauer"
 description: "Tobias Gebauer is a Senior Soil Carbon researcher at University of Freiburg in DE. With 34 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.312064
+date: 2026-08-11T01:33:11.278603
 url: "/cdr-researcher-census/researchers/tobias-gebauer-a5054066/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Tree Diversity Increases Carbon Stocks and Fluxes Above—But Not Belowground in a Tropical Forest Experiment** (2025)
-   18 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 2. **Tree diversity increases carbon stocks and fluxes above- but not belowground in a tropical forest experiment** (2024)
    1 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Amarjargal Sanjjav"
 description: "Amarjargal Sanjjav is a Mid-career Soil Carbon researcher at Mongolian Academy of Sciences in MN. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.071628
+date: 2026-08-11T01:33:11.965803
 url: "/cdr-researcher-census/researchers/amarjargal-sanjjav-a5076798/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Spatio-temporal patterns and control mechanism of the ecosystem carbon use efficiency across the Mongolian Plateau** (2023)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 ## External Profiles
 

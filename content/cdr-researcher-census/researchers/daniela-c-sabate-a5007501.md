@@ -1,7 +1,7 @@
 ---
 title: "Daniela C. Sabaté"
 description: "Daniela C. Sabaté is a Senior Soil Carbon researcher at National University of Salta in AR. With 17 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.347299
+date: 2026-08-11T01:33:11.310190
 url: "/cdr-researcher-census/researchers/daniela-c-sabate-a5007501/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Restoration of degraded soils with perennial pastures shifts soil microbial communities and enhances soil structure** (2025)
-   14 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 ## External Profiles
 

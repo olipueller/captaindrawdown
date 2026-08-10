@@ -1,7 +1,7 @@
 ---
 title: "Shuangli Li"
 description: "Shuangli Li is a Senior Biochar researcher at Harbin Institute of Technology in CN. With 25 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.586235
+date: 2026-08-11T01:33:11.517751
 url: "/cdr-researcher-census/researchers/shuangli-li-a5101613/"
 layout: "researcher"
 hiddenInHomeList: true

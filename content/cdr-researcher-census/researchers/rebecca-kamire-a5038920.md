@@ -1,7 +1,7 @@
 ---
 title: "Rebecca Kamire"
 description: "Rebecca Kamire is a Mid-career General CDR researcher. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.829440
+date: 2026-08-11T01:33:11.735949
 url: "/cdr-researcher-census/researchers/rebecca-kamire-a5038920/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,22 +48,25 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 1. **Carbon Dioxide Removal by Ionic Liquid System – Integrated (CDRILS-I) for a Mars Exploration Application** (2026)
    0 citations · General CDR
 
-2. **CDRILS 4-crew-scale CO2 Removal and Reduction Flight Unit Design** (2024)
+2. **Carbon Dioxide Removal by Ionic Liquid System – Integrated (CDRILS-I) for a Mars Exploration Application** (2026)
    0 citations · General CDR
 
-3. **CDRILS Durability Upgrades and 4-crew-scale CO2 Removal Testing** (2024)
+3. **CDRILS 4-crew-scale CO2 Removal and Reduction Flight Unit Design** (2024)
    0 citations · General CDR
 
-4. **Carbon Dioxide Removal by Ionic Liquid System (CDRILS): Ground Prototype Testing and Trace Contaminant Removal Integration** (2023)
+4. **CDRILS Durability Upgrades and 4-crew-scale CO2 Removal Testing** (2024)
    0 citations · General CDR
 
-5. **CDRILS Flight Demonstration Unit: 2025 Update** (2025)
+5. **Carbon Dioxide Removal by Ionic Liquid System (CDRILS): Ground Prototype Testing and Trace Contaminant Removal Integration** (2023)
    0 citations · General CDR
 
-6. **"Carbon Dioxide Removal by Ionic Liquid System for Mobility (CDRILS-M) for Mars Exploration Extravehicular Mobility Unit (mxEMU)"** (2025)
+6. **CDRILS Flight Demonstration Unit: 2025 Update** (2025)
+   0 citations · General CDR
+
+7. **"Carbon Dioxide Removal by Ionic Liquid System for Mobility (CDRILS-M) for Mars Exploration Extravehicular Mobility Unit (mxEMU)"** (2025)
    0 citations
 
-7. **Carbon Dioxide Removal by Ionic Liquid System (CDRILS): Continuous Operation and Full-Scale Brassboard Testing** (2021)
+8. **Carbon Dioxide Removal by Ionic Liquid System (CDRILS): Continuous Operation and Full-Scale Brassboard Testing** (2021)
    0 citations
 
 ## External Profiles

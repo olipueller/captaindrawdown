@@ -1,7 +1,7 @@
 ---
 title: "Barbara Maco"
 description: "Barbara Maco is a Mid-career Biochar researcher. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.357778
+date: 2026-08-11T01:33:12.221748
 url: "/cdr-researcher-census/researchers/barbara-maco-a5017432/"
 layout: "researcher"
 hiddenInHomeList: true

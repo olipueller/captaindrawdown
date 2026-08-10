@@ -1,7 +1,7 @@
 ---
 title: "Ravi Teja Kusuma"
 description: "Ravi Teja Kusuma is an Early-career BECCS researcher at Symbiosis International University in IN. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.317711
+date: 2026-08-11T01:33:12.186055
 url: "/cdr-researcher-census/researchers/ravi-teja-kusuma-a5075199/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Sustainable transition towards biomass-based cement industry: A review** (2022)
-   145 citations · BECCS
+   148 citations · BECCS
 
 ## External Profiles
 

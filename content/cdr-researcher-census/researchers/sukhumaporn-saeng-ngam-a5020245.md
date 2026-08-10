@@ -1,7 +1,7 @@
 ---
 title: "Sukhumaporn Saeng-ngam"
 description: "Sukhumaporn Saeng-ngam is a Mid-career Biochar researcher at Srinakharinwirot University in TH. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.463803
+date: 2026-08-11T01:33:12.320134
 url: "/cdr-researcher-census/researchers/sukhumaporn-saeng-ngam-a5020245/"
 layout: "researcher"
 hiddenInHomeList: true

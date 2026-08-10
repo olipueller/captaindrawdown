@@ -1,7 +1,7 @@
 ---
 title: "Zhuxiu Liu"
 description: "Zhuxiu Liu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 26 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.431198
+date: 2026-08-11T01:33:11.382475
 url: "/cdr-researcher-census/researchers/zhuxiu-liu-a5082661/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Conservation tillage regulates the assembly, network structure and ecological function of the soil bacterial community in black soils** (2022)
-   53 citations · Soil Carbon
+   54 citations · Soil Carbon
 
 2. **Enhancing microbial carbon use efficiency in organic rice farming through improved soil nutrient availability and microbial resource acquisition strategies** (2025)
-   5 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 3. **Conservation tillage regulates soil bacterial community assemblies, network structures and ecological functions in black soils** (2021)
    4 citations · Soil Carbon

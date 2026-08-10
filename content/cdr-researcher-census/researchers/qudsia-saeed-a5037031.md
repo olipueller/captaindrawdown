@@ -1,7 +1,7 @@
 ---
 title: "Qudsia Saeed"
 description: "Qudsia Saeed is a Senior Soil Carbon researcher at Nishtar Medical College and Hospital in PK. With 39 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.187264
+date: 2026-08-11T01:33:11.161935
 url: "/cdr-researcher-census/researchers/qudsia-saeed-a5037031/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    88 citations · Soil Carbon
 
 2. **Manure replacing synthetic fertilizer improves crop yield sustainability and reduces carbon footprint under winter wheat–summer maize cropping system** (2024)
-   33 citations · Soil Carbon
+   36 citations · Soil Carbon
 
-3. **Combined application of chemical and organic fertilizers enhances soil organic carbon sequestration and crop productivity by improving carbon stability and management index in a rice–rice cropping system** (2025)
+3. **Beyond one-size-fits-all: tailoring engineered biochar for purpose-specific rhizosphere engineering in crop production, protection, and soil remediation** (2026)
+   22 citations · Biochar
+
+4. **Combined application of chemical and organic fertilizers enhances soil organic carbon sequestration and crop productivity by improving carbon stability and management index in a rice–rice cropping system** (2025)
    21 citations · Soil Carbon
 
-4. **Physically separated soil organic matter pools as indicators of carbon and nitrogen change under long-term fertilization in a Chinese Mollisol** (2022)
+5. **Physically separated soil organic matter pools as indicators of carbon and nitrogen change under long-term fertilization in a Chinese Mollisol** (2022)
    21 citations
-
-5. **Beyond one-size-fits-all: tailoring engineered biochar for purpose-specific rhizosphere engineering in crop production, protection, and soil remediation** (2026)
-   19 citations · Biochar
 
 6. **Root traits and rhizosphere responses as emerging bioindicators of microplastic pollution in agricultural soils: A review** (2026)
    3 citations

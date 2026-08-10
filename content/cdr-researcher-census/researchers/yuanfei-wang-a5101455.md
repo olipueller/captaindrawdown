@@ -1,7 +1,7 @@
 ---
 title: "Yuanfei Wang"
 description: "Yuanfei Wang is a Senior Biochar researcher at University of Science and Technology of China in CN. With 154 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.143682
+date: 2026-08-11T01:33:11.121343
 url: "/cdr-researcher-census/researchers/yuanfei-wang-a5101455/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Modulation of ciprofloxacin adsorption conjugation effect by specific conformation of manganese-nitrogen co-doped biochar and its mechanistic study** (2025)
-   22 citations · Biochar
+   24 citations · Biochar
 
 2. **Preparation of Mn modified waste dander biochar and its effect on soil carbon sequestration** (2024)
    16 citations
@@ -59,11 +59,11 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 3. **Effect of waste leather dander biochar on soil organic carbon sequestration** (2024)
    15 citations · Biochar
 
-4. **MnSO4-modified woodchip biochar “dual fixation” mechanism: Functional group-electron synergistic stabilization of heavy metals and carbon structure** (2025)
+4. **Study on the synergistic carbon sequestration mechanism of Firmicutes in soil induced by highly conjugated Fe2O3@leather scraps-derived collagen-based biochar** (2025)
    5 citations · Biochar
 
-5. **Study on the synergistic carbon sequestration mechanism of Firmicutes in soil induced by highly conjugated Fe2O3@leather scraps-derived collagen-based biochar** (2025)
-   4 citations · Biochar
+5. **MnSO4-modified woodchip biochar “dual fixation” mechanism: Functional group-electron synergistic stabilization of heavy metals and carbon structure** (2025)
+   5 citations · Biochar
 
 6. **Oxygen-limited pyrolysis drives biochar-clay mineral interface composite for synergistic improvement of soil quality and carbon sequestration** (2025)
    3 citations · Biochar

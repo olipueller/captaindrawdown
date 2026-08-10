@@ -1,7 +1,7 @@
 ---
 title: "Jeanette Whitaker"
 description: "Jeanette Whitaker is a Senior Soil Carbon researcher at UK Centre for Ecology & Hydrology in GB. With 104 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.099443
+date: 2026-08-11T01:33:11.079639
 url: "/cdr-researcher-census/researchers/jeanette-whitaker-a5079699/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Deconstructing the microbial necromass continuum to inform soil carbon sequestration** (2022)
-   286 citations · General CDR
+   294 citations · General CDR
 
 2. **Microbial necromass carbon and nitrogen persistence are decoupled in agricultural grassland soils** (2022)
-   63 citations · Soil Carbon
+   66 citations · Soil Carbon
 
 3. **Perennial biomass cropping and use: Shaping the policy ecosystem in European countries** (2023)
-   51 citations · BECCS
+   53 citations · BECCS
 
 4. **Coupled geomorphic and climate-driven biogeochemical processes regulate soil organic carbon stocks in agricultural terraces** (2026)
    2 citations · Soil Carbon

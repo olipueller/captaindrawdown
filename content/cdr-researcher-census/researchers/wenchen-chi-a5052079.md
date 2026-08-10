@@ -1,7 +1,7 @@
 ---
 title: "Wenchen Chi"
 description: "Wenchen Chi is a Senior Biochar researcher at Zhejiang University of Technology in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.881324
+date: 2026-08-11T01:33:11.782529
 url: "/cdr-researcher-census/researchers/wenchen-chi-a5052079/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **The implication from six years of field experiment: the aging process induced lower rice production even with a high amount of biochar application** (2023)
-   20 citations · Biochar
+   21 citations · Biochar
 
 2. **Long-Term Carbon Reduction Potential Assessment of Rice Straw Biochar Amendment in Paddy** (2025)
    0 citations · Biochar

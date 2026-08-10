@@ -1,7 +1,7 @@
 ---
 title: "Tangyuan Ning"
 description: "Tangyuan Ning is a Senior Soil Carbon researcher at Shandong Agricultural University in CN. With 101 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.162428
+date: 2026-08-11T01:33:11.138766
 url: "/cdr-researcher-census/researchers/tangyuan-ning-a5026115/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,18 +51,18 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Physical, chemical and biological subsoiling for sustainable agriculture** (2022)
-   103 citations
+   105 citations
 
 2. **Rotary and subsoiling tillage rotations influence soil carbon and nitrogen sequestration and crop yield** (2022)
-   23 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 3. **Energy storage and stability of soil organic matter during the natural restoration of abandoned cropland** (2024)
-   19 citations · Soil Carbon
+   20 citations · Soil Carbon
 
-4. **Long-term subsoiling and tillage rotation increase carbon storage in soil aggregates and the abundance of autotrophs** (2024)
-   14 citations · Soil Carbon
+4. **Crop – Livestock integration via maize straw recycling increased carbon sequestration and crop production in China** (2023)
+   15 citations · Soil Carbon
 
-5. **Crop – Livestock integration via maize straw recycling increased carbon sequestration and crop production in China** (2023)
+5. **Long-term subsoiling and tillage rotation increase carbon storage in soil aggregates and the abundance of autotrophs** (2024)
    14 citations · Soil Carbon
 
 6. **Improvement of soil aggregate-associated carbon sequestration capacity after 14 years of conservation tillage** (2022)

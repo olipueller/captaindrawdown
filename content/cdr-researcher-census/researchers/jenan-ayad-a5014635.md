@@ -1,7 +1,7 @@
 ---
 title: "Jenan Ayad"
 description: "Jenan Ayad is a Mid-career Soil Carbon researcher at University of Technology - Iraq in IQ. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.153320
+date: 2026-08-11T01:33:12.040750
 url: "/cdr-researcher-census/researchers/jenan-ayad-a5014635/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Leveraging the Internet of Things, Remote Sensing, and Artificial Intelligence for Sustainable Forest Management** (2025)
-   83 citations · General CDR
+   85 citations · General CDR
 
 ## External Profiles
 

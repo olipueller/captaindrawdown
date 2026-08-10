@@ -1,7 +1,7 @@
 ---
 title: "S. Paul Sebastian"
 description: "S. Paul Sebastian is a Senior Biochar researcher at Tamil Nadu Agricultural University in IN. With 47 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.928646
+date: 2026-08-11T01:33:11.825133
 url: "/cdr-researcher-census/researchers/s-paul-sebastian-a5066072/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -60,7 +60,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    2 citations · Soil Carbon
 
 4. **Physiological insights into the carbon sequestration potential of vetiver grass in effluent-contaminated soil ecosystems** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 5. **Utility of Surface-Modified Biochar for Sequestration of Heavy Metals in Water** (2021)
    0 citations · Biochar

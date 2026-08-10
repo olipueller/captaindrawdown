@@ -1,7 +1,7 @@
 ---
 title: "Surat Semmad"
 description: "Surat Semmad is a Mid-career Biochar researcher at Rajamangala University of Technology Isan in TH. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.548311
+date: 2026-08-11T01:33:12.397695
 url: "/cdr-researcher-census/researchers/surat-semmad-a5030410/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Adsorption of Cu(II) and Zn(II) onto Activated Carbon from Oil Palm Empty Fruit Bunch Prepared by Two-Step Acid Treatment and Microwave-Assisted Pyrolysis** (2023)
-   15 citations · Biochar
+   17 citations · Biochar
 
 ## External Profiles
 

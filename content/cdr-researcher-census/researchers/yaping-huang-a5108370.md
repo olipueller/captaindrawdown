@@ -1,7 +1,7 @@
 ---
 title: "Yaping Huang"
 description: "Yaping Huang is a Senior Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.480940
+date: 2026-08-11T01:33:11.424387
 url: "/cdr-researcher-census/researchers/yaping-huang-a5108370/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,13 +48,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term manuring increases microbial carbon use efficiency and mitigates priming effect via alleviated soil acidification and resource limitation** (2021)
-   97 citations
+   103 citations
 
 2. **Long-term manuring facilitates glomalin-related soil proteins accumulation by chemical composition shifts and macro-aggregation formation** (2023)
-   55 citations · Soil Carbon
+   56 citations · Soil Carbon
 
 3. **Organic amendments facilitate soil carbon sequestration via organic carbon accumulation and mitigation of inorganic carbon loss** (2022)
-   41 citations · Soil Carbon
+   44 citations · Soil Carbon
 
 4. **Stimulatory effects of nutrient addition on microbial necromass C formation depend on soil stoichiometry** (2025)
    18 citations · Soil Carbon

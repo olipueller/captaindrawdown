@@ -1,7 +1,7 @@
 ---
 title: "Chenghao Xie"
 description: "Chenghao Xie is a Mid-career Biochar researcher at Ministry of Natural Resources in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.307716
+date: 2026-08-11T01:33:12.177204
 url: "/cdr-researcher-census/researchers/chenghao-xie-a5102380/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Hydrochar more effectively mitigated nitrous oxide emissions than pyrochar from a coastal soil of the Yellow River Delta, China** (2022)
-   28 citations
+   30 citations
 
 2. **Modified biochar affects CO2 and N2O emissions from coastal saline soil by altering soil pH and elemental stoichiometry** (2024)
-   21 citations · Biochar
+   22 citations · Biochar
 
 ## External Profiles
 

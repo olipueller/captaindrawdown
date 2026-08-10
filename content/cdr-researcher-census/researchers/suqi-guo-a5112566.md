@@ -1,7 +1,7 @@
 ---
 title: "Suqi Guo"
 description: "Suqi Guo is a Mid-career General CDR researcher at Ludwig-Maximilians-Universität München in DE. With 29 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.808893
+date: 2026-08-11T01:33:11.717389
 url: "/cdr-researcher-census/researchers/suqi-guo-a5112566/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Land Use Effects on Climate: Current State, Recent Progress, and Emerging Topics** (2021)
-   183 citations · General CDR
+   186 citations · General CDR
 
 2. **Simulated unintended biogeochemical effects of idealized land cover and land management changes** (2022)
    0 citations · General CDR

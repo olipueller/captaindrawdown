@@ -1,7 +1,7 @@
 ---
 title: "Luling Tian"
 description: "Luling Tian is a Mid-career Biochar researcher at Zhejiang University in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.388631
+date: 2026-08-11T01:33:12.250468
 url: "/cdr-researcher-census/researchers/luling-tian-a5040005/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Enhancing nitrogen removal in low C/N wastewater with recycled sludge-derived biochar: A sustainable solution** (2024)
-   32 citations · Biochar
+   39 citations · Biochar
 
 ## External Profiles
 

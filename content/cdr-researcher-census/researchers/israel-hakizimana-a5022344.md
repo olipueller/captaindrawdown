@@ -1,7 +1,7 @@
 ---
 title: "Israel Hakizimana"
 description: "Israel Hakizimana is a Mid-career Biochar researcher at Tianjin University in CN. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.980211
+date: 2026-08-11T01:33:11.858390
 url: "/cdr-researcher-census/researchers/israel-hakizimana-a5022344/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Cr(VI) adsorption on activated carbon, sludge derived biochar, and peanut shells derived biochar: Performance, mechanisms during the reuse process and site energy distribution analysis** (2023)
-   53 citations · Biochar
+   54 citations · Biochar
 
 ## External Profiles
 

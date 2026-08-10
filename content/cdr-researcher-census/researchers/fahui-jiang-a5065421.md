@@ -1,7 +1,7 @@
 ---
 title: "Fahui Jiang"
 description: "Fahui Jiang is a Mid-career Soil Carbon researcher at Anhui Academy of Agricultural Sciences in CN. With 28 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.399237
+date: 2026-08-11T01:33:11.354022
 url: "/cdr-researcher-census/researchers/fahui-jiang-a5065421/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Impacts of straw return coupled with tillage practices on soil organic carbon stock in upland wheat and maize croplands in China: A meta-analysis** (2023)
-   58 citations · Soil Carbon
+   60 citations · Soil Carbon
 
 2. **Impact of straw return combined with different fertilizations on soil organic carbon stock in upland wheat and maize croplands in China: A meta-analysis** (2023)
-   27 citations · Soil Carbon
+   28 citations · Soil Carbon
 
 3. **Soil organic carbon trade-offs under conservation tillage: Carbon stock versus stability mediated by particulate and mineral-associated fractions** (2025)
    7 citations · Soil Carbon
 
-4. **Crop rotation impacts on SOC fraction contents and stability: Insights from a global meta-analysis** (2025)
-   1 citations · Soil Carbon
+4. **Effects of deep tillage combined with organic amendments application on carbon and nitrogen storage within aggregates and wheat yield** (2025)
+   2 citations
 
-5. **Effects of deep tillage combined with organic amendments application on carbon and nitrogen storage within aggregates and wheat yield** (2025)
-   1 citations
+5. **Crop rotation impacts on SOC fraction contents and stability: Insights from a global meta-analysis** (2025)
+   1 citations · Soil Carbon
 
 6. **Nitrogen Addition Reshapes Soil Carbon Molecular Composition via Nitrate–Enzyme Interactions in Soybean–Maize Intercropping** (2026)
    0 citations · Soil Carbon

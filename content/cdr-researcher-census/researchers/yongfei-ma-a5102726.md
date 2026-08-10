@@ -1,7 +1,7 @@
 ---
 title: "Yongfei Ma"
 description: "Yongfei Ma is a Mid-career Biochar researcher at Wuhan University of Technology in CN. With 41 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.225650
+date: 2026-08-11T01:33:11.198220
 url: "/cdr-researcher-census/researchers/yongfei-ma-a5102726/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Highly efficient activation of ferrate (VI) via corncob biochar assisted by electrochemistry for the removal of sulfamethoxazole from water** (2024)
-   31 citations · Biochar
+   33 citations · Biochar
 
 2. **Novel insights into ferrate (VI) activation by Mn-modified sludge biochar for sulfamethoxazole degradation: Dominance of hydroxyl group and Mn-O bond in the non-radical pathway** (2024)
-   17 citations · Biochar
+   18 citations · Biochar
 
 3. **Ferrate (VI) oxidation of sulfamethoxazole enhanced by magnetized sludge-based biochar: Active sites regulation and degradation mechanism analysis** (2024)
    10 citations · Biochar

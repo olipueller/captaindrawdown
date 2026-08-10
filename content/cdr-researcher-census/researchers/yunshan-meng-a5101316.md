@@ -1,7 +1,7 @@
 ---
 title: "Yunshan Meng"
 description: "Yunshan Meng is a Mid-career Soil Carbon researcher at Shandong Marine Resource and Environment Research Institute in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.507266
+date: 2026-08-11T01:33:12.359899
 url: "/cdr-researcher-census/researchers/yunshan-meng-a5101316/"
 layout: "researcher"
 hiddenInHomeList: true

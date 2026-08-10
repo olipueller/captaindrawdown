@@ -1,7 +1,7 @@
 ---
 title: "Ziru Zhou"
 description: "Ziru Zhou is a Mid-career Biochar researcher at North Sichuan Medical University in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.078938
+date: 2026-08-11T01:33:11.972084
 url: "/cdr-researcher-census/researchers/ziru-zhou-a5030130/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar Catalysis for the Enhanced Abiotic Humification of Polyphenols: An Important Mechanism Helping Sequester Carbon** (2024)
-   2 citations · Biochar
+   3 citations · Biochar
 
 ## External Profiles
 

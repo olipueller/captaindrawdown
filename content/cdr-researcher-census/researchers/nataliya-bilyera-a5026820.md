@@ -1,7 +1,7 @@
 ---
 title: "Nataliya Bilyera"
 description: "Nataliya Bilyera is a Mid-career Soil Carbon researcher at University of Tuebingen in DE. With 59 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.388827
+date: 2026-08-11T01:33:11.344994
 url: "/cdr-researcher-census/researchers/nataliya-bilyera-a5026820/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Keeping thinning-derived deadwood logs on forest floor improves soil organic carbon, microbial biomass, and enzyme activity in a temperate spruce forest** (2022)
-   25 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 2. **Localized fertilizer co-applied with biochar suspension can increase phosphorus uptake by maize while enabling carbon-sequestration benefits** (2026)
    2 citations · Biochar

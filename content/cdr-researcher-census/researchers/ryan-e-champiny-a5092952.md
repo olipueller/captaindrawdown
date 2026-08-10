@@ -1,7 +1,7 @@
 ---
 title: "Ryan E. Champiny"
 description: "Ryan E. Champiny is an Early-career Soil Carbon researcher at University of Florida in US. With 12 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.487603
+date: 2026-08-11T01:33:12.341813
 url: "/cdr-researcher-census/researchers/ryan-e-champiny-a5092952/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil Carbon Saturation: What Do We Really Know?** (2025)
-   109 citations · Soil Carbon
+   121 citations · Soil Carbon
 
 2. **Methods matter: examining the apparent saturation of soil mineral-associated organic carbon** (2026)
    0 citations · Soil Carbon

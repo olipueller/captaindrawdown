@@ -1,7 +1,7 @@
 ---
 title: "Xiongxiong Bai"
 description: "Xiongxiong Bai is a Mid-career Biochar researcher at Henan Normal University in CN. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.473994
+date: 2026-08-11T01:33:11.418291
 url: "/cdr-researcher-census/researchers/xiongxiong-bai-a5061327/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A global synthesis of biochar's sustainability in climate-smart agriculture - Evidence from field and laboratory experiments** (2022)
-   76 citations · Biochar
+   78 citations · Biochar
 
 2. **Organic amendment effects on cropland soil organic carbon and its implications: A global synthesis** (2023)
-   66 citations
+   69 citations
 
 3. **Biochar affects soil properties over 1 m depth in an alkaline soil of north China Plain** (2024)
    4 citations · Biochar

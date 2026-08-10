@@ -1,7 +1,7 @@
 ---
 title: "Junfei Zhang"
 description: "Junfei Zhang is a Senior Soil Carbon researcher at Hebei Agricultural University in CN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.571895
+date: 2026-08-11T01:33:12.414622
 url: "/cdr-researcher-census/researchers/junfei-zhang-a5023590/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Using a random forest model to predict volume growth of larch, birch, and their mixed forests in northern China** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

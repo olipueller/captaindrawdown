@@ -1,7 +1,7 @@
 ---
 title: "Nicoletta Brazzola"
 description: "Nicoletta Brazzola is a Mid-career General CDR researcher at Stiftung Wissenschaft und Politik, German Institute for International and Security Affairs in DE. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.198672
+date: 2026-08-11T01:33:12.081611
 url: "/cdr-researcher-census/researchers/nicoletta-brazzola-a5030128/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The role of direct air capture in achieving climate-neutral aviation** (2025)
-   31 citations · DAC
+   34 citations · DAC
 
 2. **Offsetting unabated agricultural emissions with CO2 removal to achieve ambitious climate targets** (2021)
    14 citations · General CDR
 
 3. **Utilizing CO<sub>2</sub> as a strategy to scale up direct air capture may face fewer short-term barriers than directly storing CO<sub>2</sub>** (2024)
-   10 citations · DAC
+   11 citations · DAC
 
 4. **Between Mitigation and Capture Deterrence: How Both Technology Optimism and Pessimism May Derail the Energy Transition** (2025)
    1 citations · General CDR

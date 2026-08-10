@@ -1,7 +1,7 @@
 ---
 title: "Leonie Göbel"
 description: "Leonie Göbel is a Mid-career Soil Carbon researcher. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.028642
+date: 2026-08-11T01:33:11.904432
 url: "/cdr-researcher-census/researchers/leonie-gobel-a5069831/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Multifunctionality of temperate alley-cropping agroforestry outperforms open cropland and grassland** (2023)
-   74 citations · General CDR
+   78 citations · General CDR
 
 ## External Profiles
 

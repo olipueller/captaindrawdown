@@ -1,7 +1,7 @@
 ---
 title: "Lina Qian"
 description: "Lina Qian is an Early-career Biochar researcher at Nanjing Tech University in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.468634
+date: 2026-08-11T01:33:12.325015
 url: "/cdr-researcher-census/researchers/lina-qian-a5060299/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Effective degradation of chloramphenicol in wastewater by activated peroxymonosulfate with Fe-rich porous biochar derived from petrochemical sludge** (2022)
-   44 citations · Biochar
+   46 citations · Biochar
 
 2. **Synthesis of a ternary microscopic ball-shaped micro-electrolysis filler and its application in wastewater treatment** (2021)
    17 citations

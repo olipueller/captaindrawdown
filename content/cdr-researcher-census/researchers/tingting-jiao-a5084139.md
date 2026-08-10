@@ -1,7 +1,7 @@
 ---
 title: "Tingting Jiao"
 description: "Tingting Jiao is a Mid-career Ocean CDR researcher at Ocean University of China in CN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.467822
+date: 2026-08-11T01:33:12.324286
 url: "/cdr-researcher-census/researchers/tingting-jiao-a5084139/"
 layout: "researcher"
 hiddenInHomeList: true

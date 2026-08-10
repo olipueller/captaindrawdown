@@ -1,7 +1,7 @@
 ---
 title: "Xiong Xiao"
 description: "Xiong Xiao is a Mid-career General CDR researcher at Nanchang University in CN. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.464500
+date: 2026-08-11T01:33:12.320833
 url: "/cdr-researcher-census/researchers/xiong-xiao-a5027443/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Optimization of energy-efficient residential building design in Japan: A climate-responsive approach under current and future scenarios** (2025)
-   1 citations · General CDR
+   3 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Xinxing Bai"
 description: "Xinxing Bai is an Early-career Biochar researcher at Tongji University in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.410998
+date: 2026-08-11T01:33:12.270834
 url: "/cdr-researcher-census/researchers/xinxing-bai-a5035924/"
 layout: "researcher"
 hiddenInHomeList: true

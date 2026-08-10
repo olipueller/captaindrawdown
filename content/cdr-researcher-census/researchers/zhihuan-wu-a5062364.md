@@ -1,7 +1,7 @@
 ---
 title: "Zhihuan Wu"
 description: "Zhihuan Wu is a Mid-career Biochar researcher at Northeast Agricultural University in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.671998
+date: 2026-08-11T01:33:11.594539
 url: "/cdr-researcher-census/researchers/zhihuan-wu-a5062364/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **One-step preparation of Fe/N co-doped porous biochar for chromium(VI) and bisphenol a decontamination in water: Insights to co-activation and adsorption mechanisms** (2022)
-   98 citations · Biochar
+   100 citations · Biochar
 
 2. **Enhanced degradation of atrazine from soil with recyclable magnetic carbon-based bacterial pellets: Performance and mechanism** (2024)
    63 citations

@@ -1,7 +1,7 @@
 ---
 title: "Chenglong Yu"
 description: "Chenglong Yu is a Mid-career Biochar researcher at Central South University in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.058983
+date: 2026-08-11T01:33:11.932755
 url: "/cdr-researcher-census/researchers/chenglong-yu-a5019026/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar-bacteria coupling system enhanced the bioremediation of phenol wastewater-based on life cycle assessment and environmental safety analysis** (2024)
-   110 citations · Biochar
+   112 citations · Biochar
 
 ## External Profiles
 

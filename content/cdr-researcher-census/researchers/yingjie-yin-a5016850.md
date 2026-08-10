@@ -1,7 +1,7 @@
 ---
 title: "Yingjie Yin"
 description: "Yingjie Yin is a Senior Soil Carbon researcher at Ministry of Natural Resources in CN. With 83 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.367514
+date: 2026-08-11T01:33:11.326570
 url: "/cdr-researcher-census/researchers/yingjie-yin-a5016850/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,13 +54,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    80 citations · Biochar
 
 2. **Stabilization of organic carbon in top- and subsoil by biochar application into calcareous farmland** (2023)
-   33 citations · Biochar
+   34 citations · Biochar
 
 3. **Effect of biochar application on rice, wheat, and corn seedlings in hydroponic culture** (2023)
-   29 citations · Biochar
+   33 citations · Biochar
 
 4. **Field aging slows down biochar-mediated soil carbon dioxide emissions** (2024)
-   15 citations · Biochar
+   16 citations · Biochar
 
 5. **Effects of Long-Term Cotton Straw Return on Soil Carbon and Bacterial Community in Topsoil and Deep Soil** (2025)
    2 citations · Soil Carbon

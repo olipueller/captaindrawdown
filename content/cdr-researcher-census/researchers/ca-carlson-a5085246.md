@@ -1,7 +1,7 @@
 ---
 title: "CA Carlson"
 description: "CA Carlson is a Senior Ocean CDR researcher at Bermuda Institute of Ocean Sciences in BM. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.230231
+date: 2026-08-11T01:33:11.202449
 url: "/cdr-researcher-census/researchers/ca-carlson-a5085246/"
 layout: "researcher"
 hiddenInHomeList: true

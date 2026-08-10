@@ -1,7 +1,7 @@
 ---
 title: "Prabhakar Prasad Barnwal"
 description: "Prabhakar Prasad Barnwal is an Early-career Soil Carbon researcher at Indian Agricultural Research Institute in IN. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.079415
+date: 2026-08-11T01:33:11.972523
 url: "/cdr-researcher-census/researchers/prabhakar-prasad-barnwal-a5012236/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Optimizing soil fertility and climate resilience: Superiority of organic farming in enhancing carbon sequestration and nitrogen supply** (2025)
-   4 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 ## External Profiles
 

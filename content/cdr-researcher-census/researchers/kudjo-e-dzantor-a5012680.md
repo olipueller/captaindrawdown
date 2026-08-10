@@ -1,7 +1,7 @@
 ---
 title: "Kudjo E. Dzantor"
 description: "Kudjo E. Dzantor is a Mid-career Soil Carbon researcher at Tennessee State University in US. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.367622
+date: 2026-08-11T01:33:11.326663
 url: "/cdr-researcher-census/researchers/kudjo-e-dzantor-a5012680/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil extracellular oxidases mediated nitrogen fertilization effects on soil organic carbon sequestration in bioenergy croplands** (2021)
-   18 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 ## External Profiles
 

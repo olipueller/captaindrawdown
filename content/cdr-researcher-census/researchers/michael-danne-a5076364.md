@@ -1,7 +1,7 @@
 ---
 title: "Michael Danne"
 description: "Michael Danne is a Mid-career Soil Carbon researcher at Johann Heinrich von Thünen-Institut in DE. With 34 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.834759
+date: 2026-08-11T01:33:11.740232
 url: "/cdr-researcher-census/researchers/michael-danne-a5076364/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Farmers’ Willingness to Participate in a Carbon Sequestration Program – A Discrete Choice Experiment** (2024)
-   21 citations · General CDR
+   22 citations · General CDR
 
 2. **Who Are the Farmers Participating in a Carbon Sequestration Program? Results of a Discrete Choice Experiment in Germany** (2025)
    0 citations · General CDR

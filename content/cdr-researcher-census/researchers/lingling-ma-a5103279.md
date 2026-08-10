@@ -1,7 +1,7 @@
 ---
 title: "Lingling Ma"
 description: "Lingling Ma is a Mid-career Soil Carbon researcher at Jiangnan University in CN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.733144
+date: 2026-08-11T01:33:11.649983
 url: "/cdr-researcher-census/researchers/lingling-ma-a5103279/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Characterisation of organic carbon distribution and turnover by stable carbon isotopes in major types of soils in China** (2023)
-   0 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

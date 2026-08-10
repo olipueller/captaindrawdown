@@ -1,7 +1,7 @@
 ---
 title: "Mohammed Awwal Suleiman"
 description: "Mohammed Awwal Suleiman is an Early-career Biochar researcher at Jubail Industrial College in SA. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.321832
+date: 2026-08-11T01:33:12.189746
 url: "/cdr-researcher-census/researchers/mohammed-awwal-suleiman-a5035941/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Pomegranate peel adsorbents for water pollutants removal: preparation, characterization and applications** (2025)
-   7 citations · Biochar
+   8 citations · Biochar
 
 2. **Biochar production yield: effect of leaves, seeds, fronds, straws, trunks, bagasse, and surface fibres as feedstock** (2026)
    0 citations · Biochar

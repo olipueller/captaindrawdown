@@ -1,7 +1,7 @@
 ---
 title: "Neil Grant"
 description: "Neil Grant is a Senior General CDR researcher at Imperial College London in GB. With 41 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.404839
+date: 2026-08-11T01:33:11.358894
 url: "/cdr-researcher-census/researchers/neil-grant-a5010564/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,10 +54,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    83 citations · General CDR
 
 2. **The policy implications of an uncertain carbon dioxide removal potential** (2021)
-   80 citations · General CDR
+   81 citations · General CDR
 
 3. **Cost reductions in renewables can substantially erode the value of carbon capture and storage in mitigation pathways** (2021)
-   65 citations · General CDR
+   66 citations · General CDR
 
 4. **The Paris Agreement’s ratcheting mechanism needs strengthening 4-fold to keep 1.5°C alive** (2022)
    21 citations · General CDR

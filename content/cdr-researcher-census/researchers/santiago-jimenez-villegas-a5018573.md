@@ -1,7 +1,7 @@
 ---
 title: "Santiago Jimenez-Villegas"
 description: "Santiago Jimenez-Villegas is a Mid-career General CDR researcher. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.400219
+date: 2026-08-11T01:33:11.354929
 url: "/cdr-researcher-census/researchers/santiago-jimenez-villegas-a5018573/"
 layout: "researcher"
 hiddenInHomeList: true

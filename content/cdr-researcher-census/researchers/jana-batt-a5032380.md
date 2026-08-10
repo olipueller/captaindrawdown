@@ -1,7 +1,7 @@
 ---
 title: "Jana Batt"
 description: "Jana Batt is a Mid-career Biochar researcher at University of South Bohemia in České Budějovice in CZ. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.185458
+date: 2026-08-11T01:33:12.069567
 url: "/cdr-researcher-census/researchers/jana-batt-a5032380/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Black Carbon and Its Effect on Carbon Sequestration in Soil** (2021)
-   11 citations · Biochar
+   12 citations · Biochar
 
 ## External Profiles
 

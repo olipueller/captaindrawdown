@@ -1,7 +1,7 @@
 ---
 title: "Amir Ahmadi Zahrani"
 description: "Amir Ahmadi Zahrani is a Mid-career Biochar researcher at University of Alabama in Huntsville in US. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.486242
+date: 2026-08-11T01:33:12.340393
 url: "/cdr-researcher-census/researchers/amir-ahmadi-zahrani-a5023250/"
 layout: "researcher"
 hiddenInHomeList: true

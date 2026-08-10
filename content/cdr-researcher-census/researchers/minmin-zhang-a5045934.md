@@ -1,7 +1,7 @@
 ---
 title: "Minmin Zhang"
 description: "Minmin Zhang is a Senior Biochar researcher at Zhejiang Ocean University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.499147
+date: 2026-08-11T01:33:12.352097
 url: "/cdr-researcher-census/researchers/minmin-zhang-a5045934/"
 layout: "researcher"
 hiddenInHomeList: true

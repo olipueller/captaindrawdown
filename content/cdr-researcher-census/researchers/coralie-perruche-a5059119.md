@@ -1,7 +1,7 @@
 ---
 title: "Coralie Perruche"
 description: "Coralie Perruche is a Senior Ocean CDR researcher at Mercator Ocean (France) in FR. With 39 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.411893
+date: 2026-08-11T01:33:11.365346
 url: "/cdr-researcher-census/researchers/coralie-perruche-a5059119/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Using machine learning and Biogeochemical-Argo (BGC-Argo) floats to assess biogeochemical models and optimize observing system design** (2023)
-   20 citations · General CDR
+   21 citations · General CDR
 
 2. **BIORYS4: A New Global Ocean Biogeochemical Reanalysis within Copernicus Marine Service** (2025)
    0 citations · General CDR

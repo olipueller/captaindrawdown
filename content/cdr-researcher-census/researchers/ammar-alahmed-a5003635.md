@@ -1,7 +1,7 @@
 ---
 title: "Ammar Alahmed"
 description: "Ammar Alahmed is a Mid-career General CDR researcher at Saudi Aramco (Saudi Arabia) in SA. With 22 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.668618
+date: 2026-08-11T01:33:11.591704
 url: "/cdr-researcher-census/researchers/ammar-alahmed-a5003635/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,15 +48,18 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Water-stable MOFs and hydrophobically encapsulated MOFs for CO2 capture from ambient air and wet flue gas** (2023)
-   110 citations
+   113 citations
 
 2. **Dilute alloy electrocatalysts enable asymmetric C–C coupling for ethylene production from a CO2 post-capture liquid** (2026)
-   2 citations · General CDR
+   4 citations · General CDR
 
 3. **Water-stable MOFs and Hydrophobically Encapsulated MOFs for CO2 Capture from Ambient Air and Wet Flue Gas** (2022)
    2 citations · DAC
 
-4. **Energy-Efficient Electrified Ethylene Production from Carbonate Capture Liquid in Reactive Capture System** (2024)
+4. **Amine-FunctionalizedCovalent Organic Framework forDirect Air Capture of Carbon Dioxide** (2026)
+   0 citations · DAC
+
+5. **Energy-Efficient Electrified Ethylene Production from Carbonate Capture Liquid in Reactive Capture System** (2024)
    0 citations · DAC
 
 ## External Profiles

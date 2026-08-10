@@ -1,7 +1,7 @@
 ---
 title: "Juan Pablo Chavarro Bermeo"
 description: "Juan Pablo Chavarro Bermeo is a Mid-career Soil Carbon researcher at Colombian Corporation for Agricultural Research - AGROSAVIA in CO. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.379572
+date: 2026-08-11T01:33:12.241698
 url: "/cdr-researcher-census/researchers/juan-pablo-chavarro-bermeo-a5087640/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil quality responses of a tropical Andisol to contrasting land-use systems: Insights from multiple indexing approaches** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Stephanie Hay"
 description: "Stephanie Hay is a Mid-career General CDR researcher at University of Exeter in GB. With 24 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.010950
+date: 2026-08-11T01:33:11.887601
 url: "/cdr-researcher-census/researchers/stephanie-hay-a5031614/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Incomplete Arctic Sea‐Ice Recovery Under CO<sub>2</sub> Removal and Its Effects on the Winter Atmospheric Circulation** (2025)
-   5 citations · General CDR
+   6 citations · General CDR
 
 2. **Incomplete Arctic sea-ice Recovery under CO2 Removal and its Effects on the Winter Atmospheric Circulation** (2025)
    1 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Jiacheng Lan"
 description: "Jiacheng Lan is a Mid-career Enhanced Weathering researcher at Guizhou Normal University in CN. With 32 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.562308
+date: 2026-08-11T01:33:11.496377
 url: "/cdr-researcher-census/researchers/jiacheng-lan-a5073543/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Afforestation-induced large macroaggregate formation promotes soil organic carbon accumulation in degraded karst area** (2021)
-   45 citations · Soil Carbon
+   46 citations · Soil Carbon
 
 2. **Enhanced carbonate weathering and CO2 release in a typical karst watershed (Southwest China): Evidence from hydrochemical and multi-isotopic data** (2024)
-   12 citations · Enhanced Weathering
+   15 citations · Enhanced Weathering
 
 ## External Profiles
 

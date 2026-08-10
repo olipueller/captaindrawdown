@@ -1,7 +1,7 @@
 ---
 title: "Tianbao Guo"
 description: "Tianbao Guo is an Early-career Biochar researcher at Nankai University in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.222905
+date: 2026-08-11T01:33:12.103740
 url: "/cdr-researcher-census/researchers/tianbao-guo-a5089963/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar as carbon sequestration material combines with sewage sludge incineration ash to prepare lightweight concrete** (2022)
-   90 citations · Biochar
+   95 citations · Biochar
 
 ## External Profiles
 

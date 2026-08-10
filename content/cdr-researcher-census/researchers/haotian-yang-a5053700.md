@@ -1,7 +1,7 @@
 ---
 title: "Haotian Yang"
 description: "Haotian Yang is a Senior Soil Carbon researcher at Shapotou Desert Research and Experiment Station, Northwest Institute of Eco-environment and Resources, Chinese Academy of Sciences in CN. With 68 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.330667
+date: 2026-08-11T01:33:11.295148
 url: "/cdr-researcher-census/researchers/haotian-yang-a5053700/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,12 +51,12 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Revegetation promotes soil mineral-associated organic carbon sequestration and soil carbon stability in the Tengger Desert, northern China** (2023)
-   58 citations · Soil Carbon
+   61 citations · Soil Carbon
 
-2. **Variations in organic carbon mineralization of the biological soil crusts following revegetation in the Tengger Desert, North China** (2022)
-   15 citations · Soil Carbon
+2. **Revegetation enhances soil organic carbon mineralization and its temperature sensitivity in the Tengger Desert, North China** (2022)
+   17 citations · Soil Carbon
 
-3. **Revegetation enhances soil organic carbon mineralization and its temperature sensitivity in the Tengger Desert, North China** (2022)
+3. **Variations in organic carbon mineralization of the biological soil crusts following revegetation in the Tengger Desert, North China** (2022)
    15 citations · Soil Carbon
 
 4. **Divergent changes of carbon and nitrogen in the density fractions of soil organic matter after revegetation in the Tengger Desert, north China** (2024)

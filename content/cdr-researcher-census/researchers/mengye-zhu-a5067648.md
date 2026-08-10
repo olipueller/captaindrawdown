@@ -1,7 +1,7 @@
 ---
 title: "Mengye Zhu"
 description: "Mengye Zhu is a Mid-career General CDR researcher at Shenzhen University in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.524775
+date: 2026-08-11T01:33:11.462074
 url: "/cdr-researcher-census/researchers/mengye-zhu-a5067648/"
 layout: "researcher"
 hiddenInHomeList: true

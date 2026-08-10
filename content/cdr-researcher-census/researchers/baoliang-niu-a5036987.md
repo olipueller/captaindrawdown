@@ -1,7 +1,7 @@
 ---
 title: "Baoliang Niu"
 description: "Baoliang Niu is a Mid-career Soil Carbon researcher at Chinese Academy of Forestry in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.413765
+date: 2026-08-11T01:33:12.273172
 url: "/cdr-researcher-census/researchers/baoliang-niu-a5036987/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Multi-year throughfall reduction enhanced the growth and non-structural carbohydrate storage of roots at the expenses of above-ground growth in a warm-temperate natural oak forest** (2023)
-   22 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 2. **Divergent factors shape the stability of Pinus massoniana rhizosphere organic carbon in subtropical mixed plantations** (2026)
    2 citations · Soil Carbon

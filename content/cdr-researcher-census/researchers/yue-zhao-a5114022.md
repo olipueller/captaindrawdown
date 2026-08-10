@@ -1,7 +1,7 @@
 ---
 title: "Yue Zhao"
 description: "Yue Zhao is a Mid-career Biochar researcher at Shenyang Medical College in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.170968
+date: 2026-08-11T01:33:12.056871
 url: "/cdr-researcher-census/researchers/yue-zhao-a5114022/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -52,6 +52,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 1. **N, S-co-doping of activated biochar from herb residue for enhanced electrocatalytic performance toward oxygen reduction reaction** (2022)
    23 citations · Biochar
+
+2. **Upcycling sewage sludge into pyrolytic biochar for sustainable energy and environmental applications: A critical review** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

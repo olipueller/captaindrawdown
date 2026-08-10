@@ -1,7 +1,7 @@
 ---
 title: "Zixin He"
 description: "Zixin He is a Senior Biochar researcher at Academy of Military Medical Sciences in CN. With 23 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.809507
+date: 2026-08-11T01:33:11.717919
 url: "/cdr-researcher-census/researchers/zixin-he-a5103732/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Waste rice straw biochar recycled concrete: Carbon sequestration, durability and microstructure** (2025)
-   22 citations · Biochar
+   23 citations · Biochar
 
 2. **Valorization of waste rice straw biochar and fly ash in recycled concrete: Synergistic enhancement of carbon sequestration and mechanical performance** (2025)
-   2 citations · Biochar
+   3 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Dan Wang"
 description: "Dan Wang is a Mid-career Enhanced Weathering researcher at University of Science and Technology Liaoning in CN. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.373971
+date: 2026-08-11T01:33:11.332506
 url: "/cdr-researcher-census/researchers/dan-wang-a5035631/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Insight into the impact of biogeochemical reactions of groundwater nitrogen on chemical weathering and carbon cycling** (2024)
-   19 citations · Enhanced Weathering
+   20 citations · Enhanced Weathering
 
 ## External Profiles
 

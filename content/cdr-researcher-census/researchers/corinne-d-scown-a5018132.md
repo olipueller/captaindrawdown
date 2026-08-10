@@ -1,7 +1,7 @@
 ---
 title: "Corinne D. Scown"
 description: "Corinne D. Scown is an Eminent General CDR researcher at Lawrence Berkeley National Laboratory in US. With 179 publications and an h-index of 44, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.109375
+date: 2026-08-11T01:33:11.088989
 url: "/cdr-researcher-census/researchers/corinne-d-scown-a5018132/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Roads to Removal: Options for Carbon Dioxide Removal in the United States** (2023)
-   60 citations · General CDR
+   61 citations · General CDR
 
 2. **Continental United States may lose 1.8 petagrams of soil organic carbon under climate change by 2100** (2022)
-   38 citations · Soil Carbon
+   39 citations · Soil Carbon
 
 3. **Impact of bioenergy feedstock carbon farming on sustainable aviation fuel viability in the United States** (2023)
-   24 citations · General CDR
+   25 citations · General CDR
 
 4. **Carbon accounting for carbon dioxide removal** (2024)
    22 citations · General CDR
@@ -66,10 +66,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    20 citations · General CDR
 
 6. **A techno-economic assessment of carbon dioxide removal pathways via biochemical conversion of lignocellulose to biofuels and bioplastics** (2025)
-   9 citations · BECCS
+   12 citations · BECCS
 
 7. **Uncertainty in determining carbon dioxide removal potential of biochar** (2024)
-   8 citations · Biochar
+   9 citations · Biochar
 
 8. **Advances and Emerging Issues in Life‐Cycle Assessment for Biofuel Policy** (2025)
    7 citations · General CDR
@@ -77,8 +77,8 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 9. **Machine learning based reduced-order models to predict spatiotemporal dynamics of soil carbon and biomass yield of different bioenergy crops** (2025)
    3 citations · General CDR
 
-10. **Energy Emissions Accounting Methods Can Determine Whether Direct Air Capture with Storage Achieves Net Removal** (2026)
-   1 citations · DAC
+10. **Land-based resources for engineered carbon dioxide removal in the United States exceed the expected needs** (2025)
+   2 citations · General CDR
 
 ## External Profiles
 

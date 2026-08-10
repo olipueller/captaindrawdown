@@ -1,7 +1,7 @@
 ---
 title: "Zhihui Dong"
 description: "Zhihui Dong is a Senior Biochar researcher at State Key Laboratory of Chemical Engineering in CN. With 22 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.314651
+date: 2026-08-11T01:33:11.281070
 url: "/cdr-researcher-census/researchers/zhihui-dong-a5100864/"
 layout: "researcher"
 hiddenInHomeList: true

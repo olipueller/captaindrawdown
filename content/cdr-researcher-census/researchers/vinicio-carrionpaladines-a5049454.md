@@ -1,7 +1,7 @@
 ---
 title: "Vinicio Carrión‐Paladines"
 description: "Vinicio Carrión‐Paladines is a Mid-career Soil Carbon researcher at Universidad Técnica Particular de Loja in EC. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.285217
+date: 2026-08-11T01:33:12.157717
 url: "/cdr-researcher-census/researchers/vinicio-carrionpaladines-a5049454/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    11 citations
 
 2. **Conversion of Andean montane forest to exotic forest plantation modifies soil physicochemical properties in the buffer zone of Ecuador's Podocarpus National Park** (2022)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 ## External Profiles
 

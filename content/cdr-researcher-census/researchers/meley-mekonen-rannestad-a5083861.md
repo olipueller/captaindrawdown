@@ -1,7 +1,7 @@
 ---
 title: "Meley Mekonen Rannestad"
 description: "Meley Mekonen Rannestad is a Mid-career Soil Carbon researcher at Norwegian University of Life Sciences in NO. With 48 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.404585
+date: 2026-08-11T01:33:11.358681
 url: "/cdr-researcher-census/researchers/meley-mekonen-rannestad-a5083861/"
 layout: "researcher"
 hiddenInHomeList: true

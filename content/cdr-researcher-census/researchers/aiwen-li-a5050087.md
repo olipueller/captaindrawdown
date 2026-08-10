@@ -1,7 +1,7 @@
 ---
 title: "Aiwen Li"
 description: "Aiwen Li is a Mid-career Soil Carbon researcher at Sichuan Agricultural University in CN. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.080053
+date: 2026-08-11T01:33:11.973062
 url: "/cdr-researcher-census/researchers/aiwen-li-a5050087/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Temperature effects on cropland soil particulate and mineral-associated organic carbon are governed by agricultural land-use types** (2024)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 2. **Divergent responses of cropland soil organic carbon to warming across the Sichuan Basin of China** (2022)
    13 citations · Soil Carbon

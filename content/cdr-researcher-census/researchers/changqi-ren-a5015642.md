@@ -1,7 +1,7 @@
 ---
 title: "Changqi Ren"
 description: "Changqi Ren is a Mid-career Soil Carbon researcher at Chinese Academy of Tropical Agricultural Sciences in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.748946
+date: 2026-08-11T01:33:11.664276
 url: "/cdr-researcher-census/researchers/changqi-ren-a5015642/"
 layout: "researcher"
 hiddenInHomeList: true

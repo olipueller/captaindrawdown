@@ -1,7 +1,7 @@
 ---
 title: "Vincent Poirier"
 description: "Vincent Poirier is a Senior Soil Carbon researcher at Université du Québec en Abitibi-Témiscamingue in CA. With 80 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.258838
+date: 2026-08-11T01:33:11.228615
 url: "/cdr-researcher-census/researchers/vincent-poirier-a5050959/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **How Can Plants Help Restore Degraded Tropical Soils?** (2023)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 2. **Regional characteristics drive thinning effects on boreal soil organic carbon stocks** (2025)
    3 citations

@@ -1,7 +1,7 @@
 ---
 title: "Felipe Martins do Rêgo Barros"
 description: "Felipe Martins do Rêgo Barros is a Mid-career Soil Carbon researcher at Universidade de São Paulo in BR. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.881653
+date: 2026-08-11T01:33:11.782801
 url: "/cdr-researcher-census/researchers/felipe-martins-do-rego-barros-a5027496/"
 layout: "researcher"
 hiddenInHomeList: true

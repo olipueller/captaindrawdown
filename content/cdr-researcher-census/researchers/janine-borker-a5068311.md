@@ -1,7 +1,7 @@
 ---
 title: "Janine Börker"
 description: "Janine Börker is a Mid-career Enhanced Weathering researcher at Universität Hamburg in DE. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.514734
+date: 2026-08-11T01:33:11.453458
 url: "/cdr-researcher-census/researchers/janine-borker-a5068311/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    9 citations · Biochar
 
 2. **Natural ocean alkalinization through erosion of glacial till and weathering at the seafloor** (2025)
-   1 citations · Ocean CDR
+   2 citations · Ocean CDR
 
 3. **The role of temperature and salinity on ocean alkalinity enhancement performance** (2026)
    0 citations · General CDR

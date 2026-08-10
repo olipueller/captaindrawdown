@@ -1,7 +1,7 @@
 ---
 title: "Yingting Gong"
 description: "Yingting Gong is a Mid-career Soil Carbon researcher at Guangzhou Experimental Station in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.781846
+date: 2026-08-11T01:33:11.693916
 url: "/cdr-researcher-census/researchers/yingting-gong-a5002724/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,10 +57,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · Soil Carbon
 
 4. **The Effects of Tillage Systems and Cover Crops on Soil Quality and Soybean Yield** (2024)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 5. **Triple impact: Biochar, no-tillage, and cover crops for soil carbon enhancement and climate resilience in soybean farming** (2024)
-   4 citations · Biochar
+   5 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Fawei Zhang"
 description: "Fawei Zhang is a Senior Soil Carbon researcher at Northwest Institute of Plateau Biology, Chinese Academy of Sciences in CN. With 166 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.151305
+date: 2026-08-11T01:33:11.128315
 url: "/cdr-researcher-census/researchers/fawei-zhang-a5049979/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Atmospheric water vapor and soil moisture jointly determine the spatiotemporal variations of CO2 fluxes and evapotranspiration across the Qinghai-Tibetan Plateau grasslands** (2021)
-   44 citations · Soil Carbon
+   47 citations · Soil Carbon
 
 2. **Differential responses of CO2 and latent heat fluxes to climatic anomalies on two alpine grasslands on the northeastern Qinghai–Tibetan Plateau** (2023)
    18 citations
@@ -62,10 +62,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Extreme Wetness Reduces Soil Microbial Residue Carbon More Substantially Than Extreme Drought Across Grassland Ecosystems** (2025)
    12 citations · Soil Carbon
 
-5. **Factors controlling the contributions of bacterial and fungal residue carbon to soil organic carbon in grassland ecosystems** (2024)
-   11 citations · Soil Carbon
+5. **A dataset of annual gross primary productivity in China&amp;rsquo;s terrestrial ecosystems during 2000-2020** (2023)
+   12 citations · Soil Carbon
 
-6. **A dataset of annual gross primary productivity in China&amp;rsquo;s terrestrial ecosystems during 2000-2020** (2023)
+6. **Factors controlling the contributions of bacterial and fungal residue carbon to soil organic carbon in grassland ecosystems** (2024)
    11 citations · Soil Carbon
 
 7. **Root biomass and altitude jointly regulate the response of topsoil organic carbon density to severe degradation of high‐altitude alpine meadows** (2023)

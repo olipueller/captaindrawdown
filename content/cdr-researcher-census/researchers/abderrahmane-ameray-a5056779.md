@@ -1,7 +1,7 @@
 ---
 title: "Abderrahmane Ameray"
 description: "Abderrahmane Ameray is a Mid-career Soil Carbon researcher at Université du Québec à Montréal in CA. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.672403
+date: 2026-08-11T01:33:11.594930
 url: "/cdr-researcher-census/researchers/abderrahmane-ameray-a5056779/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Forest Carbon Management: a Review of Silvicultural Practices and Management Strategies Across Boreal, Temperate and Tropical Forests** (2021)
-   334 citations · General CDR
+   343 citations · General CDR
 
 ## External Profiles
 

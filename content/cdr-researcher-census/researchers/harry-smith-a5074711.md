@@ -1,7 +1,7 @@
 ---
 title: "Harry Smith"
 description: "Harry Smith is an Early-career General CDR researcher at University of East Anglia in GB. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.117357
+date: 2026-08-11T01:33:12.007631
 url: "/cdr-researcher-census/researchers/harry-smith-a5074711/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The carbon dioxide removal gap** (2024)
-   84 citations
+   86 citations
 
 2. **Long-term national climate strategies bet on forests and soils to reach net-zero** (2022)
-   74 citations · General CDR
+   75 citations · General CDR
 
 3. **Residual emissions in long-term national climate strategies show limited climate ambition** (2024)
-   25 citations · General CDR
+   26 citations · General CDR
 
 4. **Current national proposals are off track to meet carbon dioxide removal needs** (2024)
-   5 citations · General CDR
+   7 citations · General CDR
 
 5. **Betting on Forests and Soils to Reach Net Zero** (2022)
    2 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Chengming You"
 description: "Chengming You is a Senior Soil Carbon researcher at 四川农业大学 in CN. With 115 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.208999
+date: 2026-08-11T01:33:11.182272
 url: "/cdr-researcher-census/researchers/chengming-you-a5013958/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Environmental conditions and litter nutrients are key determinants of soluble C, N, and P release during litter mixture decomposition** (2021)
-   43 citations
+   45 citations
 
-2. **Fertilization effects on soil organic matter chemistry** (2024)
-   27 citations · Soil Carbon
+2. **Decreased Soil Organic Carbon under Litter Input in Three Subalpine Forests** (2021)
+   31 citations · Soil Carbon
 
-3. **Decreased Soil Organic Carbon under Litter Input in Three Subalpine Forests** (2021)
-   27 citations · Soil Carbon
+3. **Fertilization effects on soil organic matter chemistry** (2024)
+   29 citations · Soil Carbon
 
 4. **Temporal dynamics of mixed litter humification in an alpine treeline ecotone** (2021)
    14 citations · Soil Carbon

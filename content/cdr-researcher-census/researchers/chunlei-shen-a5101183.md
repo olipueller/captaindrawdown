@@ -1,7 +1,7 @@
 ---
 title: "Chunlei Shen"
 description: "Chunlei Shen is a Senior Ocean CDR researcher at Xuzhou Construction Machinery Group (China) in CN. With 24 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.464916
+date: 2026-08-11T01:33:12.321232
 url: "/cdr-researcher-census/researchers/chunlei-shen-a5101183/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Nana Chai"
 description: "Nana Chai is a Mid-career Biochar researcher at Hunan University in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.980771
+date: 2026-08-11T01:33:11.858964
 url: "/cdr-researcher-census/researchers/nana-chai-a5029676/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Selective recovery of precious metals from E-waste leachates using zinc-modified biochar in capacitive deionization** (2025)
-   5 citations · Biochar
+   6 citations · Biochar
 
 ## External Profiles
 

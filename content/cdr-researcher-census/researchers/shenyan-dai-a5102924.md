@@ -1,7 +1,7 @@
 ---
 title: "Shenyan Dai"
 description: "Shenyan Dai is a Mid-career Biochar researcher at Nanjing Normal University in CN. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.642374
+date: 2026-08-11T01:33:11.568377
 url: "/cdr-researcher-census/researchers/shenyan-dai-a5102924/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    24 citations
 
 2. **Biochar application can mitigate NH3 volatilization in acidic forest and upland soils but stimulates gaseous N losses in flooded acidic paddy soil** (2022)
-   19 citations · Biochar
+   20 citations · Biochar
 
 3. **Biochar Application Can Mitigate Nh3 Volatilization in Acidic Forest and Upland Soils But Stimulates Gaseous N Losses in Flooded Acidic Paddy Soil** (2022)
    0 citations

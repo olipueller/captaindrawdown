@@ -1,7 +1,7 @@
 ---
 title: "Marius Constantinescu"
 description: "Marius Constantinescu is a Senior Biochar researcher at National Institute for Research and Development of Isotopic and Molecular Technologies in RO. With 57 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.545072
+date: 2026-08-11T01:33:11.480571
 url: "/cdr-researcher-census/researchers/marius-constantinescu-a5112336/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Thermochemical processing of agricultural waste into biochar with potential application for coal mining degraded soils** (2025)
-   13 citations · Biochar
+   15 citations · Biochar
 
 2. **Biochar for Soil Fertility and Climate Mitigation: Review on Feedstocks, Pyrolysis Conditions, Functional Properties, and Applications with Emerging AI Integration** (2025)
-   7 citations · Biochar
+   8 citations · Biochar
 
 3. **Comparative multifactor optimization of biochar from pyrolysis and gasification: A Taguchi – ANOVA - RSM framework for climate-resilient soil applications** (2026)
    1 citations · Biochar

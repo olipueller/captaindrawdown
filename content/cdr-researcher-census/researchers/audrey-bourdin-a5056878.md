@@ -1,7 +1,7 @@
 ---
 title: "Audrey Bourdin"
 description: "Audrey Bourdin is a Mid-career Soil Carbon researcher at Université de Bordeaux in FR. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.432422
+date: 2026-08-11T01:33:12.290176
 url: "/cdr-researcher-census/researchers/audrey-bourdin-a5056878/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Lahur Mani Verma"
 description: "Lahur Mani Verma is an Early-career Soil Carbon researcher at Indian Institute of Technology Delhi in IN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.402094
+date: 2026-08-11T01:33:12.262452
 url: "/cdr-researcher-census/researchers/lahur-mani-verma-a5030227/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Green chemistry routed sugar press mud for (2D) ZnO nanostructure fabrication, mineral fortification, and climate-resilient wheat crop productivity** (2024)
-   8 citations · Biochar
+   9 citations · Biochar
 
 2. **Green chemistry routed sugar press mud for zinc oxide 2D nano-sheet fabrication and climate-resilient wheat crop productivity** (2023)
    0 citations · General CDR

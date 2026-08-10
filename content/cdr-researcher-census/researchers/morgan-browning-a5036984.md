@@ -1,7 +1,7 @@
 ---
 title: "Morgan Browning"
 description: "Morgan Browning is a Mid-career General CDR researcher at Bradley Hospital in US. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.943451
+date: 2026-08-11T01:33:11.838864
 url: "/cdr-researcher-census/researchers/morgan-browning-a5036984/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    18 citations · DAC
 
 3. **Is the industrial sector hard to decarbonize or hard to model? A comparative analysis of industrial modeling and net zero carbon dioxide pathways** (2025)
-   11 citations · General CDR
+   13 citations · General CDR
 
 4. **Evolving electricity supply and demand to achieve net-zero emissions: Insights from the EMF-37 study** (2025)
    8 citations · DAC

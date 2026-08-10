@@ -1,7 +1,7 @@
 ---
 title: "Rui-Zhe Wang"
 description: "Rui-Zhe Wang is a Senior Soil Carbon researcher at First Affiliated Hospital of Xi'an Jiaotong University in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.559658
+date: 2026-08-11T01:33:12.405839
 url: "/cdr-researcher-census/researchers/rui-zhe-wang-a5028160/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Pore structure characteristics and organic carbon distribution of soil aggregates in alpine ecosystems in the Qinghai Lake basin on the Qinghai-Tibet Plateau** (2023)
-   33 citations · Soil Carbon
+   35 citations · Soil Carbon
 
 ## External Profiles
 

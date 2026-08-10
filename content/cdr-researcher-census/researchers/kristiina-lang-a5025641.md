@@ -1,7 +1,7 @@
 ---
 title: "Kristiina Lång"
 description: "Kristiina Lång is a Senior Soil Carbon researcher at Natural Resources Institute Finland in FI. With 39 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.599907
+date: 2026-08-11T01:33:11.530084
 url: "/cdr-researcher-census/researchers/kristiina-lang-a5025641/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -62,13 +62,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Reply on EC2** (2024)
    0 citations · Soil Carbon
 
-5. **Reply on RC1** (2024)
+5. **Reply on EC1** (2024)
    0 citations · Soil Carbon
 
-6. **Reply on RC2** (2024)
+6. **Reply on RC1** (2024)
    0 citations · Soil Carbon
 
-7. **Carbon balance and emissions of methane and nitrous oxide during four years of moderate rewetting of a cultivated peat soil site** (2024)
+7. **Reply on RC2** (2024)
+   0 citations · Soil Carbon
+
+8. **Carbon balance and emissions of methane and nitrous oxide during four years of moderate rewetting of a cultivated peat soil site** (2024)
    0 citations · Soil Carbon
 
 ## External Profiles

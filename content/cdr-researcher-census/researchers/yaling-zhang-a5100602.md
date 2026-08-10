@@ -1,7 +1,7 @@
 ---
 title: "Yaling Zhang"
 description: "Yaling Zhang is a Senior Soil Carbon researcher at Inner Mongolia Agricultural University in CN. With 52 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.314446
+date: 2026-08-11T01:33:11.280873
 url: "/cdr-researcher-census/researchers/yaling-zhang-a5100602/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil carbon accrual under harvest residue retention modulated by the copiotroph-oligotroph spectrum in bacterial community** (2022)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 2. **Limited potential of biosolids application for long-term soil carbon stabilization in coastal dune forests** (2021)
    8 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Zhiyang Sun"
 description: "Zhiyang Sun is a Mid-career Biochar researcher at Changji University in CN. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.424273
+date: 2026-08-11T01:33:12.282835
 url: "/cdr-researcher-census/researchers/zhiyang-sun-a5004449/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Influence of inherent minerals on metalworking fluids sludge pyrolysis: Products characterization and heavy metals behavior** (2024)
-   6 citations · Biochar
+   8 citations · Biochar
 
 ## External Profiles
 

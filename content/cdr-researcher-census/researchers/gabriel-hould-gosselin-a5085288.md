@@ -1,7 +1,7 @@
 ---
 title: "Gabriel Hould Gosselin"
 description: "Gabriel Hould Gosselin is a Senior Soil Carbon researcher. With 57 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.743866
+date: 2026-08-11T01:33:11.659808
 url: "/cdr-researcher-census/researchers/gabriel-hould-gosselin-a5085288/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,10 +46,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **<scp>Pan‐Arctic</scp> soil moisture control on tundra carbon sequestration and plant productivity** (2022)
-   56 citations · General CDR
+   59 citations · General CDR
 
 2. **Earlier snowmelt may lead to late season declines in plant productivity and carbon sequestration in Arctic tundra ecosystems** (2022)
-   38 citations
+   39 citations
 
 3. **Earlier Snowmelt May Lead to Late Season Declines in Plant Productivity and Carbon Sequestration in Arctic Tundra Ecosystems** (2021)
    4 citations · Soil Carbon

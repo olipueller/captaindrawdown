@@ -1,7 +1,7 @@
 ---
 title: "Martin Hvarregaard Thorsøe"
 description: "Martin Hvarregaard Thorsøe is a Mid-career Soil Carbon researcher at Aarhus University in DK. With 109 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.382851
+date: 2026-08-11T01:33:11.339450
 url: "/cdr-researcher-census/researchers/martin-hvarregaard-thorse-a5064069/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon farming: The foundation for carbon farming schemes – lessons learned from 160 European schemes** (2025)
-   11 citations · General CDR
+   13 citations · General CDR
 
 2. **Carbon Farming: The Foundation For Carbon Farming Schemes – Lessons Learned from 160 European Schemes** (2024)
    3 citations · General CDR

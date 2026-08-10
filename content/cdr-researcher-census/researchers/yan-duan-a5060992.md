@@ -1,7 +1,7 @@
 ---
 title: "Yan Duan"
 description: "Yan Duan is a Senior Soil Carbon researcher at Inner Mongolia Agricultural University in CN. With 124 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.281123
+date: 2026-08-11T01:33:11.249332
 url: "/cdr-researcher-census/researchers/yan-duan-a5060992/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **N, P and straw return influence the accrual of organic carbon fractions and microbial traits in a Mollisol** (2021)
-   63 citations · Biochar
+   64 citations · Biochar
 
 2. **Calcium carbonate regulates soil organic carbon accumulation by mediating microbial communities in northern China** (2023)
-   45 citations · Soil Carbon
+   49 citations · Soil Carbon
 
 3. **Nitrogen input level modulates straw-derived organic carbon physical fractions accumulation by stimulating specific fungal groups during decomposition** (2022)
-   40 citations · Soil Carbon
+   41 citations · Soil Carbon
 
 4. **Long-term conservation tillage enhances microbial carbon use efficiency by altering multitrophic interactions in soil** (2024)
-   37 citations · Soil Carbon
+   39 citations · Soil Carbon
 
 5. **Chemical Composition of Plant Residues Regulates Soil Organic Carbon Turnover in Typical Soils with Contrasting Textures in Northeast China Plain** (2022)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 6. **Conservation tillage facilitates the accumulation of soil organic carbon fractions by affecting the microbial community in an eolian sandy soil** (2024)
    15 citations · Soil Carbon

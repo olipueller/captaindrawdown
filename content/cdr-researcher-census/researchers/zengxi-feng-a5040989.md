@@ -1,7 +1,7 @@
 ---
 title: "Zengxi Feng"
 description: "Zengxi Feng is an Early-career General CDR researcher at Xi'an University of Architecture and Technology in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.543190
+date: 2026-08-11T01:33:12.393479
 url: "/cdr-researcher-census/researchers/zengxi-feng-a5040989/"
 layout: "researcher"
 hiddenInHomeList: true

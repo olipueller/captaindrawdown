@@ -1,7 +1,7 @@
 ---
 title: "Xiai Zhu"
 description: "Xiai Zhu is a Senior Soil Carbon researcher at Xishuangbanna Tropical Botanical Garden in CN. With 60 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.214251
+date: 2026-08-11T01:33:11.187348
 url: "/cdr-researcher-census/researchers/xiai-zhu-a5038940/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    25 citations · Soil Carbon
 
 2. **Divergent responses of soil aggregate-associated organic carbon fractions and carbon flow pathways to land-use changes in karst ecosystems: Insights from δ13C signature** (2024)
-   8 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 3. **High levels of soil calcium and clay facilitate the recovery and stability of organic carbon: Insights from different land uses in the karst of China** (2024)
    6 citations · Soil Carbon

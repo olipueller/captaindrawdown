@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Mohinuzzaman"
 description: "Mohammad Mohinuzzaman is a Mid-career Soil Carbon researcher at Noakhali Science and Technology University in BD. With 35 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.438021
+date: 2026-08-11T01:33:11.388459
 url: "/cdr-researcher-census/researchers/mohammad-mohinuzzaman-a5068946/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Sulfur-mediated transformation, export and mineral complexation of organic and inorganic C, N, P and Si in dryland soils** (2025)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 2. **Microbial responses under sunlight-dark conditions accelerate sequestration and transformation of soil biogenic, redox and non-redox components, including As and Hg** (2025)
    3 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Kritsadaporn Porninta"
 description: "Kritsadaporn Porninta is a Mid-career Biochar researcher at Chiang Mai University in TH. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.275136
+date: 2026-08-11T01:33:12.149349
 url: "/cdr-researcher-census/researchers/kritsadaporn-porninta-a5004063/"
 layout: "researcher"
 hiddenInHomeList: true

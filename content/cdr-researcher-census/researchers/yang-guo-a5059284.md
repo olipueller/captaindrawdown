@@ -1,7 +1,7 @@
 ---
 title: "Yang Guo"
 description: "Yang Guo is a Senior Soil Carbon researcher at Ministry of Ecology and Environment in CN. With 56 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.427390
+date: 2026-08-11T01:33:11.379506
 url: "/cdr-researcher-census/researchers/yang-guo-a5059284/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Response of soil organic carbon stocks and soil microbial biomass carbon to natural grassland conversion: A global meta-analysis** (2025)
-   10 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 2. **Synergistic co-pyrolysis of fly ash and biomass for sustainable soil amendment: Enhanced nutrient release and toxicity mitigation** (2025)
    8 citations · Biochar

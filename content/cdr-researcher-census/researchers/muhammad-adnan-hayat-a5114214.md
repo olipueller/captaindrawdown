@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Adnan Hayat"
 description: "Muhammad Adnan Hayat is a Mid-career BECCS researcher. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.405567
+date: 2026-08-11T01:33:12.265542
 url: "/cdr-researcher-census/researchers/muhammad-adnan-hayat-a5114214/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Which bioenergy with carbon capture and storage (BECCS) pathways can provide net-negative emissions?** (2024)
-   28 citations · BECCS
+   30 citations · BECCS
 
 2. **Which Bioenergy with Carbon Capture and Storage (Beccs) Pathways Can Provide Net-Negative Emissions?** (2023)
    4 citations · BECCS

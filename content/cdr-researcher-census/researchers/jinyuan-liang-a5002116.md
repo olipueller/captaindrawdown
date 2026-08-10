@@ -1,7 +1,7 @@
 ---
 title: "Jinyuan Liang"
 description: "Jinyuan Liang is a Mid-career Soil Carbon researcher at University of British Columbia in CA. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.326078
+date: 2026-08-11T01:33:12.193340
 url: "/cdr-researcher-census/researchers/jinyuan-liang-a5002116/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Mapping Soil Organic Carbon in High‐standard Farmland Construction Areas Using Machine Learning Algorithms: Threshold and Interaction Effects of Environmental Variables** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

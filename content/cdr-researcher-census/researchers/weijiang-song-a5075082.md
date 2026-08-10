@@ -1,7 +1,7 @@
 ---
 title: "Weijiang Song"
 description: "Weijiang Song is a Mid-career Soil Carbon researcher at Peking University in CN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.760267
+date: 2026-08-11T01:33:11.674527
 url: "/cdr-researcher-census/researchers/weijiang-song-a5075082/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Plant compensatory growth and optimal grazing intensity of grasslands in northern China: A meta-analysis of grazing experiments** (2022)
-   13 citations · General CDR
+   15 citations · General CDR
 
 ## External Profiles
 

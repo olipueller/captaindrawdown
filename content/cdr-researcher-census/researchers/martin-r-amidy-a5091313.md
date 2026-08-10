@@ -1,7 +1,7 @@
 ---
 title: "Martin R. Amidy"
 description: "Martin R. Amidy is a Mid-career Soil Carbon researcher at Australian National University in AU. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.760951
+date: 2026-08-11T01:33:11.675258
 url: "/cdr-researcher-census/researchers/martin-r-amidy-a5091313/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Grazing management for soil carbon in Australia: A review** (2023)
-   70 citations · General CDR
+   73 citations · General CDR
 
 ## External Profiles
 

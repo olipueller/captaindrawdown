@@ -1,7 +1,7 @@
 ---
 title: "Ram Swaroop Meena"
 description: "Ram Swaroop Meena is an Eminent Soil Carbon researcher at Banaras Hindu University in IN. With 402 publications and an h-index of 66, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.089778
+date: 2026-08-11T01:33:11.070752
 url: "/cdr-researcher-census/researchers/ram-swaroop-meena-a5080095/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,31 +51,31 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Assessment of land use systems for <scp>CO<sub>2</sub></scp> sequestration, carbon credit potential, and income security in Vindhyan region, India** (2021)
-   116 citations · General CDR
+   120 citations · General CDR
 
-2. **Carbon sequestration potential and CO2 fluxes in a tropical forest ecosystem** (2022)
+2. **Agriculture ecosystem models for CO2 sequestration, improving soil physicochemical properties, and restoring degraded land** (2022)
+   94 citations · General CDR
+
+3. **Carbon sequestration potential and CO2 fluxes in a tropical forest ecosystem** (2022)
    94 citations · Soil Carbon
 
-3. **Agriculture ecosystem models for CO2 sequestration, improving soil physicochemical properties, and restoring degraded land** (2022)
-   93 citations · General CDR
-
 4. **Using industrial wastes for rice-wheat cropping and food-energy-carbon-water-economic nexus to the sustainable food system** (2023)
-   90 citations · Soil Carbon
+   92 citations · Soil Carbon
 
 5. **Utilizing waste compost to improve the atmospheric CO2 capturing in the rice-wheat cropping system and energy-cum‑carbon credit auditing for a circular economy** (2023)
-   79 citations · General CDR
+   80 citations · General CDR
 
 6. **Legume-based inter-cropping to achieve the crop, soil, and environmental health security** (2022)
-   77 citations · Soil Carbon
+   80 citations · Soil Carbon
 
 7. **Interaction impact of biocompost on nutrient dynamics and relations with soil biota, carbon fractions index, societal value of CO2 equivalent and ecosystem services in the wheat-rice farming** (2023)
-   64 citations · General CDR
+   66 citations · General CDR
 
 8. **Soil Carbon Stock and Sequestration: Implications for Climate Change Adaptation and Mitigation** (2021)
    61 citations · General CDR
 
 9. **Diversified cropping modules designed for soil restoration, <scp>CO<sub>2</sub></scp> sequestration, and generating carbon credits** (2024)
-   50 citations · General CDR
+   51 citations · General CDR
 
 10. **Agroforestry a model for ecological sustainability** (2022)
    43 citations · Soil Carbon

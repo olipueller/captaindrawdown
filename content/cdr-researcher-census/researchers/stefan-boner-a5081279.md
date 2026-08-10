@@ -1,7 +1,7 @@
 ---
 title: "Stefan Bößner"
 description: "Stefan Bößner is a Mid-career BECCS researcher. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.174331
+date: 2026-08-11T01:33:12.059606
 url: "/cdr-researcher-census/researchers/stefan-boner-a5081279/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Capacity gaps in land-based mitigation technologies and practices: A first stock take** (2023)
-   5 citations · BECCS
+   6 citations · BECCS
 
 ## External Profiles
 

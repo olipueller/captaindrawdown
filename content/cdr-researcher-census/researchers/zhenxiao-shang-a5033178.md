@@ -1,7 +1,7 @@
 ---
 title: "Zhenxiao Shang"
 description: "Zhenxiao Shang is a Senior Biochar researcher at China University of Petroleum, East China in CN. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.719379
+date: 2026-08-11T01:33:11.637571
 url: "/cdr-researcher-census/researchers/zhenxiao-shang-a5033178/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jiaying Dai"
 description: "Jiaying Dai is a Senior Soil Carbon researcher at Shandong Agricultural University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.004869
+date: 2026-08-11T01:33:11.881884
 url: "/cdr-researcher-census/researchers/jiaying-dai-a5077348/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Humic acid modulates growth, photosynthesis, hormone and osmolytes system of maize under drought conditions** (2022)
-   119 citations · Soil Carbon
+   121 citations · Soil Carbon
 
 ## External Profiles
 

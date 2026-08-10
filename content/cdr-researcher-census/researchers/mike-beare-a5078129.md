@@ -1,7 +1,7 @@
 ---
 title: "Mike Beare"
 description: "Mike Beare is an Eminent Soil Carbon researcher at New Zealand Institute for Plant and Food Research Limited in NZ. With 180 publications and an h-index of 51, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.090857
+date: 2026-08-11T01:33:11.071748
 url: "/cdr-researcher-census/researchers/mike-beare-a5078129/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,13 +54,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    74 citations · General CDR
 
 2. **Sequestration of soil carbon by burying it deeper within the profile: A theoretical exploration of three possible mechanisms** (2021)
-   67 citations · Soil Carbon
+   68 citations · Soil Carbon
 
 3. **Soil carbon losses due to priming moderated by adaptation and legacy effects** (2023)
    64 citations · Soil Carbon
 
 4. **Soil macroaggregate-occluded mineral-associated organic carbon drives the response of soil organic carbon to land use change** (2024)
-   18 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 5. **Response of soil organic carbon stock to land use is modulated by soil hydraulic properties** (2023)
    14 citations · Soil Carbon
@@ -72,7 +72,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    3 citations · Soil Carbon
 
 8. **Spatial variability of mineral surface area and carbon sequestration potential at the farm scale – a case study** (2024)
-   2 citations · Enhanced Weathering
+   3 citations · Enhanced Weathering
 
 9. **CQUESST: A dynamical stochastic framework for predicting soil-carbon sequestration** (2025)
    1 citations

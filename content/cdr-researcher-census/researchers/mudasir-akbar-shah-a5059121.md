@@ -1,7 +1,7 @@
 ---
 title: "Mudasir Akbar Shah"
 description: "Mudasir Akbar Shah is a Mid-career Biochar researcher at King Fahd University of Petroleum and Minerals in SA. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.358448
+date: 2026-08-11T01:33:11.319364
 url: "/cdr-researcher-census/researchers/mudasir-akbar-shah-a5059121/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Bio-Char Characterization Produced from Walnut Shell Biomass through Slow Pyrolysis: Sustainable for Soil Amendment and an Alternate Bio-Fuel** (2021)
-   79 citations · Biochar
+   83 citations · Biochar
 
 ## External Profiles
 

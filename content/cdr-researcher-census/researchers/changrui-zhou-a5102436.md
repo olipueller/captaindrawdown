@@ -1,7 +1,7 @@
 ---
 title: "Changrui Zhou"
 description: "Changrui Zhou is a Mid-career Soil Carbon researcher at Henan University of Urban Construction in CN. With 30 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.770997
+date: 2026-08-11T01:33:11.684321
 url: "/cdr-researcher-census/researchers/changrui-zhou-a5102436/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Microbial nutrient limitations limit carbon sequestration but promote nitrogen and phosphorus cycling: A case study in an agroecosystem with long-term straw return** (2023)
-   54 citations · Soil Carbon
+   59 citations · Soil Carbon
 
 2. **Applying biochar under topsoil facilitates soil carbon sequestration: A case study in a dryland agricultural system on the Loess Plateau** (2021)
    18 citations · Biochar

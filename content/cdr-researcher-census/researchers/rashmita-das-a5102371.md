@@ -1,7 +1,7 @@
 ---
 title: "Rashmita Das"
 description: "Rashmita Das is a Mid-career Biochar researcher at Bhabha Atomic Research Centre in IN. With 14 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.362579
+date: 2026-08-11T01:33:12.226083
 url: "/cdr-researcher-census/researchers/rashmita-das-a5102371/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Preparation and applications of biochar based nanocomposite: A review** (2022)
-   51 citations · Biochar
+   52 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Lingbo Meng"
 description: "Lingbo Meng is a Mid-career Biochar researcher at Harbin University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.975400
+date: 2026-08-11T01:33:11.854205
 url: "/cdr-researcher-census/researchers/lingbo-meng-a5108403/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    9 citations · Biochar
 
 2. **Microwave co-pyrolysis of seaweed and lignocellulosic biomass for advanced nano-biochar production** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

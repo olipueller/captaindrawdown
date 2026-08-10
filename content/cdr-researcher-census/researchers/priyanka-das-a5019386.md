@@ -1,7 +1,7 @@
 ---
 title: "Priyanka Das"
 description: "Priyanka Das is a Mid-career Biochar researcher. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.255343
+date: 2026-08-11T01:33:12.133208
 url: "/cdr-researcher-census/researchers/priyanka-das-a5019386/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Prospect of managing factory tea waste as biochar** (2025)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

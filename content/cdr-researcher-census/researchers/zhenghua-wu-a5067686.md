@@ -1,7 +1,7 @@
 ---
 title: "Zhenghua Wu"
 description: "Zhenghua Wu is a Senior Soil Carbon researcher at Hefei University in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.120996
+date: 2026-08-11T01:33:12.011303
 url: "/cdr-researcher-census/researchers/zhenghua-wu-a5067686/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Reducing residual aluminum with carbon dioxide in drinking water treatment** (2025)
-   2 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 ## External Profiles
 

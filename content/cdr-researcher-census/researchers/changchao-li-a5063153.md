@@ -1,7 +1,7 @@
 ---
 title: "Changchao Li"
 description: "Changchao Li is a Senior Soil Carbon researcher at Hong Kong Polytechnic University in HK. With 65 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.181742
+date: 2026-08-11T01:33:11.156720
 url: "/cdr-researcher-census/researchers/changchao-li-a5063153/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Eloisa García"
 description: "Eloisa García is a Senior Soil Carbon researcher at Centro de Edafología y Biología Aplicada del Segura in ES. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.168049
+date: 2026-08-11T01:33:12.054365
 url: "/cdr-researcher-census/researchers/eloisa-garcia-a5109697/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Cover crops improve the long‐term stabilization of soil organic carbon and total nitrogen through physico‐chemical protection in rainfed semiarid Mediterranean woody crop systems** (2024)
-   17 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 ## External Profiles
 

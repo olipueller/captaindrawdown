@@ -1,7 +1,7 @@
 ---
 title: "Anatoly Barakhov"
 description: "Anatoly Barakhov is a Mid-career Biochar researcher. With 40 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.541203
+date: 2026-08-11T01:33:11.476948
 url: "/cdr-researcher-census/researchers/anatoly-barakhov-a5022667/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Sustainable Approach and Safe Use of Biochar and Its Possible Consequences** (2021)
-   107 citations · Biochar
+   108 citations · Biochar
 
 2. **A practical evaluation on integrated role of biochar and nanomaterials in soil remediation processes** (2022)
    29 citations · Biochar

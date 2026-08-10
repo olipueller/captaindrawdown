@@ -1,7 +1,7 @@
 ---
 title: "S Slezack"
 description: "S Slezack is a Senior Biochar researcher at Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement in FR. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.855433
+date: 2026-08-11T01:33:11.758371
 url: "/cdr-researcher-census/researchers/s-slezack-a5111546/"
 layout: "researcher"
 hiddenInHomeList: true

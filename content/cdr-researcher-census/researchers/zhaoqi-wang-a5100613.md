@@ -1,7 +1,7 @@
 ---
 title: "Zhaoqi Wang"
 description: "Zhaoqi Wang is a Senior Soil Carbon researcher at Peking University in CN. With 59 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.202730
+date: 2026-08-11T01:33:11.176587
 url: "/cdr-researcher-census/researchers/zhaoqi-wang-a5100613/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Effects of Environmental Factors on the Changes in MODIS NPP along DEM in Global Terrestrial Ecosystems over the Last Two Decades** (2022)
-   29 citations
+1. **Grazing decreases carbon storage in the Qinghai-Tibet Plateau grasslands** (2025)
+   30 citations · Soil Carbon
 
-2. **Grazing decreases carbon storage in the Qinghai-Tibet Plateau grasslands** (2025)
-   27 citations · Soil Carbon
+2. **Effects of Environmental Factors on the Changes in MODIS NPP along DEM in Global Terrestrial Ecosystems over the Last Two Decades** (2022)
+   29 citations
 
 3. **Agricultural land abandonment promotes soil aggregation and aggregate-associated organic carbon accumulation: a global meta-analysis** (2024)
    4 citations · Soil Carbon

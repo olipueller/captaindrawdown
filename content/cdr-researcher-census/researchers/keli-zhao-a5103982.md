@@ -1,7 +1,7 @@
 ---
 title: "Keli Zhao"
 description: "Keli Zhao is a Senior Biochar researcher at Zhejiang A & F University in CN. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.274931
+date: 2026-08-11T01:33:12.149178
 url: "/cdr-researcher-census/researchers/keli-zhao-a5103982/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **The interaction between biochar and earthworms: Revealing the potential ecological risks of biochar application and the feasibility of their co-application** (2024)
-   23 citations · Biochar
+   24 citations · Biochar
 
 2. **Deciphering the microbial response and functional potential involving in cadmium-arsenic co-contaminated paddy soil remediation with silicon-magnetic biochar** (2025)
-   2 citations · Biochar
+   3 citations · Biochar
 
 ## External Profiles
 

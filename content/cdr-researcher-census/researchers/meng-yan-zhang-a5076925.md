@@ -1,7 +1,7 @@
 ---
 title: "Meng-Yan Zhang"
 description: "Meng-Yan Zhang is a Mid-career Biochar researcher at Southwest Forestry University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.616149
+date: 2026-08-11T01:33:11.544517
 url: "/cdr-researcher-census/researchers/meng-yan-zhang-a5076925/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Advances and prospectives of iron/biochar composites: Application, influencing factors and characterization methods** (2023)
-   37 citations · Biochar
+   39 citations · Biochar
 
 ## External Profiles
 

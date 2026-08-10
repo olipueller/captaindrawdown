@@ -1,7 +1,7 @@
 ---
 title: "Olabiyi Obayomi"
 description: "Olabiyi Obayomi is a Mid-career Soil Carbon researcher at Ben-Gurion University of the Negev in IL. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.812963
+date: 2026-08-11T01:33:11.721686
 url: "/cdr-researcher-census/researchers/olabiyi-obayomi-a5063075/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Response of soil microbial Communities, inorganic and organic soil carbon pools in arid saline soils to alternative land use practices** (2023)
-   33 citations · Soil Carbon
+   34 citations · Soil Carbon
 
 2. **Dairy Effluent-Saturated Biochar’s Short-Term Effects on Vigna unguiculata and Cynodon dactylon Performance and Soil Properties** (2024)
    2 citations · Biochar

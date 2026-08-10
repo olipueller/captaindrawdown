@@ -1,7 +1,7 @@
 ---
 title: "Adam Kubaczyński"
 description: "Adam Kubaczyński is a Mid-career Biochar researcher. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.043738
+date: 2026-08-11T01:33:11.918295
 url: "/cdr-researcher-census/researchers/adam-kubaczynski-a5058497/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Lovemore Chipindu"
 description: "Lovemore Chipindu is a Mid-career Soil Carbon researcher at University of Zimbabwe in ZW. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.811513
+date: 2026-08-11T01:33:11.720140
 url: "/cdr-researcher-census/researchers/lovemore-chipindu-a5070420/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Evaluating the merits of climate smart technologies under smallholder agriculture in Malawi** (2021)
-   30 citations · Soil Carbon
+   32 citations · Soil Carbon
 
 ## External Profiles
 

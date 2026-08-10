@@ -1,7 +1,7 @@
 ---
 title: "Padam Prasad Paudel"
 description: "Padam Prasad Paudel is a Mid-career Biochar researcher at Kangwon National University in KR. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.469813
+date: 2026-08-11T01:33:12.325914
 url: "/cdr-researcher-census/researchers/padam-prasad-paudel-a5059836/"
 layout: "researcher"
 hiddenInHomeList: true

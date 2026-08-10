@@ -1,7 +1,7 @@
 ---
 title: "Carolyn‐Monika Görres"
 description: "Carolyn‐Monika Görres is a Mid-career Biochar researcher at Hochschule Geisenheim University in DE. With 44 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.561638
+date: 2026-08-11T01:33:11.495742
 url: "/cdr-researcher-census/researchers/carolynmonika-gorres-a5073000/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Climate-Smart Agriculture Practices for Mitigating Greenhouse Gas Emissions** (2021)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 2. **Greenhouse Gases from Agriculture** (2021)
    9 citations

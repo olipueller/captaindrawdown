@@ -1,7 +1,7 @@
 ---
 title: "Hong Nam Nguyen"
 description: "Hong Nam Nguyen is a Senior Biochar researcher. With 60 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.442381
+date: 2026-08-11T01:33:11.392240
 url: "/cdr-researcher-census/researchers/hong-nam-nguyen-a5100733/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,13 +46,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Preparation and Characterization of Biochar Derived from Agricultural By-Products for Dye Removal** (2021)
-   54 citations · Biochar
+   58 citations · Biochar
 
 2. **New Trends in Pyrolysis Methods: Opportunities, Limitations, and Advantages** (2022)
    13 citations · Biochar
 
 3. **Bamboo-derived biochar as an efficient adsorbent for oxytetracycline removal from water** (2025)
    10 citations · Biochar
+
+4. **Removal of VOC from Biogas** (2026)
+   0 citations
 
 ## External Profiles
 

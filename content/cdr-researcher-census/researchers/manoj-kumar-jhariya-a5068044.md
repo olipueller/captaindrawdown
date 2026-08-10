@@ -1,7 +1,7 @@
 ---
 title: "Manoj Kumar Jhariya"
 description: "Manoj Kumar Jhariya is an Eminent Soil Carbon researcher at Sarguja University in IN. With 210 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.114613
+date: 2026-08-11T01:33:11.093935
 url: "/cdr-researcher-census/researchers/manoj-kumar-jhariya-a5068044/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Assessment of land use systems for <scp>CO<sub>2</sub></scp> sequestration, carbon credit potential, and income security in Vindhyan region, India** (2021)
-   116 citations · General CDR
+   120 citations · General CDR
 
-2. **Carbon sequestration potential and CO2 fluxes in a tropical forest ecosystem** (2022)
+2. **Agriculture ecosystem models for CO2 sequestration, improving soil physicochemical properties, and restoring degraded land** (2022)
+   94 citations · General CDR
+
+3. **Carbon sequestration potential and CO2 fluxes in a tropical forest ecosystem** (2022)
    94 citations · Soil Carbon
-
-3. **Agriculture ecosystem models for CO2 sequestration, improving soil physicochemical properties, and restoring degraded land** (2022)
-   93 citations · General CDR
 
 4. **Carbon storage, flux and mitigation potential of tropical Sal mixed deciduous forest ecosystem in Chhattisgarh, India** (2021)
    70 citations · Soil Carbon
@@ -78,7 +78,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    17 citations · General CDR
 
 10. **Agroforestry and Its Services for Soil Management and Sustainability** (2021)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 ## External Profiles
 

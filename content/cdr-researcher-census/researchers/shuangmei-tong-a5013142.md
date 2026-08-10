@@ -1,7 +1,7 @@
 ---
 title: "Shuangmei Tong"
 description: "Shuangmei Tong is a Mid-career Enhanced Weathering researcher at Fuyang Normal University in CN. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.404055
+date: 2026-08-11T01:33:11.358195
 url: "/cdr-researcher-census/researchers/shuangmei-tong-a5013142/"
 layout: "researcher"
 hiddenInHomeList: true

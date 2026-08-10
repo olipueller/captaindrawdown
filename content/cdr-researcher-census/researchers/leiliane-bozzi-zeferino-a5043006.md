@@ -1,7 +1,7 @@
 ---
 title: "Leiliane Bozzi Zeferino"
 description: "Leiliane Bozzi Zeferino is a Mid-career Soil Carbon researcher at Universidade Federal de Viçosa in BR. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.344508
+date: 2026-08-11T01:33:12.210035
 url: "/cdr-researcher-census/researchers/leiliane-bozzi-zeferino-a5043006/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Simulation of changes in C and N stocks with land use and cover in Amazon Forest-Cerrado transition environment** (2021)
-   12 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 2. **Slash and burn management and permanent or rotation agroforestry systems: A comparative study for C sequestration by century model simulation** (2023)
    10 citations

@@ -1,7 +1,7 @@
 ---
 title: "Zimin Li"
 description: "Zimin Li is a Senior Soil Carbon researcher at Institute of Earth Environment, Chinese Academy of Sciences in CN. With 146 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.118299
+date: 2026-08-11T01:33:11.097407
 url: "/cdr-researcher-census/researchers/zimin-li-a5066470/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,13 +54,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    55 citations · Soil Carbon
 
 2. **Silicon in paddy fields: Benefits for rice production and the potential of rice phytoliths for biogeochemical carbon sequestration** (2024)
-   30 citations · General CDR
+   31 citations · General CDR
 
 3. **Mangrove wetland recovery enhances soil carbon sequestration capacity of soil aggregates and microbial network stability in southeastern China** (2024)
-   22 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 4. **Organic matter composition and stability in estuarine wetlands depending on soil salinity** (2024)
-   21 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 5. **Specific PhytOC fractions in rice straw and consequent implications for potential of phytolith carbon sequestration in global paddy fields** (2022)
    11 citations · Soil Carbon

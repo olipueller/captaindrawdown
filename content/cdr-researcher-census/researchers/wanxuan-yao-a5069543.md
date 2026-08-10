@@ -1,7 +1,7 @@
 ---
 title: "Wanxuan Yao"
 description: "Wanxuan Yao is a Mid-career Ocean CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.386772
+date: 2026-08-11T01:33:12.248801
 url: "/cdr-researcher-census/researchers/wanxuan-yao-a5069543/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    11 citations · General CDR
 
 3. **Exploring Site‐Specific Carbon Dioxide Removal Options With Storage or Sequestration in the Marine Environment – The 10 Mt CO<sub>2</sub> yr<sup>−1</sup> Removal Challenge for Germany** (2025)
-   7 citations · General CDR
+   8 citations · General CDR
 
 4. **Nearshore Macroalgae Cultivation for Carbon Sequestration by Biomass Harvesting: Evaluating Potential and Impacts With an Earth System Model** (2025)
    4 citations · Ocean CDR

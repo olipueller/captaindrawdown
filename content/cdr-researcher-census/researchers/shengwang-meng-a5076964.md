@@ -1,7 +1,7 @@
 ---
 title: "Shengwang Meng"
 description: "Shengwang Meng is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 60 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.452736
+date: 2026-08-11T01:33:11.400748
 url: "/cdr-researcher-census/researchers/shengwang-meng-a5076964/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    3 citations · Soil Carbon
 
 3. **Depth-dependent stabilization mechanisms of soil organic carbon and total nitrogen in different mixed modes of subtropical Moso bamboo forests** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Endré Schiberna"
 description: "Endré Schiberna is a Senior General CDR researcher at University of Sopron in HU. With 22 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.525153
+date: 2026-08-11T01:33:12.376545
 url: "/cdr-researcher-census/researchers/endre-schiberna-a5065626/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    6 citations · General CDR
 
 2. **From Climate Liability to Market Opportunity: Valuing Carbon Sequestration and Storage Services in the Forest-Based Sector** (2025)
-   4 citations · General CDR
+   5 citations · General CDR
 
 ## External Profiles
 

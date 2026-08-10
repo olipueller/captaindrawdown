@@ -1,7 +1,7 @@
 ---
 title: "Jinzhi Ni"
 description: "Jinzhi Ni is a Senior Biochar researcher at Fujian Normal University in CN. With 56 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.326815
+date: 2026-08-11T01:33:11.291621
 url: "/cdr-researcher-census/researchers/jinzhi-ni-a5017823/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **The composition, energy, and carbon stability characteristics of biochars derived from thermo-conversion of biomass in air-limitation, CO2, and N2 at different temperatures** (2022)
-   38 citations · Biochar
+   39 citations · Biochar
 
 2. **Biochar-mediated reduction of m-nitrotoluene: Interaction between reduction of m-nitrotoluene and sequestration of contaminants** (2021)
    13 citations · Biochar
 
 3. **Biochar improved the solubility of triclocarban in aqueous environment: Insight into the role of biochar-derived dissolved organic carbon** (2024)
-   7 citations · Biochar
+   8 citations · Biochar
 
 4. **Fe-modified biochar facilitated short-term soil organic C sequestration by the synergistic effect of autotrophic bacteria stimulation and dissolved organic matter selective adsorption** (2025)
    0 citations

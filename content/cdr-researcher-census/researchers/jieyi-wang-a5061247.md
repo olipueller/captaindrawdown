@@ -1,7 +1,7 @@
 ---
 title: "Jieyi Wang"
 description: "Jieyi Wang is a Mid-career Biochar researcher at Central South University in CN. With 15 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.614348
+date: 2026-08-11T01:33:11.543077
 url: "/cdr-researcher-census/researchers/jieyi-wang-a5061247/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Removal of benzohydroxamic acid-metal complexes pollution from beneficiation wastewater by metal-biochar/peroxymonosulfate system: Behaviors investigation and mechanism exploration** (2023)
-   32 citations · Biochar
+   33 citations · Biochar
 
 ## External Profiles
 

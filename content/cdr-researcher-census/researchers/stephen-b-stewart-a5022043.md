@@ -1,7 +1,7 @@
 ---
 title: "Stephen B. Stewart"
 description: "Stephen B. Stewart is a Mid-career Soil Carbon researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 29 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.680206
+date: 2026-08-11T01:33:11.601833
 url: "/cdr-researcher-census/researchers/stephen-b-stewart-a5022043/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effect of silvopasture, paddock trees and linear agroforestry systems on agricultural productivity: A global quantitative analysis** (2024)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 2. **Accounting for ecosystem services using extended supply and use tables: A case study of the Murray-Darling Basin, Australia** (2025)
    8 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Ramesh Thangavel"
 description: "Ramesh Thangavel is a Mid-career Soil Carbon researcher at ICAR Research Complex for NEH Region in IN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.289976
+date: 2026-08-11T01:33:12.161636
 url: "/cdr-researcher-census/researchers/ramesh-thangavel-a5102411/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon sequestration value of biosolids applied to soil: A global meta-analysis** (2021)
-   35 citations · Soil Carbon
+   36 citations · Soil Carbon
 
 2. **Tree species traits and soil biochemical properties drive carbon stability and temperature sensitivity of soil aggregates in agroforestry systems of subtropical northeast India** (2025)
    4 citations · Soil Carbon

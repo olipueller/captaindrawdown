@@ -1,7 +1,7 @@
 ---
 title: "Christoph Voelker"
 description: "Christoph Voelker is a Senior Ocean CDR researcher at Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung in DE. With 42 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.550629
+date: 2026-08-11T01:33:12.399541
 url: "/cdr-researcher-census/researchers/christoph-voelker-a5024370/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Climate change driven effects on transport, fate and biogeochemistry of trace element contaminants in coastal marine ecosystems** (2024)
-   88 citations
+   100 citations
 
 2. **Alkalinity biases in CMIP6 Earth System Models and implications for simulated CO2 drawdown via artificial alkalinity enhancement** (2023)
    17 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Nadhilah Reyseliani"
 description: "Nadhilah Reyseliani is a Mid-career General CDR researcher at University of Indonesia in ID. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.001509
+date: 2026-08-11T01:33:11.878864
 url: "/cdr-researcher-census/researchers/nadhilah-reyseliani-a5084537/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Implication of the Paris agreement target on Indonesia electricity sector transition to 2050 using TIMES model** (2022)
-   46 citations · General CDR
+   47 citations · General CDR
 
 ## External Profiles
 

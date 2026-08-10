@@ -1,7 +1,7 @@
 ---
 title: "Sebastian Döetterl"
 description: "Sebastian Döetterl is a Senior Soil Carbon researcher at ETH Zürich in CH. With 205 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.120600
+date: 2026-08-11T01:33:11.099604
 url: "/cdr-researcher-census/researchers/sebastian-doetterl-a5017534/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil Carbon Saturation: What Do We Really Know?** (2025)
-   109 citations · Soil Carbon
+   121 citations · Soil Carbon
 
 2. **Sorption and desorption of organic matter in soils as affected by phosphate** (2021)
-   94 citations · Soil Carbon
+   95 citations · Soil Carbon
 
-3. **The six rights of how and when to test for soil C saturation** (2024)
-   54 citations · Soil Carbon
+3. **A landscape-scale view of soil organic matter dynamics** (2025)
+   57 citations · Soil Carbon
 
-4. **A landscape-scale view of soil organic matter dynamics** (2025)
-   50 citations · Soil Carbon
+4. **The six rights of how and when to test for soil C saturation** (2024)
+   56 citations · Soil Carbon
 
 5. **Soil organic matter turnover rates increase to match increased inputs in grazed grasslands** (2021)
    30 citations

@@ -1,7 +1,7 @@
 ---
 title: "Yongju Yang"
 description: "Yongju Yang is a Mid-career General CDR researcher at Henan Polytechnic University in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.384633
+date: 2026-08-11T01:33:12.246654
 url: "/cdr-researcher-census/researchers/yongju-yang-a5102591/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,13 +48,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Identifying the spatial relationships and drivers of ecosystem service supply–demand matching: A case of Yiluo River Basin** (2024)
-   61 citations · Soil Carbon
+   63 citations · Soil Carbon
 
 2. **How does urbanization impact the supply–demand relationship of agroecosystem services? Insights from farmland loss in the Huaihe River Basin, China** (2023)
-   18 citations
+   20 citations
 
 3. **How to optimize ecological compensation to alleviate the ecosystem services supply and demand mismatch in the Luo River Basin?** (2025)
-   10 citations · General CDR
+   11 citations · General CDR
 
 4. **Drivers and dominant pathways for ecosystem service trade-offs in the Luo River Basin at the local optimal scale** (2026)
    2 citations

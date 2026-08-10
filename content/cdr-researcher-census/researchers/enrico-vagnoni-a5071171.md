@@ -1,7 +1,7 @@
 ---
 title: "Enrico Vagnoni"
 description: "Enrico Vagnoni is a Mid-career Soil Carbon researcher at National Research Council in IT. With 25 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.905612
+date: 2026-08-11T01:33:11.804420
 url: "/cdr-researcher-census/researchers/enrico-vagnoni-a5071171/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **How does soil carbon sequestration affect greenhouse gas emissions from a sheep farming system? Results of a life cycle assessment case study** (2021)
-   26 citations · General CDR
+   27 citations · General CDR
 
 2. **Looking for the ecological transition of Mediterranean small ruminant sector. Characterization and main drivers of environmental performance of the Sardinian sheep farming systems** (2024)
-   6 citations · General CDR
+   7 citations · General CDR
 
 ## External Profiles
 

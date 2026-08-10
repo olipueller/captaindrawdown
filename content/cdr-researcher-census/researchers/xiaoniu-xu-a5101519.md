@@ -1,7 +1,7 @@
 ---
 title: "Xiaoniu Xu"
 description: "Xiaoniu Xu is a Senior Soil Carbon researcher at Anhui Agricultural University in CN. With 60 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.624062
+date: 2026-08-11T01:33:11.551706
 url: "/cdr-researcher-census/researchers/xiaoniu-xu-a5101519/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **SOIL NITROGEN STORAGE AND ASSOCIATED REGULATION FACTORS IN AN ACACIA HYBRID PLANTATION CHRONOSEQUENCE IN SOUTHERN VIETNAM** (2024)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 2. **Effects of Nitrogen and Phosphorus Additions on the Stability of Soil Carbon Fractions in Subtropical Castanopsis sclerophylla Forests** (2025)
    1 citations · Soil Carbon

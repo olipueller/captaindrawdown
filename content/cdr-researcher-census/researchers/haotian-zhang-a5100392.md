@@ -1,7 +1,7 @@
 ---
 title: "Haotian Zhang"
 description: "Haotian Zhang is a Mid-career BECCS researcher at Zhejiang University in CN. With 53 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.316343
+date: 2026-08-11T01:33:11.282702
 url: "/cdr-researcher-census/researchers/haotian-zhang-a5100392/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **N-doped biochar mediated peroxydisulfate activation for selective degradation of bisphenol A: The key role of potential difference-driven electron transfer mechanism** (2023)
-   94 citations · Biochar
+   97 citations · Biochar
 
 2. **Soil Organic Carbon Dynamics and Influencing Factors in the Zoige Alpine Wetland from the 1980s to 2020 Based on a Random Forest Model** (2023)
    14 citations · Soil Carbon

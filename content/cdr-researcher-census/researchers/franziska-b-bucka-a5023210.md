@@ -1,7 +1,7 @@
 ---
 title: "Franziska B. Bucka"
 description: "Franziska B. Bucka is a Mid-career Soil Carbon researcher at Goethe University Frankfurt in DE. With 52 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.543779
+date: 2026-08-11T01:33:11.479292
 url: "/cdr-researcher-census/researchers/franziska-b-bucka-a5023210/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Balancing Organic and Inorganic Carbon Dynamics in Enhanced Rock Weathering: Implications for Carbon Sequestration** (2025)
-   20 citations · Enhanced Weathering
+   23 citations · Enhanced Weathering
 
 2. **From waste to soil: Can we create functioning manufactured soils by recycling rock processing waste?** (2024)
    8 citations · Enhanced Weathering

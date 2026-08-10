@@ -1,7 +1,7 @@
 ---
 title: "Arezoo Taghizadeh‐Toosi"
 description: "Arezoo Taghizadeh‐Toosi is a Senior Soil Carbon researcher at Danish Technological Institute in DK. With 77 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.204665
+date: 2026-08-11T01:33:11.178457
 url: "/cdr-researcher-census/researchers/arezoo-taghizadehtoosi-a5021523/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Systematic Review of Dairy Processing Sludge and Secondary STRUBIAS Products Used in Agriculture** (2021)
-   37 citations · Biochar
+   38 citations · Biochar
 
 2. **Filling gaps in models simulating carbon storage in agricultural soils: the role of cereal stubbles** (2021)
    11 citations
 
 3. **Assessing CO2 storage in Danish biochars using inertinite benchmarking** (2026)
-   1 citations · Biochar
+   2 citations · Biochar
 
 4. **Potential of crop residues management for soil organic carbon sequestration in European countries until 2050: a simplified modelling approach** (2025)
    0 citations · General CDR

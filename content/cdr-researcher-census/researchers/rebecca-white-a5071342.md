@@ -1,7 +1,7 @@
 ---
 title: "Rebecca White"
 description: "Rebecca White is a Senior Ocean CDR researcher at Amnesty International in GB. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.174031
+date: 2026-08-11T01:33:12.059297
 url: "/cdr-researcher-census/researchers/rebecca-white-a5071342/"
 layout: "researcher"
 hiddenInHomeList: true

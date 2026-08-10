@@ -1,7 +1,7 @@
 ---
 title: "Matthew C. Atwood"
 description: "Matthew C. Atwood is a Senior DAC researcher at Berkeley Air Monitoring Group (United States) in US. With 8 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.181193
+date: 2026-08-11T01:33:12.065866
 url: "/cdr-researcher-census/researchers/matthew-c-atwood-a5056416/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Life cycle assessment of formic acid synthesis utilizing CO<sub>2</sub> from direct air capture** (2025)
-   10 citations · DAC
+   11 citations · DAC
 
 2. **Low Carbon Intensity Formic Acid Chemical Synthesis from Direct Air Captured CO&lt;sub&gt;2&lt;/sub&gt; Utilizing Chemical Plant Waste Heat - Final Technical Report** (2025)
    0 citations · DAC

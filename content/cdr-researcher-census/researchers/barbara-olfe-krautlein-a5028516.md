@@ -1,7 +1,7 @@
 ---
 title: "Barbara Olfe-Kräutlein"
 description: "Barbara Olfe-Kräutlein is a Mid-career General CDR researcher at Research Institute for Sustainability at GFZ in DE. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.506723
+date: 2026-08-11T01:33:11.446563
 url: "/cdr-researcher-census/researchers/barbara-olfe-krautlein-a5028516/"
 layout: "researcher"
 hiddenInHomeList: true

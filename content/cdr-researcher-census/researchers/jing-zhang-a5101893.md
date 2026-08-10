@@ -1,7 +1,7 @@
 ---
 title: "Jing Zhang"
 description: "Jing Zhang is a Senior Soil Carbon researcher at Henan University in CN. With 32 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.526406
+date: 2026-08-11T01:33:11.463551
 url: "/cdr-researcher-census/researchers/jing-zhang-a5101893/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    3 citations · Soil Carbon
 
 2. **Accelerated soil carbon accumulation in an afforested multispecies forest compared with a monoculture driven by larger soil phosphorus mobilization** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 3. **Restructuring Nematode Food Web Energetics Drives Microbial Necromass Formation and Soil Carbon Sequestration Under Organic Amendments in Agricultural Soils** (2026)
    0 citations · Biochar

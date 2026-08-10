@@ -1,7 +1,7 @@
 ---
 title: "Donal Moran"
 description: "Donal Moran is a Mid-career Biochar researcher at University of Limerick in IE. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.825801
+date: 2026-08-11T01:33:11.732829
 url: "/cdr-researcher-census/researchers/donal-moran-a5086050/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Atmospheric carbon removal via industrial biochar systems: A techno-economic-environmental study** (2022)
-   179 citations · Biochar
+   185 citations · Biochar
 
 ## External Profiles
 

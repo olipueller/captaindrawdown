@@ -1,7 +1,7 @@
 ---
 title: "Lei Wang"
 description: "Lei Wang is a Senior Soil Carbon researcher at Tongji University in CN. With 67 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.255969
+date: 2026-08-11T01:33:11.225839
 url: "/cdr-researcher-census/researchers/lei-wang-a5100712/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -69,10 +69,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    4 citations · Biochar
 
 7. **The combined effects of soil moisture and salinity on the spatial differences of soil humification intensity in the Yangtze River estuarine wetlands** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 8. **Biomarker analysis revealed tidal organic carbon input enhanced soil respiration and weakened carbon sequestration function of estuarine wetland: Field validation of the Jiuduansha Wetland in the Yangtze River estuary** (2024)
-   1 citations · Ocean CDR
+   3 citations · Ocean CDR
 
 9. **Tidal dynamics amplify the potential of biochar incorporation for sediment carbon sequestration in estuarine wetlands: evidence from in-situ experiments** (2026)
    0 citations · Biochar

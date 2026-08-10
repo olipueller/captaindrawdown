@@ -1,7 +1,7 @@
 ---
 title: "Ali Beryani"
 description: "Ali Beryani is a Mid-career Biochar researcher at Luleå University of Technology in SE. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.140572
+date: 2026-08-11T01:33:12.029294
 url: "/cdr-researcher-census/researchers/ali-beryani-a5044127/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Critical field evaluations of biochar-amended stormwater biofilters for PFAS and other organic micropollutant removals** (2025)
-   20 citations · Biochar
+   22 citations · Biochar
 
 ## External Profiles
 

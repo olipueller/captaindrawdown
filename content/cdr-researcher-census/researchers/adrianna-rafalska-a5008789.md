@@ -1,7 +1,7 @@
 ---
 title: "Adrianna Rafalska"
 description: "Adrianna Rafalska is an Early-career Soil Carbon researcher. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.575807
+date: 2026-08-11T01:33:12.417883
 url: "/cdr-researcher-census/researchers/adrianna-rafalska-a5008789/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,10 +46,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Variation in methane uptake by grassland soils in the context of climate change – A review of effects and mechanisms** (2023)
-   49 citations · Soil Carbon
+   52 citations · Soil Carbon
 
 2. **How Can Litter Modify the Fluxes of CO2 and CH4 from Forest Soils? A Mini-Review** (2021)
-   27 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 3. **Temperature sensitivity of respiration in biochar-amended soils with different textures, moisture levels and fertilizer treatments** (2026)
    0 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Guohua Yan"
 description: "Guohua Yan is a Mid-career Soil Carbon researcher at Qingdao Institute of Animal Husbandry and Veterinary Medicine in CN. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.565879
+date: 2026-08-11T01:33:11.499327
 url: "/cdr-researcher-census/researchers/guohua-yan-a5101732/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "F. Garrett Boudinot"
 description: "F. Garrett Boudinot is a Mid-career Soil Carbon researcher at University of Colorado System in US. With 31 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.912353
+date: 2026-08-11T01:33:11.810936
 url: "/cdr-researcher-census/researchers/f-garrett-boudinot-a5037188/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil carbon sequestration in global working lands as a gateway for negative emission technologies** (2023)
-   36 citations · General CDR
+   37 citations · General CDR
 
 2. **Undervaluing soil carbon sequestration potential enables climate inaction** (2023)
    3 citations · General CDR

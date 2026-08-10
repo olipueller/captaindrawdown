@@ -1,7 +1,7 @@
 ---
 title: "Felix Schreyer"
 description: "Felix Schreyer is a Mid-career General CDR researcher at Leibniz Association in DE. With 35 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.293379
+date: 2026-08-11T01:33:11.260851
 url: "/cdr-researcher-census/researchers/felix-schreyer-a5082226/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Impact of declining renewable energy costs on electrification in low-emission scenarios** (2021)
-   536 citations · General CDR
+   554 citations · General CDR
 
 2. **Deep energy system transformations towards climate neutrality in the EU** (2025)
    0 citations · General CDR

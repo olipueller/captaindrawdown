@@ -1,7 +1,7 @@
 ---
 title: "Shihang Wang"
 description: "Shihang Wang is a Mid-career Soil Carbon researcher at Beihang University in CN. With 35 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.917528
+date: 2026-08-11T01:33:11.815288
 url: "/cdr-researcher-census/researchers/shihang-wang-a5101951/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A Framework Combining CENTURY Modeling and Chronosequences Sampling to Estimate Soil Organic Carbon Stock in an Agricultural Region with Large Land Use Change** (2023)
-   17 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 2. **Regional simulation of soil organic carbon dynamics for dry farmland in Northeast China using the CENTURY model** (2021)
    12 citations · Soil Carbon

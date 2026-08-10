@@ -1,7 +1,7 @@
 ---
 title: "Virni Budi Arifanti"
 description: "Virni Budi Arifanti is a Mid-career Soil Carbon researcher at National Research and Innovation Agency in ID. With 53 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.264082
+date: 2026-08-11T01:33:11.233345
 url: "/cdr-researcher-census/researchers/virni-budi-arifanti-a5013185/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Natural climate solutions in Indonesia: wetlands are the key to achieve Indonesia’s national climate commitment** (2022)
-   33 citations · General CDR
+   34 citations · General CDR
 
 2. **Greenhouse gas fluxes of different land uses in mangrove ecosystem of East Kalimantan, Indonesia** (2024)
-   13 citations
+   14 citations
 
 3. **Carbon Stock and CO2 Fluxes in Various Land Covers in Karang Gading and Langkat Timur Laut Wildlife Reserve, North Sumatra, Indonesia** (2023)
    11 citations · Soil Carbon

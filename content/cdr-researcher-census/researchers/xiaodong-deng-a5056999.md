@@ -1,7 +1,7 @@
 ---
 title: "Xiaodong Deng"
 description: "Xiaodong Deng is a Senior Soil Carbon researcher at Xinyang Normal University in CN. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.698576
+date: 2026-08-11T01:33:11.618749
 url: "/cdr-researcher-census/researchers/xiaodong-deng-a5056999/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Agricultural land use transition under multidimensional topographical gradients and its impact on ecosystem service interactions** (2025)
-   9 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 2. **Effects of grazing on soil respiration and associated factors in artificial Caragana korshinskii shrublands in Inner Mongolia, China** (2025)
    0 citations · Soil Carbon

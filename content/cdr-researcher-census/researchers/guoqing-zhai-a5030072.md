@@ -1,7 +1,7 @@
 ---
 title: "Guoqing Zhai"
 description: "Guoqing Zhai is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.670938
+date: 2026-08-11T01:33:11.593578
 url: "/cdr-researcher-census/researchers/guoqing-zhai-a5030072/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Sphagnum increases soil’s sequestration capacity of mineral-associated organic carbon via activating metal oxides** (2023)
-   103 citations · Soil Carbon
+   108 citations · Soil Carbon
 
 2. **Microbial necromass accrual from newly added labile and native soil carbon in the rhizosphere vs. non-rhizosphere of broadleaved and coniferous trees** (2024)
    11 citations · Soil Carbon

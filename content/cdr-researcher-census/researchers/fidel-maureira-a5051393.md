@@ -1,7 +1,7 @@
 ---
 title: "Fidel Maureira"
 description: "Fidel Maureira is a Mid-career Soil Carbon researcher at Michigan State University in US. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.984822
+date: 2026-08-11T01:33:11.862865
 url: "/cdr-researcher-census/researchers/fidel-maureira-a5051393/"
 layout: "researcher"
 hiddenInHomeList: true

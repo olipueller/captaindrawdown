@@ -1,7 +1,7 @@
 ---
 title: "Zhengliang Yu"
 description: "Zhengliang Yu is a Mid-career Enhanced Weathering researcher at Centre National de la Recherche Scientifique in FR. With 25 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.693665
+date: 2026-08-11T01:33:11.614218
 url: "/cdr-researcher-census/researchers/zhengliang-yu-a5047196/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -60,7 +60,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    17 citations · Enhanced Weathering
 
 4. **Hydrochemistry of surface waters in a permafrost headwater catchment in the Northeastern Tibetan Plateau** (2022)
-   13 citations
+   14 citations
 
 5. **Identifying river water sources using end‐member mixing analysis in a subtropical monsoon basin China** (2023)
    9 citations

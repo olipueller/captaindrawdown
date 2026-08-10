@@ -1,7 +1,7 @@
 ---
 title: "Akansha Sharma"
 description: "Akansha Sharma is a Mid-career Soil Carbon researcher at Indian Institute of Management Lucknow in IN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.301520
+date: 2026-08-11T01:33:11.268764
 url: "/cdr-researcher-census/researchers/akansha-sharma-a5045482/"
 layout: "researcher"
 hiddenInHomeList: true

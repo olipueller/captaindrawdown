@@ -1,7 +1,7 @@
 ---
 title: "Ankita Singh"
 description: "Ankita Singh is a Mid-career Soil Carbon researcher at Central University of South Bihar in IN. With 34 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.767122
+date: 2026-08-11T01:33:11.680913
 url: "/cdr-researcher-census/researchers/ankita-singh-a5101674/"
 layout: "researcher"
 hiddenInHomeList: true

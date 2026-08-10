@@ -1,7 +1,7 @@
 ---
 title: "Diane Lucas"
 description: "Diane Lucas is a Senior General CDR researcher at Human Growth Foundation in US. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.845547
+date: 2026-08-11T01:33:11.749482
 url: "/cdr-researcher-census/researchers/diane-lucas-a5014860/"
 layout: "researcher"
 hiddenInHomeList: true

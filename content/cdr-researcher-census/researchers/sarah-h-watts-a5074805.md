@@ -1,7 +1,7 @@
 ---
 title: "Sarah H. Watts"
 description: "Sarah H. Watts is a Mid-career General CDR researcher. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.544394
+date: 2026-08-11T01:33:12.394498
 url: "/cdr-researcher-census/researchers/sarah-h-watts-a5074805/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The benefits of mountain woodland restoration** (2022)
-   16 citations · General CDR
+   17 citations · General CDR
 
 ## External Profiles
 

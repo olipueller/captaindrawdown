@@ -1,7 +1,7 @@
 ---
 title: "Peidong Xu"
 description: "Peidong Xu is a Mid-career Soil Carbon researcher at Shanxi Agricultural University in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.745195
+date: 2026-08-11T01:33:11.660947
 url: "/cdr-researcher-census/researchers/peidong-xu-a5005281/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Biochar addition promotes soil organic carbon sequestration dominantly contributed by macro-aggregates in agricultural ecosystems of China** (2024)
-   60 citations · Biochar
+   61 citations · Biochar
 
 2. **Patterns and drivers of organic carbon sequestration efficiency within soil aggregates under straw return across the croplands of China** (2025)
    2 citations · Soil Carbon

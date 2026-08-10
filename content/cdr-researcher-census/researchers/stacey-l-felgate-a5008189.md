@@ -1,7 +1,7 @@
 ---
 title: "Stacey L. Felgate"
 description: "Stacey L. Felgate is a Mid-career Ocean CDR researcher at Uppsala University in SE. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.599669
+date: 2026-08-11T01:33:11.529868
 url: "/cdr-researcher-census/researchers/stacey-l-felgate-a5008189/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Heba A. Younes"
 description: "Heba A. Younes is a Mid-career Biochar researcher at Beni -Suef Unversity, Faculty of postgraduate studies for advanced sciences in EG. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.809916
+date: 2026-08-11T01:33:11.718306
 url: "/cdr-researcher-census/researchers/heba-a-younes-a5004477/"
 layout: "researcher"
 hiddenInHomeList: true

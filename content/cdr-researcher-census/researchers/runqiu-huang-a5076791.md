@@ -1,7 +1,7 @@
 ---
 title: "Runqiu Huang"
 description: "Runqiu Huang is a Mid-career Soil Carbon researcher at Zhejiang Ocean University in CN. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.098241
+date: 2026-08-11T01:33:11.989695
 url: "/cdr-researcher-census/researchers/runqiu-huang-a5076791/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Mangrove restoration built soil organic carbon stocks over six decades: a chronosequence study** (2022)
-   32 citations · Soil Carbon
+   35 citations · Soil Carbon
 
 ## External Profiles
 

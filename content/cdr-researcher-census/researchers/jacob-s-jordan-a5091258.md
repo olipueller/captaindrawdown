@@ -1,7 +1,7 @@
 ---
 title: "Jacob S. Jordan"
 description: "Jacob S. Jordan is a Mid-career Enhanced Weathering researcher at Nano Carbon (Poland) in PL. With 62 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-12T12:07:29.375912
+date: 2026-08-11T01:33:11.313670
 url: "/cdr-researcher-census/researchers/jacob-s-jordan-a5091258/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Enhanced weathering in the US Corn Belt delivers carbon removal with agronomic benefits** (2024)
-   131 citations
+   134 citations
 
 2. **Initial Validation of a Soil-Based Mass-Balance Approach for Empirical Monitoring of Enhanced Rock Weathering Rates** (2023)
-   65 citations
+   66 citations
 
 3. **Soil cation storage is a key control on the carbon removal dynamics of enhanced weathering** (2025)
    14 citations · Enhanced Weathering

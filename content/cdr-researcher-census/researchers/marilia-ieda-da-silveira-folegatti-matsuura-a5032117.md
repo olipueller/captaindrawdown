@@ -1,7 +1,7 @@
 ---
 title: "Marília Ieda da Silveira Folegatti Matsuura"
 description: "Marília Ieda da Silveira Folegatti Matsuura is a Mid-career BECCS researcher at Brazilian Agricultural Research Corporation in BR. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.477297
+date: 2026-08-11T01:33:12.332175
 url: "/cdr-researcher-census/researchers/marilia-ieda-da-silveira-folegatti-matsuura-a5032117/"
 layout: "researcher"
 hiddenInHomeList: true

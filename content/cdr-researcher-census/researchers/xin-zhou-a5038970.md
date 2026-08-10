@@ -1,7 +1,7 @@
 ---
 title: "Xin Zhou"
 description: "Xin Zhou is a Senior Soil Carbon researcher at University of Eastern Finland in FI. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.216754
+date: 2026-08-11T01:33:12.098552
 url: "/cdr-researcher-census/researchers/xin-zhou-a5038970/"
 layout: "researcher"
 hiddenInHomeList: true

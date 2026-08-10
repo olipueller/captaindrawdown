@@ -1,7 +1,7 @@
 ---
 title: "Stavroula Dimitriadou"
 description: "Stavroula Dimitriadou is a Mid-career Biochar researcher. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.899098
+date: 2026-08-11T01:33:11.798635
 url: "/cdr-researcher-census/researchers/stavroula-dimitriadou-a5016324/"
 layout: "researcher"
 hiddenInHomeList: true

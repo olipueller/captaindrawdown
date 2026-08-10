@@ -1,7 +1,7 @@
 ---
 title: "Xiao Pan Pang"
 description: "Xiao Pan Pang is a Mid-career Soil Carbon researcher at Hebei Medical University in CN. With 54 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.336404
+date: 2026-08-11T01:33:11.299990
 url: "/cdr-researcher-census/researchers/xiao-pan-pang-a5102651/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    26 citations · Soil Carbon
 
 2. **Consequences of plateau pika disturbance on plant-soil carbon and nitrogen in alpine meadows** (2024)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 3. **Foraging tunnel disturbances created by small subterranean herbivores enhance soil organic carbon stability but reduce carbon sequestration in different alpine grassland types** (2024)
    2 citations · Soil Carbon

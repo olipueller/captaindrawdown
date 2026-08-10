@@ -1,7 +1,7 @@
 ---
 title: "Jianjun Liang"
 description: "Jianjun Liang is a Mid-career Soil Carbon researcher at Zhuhai People's Hospital in CN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.563897
+date: 2026-08-11T01:33:11.497788
 url: "/cdr-researcher-census/researchers/jianjun-liang-a5020253/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Reducing residual aluminum with carbon dioxide in drinking water treatment** (2025)
-   2 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 ## External Profiles
 

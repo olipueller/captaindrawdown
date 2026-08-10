@@ -1,7 +1,7 @@
 ---
 title: "Anjelita Malik"
 description: "Anjelita Malik is an Early-career Soil Carbon researcher. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.501776
+date: 2026-08-11T01:33:12.354590
 url: "/cdr-researcher-census/researchers/anjelita-malik-a5038708/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Natural climate solutions in Indonesia: wetlands are the key to achieve Indonesia’s national climate commitment** (2022)
-   33 citations · General CDR
+   34 citations · General CDR
 
 ## External Profiles
 

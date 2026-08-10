@@ -1,7 +1,7 @@
 ---
 title: "Keyu Ren"
 description: "Keyu Ren is a Mid-career Soil Carbon researcher at China Agricultural University in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.836353
+date: 2026-08-11T01:33:11.741833
 url: "/cdr-researcher-census/researchers/keyu-ren-a5086493/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Changes in soil inorganic carbon following vegetation restoration in the cropland on the Loess Plateau in China: A meta-analysis** (2024)
-   9 citations · General CDR
+   10 citations · General CDR
 
 ## External Profiles
 

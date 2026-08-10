@@ -1,7 +1,7 @@
 ---
 title: "Juan Ignacio Burneo Valdivieso"
 description: "Juan Ignacio Burneo Valdivieso is a Mid-career Soil Carbon researcher at Universidad Técnica Particular de Loja in EC. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.904388
+date: 2026-08-11T01:33:11.803387
 url: "/cdr-researcher-census/researchers/juan-ignacio-burneo-valdivieso-a5024144/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term grazing exclusion enhances soil carbon and nitrogen stocks in tropical dry forests of southern Ecuador** (2025)
-   1 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Daniela Guasconi"
 description: "Daniela Guasconi is a Mid-career Soil Carbon researcher at Stockholm University in SE. With 28 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.314867
+date: 2026-08-11T01:33:12.183323
 url: "/cdr-researcher-census/researchers/daniela-guasconi-a5029895/"
 layout: "researcher"
 hiddenInHomeList: true

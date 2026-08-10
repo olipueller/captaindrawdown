@@ -1,7 +1,7 @@
 ---
 title: "J.V.N.S. Prasad"
 description: "J.V.N.S. Prasad is a Senior Soil Carbon researcher at Central Research Institute for Dryland Agriculture in IN. With 76 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.273535
+date: 2026-08-11T01:33:11.242279
 url: "/cdr-researcher-census/researchers/jvns-prasad-a5054406/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Nature‐based solutions in soil restoration for improving agricultural productivity** (2022)
-   61 citations · Soil Carbon
+   64 citations · Soil Carbon
 
 2. **Integrated nutrient management improves soil organic matter and agronomic sustainability of semiarid rainfed Inceptisols of the Indo‐Gangetic Plains** (2021)
    21 citations · Soil Carbon
@@ -63,13 +63,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    8 citations
 
 5. **Conservation agriculture for riverine agri-food systems under the climate crisis: enhancing soil health and mitigating erosion** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 6. **Technologies, Programs, and Policies for Enhancing Soil Organic Carbon in Rainfed Dryland Ecosystems of India** (2022)
    4 citations · General CDR
 
 7. **Soil Carbon Sequestration and Agronomic Productivity as Influenced by the Long-Term Organic and Inorganic Fertilisation Under the Upland Rice–Wheat System in Vertisols of Central India** (2024)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 8. **Regaining the Essential Ecosystem Services in Degraded Lands** (2023)
    2 citations · Soil Carbon

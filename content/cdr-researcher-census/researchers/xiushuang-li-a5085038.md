@@ -1,7 +1,7 @@
 ---
 title: "Xiushuang Li"
 description: "Xiushuang Li is a Mid-career Soil Carbon researcher at Ministry of Natural Resources in CN. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.582148
+date: 2026-08-11T01:33:11.513668
 url: "/cdr-researcher-census/researchers/xiushuang-li-a5085038/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,13 +54,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    63 citations · Soil Carbon
 
 2. **Effect of the combined addition of mineral nitrogen and crop residue on soil respiration, organic carbon sequestration, and exogenous nitrogen in stable organic matter** (2021)
-   56 citations · Soil Carbon
+   58 citations · Soil Carbon
 
 3. **Long‐term effects of straw mulching coupled with N application on soil organic carbon sequestration and soil aggregation in a winter wheat monoculture system** (2021)
    18 citations · Soil Carbon
 
 4. **Short‐term effects of combined organic amendments on soil organic carbon sequestration in a rain‐fed winter wheat system** (2021)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 5. **Crop Straws with Contrasting C/N Ratios Affect the Organic Carbon Turnover and Its Net Sequestration Efficiency When Solely or Jointly Incorporated to a Fertilized Soil** (2024)
    9 citations · Soil Carbon

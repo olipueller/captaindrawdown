@@ -1,7 +1,7 @@
 ---
 title: "Maarten van den Berg"
 description: "Maarten van den Berg is a Senior General CDR researcher at Netherlands Environmental Assessment Agency in NL. With 57 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.109630
+date: 2026-08-11T01:33:11.089205
 url: "/cdr-researcher-census/researchers/maarten-van-den-berg-a5077857/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Reducing sectoral hard-to-abate emissions to limit reliance on carbon dioxide removal** (2024)
-   94 citations · General CDR
+   100 citations · General CDR
 
 2. **Using Decomposition Analysis to Determine the Main Contributing Factors to Carbon Neutrality across Sectors** (2021)
    14 citations · General CDR

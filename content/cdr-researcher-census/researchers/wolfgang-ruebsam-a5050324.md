@@ -1,7 +1,7 @@
 ---
 title: "Wolfgang Ruebsam"
 description: "Wolfgang Ruebsam is a Mid-career Enhanced Weathering researcher at Kiel University in DE. With 75 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.270678
+date: 2026-08-11T01:33:11.239477
 url: "/cdr-researcher-census/researchers/wolfgang-ruebsam-a5050324/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    28 citations · Enhanced Weathering
 
 2. **The Toarcian Oceanic Anoxic Event: where do we stand?** (2021)
-   26 citations · Enhanced Weathering
+   27 citations · Enhanced Weathering
 
 3. **About this title - Carbon Cycle and Ecosystem Response to the Jenkyns Event in the Early Toarcian (Jurassic)** (2021)
    6 citations · Enhanced Weathering

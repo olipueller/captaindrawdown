@@ -1,7 +1,7 @@
 ---
 title: "Petros Chavula"
 description: "Petros Chavula is a Mid-career General CDR researcher. With 74 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.981476
+date: 2026-08-11T01:33:11.859671
 url: "/cdr-researcher-census/researchers/petros-chavula-a5012322/"
 layout: "researcher"
 hiddenInHomeList: true

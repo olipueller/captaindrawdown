@@ -1,7 +1,7 @@
 ---
 title: "Chang‐Mao Hung"
 description: "Chang‐Mao Hung is a Senior Biochar researcher at National Kaohsiung University of Science and Technology in TW. With 122 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.137255
+date: 2026-08-11T01:33:11.115532
 url: "/cdr-researcher-census/researchers/changmao-hung-a5042346/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **The Role of Biochar in Regulating the Carbon, Phosphorus, and Nitrogen Cycles Exemplified by Soil Systems** (2021)
-   104 citations · Biochar
+   105 citations · Biochar
 
 2. **Algae-derived metal-free boron-doped biochar as an efficient bioremediation pretreatment for persistent organic pollutants in marine sediments** (2022)
    75 citations · Biochar
@@ -63,10 +63,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    36 citations · Biochar
 
 5. **Activation of calcium peroxide by nitrogen and sulfur co-doped metal-free lignin biochar for enhancing the removal of emerging organic contaminants from waste activated sludge** (2023)
-   32 citations · Biochar
+   33 citations · Biochar
 
 6. **Water hyacinth derived biochar for polycyclic aromatic hydrocarbons removal and oxidative stress study** (2023)
-   19 citations · Biochar
+   21 citations · Biochar
 
 7. **The remediation of marine sediments containing polycyclic aromatic hydrocarbons by peroxymonosulfate activated with Sphagnum moss-derived biochar and its benthic microbial ecology** (2023)
    14 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Wenjun Ji"
 description: "Wenjun Ji is a Senior Soil Carbon researcher at Shandong Academy of Agricultural Sciences in CN. With 112 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.124131
+date: 2026-08-11T01:33:11.102875
 url: "/cdr-researcher-census/researchers/wenjun-ji-a5010230/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A high-resolution map of soil organic carbon in cropland of Southern China** (2024)
-   56 citations · Soil Carbon
+   59 citations · Soil Carbon
 
 2. **Spatial variability and potential controls of soil organic matter in the Eastern Dongting Lake Plain in southern China** (2021)
-   25 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 3. **Effects of Long-Term Straw Return and Environmental Factors on the Spatiotemporal Variability of Soil Organic Matter in the Black Soil Region: A Case Study** (2022)
-   23 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 4. **Optimal soil organic matter mapping using an ensemble model incorporating moderate resolution imaging spectroradiometer, portable X-ray fluorescence, and visible near-infrared data** (2023)
    20 citations · Soil Carbon
 
 5. **Quantification of the effects of long-term straw return on soil organic matter spatiotemporal variation: a case study in a typical black soil region** (2023)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 6. **Quantification of the effects of long-term straw return on soil organic matter spatiotemporal variation: A case study in typical black soil region** (2022)
    5 citations · Soil Carbon

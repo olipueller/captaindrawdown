@@ -1,7 +1,7 @@
 ---
 title: "Hongqin Li"
 description: "Hongqin Li is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 65 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.361972
+date: 2026-08-11T01:33:11.322548
 url: "/cdr-researcher-census/researchers/hongqin-li-a5102011/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Atmospheric water vapor and soil moisture jointly determine the spatiotemporal variations of CO2 fluxes and evapotranspiration across the Qinghai-Tibetan Plateau grasslands** (2021)
-   44 citations · Soil Carbon
+   47 citations · Soil Carbon
 
 2. **Differential responses of CO2 and latent heat fluxes to climatic anomalies on two alpine grasslands on the northeastern Qinghai–Tibetan Plateau** (2023)
    18 citations

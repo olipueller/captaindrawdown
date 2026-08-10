@@ -1,7 +1,7 @@
 ---
 title: "Kieu Trang Trinh"
 description: "Kieu Trang Trinh is a Mid-career Enhanced Weathering researcher at Vietnam National University, Hanoi in VN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.820817
+date: 2026-08-11T01:33:11.728385
 url: "/cdr-researcher-census/researchers/kieu-trang-trinh-a5023009/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Bamboo-derived adsorbents for environmental remediation: A review of recent progress** (2023)
-   65 citations · Biochar
+   66 citations · Biochar
 
 2. **Land application of microsized basalt particles: A perspective on their mobility in the soil environment** (2025)
    0 citations · Enhanced Weathering

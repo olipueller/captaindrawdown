@@ -1,7 +1,7 @@
 ---
 title: "Zhiyong Zhang"
 description: "Zhiyong Zhang is a Senior Biochar researcher at Huaqiao University in CN. With 30 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.422097
+date: 2026-08-11T01:33:11.374699
 url: "/cdr-researcher-census/researchers/zhiyong-zhang-a5070875/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Energy production and denitrogenation performance by sludge biochar based constructed wetlands-microbial fuel cells system: Overcoming carbon constraints in water** (2024)
-   44 citations · Biochar
+   45 citations · Biochar
 
 2. **Tree-Structured Parzen Estimator Optimized-Automated Machine Learning Assisted by Meta–Analysis for Predicting Biochar–Driven N2o Mitigation Effect in Constructed Wetlands** (2023)
    0 citations · Biochar

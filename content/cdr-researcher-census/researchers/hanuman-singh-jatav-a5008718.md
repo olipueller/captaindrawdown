@@ -1,7 +1,7 @@
 ---
 title: "Hanuman Singh Jatav"
 description: "Hanuman Singh Jatav is a Senior Biochar researcher at Sri Karan Narendra Agriculture University Jobner Rajasthan, College of Agriculture  Fatehpur Sikar Rajasthan  in IN. With 104 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.186573
+date: 2026-08-11T01:33:11.161236
 url: "/cdr-researcher-census/researchers/hanuman-singh-jatav-a5008718/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Sustainable Approach and Safe Use of Biochar and Its Possible Consequences** (2021)
-   107 citations · Biochar
+   108 citations · Biochar
 
 2. **Carbon Sequestration Potential of Commercial Agroforestry Systems in Indo-Gangetic Plains of India: Poplar and Eucalyptus-Based Agroforestry Systems** (2023)
    72 citations · Soil Carbon
 
 3. **Agroforestry: A Resource Conserving Technology for Efficient Utilization of Agricultural Inputs, Leads to Food and Environmental Security** (2024)
-   14 citations · General CDR
+   15 citations · General CDR
 
 4. **Surface Seeding of Wheat: A Sustainable Way towards Climate Resilience Agriculture** (2022)
    10 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Huizhou Gao"
 description: "Huizhou Gao is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.978972
+date: 2026-08-11T01:33:11.857301
 url: "/cdr-researcher-census/researchers/huizhou-gao-a5012299/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Conservation tillage enhances the sequestration and iron-mediated stabilization of aggregate-associated organic carbon in Mollisols** (2024)
-   22 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 2. **Conservation tillage and wheat straw managements improve soil organic carbon sequestration via calcium-mediated microbial communities and aggregate stability in Calcaric Cambisols** (2025)
    7 citations · Soil Carbon
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Soil Carbon
 
 4. **Conservation Tillage Increases Carbon Storage by Regulating Mineral‐Mediated Aggregate Stability and Carbon Chemistry** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

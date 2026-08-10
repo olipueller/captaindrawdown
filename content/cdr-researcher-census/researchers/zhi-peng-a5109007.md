@@ -1,7 +1,7 @@
 ---
 title: "Zhi Peng"
 description: "Zhi Peng is a Senior Soil Carbon researcher at Jishou University in CN. With 32 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.726220
+date: 2026-08-11T01:33:11.643948
 url: "/cdr-researcher-census/researchers/zhi-peng-a5109007/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Phosphorus fractions and their transformation in coupling with organic carbon cycling after seven-year manure application in subtropical soil** (2025)
-   15 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 2. **Effects of organic material addition on carbon cycling and soil fertility in paddy soil** (2025)
-   12 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 ## External Profiles
 

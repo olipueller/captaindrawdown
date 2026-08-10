@@ -1,7 +1,7 @@
 ---
 title: "Nadine Mengis"
 description: "Nadine Mengis is a Senior General CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 130 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.235286
+date: 2026-08-11T01:33:11.207388
 url: "/cdr-researcher-census/researchers/nadine-mengis-a5079879/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,22 +54,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    65 citations · General CDR
 
 2. **The need for carbon-emissions-driven climate projections in CMIP7** (2024)
-   40 citations · General CDR
+   42 citations · General CDR
 
 3. **Perspectives and challenges of marine carbon dioxide removal** (2025)
-   39 citations · General CDR
+   41 citations · General CDR
 
 4. **Framework for Assessing the Feasibility of Carbon Dioxide Removal Options Within the National Context of Germany** (2022)
-   37 citations · General CDR
+   38 citations · General CDR
 
 5. **Scoping carbon dioxide removal options for Germany–What is their potential contribution to Net-Zero CO2?** (2022)
-   36 citations · General CDR
+   37 citations · General CDR
 
 6. **Counting (on) blue carbon—Challenges and ways forward for carbon accounting of ecosystem-based carbon removal in marine environments** (2023)
-   31 citations · General CDR
+   32 citations · General CDR
 
 7. **A Comprehensive Assessment of Carbon Dioxide Removal Options for Germany** (2024)
-   22 citations · BECCS
+   24 citations · BECCS
 
 8. **The need for carbon emissions-driven climate projections in CMIP7** (2023)
    17 citations · General CDR

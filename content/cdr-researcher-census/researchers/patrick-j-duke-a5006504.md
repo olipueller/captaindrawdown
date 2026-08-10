@@ -1,7 +1,7 @@
 ---
 title: "Patrick J. Duke"
 description: "Patrick J. Duke is a Mid-career Ocean CDR researcher at University of Victoria in CA. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.861206
+date: 2026-08-11T01:33:11.763817
 url: "/cdr-researcher-census/researchers/patrick-j-duke-a5006504/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -56,10 +56,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 2. **Early Career Recommendations for the Equitable Growth of a Marine Carbon Dioxide Removal Sector** (2025)
    4 citations · General CDR
 
-3. **River Alkalinity Enhancement as a Carbon Dioxide Removal Strategy: a Norwegian Case Study** (2026)
+3. **Investigating the Northeast Pacific Ocean Carbon Sink using a Machine Learning Approach** (2024)
+   0 citations · General CDR
+
+4. **River Alkalinity Enhancement as a Carbon Dioxide Removal Strategy: a Norwegian Case Study** (2026)
    0 citations · Enhanced Weathering
 
-4. **High-resolution Neural Network Demonstrates Strong CO2 Source-Sink Juxtaposition in the Coastal Zone** (2024)
+5. **High-resolution Neural Network Demonstrates Strong CO2 Source-Sink Juxtaposition in the Coastal Zone** (2024)
    0 citations · General CDR
 
 ## External Profiles

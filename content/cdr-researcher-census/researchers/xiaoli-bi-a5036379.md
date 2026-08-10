@@ -1,7 +1,7 @@
 ---
 title: "Xiaoli Bi"
 description: "Xiaoli Bi is a Senior Soil Carbon researcher at 中国科学院烟台海岸带研究所 in CN. With 72 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.389524
+date: 2026-08-11T01:33:11.345570
 url: "/cdr-researcher-census/researchers/xiaoli-bi-a5036379/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Potentially toxic trace element pollution in long-term fertilized agricultural soils in China: A meta-analysis** (2021)
-   44 citations
+   46 citations
 
 2. **Exploring the factors influencing the carbon sink function of coastal wetlands in the Yellow River Delta** (2024)
-   22 citations · General CDR
+   26 citations · General CDR
 
 3. **Spartina alterniflora invasion impacts soil organic carbon sequestration and stability in salt marsh wetlands** (2025)
-   6 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 4. **Shrub encroachment increases soil organic and inorganic carbon in coastal wetlands** (2023)
    4 citations · Soil Carbon

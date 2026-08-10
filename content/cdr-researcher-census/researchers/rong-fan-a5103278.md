@@ -1,7 +1,7 @@
 ---
 title: "Rong Fan"
 description: "Rong Fan is a Senior Soil Carbon researcher at Lanzhou University in CN. With 40 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.711868
+date: 2026-08-11T01:33:11.631011
 url: "/cdr-researcher-census/researchers/rong-fan-a5103278/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Planting of nitrogen-fixing shrubs promote soil carbon sequestration by increasing mineral-associated organic fraction** (2025)
-   10 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 2. **Coniferous Tree Species-Induced Shifts in Soil Total Nitrogen and pH Regulated Microbial-Derived Carbon Accumulation and Thus Promoted Soil Organic Carbon Sequestration** (2026)
    1 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Jingyi Shao"
 description: "Jingyi Shao is a Senior Soil Carbon researcher at University of Canberra in AU. With 46 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.736191
+date: 2026-08-11T01:33:11.652859
 url: "/cdr-researcher-census/researchers/jingyi-shao-a5070777/"
 layout: "researcher"
 hiddenInHomeList: true

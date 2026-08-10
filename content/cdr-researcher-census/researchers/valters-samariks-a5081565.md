@@ -1,7 +1,7 @@
 ---
 title: "Valters Samariks"
 description: "Valters Samariks is a Mid-career Soil Carbon researcher at Latvian State Forest Research Institute \"Silava\" in LV. With 29 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.445641
+date: 2026-08-11T01:33:12.303422
 url: "/cdr-researcher-census/researchers/valters-samariks-a5081565/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    9 citations
 
 2. **Organic soils can be CO <sub>2</sub> sinks in both drained and undrained hemiboreal peatland forests** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 3. **Soil and forest floor carbon balance in drained and undrained hemiboreal peatland forests** (2024)
    3 citations · Soil Carbon

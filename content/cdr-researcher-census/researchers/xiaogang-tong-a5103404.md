@@ -1,7 +1,7 @@
 ---
 title: "Xiaogang Tong"
 description: "Xiaogang Tong is a Senior Soil Carbon researcher at Ministry of Education of the People's Republic of China in CN. With 39 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.246049
+date: 2026-08-11T01:33:11.217239
 url: "/cdr-researcher-census/researchers/xiaogang-tong-a5103404/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    37 citations · Soil Carbon
 
 2. **Dissimilar evolution of soil dissolved organic matter chemical properties during revegetation with arbor and shrub in desertified land of the Mu Us Desert** (2022)
-   27 citations · Soil Carbon
+   29 citations · Soil Carbon
 
 3. **Ecological Improvements Boosted Inorganic Carbon Sequestration within Silt and Clay During 56-Years Revegetation in Mu Us Sandy Land** (2024)
    0 citations · Soil Carbon

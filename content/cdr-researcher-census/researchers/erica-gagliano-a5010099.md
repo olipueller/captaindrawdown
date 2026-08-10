@@ -1,7 +1,7 @@
 ---
 title: "Erica Gagliano"
 description: "Erica Gagliano is a Mid-career Soil Carbon researcher at University of Genoa in IT. With 38 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.219641
+date: 2026-08-11T01:33:11.192617
 url: "/cdr-researcher-census/researchers/erica-gagliano-a5010099/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    9 citations · General CDR
 
 2. **From soil carbon towards system sustainability: Integrating SOC modelling and life cycle assessment to evaluate environmental trade-offs in carbon farming** (2025)
-   4 citations · General CDR
+   5 citations · General CDR
 
 3. **Beyond Carbon: Integrating Soil Carbon Modeling and Life Cycle Assessment to Evaluate the Environmental Performance of Carbon Farming** (2025)
    0 citations · General CDR

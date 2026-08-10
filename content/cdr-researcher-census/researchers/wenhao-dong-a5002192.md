@@ -1,7 +1,7 @@
 ---
 title: "Wenhao Dong"
 description: "Wenhao Dong is a Mid-career General CDR researcher at Nanjing University of Chinese Medicine in CN. With 46 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.723204
+date: 2026-08-11T01:33:11.641087
 url: "/cdr-researcher-census/researchers/wenhao-dong-a5002192/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Phosphorus/iron-doped biochar enabling a synergy for cadmium immobilization and carbon sequestration in fluctuating redox paddy soils** (2025)
-   9 citations · Biochar
+   11 citations · Biochar
 
 2. **Hysteresis in global atmospheric river activity under carbon dioxide removal** (2026)
    0 citations · General CDR

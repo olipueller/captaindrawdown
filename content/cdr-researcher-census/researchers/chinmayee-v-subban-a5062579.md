@@ -1,7 +1,7 @@
 ---
 title: "Chinmayee V. Subban"
 description: "Chinmayee V. Subban is a Senior Ocean CDR researcher at Pacific Northwest National Laboratory in US. With 56 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.391340
+date: 2026-08-11T01:33:11.347171
 url: "/cdr-researcher-census/researchers/chinmayee-v-subban-a5062579/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    10 citations · Ocean CDR
 
 3. **Regional ocean biogeochemical modeling challenges for predicting the effectiveness of marine carbon dioxide removal** (2025)
-   3 citations · General CDR
+   4 citations · General CDR
 
 4. **Ocean Deacidification Technologies for Marine Aquaculture** (2022)
    3 citations · Ocean CDR

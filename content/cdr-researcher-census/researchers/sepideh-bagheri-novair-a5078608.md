@@ -1,7 +1,7 @@
 ---
 title: "Sepideh Bagheri Novair"
 description: "Sepideh Bagheri Novair is a Mid-career Biochar researcher at University of Tehran in IR. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.679748
+date: 2026-08-11T01:33:11.601479
 url: "/cdr-researcher-census/researchers/sepideh-bagheri-novair-a5078608/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Phosphorus Removal from Wastewater: The Potential Use of Biochar and the Key Controlling Factors** (2021)
-   120 citations · Biochar
+   123 citations · Biochar
 
 ## External Profiles
 

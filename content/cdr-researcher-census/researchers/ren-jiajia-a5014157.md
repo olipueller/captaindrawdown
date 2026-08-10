@@ -1,7 +1,7 @@
 ---
 title: "Ren Jiajia"
 description: "Ren Jiajia is a Senior Biochar researcher. With 18 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.791344
+date: 2026-08-11T01:33:11.702752
 url: "/cdr-researcher-census/researchers/ren-jiajia-a5014157/"
 layout: "researcher"
 hiddenInHomeList: true

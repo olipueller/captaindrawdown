@@ -1,7 +1,7 @@
 ---
 title: "Afeng Zhang"
 description: "Afeng Zhang is a Senior Soil Carbon researcher at Ministry of Agriculture in BW. With 68 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.110430
+date: 2026-08-11T01:33:11.089928
 url: "/cdr-researcher-census/researchers/afeng-zhang-a5030253/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    71 citations · Biochar
 
 2. **Optimizing Management Practices under Straw Regimes for Global Sustainable Agricultural Production** (2023)
-   27 citations · General CDR
+   28 citations · General CDR
 
 3. **Carbon and nitrogen footprints of apple orchards in China's Loess Plateau under different fertilization regimes** (2023)
    25 citations · Soil Carbon
 
 4. **Optimization of tillage rotation and fertilization increased the soil organic carbon pool and crop yield in a semiarid region** (2021)
-   22 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 5. **Managing trade-offs among yield, carbon, and nitrogen footprints of wheat-maize cropping system under straw mulching and N fertilizer application in China's Loess Plateau** (2025)
    18 citations · Soil Carbon

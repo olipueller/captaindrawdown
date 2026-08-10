@@ -1,7 +1,7 @@
 ---
 title: "Wei Zhang"
 description: "Wei Zhang is an Eminent Soil Carbon researcher at Shihezi University in CN. With 295 publications and an h-index of 44, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.101775
+date: 2026-08-11T01:33:11.081938
 url: "/cdr-researcher-census/researchers/wei-zhang-a5100682/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -65,11 +65,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 5. **Optimizing Carbon Sequestration in Forest Management Plans Using Advanced Algorithms: A Case Study of Greater Khingan Mountains** (2023)
    13 citations · General CDR
 
-6. **Dynamics of SOC density and driving factors during the restoration of artificial grassland and abandoned farmland in Mu Us Desert, China** (2023)
+6. **Macroaggregate is crucial in soil carbon and nitrogen accumulation under different vegetation types in the Loess Plateau, China** (2024)
    12 citations · Soil Carbon
 
-7. **Macroaggregate is crucial in soil carbon and nitrogen accumulation under different vegetation types in the Loess Plateau, China** (2024)
-   11 citations · Soil Carbon
+7. **Dynamics of SOC density and driving factors during the restoration of artificial grassland and abandoned farmland in Mu Us Desert, China** (2023)
+   12 citations · Soil Carbon
 
 8. **Nature–based nutrient management through returning agricultural organic waste enhances soil aggregate organic carbon stability** (2025)
    9 citations · Soil Carbon

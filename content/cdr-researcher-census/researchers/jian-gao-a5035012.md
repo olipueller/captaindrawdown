@@ -1,7 +1,7 @@
 ---
 title: "Jian Gao"
 description: "Jian Gao is an Early-career Biochar researcher at Shenyang Agricultural University in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.511200
+date: 2026-08-11T01:33:12.363772
 url: "/cdr-researcher-census/researchers/jian-gao-a5035012/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Responses of microbial necromass carbon and microbial community structure to straw- and straw-derived biochar in brown earth soil of Northeast China** (2022)
-   48 citations · Biochar
+   51 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Sina Schorn"
 description: "Sina Schorn is a Mid-career Soil Carbon researcher at Max Planck Institute for Marine Microbiology in DE. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.634136
+date: 2026-08-11T01:33:11.560899
 url: "/cdr-researcher-census/researchers/sina-schorn-a5048213/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Sugars dominate the seagrass rhizosphere** (2022)
-   91 citations · Soil Carbon
+   94 citations · Soil Carbon
 
 ## External Profiles
 

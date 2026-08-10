@@ -1,7 +1,7 @@
 ---
 title: "Curran Crawford"
 description: "Curran Crawford is a Senior General CDR researcher at University of Victoria in CA. With 222 publications and an h-index of 39, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.111622
+date: 2026-08-11T01:33:11.091067
 url: "/cdr-researcher-census/researchers/curran-crawford-a5010570/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Review of ammonia production and utilization: Enabling clean energy transition and net-zero climate targets** (2024)
-   233 citations · General CDR
+   242 citations · General CDR
 
 2. **Offshore wind energy prospects for power-to-direct air capture and power-to-gas** (2023)
    22 citations · DAC
@@ -63,12 +63,12 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    13 citations · DAC
 
 5. **Storage capacity estimates and site conditions of potential locations for offshore-wind powered carbon dioxide removal and carbon sequestration in ocean basalt** (2024)
-   7 citations · Enhanced Weathering
+   8 citations · Enhanced Weathering
 
-6. **Dynamic analysis of a floating wind turbine platform with on-board CO2 direct air capture** (2024)
-   7 citations
+6. **Ambient wind conditions impact on energy requirements of an offshore direct air capture plant** (2024)
+   8 citations
 
-7. **Ambient wind conditions impact on energy requirements of an offshore direct air capture plant** (2024)
+7. **Dynamic analysis of a floating wind turbine platform with on-board CO2 direct air capture** (2024)
    7 citations
 
 8. **Scaling considerations and optimal control for an offshore wind powered direct air capture system** (2024)

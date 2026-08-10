@@ -1,7 +1,7 @@
 ---
 title: "F. Hafna Ahmed"
 description: "F. Hafna Ahmed is a Mid-career General CDR researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 31 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.479334
+date: 2026-08-11T01:33:11.422932
 url: "/cdr-researcher-census/researchers/f-hafna-ahmed-a5088896/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Harnessing the biomolecular mechanisms of marine biomineralisation for carbon sequestration** (2025)
-   6 citations · General CDR
+   7 citations · General CDR
 
 2. **Thrombolites as a potential nature-based solution for carbon dioxide removal** (2026)
    0 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Carla L. Abán"
 description: "Carla L. Abán is a Mid-career Soil Carbon researcher at National University of Salta in AR. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.495574
+date: 2026-08-11T01:33:12.348834
 url: "/cdr-researcher-census/researchers/carla-l-aban-a5066564/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Restoration of degraded soils with perennial pastures shifts soil microbial communities and enhances soil structure** (2025)
-   14 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 2. **Short-term service crops affect the spatial organization of soil aggregates, microbial C N biomass, and microbial activities in a degraded monoculture system** (2024)
    8 citations · Soil Carbon

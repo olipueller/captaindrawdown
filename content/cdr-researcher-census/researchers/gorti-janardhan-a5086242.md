@@ -1,7 +1,7 @@
 ---
 title: "Gorti Janardhan"
 description: "Gorti Janardhan is an Early-career Biochar researcher. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.965643
+date: 2026-08-11T01:33:11.845249
 url: "/cdr-researcher-census/researchers/gorti-janardhan-a5086242/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Production and modifications of biochar to engineered materials and its application for environmental sustainability: a review** (2024)
-   160 citations · Biochar
+   172 citations · Biochar
 
 ## External Profiles
 

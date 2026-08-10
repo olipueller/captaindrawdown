@@ -1,7 +1,7 @@
 ---
 title: "Emilio J. González-Sánchez"
 description: "Emilio J. González-Sánchez is a Mid-career Soil Carbon researcher at Universidad de Córdoba in ES. With 51 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.265707
+date: 2026-08-11T01:33:11.234780
 url: "/cdr-researcher-census/researchers/emilio-j-gonzalez-sanchez-a5000103/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Global Trends in Conservation Agriculture and Climate Change Research: A Bibliometric Analysis** (2025)
-   10 citations · General CDR
+   11 citations · General CDR
 
 2. **Carbon Sequestration Through Groundcovers and Pruning Residues in Sustainable Olive Orchards Under Different Edaphoclimatic Conditions** (2024)
    3 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Xuehong Ma"
 description: "Xuehong Ma is a Mid-career Soil Carbon researcher at University of Copenhagen in DK. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.709705
+date: 2026-08-11T01:33:11.628678
 url: "/cdr-researcher-census/researchers/xuehong-ma-a5086465/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Structural diversity enhances the temporal effects of thinning on carbon storage in pine-oak mixed forests** (2025)
-   5 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 2. **Resilience mechanisms in soil organic carbon storage after pre-commercial thinning in mixed oak-pine forests** (2026)
    0 citations · Soil Carbon

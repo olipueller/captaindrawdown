@@ -1,7 +1,7 @@
 ---
 title: "Zongrui Lai"
 description: "Zongrui Lai is a Senior Soil Carbon researcher at Guangxi University in CN. With 40 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.416076
+date: 2026-08-11T01:33:11.369335
 url: "/cdr-researcher-census/researchers/zongrui-lai-a5044811/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil Microbes Transform Inorganic Carbon Into Organic Carbon by Dark Fixation Pathways in Desert Soil** (2021)
-   30 citations · Soil Carbon
+   31 citations · Soil Carbon
 
 2. **The contributions of dark microbial CO2 fixation to soil organic carbon along a tropical secondary forest chronosequence on Hainan Island, China** (2024)
    8 citations · Soil Carbon

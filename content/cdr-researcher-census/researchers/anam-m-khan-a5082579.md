@@ -1,7 +1,7 @@
 ---
 title: "Anam M. Khan"
 description: "Anam M. Khan is a Mid-career Soil Carbon researcher at Aga Khan University Hospital in PK. With 30 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.179741
+date: 2026-08-11T01:33:12.064477
 url: "/cdr-researcher-census/researchers/anam-m-khan-a5082579/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Coupling Remote Sensing With a Process Model for the Simulation of Rangeland Carbon Dynamics** (2025)
-   3 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 2. **Coupling Remote Sensing with a Process Model for the Simulation of Rangeland Carbon Dynamics** (2024)
    2 citations · Soil Carbon

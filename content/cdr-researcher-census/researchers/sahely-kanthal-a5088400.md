@@ -1,7 +1,7 @@
 ---
 title: "Sahely Kanthal"
 description: "Sahely Kanthal is a Mid-career Soil Carbon researcher. With 35 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.142185
+date: 2026-08-11T01:33:12.030920
 url: "/cdr-researcher-census/researchers/sahely-kanthal-a5088400/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,6 +50,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 2. **Rehabilitating fragile ecosystems through agroforestry in red and lateritic soils: A multi-criteria systems perspective** (2025)
    1 citations · Soil Carbon
+
+3. **Adoption of conservation agriculture in Africa: impact on crop yields** (2023)
+   0 citations
 
 ## External Profiles
 

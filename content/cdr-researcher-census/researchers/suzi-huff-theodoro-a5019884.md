@@ -1,7 +1,7 @@
 ---
 title: "Suzi Huff Theodoro"
 description: "Suzi Huff Theodoro is a Senior Enhanced Weathering researcher at Conselho Nacional de Desenvolvimento Científico e Tecnológico in BR. With 52 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-12T12:07:29.489535
+date: 2026-08-11T01:33:11.422815
 url: "/cdr-researcher-census/researchers/suzi-huff-theodoro-a5019884/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    101 citations · Enhanced Weathering
 
 2. **Crushed Volcanic Rock as Soil Remineralizer: A Strategy to Overcome the Global Fertilizer Crisis** (2022)
-   26 citations
+   27 citations
 
 3. **Rock Powder Enhances Soil Nutrition and Coffee Quality in Agroforestry Systems** (2023)
    13 citations · Enhanced Weathering

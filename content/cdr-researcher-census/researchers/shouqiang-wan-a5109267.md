@@ -1,7 +1,7 @@
 ---
 title: "Shouqiang Wan"
 description: "Shouqiang Wan is a Mid-career Biochar researcher at Tianjin University of Technology in CN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.357365
+date: 2026-08-11T01:33:12.221281
 url: "/cdr-researcher-census/researchers/shouqiang-wan-a5109267/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Microwave catalytic co-pyrolysis of Chlorella vulgaris and polystyrene: Characteristics, pyrolysis oil component and mechanism analysis** (2025)
-   6 citations · Biochar
+   7 citations · Biochar
 
 ## External Profiles
 

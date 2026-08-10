@@ -1,7 +1,7 @@
 ---
 title: "Laurine D. W. Burdorf"
 description: "Laurine D. W. Burdorf is a Mid-career Enhanced Weathering researcher at University of Antwerp in BE. With 35 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.338096
+date: 2026-08-11T01:33:11.301462
 url: "/cdr-researcher-census/researchers/laurine-d-w-burdorf-a5074568/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yulin Pu"
 description: "Yulin Pu is a Senior Soil Carbon researcher at College of Resources of Sichuan Agricultural University in CN. With 80 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.253834
+date: 2026-08-11T01:33:11.224050
 url: "/cdr-researcher-census/researchers/yulin-pu-a5101190/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Distribution and functional groups of soil aggregate-associated organic carbon along a marsh degradation gradient on the Zoige Plateau, China** (2021)
-   33 citations · Soil Carbon
+   34 citations · Soil Carbon
 
 2. **Two novel and efficient plant composites for the degradation of oxytetracycline: nanoscale ferrous sulphide supported on rape straw waste** (2022)
    10 citations · Biochar

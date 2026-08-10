@@ -1,7 +1,7 @@
 ---
 title: "Niklas von der Aßen"
 description: "Niklas von der Aßen is a Senior General CDR researcher at RWTH Aachen University in DE. With 109 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.172847
+date: 2026-08-11T01:33:11.148562
 url: "/cdr-researcher-census/researchers/niklas-von-der-aen-a5054263/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Environmental process optimisation of an adsorption-based direct air carbon capture and storage system** (2024)
-   42 citations · DAC
+   43 citations · DAC
 
 2. **A method for siting adsorption-based direct air carbon capture and storage plants for maximum CO2 removal** (2024)
    21 citations · DAC
 
 3. **Low-cost negative emissions by demand-side management for adsorption-based direct air carbon capture and storage** (2025)
-   17 citations · DAC
+   20 citations · DAC
 
 4. **Eliciting laypeople's mental models and risk perceptions of direct air carbon capture and storage: Implications for effective risk communication** (2024)
    16 citations · DAC
@@ -71,14 +71,14 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 7. **A decomposition method for optimizing the operation of power-to-X energy systems with detailed process models** (2025)
    1 citations · General CDR
 
-8. **Enhancing DACCS Flexibility: Evaluating Hardware Modifications for Cost-Effective Carbon Dioxide Removal** (2026)
+8. **Dataset for the Article: "A decomposition method for optimizing the operation of power-to-X energy systems with detailed process models"** (2026)
    0 citations · DAC
 
-9. **Control Strategies to Optimize Adsorption-Based Direct Air Capture under Varying Weather Conditions** (2025)
+9. **Enhancing DACCS Flexibility: Evaluating Hardware Modifications for Cost-Effective Carbon Dioxide Removal** (2026)
    0 citations · DAC
 
-10. **Control Strategies to Optimize Adsorption-Based Direct Air Capture Under Varying Weather Conditions** (2025)
-   0 citations
+10. **Control Strategies to Optimize Adsorption-Based Direct Air Capture under Varying Weather Conditions** (2025)
+   0 citations · DAC
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Morgan R. Edwards"
 description: "Morgan R. Edwards is a Mid-career General CDR researcher at University of Wisconsin–Madison in US. With 64 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.289751
+date: 2026-08-11T01:33:11.257575
 url: "/cdr-researcher-census/researchers/morgan-r-edwards-a5113308/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Modeling direct air carbon capture and storage in a 1.5 °C climate future using historical analogs** (2024)
-   38 citations · DAC
+   40 citations · DAC
 
 2. **Risks of relying on uncertain carbon dioxide removal in climate policy** (2025)
-   9 citations · General CDR
+   12 citations · General CDR
 
 3. **Residual emissions may perpetuate community-scale inequalities in US air pollution** (2026)
    0 citations · General CDR

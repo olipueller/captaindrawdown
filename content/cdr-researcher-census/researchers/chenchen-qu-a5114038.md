@@ -1,7 +1,7 @@
 ---
 title: "Chenchen Qu"
 description: "Chenchen Qu is a Senior Soil Carbon researcher at Huazhong Agricultural University in CN. With 63 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.244245
+date: 2026-08-11T01:33:11.215540
 url: "/cdr-researcher-census/researchers/chenchen-qu-a5114038/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Organo–organic interactions dominantly drive soil organic carbon accrual** (2024)
-   95 citations · Soil Carbon
+   98 citations · Soil Carbon
 
 2. **Porous Fe-doped graphitized biochar: An innovative approach for co-removing per-/polyfluoroalkyl substances with different chain lengths from natural waters and wastewater** (2023)
-   64 citations · Biochar
+   65 citations · Biochar
 
 3. **Responses of various organic carbon pools to elevated temperatures in soils** (2024)
    6 citations · Soil Carbon

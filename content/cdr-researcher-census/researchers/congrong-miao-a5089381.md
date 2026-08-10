@@ -1,7 +1,7 @@
 ---
 title: "Congrong Miao"
 description: "Congrong Miao is a Senior Soil Carbon researcher at Nanjing Agricultural University in CN. With 37 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.195606
+date: 2026-08-11T01:33:11.169886
 url: "/cdr-researcher-census/researchers/congrong-miao-a5089381/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    39 citations · Soil Carbon
 
 2. **Long-term straw return increases fungal residual contribution to soil microaggregate nitrogen pool: An eco-enzymatic stoichiometric study** (2024)
-   14 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 3. **Long-term fertilizer postponing increases soil carbon sequestration by changing microbial composition in paddy soils: A 13CO2 labelling and PLFA study** (2023)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 ## External Profiles
 

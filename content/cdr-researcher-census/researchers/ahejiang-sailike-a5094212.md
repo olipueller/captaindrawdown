@@ -1,7 +1,7 @@
 ---
 title: "Ahejiang Sailike"
 description: "Ahejiang Sailike is a Mid-career Soil Carbon researcher at Northwest A&F University in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.460293
+date: 2026-08-11T01:33:12.316758
 url: "/cdr-researcher-census/researchers/ahejiang-sailike-a5094212/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    21 citations · Soil Carbon
 
 2. **Macroaggregate is crucial in soil carbon and nitrogen accumulation under different vegetation types in the Loess Plateau, China** (2024)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 3. **Residue carbon and C-degradation gene indicated the increase of soil organic carbon following vegetation restoration on the Loess Plateau, China** (2025)
    2 citations · Soil Carbon

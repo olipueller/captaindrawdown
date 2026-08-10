@@ -1,7 +1,7 @@
 ---
 title: "B. Srinivasarao Naik"
 description: "B. Srinivasarao Naik is a Mid-career Biochar researcher. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.721039
+date: 2026-08-11T01:33:11.639092
 url: "/cdr-researcher-census/researchers/b-srinivasarao-naik-a5031318/"
 layout: "researcher"
 hiddenInHomeList: true

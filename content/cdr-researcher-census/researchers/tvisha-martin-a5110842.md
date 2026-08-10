@@ -1,7 +1,7 @@
 ---
 title: "Tvisha Martin"
 description: "Tvisha Martin is a Mid-career Soil Carbon researcher at Michigan State University in US. With 24 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.663038
+date: 2026-08-11T01:33:11.587318
 url: "/cdr-researcher-census/researchers/tvisha-martin-a5110842/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    30 citations · Soil Carbon
 
 2. **Nematodes require space: The relationship between nematode community assemblage and soil carbon across varying aggregate fractions** (2023)
-   17 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 3. **Nematodes Require Space: The Relationship between Nematode Community Assemblage and Soil Carbon Across Varying Aggregate Sizes** (2023)
    0 citations · Soil Carbon

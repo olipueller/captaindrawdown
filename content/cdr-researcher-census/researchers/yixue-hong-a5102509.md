@@ -1,7 +1,7 @@
 ---
 title: "Yixue Hong"
 description: "Yixue Hong is a Mid-career Soil Carbon researcher at Sun Yat-sen University in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.034842
+date: 2026-08-11T01:33:11.910021
 url: "/cdr-researcher-census/researchers/yixue-hong-a5102509/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Meta-analysis shows that planting nitrogen-fixing species increases soil organic carbon stock** (2025)
-   6 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 2. **Divergent responses of soil and microbial stoichiometry to plant detritus reduction across global forests** (2025)
    1 citations · Soil Carbon

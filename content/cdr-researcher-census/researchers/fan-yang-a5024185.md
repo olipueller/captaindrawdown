@@ -1,7 +1,7 @@
 ---
 title: "Fan Yang"
 description: "Fan Yang is a Senior Biochar researcher at University of Shanghai for Science and Technology in CN. With 91 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.149904
+date: 2026-08-11T01:33:11.126977
 url: "/cdr-researcher-census/researchers/fan-yang-a5024185/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Pyrolysis temperature-dependent carbon retention and stability of biochar with participation of calcium: Implications to carbon sequestration** (2021)
-   134 citations · Biochar
+   135 citations · Biochar
 
 2. **Stabilization of dissolvable biochar by soil minerals: Release reduction and organo-mineral complexes formation** (2021)
-   79 citations · Biochar
+   81 citations · Biochar
 
 3. **Minerals: A missing role for enhanced biochar carbon sequestration from the thermal conversion of biomass to the application in soil** (2022)
    50 citations · Biochar
 
 4. **Roles of iron and manganese in bimetallic biochar composites for efficient persulfate activation and atrazine removal** (2024)
-   40 citations · Biochar
+   41 citations · Biochar
 
 5. **New Insights into the Enhancement Effect of Exogenous Calcium on Biochar Stability during Its Aging in Farmland Soil** (2023)
    4 citations

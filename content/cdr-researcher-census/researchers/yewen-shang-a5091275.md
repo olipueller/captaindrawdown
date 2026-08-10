@@ -1,7 +1,7 @@
 ---
 title: "Yewen Shang"
 description: "Yewen Shang is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.402405
+date: 2026-08-11T01:33:12.262737
 url: "/cdr-researcher-census/researchers/yewen-shang-a5091275/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Co-hydrothermal carbonization of waste biomass and phosphate rock: promoted carbon sequestration and enhanced phosphorus bioavailability** (2024)
-   32 citations · Biochar
+   33 citations · Biochar
 
 ## External Profiles
 

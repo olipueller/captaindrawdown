@@ -1,7 +1,7 @@
 ---
 title: "Xiaoning Zhao"
 description: "Xiaoning Zhao is a Senior Soil Carbon researcher at Shaanxi University of Technology in CN. With 82 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.248824
+date: 2026-08-11T01:33:11.219761
 url: "/cdr-researcher-census/researchers/xiaoning-zhao-a5086242/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,22 +50,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Analysis of the consequences of land-use changes and soil types on organic carbon storage in the Tarim River Basin from 2000 to 2020** (2021)
-   49 citations · Soil Carbon
+1. **Soil Chemical Properties Depending on Fertilization and Management in China: A Meta-Analysis** (2022)
+   50 citations · Soil Carbon
 
-2. **Soil Chemical Properties Depending on Fertilization and Management in China: A Meta-Analysis** (2022)
-   48 citations · Soil Carbon
+2. **Analysis of the consequences of land-use changes and soil types on organic carbon storage in the Tarim River Basin from 2000 to 2020** (2021)
+   50 citations · Soil Carbon
 
 3. **Biochar application reduced carbon footprint of maize production in the saline−alkali soils** (2024)
-   32 citations · Biochar
+   33 citations · Biochar
 
 4. **Responses of soil organic carbon mineralization and its temperature sensitivity to re-vegetation in the agro-pastoral ecotone of northern China** (2021)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 5. **Renaturation on the Loess Plateau: significant increase in soil organic carbon under different soil types over two decades** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
-6. **Soil-type-dependent changes in topsoil organic carbon storage of cultivated lands in China** (2026)
+6. **Biochar saved over half of water and nitrogen compared to conventional management by improving soil structure and organic carbon** (2026)
+   0 citations · Biochar
+
+7. **Soil-type-dependent changes in topsoil organic carbon storage of cultivated lands in China** (2026)
    0 citations
 
 ## External Profiles

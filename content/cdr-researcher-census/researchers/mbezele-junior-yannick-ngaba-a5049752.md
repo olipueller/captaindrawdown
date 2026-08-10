@@ -1,7 +1,7 @@
 ---
 title: "Mbezele Junior Yannick Ngaba"
 description: "Mbezele Junior Yannick Ngaba is a Mid-career Soil Carbon researcher at Southwest University in CN. With 54 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.636296
+date: 2026-08-11T01:33:11.563058
 url: "/cdr-researcher-census/researchers/mbezele-junior-yannick-ngaba-a5049752/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Meta-analysis unveils differential effects of agroforestry on soil properties in different zonobiomes** (2023)
-   67 citations
+   73 citations
 
 2. **Meta-analysis of 21st century studies shows that deforestation induces profound changes in soil characteristics, particularly soil organic carbon accumulation** (2024)
-   41 citations · Soil Carbon
+   42 citations · Soil Carbon
 
 3. **Low-level nitrogen and short-term addition increase soil carbon sequestration in Chinese forest ecosystems** (2022)
    21 citations
 
 4. **Biochar application as a green clean-up method: bibliometric analysis of current trends and future perspectives** (2025)
-   11 citations · Biochar
+   15 citations · Biochar
 
 5. **Patterns and controlling factors of soil carbon sequestration in nitrogen-limited and -rich forests in China—a meta-analysis** (2023)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 6. **Ecological restoration stimulates environmental outcomes but exacerbates water shortage in the Loess Plateau** (2022)
    7 citations

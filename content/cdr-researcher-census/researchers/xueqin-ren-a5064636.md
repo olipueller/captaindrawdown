@@ -1,7 +1,7 @@
 ---
 title: "Xueqin Ren"
 description: "Xueqin Ren is a Senior Soil Carbon researcher at China Agricultural University in CN. With 130 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.146649
+date: 2026-08-11T01:33:11.124168
 url: "/cdr-researcher-census/researchers/xueqin-ren-a5064636/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    62 citations · Soil Carbon
 
 2. **Long-term rice cultivation increases contributions of plant and microbial-derived carbon to soil organic carbon in saline-sodic soils** (2023)
-   52 citations · Soil Carbon
+   53 citations · Soil Carbon
 
 3. **The accumulation of plant- and microbial-derived carbon and its contribution to soil organic carbon in reclaimed saline-sodic farmland** (2024)
    19 citations · Soil Carbon
@@ -66,7 +66,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    11 citations · Soil Carbon
 
 6. **Amendment of saline-alkali soils promotes the formation and stability of iron-bound organic carbon** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 7. **Enhancement of the Formation and Stability of Iron-Bound Organic Carbon in Saline-alkali soils through Soil Improvement and Its Potential Mechanisms** (2025)
    0 citations · Soil Carbon

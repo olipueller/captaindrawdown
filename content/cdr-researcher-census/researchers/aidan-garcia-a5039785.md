@@ -1,7 +1,7 @@
 ---
 title: "Aidan Garcia"
 description: "Aidan Garcia is a Mid-career Biochar researcher at Washington State University in US. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.388730
+date: 2026-08-11T01:33:12.250553
 url: "/cdr-researcher-census/researchers/aidan-garcia-a5039785/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Novel Amorphous Carbons for the Adsorption of Phosphate: Part I. Elucidation of Chemical Structure of N-Metal-Doped Chars** (2022)
-   9 citations · Biochar
+   11 citations · Biochar
 
 ## External Profiles
 

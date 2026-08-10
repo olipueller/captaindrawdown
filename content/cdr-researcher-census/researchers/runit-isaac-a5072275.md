@@ -1,7 +1,7 @@
 ---
 title: "Runit Isaac"
 description: "Runit Isaac is a Mid-career Biochar researcher at Sam Higginbottom Institute of Agriculture in IN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.170404
+date: 2026-08-11T01:33:12.056440
 url: "/cdr-researcher-census/researchers/runit-isaac-a5072275/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Sequestration of Ni(II) and Cu(II) using FeSO4 modified Zea mays husk magnetic biochar: Isotherm, kinetics, thermodynamic studies and RSM** (2022)
-   30 citations · Biochar
+   32 citations · Biochar
 
 ## External Profiles
 

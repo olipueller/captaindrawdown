@@ -1,7 +1,7 @@
 ---
 title: "Ronghua Kang"
 description: "Ronghua Kang is a Mid-career Enhanced Weathering researcher at Institute of Applied Ecology Chinese Academy of Sciences in CN. With 64 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.508470
+date: 2026-08-11T01:33:11.448165
 url: "/cdr-researcher-census/researchers/ronghua-kang-a5032068/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,24 +54,27 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    14 citations · Enhanced Weathering
 
 2. **CO2 removal with enhanced wollastonite weathering in acidic and calcareous soils** (2024)
-   8 citations · Enhanced Weathering
+   9 citations · Enhanced Weathering
 
-3. **Wollastonite improves soybean yield without toxic trace elements enrichment** (2025)
+3. **Climate warming reduces soil gaseous nitrogen losses in a temperate forest** (2025)
+   2 citations
+
+4. **Carbon sequestration induced by enhanced silicate rock weathering in a temperate larch plantation in Northeastern China** (2025)
    2 citations · Enhanced Weathering
 
-4. **Drivers of Deposited Nitrogen Retention and Its Contribution to Carbon Sequestration in Chinese Forests** (2026)
+5. **Wollastonite improves soybean yield without toxic trace elements enrichment** (2025)
+   2 citations · Enhanced Weathering
+
+6. **Drivers of Deposited Nitrogen Retention and Its Contribution to Carbon Sequestration in Chinese Forests** (2026)
    1 citations · Soil Carbon
 
-5. **Climate warming reduces soil gaseous nitrogen losses in a temperate forest** (2025)
-   1 citations
+7. **OverlookedSoil Acidity Leads to Significant Overestimationof Carbon Sequestration in Enhanced Rock Weathering** (2026)
+   0 citations · Enhanced Weathering
 
-6. **Carbon sequestration induced by enhanced silicate rock weathering in a temperate larch plantation in Northeastern China** (2025)
-   1 citations · Enhanced Weathering
-
-7. **Data from: Drivers of deposited nitrogen retention and its contribution to carbon sequestration in Chinese forests** (2026)
+8. **Data from: Drivers of deposited nitrogen retention and its contribution to carbon sequestration in Chinese forests** (2026)
    0 citations
 
-8. **Wollastonite enhances microbial diversity and ecological network stability** (2026)
+9. **Wollastonite enhances microbial diversity and ecological network stability** (2026)
    0 citations · Enhanced Weathering
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Mingxing Zhou"
 description: "Mingxing Zhou is a Mid-career Soil Carbon researcher at Fujian Normal University in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.544166
+date: 2026-08-11T01:33:12.394292
 url: "/cdr-researcher-census/researchers/mingxing-zhou-a5087636/"
 layout: "researcher"
 hiddenInHomeList: true

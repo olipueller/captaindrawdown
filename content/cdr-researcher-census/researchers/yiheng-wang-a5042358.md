@@ -1,7 +1,7 @@
 ---
 title: "Yiheng Wang"
 description: "Yiheng Wang is an Early-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.354717
+date: 2026-08-11T01:33:12.218734
 url: "/cdr-researcher-census/researchers/yiheng-wang-a5042358/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Plant height as an indicator for alpine carbon sequestration and ecosystem response to warming** (2024)
-   82 citations · Soil Carbon
+   83 citations · Soil Carbon
 
 ## External Profiles
 

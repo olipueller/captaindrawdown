@@ -1,7 +1,7 @@
 ---
 title: "Mthembeni Mngadi"
 description: "Mthembeni Mngadi is a Mid-career Soil Carbon researcher at University of KwaZulu-Natal in ZA. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.973779
+date: 2026-08-11T01:33:11.852739
 url: "/cdr-researcher-census/researchers/mthembeni-mngadi-a5058100/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Evaluation of projected soil organic carbon stocks under future climate and land cover changes in South Africa using a deep learning approach** (2023)
-   28 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 2. **Remote sensing of depth-induced variations in soil organic carbon stocks distribution within different vegetated landscapes** (2024)
    18 citations · General CDR

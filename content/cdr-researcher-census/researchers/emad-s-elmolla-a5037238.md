@@ -1,7 +1,7 @@
 ---
 title: "Emad S. Elmolla"
 description: "Emad S. Elmolla is a Senior Biochar researcher at Al-Azhar University in EG. With 27 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.167397
+date: 2026-08-11T01:33:11.143609
 url: "/cdr-researcher-census/researchers/emad-s-elmolla-a5037238/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **ARUNDO DONAX BASED- BIOCHAR AS A SUSTAINABLE ADSORBENT FOR NATURAL ORGANIC MATTER REMOVAL FROM SURFACE WATER** (2024)
-   0 citations · Biochar
+   1 citations · Biochar
 
 2. **Harnessing different pre-treatment for production of Arundo Donax based Biochar for removal of humic acid from surface water, to meet the sustainable development goals** (2024)
    0 citations · Biochar

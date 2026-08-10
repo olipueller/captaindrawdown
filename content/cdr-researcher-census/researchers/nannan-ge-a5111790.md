@@ -1,7 +1,7 @@
 ---
 title: "Nannan Ge"
 description: "Nannan Ge is a Senior Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.661393
+date: 2026-08-11T01:33:11.585624
 url: "/cdr-researcher-census/researchers/nannan-ge-a5111790/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term afforestation accelerated soil organic carbon accumulation but decreased its mineralization loss and temperature sensitivity in the bulk soils and aggregates** (2021)
-   28 citations · Soil Carbon
+   29 citations · Soil Carbon
 
 2. **Responses of soil organic carbon mineralization and its temperature sensitivity to re-vegetation in the agro-pastoral ecotone of northern China** (2021)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 3. **Temporal dynamics and environmental controls of carbon and nitrogen stabilization in soil aggregates during afforestation on the Loess Plateau** (2025)
    7 citations · Soil Carbon

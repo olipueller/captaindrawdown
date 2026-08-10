@@ -1,7 +1,7 @@
 ---
 title: "Tania Timmermann"
 description: "Tania Timmermann is a Senior Enhanced Weathering researcher. With 22 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.308385
+date: 2026-08-11T01:33:11.275306
 url: "/cdr-researcher-census/researchers/tania-timmermann-a5054841/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Harnessing Microbes to Weather Native Silicates in Agricultural Soils for Scalable Carbon Dioxide Removal** (2025)
-   13 citations · Enhanced Weathering
+   14 citations · Enhanced Weathering
 
 2. **Quantification of soil inorganic carbon using sulfamic acid and gas chromatography** (2025)
    3 citations · General CDR

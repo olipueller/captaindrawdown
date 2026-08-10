@@ -1,7 +1,7 @@
 ---
 title: "Bhupendra Mathpal"
 description: "Bhupendra Mathpal is a Mid-career Biochar researcher at Lovely Professional University in IN. With 25 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.094536
+date: 2026-08-11T01:33:11.986542
 url: "/cdr-researcher-census/researchers/bhupendra-mathpal-a5087849/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "E.A. Owusu"
 description: "E.A. Owusu is a Senior Enhanced Weathering researcher at New Mexico Institute of Mining and Technology in US. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.396987
+date: 2026-08-11T01:33:12.258230
 url: "/cdr-researcher-census/researchers/ea-owusu-a5059771/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Carbon Mineralization in Basaltic Rocks: Mechanisms, Applications, and Prospects for Permanent CO2 Sequestration** (2025)
-   15 citations · Enhanced Weathering
+   18 citations · Enhanced Weathering
 
 ## External Profiles
 

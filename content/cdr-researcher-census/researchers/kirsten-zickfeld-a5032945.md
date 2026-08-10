@@ -1,7 +1,7 @@
 ---
 title: "Kirsten Zickfeld"
 description: "Kirsten Zickfeld is an Eminent General CDR researcher at Simon Fraser University in CA. With 195 publications and an h-index of 47, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.096045
+date: 2026-08-11T01:33:11.076364
 url: "/cdr-researcher-census/researchers/kirsten-zickfeld-a5032945/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,10 +57,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    89 citations · General CDR
 
 3. **Geological Net Zero and the need for disaggregated accounting for carbon sinks** (2024)
-   80 citations · General CDR
+   83 citations · General CDR
 
 4. **Ten new insights in climate science 2023** (2023)
-   42 citations · General CDR
+   45 citations · General CDR
 
 5. **Temporary Nature-based Carbon Removal Can Lower Peak Warming in a Well-below 2°C Scenario** (2021)
    15 citations · General CDR
@@ -71,14 +71,14 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 7. **Quantifying land carbon cycle feedbacks under negative CO <sub>2</sub> emissions** (2022)
    5 citations
 
-8. **Temporary nature-based carbon removal can lower peak warming in a well-below 2&amp;#176;C scenario** (2022)
+8. **Asymmetry in carbon cycle feedbacks and transient climate response under positive and negative CO <sub>2</sub> emissions** (2026)
    1 citations · General CDR
 
-9. **Temperature outcomes of enhanced rock weathering deployment scenarios constrained by soil albedo measurements** (2026)
-   0 citations · Enhanced Weathering
+9. **Temporary nature-based carbon removal can lower peak warming in a well-below 2&amp;#176;C scenario** (2022)
+   1 citations · General CDR
 
-10. **Non-CO2 effects of carbon dioxide removal methods influence temperature response in overshoot scenarios** (2026)
-   0 citations · DAC
+10. **Temperature outcomes of enhanced rock weathering deployment scenarios constrained by soil albedo measurements** (2026)
+   0 citations · Enhanced Weathering
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Cathy L. Thomas"
 description: "Cathy L. Thomas is a Senior Enhanced Weathering researcher at Rothamsted Research in GB. With 28 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.401105
+date: 2026-08-11T01:33:11.355717
 url: "/cdr-researcher-census/researchers/cathy-l-thomas-a5059122/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Impact of Basalt Rock Powder on Ryegrass Growth and Nutrition on Sandy and Loamy Acid Soils** (2025)
-   2 citations · Enhanced Weathering
+   3 citations · Enhanced Weathering
 
 2. **Opportunity Mapping for On-Farm Soil Carbon Sequestration at the Landscape Scale** (2026)
    0 citations · Soil Carbon

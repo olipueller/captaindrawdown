@@ -1,7 +1,7 @@
 ---
 title: "Dianfeng Liu"
 description: "Dianfeng Liu is a Senior General CDR researcher at Ministry of Natural Resources in CN. With 80 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.166481
+date: 2026-08-11T01:33:11.142735
 url: "/cdr-researcher-census/researchers/dianfeng-liu-a5016652/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Assessing spatial heterogeneous response of ecosystem service relationships to land use intensification** (2023)
-   14 citations · General CDR
+   15 citations · General CDR
 
 2. **Assessing Stable/Unstable Effects of Socio-economic Development and Climate Change on Ecosystem Service Interactions in the Hanshui River Basin, China** (2025)
    3 citations · General CDR

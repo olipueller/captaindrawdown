@@ -1,7 +1,7 @@
 ---
 title: "Yanju Gao"
 description: "Yanju Gao is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 41 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.389175
+date: 2026-08-11T01:33:11.345291
 url: "/cdr-researcher-census/researchers/yanju-gao-a5018707/"
 layout: "researcher"
 hiddenInHomeList: true

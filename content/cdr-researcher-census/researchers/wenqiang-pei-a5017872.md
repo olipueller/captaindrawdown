@@ -1,7 +1,7 @@
 ---
 title: "Wenqiang Pei"
 description: "Wenqiang Pei is a Mid-career Enhanced Weathering researcher. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.855559
+date: 2026-08-11T01:33:11.758476
 url: "/cdr-researcher-census/researchers/wenqiang-pei-a5017872/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,10 +43,10 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Evolution of silicate weathering in South China since 30 Ma: Controlling factors and global implications** (2023)
-   20 citations · Enhanced Weathering
+   21 citations · Enhanced Weathering
 
 2. **History of human activity in South China since 7 cal ka BP: Evidence from a sediment record in the South China Sea** (2024)
-   15 citations
+   18 citations
 
 3. **Global Cooling‐Driven Summer Monsoon Weakening in South China Across the Eocene‐Oligocene Transition** (2023)
    6 citations

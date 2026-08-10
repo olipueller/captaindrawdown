@@ -1,7 +1,7 @@
 ---
 title: "Vicky Lévesque"
 description: "Vicky Lévesque is a Mid-career Soil Carbon researcher at Agriculture and Agri-Food Canada in CA. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.686758
+date: 2026-08-11T01:33:11.608043
 url: "/cdr-researcher-census/researchers/vicky-levesque-a5053418/"
 layout: "researcher"
 hiddenInHomeList: true

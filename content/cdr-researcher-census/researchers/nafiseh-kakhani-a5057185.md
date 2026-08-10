@@ -1,7 +1,7 @@
 ---
 title: "Nafiseh Kakhani"
 description: "Nafiseh Kakhani is a Mid-career Soil Carbon researcher. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.461132
+date: 2026-08-11T01:33:12.317506
 url: "/cdr-researcher-census/researchers/nafiseh-kakhani-a5057185/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **SSL-SoilNet: A Hybrid Transformer-Based Framework With Self-Supervised Learning for Large-Scale Soil Organic Carbon Prediction** (2024)
-   24 citations
+   25 citations
 
 2. **SSL-SoilNet: A Hybrid Transformer-based Framework with Self-Supervised Learning for Large-scale Soil Organic Carbon Prediction** (2023)
    5 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Kun Cheng"
 description: "Kun Cheng is an Eminent Soil Carbon researcher at Nanjing Agricultural University in CN. With 143 publications and an h-index of 48, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.094548
+date: 2026-08-11T01:33:11.074981
 url: "/cdr-researcher-census/researchers/kun-cheng-a5025013/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,34 +51,34 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Improved ginseng production under continuous cropping through soil health reinforcement and rhizosphere microbial manipulation with biochar: a field study of<i>Panax ginseng</i>from Northeast China** (2022)
-   67 citations · Biochar
+   68 citations · Biochar
 
 2. **Pool complexity and molecular diversity shaped topsoil organic matter accumulation following decadal forest restoration in a karst terrain** (2022)
-   58 citations · Soil Carbon
+   60 citations · Soil Carbon
 
 3. **Long-term elevated CO2 and warming enhance microbial necromass carbon accumulation in a paddy soil** (2021)
-   53 citations
+   54 citations
 
 4. **Amendment of crop residue in different forms shifted micro-pore system structure and potential functionality of macroaggregates while changed their mass proportion and carbon storage of paddy topsoil** (2021)
-   46 citations · Soil Carbon
+   47 citations · Soil Carbon
 
-5. **Amendment of straw biochar increased molecular diversity and enhanced preservation of plant derived organic matter in extracted fractions of a rice paddy** (2021)
+5. **Green manure rotation and application increase rice yield and soil carbon in the Yangtze River valley of China** (2022)
+   25 citations · Soil Carbon
+
+6. **Sustainability assessment on paddy-upland crop rotations by carbon, nitrogen and water footprint integrated analysis: A field scale investigation** (2023)
+   24 citations · Soil Carbon
+
+7. **Amendment of straw biochar increased molecular diversity and enhanced preservation of plant derived organic matter in extracted fractions of a rice paddy** (2021)
    24 citations · Biochar
 
-6. **Green manure rotation and application increase rice yield and soil carbon in the Yangtze River valley of China** (2022)
-   23 citations · Soil Carbon
-
-7. **Sustainability assessment on paddy-upland crop rotations by carbon, nitrogen and water footprint integrated analysis: A field scale investigation** (2023)
-   21 citations · Soil Carbon
-
 8. **Interaction between dissolved organic carbon and fungal network governs carbon mineralization in paddy soil under co-incorporation of green manure and biochar** (2023)
-   18 citations · Biochar
+   19 citations · Biochar
 
 9. **Residence time of carbon in paddy soils** (2023)
    18 citations · Soil Carbon
 
 10. **Long-term organic-inorganic fertilization promoted the microbial necromass carbon accumulation in particulate and mineral-associated organic matter fractions in paddy soil** (2025)
-   14 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 ## External Profiles
 

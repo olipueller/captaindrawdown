@@ -1,7 +1,7 @@
 ---
 title: "P. R. Bhatnagar"
 description: "P. R. Bhatnagar is a Senior Soil Carbon researcher at Central Soil Salinity Research Institute in IN. With 39 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.732708
+date: 2026-08-11T01:33:11.649597
 url: "/cdr-researcher-census/researchers/p-r-bhatnagar-a5042032/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Agroforestry for controlling soil erosion and enhancing system productivity in ravine lands of Western India under climate change scenario** (2022)
-   92 citations · Soil Carbon
+   94 citations · Soil Carbon
 
 2. **Enhancing productivity and sustainability of ravine lands through horti-silviculture and soil moisture conservation: A pathway to land degradation neutrality** (2024)
    28 citations · Soil Carbon
 
 3. **Nature-based solutions for enhancing CO2 sequestration and rehabilitating degraded lands through silvo-aromatic system and soil moisture conservation techniques** (2025)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 4. **Nature Based Solutions: Carbon Sequestration by Standing Trees in Urban Parks and Gardens of Katni City in Madhya Pradesh, India** (2024)
    2 citations · Soil Carbon

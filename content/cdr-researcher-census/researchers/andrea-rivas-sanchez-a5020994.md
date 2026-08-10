@@ -1,7 +1,7 @@
 ---
 title: "Andrea Rivas-Sánchez"
 description: "Andrea Rivas-Sánchez is a Mid-career Biochar researcher at Tecnológico de Monterrey in MX. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.900403
+date: 2026-08-11T01:33:11.799853
 url: "/cdr-researcher-census/researchers/andrea-rivas-sanchez-a5020994/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Carbon-based materials: adsorptive removal of antibiotics from water** (2023)
-   17 citations · Biochar
+   18 citations · Biochar
 
 ## External Profiles
 

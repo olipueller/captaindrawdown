@@ -1,7 +1,7 @@
 ---
 title: "Hyungwoo Lim"
 description: "Hyungwoo Lim is a Mid-career Soil Carbon researcher at Swedish University of Agricultural Sciences in SE. With 59 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.490417
+date: 2026-08-11T01:33:11.432348
 url: "/cdr-researcher-census/researchers/hyungwoo-lim-a5055597/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    37 citations · Soil Carbon
 
 2. **Long-term nitrogen addition raises the annual carbon sink of a boreal forest to a new steady-state** (2022)
-   22 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 3. **No impact of nitrogen fertilization on carbon sequestration in a temperate Pinus densiflora forest** (2023)
    6 citations · Soil Carbon

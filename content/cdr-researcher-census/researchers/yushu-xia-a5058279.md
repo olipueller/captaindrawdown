@@ -1,7 +1,7 @@
 ---
 title: "Yushu Xia"
 description: "Yushu Xia is a Mid-career Soil Carbon researcher at Lamont-Doherty Earth Observatory in US. With 31 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.286272
+date: 2026-08-11T01:33:12.158514
 url: "/cdr-researcher-census/researchers/yushu-xia-a5058279/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,18 +51,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Coupling Remote Sensing With a Process Model for the Simulation of Rangeland Carbon Dynamics** (2025)
-   3 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 2. **Coupling Remote Sensing with a Process Model for the Simulation of Rangeland Carbon Dynamics** (2024)
    2 citations · Soil Carbon
 
-3. **Mid-Infrared spectroscopy for soil organic carbon estimation. Part I: Global review and meta-analysis** (2026)
+3. **Systematic review reveals soil organic carbon benefits of alternative grazing depend on study quality** (2026)
    0 citations
 
-4. **Large-Scale Soil Databases to Parameterize Modeling of Soil Organic Carbon Changes in U.S. Corn Production** (2024)
+4. **Mid-Infrared spectroscopy for soil organic carbon estimation. Part I: Global review and meta-analysis** (2026)
+   0 citations
+
+5. **Large-Scale Soil Databases to Parameterize Modeling of Soil Organic Carbon Changes in U.S. Corn Production** (2024)
    0 citations · Soil Carbon
 
-5. **Developing a Rangeland Carbon Tracking and Monitoring System Using Remote Sensing Imagery Coupled With a Modeling Approach** (2024)
+6. **Developing a Rangeland Carbon Tracking and Monitoring System Using Remote Sensing Imagery Coupled With a Modeling Approach** (2024)
    0 citations · Soil Carbon
 
 ## External Profiles

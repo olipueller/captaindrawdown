@@ -1,7 +1,7 @@
 ---
 title: "Piotr Bulak"
 description: "Piotr Bulak is a Mid-career Soil Carbon researcher at Institute of Agrophysics, Polish Academy of Sciences in PL. With 40 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.311455
+date: 2026-08-11T01:33:11.278049
 url: "/cdr-researcher-census/researchers/piotr-bulak-a5086522/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **How Can Litter Modify the Fluxes of CO2 and CH4 from Forest Soils? A Mini-Review** (2021)
-   27 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 2. **Variations in Soil Properties and CO2 Emissions of a Temperate Forest Gully Soil along a Topographical Gradient** (2021)
    9 citations · Soil Carbon

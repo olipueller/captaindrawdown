@@ -1,7 +1,7 @@
 ---
 title: "Neha Chausali"
 description: "Neha Chausali is an Early-career Biochar researcher. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.556044
+date: 2026-08-11T01:33:11.490299
 url: "/cdr-researcher-census/researchers/neha-chausali-a5048805/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Nanobiochar and biochar based nanocomposites: Advances and applications** (2021)
-   197 citations · Biochar
+   198 citations · Biochar
 
 ## External Profiles
 

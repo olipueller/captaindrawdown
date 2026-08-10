@@ -1,7 +1,7 @@
 ---
 title: "Miranda Boettcher"
 description: "Miranda Boettcher is a Mid-career General CDR researcher at Stiftung Wissenschaft und Politik Deutsches Institut für Internationale Politik und Sicherheit in DE. With 50 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.436893
+date: 2026-08-11T01:33:11.387429
 url: "/cdr-researcher-census/researchers/miranda-boettcher-a5061263/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,17 +50,17 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Top CDR Publications
 
-1. **Navigating Potential Hype and Opportunity in Governing Marine Carbon Removal** (2021)
-   65 citations · General CDR
+1. **A prudent planetary limit for geologic carbon storage** (2025)
+   70 citations · General CDR
 
-2. **A prudent planetary limit for geologic carbon storage** (2025)
-   64 citations · General CDR
+2. **Navigating Potential Hype and Opportunity in Governing Marine Carbon Removal** (2021)
+   65 citations · General CDR
 
 3. **Secure robust carbon dioxide removal policy through credible certification** (2023)
    34 citations · General CDR
 
 4. **The formative phase of German carbon dioxide removal policy: Positioning between precaution, pragmatism and innovation** (2023)
-   32 citations · General CDR
+   34 citations · General CDR
 
 5. **Novel carbon dioxide removals techniques must be integrated into the European Union’s climate policies** (2023)
    23 citations · General CDR

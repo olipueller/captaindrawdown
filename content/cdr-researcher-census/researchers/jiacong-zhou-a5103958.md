@@ -1,7 +1,7 @@
 ---
 title: "Jiacong Zhou"
 description: "Jiacong Zhou is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 40 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.748624
+date: 2026-08-11T01:33:11.663972
 url: "/cdr-researcher-census/researchers/jiacong-zhou-a5103958/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Contrasting effects of warming and N deposition on soil microbial functional genes in a subtropical forest** (2021)
-   16 citations
+   17 citations
 
 2. **Contrasting priming effect intensities and drivers in single and repeated glucose additions to a forest soil receiving long-term N fertilization** (2023)
    9 citations
 
 3. **Contrasting responses of particulate and mineral-associated organic carbon stocks to grazing exclusion in an alpine meadow** (2026)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 4. **Soil organic carbon storage from biochar addition falls over time: a perspective of shifts in soil extracellular enzyme activity** (2025)
    2 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Wang Kai Tong"
 description: "Wang Kai Tong is a Mid-career Biochar researcher at Shanghai University in CN. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.199683
+date: 2026-08-11T01:33:12.082601
 url: "/cdr-researcher-census/researchers/wang-kai-tong-a5022206/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,16 +48,19 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Degradation-Resistant Biochar Improves Soil Organic Carbon Storage: Promoting Autotrophic Metabolism &amp; Increasing Refractory Organic Carbon** (2025)
-   20 citations · Biochar
+   23 citations · Biochar
 
 2. **Effects of cellulase treatment on properties of lignocellulose-based biochar** (2024)
-   18 citations · Biochar
+   19 citations · Biochar
 
 3. **Enhancing soil carbon sequestration capacity: Synergistic effect of low-release biochar and autotrophic microbial agents over one year** (2025)
    6 citations · Biochar
 
 4. **Interface selectivity-based biochar: Directional evolution of properties, application &amp; carbon neutralization evaluation** (2025)
-   2 citations · Biochar
+   4 citations · Biochar
+
+5. **Colloidal biochar promotes microbial carbon dioxide fixation and enhances net soil organic carbon gain** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Arshad Ali"
 description: "Arshad Ali is a Senior Enhanced Weathering researcher at Sultan Qaboos University in OM. With 54 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.037532
+date: 2026-08-11T01:33:11.912424
 url: "/cdr-researcher-census/researchers/arshad-ali-a5044314/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,13 +50,16 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 ## Top CDR Publications
 
-1. **Geochemical and C‐O Isotopic Study of Ophiolite‐Derived Carbonates of the Barzaman Formation, Oman: Evidence of Natural CO<sub>2</sub> Sequestration Via Carbonation of Ultramafic Clasts** (2021)
+1. **Experimental studies on CO2 sequestration via enhanced rock weathering in seawater: Insights for climate change mitigation strategies in coastal and open ocean environments** (2024)
    5 citations · Enhanced Weathering
 
-2. **Experimental studies on CO2 sequestration via enhanced rock weathering in seawater: Insights for climate change mitigation strategies in coastal and open ocean environments** (2024)
-   3 citations · Enhanced Weathering
+2. **Geochemical and C‐O Isotopic Study of Ophiolite‐Derived Carbonates of the Barzaman Formation, Oman: Evidence of Natural CO<sub>2</sub> Sequestration Via Carbonation of Ultramafic Clasts** (2021)
+   5 citations · Enhanced Weathering
 
-3. **Developing reactive CO₂ removal materials from thermally activated lizardite and marble waste: A pathway toward sustainable climate mitigation** (2025)
+3. **Enhanced weathering of lizardite-rich sand in seawater: effects of pH and CO₂ pressure on carbonate formation for climate change mitigation** (2026)
+   0 citations · Enhanced Weathering
+
+4. **Developing reactive CO₂ removal materials from thermally activated lizardite and marble waste: A pathway toward sustainable climate mitigation** (2025)
    0 citations · Enhanced Weathering
 
 ## External Profiles

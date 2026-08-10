@@ -1,7 +1,7 @@
 ---
 title: "Xuyang Liu"
 description: "Xuyang Liu is a Mid-career Soil Carbon researcher at Institute of Crop Sciences in CN. With 39 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.428666
+date: 2026-08-11T01:33:11.380459
 url: "/cdr-researcher-census/researchers/xuyang-liu-a5100624/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,11 +53,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Soil carbon, nutrients and their stoichiometry decrement in relation to paddy field degradation: Investigation in a subtropical region** (2022)
    14 citations · Soil Carbon
 
-2. **Vegetation productivity and soil CO₂ correlation were decoupled during post-wildfire recovery in karst landscapes** (2026)
+2. **Impacts of Spartina alterniflora invasion on fractions and fungal communities of mineral-associated organic carbon in subtropical coastal wetlands of China** (2026)
+   2 citations · Soil Carbon
+
+3. **Vegetation productivity and soil CO₂ correlation were decoupled during post-wildfire recovery in karst landscapes** (2026)
    1 citations
 
-3. **Impacts of Spartina alterniflora invasion on fractions and fungal communities of mineral-associated organic carbon in subtropical coastal wetlands of China** (2026)
-   0 citations · Soil Carbon
+4. **Straw, biochar, and silicon-modified biochar regulate soil carbon sequestration through fungal-mediated microaggregation in paddy soils** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

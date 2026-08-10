@@ -1,7 +1,7 @@
 ---
 title: "Karim Suhail Al Souki"
 description: "Karim Suhail Al Souki is a Mid-career Soil Carbon researcher at Jan Evangelista Purkyně University in Ústí nad Labem in CZ. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.782158
+date: 2026-08-11T01:33:11.694185
 url: "/cdr-researcher-census/researchers/karim-suhail-al-souki-a5043859/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,11 +53,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Enhanced Carbon Sequestration in Marginal Land Upon Shift towards Perennial C4Miscanthus × giganteus: A Case Study in North-Western Czechia** (2021)
    27 citations · Soil Carbon
 
-2. **Effect of biochar application on soil properties, crop yield, and soil carbon sequestration** (2026)
-   1 citations · Biochar
+2. **Interactions of Miscanthus × giganteus with microorganisms in degraded lands: potential for ecosystem restoration** (2025)
+   2 citations · Soil Carbon
 
-3. **Interactions of Miscanthus × giganteus with microorganisms in degraded lands: potential for ecosystem restoration** (2025)
-   1 citations · Soil Carbon
+3. **Effect of biochar application on soil properties, crop yield, and soil carbon sequestration** (2026)
+   1 citations · Biochar
 
 ## External Profiles
 

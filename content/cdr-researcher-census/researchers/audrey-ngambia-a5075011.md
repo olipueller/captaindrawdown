@@ -1,7 +1,7 @@
 ---
 title: "Audrey Ngambia"
 description: "Audrey Ngambia is a Mid-career Biochar researcher. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.655001
+date: 2026-08-11T01:33:11.579793
 url: "/cdr-researcher-census/researchers/audrey-ngambia-a5075011/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Development of biochar molecular models with controlled porosity** (2024)
-   31 citations · Biochar
+   34 citations · Biochar
 
 2. **Mechanisms of Mn(II) Removal from Mining-Impacted Waters by Biochar: Decoupling Precipitation and Surface Complexation via Experiments and Atomistic Simulations** (2026)
    0 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Kabindra Adhikari"
 description: "Kabindra Adhikari is a Senior Soil Carbon researcher at Texas A&M AgriLife Research in US. With 113 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.128235
+date: 2026-08-11T01:33:11.106902
 url: "/cdr-researcher-census/researchers/kabindra-adhikari-a5067337/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Continental United States may lose 1.8 petagrams of soil organic carbon under climate change by 2100** (2022)
-   38 citations · Soil Carbon
+   39 citations · Soil Carbon
 
 2. **Anthropogenic controls over soil organic carbon distribution from the cultivated lands in Northeast China** (2021)
    30 citations · Soil Carbon
@@ -69,7 +69,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    9 citations · Soil Carbon
 
 7. **Soil health and nutrient dynamics in pasturelands: A decadal study on the effects of alternative vs. prevailing grazing management** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 8. **Prediction and mapping of soil organic carbon stock via large datasets coupled with pedotransfer functions** (2025)
    0 citations · Soil Carbon

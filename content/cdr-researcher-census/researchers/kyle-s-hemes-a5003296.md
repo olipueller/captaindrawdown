@@ -1,7 +1,7 @@
 ---
 title: "Kyle S. Hemes"
 description: "Kyle S. Hemes is a Senior Soil Carbon researcher. With 73 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.177977
+date: 2026-08-11T01:33:11.153339
 url: "/cdr-researcher-census/researchers/kyle-s-hemes-a5003296/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -49,10 +49,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    100 citations · General CDR
 
 2. **Productive wetlands restored for carbon sequestration quickly become net CO2 sinks with site-level factors driving uptake variability** (2021)
-   91 citations · General CDR
+   93 citations · General CDR
 
 3. **Restoring wetlands on intensive agricultural lands modifies nitrogen cycling microbial communities and reduces N2O production potential** (2021)
-   21 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 4. **Carbon Flux Trajectories and Site Conditions from Restored Impounded Marshes in the Sacramento‐San Joaquin Delta** (2021)
    13 citations · Soil Carbon
@@ -60,7 +60,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 5. **Consistent temporal accounting supports credible CDR use** (2026)
    0 citations · General CDR
 
-6. **Managing hydrology can reduce methane emissions of high-emitting freshwater marshes by half making them present-day net greenhouse gas sinks** (2021)
+6. **Optimizing Aboveground Biomass Estimation in Novel Restoration Systems Through Remote Sensing and Field Data Fusion** (2025)
+   0 citations
+
+7. **Managing hydrology can reduce methane emissions of high-emitting freshwater marshes by half making them present-day net greenhouse gas sinks** (2021)
    0 citations · Soil Carbon
 
 ## External Profiles

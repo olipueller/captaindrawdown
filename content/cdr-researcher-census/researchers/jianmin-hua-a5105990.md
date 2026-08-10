@@ -1,7 +1,7 @@
 ---
 title: "Jianmin Hua"
 description: "Jianmin Hua is a Senior General CDR researcher at Chongqing University in CN. With 21 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.272497
+date: 2026-08-11T01:33:11.241207
 url: "/cdr-researcher-census/researchers/jianmin-hua-a5105990/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **RETRACTED ARTICLE: Artificial intelligence-based solutions for climate change: a review** (2023)
-   355 citations · General CDR
+   362 citations · General CDR
 
 2. **Green construction strategies to combat climate change and public-health issues** (2026)
-   2 citations · General CDR
+   4 citations · General CDR
 
 ## External Profiles
 

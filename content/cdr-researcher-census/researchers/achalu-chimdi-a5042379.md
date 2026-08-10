@@ -1,7 +1,7 @@
 ---
 title: "Achalu Chimdi"
 description: "Achalu Chimdi is a Mid-career Soil Carbon researcher at Haramaya University in ET. With 32 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.667739
+date: 2026-08-11T01:33:11.590998
 url: "/cdr-researcher-census/researchers/achalu-chimdi-a5042379/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Contribution of coffee plants to carbon sequestration in agroforestry systems of Southwestern Ethiopia** (2022)
-   33 citations · General CDR
+   36 citations · General CDR
 
 2. **Effects of land use on selected soil properties and carbon sequestration in the Gurra watershed: The case of Chalia District, West Shoa Zone, Oromia, Ethiopia** (2023)
    13 citations · Soil Carbon

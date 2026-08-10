@@ -1,7 +1,7 @@
 ---
 title: "Narjes Abbasabadi"
 description: "Narjes Abbasabadi is a Mid-career DAC researcher at University of Washington in US. With 33 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.480117
+date: 2026-08-11T01:33:11.423607
 url: "/cdr-researcher-census/researchers/narjes-abbasabadi-a5015126/"
 layout: "researcher"
 hiddenInHomeList: true

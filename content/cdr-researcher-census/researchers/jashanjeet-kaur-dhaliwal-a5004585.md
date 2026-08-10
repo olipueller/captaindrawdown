@@ -1,7 +1,7 @@
 ---
 title: "Jashanjeet Kaur Dhaliwal"
 description: "Jashanjeet Kaur Dhaliwal is a Senior Soil Carbon researcher at University of Tennessee at Knoxville in US. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.881773
+date: 2026-08-11T01:33:11.782904
 url: "/cdr-researcher-census/researchers/jashanjeet-kaur-dhaliwal-a5004585/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long‐term tillage and cover cropping differentially influenced soil nitrous oxide emissions from cotton cropping system** (2024)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 2. **Simulating soil carbon sequestration, yield, and N2O fluxes with DayCent under long-term no-till and cover crop-based cotton cropping system** (2025)
    5 citations · Soil Carbon

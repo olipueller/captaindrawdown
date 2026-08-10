@@ -1,7 +1,7 @@
 ---
 title: "Pam Vervoort"
 description: "Pam Vervoort is a Mid-career Enhanced Weathering researcher at University of Birmingham in GB. With 48 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.167254
+date: 2026-08-11T01:33:12.053632
 url: "/cdr-researcher-census/researchers/pam-vervoort-a5087682/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,19 +54,19 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    35 citations
 
 2. **Four volcanically driven climatic perturbations led to enhanced continental weathering during the Late Triassic Carnian Pluvial Episode** (2023)
-   19 citations · Enhanced Weathering
+   20 citations · Enhanced Weathering
 
 3. **Earth System Model Analysis of How Astronomical Forcing Is Imprinted Onto the Marine Geological Record: The Role of the Inorganic (Carbonate) Carbon Cycle and Feedbacks** (2024)
    15 citations
 
-4. **Two episodes of Gzhelian (latest Carboniferous) volcanism immediately predate Asselian (early Permian) cooling and glaciation** (2025)
-   2 citations
+4. **Anthropogenically Stimulated Carbonate Dissolution in the Global Shelf Seafloor Is Potentially an Important and Fast Climate Feedback** (2026)
+   3 citations · Ocean CDR
 
-5. **Anthropogenically Stimulated Carbonate Dissolution in the Global Shelf Seafloor Is Potentially an Important and Fast Climate Feedback** (2026)
-   1 citations · Ocean CDR
+5. **Two episodes of Gzhelian (latest Carboniferous) volcanism immediately predate Asselian (early Permian) cooling and glaciation** (2025)
+   3 citations
 
 6. **Earth System Model Analysis of How Astronomical Forcing Is Imprinted Onto the Marine Geological Record: The Role of the Marine Organic Carbon Cycle and Feedbacks** (2025)
-   1 citations
+   2 citations
 
 7. **Modelling the response and impacts of terrestrial feedbacks to orbital forcing** (2026)
    0 citations

@@ -1,7 +1,7 @@
 ---
 title: "Shafeeq Ur Rahman"
 description: "Shafeeq Ur Rahman is a Senior Soil Carbon researcher at Shenzhen University in CN. With 103 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.156825
+date: 2026-08-11T01:33:11.133332
 url: "/cdr-researcher-census/researchers/shafeeq-ur-rahman-a5072428/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Role of Traditional Agroforestry Systems in Climate Change Mitigation through Carbon Sequestration: An Investigation from the Semi-Arid Region of Pakistan** (2023)
-   47 citations · General CDR
+   48 citations · General CDR
 
 2. **Assessing the Contribution of Citrus Orchards in Climate Change Mitigation through Carbon Sequestration in Sargodha District, Pakistan** (2021)
    20 citations · Soil Carbon
@@ -69,7 +69,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    1 citations · Soil Carbon
 
 7. **Species-driven variability in soil health and carbon storage across bamboo plantations** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 8. **Comparative evaluation of carbon sequestration and climate change mitigation in commercially planted eucalyptus-based agroforestry systems in a semi-arid region** (2025)
    0 citations · Soil Carbon

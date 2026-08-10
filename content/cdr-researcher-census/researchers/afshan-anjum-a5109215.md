@@ -1,7 +1,7 @@
 ---
 title: "Afshan Anjum"
 description: "Afshan Anjum is a Senior Soil Carbon researcher at Rajarajeswari Dental College and Hospital in IN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.276968
+date: 2026-08-11T01:33:12.150887
 url: "/cdr-researcher-census/researchers/afshan-anjum-a5109215/"
 layout: "researcher"
 hiddenInHomeList: true

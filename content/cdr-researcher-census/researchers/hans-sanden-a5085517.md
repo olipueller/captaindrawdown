@@ -1,7 +1,7 @@
 ---
 title: "Hans Sandén"
 description: "Hans Sandén is a Senior Soil Carbon researcher at Universität für Bodenkultur Wien in AT. With 82 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.228530
+date: 2026-08-11T01:33:11.200816
 url: "/cdr-researcher-census/researchers/hans-sanden-a5085517/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -56,17 +56,17 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 2. **Effects of tree species richness on topsoil carbon and fungal diversity in European planted mixed forests are modulated by environmental conditions** (2025)
    2 citations · Soil Carbon
 
-3. **Soil carbon to go: Agroforestry practices including coffee sequester the highest amounts of soil C in mountainous Southern Ethiopia** (2025)
+3. **Soil Microbial Communities Adjust Thermal Traits and Carbon Allocation in Response to Climate Manipulations in Subtropical Forest and Cropland** (2026)
+   1 citations
+
+4. **Soil carbon to go: Agroforestry practices including coffee sequester the highest amounts of soil C in mountainous Southern Ethiopia** (2025)
    1 citations · Soil Carbon
 
-4. **Effects of Tree Species Richness on Topsoil Carbon and Fungal Diversity in European Planted Mixed Forests are Modulated by Environmental Conditions** (2025)
+5. **Effects of Tree Species Richness on Topsoil Carbon and Fungal Diversity in European Planted Mixed Forests are Modulated by Environmental Conditions** (2025)
    1 citations · Soil Carbon
 
-5. **Soil Carbon Stocks and Dynamics of Church Forests in Northern Ethiopian** (2022)
+6. **Soil Carbon Stocks and Dynamics of Church Forests in Northern Ethiopian** (2022)
    1 citations · Soil Carbon
-
-6. **Soil Microbial Communities Adjust Thermal Traits and Carbon Allocation in Response to Climate Manipulations in Subtropical Forest and Cropland** (2026)
-   0 citations
 
 7. **Effects of tree diversity on topsoil carbon and fungal diversity in European planted mixed forests are modulated by biotic and abiotic factors** (2024)
    0 citations · Soil Carbon

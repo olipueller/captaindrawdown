@@ -1,7 +1,7 @@
 ---
 title: "Brian Izbicki"
 description: "Brian Izbicki is a Mid-career Soil Carbon researcher at Northern Arizona University in US. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.364507
+date: 2026-08-11T01:33:12.227603
 url: "/cdr-researcher-census/researchers/brian-izbicki-a5072670/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Wildfire and Permafrost Thaw Reduce C Pools and Diminish Carbon Sequestration Potential in Yedoma Surface Soils** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

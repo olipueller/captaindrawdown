@@ -1,7 +1,7 @@
 ---
 title: "Yuting Hou"
 description: "Yuting Hou is a Senior Soil Carbon researcher at Xinjiang Academy of Agricultural Sciences in CN. With 54 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.455264
+date: 2026-08-11T01:33:11.403059
 url: "/cdr-researcher-census/researchers/yuting-hou-a5056833/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Crop diversification promotes soil aggregation and carbon accumulation in global agroecosystems: A meta-analysis** (2023)
-   48 citations · Soil Carbon
+   51 citations · Soil Carbon
 
 2. **Long-term plastic mulching decreases rhizoplane soil carbon sequestration by decreasing microbial anabolism** (2023)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 3. **Regulatory mechanisms of spatiotemporal variations in aboveground and belowground net primary production in global terrestrial ecosystems** (2026)
    0 citations

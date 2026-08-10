@@ -1,7 +1,7 @@
 ---
 title: "Debra Fernandes"
 description: "Debra Fernandes is a Senior DAC researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 22 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.414640
+date: 2026-08-11T01:33:11.367925
 url: "/cdr-researcher-census/researchers/debra-fernandes-a5004143/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Reclaiming water from a direct air capture plant using vacuum membrane distillation – A bench-scale study** (2022)
-   8 citations · DAC
+   9 citations · DAC
 
 2. **Reclaiming Water from a Direct Air Capture Plant Using Vacuum Membrane Distillation – a Bench-Scale Study** (2022)
    1 citations

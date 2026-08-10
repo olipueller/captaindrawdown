@@ -1,7 +1,7 @@
 ---
 title: "Rabia Safeer"
 description: "Rabia Safeer is a Mid-career Biochar researcher at University of Science and Technology of China in CN. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.983092
+date: 2026-08-11T01:33:11.861194
 url: "/cdr-researcher-census/researchers/rabia-safeer-a5075110/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Synergistic interactions and reaction mechanisms of biochar surface functionalities in antibiotics removal from industrial wastewater** (2024)
-   60 citations · Biochar
+   64 citations · Biochar
 
 2. **The development of plastic waste and sewage sludge co-pyrolyzed biochar composites with improved interfacial characteristics for the effective removal of ciprofloxacin** (2024)
-   31 citations · Biochar
+   33 citations · Biochar
 
 ## External Profiles
 

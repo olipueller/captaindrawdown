@@ -1,7 +1,7 @@
 ---
 title: "Melek Yιlgιn"
 description: "Melek Yιlgιn is a Senior Biochar researcher at Fırat University in TR. With 19 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.499239
+date: 2026-08-11T01:33:12.352190
 url: "/cdr-researcher-census/researchers/melek-ylgn-a5078328/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Valorization of textile industry shearing waste via biochar production: An environmentally friendly energy resource** (2025)
-   1 citations · Biochar
+   2 citations · Biochar
 
 ## External Profiles
 

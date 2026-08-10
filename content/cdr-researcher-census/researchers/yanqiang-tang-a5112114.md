@@ -1,7 +1,7 @@
 ---
 title: "Yanqiang Tang"
 description: "Yanqiang Tang is a Senior Biochar researcher at Animal Science Research Institute in CN. With 21 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.395018
+date: 2026-08-11T01:33:12.256754
 url: "/cdr-researcher-census/researchers/yanqiang-tang-a5112114/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar–supported sulfurized nanoscale zero–valent iron facilitates extensive dechlorination and rapid removal of 2,4,6–trichlorophenol in aqueous solution** (2023)
-   25 citations · Biochar
+   26 citations · Biochar
 
 2. **Biochar–Supported Sulfurized Nanoscale Zero–Valent Iron Facilitates Extensive Dechlorination and Rapid Removal of 2,4,6–Trichlorophenol in Aqueous Solution** (2022)
    0 citations · Biochar

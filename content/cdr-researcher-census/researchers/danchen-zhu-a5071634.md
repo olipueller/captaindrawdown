@@ -1,7 +1,7 @@
 ---
 title: "Danchen Zhu"
 description: "Danchen Zhu is a Mid-career Biochar researcher at Anhui University in CN. With 21 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.409300
+date: 2026-08-11T01:33:11.362930
 url: "/cdr-researcher-census/researchers/danchen-zhu-a5071634/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    96 citations · Biochar
 
 2. **Temperature-dependent magnesium citrate modified formation of MgO nanoparticles biochar composites with efficient phosphate removal** (2021)
-   83 citations · Biochar
+   84 citations · Biochar
 
 3. **Tuning Metal Site and Surface Functional Group Structure in Mgo Nanoparticles Biochar Composites to Unravel the Mechanism for Adsorption of Phosphate from Aqueous Solution** (2024)
    0 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Shuhan Yu"
 description: "Shuhan Yu is a Mid-career Soil Carbon researcher at China University of Geosciences (Beijing) in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.062247
+date: 2026-08-11T01:33:11.956243
 url: "/cdr-researcher-census/researchers/shuhan-yu-a5007543/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The composition, energy, and carbon stability characteristics of biochars derived from thermo-conversion of biomass in air-limitation, CO2, and N2 at different temperatures** (2022)
-   38 citations · Biochar
+   39 citations · Biochar
 
 2. **Microbial life history strategies regulate soil organic carbon sequestration in response to thinning depending on microbial nutrient limitations** (2025)
    6 citations · Soil Carbon
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    4 citations · Soil Carbon
 
 4. **Effects of thinning on soil microbial community and carbon fractions and their relationships in coastal protected forests** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 ## External Profiles
 

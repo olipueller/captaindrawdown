@@ -1,7 +1,7 @@
 ---
 title: "Milton Halder"
 description: "Milton Halder is a Senior Soil Carbon researcher at Khulna University in BD. With 47 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.619802
+date: 2026-08-11T01:33:11.547713
 url: "/cdr-researcher-census/researchers/milton-halder-a5006496/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Impact of straw return combined with different fertilizations on soil organic carbon stock in upland wheat and maize croplands in China: A meta-analysis** (2023)
-   27 citations · Soil Carbon
+   28 citations · Soil Carbon
 
 2. **Potential agricultural waste management modes to enhance carbon sequestration and aggregation in a clay soil** (2025)
    4 citations · Soil Carbon

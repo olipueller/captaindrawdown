@@ -1,7 +1,7 @@
 ---
 title: "Srinath Garg"
 description: "Srinath Garg is a Senior General CDR researcher at Hydrogenics (Canada) in CA. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.058885
+date: 2026-08-11T01:33:11.932666
 url: "/cdr-researcher-census/researchers/srinath-garg-a5026525/"
 layout: "researcher"
 hiddenInHomeList: true

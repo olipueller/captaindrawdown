@@ -1,7 +1,7 @@
 ---
 title: "Qing Chang"
 description: "Qing Chang is a Senior Soil Carbon researcher at Northeast Normal University in CN. With 36 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.295632
+date: 2026-08-11T01:33:11.262792
 url: "/cdr-researcher-census/researchers/qing-chang-a5033909/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Grazing effects on the relationship between plant functional diversity and soil carbon sequestration regulated by livestock species** (2024)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 2. **Temperature effects on microbial carbon use efficiency and priming effects in soils under vegetation restoration** (2024)
    10 citations · Soil Carbon

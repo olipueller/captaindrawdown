@@ -1,7 +1,7 @@
 ---
 title: "Habib Azarabadi"
 description: "Habib Azarabadi is a Mid-career DAC researcher at Boston Consulting Group (United States). With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.306572
+date: 2026-08-11T01:33:11.273577
 url: "/cdr-researcher-census/researchers/habib-azarabadi-a5082054/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Buying down the Cost of Direct Air Capture** (2021)
-   109 citations · DAC
+   111 citations · DAC
 
 ## External Profiles
 

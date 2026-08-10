@@ -1,7 +1,7 @@
 ---
 title: "M. S. Krishna"
 description: "M. S. Krishna is a Mid-career Soil Carbon researcher at National Institute of Oceanography in IN. With 27 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.282759
+date: 2026-08-11T01:33:11.250824
 url: "/cdr-researcher-census/researchers/m-s-krishna-a5036204/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    9 citations · Soil Carbon
 
 2. **Assessing carbon stocks and their economic value of mangrove ecosystem in the Krishna Delta: A blue carbon ecosystem service modelling approach** (2025)
-   4 citations · General CDR
+   5 citations · General CDR
 
 ## External Profiles
 

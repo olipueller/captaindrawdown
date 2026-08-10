@@ -1,7 +1,7 @@
 ---
 title: "Jordan Poitras"
 description: "Jordan Poitras is a Mid-career Enhanced Weathering researcher. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.037652
+date: 2026-08-11T01:33:11.912553
 url: "/cdr-researcher-census/researchers/jordan-poitras-a5064831/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,11 +45,11 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 
 ## Top CDR Publications
 
-1. **Historical diamond mine waste reveals carbon sequestration resource in kimberlite residue** (2022)
-   17 citations · Enhanced Weathering
+1. **Core characterisation and predicted CO2 reactivity of sandstones and mudstones from an Australian oil field** (2021)
+   18 citations
 
-2. **Core characterisation and predicted CO2 reactivity of sandstones and mudstones from an Australian oil field** (2021)
-   17 citations
+2. **Historical diamond mine waste reveals carbon sequestration resource in kimberlite residue** (2022)
+   17 citations · Enhanced Weathering
 
 3. **Accelerated carbonate biomineralisation of Venetia diamond mine coarse residue deposit (CRD) material – A field trial study** (2023)
    7 citations · Enhanced Weathering

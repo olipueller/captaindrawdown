@@ -1,7 +1,7 @@
 ---
 title: "Naoki Hata"
 description: "Naoki Hata is a Senior Biochar researcher at University of Shiga Prefecture in JP. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.191864
+date: 2026-08-11T01:33:12.075667
 url: "/cdr-researcher-census/researchers/naoki-hata-a5111916/"
 layout: "researcher"
 hiddenInHomeList: true

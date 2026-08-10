@@ -1,7 +1,7 @@
 ---
 title: "Hussien A. El Sayed"
 description: "Hussien A. El Sayed is a Mid-career Biochar researcher at Egyptian Petroleum Research Institute in EG. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.877343
+date: 2026-08-11T01:33:11.778896
 url: "/cdr-researcher-census/researchers/hussien-a-el-sayed-a5067613/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biofuel production from waste residuals: comprehensive insights into biomass conversion technologies and engineered biochar applications** (2025)
-   45 citations · Biochar
+   50 citations · Biochar
 
 ## External Profiles
 

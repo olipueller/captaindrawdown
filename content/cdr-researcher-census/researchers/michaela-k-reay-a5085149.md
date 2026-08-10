@@ -1,7 +1,7 @@
 ---
 title: "Michaela K. Reay"
 description: "Michaela K. Reay is a Mid-career Soil Carbon researcher at The University of Bristol in GB. With 71 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.474299
+date: 2026-08-11T01:33:11.418504
 url: "/cdr-researcher-census/researchers/michaela-k-reay-a5085149/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Stimulation of soil gross nitrogen transformations and nitrous oxide emission under Free air CO2 enrichment in a mature temperate oak forest at BIFoR-FACE** (2023)
-   22 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 2. **Temperate Forest of 2050's: carbon and nutrient cycling responses to seven years of elevated CO2 enrichment at BIFoR-FACE** (2024)
    2 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Abubakar Usman Katsina"
 description: "Abubakar Usman Katsina is a Mid-career Biochar researcher at Bayero University Faculty of Science in NG. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.335559
+date: 2026-08-11T01:33:12.201976
 url: "/cdr-researcher-census/researchers/abubakar-usman-katsina-a5004496/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A systematic review on applications of biochar and activated carbon derived from biomass as adsorbents for sustainable remediation of antibiotics from pharmaceutical wastewater** (2024)
-   82 citations · Biochar
+   86 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Pranab Boral"
 description: "Pranab Boral is a Mid-career General CDR researcher at Dibrugarh University in IN. With 12 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.572931
+date: 2026-08-11T01:33:12.415592
 url: "/cdr-researcher-census/researchers/pranab-boral-a5064660/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Recent developments on carbon neutrality through carbon dioxide capture and utilization with clean hydrogen for production of alternative fuels for smart cities** (2024)
-   84 citations · General CDR
+   89 citations · General CDR
 
 ## External Profiles
 

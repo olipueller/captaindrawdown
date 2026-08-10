@@ -1,7 +1,7 @@
 ---
 title: "Jefferson Matheus Barros Ozório"
 description: "Jefferson Matheus Barros Ozório is a Mid-career Soil Carbon researcher at Universidade Estadual de Mato Grosso do Sul in BR. With 40 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.172840
+date: 2026-08-11T01:33:12.058311
 url: "/cdr-researcher-census/researchers/jefferson-matheus-barros-ozorio-a5077760/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,13 +50,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Chemical and Spectroscopic Characteristics of Humic Acids Under No-Tillage and Forest Systems** (2023)
+1. **Black soils in the southwest of the Brazilian Pantanal: Organic carbon and secondary carbonates accumulation in Phaeozems–Gleysol-Chernozem** (2024)
+   6 citations · Soil Carbon
+
+2. **Chemical and Spectroscopic Characteristics of Humic Acids Under No-Tillage and Forest Systems** (2023)
    5 citations · Soil Carbon
 
-2. **Effect of soil management on carbon stock and soil aggregation in an area of natural regeneration and surrounding systems in the Atlantic Forest biome** (2024)
-   3 citations · Soil Carbon
-
-3. **Black soils in the southwest of the Brazilian Pantanal: Organic carbon and secondary carbonates accumulation in Phaeozems–Gleysol-Chernozem** (2024)
+3. **Effect of soil management on carbon stock and soil aggregation in an area of natural regeneration and surrounding systems in the Atlantic Forest biome** (2024)
    3 citations · Soil Carbon
 
 4. **Effect of soil management on carbon stock and soil aggregation in a natural recovery area and surrounding systems, Brazil** (2023)

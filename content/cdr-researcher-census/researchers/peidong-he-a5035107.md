@@ -1,7 +1,7 @@
 ---
 title: "Peidong He"
 description: "Peidong He is an Early-career Biochar researcher at University of Science and Technology Beijing in CN. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.371704
+date: 2026-08-11T01:33:12.234574
 url: "/cdr-researcher-census/researchers/peidong-he-a5035107/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar derived from different crop straws as persulfate activator for the degradation of sulfadiazine: Influence of biomass types and systemic cause analysis** (2022)
-   103 citations · Biochar
+   104 citations · Biochar
 
 ## External Profiles
 

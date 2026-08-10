@@ -1,7 +1,7 @@
 ---
 title: "Thanapol Tantisattayakul"
 description: "Thanapol Tantisattayakul is a Senior BECCS researcher at Thammasat University in TH. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.878792
+date: 2026-08-11T01:33:11.780310
 url: "/cdr-researcher-census/researchers/thanapol-tantisattayakul-a5043153/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    10 citations · BECCS
 
 2. **CO2 storage infrastructure and cost estimation for bioenergy with carbon capture and storage in Northern Thailand** (2025)
-   4 citations · BECCS
+   5 citations · BECCS
 
 ## External Profiles
 

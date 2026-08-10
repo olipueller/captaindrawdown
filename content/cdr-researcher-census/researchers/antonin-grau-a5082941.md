@@ -1,7 +1,7 @@
 ---
 title: "Antonin Grau"
 description: "Antonin Grau is a Mid-career Enhanced Weathering researcher at Université de Montpellier in FR. With 16 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.468131
+date: 2026-08-11T01:33:12.324595
 url: "/cdr-researcher-census/researchers/antonin-grau-a5082941/"
 layout: "researcher"
 hiddenInHomeList: true

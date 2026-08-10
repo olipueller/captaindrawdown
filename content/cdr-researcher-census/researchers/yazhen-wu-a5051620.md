@@ -1,7 +1,7 @@
 ---
 title: "Yazhen Wu"
 description: "Yazhen Wu is a Mid-career General CDR researcher at International Institute for Applied Systems Analysis in AT. With 35 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.402553
+date: 2026-08-11T01:33:11.356973
 url: "/cdr-researcher-census/researchers/yazhen-wu-a5051620/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Enhanced food system efficiency is the key to China’s 2060 carbon neutrality target** (2023)
-   77 citations · General CDR
+   82 citations · General CDR
 
 2. **Biodiversity implications of land-intensive carbon dioxide removal** (2026)
    4 citations · BECCS

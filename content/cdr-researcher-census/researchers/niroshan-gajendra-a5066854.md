@@ -1,7 +1,7 @@
 ---
 title: "Niroshan Gajendra"
 description: "Niroshan Gajendra is a Mid-career Biochar researcher at Institute for Energy Technology in NO. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.503170
+date: 2026-08-11T01:33:12.355906
 url: "/cdr-researcher-census/researchers/niroshan-gajendra-a5066854/"
 layout: "researcher"
 hiddenInHomeList: true

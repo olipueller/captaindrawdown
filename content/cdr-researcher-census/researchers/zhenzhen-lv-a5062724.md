@@ -1,7 +1,7 @@
 ---
 title: "Zhenzhen Lv"
 description: "Zhenzhen Lv is a Mid-career Soil Carbon researcher at Zhengzhou Fruit Research Institute in CN. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.647163
+date: 2026-08-11T01:33:11.572786
 url: "/cdr-researcher-census/researchers/zhenzhen-lv-a5062724/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,13 +48,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of long-term manure substitution regimes on soil organic carbon composition in a red paddy soil of southern China** (2022)
-   66 citations · Soil Carbon
+   71 citations · Soil Carbon
 
 2. **Long-Term Effect of Fertilizations on Yield Sustainability, Soil Organic Carbon Sequestration and Apparent Phosphorus Balance in Acidic Paddy Soil** (2022)
    13 citations · Soil Carbon
 
 3. **Organic Manure with Chemical Fertilizers Improves Rice Productivity and Decreases N2O Emissions by Increasing Soil Nitrogen Sequestration** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

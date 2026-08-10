@@ -1,7 +1,7 @@
 ---
 title: "Shea Qin Tan"
 description: "Shea Qin Tan is a Senior Biochar researcher at Momentive (United States) in US. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.861813
+date: 2026-08-11T01:33:11.764391
 url: "/cdr-researcher-census/researchers/shea-qin-tan-a5110660/"
 layout: "researcher"
 hiddenInHomeList: true

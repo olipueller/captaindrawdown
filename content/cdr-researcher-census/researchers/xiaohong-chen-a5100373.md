@@ -1,7 +1,7 @@
 ---
 title: "Xiaohong Chen"
 description: "Xiaohong Chen is a Senior Soil Carbon researcher at Central South University in CN. With 77 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.217127
+date: 2026-08-11T01:33:11.190157
 url: "/cdr-researcher-census/researchers/xiaohong-chen-a5100373/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,13 +54,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    27 citations · Soil Carbon
 
 2. **Application of biochar on soil bioelectrochemical remediation: behind roles, progress, and potential** (2022)
-   25 citations · Biochar
+   26 citations · Biochar
 
 3. **Effect of fresh and aged biochar on electrogenic hydrocarbon degradation in soil microbial electrochemical remediation** (2022)
    23 citations · Biochar
 
 4. **Soil carbon turnover and balance in the priming effects of basalt, montmorillonite, and kaolinite in a Luvisol soil** (2023)
-   12 citations · Enhanced Weathering
+   13 citations · Enhanced Weathering
 
 5. **Sedimentology and geochemistry of the Upper Permian Longtan and Dalong formations in the Lianyuan Sag, Xiangzhong Depression, South China: Implications for paleoclimate, provenance, tectonic setting, and organic matter accumulation** (2025)
    3 citations

@@ -1,7 +1,7 @@
 ---
 title: "Jordahna Haig"
 description: "Jordahna Haig is a Senior Soil Carbon researcher at James Cook University in AU. With 26 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.527475
+date: 2026-08-11T01:33:11.464410
 url: "/cdr-researcher-census/researchers/jordahna-haig-a5000004/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Comparison of pyrogenic carbon abundance in coarse-textured soil by hydrogen pyrolysis, NMR and dichromate oxidation and MIR-PLSR** (2025)
-   5 citations · Biochar
+   6 citations · Biochar
 
 2. **Impact of fire return interval on pyrogenic carbon stocks in a tropical savanna, North Queensland, Australia** (2024)
    5 citations · Soil Carbon

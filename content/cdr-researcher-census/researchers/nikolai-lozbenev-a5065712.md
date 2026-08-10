@@ -1,7 +1,7 @@
 ---
 title: "Nikolai Lozbenev"
 description: "Nikolai Lozbenev is a Mid-career Soil Carbon researcher at V.V. Dokuchaev Soil Science Institute in RU. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.587511
+date: 2026-08-11T01:33:12.423352
 url: "/cdr-researcher-census/researchers/nikolai-lozbenev-a5065712/"
 layout: "researcher"
 hiddenInHomeList: true

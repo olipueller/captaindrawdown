@@ -1,7 +1,7 @@
 ---
 title: "Emad Kavehei"
 description: "Emad Kavehei is a Mid-career Soil Carbon researcher at Griffith University in AU. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.819152
+date: 2026-08-11T01:33:11.726967
 url: "/cdr-researcher-census/researchers/emad-kavehei-a5032464/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil greenhouse gas fluxes from tropical coastal wetlands and alternative agricultural land uses** (2021)
-   30 citations · Soil Carbon
+   31 citations · Soil Carbon
 
 2. **Greenhouse gas emissions from tropical coastal wetlands and their alternative agricultural lands: Where significant mitigation gains lie** (2021)
    3 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "David Cann"
 description: "David Cann is a Mid-career DAC researcher at University of Hull in GB. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.021531
+date: 2026-08-11T01:33:11.897814
 url: "/cdr-researcher-census/researchers/david-cann-a5075538/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    152 citations · DAC
 
 2. **Experimental analysis of CO2 frost front behaviour in moving packed beds for cryogenic CO2 capture** (2021)
-   27 citations
+   28 citations
 
 ## External Profiles
 

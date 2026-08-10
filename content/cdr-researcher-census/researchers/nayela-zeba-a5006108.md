@@ -1,7 +1,7 @@
 ---
 title: "Nayela Zeba"
 description: "Nayela Zeba is an Early-career Biochar researcher at University of Hawaiʻi at Mānoa in US. With 12 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.529686
+date: 2026-08-11T01:33:12.380861
 url: "/cdr-researcher-census/researchers/nayela-zeba-a5006108/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Effects of physical, chemical, and biological ageing on the mineralization of pine wood biochar by a Streptomyces isolate** (2022)
-   39 citations · Biochar
+   40 citations · Biochar
 
 ## External Profiles
 

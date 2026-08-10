@@ -1,7 +1,7 @@
 ---
 title: "Lijie Pu"
 description: "Lijie Pu is a Senior Soil Carbon researcher at Ministry of Ecology and Environment in CN. With 105 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.272866
+date: 2026-08-11T01:33:11.241567
 url: "/cdr-researcher-census/researchers/lijie-pu-a5100725/"
 layout: "researcher"
 hiddenInHomeList: true

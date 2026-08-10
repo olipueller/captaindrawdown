@@ -1,7 +1,7 @@
 ---
 title: "Steven Mandley"
 description: "Steven Mandley is a Mid-career BECCS researcher. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.934327
+date: 2026-08-11T01:33:11.830651
 url: "/cdr-researcher-census/researchers/steven-mandley-a5071991/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Integrated assessment of the role of bioenergy within the EU energy transition targets to 2050** (2021)
-   32 citations · BECCS
+   33 citations · BECCS
 
 2. **EU Bioenergy Supply-Chain Projections to 2050 Using a Multi-Model Framework -Combining Macro-Regional Bioenergy Demand and Supply Projections from a Global Iam with a Detailed Regional (Eu27 &amp; UK) Least-Cost Bioenergy Allocation Model –** (2022)
    0 citations · BECCS

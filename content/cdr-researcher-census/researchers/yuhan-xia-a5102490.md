@@ -1,7 +1,7 @@
 ---
 title: "Yuhan Xia"
 description: "Yuhan Xia is a Mid-career Biochar researcher at Taizhou University in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.981261
+date: 2026-08-11T01:33:11.859474
 url: "/cdr-researcher-census/researchers/yuhan-xia-a5102490/"
 layout: "researcher"
 hiddenInHomeList: true

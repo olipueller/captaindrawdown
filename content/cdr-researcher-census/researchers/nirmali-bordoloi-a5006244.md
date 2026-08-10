@@ -1,7 +1,7 @@
 ---
 title: "Nirmali Bordoloi"
 description: "Nirmali Bordoloi is a Mid-career Biochar researcher at Central University of Jharkhand in IN. With 42 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.466312
+date: 2026-08-11T01:33:11.411803
 url: "/cdr-researcher-census/researchers/nirmali-bordoloi-a5006244/"
 layout: "researcher"
 hiddenInHomeList: true

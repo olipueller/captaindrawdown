@@ -1,7 +1,7 @@
 ---
 title: "Shibiao Zhang"
 description: "Shibiao Zhang is a Senior Biochar researcher at Huazhong University of Science and Technology in CN. With 23 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.509822
+date: 2026-08-11T01:33:11.449442
 url: "/cdr-researcher-census/researchers/shibiao-zhang-a5078077/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Molecular simulation of different VOCs adsorption on nitrogen-doped biochar** (2024)
-   22 citations · Biochar
+   23 citations · Biochar
 
 2. **Biochar/carbon dots sorbent for the removal of heavy metal ions from wastewater** (2026)
    0 citations · Biochar

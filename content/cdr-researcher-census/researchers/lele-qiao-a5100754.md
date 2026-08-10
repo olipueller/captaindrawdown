@@ -1,7 +1,7 @@
 ---
 title: "Lele Qiao"
 description: "Lele Qiao is a Mid-career Biochar researcher at Nankai University in CN. With 7 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.724341
+date: 2026-08-11T01:33:11.642095
 url: "/cdr-researcher-census/researchers/lele-qiao-a5100754/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Mechanochemical synthesis of biochar encapsulated FeMn nanoparticles with strong metal–carbon interactions for efficient degradation of tetracycline via activating peroxymonosulfate** (2023)
-   86 citations · Biochar
+   90 citations · Biochar
 
 ## External Profiles
 

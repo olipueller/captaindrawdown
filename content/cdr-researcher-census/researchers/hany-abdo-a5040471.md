@@ -1,7 +1,7 @@
 ---
 title: "Hany Abdo"
 description: "Hany Abdo is a Mid-career Biochar researcher at Damietta University in EG. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.141228
+date: 2026-08-11T01:33:12.029926
 url: "/cdr-researcher-census/researchers/hany-abdo-a5040471/"
 layout: "researcher"
 hiddenInHomeList: true

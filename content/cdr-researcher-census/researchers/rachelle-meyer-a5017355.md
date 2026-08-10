@@ -1,7 +1,7 @@
 ---
 title: "Rachelle Meyer"
 description: "Rachelle Meyer is a Mid-career Soil Carbon researcher at The University of Melbourne in AU. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.765123
+date: 2026-08-11T01:33:11.679289
 url: "/cdr-researcher-census/researchers/rachelle-meyer-a5017355/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Grazing management for soil carbon in Australia: A review** (2023)
-   70 citations · General CDR
+   73 citations · General CDR
 
 2. **Can soil and tree carbon sequestration maintain zero net emissions grazing?** (2025)
    4 citations · Soil Carbon

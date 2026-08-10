@@ -1,7 +1,7 @@
 ---
 title: "Jiang Huang"
 description: "Jiang Huang is a Mid-career Biochar researcher at Hohai University in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.980679
+date: 2026-08-11T01:33:11.858880
 url: "/cdr-researcher-census/researchers/jiang-huang-a5101417/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A new approach to explore and assess the sustainable remediation of chromium-contaminated wastewater by biochar based on 3E model** (2024)
-   8 citations · Biochar
+   9 citations · Biochar
 
 2. **Exploring the effect of Ulva prolifera components on the biochar carbon sequestration potential** (2024)
-   3 citations · Biochar
+   4 citations · Biochar
 
 ## External Profiles
 

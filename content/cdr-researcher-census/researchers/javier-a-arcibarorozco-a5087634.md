@@ -1,7 +1,7 @@
 ---
 title: "Javier A. Arcibar‐Orozco"
 description: "Javier A. Arcibar‐Orozco is a Senior Biochar researcher at CIMAV in MX. With 44 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.320697
+date: 2026-08-11T01:33:11.286370
 url: "/cdr-researcher-census/researchers/javier-a-arcibarorozco-a5087634/"
 layout: "researcher"
 hiddenInHomeList: true

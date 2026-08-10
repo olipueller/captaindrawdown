@@ -1,7 +1,7 @@
 ---
 title: "Wenliang Yang"
 description: "Wenliang Yang is a Senior Soil Carbon researcher at Baogang Group (China) in CN. With 39 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.325320
+date: 2026-08-11T01:33:11.290199
 url: "/cdr-researcher-census/researchers/wenliang-yang-a5102379/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    3 citations · Soil Carbon
 
 3. **Nitrogen fertilization drives bacterial turnover versus fungal persistence for straw-derived C and N stabilization in a wheat-maize rotation** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

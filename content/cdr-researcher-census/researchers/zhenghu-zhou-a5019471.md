@@ -1,7 +1,7 @@
 ---
 title: "Zhenghu Zhou"
 description: "Zhenghu Zhou is a Senior Soil Carbon researcher at Northeast Forestry University in CN. With 73 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.123994
+date: 2026-08-11T01:33:11.102729
 url: "/cdr-researcher-census/researchers/zhenghu-zhou-a5019471/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The biogeography of soil microbiome potential growth rates** (2024)
-   60 citations
+   64 citations
 
 2. **Carbon gain in upper but loss in deeper cropland soils across China over the last four decades** (2024)
-   43 citations · Soil Carbon
+   44 citations · Soil Carbon
 
 3. **Global distribution and predictors of the mineral-associated to total soil organic carbon ratio: an indicator of soil carbon stability** (2025)
-   8 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 4. **Mineral protection mediates soil carbon temperature sensitivity of nine old-growth temperate forests across the latitude transect** (2024)
    6 citations · Soil Carbon
@@ -65,16 +65,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 5. **Subsurface soil inorganic carbon gains offset half of surface losses in China’s upland croplands over the last four decades** (2026)
    1 citations
 
-6. **Global patterns of tree diversity effects on soil respiration and their linkages to soil organic carbon** (2026)
-   0 citations · Soil Carbon
-
-7. **Mixed Forestation Outperforms Pure Stands in Soil Carbon Sequestration and Stability** (2026)
-   0 citations · Soil Carbon
-
-8. **Metagenomic insights into the carbon decomposition of plant and microbial biomass in forests across biomes** (2025)
+6. **Microbial life-history strategies regulate soil organic carbon formation and stability across soil depths during 300 years of the temperate forest succession** (2026)
    0 citations
 
-9. **Increasing root trait complementarity in species mixtures may be detrimental for soil carbon storage** (2024)
+7. **Global patterns of tree diversity effects on soil respiration and their linkages to soil organic carbon** (2026)
+   0 citations · Soil Carbon
+
+8. **Mixed Forestation Outperforms Pure Stands in Soil Carbon Sequestration and Stability** (2026)
+   0 citations · Soil Carbon
+
+9. **Metagenomic insights into the carbon decomposition of plant and microbial biomass in forests across biomes** (2025)
+   0 citations
+
+10. **Increasing root trait complementarity in species mixtures may be detrimental for soil carbon storage** (2024)
    0 citations · Soil Carbon
 
 ## External Profiles

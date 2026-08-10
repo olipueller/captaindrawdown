@@ -1,7 +1,7 @@
 ---
 title: "Ling Wang"
 description: "Ling Wang is a Senior Soil Carbon researcher at Hainan Normal University in CN. With 129 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.134427
+date: 2026-08-11T01:33:11.112844
 url: "/cdr-researcher-census/researchers/ling-wang-a5100398/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The global contribution of soil mosses to ecosystem services** (2023)
-   94 citations · Soil Carbon
+   100 citations · Soil Carbon
 
 2. **Spatial effects of nitrogen deposition on soil organic carbon stocks in patchy degraded saline-alkaline grassland** (2023)
    20 citations · Soil Carbon
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    17 citations · Soil Carbon
 
 4. **More Than a Decade of Moderate Grazing: No Impact on Soil Organic Carbon Stocks and Enhancement of Mineral‐Associated Organic Carbon via Livestock Diversification** (2025)
-   8 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 5. **Species-specific herbivore grazing of type-specific grassland can assist with promotion of shallow layer of soil carbon sequestration** (2021)
    8 citations · Soil Carbon

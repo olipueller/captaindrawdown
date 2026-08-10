@@ -1,7 +1,7 @@
 ---
 title: "Peter Psarras"
 description: "Peter Psarras is a Mid-career General CDR researcher at University of Pennsylvania in US. With 66 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.160698
+date: 2026-08-11T01:33:11.137162
 url: "/cdr-researcher-census/researchers/peter-psarras-a5075179/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The cost of direct air capture and storage can be reduced via strategic deployment but is unlikely to fall below stated cost targets** (2023)
-   191 citations · DAC
+   194 citations · DAC
 
 2. **Natural Gas vs. Electricity for Solvent-Based Direct Air Capture** (2021)
-   88 citations
+   90 citations
 
 3. **Roads to Removal: Options for Carbon Dioxide Removal in the United States** (2023)
-   60 citations · General CDR
+   61 citations · General CDR
 
 4. **An ecosystem of carbon dioxide removal reviews – part 1: direct air CO <sub>2</sub> capture and storage** (2025)
-   32 citations · General CDR
+   38 citations · General CDR
 
 5. **Direct Air Capture: Assessing Impacts to Enable Responsible Scaling** (2022)
    16 citations · DAC

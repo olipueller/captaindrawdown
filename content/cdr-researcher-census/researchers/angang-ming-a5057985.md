@@ -1,7 +1,7 @@
 ---
 title: "Angang Ming"
 description: "Angang Ming is a Mid-career Soil Carbon researcher at Experimental Center of Tropical Forestry in CN. With 69 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.314777
+date: 2026-08-11T01:33:11.281186
 url: "/cdr-researcher-census/researchers/angang-ming-a5057985/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,13 +48,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Introducing N2-fixing tree species into Eucalyptus plantations promotes soil organic carbon sequestration in aggregates by increasing microbial carbon use efficiency** (2023)
-   36 citations · Soil Carbon
+   37 citations · Soil Carbon
 
-2. **Tree species mixing promotes surface soil organic carbon accumulation in mid-age and stability in old-growth forests** (2024)
-   12 citations · Soil Carbon
+2. **Nitrogen-fixing tree species enhance the positive effects of tree species richness on soil organic carbon sequestration by increasing fine root phosphorus loss** (2025)
+   14 citations · Soil Carbon
 
-3. **Nitrogen-fixing tree species enhance the positive effects of tree species richness on soil organic carbon sequestration by increasing fine root phosphorus loss** (2025)
-   11 citations · Soil Carbon
+3. **Tree species mixing promotes surface soil organic carbon accumulation in mid-age and stability in old-growth forests** (2024)
+   14 citations · Soil Carbon
 
 4. **Tree species mixing effects on root exudation rate and exudate metabolome: variations across forest stand age** (2025)
    6 citations · Soil Carbon
@@ -62,11 +62,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 5. **Divergent factors shape the stability of Pinus massoniana rhizosphere organic carbon in subtropical mixed plantations** (2026)
    2 citations · Soil Carbon
 
-6. **Exploring the Effects of Thinning on Cunninghamia lanceolata Lamb. Carbon Allocation in Southwestern China Using a Process-Based Model** (2021)
-   1 citations · General CDR
+6. **N-fixing species outperform non-N-fixing species in promoting soil organic carbon stability via enhancing edaphic-litter nitrogen availability in Eucalyptus plantations** (2025)
+   1 citations · Soil Carbon
 
-7. **N-fixing species outperform non-N-fixing species in promoting soil organic carbon stability via enhancing edaphic-litter nitrogen availability in Eucalyptus plantations** (2025)
-   0 citations · Soil Carbon
+7. **Exploring the Effects of Thinning on Cunninghamia lanceolata Lamb. Carbon Allocation in Southwestern China Using a Process-Based Model** (2021)
+   1 citations · General CDR
 
 ## External Profiles
 

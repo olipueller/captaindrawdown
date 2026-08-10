@@ -1,7 +1,7 @@
 ---
 title: "Vijay Kumar Aralappanavar"
 description: "Vijay Kumar Aralappanavar is a Mid-career Soil Carbon researcher at University of South Australia in AU. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.530128
+date: 2026-08-11T01:33:11.466715
 url: "/cdr-researcher-census/researchers/vijay-kumar-aralappanavar-a5002447/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Biochar-microorganism interactions for organic pollutant remediation: Challenges and perspectives** (2022)
-   218 citations · Biochar
+   225 citations · Biochar
 
 2. **Inland saline aquaculture increased carbon accumulation rate and stability in pond sediments under semi-arid climate** (2021)
    8 citations · Soil Carbon

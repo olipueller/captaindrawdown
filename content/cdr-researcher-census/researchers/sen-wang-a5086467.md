@@ -1,7 +1,7 @@
 ---
 title: "Sen Wang"
 description: "Sen Wang is a Mid-career Biochar researcher at Qingdao University in CN. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.674881
+date: 2026-08-11T01:33:11.597169
 url: "/cdr-researcher-census/researchers/sen-wang-a5086467/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    15 citations · Biochar
 
 2. **Enhanced simultaneous removal of acetamiprid and cadmium from soil and water in paddy fields by Fe-Mn-BC ternary micro-electrolysis: Performance, mechanism and pathway** (2024)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 ## External Profiles
 

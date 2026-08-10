@@ -1,7 +1,7 @@
 ---
 title: "Zhiying Li"
 description: "Zhiying Li is a Senior Soil Carbon researcher at Qingdao Agricultural University in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.976550
+date: 2026-08-11T01:33:11.855294
 url: "/cdr-researcher-census/researchers/zhiying-li-a5100634/"
 layout: "researcher"
 hiddenInHomeList: true

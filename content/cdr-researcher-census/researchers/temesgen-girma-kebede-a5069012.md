@@ -1,7 +1,7 @@
 ---
 title: "Temesgen Girma Kebede"
 description: "Temesgen Girma Kebede is a Mid-career Biochar researcher at University of South Africa in ZA. With 35 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.335695
+date: 2026-08-11T01:33:11.299417
 url: "/cdr-researcher-census/researchers/temesgen-girma-kebede-a5069012/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Ball-milling synthesis of biochar and biochar–based nanocomposites and prospects for removal of emerging contaminants: A review** (2021)
-   312 citations · Biochar
+   319 citations · Biochar
 
 2. **Green Synthesis of Surface Modified Biochar for Simultaneous Removal of Steroidal Hormones and Heavy Metals from Wastewater: Optimisation by Central Composite Design** (2023)
    10 citations · Biochar

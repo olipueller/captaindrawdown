@@ -1,7 +1,7 @@
 ---
 title: "Emily Senay"
 description: "Emily Senay is a Mid-career General CDR researcher at Northwell Health in US. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.368962
+date: 2026-08-11T01:33:11.328094
 url: "/cdr-researcher-census/researchers/emily-senay-a5038699/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Lessons from patient safety to accelerate healthcare decarbonization** (2024)
-   4 citations · General CDR
+   5 citations · General CDR
 
 2. **Coming Together for Climate and Health** (2021)
    1 citations · General CDR

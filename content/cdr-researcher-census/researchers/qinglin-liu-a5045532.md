@@ -1,7 +1,7 @@
 ---
 title: "Qinglin Liu"
 description: "Qinglin Liu is a Mid-career Soil Carbon researcher at Tianjin University of Science and Technology in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.420161
+date: 2026-08-11T01:33:12.279393
 url: "/cdr-researcher-census/researchers/qinglin-liu-a5045532/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Structural equation modeling revealed optimized ridge-furrow configuration integrated with straw-soil crust enhancing carbon sequestration and sainfoin yield in semiarid agroecosystems** (2026)
-   0 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Chengyi Zhang"
 description: "Chengyi Zhang is a Senior Soil Carbon researcher at China Meteorological Administration in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.129532
+date: 2026-08-11T01:33:12.019042
 url: "/cdr-researcher-census/researchers/chengyi-zhang-a5022950/"
 layout: "researcher"
 hiddenInHomeList: true

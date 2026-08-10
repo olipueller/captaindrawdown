@@ -1,7 +1,7 @@
 ---
 title: "Wei Xiang-hua"
 description: "Wei Xiang-hua is a Senior Soil Carbon researcher at Guangxi University in CN. With 12 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.333317
+date: 2026-08-11T01:33:12.199944
 url: "/cdr-researcher-census/researchers/wei-xiang-hua-a5008627/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Significant loss of soil inorganic carbon at the continental scale** (2021)
-   136 citations · Soil Carbon
+   142 citations · Soil Carbon
 
 2. **Significant loss of soil inorganic carbon at the continental scale** (2021)
    2 citations

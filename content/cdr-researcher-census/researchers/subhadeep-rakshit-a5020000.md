@@ -1,7 +1,7 @@
 ---
 title: "Subhadeep Rakshit"
 description: "Subhadeep Rakshit is a Mid-career Ocean CDR researcher at Dalhousie University in CA. With 21 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.515398
+date: 2026-08-11T01:33:12.368048
 url: "/cdr-researcher-census/researchers/subhadeep-rakshit-a5020000/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -56,14 +56,14 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 2. **A high-resolution nested model to study the effects of alkalinity additions in Halifax Harbour, a mid-latitude coastal fjord** (2025)
    2 citations
 
-3. **A high-resolution nested model to study the effects of alkalinity additions in a mid-latitude coastal fjord** (2024)
+3. **Mechanistic evaluation of benthic carbon sequestration as a marine carbon dioxide removal strategy** (2025)
+   1 citations · Ocean CDR
+
+4. **A high-resolution nested model to study the effects of alkalinity additions in a mid-latitude coastal fjord** (2024)
    1 citations · General CDR
 
-4. **CBEDv1 model in "Mechanistic evaluation of benthic carbon sequestration as a marine carbon dioxide removal strategy"** (2026)
+5. **CBEDv1 model in "Mechanistic evaluation of benthic carbon sequestration as a marine carbon dioxide removal strategy"** (2026)
    0 citations · General CDR
-
-5. **Mechanistic evaluation of benthic carbon sequestration as a marine carbon dioxide removal strategy** (2025)
-   0 citations · Ocean CDR
 
 ## External Profiles
 

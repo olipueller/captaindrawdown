@@ -1,7 +1,7 @@
 ---
 title: "Quanming Hou"
 description: "Quanming Hou is an Early-career Soil Carbon researcher at Northwest Institute of Mechanical and Electrical Engineering in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.391236
+date: 2026-08-11T01:33:12.253002
 url: "/cdr-researcher-census/researchers/quanming-hou-a5032229/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term plastic mulching decreases rhizoplane soil carbon sequestration by decreasing microbial anabolism** (2023)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 ## External Profiles
 

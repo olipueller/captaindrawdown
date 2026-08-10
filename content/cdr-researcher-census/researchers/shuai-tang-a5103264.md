@@ -1,7 +1,7 @@
 ---
 title: "Shuai Tang"
 description: "Shuai Tang is a Mid-career Biochar researcher at Ministry of Agriculture in EE. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.870809
+date: 2026-08-11T01:33:11.772513
 url: "/cdr-researcher-census/researchers/shuai-tang-a5103264/"
 layout: "researcher"
 hiddenInHomeList: true

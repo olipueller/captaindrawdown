@@ -1,7 +1,7 @@
 ---
 title: "Tivadar Baltazár"
 description: "Tivadar Baltazár is a Mid-career Soil Carbon researcher at Mendel University Brno in CZ. With 76 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.398252
+date: 2026-08-11T01:33:11.353067
 url: "/cdr-researcher-census/researchers/tivadar-baltazar-a5045481/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,16 +54,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    23 citations · General CDR
 
 2. **Utilization of Diversified Cover Crops as Green Manure-Enhanced Soil Organic Carbon, Nutrient Transformation, Microbial Activity, and Maize Growth** (2024)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
-3. **Deciphering the Effectiveness of Humic Substances and Biochar Modified Digestates on Soil Quality and Plant Biomass Accumulation** (2022)
+3. **Time-dependent impact of co-matured manure with elemental sulfur and biochar on the soil agro-ecological properties and plant biomass** (2023)
    11 citations · Biochar
 
-4. **Fertilisation of permanent grasslands with digestate and its effect on soil properties and sustainable biomass production** (2023)
-   9 citations · Soil Carbon
+4. **Deciphering the Effectiveness of Humic Substances and Biochar Modified Digestates on Soil Quality and Plant Biomass Accumulation** (2022)
+   11 citations · Biochar
 
-5. **Time-dependent impact of co-matured manure with elemental sulfur and biochar on the soil agro-ecological properties and plant biomass** (2023)
-   9 citations · Biochar
+5. **Fertilisation of permanent grasslands with digestate and its effect on soil properties and sustainable biomass production** (2023)
+   9 citations · Soil Carbon
 
 ## External Profiles
 

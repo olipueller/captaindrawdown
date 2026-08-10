@@ -1,7 +1,7 @@
 ---
 title: "Wujun Feng"
 description: "Wujun Feng is a Mid-career General CDR researcher at Xiamen University in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.736604
+date: 2026-08-11T01:33:11.653255
 url: "/cdr-researcher-census/researchers/wujun-feng-a5091077/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Cryogenic technology progress for CO2 capture under carbon neutrality goals: A review** (2022)
-   234 citations · General CDR
+   245 citations · General CDR
 
 ## External Profiles
 

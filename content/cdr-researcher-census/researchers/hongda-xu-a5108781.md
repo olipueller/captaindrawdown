@@ -1,7 +1,7 @@
 ---
 title: "Hongda Xu"
 description: "Hongda Xu is a Senior Biochar researcher at Fujian Normal University in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.723302
+date: 2026-08-11T01:33:11.641168
 url: "/cdr-researcher-census/researchers/hongda-xu-a5108781/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Fertilizer reduction and biochar amendment promote soil mineral-associated organic carbon, bacterial activity, and enzyme activity in a jasmine garden in southeast China** (2024)
-   22 citations · Biochar
+   23 citations · Biochar
 
 ## External Profiles
 

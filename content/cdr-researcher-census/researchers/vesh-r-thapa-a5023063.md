@@ -1,7 +1,7 @@
 ---
 title: "Vesh R. Thapa"
 description: "Vesh R. Thapa is a Mid-career Soil Carbon researcher at University of Nebraska–Lincoln in US. With 26 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.471132
+date: 2026-08-11T01:33:11.415960
 url: "/cdr-researcher-census/researchers/vesh-r-thapa-a5023063/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil organic carbon sequestration potential of conservation agriculture in arid and semi-arid regions: A review** (2023)
-   71 citations · General CDR
+   73 citations · General CDR
 
 2. **Response of soil organic matter to cover cropping in water-limited environments** (2021)
-   57 citations · Soil Carbon
+   58 citations · Soil Carbon
 
 3. **Limited impacts of occasional tillage on dry aggregate size distribution and soil carbon and nitrogen fractions in semi-arid drylands** (2023)
    31 citations · Soil Carbon

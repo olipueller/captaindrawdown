@@ -1,7 +1,7 @@
 ---
 title: "Tiago Guimarães"
 description: "Tiago Guimarães is a Mid-career Biochar researcher at Universidade Federal de Viçosa in BR. With 30 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.910014
+date: 2026-08-11T01:33:11.808697
 url: "/cdr-researcher-census/researchers/tiago-guimaraes-a5047665/"
 layout: "researcher"
 hiddenInHomeList: true

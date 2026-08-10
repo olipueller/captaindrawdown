@@ -1,7 +1,7 @@
 ---
 title: "Animesh Debnath"
 description: "Animesh Debnath is a Senior Biochar researcher at National Institute of Technology Agartala in IN. With 97 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.152336
+date: 2026-08-11T01:33:11.129297
 url: "/cdr-researcher-census/researchers/animesh-debnath-a5033511/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,22 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Fabrication of biochar from jarul (Lagerstroemia speciosa) seed hull for ultrasound aided sequestration of ofloxacin from water: Phytotoxic assessments and cost analysis** (2023)
-   95 citations · Biochar
+   97 citations · Biochar
 
 2. **Enhanced performance of Lagerstroemia speciosa seed biochar and polypyrrole composite for the sequestration of emerging contaminant from wastewater sample: Case study of ofloxacin drug** (2024)
-   50 citations · Biochar
+   52 citations · Biochar
 
 3. **Adsorption of malachite green by Aegle marmelos-derived activated biochar: Novelty assessment through phytotoxicity tests and economic analysis** (2024)
-   28 citations · Biochar
+   31 citations · Biochar
 
 4. **Cost analysis and adsorption efficiency of chemically activated biochar from rubber wood sawdust for ciprofloxacin removal in environmental remediation** (2026)
    4 citations · Biochar
 
 5. **Augmented Efficacy of Rubber Wood Sawdust Biochar and Polypyrrole Composite for the Sequestration of Ciprofloxacin from Aqueous Solution** (2026)
    3 citations · Biochar
+
+6. **Enhanced sequestration of malachite green dye from aqueous medium using zirconium oxide modified biochar from aegle marmelos: mechanism, reusability, and economic evaluation** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

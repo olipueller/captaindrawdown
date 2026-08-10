@@ -1,7 +1,7 @@
 ---
 title: "Dave George"
 description: "Dave George is a Senior Enhanced Weathering researcher at Newcastle University in GB. With 12 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.253476
+date: 2026-08-11T01:33:11.223745
 url: "/cdr-researcher-census/researchers/dave-george-a5079866/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Initial agronomic benefits of enhanced weathering using basalt: A study of spring oat in a temperate climate** (2024)
-   46 citations
+   47 citations
 
 2. **Initial agronomic benefits of enhanced weathering using basalt: A study of spring oat in a temperate climate** (2024)
    1 citations

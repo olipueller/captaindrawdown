@@ -1,7 +1,7 @@
 ---
 title: "Vasundra Nagendran"
 description: "Vasundra Nagendran is a Mid-career Biochar researcher at Nitte University in IN. With 11 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.772550
+date: 2026-08-11T01:33:11.685659
 url: "/cdr-researcher-census/researchers/vasundra-nagendran-a5093440/"
 layout: "researcher"
 hiddenInHomeList: true

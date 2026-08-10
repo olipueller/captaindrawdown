@@ -1,7 +1,7 @@
 ---
 title: "Shweta Tripathi"
 description: "Shweta Tripathi is a Senior General CDR researcher at International Centre for Genetic Engineering and Biotechnology in IN. With 43 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.367281
+date: 2026-08-11T01:33:11.326361
 url: "/cdr-researcher-census/researchers/shweta-tripathi-a5018912/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,10 +54,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    81 citations · BECCS
 
 2. **Algal-based biochar and hydrochar: A holistic and sustainable approach to wastewater treatment** (2024)
-   41 citations · Biochar
+   42 citations · Biochar
 
 3. **Assessing the potential of a genetically modified Parachlorella kessleri-I with low CO2 inducible proteins for enhanced biomass and biofuel productivity** (2024)
-   6 citations · General CDR
+   7 citations · General CDR
 
 ## External Profiles
 

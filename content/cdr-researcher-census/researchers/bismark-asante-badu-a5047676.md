@@ -1,7 +1,7 @@
 ---
 title: "Bismark Asante-Badu"
 description: "Bismark Asante-Badu is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 10 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.887428
+date: 2026-08-11T01:33:11.788333
 url: "/cdr-researcher-census/researchers/bismark-asante-badu-a5047676/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Keystone microbial taxa drive the accelerated decompositions of cellulose and lignin by long-term resource enrichments** (2022)
-   48 citations · Soil Carbon
+   51 citations · Soil Carbon
 
 ## External Profiles
 

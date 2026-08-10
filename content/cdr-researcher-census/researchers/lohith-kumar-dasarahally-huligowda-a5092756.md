@@ -1,7 +1,7 @@
 ---
 title: "Lohith Kumar Dasarahally Huligowda"
 description: "Lohith Kumar Dasarahally Huligowda is a Mid-career Biochar researcher at Durban University of Technology in ZA. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.027788
+date: 2026-08-11T01:33:11.903610
 url: "/cdr-researcher-census/researchers/lohith-kumar-dasarahally-huligowda-a5092756/"
 layout: "researcher"
 hiddenInHomeList: true

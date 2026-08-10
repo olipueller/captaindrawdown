@@ -1,7 +1,7 @@
 ---
 title: "Guochen Li"
 description: "Guochen Li is a Mid-career Enhanced Weathering researcher at Chinese Academy of Sciences in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-12T12:07:29.609689
+date: 2026-08-11T01:33:11.541054
 url: "/cdr-researcher-census/researchers/guochen-li-a5006651/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Integrating microbial community properties, biomass and necromass to predict cropland soil organic carbon** (2023)
-   137 citations · Soil Carbon
+   141 citations · Soil Carbon
 
 2. **Enhanced silicate weathering accelerates forest carbon sequestration by stimulating the soil mineral carbon pump** (2024)
-   57 citations · Enhanced Weathering
+   64 citations · Enhanced Weathering
 
 3. **Enhanced rock weathering increased soil phosphorus availability and altered root phosphorus‐acquisition strategies** (2024)
    45 citations · Enhanced Weathering
@@ -62,11 +62,11 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 4. **Wollastonite powder application increases rice yield and CO2 sequestration in a paddy field in Northeast China** (2024)
    14 citations · Enhanced Weathering
 
-5. **Enhanced rock weathering boosts ecosystem multifunctionality via improving microbial networks complexity in a tropical forest plantation** (2024)
+5. **Divergent responses of carbon and nitrogen functional genes composition to enhanced rock weathering** (2025)
    7 citations · Enhanced Weathering
 
-6. **Divergent responses of carbon and nitrogen functional genes composition to enhanced rock weathering** (2025)
-   6 citations · Enhanced Weathering
+6. **Enhanced rock weathering boosts ecosystem multifunctionality via improving microbial networks complexity in a tropical forest plantation** (2024)
+   7 citations · Enhanced Weathering
 
 7. **Wollastonite improves soybean yield without toxic trace elements enrichment** (2025)
    2 citations · Enhanced Weathering

@@ -1,7 +1,7 @@
 ---
 title: "Yufeng Xie"
 description: "Yufeng Xie is a Mid-career Soil Carbon researcher at Nanjing Forestry University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.243844
+date: 2026-08-11T01:33:12.123463
 url: "/cdr-researcher-census/researchers/yufeng-xie-a5110850/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Response of soil organic carbon stocks and soil microbial biomass carbon to natural grassland conversion: A global meta-analysis** (2025)
-   10 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 ## External Profiles
 

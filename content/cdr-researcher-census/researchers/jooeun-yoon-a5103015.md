@@ -1,7 +1,7 @@
 ---
 title: "Joo‐Eun Yoon"
 description: "Joo‐Eun Yoon is a Mid-career Ocean CDR researcher at Korea Polar Research Institute in KR. With 39 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.644754
+date: 2026-08-11T01:33:11.570575
 url: "/cdr-researcher-census/researchers/jooeun-yoon-a5103015/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Next steps for assessing ocean iron fertilization for marine carbon dioxide removal** (2024)
-   12 citations · General CDR
+   15 citations · General CDR
 
 2. **The case for ocean iron fertilization field trials** (2026)
-   2 citations · General CDR
+   4 citations · General CDR
 
 3. **Dusting the rust off ocean iron fertilization research studies for mCDR** (2026)
    0 citations · General CDR

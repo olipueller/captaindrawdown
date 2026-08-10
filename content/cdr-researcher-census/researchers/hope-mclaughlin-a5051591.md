@@ -1,7 +1,7 @@
 ---
 title: "Hope McLaughlin"
 description: "Hope McLaughlin is an Early-career DAC researcher at Colorado School of Mines in US. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.652719
+date: 2026-08-11T01:33:11.577821
 url: "/cdr-researcher-census/researchers/hope-mclaughlin-a5051591/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Carbon capture utilization and storage in review: Sociotechnical implications for a carbon reliant world** (2023)
-   427 citations · DAC
+   437 citations · DAC
 
 ## External Profiles
 

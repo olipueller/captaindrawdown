@@ -1,7 +1,7 @@
 ---
 title: "Xuede Dong"
 description: "Xuede Dong is a Mid-career Soil Carbon researcher at Beijing Normal University in CN. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.652031
+date: 2026-08-11T01:33:11.577157
 url: "/cdr-researcher-census/researchers/xuede-dong-a5026251/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Phosphorus fertilization affects litter quality and enzyme activity in a semiarid grassland** (2023)
-   15 citations
+   18 citations
 
 2. **Improving the microenvironment of tracking photovoltaic systems promotes soil organic carbon accumulation by mediating plant carbon inputs and microbial necromass retention** (2025)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 3. **Carbon isotopic measurements from coastal zone protected forests in northern China: Soil carbon decomposition assessment and its influencing factors** (2021)
    10 citations · Soil Carbon

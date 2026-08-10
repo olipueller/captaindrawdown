@@ -1,7 +1,7 @@
 ---
 title: "Yanlong Han"
 description: "Yanlong Han is a Senior Soil Carbon researcher at Northeast Agricultural University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.753051
+date: 2026-08-11T01:33:11.668080
 url: "/cdr-researcher-census/researchers/yanlong-han-a5100559/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The effects of vegetation communities on soil organic carbon stock in an enclosed desert-steppe region of northern China** (2022)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 ## External Profiles
 

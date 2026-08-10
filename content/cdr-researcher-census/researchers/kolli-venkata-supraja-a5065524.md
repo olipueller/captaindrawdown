@@ -1,7 +1,7 @@
 ---
 title: "Kolli Venkata Supraja"
 description: "Kolli Venkata Supraja is a Mid-career Biochar researcher at Helmholtz-Zentrum Dresden-Rossendorf in DE. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.737616
+date: 2026-08-11T01:33:11.654335
 url: "/cdr-researcher-census/researchers/kolli-venkata-supraja-a5065524/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar production and its environmental applications: Recent developments and machine learning insights** (2023)
-   83 citations · Biochar
+   89 citations · Biochar
 
 ## External Profiles
 

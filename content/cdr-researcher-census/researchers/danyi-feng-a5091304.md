@@ -1,7 +1,7 @@
 ---
 title: "Danyi Feng"
 description: "Danyi Feng is a Mid-career Enhanced Weathering researcher at Heilongjiang University of Chinese Medicine in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.845836
+date: 2026-08-11T01:33:11.749728
 url: "/cdr-researcher-census/researchers/danyi-feng-a5091304/"
 layout: "researcher"
 hiddenInHomeList: true

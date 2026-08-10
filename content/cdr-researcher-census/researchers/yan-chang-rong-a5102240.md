@@ -1,7 +1,7 @@
 ---
 title: "Yan Chang-rong"
 description: "Yan Chang-rong is a Senior Soil Carbon researcher at Chinese Academy of Agricultural Sciences in CN. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.345868
+date: 2026-08-11T01:33:12.211246
 url: "/cdr-researcher-census/researchers/yan-chang-rong-a5102240/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Low soil carbon saturation deficit limits the abundance of cbbL-carrying bacteria under long-term no-tillage maize cultivation in northern China** (2022)
-   11 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 ## External Profiles
 

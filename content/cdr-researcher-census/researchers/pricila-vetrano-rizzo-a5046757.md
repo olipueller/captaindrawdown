@@ -1,7 +1,7 @@
 ---
 title: "Pricila Vetrano Rizzo"
 description: "Pricila Vetrano Rizzo is a Senior Soil Carbon researcher at Brazilian Agricultural Research Corporation in BR. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.343249
+date: 2026-08-11T01:33:12.208822
 url: "/cdr-researcher-census/researchers/pricila-vetrano-rizzo-a5046757/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil carbon stock changes in a crop-livestock-forestry integration in Southern Goiás State, Brazil** (2024)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 ## External Profiles
 

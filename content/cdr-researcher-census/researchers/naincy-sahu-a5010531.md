@@ -1,7 +1,7 @@
 ---
 title: "Naincy Sahu"
 description: "Naincy Sahu is a Mid-career Biochar researcher at Dr. Ram Manohar Lohia Avadh University in IN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.046524
+date: 2026-08-11T01:33:11.921283
 url: "/cdr-researcher-census/researchers/naincy-sahu-a5010531/"
 layout: "researcher"
 hiddenInHomeList: true

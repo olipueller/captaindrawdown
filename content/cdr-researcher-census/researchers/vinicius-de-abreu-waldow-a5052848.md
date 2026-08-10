@@ -1,7 +1,7 @@
 ---
 title: "Vinícius de Abreu Waldow"
 description: "Vinícius de Abreu Waldow is a Mid-career Soil Carbon researcher at Petrobras (Brazil) in BR. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.576871
+date: 2026-08-11T01:33:11.509183
 url: "/cdr-researcher-census/researchers/vinicius-de-abreu-waldow-a5052848/"
 layout: "researcher"
 hiddenInHomeList: true

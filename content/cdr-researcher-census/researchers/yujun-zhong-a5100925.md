@@ -1,7 +1,7 @@
 ---
 title: "Yujun Zhong"
 description: "Yujun Zhong is a Mid-career Soil Carbon researcher at Shaoxing University in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.694089
+date: 2026-08-11T01:33:11.614572
 url: "/cdr-researcher-census/researchers/yujun-zhong-a5100925/"
 layout: "researcher"
 hiddenInHomeList: true

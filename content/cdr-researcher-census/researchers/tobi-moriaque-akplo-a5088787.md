@@ -1,7 +1,7 @@
 ---
 title: "Tobi Moriaque Akplo"
 description: "Tobi Moriaque Akplo is a Mid-career Soil Carbon researcher at Institut Sénégalais de Recherches Agricoles in SN. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.132672
+date: 2026-08-11T01:33:12.021896
 url: "/cdr-researcher-census/researchers/tobi-moriaque-akplo-a5088787/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Single Application of Biochar Increases Fertilizer Efficiency, C Sequestration, and pH over the Long-Term in Sandy Soils of Senegal** (2021)
-   27 citations · Biochar
+   28 citations · Biochar
 
 2. **Assessing Soil Organic Carbon Stocks and Particle-Size Fractions across Cropping Systems in the Kiti Sub-Watershed in Central Benin** (2022)
    6 citations · Soil Carbon

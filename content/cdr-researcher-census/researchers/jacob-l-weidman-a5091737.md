@@ -1,7 +1,7 @@
 ---
 title: "Jacob L. Weidman"
 description: "Jacob L. Weidman is a Mid-career General CDR researcher. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.600365
+date: 2026-08-11T01:33:11.530459
 url: "/cdr-researcher-census/researchers/jacob-l-weidman-a5091737/"
 layout: "researcher"
 hiddenInHomeList: true

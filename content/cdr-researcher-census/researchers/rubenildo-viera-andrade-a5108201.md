@@ -1,7 +1,7 @@
 ---
 title: "Rubenildo Viera Andrade"
 description: "Rubenildo Viera Andrade is a Mid-career BECCS researcher at Universidade Federal de Itajubá in BR. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.890069
+date: 2026-08-11T01:33:11.790548
 url: "/cdr-researcher-census/researchers/rubenildo-viera-andrade-a5108201/"
 layout: "researcher"
 hiddenInHomeList: true

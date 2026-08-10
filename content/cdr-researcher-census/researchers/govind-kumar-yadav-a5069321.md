@@ -1,7 +1,7 @@
 ---
 title: "Govind Kumar Yadav"
 description: "Govind Kumar Yadav is an Early-career DAC researcher. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.513423
+date: 2026-08-11T01:33:12.366082
 url: "/cdr-researcher-census/researchers/govind-kumar-yadav-a5069321/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Eric Slessarev"
 description: "Eric Slessarev is a Mid-career Soil Carbon researcher at Yale University in US. With 75 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.163431
+date: 2026-08-11T01:33:11.139759
 url: "/cdr-researcher-census/researchers/eric-slessarev-a5048601/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,16 +54,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    78 citations · Enhanced Weathering
 
 2. **Roads to Removal: Options for Carbon Dioxide Removal in the United States** (2023)
-   60 citations · General CDR
+   61 citations · General CDR
 
 3. **Active microbial biomass decreases, but microbial growth potential remains similar across soil depth profiles under deeply-vs. shallow-rooted plants** (2021)
-   43 citations · Soil Carbon
+   45 citations · Soil Carbon
 
 4. **Reduced accrual of mineral-associated organic matter after two years of enhanced rock weathering in cropland soils, though no net losses of soil organic carbon** (2024)
-   31 citations · Enhanced Weathering
+   33 citations · Enhanced Weathering
 
 5. **Harnessing Microbes to Weather Native Silicates in Agricultural Soils for Scalable Carbon Dioxide Removal** (2025)
-   13 citations · Enhanced Weathering
+   14 citations · Enhanced Weathering
 
 6. **Reduced accrual of mineral-associated organic matter after two years of enhanced rock weathering in cropland soils, though no net losses of soil organic carbon** (2024)
    4 citations

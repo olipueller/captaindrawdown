@@ -1,7 +1,7 @@
 ---
 title: "Penghui Jia"
 description: "Penghui Jia is a Mid-career Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.623766
+date: 2026-08-11T01:33:11.551463
 url: "/cdr-researcher-census/researchers/penghui-jia-a5012667/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Metabolic pathways of CO2 fixing microorganisms determined C-fixation rates in grassland soils along the precipitation gradient** (2022)
-   141 citations · Soil Carbon
+   145 citations · Soil Carbon
 
 2. **Orchard soils exhibit the highest microbial CO2 fixation potential and contribution to soil organic carbon across land-use types in Qaidam Basin** (2025)
    1 citations · Soil Carbon

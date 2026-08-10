@@ -1,7 +1,7 @@
 ---
 title: "Xusheng Xu"
 description: "Xusheng Xu is a Mid-career Biochar researcher at Nanjing Forestry University in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.377029
+date: 2026-08-11T01:33:12.239200
 url: "/cdr-researcher-census/researchers/xusheng-xu-a5093418/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Construction of 2D/3D biochar modified g-C3N4 for efficient removal of tetracycline hydrochloride via photocatalytic PMS activation** (2025)
-   12 citations · Biochar
+   14 citations · Biochar
 
 ## External Profiles
 

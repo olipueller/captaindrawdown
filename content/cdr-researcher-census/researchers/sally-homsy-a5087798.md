@@ -1,7 +1,7 @@
 ---
 title: "Sally Homsy"
 description: "Sally Homsy is a Mid-career General CDR researcher at Government of the United States of America in US. With 31 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.213826
+date: 2026-08-11T01:33:12.095508
 url: "/cdr-researcher-census/researchers/sally-homsy-a5087798/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Direct Air Capture Case Studies: Sorbent System** (2022)
-   24 citations
+   25 citations
 
 2. **Direct Air Capture Case Studies: Solvent System** (2022)
    14 citations
 
 3. **A comparative assessment of the economic viability of nuclear-integrated direct air capture systems** (2026)
-   1 citations · DAC
+   2 citations · DAC
 
 4. **Techno-Economic Analysis of Sorbent-Based Direct Air Capture Informed by EPC Input and Recent Technological Advancements** (2025)
    1 citations · DAC

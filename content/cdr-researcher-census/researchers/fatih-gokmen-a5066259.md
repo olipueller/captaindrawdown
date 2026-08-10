@@ -1,7 +1,7 @@
 ---
 title: "Fatih Gökmen"
 description: "Fatih Gökmen is a Mid-career Biochar researcher at Iğdır Üniversitesi in TR. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.377296
+date: 2026-08-11T01:33:12.239465
 url: "/cdr-researcher-census/researchers/fatih-gokmen-a5066259/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Engineering the biochar surfaces through feedstock variations and pyrolysis temperatures** (2024)
-   17 citations · Biochar
+   18 citations · Biochar
 
 ## External Profiles
 

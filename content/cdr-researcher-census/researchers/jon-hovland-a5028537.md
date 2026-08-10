@@ -1,7 +1,7 @@
 ---
 title: "Jon Hovland"
 description: "Jon Hovland is a Senior General CDR researcher. With 35 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.546827
+date: 2026-08-11T01:33:11.482116
 url: "/cdr-researcher-census/researchers/jon-hovland-a5028537/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Direct Air capture (DAC) deployment: A review of the industrial deployment** (2023)
-   128 citations · DAC
+   134 citations · DAC
 
 2. **Direct air capture (DAC) deployment: National context cannot be neglected. A case study applied to Norway** (2023)
    15 citations · DAC

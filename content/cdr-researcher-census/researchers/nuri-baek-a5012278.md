@@ -1,7 +1,7 @@
 ---
 title: "Nuri Baek"
 description: "Nuri Baek is a Mid-career Biochar researcher at Chonnam National University in KR. With 34 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.097161
+date: 2026-08-11T01:33:11.988835
 url: "/cdr-researcher-census/researchers/nuri-baek-a5012278/"
 layout: "researcher"
 hiddenInHomeList: true

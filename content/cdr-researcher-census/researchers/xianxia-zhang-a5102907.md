@@ -1,7 +1,7 @@
 ---
 title: "Xianxia Zhang"
 description: "Xianxia Zhang is a Mid-career Biochar researcher at Ministry of Agriculture in CZ. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.702755
+date: 2026-08-11T01:33:11.622598
 url: "/cdr-researcher-census/researchers/xianxia-zhang-a5102907/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Visible-light-driven photocatalytic degradation of dye and antibiotics by activated biochar composited with K+ doped g-C3N4: Effects, mechanisms, actual wastewater treatment and disinfection** (2022)
-   136 citations · Biochar
+   149 citations · Biochar
 
 ## External Profiles
 

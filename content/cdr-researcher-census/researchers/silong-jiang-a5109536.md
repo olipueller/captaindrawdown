@@ -1,7 +1,7 @@
 ---
 title: "Silong Jiang"
 description: "Silong Jiang is a Mid-career Soil Carbon researcher at Lanzhou University in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.838158
+date: 2026-08-11T01:33:11.743515
 url: "/cdr-researcher-census/researchers/silong-jiang-a5109536/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    53 citations · Soil Carbon
 
 2. **Effects of recovery models on organic carbon pathways: A method using 13C natural abundance** (2022)
-   25 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 3. **Soil organic carbon stability of vegetation restoration during 11-year-old grassland succession** (2023)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 4. **Effect of Time since Afforestation on Soil Organic Carbon Stock and Turnover Rate** (2022)
    7 citations · Soil Carbon

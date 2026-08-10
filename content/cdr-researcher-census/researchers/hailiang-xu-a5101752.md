@@ -1,7 +1,7 @@
 ---
 title: "Hailiang Xu"
 description: "Hailiang Xu is a Senior Soil Carbon researcher at Xinjiang Agricultural University in CN. With 75 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.212951
+date: 2026-08-11T01:33:11.186085
 url: "/cdr-researcher-census/researchers/hailiang-xu-a5101752/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Biochar in sustainable agriculture and Climate Mitigation: Mechanisms, challenges, and applications in the circular bioeconomy** (2024)
-   89 citations · Biochar
+   93 citations · Biochar
 
 2. **Plant root-mediated carbon sequestration and nutrient cycling in grassland ecosystems under land use and climate change** (2025)
-   19 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 3. **Advances in ecological restoration of mining-impacted landscapes: Techniques, case studies, and key challenges** (2025)
-   7 citations
+   8 citations
 
 4. **Soil Organic Carbon Storage and Stratification in Land Use Types in the Source Area of the Tarim River Basin** (2024)
    4 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Hongye Su"
 description: "Hongye Su is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.183857
+date: 2026-08-11T01:33:12.068240
 url: "/cdr-researcher-census/researchers/hongye-su-a5088580/"
 layout: "researcher"
 hiddenInHomeList: true

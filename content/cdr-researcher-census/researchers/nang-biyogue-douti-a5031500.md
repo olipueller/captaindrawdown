@@ -1,7 +1,7 @@
 ---
 title: "Nang Biyogue Douti"
 description: "Nang Biyogue Douti is a Mid-career Soil Carbon researcher at Navrongo Health Research Centre in GH. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.746224
+date: 2026-08-11T01:33:11.661877
 url: "/cdr-researcher-census/researchers/nang-biyogue-douti-a5031500/"
 layout: "researcher"
 hiddenInHomeList: true

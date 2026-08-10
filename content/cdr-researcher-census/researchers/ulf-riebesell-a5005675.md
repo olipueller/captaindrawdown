@@ -1,7 +1,7 @@
 ---
 title: "Ulf Riebesell"
 description: "Ulf Riebesell is an Eminent Ocean CDR researcher at GEOMAR Helmholtz-Zentrum für Ozeanforschung Kiel in DE. With 849 publications and an h-index of 97, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.079784
+date: 2026-08-11T01:33:11.061512
 url: "/cdr-researcher-census/researchers/ulf-riebesell-a5005675/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Stability of alkalinity in ocean alkalinity enhancement (OAE) approaches – consequences for durability of CO <sub>2</sub> storage** (2023)
-   149 citations · General CDR
+   150 citations · General CDR
 
 2. **Effect of Intensity and Mode of Artificial Upwelling on Particle Flux and Carbon Export** (2021)
    42 citations · General CDR
@@ -60,25 +60,25 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    34 citations · Ocean CDR
 
 4. **Ocean alkalinity enhancement approaches and the predictability of runaway precipitation processes: results of an experimental study to determine critical alkalinity ranges for safe and sustainable application scenarios** (2024)
-   30 citations · General CDR
+   31 citations · General CDR
 
 5. **Stability of alkalinity in Ocean Alkalinity Enhancement (OAE) approaches – consequences for durability of CO <sub>2</sub> storage** (2022)
    25 citations
 
 6. **Plankton food web structure and productivity under ocean alkalinity enhancement** (2024)
-   21 citations · General CDR
+   23 citations · General CDR
 
 7. **Resilience of Phytoplankton and Microzooplankton Communities under Ocean Alkalinity Enhancement in the Oligotrophic Ocean** (2024)
-   20 citations · General CDR
+   21 citations · General CDR
 
 8. **Assessing the impact of CO <sub>2</sub> -equilibrated ocean alkalinity enhancement on microbial metabolic rates in an oligotrophic system** (2024)
    20 citations · Ocean CDR
 
 9. **Early life stages of fish under ocean alkalinity enhancement in coastal plankton communities** (2024)
-   16 citations · Ocean CDR
+   17 citations · Ocean CDR
 
 10. **Phytoplankton response to increased nickel in the context of ocean alkalinity enhancement** (2024)
-   16 citations · General CDR
+   17 citations · General CDR
 
 ## External Profiles
 

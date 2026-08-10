@@ -1,7 +1,7 @@
 ---
 title: "Aliza Pradhan"
 description: "Aliza Pradhan is a Senior Soil Carbon researcher at National Institute of Abiotic Stress Management in IN. With 78 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.304024
+date: 2026-08-11T01:33:11.271170
 url: "/cdr-researcher-census/researchers/aliza-pradhan-a5060641/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    20 citations · Soil Carbon
 
 2. **Nature-based solutions for enhancing CO2 sequestration and rehabilitating degraded lands through silvo-aromatic system and soil moisture conservation techniques** (2025)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 3. **Optimizing planting geometries in eucalyptus-based food production systems for enhanced yield and carbon sequestration** (2024)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 4. **Assessment of gains in productivity and water-energy-carbon nexus with tillage, trash retention and fertigation practices in drip irrigated sugarcane** (2025)
    8 citations · Soil Carbon
@@ -69,7 +69,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    3 citations · Soil Carbon
 
 7. **Navigating challenges and unlocking future opportunities in cereal-based cropping systems in India** (2026)
-   0 citations
+   1 citations
 
 ## External Profiles
 

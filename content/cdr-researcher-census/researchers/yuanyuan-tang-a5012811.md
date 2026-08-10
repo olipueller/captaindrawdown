@@ -1,7 +1,7 @@
 ---
 title: "Yuanyuan Tang"
 description: "Yuanyuan Tang is a Mid-career Soil Carbon researcher at Chengdu University of Traditional Chinese Medicine in CN. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.343970
+date: 2026-08-11T01:33:12.209530
 url: "/cdr-researcher-census/researchers/yuanyuan-tang-a5012811/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil moisture dominates the interannual variability in alpine ecosystem productivity by regulating maximum photosynthetic capacity across the Qinghai-Tibetan Plateau** (2023)
-   16 citations
+   17 citations
 
 2. **Analysis of the optimal photosynthetic environment for an alpine meadow ecosystem** (2023)
    11 citations
 
 3. **Soil Inorganic Carbon Losses Counteracted Soil Organic Carbon Increases in Deeper Soil over 30 Years in North China** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

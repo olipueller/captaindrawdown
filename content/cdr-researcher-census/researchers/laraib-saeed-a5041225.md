@@ -1,7 +1,7 @@
 ---
 title: "Laraib Saeed"
 description: "Laraib Saeed is a Mid-career Biochar researcher at Hohai University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.503270
+date: 2026-08-11T01:33:12.355984
 url: "/cdr-researcher-census/researchers/laraib-saeed-a5041225/"
 layout: "researcher"
 hiddenInHomeList: true

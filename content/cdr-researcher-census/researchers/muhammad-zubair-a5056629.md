@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Zubair"
 description: "Muhammad Zubair is a Senior Soil Carbon researcher at Bahauddin Zakariya University in PK. With 82 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.346251
+date: 2026-08-11T01:33:11.309330
 url: "/cdr-researcher-census/researchers/muhammad-zubair-a5056629/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Role of Traditional Agroforestry Systems in Climate Change Mitigation through Carbon Sequestration: An Investigation from the Semi-Arid Region of Pakistan** (2023)
-   47 citations · General CDR
+   48 citations · General CDR
 
 2. **Assessing the Contribution of Citrus Orchards in Climate Change Mitigation through Carbon Sequestration in Sargodha District, Pakistan** (2021)
    20 citations · Soil Carbon

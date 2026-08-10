@@ -1,7 +1,7 @@
 ---
 title: "María Antonia Mariezcurrena-Berasain"
 description: "María Antonia Mariezcurrena-Berasain is a Senior General CDR researcher at Universidad Autónoma del Estado de México in MX. With 38 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.936183
+date: 2026-08-11T01:33:11.832371
 url: "/cdr-researcher-census/researchers/maria-antonia-mariezcurrena-berasain-a5000036/"
 layout: "researcher"
 hiddenInHomeList: true

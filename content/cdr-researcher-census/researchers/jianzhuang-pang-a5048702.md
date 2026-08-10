@@ -1,7 +1,7 @@
 ---
 title: "Jianzhuang Pang"
 description: "Jianzhuang Pang is a Senior Soil Carbon researcher at Beijing Forestry University in CN. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.808272
+date: 2026-08-11T01:33:11.716879
 url: "/cdr-researcher-census/researchers/jianzhuang-pang-a5048702/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Stand characteristics regulate forest water use efficiency in the Three-North Shelterbelt Forest Program region of China** (2024)
-   11 citations · General CDR
+   13 citations · General CDR
 
 2. **The effects of environmental factors on stability of forest carbon sink exceeded biotic factors** (2024)
    0 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Alessandro Buscaroli"
 description: "Alessandro Buscaroli is a Senior Soil Carbon researcher at University of Bologna in IT. With 79 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.374818
+date: 2026-08-11T01:33:11.333150
 url: "/cdr-researcher-census/researchers/alessandro-buscaroli-a5046723/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The Long-Term Experiment Platform for the Study of Agronomical and Environmental Effects of the Biochar: Methodological Framework** (2022)
-   9 citations · Biochar
+   10 citations · Biochar
 
 2. **Long Term Experiment Platform : proposition for a global site network and experience coordination for the study of agronomical and environmental effects of biochar** (2023)
    1 citations · Biochar

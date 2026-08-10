@@ -1,7 +1,7 @@
 ---
 title: "Dongling Qi"
 description: "Dongling Qi is a Senior Soil Carbon researcher at Chinese Academy of Tropical Agricultural Sciences in CN. With 31 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.894240
+date: 2026-08-11T01:33:11.794088
 url: "/cdr-researcher-census/researchers/dongling-qi-a5083880/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The opportunities and challenges associated with developing rubber plantations as carbon sinks in China** (2024)
-   5 citations · General CDR
+   6 citations · General CDR
 
 2. **Multifunctional sustainability benefits of rubber agroforestry: Evidence from rubber–Alpinia oxyphylla systems in tropical China** (2026)
    0 citations · Soil Carbon

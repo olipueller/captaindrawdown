@@ -1,7 +1,7 @@
 ---
 title: "Jorge F. Montenegro"
 description: "Jorge F. Montenegro is a Mid-career General CDR researcher at University of Liverpool in GB. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.778009
+date: 2026-08-11T01:33:11.690615
 url: "/cdr-researcher-census/researchers/jorge-f-montenegro-a5082881/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Mangrove-based carbon market projects: Current trends and future perspectives** (2025)
-   2 citations · General CDR
+   3 citations · General CDR
 
 ## External Profiles
 

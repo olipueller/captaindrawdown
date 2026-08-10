@@ -1,7 +1,7 @@
 ---
 title: "Akiko Hirata"
 description: "Akiko Hirata is a Senior General CDR researcher at Forest Research in GB. With 37 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.269029
+date: 2026-08-11T01:33:11.237832
 url: "/cdr-researcher-census/researchers/akiko-hirata-a5102796/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The choice of land-based climate change mitigation measures influences future global biodiversity loss** (2024)
-   31 citations · BECCS
+   32 citations · BECCS
 
 2. **Afforestation and reforestation have varying biodiversity impacts across and within biomes** (2026)
    0 citations · General CDR

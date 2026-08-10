@@ -1,7 +1,7 @@
 ---
 title: "Nurzawani Md Sofwan"
 description: "Nurzawani Md Sofwan is a Mid-career Biochar researcher at Universiti Malaysia Sarawak in MY. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.570204
+date: 2026-08-11T01:33:11.503116
 url: "/cdr-researcher-census/researchers/nurzawani-md-sofwan-a5077130/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Coconut shell and husk biochar: A review of production and activation technology, economic, financial aspect and application** (2022)
-   152 citations · Biochar
+   156 citations · Biochar
 
 ## External Profiles
 

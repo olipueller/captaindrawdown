@@ -1,7 +1,7 @@
 ---
 title: "Yueling Zhang"
 description: "Yueling Zhang is a Senior Soil Carbon researcher at Chinese Academy of Agricultural Sciences Institute of Agricultural Resources and Regional Planning in CN. With 28 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.364475
+date: 2026-08-11T01:33:11.324305
 url: "/cdr-researcher-census/researchers/yueling-zhang-a5101993/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil organic carbon increase via microbial assimilation or soil protection against the priming effect is mediated by the availability of soil N relative to input C** (2024)
-   31 citations · Soil Carbon
+   35 citations · Soil Carbon
 
 2. **The Different Roles of Mineralogy in Soil Organic Carbon Accumulation in Northern and Southern China** (2023)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 3. **Mineralization of Soil Organic Carbon and Its Control Mechanisms Under Different Tea Plantations in Southwest Yunnan, China** (2025)
    0 citations · Soil Carbon

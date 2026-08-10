@@ -1,7 +1,7 @@
 ---
 title: "Bryce Van Dam"
 description: "Bryce Van Dam is a Mid-career Ocean CDR researcher at Helmholtz-Zentrum Hereon in DE. With 77 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.283846
+date: 2026-08-11T01:33:11.251805
 url: "/cdr-researcher-census/researchers/bryce-van-dam-a5012805/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    17 citations · Ocean CDR
 
 2. **Towards a fair, reliable, and practical verification framework for Blue Carbon-based CDR** (2024)
-   7 citations · General CDR
+   9 citations · General CDR
 
 3. **Perspectives on Marine Carbon Dioxide Removal from the Global Ocean Acidification Observing Network** (2025)
    5 citations · General CDR

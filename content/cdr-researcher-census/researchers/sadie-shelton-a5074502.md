@@ -1,7 +1,7 @@
 ---
 title: "Sadie Shelton"
 description: "Sadie Shelton is a Mid-career Soil Carbon researcher at University of Vermont in US. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.071237
+date: 2026-08-11T01:33:11.965444
 url: "/cdr-researcher-census/researchers/sadie-shelton-a5074502/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Countries’ commitments to soil organic carbon in Nationally Determined Contributions** (2021)
-   44 citations · General CDR
+   46 citations · General CDR
 
 2. **Delivering Climate Change Outcomes with Agroecology in Low- and Middle-Income Countries: Evidence and Actions Needed** (2023)
    6 citations · General CDR

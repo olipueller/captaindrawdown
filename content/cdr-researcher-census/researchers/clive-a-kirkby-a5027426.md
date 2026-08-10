@@ -1,7 +1,7 @@
 ---
 title: "Clive A. Kirkby"
 description: "Clive A. Kirkby is a Senior Soil Carbon researcher at Commonwealth Scientific and Industrial Research Organisation in AU. With 39 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.141457
+date: 2026-08-11T01:33:11.119373
 url: "/cdr-researcher-census/researchers/clive-a-kirkby-a5027426/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Microbial interkingdom associations across soil depths reveal network connectivity and keystone taxa linked to soil fine-fraction carbon content** (2021)
-   60 citations · Soil Carbon
+   61 citations · Soil Carbon
 
 2. **Fate and cost effectiveness of soil carbon sequestered using supplementary nutrients applied to crop residues under field conditions** (2023)
    16 citations
 
 3. **Microbial dynamics during in-situ organic matter decomposition reveals the importance of keystone taxa in the core microbiome** (2024)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 4. **Fate and cost effectiveness of soil carbon sequestered using supplementary nutrients applied to crop residues under field conditions** (2022)
    0 citations · Soil Carbon

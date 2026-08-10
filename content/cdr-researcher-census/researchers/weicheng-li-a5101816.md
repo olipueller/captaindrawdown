@@ -1,7 +1,7 @@
 ---
 title: "Weicheng Li"
 description: "Weicheng Li is a Senior Biochar researcher at East China University of Science and Technology in CN. With 47 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.694579
+date: 2026-08-11T01:33:11.615049
 url: "/cdr-researcher-census/researchers/weicheng-li-a5101816/"
 layout: "researcher"
 hiddenInHomeList: true

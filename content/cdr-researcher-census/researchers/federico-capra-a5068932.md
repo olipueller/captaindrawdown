@@ -1,7 +1,7 @@
 ---
 title: "Federico Capra"
 description: "Federico Capra is a Mid-career Soil Carbon researcher at Università Cattolica del Sacro Cuore in IT. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.794211
+date: 2026-08-11T01:33:11.705109
 url: "/cdr-researcher-census/researchers/federico-capra-a5068932/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    8 citations · Soil Carbon
 
 3. **Advancing agroecosystem management through strategic cover crop selection: The role of species identity and community composition for productivity and climate change mitigation** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Henri E. Cuny"
 description: "Henri E. Cuny is a Mid-career Soil Carbon researcher at Institut national de l’information géographique et forestière in FR. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.280125
+date: 2026-08-11T01:33:11.248363
 url: "/cdr-researcher-census/researchers/henri-e-cuny-a5104977/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Temperature and photoperiod interactions influence the cessation of wood growth in three temperate and boreal conifers** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 2. **Temperature and Photoperiod Interactions Regulate the Cessation of Wood Growth in Temperate and Boreal Conifers** (2025)
    0 citations

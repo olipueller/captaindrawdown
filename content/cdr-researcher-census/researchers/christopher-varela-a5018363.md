@@ -1,7 +1,7 @@
 ---
 title: "Christopher Varela"
 description: "Christopher Varela is a Mid-career General CDR researcher at Escuela Superior Politecnica del Litoral in EC. With 23 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.522200
+date: 2026-08-11T01:33:11.459817
 url: "/cdr-researcher-census/researchers/christopher-varela-a5018363/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Capturing CO2 from the atmosphere: Design and analysis of a large-scale DAC facility** (2022)
-   44 citations · DAC
+   47 citations · DAC
 
 2. **A Simulation-based Integration of Carbon Capture and Utilization in a Urea Production Process** (2024)
    3 citations · General CDR

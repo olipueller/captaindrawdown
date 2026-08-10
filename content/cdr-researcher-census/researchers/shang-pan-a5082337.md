@@ -1,7 +1,7 @@
 ---
 title: "Shang Pan"
 description: "Shang Pan is a Mid-career Biochar researcher at Nanjing Agricultural University in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.438851
+date: 2026-08-11T01:33:11.389270
 url: "/cdr-researcher-census/researchers/shang-pan-a5082337/"
 layout: "researcher"
 hiddenInHomeList: true

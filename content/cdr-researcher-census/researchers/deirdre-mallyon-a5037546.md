@@ -1,7 +1,7 @@
 ---
 title: "Deirdre Mallyon"
 description: "Deirdre Mallyon is a Mid-career Enhanced Weathering researcher at University of Alberta in CA. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.969835
+date: 2026-08-11T01:33:11.848747
 url: "/cdr-researcher-census/researchers/deirdre-mallyon-a5037546/"
 layout: "researcher"
 hiddenInHomeList: true

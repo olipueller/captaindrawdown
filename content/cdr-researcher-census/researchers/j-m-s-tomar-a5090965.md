@@ -1,7 +1,7 @@
 ---
 title: "J. M. S. Tomar"
 description: "J. M. S. Tomar is a Senior Soil Carbon researcher at ICAR Indian Institute of Soil and Water Conservation in IN. With 59 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.349594
+date: 2026-08-11T01:33:11.311885
 url: "/cdr-researcher-census/researchers/j-m-s-tomar-a5090965/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    13 citations · Soil Carbon
 
 3. **Distribution of soil carbon fractions under different bamboo species in northwest Himalayan foothills, India** (2022)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 4. **Tree species traits and soil biochemical properties drive carbon stability and temperature sensitivity of soil aggregates in agroforestry systems of subtropical northeast India** (2025)
    4 citations · Soil Carbon
@@ -65,11 +65,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 5. **Long-term ecological recovery of a minespoil watershed: Hydrological, vegetation, and carbon stock assessment** (2025)
    1 citations · Soil Carbon
 
-6. **CARBON FARMING - THE HEALING LUNGS OF FUTURE AGRICULTURE: A REVIEW** (2023)
-   1 citations · General CDR
+6. **Impact of slope gradient on tree biomass, carbon sequestration, and ecological functions in Rayagada District, Odisha, India** (2025)
+   1 citations · Soil Carbon
 
-7. **Impact of slope gradient on tree biomass, carbon sequestration, and ecological functions in Rayagada District, Odisha, India** (2025)
-   0 citations · Soil Carbon
+7. **CARBON FARMING - THE HEALING LUNGS OF FUTURE AGRICULTURE: A REVIEW** (2023)
+   1 citations · General CDR
 
 8. **Degraded Land Restoration Through Aromatic Plants in India: A Nature‐Based Solution** (2025)
    0 citations · Soil Carbon

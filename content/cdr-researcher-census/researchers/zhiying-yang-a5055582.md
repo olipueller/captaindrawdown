@@ -1,7 +1,7 @@
 ---
 title: "Zhiying Yang"
 description: "Zhiying Yang is a Mid-career Soil Carbon researcher at Beijing Botanical Garden in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.412487
+date: 2026-08-11T01:33:12.272130
 url: "/cdr-researcher-census/researchers/zhiying-yang-a5055582/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    59 citations · Soil Carbon
 
 2. **Effects of short- and long-term nutrient addition on microbial carbon use efficiency and carbon accumulation efficiency in the Tibetan alpine grassland** (2023)
-   31 citations · Soil Carbon
+   32 citations · Soil Carbon
 
 ## External Profiles
 

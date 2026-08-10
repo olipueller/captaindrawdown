@@ -1,7 +1,7 @@
 ---
 title: "Shijin Zhao"
 description: "Shijin Zhao is a Mid-career Soil Carbon researcher at China University of Mining and Technology in CN. With 13 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.715920
+date: 2026-08-11T01:33:11.634899
 url: "/cdr-researcher-census/researchers/shijin-zhao-a5108274/"
 layout: "researcher"
 hiddenInHomeList: true

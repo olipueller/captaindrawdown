@@ -1,7 +1,7 @@
 ---
 title: "Rajendran Narendran"
 description: "Rajendran Narendran is a Mid-career Soil Carbon researcher at Annamalai University in IN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.145453
+date: 2026-08-11T01:33:12.033989
 url: "/cdr-researcher-census/researchers/rajendran-narendran-a5102897/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon sequestration and storage in planted mangrove stands of Avicennia marina** (2021)
-   59 citations · Soil Carbon
+   62 citations · Soil Carbon
 
 ## External Profiles
 

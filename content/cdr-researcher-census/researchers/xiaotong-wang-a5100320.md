@@ -1,7 +1,7 @@
 ---
 title: "Xiaotong Wang"
 description: "Xiaotong Wang is a Mid-career Soil Carbon researcher at Qingdao University in CN. With 38 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.513449
+date: 2026-08-11T01:33:11.452495
 url: "/cdr-researcher-census/researchers/xiaotong-wang-a5100320/"
 layout: "researcher"
 hiddenInHomeList: true

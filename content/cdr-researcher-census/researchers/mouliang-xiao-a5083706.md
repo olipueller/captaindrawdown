@@ -1,7 +1,7 @@
 ---
 title: "Mouliang Xiao"
 description: "Mouliang Xiao is a Senior Soil Carbon researcher at Zhejiang A & F University in CN. With 55 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.198939
+date: 2026-08-11T01:33:11.173018
 url: "/cdr-researcher-census/researchers/mouliang-xiao-a5083706/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Rice rhizodeposition promotes the build-up of organic carbon in soil via fungal necromass** (2021)
-   123 citations · Soil Carbon
+   125 citations · Soil Carbon
 
 2. **Visualization and quantification of carbon “rusty sink” by rice root iron plaque: Mechanisms, functions, and global implications** (2022)
-   81 citations · Soil Carbon
+   84 citations · Soil Carbon
 
 3. **Meta-analysis on the effects of types and levels of N, P, and K fertilization on organic carbon in cropland soils** (2023)
-   61 citations · Soil Carbon
+   63 citations · Soil Carbon
 
 4. **Nitrogen-induced suppression of methane uptake is alleviated by biochar in a subtropical forest soil** (2025)
    3 citations · Biochar
 
 5. **Biochar alleviates ammonium-induced suppression of methane uptake in a subtropical forest soil** (2025)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

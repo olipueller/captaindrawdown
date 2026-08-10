@@ -1,7 +1,7 @@
 ---
 title: "Francisco Matus"
 description: "Francisco Matus is a Senior Soil Carbon researcher at Universidad de La Frontera in CL. With 136 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.163945
+date: 2026-08-11T01:33:11.140293
 url: "/cdr-researcher-census/researchers/francisco-matus-a5068811/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Fine silt and clay content is the main factor defining maximal C and N accumulations in soils: a meta-analysis** (2021)
-   181 citations · Soil Carbon
+   186 citations · Soil Carbon
 
 2. **Biological Crusts to Increase Soil Carbon Sequestration: New Challenges in a New Environment** (2021)
    28 citations · Soil Carbon
 
 3. **Management and liming-induced changes in organo-Al/Fe complexes and amorphous mineral-associated organic carbon: Implications for carbon sequestration in volcanic soils** (2024)
-   17 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 4. **Perspective of soil carbon sequestration in Chilean volcanic soils** (2024)
    12 citations · Soil Carbon

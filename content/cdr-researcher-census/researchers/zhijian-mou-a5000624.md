@@ -1,7 +1,7 @@
 ---
 title: "Zhijian Mou"
 description: "Zhijian Mou is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 37 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.424202
+date: 2026-08-11T01:33:11.376644
 url: "/cdr-researcher-census/researchers/zhijian-mou-a5000624/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,28 +51,28 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Faster accumulation and greater contribution of glomalin to the soil organic carbon pool than amino sugars do under tropical coastal forest restoration** (2022)
-   100 citations · Soil Carbon
+   102 citations · Soil Carbon
 
 2. **Climatic and edaphic controls over the elevational pattern of microbial necromass in subtropical forests** (2021)
-   91 citations · Soil Carbon
+   97 citations · Soil Carbon
 
 3. **Nutrient availability and stoichiometry mediate microbial effects on soil carbon sequestration in tropical forests** (2023)
-   74 citations · Soil Carbon
+   81 citations · Soil Carbon
 
 4. **Divergent accumulation of amino sugars and lignins mediated by soil functional carbon pools under tropical forest conversion** (2023)
    48 citations · Soil Carbon
 
 5. **Roots Dominate Over Extraradical Hyphae in Driving Soil Organic Carbon Accumulation During Tropical Forest Succession** (2025)
-   11 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 6. **Cross-scale spatial variability and associations of carbon pools provide insight into regulating carbon sequestration in tropical montane rainforests** (2024)
    5 citations · Soil Carbon
 
-7. **Nutrient availability and stoichiometry mediate microbial effects on soil carbon sequestration in tropical forests** (2024)
+7. **Accelerated soil carbon accumulation in an afforested multispecies forest compared with a monoculture driven by larger soil phosphorus mobilization** (2025)
    2 citations · Soil Carbon
 
-8. **Accelerated soil carbon accumulation in an afforested multispecies forest compared with a monoculture driven by larger soil phosphorus mobilization** (2025)
-   1 citations · Soil Carbon
+8. **Nutrient availability and stoichiometry mediate microbial effects on soil carbon sequestration in tropical forests** (2024)
+   2 citations · Soil Carbon
 
 9. **Divergent chemical responses of soil carbon and phosphorus to nutrient addition mediated by functional carbon pools in tropical forests** (2025)
    0 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Samuel Mwendwa"
 description: "Samuel Mwendwa is a Mid-career Soil Carbon researcher at Aarhus University in DK. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.360431
+date: 2026-08-11T01:33:12.224289
 url: "/cdr-researcher-census/researchers/samuel-mwendwa-a5000439/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of grazing management practices, topographic position, and land cover type on soil organic carbon fractions in semi-arid rangelands of Kenya** (2025)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Julia Pongratz"
 description: "Julia Pongratz is an Eminent General CDR researcher at Ludwig-Maximilians-Universität München in DE. With 494 publications and an h-index of 85, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.079426
+date: 2026-08-11T01:33:11.061206
 url: "/cdr-researcher-census/researchers/julia-pongratz-a5054849/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Land Use Effects on Climate: Current State, Recent Progress, and Emerging Topics** (2021)
-   183 citations · General CDR
+   186 citations · General CDR
 
 2. **The consolidated European synthesis of CO <sub>2</sub> emissions and removals for the European Union and United Kingdom: 1990–2018** (2021)
    57 citations
 
 3. **Ten new insights in climate science 2023** (2023)
-   42 citations · General CDR
+   45 citations · General CDR
 
 4. **On the use of Earth Observation to support estimates of national greenhouse gas emissions and sinks for the Global stocktake process: lessons learned from ESA-CCI RECCAP2** (2022)
-   31 citations · General CDR
+   33 citations · General CDR
 
 5. **Limited Mitigation Potential of Forestation Under a High Emissions Scenario: Results From Multi‐Model and Single Model Ensembles** (2023)
    15 citations · General CDR
@@ -75,10 +75,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    9 citations
 
 9. **Exploring Site‐Specific Carbon Dioxide Removal Options With Storage or Sequestration in the Marine Environment – The 10 Mt CO<sub>2</sub> yr<sup>−1</sup> Removal Challenge for Germany** (2025)
-   7 citations · General CDR
+   8 citations · General CDR
 
-10. **No compromise in efficiency from the co-application of a marine and a terrestrial CDR method** (2025)
-   5 citations · General CDR
+10. **From global to national GHG budgets: the REgional Carbon Cycle Assessment and Processes-3 (RECCAP3)** (2025)
+   8 citations · Ocean CDR
 
 ## External Profiles
 

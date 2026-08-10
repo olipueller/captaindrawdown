@@ -1,7 +1,7 @@
 ---
 title: "Jiongchang Zhao"
 description: "Jiongchang Zhao is a Mid-career Soil Carbon researcher at Huawei Technologies (China) in CN. With 23 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.295688
+date: 2026-08-11T01:33:12.166858
 url: "/cdr-researcher-census/researchers/jiongchang-zhao-a5000957/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,7 +53,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Estimating the Aboveground Biomass of Robinia pseudoacacia Based on UAV LiDAR Data** (2024)
    3 citations · Soil Carbon
 
-2. **Integration of UAV-LiDAR and Sentinel-2A Data for Modeling Robinia pseudoacacia Aboveground Biomass via Artificial Neural Networks** (2025)
+2. **Effects of vegetation restoration on deep soil carbon sequestration and its controlling mechanisms on the Loess Plateau** (2026)
+   0 citations · Soil Carbon
+
+3. **Integration of UAV-LiDAR and Sentinel-2A Data for Modeling Robinia pseudoacacia Aboveground Biomass via Artificial Neural Networks** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

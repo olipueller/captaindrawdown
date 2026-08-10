@@ -1,7 +1,7 @@
 ---
 title: "Zhenxing Zhou"
 description: "Zhenxing Zhou is a Senior Soil Carbon researcher at Luoyang Institute of Science and Technology in CN. With 59 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.217929
+date: 2026-08-11T01:33:11.190996
 url: "/cdr-researcher-census/researchers/zhenxing-zhou-a5014766/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,14 +50,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Short-term but not long-term perennial mugwort cropping increases soil organic carbon in Northern China Plain** (2022)
+1. **Nonlinear response of soil organic carbon sequestration to deadwood decomposition in a subtropical–temperate ecotonal forest** (2025)
    5 citations · Soil Carbon
 
-2. **Changes in Soil Microbial Community along a Chronosequence of Perennial Mugwort Cropping in Northern China Plain** (2022)
-   5 citations
+2. **Short-term but not long-term perennial mugwort cropping increases soil organic carbon in Northern China Plain** (2022)
+   5 citations · Soil Carbon
 
-3. **Nonlinear response of soil organic carbon sequestration to deadwood decomposition in a subtropical–temperate ecotonal forest** (2025)
-   4 citations · Soil Carbon
+3. **Changes in Soil Microbial Community along a Chronosequence of Perennial Mugwort Cropping in Northern China Plain** (2022)
+   5 citations
 
 4. **Coniferous Deadwood Decomposition Improves Soil Organic Carbon Storage in a Temperate Forest** (2023)
    0 citations · Soil Carbon

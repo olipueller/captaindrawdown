@@ -1,7 +1,7 @@
 ---
 title: "Mengyuan Wang"
 description: "Mengyuan Wang is a Mid-career Soil Carbon researcher at Chinese Academy of Tropical Agricultural Sciences in CN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.462812
+date: 2026-08-11T01:33:12.318983
 url: "/cdr-researcher-census/researchers/mengyuan-wang-a5048304/"
 layout: "researcher"
 hiddenInHomeList: true

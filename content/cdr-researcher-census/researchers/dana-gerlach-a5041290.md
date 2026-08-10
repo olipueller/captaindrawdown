@@ -1,7 +1,7 @@
 ---
 title: "Dana Gerlach"
 description: "Dana Gerlach is a Senior Ocean CDR researcher at Biological and Chemical Oceanography Data Management Office in US. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.034201
+date: 2026-08-11T01:33:11.909486
 url: "/cdr-researcher-census/researchers/dana-gerlach-a5041290/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Synthesis Product for Ocean Time Series (SPOTS) – a ship-based biogeochemical pilot** (2024)
-   9 citations · General CDR
+   10 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Riti Thapar Kapoor"
 description: "Riti Thapar Kapoor is a Mid-career Biochar researcher at Amity University in IN. With 126 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.252163
+date: 2026-08-11T01:33:11.222576
 url: "/cdr-researcher-census/researchers/riti-thapar-kapoor-a5037145/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Adsorptive potential of coconut fruit shell biochar as low-cost adsorbent for sequestration of rhodamine B dye: kinetics, thermodynamics and phytotoxicity studies** (2024)
-   20 citations · Biochar
+   21 citations · Biochar
 
 2. **Leveraging biotechnological approaches for the degradation of plastics: A sustainable tool for plastic waste management and environment protection** (2024)
    15 citations
@@ -65,13 +65,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 5. **Treatment of Direct Red 28 Dye through Phoenix dactylifera L. Fruit Seed Biochar: Equilibrium, Kinetics, Thermodynamics, and Phytotoxicity Studies** (2023)
    6 citations · Biochar
 
-6. **Fabrication of Iron and Nitrogen Doped Magnetic Banana Fruit Peel Biochar for Sequestration of Eriochrome Black T Dye: Mechanistic Insights and Reutilization Strategy** (2025)
+6. **Melamine-assisted synthesis of mesoporous biochar from palm kernel shells for enhanced paraquat removal from aqueous solutions** (2025)
+   5 citations · Biochar
+
+7. **Fabrication of Iron and Nitrogen Doped Magnetic Banana Fruit Peel Biochar for Sequestration of Eriochrome Black T Dye: Mechanistic Insights and Reutilization Strategy** (2025)
    4 citations · Biochar
 
-7. **Sequestration of Reactive Orange 16 Dye by Nitrogen‐Impregnated <i>Terminalia arjuna</i> Seed Biochar: Insights into Kinetics, Thermodynamics, Reusability, and Phytotoxicity Assessment** (2025)
-   4 citations · Biochar
-
-8. **Melamine-assisted synthesis of mesoporous biochar from palm kernel shells for enhanced paraquat removal from aqueous solutions** (2025)
+8. **Sequestration of Reactive Orange 16 Dye by Nitrogen‐Impregnated <i>Terminalia arjuna</i> Seed Biochar: Insights into Kinetics, Thermodynamics, Reusability, and Phytotoxicity Assessment** (2025)
    4 citations · Biochar
 
 9. **Melamine-nitrogenated mesoporous biochar derived from palm kernel shells for diuron adsorption in contaminated water** (2024)

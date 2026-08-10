@@ -1,7 +1,7 @@
 ---
 title: "Emily A. Ury"
 description: "Emily A. Ury is a Mid-career Soil Carbon researcher at Colgate University in US. With 35 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.410818
+date: 2026-08-11T01:33:11.364379
 url: "/cdr-researcher-census/researchers/emily-a-ury-a5042648/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Saltwater intrusion in context: soil factors regulate impacts of salinity on soil carbon cycling** (2021)
-   23 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 2. **Evaluating temporal trade-offs in climate effects from carbon dioxide removal strategies across different metrics: a case study on wetland restoration** (2025)
    1 citations · General CDR

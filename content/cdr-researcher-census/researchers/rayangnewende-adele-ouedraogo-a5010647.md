@@ -1,7 +1,7 @@
 ---
 title: "Rayangnéwendé Adèle Ouédraogo"
 description: "Rayangnéwendé Adèle Ouédraogo is a Mid-career Soil Carbon researcher at Institut de Recherche en Sciences de la Santé in BF. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.564873
+date: 2026-08-11T01:33:12.410185
 url: "/cdr-researcher-census/researchers/rayangnewende-adele-ouedraogo-a5010647/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xingshe Liu"
 description: "Xingshe Liu is a Mid-career Biochar researcher at Ningxia University in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.837749
+date: 2026-08-11T01:33:11.743143
 url: "/cdr-researcher-census/researchers/xingshe-liu-a5041009/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Enhanced efficiency and mechanism of low-temperature biochar on simultaneous removal of nitrogen and phosphorus by combined heterotrophic nitrification-aerobic denitrification bacteria** (2023)
-   44 citations · Biochar
+   49 citations · Biochar
 
 ## External Profiles
 

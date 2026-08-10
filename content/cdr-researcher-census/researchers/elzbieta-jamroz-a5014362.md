@@ -1,7 +1,7 @@
 ---
 title: "Elżbieta Jamróz"
 description: "Elżbieta Jamróz is a Senior Soil Carbon researcher at Wroclaw University of Environmental and Life Sciences in PL. With 67 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.289885
+date: 2026-08-11T01:33:11.257706
 url: "/cdr-researcher-census/researchers/elzbieta-jamroz-a5014362/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Deashed Wheat-Straw Biochar as a Potential Superabsorbent for Pesticides** (2023)
-   34 citations · Biochar
+   35 citations · Biochar
 
 2. **Properties of humin isolated from Polish arable soils: The most recalcitrant fraction of soil organic matter that prevent soil degradation** (2024)
    7 citations · Soil Carbon

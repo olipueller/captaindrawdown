@@ -1,7 +1,7 @@
 ---
 title: "Pallavi Bobba"
 description: "Pallavi Bobba is a Mid-career DAC researcher at Argonne National Laboratory in US. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.972964
+date: 2026-08-11T01:33:11.851904
 url: "/cdr-researcher-census/researchers/pallavi-bobba-a5023386/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Techno-economic and life cycle analysis of synthetic natural gas production from low-carbon H2 and point-source or atmospheric CO2 in the United States** (2024)
-   11 citations · DAC
+   12 citations · DAC
 
 ## External Profiles
 

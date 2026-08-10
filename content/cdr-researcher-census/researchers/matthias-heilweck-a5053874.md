@@ -1,7 +1,7 @@
 ---
 title: "Matthias Heilweck"
 description: "Matthias Heilweck is a Mid-career Ocean CDR researcher at Alcon (China) in CN. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.530001
+date: 2026-08-11T01:33:12.381147
 url: "/cdr-researcher-census/researchers/matthias-heilweck-a5053874/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Planetary bioengineering on Earth to return and maintain the atmospheric carbon dioxide to pre-industrial levels: Assessing potential mechanisms** (2022)
-   4 citations · General CDR
+   5 citations · General CDR
 
 2. **An Assessment of the Potential Value for Climate Remediation of Ocean Calcifiers in Sequestration of Atmospheric Carbon** (2022)
    1 citations · Ocean CDR

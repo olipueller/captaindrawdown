@@ -1,7 +1,7 @@
 ---
 title: "Magdalena Sut‐Lohmann"
 description: "Magdalena Sut‐Lohmann is a Mid-career Soil Carbon researcher at Technische Universität Braunschweig in DE. With 40 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.912655
+date: 2026-08-11T01:33:11.811191
 url: "/cdr-researcher-census/researchers/magdalena-sutlohmann-a5001842/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Assessing the Possibility to Cultivate Industrial Hemp (Cannabis sativa L.) in Sandy Agricultural Soils of Brandenburg under Water Scarcity and Nutrient Deficiency** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 2. **Fiber hemp as a feasible crop for enhancing carbon sequestration and cultivation under water scarcity in sandy agricultural soils** (2022)
    0 citations · Soil Carbon

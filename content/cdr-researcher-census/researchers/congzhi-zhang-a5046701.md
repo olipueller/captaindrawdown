@@ -1,7 +1,7 @@
 ---
 title: "Congzhi Zhang"
 description: "Congzhi Zhang is a Senior Soil Carbon researcher at Institute of Soil Science in CN. With 109 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.158543
+date: 2026-08-11T01:33:11.134994
 url: "/cdr-researcher-census/researchers/congzhi-zhang-a5046701/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,34 +48,34 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **N, P and straw return influence the accrual of organic carbon fractions and microbial traits in a Mollisol** (2021)
-   63 citations · Biochar
+   64 citations · Biochar
 
 2. **Combining rotary and deep tillage increases crop yields by improving the soil physical structure and accumulating organic carbon of subsoil** (2024)
-   58 citations · Soil Carbon
+   63 citations · Soil Carbon
 
 3. **Calcium carbonate regulates soil organic carbon accumulation by mediating microbial communities in northern China** (2023)
-   45 citations · Soil Carbon
+   49 citations · Soil Carbon
 
-4. **Effects of Organic and Inorganic Fertilization on Soil Organic Carbon and Enzymatic Activities** (2022)
+4. **Agroforestry increases soil carbon sequestration, especially in arid areas: A global meta-analysis** (2024)
+   43 citations · General CDR
+
+5. **Effects of Organic and Inorganic Fertilization on Soil Organic Carbon and Enzymatic Activities** (2022)
    42 citations · Soil Carbon
 
-5. **Nitrogen input level modulates straw-derived organic carbon physical fractions accumulation by stimulating specific fungal groups during decomposition** (2022)
-   40 citations · Soil Carbon
+6. **Nitrogen input level modulates straw-derived organic carbon physical fractions accumulation by stimulating specific fungal groups during decomposition** (2022)
+   41 citations · Soil Carbon
 
-6. **Long-term conservation tillage enhances microbial carbon use efficiency by altering multitrophic interactions in soil** (2024)
-   37 citations · Soil Carbon
+7. **Long-term conservation tillage enhances microbial carbon use efficiency by altering multitrophic interactions in soil** (2024)
+   39 citations · Soil Carbon
 
-7. **Agroforestry increases soil carbon sequestration, especially in arid areas: A global meta-analysis** (2024)
-   32 citations · General CDR
+8. **Salinity-driven differentiation of bacterial and fungal communities in coastal wetlands: Contrasting assembly processes and spatial dynamics** (2025)
+   17 citations
 
-8. **Impact of Virus‐Mediated Modifications in Bacterial Communities on the Accumulation of Soil Organic Carbon** (2025)
-   14 citations · Soil Carbon
+9. **Enhanced priming effect in agricultural soils driven by high-quality exogenous organic carbon additions: A meta-analysis** (2025)
+   16 citations · Soil Carbon
 
-9. **Salinity-driven differentiation of bacterial and fungal communities in coastal wetlands: Contrasting assembly processes and spatial dynamics** (2025)
-   14 citations
-
-10. **Enhanced priming effect in agricultural soils driven by high-quality exogenous organic carbon additions: A meta-analysis** (2025)
-   14 citations · Soil Carbon
+10. **Impact of Virus‐Mediated Modifications in Bacterial Communities on the Accumulation of Soil Organic Carbon** (2025)
+   15 citations · Soil Carbon
 
 ## External Profiles
 

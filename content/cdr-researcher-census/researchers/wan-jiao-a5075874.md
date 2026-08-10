@@ -1,7 +1,7 @@
 ---
 title: "Wan Jiao"
 description: "Wan Jiao is a Mid-career Soil Carbon researcher at Central South University of Forestry and Technology in CN. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.455920
+date: 2026-08-11T01:33:11.403667
 url: "/cdr-researcher-census/researchers/wan-jiao-a5075874/"
 layout: "researcher"
 hiddenInHomeList: true

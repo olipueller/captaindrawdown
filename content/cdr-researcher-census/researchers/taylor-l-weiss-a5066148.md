@@ -1,7 +1,7 @@
 ---
 title: "Taylor L. Weiss"
 description: "Taylor L. Weiss is a Senior DAC researcher at Arizona State University - Polytechnic Campus in US. With 18 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.261777
+date: 2026-08-11T01:33:11.231450
 url: "/cdr-researcher-census/researchers/taylor-l-weiss-a5066148/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Integrated techno-economic and life cycle assessment of a novel algae-based coating for direct air carbon capture and sequestration** (2023)
-   26 citations
+   27 citations
 
 2. **Integrated Techno-Economic and Life Cycle Assessment of a Novel Algae-Based Coating for Direct Air Carbon Capture and Sequestration** (2022)
    1 citations · DAC

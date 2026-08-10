@@ -1,7 +1,7 @@
 ---
 title: "Jinjun Cai"
 description: "Jinjun Cai is a Senior Biochar researcher at Xiangtan University in CN. With 107 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.142148
+date: 2026-08-11T01:33:11.119975
 url: "/cdr-researcher-census/researchers/jinjun-cai-a5022393/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Visible-light-driven photocatalytic degradation of dye and antibiotics by activated biochar composited with K+ doped g-C3N4: Effects, mechanisms, actual wastewater treatment and disinfection** (2022)
-   136 citations · Biochar
+   149 citations · Biochar
 
 2. **Facile preparation of multi-porous biochar from lotus biomass for methyl orange removal: Kinetics, isotherms, and regeneration studies** (2021)
-   82 citations · Biochar
+   85 citations · Biochar
 
 3. **Enhanced removal of methylene blue from water by mesopore-dominant biochar from kelp: Kinetic, equilibrium and thermodynamic studies** (2024)
    17 citations · Biochar
 
 4. **N-containing biochar from oatmeal: hydrothermal synthesis and used as highly efficient adsorbent for Cr(VI) adsorptive-reduction removal** (2023)
-   12 citations · Biochar
+   13 citations · Biochar
 
 5. **One-step template-free pyrolysis for biochar: Biomass organs control porosity and high-performance for methylene blue removal from water** (2025)
    10 citations · Biochar

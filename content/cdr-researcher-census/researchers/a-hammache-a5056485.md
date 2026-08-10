@@ -1,7 +1,7 @@
 ---
 title: "A. Hammache"
 description: "A. Hammache is a Senior General CDR researcher at Natural Resources Canada in CA. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.690191
+date: 2026-08-11T01:33:11.611394
 url: "/cdr-researcher-census/researchers/a-hammache-a5056485/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The role of hydrogen in a net-zero emission economy under alternative policy scenarios** (2023)
-   96 citations · General CDR
+   99 citations · General CDR
 
 ## External Profiles
 

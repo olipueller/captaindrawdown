@@ -1,7 +1,7 @@
 ---
 title: "Meiqing Jin"
 description: "Meiqing Jin is a Senior Biochar researcher at California University of Pennsylvania in US. With 59 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.226212
+date: 2026-08-11T01:33:11.198743
 url: "/cdr-researcher-census/researchers/meiqing-jin-a5028994/"
 layout: "researcher"
 hiddenInHomeList: true

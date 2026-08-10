@@ -1,7 +1,7 @@
 ---
 title: "Sumanta Das"
 description: "Sumanta Das is a Senior General CDR researcher at The University of Queensland in AU. With 78 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.310612
+date: 2026-08-11T01:33:11.277294
 url: "/cdr-researcher-census/researchers/sumanta-das-a5083252/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Bamboo for global sustainability: a systematic review of its environmental and ecological implications, climate action, and biodiversity contributions** (2025)
-   20 citations · General CDR
+   25 citations · General CDR
 
 2. **Harnessing green wealth: A two-decade global assessment of forest carbon sequestration and credits and the economic implications of sustainable forest management practices** (2025)
-   18 citations · General CDR
+   20 citations · General CDR
 
 3. **Synergizing sustainability: a critical review on harnessing agroforestry for biomass, carbon sequestration, and water-food-energy nexus** (2024)
-   7 citations · BECCS
+   10 citations · BECCS
 
 4. **Navigating the Future: Climate Change Impacts, Mitigation Strategies, and Adaptation Pathways in Agriculture** (2025)
    1 citations · General CDR

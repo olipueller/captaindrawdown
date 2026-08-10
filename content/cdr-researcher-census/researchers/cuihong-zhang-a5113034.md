@@ -1,7 +1,7 @@
 ---
 title: "Cuihong Zhang"
 description: "Cuihong Zhang is a Senior Soil Carbon researcher at Guangdong University of Technology in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.797766
+date: 2026-08-11T01:33:11.708170
 url: "/cdr-researcher-census/researchers/cuihong-zhang-a5113034/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Characteristics of Changes to <scp>POC</scp> and <scp>MAOC</scp> After Straw Returning in China: A Meta‐Analysis** (2025)
-   11 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 ## External Profiles
 

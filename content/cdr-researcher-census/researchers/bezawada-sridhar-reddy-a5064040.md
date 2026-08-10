@@ -1,7 +1,7 @@
 ---
 title: "Bezawada Sridhar Reddy"
 description: "Bezawada Sridhar Reddy is a Mid-career Biochar researcher at Indian Institute of Petroleum in IN. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.452792
+date: 2026-08-11T01:33:12.309814
 url: "/cdr-researcher-census/researchers/bezawada-sridhar-reddy-a5064040/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Nanobiochar—a green catalyst for wastewater remediation** (2022)
-   12 citations · Biochar
+   13 citations · Biochar
 
 ## External Profiles
 

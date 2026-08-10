@@ -1,7 +1,7 @@
 ---
 title: "Ken Belcher"
 description: "Ken Belcher is a Senior General CDR researcher at University of Saskatchewan in CA. With 39 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.376425
+date: 2026-08-11T01:33:11.334342
 url: "/cdr-researcher-census/researchers/ken-belcher-a5103526/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    21 citations · General CDR
 
 2. **Agronomic and economic effects of wetlands on crop yields using precision agriculture data** (2024)
-   11 citations · General CDR
+   12 citations · General CDR
 
 ## External Profiles
 

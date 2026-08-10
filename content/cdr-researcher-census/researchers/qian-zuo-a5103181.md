@@ -1,7 +1,7 @@
 ---
 title: "Qian Zuo"
 description: "Qian Zuo is a Senior Biochar researcher at South China University of Technology in CN. With 42 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.408411
+date: 2026-08-11T01:33:11.362131
 url: "/cdr-researcher-census/researchers/qian-zuo-a5103181/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Enhanced Cr(VI) reduction and immobilization by Fe0 coupled with biochar through galvanic interaction** (2025)
-   5 citations · Biochar
+   6 citations · Biochar
 
 2. **Promoted Iron Corrosion Through Iron-Carbon Micro-Electrolysis with Mixed Fe0 and Biochar for Enhanced Cr(Vi) Removal** (2024)
    0 citations · Biochar

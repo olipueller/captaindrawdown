@@ -1,7 +1,7 @@
 ---
 title: "Sanjoy Kumar Das"
 description: "Sanjoy Kumar Das is a Senior Soil Carbon researcher. With 24 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.802676
+date: 2026-08-11T01:33:11.712454
 url: "/cdr-researcher-census/researchers/sanjoy-kumar-das-a5103976/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Changes in soil microbial biomass and organic C pools improve the sustainability of perennial grass and legume system under organic nutrient management** (2023)
-   17 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 2. **"Quantification of litter fall and estimation of nutrient release through in-situ decomposition of leaf litter from some important mangrove species for projected carbon sequestration of Indian Sundarbans"** (2022)
    2 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Jonathan Strutz"
 description: "Jonathan Strutz is a Mid-career General CDR researcher. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.448848
+date: 2026-08-11T01:33:11.397321
 url: "/cdr-researcher-census/researchers/jonathan-strutz-a5043770/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Addendum: Carbon-negative production of acetone and isopropanol by gas fermentation at industrial pilot scale** (2025)
-   2 citations · General CDR
+   3 citations · General CDR
 
 ## External Profiles
 

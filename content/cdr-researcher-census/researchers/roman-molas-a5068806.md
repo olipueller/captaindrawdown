@@ -1,7 +1,7 @@
 ---
 title: "Roman Molas"
 description: "Roman Molas is a Mid-career Soil Carbon researcher at University of Warsaw in PL. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.904282
+date: 2026-08-11T01:33:11.803298
 url: "/cdr-researcher-census/researchers/roman-molas-a5068806/"
 layout: "researcher"
 hiddenInHomeList: true

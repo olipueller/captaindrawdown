@@ -1,7 +1,7 @@
 ---
 title: "Rebecca Wilson"
 description: "Rebecca Wilson is a Senior BECCS researcher at Aberystwyth University in GB. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.188034
+date: 2026-08-11T01:33:12.071842
 url: "/cdr-researcher-census/researchers/rebecca-wilson-a5111954/"
 layout: "researcher"
 hiddenInHomeList: true

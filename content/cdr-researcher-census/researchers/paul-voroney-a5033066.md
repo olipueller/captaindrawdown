@@ -1,7 +1,7 @@
 ---
 title: "Paul Voroney"
 description: "Paul Voroney is a Senior Soil Carbon researcher at University of Guelph in CA. With 84 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.243555
+date: 2026-08-11T01:33:11.214855
 url: "/cdr-researcher-census/researchers/paul-voroney-a5033066/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Chemical composition of soil humin in an organic soil profile** (2024)
    19 citations
 
-2. **Soil organic carbon enhancement in diverse temperate riparian buffer systems in comparison with adjacent agricultural soils** (2021)
-   14 citations · Soil Carbon
+2. **Evidence for the formation of fused aromatic ring structures in an organic soil profile in the early diagenesis** (2023)
+   14 citations
 
-3. **Evidence for the formation of fused aromatic ring structures in an organic soil profile in the early diagenesis** (2023)
-   12 citations
+3. **Soil organic carbon enhancement in diverse temperate riparian buffer systems in comparison with adjacent agricultural soils** (2021)
+   14 citations · Soil Carbon
 
 4. **Development of a Land Use Carbon Inventory for Agricultural Soils in the Canadian Province of Ontario** (2021)
    9 citations · General CDR

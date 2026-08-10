@@ -1,7 +1,7 @@
 ---
 title: "Dietmar Barkusky"
 description: "Dietmar Barkusky is a Senior Soil Carbon researcher at Leibniz Centre for Agricultural Landscape Research in DE. With 48 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.325782
+date: 2026-08-11T01:33:11.290644
 url: "/cdr-researcher-census/researchers/dietmar-barkusky-a5061502/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,13 +48,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil organic carbon sequestration in agricultural long-term field experiments as derived from particulate and mineral-associated organic matter** (2023)
-   72 citations · Soil Carbon
+   73 citations · Soil Carbon
 
 2. **Twenty percent of agricultural management effects on organic carbon stocks occur in subsoils – Results of ten long-term experiments** (2023)
-   66 citations
+   71 citations
 
 3. **Crop straw recycling prevents anthropogenic desilication of agricultural soil–plant systems in the temperate zone – Results from a long-term field experiment in NE Germany** (2021)
-   58 citations · Soil Carbon
+   59 citations · Soil Carbon
 
 4. **Twenty Percent of Agricultural Management Effects on Organic Carbon Stocks Occur in Subsoils – Results of Ten Long-Term Experiments** (2023)
    3 citations · Soil Carbon

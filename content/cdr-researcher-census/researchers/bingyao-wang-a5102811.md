@@ -1,7 +1,7 @@
 ---
 title: "Bingyao Wang"
 description: "Bingyao Wang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 44 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.341919
+date: 2026-08-11T01:33:11.304682
 url: "/cdr-researcher-census/researchers/bingyao-wang-a5102811/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,12 +51,12 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Revegetation promotes soil mineral-associated organic carbon sequestration and soil carbon stability in the Tengger Desert, northern China** (2023)
-   58 citations · Soil Carbon
+   61 citations · Soil Carbon
 
-2. **Elevational control on microbial residues contributions to soil organic carbon: Dual regulation by soil moisture and total nitrogen dynamics in semi-arid mountain soils** (2025)
-   0 citations · Soil Carbon
+2. **Planting Ages Inhibited Soil Respiration and CO2-C Emissions Attribute to Soil Degradation in Gravel-Mulched Land in Arid Areas** (2024)
+   1 citations · Soil Carbon
 
-3. **Planting Ages Inhibited Soil Respiration and CO2-C Emissions Attribute to Soil Degradation in Gravel-Mulched Land in Arid Areas** (2024)
+3. **Elevational control on microbial residues contributions to soil organic carbon: Dual regulation by soil moisture and total nitrogen dynamics in semi-arid mountain soils** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

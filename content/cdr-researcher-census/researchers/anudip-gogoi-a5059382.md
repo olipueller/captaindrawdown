@@ -1,7 +1,7 @@
 ---
 title: "Anudip Gogoi"
 description: "Anudip Gogoi is a Mid-career Soil Carbon researcher at Mizoram University in IN. With 11 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.533625
+date: 2026-08-11T01:33:11.469949
 url: "/cdr-researcher-census/researchers/anudip-gogoi-a5059382/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Stability of soil organic carbon pools affected by land use and land cover changes in forests of eastern Himalayan region, India** (2022)
-   41 citations · Soil Carbon
+   42 citations · Soil Carbon
 
 ## External Profiles
 

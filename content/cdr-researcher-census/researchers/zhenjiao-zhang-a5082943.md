@@ -1,7 +1,7 @@
 ---
 title: "Zhenjiao Zhang"
 description: "Zhenjiao Zhang is a Mid-career Soil Carbon researcher at North West Agriculture and Forestry University in CN. With 16 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.550529
+date: 2026-08-11T01:33:11.485503
 url: "/cdr-researcher-census/researchers/zhenjiao-zhang-a5082943/"
 layout: "researcher"
 hiddenInHomeList: true

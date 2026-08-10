@@ -1,7 +1,7 @@
 ---
 title: "Jiyun Ren"
 description: "Jiyun Ren is a Mid-career Biochar researcher at Northwestern Polytechnical University in CN. With 36 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.070159
+date: 2026-08-11T01:33:11.964508
 url: "/cdr-researcher-census/researchers/jiyun-ren-a5101474/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **DFT study on adsorption of Pb(Ⅱ) by biochar: focusing on molecular structure and alkali and alkaline earth metals** (2025)
-   10 citations · Biochar
+   13 citations · Biochar
 
 2. **Adsorption of dibenzofuran by modified biochar derived from microwave gasification: Impact factors and adsorption mechanism** (2024)
    5 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Tasso Azevedo"
 description: "Tasso Azevedo is a Mid-career General CDR researcher at Woman's Hospital in US. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.171319
+date: 2026-08-11T01:33:11.147301
 url: "/cdr-researcher-census/researchers/tasso-azevedo-a5084117/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Nature‐based solutions are critical for putting Brazil on track towards net‐zero emissions by 2050** (2023)
-   30 citations · General CDR
+   31 citations · General CDR
 
 2. **Nature-Based Solutions Are Critical for Putting Brazil on Track Towards Net Zero** (2022)
    3 citations · General CDR

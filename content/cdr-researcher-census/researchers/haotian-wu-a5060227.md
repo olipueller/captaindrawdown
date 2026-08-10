@@ -1,7 +1,7 @@
 ---
 title: "Haotian Wu"
 description: "Haotian Wu is a Mid-career Biochar researcher at Shanghai Ocean University in CN. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.684039
+date: 2026-08-11T01:33:11.605261
 url: "/cdr-researcher-census/researchers/haotian-wu-a5060227/"
 layout: "researcher"
 hiddenInHomeList: true

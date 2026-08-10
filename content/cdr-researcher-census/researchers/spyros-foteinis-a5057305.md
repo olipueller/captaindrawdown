@@ -1,7 +1,7 @@
 ---
 title: "Spyros Foteinis"
 description: "Spyros Foteinis is a Senior General CDR researcher at Public Power Corporation SA in GR. With 116 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-12T12:07:29.172947
+date: 2026-08-11T01:33:11.115133
 url: "/cdr-researcher-census/researchers/spyros-foteinis-a5057305/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The cost of direct air capture and storage can be reduced via strategic deployment but is unlikely to fall below stated cost targets** (2023)
-   191 citations · DAC
+   194 citations · DAC
 
 2. **Assessing the technical aspects of ocean-alkalinity-enhancement approaches** (2023)
-   105 citations · General CDR
+   106 citations · General CDR
 
 3. **Life Cycle Assessment of Coastal Enhanced Weathering for Carbon Dioxide Removal from Air** (2023)
-   94 citations · Enhanced Weathering
+   95 citations · Enhanced Weathering
 
 4. **Life cycle assessment of ocean liming for carbon dioxide removal from the atmosphere** (2022)
-   72 citations
+   73 citations
 
 5. **Geochemical Negative Emissions Technologies: Part I. Review** (2022)
-   65 citations · DAC
+   66 citations · DAC
 
 6. **Assessing technical aspects of ocean alkalinity enhancement approaches** (2023)
-   22 citations · General CDR
+   23 citations · General CDR
 
 7. **Geochemical Negative Emissions Technologies: Part II. Roadmap** (2022)
    20 citations

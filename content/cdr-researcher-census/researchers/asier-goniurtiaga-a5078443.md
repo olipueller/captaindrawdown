@@ -1,7 +1,7 @@
 ---
 title: "Asier Goñi‐Urtiaga"
 description: "Asier Goñi‐Urtiaga is a Mid-career Biochar researcher at Consejo Superior de Investigaciones Científicas in ES. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.518898
+date: 2026-08-11T01:33:11.457018
 url: "/cdr-researcher-census/researchers/asier-goniurtiaga-a5078443/"
 layout: "researcher"
 hiddenInHomeList: true

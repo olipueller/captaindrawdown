@@ -1,7 +1,7 @@
 ---
 title: "Alex Woodley"
 description: "Alex Woodley is a Mid-career Enhanced Weathering researcher at Agriculture and Agri-Food Canada in CA. With 51 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.458776
+date: 2026-08-11T01:33:11.405662
 url: "/cdr-researcher-census/researchers/alex-woodley-a5067604/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Evaluating biomass sustainability: Why below-ground carbon sequestration matters** (2024)
-   47 citations · BECCS
+   49 citations · BECCS
 
 2. **Direct Measurement of Carbon Dioxide Removal Due to Enhanced Weathering** (2025)
    3 citations · Enhanced Weathering

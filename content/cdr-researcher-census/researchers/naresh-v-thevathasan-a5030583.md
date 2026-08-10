@@ -1,7 +1,7 @@
 ---
 title: "Naresh V. Thevathasan"
 description: "Naresh V. Thevathasan is a Senior Soil Carbon researcher at University of Guelph in CA. With 117 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.143544
+date: 2026-08-11T01:33:11.121213
 url: "/cdr-researcher-census/researchers/naresh-v-thevathasan-a5030583/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -59,11 +59,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **The effect of land-use conversion from agriculture to perennial biomass crops and nitrogen fertilizer on soil organic carbon stock in southern Ontario, Canada** (2023)
    6 citations · Soil Carbon
 
-4. **Soil carbon dynamics in perennial biomass crops on marginally productive cropland in southern Canada** (2024)
-   2 citations · Soil Carbon
+4. **Quantification of the Carbon Sequestration Potential of a 31-year-old Tree-based Intercropping System in Southern Ontario, Canada** (2022)
+   3 citations
 
-5. **Quantification of the Carbon Sequestration Potential of a 31-year-old Tree-based Intercropping System in Southern Ontario, Canada** (2022)
-   2 citations
+5. **Soil carbon dynamics in perennial biomass crops on marginally productive cropland in southern Canada** (2024)
+   2 citations · Soil Carbon
 
 6. **Soil Organic Carbon Storage of Different Soil‐Sized Fractions in Perennial Bioenergy Crops on Marginally Productive Cropland in Southern Canada** (2025)
    1 citations · BECCS

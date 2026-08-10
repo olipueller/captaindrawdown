@@ -1,7 +1,7 @@
 ---
 title: "Victória Santos Souza"
 description: "Victória Santos Souza is a Mid-career Soil Carbon researcher at Universidade de São Paulo in BR. With 26 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.505798
+date: 2026-08-11T01:33:12.358473
 url: "/cdr-researcher-census/researchers/victoria-santos-souza-a5010435/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Cover crops enhance soil health, crop yield and resilience of tropical agroecosystem** (2025)
-   49 citations · Soil Carbon
+   52 citations · Soil Carbon
 
 2. **Biodiversification with perennial forages increases soil carbon stocks and soybean yield** (2025)
-   4 citations · Soil Carbon
+   6 citations · Soil Carbon
+
+3. **Mining by-products and circular economy: improving soil health and carbon stocks through rock dust application** (2026)
+   0 citations
 
 ## External Profiles
 

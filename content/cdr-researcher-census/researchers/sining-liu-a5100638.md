@@ -1,7 +1,7 @@
 ---
 title: "Sining Liu"
 description: "Sining Liu is a Senior Soil Carbon researcher at Sichuan Agricultural University in CN. With 95 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.346693
+date: 2026-08-11T01:33:11.309696
 url: "/cdr-researcher-census/researchers/sining-liu-a5100638/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Fertilization effects on soil organic matter chemistry** (2024)
-   27 citations · Soil Carbon
+   29 citations · Soil Carbon
 
 2. **Forest thinning effects on soil carbon stocks and dynamics: Perspective of soil organic carbon sequestration rates** (2025)
    11 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Tarit Kumar Baul"
 description: "Tarit Kumar Baul is a Senior Soil Carbon researcher at University of Eastern Finland in FI. With 52 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.418049
+date: 2026-08-11T01:33:11.371028
 url: "/cdr-researcher-census/researchers/tarit-kumar-baul-a5076979/"
 layout: "researcher"
 hiddenInHomeList: true

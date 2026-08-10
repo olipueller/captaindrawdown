@@ -1,7 +1,7 @@
 ---
 title: "Tapan Jyoti Purakayastha"
 description: "Tapan Jyoti Purakayastha is a Senior Soil Carbon researcher at Tapan Jyoti Purakayastha in IN. With 93 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.183313
+date: 2026-08-11T01:33:11.158068
 url: "/cdr-researcher-census/researchers/tapan-jyoti-purakayastha-a5034065/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Influence of Clay Mineralogy on Soil Organic Carbon Stabilization under Tropical Climate, India** (2022)
-   32 citations · Soil Carbon
+   33 citations · Soil Carbon
 
 2. **Development of unique soil organic carbon stability index under influence of integrated nutrient management in four major soil orders of India** (2024)
    8 citations · Soil Carbon
@@ -59,17 +59,17 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **Effect of Conservation Agriculture Practices on Carbon Pools in a Sandy Loam Soil of Indo-Gangetic Plains** (2023)
    8 citations · Soil Carbon
 
-4. **Imprint of clay mineralogy, sesquioxides, and crop residue addition for evaluation of soil organic carbon stability and associated microbial activity in dominant soil orders of Indian subcontinent** (2024)
+4. **Optimizing soil fertility and climate resilience: Superiority of organic farming in enhancing carbon sequestration and nitrogen supply** (2025)
+   6 citations · Soil Carbon
+
+5. **Imprint of clay mineralogy, sesquioxides, and crop residue addition for evaluation of soil organic carbon stability and associated microbial activity in dominant soil orders of Indian subcontinent** (2024)
    6 citations · Biochar
 
-5. **Soil Health and Climate Change** (2024)
+6. **Soil Health and Climate Change** (2024)
    5 citations · General CDR
 
-6. **Optimizing soil fertility and climate resilience: Superiority of organic farming in enhancing carbon sequestration and nitrogen supply** (2025)
-   4 citations · Soil Carbon
-
 7. **Impact of Long-term Residue Management on Soil Aggregation and Carbon Accumulation Under Wheat-based Cropping Systems in a Typic Haplustept** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 8. **Impact of nutrient management practices on sulphur availability in soils under rice-wheat cropping system** (2026)
    0 citations

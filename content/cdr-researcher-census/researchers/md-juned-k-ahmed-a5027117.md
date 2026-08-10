@@ -1,7 +1,7 @@
 ---
 title: "Md. Juned K. Ahmed"
 description: "Md. Juned K. Ahmed is a Mid-career Biochar researcher at Rajiv Gandhi University in IN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.443461
+date: 2026-08-11T01:33:11.393208
 url: "/cdr-researcher-census/researchers/md-juned-k-ahmed-a5027117/"
 layout: "researcher"
 hiddenInHomeList: true

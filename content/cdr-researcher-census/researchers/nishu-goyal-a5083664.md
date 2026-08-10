@@ -1,7 +1,7 @@
 ---
 title: "Nishu Goyal"
 description: "Nishu Goyal is an Early-career Biochar researcher at University of Petroleum and Energy Studies in IN. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.122107
+date: 2026-08-11T01:33:12.012176
 url: "/cdr-researcher-census/researchers/nishu-goyal-a5083664/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A critical review on biochar production from pine wastes, upgradation techniques, environmental sustainability, and challenges** (2023)
-   81 citations · Biochar
+   84 citations · Biochar
 
 ## External Profiles
 

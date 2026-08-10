@@ -1,7 +1,7 @@
 ---
 title: "Xiangyan Feng"
 description: "Xiangyan Feng is a Mid-career Soil Carbon researcher at Ministry of Education of the People's Republic of China in CN. With 40 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.700145
+date: 2026-08-11T01:33:11.620139
 url: "/cdr-researcher-census/researchers/xiangyan-feng-a5049638/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of tillage on soil organic carbon and crop yield under straw return** (2023)
-   115 citations · Soil Carbon
+   117 citations · Soil Carbon
 
 2. **Freeze-thaw desertification of alpine meadow in Qilian Mountains and the implications for alpine ecosystem management** (2023)
-   35 citations
+   36 citations
 
 3. **Trade-off between organic and inorganic carbon in soils under alfalfa-grass-cropland rotation** (2025)
    1 citations · Soil Carbon

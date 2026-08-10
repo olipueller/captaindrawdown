@@ -1,7 +1,7 @@
 ---
 title: "Ram Ratan Verma"
 description: "Ram Ratan Verma is a Mid-career Soil Carbon researcher at Indian Institute of Sugarcane Research in IN. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.933344
+date: 2026-08-11T01:33:11.829647
 url: "/cdr-researcher-census/researchers/ram-ratan-verma-a5003371/"
 layout: "researcher"
 hiddenInHomeList: true

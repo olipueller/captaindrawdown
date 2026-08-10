@@ -1,7 +1,7 @@
 ---
 title: "Shouyang Luo"
 description: "Shouyang Luo is a Mid-career Soil Carbon researcher at Northeast Institute of Geography and Agroecology in CN. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.023338
+date: 2026-08-11T01:33:11.899756
 url: "/cdr-researcher-census/researchers/shouyang-luo-a5108324/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil water content and RubisCO activity control the carbon storage in soil under different land uses in Sanjiang Plain, China** (2024)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 2. **Soil moisture content, cbbM gene abundance and salinity-alkalinity are crucial factors for soil carbon content during wetland reclamation and restoration** (2025)
    1 citations · Soil Carbon

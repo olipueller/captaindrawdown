@@ -1,7 +1,7 @@
 ---
 title: "Xinli Chen"
 description: "Xinli Chen is a Senior Soil Carbon researcher at Zhejiang A&F University in CN. With 63 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.140708
+date: 2026-08-11T01:33:11.118614
 url: "/cdr-researcher-census/researchers/xinli-chen-a5079209/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,25 +51,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Fertilization and tillage influence on soil organic carbon fractions: A global meta-analysis** (2024)
-   51 citations · Soil Carbon
+   55 citations · Soil Carbon
 
 2. **Resource availability enhances positive tree functional diversity effects on carbon and nitrogen accrual in natural forests** (2024)
-   37 citations · General CDR
+   41 citations · General CDR
 
-3. **Effects of co-applied biochar and plant growth-promoting bacteria on soil carbon mineralization and nutrient availability under two nitrogen addition rates** (2023)
+3. **Phosphorus fertilization enhances terrestrial carbon cycling in phosphorus-deficient ecosystems** (2023)
+   13 citations · Soil Carbon
+
+4. **Effects of co-applied biochar and plant growth-promoting bacteria on soil carbon mineralization and nutrient availability under two nitrogen addition rates** (2023)
    13 citations · Biochar
 
-4. **Phosphorus fertilization enhances terrestrial carbon cycling in phosphorus-deficient ecosystems** (2023)
-   12 citations · Soil Carbon
-
-5. **Increased mowing intensity reduces soil CH4 uptake but diversely affects CO2 emission in an alpine meadow on the Qinghai-Tibetan Plateau** (2025)
+5. **Forested lands have lower soil carbon priming effects than croplands in hedgerow agroforestry systems** (2025)
    2 citations · Soil Carbon
 
-6. **Forested lands have lower soil carbon priming effects than croplands in hedgerow agroforestry systems** (2025)
-   1 citations · Soil Carbon
+6. **Increased mowing intensity reduces soil CH4 uptake but diversely affects CO2 emission in an alpine meadow on the Qinghai-Tibetan Plateau** (2025)
+   2 citations · Soil Carbon
 
 7. **Arbuscular mycorrhizal dominated forests facilitate organic carbon stabilization in soil aggregates** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Carlos A. Aguilar‐Trigueros"
 description: "Carlos A. Aguilar‐Trigueros is a Senior Soil Carbon researcher at University of Jyväskylä in FI. With 71 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.133895
+date: 2026-08-11T01:33:11.112307
 url: "/cdr-researcher-census/researchers/carlos-a-aguilartrigueros-a5072627/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Progressing beyond colonization strategies to understand arbuscular mycorrhizal fungal life history** (2024)
-   26 citations · General CDR
+   27 citations · General CDR
 
 2. **Herbivory‐driven shifts in arbuscular mycorrhizal fungal community assembly: increased fungal competition and plant phosphorus benefits** (2023)
    17 citations
@@ -59,11 +59,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **Integrating soil microbial communities into fundamental ecology, conservation, and restoration: examples from Australia** (2023)
    6 citations · Soil Carbon
 
-4. **Establishing a Standardized Approach for Elucidating Glomeromycota Life-History Traits: Advancing Consistency in Mycorrhizal Fungi Research** (2024)
+4. **Enhancing Consistency in Arbuscular Mycorrhizal Trait-Based Research to  Improve Predictions of Function            ** (2025)
+   5 citations · Soil Carbon
+
+5. **Establishing a Standardized Approach for Elucidating Glomeromycota Life-History Traits: Advancing Consistency in Mycorrhizal Fungi Research** (2024)
    5 citations · General CDR
 
-5. **Enhancing Consistency in Arbuscular Mycorrhizal Trait-Based Research to  Improve Predictions of Function            ** (2025)
-   4 citations · Soil Carbon
+6. **The unseen architects: Unraveling soil faunal necromass contribution to soil carbon sequestration** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

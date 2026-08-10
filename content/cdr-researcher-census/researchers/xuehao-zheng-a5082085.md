@@ -1,7 +1,7 @@
 ---
 title: "Xuehao Zheng"
 description: "Xuehao Zheng is a Mid-career Soil Carbon researcher at China West Normal University in CN. With 25 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.605407
+date: 2026-08-11T01:33:11.534667
 url: "/cdr-researcher-census/researchers/xuehao-zheng-a5082085/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Ramesh Chhetri"
 description: "Ramesh Chhetri is a Mid-career Soil Carbon researcher at Uttarakhand Open University in IN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.044409
+date: 2026-08-11T01:33:11.919004
 url: "/cdr-researcher-census/researchers/ramesh-chhetri-a5075642/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon sequestration potential of community forests: A comparative analysis of soil organic carbon stock in community managed forests of Far-Western Nepal** (2021)
-   50 citations · General CDR
+   51 citations · General CDR
 
 ## External Profiles
 

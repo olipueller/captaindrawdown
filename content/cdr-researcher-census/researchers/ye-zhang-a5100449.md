@@ -1,7 +1,7 @@
 ---
 title: "Ye Zhang"
 description: "Ye Zhang is a Mid-career Biochar researcher at Suzhou University of Science and Technology in CN. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.334588
+date: 2026-08-11T01:33:11.298420
 url: "/cdr-researcher-census/researchers/ye-zhang-a5100449/"
 layout: "researcher"
 hiddenInHomeList: true

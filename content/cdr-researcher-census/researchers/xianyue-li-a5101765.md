@@ -1,7 +1,7 @@
 ---
 title: "Xianyue Li"
 description: "Xianyue Li is a Mid-career Biochar researcher at Shenyang Ligong University in CN. With 14 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.507496
+date: 2026-08-11T01:33:11.447299
 url: "/cdr-researcher-census/researchers/xianyue-li-a5101765/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Remediation strategies of biochar and microbial inoculum for PAHs-contaminated soil: Quorum sensing-mediated PAHs degradation and element cycling** (2025)
-   45 citations · Biochar
+   47 citations · Biochar
 
 2. **Study on the screening of high-efficiency salt and alkali-tolerant microbial agents and their roles and mechanisms in enhancing saline-alkaline soil remediation** (2025)
-   30 citations
+   33 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Dominic Lenzi"
 description: "Dominic Lenzi is a Mid-career General CDR researcher at University of Twente in NL. With 42 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.171793
+date: 2026-08-11T01:33:11.147704
 url: "/cdr-researcher-census/researchers/dominic-lenzi-a5023443/"
 layout: "researcher"
 hiddenInHomeList: true

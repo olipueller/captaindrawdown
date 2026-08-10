@@ -1,7 +1,7 @@
 ---
 title: "Shiva Mohammadi-Jam"
 description: "Shiva Mohammadi-Jam is an Early-career DAC researcher at McGill University in CA. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.099674
+date: 2026-08-11T01:33:11.990908
 url: "/cdr-researcher-census/researchers/shiva-mohammadi-jam-a5086091/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Zeolites for CO2 capture – An overview** (2026)
-   0 citations · DAC
+   1 citations · DAC
 
 ## External Profiles
 

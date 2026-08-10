@@ -1,7 +1,7 @@
 ---
 title: "Shunli Wan"
 description: "Shunli Wan is a Senior Biochar researcher at Huangshan University in CN. With 40 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.221922
+date: 2026-08-11T01:33:11.194595
 url: "/cdr-researcher-census/researchers/shunli-wan-a5010470/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    31 citations · Biochar
 
 2. **Remarkably Enhanced Phosphate Sequestration from Waters by Biochar with High-Density Quaternary Ammonium Groups** (2024)
-   3 citations · Biochar
+   4 citations · Biochar
 
 3. **A New Strategy for Enhanced Phosphate Removal from Waters Using Ferric Oxide Impregnated Biochar** (2023)
    1 citations · Biochar

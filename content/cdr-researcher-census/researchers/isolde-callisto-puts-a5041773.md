@@ -1,7 +1,7 @@
 ---
 title: "Isolde Callisto Puts"
 description: "Isolde Callisto Puts is a Mid-career Ocean CDR researcher at University of Oslo in NO. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.240197
+date: 2026-08-11T01:33:12.119875
 url: "/cdr-researcher-census/researchers/isolde-callisto-puts-a5041773/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Glacial meltwater increases coastal carbon dioxide uptake and sensitivity to biogeochemical change** (2025)
-   4 citations · Ocean CDR
+   5 citations · Ocean CDR
 
 ## External Profiles
 

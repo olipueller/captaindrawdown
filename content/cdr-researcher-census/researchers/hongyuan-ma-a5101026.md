@@ -1,7 +1,7 @@
 ---
 title: "Hongyuan Ma"
 description: "Hongyuan Ma is a Mid-career Soil Carbon researcher at Yalong Hydro (China) in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.203468
+date: 2026-08-11T01:33:11.177297
 url: "/cdr-researcher-census/researchers/hongyuan-ma-a5101026/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Investigating the compensatory effect of legume reseeding on soil organic carbon loss under tillage management in a saline-alkali grassland in the semi-arid region** (2024)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 2. **Towards smart soil carbon pool management of grassland: a bibliometric overview from past to future** (2025)
-   5 citations · General CDR
+   6 citations · General CDR
 
 3. **Plant community root traits outweigh target species in mediating soil carbon and nitrogen storage across grazing-exclusion chronosequences in semi-arid grasslands** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

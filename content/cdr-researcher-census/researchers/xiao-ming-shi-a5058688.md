@@ -1,7 +1,7 @@
 ---
 title: "Xiao Ming Shi"
 description: "Xiao Ming Shi is a Mid-career Soil Carbon researcher at Lanzhou University in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.249038
+date: 2026-08-11T01:33:12.127772
 url: "/cdr-researcher-census/researchers/xiao-ming-shi-a5058688/"
 layout: "researcher"
 hiddenInHomeList: true

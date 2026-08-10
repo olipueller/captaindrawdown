@@ -1,7 +1,7 @@
 ---
 title: "Tongtong Xu"
 description: "Tongtong Xu is a Mid-career Soil Carbon researcher at Zhejiang Sci-Tech University in CN. With 36 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-12T12:07:29.509048
+date: 2026-08-11T01:33:11.441474
 url: "/cdr-researcher-census/researchers/tongtong-xu-a5088061/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,31 +51,31 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Enhanced silicate weathering accelerates forest carbon sequestration by stimulating the soil mineral carbon pump** (2024)
-   57 citations · Enhanced Weathering
+   64 citations · Enhanced Weathering
 
 2. **Enhanced rock weathering increased soil phosphorus availability and altered root phosphorus‐acquisition strategies** (2024)
    45 citations · Enhanced Weathering
 
 3. **Grazing effects on the relationship between plant functional diversity and soil carbon sequestration regulated by livestock species** (2024)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 4. **Spatial effects of nitrogen deposition on soil organic carbon stocks in patchy degraded saline-alkaline grassland** (2023)
    20 citations · Soil Carbon
 
 5. **Enhanced Rock Weathering Promotes Soil Organic Carbon Accumulation: A Global Meta‐Analysis Based on Experimental Evidence** (2025)
-   11 citations · Enhanced Weathering
+   14 citations · Enhanced Weathering
 
 6. **More Than a Decade of Moderate Grazing: No Impact on Soil Organic Carbon Stocks and Enhancement of Mineral‐Associated Organic Carbon via Livestock Diversification** (2025)
-   8 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 7. **Historical and future dynamics of soil organic carbon and driving mechanisms in mountainous soils of China** (2025)
    8 citations · Soil Carbon
 
-8. **Enhanced rock weathering boosts ecosystem multifunctionality via improving microbial networks complexity in a tropical forest plantation** (2024)
+8. **Divergent responses of carbon and nitrogen functional genes composition to enhanced rock weathering** (2025)
    7 citations · Enhanced Weathering
 
-9. **Divergent responses of carbon and nitrogen functional genes composition to enhanced rock weathering** (2025)
-   6 citations · Enhanced Weathering
+9. **Enhanced rock weathering boosts ecosystem multifunctionality via improving microbial networks complexity in a tropical forest plantation** (2024)
+   7 citations · Enhanced Weathering
 
 10. **Nitrogen Deposition Does Not Mitigate Soil Carbon Loss in Patchy Degraded Saline-Alkaline Grassland** (2022)
    0 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Xinhui Han"
 description: "Xinhui Han is an Eminent Soil Carbon researcher at Agriculture and Forestry University in NP. With 174 publications and an h-index of 55, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.095891
+date: 2026-08-11T01:33:11.076220
 url: "/cdr-researcher-census/researchers/xinhui-han-a5042282/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,22 +48,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Biochar combined with N fertilization and straw return in wheat-maize agroecosystem: Key practices to enhance crop yields and minimize carbon and nitrogen footprints** (2023)
-   105 citations · Biochar
+   106 citations · Biochar
 
 2. **The biogeography of soil microbiome potential growth rates** (2024)
-   60 citations
+   64 citations
 
-3. **Effect of forest thinning on soil organic carbon stocks from the perspective of carbon-degrading enzymes** (2022)
+3. **The contribution of microbial necromass carbon to soil organic carbon in soil aggregates** (2023)
+   43 citations · Soil Carbon
+
+4. **Effect of forest thinning on soil organic carbon stocks from the perspective of carbon-degrading enzymes** (2022)
    42 citations · Soil Carbon
-
-4. **The contribution of microbial necromass carbon to soil organic carbon in soil aggregates** (2023)
-   39 citations · Soil Carbon
 
 5. **Plastic film mulching mitigates the straw-induced soil greenhouse gas emissions in summer maize field** (2021)
    37 citations
 
 6. **Macroaggregate is crucial in soil carbon and nitrogen accumulation under different vegetation types in the Loess Plateau, China** (2024)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 7. **Divergent mechanisms of rhizosphere and non-rhizosphere soil organic carbon sequestration under precipitation variability: Evidence from microbial life-history strategies** (2025)
    9 citations · Soil Carbon

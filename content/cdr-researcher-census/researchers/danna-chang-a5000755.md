@@ -1,7 +1,7 @@
 ---
 title: "Danna Chang"
 description: "Danna Chang is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 50 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.344665
+date: 2026-08-11T01:33:11.307696
 url: "/cdr-researcher-census/researchers/danna-chang-a5000755/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,16 +48,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Green Manure Coupled With Straw Returning Increases Soil Organic Carbon via Decreased Priming Effect and Enhanced Microbial Carbon Pump** (2025)
-   52 citations · Soil Carbon
+   61 citations · Soil Carbon
 
 2. **Long-term green manuring increases soil carbon sequestration via decreasing qCO2 caused by lower microbial phosphorus limitation in a dry land field** (2024)
-   37 citations · Soil Carbon
+   40 citations · Soil Carbon
 
 3. **Appropriately delayed flooding before rice transplanting increases net ecosystem economic benefit in the winter green manure-rice rotation system** (2024)
    13 citations · Soil Carbon
 
 4. **Long-term organic fertilization decreases soil carbon biodegradability by mediating molecular transformation of dissolved organic matter** (2025)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 5. **Green manuring outperforms cattle manure in soil carbon sequestration by reshaping dissolved organic matter composition and fungal life strategies** (2026)
    2 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Jun‐Feng Wang"
 description: "Jun‐Feng Wang is a Senior Soil Carbon researcher. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.025732
+date: 2026-08-11T01:33:11.901883
 url: "/cdr-researcher-census/researchers/junfeng-wang-a5102011/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Aboveground net primary productivity and soil respiration display different responses to precipitation changes in desert grassland** (2021)
-   29 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 2. **[Influence of Precipitation Change on Soil Respiration in Desert Grassland].** (2021)
    4 citations · Soil Carbon

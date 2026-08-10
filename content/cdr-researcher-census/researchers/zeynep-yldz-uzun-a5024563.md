@@ -1,7 +1,7 @@
 ---
 title: "Zeynep Yıldız Uzun"
 description: "Zeynep Yıldız Uzun is a Mid-career Biochar researcher at Sinop University in TR. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.085412
+date: 2026-08-11T01:33:11.978001
 url: "/cdr-researcher-census/researchers/zeynep-yldz-uzun-a5024563/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Investigating the effectiveness of rice husk-derived low-cost activated carbon in removing environmental pollutants: a study of its characterization** (2023)
-   11 citations · Biochar
+   12 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Adil"
 description: "Muhammad Adil is a Mid-career Soil Carbon researcher at Yangzhou University in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.216475
+date: 2026-08-11T01:33:12.098274
 url: "/cdr-researcher-census/researchers/muhammad-adil-a5101980/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Climate change stress alleviation through nature based solutions: A global perspective** (2022)
-   13 citations · Soil Carbon
+   15 citations · Soil Carbon
+
+2. **Carbon Farming and Agroforestry: Synergies, Trade‑Offs, and a Deci‑ sion Framework for Climate‑Smart Landscapes** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

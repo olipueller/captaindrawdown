@@ -1,7 +1,7 @@
 ---
 title: "Yung‐Yen Shih"
 description: "Yung‐Yen Shih is a Senior Ocean CDR researcher at Republic of China Naval Academy in TW. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.658931
+date: 2026-08-11T01:33:11.583134
 url: "/cdr-researcher-census/researchers/yungyen-shih-a5049387/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **A Unique Diel Pattern in Carbonate Chemistry in the Seagrass Meadows of Dongsha Island: The Enhancement of Metabolic Carbonate Dissolution in a Semienclosed Lagoon** (2021)
-   23 citations · Ocean CDR
+   24 citations · Ocean CDR
 
 2. **Contrasting CO <sub>2</sub> Dynamics in Seagrass Meadows Between Organic Carbon (OC)‐Rich Reef and OC‐Poor Terrestrial Sediments: Implications for Enhanced Alkalinity Production** (2025)
-   9 citations · Ocean CDR
+   10 citations · Ocean CDR
 
-3. **The Role of Benthic TA and DIC Fluxes on Carbon Sequestration in Seagrass Meadows of Dongsha Island** (2024)
-   7 citations · Ocean CDR
+3. **Assessing CO2 sources and sinks in and around Taiwan: Implication for achieving regional carbon neutrality by 2050** (2024)
+   10 citations · General CDR
 
-4. **Assessing CO2 sources and sinks in and around Taiwan: Implication for achieving regional carbon neutrality by 2050** (2024)
-   6 citations · General CDR
+4. **The Role of Benthic TA and DIC Fluxes on Carbon Sequestration in Seagrass Meadows of Dongsha Island** (2024)
+   8 citations · Ocean CDR
 
 ## External Profiles
 

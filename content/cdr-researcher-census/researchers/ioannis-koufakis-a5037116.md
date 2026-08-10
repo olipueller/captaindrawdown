@@ -1,7 +1,7 @@
 ---
 title: "Ioannis Koufakis"
 description: "Ioannis Koufakis is a Mid-career Soil Carbon researcher at Mediterranean Agronomic Institute of Chania in GR. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.350251
+date: 2026-08-11T01:33:12.214902
 url: "/cdr-researcher-census/researchers/ioannis-koufakis-a5037116/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Scott Bales"
 description: "Scott Bales is a Mid-career Soil Carbon researcher at Michigan State University in US. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.939992
+date: 2026-08-11T01:33:11.835652
 url: "/cdr-researcher-census/researchers/scott-bales-a5030559/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Dry beans (<scp><i>Phaseolus vulgaris</i></scp> L.) as a vital component of sustainable agriculture and food security—A review** (2022)
-   217 citations · Soil Carbon
+   225 citations · Soil Carbon
 
 ## External Profiles
 

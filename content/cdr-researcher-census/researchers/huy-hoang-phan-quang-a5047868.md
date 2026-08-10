@@ -1,7 +1,7 @@
 ---
 title: "Huy Hoang Phan Quang"
 description: "Huy Hoang Phan Quang is a Mid-career Biochar researcher at Ho Chi Minh City University of Food Industry in VN. With 19 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.422340
+date: 2026-08-11T01:33:11.374859
 url: "/cdr-researcher-census/researchers/huy-hoang-phan-quang-a5047868/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Exploring algae-based biochar strategies for adsorptive removal of antibiotics: a green leap towards environmental sustainability** (2025)
-   6 citations · Biochar
+   9 citations · Biochar
 
 2. **Recent advances in biochar-integrated microbial fuel cells for energy recovery and environmental remediation** (2026)
    0 citations · Biochar

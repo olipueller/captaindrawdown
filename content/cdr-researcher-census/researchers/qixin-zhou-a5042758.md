@@ -1,7 +1,7 @@
 ---
 title: "Qixin Zhou"
 description: "Qixin Zhou is a Mid-career Biochar researcher at City University of Hong Kong in HK. With 26 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.252364
+date: 2026-08-11T01:33:11.222773
 url: "/cdr-researcher-census/researchers/qixin-zhou-a5042758/"
 layout: "researcher"
 hiddenInHomeList: true

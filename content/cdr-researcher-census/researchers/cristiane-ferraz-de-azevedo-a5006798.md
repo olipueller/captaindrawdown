@@ -1,7 +1,7 @@
 ---
 title: "Cristiane Ferraz de Azevedo"
 description: "Cristiane Ferraz de Azevedo is a Mid-career Biochar researcher at Universidade Federal de Pelotas in BR. With 23 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.681272
+date: 2026-08-11T01:33:11.602756
 url: "/cdr-researcher-census/researchers/cristiane-ferraz-de-azevedo-a5006798/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Olive biomass-derived magnetic activated biochar for ciprofloxacin removal: Integrated kinetic, isotherm, thermodynamic, and spectroscopic analysis** (2024)
-   26 citations · Biochar
+   30 citations · Biochar
 
 2. **Microwave‐Activated Biochar From Peach Stones for Efficient Paracetamol Adsorption** (2026)
    2 citations · Biochar

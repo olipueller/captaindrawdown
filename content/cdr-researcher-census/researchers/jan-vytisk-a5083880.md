@@ -1,7 +1,7 @@
 ---
 title: "Jan Výtisk"
 description: "Jan Výtisk is a Mid-career Biochar researcher. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.371499
+date: 2026-08-11T01:33:12.234368
 url: "/cdr-researcher-census/researchers/jan-vytisk-a5083880/"
 layout: "researcher"
 hiddenInHomeList: true

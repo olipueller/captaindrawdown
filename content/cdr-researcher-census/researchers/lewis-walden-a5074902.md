@@ -1,7 +1,7 @@
 ---
 title: "Lewis Walden"
 description: "Lewis Walden is a Mid-career Soil Carbon researcher at Curtin University in AU. With 32 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.743760
+date: 2026-08-11T01:33:11.659705
 url: "/cdr-researcher-census/researchers/lewis-walden-a5074902/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    38 citations · Soil Carbon
 
 2. **Deep learning of the particulate and mineral-associated organic carbon fractions using a compositional transform and mid-infrared spectroscopy** (2025)
-   11 citations · General CDR
+   13 citations · General CDR
 
 ## External Profiles
 

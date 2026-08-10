@@ -1,7 +1,7 @@
 ---
 title: "Francesco Campo"
 description: "Francesco Campo is an Early-career Ocean CDR researcher at Politecnico di Milano in IT. With 3 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.178814
+date: 2026-08-11T01:33:12.063619
 url: "/cdr-researcher-census/researchers/francesco-campo-a5102487/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Evaluating rainbowing for ocean alkalinity enhancement** (2024)
-   0 citations · Ocean CDR
+   1 citations · Ocean CDR
 
 2. **Challenges in the Use of Rainbowing in Ocean Alkalinity Enhancement** (2022)
    0 citations · Ocean CDR

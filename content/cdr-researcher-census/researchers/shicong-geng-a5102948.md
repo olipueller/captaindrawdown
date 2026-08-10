@@ -1,7 +1,7 @@
 ---
 title: "Shicong Geng"
 description: "Shicong Geng is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 21 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.849126
+date: 2026-08-11T01:33:11.752700
 url: "/cdr-researcher-census/researchers/shicong-geng-a5102948/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -58,6 +58,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 3. **Nitrogen Addition Decreases Soil Aggregation But Enhances Soil Organic Carbon Stability in a Temperate Forest** (2022)
    2 citations · Soil Carbon
+
+4. **Responses of plant-and microbial-derived soil carbon to harvest residue retention in a subtropical Chinese fir plantation** (2026)
+   0 citations
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Zhanyuan Lu"
 description: "Zhanyuan Lu is a Mid-career Soil Carbon researcher at Inner Mongolia Academy of Agricultural & Animal Husbandry Sciences in CN. With 54 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.391594
+date: 2026-08-11T01:33:11.347388
 url: "/cdr-researcher-census/researchers/zhanyuan-lu-a5108191/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -56,14 +56,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 2. **Organic amendments effects on soil aggregation and carbon sequestration in saline‐alkaline croplands in China** (2023)
    10 citations · Biochar
 
-3. **Organic Nitrogen Substitution Enhances Carbon Sequestration but Increases Greenhouse Gas Emissions in Maize Cropping Systems** (2025)
-   1 citations · General CDR
-
-4. **Effects of Tillage Methods on Carbon and Nitrogen Sequestration and Soil Microbial Stoichiometric Equilibrium in a Black Soil Farmland with Full Return of Straw to the Field** (2025)
+3. **Optimization of nitrogen-soil microbial interactions to regulate carbon and nitrogen footprints and enhance yield sustainability in maize fields** (2026)
    1 citations · Soil Carbon
 
-5. **Optimization of nitrogen-soil microbial interactions to regulate carbon and nitrogen footprints and enhance yield sustainability in maize fields** (2026)
-   0 citations · Soil Carbon
+4. **Organic Nitrogen Substitution Enhances Carbon Sequestration but Increases Greenhouse Gas Emissions in Maize Cropping Systems** (2025)
+   1 citations · General CDR
+
+5. **Effects of Tillage Methods on Carbon and Nitrogen Sequestration and Soil Microbial Stoichiometric Equilibrium in a Black Soil Farmland with Full Return of Straw to the Field** (2025)
+   1 citations · Soil Carbon
 
 6. **Effects of tillage practices on aggregate-associated soil organic carbon fractions and maize yield** (2026)
    0 citations · Soil Carbon

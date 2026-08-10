@@ -1,7 +1,7 @@
 ---
 title: "Jiai LIU"
 description: "Jiai LIU is an Early-career Soil Carbon researcher at Northwest A&F University in CN. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.379386
+date: 2026-08-11T01:33:12.241521
 url: "/cdr-researcher-census/researchers/jiai-liu-a5020772/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Diversity loss of soil microbiome stimulates soil carbon emissions** (2025)
-   3 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 ## External Profiles
 

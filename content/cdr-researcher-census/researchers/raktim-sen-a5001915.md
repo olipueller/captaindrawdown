@@ -1,7 +1,7 @@
 ---
 title: "Raktim Sen"
 description: "Raktim Sen is a Mid-career DAC researcher at ExxonMobil (United States) in US. With 23 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.265956
+date: 2026-08-11T01:33:11.234988
 url: "/cdr-researcher-census/researchers/raktim-sen-a5001915/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
    44 citations · DAC
 
 2. **Direct Conversion of Metal Carbonates and Bicarbonates to Methanol Over a Cu/ZnO/Al <sub>2</sub> O <sub>3</sub> Catalyst** (2026)
-   0 citations · DAC
+   1 citations · DAC
 
 ## External Profiles
 

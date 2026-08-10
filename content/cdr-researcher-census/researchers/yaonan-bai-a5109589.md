@@ -1,7 +1,7 @@
 ---
 title: "Yaonan Bai"
 description: "Yaonan Bai is a Mid-career Soil Carbon researcher at China Geological Survey in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.545734
+date: 2026-08-11T01:33:12.395610
 url: "/cdr-researcher-census/researchers/yaonan-bai-a5109589/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Daniela S. Arán"
 description: "Daniela S. Arán is a Mid-career Biochar researcher at Consejo Nacional de Investigaciones Científicas y Técnicas in AR. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.368056
+date: 2026-08-11T01:33:12.230711
 url: "/cdr-researcher-census/researchers/daniela-s-aran-a5057827/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Use of local waste for biochar production: Influence of feedstock and pyrolysis temperature on chromium removal from aqueous solutions** (2022)
-   10 citations · Biochar
+   11 citations · Biochar
 
 ## External Profiles
 

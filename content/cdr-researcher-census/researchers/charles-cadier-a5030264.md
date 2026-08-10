@@ -1,7 +1,7 @@
 ---
 title: "Charles Cadier"
 description: "Charles Cadier is a Mid-career Soil Carbon researcher at Griffith University in AU. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.887623
+date: 2026-08-11T01:33:11.788514
 url: "/cdr-researcher-census/researchers/charles-cadier-a5030264/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Climate change mitigation and improvement of water quality from the restoration of a subtropical coastal wetland** (2022)
-   45 citations · Soil Carbon
+   47 citations · Soil Carbon
 
 ## External Profiles
 

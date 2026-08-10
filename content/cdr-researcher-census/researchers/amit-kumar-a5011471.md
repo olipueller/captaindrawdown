@@ -1,7 +1,7 @@
 ---
 title: "Amit Kumar"
 description: "Amit Kumar is a Senior Soil Carbon researcher at United Arab Emirates University in AE. With 82 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.203809
+date: 2026-08-11T01:33:11.177627
 url: "/cdr-researcher-census/researchers/amit-kumar-a5011471/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,31 +51,31 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Microbial necromass in cropland soils: A global meta‐analysis of management effects** (2023)
-   215 citations · Soil Carbon
+   218 citations · Soil Carbon
 
 2. **Arbuscular mycorrhizal fungi and goethite promote carbon sequestration via hyphal-aggregate mineral interactions** (2021)
-   113 citations · Soil Carbon
+   116 citations · Soil Carbon
 
 3. **Biochar decreased rhizodeposits stabilization via opposite effects on bacteria and fungi: diminished fungi-promoted aggregation and enhanced bacterial mineralization** (2021)
    41 citations · Biochar
 
-4. **Carbon fluxes within tree-crop-grass agroforestry system: 13C field labeling and tracing** (2022)
-   31 citations · Soil Carbon
+4. **Carbon sequestration through straw amendment: multi-pool dynamics within soil organic carbon** (2025)
+   39 citations · Soil Carbon
 
-5. **Carbon sequestration through straw amendment: multi-pool dynamics within soil organic carbon** (2025)
-   30 citations · Soil Carbon
+5. **Carbon fluxes within tree-crop-grass agroforestry system: 13C field labeling and tracing** (2022)
+   33 citations · Soil Carbon
 
 6. **Rhizosphere microbiome modulated effects of biochar on ryegrass 15N uptake and rhizodeposited 13C allocation in soil** (2021)
    25 citations · Biochar
 
 7. **Three source-partitioning of CO2 fluxes based on a dual-isotope approach to investigate interactions between soil organic carbon, glucose and straw** (2021)
-   17 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 8. **Particulate and mineral-associated organic matter in cropland soils: Meta-analysis of management effects** (2026)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 9. **Integrated soil–crop system management stabilizes soil organic carbon in saline soils via calcium-mediated synergy between microbial and mineral carbon pumps** (2026)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 10. **Climate Change and Forest Fires: Ecosystem Vulnerability and Resilience** (2025)
    0 citations

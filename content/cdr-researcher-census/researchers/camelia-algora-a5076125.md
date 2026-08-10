@@ -1,7 +1,7 @@
 ---
 title: "Camelia Algora"
 description: "Camelia Algora is a Senior Soil Carbon researcher at Instituto de Recursos Naturales y Agrobiología de Sevilla in ES. With 25 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.463648
+date: 2026-08-11T01:33:11.409500
 url: "/cdr-researcher-census/researchers/camelia-algora-a5076125/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Enhanced rock weathering boosts ecosystem multifunctionality via improving microbial networks complexity in a tropical forest plantation** (2024)
-   7 citations · Enhanced Weathering
+1. **Contrasting stability of fungal and bacterial communities during long-term decomposition of fungal necromass in Arctic tundra** (2025)
+   7 citations · Soil Carbon
 
-2. **Contrasting stability of fungal and bacterial communities during long-term decomposition of fungal necromass in Arctic tundra** (2025)
-   5 citations · Soil Carbon
+2. **Enhanced rock weathering boosts ecosystem multifunctionality via improving microbial networks complexity in a tropical forest plantation** (2024)
+   7 citations · Enhanced Weathering
 
 3. **Biocrusts mitigate the decline of carbon and nitrogen stocks with increasing aridity** (2026)
    0 citations

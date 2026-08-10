@@ -1,7 +1,7 @@
 ---
 title: "Xun Duan"
 description: "Xun Duan is a Mid-career Soil Carbon researcher at Shenyang Institute of Automation in CN. With 22 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.503777
+date: 2026-08-11T01:33:11.443779
 url: "/cdr-researcher-census/researchers/xun-duan-a5035804/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Microbial metabolic capacity regulates the accrual of mineral-associated organic carbon in subtropical paddy soils** (2024)
-   74 citations · Soil Carbon
+   78 citations · Soil Carbon
 
 2. **Carbon sequestration potential and its main drivers in soils under alfalfa (Medicago sativa L.)** (2024)
-   24 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 3. **The efficiency and stability of soil organic carbon sequestration by perennial energy crops cultivation on marginal land depended on root traits** (2023)
    24 citations · Soil Carbon
 
 4. **Stability of iron-carbon complexes determines carbon sequestration efficiency in iron-rich soils** (2025)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 5. **Carbon accumulation efficiency of granulated straw incorporation and its response to nutrient supplement in infertile agricultural soils: Evidence from biomarkers** (2025)
    9 citations · Soil Carbon

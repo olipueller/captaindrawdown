@@ -1,7 +1,7 @@
 ---
 title: "Mariarita Cammarata"
 description: "Mariarita Cammarata is a Mid-career Soil Carbon researcher at University of Catania in IT. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.945098
+date: 2026-08-11T01:33:11.840315
 url: "/cdr-researcher-census/researchers/mariarita-cammarata-a5049406/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Factors influencing farmers' intention to participate in the voluntary carbon market: An extended theory of planned behavior** (2024)
-   55 citations · General CDR
+   56 citations · General CDR
 
 2. **Regenerative practices can lead to carbon-negative orange groves in Sicily** (2024)
    7 citations · Soil Carbon
 
 3. **Regenerative agriculture meets the Carbon Market: exploring economic potential in Mediterranean orange groves** (2025)
-   4 citations · General CDR
+   5 citations · General CDR
 
 ## External Profiles
 

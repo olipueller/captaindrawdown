@@ -1,7 +1,7 @@
 ---
 title: "Dayang Zheng"
 description: "Dayang Zheng is a Mid-career Biochar researcher at Tongji University in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.096387
+date: 2026-08-11T01:33:11.988141
 url: "/cdr-researcher-census/researchers/dayang-zheng-a5087321/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Efficiency and mechanism of the degradation of ciprofloxacin by the oxidation of peroxymonosulfate under the catalysis of a Fe3O4/N co-doped sludge biochar** (2023)
-   55 citations · Biochar
+   56 citations · Biochar
 
 2. **Adsorption and oxidation of ciprofloxacin by a novel layered double hydroxides modified sludge biochar** (2022)
    38 citations · Biochar

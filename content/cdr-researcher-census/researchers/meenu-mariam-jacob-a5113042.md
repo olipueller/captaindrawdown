@@ -1,7 +1,7 @@
 ---
 title: "Meenu Mariam Jacob"
 description: "Meenu Mariam Jacob is a Mid-career Biochar researcher at SRM Institute of Science and Technology in IN. With 21 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.327493
+date: 2026-08-11T01:33:11.292249
 url: "/cdr-researcher-census/researchers/meenu-mariam-jacob-a5113042/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,16 +48,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Sustainable adsorbents for the removal of pesticides from water: a review** (2021)
-   152 citations
+   153 citations
 
 2. **Adsorptive removal of endocrine disruptor bisphenol A from aqueous environment using sugarcane bagasse derived biochar** (2023)
-   34 citations · Biochar
+   35 citations · Biochar
 
 3. **Achieving up to 95% removal efficiency of chlorpyrifos pesticide using sugarcane bagasse-based biochar alginate beads in a continuous fixed-bed adsorption column** (2025)
-   27 citations · Biochar
+   28 citations · Biochar
 
 4. **Biochar Innovations for Adsorption of Water Contaminants in Water Treatment** (2024)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

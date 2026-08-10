@@ -1,7 +1,7 @@
 ---
 title: "Yeonji Yea"
 description: "Yeonji Yea is a Mid-career Biochar researcher at Kyungpook National University in KR. With 20 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.371278
+date: 2026-08-11T01:33:11.330206
 url: "/cdr-researcher-census/researchers/yeonji-yea-a5064393/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Selective sequestration of perfluorinated compounds using polyaniline decorated activated biochar** (2021)
-   47 citations · Biochar
+   49 citations · Biochar
 
 2. **Selective sequestration of perfluorinated compounds using activated biochar decorated carbon backbone N-rich polymers** (2021)
    0 citations · Biochar

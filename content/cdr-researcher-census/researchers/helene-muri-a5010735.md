@@ -1,7 +1,7 @@
 ---
 title: "Helene Muri"
 description: "Helene Muri is a Senior General CDR researcher at NILU in NO. With 144 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.132823
+date: 2026-08-11T01:33:11.111263
 url: "/cdr-researcher-census/researchers/helene-muri-a5010735/"
 layout: "researcher"
 hiddenInHomeList: true

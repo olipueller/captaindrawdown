@@ -1,7 +1,7 @@
 ---
 title: "Wuletawu Abera"
 description: "Wuletawu Abera is a Senior Soil Carbon researcher at Alliance of Bioversity International and International Center for Tropical Agriculture in GH. With 134 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.237650
+date: 2026-08-11T01:33:11.209281
 url: "/cdr-researcher-census/researchers/wuletawu-abera-a5016166/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,13 +54,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    71 citations · General CDR
 
 2. **Estimating spatially distributed SOC sequestration potentials of sustainable land management practices in Ethiopia** (2021)
-   29 citations · Soil Carbon
+   30 citations · Soil Carbon
 
-3. **RETRACTED: Evaluating the effects of Climate Smart Agricultural (CSA) practices on productivity, adaptation, and mitigation indicators in Ethiopia: A meta-analysis approach** (2025)
+3. **Linking weather and climate information services (WCIS) to Climate-Smart Agriculture (CSA) practices** (2024)
+   19 citations · Soil Carbon
+
+4. **RETRACTED: Evaluating the effects of Climate Smart Agricultural (CSA) practices on productivity, adaptation, and mitigation indicators in Ethiopia: A meta-analysis approach** (2025)
    18 citations · General CDR
-
-4. **Linking weather and climate information services (WCIS) to Climate-Smart Agriculture (CSA) practices** (2024)
-   17 citations · Soil Carbon
 
 5. **Modeling long-term attainable soil organic carbon sequestration across the highlands of Ethiopia** (2021)
    17 citations · Soil Carbon

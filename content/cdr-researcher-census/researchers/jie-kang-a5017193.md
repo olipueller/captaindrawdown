@@ -1,7 +1,7 @@
 ---
 title: "Jie Kang"
 description: "Jie Kang is an Early-career Soil Carbon researcher at Huazhong Agricultural University in CN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.512927
+date: 2026-08-11T01:33:12.365538
 url: "/cdr-researcher-census/researchers/jie-kang-a5017193/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Organo–organic interactions dominantly drive soil organic carbon accrual** (2024)
-   95 citations · Soil Carbon
+   98 citations · Soil Carbon
 
 2. **Responses of various organic carbon pools to elevated temperatures in soils** (2024)
    6 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Rachael H. James"
 description: "Rachael H. James is an Eminent Enhanced Weathering researcher at University of Southampton in GB. With 238 publications and an h-index of 58, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-12T12:07:29.132082
+date: 2026-08-11T01:33:11.074713
 url: "/cdr-researcher-census/researchers/rachael-h-james-a5075056/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Enhanced weathering in the US Corn Belt delivers carbon removal with agronomic benefits** (2024)
-   131 citations
+   134 citations
 
 2. **Global Carbon Dioxide Removal Potential of Waste Materials From Metal and Diamond Mining** (2021)
    73 citations · Enhanced Weathering
 
 3. **Quantification of CO2 removal in a large-scale enhanced weathering field trial on an oil palm plantation in Sabah, Malaysia** (2022)
-   70 citations · Enhanced Weathering
+   71 citations · Enhanced Weathering
 
 4. **Challenges and opportunities in scaling enhanced weathering for carbon dioxide removal** (2025)
-   13 citations · Enhanced Weathering
+   15 citations · Enhanced Weathering
 
 5. **Enhanced weathering in the U.S. Corn Belt delivers carbon removal with agronomic benefits** (2023)
    5 citations · Enhanced Weathering
@@ -68,17 +68,17 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 6. **Global carbon dioxide removal potential of waste materials from metal and diamond mining** (2021)
    4 citations · Enhanced Weathering
 
-7. **Dissolution kinetics of platinum mine by-products for nature-based and engineered carbon dioxide removal** (2026)
+7. **An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering** (2026)
+   0 citations · Enhanced Weathering
+
+8. **Dissolution kinetics of platinum mine by-products for nature-based and engineered carbon dioxide removal** (2026)
    0 citations · General CDR
 
-8. **Droplet in the Ocean: Development and Deployment of Droplet Microfluidic Total Alkalinity Sensors in Wide-Range Environments** (2026)
+9. **Droplet in the Ocean: Development and Deployment of Droplet Microfluidic Total Alkalinity Sensors in Wide-Range Environments** (2026)
    0 citations · General CDR
-
-9. **Tile drain water chemistry dataset from an enhanced rock weathering field trial at the Energy Farm, University of Illinois** (2026)
-   0 citations
 
 10. **Tile drain water chemistry dataset from an enhanced rock weathering field trial at the Energy Farm, University of Illinois** (2026)
-   0 citations · Enhanced Weathering
+   0 citations
 
 ## External Profiles
 

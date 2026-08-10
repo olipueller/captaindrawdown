@@ -1,7 +1,7 @@
 ---
 title: "Botao Yu"
 description: "Botao Yu is a Mid-career Soil Carbon researcher at Nanchang Institute of Technology in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.252614
+date: 2026-08-11T01:33:12.130983
 url: "/cdr-researcher-census/researchers/botao-yu-a5110594/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Microbial Carbon Use Efficiency in Coastal Soils Along a Salinity Gradient Revealed by Ecoenzymatic Stoichiometry** (2022)
-   26 citations · Soil Carbon
+   28 citations · Soil Carbon
 
 ## External Profiles
 

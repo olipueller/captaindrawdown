@@ -1,7 +1,7 @@
 ---
 title: "M. Abhinaya"
 description: "M. Abhinaya is an Early-career Biochar researcher at JSS Dental College and Hospital in IN. With 6 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.498786
+date: 2026-08-11T01:33:12.351755
 url: "/cdr-researcher-census/researchers/m-abhinaya-a5057141/"
 layout: "researcher"
 hiddenInHomeList: true

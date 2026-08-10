@@ -1,7 +1,7 @@
 ---
 title: "Ton That Buu"
 description: "Ton That Buu is a Mid-career Biochar researcher at Vietnam National University Ho Chi Minh City in VN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.111405
+date: 2026-08-11T01:33:12.001828
 url: "/cdr-researcher-census/researchers/ton-that-buu-a5071698/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    31 citations
 
 2. **A case study of different bismuth oxyhalides BiOX (X = F, Cl, Br, and I)/biochar-derived rice husk@graphitic carbon nitride for the robustness of H2O2 photoproduction and antibiotic photodegradation** (2023)
-   25 citations · Biochar
+   26 citations · Biochar
 
 ## External Profiles
 

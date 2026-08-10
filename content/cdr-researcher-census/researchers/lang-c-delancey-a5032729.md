@@ -1,7 +1,7 @@
 ---
 title: "Lang C. DeLancey"
 description: "Lang C. DeLancey is a Mid-career Soil Carbon researcher at University of Minnesota in US. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.800428
+date: 2026-08-11T01:33:11.710587
 url: "/cdr-researcher-census/researchers/lang-c-delancey-a5032729/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil carbon stocks in temperate grasslands differ strongly across sites but are insensitive to decade‐long fertilization** (2021)
-   78 citations · Soil Carbon
+   79 citations · Soil Carbon
 
 ## External Profiles
 

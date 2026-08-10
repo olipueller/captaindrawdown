@@ -1,7 +1,7 @@
 ---
 title: "Ali Maghzian"
 description: "Ali Maghzian is a Mid-career Ocean CDR researcher at University of British Columbia in CA. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.214258
+date: 2026-08-11T01:33:12.095954
 url: "/cdr-researcher-census/researchers/ali-maghzian-a5050480/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Review on the direct air CO2 capture by microalgae: Bibliographic mapping** (2022)
-   71 citations · General CDR
+   73 citations · General CDR
 
 2. **Analysis of suitable regions for microalgae cultivation and harvesting potential for carbon capture: A global feasibility study** (2024)
    13 citations · Ocean CDR

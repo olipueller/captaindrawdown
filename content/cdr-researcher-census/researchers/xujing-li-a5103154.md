@@ -1,7 +1,7 @@
 ---
 title: "Xujing Li"
 description: "Xujing Li is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 50 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.520006
+date: 2026-08-11T01:33:11.457932
 url: "/cdr-researcher-census/researchers/xujing-li-a5103154/"
 layout: "researcher"
 hiddenInHomeList: true

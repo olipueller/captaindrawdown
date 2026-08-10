@@ -1,7 +1,7 @@
 ---
 title: "Md. Aslam Ali"
 description: "Md. Aslam Ali is a Senior Soil Carbon researcher at Bangladesh Agricultural Research Institute in BD. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.007851
+date: 2026-08-11T01:33:11.884681
 url: "/cdr-researcher-census/researchers/md-aslam-ali-a5101063/"
 layout: "researcher"
 hiddenInHomeList: true

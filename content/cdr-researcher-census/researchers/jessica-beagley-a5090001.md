@@ -1,7 +1,7 @@
 ---
 title: "Jessica Beagley"
 description: "Jessica Beagley is a Mid-career General CDR researcher at Health Alliance International in US. With 17 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.093213
+date: 2026-08-11T01:33:11.073948
 url: "/cdr-researcher-census/researchers/jessica-beagley-a5090001/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Joshua L. Breithaupt"
 description: "Joshua L. Breithaupt is a Mid-career Soil Carbon researcher at Florida State University in US. With 52 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.209293
+date: 2026-08-11T01:33:11.182545
 url: "/cdr-researcher-census/researchers/joshua-l-breithaupt-a5083590/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    18 citations · Soil Carbon
 
 2. **Using loss-on-ignition to estimate total nitrogen content of mangrove soils** (2024)
-   7 citations · General CDR
+   8 citations · General CDR
 
 3. **Restoration objectives create surface carbon cycle trade‐offs in coastal habitats** (2021)
    6 citations · General CDR

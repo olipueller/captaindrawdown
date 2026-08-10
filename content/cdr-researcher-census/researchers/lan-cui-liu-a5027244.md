@@ -1,7 +1,7 @@
 ---
 title: "Lan-Cui Liu"
 description: "Lan-Cui Liu is a Senior General CDR researcher at Beijing Normal University in CN. With 116 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.108450
+date: 2026-08-11T01:33:11.088122
 url: "/cdr-researcher-census/researchers/lan-cui-liu-a5027244/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Life cycle cost assessment of biomass co-firing power plants with CO2 capture and storage considering multiple incentives** (2021)
-   81 citations · BECCS
+   83 citations · BECCS
 
 2. **The global mismatch between equitable carbon dioxide removal liability and capacity** (2023)
-   31 citations · General CDR
+   32 citations · General CDR
 
 3. **Unlocking the economic potential of Direct Air Capture technology: Insights from a component-based learning curve** (2025)
-   7 citations · DAC
+   8 citations · DAC
 
 4. **The role of BECCS technology in achieving carbon neutrality: evidences from China’ coal power sector** (2023)
-   7 citations · BECCS
+   8 citations · BECCS
 
 5. **Non-carbon dioxide emissions modeling in integrated assessment models: A review** (2024)
    4 citations · General CDR

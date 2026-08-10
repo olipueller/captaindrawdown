@@ -1,7 +1,7 @@
 ---
 title: "Uwaga Monica Adanma"
 description: "Uwaga Monica Adanma is a Mid-career BECCS researcher at Michael Okpara University of Agriculture in NG. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.576172
+date: 2026-08-11T01:33:11.508540
 url: "/cdr-researcher-census/researchers/uwaga-monica-adanma-a5098735/"
 layout: "researcher"
 hiddenInHomeList: true

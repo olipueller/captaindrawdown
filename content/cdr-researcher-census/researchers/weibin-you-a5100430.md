@@ -1,7 +1,7 @@
 ---
 title: "Weibin You"
 description: "Weibin You is a Mid-career Soil Carbon researcher at Fujian Agriculture and Forestry University in CN. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.586027
+date: 2026-08-11T01:33:11.517542
 url: "/cdr-researcher-census/researchers/weibin-you-a5100430/"
 layout: "researcher"
 hiddenInHomeList: true

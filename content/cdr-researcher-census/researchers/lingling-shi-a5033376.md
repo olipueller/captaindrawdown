@@ -1,7 +1,7 @@
 ---
 title: "Lingling Shi"
 description: "Lingling Shi is a Senior Soil Carbon researcher at University of Tuebingen in DE. With 137 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.132166
+date: 2026-08-11T01:33:11.110633
 url: "/cdr-researcher-census/researchers/lingling-shi-a5033376/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon fluxes within tree-crop-grass agroforestry system: 13C field labeling and tracing** (2022)
-   31 citations · Soil Carbon
+   33 citations · Soil Carbon
 
 2. **Necromass responses to warming: A faster microbial turnover in favor of soil carbon stabilisation** (2024)
-   27 citations · Soil Carbon
+   28 citations · Soil Carbon
 
 3. **Keeping thinning-derived deadwood logs on forest floor improves soil organic carbon, microbial biomass, and enzyme activity in a temperate spruce forest** (2022)
-   25 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 4. **Organic carbon loading of soils determines the fate of added fresh plant-derived organic matter** (2024)
-   22 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 5. **Microplastic contamination accelerates soil carbon loss through positive priming** (2024)
-   19 citations
+   20 citations
 
 6. **Microbial efficiency drives depth-dependent soil carbon storage under organic fertilization** (2026)
    5 citations · Soil Carbon

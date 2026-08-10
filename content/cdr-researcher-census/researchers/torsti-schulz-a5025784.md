@@ -1,7 +1,7 @@
 ---
 title: "Torsti Schulz"
 description: "Torsti Schulz is a Mid-career BECCS researcher at University of Helsinki in FI. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.642049
+date: 2026-08-11T01:33:11.568116
 url: "/cdr-researcher-census/researchers/torsti-schulz-a5025784/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    11 citations · Soil Carbon
 
 2. **Bioenergy and Waste** (2025)
-   1 citations · BECCS
+   2 citations · BECCS
 
 3. **Modelling the Effects of Forest use Change on Brownification of Finnish Rivers under Atmospheric Pressure** (2024)
    1 citations

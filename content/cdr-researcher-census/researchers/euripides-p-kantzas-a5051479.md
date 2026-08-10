@@ -1,7 +1,7 @@
 ---
 title: "Euripides P. Kantzas"
 description: "Euripides P. Kantzas is a Senior Enhanced Weathering researcher at University of Sheffield in GB. With 54 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.196967
+date: 2026-08-11T01:33:11.171238
 url: "/cdr-researcher-census/researchers/euripides-p-kantzas-a5051479/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Substantial carbon drawdown potential from enhanced rock weathering in the United Kingdom** (2022)
-   159 citations · Enhanced Weathering
+   162 citations · Enhanced Weathering
 
 2. **Environmental and health impacts of atmospheric CO2 removal by enhanced rock weathering depend on nations’ energy mix** (2022)
-   66 citations · Enhanced Weathering
+   68 citations · Enhanced Weathering
 
 3. **Transforming US agriculture for carbon removal with enhanced weathering** (2025)
-   48 citations · Enhanced Weathering
+   55 citations · Enhanced Weathering
 
 4. **The role of enhanced rock weathering deployment with agriculture in limiting future warming and protecting coral reefs** (2021)
    28 citations · Enhanced Weathering

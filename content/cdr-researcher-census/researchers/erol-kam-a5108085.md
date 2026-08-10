@@ -1,7 +1,7 @@
 ---
 title: "Erol Kam"
 description: "Erol Kam is a Senior Soil Carbon researcher at Istanbul Technical University in TR. With 16 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.596980
+date: 2026-08-11T01:33:11.527396
 url: "/cdr-researcher-census/researchers/erol-kam-a5108085/"
 layout: "researcher"
 hiddenInHomeList: true

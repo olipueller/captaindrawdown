@@ -1,7 +1,7 @@
 ---
 title: "Joanna Sitarz"
 description: "Joanna Sitarz is a Mid-career BECCS researcher at Potsdam Institute for Climate Impact Research in DE. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.394699
+date: 2026-08-11T01:33:12.256449
 url: "/cdr-researcher-census/researchers/joanna-sitarz-a5044178/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Transformations of the energy supply sector towards EU’s net-zero goal** (2026)
-   0 citations
+   1 citations · BECCS
 
 2. **Transformations of the energy supply sector towards EU’s net-zero goal** (2026)
-   0 citations · BECCS
+   0 citations
 
 ## External Profiles
 

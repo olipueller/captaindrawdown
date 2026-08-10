@@ -1,7 +1,7 @@
 ---
 title: "Xinguo Li"
 description: "Xinguo Li is a Senior Soil Carbon researcher at Donghua University in CN. With 30 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.478925
+date: 2026-08-11T01:33:12.333740
 url: "/cdr-researcher-census/researchers/xinguo-li-a5115599/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,13 +50,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Identifying Determinants and Mechanisms of Soil Organic Carbon Content in the Typical Lakeside Oases Using a Remote Sensing-Based Structural Equation Model** (2025)
+1. **Effects of Landscape Pattern on Spatial Distribution of Soil Organic Carbon Content in a Typical Lakeside Oasis** (2026)
+   0 citations
+
+2. **Identifying Determinants and Mechanisms of Soil Organic Carbon Content in the Typical Lakeside Oases Using a Remote Sensing-Based Structural Equation Model** (2025)
    0 citations · Soil Carbon
 
-2. **Synergizing Multiscale Wavelet Decomposition and Machine Learning Approach for Improved Accuracy of Soil Organic Carbon Content Estimation in the Arid Lakeside Oases** (2025)
+3. **Synergizing Multiscale Wavelet Decomposition and Machine Learning Approach for Improved Accuracy of Soil Organic Carbon Content Estimation in the Arid Lakeside Oases** (2025)
    0 citations · Soil Carbon
 
-3. **Synergizing multiscale wavelet decomposition and machine learning approach for improved accuracy of soil organic carbon estimation in the arid Lakeside Oases** (2025)
+4. **Synergizing multiscale wavelet decomposition and machine learning approach for improved accuracy of soil organic carbon estimation in the arid Lakeside Oases** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

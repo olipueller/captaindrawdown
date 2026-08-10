@@ -1,7 +1,7 @@
 ---
 title: "Imke Rhoden"
 description: "Imke Rhoden is a Mid-career General CDR researcher at Karlsruhe Institute of Technology in DE. With 43 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.361292
+date: 2026-08-11T01:33:12.225050
 url: "/cdr-researcher-census/researchers/imke-rhoden-a5045547/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Scoping carbon dioxide removal options for Germany–What is their potential contribution to Net-Zero CO2?** (2022)
-   36 citations · General CDR
+   37 citations · General CDR
 
 2. **A Comprehensive Assessment of Carbon Dioxide Removal Options for Germany** (2024)
-   22 citations · BECCS
+   24 citations · BECCS
 
 3. **A Comprehensive Assessment of Carbon Dioxide Removal Options for Germany** (2023)
    1 citations

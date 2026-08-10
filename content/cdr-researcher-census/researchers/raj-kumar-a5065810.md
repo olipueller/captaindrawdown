@@ -1,7 +1,7 @@
 ---
 title: "Raj Kumar"
 description: "Raj Kumar is a Senior Soil Carbon researcher at Central Soil Salinity Research Institute in IN. With 153 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.419163
+date: 2026-08-11T01:33:11.371995
 url: "/cdr-researcher-census/researchers/raj-kumar-a5065810/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Degraded land rehabilitation through agroforestry in India: Achievements, current understanding, and future prospectives** (2023)
-   110 citations · Soil Carbon
+   119 citations · Soil Carbon
 
 2. **Agroforestry for controlling soil erosion and enhancing system productivity in ravine lands of Western India under climate change scenario** (2022)
-   92 citations · Soil Carbon
+   94 citations · Soil Carbon
 
 3. **Global assessment of production benefits and risk reduction in agroforestry during extreme weather events under climate change scenarios** (2024)
-   30 citations · General CDR
+   32 citations · General CDR
 
 4. **Nature-based solutions for enhancing CO2 sequestration and rehabilitating degraded lands through silvo-aromatic system and soil moisture conservation techniques** (2025)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 5. **Carbon Sequestration in Degraded Lands: Current Prospects, Practices, and Future Strategies** (2022)
    6 citations · General CDR

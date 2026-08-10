@@ -1,7 +1,7 @@
 ---
 title: "Fatih Güleç"
 description: "Fatih Güleç is a Senior BECCS researcher at University of Nottingham in GB. With 59 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.265332
+date: 2026-08-11T01:33:11.234427
 url: "/cdr-researcher-census/researchers/fatih-gulec-a5080313/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Progress in lignocellulosic biomass valorization for biofuels and value‐added chemical production in the <scp>EU</scp>: A focus on thermochemical conversion processes** (2023)
-   73 citations · BECCS
+   77 citations · BECCS
 
 2. **Decarbonising bioenergy through biomass utilisation in chemical looping combustion and gasification: a review** (2023)
-   55 citations · BECCS
+   58 citations · BECCS
 
 3. **Chemical looping oxygen uncoupling of biochar using CuO: Influence of oxygen carrier on combustion efficiency** (2025)
-   4 citations · Biochar
+   5 citations · Biochar
 
 ## External Profiles
 

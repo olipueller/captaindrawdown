@@ -1,7 +1,7 @@
 ---
 title: "Xingguo Bao"
 description: "Xingguo Bao is a Senior Soil Carbon researcher at Gansu Academy of Agricultural Sciences in CN. With 47 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.137582
+date: 2026-08-11T01:33:11.115776
 url: "/cdr-researcher-census/researchers/xingguo-bao-a5022982/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Temporal and spatial effects of crop diversity on soil carbon and nitrogen storage and vertical distribution** (2023)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 2. **Intercropping significantly elevates carbon sequestration by mitigating the decline in soil total carbon caused by excessive phosphorus-application** (2025)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 3. **Multi-year intercropping with green manure increases maize yield by improving soil quality, regulating element content, and influencing microbial communities** (2025)
    0 citations · Soil Carbon

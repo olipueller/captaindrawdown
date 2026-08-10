@@ -1,7 +1,7 @@
 ---
 title: "Jeroen Meersmans"
 description: "Jeroen Meersmans is an Eminent Soil Carbon researcher at University of Liège in BE. With 172 publications and an h-index of 47, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.096624
+date: 2026-08-11T01:33:11.076937
 url: "/cdr-researcher-census/researchers/jeroen-meersmans-a5024947/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term manuring facilitates glomalin-related soil proteins accumulation by chemical composition shifts and macro-aggregation formation** (2023)
-   55 citations · Soil Carbon
+   56 citations · Soil Carbon
 
 2. **No-tillage facilitates soil organic carbon sequestration by enhancing arbuscular mycorrhizal fungi-related soil proteins accumulation and aggregation** (2024)
    39 citations · Soil Carbon
@@ -69,7 +69,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    3 citations · Soil Carbon
 
 8. **Strategies to reduce CH4 and N2O emissions whilst maintaining crop yield in rice–wheat system under climate change using SPACSYS model** (2025)
-   2 citations · General CDR
+   3 citations · General CDR
 
 9. **Long-term fertilization-induced increases in glomalin-related soil protein depend on phosphorus input and aggregate stability across climatic zones** (2025)
    1 citations · Soil Carbon

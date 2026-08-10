@@ -1,7 +1,7 @@
 ---
 title: "Usman Bala Soja"
 description: "Usman Bala Soja is a Mid-career Biochar researcher at Newcastle University in GB. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.621558
+date: 2026-08-11T01:33:11.549406
 url: "/cdr-researcher-census/researchers/usman-bala-soja-a5039270/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A review on the application of biochar as an innovative and sustainable biocarrier material in moving bed biofilm reactors for dye removal from environmental matrices** (2024)
-   19 citations · Biochar
+   20 citations · Biochar
 
 ## External Profiles
 

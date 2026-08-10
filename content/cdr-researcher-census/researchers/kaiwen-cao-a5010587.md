@@ -1,7 +1,7 @@
 ---
 title: "Kaiwen Cao"
 description: "Kaiwen Cao is a Mid-career Biochar researcher at Nanchang Hangkong University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.939576
+date: 2026-08-11T01:33:11.835334
 url: "/cdr-researcher-census/researchers/kaiwen-cao-a5010587/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Enhanced peroxymonosulfate activation by biogenic iron-manganese oxide on biochar: Singlet oxygen generation and synergistic mechanism** (2024)
-   26 citations · Biochar
+   27 citations · Biochar
 
 2. **Enhanced Persulfate Activation by Biogenic Iron-Manganese Oxide on Biochar: Singlet Oxygen Generation and Synergistic Mechanism** (2024)
    0 citations · Biochar

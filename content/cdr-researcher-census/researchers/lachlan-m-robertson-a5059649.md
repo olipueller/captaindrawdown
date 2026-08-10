@@ -1,7 +1,7 @@
 ---
 title: "Lachlan M. Robertson"
 description: "Lachlan M. Robertson is a Mid-career Enhanced Weathering researcher at The University of Queensland in AU. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.617480
+date: 2026-08-11T01:33:11.545574
 url: "/cdr-researcher-census/researchers/lachlan-m-robertson-a5059649/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Chemodiversity of Dissolved Organic Matter and Its Molecular Changes Driven by Rhizosphere Activities in Fe Ore Tailings Undergoing Eco-Engineered Pedogenesis** (2021)
-   71 citations
+   72 citations
 
 2. **Transforming iron ore tailings into technosols: Highly biodegradable plant mulch accelerates mineral weathering and organo-mineral association** (2026)
    1 citations

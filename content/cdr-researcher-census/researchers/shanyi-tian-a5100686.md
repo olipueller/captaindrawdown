@@ -1,7 +1,7 @@
 ---
 title: "Shanyi Tian"
 description: "Shanyi Tian is a Mid-career Soil Carbon researcher at Southwest University in CN. With 31 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.384073
+date: 2026-08-11T01:33:11.340580
 url: "/cdr-researcher-census/researchers/shanyi-tian-a5100686/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Evaluating soil dissolved organic matter as a proxy for soil organic matter properties across diverse ecosystems** (2025)
-   32 citations · Soil Carbon
+   33 citations · Soil Carbon
 
 2. **Does greater molecular diversity in soil organic matter imply greater persistence: Insights from molecular and multi-property analyses in Western China** (2025)
    8 citations
 
 3. **Effects and mechanisms of warming on the relationship between soil organic matter degradation and methylmercury production in Hg-contaminated soil** (2025)
-   4 citations
+   5 citations
 
 4. **Contrasting carbon processing and stabilization pathways in low- and high-mercury contaminated soils** (2025)
    3 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Shaowen Huang"
 description: "Shaowen Huang is a Senior Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 64 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.209958
+date: 2026-08-11T01:33:11.183132
 url: "/cdr-researcher-census/researchers/shaowen-huang-a5059523/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -56,11 +56,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 2. **Impacts of long-term different fertilization regimes on microbial utilization of straw-derived carbon in greenhouse vegetable soils: insights from its ecophysiological roles and temperature responses** (2024)
    7 citations · Soil Carbon
 
-3. **Long-Term Organic Substitution Regimes Affect Open-Field Vegetable Yields and Soil Organic Carbon Stability by Regulating Soil Labile Organic Carbon Fractions’ Changes** (2025)
-   2 citations · Soil Carbon
+3. **Long-term organic amendments accelerate straw decomposition via specialized microbial enrichment in greenhouse vegetable soils** (2026)
+   3 citations · Soil Carbon
 
-4. **Long-term organic amendments accelerate straw decomposition via specialized microbial enrichment in greenhouse vegetable soils** (2026)
-   1 citations · Soil Carbon
+4. **Long-Term Organic Substitution Regimes Affect Open-Field Vegetable Yields and Soil Organic Carbon Stability by Regulating Soil Labile Organic Carbon Fractions’ Changes** (2025)
+   3 citations · Soil Carbon
 
 ## External Profiles
 

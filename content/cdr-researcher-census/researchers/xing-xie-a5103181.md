@@ -1,7 +1,7 @@
 ---
 title: "Xing Xie"
 description: "Xing Xie is a Mid-career Biochar researcher at Jiangsu University in CN. With 36 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.268834
+date: 2026-08-11T01:33:11.237629
 url: "/cdr-researcher-census/researchers/xing-xie-a5103181/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Pyrolysis of rice husk in molten lithium chloride: Biochar structure evolution and CO2 adsorption** (2024)
-   38 citations · Biochar
+   39 citations · Biochar
 
 2. **Effects of intrinsic and external potassium on biochar structure evolution in volatile-char interactions during biomass pyrolysis** (2025)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Junfang Shen"
 description: "Junfang Shen is a Senior Biochar researcher at Luoyang Institute of Science and Technology in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.405972
+date: 2026-08-11T01:33:12.265909
 url: "/cdr-researcher-census/researchers/junfang-shen-a5002240/"
 layout: "researcher"
 hiddenInHomeList: true

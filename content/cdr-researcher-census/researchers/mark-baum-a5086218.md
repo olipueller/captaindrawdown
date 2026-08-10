@@ -1,7 +1,7 @@
 ---
 title: "Mark Baum"
 description: "Mark Baum is a Senior Enhanced Weathering researcher. With 28 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.010657
+date: 2026-08-11T01:33:11.887325
 url: "/cdr-researcher-census/researchers/mark-baum-a5086218/"
 layout: "researcher"
 hiddenInHomeList: true

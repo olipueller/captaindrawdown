@@ -1,7 +1,7 @@
 ---
 title: "Yicheng Zeng"
 description: "Yicheng Zeng is a Mid-career Biochar researcher at Illinois Institute of Technology in US. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.980966
+date: 2026-08-11T01:33:11.859135
 url: "/cdr-researcher-census/researchers/yicheng-zeng-a5084262/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Improving soil carbon sequestration stability in Siraitia grosvenorii farmland through co-application of rice straw and its biochar** (2024)
-   8 citations · Biochar
+   10 citations · Biochar
 
 2. **Bamboo charcoal application altered the mineralization process of soil organic carbon in different succession stages of karst forest land** (2024)
    6 citations · Biochar

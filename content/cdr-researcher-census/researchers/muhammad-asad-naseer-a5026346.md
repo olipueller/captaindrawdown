@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Asad Naseer"
 description: "Muhammad Asad Naseer is a Mid-career Biochar researcher at Guangxi University in CN. With 37 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.537282
+date: 2026-08-11T01:33:11.473590
 url: "/cdr-researcher-census/researchers/muhammad-asad-naseer-a5026346/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    37 citations · Biochar
 
 2. **Can straw recycling achieve sustainable agriculture at the smallholder level? A case in a semi-arid region** (2024)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 ## External Profiles
 

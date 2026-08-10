@@ -1,7 +1,7 @@
 ---
 title: "Yongmeng Jiang"
 description: "Yongmeng Jiang is a Mid-career Soil Carbon researcher at Fujian Normal University in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.299466
+date: 2026-08-11T01:33:12.170109
 url: "/cdr-researcher-census/researchers/yongmeng-jiang-a5080282/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,21 +48,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Input of high-quality litter reduces soil carbon losses due to priming in a subtropical pine forest** (2024)
-   44 citations · Soil Carbon
+   45 citations · Soil Carbon
 
 2. **Lignin–microbial necromass carbon coupling drives the vertical stratification mechanism of deep soil carbon sequestration in subtropical forests** (2025)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
-3. **High-quality litter exerts a greater effect on soil carbon gain in unrestored than restored pine plantations** (2024)
+3. **Promoting effect of tree mixture on litter quality and microbial diversity governs microbial necromass accrual in previously degraded soils** (2025)
+   7 citations · Soil Carbon
+
+4. **High-quality litter exerts a greater effect on soil carbon gain in unrestored than restored pine plantations** (2024)
    7 citations
 
-4. **Promoting effect of tree mixture on litter quality and microbial diversity governs microbial necromass accrual in previously degraded soils** (2025)
-   6 citations · Soil Carbon
+5. **Introducing tree species of Schima superba and Liquidambar formosana enhances soil carbon sequestration by alleviating microbial phosphorus limitation and modulating microbial metabolism in degraded pine forests** (2026)
+   3 citations · Soil Carbon
 
-5. **Functional complementarity of abundant and rare taxa mediates soil carbon sequestration during subtropical forest restoration** (2026)
-   1 citations · Soil Carbon
-
-6. **Introducing tree species of Schima superba and Liquidambar formosana enhances soil carbon sequestration by alleviating microbial phosphorus limitation and modulating microbial metabolism in degraded pine forests** (2026)
+6. **Functional complementarity of abundant and rare taxa mediates soil carbon sequestration during subtropical forest restoration** (2026)
    1 citations · Soil Carbon
 
 7. **Mycorrhizal associations influence the origin and stability of topsoil organic carbon fractions: implications for subtropical forest restoration** (2026)

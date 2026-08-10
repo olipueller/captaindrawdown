@@ -1,7 +1,7 @@
 ---
 title: "Jordan Holdorf"
 description: "Jordan Holdorf is a Mid-career Soil Carbon researcher at Griffith University in AU. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.919126
+date: 2026-08-11T01:33:11.816730
 url: "/cdr-researcher-census/researchers/jordan-holdorf-a5074135/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Future carbon emissions from global mangrove forest loss** (2021)
-   239 citations · General CDR
+   244 citations · General CDR
 
 ## External Profiles
 

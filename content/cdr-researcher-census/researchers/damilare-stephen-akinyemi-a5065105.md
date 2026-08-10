@@ -1,7 +1,7 @@
 ---
 title: "Damilare Stephen Akinyemi"
 description: "Damilare Stephen Akinyemi is a Senior Soil Carbon researcher at Obafemi Awolowo University in NG. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.252303
+date: 2026-08-11T01:33:12.130704
 url: "/cdr-researcher-census/researchers/damilare-stephen-akinyemi-a5065105/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of shrub encroachment on soil aggregates and organic carbon vary in different grasslands in Inner Mongolia, China** (2021)
-   13 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Goutham Rangarajan"
 description: "Goutham Rangarajan is a Mid-career Biochar researcher at University of Toronto in CA. With 22 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.272400
+date: 2026-08-11T01:33:11.241121
 url: "/cdr-researcher-census/researchers/goutham-rangarajan-a5041007/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Photocatalytic reactive oxygen species generation and their mechanisms of action in pollutant removal with biochar supported photocatalysts: A review** (2022)
-   152 citations · Biochar
+   154 citations · Biochar
 
 2. **Acid-treated Biochar as Heterogeneous Catalyst for the Visible-light Driven Wet-peroxide Valorization of Biomass into Dicarboxylic Acids** (2023)
    0 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Haili Yang"
 description: "Haili Yang is a Senior Biochar researcher at China Three Gorges University in CN. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.757052
+date: 2026-08-11T01:33:11.671517
 url: "/cdr-researcher-census/researchers/haili-yang-a5051022/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Nano-biochar derived from bamboo biomass: A dual-functional material for electrochemical sensing of ferulic acid and adsorptive removal of surfactants in cosmetic wastewater** (2025)
-   8 citations · Biochar
+   9 citations · Biochar
 
 ## External Profiles
 

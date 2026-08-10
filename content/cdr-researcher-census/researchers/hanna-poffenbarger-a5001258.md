@@ -1,7 +1,7 @@
 ---
 title: "Hanna Poffenbarger"
 description: "Hanna Poffenbarger is a Senior Soil Carbon researcher at University of Kentucky in US. With 80 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.142652
+date: 2026-08-11T01:33:11.120433
 url: "/cdr-researcher-census/researchers/hanna-poffenbarger-a5001258/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Litter quality and living roots affected the formation of new mineral-associated organic carbon but did not affect total mineral-associated organic carbon in a short-term incubation** (2022)
-   49 citations · Soil Carbon
+   52 citations · Soil Carbon
 
 2. **Contributions of plant breeding to soil carbon storage: Retrospect and prospects** (2023)
    28 citations · Soil Carbon
 
-3. **Commercial maize hybrids have smaller root systems after 80 Years of breeding** (2024)
-   19 citations
+3. **Diversified cropping systems with limited carbon accrual but increased nitrogen supply** (2025)
+   19 citations · Soil Carbon
 
-4. **Diversified cropping systems with limited carbon accrual but increased nitrogen supply** (2025)
-   18 citations · Soil Carbon
+4. **Commercial maize hybrids have smaller root systems after 80 Years of breeding** (2024)
+   19 citations
 
 5. **Tracing the source of organic carbon in particulate and mineral-associated soil fractions in response to tillage and nitrogen fertilization intensities** (2026)
    1 citations · Soil Carbon

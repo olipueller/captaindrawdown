@@ -1,7 +1,7 @@
 ---
 title: "Mohammadali Hemati"
 description: "Mohammadali Hemati is a Mid-career Soil Carbon researcher. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.669096
+date: 2026-08-11T01:33:11.592076
 url: "/cdr-researcher-census/researchers/mohammadali-hemati-a5039938/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Integrating SAR and Optical Data for Aboveground Biomass Estimation of Coastal Wetlands Using Machine Learning: Multi-Scale Approach** (2024)
-   30 citations · Soil Carbon
+   31 citations · Soil Carbon
 
 2. **Comparative Analysis of UAVSAR Polarimetric Decompositions for Wetland Aboveground Biomass Mapping Using Machine Learning Models** (2025)
    0 citations · Soil Carbon

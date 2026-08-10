@@ -1,7 +1,7 @@
 ---
 title: "Yuwan Malakar"
 description: "Yuwan Malakar is a Mid-career General CDR researcher at CSIRO in AU. With 45 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.407588
+date: 2026-08-11T01:33:11.361328
 url: "/cdr-researcher-census/researchers/yuwan-malakar-a5035936/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,21 +51,24 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Navigating stakeholder heterogeneity in carbon dioxide removal governance** (2025)
-   12 citations · General CDR
+   13 citations · General CDR
 
 2. **Stakeholders have knowledge priorities beyond local impacts for responsible marine-based carbon dioxide removal in Tasmania** (2025)
-   2 citations · General CDR
+   4 citations · General CDR
 
 3. **Local capacity assessment is integral to stakeholder engagement for responsible marine carbon dioxide removal** (2025)
-   2 citations · General CDR
+   4 citations · General CDR
 
 4. **Beyond environmental identity: Testing public support for novel carbon dioxide removal in Australia using structural modelling** (2025)
-   1 citations · DAC
+   2 citations · DAC
 
-5. **Strategic research priorities for marine climate interventions in Australia** (2026)
+5. **Stories of soil and sea: Comparing narratives of land- and marine-based carbon dioxide removal for responsible deployment** (2026)
+   1 citations · Enhanced Weathering
+
+6. **Strategic research priorities for marine climate interventions in Australia** (2026)
    0 citations · General CDR
 
-6. **Local stakeholders can (and should?) play an active role in place-based deployment of Ocean Alkalinity Enhancement (OAE).** (2025)
+7. **Local stakeholders can (and should?) play an active role in place-based deployment of Ocean Alkalinity Enhancement (OAE).** (2025)
    0 citations · Ocean CDR
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "P. Chaitra"
 description: "P. Chaitra is an Early-career Biochar researcher at Punjab Agricultural University in IN. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.367775
+date: 2026-08-11T01:33:12.230412
 url: "/cdr-researcher-census/researchers/p-chaitra-a5002301/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Nano Modifications of Biochar to Enhance Heavy Metal Adsorption from Wastewaters: A Review** (2022)
-   119 citations · Biochar
+   123 citations · Biochar
 
 ## External Profiles
 

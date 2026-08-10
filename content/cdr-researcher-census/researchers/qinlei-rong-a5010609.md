@@ -1,7 +1,7 @@
 ---
 title: "Qinlei Rong"
 description: "Qinlei Rong is a Mid-career Biochar researcher at Jiangxi Agricultural University in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.857660
+date: 2026-08-11T01:33:11.760345
 url: "/cdr-researcher-census/researchers/qinlei-rong-a5010609/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,11 +47,11 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 ## Top CDR Publications
 
-1. **Selenium-Modified Biochar Synergistically Achieves the Safe Use of Selenium and the Inhibition of Heavy Metal Cadmium** (2025)
-   3 citations · Biochar
+1. **Fungal Necromass Carbon Stabilizes Rhizosphere Soil Organic Carbon: Microbial Degradation Gene Insights Under Straw and Biochar** (2025)
+   4 citations · Biochar
 
-2. **Fungal Necromass Carbon Stabilizes Rhizosphere Soil Organic Carbon: Microbial Degradation Gene Insights Under Straw and Biochar** (2025)
-   2 citations · Biochar
+2. **Selenium-Modified Biochar Synergistically Achieves the Safe Use of Selenium and the Inhibition of Heavy Metal Cadmium** (2025)
+   4 citations · Biochar
 
 ## External Profiles
 

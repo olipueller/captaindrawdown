@@ -1,7 +1,7 @@
 ---
 title: "Shuangling Xie"
 description: "Shuangling Xie is a Mid-career Biochar researcher at Zhejiang A & F University in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.001755
+date: 2026-08-11T01:33:11.879037
 url: "/cdr-researcher-census/researchers/shuangling-xie-a5082689/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Removal of Chromium (VI) by a Magnetic Nanoscale Zerovalent Iron–Assisted Chicken Manure-Derived Biochar: Adsorption Behavior and Synergetic Mechanism** (2022)
-   18 citations · Biochar
+   19 citations · Biochar
 
 ## External Profiles
 

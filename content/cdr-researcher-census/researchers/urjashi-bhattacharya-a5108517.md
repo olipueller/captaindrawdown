@@ -1,7 +1,7 @@
 ---
 title: "Urjashi Bhattacharya"
 description: "Urjashi Bhattacharya is a Mid-career General CDR researcher at Bidhan Chandra Krishi Viswavidyalaya in IN. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.627696
+date: 2026-08-11T01:33:11.555015
 url: "/cdr-researcher-census/researchers/urjashi-bhattacharya-a5108517/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Agroforestry: A Resource Conserving Technology for Efficient Utilization of Agricultural Inputs, Leads to Food and Environmental Security** (2024)
-   14 citations · General CDR
+   15 citations · General CDR
 
 ## External Profiles
 

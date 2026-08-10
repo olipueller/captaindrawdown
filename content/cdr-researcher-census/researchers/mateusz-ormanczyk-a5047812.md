@@ -1,7 +1,7 @@
 ---
 title: "Mateusz Ormańczyk"
 description: "Mateusz Ormańczyk is a Mid-career Ocean CDR researcher. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.348009
+date: 2026-08-11T01:33:12.213080
 url: "/cdr-researcher-census/researchers/mateusz-ormanczyk-a5047812/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Impact of aggregate‐colonizing copepods on the biological carbon pump in a high‐latitude fjord** (2024)
-   4 citations · General CDR
+   5 citations · General CDR
 
 ## External Profiles
 

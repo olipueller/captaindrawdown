@@ -1,7 +1,7 @@
 ---
 title: "Thom Wetzer"
 description: "Thom Wetzer is a Mid-career General CDR researcher at University of Oxford in GB. With 49 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.236597
+date: 2026-08-11T01:33:11.208369
 url: "/cdr-researcher-census/researchers/thom-wetzer-a5087487/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The meaning of net zero and how to get it right** (2021)
-   921 citations · General CDR
+   940 citations · General CDR
 
 2. **Implications of states’ dependence on carbon dioxide removal for achieving the Paris temperature goal** (2025)
-   7 citations · General CDR
+   9 citations · General CDR
 
 3. **Legal guardrails on states’ dependence on carbon dioxide removal to meet climate targets** (2026)
    0 citations

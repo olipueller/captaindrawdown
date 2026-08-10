@@ -1,7 +1,7 @@
 ---
 title: "Jiahui Yan"
 description: "Jiahui Yan is a Senior General CDR researcher at Commercial Aircraft Corporation of China (China) in CN. With 39 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.767797
+date: 2026-08-11T01:33:11.681402
 url: "/cdr-researcher-census/researchers/jiahui-yan-a5100945/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Energetic and Life Cycle Assessment of Direct Air Capture: A Review** (2022)
-   49 citations · DAC
+   50 citations · DAC
 
 2. **Can bioenergy with carbon capture and storage deliver negative emissions? A critical review of life cycle assessment** (2023)
-   33 citations · BECCS
+   35 citations · BECCS
 
 ## External Profiles
 

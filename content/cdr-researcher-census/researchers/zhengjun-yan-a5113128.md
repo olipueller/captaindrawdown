@@ -1,7 +1,7 @@
 ---
 title: "Zhengjun Yan"
 description: "Zhengjun Yan is a Mid-career Soil Carbon researcher at Ministry of Agriculture and Rural Affairs in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.889143
+date: 2026-08-11T01:33:11.789793
 url: "/cdr-researcher-census/researchers/zhengjun-yan-a5113128/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Legume-based crop diversification reinforces soil health and carbon storage driven by microbial biomass and aggregates** (2023)
-   96 citations · Soil Carbon
+   101 citations · Soil Carbon
 
 2. **Diversified cropping systems benefit soil carbon and nitrogen stocks by increasing aggregate stability: Results of three fractionation methods** (2022)
-   84 citations · Soil Carbon
+   86 citations · Soil Carbon
 
 3. **Legume-Based Crop Diversification Reinforces Soil Health and Carbon Storage: Aggregates Mechanisms and Quantitative Evaluation** (2023)
    1 citations · Soil Carbon

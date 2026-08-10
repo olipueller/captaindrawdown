@@ -1,7 +1,7 @@
 ---
 title: "Xiaotong Liu"
 description: "Xiaotong Liu is a Mid-career Soil Carbon researcher at International Bamboo and Rattan Organization in CN. With 31 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.339973
+date: 2026-08-11T01:33:11.302923
 url: "/cdr-researcher-census/researchers/xiaotong-liu-a5035897/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A global meta‐analysis of the impacts of no‐tillage on soil aggregation and aggregate‐associated organic carbon** (2021)
-   122 citations · Soil Carbon
+   123 citations · Soil Carbon
 
 2. **Understanding how conservation tillage promotes soil carbon accumulation: Insights into extracellular enzyme activities and carbon flows between aggregate fractions** (2023)
-   59 citations · Soil Carbon
+   61 citations · Soil Carbon
 
 3. **Altered microbial resource limitation regulates soil organic carbon sequestration based on ecoenzyme stoichiometry under long‐term tillage systems** (2022)
-   34 citations · Soil Carbon
+   35 citations · Soil Carbon
 
 4. **Conservation tillage enhances the sequestration and iron-mediated stabilization of aggregate-associated organic carbon in Mollisols** (2024)
-   22 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 5. **Depth-driven responses of soil organic carbon fractions to orchard cover crops across China: A meta-analysis** (2024)
    21 citations · Soil Carbon

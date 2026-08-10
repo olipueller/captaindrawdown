@@ -1,7 +1,7 @@
 ---
 title: "Wen-sheng Shu"
 description: "Wen-sheng Shu is a Senior Biochar researcher at South China Normal University in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.538884
+date: 2026-08-11T01:33:11.474982
 url: "/cdr-researcher-census/researchers/wen-sheng-shu-a5108071/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar-Based Strategies for Antibiotics Removal: Mechanisms, Factors, and Application** (2024)
-   80 citations · Biochar
+   84 citations · Biochar
 
 2. **Coupling Microalgae-based Biochar with MBGS Enhances Microbial Synergy and Multi-Pollutant Removal from Saline Aquaculture Wastewater** (2025)
-   3 citations · Biochar
+   6 citations · Biochar
 
 ## External Profiles
 

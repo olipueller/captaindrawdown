@@ -1,7 +1,7 @@
 ---
 title: "Christopher J. Cobos"
 description: "Christopher J. Cobos is a Mid-career Soil Carbon researcher. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.077239
+date: 2026-08-11T01:33:11.970672
 url: "/cdr-researcher-census/researchers/christopher-j-cobos-a5086809/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -42,10 +42,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **A Review of Regenerative Agriculture in Cotton Production Systems Across the Semi-Arid Texas High Plains** (2026)
-   0 citations · Soil Carbon
+1. **Mitigating carbon dioxide emissions from Texas Plains cotton production through regenerative agriculture** (2025)
+   1 citations · Soil Carbon
 
-2. **Mitigating carbon dioxide emissions from Texas Plains cotton production through regenerative agriculture** (2025)
+2. **A Review of Regenerative Agriculture in Cotton Production Systems Across the Semi-Arid Texas High Plains** (2026)
    0 citations · Soil Carbon
 
 3. **Mitigating Carbon Dioxide Emissions From Texas Plains Cotton Production Through Regenerative Agriculture** (2025)

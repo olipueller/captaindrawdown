@@ -1,7 +1,7 @@
 ---
 title: "Jiasheng Zhu"
 description: "Jiasheng Zhu is a Mid-career Biochar researcher at MIT University in MK. With 21 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.748497
+date: 2026-08-11T01:33:11.663850
 url: "/cdr-researcher-census/researchers/jiasheng-zhu-a5001788/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    64 citations · Biochar
 
 2. **Effect of fine-grained wood biochar on the geotechnical and microstructural behaviour of expansive clay as pavement subgrade** (2025)
-   13 citations · Biochar
+   16 citations · Biochar
 
 ## External Profiles
 

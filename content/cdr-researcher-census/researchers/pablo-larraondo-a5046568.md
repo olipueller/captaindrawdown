@@ -1,7 +1,7 @@
 ---
 title: "Pablo Larraondo"
 description: "Pablo Larraondo is a Mid-career Soil Carbon researcher. With 34 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.319057
+date: 2026-08-11T01:33:11.285161
 url: "/cdr-researcher-census/researchers/pablo-larraondo-a5046568/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Non-compliance and under-performance in Australian human-induced regeneration projects** (2024)
-   12 citations · General CDR
+   13 citations · General CDR
 
 2. **A Regulatory Mirage: Non-compliance with Regulatory Requirements in Australian Human-induced Regeneration Projects** (2024)
    0 citations · General CDR

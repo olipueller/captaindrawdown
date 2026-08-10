@@ -1,7 +1,7 @@
 ---
 title: "Krishna Mondal"
 description: "Krishna Mondal is a Mid-career Soil Carbon researcher at Indian Institute of Technology Kharagpur in IN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.489851
+date: 2026-08-11T01:33:12.344015
 url: "/cdr-researcher-census/researchers/krishna-mondal-a5003523/"
 layout: "researcher"
 hiddenInHomeList: true

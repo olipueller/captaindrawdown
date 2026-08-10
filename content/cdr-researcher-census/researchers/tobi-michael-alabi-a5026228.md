@@ -1,7 +1,7 @@
 ---
 title: "Tobi Michael Alabi"
 description: "Tobi Michael Alabi is a Mid-career General CDR researcher at Hong Kong Polytechnic University in HK. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.445674
+date: 2026-08-11T01:33:11.394885
 url: "/cdr-researcher-census/researchers/tobi-michael-alabi-a5026228/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Automated deep reinforcement learning for real-time scheduling strategy of multi-energy system integrated with post-carbon and direct-air carbon captured system** (2023)
-   49 citations · General CDR
+   50 citations · General CDR
 
 ## External Profiles
 

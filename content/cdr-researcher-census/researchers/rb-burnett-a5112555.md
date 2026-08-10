@@ -1,7 +1,7 @@
 ---
 title: "R.B. Burnett"
 description: "R.B. Burnett is a Senior Biochar researcher at Rainbow Medical (Israel) in IL. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.279097
+date: 2026-08-11T01:33:12.152802
 url: "/cdr-researcher-census/researchers/rb-burnett-a5112555/"
 layout: "researcher"
 hiddenInHomeList: true

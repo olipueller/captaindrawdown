@@ -1,7 +1,7 @@
 ---
 title: "Qing Shi"
 description: "Qing Shi is a Mid-career Enhanced Weathering researcher at Hebei Food Inspection and Research Institute in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.463030
+date: 2026-08-11T01:33:12.319331
 url: "/cdr-researcher-census/researchers/qing-shi-a5056691/"
 layout: "researcher"
 hiddenInHomeList: true

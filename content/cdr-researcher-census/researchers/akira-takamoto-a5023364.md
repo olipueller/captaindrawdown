@@ -1,7 +1,7 @@
 ---
 title: "Akira Takamoto"
 description: "Akira Takamoto is a Mid-career Soil Carbon researcher at Tohoku Agricultural Research Center in JP. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.194017
+date: 2026-08-11T01:33:12.077781
 url: "/cdr-researcher-census/researchers/akira-takamoto-a5023364/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of long-term application of inorganic fertilizer and organic amendments on the amounts of fractionated soil organic carbon and their determining factors in paddy fields** (2024)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 2. **Effects of long-term application of inorganic fertilizers and organic amendments on the turnover rates of fractionated soil organic carbon and their determining factors in paddy fields** (2024)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 ## External Profiles
 

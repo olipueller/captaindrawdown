@@ -1,7 +1,7 @@
 ---
 title: "Christopher Ashman"
 description: "Christopher Ashman is a Mid-career BECCS researcher at Aberystwyth University in GB. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.574031
+date: 2026-08-11T01:33:12.416431
 url: "/cdr-researcher-census/researchers/christopher-ashman-a5112477/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Perennial biomass cropping and use: Shaping the policy ecosystem in European countries** (2023)
-   51 citations · BECCS
+   53 citations · BECCS
 
 ## External Profiles
 

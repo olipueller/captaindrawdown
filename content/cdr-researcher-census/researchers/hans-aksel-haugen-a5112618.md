@@ -1,7 +1,7 @@
 ---
 title: "Hans Aksel Haugen"
 description: "Hans Aksel Haugen is a Senior Ocean CDR researcher at SINTEF in NO. With 37 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.704834
+date: 2026-08-11T01:33:11.624350
 url: "/cdr-researcher-census/researchers/hans-aksel-haugen-a5112618/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Review on CO2 removal from ocean with an emphasis on direct ocean capture (DOC) technologies** (2024)
-   25 citations · General CDR
+   27 citations · General CDR
 
 2. **Review on direct ocean capture (DOC) technologies** (2022)
    8 citations · Ocean CDR

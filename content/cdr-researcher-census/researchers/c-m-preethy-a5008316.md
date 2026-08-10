@@ -1,7 +1,7 @@
 ---
 title: "C. M. Preethy"
 description: "C. M. Preethy is a Mid-career Soil Carbon researcher at Cochin University of Science and Technology in IN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.115696
+date: 2026-08-11T01:33:12.005883
 url: "/cdr-researcher-census/researchers/c-m-preethy-a5008316/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon stocks and sequestration rate in mangroves and its major influencing factors from highly urbanised port city, southern India** (2023)
-   41 citations · Soil Carbon
+   42 citations · Soil Carbon
 
 ## External Profiles
 

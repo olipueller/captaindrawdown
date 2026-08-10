@@ -1,7 +1,7 @@
 ---
 title: "Preston Kemeny"
 description: "Preston Kemeny is a Mid-career Enhanced Weathering researcher at University of Chicago in US. With 71 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.355291
+date: 2026-08-11T01:33:11.316649
 url: "/cdr-researcher-census/researchers/preston-kemeny-a5013829/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Arctic Permafrost Thawing Enhances Sulfide Oxidation** (2023)
-   21 citations · Enhanced Weathering
+   22 citations · Enhanced Weathering
 
 2. **Constraining sulfur cycling in the Eastern Tibetan Plateau: Evidence for cryptic sulfur cycling and implications for the weathering budget** (2025)
-   10 citations · Enhanced Weathering
+   12 citations · Enhanced Weathering
 
 3. **Competition or collaboration: Clay formation sets the relationship between silicate weathering and organic carbon burial in soil** (2024)
-   9 citations · Enhanced Weathering
+   10 citations · Enhanced Weathering
 
 4. **Glacially enhanced silicate weathering revealed by Holocene lake records** (2025)
    1 citations · Enhanced Weathering

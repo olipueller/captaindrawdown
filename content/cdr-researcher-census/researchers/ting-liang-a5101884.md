@@ -1,7 +1,7 @@
 ---
 title: "Ting Liang"
 description: "Ting Liang is a Mid-career Soil Carbon researcher at Sichuan Agricultural University in CN. With 36 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.485881
+date: 2026-08-11T01:33:11.428767
 url: "/cdr-researcher-census/researchers/ting-liang-a5101884/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term green manuring increases soil carbon sequestration via decreasing qCO2 caused by lower microbial phosphorus limitation in a dry land field** (2024)
-   37 citations · Soil Carbon
+   40 citations · Soil Carbon
 
 2. **Appropriately delayed flooding before rice transplanting increases net ecosystem economic benefit in the winter green manure-rice rotation system** (2024)
    13 citations · Soil Carbon
 
 3. **Long-term organic fertilization decreases soil carbon biodegradability by mediating molecular transformation of dissolved organic matter** (2025)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 4. **Green manuring outperforms cattle manure in soil carbon sequestration by reshaping dissolved organic matter composition and fungal life strategies** (2026)
    2 citations · Soil Carbon

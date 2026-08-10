@@ -1,7 +1,7 @@
 ---
 title: "Diankai Zhang"
 description: "Diankai Zhang is a Senior Soil Carbon researcher at Gansu Agricultural University in CN. With 24 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.987211
+date: 2026-08-11T01:33:11.865164
 url: "/cdr-researcher-census/researchers/diankai-zhang-a5035964/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Enhancing crop production and carbon sequestration of wheat in arid areas by green manure with reduced nitrogen fertilizer** (2024)
-   23 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 2. **Multiple Cropped Leguminous Green Manure after Wheat Harvest and Reduced Chemical N Fertilizer Enhances Crop Productivity and Carbon Sequestration Potential of Farmland in Arid Areas** (2024)
    0 citations · Soil Carbon

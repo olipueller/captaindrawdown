@@ -1,7 +1,7 @@
 ---
 title: "Gregory E. Ogden"
 description: "Gregory E. Ogden is a Senior Biochar researcher at University of Arizona in US. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.318527
+date: 2026-08-11T01:33:12.186809
 url: "/cdr-researcher-census/researchers/gregory-e-ogden-a5020370/"
 layout: "researcher"
 hiddenInHomeList: true

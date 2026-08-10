@@ -1,7 +1,7 @@
 ---
 title: "Graeme Short"
 description: "Graeme Short is a Mid-career Biochar researcher. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.388939
+date: 2026-08-11T01:33:12.250708
 url: "/cdr-researcher-census/researchers/graeme-short-a5063870/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Ammonium nitrogen (NH4+-N) recovery from synthetic wastewater using biosolids-derived biochar** (2023)
-   12 citations · Biochar
+   13 citations · Biochar
 
 ## External Profiles
 

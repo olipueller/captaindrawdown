@@ -1,7 +1,7 @@
 ---
 title: "Maegen Simmonds"
 description: "Maegen Simmonds is a Mid-career Soil Carbon researcher at Lawrence Berkeley National Laboratory in US. With 32 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.775174
+date: 2026-08-11T01:33:11.688039
 url: "/cdr-researcher-census/researchers/maegen-simmonds-a5066763/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil carbon sequestration in global working lands as a gateway for negative emission technologies** (2023)
-   36 citations · General CDR
+   37 citations · General CDR
 
 2. **Undervaluing soil carbon sequestration potential enables climate inaction** (2023)
    3 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Jamil Farbes"
 description: "Jamil Farbes is a Mid-career General CDR researcher. With 25 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.310824
+date: 2026-08-11T01:33:11.277491
 url: "/cdr-researcher-census/researchers/jamil-farbes-a5063549/"
 layout: "researcher"
 hiddenInHomeList: true

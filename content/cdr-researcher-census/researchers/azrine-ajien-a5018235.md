@@ -1,7 +1,7 @@
 ---
 title: "Azrine Ajien"
 description: "Azrine Ajien is a Mid-career Biochar researcher. With 4 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.196315
+date: 2026-08-11T01:33:12.079679
 url: "/cdr-researcher-census/researchers/azrine-ajien-a5018235/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Coconut shell and husk biochar: A review of production and activation technology, economic, financial aspect and application** (2022)
-   152 citations · Biochar
+   156 citations · Biochar
 
 ## External Profiles
 

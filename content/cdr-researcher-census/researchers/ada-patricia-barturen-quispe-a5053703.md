@@ -1,7 +1,7 @@
 ---
 title: "Ada Patricia Barturén Quispe"
 description: "Ada Patricia Barturén Quispe is a Mid-career Biochar researcher. With 20 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.574945
+date: 2026-08-11T01:33:12.417170
 url: "/cdr-researcher-census/researchers/ada-patricia-barturen-quispe-a5053703/"
 layout: "researcher"
 hiddenInHomeList: true

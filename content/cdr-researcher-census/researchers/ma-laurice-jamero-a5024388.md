@@ -1,7 +1,7 @@
 ---
 title: "Ma. Laurice Jamero"
 description: "Ma. Laurice Jamero is a Mid-career General CDR researcher at Manila Observatory in PH. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.598032
+date: 2026-08-11T01:33:11.528361
 url: "/cdr-researcher-census/researchers/ma-laurice-jamero-a5024388/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Ten new insights in climate science 2023** (2023)
-   42 citations · General CDR
+   45 citations · General CDR
 
 ## External Profiles
 

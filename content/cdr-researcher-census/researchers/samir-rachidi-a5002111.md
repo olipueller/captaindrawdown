@@ -1,7 +1,7 @@
 ---
 title: "Samir Rachidi"
 description: "Samir Rachidi is a Mid-career Biochar researcher at Institut of Research in Solar Energy and New Energies in MA. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.349315
+date: 2026-08-11T01:33:11.311679
 url: "/cdr-researcher-census/researchers/samir-rachidi-a5002111/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar revolution: Harnessing pyrolysis for climate resilience and circular environmental solutions** (2026)
-   4 citations · Biochar
+   7 citations · Biochar
 
 2. **Carbon sources for the development of Power-to-X chains: Case studies in Morocco** (2025)
    0 citations · General CDR

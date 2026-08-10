@@ -1,7 +1,7 @@
 ---
 title: "Rachel Carr-Whitworth"
 description: "Rachel Carr-Whitworth is an Early-career General CDR researcher at University of Leeds in GB. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.099888
+date: 2026-08-11T01:33:11.991084
 url: "/cdr-researcher-census/researchers/rachel-carr-whitworth-a5029120/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Energy demand reduction options for meeting national zero-emission targets in the United Kingdom** (2022)
-   181 citations · General CDR
+   188 citations · General CDR
 
 2. **Energy demand reduction options for meeting national zero emission targets** (2022)
    2 citations · General CDR

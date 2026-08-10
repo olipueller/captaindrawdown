@@ -1,7 +1,7 @@
 ---
 title: "Ahmed Sodiq"
 description: "Ahmed Sodiq is a Mid-career DAC researcher at Summit University in QA. With 29 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.164337
+date: 2026-08-11T01:33:11.140654
 url: "/cdr-researcher-census/researchers/ahmed-sodiq-a5005608/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,22 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **A review on progress made in direct air capture of CO <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" id="d1e1035" altimg="si1.svg"> <mml:msub> <mml:mrow/> <mml:mrow> <mml:mn>2</mml:mn> </mml:mrow> </mml:msub> </mml:math>** (2022)
-   258 citations · DAC
+   263 citations · DAC
 
 2. **Emerging trends in direct air capture of CO<sub>2</sub>: a review of technology options targeting net-zero emissions** (2023)
-   105 citations · DAC
+   109 citations · DAC
 
 3. **Comparative analysis of amine-functionalized silica for direct air capture (DAC): Material characterization, performance, and thermodynamic efficiency** (2024)
-   44 citations
+   48 citations
 
 4. **Optimizing chemisorption based direct air capture unit efficiency in HVAC systems: A study on the impact of DAC location and adsorption conditions as a response to the climate crisis and indoor air quality** (2023)
-   34 citations · DAC
+   36 citations · DAC
 
-5. **Unlocking the potentials of integrating direct air capture with HVAC system** (2023)
+5. **Amine free direct air capture integrated with buildings’ cooling systems in humid environments** (2025)
+   3 citations
+
+6. **Unlocking the potentials of integrating direct air capture with HVAC system** (2023)
    2 citations
-
-6. **Amine free direct air capture integrated with buildings’ cooling systems in humid environments** (2025)
-   1 citations
 
 ## External Profiles
 

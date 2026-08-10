@@ -1,7 +1,7 @@
 ---
 title: "Zhiguo Hao"
 description: "Zhiguo Hao is a Senior Soil Carbon researcher at Xi'an Jiaotong University in CN. With 30 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.842765
+date: 2026-08-11T01:33:11.747241
 url: "/cdr-researcher-census/researchers/zhiguo-hao-a5112043/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of recovery models on organic carbon pathways: A method using 13C natural abundance** (2022)
-   25 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 2. **Soil organic carbon stability of vegetation restoration during 11-year-old grassland succession** (2023)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 3. **Microbial-derived C increased more than plant-derived in soil under plantation versus grassland 11 years after landslide** (2024)
    1 citations · Soil Carbon

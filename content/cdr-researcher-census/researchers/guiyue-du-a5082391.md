@@ -1,7 +1,7 @@
 ---
 title: "Guiyue Du"
 description: "Guiyue Du is a Mid-career Biochar researcher at Tianjin University in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.999145
+date: 2026-08-11T01:33:11.876819
 url: "/cdr-researcher-census/researchers/guiyue-du-a5082391/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Pyrolysis of exhausted hydrochar sorbent for cadmium separation and biochar regeneration** (2022)
-   26 citations · Biochar
+   27 citations · Biochar
 
 ## External Profiles
 

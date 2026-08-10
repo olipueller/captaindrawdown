@@ -1,7 +1,7 @@
 ---
 title: "Yu Zhong"
 description: "Yu Zhong is a Senior Soil Carbon researcher at Nanjing Agricultural University in CN. With 29 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.133368
+date: 2026-08-11T01:33:12.022498
 url: "/cdr-researcher-census/researchers/yu-zhong-a5100519/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Recalcitrant organic carbon in deep soils plays a greater role in soil carbon sequestration under tidal flat than vegetated salt marsh** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 2. **Effects of Rice Cropping Systems on Topsoil Organic Carbon Fractions and Bacterial Communities in Rice** (2025)
    0 citations · Soil Carbon

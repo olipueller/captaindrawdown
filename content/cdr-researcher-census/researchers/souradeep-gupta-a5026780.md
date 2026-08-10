@@ -1,7 +1,7 @@
 ---
 title: "Souradeep Gupta"
 description: "Souradeep Gupta is a Senior General CDR researcher at Centre for Sustainable Energy in GB. With 40 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.233521
+date: 2026-08-11T01:33:11.205679
 url: "/cdr-researcher-census/researchers/souradeep-gupta-a5026780/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Carbon sequestration in cementitious composites using biochar and fly ash – Effect on mechanical and durability properties** (2021)
-   186 citations · Biochar
+   192 citations · Biochar
 
 2. **Utilization of biochar from unwashed peanut shell in cementitious building materials – Effect on early age properties and environmental benefits** (2021)
-   151 citations · Biochar
+   153 citations · Biochar
 
 3. **Carbon sequestration in cementitious matrix containing pyrogenic carbon from waste biomass: A comparison of external and internal carbonation approach** (2021)
    65 citations · Biochar
@@ -63,7 +63,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    55 citations · General CDR
 
 5. **3D printing with stabilized earth: Material development and effect of carbon sequestration on engineering performance** (2024)
-   24 citations · Biochar
+   26 citations · Biochar
 
 6. **Carbon dioxide sequestration in mortars with excavated soil: Engineering performances and environmental benefits** (2024)
    16 citations

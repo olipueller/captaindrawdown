@@ -1,7 +1,7 @@
 ---
 title: "Julide Kahkeci"
 description: "Julide Kahkeci is an Early-career Biochar researcher at University of Alberta in CA. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.527465
+date: 2026-08-11T01:33:12.378782
 url: "/cdr-researcher-census/researchers/julide-kahkeci-a5093023/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar-supported photocatalysts: Performance optimization and applications in emerging contaminant removal from wastewater** (2023)
-   51 citations · Biochar
+   52 citations · Biochar
 
 2. **Softwood biochar-supported Bi2WO6 for photocatalytic degradation of organic contaminant mixture in river water: Role of pyrolysis temperature and surface functionality** (2025)
    1 citations · Biochar

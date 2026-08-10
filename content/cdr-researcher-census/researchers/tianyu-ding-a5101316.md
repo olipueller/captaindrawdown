@@ -1,7 +1,7 @@
 ---
 title: "Tianyu Ding"
 description: "Tianyu Ding is a Mid-career Soil Carbon researcher at Nanjing University of Chinese Medicine in CN. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.138840
+date: 2026-08-11T01:33:12.027533
 url: "/cdr-researcher-census/researchers/tianyu-ding-a5101316/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Contrasting soil structure and yield responses to 8-year conservation tillage in Fluvo-aquic and Shajiang black soils** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 2. **Quantifying and Visualizing Soil Macroaggregate Pore Structure and Particulate Organic Matter in a Vertisol Under Various Straw Return Practices Using X-Ray Computed Tomography** (2024)
    1 citations · Soil Carbon

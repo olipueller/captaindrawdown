@@ -1,7 +1,7 @@
 ---
 title: "Xinwei Liu"
 description: "Xinwei Liu is a Senior Soil Carbon researcher at Huazhong Agricultural University in CN. With 142 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.174736
+date: 2026-08-11T01:33:11.150280
 url: "/cdr-researcher-census/researchers/xinwei-liu-a5100461/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Iron-bound organic carbon dynamics in peatland profiles: The preservation equivalence of deep and surface soil** (2022)
-   31 citations · Soil Carbon
+   32 citations · Soil Carbon
 
 2. **“C-wetland”: A new paradigm to enhance conservation of carbon-rich wetlands** (2023)
    21 citations · General CDR
 
 3. **Organic material additions have stronger effects on humic substances and enzyme activities than soil types** (2022)
-   13 citations · Biochar
+   14 citations · Biochar
 
 4. **The Quantified and Major Influencing Factors on Spatial Distribution of Soil Organic Matter in Provincial-Scale Farmland—A Case Study of Shandong Province in Eastern China** (2023)
    12 citations · Soil Carbon

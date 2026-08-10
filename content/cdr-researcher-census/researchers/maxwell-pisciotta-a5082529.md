@@ -1,7 +1,7 @@
 ---
 title: "Maxwell Pisciotta"
 description: "Maxwell Pisciotta is a Mid-career General CDR researcher at University of Pennsylvania in US. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.317555
+date: 2026-08-11T01:33:11.283884
 url: "/cdr-researcher-census/researchers/maxwell-pisciotta-a5082529/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **A review of direct air capture (DAC): scaling up commercial technologies and innovating for the future** (2021)
-   687 citations · DAC
+   700 citations · DAC
 
 2. **Atmospheric methane removal: a research agenda** (2021)
    125 citations · General CDR
 
 3. **Roads to Removal: Options for Carbon Dioxide Removal in the United States** (2023)
-   60 citations · General CDR
+   61 citations · General CDR
 
 4. **An ecosystem of carbon dioxide removal reviews – part 1: direct air CO <sub>2</sub> capture and storage** (2025)
-   32 citations · General CDR
+   38 citations · General CDR
 
 5. **Advancing geothermal energy utilization opportunities: potential and strategies for integrating direct air capture** (2025)
    4 citations · DAC

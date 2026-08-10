@@ -1,7 +1,7 @@
 ---
 title: "Aidong Yang"
 description: "Aidong Yang is an Eminent General CDR researcher at University of Oxford in GB. With 236 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.113347
+date: 2026-08-11T01:33:11.092734
 url: "/cdr-researcher-census/researchers/aidong-yang-a5067371/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Kinetics-informed global assessment of mine tailings for CO2 removal** (2021)
-   48 citations · Enhanced Weathering
+   50 citations · Enhanced Weathering
 
 2. **Decarbonisation pathways of the cement production process via hydrogen and oxy-combustion** (2023)
-   40 citations · General CDR
+   46 citations · General CDR
 
 3. **Potential of enhanced weathering of calcite in packed bubble columns with seawater for carbon dioxide removal** (2021)
    25 citations · Enhanced Weathering
@@ -66,7 +66,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    16 citations · Enhanced Weathering
 
 6. **Assessing the net carbon removal potential by a combination of direct air capture and recycled concrete aggregates carbonation** (2024)
-   9 citations · DAC
+   10 citations · DAC
 
 7. **Surrogate modelling-assisted comparison of reactor schemes for carbon dioxide removal by enhanced weathering of minerals using seawater** (2023)
    6 citations · Enhanced Weathering

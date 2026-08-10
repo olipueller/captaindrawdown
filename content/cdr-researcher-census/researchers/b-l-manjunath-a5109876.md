@@ -1,7 +1,7 @@
 ---
 title: "B. L. Manjunath"
 description: "B. L. Manjunath is a Senior Biochar researcher at Indian Institute of Horticultural Research in IN. With 49 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.685846
+date: 2026-08-11T01:33:11.607110
 url: "/cdr-researcher-census/researchers/b-l-manjunath-a5109876/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Improving the Quality of Rice Husk Biochar Through Combined Pretreatment of Rice Husk and Copyrolysis with LDPE** (2022)
-   5 citations · Biochar
+   6 citations · Biochar
 
 2. **Advances in the preparation of activated carbon derived from agricultural waste as a sustainable solution for wastewater treatment: A comprehensive review** (2026)
    3 citations · Biochar

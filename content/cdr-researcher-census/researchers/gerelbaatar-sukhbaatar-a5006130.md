@@ -1,7 +1,7 @@
 ---
 title: "Gerelbaatar Sukhbaatar"
 description: "Gerelbaatar Sukhbaatar is a Mid-career Soil Carbon researcher. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.294743
+date: 2026-08-11T01:33:12.166024
 url: "/cdr-researcher-census/researchers/gerelbaatar-sukhbaatar-a5006130/"
 layout: "researcher"
 hiddenInHomeList: true

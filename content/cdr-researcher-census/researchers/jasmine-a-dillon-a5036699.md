@@ -1,7 +1,7 @@
 ---
 title: "Jasmine A Dillon"
 description: "Jasmine A Dillon is a Senior Soil Carbon researcher. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.788347
+date: 2026-08-11T01:33:11.700083
 url: "/cdr-researcher-census/researchers/jasmine-a-dillon-a5036699/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,10 +45,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Regenerative Grazing as a Climate Change Mitigation Strategy: A Systematic Review** (2025)
-   2 citations · General CDR
+1. **Current state of enteric methane and the carbon footprint of beef and dairy cattle in the United States** (2021)
+   37 citations · Soil Carbon
 
-2. **161 Use of life cycle assessments for carbon monitoring in beef cattle systems.** (2025)
+2. **Regenerative Grazing as a Climate Change Mitigation Strategy: A Systematic Review** (2025)
+   3 citations · General CDR
+
+3. **161 Use of life cycle assessments for carbon monitoring in beef cattle systems.** (2025)
    0 citations · General CDR
 
 ## External Profiles

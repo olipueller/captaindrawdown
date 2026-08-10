@@ -1,7 +1,7 @@
 ---
 title: "Ashish Paul"
 description: "Ashish Paul is a Senior Soil Carbon researcher at North Eastern Regional Institute of Science and Technology in IN. With 34 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.654012
+date: 2026-08-11T01:33:11.578949
 url: "/cdr-researcher-census/researchers/ashish-paul-a5110779/"
 layout: "researcher"
 hiddenInHomeList: true

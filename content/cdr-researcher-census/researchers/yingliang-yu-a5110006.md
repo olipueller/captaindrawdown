@@ -1,7 +1,7 @@
 ---
 title: "Yingliang Yu"
 description: "Yingliang Yu is a Mid-career Soil Carbon researcher at National Sun Yat-sen University in TW. With 47 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.236059
+date: 2026-08-11T01:33:11.207927
 url: "/cdr-researcher-census/researchers/yingliang-yu-a5110006/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Closing the gap between climate regulation and food security with nano iron oxides** (2024)
-   41 citations · General CDR
+   44 citations · General CDR
 
 2. **Development of modified MgO/biochar composite for chemical adsorption enhancement to cleanup fluoride-contaminated groundwater** (2024)
-   18 citations · Biochar
+   19 citations · Biochar
 
 3. **The Rate and Duration of Nitrogen Addition Influence the Response of Soil Heterotrophic Respiration to Nitrogen in Cropping Systems** (2025)
    0 citations · Soil Carbon

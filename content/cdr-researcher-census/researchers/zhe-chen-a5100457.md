@@ -1,7 +1,7 @@
 ---
 title: "Zhe Chen"
 description: "Zhe Chen is a Senior Soil Carbon researcher at Yunnan University in CN. With 188 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.125023
+date: 2026-08-11T01:33:11.103769
 url: "/cdr-researcher-census/researchers/zhe-chen-a5100457/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Improving soil aggregates stability and soil organic carbon sequestration by no-till and legume-based crop rotations in the North China Plain** (2022)
-   92 citations · Soil Carbon
+   96 citations · Soil Carbon
 
 2. **Ecoenzymatic stoichiometry reveals stronger microbial carbon and nitrogen limitation in biochar amendment soils: A meta-analysis** (2022)
-   48 citations · Biochar
+   56 citations · Biochar
 
 3. **Effects of conservation agriculture on carbon mineralization: A global meta-analysis** (2023)
    33 citations · Soil Carbon
@@ -63,10 +63,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    24 citations · Biochar
 
 5. **12-year continuous biochar application: Mitigating reactive nitrogen loss in paddy fields but without rice yield enhancement** (2024)
-   21 citations · Biochar
+   22 citations · Biochar
 
 6. **Contribution of wheat and maize to soil organic carbon in a wheat‐maize cropping system: A field and laboratory study** (2022)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 7. **Divergent pattern of soil CO2, CH4 and N2O emissions in 18-year citrus orchard and Camellia oleifera plantations converted from natural shrub forests** (2022)
    11 citations · Soil Carbon

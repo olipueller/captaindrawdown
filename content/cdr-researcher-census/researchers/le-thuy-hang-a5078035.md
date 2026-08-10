@@ -1,7 +1,7 @@
 ---
 title: "Le Thuy Hang"
 description: "Le Thuy Hang is a Mid-career Soil Carbon researcher at Hung Yen University of Technology and Education in VN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.966979
+date: 2026-08-11T01:33:11.846331
 url: "/cdr-researcher-census/researchers/le-thuy-hang-a5078035/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Traditional agroforestry systems in Europe revisited: a systematic review** (2025)
-   6 citations · General CDR
+   9 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Lorie Hamelin"
 description: "Lorie Hamelin is a Senior General CDR researcher at INSA Toulouse in FR. With 153 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.137841
+date: 2026-08-11T01:33:11.115919
 url: "/cdr-researcher-census/researchers/lorie-hamelin-a5085714/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    53 citations · General CDR
 
 2. **From hemp grown on carbon-vulnerable lands to long-lasting bio-based products: Uncovering trade-offs between overall environmental impacts, sequestration in soil, and dynamic influences on global temperature** (2022)
-   36 citations · Biochar
+   38 citations · Biochar
 
 3. **Simultaneous carbon storage in arable land and anthropogenic products (CSAAP): Demonstrating an integrated concept towards well below 2°C** (2022)
    18 citations · General CDR

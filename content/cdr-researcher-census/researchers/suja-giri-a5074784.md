@@ -1,7 +1,7 @@
 ---
 title: "Suja Giri"
 description: "Suja Giri is a Mid-career Soil Carbon researcher. With 30 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.178712
+date: 2026-08-11T01:33:12.063536
 url: "/cdr-researcher-census/researchers/suja-giri-a5074784/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Agroforestry systems in Nepal: Enhancing food security and rural livelihoods – a comprehensive review** (2024)
-   41 citations · Soil Carbon
+   43 citations · Soil Carbon
 
 2. **Status of Community-Based Forest Management in Selected South Asian Countries: Benefits, Challenges, and Key Lessons** (2024)
    0 citations · General CDR

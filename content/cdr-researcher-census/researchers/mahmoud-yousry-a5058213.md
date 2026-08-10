@@ -1,7 +1,7 @@
 ---
 title: "Mahmoud Yousry"
 description: "Mahmoud Yousry is an Early-career Biochar researcher at Ain Shams University Hospital in EG. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.539126
+date: 2026-08-11T01:33:11.475167
 url: "/cdr-researcher-census/researchers/mahmoud-yousry-a5058213/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar for agronomy, animal farming, anaerobic digestion, composting, water treatment, soil remediation, construction, energy storage, and carbon sequestration: a review** (2022)
-   478 citations · Biochar
+   487 citations · Biochar
 
 ## External Profiles
 

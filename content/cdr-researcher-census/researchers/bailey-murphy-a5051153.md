@@ -1,7 +1,7 @@
 ---
 title: "Bailey Murphy"
 description: "Bailey Murphy is a Mid-career General CDR researcher at Oak Ridge National Laboratory in US. With 27 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.154301
+date: 2026-08-11T01:33:12.041660
 url: "/cdr-researcher-census/researchers/bailey-murphy-a5051153/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Insights Into Nature‐Based Climate Solutions: Managing Forests for Climate Resilience and Carbon Stability** (2025)
-   8 citations · General CDR
+   9 citations · General CDR
 
 2. **Hydrological Control on Soil Redox Condition and Carbon Loss of Coastal Wetland Under Sea‐Level Rise** (2026)
-   0 citations
+   1 citations
 
 3. **Insights for Nature-based Climate Solutions: Managing Forests for Climate Resilience and Carbon Stability** (2024)
    0 citations · General CDR

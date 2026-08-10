@@ -1,7 +1,7 @@
 ---
 title: "Deborah Cristina Crominski da Silva Medeiros"
 description: "Deborah Cristina Crominski da Silva Medeiros is a Mid-career Biochar researcher. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.776420
+date: 2026-08-11T01:33:11.689227
 url: "/cdr-researcher-census/researchers/deborah-cristina-crominski-da-silva-medeiros-a5050448/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,10 +46,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar-enhanced removal of naphthenic acids from oil sands process water: Influence of feedstock and chemical activation** (2025)
-   41 citations
+   43 citations
 
 2. **Sludge-based activated biochar for adsorption treatment of real oil sands process water: Selectivity of naphthenic acids, reusability of spent biochar, leaching potential, and acute toxicity removal** (2023)
-   36 citations · Biochar
+   37 citations · Biochar
 
 ## External Profiles
 

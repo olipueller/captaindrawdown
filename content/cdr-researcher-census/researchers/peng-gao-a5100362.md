@@ -1,7 +1,7 @@
 ---
 title: "Peng Gao"
 description: "Peng Gao is a Senior Biochar researcher. With 76 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.492093
+date: 2026-08-11T01:33:11.433708
 url: "/cdr-researcher-census/researchers/peng-gao-a5100362/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,16 +46,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Accelerated carbonation curing of biochar-cement mortar: Effects of biochar pyrolysis temperatures on carbon sequestration, mechanical properties and microstructure** (2024)
-   56 citations · Biochar
+   61 citations · Biochar
 
 2. **Investigation of the properties and sustainability of modified biochar-doped cement-based composite** (2024)
-   50 citations · Biochar
+   52 citations · Biochar
 
 3. **Utilization of biochar to enhance the sustainability of accelerated carbonation-cured cement-based materials: Effect of biochar dual-particle-size gradation on mechanical properties and carbon sequestration** (2025)
-   15 citations · Biochar
+   16 citations · Biochar
 
 4. **Biochar-enhanced cement composites as carbon sink under accelerated carbonation curing: Carbon sequestration potential stimulated by biochar porosity** (2025)
-   10 citations · Biochar
+   12 citations · Biochar
 
 5. **Investigation of the Properties and Sustainability of Modified Biochar-Doped Cement-Based Composite** (2024)
    3 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Ekaterina Laakso"
 description: "Ekaterina Laakso is a Mid-career Biochar researcher at Lappeenranta-Lahti University of Technology in FI. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.059287
+date: 2026-08-11T01:33:11.933038
 url: "/cdr-researcher-census/researchers/ekaterina-laakso-a5008648/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,6 +51,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Empowering the role of sewage sludge in circular economy: Struvite and biochar production** (2026)
+   0 citations · Biochar
+
+2. **Empowering the role of sewage sludge in circular economy: Struvite and biochar production** (2026)
    0 citations · Biochar
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Ariane D.N. Kamkeng"
 description: "Ariane D.N. Kamkeng is a Mid-career DAC researcher at University of Sheffield in GB. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.483980
+date: 2026-08-11T01:33:11.427133
 url: "/cdr-researcher-census/researchers/ariane-dn-kamkeng-a5060550/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Solar-driven direct air capture to produce sustainable aviation fuel** (2026)
-   2 citations
+   3 citations
 
 2. **A large-scale solar-driven direct air capture and utilisation process to produce sustainable aviation fuel** (2025)
    0 citations · DAC

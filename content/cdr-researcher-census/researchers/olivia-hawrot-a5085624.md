@@ -1,7 +1,7 @@
 ---
 title: "Olivia Hawrot"
 description: "Olivia Hawrot is a Mid-career General CDR researcher at Nano Carbon (Poland) in PL. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-12T12:07:29.651186
+date: 2026-08-11T01:33:11.582056
 url: "/cdr-researcher-census/researchers/olivia-hawrot-a5085624/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,16 +48,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The cost of direct air capture and storage can be reduced via strategic deployment but is unlikely to fall below stated cost targets** (2023)
-   191 citations · DAC
+   194 citations · DAC
 
 2. **Assessing the technical aspects of ocean-alkalinity-enhancement approaches** (2023)
-   105 citations · General CDR
+   106 citations · General CDR
 
 3. **Geochemical Negative Emissions Technologies: Part I. Review** (2022)
-   65 citations · DAC
+   66 citations · DAC
 
 4. **Assessing technical aspects of ocean alkalinity enhancement approaches** (2023)
-   22 citations · General CDR
+   23 citations · General CDR
 
 5. **Geochemical Negative Emissions Technologies: Part II. Roadmap** (2022)
    20 citations

@@ -1,7 +1,7 @@
 ---
 title: "Ondrej Malíček"
 description: "Ondrej Malíček is a Mid-career Soil Carbon researcher at Mendel University in Brno in CZ. With 32 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.793885
+date: 2026-08-11T01:33:11.704806
 url: "/cdr-researcher-census/researchers/ondrej-malicek-a5091671/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,16 +54,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    23 citations · General CDR
 
 2. **Utilization of Diversified Cover Crops as Green Manure-Enhanced Soil Organic Carbon, Nutrient Transformation, Microbial Activity, and Maize Growth** (2024)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
-3. **Deciphering the Effectiveness of Humic Substances and Biochar Modified Digestates on Soil Quality and Plant Biomass Accumulation** (2022)
+3. **Time-dependent impact of co-matured manure with elemental sulfur and biochar on the soil agro-ecological properties and plant biomass** (2023)
    11 citations · Biochar
 
-4. **Fertilisation of permanent grasslands with digestate and its effect on soil properties and sustainable biomass production** (2023)
-   9 citations · Soil Carbon
+4. **Deciphering the Effectiveness of Humic Substances and Biochar Modified Digestates on Soil Quality and Plant Biomass Accumulation** (2022)
+   11 citations · Biochar
 
-5. **Time-dependent impact of co-matured manure with elemental sulfur and biochar on the soil agro-ecological properties and plant biomass** (2023)
-   9 citations · Biochar
+5. **Fertilisation of permanent grasslands with digestate and its effect on soil properties and sustainable biomass production** (2023)
+   9 citations · Soil Carbon
 
 ## External Profiles
 

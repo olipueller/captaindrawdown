@@ -1,7 +1,7 @@
 ---
 title: "Lianfu Liang"
 description: "Lianfu Liang is a Mid-career Biochar researcher at Nanyang Normal University in CN. With 16 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.706506
+date: 2026-08-11T01:33:11.625724
 url: "/cdr-researcher-census/researchers/lianfu-liang-a5085517/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,7 +47,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 ## Top CDR Publications
 
-1. **Biochar‐Enhanced Methane‐Dependent Denitrification: Insights Into Pyrolysis Temperature‐Driven Microbial Electron Transfer Pathways and Regulatory Mechanisms** (2026)
+1. **Biochar enhances anaerobic oxidation of methane coupled with Cr(VI) reduction: Pyrolysis temperature-dependent electron transfer pathways and regulatory mechanisms** (2026)
+   0 citations · Biochar
+
+2. **Biochar‐Enhanced Methane‐Dependent Denitrification: Insights Into Pyrolysis Temperature‐Driven Microbial Electron Transfer Pathways and Regulatory Mechanisms** (2026)
    0 citations · Biochar
 
 ## External Profiles

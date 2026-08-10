@@ -1,7 +1,7 @@
 ---
 title: "Vaishnu Dutt"
 description: "Vaishnu Dutt is a Senior Soil Carbon researcher at Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir in IN. With 46 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.431738
+date: 2026-08-11T01:33:12.289533
 url: "/cdr-researcher-census/researchers/vaishnu-dutt-a5079469/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Apple-based agroforestry systems for biomass production and carbon sequestration: implication for food security and climate change contemplates in temperate region of Northern Himalaya, India** (2021)
-   37 citations · Soil Carbon
+   38 citations · Soil Carbon
 
 2. **Ecosystem services through Agroforestry: A review** (2025)
    1 citations · General CDR

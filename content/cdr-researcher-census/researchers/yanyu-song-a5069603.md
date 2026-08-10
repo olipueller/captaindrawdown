@@ -1,7 +1,7 @@
 ---
 title: "Yanyu Song"
 description: "Yanyu Song is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 45 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.461235
+date: 2026-08-11T01:33:11.407408
 url: "/cdr-researcher-census/researchers/yanyu-song-a5069603/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    9 citations · General CDR
 
 2. **Soil water content and RubisCO activity control the carbon storage in soil under different land uses in Sanjiang Plain, China** (2024)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 3. **Soil moisture content, cbbM gene abundance and salinity-alkalinity are crucial factors for soil carbon content during wetland reclamation and restoration** (2025)
    1 citations · Soil Carbon

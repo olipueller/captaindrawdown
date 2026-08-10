@@ -1,7 +1,7 @@
 ---
 title: "Arturo Cabello"
 description: "Arturo Cabello is a Senior BECCS researcher at Instituto de Carboquímica in ES. With 73 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.267869
+date: 2026-08-11T01:33:11.236768
 url: "/cdr-researcher-census/researchers/arturo-cabello-a5044156/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -60,7 +60,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    6 citations · BECCS
 
 4. **Dimensioning Air Reactor and Fuel Reactor of a Pressurized CLC Plant to Be Coupled to a Gas Turbine: Part 2, the Fuel Reactor** (2023)
-   4 citations · BECCS
+   5 citations · BECCS
 
 5. **Pressurised Chemical Looping Combustion (PCLC): Air Reactor design** (2022)
    2 citations · BECCS

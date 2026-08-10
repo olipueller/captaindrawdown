@@ -1,7 +1,7 @@
 ---
 title: "Beethoven Narváez-Romo"
 description: "Beethoven Narváez-Romo is a Mid-career BECCS researcher at Universidade de São Paulo in BR. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.187535
+date: 2026-08-11T01:33:12.071351
 url: "/cdr-researcher-census/researchers/beethoven-narvaez-romo-a5086855/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Ethanol in Brazil: a review of its potential impact on the energy transition** (2025)
-   1 citations · BECCS
+   2 citations · BECCS
 
 ## External Profiles
 

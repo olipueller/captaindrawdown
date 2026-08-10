@@ -1,7 +1,7 @@
 ---
 title: "Stoécio Malta Ferreira Maia"
 description: "Stoécio Malta Ferreira Maia is a Senior Soil Carbon researcher at Instituto Federal de Educação, Ciência e Tecnologia de Alagoas in BR. With 81 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.189516
+date: 2026-08-11T01:33:11.164131
 url: "/cdr-researcher-census/researchers/stoecio-malta-ferreira-maia-a5026900/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    59 citations · General CDR
 
 2. **Changes in soil carbon and soil carbon sequestration potential under different types of pasture management in Brazil** (2022)
-   48 citations · Soil Carbon
+   49 citations · Soil Carbon
 
 3. **Effect of Sugarcane Harvesting Systems on Soil Organic Matter in Northeastern Region of Brazil** (2021)
    7 citations · Soil Carbon
@@ -62,11 +62,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Changes in carbon stocks and quality of the soil organic matter under different arrangements of integrated livestock-forest systems in the semi-arid region of Brazil** (2025)
    4 citations · Soil Carbon
 
-5. **IMPACT OF CONVERTING AREAS CULTIVATED WITH SUGARCANE TO EUCALYPT PLANTATIONS ON SOIL QUALITY IN NORTHEASTERN BRAZIL** (2021)
-   2 citations · General CDR
+5. **Soil carbon storage in Brazilian drylands: A review** (2025)
+   2 citations · Soil Carbon
 
-6. **Soil carbon storage in Brazilian drylands: A review** (2025)
-   1 citations · Soil Carbon
+6. **IMPACT OF CONVERTING AREAS CULTIVATED WITH SUGARCANE TO EUCALYPT PLANTATIONS ON SOIL QUALITY IN NORTHEASTERN BRAZIL** (2021)
+   2 citations · General CDR
 
 7. **Sustainable intensification of Brazilian pastures reconciles food security with large-scale soil carbon sequestration** (2026)
    0 citations · Soil Carbon

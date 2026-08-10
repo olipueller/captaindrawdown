@@ -1,7 +1,7 @@
 ---
 title: "Yeon Kyu Lee"
 description: "Yeon Kyu Lee is a Mid-career Biochar researcher at University of Seoul in KR. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.279205
+date: 2026-08-11T01:33:12.152888
 url: "/cdr-researcher-census/researchers/yeon-kyu-lee-a5090983/"
 layout: "researcher"
 hiddenInHomeList: true

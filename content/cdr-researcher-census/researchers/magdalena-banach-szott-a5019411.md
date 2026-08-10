@@ -1,7 +1,7 @@
 ---
 title: "Magdalena Banach-Szott"
 description: "Magdalena Banach-Szott is a Senior Soil Carbon researcher at Bydgoszcz University of Science and Technology in PL. With 53 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.532638
+date: 2026-08-11T01:33:11.468974
 url: "/cdr-researcher-census/researchers/magdalena-banach-szott-a5019411/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil Fertility Improvement and Carbon Sequestration through Exogenous Organic Matter and Biostimulant Application** (2022)
-   24 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 2. **Humic Acids Properties of Luvisol of 40-Year Fertilizer Experiment** (2025)
    1 citations · Soil Carbon

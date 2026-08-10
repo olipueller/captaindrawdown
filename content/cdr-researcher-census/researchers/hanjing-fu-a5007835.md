@@ -1,7 +1,7 @@
 ---
 title: "Hanjing Fu"
 description: "Hanjing Fu is a Mid-career Enhanced Weathering researcher at Beijing Institute of Technology in CN. With 19 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.560095
+date: 2026-08-11T01:33:11.494160
 url: "/cdr-researcher-census/researchers/hanjing-fu-a5007835/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Tectonic and climatic forcing of chemical weathering intensity in the northeastern Tibetan Plateau since the middle Miocene** (2021)
-   40 citations · Enhanced Weathering
+   42 citations · Enhanced Weathering
 
 2. **Source-rock, grain-size, weathering, and recycling controls on the feldspar/quartz ratio in silt-sized sediments** (2025)
-   5 citations
+   7 citations
 
 ## External Profiles
 

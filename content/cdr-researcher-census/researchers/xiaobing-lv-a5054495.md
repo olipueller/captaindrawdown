@@ -1,7 +1,7 @@
 ---
 title: "Xiaobing Lv"
 description: "Xiaobing Lv is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 7 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.699688
+date: 2026-08-11T01:33:11.619765
 url: "/cdr-researcher-census/researchers/xiaobing-lv-a5054495/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Responses of greenhouse gas emissions to different straw management methods with the same amount of carbon input in cotton field** (2021)
-   41 citations · Soil Carbon
+   43 citations · Soil Carbon
 
 ## External Profiles
 

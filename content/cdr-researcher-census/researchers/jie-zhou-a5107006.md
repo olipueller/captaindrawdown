@@ -1,7 +1,7 @@
 ---
 title: "Jie Zhou"
 description: "Jie Zhou is a Mid-career Soil Carbon researcher at Hubei University of Chinese Medicine in CN. With 28 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.756089
+date: 2026-08-11T01:33:11.670715
 url: "/cdr-researcher-census/researchers/jie-zhou-a5107006/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **High soil salinity reduces straw decomposition but primes soil organic carbon loss** (2025)
-   42 citations · Soil Carbon
+   49 citations · Soil Carbon
 
 2. **Divergent responses of particulate and mineral-associated organic carbon with soil depth under straw interlayer in saline-alkali soil** (2024)
-   34 citations · Soil Carbon
+   35 citations · Soil Carbon
 
 3. **Bacterial necromass as the main source of organic matter in saline soils** (2024)
    19 citations

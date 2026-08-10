@@ -1,7 +1,7 @@
 ---
 title: "Bhanu Pratap"
 description: "Bhanu Pratap is a Mid-career Biochar researcher at Babasaheb Bhimrao Ambedkar University in IN. With 11 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.683938
+date: 2026-08-11T01:33:11.605168
 url: "/cdr-researcher-census/researchers/bhanu-pratap-a5009631/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Arsenic removal using de-oiled mentha biomass biochar: Adsorption kinetics and the role of iron modification** (2024)
-   24 citations · Biochar
+   25 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Hongwei Yang"
 description: "Hongwei Yang is a Senior Biochar researcher at South China Agricultural University in CN. With 37 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.512086
+date: 2026-08-11T01:33:11.451460
 url: "/cdr-researcher-census/researchers/hongwei-yang-a5101732/"
 layout: "researcher"
 hiddenInHomeList: true

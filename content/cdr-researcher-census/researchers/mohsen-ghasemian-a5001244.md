@@ -1,7 +1,7 @@
 ---
 title: "Mohsen Ghasemian"
 description: "Mohsen Ghasemian is a Mid-career DAC researcher at Isfahan University of Technology in IR. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.009182
+date: 2026-08-11T01:33:11.885897
 url: "/cdr-researcher-census/researchers/mohsen-ghasemian-a5001244/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Amine-Functionalized Meso-Macroporous Polymers for Efficient CO<sub>2</sub> Capture from Ambient Air** (2024)
-   23 citations · DAC
+   24 citations · DAC
 
 ## External Profiles
 

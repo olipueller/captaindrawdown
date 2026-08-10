@@ -1,7 +1,7 @@
 ---
 title: "Long Cao"
 description: "Long Cao is a Senior General CDR researcher at Soochow University in CN. With 158 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.104761
+date: 2026-08-11T01:33:11.084774
 url: "/cdr-researcher-census/researchers/long-cao-a5022604/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Response of ocean acidification to atmospheric carbon dioxide removal** (2023)
-   25 citations · General CDR
+   27 citations · General CDR
 
 2. **Simulated carbon cycle and Earth system response to atmospheric CO2 removal** (2023)
    16 citations · General CDR
@@ -59,11 +59,11 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 3. **Comparison of the carbon cycle and climate response to artificial ocean alkalinization and solar radiation modification** (2023)
    6 citations · General CDR
 
-4. **Climate system response to carbon dioxide removal** (2021)
+4. **Simulated Responses of the Ocean Carbon Cycle to Different Rates of Atmospheric CO<sub>2</sub> Removal** (2025)
    3 citations · General CDR
 
-5. **Simulated Responses of the Ocean Carbon Cycle to Different Rates of Atmospheric CO<sub>2</sub> Removal** (2025)
-   2 citations · General CDR
+5. **Climate system response to carbon dioxide removal** (2021)
+   3 citations · General CDR
 
 6. **Simulated carbon cycle response to ocean iron fertilization and artificial ocean alkalinization** (2025)
    1 citations · General CDR

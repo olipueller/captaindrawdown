@@ -1,7 +1,7 @@
 ---
 title: "Andrew M. Bierer"
 description: "Andrew M. Bierer is a Mid-career Soil Carbon researcher at Appalachian Fruit Research Laboratory in US. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.488485
+date: 2026-08-11T01:33:12.342728
 url: "/cdr-researcher-census/researchers/andrew-m-bierer-a5001184/"
 layout: "researcher"
 hiddenInHomeList: true

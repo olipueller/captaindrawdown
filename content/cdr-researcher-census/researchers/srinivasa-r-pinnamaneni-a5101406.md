@@ -1,7 +1,7 @@
 ---
 title: "Srinivasa R. Pinnamaneni"
 description: "Srinivasa R. Pinnamaneni is a Mid-career Soil Carbon researcher at Western Colorado University in US. With 33 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.608924
+date: 2026-08-11T01:33:11.537751
 url: "/cdr-researcher-census/researchers/srinivasa-r-pinnamaneni-a5101406/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effect of continuous sugarcane bagasse-derived biochar application on rainfed cotton (Gossypium hirsutum L.) growth, yield and lint quality in the humid Mississippi delta** (2023)
-   19 citations · Biochar
+   20 citations · Biochar
 
 2. **Effect of Rye cover crop on weed control, soybean (Glycine max L.) yield and profitability** (2022)
    2 citations · Soil Carbon

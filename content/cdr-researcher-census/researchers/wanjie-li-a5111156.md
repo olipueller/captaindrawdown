@@ -1,7 +1,7 @@
 ---
 title: "Wanjie Li"
 description: "Wanjie Li is a Mid-career Biochar researcher at Hainan University in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.865404
+date: 2026-08-11T01:33:11.767816
 url: "/cdr-researcher-census/researchers/wanjie-li-a5111156/"
 layout: "researcher"
 hiddenInHomeList: true

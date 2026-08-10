@@ -1,7 +1,7 @@
 ---
 title: "Ikabongo Mukumbuta"
 description: "Ikabongo Mukumbuta is a Mid-career Soil Carbon researcher at Golden Valley Agricultural Research Trust in ZM. With 34 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.908423
+date: 2026-08-11T01:33:11.807058
 url: "/cdr-researcher-census/researchers/ikabongo-mukumbuta-a5054033/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil Health Intensification through Strengthening Soil Structure Improves Soil Carbon Sequestration** (2024)
-   21 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 2. **Carbon Sequestration Strategies in Response to Fertilizer Application** (2024)
    1 citations · Soil Carbon

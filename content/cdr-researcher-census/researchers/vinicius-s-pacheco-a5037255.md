@@ -1,7 +1,7 @@
 ---
 title: "Vinícius S. Pacheco"
 description: "Vinícius S. Pacheco is a Mid-career Biochar researcher. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.118845
+date: 2026-08-11T01:33:12.009198
 url: "/cdr-researcher-census/researchers/vinicius-s-pacheco-a5037255/"
 layout: "researcher"
 hiddenInHomeList: true

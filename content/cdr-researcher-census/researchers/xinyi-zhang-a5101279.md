@@ -1,7 +1,7 @@
 ---
 title: "Xinyi Zhang"
 description: "Xinyi Zhang is a Mid-career Soil Carbon researcher at Jiangxi Normal University in CN. With 25 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.068816
+date: 2026-08-11T01:33:11.963182
 url: "/cdr-researcher-census/researchers/xinyi-zhang-a5101279/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of Different Straw Incorporation Amounts on Soil Organic Carbon, Microbial Biomass, and Enzyme Activities in Dry-Crop Farmland** (2024)
-   22 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 2. **Responses of Soil Aggregate Stability and SOC to Different Tillage Modes and Straw Input Level** (2025)
    3 citations · Soil Carbon

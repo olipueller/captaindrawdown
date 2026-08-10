@@ -1,7 +1,7 @@
 ---
 title: "Guojing Yan"
 description: "Guojing Yan is a Mid-career Soil Carbon researcher at Taiyuan University of Technology in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.551506
+date: 2026-08-11T01:33:12.400224
 url: "/cdr-researcher-census/researchers/guojing-yan-a5022976/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Historical and future dynamics of cropland soil organic carbon stocks in an intensive human-impacted area of southeastern China** (2024)
-   15 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 ## External Profiles
 

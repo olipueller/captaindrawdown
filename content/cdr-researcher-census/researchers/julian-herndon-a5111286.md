@@ -1,7 +1,7 @@
 ---
 title: "Julian Herndon"
 description: "Julian Herndon is a Senior Ocean CDR researcher at National Oceanic and Atmospheric Administration in US. With 22 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.323259
+date: 2026-08-11T01:33:11.288399
 url: "/cdr-researcher-census/researchers/julian-herndon-a5111286/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **An assessment of ocean alkalinity enhancement using aqueous hydroxides: kinetics, efficiency, and precipitation thresholds** (2024)
-   27 citations · Ocean CDR
+   28 citations · Ocean CDR
 
 2. **Novel field trial for ocean alkalinity enhancement using electrochemically derived aqueous alkalinity** (2025)
    10 citations · Ocean CDR

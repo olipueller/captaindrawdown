@@ -1,7 +1,7 @@
 ---
 title: "Walter Mucha"
 description: "Walter Mucha is a Senior Biochar researcher at Silesian University of Technology in PL. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.294229
+date: 2026-08-11T01:33:12.165490
 url: "/cdr-researcher-census/researchers/walter-mucha-a5062327/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Perspectives of Using Sewage Sludge Char in CO2 Sequestration on Degraded and Brownfield Sites** (2023)
-   6 citations · Biochar
+   7 citations · Biochar
 
 ## External Profiles
 

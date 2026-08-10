@@ -1,7 +1,7 @@
 ---
 title: "David Casini"
 description: "David Casini is a Senior Biochar researcher. With 34 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.375862
+date: 2026-08-11T01:33:11.333929
 url: "/cdr-researcher-census/researchers/david-casini-a5015905/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -49,7 +49,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    14 citations · Biochar
 
 2. **Is soil sampling appropriate for quantitative carbon accounting for biochar? An experimental investigation to assess soil carbon accumulation** (2025)
-   1 citations · Biochar
+   3 citations · Biochar
+
+3. **Biochar and carbon variations across diverse industrial crops and cultivated wild plant species: implications for flexible biomass supply chains and Biochar Carbon Removals** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

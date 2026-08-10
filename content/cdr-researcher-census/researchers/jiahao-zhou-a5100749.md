@@ -1,7 +1,7 @@
 ---
 title: "Jiahao Zhou"
 description: "Jiahao Zhou is a Mid-career Biochar researcher at Institute of Bast Fiber Crops in CN. With 25 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.338395
+date: 2026-08-11T01:33:11.301678
 url: "/cdr-researcher-census/researchers/jiahao-zhou-a5100749/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Effect of Biochar and Earthworms on Mineralization of Organic Matter in Top Soil and Deep Soil** (2023)
-   6 citations · Biochar
+   8 citations · Biochar
 
 2. **Inhibited vertical mobility of biochar-derived dissolved organic matter under low-intensity rainfall: role of mineral retention** (2025)
    5 citations · Biochar

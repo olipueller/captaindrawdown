@@ -1,7 +1,7 @@
 ---
 title: "Liyuan Zuo"
 description: "Liyuan Zuo is a Mid-career Soil Carbon researcher at Xi'an University of Technology in CN. With 24 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.395896
+date: 2026-08-11T01:33:11.350861
 url: "/cdr-researcher-census/researchers/liyuan-zuo-a5103234/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Revealing ecosystem services relationships and their driving factors for five basins of Beijing** (2021)
-   84 citations
+   87 citations
 
 2. **Investigating the compounding effects of environmental factors on ecosystem services relationships for Ecological Conservation Red Line areas** (2021)
-   58 citations · General CDR
+   61 citations · General CDR
 
 3. **Separating the effects of two dimensions on ecosystem services: Environmental variables and net trade-offs** (2023)
    8 citations

@@ -1,7 +1,7 @@
 ---
 title: "Farzin Hosseinifard"
 description: "Farzin Hosseinifard is a Mid-career DAC researcher at K.N.Toosi University of Technology in IR. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.078005
+date: 2026-08-11T01:33:11.971315
 url: "/cdr-researcher-census/researchers/farzin-hosseinifard-a5093733/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Techno-economic evaluation of solar-driven direct air capture under various configurations** (2025)
-   7 citations · DAC
+   9 citations · DAC
 
 2. **Machine learning–enabled optimization of a direct air capture system integrated with enhanced oil recovery** (2025)
-   2 citations · DAC
+   3 citations · DAC
 
 3. **Next-gen carbon capture: Life cycle metrics of solar-integrated direct air capture technology** (2026)
    1 citations · DAC
@@ -62,10 +62,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 4. **Sustainable fuel and power from biomass: 4E analysis of a solar-assisted DME production system with CO₂ capture** (2025)
    1 citations · BECCS
 
-5. **Integrated solar-assisted carbon capture and hydrogen pathways for low-carbon urea production: a techno-economic and exergy assessment** (2026)
+5. **Energy, exergy, and exergoeconomic feasibility of vapor recompression and process-modified post-combustion carbon capture in Midrex-based DRI steelmaking toward blue steel production** (2026)
    0 citations
 
-6. **Decarbonizing cement industry via solar-hybrid capture: Synergistic Integration of microalgae, amine scrubbing, and direct air capture for enhanced energy and exergoeconomic performance** (2026)
+6. **Integrated solar-assisted carbon capture and hydrogen pathways for low-carbon urea production: a techno-economic and exergy assessment** (2026)
+   0 citations
+
+7. **Decarbonizing cement industry via solar-hybrid capture: Synergistic Integration of microalgae, amine scrubbing, and direct air capture for enhanced energy and exergoeconomic performance** (2026)
    0 citations · DAC
 
 ## External Profiles

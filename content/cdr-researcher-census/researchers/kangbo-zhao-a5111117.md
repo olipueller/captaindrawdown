@@ -1,7 +1,7 @@
 ---
 title: "Kangbo Zhao"
 description: "Kangbo Zhao is a Mid-career Biochar researcher at Shenyang Aerospace University in CN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.178129
+date: 2026-08-11T01:33:12.063020
 url: "/cdr-researcher-census/researchers/kangbo-zhao-a5111117/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Degradation of typical tetracycline antibiotics in landfill leachate by three-dimensional aerated electrocatalytic reactor (3D-AER): electrode properties, influencing factors and degradation mechanism** (2025)
-   58 citations
+   59 citations
 
 2. **Magnetic coconut shell biochar driven leachate activated sludge system treatment efficiency, antibiotic resistance gene response, and microbial community succession** (2025)
    3 citations · Biochar

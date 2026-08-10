@@ -1,7 +1,7 @@
 ---
 title: "Amal Abdelhaleem"
 description: "Amal Abdelhaleem is a Senior Biochar researcher at Egypt-Japan University of Science and Technology in EG. With 60 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.196202
+date: 2026-08-11T01:33:11.170511
 url: "/cdr-researcher-census/researchers/amal-abdelhaleem-a5020645/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Coagulation-Flocculation/Pyrolysis Integrated System for Dye-Laden Wastewater Treatment: A Techno-Economic and Sustainable Approach** (2024)
-   23 citations · Biochar
+   26 citations · Biochar
 
 2. **Feasibility of phytoremediation/pyrolysis/adsorption framework for valorization of water hyacinth: Life cycle assessment, techno-economics, and sustainability pillars** (2025)
-   10 citations · Biochar
+   11 citations · Biochar
 
 3. **A Novel Adsorption/Co-Digestion/Pyrolysis Scheme for Potato Peel Waste Management to Fulfill the Sustainable Development Goals (SDGs)** (2024)
    10 citations · Biochar

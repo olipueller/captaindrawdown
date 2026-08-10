@@ -1,7 +1,7 @@
 ---
 title: "Javier Lezaun"
 description: "Javier Lezaun is a Senior General CDR researcher at Ethnographic Museum in HU. With 116 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.121367
+date: 2026-08-11T01:33:11.100111
 url: "/cdr-researcher-census/researchers/javier-lezaun-a5085557/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,13 +48,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The meaning of net zero and how to get it right** (2021)
-   921 citations · General CDR
+   940 citations · General CDR
 
 2. **Hugging the Shore: Tackling Marine Carbon Dioxide Removal as a Local Governance Problem** (2021)
-   45 citations · General CDR
+   46 citations · General CDR
 
 3. **Broaden Research on Ocean Alkalinity Enhancement to Better Characterize Social Impacts** (2023)
-   34 citations · General CDR
+   35 citations · General CDR
 
 4. **Governing Carbon Dioxide Removal in the UK: Lessons Learned and Challenges Ahead** (2021)
    20 citations · General CDR
@@ -63,7 +63,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    19 citations · General CDR
 
 6. **Responsible innovation in CDR: designing sustainable national Greenhouse Gas Removal policies in a fragmented and polycentric governance system** (2024)
-   8 citations · General CDR
+   9 citations · General CDR
 
 7. **Prospects and Challenges of Investigating Ocean-Based Negative Emission Technologies: Insights from the OceanNETs Project** (2025)
    1 citations · General CDR

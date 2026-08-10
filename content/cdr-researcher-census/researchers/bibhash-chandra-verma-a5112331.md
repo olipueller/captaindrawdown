@@ -1,7 +1,7 @@
 ---
 title: "Bibhash Chandra Verma"
 description: "Bibhash Chandra Verma is a Senior Biochar researcher at Indian Institute of Rice Research in IN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.658613
+date: 2026-08-11T01:33:11.582817
 url: "/cdr-researcher-census/researchers/bibhash-chandra-verma-a5112331/"
 layout: "researcher"
 hiddenInHomeList: true

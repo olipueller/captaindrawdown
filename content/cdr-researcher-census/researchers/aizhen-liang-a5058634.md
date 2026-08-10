@@ -1,7 +1,7 @@
 ---
 title: "Aizhen Liang"
 description: "Aizhen Liang is a Senior Soil Carbon researcher at Northeast Institute of Geography and Agroecology in CN. With 117 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.154633
+date: 2026-08-11T01:33:11.131511
 url: "/cdr-researcher-census/researchers/aizhen-liang-a5058634/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,33 +51,33 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Conservation tillage regulates the assembly, network structure and ecological function of the soil bacterial community in black soils** (2022)
-   53 citations · Soil Carbon
+   54 citations · Soil Carbon
 
 2. **Effect of long-term tillage and cropping system on portion of fungal and bacterial necromass carbon in soil organic carbon** (2021)
-   36 citations · Soil Carbon
+   37 citations · Soil Carbon
 
 3. **Cascading Effects Within Soil Food Web Amplify Fungal Biomass and Necromass Production** (2025)
-   25 citations · Soil Carbon
+   28 citations · Soil Carbon
 
 4. **Conservation tillage enhances the sequestration and iron-mediated stabilization of aggregate-associated organic carbon in Mollisols** (2024)
-   22 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 5. **Contribution of rhizodeposit associated microbial groups to SOC varies with maize growth stages** (2022)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 6. **Chemical Composition of Plant Residues Regulates Soil Organic Carbon Turnover in Typical Soils with Contrasting Textures in Northeast China Plain** (2022)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 7. **Effects of tillage practices on environment, energy, and economy of maize production in Northeast China** (2024)
-   18 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 8. **Maize residue types and soil fertility levels influence sequestration of newly associated carbon in aggregates with in situ experiments** (2023)
-   17 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 9. **Tillage-induced effects on organic carbon in earthworm casts through changes in their physical and structural stability parameters** (2021)
    14 citations · Soil Carbon
 
-10. **Linking Rock-Eval parameters to soil heterotrophic respiration and microbial residues in a black soil** (2023)
+10. **Tillage effects on residue-derived carbon distribution among soil fractions in a Mollisol** (2024)
    11 citations · Soil Carbon
 
 ## External Profiles

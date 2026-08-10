@@ -1,7 +1,7 @@
 ---
 title: "Luyao Jia"
 description: "Luyao Jia is a Senior Soil Carbon researcher at Beijing Institute of Nanoenergy and Nanosystems in CN. With 29 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.381075
+date: 2026-08-11T01:33:11.338138
 url: "/cdr-researcher-census/researchers/luyao-jia-a5101966/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Changes in soil aggregate stability and aggregate-associated carbon under different slope positions in a karst region of Southwest China** (2024)
-   29 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 2. **Effects of Water-Level Fluctuation on Soil Aggregates and Aggregate-Associated Organic Carbon in the Water-Level Fluctuation Zone of the Three Gorges Reservoir, China** (2024)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 ## External Profiles
 

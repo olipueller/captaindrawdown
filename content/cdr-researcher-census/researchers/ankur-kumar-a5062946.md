@@ -1,7 +1,7 @@
 ---
 title: "Ankur Kumar"
 description: "Ankur Kumar is a Mid-career Soil Carbon researcher at National Institute of Food Technology Entrepreneurship and Management in IN. With 28 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.639355
+date: 2026-08-11T01:33:11.566056
 url: "/cdr-researcher-census/researchers/ankur-kumar-a5062946/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long‐term impact of organic and inorganic fertilizers on soil organic carbon dynamics in a rice‐ wheat system** (2022)
-   24 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 2. **Influence of Different Nutrient Management Practices and Cropping Systems on Organic Carbon Pools in Typic Ustochrept Soil of Indo-Gangetic Plains in India** (2022)
    8 citations · Soil Carbon

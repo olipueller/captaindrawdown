@@ -1,7 +1,7 @@
 ---
 title: "Yajie Sun"
 description: "Yajie Sun is a Mid-career Soil Carbon researcher at Shandong Agricultural University in CN. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.002845
+date: 2026-08-11T01:33:11.879922
 url: "/cdr-researcher-census/researchers/yajie-sun-a5101815/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Declining total carbon stocks in carbonate-containing agricultural soils over a 62-year recultivation chronosequence under humid conditions** (2022)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 2. **Soil carbon quantity and form are controlled predominantly by mean annual temperature along 4000 km North-South transect of Eastern China** (2022)
    12 citations · Soil Carbon

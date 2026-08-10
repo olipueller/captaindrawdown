@@ -1,7 +1,7 @@
 ---
 title: "Amy J. Anschutz"
 description: "Amy J. Anschutz is a Senior Ocean CDR researcher at Leibniz Institute for Baltic Sea Research Warnemünde in DE. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.511721
+date: 2026-08-11T01:33:11.451146
 url: "/cdr-researcher-census/researchers/amy-j-anschutz-a5047708/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Exploring Site‐Specific Carbon Dioxide Removal Options With Storage or Sequestration in the Marine Environment – The 10 Mt CO<sub>2</sub> yr<sup>−1</sup> Removal Challenge for Germany** (2025)
-   7 citations · General CDR
+   8 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Olaniran K. Akeremale"
 description: "Olaniran K. Akeremale is a Mid-career Biochar researcher at Bayero University Kano in NG. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.024871
+date: 2026-08-11T01:33:11.901162
 url: "/cdr-researcher-census/researchers/olaniran-k-akeremale-a5063838/"
 layout: "researcher"
 hiddenInHomeList: true

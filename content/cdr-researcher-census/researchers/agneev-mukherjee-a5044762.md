@@ -1,7 +1,7 @@
 ---
 title: "Agneev Mukherjee"
 description: "Agneev Mukherjee is a Mid-career DAC researcher at Flemish Institute for Technological Research in BE. With 17 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.324340
+date: 2026-08-11T01:33:11.289335
 url: "/cdr-researcher-census/researchers/agneev-mukherjee-a5044762/"
 layout: "researcher"
 hiddenInHomeList: true

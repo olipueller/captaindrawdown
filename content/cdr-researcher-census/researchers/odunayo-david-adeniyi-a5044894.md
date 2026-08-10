@@ -1,7 +1,7 @@
 ---
 title: "Odunayo David Adeniyi"
 description: "Odunayo David Adeniyi is a Mid-career Soil Carbon researcher at CMCC Foundation - Euro-Mediterranean Center on Climate Change in IT. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.062666
+date: 2026-08-11T01:33:11.956621
 url: "/cdr-researcher-census/researchers/odunayo-david-adeniyi-a5044894/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Spatial prediction of soil organic carbon: Combining machine learning with residual kriging in an agricultural lowland area (Lombardy region, Italy)** (2024)
-   36 citations
+   40 citations
 
 2. **Spatial Prediction of Soil Organic Carbon Combining Machine Learning with Residual Kriging in an Agricultural Lowland Area (Lombardy Region, Italy)** (2023)
    2 citations · Soil Carbon

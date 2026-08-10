@@ -1,7 +1,7 @@
 ---
 title: "Yuchun Yan"
 description: "Yuchun Yan is a Senior Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 46 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.285670
+date: 2026-08-11T01:33:11.253483
 url: "/cdr-researcher-census/researchers/yuchun-yan-a5102904/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Light grazing tends to enhance ecosystem carbon sequestration and resource use efficiency in a meadow steppe of northern China** (2025)
-   12 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 2. **Stocking rate changed the magnitude of carbon sequestration and flow within the plant-soil system of a meadow steppe ecosystem** (2021)
    11 citations · Soil Carbon

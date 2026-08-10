@@ -1,7 +1,7 @@
 ---
 title: "Shaoyun Peng"
 description: "Shaoyun Peng is a Mid-career Soil Carbon researcher. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.873836
+date: 2026-08-11T01:33:11.775493
 url: "/cdr-researcher-census/researchers/shaoyun-peng-a5057299/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of different restored vegetation on soil organic carbon pools in subtropic erosive lands: Insights from stable carbon isotopes** (2024)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 ## External Profiles
 

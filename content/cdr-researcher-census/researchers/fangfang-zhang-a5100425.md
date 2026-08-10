@@ -1,7 +1,7 @@
 ---
 title: "Fangfang Zhang"
 description: "Fangfang Zhang is a Senior Soil Carbon researcher at Luoyang Normal University in CN. With 36 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.417712
+date: 2026-08-11T01:33:11.370753
 url: "/cdr-researcher-census/researchers/fangfang-zhang-a5100425/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,13 +54,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    23 citations · Soil Carbon
 
 2. **Long-term film mulching with manure amendment increases crop yield and water productivity but decreases the soil carbon and nitrogen sequestration potential in semiarid farmland** (2022)
-   22 citations · Soil Carbon
+   23 citations · Soil Carbon
 
-3. **Land-use conversion alters soil organic carbon fractions and biological properties in a floodplain wetland: A case study in the Mengjin National Yellow River Wetland Reserve, Henan, China** (2026)
+3. **The effect of enhanced rock weathering on soil respiration was modulated by understory removal in a subtropical fir plantation** (2025)
+   2 citations · Enhanced Weathering
+
+4. **Land-use conversion alters soil organic carbon fractions and biological properties in a floodplain wetland: A case study in the Mengjin National Yellow River Wetland Reserve, Henan, China** (2026)
    0 citations
-
-4. **The effect of enhanced rock weathering on soil respiration was modulated by understory removal in a subtropical fir plantation** (2025)
-   0 citations · Enhanced Weathering
 
 5. **Long-Term Film Mulching with Manure Amendment Increase Crop Yield and Water Use Eﬃciency But Decrease the Soil Carbon and Nitrogen Sequestration Potential in Semiarid Farmland** (2022)
    0 citations · Soil Carbon

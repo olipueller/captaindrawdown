@@ -1,7 +1,7 @@
 ---
 title: "Jipeng Luo"
 description: "Jipeng Luo is a Senior Soil Carbon researcher at Zhejiang University in CN. With 61 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.185031
+date: 2026-08-11T01:33:11.159754
 url: "/cdr-researcher-census/researchers/jipeng-luo-a5025866/"
 layout: "researcher"
 hiddenInHomeList: true

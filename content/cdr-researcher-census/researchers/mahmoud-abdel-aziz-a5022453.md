@@ -1,7 +1,7 @@
 ---
 title: "Mahmoud Abdel-Aziz"
 description: "Mahmoud Abdel-Aziz is a Mid-career Soil Carbon researcher at University Medical Center Groningen in NL. With 40 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.390412
+date: 2026-08-11T01:33:11.346329
 url: "/cdr-researcher-census/researchers/mahmoud-abdel-aziz-a5022453/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Straw Versus Manure in Soil Organic Carbon Sequestration: Mechanisms, Efficiency and Synergies for Sustainable Agriculture: A Review** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 2. **Soil humus and aluminum—iron interactions enhance carbon sequestration and yield sustainability after long-term fertilization in three different soils** (2025)
    3 citations · Soil Carbon

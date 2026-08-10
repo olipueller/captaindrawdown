@@ -1,7 +1,7 @@
 ---
 title: "Mohsen Tayebi"
 description: "Mohsen Tayebi is a Mid-career General CDR researcher. With 33 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.677018
+date: 2026-08-11T01:33:11.599088
 url: "/cdr-researcher-census/researchers/mohsen-tayebi-a5034992/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Water-energy-carbon nexus and sustainability-oriented prioritization of negative emissions technologies for the oil &amp; gas industry: A decision support system under Fermatean fuzzy environment** (2023)
-   23 citations · General CDR
+   24 citations · General CDR
 
 2. **Evaluation of carbon capture technologies in the oil and gas industry using a socio-technical systems perspective-based decision support system under interval type-2 trapezoidal fuzzy set** (2024)
    7 citations · DAC

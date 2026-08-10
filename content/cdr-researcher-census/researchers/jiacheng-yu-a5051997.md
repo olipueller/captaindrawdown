@@ -1,7 +1,7 @@
 ---
 title: "Jiacheng Yu"
 description: "Jiacheng Yu is a Mid-career BECCS researcher at Tianjin University in CN. With 30 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.622570
+date: 2026-08-11T01:33:11.550304
 url: "/cdr-researcher-census/researchers/jiacheng-yu-a5051997/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Life cycle assessment and techno-economic analysis of sustainable bioenergy production: a review** (2024)
-   182 citations · BECCS
+   193 citations · BECCS
 
 2. **Direct CO<sub>2</sub> Mineralization of Steel Slag Accelerated by <i>Sporosarcina pasteurii</i>** (2025)
-   5 citations · Enhanced Weathering
+   6 citations · Enhanced Weathering
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Hongguang Cai"
 description: "Hongguang Cai is a Senior Soil Carbon researcher at Inner Mongolia Electric Power (China) in CN. With 40 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.245583
+date: 2026-08-11T01:33:11.216824
 url: "/cdr-researcher-census/researchers/hongguang-cai-a5110627/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    152 citations · Biochar
 
 2. **Soil organic carbon accumulation mechanisms in soil amended with straw and biochar: entombing effect or biochemical protection?** (2025)
-   36 citations · Biochar
+   39 citations · Biochar
 
 3. **Climate-smart agriculture practice promotes sustainable maize production in northeastern China: Higher grain yield while less carbon footprint** (2023)
-   30 citations · General CDR
+   31 citations · General CDR
 
 4. **Soil Enzyme Activities Affect SOC and TN in Aggregate Fractions in Sodic-Alkali Soils, Northeast of China** (2022)
    19 citations · Soil Carbon
@@ -63,19 +63,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    11 citations · Biochar
 
 6. **The Relationship of Soil Organic Carbon and Nutrient Contents to Maize Yield as Affected by Maize Straw Return Modes** (2023)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
-7. **Effects of Straw Maize on the Bacterial Community and Carbon Stability at Different Soil Depths** (2023)
+7. **Deep tillage with straw retention increased organic carbon sequestration and enhanced homogenization of microbial communities and functions across soil depths** (2025)
+   8 citations · Soil Carbon
+
+8. **Effects of Straw Maize on the Bacterial Community and Carbon Stability at Different Soil Depths** (2023)
    8 citations
-
-8. **Deep tillage with straw retention increased organic carbon sequestration and enhanced homogenization of microbial communities and functions across soil depths** (2025)
-   7 citations · Soil Carbon
 
 9. **Influence of straw, compost, and biochar on soil carbon and aggregates in Chernozem** (2025)
    5 citations · Biochar
 
 10. **Differences in soil organic carbon among soil layers caused by microbial necromass carbon accumulation under different tillage and carbon input regimes** (2026)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

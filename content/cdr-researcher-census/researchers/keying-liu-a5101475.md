@@ -1,7 +1,7 @@
 ---
 title: "Keying Liu"
 description: "Keying Liu is a Senior Biochar researcher at Nanyang Normal University in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.439564
+date: 2026-08-11T01:33:12.296883
 url: "/cdr-researcher-census/researchers/keying-liu-a5101475/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,7 +50,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 ## Top CDR Publications
 
-1. **Biochar‐Enhanced Methane‐Dependent Denitrification: Insights Into Pyrolysis Temperature‐Driven Microbial Electron Transfer Pathways and Regulatory Mechanisms** (2026)
+1. **Biochar enhances anaerobic oxidation of methane coupled with Cr(VI) reduction: Pyrolysis temperature-dependent electron transfer pathways and regulatory mechanisms** (2026)
+   0 citations · Biochar
+
+2. **Biochar‐Enhanced Methane‐Dependent Denitrification: Insights Into Pyrolysis Temperature‐Driven Microbial Electron Transfer Pathways and Regulatory Mechanisms** (2026)
    0 citations · Biochar
 
 ## External Profiles

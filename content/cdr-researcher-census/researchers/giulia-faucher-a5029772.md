@@ -1,7 +1,7 @@
 ---
 title: "Giulia Faucher"
 description: "Giulia Faucher is a Mid-career Ocean CDR researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 60 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.716431
+date: 2026-08-11T01:33:11.635314
 url: "/cdr-researcher-census/researchers/giulia-faucher-a5029772/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Ocean alkalinity enhancement approaches and the predictability of runaway precipitation processes: results of an experimental study to determine critical alkalinity ranges for safe and sustainable application scenarios** (2024)
-   30 citations · General CDR
+   31 citations · General CDR
 
 2. **Phytoplankton response to increased nickel in the context of ocean alkalinity enhancement** (2024)
-   16 citations · General CDR
+   17 citations · General CDR
 
 3. **Prey dynamics as a buffer: enhancing copepod resilience to ocean alkalinity enhancement** (2025)
-   11 citations · Ocean CDR
+   12 citations · Ocean CDR
 
 4. **Growth response of <i>Emiliania huxleyi</i> to ocean alkalinity enhancement** (2025)
    10 citations · General CDR

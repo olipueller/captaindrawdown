@@ -1,7 +1,7 @@
 ---
 title: "Qiang Li"
 description: "Qiang Li is a Senior Soil Carbon researcher at Tianjin Normal University in CN. With 149 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.194741
+date: 2026-08-11T01:33:11.169159
 url: "/cdr-researcher-census/researchers/qiang-li-a5100429/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Storage, patterns and influencing factors for soil organic carbon in coastal wetlands of China** (2022)
-   151 citations · Soil Carbon
+   157 citations · Soil Carbon
 
 2. **<i>Spartina alterniflora</i> invasion controls organic carbon stocks in coastal marsh and mangrove soils across tropics and subtropics** (2021)
-   135 citations · Soil Carbon
+   137 citations · Soil Carbon
 
 3. **Spartina alterniflora invasion differentially alters microbial residues and their contribution to soil organic C in coastal marsh and mangrove wetlands** (2023)
-   27 citations · Soil Carbon
+   29 citations · Soil Carbon
 
 4. **Current and future potential soil organic carbon stocks of vegetated coastal ecosystems and their controls in the Bohai Rim Region, China** (2023)
    26 citations · Ocean CDR
 
 5. **New insight into the mechanisms of preferential encapsulation of metal(loid)s by wheat phytoliths under silicon nanoparticle amendment** (2023)
-   21 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 6. **Specific PhytOC fractions in rice straw and consequent implications for potential of phytolith carbon sequestration in global paddy fields** (2022)
    11 citations · Soil Carbon

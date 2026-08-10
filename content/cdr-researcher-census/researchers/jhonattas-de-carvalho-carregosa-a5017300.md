@@ -1,7 +1,7 @@
 ---
 title: "Jhonattas de Carvalho Carregosa"
 description: "Jhonattas de Carvalho Carregosa is a Mid-career BECCS researcher at Universidade Federal de Sergipe in BR. With 25 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.178424
+date: 2026-08-11T01:33:12.063274
 url: "/cdr-researcher-census/researchers/jhonattas-de-carvalho-carregosa-a5017300/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Thermochemical conversion of aquatic weed biomass in a rotary kiln reactor for production of bio-based derivatives** (2023)
-   17 citations · BECCS
+   18 citations · BECCS
 
 2. **Thermochemical Conversion of Aquatic Weed Biomass in a Rotary Kiln Reactor for Production of Bio-Based Derivatives** (2023)
    1 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Zahra Poursorkh"
 description: "Zahra Poursorkh is a Mid-career Soil Carbon researcher. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.146841
+date: 2026-08-11T01:33:12.035049
 url: "/cdr-researcher-census/researchers/zahra-poursorkh-a5066346/"
 layout: "researcher"
 hiddenInHomeList: true

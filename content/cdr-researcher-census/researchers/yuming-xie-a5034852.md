@@ -1,7 +1,7 @@
 ---
 title: "Yuming Xie"
 description: "Yuming Xie is a Mid-career Biochar researcher at Nanjing Forestry University in CN. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.021627
+date: 2026-08-11T01:33:11.897911
 url: "/cdr-researcher-census/researchers/yuming-xie-a5034852/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **The iron-based biochar activating chlorite (ClO2−) driven by mechanochemical ultrasonic: piecewise kinetics, biomimetic catalytic-mechanism, and novel advanced redox process** (2024)
-   3 citations · Biochar
+   5 citations · Biochar
 
 ## External Profiles
 

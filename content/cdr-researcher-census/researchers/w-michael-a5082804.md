@@ -1,7 +1,7 @@
 ---
 title: "W. Michael"
 description: "W. Michael is a Senior DAC researcher. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.147655
+date: 2026-08-11T01:33:12.035626
 url: "/cdr-researcher-census/researchers/w-michael-a5082804/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Towards water-conscious green hydrogen and methanol production: A techno-economic review** (2025)
-   10 citations · DAC
+   11 citations · DAC
 
 ## External Profiles
 

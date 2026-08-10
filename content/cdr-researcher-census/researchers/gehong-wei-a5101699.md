@@ -1,7 +1,7 @@
 ---
 title: "Gehong Wei"
 description: "Gehong Wei is a Senior Soil Carbon researcher. With 66 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.147151
+date: 2026-08-11T01:33:11.124608
 url: "/cdr-researcher-census/researchers/gehong-wei-a5101699/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -45,14 +45,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Organic amendments affect soil organic carbon sequestration and fractions in fields with long-term contrasting nitrogen applications** (2021)
+1. **The biogeography of soil microbiome potential growth rates** (2024)
+   64 citations
+
+2. **Organic amendments affect soil organic carbon sequestration and fractions in fields with long-term contrasting nitrogen applications** (2021)
    63 citations · Soil Carbon
 
-2. **The biogeography of soil microbiome potential growth rates** (2024)
-   60 citations
-
 3. **A Global Relationship Between Genome Size and Encoded Carbon Metabolic Strategies of Soil Bacteria** (2025)
-   24 citations · Soil Carbon
+   27 citations · Soil Carbon
 
 4. **Residue quality drives SOC sequestration by altering microbial taxonomic composition and ecophysiological function in desert ecosystem** (2024)
    22 citations · Soil Carbon
@@ -64,16 +64,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    9 citations
 
 7. **Linking prokaryotic life-history strategies to soil organic carbon stability in semi-arid orchard with cover crops** (2025)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 8. **Straw return enhances soil multifunctionality by promoting protist-dominated microbial multitrophic interactions** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 9. **The distribution of aerobic bacteria in Chinese cropland is linked to the soil texture** (2025)
    2 citations · Soil Carbon
 
 10. **Long‐Term Reclamation of Sandy Land Enhances Deep Soil Carbon Storage and Stability via Mineral‐Associated Organic Carbon Accumulation** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

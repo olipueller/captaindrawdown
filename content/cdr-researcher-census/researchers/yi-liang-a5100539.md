@@ -1,7 +1,7 @@
 ---
 title: "Yi Liang"
 description: "Yi Liang is a Mid-career Biochar researcher at Chinese Academy of Agricultural Sciences in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.046337
+date: 2026-08-11T01:33:11.921088
 url: "/cdr-researcher-census/researchers/yi-liang-a5100539/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Sustained methane production enhancement by magnetic biochar and its recovery in semi-continuous anaerobic digestion with varying substrate C/N ratios** (2025)
-   18 citations · Biochar
+   20 citations · Biochar
 
 ## External Profiles
 

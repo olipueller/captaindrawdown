@@ -1,7 +1,7 @@
 ---
 title: "Tianyun Li"
 description: "Tianyun Li is a Senior Soil Carbon researcher at Northeast Normal University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.304094
+date: 2026-08-11T01:33:12.174229
 url: "/cdr-researcher-census/researchers/tianyun-li-a5074731/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Faisal Shehzad"
 description: "Muhammad Faisal Shehzad is a Mid-career General CDR researcher at University of Victoria in CA. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.883610
+date: 2026-08-11T01:33:11.784572
 url: "/cdr-researcher-census/researchers/muhammad-faisal-shehzad-a5036916/"
 layout: "researcher"
 hiddenInHomeList: true

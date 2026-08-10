@@ -1,7 +1,7 @@
 ---
 title: "Fatema Mehejabin"
 description: "Fatema Mehejabin is a Mid-career Biochar researcher at Asian University for Women in BD. With 12 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.493430
+date: 2026-08-11T01:33:11.434922
 url: "/cdr-researcher-census/researchers/fatema-mehejabin-a5007127/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar produced from waste‐based feedstocks: Mechanisms, affecting factors, economy, utilization, challenges, and prospects** (2024)
-   71 citations · Biochar
+   84 citations · Biochar
 
 ## External Profiles
 

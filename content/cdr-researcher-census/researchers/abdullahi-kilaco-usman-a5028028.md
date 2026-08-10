@@ -1,7 +1,7 @@
 ---
 title: "Abdullahi Kilaco Usman"
 description: "Abdullahi Kilaco Usman is a Mid-career Biochar researcher at King Fahd University of Petroleum and Minerals in SA. With 33 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.334268
+date: 2026-08-11T01:33:11.298137
 url: "/cdr-researcher-census/researchers/abdullahi-kilaco-usman-a5028028/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A review on the application of biochar as an innovative and sustainable biocarrier material in moving bed biofilm reactors for dye removal from environmental matrices** (2024)
-   19 citations · Biochar
+   20 citations · Biochar
 
 2. **Nickel augmented biochar for sustaining produced water treatment to decarbonize oil and gas industrial waste using anaerobic-aerobic granular cylindrical periodic discontinuous batch reactors** (2024)
    1 citations · Biochar

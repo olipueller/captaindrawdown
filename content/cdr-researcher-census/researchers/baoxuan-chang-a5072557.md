@@ -1,7 +1,7 @@
 ---
 title: "Baoxuan Chang"
 description: "Baoxuan Chang is a Senior Soil Carbon researcher at Tianjin University in CN. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.198240
+date: 2026-08-11T01:33:12.081230
 url: "/cdr-researcher-census/researchers/baoxuan-chang-a5072557/"
 layout: "researcher"
 hiddenInHomeList: true

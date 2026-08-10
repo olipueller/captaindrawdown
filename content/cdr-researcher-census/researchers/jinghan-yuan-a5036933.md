@@ -1,7 +1,7 @@
 ---
 title: "Jinghan Yuan"
 description: "Jinghan Yuan is a Senior Biochar researcher at GENESINO BIOLOGICAL S&T DEVELOPMENT CO. LTD in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.158521
+date: 2026-08-11T01:33:12.045353
 url: "/cdr-researcher-census/researchers/jinghan-yuan-a5036933/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Characterization of High-Performance Zinc Chloride Activated Biochar Modified by Thermal Chemical Vapor Deposition (CVD) and Its Removal Mechanism of Aqueous Nitrate Ions** (2022)
-   7 citations · Biochar
+   8 citations · Biochar
 
 2. **Development of mesoporous carbonaceous adsorbents and surface modification for removal of nitrate ions in aqueous solution** (2022)
    0 citations · Biochar

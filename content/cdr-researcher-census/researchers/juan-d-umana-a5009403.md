@@ -1,7 +1,7 @@
 ---
 title: "Juan D. Umaña"
 description: "Juan D. Umaña is a Mid-career General CDR researcher at Universidad de Los Andes in CO. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.584396
+date: 2026-08-11T01:33:11.515875
 url: "/cdr-researcher-census/researchers/juan-d-umana-a5009403/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The 2023 Latin America report of the Lancet Countdown on health and climate change: the imperative for health-centred climate-resilient development** (2024)
-   88 citations · General CDR
+   93 citations · General CDR
 
 ## External Profiles
 

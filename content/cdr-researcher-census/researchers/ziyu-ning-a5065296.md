@@ -1,7 +1,7 @@
 ---
 title: "Ziyu Ning"
 description: "Ziyu Ning is a Mid-career Soil Carbon researcher at Chinese Academy of Tropical Agricultural Sciences in CN. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.440799
+date: 2026-08-11T01:33:11.390936
 url: "/cdr-researcher-census/researchers/ziyu-ning-a5065296/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    11 citations · Biochar
 
 2. **Molecular-level insight into the effect of fertilization regimes on the chemodiversity of dissolved organic matter in tropical cropland** (2024)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 3. **Legume-inclusive crop rotational diversity systems shape molecular chemodiversity and biochemical transformation processes of latosol dissolved organic matter** (2026)
    0 citations

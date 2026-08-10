@@ -1,7 +1,7 @@
 ---
 title: "Haoqi Wang"
 description: "Haoqi Wang is a Mid-career BECCS researcher at The University of British Columbia in CA. With 40 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.671894
+date: 2026-08-11T01:33:11.594444
 url: "/cdr-researcher-census/researchers/haoqi-wang-a5101467/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yue Deng"
 description: "Yue Deng is a Mid-career Biochar researcher at Dalian Ocean University in CN. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.660292
+date: 2026-08-11T01:33:11.584529
 url: "/cdr-researcher-census/researchers/yue-deng-a5100604/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Co-hydrothermal carbonization of lignocellulosic biomass and swine manure: Optimal parameters for enhanced nutrient reclamation, carbon sequestration, and heavy metals passivation** (2024)
-   34 citations · Biochar
+   35 citations · Biochar
 
 2. **Hydrochar as an effective amendment for enhancing soil aggregation and carbon sequestration: evidence from comparative microcosm experiments** (2026)
    4 citations · Soil Carbon

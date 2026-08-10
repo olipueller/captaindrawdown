@@ -1,7 +1,7 @@
 ---
 title: "Qing Zhang"
 description: "Qing Zhang is a Senior Soil Carbon researcher at Beijing Normal University in CN. With 59 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.316459
+date: 2026-08-11T01:33:11.282815
 url: "/cdr-researcher-census/researchers/qing-zhang-a5100700/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of climate change and grazing on the soil organic carbon stock of alpine wetlands on the Tibetan Plateau from 2000 to 2018** (2024)
-   29 citations · Soil Carbon
+   31 citations · Soil Carbon
 
 2. **Increasing soil organic carbon stock of alpine wetlands on the Tibetan Plateau: Results of future scenarios** (2025)
    3 citations · Soil Carbon

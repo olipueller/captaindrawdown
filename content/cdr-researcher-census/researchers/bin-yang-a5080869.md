@@ -1,7 +1,7 @@
 ---
 title: "Bin Yang"
 description: "Bin Yang is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 32 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.402421
+date: 2026-08-11T01:33:11.356857
 url: "/cdr-researcher-census/researchers/bin-yang-a5080869/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon footprint, yield and economic performance assessment of different mulching strategies in a semi-arid spring maize system** (2022)
-   35 citations · Soil Carbon
+   36 citations · Soil Carbon
 
 2. **A three-year record of CO2, CH4 and N2O emissions in maize fields influenced by mulching methods on the Loess Plateau, China** (2024)
    23 citations · Soil Carbon
 
 3. **Divergent responses of soil aggregate-associated organic carbon fractions and carbon flow pathways to land-use changes in karst ecosystems: Insights from δ13C signature** (2024)
-   8 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 4. **High levels of soil calcium and clay facilitate the recovery and stability of organic carbon: Insights from different land uses in the karst of China** (2024)
    6 citations · Soil Carbon

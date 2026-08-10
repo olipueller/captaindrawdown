@@ -1,7 +1,7 @@
 ---
 title: "Jackson Nkoh Nkoh"
 description: "Jackson Nkoh Nkoh is a Senior Biochar researcher at Shenzhen University in CN. With 78 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.216251
+date: 2026-08-11T01:33:11.189297
 url: "/cdr-researcher-census/researchers/jackson-nkoh-nkoh-a5066227/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -56,16 +56,16 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 2. **The Synergistic Effects of Rice Straw-Pyrolyzed Biochar and Compost on Acidity Mitigation and Carbon Sequestration in Acidic Soils: A Comparative Study** (2025)
    4 citations · Biochar
 
-3. **Biomass burning and biochar: developments in Sub-Saharan Africa** (2025)
+3. **Direct Biochar–Root Interactions May Alter Cadmium Sequestration at the Interface: A Hydroponic Study** (2025)
    2 citations · Biochar
 
-4. **Evaluating the potential of different crop straw biochar to capture carbon dioxide and increase the growth of Zea mays L.** (2024)
+4. **Biomass burning and biochar: developments in Sub-Saharan Africa** (2025)
    2 citations · Biochar
 
-5. **Exogenous organic matter modulates cadmium uptake in rice (Oryza sativa L.): Linking root surface chemistry to metal translocation and tolerance** (2026)
-   1 citations · Biochar
+5. **Evaluating the potential of different crop straw biochar to capture carbon dioxide and increase the growth of Zea mays L.** (2024)
+   2 citations · Biochar
 
-6. **Direct Biochar–Root Interactions May Alter Cadmium Sequestration at the Interface: A Hydroponic Study** (2025)
+6. **Exogenous organic matter modulates cadmium uptake in rice (Oryza sativa L.): Linking root surface chemistry to metal translocation and tolerance** (2026)
    1 citations · Biochar
 
 7. **Direct Biochar-Root Interactions Alter Cadmium Sequestration at the Interface: A Hydroponic Study Unveiling a Novel Mechanism Beyond Soil Immobilization** (2025)

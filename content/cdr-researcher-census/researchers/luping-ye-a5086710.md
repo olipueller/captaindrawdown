@@ -1,7 +1,7 @@
 ---
 title: "Luping Ye"
 description: "Luping Ye is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 29 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.312301
+date: 2026-08-11T01:33:11.278814
 url: "/cdr-researcher-census/researchers/luping-ye-a5086710/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Ecoenzymatic stoichiometry reveals widespread soil phosphorus limitation to microbial metabolism across Chinese forests** (2022)
-   156 citations · Soil Carbon
+   161 citations · Soil Carbon
 
 2. **Digital mapping of soil inorganic carbon content and density in soil profiles after ‘Grain for Green’ program** (2025)
-   2 citations
+   4 citations
 
 3. **Plant Functional Group Removal Shifts Soil Nematode Community and Decreases Soil Particulate Organic Carbon in an Alpine Meadow** (2025)
    1 citations · Soil Carbon

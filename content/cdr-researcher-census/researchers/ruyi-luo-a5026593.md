@@ -1,7 +1,7 @@
 ---
 title: "Ruyi Luo"
 description: "Ruyi Luo is a Mid-career Soil Carbon researcher at Chengdu Institute of Biology in CN. With 28 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.364288
+date: 2026-08-11T01:33:11.324212
 url: "/cdr-researcher-census/researchers/ruyi-luo-a5026593/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Phosphorus addition decreases plant lignin but increases microbial necromass contribution to soil organic carbon in a subalpine forest** (2022)
-   207 citations · Soil Carbon
+   214 citations · Soil Carbon
 
 2. **Lower microbial carbon use efficiency reduces cellulose-derived carbon retention in soils amended with compost versus mineral fertilizers** (2021)
-   40 citations · Soil Carbon
+   41 citations · Soil Carbon
 
 3. **Micro‐Faunal and Edaphic Controls on Microbial Carbon Cycling Across Primary and Secondary Successional Trajectories** (2025)
    6 citations · Soil Carbon

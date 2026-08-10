@@ -1,7 +1,7 @@
 ---
 title: "Tijana Martinović"
 description: "Tijana Martinović is a Mid-career Soil Carbon researcher at Czech Academy of Sciences in CZ. With 47 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.291688
+date: 2026-08-11T01:33:11.259437
 url: "/cdr-researcher-census/researchers/tijana-martinovic-a5052211/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Phosphorus limitation promotes soil carbon storage in a boreal forest exposed to long‐term nitrogen fertilization** (2024)
-   28 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 2. **Norway spruce monoculture has lower resilience and carbon sequestration capacity than a more diverse broadleaved forest: A case study in Central Europe** (2025)
-   6 citations
+   7 citations
 
 3. **Impacts of Canopy Disturbances by Tree Logging on Soil Biota Increase With Organism Size** (2025)
    2 citations · Soil Carbon

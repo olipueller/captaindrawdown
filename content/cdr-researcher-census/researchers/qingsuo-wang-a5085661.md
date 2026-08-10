@@ -1,7 +1,7 @@
 ---
 title: "Qingsuo Wang"
 description: "Qingsuo Wang is a Senior Soil Carbon researcher at Chinese Academy of Agricultural Sciences in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.557612
+date: 2026-08-11T01:33:11.491682
 url: "/cdr-researcher-census/researchers/qingsuo-wang-a5085661/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Changes in soil organic carbon stocks from reducing irrigation can be offset by applying organic fertilizer in the North China Plain** (2022)
-   33 citations · Soil Carbon
+   34 citations · Soil Carbon
 
 ## External Profiles
 

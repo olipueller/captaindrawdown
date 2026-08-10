@@ -1,7 +1,7 @@
 ---
 title: "Huabo Gong"
 description: "Huabo Gong is a Mid-career Biochar researcher at Anhui University in CN. With 20 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.290284
+date: 2026-08-11T01:33:11.258142
 url: "/cdr-researcher-census/researchers/huabo-gong-a5005463/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A sustainable reuse strategy of converting waste activated sludge into biochar for contaminants removal from water: Modifications, applications and perspectives** (2022)
-   153 citations · Biochar
+   155 citations · Biochar
 
 ## External Profiles
 

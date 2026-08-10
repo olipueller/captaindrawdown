@@ -1,7 +1,7 @@
 ---
 title: "Daijia Fan"
 description: "Daijia Fan is a Mid-career Soil Carbon researcher at Beijing Academy of Agricultural and Forestry Sciences in CN. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.443682
+date: 2026-08-11T01:33:11.393419
 url: "/cdr-researcher-census/researchers/daijia-fan-a5020798/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Integrating straw return and tillage practices to enhance soil organic carbon sequestration in wheat–maize rotation systems in the North China Plain** (2025)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 2. **Integrating Straw Return and Tillage Practices to Enhance Soil Organic Carbon Sequestration in Wheat-Maize Rotation Systems in North China** (2024)
    0 citations · Soil Carbon

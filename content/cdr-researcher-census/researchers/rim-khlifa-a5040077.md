@@ -1,7 +1,7 @@
 ---
 title: "Rim Khlifa"
 description: "Rim Khlifa is a Mid-career Soil Carbon researcher at Université du Québec à Montréal in CA. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.794420
+date: 2026-08-11T01:33:11.705289
 url: "/cdr-researcher-census/researchers/rim-khlifa-a5040077/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Tree identity and diversity directly affect soil moisture and temperature but not soil carbon ten years after planting** (2022)
-   26 citations
+   28 citations
 
 2. **Stability of carbon pools and fluxes of a Technosol along a 7-year reclamation chronosequence at an asbestos mine in Canada** (2022)
    13 citations · Soil Carbon

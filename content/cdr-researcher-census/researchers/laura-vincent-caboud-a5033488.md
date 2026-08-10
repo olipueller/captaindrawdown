@@ -1,7 +1,7 @@
 ---
 title: "Laura Vincent-Caboud"
 description: "Laura Vincent-Caboud is a Mid-career Soil Carbon researcher at Agroécologie in FR. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.779125
+date: 2026-08-11T01:33:11.691589
 url: "/cdr-researcher-census/researchers/laura-vincent-caboud-a5033488/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Reduced tillage in organic farming affects soil organic carbon stocks in temperate Europe** (2021)
-   129 citations · Soil Carbon
+   130 citations · Soil Carbon
 
 2. **Carbon sequestration by organc conservation tillage - A comprehenisve sampling campaign in nine European long-term trials** (2021)
    0 citations

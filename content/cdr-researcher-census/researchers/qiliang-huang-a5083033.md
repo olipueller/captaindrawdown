@@ -1,7 +1,7 @@
 ---
 title: "Qiliang Huang"
 description: "Qiliang Huang is a Mid-career Soil Carbon researcher at Sanya University in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.529167
+date: 2026-08-11T01:33:12.380364
 url: "/cdr-researcher-census/researchers/qiliang-huang-a5083033/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations
 
 4. **Triple impact: Biochar, no-tillage, and cover crops for soil carbon enhancement and climate resilience in soybean farming** (2024)
-   4 citations · Biochar
+   5 citations · Biochar
 
 5. **No-tillage intercropping with a robotic mower: Advancing a high productivity, low-carbon and energy-efficient organic farming system** (2025)
    2 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Mei Zhang"
 description: "Mei Zhang is a Mid-career Soil Carbon researcher at Henan University of Science and Technology in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.232518
+date: 2026-08-11T01:33:12.112692
 url: "/cdr-researcher-census/researchers/mei-zhang-a5083366/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,10 +50,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Effect of afforestation mode on rhizosphere soil physicochemical properties and bacterial community structure of two major tree species in Xiong’an New Area** (2022)
-   21 citations · Soil Carbon
+1. **Improving Effects of Afforestation with Different Forest Types on Soil Nutrients and Bacterial Community in Barren Hills of North China** (2022)
+   22 citations · Soil Carbon
 
-2. **Improving Effects of Afforestation with Different Forest Types on Soil Nutrients and Bacterial Community in Barren Hills of North China** (2022)
+2. **Effect of afforestation mode on rhizosphere soil physicochemical properties and bacterial community structure of two major tree species in Xiong’an New Area** (2022)
    21 citations · Soil Carbon
 
 ## External Profiles

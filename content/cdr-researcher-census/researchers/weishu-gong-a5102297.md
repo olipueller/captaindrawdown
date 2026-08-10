@@ -1,7 +1,7 @@
 ---
 title: "Weishu Gong"
 description: "Weishu Gong is a Mid-career Soil Carbon researcher at University of Maryland, College Park in US. With 33 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.340098
+date: 2026-08-11T01:33:11.303026
 url: "/cdr-researcher-census/researchers/weishu-gong-a5102297/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of land use and cover change (LUCC) on terrestrial carbon stocks in China between 2000 and 2018** (2022)
-   264 citations · Soil Carbon
+   269 citations · Soil Carbon
 
 2. **Net Forest Carbon Loss Induced by Forest Cover Change and Compound Drought and Heat Events in Two Regions of China** (2024)
    2 citations · Soil Carbon

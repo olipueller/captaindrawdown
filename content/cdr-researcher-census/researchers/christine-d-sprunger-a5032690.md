@@ -1,7 +1,7 @@
 ---
 title: "Christine D. Sprunger"
 description: "Christine D. Sprunger is a Senior Soil Carbon researcher at Michigan State University in US. With 63 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.320325
+date: 2026-08-11T01:33:11.286092
 url: "/cdr-researcher-census/researchers/christine-d-sprunger-a5032690/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    30 citations · Soil Carbon
 
 2. **Greenhouse gas mitigation on croplands: clarifying the debate on knowns, unknowns and risks to move forward with effective management interventions** (2024)
-   23 citations · General CDR
+   24 citations · General CDR
 
 3. **Nematodes require space: The relationship between nematode community assemblage and soil carbon across varying aggregate fractions** (2023)
-   17 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 4. **Nematodes Require Space: The Relationship between Nematode Community Assemblage and Soil Carbon Across Varying Aggregate Sizes** (2023)
    0 citations · Soil Carbon

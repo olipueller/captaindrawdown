@@ -1,7 +1,7 @@
 ---
 title: "Alexander P. Bump"
 description: "Alexander P. Bump is a Senior General CDR researcher at Bureau of Economic Analysis in US. With 46 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.394605
+date: 2026-08-11T01:33:11.349850
 url: "/cdr-researcher-census/researchers/alexander-p-bump-a5001004/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Roads to Removal: Options for Carbon Dioxide Removal in the United States** (2023)
-   60 citations · General CDR
+   61 citations · General CDR
 
 2. **Estimating CO2 Storage Capacity, Injectivity, and Storage Costs for Large Scale CCS Deployment &amp;amp; Carbon Dioxide Removal Goals** (2024)
    3 citations · General CDR

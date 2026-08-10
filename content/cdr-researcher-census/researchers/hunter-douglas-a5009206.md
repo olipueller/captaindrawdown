@@ -1,7 +1,7 @@
 ---
 title: "Hunter Douglas"
 description: "Hunter Douglas is a Mid-career General CDR researcher. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.938879
+date: 2026-08-11T01:33:11.834798
 url: "/cdr-researcher-census/researchers/hunter-douglas-a5009206/"
 layout: "researcher"
 hiddenInHomeList: true

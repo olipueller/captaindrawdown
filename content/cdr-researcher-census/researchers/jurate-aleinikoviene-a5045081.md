@@ -1,7 +1,7 @@
 ---
 title: "Jūratė Aleinikovienė"
 description: "Jūratė Aleinikovienė is a Mid-career Soil Carbon researcher at Vytautas Magnus University in LT. With 58 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.776926
+date: 2026-08-11T01:33:11.689698
 url: "/cdr-researcher-census/researchers/jurate-aleinikoviene-a5045081/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Innovative Organic Fertilizers and Cover Crops: Perspectives for Sustainable Agriculture in the Era of Climate Change and Organic Agriculture** (2024)
-   119 citations · General CDR
+   132 citations · General CDR
 
 2. **Climate, Soil, and Microbes: Interactions Shaping Organic Matter Decomposition in Croplands** (2025)
-   43 citations · Soil Carbon
+   49 citations · Soil Carbon
 
 3. **Evaluation of Soil Organic Carbon Stability in Different Land Uses in Lithuania** (2023)
    6 citations · Soil Carbon

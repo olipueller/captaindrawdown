@@ -1,7 +1,7 @@
 ---
 title: "Osamu Nishiura"
 description: "Osamu Nishiura is a Mid-career General CDR researcher at International Institute for Applied Systems Analysis in AT. With 33 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.439992
+date: 2026-08-11T01:33:12.297326
 url: "/cdr-researcher-census/researchers/osamu-nishiura-a5037582/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    13 citations · General CDR
 
 2. **International financial support to achieve the net-zero emissions goal could help resolve equity trade-off between developing and developed countries** (2026)
-   3 citations · General CDR
+   4 citations · General CDR
 
 3. **JMIP 2 Part 1: Technology uncertainty and robustness in Japan’s net-zero pathways** (2025)
    3 citations · General CDR

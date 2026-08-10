@@ -1,7 +1,7 @@
 ---
 title: "Suman Dutta"
 description: "Suman Dutta is a Senior General CDR researcher at Ramakrishna Mission Vivekananda Educational and Research Institute in IN. With 118 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.337163
+date: 2026-08-11T01:33:11.300647
 url: "/cdr-researcher-census/researchers/suman-dutta-a5102895/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Bamboo for global sustainability: a systematic review of its environmental and ecological implications, climate action, and biodiversity contributions** (2025)
-   20 citations · General CDR
+   25 citations · General CDR
 
 2. **Harnessing green wealth: A two-decade global assessment of forest carbon sequestration and credits and the economic implications of sustainable forest management practices** (2025)
-   18 citations · General CDR
+   20 citations · General CDR
 
 3. **Mangroves in the Anthropocene: A global synthesis of carbon storage, biodiversity, and coastal resilience under climate and anthropogenic stressors** (2026)
-   5 citations · General CDR
+   10 citations · General CDR
 
 4. **Nature-Based Solutions (NbS) for Restoration and Management of Dryland Ecosystems** (2025)
    1 citations · General CDR

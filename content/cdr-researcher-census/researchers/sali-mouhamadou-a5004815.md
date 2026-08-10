@@ -1,7 +1,7 @@
 ---
 title: "Sali Mouhamadou"
 description: "Sali Mouhamadou is a Mid-career Biochar researcher at University of Maroua in CM. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.162246
+date: 2026-08-11T01:33:12.048686
 url: "/cdr-researcher-census/researchers/sali-mouhamadou-a5004815/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Synthesis of piliostigma reticulatum decorated TiO2 based composite and its application towards Cr(VI) adsorption and bromophenol blue degradation: Nonlinear kinetics, equilibrium modelling and optimisation photocatalytic parameters** (2023)
-   30 citations
+   31 citations
 
 2. **Biochar based on biowaste from date seeds modified with g-C3N4 for the removal of methylene blue dye from an aqueous solution** (2026)
    0 citations · Biochar

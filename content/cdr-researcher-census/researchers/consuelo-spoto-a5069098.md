@@ -1,7 +1,7 @@
 ---
 title: "Consuelo Spoto"
 description: "Consuelo Spoto is a Mid-career Biochar researcher at Polytechnic University of Turin in IT. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.181949
+date: 2026-08-11T01:33:12.066524
 url: "/cdr-researcher-census/researchers/consuelo-spoto-a5069098/"
 layout: "researcher"
 hiddenInHomeList: true

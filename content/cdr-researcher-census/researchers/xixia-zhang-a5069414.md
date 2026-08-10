@@ -1,7 +1,7 @@
 ---
 title: "Xixia Zhang"
 description: "Xixia Zhang is a Mid-career Biochar researcher at Shandong University in CN. With 18 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.600468
+date: 2026-08-11T01:33:11.530540
 url: "/cdr-researcher-census/researchers/xixia-zhang-a5069414/"
 layout: "researcher"
 hiddenInHomeList: true

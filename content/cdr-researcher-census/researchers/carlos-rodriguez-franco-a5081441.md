@@ -1,7 +1,7 @@
 ---
 title: "Carlos Rodriguez-Franco"
 description: "Carlos Rodriguez-Franco is a Mid-career Biochar researcher at US Forest Service in US. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.057375
+date: 2026-08-11T01:33:11.931334
 url: "/cdr-researcher-census/researchers/carlos-rodriguez-franco-a5081441/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Chinmoy Baroi"
 description: "Chinmoy Baroi is a Senior DAC researcher at Idaho National Laboratory in US. With 38 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.361289
+date: 2026-08-11T01:33:11.321913
 url: "/cdr-researcher-census/researchers/chinmoy-baroi-a5040576/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -65,10 +65,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 5. **Direct Air Capture and Utilization System (DACUS): FEED Study of CarbonCapture Inc. DAC and CarbonCure Utilization Technologies Using United States Steel’s Gary Works Plant Waste Heat** (2024)
    0 citations · DAC
 
-6. **Florida Regional Direct Air Capture (DAC) Hub** (2024)
+6. **Capture and In-Situ Conversion of CO2 Using Novel Plasma Technology Under Ambient Conditions** (2024)
+   0 citations
+
+7. **Florida Regional Direct Air Capture (DAC) Hub** (2024)
    0 citations · DAC
 
-7. **Illinois Basin Direct Air Capture (DAC) Hub: A Master Planned Community** (2024)
+8. **Illinois Basin Direct Air Capture (DAC) Hub: A Master Planned Community** (2024)
    0 citations · DAC
 
 ## External Profiles

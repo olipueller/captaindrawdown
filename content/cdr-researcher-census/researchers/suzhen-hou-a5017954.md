@@ -1,7 +1,7 @@
 ---
 title: "Suzhen Hou"
 description: "Suzhen Hou is a Mid-career Biochar researcher at Hunan University in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.983202
+date: 2026-08-11T01:33:11.861293
 url: "/cdr-researcher-census/researchers/suzhen-hou-a5017954/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    17 citations · Biochar
 
 2. **Insight into the key factors for the tetracycline removal in biochar-mediated oxidative system** (2024)
-   6 citations · Biochar
+   8 citations · Biochar
 
 3. **Removal of Pb2+ by Sludge-Based Biochar Modified by the Silica Derived from Rice Husk** (2023)
    0 citations · Biochar

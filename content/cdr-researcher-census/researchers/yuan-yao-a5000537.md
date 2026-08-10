@@ -1,7 +1,7 @@
 ---
 title: "Yuan Yao"
 description: "Yuan Yao is a Senior General CDR researcher at Yale University in US. With 114 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.118150
+date: 2026-08-11T01:33:11.097288
 url: "/cdr-researcher-census/researchers/yuan-yao-a5000537/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,11 +53,11 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 1. **An integrated techno-economic and environmental assessment for carbon capture in hydrogen production by biomass gasification** (2022)
    139 citations · BECCS
 
-2. **Roads to Removal: Options for Carbon Dioxide Removal in the United States** (2023)
-   60 citations · General CDR
+2. **Sustainable aviation fuel pathways: Emissions, costs and uncertainty** (2025)
+   64 citations · BECCS
 
-3. **Sustainable aviation fuel pathways: Emissions, costs and uncertainty** (2025)
-   56 citations · BECCS
+3. **Roads to Removal: Options for Carbon Dioxide Removal in the United States** (2023)
+   61 citations · General CDR
 
 4. **Techno-Economic and Life Cycle Assessment of Enhanced Rock Weathering: A Case Study from the Midwestern United States** (2023)
    33 citations · Enhanced Weathering
@@ -66,12 +66,18 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    29 citations · Biochar
 
 6. **Life Cycle Assessment in the Monitoring, Reporting, and Verification of Land-Based Carbon Dioxide Removal: Gaps and Opportunities** (2025)
-   24 citations · General CDR
+   26 citations · General CDR
 
 7. **Correction to “Techno-Economic and Life Cycle Assessment of Enhanced Rock Weathering: A Case Study from the Midwestern United States”** (2023)
    2 citations · Enhanced Weathering
 
-8. **Machine learning-assisted global life cycle assessment for sustainable biochar design** (2025)
+8. **An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering** (2026)
+   0 citations · Enhanced Weathering
+
+9. **Integrated Thermal and Phyto-Remediation of Agricultural Soils Impacted by PFAS** (2025)
+   0 citations · Biochar
+
+10. **Machine learning-assisted global life cycle assessment for sustainable biochar design** (2025)
    0 citations · Biochar
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Taizhuo Ma"
 description: "Taizhuo Ma is a Mid-career Biochar researcher at Northeastern University in CN. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.068100
+date: 2026-08-11T01:33:11.962567
 url: "/cdr-researcher-census/researchers/taizhuo-ma-a5033118/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Embedding cobalt nanoparticles into atomically dispersed cobalt-nitrogen-biochar to promote high-valent cobalt-oxo generation in peracetic acid activation for organics oxidation and mechanism** (2025)
-   4 citations · Biochar
+   6 citations · Biochar
 
 ## External Profiles
 

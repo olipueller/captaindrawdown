@@ -1,7 +1,7 @@
 ---
 title: "Shukla Neha"
 description: "Shukla Neha is a Mid-career Biochar researcher at Aarhus University in DK. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.678129
+date: 2026-08-11T01:33:11.600110
 url: "/cdr-researcher-census/researchers/shukla-neha-a5020329/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar from microwave co-pyrolysis of food waste and polyethylene using different microwave susceptors – Production, modification and application for metformin removal** (2022)
-   37 citations · Biochar
+   38 citations · Biochar
 
 ## External Profiles
 

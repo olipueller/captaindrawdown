@@ -1,7 +1,7 @@
 ---
 title: "Chuangji Feng"
 description: "Chuangji Feng is an Early-career Enhanced Weathering researcher at Xinjiang Institute of Engineering in CN. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.377815
+date: 2026-08-11T01:33:12.239960
 url: "/cdr-researcher-census/researchers/chuangji-feng-a5101194/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Enhanced silicate weathering during glacial lowstands: new evidence from shelf sediments in the northern South China Sea** (2025)
-   0 citations · Enhanced Weathering
+   1 citations · Enhanced Weathering
 
 2. **Enhanced Silicate Weathering During Glacial Lowstands: New Evidence from Shelf Sediments in the Northern South China Sea** (2024)
    0 citations · Enhanced Weathering

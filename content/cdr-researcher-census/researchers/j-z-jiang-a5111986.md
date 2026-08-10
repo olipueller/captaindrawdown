@@ -1,7 +1,7 @@
 ---
 title: "J. Z. Jiang"
 description: "J. Z. Jiang is a Mid-career Biochar researcher at Tianjin University of Technology in CN. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.111509
+date: 2026-08-11T01:33:12.001962
 url: "/cdr-researcher-census/researchers/j-z-jiang-a5111986/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Xiaomin Zhu"
 description: "Xiaomin Zhu is a Mid-career Soil Carbon researcher at Aarhus University in DK. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.637031
+date: 2026-08-11T01:33:11.563810
 url: "/cdr-researcher-census/researchers/xiaomin-zhu-a5089831/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Divergent Microbial Metabolic Limitations Across Soil Depths After Two Decades of High Nitrogen Inputs in a Primary Tropical Forest** (2025)
-   18 citations · Soil Carbon
+   22 citations · Soil Carbon
 
-2. **From heterotrophic priming to autotrophic CO₂ fixation: biochar-driven shifts in microbial turnover of soil carbon** (2026)
+2. **Nitrogen biogeochemical cycling in forest ecosystems with the globalization of nitrogen deposition** (2026)
+   1 citations · General CDR
+
+3. **From heterotrophic priming to autotrophic CO₂ fixation: biochar-driven shifts in microbial turnover of soil carbon** (2026)
    0 citations · Biochar
-
-3. **Nitrogen biogeochemical cycling in forest ecosystems with the globalization of nitrogen deposition** (2026)
-   0 citations · General CDR
 
 4. **Microbial-derived carbon is a major contributor to rhizosphere soil organic carbon accumulation in alpine coniferous forests** (2024)
    0 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Sandip Mandal"
 description: "Sandip Mandal is a Senior Biochar researcher at Central Institute of Agricultural Engineering in IN. With 52 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.433425
+date: 2026-08-11T01:33:11.384407
 url: "/cdr-researcher-census/researchers/sandip-mandal-a5101703/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Characterization, bioenergy value, and thermal stability of biochars derived from diverse agriculture and forestry lignocellulosic wastes** (2021)
-   87 citations · Biochar
+   88 citations · Biochar
 
 2. **Prospects of Biochar for Sustainable Agriculture and Carbon Sequestration: An Overview for Eastern Himalayas** (2022)
-   57 citations · Biochar
+   58 citations · Biochar
 
 3. **Crop waste conversion into biochar: an overview** (2024)
    3 citations · Biochar

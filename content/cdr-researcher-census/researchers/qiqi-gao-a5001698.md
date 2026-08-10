@@ -1,7 +1,7 @@
 ---
 title: "Qiqi Gao"
 description: "Qiqi Gao is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.003158
+date: 2026-08-11T01:33:11.880208
 url: "/cdr-researcher-census/researchers/qiqi-gao-a5001698/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,11 +47,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Conservation farming prefers restoring plant lignin and microbial necromass in the particulate to mineral‐associated organic matter** (2025)
+1. **Conservation Tillage Increases Carbon Storage by Regulating Mineral‐Mediated Aggregate Stability and Carbon Chemistry** (2025)
    2 citations · Soil Carbon
 
-2. **Conservation Tillage Increases Carbon Storage by Regulating Mineral‐Mediated Aggregate Stability and Carbon Chemistry** (2025)
-   1 citations · Soil Carbon
+2. **Conservation farming prefers restoring plant lignin and microbial necromass in the particulate to mineral‐associated organic matter** (2025)
+   2 citations · Soil Carbon
 
 ## External Profiles
 

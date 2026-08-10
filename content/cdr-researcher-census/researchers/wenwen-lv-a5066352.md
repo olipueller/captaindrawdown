@@ -1,7 +1,7 @@
 ---
 title: "Wenwen Lv"
 description: "Wenwen Lv is a Mid-career Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.256974
+date: 2026-08-11T01:33:12.134540
 url: "/cdr-researcher-census/researchers/wenwen-lv-a5066352/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -56,7 +56,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 2. **Impacts of Afforestation on Soil Organic Carbon Dynamics Along the Aridity Gradient in China** (2026)
    1 citations · Soil Carbon
 
-3. **SOC Erosion Reduction of the “Grain for Green” Project on the Loess Plateau, China** (2025)
+3. **Nitrogen‐Fixing Woody Plants Sequester More Soil Mineral‐Associated Carbon and Lose Less Particulate Carbon Than Herbs Post Vegetation Restoration** (2026)
+   0 citations · Soil Carbon
+
+4. **SOC Erosion Reduction of the “Grain for Green” Project on the Loess Plateau, China** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

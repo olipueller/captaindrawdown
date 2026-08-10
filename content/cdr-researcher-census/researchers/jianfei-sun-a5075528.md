@@ -1,7 +1,7 @@
 ---
 title: "Jianfei Sun"
 description: "Jianfei Sun is a Senior Soil Carbon researcher at Guangxi University in CN. With 34 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.292923
+date: 2026-08-11T01:33:11.260410
 url: "/cdr-researcher-census/researchers/jianfei-sun-a5075528/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Green manure rotation and application increase rice yield and soil carbon in the Yangtze River valley of China** (2022)
-   23 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 2. **The importance of fine root protection in topsoil carbon and nitrogen sequestration following land-use changes on sloping karst ecosystems** (2022)
    15 citations · Soil Carbon
 
 3. **Heavy metal contamination threats carbon sequestration of paddy soils with an attenuated microbial anabolism** (2025)
-   5 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 4. **Rotation with Green Manure Increased Rice Yield and Soil Carbon in Paddies from Yangtze River Valley, China** (2022)
    2 citations · Soil Carbon

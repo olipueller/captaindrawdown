@@ -1,7 +1,7 @@
 ---
 title: "Lining Zhao"
 description: "Lining Zhao is a Senior Biochar researcher at Xinjiang Agricultural University in CN. With 40 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.558028
+date: 2026-08-11T01:33:11.492110
 url: "/cdr-researcher-census/researchers/lining-zhao-a5101781/"
 layout: "researcher"
 hiddenInHomeList: true

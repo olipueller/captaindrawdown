@@ -1,7 +1,7 @@
 ---
 title: "Omar D. Dacres"
 description: "Omar D. Dacres is a Mid-career Biochar researcher at Technical University of Munich in DE. With 19 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.464293
+date: 2026-08-11T01:33:11.410036
 url: "/cdr-researcher-census/researchers/omar-d-dacres-a5028610/"
 layout: "researcher"
 hiddenInHomeList: true

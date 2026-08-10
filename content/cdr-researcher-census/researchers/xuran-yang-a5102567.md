@@ -1,7 +1,7 @@
 ---
 title: "Xuran Yang"
 description: "Xuran Yang is a Mid-career Biochar researcher at Nanjing University of Science and Technology in CN. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.147384
+date: 2026-08-11T01:33:12.035442
 url: "/cdr-researcher-census/researchers/xuran-yang-a5102567/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Recent Progress in Sludge-Derived Biochar and Its Role in Wastewater Purification** (2024)
-   20 citations · Biochar
+   21 citations · Biochar
 
 ## External Profiles
 

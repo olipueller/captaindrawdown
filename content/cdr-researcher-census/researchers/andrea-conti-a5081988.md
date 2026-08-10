@@ -1,7 +1,7 @@
 ---
 title: "Andrea Conti"
 description: "Andrea Conti is an Early-career Enhanced Weathering researcher at TU Wien in AT. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.350609
+date: 2026-08-11T01:33:12.215162
 url: "/cdr-researcher-census/researchers/andrea-conti-a5081988/"
 layout: "researcher"
 hiddenInHomeList: true

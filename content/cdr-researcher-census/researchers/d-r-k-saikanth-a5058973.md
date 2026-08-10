@@ -1,7 +1,7 @@
 ---
 title: "D. R. K. Saikanth"
 description: "D. R. K. Saikanth is a Mid-career Soil Carbon researcher at Immunotherapy Centre for Prevention of Repeated Miscarriages in IN. With 50 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.494901
+date: 2026-08-11T01:33:11.436183
 url: "/cdr-researcher-census/researchers/d-r-k-saikanth-a5058973/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,13 +48,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil Microbes Expertly Balancing Nutrient Demands and Environmental Preservation and Ensuring the Delicate Stability of Our Ecosystems- A Review** (2023)
-   31 citations · Soil Carbon
+   33 citations · Soil Carbon
 
 2. **Agroforestry and Its Potential for Sustainable Land Management and Climate Action: A Review** (2023)
    28 citations · General CDR
 
 3. **Harnessing Microorganisms for Sustainable Agriculture: Promoting Environmental Protection and Soil Health** (2023)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 4. **A Review on Exploring Carbon Farming as a Strategy to Mitigate Greenhouse Gas Emissions** (2023)
    9 citations · General CDR

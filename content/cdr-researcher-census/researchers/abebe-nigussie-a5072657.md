@@ -1,7 +1,7 @@
 ---
 title: "Abebe Nigussie"
 description: "Abebe Nigussie is a Mid-career Soil Carbon researcher at Jimma University  in ET. With 65 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.264919
+date: 2026-08-11T01:33:11.234106
 url: "/cdr-researcher-census/researchers/abebe-nigussie-a5072657/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -62,7 +62,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Carbon stock dynamics in Sheka forest biosphere reserve, Ethiopia: A 60-year trajectory (1990–2050) and its implications for ecosystem services and conservation** (2025)
    1 citations · General CDR
 
-5. **Soil fertility improvement through Enset-based farming systems in central Ethiopia** (2026)
+5. **Carbon stock dynamics in Sheka forest biosphere reserve, Ethiopia: A 60-year trajectory (1990–2050) and its implications for ecosystem services and conservation** (2025)
+   0 citations
+
+6. **Soil fertility improvement through Enset-based farming systems in central Ethiopia** (2026)
    0 citations
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Chinemerem R. Ohoro"
 description: "Chinemerem R. Ohoro is a Mid-career Biochar researcher at North-West University in ZA. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.939783
+date: 2026-08-11T01:33:11.835499
 url: "/cdr-researcher-census/researchers/chinemerem-r-ohoro-a5092509/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar from coconut residues: An overview of production, properties, and applications** (2023)
-   98 citations · Biochar
+   101 citations · Biochar
 
 ## External Profiles
 

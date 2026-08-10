@@ -1,7 +1,7 @@
 ---
 title: "Soraya McGinley"
 description: "Soraya McGinley is an Early-career Ocean CDR researcher at Australian Government in AU. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.333620
+date: 2026-08-11T01:33:12.200225
 url: "/cdr-researcher-census/researchers/soraya-mcginley-a5114020/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **An Australian blue carbon method to estimate climate change mitigation benefits of coastal wetland restoration** (2022)
-   142 citations · General CDR
+   151 citations · General CDR
 
 ## External Profiles
 

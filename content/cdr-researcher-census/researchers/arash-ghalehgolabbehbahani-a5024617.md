@@ -1,7 +1,7 @@
 ---
 title: "Arash Ghalehgolabbehbahani"
 description: "Arash Ghalehgolabbehbahani is a Mid-career Soil Carbon researcher at Rodale Institute in US. With 22 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.216193
+date: 2026-08-11T01:33:12.097979
 url: "/cdr-researcher-census/researchers/arash-ghalehgolabbehbahani-a5024617/"
 layout: "researcher"
 hiddenInHomeList: true

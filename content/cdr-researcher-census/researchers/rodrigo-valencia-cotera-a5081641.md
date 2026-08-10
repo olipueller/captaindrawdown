@@ -1,7 +1,7 @@
 ---
 title: "Rodrigo Valencia Cotera"
 description: "Rodrigo Valencia Cotera is a Mid-career DAC researcher at Helmholtz-Zentrum Hereon in DE. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.521838
+date: 2026-08-11T01:33:12.373335
 url: "/cdr-researcher-census/researchers/rodrigo-valencia-cotera-a5081641/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Criteria for effective site selection of direct air capture and storage projects** (2024)
-   6 citations · DAC
+   7 citations · DAC
 
 2. **Clearing the air: Public sentiment on DACCS in Germany** (2026)
    1 citations · DAC

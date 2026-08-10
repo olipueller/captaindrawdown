@@ -1,7 +1,7 @@
 ---
 title: "Tongping Lu"
 description: "Tongping Lu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 21 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.888555
+date: 2026-08-11T01:33:11.789303
 url: "/cdr-researcher-census/researchers/tongping-lu-a5049924/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Impacts of continuous biochar application on major carbon fractions in soil profile of North China Plain’s cropland: In comparison with straw incorporation** (2021)
-   43 citations · Biochar
+   44 citations · Biochar
 
 2. **Impacts of biochar amendment and straw incorporation on soil heterotrophic respiration and desorption of soil organic carbon** (2023)
    10 citations · Biochar

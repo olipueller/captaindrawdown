@@ -1,7 +1,7 @@
 ---
 title: "Ana Moreno-Delafuente"
 description: "Ana Moreno-Delafuente is a Mid-career Soil Carbon researcher at Institute of Agrifood Research and Technology in ES. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.763713
+date: 2026-08-11T01:33:11.678074
 url: "/cdr-researcher-census/researchers/ana-moreno-delafuente-a5058214/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Daniel Hospital-Benito"
 description: "Daniel Hospital-Benito is a Mid-career DAC researcher at Universidad Autonoma de Madrid Facultad de Ciencias in ES. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.898262
+date: 2026-08-11T01:33:11.797865
 url: "/cdr-researcher-census/researchers/daniel-hospital-benito-a5074595/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Aspen plus supported design of pre-combustion CO2 capture processes based on ionic liquids** (2022)
-   63 citations
+   65 citations
 
 2. **Direct air capture based on ionic liquids: From molecular design to process assessment** (2023)
-   54 citations
+   56 citations
 
 3. **Exploiting process thermodynamics in carbon capture from direct air to industrial sources: The paradigmatic case of ionic liquids** (2024)
    6 citations · DAC

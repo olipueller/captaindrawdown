@@ -1,7 +1,7 @@
 ---
 title: "Jia Yen Lai"
 description: "Jia Yen Lai is a Senior DAC researcher. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.780478
+date: 2026-08-11T01:33:11.692723
 url: "/cdr-researcher-census/researchers/jia-yen-lai-a5051044/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **A review of CO<sub>2</sub> adsorbents performance for different carbon capture technology processes conditions** (2021)
-   165 citations · DAC
+   169 citations · DAC
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Andrey Lessa Derci Augustynczik"
 description: "Andrey Lessa Derci Augustynczik is a Mid-career General CDR researcher at IIASA in AT. With 78 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.298827
+date: 2026-08-11T01:33:11.266030
 url: "/cdr-researcher-census/researchers/andrey-lessa-derci-augustynczik-a5067345/"
 layout: "researcher"
 hiddenInHomeList: true

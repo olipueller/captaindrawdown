@@ -1,7 +1,7 @@
 ---
 title: "Beverley Henry"
 description: "Beverley Henry is a Senior Soil Carbon researcher at Queensland University of Technology in AU. With 66 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.154306
+date: 2026-08-11T01:33:11.131223
 url: "/cdr-researcher-census/researchers/beverley-henry-a5035181/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil carbon sequestration in rangelands: a critical review of the impacts of major management strategies** (2024)
-   27 citations · General CDR
+   31 citations · General CDR
 
 2. **The role of soil carbon sequestration in enhancing human resilience in tackling global crises including pandemics** (2022)
-   27 citations · General CDR
+   29 citations · General CDR
 
 3. **Current NPP cannot predict future soil organic carbon sequestration potential. Comment on “Photosynthetic limits on carbon sequestration in croplands”** (2022)
-   25 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 4. **Creating frameworks to foster soil carbon sequestration** (2022)
    16 citations · General CDR

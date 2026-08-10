@@ -1,7 +1,7 @@
 ---
 title: "Yaojun Zhu"
 description: "Yaojun Zhu is a Mid-career Ocean CDR researcher at Zhanjiang Experimental Station in CN. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.437420
+date: 2026-08-11T01:33:12.294875
 url: "/cdr-researcher-census/researchers/yaojun-zhu-a5101008/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Soil organic carbon contents and their major influencing factors in mangrove tidal flats: a comparison between estuarine and non-estuarine areas** (2025)
-   13 citations · Ocean CDR
+   17 citations · Ocean CDR
 
 ## External Profiles
 

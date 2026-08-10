@@ -1,7 +1,7 @@
 ---
 title: "Kalilur Rahiman Arshad Ahmed"
 description: "Kalilur Rahiman Arshad Ahmed is a Mid-career DAC researcher at Anna University, Chennai in IN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.199100
+date: 2026-08-11T01:33:12.082016
 url: "/cdr-researcher-census/researchers/kalilur-rahiman-arshad-ahmed-a5091434/"
 layout: "researcher"
 hiddenInHomeList: true

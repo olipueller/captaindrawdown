@@ -1,7 +1,7 @@
 ---
 title: "Fabian Gievers"
 description: "Fabian Gievers is a Mid-career Biochar researcher. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.908035
+date: 2026-08-11T01:33:11.806671
 url: "/cdr-researcher-census/researchers/fabian-gievers-a5031997/"
 layout: "researcher"
 hiddenInHomeList: true

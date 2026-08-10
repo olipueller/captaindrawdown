@@ -1,7 +1,7 @@
 ---
 title: "Tobias Linke"
 description: "Tobias Linke is a Mid-career Enhanced Weathering researcher at Universität Hamburg in DE. With 42 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.245982
+date: 2026-08-11T01:33:12.125109
 url: "/cdr-researcher-census/researchers/tobias-linke-a5081151/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,28 +54,28 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    10 citations
 
 3. **Soil processes govern alkalinity and cation retention in enhanced weathering for carbon dioxide removal** (2025)
-   1 citations · Enhanced Weathering
+   2 citations · Enhanced Weathering
 
 4. **Supplementary material to "Soil processes govern alkalinity and cation retention in enhanced weathering for carbon dioxide removal"** (2025)
    1 citations · Enhanced Weathering
 
-5. **Potential of combining biochar and enhanced weathering and impacts on soil organic carbon and biomass: PyMiCCS project results** (2026)
+5. **An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering** (2026)
+   0 citations · Enhanced Weathering
+
+6. **Potential of combining biochar and enhanced weathering and impacts on soil organic carbon and biomass: PyMiCCS project results** (2026)
    0 citations · Biochar
 
-6. **Rock/soil interactions governing alkalinity release and cation retention in greenhouse enhanced weathering experiments** (2026)
+7. **Rock/soil interactions governing alkalinity release and cation retention in greenhouse enhanced weathering experiments** (2026)
    0 citations · Enhanced Weathering
 
-7. **Comment on egusphere-2025-5402** (2026)
+8. **Comment on egusphere-2025-5402** (2026)
    0 citations · Enhanced Weathering
 
-8. **Iron Dynamics in Basalt-rich Andosols – Implications for Enhanced Rock Weathering** (2025)
+9. **Iron Dynamics in Basalt-rich Andosols – Implications for Enhanced Rock Weathering** (2025)
    0 citations · Enhanced Weathering
 
-9. **Direct evidence of CO<sub>2</sub> drawdown through Enhanced Rock Weathering in carbon rich soils** (2024)
+10. **Direct evidence of CO<sub>2</sub> drawdown through Enhanced Rock Weathering in carbon rich soils** (2024)
    0 citations · Enhanced Weathering
-
-10. **Synergistic effects of co-application and co-pyrolysis of biochar and enhanced weathering materials for CO2 removal in an Oxisol** (2025)
-   0 citations · Biochar
 
 ## External Profiles
 

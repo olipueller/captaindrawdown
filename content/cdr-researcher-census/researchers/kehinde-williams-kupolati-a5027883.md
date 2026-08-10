@@ -1,7 +1,7 @@
 ---
 title: "Kehinde Williams Kupolati"
 description: "Kehinde Williams Kupolati is a Mid-career General CDR researcher at Tshwane University of Technology in ZA. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.890181
+date: 2026-08-11T01:33:11.790631
 url: "/cdr-researcher-census/researchers/kehinde-williams-kupolati-a5027883/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **A Review on Polymer Nanocomposites and Their Effective Applications in Membranes and Adsorbents for Water Treatment and Gas Separation** (2021)
-   205 citations · General CDR
+   209 citations · General CDR
 
 ## External Profiles
 

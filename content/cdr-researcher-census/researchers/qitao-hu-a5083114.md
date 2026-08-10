@@ -1,7 +1,7 @@
 ---
 title: "Qitao Hu"
 description: "Qitao Hu is a Mid-career General CDR researcher at Macau University of Science and Technology in MO. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.369174
+date: 2026-08-11T01:33:12.231900
 url: "/cdr-researcher-census/researchers/qitao-hu-a5083114/"
 layout: "researcher"
 hiddenInHomeList: true

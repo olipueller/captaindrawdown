@@ -1,7 +1,7 @@
 ---
 title: "Nilda Braga de Lacerda"
 description: "Nilda Braga de Lacerda is a Senior Soil Carbon researcher at Universidade Federal do Ceará in BR. With 12 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.262101
+date: 2026-08-11T01:33:12.138508
 url: "/cdr-researcher-census/researchers/nilda-braga-de-lacerda-a5110250/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Organic matter pools in a fluvisol after 29 years under different land uses in an irrigation region in northeast Brazil** (2022)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Jocelyn M. Lavallee"
 description: "Jocelyn M. Lavallee is a Senior Soil Carbon researcher at Environmental Defense Fund in US. With 67 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.094308
+date: 2026-08-11T01:33:11.074842
 url: "/cdr-researcher-census/researchers/jocelyn-m-lavallee-a5004577/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,30 +51,33 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Different climate sensitivity of particulate and mineral-associated soil organic matter** (2021)
-   526 citations · Soil Carbon
+   543 citations · Soil Carbon
 
 2. **Soil Carbon Saturation: What Do We Really Know?** (2025)
-   109 citations · Soil Carbon
+   121 citations · Soil Carbon
 
 3. **The robust concept of mineral‐associated organic matter saturation: A letter to Begill et al., 2023** (2023)
-   32 citations · Soil Carbon
+   33 citations · Soil Carbon
 
 4. **The need for knowledge transfer and communication among stakeholders in the voluntary carbon market** (2022)
    26 citations · General CDR
 
 5. **Greenhouse gas mitigation on croplands: clarifying the debate on knowns, unknowns and risks to move forward with effective management interventions** (2024)
-   23 citations · General CDR
+   24 citations · General CDR
 
 6. **Climate mitigation through soil amendments: quantification, evidence, and uncertainty** (2023)
    18 citations · General CDR
 
-7. **The Soil Innovation Partnership – United by Soil, Driven by Impact** (2026)
+7. **Systematic review reveals soil organic carbon benefits of alternative grazing depend on study quality** (2026)
+   0 citations
+
+8. **The Soil Innovation Partnership – United by Soil, Driven by Impact** (2026)
    0 citations · General CDR
 
-8. **Carbon farming in Europe, policies of symbolic reassurance** (2025)
+9. **Carbon farming in Europe, policies of symbolic reassurance** (2025)
    0 citations · General CDR
 
-9. **Divergent controls on particulate and mineral-associated organic carbon formation and persistence** (2023)
+10. **Divergent controls on particulate and mineral-associated organic carbon formation and persistence** (2023)
    0 citations · General CDR
 
 ## External Profiles

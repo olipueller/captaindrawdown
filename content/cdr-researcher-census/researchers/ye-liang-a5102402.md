@@ -1,7 +1,7 @@
 ---
 title: "Ye Liang"
 description: "Ye Liang is a Mid-career Biochar researcher at Zhejiang Normal University in CN. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.922562
+date: 2026-08-11T01:33:11.819674
 url: "/cdr-researcher-census/researchers/ye-liang-a5102402/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Facile preparation of multi-porous biochar from lotus biomass for methyl orange removal: Kinetics, isotherms, and regeneration studies** (2021)
-   82 citations · Biochar
+   85 citations · Biochar
 
 ## External Profiles
 

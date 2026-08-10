@@ -1,7 +1,7 @@
 ---
 title: "Mujun Ye"
 description: "Mujun Ye is a Mid-career Soil Carbon researcher at Gannan Normal University in CN. With 25 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.360400
+date: 2026-08-11T01:33:11.321138
 url: "/cdr-researcher-census/researchers/mujun-ye-a5029641/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Sequestration potential of phytolith occluded carbon in China's paddy rice (Oryza sativa L.) systems** (2021)
-   31 citations · Soil Carbon
+   32 citations · Soil Carbon
 
 2. **Phytolith-occluded carbon in residues and economic benefits under rice/single-season Zizania latifolia rotation** (2022)
-   13 citations · Biochar
+   14 citations · Biochar
 
 3. **Native Grasses Enhance Topsoil Organic Carbon and Nitrogen by Improving Soil Aggregates and Microbial Communities in Navel Orange Orchards in China** (2025)
    1 citations · Soil Carbon

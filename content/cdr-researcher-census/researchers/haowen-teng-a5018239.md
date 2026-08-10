@@ -1,7 +1,7 @@
 ---
 title: "Haowen Teng"
 description: "Haowen Teng is a Mid-career Biochar researcher at Zhejiang Energy Research Institute in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.118371
+date: 2026-08-11T01:33:12.008692
 url: "/cdr-researcher-census/researchers/haowen-teng-a5018239/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Purification mechanism of city tail water by constructed wetland substrate with NaOH-modified corn straw biochar** (2022)
-   61 citations · Biochar
+   62 citations · Biochar
 
 2. **Study on treatment of city tail water by constructed wetland with corn straw biochar substrate** (2022)
-   41 citations · Biochar
+   42 citations · Biochar
 
 3. **Study on city tail water treatment in constructed wetland with straw biochar substrate modified by freeze–thaw cycles** (2022)
    11 citations · Biochar

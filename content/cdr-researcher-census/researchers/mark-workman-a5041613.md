@@ -1,7 +1,7 @@
 ---
 title: "Mark Workman"
 description: "Mark Workman is a Senior General CDR researcher at Imperial College London in GB. With 63 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.260756
+date: 2026-08-11T01:33:11.230430
 url: "/cdr-researcher-census/researchers/mark-workman-a5041613/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Climate policy decision making in contexts of deep uncertainty - from optimisation to robustness** (2021)
-   48 citations · General CDR
+   50 citations · General CDR
 
 2. **The Role of Corporates in Governing Carbon Dioxide Removal: Outlining a Research Agenda** (2022)
    26 citations · General CDR
 
 3. **Developing carbon dioxide removal policy and anticipatory perspectives in the United Kingdom and United States** (2023)
-   19 citations · General CDR
+   20 citations · General CDR
 
 4. **Decision making for net zero policy design and climate action: considerations for improving translation at the research-policy interface: a UK Carbon Dioxide Removal case study** (2023)
    10 citations · General CDR

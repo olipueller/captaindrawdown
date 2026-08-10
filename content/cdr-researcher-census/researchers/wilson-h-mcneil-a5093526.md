@@ -1,7 +1,7 @@
 ---
 title: "Wilson H. McNeil"
 description: "Wilson H. McNeil is an Early-career General CDR researcher at Lawrence Berkeley National Laboratory in US. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.444920
+date: 2026-08-11T01:33:12.302862
 url: "/cdr-researcher-census/researchers/wilson-h-mcneil-a5093526/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Roads to Removal: Options for Carbon Dioxide Removal in the United States** (2023)
-   60 citations · General CDR
+   61 citations · General CDR
 
 2. **Energy Emissions Accounting Methods Can Determine Whether Direct Air Capture with Storage Achieves Net Removal** (2026)
    1 citations · DAC

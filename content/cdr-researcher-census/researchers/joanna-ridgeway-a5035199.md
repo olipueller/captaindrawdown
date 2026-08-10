@@ -1,7 +1,7 @@
 ---
 title: "Joanna Ridgeway"
 description: "Joanna Ridgeway is a Mid-career Soil Carbon researcher at Dartmouth College in US. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.014537
+date: 2026-08-11T01:33:11.890894
 url: "/cdr-researcher-census/researchers/joanna-ridgeway-a5035199/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Plant litter traits control microbial decomposition and drive soil carbon stabilization** (2022)
-   124 citations
+   125 citations
 
 2. **Title: Plant Litter Traits Control Microbial Decomposition and Drive Soil Carbon Stabilization** (2022)
    0 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Miyuru Kannangara"
 description: "Miyuru Kannangara is a Mid-career General CDR researcher at National Research Council Canada in CA. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.428918
+date: 2026-08-11T01:33:11.380657
 url: "/cdr-researcher-census/researchers/miyuru-kannangara-a5003815/"
 layout: "researcher"
 hiddenInHomeList: true

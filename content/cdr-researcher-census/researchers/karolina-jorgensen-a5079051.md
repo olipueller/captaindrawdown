@@ -1,7 +1,7 @@
 ---
 title: "Karolina Jörgensen"
 description: "Karolina Jörgensen is a Mid-career Soil Carbon researcher. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.944734
+date: 2026-08-11T01:33:11.840000
 url: "/cdr-researcher-census/researchers/karolina-jorgensen-a5079051/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Forest management to increase carbon sequestration in boreal Pinus sylvestris forests** (2021)
-   74 citations · Soil Carbon
+   76 citations · Soil Carbon
 
 2. **Links between boreal forest management, soil fungal communities and below‐ground carbon sequestration** (2021)
    48 citations · Soil Carbon

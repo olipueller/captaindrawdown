@@ -1,7 +1,7 @@
 ---
 title: "Warwick Badgery"
 description: "Warwick Badgery is a Senior Soil Carbon researcher at New South Wales Department of Primary Industries in AU. With 130 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.186293
+date: 2026-08-11T01:33:11.160962
 url: "/cdr-researcher-census/researchers/warwick-badgery-a5059656/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Grazing management for soil carbon in Australia: A review** (2023)
-   70 citations · General CDR
+   73 citations · General CDR
 
 2. **Soil carbon sequestration in rangelands: a critical review of the impacts of major management strategies** (2024)
-   27 citations · General CDR
+   31 citations · General CDR
 
 3. **Making soil carbon credits work for climate change mitigation** (2024)
    23 citations · General CDR
 
-4. **Managed grazing incrementally increased soil organic carbon amid larger temporal trends in a temperate pasture system** (2025)
-   7 citations · Soil Carbon
+4. **Quantifying the Positive Effect of Ungulate Herbivory on Living Root‐Derived Soil Organic Carbon Formation: Evidence From an Eight‐Year Simulated Grazing Field Experiment With <scp><sup>13</sup>C</scp> Pulse Labeling** (2025)
+   8 citations · Soil Carbon
 
-5. **Quantifying the Positive Effect of Ungulate Herbivory on Living Root‐Derived Soil Organic Carbon Formation: Evidence From an Eight‐Year Simulated Grazing Field Experiment With <scp><sup>13</sup>C</scp> Pulse Labeling** (2025)
+5. **Managed grazing incrementally increased soil organic carbon amid larger temporal trends in a temperate pasture system** (2025)
    7 citations · Soil Carbon
 
 6. **Stacking Interventions Enhances Carbon Removals and Profitability of Livestock Production Systems** (2025)
-   2 citations · General CDR
+   3 citations · General CDR
 
 7. **The Impact of Land Use Change and Seasonal Conditions on Soil Organic Carbon Stocks are Greater than Those Associated with Grazing Management** (2025)
    0 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Leanne Peixoto"
 description: "Leanne Peixoto is a Senior Soil Carbon researcher at Aarhus University in DK. With 70 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.263073
+date: 2026-08-11T01:33:11.232370
 url: "/cdr-researcher-census/researchers/leanne-peixoto-a5030019/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Legume-based crop diversification reinforces soil health and carbon storage driven by microbial biomass and aggregates** (2023)
-   96 citations · Soil Carbon
+   101 citations · Soil Carbon
 
 2. **Diversified cropping systems benefit soil carbon and nitrogen stocks by increasing aggregate stability: Results of three fractionation methods** (2022)
-   84 citations · Soil Carbon
+   86 citations · Soil Carbon
 
 3. **Frequent carbon input primes decomposition of decadal soil organic matter** (2022)
-   60 citations · Soil Carbon
+   62 citations · Soil Carbon
 
 4. **Marginal land conversion to perennial energy crops with biomass removal enhances soil carbon sequestration** (2022)
    36 citations · Soil Carbon

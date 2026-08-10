@@ -1,7 +1,7 @@
 ---
 title: "Constanze Werner"
 description: "Constanze Werner is a Mid-career General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 28 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.742757
+date: 2026-08-11T01:33:11.658980
 url: "/cdr-researcher-census/researchers/constanze-werner-a5086822/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Potential of Land‐Neutral Negative Emissions Through Biochar Sequestration** (2022)
-   29 citations · Biochar
+   31 citations · Biochar
 
-2. **Responsible carbon dioxide removals and the EU’s 2040 climate target** (2024)
+2. **Multiple planetary boundaries preclude biomass crops for carbon capture and storage outside of agricultural areas** (2025)
+   15 citations · BECCS
+
+3. **Responsible carbon dioxide removals and the EU’s 2040 climate target** (2024)
    13 citations · General CDR
-
-3. **Multiple planetary boundaries preclude biomass crops for carbon capture and storage outside of agricultural areas** (2025)
-   12 citations · BECCS
 
 4. **Netcdf of LCN-PyCCS negative emission potentials as described in Werner et al., 2022 "Potential of land-neutral negative emissions through biochar sequestration"** (2023)
    0 citations

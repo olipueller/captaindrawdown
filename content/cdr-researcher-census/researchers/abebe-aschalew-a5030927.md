@@ -1,7 +1,7 @@
 ---
 title: "Abebe Aschalew"
 description: "Abebe Aschalew is a Mid-career Soil Carbon researcher. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.879611
+date: 2026-08-11T01:33:11.780961
 url: "/cdr-researcher-census/researchers/abebe-aschalew-a5030927/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Impact of land use/cover change and slope gradient on soil organic carbon stock in Anjeni watershed, Northwest Ethiopia** (2023)
-   30 citations · Soil Carbon
+   31 citations · Soil Carbon
 
 ## External Profiles
 

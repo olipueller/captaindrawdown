@@ -1,7 +1,7 @@
 ---
 title: "Takaya Miyazaki"
 description: "Takaya Miyazaki is a Mid-career Biochar researcher at The University of Tokyo in JP. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.441677
+date: 2026-08-11T01:33:12.299121
 url: "/cdr-researcher-census/researchers/takaya-miyazaki-a5048750/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Jennifer Wilcox"
 description: "Jennifer Wilcox is an Eminent General CDR researcher at University of Pennsylvania in US. With 219 publications and an h-index of 63, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.083634
+date: 2026-08-11T01:33:11.065056
 url: "/cdr-researcher-census/researchers/jennifer-wilcox-a5062642/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **A review of direct air capture (DAC): scaling up commercial technologies and innovating for the future** (2021)
-   687 citations · DAC
+   700 citations · DAC
 
 2. **Environmental trade-offs of direct air capture technologies in climate change mitigation toward 2100** (2022)
-   152 citations · DAC
+   154 citations · DAC
 
 3. **Atmospheric methane removal: a research agenda** (2021)
    125 citations · General CDR
 
 4. **Natural Gas vs. Electricity for Solvent-Based Direct Air Capture** (2021)
-   88 citations
+   90 citations
 
 5. **An ecosystem of carbon dioxide removal reviews – part 1: direct air CO <sub>2</sub> capture and storage** (2025)
-   32 citations · General CDR
+   38 citations · General CDR
 
 6. **The promise of scalable direct air capture** (2021)
    24 citations

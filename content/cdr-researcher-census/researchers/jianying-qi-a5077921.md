@@ -1,7 +1,7 @@
 ---
 title: "Jianying Qi"
 description: "Jianying Qi is a Senior Soil Carbon researcher at South China Agricultural University in CN. With 99 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.170010
+date: 2026-08-11T01:33:11.146058
 url: "/cdr-researcher-census/researchers/jianying-qi-a5077921/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -59,11 +59,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **A rapid increase of soil organic carbon in paddy fields after applying organic fertilizer with reduced inorganic fertilizer and water-saving irrigation is linked with alterations in the structure and function of soil bacteria** (2024)
    24 citations · Soil Carbon
 
-4. **Soil Carbon Sequestration: Role of Fe Oxides and Polyphenol Oxidase Across Temperature and Cultivation Systems** (2025)
+4. **Effects of Deep Application of Fertilizer on Soil Carbon and Nitrogen Functions in Rice Paddies** (2025)
    6 citations · Soil Carbon
 
-5. **Effects of Deep Application of Fertilizer on Soil Carbon and Nitrogen Functions in Rice Paddies** (2025)
-   5 citations · Soil Carbon
+5. **Soil Carbon Sequestration: Role of Fe Oxides and Polyphenol Oxidase Across Temperature and Cultivation Systems** (2025)
+   6 citations · Soil Carbon
 
 6. **Effects of Substituting Synthetic Fertilizer with Organic Materials on Soil Organic Carbon Sequestration and Aggregate Size Distribution in Red Soil in South China** (2023)
    5 citations · Soil Carbon

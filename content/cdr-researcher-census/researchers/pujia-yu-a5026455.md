@@ -1,7 +1,7 @@
 ---
 title: "Pujia Yu"
 description: "Pujia Yu is a Senior Soil Carbon researcher at Southwest University in CN. With 50 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.204328
+date: 2026-08-11T01:33:11.178113
 url: "/cdr-researcher-census/researchers/pujia-yu-a5026455/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,23 +50,23 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Afforestation influences soil organic carbon and its fractions associated with aggregates in a karst region of Southwest China** (2021)
+1. **The increased soil aggregate stability and aggregate-associated carbon by farmland use change in a karst region of Southwest China** (2023)
    72 citations · Soil Carbon
 
-2. **The increased soil aggregate stability and aggregate-associated carbon by farmland use change in a karst region of Southwest China** (2023)
-   71 citations · Soil Carbon
+2. **Afforestation influences soil organic carbon and its fractions associated with aggregates in a karst region of Southwest China** (2021)
+   72 citations · Soil Carbon
 
 3. **Changes in soil aggregate stability and aggregate-associated carbon under different slope positions in a karst region of Southwest China** (2024)
-   29 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 4. **Effects of vegetation succession on soil organic carbon fractions and stability in a karst valley area, Southwest China** (2022)
-   22 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 5. **Changes in soil aggregate stability and aggregate-associated organic carbon during old-field succession in karst valley** (2021)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 6. **Effects of Water-Level Fluctuation on Soil Aggregates and Aggregate-Associated Organic Carbon in the Water-Level Fluctuation Zone of the Three Gorges Reservoir, China** (2024)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 7. **[Effects of Land Use Change on Soil Aggregate Stability and Soil Aggregate Organic Carbon in Karst Area of Southwest China].** (2024)
    5 citations · Soil Carbon

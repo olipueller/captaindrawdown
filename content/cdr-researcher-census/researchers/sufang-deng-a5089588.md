@@ -1,7 +1,7 @@
 ---
 title: "Sufang Deng"
 description: "Sufang Deng is a Mid-career Soil Carbon researcher at Fujian Academy of Agricultural Sciences in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.991323
+date: 2026-08-11T01:33:11.869099
 url: "/cdr-researcher-census/researchers/sufang-deng-a5089588/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Role of Azolla in sustainable agriculture and climate resilience: a comprehensive review** (2025)
-   8 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 ## External Profiles
 

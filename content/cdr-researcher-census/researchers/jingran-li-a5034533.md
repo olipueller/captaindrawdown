@@ -1,7 +1,7 @@
 ---
 title: "Jingran Li"
 description: "Jingran Li is a Mid-career Biochar researcher at China University of Geosciences (Beijing) in CN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.994316
+date: 2026-08-11T01:33:11.871961
 url: "/cdr-researcher-census/researchers/jingran-li-a5034533/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Efficient activation of peroxyacetic acid by cobalt-iron alloy/oxide heterojunctions anchored in defect-rich biochar for pesticide degradation in water: Unravelling the radical-unradical mechanism** (2024)
-   17 citations · Biochar
+   19 citations · Biochar
 
 2. **Efficient activation of peroxymonosulfate for trichloroethylene degradation by cobalt ferrites anchored on CeO2 surfaces: Radical to non-radical pathway shift** (2024)
    6 citations
@@ -56,7 +56,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 3. **Efficient Activation of Peroxyacetic Acid by Cobalt-Iron Alloy/Oxide Heterojunctions Anchored in Defect-Rich Biochar for Pesticide Degradation in Water: Unravelling the Radical-Unradical Mechanism** (2024)
    1 citations
 
-4. **Zirconium-iron oxide nitrogen-doped biochar particle electrodes for enhanced tetracycline degradation: Mechanisms and reactive species analysis** (2025)
+4. **Oxygen-vacancy mediated CoFe bimetallic modified biochar for peroxymonosulfate activated degradation of organochlorine pesticides: Effect of the metal carbon interface** (2026)
+   0 citations · Biochar
+
+5. **Zirconium-iron oxide nitrogen-doped biochar particle electrodes for enhanced tetracycline degradation: Mechanisms and reactive species analysis** (2025)
    0 citations · Biochar
 
 ## External Profiles

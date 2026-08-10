@@ -1,7 +1,7 @@
 ---
 title: "M. Isabel Smith"
 description: "M. Isabel Smith is an Early-career Enhanced Weathering researcher at University of Southern California in US. With 6 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.584222
+date: 2026-08-11T01:33:12.421669
 url: "/cdr-researcher-census/researchers/m-isabel-smith-a5062408/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Arctic Permafrost Thawing Enhances Sulfide Oxidation** (2023)
-   21 citations · Enhanced Weathering
+   22 citations · Enhanced Weathering
 
 ## External Profiles
 

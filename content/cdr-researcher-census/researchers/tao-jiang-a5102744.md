@@ -1,7 +1,7 @@
 ---
 title: "Tao Jiang"
 description: "Tao Jiang is a Mid-career Biochar researcher at North China Electric Power University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.609697
+date: 2026-08-11T01:33:11.538520
 url: "/cdr-researcher-census/researchers/tao-jiang-a5102744/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Green synthesis of natural limonite-modified biochar catalyst for peroxymonosulfate activation in efficient degradation carbamazepine in water** (2025)
-   4 citations · Biochar
+   6 citations · Biochar
 
 ## External Profiles
 

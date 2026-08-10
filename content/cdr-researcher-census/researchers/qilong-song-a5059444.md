@@ -1,7 +1,7 @@
 ---
 title: "Qilong Song"
 description: "Qilong Song is a Mid-career Soil Carbon researcher at Gansu Agricultural University in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.921603
+date: 2026-08-11T01:33:11.818889
 url: "/cdr-researcher-census/researchers/qilong-song-a5059444/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    23 citations · Soil Carbon
 
 2. **Long-term film mulching with manure amendment increases crop yield and water productivity but decreases the soil carbon and nitrogen sequestration potential in semiarid farmland** (2022)
-   22 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 3. **Long-Term Film Mulching with Manure Amendment Increase Crop Yield and Water Use Eﬃciency But Decrease the Soil Carbon and Nitrogen Sequestration Potential in Semiarid Farmland** (2022)
    0 citations · Soil Carbon

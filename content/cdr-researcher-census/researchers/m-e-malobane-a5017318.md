@@ -1,7 +1,7 @@
 ---
 title: "M. E. Malobane"
 description: "M. E. Malobane is a Mid-career Soil Carbon researcher at University of South Africa in ZA. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.035185
+date: 2026-08-11T01:33:11.910300
 url: "/cdr-researcher-census/researchers/m-e-malobane-a5017318/"
 layout: "researcher"
 hiddenInHomeList: true

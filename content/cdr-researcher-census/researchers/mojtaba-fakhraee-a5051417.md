@@ -1,7 +1,7 @@
 ---
 title: "Mojtaba Fakhraee"
 description: "Mojtaba Fakhraee is a Senior Ocean CDR researcher at University of Connecticut in US. With 70 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.261360
+date: 2026-08-11T01:33:11.230999
 url: "/cdr-researcher-census/researchers/mojtaba-fakhraee-a5051417/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Ocean alkalinity enhancement through restoration of blue carbon ecosystems** (2023)
-   71 citations · Ocean CDR
+   74 citations · Ocean CDR
 
 2. **A biogeochemical model of mineral-based ocean alkalinity enhancement: impacts on the biological pump and ocean carbon uptake** (2023)
-   58 citations · General CDR
+   59 citations · General CDR
 
 3. **Environmental impacts and carbon capture potential of ocean alkalinity enhancement** (2022)
    19 citations · General CDR

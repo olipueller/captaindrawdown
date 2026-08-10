@@ -1,7 +1,7 @@
 ---
 title: "Holly Jean Buck"
 description: "Holly Jean Buck is a Senior General CDR researcher at University at Buffalo, State University of New York in US. With 68 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.192848
+date: 2026-08-11T01:33:11.167401
 url: "/cdr-researcher-census/researchers/holly-jean-buck-a5039348/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,28 +51,28 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Why residual emissions matter right now** (2023)
-   180 citations · General CDR
+   183 citations · General CDR
 
 2. **Soil carbon sequestration as a climate strategy: what do farmers think?** (2022)
-   75 citations · General CDR
+   76 citations · General CDR
 
 3. **Net zero and the unexplored politics of residual emissions** (2023)
-   67 citations · General CDR
+   68 citations · General CDR
 
 4. **Navigating Potential Hype and Opportunity in Governing Marine Carbon Removal** (2021)
    65 citations · General CDR
 
 5. **Environmental and climate justice and technological carbon removal** (2021)
-   59 citations · General CDR
+   60 citations · General CDR
 
 6. **Controversies of carbon dioxide removal** (2023)
-   47 citations · General CDR
+   49 citations · General CDR
 
-7. **Social science for the next decade of carbon capture and storage** (2021)
+7. **Mining the air: Political ecologies of the circular carbon economy** (2021)
    33 citations · General CDR
 
-8. **Mining the air: Political ecologies of the circular carbon economy** (2021)
-   31 citations · General CDR
+8. **Social science for the next decade of carbon capture and storage** (2021)
+   33 citations · General CDR
 
 9. **Soil science in the time of climate mitigation** (2022)
    15 citations · General CDR

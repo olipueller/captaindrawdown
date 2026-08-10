@@ -1,7 +1,7 @@
 ---
 title: "Thanh Ngoc-Dan Cao"
 description: "Thanh Ngoc-Dan Cao is a Mid-career Biochar researcher at National Taiwan University in TW. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.569017
+date: 2026-08-11T01:33:11.502043
 url: "/cdr-researcher-census/researchers/thanh-ngoc-dan-cao-a5109600/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    68 citations · General CDR
 
 2. **Agricultural waste-derived biochar in microbial fuel cells towards a carbon-negative circular economy** (2022)
-   62 citations · Biochar
+   63 citations · Biochar
 
 ## External Profiles
 

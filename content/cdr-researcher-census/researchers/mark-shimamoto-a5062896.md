@@ -1,7 +1,7 @@
 ---
 title: "Mark Shimamoto"
 description: "Mark Shimamoto is a Mid-career General CDR researcher at American Geophysical Union in US. With 20 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.230259
+date: 2026-08-11T01:33:12.110562
 url: "/cdr-researcher-census/researchers/mark-shimamoto-a5062896/"
 layout: "researcher"
 hiddenInHomeList: true

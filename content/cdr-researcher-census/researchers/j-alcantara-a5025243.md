@@ -1,7 +1,7 @@
 ---
 title: "J. Alcántara"
 description: "J. Alcántara is a Senior Biochar researcher at CENIM/CSIC in ES. With 23 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.268739
+date: 2026-08-11T01:33:11.237532
 url: "/cdr-researcher-census/researchers/j-alcantara-a5025243/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 ## Top CDR Publications
 
-1. **From semi-arid biomass to carbon sequestration: Modeling the impact of pyrolysis atmosphere and soil temperature on the carbon removal potential of Agave-based biochar** (2025)
+1. **From semi-arid biomass to carbon sequestration: Role of pyrolysis atmosphere and temperature on agave-derived biochar properties** (2025)
    1 citations · Biochar
 
-2. **From semi-arid biomass to carbon sequestration: Role of pyrolysis atmosphere and temperature on agave-derived biochar properties** (2025)
-   0 citations · Biochar
+2. **From semi-arid biomass to carbon sequestration: Modeling the impact of pyrolysis atmosphere and soil temperature on the carbon removal potential of Agave-based biochar** (2025)
+   1 citations · Biochar
 
 3. **From Semi-Arid Biomass to Carbon Sequestration: Role of Pyrolysis Atmosphere and Temperature on Agave-Derived Biochar Properties** (2025)
    0 citations · Biochar

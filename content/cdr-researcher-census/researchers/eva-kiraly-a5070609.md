@@ -1,7 +1,7 @@
 ---
 title: "Éva Király"
 description: "Éva Király is a Mid-career General CDR researcher at University of Sopron in HU. With 35 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.450243
+date: 2026-08-11T01:33:12.307354
 url: "/cdr-researcher-census/researchers/eva-kiraly-a5070609/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    6 citations · General CDR
 
 2. **From Climate Liability to Market Opportunity: Valuing Carbon Sequestration and Storage Services in the Forest-Based Sector** (2025)
-   4 citations · General CDR
+   5 citations · General CDR
 
 3. **Green Infrastructure for Climate Change Mitigation: Assessment of Carbon Sequestration and Storage in the Urban Forests of Budapest, Hungary** (2025)
    4 citations · General CDR

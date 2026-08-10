@@ -1,7 +1,7 @@
 ---
 title: "Haftom Weldekidan"
 description: "Haftom Weldekidan is a Senior DAC researcher at CSIRO in AU. With 33 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.186917
+date: 2026-08-11T01:33:11.161587
 url: "/cdr-researcher-census/researchers/haftom-weldekidan-a5073770/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Ex-situ mineral carbonation process challenges and technology enablers: A review from Australia’s perspective** (2024)
-   19 citations · DAC
+   21 citations · DAC
 
 2. **Mineralisation as a carbon sink for DAC: A case-study for solar thermal process integration** (2025)
    1 citations · DAC

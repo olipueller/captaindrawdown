@@ -1,7 +1,7 @@
 ---
 title: "Maqsood Ul Hussan"
 description: "Maqsood Ul Hussan is a Mid-career Biochar researcher at ZheJiang Academy of Agricultural Sciences in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.451207
+date: 2026-08-11T01:33:12.308282
 url: "/cdr-researcher-census/researchers/maqsood-ul-hussan-a5082605/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,14 +47,14 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 ## Top CDR Publications
 
-1. **Biochar-mediated improvements in soil fertility and wheat (Triticum Aestivum L.) productivity in the Indo-Gangetic Plains** (2026)
+1. **Depth-Wise Assessment of Soil Fertility and Organic Carbon Under Different Land Use Systems: Implications for Climate Change Adaptation and Resilience in Smallholder Agroecosystems** (2026)
+   1 citations
+
+2. **Biochar-mediated improvements in soil fertility and wheat (Triticum Aestivum L.) productivity in the Indo-Gangetic Plains** (2026)
    0 citations · Biochar
 
-2. **Long-Term Crop Diversification Enhances Soil Carbon Fractions and Sequestrations in Northwestern India** (2026)
+3. **Long-Term Crop Diversification Enhances Soil Carbon Fractions and Sequestrations in Northwestern India** (2026)
    0 citations · Soil Carbon
-
-3. **Depth-Wise Assessment of Soil Fertility and Organic Carbon Under Different Land Use Systems: Implications for Climate Change Adaptation and Resilience in Smallholder Agroecosystems** (2026)
-   0 citations
 
 4. **Depth-Wise Assessment of Soil Fertility and Organic Carbon under Different Land Use Systems: Implications for Climate Change Adaptation and Resilience in Smallholder Agroecosystems** (2026)
    0 citations

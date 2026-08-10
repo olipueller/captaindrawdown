@@ -1,7 +1,7 @@
 ---
 title: "Qilin Lv"
 description: "Qilin Lv is a Mid-career Soil Carbon researcher at Singapore General Hospital in SG. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.138092
+date: 2026-08-11T01:33:12.026793
 url: "/cdr-researcher-census/researchers/qilin-lv-a5088428/"
 layout: "researcher"
 hiddenInHomeList: true

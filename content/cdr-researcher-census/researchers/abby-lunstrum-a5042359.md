@@ -1,7 +1,7 @@
 ---
 title: "Abby Lunstrum"
 description: "Abby Lunstrum is a Mid-career Enhanced Weathering researcher at Yale University in US. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.567960
+date: 2026-08-11T01:33:11.501038
 url: "/cdr-researcher-census/researchers/abby-lunstrum-a5042359/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,18 +51,21 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Roads to Removal: Options for Carbon Dioxide Removal in the United States** (2023)
-   60 citations · General CDR
+   61 citations · General CDR
 
 2. **CaCO3 dissolution in carbonate-poor shelf sands increases with ocean acidification and porewater residence time** (2022)
    29 citations · Enhanced Weathering
 
-3. **A framework for understanding efficiency losses of Ocean Alkalinity Enhancement** (2025)
+3. **An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering** (2026)
+   0 citations · Enhanced Weathering
+
+4. **A framework for understanding efficiency losses of Ocean Alkalinity Enhancement** (2025)
    0 citations · Ocean CDR
 
-4. **Sediment consumption of added alkalinity reduces the efficacy of ocean alkalinity enhancement** (2024)
+5. **Sediment consumption of added alkalinity reduces the efficacy of ocean alkalinity enhancement** (2024)
    0 citations · Ocean CDR
 
-5. **Microbial siderophores increase olivine dissolution rates by shunting Fe and Mg into biomass** (2022)
+6. **Microbial siderophores increase olivine dissolution rates by shunting Fe and Mg into biomass** (2022)
    0 citations · Enhanced Weathering
 
 ## External Profiles

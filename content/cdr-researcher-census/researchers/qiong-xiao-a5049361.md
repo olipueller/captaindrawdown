@@ -1,7 +1,7 @@
 ---
 title: "Qiong Xiao"
 description: "Qiong Xiao is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 79 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.331958
+date: 2026-08-11T01:33:11.296231
 url: "/cdr-researcher-census/researchers/qiong-xiao-a5049361/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term manuring increases microbial carbon use efficiency and mitigates priming effect via alleviated soil acidification and resource limitation** (2021)
-   97 citations
+   103 citations
 
 2. **Long-term manuring facilitates glomalin-related soil proteins accumulation by chemical composition shifts and macro-aggregation formation** (2023)
-   55 citations · Soil Carbon
+   56 citations · Soil Carbon
 
 3. **Organic amendments facilitate soil carbon sequestration via organic carbon accumulation and mitigation of inorganic carbon loss** (2022)
-   41 citations · Soil Carbon
+   44 citations · Soil Carbon
 
 4. **No-tillage facilitates soil organic carbon sequestration by enhancing arbuscular mycorrhizal fungi-related soil proteins accumulation and aggregation** (2024)
    39 citations · Soil Carbon
@@ -66,13 +66,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    18 citations · Soil Carbon
 
 6. **Response of weathering carbon sink effect to anthropogenic sulfuric acid in different lithological catchments: A case study from Southwest China** (2024)
-   7 citations · Enhanced Weathering
+   8 citations · Enhanced Weathering
 
 7. **Soil Respiration Characteristics and Karst Carbon Sink Potential in Woodlands and Grasslands** (2025)
    4 citations · Enhanced Weathering
 
 8. **Assessing the impacts of motorway construction on groundwater in karst mountain areas, Southwest China** (2025)
-   2 citations
+   3 citations
 
 9. **Long-term fertilization-induced increases in glomalin-related soil protein depend on phosphorus input and aggregate stability across climatic zones** (2025)
    1 citations · Soil Carbon

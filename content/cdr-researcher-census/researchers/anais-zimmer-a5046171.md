@@ -1,7 +1,7 @@
 ---
 title: "Anaïs Zimmer"
 description: "Anaïs Zimmer is a Mid-career Soil Carbon researcher at Centre National de la Recherche Scientifique in FR. With 38 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.602522
+date: 2026-08-11T01:33:11.532289
 url: "/cdr-researcher-census/researchers/anais-zimmer-a5046171/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil temperature and local initial conditions drive carbon and nitrogen build-up in young proglacial soils in the Tropical Andes and European Alps** (2023)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 2. **Physico-chemical properties and toxicity of young proglacial soils in the Tropical Andes and Alps** (2023)
-   4 citations
+   5 citations
 
 3. **Proglacial Soil Formation in the Anthropocene: Soil Temperature and Initial Conditions Drive Carbon and Nitrogen Build-Up in Young Proglacial Soils in the Tropical Andes and Alps (Part Ii)** (2023)
    1 citations · Soil Carbon

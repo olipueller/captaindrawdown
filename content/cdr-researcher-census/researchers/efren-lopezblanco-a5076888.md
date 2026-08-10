@@ -1,7 +1,7 @@
 ---
 title: "Efrén López–Blanco"
 description: "Efrén López–Blanco is a Senior Soil Carbon researcher at Aarhus University in DK. With 70 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.152121
+date: 2026-08-11T01:33:11.129100
 url: "/cdr-researcher-census/researchers/efren-lopezblanco-a5076888/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **<scp>Pan‐Arctic</scp> soil moisture control on tundra carbon sequestration and plant productivity** (2022)
-   56 citations · General CDR
+   59 citations · General CDR
 
 2. **Earlier snowmelt may lead to late season declines in plant productivity and carbon sequestration in Arctic tundra ecosystems** (2022)
-   38 citations
+   39 citations
 
 3. **Radiation, soil water content, and temperature effects on carbon cycling in an alpine swamp meadow of the northeastern Qinghai–Tibetan Plateau** (2022)
-   28 citations · Soil Carbon
+   31 citations · Soil Carbon
 
 4. **Earlier Snowmelt May Lead to Late Season Declines in Plant Productivity and Carbon Sequestration in Arctic Tundra Ecosystems** (2021)
    4 citations · Soil Carbon

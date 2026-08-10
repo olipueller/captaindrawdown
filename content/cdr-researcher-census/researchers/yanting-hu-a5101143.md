@@ -1,7 +1,7 @@
 ---
 title: "Yanting Hu"
 description: "Yanting Hu is a Mid-career Soil Carbon researcher at Central South University of Forestry and Technology in CN. With 47 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.318931
+date: 2026-08-11T01:33:11.285077
 url: "/cdr-researcher-census/researchers/yanting-hu-a5101143/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Rotation age extension synergistically increases ecosystem carbon storage and timber production of Chinese fir plantations in southern China** (2022)
-   41 citations · Soil Carbon
+   47 citations · Soil Carbon
 
 2. **rTRIPLEXCWFlux: An R package for carbon–water coupling model to simulate net ecosystem productivity and evapotranspiration in forests** (2023)
    8 citations · Soil Carbon

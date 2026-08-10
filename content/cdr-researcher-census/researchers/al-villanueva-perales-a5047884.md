@@ -1,7 +1,7 @@
 ---
 title: "A.L. Villanueva Perales"
 description: "A.L. Villanueva Perales is a Senior BECCS researcher at Universidad de Sevilla in ES. With 38 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.356220
+date: 2026-08-11T01:33:11.317426
 url: "/cdr-researcher-census/researchers/al-villanueva-perales-a5047884/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Impact of solar thermal energy and calcium looping implementation on biomass gasification for low-carbon hydrogen production** (2025)
-   4 citations · BECCS
+   5 citations · BECCS
 
 2. **The Role of Renewable-Derived Plastics in the Analysis of Waste Management Schemes: A Time-Dependent Carbon Cycle Assessment** (2023)
    3 citations · BECCS

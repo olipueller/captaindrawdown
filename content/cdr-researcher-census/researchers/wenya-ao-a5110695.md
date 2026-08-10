@@ -1,7 +1,7 @@
 ---
 title: "Wenya Ao"
 description: "Wenya Ao is a Senior Biochar researcher at Chinese Academy of Sciences in CN. With 45 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.165656
+date: 2026-08-11T01:33:11.141913
 url: "/cdr-researcher-census/researchers/wenya-ao-a5110695/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Sludge-based biochar adsorbent: pore tuning mechanisms, challenges, and role in carbon sequestration** (2023)
-   64 citations · Biochar
+   68 citations · Biochar
 
 2. **Bamboo-Derived Low-Cost Mesoporous Biochar for Efficient Removal of Per- and Polyfluoroalkyl Substances from Contaminated Water** (2024)
-   46 citations · Biochar
+   47 citations · Biochar
 
 3. **Preparation of low-cost sludge-based highly porous biochar for efficient removal of refractory pollutants from agrochemical and pharmaceutical wastewater** (2024)
    18 citations · Biochar

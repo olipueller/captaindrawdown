@@ -1,7 +1,7 @@
 ---
 title: "Qingdian Shu"
 description: "Qingdian Shu is a Mid-career DAC researcher at Water Technology (Australia) in AU. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.719084
+date: 2026-08-11T01:33:11.637316
 url: "/cdr-researcher-census/researchers/qingdian-shu-a5056252/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Direct Air Capture Using Electrochemically Regenerated Anion Exchange Resins** (2022)
-   55 citations · DAC
+   56 citations · DAC
 
 2. **An ecosystem of carbon dioxide removal reviews – part 1: direct air CO <sub>2</sub> capture and storage** (2025)
-   32 citations · General CDR
+   38 citations · General CDR
 
 3. **Optimization of an electrochemical direct air capture process with decreased CO2 desorption pressure and addition of background electrolyte** (2023)
    22 citations

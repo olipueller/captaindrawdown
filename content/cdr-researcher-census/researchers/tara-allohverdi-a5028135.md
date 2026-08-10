@@ -1,7 +1,7 @@
 ---
 title: "Tara Allohverdi"
 description: "Tara Allohverdi is an Early-career Biochar researcher at University of Guelph in CA. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.156085
+date: 2026-08-11T01:33:12.043113
 url: "/cdr-researcher-census/researchers/tara-allohverdi-a5028135/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A Review on Current Status of Biochar Uses in Agriculture** (2021)
-   184 citations · Biochar
+   191 citations · Biochar
 
 ## External Profiles
 

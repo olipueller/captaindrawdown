@@ -1,7 +1,7 @@
 ---
 title: "Damtew Tsige Melese"
 description: "Damtew Tsige Melese is a Mid-career Soil Carbon researcher at Jimma University in ET. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.538811
+date: 2026-08-11T01:33:12.389501
 url: "/cdr-researcher-census/researchers/damtew-tsige-melese-a5070510/"
 layout: "researcher"
 hiddenInHomeList: true

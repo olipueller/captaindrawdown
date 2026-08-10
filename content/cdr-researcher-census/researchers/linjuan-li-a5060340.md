@@ -1,7 +1,7 @@
 ---
 title: "Linjuan Li"
 description: "Linjuan Li is a Senior General CDR researcher at Nanjing Agricultural University in CN. With 53 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.389071
+date: 2026-08-11T01:33:11.345194
 url: "/cdr-researcher-census/researchers/linjuan-li-a5060340/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **A cross-scale study on the relationship between urban expansion and ecosystem services in China** (2022)
-   39 citations · General CDR
+   43 citations · General CDR
 
 2. **Integrating the impacts of ecosystem services supply-demand relationship into the SDGs implementation framework: evidence from the Belt and Road Initiative region** (2025)
    10 citations · General CDR
 
 3. **Integrating Ecosystem Services Into Landscape Ecological Risk Warning: An Empirical Study in Jiangsu Province, China** (2026)
-   0 citations · General CDR
+   1 citations · General CDR
 
 ## External Profiles
 

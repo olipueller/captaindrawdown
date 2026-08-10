@@ -1,7 +1,7 @@
 ---
 title: "Kwangmin Kim"
 description: "Kwangmin Kim is a Senior DAC researcher at University of North Carolina at Charlotte in US. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.654226
+date: 2026-08-11T01:33:11.579150
 url: "/cdr-researcher-census/researchers/kwangmin-kim-a5085360/"
 layout: "researcher"
 hiddenInHomeList: true

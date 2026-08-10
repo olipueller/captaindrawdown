@@ -1,7 +1,7 @@
 ---
 title: "Junwei Li"
 description: "Junwei Li is a Senior Soil Carbon researcher at Technical University of Munich in DE. With 49 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.974529
+date: 2026-08-11T01:33:11.853437
 url: "/cdr-researcher-census/researchers/junwei-li-a5101611/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Intercomparison of biogenic CO <sub>2</sub> flux models in four urban parks in the city of Zurich** (2025)
-   11 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 2. **Intercomparison of biogenic CO <sub>2</sub> flux models in four urban parks in the city of Zurich** (2024)
    1 citations

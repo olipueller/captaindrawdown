@@ -1,7 +1,7 @@
 ---
 title: "Sarah Byer"
 description: "Sarah Byer is a Mid-career Soil Carbon researcher at The Nature Conservancy in US. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.329868
+date: 2026-08-11T01:33:12.196797
 url: "/cdr-researcher-census/researchers/sarah-byer-a5075928/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon Sequestration in Degraded Intermountain West Rangelands, United States** (2023)
-   4 citations · General CDR
+   5 citations · General CDR
 
 ## External Profiles
 

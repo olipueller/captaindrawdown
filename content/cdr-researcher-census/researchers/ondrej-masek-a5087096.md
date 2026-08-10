@@ -1,7 +1,7 @@
 ---
 title: "Ondřej Mašek"
 description: "Ondřej Mašek is an Eminent Biochar researcher at University of Edinburgh in GB. With 257 publications and an h-index of 63, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.089087
+date: 2026-08-11T01:33:11.070065
 url: "/cdr-researcher-census/researchers/ondrej-masek-a5087096/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,22 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Prospective contributions of biomass pyrolysis to China’s 2050 carbon reduction and renewable energy goals** (2021)
-   388 citations · BECCS
+   390 citations · BECCS
 
 2. **Biochar composites: Emerging trends, field successes and sustainability implications** (2021)
-   187 citations · Biochar
+   190 citations · Biochar
 
 3. **Biochar affects greenhouse gas emissions in various environments: A critical review** (2022)
-   112 citations · Biochar
+   117 citations · Biochar
 
 4. **Mineral-enriched biochar delivers enhanced nutrient recovery and carbon dioxide removal** (2022)
-   109 citations · Biochar
+   110 citations · Biochar
 
 5. **Removal of contaminants of emerging concern from multicomponent systems using carbon dioxide activated biochar from lignocellulosic feedstocks** (2021)
-   87 citations · Biochar
+   88 citations · Biochar
 
 6. **New directions and challenges in engineering biologically-enhanced biochar for biological water treatment** (2021)
-   58 citations · Biochar
+   59 citations · Biochar
 
 7. **Minerals: A missing role for enhanced biochar carbon sequestration from the thermal conversion of biomass to the application in soil** (2022)
    50 citations · Biochar
@@ -74,11 +74,11 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 8. **Comparative characterisation and phytotoxicity assessment of biochar and hydrochar derived from municipal wastewater microalgae biomass** (2023)
    38 citations · Biochar
 
-9. **Recycling of post-consumption food waste through pyrolysis: Feedstock characteristics, products analysis, reactor performance, and assessment of worldwide implementation potentials** (2022)
-   32 citations · Biochar
+9. **Biochar is a long-lived form of carbon removal, making evidence-based CDR projects possible** (2024)
+   35 citations · Biochar
 
-10. **Biochar is a long-lived form of carbon removal, making evidence-based CDR projects possible** (2024)
-   31 citations · Biochar
+10. **Development of biochar molecular models with controlled porosity** (2024)
+   34 citations · Biochar
 
 ## External Profiles
 

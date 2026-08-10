@@ -1,7 +1,7 @@
 ---
 title: "Aneta Kowalska"
 description: "Aneta Kowalska is a Mid-career Soil Carbon researcher at Jan Długosz University in PL. With 29 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.122678
+date: 2026-08-11T01:33:12.012647
 url: "/cdr-researcher-census/researchers/aneta-kowalska-a5057152/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,21 +57,24 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · Soil Carbon
 
 3. **Carbon Sequestration in Remediated Post-Mining Soils: A New Indicator for the Vertical Soil Organic Carbon Variability Evaluation in Remediated Post-Mining Soils** (2023)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 4. **Maximizing soil carbon storage: Leveraging microbial factors and limitations for carbon remediation** (2024)
    1 citations · Soil Carbon
 
-5. **Chapter Five - Implication of sewage sludge use for sustainable soil management: Soil health and carbon sequestration under the EU 'Soil Deal for Europe'** (2025)
-   0 citations · Soil Carbon
+5. **Integrating phytoremediation and regenerative agriculture for the management of emerging contaminants in soils** (2026)
+   0 citations
 
 6. **Chapter Five - Implication of sewage sludge use for sustainable soil management: Soil health and carbon sequestration under the EU 'Soil Deal for Europe'** (2025)
    0 citations · Soil Carbon
 
-7. **Soil carbon sequestration via plant–soil interactions** (2025)
+7. **Chapter Five - Implication of sewage sludge use for sustainable soil management: Soil health and carbon sequestration under the EU 'Soil Deal for Europe'** (2025)
    0 citations · Soil Carbon
 
-8. **Soil enzymes in a changing climate** (2025)
+8. **Soil carbon sequestration via plant–soil interactions** (2025)
+   0 citations · Soil Carbon
+
+9. **Soil enzymes in a changing climate** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

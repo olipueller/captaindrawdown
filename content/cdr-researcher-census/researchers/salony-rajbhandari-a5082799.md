@@ -1,7 +1,7 @@
 ---
 title: "Salony Rajbhandari"
 description: "Salony Rajbhandari is a Senior General CDR researcher at Hodges University in US. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.875108
+date: 2026-08-11T01:33:11.776740
 url: "/cdr-researcher-census/researchers/salony-rajbhandari-a5082799/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Thailand’s net-zero emissions by 2050: analysis of economy-wide impacts** (2023)
-   39 citations · General CDR
+   41 citations · General CDR
 
 2. **Energy system transformation for attainability of net zero emissions in Thailand** (2022)
    26 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Hafiza Aroosa Malik"
 description: "Hafiza Aroosa Malik is an Early-career Ocean CDR researcher at Zhengzhou University in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.516383
+date: 2026-08-11T01:33:12.368847
 url: "/cdr-researcher-census/researchers/hafiza-aroosa-malik-a5093925/"
 layout: "researcher"
 hiddenInHomeList: true

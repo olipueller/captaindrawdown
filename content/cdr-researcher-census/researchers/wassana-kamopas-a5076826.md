@@ -1,7 +1,7 @@
 ---
 title: "Wassana Kamopas"
 description: "Wassana Kamopas is a Mid-career Biochar researcher at Chiang Mai University in TH. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.436068
+date: 2026-08-11T01:33:12.293615
 url: "/cdr-researcher-census/researchers/wassana-kamopas-a5076826/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Spent Mushroom Substrate-Derived Biochar and Its Applications in Modern Agricultural Systems: An Extensive Overview** (2025)
-   21 citations · Biochar
+   24 citations · Biochar
 
 ## External Profiles
 

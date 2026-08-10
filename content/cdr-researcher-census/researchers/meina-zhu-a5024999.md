@@ -1,7 +1,7 @@
 ---
 title: "Meina Zhu"
 description: "Meina Zhu is a Senior Soil Carbon researcher at Wayne State College in US. With 102 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.187639
+date: 2026-08-11T01:33:11.162316
 url: "/cdr-researcher-census/researchers/meina-zhu-a5024999/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -62,11 +62,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Farmland Afforestation by Poplar Shelterbelts Increased Soil Inorganic Carbon but Showed Ambiguous Effects on Soil Organic Carbon as Revealed by Carbon Isotopic Composition: Inter-Fraction and Inter-Site Differences in Northern China** (2025)
    5 citations · Soil Carbon
 
-5. **Mulberry (Morus alba L.) planting increased the abundance of soil carbon cycling functional genes by improving soil properties, and further enhanced the stability of soil carbon pool** (2025)
+5. **Arbuscular mycorrhizal dominated forests facilitate organic carbon stabilization in soil aggregates** (2026)
    1 citations · Soil Carbon
 
-6. **Arbuscular mycorrhizal dominated forests facilitate organic carbon stabilization in soil aggregates** (2026)
-   0 citations · Soil Carbon
+6. **Mulberry (Morus alba L.) planting increased the abundance of soil carbon cycling functional genes by improving soil properties, and further enhanced the stability of soil carbon pool** (2025)
+   1 citations · Soil Carbon
 
 7. **Data from: "Arbuscular mycorrhizal dominated forests facilitate organic carbon stabilization in soil aggregates"** (2026)
    0 citations · Soil Carbon

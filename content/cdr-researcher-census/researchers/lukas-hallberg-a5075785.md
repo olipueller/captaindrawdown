@@ -1,7 +1,7 @@
 ---
 title: "Lukas Hallberg"
 description: "Lukas Hallberg is a Mid-career Soil Carbon researcher at École Polytechnique Fédérale de Lausanne in CH. With 36 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.017398
+date: 2026-08-11T01:33:11.893607
 url: "/cdr-researcher-census/researchers/lukas-hallberg-a5075785/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,18 +51,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Beavers can convert stream corridors to persistent carbon sinks** (2026)
-   1 citations
+   3 citations
 
 2. **Achieving agricultural and environmental targets in a changing climate requires a whole-system based approach** (2025)
    1 citations · General CDR
 
-3. **Achieving agricultural and environmental targets in a changing climate requires a wholesystem based approach** (2025)
-   0 citations
-
-4. **Beavers can convert stream corridors to persistent carbon sinks** (2025)
+3. **Busy beaver capture carbon? The role of beaver-engineered wetlands in enhancing soil carbon sequestration** (2026)
    0 citations · Soil Carbon
 
-5. **Inorganic carbon unexpected driver of carbon sink response in an established beaver wetland** (2025)
+4. **Achieving agricultural and environmental targets in a changing climate requires a wholesystem based approach** (2025)
+   0 citations
+
+5. **Beavers can convert stream corridors to persistent carbon sinks** (2025)
+   0 citations · Soil Carbon
+
+6. **Inorganic carbon unexpected driver of carbon sink response in an established beaver wetland** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

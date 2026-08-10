@@ -1,7 +1,7 @@
 ---
 title: "Muhang Li"
 description: "Muhang Li is a Mid-career Soil Carbon researcher at Northeast Agricultural University in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.019337
+date: 2026-08-11T01:33:11.895533
 url: "/cdr-researcher-census/researchers/muhang-li-a5007730/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yuxin Wang"
 description: "Yuxin Wang is a Mid-career Biochar researcher at Jiangsu University of Science and Technology in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.123939
+date: 2026-08-11T01:33:12.013626
 url: "/cdr-researcher-census/researchers/yuxin-wang-a5038916/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **The role of post-pyrolysis carbon dioxide capture in hydrogen recovery from waste-derived pyrolysis gas** (2024)
-   6 citations · Biochar
+   7 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Yarong Sun"
 description: "Yarong Sun is a Mid-career Soil Carbon researcher at Northwest A&F University in CN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.559543
+date: 2026-08-11T01:33:12.405739
 url: "/cdr-researcher-census/researchers/yarong-sun-a5041857/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **High stand density promotes soil organic carbon sequestration in Robinia pseudoacacia plantations in the hilly and gully region of the Loess Plateau in China** (2022)
-   35 citations · Soil Carbon
+   36 citations · Soil Carbon
 
 2. **Depth and Seasonality of Soil Respiration in Caragana korshinskii Plantation on the Loess Plateau** (2025)
    1 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Yehua Yang"
 description: "Yehua Yang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 25 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.000423
+date: 2026-08-11T01:33:11.877967
 url: "/cdr-researcher-census/researchers/yehua-yang-a5110317/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Characteristics of Greenhouse Gas Emissions from Yellow Paddy Soils under Long-Term Organic Fertilizer Application** (2022)
-   20 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 2. **[Seasonal Variation and Differences in Microbial Biomass Carbon in Yellow Soil Under Different Long-term Crop Rotation Patterns].** (2025)
    0 citations · Soil Carbon

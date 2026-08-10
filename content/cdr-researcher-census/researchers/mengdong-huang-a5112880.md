@@ -1,7 +1,7 @@
 ---
 title: "Mengdong Huang"
 description: "Mengdong Huang is a Mid-career Soil Carbon researcher at Beijing Normal University in CN. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.682294
+date: 2026-08-11T01:33:11.603580
 url: "/cdr-researcher-census/researchers/mengdong-huang-a5112880/"
 layout: "researcher"
 hiddenInHomeList: true

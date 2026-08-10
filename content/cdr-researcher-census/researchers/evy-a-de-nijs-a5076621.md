@@ -1,7 +1,7 @@
 ---
 title: "Evy A. de Nijs"
 description: "Evy A. de Nijs is a Mid-career Biochar researcher at Institute for Biodiversity in DE. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.796036
+date: 2026-08-11T01:33:11.706691
 url: "/cdr-researcher-census/researchers/evy-a-de-nijs-a5076621/"
 layout: "researcher"
 hiddenInHomeList: true

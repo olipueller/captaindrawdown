@@ -1,7 +1,7 @@
 ---
 title: "Xiujia You"
 description: "Xiujia You is a Mid-career Biochar researcher at Dalian University of Technology in CN. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.353434
+date: 2026-08-11T01:33:11.314988
 url: "/cdr-researcher-census/researchers/xiujia-you-a5091072/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Meta-analyzing the mechanism of pyrogenic biochar strengthens nitrogen removal performance in sulfur-driven autotrophic denitrification system: Evidence from metatranscriptomics** (2024)
-   33 citations · Biochar
+   34 citations · Biochar
 
 ## External Profiles
 

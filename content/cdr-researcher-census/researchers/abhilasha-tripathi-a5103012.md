@@ -1,7 +1,7 @@
 ---
 title: "Abhilasha Tripathi"
 description: "Abhilasha Tripathi is a Mid-career Biochar researcher at Indian Institute of Technology Kanpur in IN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.810355
+date: 2026-08-11T01:33:11.718765
 url: "/cdr-researcher-census/researchers/abhilasha-tripathi-a5103012/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Emerging contaminants in polluted waters: Harnessing Biochar's potential for effective treatment** (2024)
-   39 citations · Biochar
+   42 citations · Biochar
 
 2. **Role of Biochar Technology in Carbon Sequestration and Agro-Environmental Sustainability** (2024)
    0 citations · Biochar

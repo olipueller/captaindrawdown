@@ -1,7 +1,7 @@
 ---
 title: "Meng Lin"
 description: "Meng Lin is a Senior Ocean CDR researcher at Energy Institute in GB. With 134 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.157079
+date: 2026-08-11T01:33:11.133575
 url: "/cdr-researcher-census/researchers/meng-lin-a5000861/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **A hybrid electro-thermochemical device for methane production from the air** (2024)
-   14 citations · DAC
+   15 citations · DAC
 
 2. **Enhancing wastewater treatment: a study on steam explosion-biochar derived from Chinese herbal medicine residue for NOR adsorption** (2025)
-   5 citations · Biochar
+   6 citations · Biochar
 
 3. **Asymmetric Electrosorption in a Bio‐Inspired Reactor Enables Energy Efficient Ocean Carbon Removal** (2025)
-   2 citations · General CDR
+   3 citations · General CDR
 
 4. **Self‐Biased Electro‐Mineralization via Programmable Field Engineering for Energy‐Efficient Ocean Carbon Removal** (2026)
-   1 citations
+   2 citations
 
 5. **Asymmetric Electrosorption in a Bio‐Inspired Reactor Enables Energy Efficient Ocean Carbon Removal** (2025)
    1 citations

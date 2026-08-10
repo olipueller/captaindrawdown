@@ -1,7 +1,7 @@
 ---
 title: "Vandana Sreedharan"
 description: "Vandana Sreedharan is a Senior Biochar researcher at Kannur University in IN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.412742
+date: 2026-08-11T01:33:11.366130
 url: "/cdr-researcher-census/researchers/vandana-sreedharan-a5055510/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Review of Large-Scale Biochar Field-Trials for Soil Amendment and the Observed Influences on Crop Yield Variations** (2021)
-   152 citations · Biochar
+   160 citations · Biochar
 
 ## External Profiles
 

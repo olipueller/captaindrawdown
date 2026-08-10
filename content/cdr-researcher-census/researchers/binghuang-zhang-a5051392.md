@@ -1,7 +1,7 @@
 ---
 title: "Binghuang Zhang"
 description: "Binghuang Zhang is an Early-career Soil Carbon researcher at Xiamen University in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.454049
+date: 2026-08-11T01:33:12.311054
 url: "/cdr-researcher-census/researchers/binghuang-zhang-a5051392/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Mapping the scientific knowledge of glomalin-related soil protein with implications for carbon sequestration** (2022)
-   21 citations · Soil Carbon
+   22 citations · Soil Carbon
 
 2. **Change in glomalin-related soil protein along latitudinal gradient encompassing subtropical and temperate blue carbon zones** (2023)
    15 citations · Ocean CDR

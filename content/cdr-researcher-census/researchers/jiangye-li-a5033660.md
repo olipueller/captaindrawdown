@@ -1,7 +1,7 @@
 ---
 title: "Jiangye Li"
 description: "Jiangye Li is a Senior Soil Carbon researcher at Jiangsu Academy of Agricultural Sciences in CN. With 47 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.329374
+date: 2026-08-11T01:33:11.294003
 url: "/cdr-researcher-census/researchers/jiangye-li-a5033660/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **N, P and straw return influence the accrual of organic carbon fractions and microbial traits in a Mollisol** (2021)
-   63 citations · Biochar
+   64 citations · Biochar
 
 2. **Nitrogen input level modulates straw-derived organic carbon physical fractions accumulation by stimulating specific fungal groups during decomposition** (2022)
-   40 citations · Soil Carbon
+   41 citations · Soil Carbon
 
 3. **Chemical Composition of Plant Residues Regulates Soil Organic Carbon Turnover in Typical Soils with Contrasting Textures in Northeast China Plain** (2022)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 4. **Temporal and Spatial Variations in Soil Elemental Stoichiometry Coupled with Alterations in Agricultural Land Use Types in the Taihu Lake Basin** (2023)
    5 citations · Soil Carbon

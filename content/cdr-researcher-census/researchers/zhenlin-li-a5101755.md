@@ -1,7 +1,7 @@
 ---
 title: "Zhenlin Li"
 description: "Zhenlin Li is a Senior General CDR researcher at Hong Kong Polytechnic University in CN. With 114 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.176004
+date: 2026-08-11T01:33:11.151527
 url: "/cdr-researcher-census/researchers/zhenlin-li-a5101755/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Application potential analysis of biochar as a carbon capture material in cementitious composites: A review** (2022)
-   121 citations · Biochar
+   124 citations · Biochar
 
 2. **A new approach to CO2 capture and sequestration: A novel carbon capture artificial aggregates made from biochar and municipal waste incineration bottom ash** (2023)
-   60 citations · Biochar
+   62 citations · Biochar
 
 3. **Exploring the carbon capture and sequestration performance of biochar-artificial aggregate using a new method** (2022)
    52 citations · Biochar
 
 4. **Assessing ecosystem services and their spillover effects to inform cost-benefit sharing and horizontal eco-compensation mechanisms in the Qilian Mountains, China** (2025)
-   6 citations · General CDR
+   10 citations · General CDR
 
 5. **Assessing Ecosystem Services and Their Spillover Effects to Inform Cost-Benefit Sharing and Horizontal Eco-Compensation Mechanisms in the Qilian Mountains, China** (2025)
    0 citations · General CDR

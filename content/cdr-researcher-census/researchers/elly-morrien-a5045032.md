@@ -1,7 +1,7 @@
 ---
 title: "Elly Morriën"
 description: "Elly Morriën is a Senior Soil Carbon researcher at University of Amsterdam in NL. With 53 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.143422
+date: 2026-08-11T01:33:11.121098
 url: "/cdr-researcher-census/researchers/elly-morrien-a5045032/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Will fungi solve the carbon dilemma?** (2022)
-   120 citations · Soil Carbon
+   121 citations · Soil Carbon
 
 2. **Exogenous carbon turnover within the soil food web strengthens soil carbon sequestration through microbial necromass accumulation** (2023)
-   83 citations · Soil Carbon
+   85 citations · Soil Carbon
 
 3. **Cascading Effects Within Soil Food Web Amplify Fungal Biomass and Necromass Production** (2025)
-   25 citations · Soil Carbon
+   28 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Sanaa El-Sawi"
 description: "Sanaa El-Sawi is a Mid-career Biochar researcher at Ministry of Agriculture and Land Reclamation in EG. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.580762
+date: 2026-08-11T01:33:12.419056
 url: "/cdr-researcher-census/researchers/sanaa-el-sawi-a5089446/"
 layout: "researcher"
 hiddenInHomeList: true

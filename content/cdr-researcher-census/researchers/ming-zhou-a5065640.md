@@ -1,7 +1,7 @@
 ---
 title: "Ming Zhou"
 description: "Ming Zhou is an Early-career Biochar researcher at Fudan University in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.372468
+date: 2026-08-11T01:33:12.235265
 url: "/cdr-researcher-census/researchers/ming-zhou-a5065640/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Microbially Driven Iron Cycling Facilitates Organic Carbon Accrual in Decadal Biochar-Amended Soil** (2024)
-   69 citations · Biochar
+   72 citations · Biochar
 
 ## External Profiles
 

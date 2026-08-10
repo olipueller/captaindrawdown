@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Arifur Rahman"
 description: "Mohammad Arifur Rahman is a Senior Biochar researcher at Center for Environmental and Geographic Information Services in BD. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.720825
+date: 2026-08-11T01:33:11.638899
 url: "/cdr-researcher-census/researchers/mohammad-arifur-rahman-a5072456/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar amendment impacts on microbial community structures and biological and enzyme activities in a weathered tropical sandy loam** (2021)
-   78 citations · Biochar
+   82 citations · Biochar
 
 2. **Sugarcane bagasse biochar increases soil carbon sequestration and yields of maize and groundnut in charland ecosystem** (2021)
    32 citations · Biochar

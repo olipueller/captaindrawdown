@@ -1,7 +1,7 @@
 ---
 title: "Tianqian Chen"
 description: "Tianqian Chen is a Mid-career Soil Carbon researcher at Beijing Normal University in CN. With 13 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.359357
+date: 2026-08-11T01:33:11.320183
 url: "/cdr-researcher-census/researchers/tianqian-chen-a5035016/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Relationship of Ecosystem Services in the Beijing–Tianjin–Hebei Region Based on the Production Possibility Frontier** (2021)
-   24 citations · General CDR
+   25 citations · General CDR
 
 ## External Profiles
 

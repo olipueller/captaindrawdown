@@ -1,7 +1,7 @@
 ---
 title: "Jin-Zhou Su"
 description: "Jin-Zhou Su is a Mid-career Biochar researcher at Southwest Forestry University in CN. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.336787
+date: 2026-08-11T01:33:12.203198
 url: "/cdr-researcher-census/researchers/jin-zhou-su-a5033716/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Advances and prospectives of iron/biochar composites: Application, influencing factors and characterization methods** (2023)
-   37 citations · Biochar
+   39 citations · Biochar
 
 ## External Profiles
 

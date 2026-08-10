@@ -1,7 +1,7 @@
 ---
 title: "Mohammed S. Hashim"
 description: "Mohammed S. Hashim is a Mid-career Ocean CDR researcher at University of Hawaiʻi at Mānoa in US. With 25 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.919881
+date: 2026-08-11T01:33:11.817406
 url: "/cdr-researcher-census/researchers/mohammed-s-hashim-a5018565/"
 layout: "researcher"
 hiddenInHomeList: true

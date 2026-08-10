@@ -1,7 +1,7 @@
 ---
 title: "Mohamed Farghali"
 description: "Mohamed Farghali is an Eminent General CDR researcher at Kobe University in JP. With 75 publications and an h-index of 43, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.093557
+date: 2026-08-11T01:33:11.074238
 url: "/cdr-researcher-census/researchers/mohamed-farghali-a5073724/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,31 +51,31 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Biochar for agronomy, animal farming, anaerobic digestion, composting, water treatment, soil remediation, construction, energy storage, and carbon sequestration: a review** (2022)
-   478 citations · Biochar
+   487 citations · Biochar
 
 2. **RETRACTED ARTICLE: Artificial intelligence-based solutions for climate change: a review** (2023)
-   355 citations · General CDR
+   362 citations · General CDR
 
 3. **Methods to prepare biosorbents and magnetic sorbents for water treatment: a review** (2023)
-   299 citations
+   309 citations
 
 4. **Materials, fuels, upgrading, economy, and life cycle assessment of the pyrolysis of algal and lignocellulosic biomass: a review** (2023)
-   188 citations · Biochar
+   197 citations · Biochar
 
-5. **Integration of biogas systems into a carbon zero and hydrogen economy: a review** (2022)
-   187 citations · BECCS
+5. **Life cycle assessment and techno-economic analysis of sustainable bioenergy production: a review** (2024)
+   193 citations · BECCS
 
-6. **Life cycle assessment and techno-economic analysis of sustainable bioenergy production: a review** (2024)
-   182 citations · BECCS
+6. **Integration of biogas systems into a carbon zero and hydrogen economy: a review** (2022)
+   192 citations · BECCS
 
 7. **Advanced adsorbents for ibuprofen removal from aquatic environments: a review** (2023)
-   99 citations · Biochar
+   102 citations · Biochar
 
 8. **Machine learning for membrane design in energy production, gas separation, and water treatment: a review** (2024)
-   93 citations
+   100 citations
 
 9. **Life cycle assessment of biochar as a green sorbent for soil remediation** (2024)
-   61 citations · Biochar
+   67 citations · Biochar
 
 ## External Profiles
 

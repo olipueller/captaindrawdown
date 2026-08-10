@@ -1,7 +1,7 @@
 ---
 title: "Philipp Weckenbrock"
 description: "Philipp Weckenbrock is a Senior Soil Carbon researcher. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.094919
+date: 2026-08-11T01:33:11.986882
 url: "/cdr-researcher-census/researchers/philipp-weckenbrock-a5030219/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Transect sampling for soil organic carbon monitoring in temperate alley cropping systems - A review and standardized guideline** (2024)
-   11 citations · General CDR
+   12 citations · General CDR
 
 ## External Profiles
 

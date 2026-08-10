@@ -1,7 +1,7 @@
 ---
 title: "Jia Kong"
 description: "Jia Kong is a Mid-career Ocean CDR researcher at Hebei University of Technology in CN. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.577567
+date: 2026-08-11T01:33:11.509851
 url: "/cdr-researcher-census/researchers/jia-kong-a5020885/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,16 +48,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Review on carbon dioxide fixation coupled with nutrients removal from wastewater by microalgae** (2021)
-   136 citations
+   140 citations
 
 2. **Chlorella vulgaris cultivation in simulated wastewater for the biomass production, nutrients removal and CO2 fixation simultaneously** (2021)
    79 citations · General CDR
 
 3. **Application of indole-3-acetic acid in microalgae cultivation to improve the feasibility of simultaneously purifying wastewater, fixing CO2 and producing fatty acids under Hg stress** (2022)
-   56 citations
+   57 citations
 
 4. **Integrating municipal wastewater treatment with CO2 fixation and fatty acid production by cultivating Tetradesmus obliquus** (2021)
-   30 citations · Ocean CDR
+   32 citations · Ocean CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Zuohe Zhang"
 description: "Zuohe Zhang is a Mid-career Biochar researcher at Northeast Agricultural University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.347797
+date: 2026-08-11T01:33:12.212905
 url: "/cdr-researcher-census/researchers/zuohe-zhang-a5055412/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Straw return alleviates the greenhouse effect of paddy fields by increasing soil organic carbon sequestration under water-saving irrigation** (2023)
-   53 citations · Biochar
+   54 citations · Biochar
 
 2. **Biochar modulates microbial- and plant-derived carbon allocation in soil aggregates to enhance organic carbon sequestration in paddy fields under different water management practices** (2025)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

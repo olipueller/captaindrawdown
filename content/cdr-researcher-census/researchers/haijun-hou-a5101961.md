@@ -1,7 +1,7 @@
 ---
 title: "Haijun Hou"
 description: "Haijun Hou is a Senior Soil Carbon researcher at Yancheng Institute of Technology in CN. With 39 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.325876
+date: 2026-08-11T01:33:11.290723
 url: "/cdr-researcher-census/researchers/haijun-hou-a5101961/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Differential contribution of microbial and plant-derived organic matter to soil organic carbon sequestration over two decades of natural revegetation and cropping** (2024)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 2. **Divergent pattern of soil CO2, CH4 and N2O emissions in 18-year citrus orchard and Camellia oleifera plantations converted from natural shrub forests** (2022)
    11 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Bai-ting Cen"
 description: "Bai-ting Cen is an Early-career Biochar researcher at South China Agricultural University in CN. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.566455
+date: 2026-08-11T01:33:12.410599
 url: "/cdr-researcher-census/researchers/bai-ting-cen-a5107180/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **The key role of biochar in amending acidic soil: reducing soil acidity and improving soil acid buffering capacity** (2025)
-   102 citations · Biochar
+   111 citations · Biochar
 
 ## External Profiles
 

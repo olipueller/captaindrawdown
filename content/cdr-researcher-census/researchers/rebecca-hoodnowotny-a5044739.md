@@ -1,7 +1,7 @@
 ---
 title: "Rebecca Hood‐Nowotny"
 description: "Rebecca Hood‐Nowotny is a Senior Soil Carbon researcher at University of Vienna in AT. With 158 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.172465
+date: 2026-08-11T01:33:11.148222
 url: "/cdr-researcher-census/researchers/rebecca-hoodnowotny-a5044739/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Functional redundant soil fauna and microbial groups and processes were fairly resistant to drought in an agroecosystem** (2023)
-   19 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 2. **Functional response of an Austrian forest soil to N addition** (2021)
    14 citations · Soil Carbon

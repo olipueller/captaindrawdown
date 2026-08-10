@@ -1,7 +1,7 @@
 ---
 title: "Mahaveer P. Sharma"
 description: "Mahaveer P. Sharma is a Senior Soil Carbon researcher at Indian Institute of Soybean Research in IN. With 114 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.131322
+date: 2026-08-11T01:33:11.109812
 url: "/cdr-researcher-census/researchers/mahaveer-p-sharma-a5039184/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Glycoproteins of arbuscular mycorrhiza for soil carbon sequestration: Review of mechanisms and controls** (2021)
-   288 citations
+   298 citations
 
 2. **Deciphering the dynamics of glomalin and heavy metals in soils contaminated with hazardous municipal solid wastes** (2021)
    65 citations
 
 3. **Glomalin related protein and C16:1ω5 PLFA associated with AM fungi as potential signatures for assessing the soil C sequestration under contrasting soil management practices** (2021)
-   58 citations · Soil Carbon
+   59 citations · Soil Carbon
 
 4. **Facets of AM Fungi in Sequestering Soil Carbon and Improving Soil Health** (2022)
    9 citations · Soil Carbon
@@ -66,7 +66,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    3 citations · Soil Carbon
 
 6. **Enhanced soil carbon storage by arbuscular mycorrhizal fungi in a long-term nutrient management under soybean-based cropping system** (2024)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 7. **Exploring microbial symbionts for improving soybean production and soil carbon sequestration** (2023)
    0 citations · Soil Carbon

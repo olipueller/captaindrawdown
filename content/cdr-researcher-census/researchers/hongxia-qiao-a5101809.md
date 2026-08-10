@@ -1,7 +1,7 @@
 ---
 title: "Hongxia Qiao"
 description: "Hongxia Qiao is a Senior Soil Carbon researcher at Lanzhou University of Technology in CN. With 73 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.298282
+date: 2026-08-11T01:33:11.265472
 url: "/cdr-researcher-census/researchers/hongxia-qiao-a5101809/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Enhancing total nitrogen removal in constructed wetlands: A Comparative study of iron ore and biochar amendments** (2024)
-   24 citations · Biochar
+   26 citations · Biochar
 
 2. **Linking rhizospheric microbiota and metabolite interactions with harvested aboveground carbon and soil carbon of lakeshore reed wetlands in a subtropical region** (2024)
    6 citations

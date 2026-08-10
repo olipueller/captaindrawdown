@@ -1,7 +1,7 @@
 ---
 title: "Yan Yang"
 description: "Yan Yang is a Senior Biochar researcher at Minzu University of China in CN. With 124 publications and an h-index of 35, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.121494
+date: 2026-08-11T01:33:11.100226
 url: "/cdr-researcher-census/researchers/yan-yang-a5101582/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,22 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar stability and impact on soil organic carbon mineralization depend on biochar processing, aging and soil clay content** (2022)
-   257 citations · Biochar
+   262 citations · Biochar
 
 2. **Effects of biochar on the accumulation of necromass-derived carbon, the physical protection and microbial mineralization of soil organic carbon** (2023)
-   117 citations · Biochar
+   121 citations · Biochar
 
 3. **Impact of biochar amendment on soil aggregation varied with incubation duration and biochar pyrolysis temperature** (2021)
-   84 citations · Biochar
+   85 citations · Biochar
 
 4. **Changes in soil properties and CO2 emissions after biochar addition: Role of pyrolysis temperature and aging** (2022)
-   64 citations · Biochar
+   72 citations · Biochar
 
 5. **Effect of Fe and Al ions on the production of biochar from agricultural biomass: Properties, stability and adsorption efficiency of biochar** (2021)
    57 citations · Biochar
 
 6. **The preferential preservation of both different minerals and polyethylene microplastics on aromatic or aliphatic carbon fractions within low or high pyrolysis temperature biochar under mineralization** (2022)
-   7 citations · Biochar
+   8 citations · Biochar
 
 7. **The Role of Minerals and Polyethylene Microplastics in Microbial Mineralization of Biochar at Different Pyrolysis Temperatures: Molecular Fractionation and Microbial Community Shift** (2022)
    0 citations · Biochar

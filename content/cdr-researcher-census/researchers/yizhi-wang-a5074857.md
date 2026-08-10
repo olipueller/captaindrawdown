@@ -1,7 +1,7 @@
 ---
 title: "Yizhi Wang"
 description: "Yizhi Wang is a Mid-career Biochar researcher at Virginia Tech in US. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.239067
+date: 2026-08-11T01:33:12.118739
 url: "/cdr-researcher-census/researchers/yizhi-wang-a5074857/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Insight into the mechanisms of ball-milled biochar addition on soil tetracycline degradation enhancement: Physicochemical properties and microbial community structure** (2021)
-   71 citations · Biochar
+   77 citations · Biochar
 
 ## External Profiles
 

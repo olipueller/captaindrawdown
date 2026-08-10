@@ -1,7 +1,7 @@
 ---
 title: "María Martínez‐Mena"
 description: "María Martínez‐Mena is an Eminent Soil Carbon researcher at centro de edafología y biología aplicada del segura in ES. With 134 publications and an h-index of 42, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.109509
+date: 2026-08-11T01:33:11.089100
 url: "/cdr-researcher-census/researchers/maria-martinezmena-a5005380/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Pruning residues incorporation and reduced tillage improve soil organic matter stabilization and structure of salt-affected soils in a semi-arid Citrus tree orchard** (2021)
-   57 citations · Soil Carbon
+   58 citations · Soil Carbon
 
 2. **Perennial alley cropping contributes to decrease soil CO2 and N2O emissions and increase soil carbon sequestration in a Mediterranean almond orchard** (2022)
    41 citations · Soil Carbon
 
 3. **Short-term impact of crop diversification on soil carbon fluxes and balance in rainfed and irrigated woody cropping systems under semiarid Mediterranean conditions** (2021)
-   38 citations · General CDR
+   40 citations · General CDR
 
 4. **Cover crops improve the long‐term stabilization of soil organic carbon and total nitrogen through physico‐chemical protection in rainfed semiarid Mediterranean woody crop systems** (2024)
-   17 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 5. **Crop diversification effects on soil organic carbon and nitrogen storage and stabilization is mediated by soil management practices in semiarid woody crops** (2023)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 6. **Soil organic matter fractions in the topsoil and subsoil of woody crop systems: Impact of reduced tillage plus cover crops under rainfed semi-arid Mediterranean conditions** (2025)
    2 citations · Soil Carbon

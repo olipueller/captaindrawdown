@@ -1,7 +1,7 @@
 ---
 title: "Zicheng Wang"
 description: "Zicheng Wang is a Mid-career Soil Carbon researcher at Binzhou Medical University in CN. With 50 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.383835
+date: 2026-08-11T01:33:11.340346
 url: "/cdr-researcher-census/researchers/zicheng-wang-a5100347/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    9 citations · Soil Carbon
 
 2. **Spatio-Temporal Variations in Soil Organic Carbon Stocks in Different Erosion Zones of Cultivated Land in Northeast China Under Future Climate Change Conditions** (2025)
-   3 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 3. **Three-Dimensional Modeling of Soil Organic Carbon Stocks in Forest Ecosystems of Northeastern China Under Future Climate Warming Scenarios** (2025)
    2 citations · Soil Carbon

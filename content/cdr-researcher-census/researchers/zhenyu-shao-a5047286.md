@@ -1,7 +1,7 @@
 ---
 title: "Zhenyu Shao"
 description: "Zhenyu Shao is a Mid-career Biochar researcher at University of Washington in US. With 8 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.061702
+date: 2026-08-11T01:33:11.935195
 url: "/cdr-researcher-census/researchers/zhenyu-shao-a5047286/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Study on CO2 adsorption performance of biocarbon synthesized in situ from nitrogen-rich biomass pomelo peel** (2023)
-   50 citations · Biochar
+   51 citations · Biochar
 
 ## External Profiles
 

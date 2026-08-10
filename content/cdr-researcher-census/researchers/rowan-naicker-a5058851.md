@@ -1,7 +1,7 @@
 ---
 title: "Rowan Naicker"
 description: "Rowan Naicker is a Senior Soil Carbon researcher at University of KwaZulu-Natal in ZA. With 26 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.777700
+date: 2026-08-11T01:33:11.690364
 url: "/cdr-researcher-census/researchers/rowan-naicker-a5058851/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Modelling soil organic carbon stock distribution across different land-uses in South Africa: A remote sensing and deep learning approach** (2022)
-   68 citations · Soil Carbon
+   70 citations · Soil Carbon
 
 2. **Evaluation of projected soil organic carbon stocks under future climate and land cover changes in South Africa using a deep learning approach** (2023)
-   28 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 3. **Mapping soil organic carbon distribution across South Africa's major biomes using remote sensing-topo-climatic covariates and Concrete Autoencoder-Deep neural networks** (2022)
    27 citations · Soil Carbon

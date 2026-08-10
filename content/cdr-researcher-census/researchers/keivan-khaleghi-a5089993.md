@@ -1,7 +1,7 @@
 ---
 title: "Keivan Khaleghi"
 description: "Keivan Khaleghi is a Mid-career DAC researcher at The University of Texas at Austin in US. With 14 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.317606
+date: 2026-08-11T01:33:12.185957
 url: "/cdr-researcher-census/researchers/keivan-khaleghi-a5089993/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Solid sorbent direct air capture using geothermal energy resources (S-DAC-GT) – Region specific analysis** (2023)
-   21 citations · DAC
+   22 citations · DAC
 
 2. **Region specific economic model for solid sorbent direct air capture using geothermal energy resources (S-DAC-GT)** (2024)
    6 citations · DAC

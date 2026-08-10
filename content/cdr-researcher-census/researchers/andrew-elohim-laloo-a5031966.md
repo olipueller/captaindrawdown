@@ -1,7 +1,7 @@
 ---
 title: "Andrew Elohim Laloo"
 description: "Andrew Elohim Laloo is a Mid-career Soil Carbon researcher at National University of Singapore in SG. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.377791
+date: 2026-08-11T01:33:11.336146
 url: "/cdr-researcher-census/researchers/andrew-elohim-laloo-a5031966/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Role of Fe and Mn in organo–mineral–microbe interactions: evidence of carbon stabilization and transformation of organic matter leading to carbon greenhouse gas emissions** (2025)
-   14 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Qicheng Xu"
 description: "Qicheng Xu is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 33 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.254558
+date: 2026-08-11T01:33:11.224651
 url: "/cdr-researcher-census/researchers/qicheng-xu-a5052454/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil net carbon balance depends on soil C: N: P stoichiometry** (2024)
-   44 citations · Soil Carbon
+   46 citations · Soil Carbon
 
 2. **Active microbial population dynamics and life strategies drive the enhanced carbon use efficiency in high-organic matter soils** (2024)
-   43 citations · Soil Carbon
+   46 citations · Soil Carbon
 
 ## External Profiles
 

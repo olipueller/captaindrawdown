@@ -1,7 +1,7 @@
 ---
 title: "Xiaotao Xu"
 description: "Xiaotao Xu is a Mid-career Enhanced Weathering researcher at China National Administration of Coal Geology in CN. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.834179
+date: 2026-08-11T01:33:11.739674
 url: "/cdr-researcher-census/researchers/xiaotao-xu-a5086491/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,9 +51,12 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Four volcanically driven climatic perturbations led to enhanced continental weathering during the Late Triassic Carnian Pluvial Episode** (2023)
-   19 citations · Enhanced Weathering
+   20 citations · Enhanced Weathering
 
 2. **Coupling relationship between the Carnian Pluvial Episode and the global coal accumulation recommencement** (2025)
+   1 citations
+
+3. **Terrestrial expression of the Jenkyns Event: Integrated records from the Eastern Tethys, China** (2026)
    0 citations
 
 ## External Profiles

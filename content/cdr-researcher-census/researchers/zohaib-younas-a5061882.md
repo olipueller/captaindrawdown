@@ -1,7 +1,7 @@
 ---
 title: "Zohaib Younas"
 description: "Zohaib Younas is a Mid-career Biochar researcher at Pir Mehr Ali Shah Arid Agriculture University in PK. With 38 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.097408
+date: 2026-08-11T01:33:11.989033
 url: "/cdr-researcher-census/researchers/zohaib-younas-a5061882/"
 layout: "researcher"
 hiddenInHomeList: true

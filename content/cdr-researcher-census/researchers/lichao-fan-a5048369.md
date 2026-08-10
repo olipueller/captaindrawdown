@@ -1,7 +1,7 @@
 ---
 title: "Lichao Fan"
 description: "Lichao Fan is a Senior Soil Carbon researcher at University of Goettingen in DE. With 55 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.213694
+date: 2026-08-11T01:33:11.186781
 url: "/cdr-researcher-census/researchers/lichao-fan-a5048369/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Nitrogen fertilizer builds soil organic carbon under straw return mainly via microbial necromass formation** (2023)
-   190 citations · Soil Carbon
+   201 citations · Soil Carbon
 
 2. **Visualization and quantification of carbon “rusty sink” by rice root iron plaque: Mechanisms, functions, and global implications** (2022)
-   81 citations · Soil Carbon
+   84 citations · Soil Carbon
 
 3. **Nitrification-induced acidity controls CO2 emission from soil carbonates** (2024)
-   33 citations · Soil Carbon
+   34 citations · Soil Carbon
 
 4. **Anthropogenic land-use driven changes in soil stoichiometry reduce microbial carbon use efficiency** (2025)
-   8 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 5. **High-Dose Biochar Hinders Micro/Nanoplastic-Induced Soil Positive Priming by Reducing Substrate Quality and Microbial Activity** (2026)
-   5 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 6. **Nitrogen Fertilizer Builds Up Soil Organic Carbon Under Straw Return Via Microbial Necromass Formation** (2023)
    1 citations · Soil Carbon

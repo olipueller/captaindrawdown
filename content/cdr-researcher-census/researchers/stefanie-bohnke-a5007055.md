@@ -1,7 +1,7 @@
 ---
 title: "Stefanie Böhnke"
 description: "Stefanie Böhnke is a Mid-career Enhanced Weathering researcher at GEOMAR Helmholtz Centre for Ocean Research Kiel in DE. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.797015
+date: 2026-08-11T01:33:11.707531
 url: "/cdr-researcher-census/researchers/stefanie-bohnke-a5007055/"
 layout: "researcher"
 hiddenInHomeList: true

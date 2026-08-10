@@ -1,7 +1,7 @@
 ---
 title: "Sylvia H. Vetter"
 description: "Sylvia H. Vetter is a Mid-career General CDR researcher at University of Aberdeen in GB. With 62 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.249277
+date: 2026-08-11T01:33:11.220167
 url: "/cdr-researcher-census/researchers/sylvia-h-vetter-a5015424/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Perennial biomass cropping and use: Shaping the policy ecosystem in European countries** (2023)
-   51 citations · BECCS
+   53 citations · BECCS
 
 2. **Soil Carbon Sequestration and Biochar** (2022)
-   11 citations · Biochar
+   12 citations · Biochar
 
 3. **A Review of Life Cycle Assessment Methods to Inform the Scale‐Up of Carbon Dioxide Removal Interventions** (2024)
-   7 citations · General CDR
+   8 citations · General CDR
 
 4. **Evaluation of the ECOSSE Model for Estimating Soil Respiration from Eight European Permanent Grassland Sites** (2023)
    3 citations · Soil Carbon
@@ -74,11 +74,11 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 8. **Measuring and monitoring soil carbon sequestration** (2022)
    1 citations · General CDR
 
-9. **Toward Credible Carbon Dioxide Removal: Harmonized Accounting and Data Gaps Across Six CDR Approaches** (2026)
-   0 citations · DAC
+9. **Is soil carbon sequestration overestimated in carbon footprint accounting?** (2026)
+   0 citations · Soil Carbon
 
-10. **Potential soil carbon sequestration of agricultural land around the world** (2021)
-   0 citations · General CDR
+10. **Toward Credible Carbon Dioxide Removal: Harmonized Accounting and Data Gaps Across Six CDR Approaches** (2026)
+   0 citations · DAC
 
 ## External Profiles
 

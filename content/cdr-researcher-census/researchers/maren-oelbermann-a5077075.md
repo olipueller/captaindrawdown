@@ -1,7 +1,7 @@
 ---
 title: "Maren Oelbermann"
 description: "Maren Oelbermann is a Senior Soil Carbon researcher at University of Waterloo in CA. With 109 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.194168
+date: 2026-08-11T01:33:11.168664
 url: "/cdr-researcher-census/researchers/maren-oelbermann-a5077075/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    33 citations · Biochar
 
 2. **Compost  and biosolids increase long-term soil organic carbon stocks** (2023)
-   18 citations · General CDR
+   19 citations · General CDR
 
 3. **Guidelines for improved quantification and reporting of carbon stocks and additional carbon storage in agroforestry systems** (2025)
-   17 citations · General CDR
+   18 citations · General CDR
 
 4. **Functionality of methane cycling microbiome during methane flux hot moments from riparian buffer systems** (2023)
    9 citations
@@ -65,11 +65,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 5. **Transitioning to soil health and carbon sequestration with agroforestry and perennial crop systems** (2024)
    3 citations · Soil Carbon
 
-6. **Soil carbon dynamics in perennial biomass crops on marginally productive cropland in southern Canada** (2024)
+6. **Integrated Crop–Livestock–Forest Systems With No‐Till Can Restore Soil Organic Carbon Stocks in a Brazilian Ferralsol** (2025)
    2 citations · Soil Carbon
 
-7. **Integrated Crop–Livestock–Forest Systems With No‐Till Can Restore Soil Organic Carbon Stocks in a Brazilian Ferralsol** (2025)
-   1 citations · Soil Carbon
+7. **Soil carbon dynamics in perennial biomass crops on marginally productive cropland in southern Canada** (2024)
+   2 citations · Soil Carbon
 
 8. **Soil Organic Carbon Storage of Different Soil‐Sized Fractions in Perennial Bioenergy Crops on Marginally Productive Cropland in Southern Canada** (2025)
    1 citations · BECCS

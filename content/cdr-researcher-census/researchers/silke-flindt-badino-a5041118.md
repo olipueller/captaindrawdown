@@ -1,7 +1,7 @@
 ---
 title: "Silke Flindt Badino"
 description: "Silke Flindt Badino is a Mid-career General CDR researcher at Technical University of Denmark in DK. With 38 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.417466
+date: 2026-08-11T01:33:11.370541
 url: "/cdr-researcher-census/researchers/silke-flindt-badino-a5041118/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -59,7 +59,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 3. **Amidase‐Catalyzed Desorption of CO <sub>2</sub> Captured in Aqueous Monoethanolamine (MEA) Solutions** (2026)
    0 citations · General CDR
 
-4. **Enzyme Assisted Direct Air Capture of carbon dioxide** (2024)
+4. **Amidase-catalyzed Desorption of CO2 Captured in Aqueous Monoethanolamine (MEA) Solutions** (2026)
+   0 citations
+
+5. **Enzyme Assisted Direct Air Capture of carbon dioxide** (2024)
    0 citations
 
 ## External Profiles

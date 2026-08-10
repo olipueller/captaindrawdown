@@ -1,7 +1,7 @@
 ---
 title: "Wil Burns"
 description: "Wil Burns is a Mid-career General CDR researcher at American University in US. With 39 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.541972
+date: 2026-08-11T01:33:11.477660
 url: "/cdr-researcher-census/researchers/wil-burns-a5102494/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    57 citations · General CDR
 
 2. **Principles for responsible and effective marine carbon dioxide removal development and governance** (2025)
-   7 citations · General CDR
+   8 citations · General CDR
 
 3. **The case for ocean iron fertilization field trials** (2026)
-   2 citations · General CDR
+   4 citations · General CDR
 
 4. **It Would Be Irresponsible, Unethical, and Unlawful to Rely on NETs at Large Scale Instead of Mitigation** (2021)
    1 citations · BECCS

@@ -1,7 +1,7 @@
 ---
 title: "Xiaotong He"
 description: "Xiaotong He is a Senior Biochar researcher at Wenzhou University in CN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.437851
+date: 2026-08-11T01:33:12.295240
 url: "/cdr-researcher-census/researchers/xiaotong-he-a5084963/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Microplastic pollution threatens mangrove carbon sequestration capacity** (2025)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 2. **Lanthanum-driven carbon capture via oxidative pyrolysis constructs La2O2CO3@biochar for phosphate adsorption and bacteriostasis** (2026)
    0 citations · Biochar

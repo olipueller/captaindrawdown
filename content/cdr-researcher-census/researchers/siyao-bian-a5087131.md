@@ -1,7 +1,7 @@
 ---
 title: "Siyao Bian"
 description: "Siyao Bian is a Mid-career Biochar researcher at Hainan University in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.259225
+date: 2026-08-11T01:33:12.136336
 url: "/cdr-researcher-census/researchers/siyao-bian-a5087131/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Highly adsorptive pristine and magnetic biochars prepared from crayfish shell for removal of Cu(II) and Pb(II)** (2021)
-   56 citations · Biochar
+   58 citations · Biochar
 
 2. **Preparation of highly adsorptive biochar by sequential iron impregnation under refluxing and pyrolysis at low temperature for removal of tetracycline** (2024)
    14 citations · Biochar

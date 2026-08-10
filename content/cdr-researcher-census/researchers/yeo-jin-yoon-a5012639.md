@@ -1,7 +1,7 @@
 ---
 title: "Yeo Jin Yoon"
 description: "Yeo Jin Yoon is a Senior General CDR researcher at Kunsan National University in KR. With 13 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.113561
+date: 2026-08-11T01:33:12.003702
 url: "/cdr-researcher-census/researchers/yeo-jin-yoon-a5012639/"
 layout: "researcher"
 hiddenInHomeList: true

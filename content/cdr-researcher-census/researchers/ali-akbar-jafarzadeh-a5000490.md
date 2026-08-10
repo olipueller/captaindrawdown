@@ -1,7 +1,7 @@
 ---
 title: "Ali Akbar Jafarzadeh"
 description: "Ali Akbar Jafarzadeh is a Mid-career General CDR researcher at Ilam University in IR. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.425979
+date: 2026-08-11T01:33:12.284229
 url: "/cdr-researcher-census/researchers/ali-akbar-jafarzadeh-a5000490/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Assessing synergies and trade-offs between ecosystem services in forest landscape management** (2021)
-   58 citations · General CDR
+   60 citations · General CDR
 
 ## External Profiles
 

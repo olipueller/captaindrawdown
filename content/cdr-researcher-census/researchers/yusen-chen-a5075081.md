@@ -1,7 +1,7 @@
 ---
 title: "Yusen Chen"
 description: "Yusen Chen is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.164615
+date: 2026-08-11T01:33:12.050966
 url: "/cdr-researcher-census/researchers/yusen-chen-a5075081/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Spatial distribution patterns and drivers of above- and below- biomass in Chinese terrestrial ecosystems** (2024)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 2. **Spatial distribution, drivers and future trends of soil organic carbon in cropland of China** (2025)
    3 citations · Soil Carbon
 
 3. **Effects of pH thresholds on carbon, nitrogen, and phosphorus dynamics in Chinese terrestrial ecosystems: Differentiation of drivers in vegetation-soil-microorganisms** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

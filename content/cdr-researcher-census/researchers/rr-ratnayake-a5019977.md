@@ -1,7 +1,7 @@
 ---
 title: "R.R. Ratnayake"
 description: "R.R. Ratnayake is a Mid-career Soil Carbon researcher at National Institute of Fundamental Studies in LK. With 40 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.811631
+date: 2026-08-11T01:33:11.720267
 url: "/cdr-researcher-census/researchers/rr-ratnayake-a5019977/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,16 +50,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Variation in above and below ground carbon storage in a Eucalyptus grandis plantation established in a grassland with a chronosequence of age** (2023)
    8 citations · Soil Carbon
 
-2. **Harnessing home gardens for sustainable agroforestry: A promising approach to reducing greenhouse gas emission** (2024)
+2. **Soil organic carbon fractions across soil depths vary among key tropical vegetation types** (2025)
+   1 citations · Soil Carbon
+
+3. **Harnessing home gardens for sustainable agroforestry: A promising approach to reducing greenhouse gas emission** (2024)
    1 citations
 
-3. **Spatial Variability of Soil Organic Carbon and Nutrient Dynamics in Disturbed and Undisturbed Riverine Mangrove Sites in Mannar** (2025)
+4. **Spatial Variability of Soil Organic Carbon and Nutrient Dynamics in Disturbed and Undisturbed Riverine Mangrove Sites in Mannar** (2025)
    0 citations · Soil Carbon
 
-4. **Effectiveness of Assisted Natural Regeneration in Revitalizing Soil Carbon Stocks in Former Chena Lands** (2026)
-   0 citations · Soil Carbon
-
-5. **Soil organic carbon fractions across soil depths vary among key tropical vegetation types** (2025)
+5. **Effectiveness of Assisted Natural Regeneration in Revitalizing Soil Carbon Stocks in Former Chena Lands** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Huizhen Ma"
 description: "Huizhen Ma is a Senior Soil Carbon researcher at Northwest A&F University in CN. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.358820
+date: 2026-08-11T01:33:12.222736
 url: "/cdr-researcher-census/researchers/huizhen-ma-a5007264/"
 layout: "researcher"
 hiddenInHomeList: true

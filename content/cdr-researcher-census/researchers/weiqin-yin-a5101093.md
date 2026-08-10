@@ -1,7 +1,7 @@
 ---
 title: "Weiqin Yin"
 description: "Weiqin Yin is a Senior Soil Carbon researcher at Yangzhou University in CN. With 53 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.226946
+date: 2026-08-11T01:33:11.199434
 url: "/cdr-researcher-census/researchers/weiqin-yin-a5101093/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon matrix of biochar from biomass modeling components facilitates electron transfer from zero-valent iron to Cr(VI)** (2021)
-   27 citations · Biochar
+   28 citations · Biochar
 
 2. **Long-Term Field Biochar Application for Rice Production: Effects on Soil Nutrient Supply, Carbon Sequestration, Crop Yield and Grain Minerals** (2022)
    24 citations · Biochar

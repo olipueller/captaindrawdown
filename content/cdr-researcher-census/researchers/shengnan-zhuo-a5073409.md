@@ -1,7 +1,7 @@
 ---
 title: "Shengnan Zhuo"
 description: "Shengnan Zhuo is a Mid-career Biochar researcher at Henan Academy of Sciences in CN. With 22 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.309200
+date: 2026-08-11T01:33:11.276044
 url: "/cdr-researcher-census/researchers/shengnan-zhuo-a5073409/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Highly efficient activation of persulfate by encapsulated nano-Fe0 biochar for acetaminophen degradation: Rich electron environment and dominant effect of superoxide radical** (2022)
-   118 citations · Biochar
+   121 citations · Biochar
 
 2. **Conversion Mechanism of Biomass to Nano Zero-Valent Iron Biochar: Iron Phase Transfer and in Situ Reduction** (2021)
    34 citations · Biochar

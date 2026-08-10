@@ -1,7 +1,7 @@
 ---
 title: "Ziyin Shang"
 description: "Ziyin Shang is a Mid-career Soil Carbon researcher at Chinese Academy of Agricultural Sciences in CN. With 40 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.224300
+date: 2026-08-11T01:33:11.196973
 url: "/cdr-researcher-census/researchers/ziyin-shang-a5008415/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Can cropland management practices lower net greenhouse emissions without compromising yield?** (2021)
-   139 citations · Soil Carbon
+   140 citations · Soil Carbon
 
 2. **Characteristics of carbon emission and approaches of carbon mitigation and sequestration for carbon neutrality in China’s crop production** (2022)
    11 citations · General CDR

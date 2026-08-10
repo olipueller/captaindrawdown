@@ -1,7 +1,7 @@
 ---
 title: "Chongyuan Bi"
 description: "Chongyuan Bi is an Early-career General CDR researcher at Guangzhou Institute of Geography in CN. With 4 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.437744
+date: 2026-08-11T01:33:12.295145
 url: "/cdr-researcher-census/researchers/chongyuan-bi-a5030688/"
 layout: "researcher"
 hiddenInHomeList: true

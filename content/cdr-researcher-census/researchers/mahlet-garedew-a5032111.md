@@ -1,7 +1,7 @@
 ---
 title: "Mahlet Garedew"
 description: "Mahlet Garedew is a Mid-career General CDR researcher at Center for Brooklyn History in US. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.310492
+date: 2026-08-11T01:33:11.277185
 url: "/cdr-researcher-census/researchers/mahlet-garedew-a5032111/"
 layout: "researcher"
 hiddenInHomeList: true

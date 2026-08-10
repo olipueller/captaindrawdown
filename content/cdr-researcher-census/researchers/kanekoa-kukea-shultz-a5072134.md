@@ -1,7 +1,7 @@
 ---
 title: "Kānekoa Kukea-Shultz"
 description: "Kānekoa Kukea-Shultz is a Mid-career Soil Carbon researcher. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.168260
+date: 2026-08-11T01:33:12.054571
 url: "/cdr-researcher-census/researchers/kanekoa-kukea-shultz-a5072134/"
 layout: "researcher"
 hiddenInHomeList: true

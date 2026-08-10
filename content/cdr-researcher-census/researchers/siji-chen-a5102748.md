@@ -1,7 +1,7 @@
 ---
 title: "Siji Chen"
 description: "Siji Chen is a Mid-career Biochar researcher at Chinese Academy of Sciences in CN. With 40 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.523010
+date: 2026-08-11T01:33:11.460549
 url: "/cdr-researcher-census/researchers/siji-chen-a5102748/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    10 citations · Biochar
 
 4. **Biochar with enhanced performance prepared from bio-regulated lignocellulose for efficient removal of organic pollutants from wastewater** (2023)
-   7 citations · Biochar
+   8 citations · Biochar
 
 5. **Hierarchical Porous Carbon Derived from Carex Meyeriana Kunth with Natural Channel Arrays for Rapid and Efficient Removal of Dye and Antibiotic from Water** (2021)
    1 citations

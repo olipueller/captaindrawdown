@@ -1,7 +1,7 @@
 ---
 title: "Zhengcheng Wang"
 description: "Zhengcheng Wang is a Senior General CDR researcher at Qingdao University in CN. With 36 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.512479
+date: 2026-08-11T01:33:11.451794
 url: "/cdr-researcher-census/researchers/zhengcheng-wang-a5103089/"
 layout: "researcher"
 hiddenInHomeList: true

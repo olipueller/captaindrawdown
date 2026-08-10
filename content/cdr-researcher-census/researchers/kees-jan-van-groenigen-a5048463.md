@@ -1,7 +1,7 @@
 ---
 title: "Kees Jan van Groenigen"
 description: "Kees Jan van Groenigen is an Eminent Soil Carbon researcher at University of Exeter in GB. With 156 publications and an h-index of 59, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.085560
+date: 2026-08-11T01:33:11.066849
 url: "/cdr-researcher-census/researchers/kees-jan-van-groenigen-a5048463/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Integrated biochar solutions can achieve carbon-neutral staple crop production** (2023)
-   176 citations · Biochar
+   177 citations · Biochar
 
 2. **Photosynthetic limits on carbon sequestration in croplands** (2022)
-   121 citations · Soil Carbon
+   124 citations · Soil Carbon
 
 3. **Synthesizing the evidence of nitrous oxide mitigation practices in agroecosystems** (2022)
    60 citations · Soil Carbon
@@ -63,16 +63,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    18 citations · Soil Carbon
 
 5. **Climate change mitigation through soil carbon sequestration in working lands: A reality check** (2023)
-   10 citations · General CDR
+   11 citations · General CDR
 
 6. **Upcycling trace amounts of biomass waste into flash graphene can boost crop yields by more than a quarter and offer climate benefits** (2025)
-   6 citations · Biochar
+   7 citations · Biochar
 
-7. **Net Primary Production constraints are crucial to realistically project soil organic carbon sequestration. Response to Minasny et al.** (2022)
+7. **Contrasting responses of particulate and mineral-associated organic carbon stocks to grazing exclusion in an alpine meadow** (2026)
    3 citations · Soil Carbon
 
-8. **Contrasting responses of particulate and mineral-associated organic carbon stocks to grazing exclusion in an alpine meadow** (2026)
-   2 citations · Soil Carbon
+8. **Net Primary Production constraints are crucial to realistically project soil organic carbon sequestration. Response to Minasny et al.** (2022)
+   3 citations · Soil Carbon
 
 9. **Sustained reductions in methane emissions and global warming potential through periodic liming in a double-cropped rice system: A 4-year field experiment** (2026)
    1 citations · Soil Carbon

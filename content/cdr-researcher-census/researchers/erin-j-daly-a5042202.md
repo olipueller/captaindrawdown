@@ -1,7 +1,7 @@
 ---
 title: "Erin J. Daly"
 description: "Erin J. Daly is a Senior Soil Carbon researcher at University of Alberta in CA. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.849239
+date: 2026-08-11T01:33:11.752803
 url: "/cdr-researcher-census/researchers/erin-j-daly-a5042202/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil organic matter pools response to perennial grain cropping and nitrogen fertilizer** (2022)
-   48 citations · Soil Carbon
+   51 citations · Soil Carbon
 
 2. **Arbuscular mycorrhizal fungi community linkages to soil nutrient availability across contrasting agroecosystems** (2022)
    29 citations

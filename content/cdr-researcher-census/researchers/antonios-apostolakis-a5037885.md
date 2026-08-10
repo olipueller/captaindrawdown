@@ -1,7 +1,7 @@
 ---
 title: "Antonios Apostolakis"
 description: "Antonios Apostolakis is a Mid-career Soil Carbon researcher at University of Bonn in DE. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.013301
+date: 2026-08-11T01:33:11.889788
 url: "/cdr-researcher-census/researchers/antonios-apostolakis-a5037885/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Depth-dependent patterns in soil organic C, enzymatic stochiometric ratio, and soil quality under conventional tillage and reduced tillage after 55-years** (2025)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 2. **Long-term reduced tillage does not enhance crop yield, soil organic carbon stocks or greenhouse gas mitigation under ambient rainfall and rainfall exclusion in a temperate Luvisol** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 3. **Depth-dependent temperature sensitivity of heterotrophic soil respiration under long-term tillage and reduced rainfall** (2026)
    0 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Wenhao Feng"
 description: "Wenhao Feng is a Senior Soil Carbon researcher at Hebei Agricultural University in CN. With 62 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.700008
+date: 2026-08-11T01:33:11.620046
 url: "/cdr-researcher-census/researchers/wenhao-feng-a5102507/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,13 +54,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    36 citations · Soil Carbon
 
 2. **Necromass responses to warming: A faster microbial turnover in favor of soil carbon stabilisation** (2024)
-   27 citations · Soil Carbon
+   28 citations · Soil Carbon
 
 3. **Depth-dependent patterns in soil organic C, enzymatic stochiometric ratio, and soil quality under conventional tillage and reduced tillage after 55-years** (2025)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 4. **Microplastic contamination accelerates soil carbon loss through positive priming** (2024)
-   19 citations
+   20 citations
 
 5. **Mechanisms and sources of organic carbon accrual in deep soil under long-term straw return** (2026)
    7 citations · Soil Carbon

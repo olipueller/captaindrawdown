@@ -1,7 +1,7 @@
 ---
 title: "Samuel Hilaire"
 description: "Samuel Hilaire is a Mid-career Soil Carbon researcher. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.435418
+date: 2026-08-11T01:33:11.386183
 url: "/cdr-researcher-census/researchers/samuel-hilaire-a5083527/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Assessing methane emissions and soil carbon stocks in the Camargue coastal wetlands: Management implications for climate change regulation** (2024)
-   9 citations · General CDR
+   11 citations · General CDR
 
 ## External Profiles
 

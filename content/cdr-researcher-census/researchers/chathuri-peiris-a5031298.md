@@ -1,7 +1,7 @@
 ---
 title: "Chathuri Peiris"
 description: "Chathuri Peiris is a Mid-career Biochar researcher at Mississippi State University in US. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.344538
+date: 2026-08-11T01:33:11.307571
 url: "/cdr-researcher-census/researchers/chathuri-peiris-a5031298/"
 layout: "researcher"
 hiddenInHomeList: true

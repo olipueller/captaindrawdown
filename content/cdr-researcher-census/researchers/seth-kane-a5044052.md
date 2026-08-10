@@ -1,7 +1,7 @@
 ---
 title: "Seth Kane"
 description: "Seth Kane is a Senior General CDR researcher at University of California System in US. With 40 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.508327
+date: 2026-08-11T01:33:11.448036
 url: "/cdr-researcher-census/researchers/seth-kane-a5044052/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    17 citations · Biochar
 
 2. **Uncertainty in determining carbon dioxide removal potential of biochar** (2024)
-   8 citations · Biochar
+   9 citations · Biochar
 
 3. **A review of carbon dioxide removal through concrete carbonation: key parameters and life cycle assessment** (2026)
    0 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Lingbo Dong"
 description: "Lingbo Dong is a Senior Soil Carbon researcher at Oregon State University in US. With 149 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.190332
+date: 2026-08-11T01:33:11.164911
 url: "/cdr-researcher-census/researchers/lingbo-dong-a5019090/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,22 +54,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    72 citations · Soil Carbon
 
 2. **Forests have a higher soil C sequestration benefit due to lower C mineralization efficiency: Evidence from the central loess plateau case** (2022)
-   66 citations
+   67 citations
 
-3. **Dynamics of litter decomposition rate and soil organic carbon sequestration following vegetation succession on the Loess Plateau, China** (2023)
+3. **Inorganic Carbon Should Be Considered for Carbon Sequestration in Agricultural Soils** (2025)
+   42 citations · Soil Carbon
+
+4. **Dynamics of litter decomposition rate and soil organic carbon sequestration following vegetation succession on the Loess Plateau, China** (2023)
+   42 citations · Soil Carbon
+
+5. **Long-term vegetation restoration promotes lignin phenol preservation and microbial anabolism in forest plantations: Implications for soil organic carbon dynamics** (2024)
    41 citations · Soil Carbon
 
-4. **Long-term vegetation restoration promotes lignin phenol preservation and microbial anabolism in forest plantations: Implications for soil organic carbon dynamics** (2024)
-   39 citations · Soil Carbon
-
-5. **Inorganic Carbon Should Be Considered for Carbon Sequestration in Agricultural Soils** (2025)
-   37 citations · Soil Carbon
-
 6. **Appropriate N addition improves soil aggregate stability through<scp>AMF</scp>and glomalin‐related soil proteins in a semiarid agroecosystem** (2022)
-   32 citations · Soil Carbon
+   33 citations · Soil Carbon
 
 7. **The contributions of stand characteristics on carbon sequestration potential are triple that of climate variables for Larix spp. plantations in northeast China** (2023)
-   25 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 8. **Factors driving carbon accumulation in forest biomass and soil organic carbon across natural forests and planted forests in China** (2024)
    23 citations · General CDR

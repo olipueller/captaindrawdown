@@ -1,7 +1,7 @@
 ---
 title: "Jonathan Doelman"
 description: "Jonathan Doelman is an Eminent General CDR researcher at PBL Netherland Environmental Assessment Agency in NL. With 170 publications and an h-index of 48, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.083470
+date: 2026-08-11T01:33:11.064895
 url: "/cdr-researcher-census/researchers/jonathan-doelman-a5006446/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Reducing sectoral hard-to-abate emissions to limit reliance on carbon dioxide removal** (2024)
-   94 citations · General CDR
+   100 citations · General CDR
 
 2. **Multiple pathways towards sustainable development goals and climate targets** (2024)
-   33 citations · General CDR
+   37 citations · General CDR
 
 3. **Climate policy and the SDGs agenda: how does near-term action on nexus SDGs influence the achievement of long-term climate goals?** (2024)
    13 citations · General CDR

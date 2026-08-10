@@ -1,7 +1,7 @@
 ---
 title: "Ekavi Aikaterini Isari"
 description: "Ekavi Aikaterini Isari is a Mid-career Biochar researcher at Hellenic Open University in GR. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.090895
+date: 2026-08-11T01:33:11.982859
 url: "/cdr-researcher-census/researchers/ekavi-aikaterini-isari-a5008031/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    9 citations · Biochar
 
 2. **The Role of Biochar and Earthworms in Pharmaceutical Remediation of Contaminated Soil: A Systematic Review** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

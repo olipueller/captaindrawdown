@@ -1,7 +1,7 @@
 ---
 title: "Sagar Gautam"
 description: "Sagar Gautam is a Mid-career Soil Carbon researcher at Sandia National Laboratories California in US. With 68 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.552554
+date: 2026-08-11T01:33:11.487355
 url: "/cdr-researcher-census/researchers/sagar-gautam-a5054737/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Continental United States may lose 1.8 petagrams of soil organic carbon under climate change by 2100** (2022)
-   38 citations · Soil Carbon
+   39 citations · Soil Carbon
 
 2. **Impact of bioenergy feedstock carbon farming on sustainable aviation fuel viability in the United States** (2023)
-   24 citations · General CDR
+   25 citations · General CDR
 
 3. **Performance-Based Payments for Soil Carbon Sequestration Can Enable a Low-Carbon Bioeconomy** (2021)
    20 citations · General CDR

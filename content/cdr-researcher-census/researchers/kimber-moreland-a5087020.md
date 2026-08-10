@@ -1,7 +1,7 @@
 ---
 title: "Kimber Moreland"
 description: "Kimber Moreland is a Mid-career Soil Carbon researcher at Lawrence Livermore National Laboratory in US. With 37 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.869783
+date: 2026-08-11T01:33:11.771487
 url: "/cdr-researcher-census/researchers/kimber-moreland-a5087020/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Reduced accrual of mineral-associated organic matter after two years of enhanced rock weathering in cropland soils, though no net losses of soil organic carbon** (2024)
-   31 citations · Enhanced Weathering
+   33 citations · Enhanced Weathering
 
 2. **Restoring function: Positive responses of carbon and nitrogen to 20 years of hydrologic restoration in montane meadows** (2022)
    21 citations · Soil Carbon

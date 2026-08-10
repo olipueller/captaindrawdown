@@ -1,7 +1,7 @@
 ---
 title: "Brendan Ledwig"
 description: "Brendan Ledwig is a Mid-career Enhanced Weathering researcher at Christian-Albrechts-Universität zu Kiel in DE. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.183960
+date: 2026-08-11T01:33:12.068327
 url: "/cdr-researcher-census/researchers/brendan-ledwig-a5083366/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Kinetics of Olivine Weathering in Seawater: An Experimental Study** (2022)
-   159 citations · Enhanced Weathering
+   160 citations · Enhanced Weathering
 
 ## External Profiles
 

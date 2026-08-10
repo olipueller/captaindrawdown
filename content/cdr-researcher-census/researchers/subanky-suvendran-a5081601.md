@@ -1,7 +1,7 @@
 ---
 title: "Subanky Suvendran"
 description: "Subanky Suvendran is a Mid-career Soil Carbon researcher. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.267511
+date: 2026-08-11T01:33:12.143344
 url: "/cdr-researcher-census/researchers/subanky-suvendran-a5081601/"
 layout: "researcher"
 hiddenInHomeList: true

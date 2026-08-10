@@ -1,7 +1,7 @@
 ---
 title: "Audil Rashid"
 description: "Audil Rashid is a Senior Biochar researcher at Pir Mehr Ali Shah Arid Agriculture University in PK. With 76 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.211937
+date: 2026-08-11T01:33:11.185106
 url: "/cdr-researcher-census/researchers/audil-rashid-a5111385/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Efficient removal of Cd(II) from aqueous environment by potassium permanganate-modified eucalyptus biochar** (2021)
-   35 citations · Biochar
+   36 citations · Biochar
 
 2. **The development of plastic waste and sewage sludge co-pyrolyzed biochar composites with improved interfacial characteristics for the effective removal of ciprofloxacin** (2024)
-   31 citations · Biochar
+   33 citations · Biochar
 
 3. **Interactive effects of acacia biochar, maize hybrids, and irrigation levels on soil health and crop productivity** (2025)
    2 citations · Biochar

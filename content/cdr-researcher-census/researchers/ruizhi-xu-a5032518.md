@@ -1,7 +1,7 @@
 ---
 title: "Ruizhi Xu"
 description: "Ruizhi Xu is a Senior Soil Carbon researcher at First Affiliated Hospital of Xiamen University in CN. With 39 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.264332
+date: 2026-08-11T01:33:11.233560
 url: "/cdr-researcher-census/researchers/ruizhi-xu-a5032518/"
 layout: "researcher"
 hiddenInHomeList: true

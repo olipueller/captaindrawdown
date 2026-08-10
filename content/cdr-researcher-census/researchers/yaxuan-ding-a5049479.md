@@ -1,7 +1,7 @@
 ---
 title: "Yaxuan Ding"
 description: "Yaxuan Ding is a Mid-career Biochar researcher at Guangxi University in CN. With 7 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.269439
+date: 2026-08-11T01:33:12.145001
 url: "/cdr-researcher-census/researchers/yaxuan-ding-a5049479/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Chestnut Shell-Activated Carbon Mixed with Pyrolytic Snail Shells for Methylene Blue Adsorption** (2022)
-   28 citations · Biochar
+   30 citations · Biochar
 
 ## External Profiles
 

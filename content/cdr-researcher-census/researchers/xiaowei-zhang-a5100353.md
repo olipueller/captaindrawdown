@@ -1,7 +1,7 @@
 ---
 title: "Xiaowei Zhang"
 description: "Xiaowei Zhang is a Senior Soil Carbon researcher at Nanjing Agricultural University in CN. With 36 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.397597
+date: 2026-08-11T01:33:11.352489
 url: "/cdr-researcher-census/researchers/xiaowei-zhang-a5100353/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "I. D. Dobreva"
 description: "I. D. Dobreva is a Senior Soil Carbon researcher at The Ohio State University in US. With 34 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.840080
+date: 2026-08-11T01:33:11.745211
 url: "/cdr-researcher-census/researchers/i-d-dobreva-a5045265/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Wavelet Analysis of GPR Data for Belowground Mass Assessment of Sorghum Hybrid for Soil Carbon Sequestration** (2023)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 2. **Ground Penetrating Radar for Belowground Phenotyping of High-biomass Grasses for Soil Carbon Sequestration** (2021)
    2 citations · General CDR

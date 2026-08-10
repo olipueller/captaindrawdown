@@ -1,7 +1,7 @@
 ---
 title: "Nathalie Monnerie"
 description: "Nathalie Monnerie is a Senior General CDR researcher. With 116 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.250209
+date: 2026-08-11T01:33:11.220935
 url: "/cdr-researcher-census/researchers/nathalie-monnerie-a5065748/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Solar-Powered Direct Air Capture: Techno-Economic and Environmental Assessment** (2024)
-   37 citations
+   40 citations
 
 2. **Techno-Economic Assessment of the Integration of Direct Air Capture and the Production of Solar Fuels** (2022)
    19 citations · DAC
@@ -55,7 +55,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    14 citations · DAC
 
 4. **A techno-economic and environmental evaluation of the integration of direct air capture with hydrogen derivatives production** (2024)
-   5 citations · DAC
+   6 citations · DAC
 
 5. **Synergies between Direct Air Capture and Solar Hydrogen andFuel Production** (2024)
    0 citations · DAC

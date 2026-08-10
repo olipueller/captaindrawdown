@@ -1,7 +1,7 @@
 ---
 title: "R. P. Mishra"
 description: "R. P. Mishra is a Senior Soil Carbon researcher at Central Institute for Research on Cattle in IN. With 60 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.414424
+date: 2026-08-11T01:33:11.367738
 url: "/cdr-researcher-census/researchers/r-p-mishra-a5101245/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long‐term impact of organic and inorganic fertilizers on soil organic carbon dynamics in a rice‐ wheat system** (2022)
-   24 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 2. **Influence of Different Nutrient Management Practices and Cropping Systems on Organic Carbon Pools in Typic Ustochrept Soil of Indo-Gangetic Plains in India** (2022)
    8 citations · Soil Carbon

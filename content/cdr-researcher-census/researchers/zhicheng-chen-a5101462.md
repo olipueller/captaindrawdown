@@ -1,7 +1,7 @@
 ---
 title: "Zhicheng Chen"
 description: "Zhicheng Chen is a Senior Soil Carbon researcher at Guigang City People's Hospital in CN. With 80 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.306804
+date: 2026-08-11T01:33:11.273855
 url: "/cdr-researcher-census/researchers/zhicheng-chen-a5101462/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Multi-year throughfall reduction enhanced the growth and non-structural carbohydrate storage of roots at the expenses of above-ground growth in a warm-temperate natural oak forest** (2023)
-   22 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 2. **Soil moisture shapes the environmental control mechanism on canopy conductance in a natural oak forest** (2022)
-   18 citations
+   19 citations
 
 3. **Drought impacts on carbon fluxes in diverse warm temperate natural forests** (2025)
    3 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Lingfang Ni"
 description: "Lingfang Ni is a Mid-career Soil Carbon researcher at Zhejiang Ocean University in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.340161
+date: 2026-08-11T01:33:12.205883
 url: "/cdr-researcher-census/researchers/lingfang-ni-a5077297/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Mineral Association and Microbial Processing Jointly Prolong Carbon Turnover in Coastal Wetlands** (2026)
-   9 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Paige Stanley"
 description: "Paige Stanley is a Mid-career Soil Carbon researcher at Colorado State University in US. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.402292
+date: 2026-08-11T01:33:11.356748
 url: "/cdr-researcher-census/researchers/paige-stanley-a5085434/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Valid inferences about soil carbon in heterogeneous landscapes** (2023)
-   83 citations
+   85 citations
 
 2. **Ruminating on soil carbon: Applying current understanding to inform grazing management** (2024)
-   62 citations · Soil Carbon
+   70 citations · Soil Carbon
 
 3. **Making soil carbon credits work for climate change mitigation** (2024)
    23 citations · General CDR

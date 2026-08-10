@@ -1,7 +1,7 @@
 ---
 title: "Baljeet Singh"
 description: "Baljeet Singh is a Senior DAC researcher at University of Helsinki in FI. With 50 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.224744
+date: 2026-08-11T01:33:11.197402
 url: "/cdr-researcher-census/researchers/baljeet-singh-a5027576/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,13 +48,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Silica Gel Supported Solid Amine Sorbents for <scp>CO<sub>2</sub></scp> Capture** (2024)
-   34 citations
+   37 citations
 
 2. **Indoor direct air capture using amorphous MOF pellets from blast furnace slag: Waste to porous functional materials** (2025)
    22 citations · DAC
 
 3. **Harnessing humidity for direct air capture: Moisture-swing sorbent design and mechanisms** (2025)
-   3 citations · DAC
+   4 citations · DAC
 
 4. **Silica Gel Supported Solid Amine Sorbent for CO2 Capture** (2024)
    2 citations

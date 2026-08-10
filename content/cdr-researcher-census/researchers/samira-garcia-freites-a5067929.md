@@ -1,7 +1,7 @@
 ---
 title: "Samira García-Freites"
 description: "Samira García-Freites is a Mid-career BECCS researcher at Centro de Investigación Docencia y Consultoria Administrativa in CO. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.722164
+date: 2026-08-11T01:33:11.640144
 url: "/cdr-researcher-census/researchers/samira-garcia-freites-a5067929/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **The greenhouse gas removal potential of bioenergy with carbon capture and storage (BECCS) to support the UK's net-zero emission target** (2021)
-   110 citations · BECCS
+   111 citations · BECCS
 
 ## External Profiles
 

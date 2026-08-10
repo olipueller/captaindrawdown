@@ -1,7 +1,7 @@
 ---
 title: "Yuchuan Fan"
 description: "Yuchuan Fan is a Mid-career Soil Carbon researcher at Jiyang College of Zhejiang A&F University in CN. With 54 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.538149
+date: 2026-08-11T01:33:11.474353
 url: "/cdr-researcher-census/researchers/yuchuan-fan-a5075374/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,25 +57,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    13 citations · Biochar
 
 3. **Decadal manure substitution reshapes microbial communities to drive plant and microbial carbon accumulation in soil carbon fractions** (2025)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
-4. **Effects of Adding Different Corn Residue Components on Soil and Aggregate Organic Carbon** (2025)
+4. **From Microbial Functions to Measurable Indicators: A Framework for Predicting Grassland Productivity and Stability** (2025)
+   8 citations · General CDR
+
+5. **Effects of Adding Different Corn Residue Components on Soil and Aggregate Organic Carbon** (2025)
    7 citations · Soil Carbon
-
-5. **From Microbial Functions to Measurable Indicators: A Framework for Predicting Grassland Productivity and Stability** (2025)
-   6 citations · General CDR
 
 6. **Divergent but complementary: vegetation-driven POC in marshes vs. mineral-shielded MAOC in tidal flats secure estuarine blue carbon** (2025)
    3 citations · Soil Carbon
 
-7. **Editorial: Understanding the relationship between extreme climate events and forest soil hydrology: implications for ecosystem functions** (2025)
+7. **From nitrogen addition to productivity: above–belowground mechanisms and nonlinear thresholds in Grasslands** (2026)
    2 citations · Soil Carbon
 
-8. **From nitrogen addition to productivity: above–belowground mechanisms and nonlinear thresholds in Grasslands** (2026)
-   1 citations · Soil Carbon
+8. **Recalcitrant organic carbon in deep soils plays a greater role in soil carbon sequestration under tidal flat than vegetated salt marsh** (2025)
+   2 citations · Soil Carbon
 
-9. **Recalcitrant organic carbon in deep soils plays a greater role in soil carbon sequestration under tidal flat than vegetated salt marsh** (2025)
-   1 citations · Soil Carbon
+9. **Editorial: Understanding the relationship between extreme climate events and forest soil hydrology: implications for ecosystem functions** (2025)
+   2 citations · Soil Carbon
 
 10. **Recycling Agricultural Liquid Waste and Industrial Waste for Improving Nitrate and Veterinary Antibiotics by Woodchip Bioreactor** (2022)
    0 citations · Biochar

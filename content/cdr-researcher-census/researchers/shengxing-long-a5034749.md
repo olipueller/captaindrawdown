@@ -1,7 +1,7 @@
 ---
 title: "Shengxing Long"
 description: "Shengxing Long is a Senior Biochar researcher at Peking University in CN. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.489357
+date: 2026-08-11T01:33:11.431485
 url: "/cdr-researcher-census/researchers/shengxing-long-a5034749/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 ## Top CDR Publications
 
-1. **Cd(II) removal from aqueous solutions by pomelo peel derived biochar in a permeable reactive barrier: modelling, optimization and mechanism** (2021)
-   11 citations · Biochar
+1. **Optimizing the Methylene Blue Removalfrom Aqueous Solution Using Pomelo Peel BasedBiochar Assisted by RSM and ANN-PSO** (2021)
+   12 citations · Biochar
 
-2. **Optimizing the Methylene Blue Removalfrom Aqueous Solution Using Pomelo Peel BasedBiochar Assisted by RSM and ANN-PSO** (2021)
-   10 citations · Biochar
+2. **Cd(II) removal from aqueous solutions by pomelo peel derived biochar in a permeable reactive barrier: modelling, optimization and mechanism** (2021)
+   11 citations · Biochar
 
 ## External Profiles
 

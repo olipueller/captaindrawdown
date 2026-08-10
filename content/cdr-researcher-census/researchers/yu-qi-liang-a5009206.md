@@ -1,7 +1,7 @@
 ---
 title: "Yu-Qi Liang"
 description: "Yu-Qi Liang is a Senior Soil Carbon researcher. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.134206
+date: 2026-08-11T01:33:12.023329
 url: "/cdr-researcher-census/researchers/yu-qi-liang-a5009206/"
 layout: "researcher"
 hiddenInHomeList: true

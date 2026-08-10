@@ -1,7 +1,7 @@
 ---
 title: "Yuankang Xiong"
 description: "Yuankang Xiong is a Mid-career BECCS researcher at Fudan University in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.356703
+date: 2026-08-11T01:33:11.317833
 url: "/cdr-researcher-census/researchers/yuankang-xiong-a5040268/"
 layout: "researcher"
 hiddenInHomeList: true

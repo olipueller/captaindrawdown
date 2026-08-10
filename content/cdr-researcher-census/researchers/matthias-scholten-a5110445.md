@@ -1,7 +1,7 @@
 ---
 title: "Matthias Scholten"
 description: "Matthias Scholten is a Senior DAC researcher. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.381372
+date: 2026-08-11T01:33:12.243491
 url: "/cdr-researcher-census/researchers/matthias-scholten-a5110445/"
 layout: "researcher"
 hiddenInHomeList: true

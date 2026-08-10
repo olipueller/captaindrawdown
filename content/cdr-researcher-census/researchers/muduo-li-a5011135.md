@@ -1,7 +1,7 @@
 ---
 title: "Muduo Li"
 description: "Muduo Li is a Mid-career Biochar researcher at Hong Kong University of Science and Technology in HK. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.839498
+date: 2026-08-11T01:33:11.744698
 url: "/cdr-researcher-census/researchers/muduo-li-a5011135/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Progressive development of cracks in biochar–cement composites through multiscale analysis** (2025)
-   6 citations · Biochar
+   9 citations · Biochar
 
 2. **Enhancing interface adhesion of 3D printable concrete by biochar integration** (2025)
    4 citations · Biochar

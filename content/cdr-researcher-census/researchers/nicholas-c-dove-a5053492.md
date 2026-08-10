@@ -1,7 +1,7 @@
 ---
 title: "Nicholas C. Dove"
 description: "Nicholas C. Dove is a Mid-career Soil Carbon researcher at Mayo Clinic Florida in US. With 39 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.203565
+date: 2026-08-11T01:33:11.177402
 url: "/cdr-researcher-census/researchers/nicholas-c-dove-a5053492/"
 layout: "researcher"
 hiddenInHomeList: true

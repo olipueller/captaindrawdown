@@ -1,7 +1,7 @@
 ---
 title: "Stefano Caserini"
 description: "Stefano Caserini is a Senior Ocean CDR researcher at University of Parma in IT. With 125 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.217010
+date: 2026-08-11T01:33:11.190043
 url: "/cdr-researcher-census/researchers/stefano-caserini-a5070147/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **The Availability of Limestone and Other Raw Materials for Ocean Alkalinity Enhancement** (2022)
-   125 citations · Enhanced Weathering
+   126 citations · Enhanced Weathering
 
 2. **Alkalinization Scenarios in the Mediterranean Sea for Efficient Removal of Atmospheric CO2 and the Mitigation of Ocean Acidification** (2021)
-   79 citations · General CDR
+   80 citations · General CDR
 
 3. **Life cycle assessment of ocean liming for carbon dioxide removal from the atmosphere** (2022)
-   72 citations
+   73 citations
 
 4. **Use of aircraft in ocean alkalinity enhancement** (2022)
-   29 citations · Ocean CDR
+   30 citations · Ocean CDR
 
 5. **Short-term impact assessment of ocean liming: A copepod exposure test** (2023)
    23 citations · Ocean CDR
@@ -69,16 +69,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    12 citations
 
 7. **Techno-economic evaluation of buffered accelerated weathering of limestone as a CO2 capture and storage option** (2023)
-   10 citations · Enhanced Weathering
+   11 citations · Enhanced Weathering
 
 8. **Energy demand and savings opportunities in the supply of limestone and olivine-rich rocks for geochemical carbon dioxide removal** (2024)
    6 citations · Enhanced Weathering
 
-9. **Assessment of potential environmental impacts of an Enhanced Rock Weathering process for carbon dioxide removal in the form of bicarbonates by means of Life Cycle Assessment** (2024)
-   1 citations · Enhanced Weathering
+9. **Evaluating rainbowing for ocean alkalinity enhancement** (2024)
+   1 citations · Ocean CDR
 
-10. **Monitoring, reporting and verification for a marine carbon dioxide removal process: a case study** (2024)
-   1 citations · General CDR
+10. **Assessment of potential environmental impacts of an Enhanced Rock Weathering process for carbon dioxide removal in the form of bicarbonates by means of Life Cycle Assessment** (2024)
+   1 citations · Enhanced Weathering
 
 ## External Profiles
 

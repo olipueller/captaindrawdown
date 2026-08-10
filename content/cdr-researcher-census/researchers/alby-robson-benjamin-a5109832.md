@@ -1,7 +1,7 @@
 ---
 title: "Alby Robson Benjamin"
 description: "Alby Robson Benjamin is a Mid-career General CDR researcher at American College, Madurai in IN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.332982
+date: 2026-08-11T01:33:12.199658
 url: "/cdr-researcher-census/researchers/alby-robson-benjamin-a5109832/"
 layout: "researcher"
 hiddenInHomeList: true

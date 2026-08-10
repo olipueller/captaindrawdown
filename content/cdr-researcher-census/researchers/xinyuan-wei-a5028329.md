@@ -1,7 +1,7 @@
 ---
 title: "Xinyuan Wei"
 description: "Xinyuan Wei is a Mid-career Soil Carbon researcher at Institute of Environment and Sustainable Development in Agriculture in CN. With 61 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.424065
+date: 2026-08-11T01:33:11.376517
 url: "/cdr-researcher-census/researchers/xinyuan-wei-a5028329/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Ocean carbon from space: Current status and priorities for the next decade** (2023)
-   62 citations · General CDR
+   64 citations · General CDR
 
 2. **The North American Greenhouse Gas Budget: Emissions, Removals, and Integration for CO<sub>2</sub>, CH<sub>4</sub>, and N<sub>2</sub>O (2010–2019): Results From the Second REgional Carbon Cycle Assessment and Processes Study (RECCAP2)** (2025)
    11 citations · General CDR
@@ -65,10 +65,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 6. **Plastic mulching in agriculture: Dual effects on soil carbon and enzyme activity versus microplastic and phthalate contamination** (2025)
    2 citations · Soil Carbon
 
-7. **Carbon storage and allocation in traditionally managed seminatural wild blueberry ecosystems** (2026)
+7. **Microbial adaptation to water erosion stress accelerated organic carbon decomposition** (2026)
    0 citations · Soil Carbon
 
-8. **Organic amendments alleviate SOC loss from erosion-prone sloping farmland by enhancing physical protection and chemical stabilization** (2026)
+8. **Carbon storage and allocation in traditionally managed seminatural wild blueberry ecosystems** (2026)
+   0 citations · Soil Carbon
+
+9. **Organic amendments alleviate SOC loss from erosion-prone sloping farmland by enhancing physical protection and chemical stabilization** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

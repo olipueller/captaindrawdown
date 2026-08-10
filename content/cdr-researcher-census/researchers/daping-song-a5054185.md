@@ -1,7 +1,7 @@
 ---
 title: "Daping Song"
 description: "Daping Song is a Mid-career Soil Carbon researcher at Southwest University of Science and Technology in CN. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.782053
+date: 2026-08-11T01:33:11.694093
 url: "/cdr-researcher-census/researchers/daping-song-a5054185/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Integrating straw return and tillage practices to enhance soil organic carbon sequestration in wheat–maize rotation systems in the North China Plain** (2025)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 2. **Integrating Straw Return and Tillage Practices to Enhance Soil Organic Carbon Sequestration in Wheat-Maize Rotation Systems in North China** (2024)
    0 citations · Soil Carbon

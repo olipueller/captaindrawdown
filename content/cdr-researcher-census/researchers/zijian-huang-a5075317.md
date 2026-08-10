@@ -1,7 +1,7 @@
 ---
 title: "Zijian Huang"
 description: "Zijian Huang is an Early-career Biochar researcher at Anhui Agricultural University in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.446187
+date: 2026-08-11T01:33:12.303880
 url: "/cdr-researcher-census/researchers/zijian-huang-a5075317/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Effects of KMnO4 pre- and post-treatments on biochar properties and its adsorption of tetracycline** (2023)
-   64 citations · Biochar
+   65 citations · Biochar
 
 2. **Preparation of magnetic porous biochar through hydrothermal pretreatment combined with K2FeO4 activation to improve tetracycline removal** (2022)
    48 citations · Biochar

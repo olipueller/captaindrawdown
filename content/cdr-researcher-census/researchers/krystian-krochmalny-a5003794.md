@@ -1,7 +1,7 @@
 ---
 title: "Krystian Krochmalny"
 description: "Krystian Krochmalny is a Mid-career BECCS researcher at Wrocław University of Science and Technology in PL. With 35 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.517431
+date: 2026-08-11T01:33:11.455670
 url: "/cdr-researcher-census/researchers/krystian-krochmalny-a5003794/"
 layout: "researcher"
 hiddenInHomeList: true

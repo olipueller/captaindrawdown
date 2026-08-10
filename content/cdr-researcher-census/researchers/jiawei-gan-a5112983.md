@@ -1,7 +1,7 @@
 ---
 title: "Jiawei Gan"
 description: "Jiawei Gan is an Early-career Soil Carbon researcher at Kunming University in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.552575
+date: 2026-08-11T01:33:12.401061
 url: "/cdr-researcher-census/researchers/jiawei-gan-a5112983/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Soil Carbon
 
 2. **Impacts of Spartina alterniflora invasion on fractions and fungal communities of mineral-associated organic carbon in subtropical coastal wetlands of China** (2026)
-   0 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

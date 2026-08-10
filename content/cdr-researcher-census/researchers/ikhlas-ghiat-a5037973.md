@@ -1,7 +1,7 @@
 ---
 title: "Ikhlas Ghiat"
 description: "Ikhlas Ghiat is a Mid-career General CDR researcher at Hamad Bin Khalifa University in QA. With 32 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.294639
+date: 2026-08-11T01:33:11.261899
 url: "/cdr-researcher-census/researchers/ikhlas-ghiat-a5037973/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **A comprehensive review of biomass based thermochemical conversion technologies integrated with CO2 capture and utilisation within BECCS networks** (2021)
-   269 citations · BECCS
+   274 citations · BECCS
 
 2. **Life cycle cost analysis of direct air capture integrated with HVAC systems: Utilization routes in formic acid production and agricultural greenhouses** (2025)
-   15 citations · DAC
+   16 citations · DAC
 
 3. **Technoeconomic Analysis of a Novel Amine-Free Direct Air Capture System Integrated with HVAC** (2025)
    1 citations

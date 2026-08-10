@@ -1,7 +1,7 @@
 ---
 title: "Jikai Lu"
 description: "Jikai Lu is a Mid-career Biochar researcher at Ocean University of China in CN. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.385620
+date: 2026-08-11T01:33:12.247679
 url: "/cdr-researcher-census/researchers/jikai-lu-a5037724/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Large-scale soil application of hydrochar: Reducing its polycyclic aromatic hydrocarbon content and toxicity by heating** (2024)
-   10 citations · Biochar
+   11 citations · Biochar
 
 2. **Moderate Heating Reduces Contents and Toxicity Related to Polycyclic Aromatic Hydrocarbons of Hydrochar** (2024)
    0 citations · Biochar

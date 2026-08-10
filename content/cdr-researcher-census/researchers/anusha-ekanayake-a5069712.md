@@ -1,7 +1,7 @@
 ---
 title: "Anusha Ekanayake"
 description: "Anusha Ekanayake is a Mid-career Biochar researcher at University of Peradeniya in LK. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.603826
+date: 2026-08-11T01:33:11.533347
 url: "/cdr-researcher-census/researchers/anusha-ekanayake-a5069712/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Emerging contaminants in polluted waters: Harnessing Biochar's potential for effective treatment** (2024)
-   39 citations · Biochar
+   42 citations · Biochar
 
 ## External Profiles
 

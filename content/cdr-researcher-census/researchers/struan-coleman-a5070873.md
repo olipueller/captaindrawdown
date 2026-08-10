@@ -1,7 +1,7 @@
 ---
 title: "Struan Coleman"
 description: "Struan Coleman is a Mid-career Ocean CDR researcher at Connecticut Sea Grant in US. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.229926
+date: 2026-08-11T01:33:12.110234
 url: "/cdr-researcher-census/researchers/struan-coleman-a5070873/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Quantifying baseline costs and cataloging potential optimization strategies for kelp aquaculture carbon dioxide removal** (2022)
-   47 citations · General CDR
+   49 citations · General CDR
 
 2. **Identifying Scaling Pathways and Research Priorities for Kelp Aquaculture Nurseries Using a Techno-Economic Modeling Approach** (2022)
    29 citations · General CDR

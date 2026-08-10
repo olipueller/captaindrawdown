@@ -1,7 +1,7 @@
 ---
 title: "Adriaan van der Loos"
 description: "Adriaan van der Loos is a Mid-career General CDR researcher. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.352249
+date: 2026-08-11T01:33:12.216546
 url: "/cdr-researcher-census/researchers/adriaan-van-der-loos-a5110807/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The intangible technological innovation system: The role and influence of voluntary and compliance carbon markets on carbon dioxide removal in the European Union** (2024)
-   9 citations · General CDR
+   10 citations · General CDR
 
 ## External Profiles
 

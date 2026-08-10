@@ -1,7 +1,7 @@
 ---
 title: "Olusola Bamisile"
 description: "Olusola Bamisile is an Eminent General CDR researcher at Chengdu University of Technology in CN. With 211 publications and an h-index of 43, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.119691
+date: 2026-08-11T01:33:11.098715
 url: "/cdr-researcher-census/researchers/olusola-bamisile-a5057518/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The synergistic role of carbon dioxide removal and emission reductions in achieving the Paris Agreement goal** (2024)
-   80 citations · General CDR
+   81 citations · General CDR
 
 2. **The complementary role of carbon dioxide removal: A catalyst for advancing the COP28 pledges towards the 1.5 °C Paris Agreement target** (2024)
    31 citations · General CDR
@@ -60,7 +60,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    25 citations · General CDR
 
 4. **Near-term carbon dioxide removal deployment can minimize disruptive pace of decarbonization and economic risks towards United States’ net-zero goal** (2024)
-   17 citations · General CDR
+   18 citations · General CDR
 
 5. **Ambitious near-term decarbonization and direct air capture deployment in Latin America's net-zero goal** (2023)
    13 citations · DAC

@@ -1,7 +1,7 @@
 ---
 title: "Xiaofang Ji"
 description: "Xiaofang Ji is a Mid-career Soil Carbon researcher at Beijing Forestry University in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.477760
+date: 2026-08-11T01:33:12.332580
 url: "/cdr-researcher-census/researchers/xiaofang-ji-a5047552/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Small straw addition enhances straw decomposition and carbon stabilized in soil aggregates over time** (2024)
-   34 citations · Soil Carbon
+   40 citations · Soil Carbon
 
 ## External Profiles
 

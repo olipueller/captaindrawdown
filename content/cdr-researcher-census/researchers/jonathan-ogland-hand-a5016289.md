@@ -1,7 +1,7 @@
 ---
 title: "Jonathan Ogland-Hand"
 description: "Jonathan Ogland-Hand is a Mid-career DAC researcher at Carbon Solutions (United States) in US. With 60 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.823372
+date: 2026-08-11T01:33:11.730499
 url: "/cdr-researcher-census/researchers/jonathan-ogland-hand-a5016289/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,18 +51,21 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **The performance of solvent-based direct air capture across geospatial and temporal climate regimes** (2024)
-   19 citations · DAC
+   20 citations · DAC
 
 2. **Meeting Net-Zero America Direct Air Capture Targets with Sedimentary Basin Geothermal Heat While Considering Environmental Justice** (2024)
    2 citations · DAC
 
-3. **Geospatial cost comparison of thermal energy technologies: a sorbent-based direct air capture case study** (2026)
+3. **Spatial Heterogeneity in Technology Costs and Preferences for Direct Air Capture in the United States** (2026)
    0 citations · DAC
 
-4. **Spatial Granularity Matters: Weather Data Resolution Impacts Direct Air Capture Performance and Siting Decisions** (2024)
+4. **Geospatial cost comparison of thermal energy technologies: a sorbent-based direct air capture case study** (2026)
+   0 citations · DAC
+
+5. **Spatial Granularity Matters: Weather Data Resolution Impacts Direct Air Capture Performance and Siting Decisions** (2024)
    0 citations
 
-5. **Mapping the Weather-Water Nexus: Comparing the Performance, Weather Sensitivity and Water Consumption for Liquid-solvent Direct Air Capture** (2024)
+6. **Mapping the Weather-Water Nexus: Comparing the Performance, Weather Sensitivity and Water Consumption for Liquid-solvent Direct Air Capture** (2024)
    0 citations
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Jing Sheng"
 description: "Jing Sheng is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 107 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.421640
+date: 2026-08-11T01:33:11.374303
 url: "/cdr-researcher-census/researchers/jing-sheng-a5110945/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,13 +48,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Organic fertilizer substitution increased soil organic carbon through the association of microbial necromass C with iron oxides** (2024)
-   25 citations · Soil Carbon
+   27 citations · Soil Carbon
 
 2. **Green manure rotation and application increase rice yield and soil carbon in the Yangtze River valley of China** (2022)
-   23 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 3. **Sustainability assessment on paddy-upland crop rotations by carbon, nitrogen and water footprint integrated analysis: A field scale investigation** (2023)
-   21 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 4. **The effect on the carbon footprint of the rice-wheat system of substituting chemical fertilizers by pig manure: The results of a field experiment** (2024)
    12 citations · Soil Carbon

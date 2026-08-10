@@ -1,7 +1,7 @@
 ---
 title: "Yogeshwar Singh"
 description: "Yogeshwar Singh is a Senior Soil Carbon researcher at Maharani Laxmi Bai Medical College in IN. With 50 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.362861
+date: 2026-08-11T01:33:11.323202
 url: "/cdr-researcher-census/researchers/yogeshwar-singh-a5111521/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,17 +53,20 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **How grasses stabilize soil organic carbon in aggregates of semi-arid ecologically restored land: Evidence from 13C natural abundance** (2024)
    8 citations · Soil Carbon
 
-2. **Climate smart land configurations and cropping systems diversification sustaining soil–water–carbon synergy and resource use efficiency** (2025)
+2. **Grasses improve soil multifunctionality by strengthening aggregate-carbon-enzyme linkage in semi-arid degraded land** (2025)
    2 citations · Soil Carbon
 
-3. **Grasses improve soil multifunctionality by strengthening aggregate-carbon-enzyme linkage in semi-arid degraded land** (2025)
-   1 citations · Soil Carbon
+3. **Climate smart land configurations and cropping systems diversification sustaining soil–water–carbon synergy and resource use efficiency** (2025)
+   2 citations · Soil Carbon
 
 4. **Scenario of Crop Residue Generation and Sustainable Management** (2025)
    1 citations · Soil Carbon
 
 5. **Biochar Integration Sustaining Carbon-Nutrient Cycling and Soil Restoration** (2025)
    1 citations · Biochar
+
+6. **Biochemical transformation of agricultural residues into biostimulants for climate‑resilient agriculture: Mechanistic insights and circular bioeconomy** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

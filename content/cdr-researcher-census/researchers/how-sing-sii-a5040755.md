@@ -1,7 +1,7 @@
 ---
 title: "How Sing Sii"
 description: "How Sing Sii is a Senior Biochar researcher at University of Technology Sarawak. With 7 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.054153
+date: 2026-08-11T01:33:11.928322
 url: "/cdr-researcher-census/researchers/how-sing-sii-a5040755/"
 layout: "researcher"
 hiddenInHomeList: true

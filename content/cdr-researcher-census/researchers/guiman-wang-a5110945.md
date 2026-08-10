@@ -1,7 +1,7 @@
 ---
 title: "Guiman Wang"
 description: "Guiman Wang is a Mid-career Soil Carbon researcher at Jilin Meteorological Bureau in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.919234
+date: 2026-08-11T01:33:11.816829
 url: "/cdr-researcher-census/researchers/guiman-wang-a5110945/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of Long-Term Straw Return and Environmental Factors on the Spatiotemporal Variability of Soil Organic Matter in the Black Soil Region: A Case Study** (2022)
-   23 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 2. **Quantification of the effects of long-term straw return on soil organic matter spatiotemporal variation: a case study in a typical black soil region** (2023)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 3. **Quantification of the effects of long-term straw return on soil organic matter spatiotemporal variation: A case study in typical black soil region** (2022)
    5 citations · Soil Carbon

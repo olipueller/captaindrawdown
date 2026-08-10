@@ -1,7 +1,7 @@
 ---
 title: "Zhongkui Jia"
 description: "Zhongkui Jia is a Senior Soil Carbon researcher at Beijing Forestry University in CN. With 54 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.248944
+date: 2026-08-11T01:33:12.127685
 url: "/cdr-researcher-census/researchers/zhongkui-jia-a5102812/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Altitudinal Variations in Coniferous Vegetation and Soil Carbon Storage in Kalam Temperate Forest, Pakistan** (2025)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 2. **Evaluating biomass and carbon stock responses to thinning and pruning in mature Larix principis-rupprechtii Mayr stands: a case study from Northern China** (2025)
    2 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Kazuki Togami"
 description: "Kazuki Togami is a Senior Soil Carbon researcher at Tohoku Agricultural Research Center in JP. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.183440
+date: 2026-08-11T01:33:12.067892
 url: "/cdr-researcher-census/researchers/kazuki-togami-a5081761/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of long-term application of inorganic fertilizer and organic amendments on the amounts of fractionated soil organic carbon and their determining factors in paddy fields** (2024)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 2. **Effects of long-term application of inorganic fertilizers and organic amendments on the turnover rates of fractionated soil organic carbon and their determining factors in paddy fields** (2024)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 ## External Profiles
 

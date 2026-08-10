@@ -1,7 +1,7 @@
 ---
 title: "Annieke Borst"
 description: "Annieke Borst is a Mid-career Soil Carbon researcher at Radboud University Nijmegen in NL. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.782367
+date: 2026-08-11T01:33:11.694362
 url: "/cdr-researcher-census/researchers/annieke-borst-a5063133/"
 layout: "researcher"
 hiddenInHomeList: true

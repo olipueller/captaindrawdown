@@ -1,7 +1,7 @@
 ---
 title: "Zhuqing Liu"
 description: "Zhuqing Liu is a Senior Soil Carbon researcher at Northeast Agricultural University in CN. With 98 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.260499
+date: 2026-08-11T01:33:11.230173
 url: "/cdr-researcher-census/researchers/zhuqing-liu-a5101595/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    18 citations · Soil Carbon
 
 2. **Effects of artificial humic acid on decomposition of returning straw and enhancement of carbon sequestration** (2024)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 3. **Microbial community assemblage altered by coprecipitation of artificial humic substances and ferrihydrite: Implications for carbon fixation pathway transformation** (2024)
-   9 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 4. **Engineered biochar with MgO impregnation: A phosphorus vector bridging aquatic systems and agricultural soils via targeted adsorption and controlled release** (2025)
    5 citations · Biochar

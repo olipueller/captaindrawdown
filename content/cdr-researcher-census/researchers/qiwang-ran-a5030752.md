@@ -1,7 +1,7 @@
 ---
 title: "Qiwang Ran"
 description: "Qiwang Ran is an Early-career Biochar researcher at Guangdong Academy of Sciences in CN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.144623
+date: 2026-08-11T01:33:12.033374
 url: "/cdr-researcher-census/researchers/qiwang-ran-a5030752/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Carbon-based strategy enables sustainable remediation of paddy soils in harmony with carbon neutrality** (2022)
-   68 citations · Biochar
+   69 citations · Biochar
 
 ## External Profiles
 

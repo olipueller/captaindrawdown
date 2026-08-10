@@ -1,7 +1,7 @@
 ---
 title: "Ponmani Subramanian"
 description: "Ponmani Subramanian is an Early-career Biochar researcher at ASA College in US. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.283080
+date: 2026-08-11T01:33:12.155990
 url: "/cdr-researcher-census/researchers/ponmani-subramanian-a5091332/"
 layout: "researcher"
 hiddenInHomeList: true

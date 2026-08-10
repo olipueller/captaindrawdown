@@ -1,7 +1,7 @@
 ---
 title: "Mathew J. Rasmussen"
 description: "Mathew J. Rasmussen is a Senior DAC researcher at National Laboratory of the Rockies in US. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.483183
+date: 2026-08-11T01:33:11.426436
 url: "/cdr-researcher-census/researchers/mathew-j-rasmussen-a5021879/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Influence of residual chlorine on Ru/TiO2 active sites during CO2 methanation** (2023)
-   29 citations
+   30 citations
 
 2. **Application of Solid-Supported Amines for Thermocatalytic Reactive CO<sub>2</sub> Capture** (2025)
-   11 citations · DAC
+   12 citations · DAC
 
 3. **Improving the direct air capture capacity of grafted amines <i>via</i> thermal treatment** (2024)
-   4 citations
+   5 citations
 
 4. **Efficient synthetic natural gas production from direct air capture using titania-based dual function materials** (2025)
    1 citations

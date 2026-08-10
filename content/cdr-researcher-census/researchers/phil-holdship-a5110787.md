@@ -1,7 +1,7 @@
 ---
 title: "Phil Holdship"
 description: "Phil Holdship is a Mid-career Enhanced Weathering researcher. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.436454
+date: 2026-08-11T01:33:12.294031
 url: "/cdr-researcher-census/researchers/phil-holdship-a5110787/"
 layout: "researcher"
 hiddenInHomeList: true

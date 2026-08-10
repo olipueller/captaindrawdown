@@ -1,7 +1,7 @@
 ---
 title: "David Schubert"
 description: "David Schubert is a Mid-career Soil Carbon researcher at Bavarian State Research Center for Agriculture in DE. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.395580
+date: 2026-08-11T01:33:11.350572
 url: "/cdr-researcher-census/researchers/david-schubert-a5029638/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil organic carbon sequestration in agricultural long-term field experiments as derived from particulate and mineral-associated organic matter** (2023)
-   72 citations · Soil Carbon
+   73 citations · Soil Carbon
 
 ## External Profiles
 

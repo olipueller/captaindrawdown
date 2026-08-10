@@ -1,7 +1,7 @@
 ---
 title: "Hanqiang Lyu"
 description: "Hanqiang Lyu is a Mid-career Soil Carbon researcher at Gansu Agricultural University in CN. With 16 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.745631
+date: 2026-08-11T01:33:11.661362
 url: "/cdr-researcher-census/researchers/hanqiang-lyu-a5114192/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Reducing nitrogen application by 20% under the condition of multiple cropping using green manure after wheat harvesting can mitigate carbon emission without sacrificing maize yield in arid areas** (2023)
-   30 citations · Soil Carbon
+   32 citations · Soil Carbon
 
 2. **No-tillage mulch with green manure retention can mitigate carbon emissions, increase crop productivity, and promote agricultural sustainability** (2024)
    7 citations · Soil Carbon

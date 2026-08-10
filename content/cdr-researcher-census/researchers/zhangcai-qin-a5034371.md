@@ -1,7 +1,7 @@
 ---
 title: "Zhangcai Qin"
 description: "Zhangcai Qin is a Senior Soil Carbon researcher at Sun Yat-sen University in CN. With 149 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.111318
+date: 2026-08-11T01:33:11.090766
 url: "/cdr-researcher-census/researchers/zhangcai-qin-a5034371/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,25 +51,25 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Global spatially explicit carbon emissions from land-use change over the past six decades (1961–2020)** (2024)
-   74 citations · General CDR
+   79 citations · General CDR
 
 2. **Increased straw return promoted soil organic carbon accumulation in China's croplands over the past 40 years** (2024)
-   36 citations · Soil Carbon
+   39 citations · Soil Carbon
 
 3. **Carbon sequestration in soil and biomass under native and non-native mangrove ecosystems** (2022)
-   29 citations · Soil Carbon
+   31 citations · Soil Carbon
 
 4. **Building soil to reduce climate change impacts on global crop yield** (2023)
-   27 citations · Soil Carbon
+   28 citations · Soil Carbon
 
 5. **Land availability and policy commitments limit global climate mitigation from forestation** (2025)
-   22 citations · General CDR
+   24 citations · General CDR
 
 6. **Sustainable bioenergy contributes to cost-effective climate change mitigation in China** (2024)
    18 citations · BECCS
 
 7. **Asynchronous Methane and Carbon Dioxide Fluxes Drive Temporal Variability of Mangrove Blue Carbon Sequestration** (2024)
-   16 citations
+   17 citations
 
 8. **Methane and nitrous oxide emissions and related microbial communities from mangrove stems on Qi'ao Island, Pearl River Estuary in China** (2024)
    13 citations

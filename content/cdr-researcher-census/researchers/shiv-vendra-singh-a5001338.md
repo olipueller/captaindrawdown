@@ -1,7 +1,7 @@
 ---
 title: "Shiv Vendra Singh"
 description: "Shiv Vendra Singh is a Mid-career Biochar researcher at Central Agricultural University in IN. With 57 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.436322
+date: 2026-08-11T01:33:11.386957
 url: "/cdr-researcher-census/researchers/shiv-vendra-singh-a5001338/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,25 +51,25 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Characterization, bioenergy value, and thermal stability of biochars derived from diverse agriculture and forestry lignocellulosic wastes** (2021)
-   87 citations · Biochar
+   88 citations · Biochar
 
 2. **Biochar application in constructed wetlands for wastewater treatment: A critical review** (2024)
-   52 citations · Biochar
+   57 citations · Biochar
 
 3. **Soil carbon-nutrient cycling, energetics, and carbon footprint in calcareous soils with adoption of long-term conservation tillage practices and cropping systems diversification** (2023)
-   42 citations · Soil Carbon
+   43 citations · Soil Carbon
 
 4. **Microbial dynamics and carbon stability under biochar-amended soils** (2024)
    5 citations · Biochar
 
-5. **Crop waste conversion into biochar: an overview** (2024)
+5. **Holistic Approaches to Enhancing Climate Resilience and Biodiversity Conservation for Food Security** (2025)
+   3 citations · General CDR
+
+6. **Crop waste conversion into biochar: an overview** (2024)
    3 citations · Biochar
 
-6. **Climate smart land configurations and cropping systems diversification sustaining soil–water–carbon synergy and resource use efficiency** (2025)
+7. **Climate smart land configurations and cropping systems diversification sustaining soil–water–carbon synergy and resource use efficiency** (2025)
    2 citations · Soil Carbon
-
-7. **Holistic Approaches to Enhancing Climate Resilience and Biodiversity Conservation for Food Security** (2025)
-   2 citations · General CDR
 
 8. **Scenario of Crop Residue Generation and Sustainable Management** (2025)
    1 citations · Soil Carbon

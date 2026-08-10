@@ -1,7 +1,7 @@
 ---
 title: "Evangelina Pareja‐Sánchez"
 description: "Evangelina Pareja‐Sánchez is a Mid-career Soil Carbon researcher at Olivet University in US. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.712916
+date: 2026-08-11T01:33:11.632056
 url: "/cdr-researcher-census/researchers/evangelina-parejasanchez-a5081275/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Does spontaneous cover crop increase the stocks of soil organic carbon and nitrogen in commercial olive orchard?** (2024)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 2. **Conservation Practices Boost Soil-Protected Organic Carbon Stocks in Olive Orchards** (2024)
    7 citations · Soil Carbon

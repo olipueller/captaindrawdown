@@ -1,7 +1,7 @@
 ---
 title: "Yunchuan Hu"
 description: "Yunchuan Hu is a Senior Soil Carbon researcher at Shangqiu Institute of Technology in CN. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.077048
+date: 2026-08-11T01:33:11.970506
 url: "/cdr-researcher-census/researchers/yunchuan-hu-a5017864/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term regulation of maize crop residue carbon accumulation in soil and aggregates by epigeic and endogeic earthworms is tillage regime-specific** (2025)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 2. **Regulation Effects of Epigeic and Endogeic Earthworms on Residue Carbon Accumulation in Soil and Aggregates Under Long-Term Simulated Tillage Regimes** (2022)
    0 citations · Soil Carbon

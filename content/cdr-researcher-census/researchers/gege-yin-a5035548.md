@@ -1,7 +1,7 @@
 ---
 title: "Gege Yin"
 description: "Gege Yin is a Mid-career Biochar researcher at Peking University in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.096275
+date: 2026-08-11T01:33:11.988053
 url: "/cdr-researcher-census/researchers/gege-yin-a5035548/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    42 citations · Biochar
 
 2. **Enhanced landfill leachate treatment performance by adsorption-assisted membrane distillation** (2023)
-   22 citations
+   24 citations
 
 3. **Do long-term high nitrogen inputs change the composition of soil dissolved organic matter in a primary tropical forest?** (2022)
    18 citations · Soil Carbon

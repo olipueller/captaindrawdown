@@ -1,7 +1,7 @@
 ---
 title: "Carlos Roberto Pinheiro"
 description: "Carlos Roberto Pinheiro is a Senior Soil Carbon researcher at Universidade Federal Rural do Rio de Janeiro in BR. With 82 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.715681
+date: 2026-08-11T01:33:11.634723
 url: "/cdr-researcher-census/researchers/carlos-roberto-pinheiro-a5079535/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Cover crops enhance soil health, crop yield and resilience of tropical agroecosystem** (2025)
-   49 citations · Soil Carbon
+   52 citations · Soil Carbon
 
 2. **Carbon farming initiative: a national-scale public-private partnership to promote regenerative agriculture in Brazil** (2024)
    16 citations · General CDR
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    4 citations
 
 5. **Soil carbon storage in Brazilian drylands: A review** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 6. **Drivers of Carbon Stabilization and Sequestration in Brazil's Black Soils** (2024)
    0 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Kiah Eng Lim"
 description: "Kiah Eng Lim is a Mid-career Ocean CDR researcher at National University of Singapore in SG. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.489087
+date: 2026-08-11T01:33:12.343332
 url: "/cdr-researcher-census/researchers/kiah-eng-lim-a5006677/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Edge effects impact blue carbon dynamics across coastal ecotones in a tropical seascape** (2024)
-   5 citations · General CDR
+   6 citations · General CDR
 
 2. **Comment on egusphere-2025-6519** (2026)
    0 citations · Ocean CDR

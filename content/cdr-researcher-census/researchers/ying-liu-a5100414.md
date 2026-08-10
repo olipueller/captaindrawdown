@@ -1,7 +1,7 @@
 ---
 title: "Ying Liu"
 description: "Ying Liu is a Senior Biochar researcher at Jinan University in CN. With 31 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.499435
+date: 2026-08-11T01:33:11.440091
 url: "/cdr-researcher-census/researchers/ying-liu-a5100414/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Interannual and spatial variability of net ecosystem production in forests explained by an integrated physiological indicator in summer** (2021)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 2. **Promoted sequestration and photo-induced destruction of perfluorooctane sulfonate using photoregenerable β-Ga2O3-functionalized biochar: superior defluorination and mechanistic insights** (2026)
    0 citations · Biochar

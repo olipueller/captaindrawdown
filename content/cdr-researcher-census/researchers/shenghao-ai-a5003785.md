@@ -1,7 +1,7 @@
 ---
 title: "Shenghao Ai"
 description: "Shenghao Ai is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 32 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.639694
+date: 2026-08-11T01:33:11.566323
 url: "/cdr-researcher-census/researchers/shenghao-ai-a5003785/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations · Soil Carbon
 
 2. **Slope Aspect Influences the Organic Carbon Content and Stock in Soil Aggregates of Cut Slopes in the Alpine Region of Southwest China** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

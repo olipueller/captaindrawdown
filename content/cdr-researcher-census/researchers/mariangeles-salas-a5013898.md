@@ -1,7 +1,7 @@
 ---
 title: "Mariangeles Salas"
 description: "Mariangeles Salas is a Mid-career Biochar researcher at North Carolina State University in US. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.417458
+date: 2026-08-11T01:33:12.276692
 url: "/cdr-researcher-census/researchers/mariangeles-salas-a5013898/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Upconversion of non-recycled MSW paper fractions into biochar via slow pyrolysis and life cycle analysis: Pathways to net negative GHG emission** (2025)
-   1 citations · Biochar
+   2 citations · Biochar
 
 ## External Profiles
 

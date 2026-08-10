@@ -1,7 +1,7 @@
 ---
 title: "Ahmad Hassan"
 description: "Ahmad Hassan is a Mid-career Ocean CDR researcher at University of Houston in US. With 16 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.399416
+date: 2026-08-11T01:33:12.260075
 url: "/cdr-researcher-census/researchers/ahmad-hassan-a5101818/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Direct ocean capture: the emergence of electrochemical processes for oceanic carbon removal** (2023)
-   66 citations · Ocean CDR
+   69 citations · Ocean CDR
 
 2. **Parametric Optimization and Performance Assessment of 50 MWe Parabolic Trough Power Plant** (2024)
    1 citations

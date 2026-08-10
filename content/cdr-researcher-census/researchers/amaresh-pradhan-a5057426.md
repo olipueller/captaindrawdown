@@ -1,7 +1,7 @@
 ---
 title: "Amaresh Pradhan"
 description: "Amaresh Pradhan is a Mid-career Soil Carbon researcher at Indian Agricultural Research Institute in IN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.208795
+date: 2026-08-11T01:33:12.090933
 url: "/cdr-researcher-census/researchers/amaresh-pradhan-a5057426/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Dual-crop basis residue-retained bed-planting and zinc fertilization lead to improved food-energy-water-carbon nexus in pearl millet-wheat cropping system in semi-arid agro-ecologies** (2025)
-   9 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 ## External Profiles
 

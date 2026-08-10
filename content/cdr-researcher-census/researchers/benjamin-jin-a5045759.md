@@ -1,7 +1,7 @@
 ---
 title: "Benjamin Jin"
 description: "Benjamin Jin is an Early-career Ocean CDR researcher at National Institutes of Health in US. With 11 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.399002
+date: 2026-08-11T01:33:12.259724
 url: "/cdr-researcher-census/researchers/benjamin-jin-a5045759/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Coccolithophores and diatoms resilient to ocean alkalinity enhancement: A glimpse of hope?** (2023)
-   84 citations · Ocean CDR
+   86 citations · Ocean CDR
 
 2. **Abrupt alkalinization alters microbial diversity and promotes the proliferation of marine parasites in coastal microcosm experiments** (2026)
    0 citations · General CDR

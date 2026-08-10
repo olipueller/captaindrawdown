@@ -1,7 +1,7 @@
 ---
 title: "Hind Jihad Kadhim Shabbani"
 description: "Hind Jihad Kadhim Shabbani is a Mid-career BECCS researcher at University of Al-Qadisiyah in IQ. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.867650
+date: 2026-08-11T01:33:11.769693
 url: "/cdr-researcher-census/researchers/hind-jihad-kadhim-shabbani-a5004287/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Biomethane upgrading to transportation fuel quality using spent coffee for carbon dioxide capture in pressure swing adsorption** (2022)
-   37 citations · BECCS
+   38 citations · BECCS
 
 ## External Profiles
 

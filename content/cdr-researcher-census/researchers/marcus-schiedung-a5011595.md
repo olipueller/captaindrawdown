@@ -1,7 +1,7 @@
 ---
 title: "Marcus Schiedung"
 description: "Marcus Schiedung is a Mid-career Soil Carbon researcher at Johann Heinrich von Thünen-Institut in DE. With 69 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.489016
+date: 2026-08-11T01:33:11.431203
 url: "/cdr-researcher-census/researchers/marcus-schiedung-a5011595/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,16 +54,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    64 citations · Soil Carbon
 
 2. **Root litter quality drives the dynamic of native mineral-associated organic carbon in a temperate agricultural soil** (2023)
-   28 citations
+   30 citations
 
 3. **Uncertainties of enhanced rock weathering for climate-change mitigation** (2026)
-   6 citations · Enhanced Weathering
+   8 citations · Enhanced Weathering
 
 4. **Ten-year effects of perennial cropping systems on soil organic carbon stock and stability in sandy soils: Mechanisms and biochemical drivers** (2025)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 5. **Increased Retention of Litter‐Derived Organic Carbon With Increasing Initial Carbon Content in Temperate Agricultural Soils** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 6. **Biomineralisation of inorganic carbon by agroforestry species in East Africa: The oxalate carbonate pathway of fig trees in Samburu County, Kenya** (2026)
    0 citations · Enhanced Weathering

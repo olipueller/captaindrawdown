@@ -1,7 +1,7 @@
 ---
 title: "Xiangbin Ran"
 description: "Xiangbin Ran is a Senior Soil Carbon researcher at First Institute of Oceanography Ministry of Natural Resources in CN. With 103 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.175358
+date: 2026-08-11T01:33:11.150876
 url: "/cdr-researcher-census/researchers/xiangbin-ran-a5101470/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Storage, patterns and influencing factors for soil organic carbon in coastal wetlands of China** (2022)
-   151 citations · Soil Carbon
+   157 citations · Soil Carbon
 
 2. **Current and future potential soil organic carbon stocks of vegetated coastal ecosystems and their controls in the Bohai Rim Region, China** (2023)
    26 citations · Ocean CDR
 
 3. **Organic matter composition and stability in estuarine wetlands depending on soil salinity** (2024)
-   21 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 4. **Specific PhytOC fractions in rice straw and consequent implications for potential of phytolith carbon sequestration in global paddy fields** (2022)
    11 citations · Soil Carbon
 
-5. **The accumulation and carbon sequestration potential of biogenic silica in coastal salt marshes: Implications for relative sea-level rise** (2023)
-   8 citations · Soil Carbon
+5. **Distribution, Storage, and Factors Influencing Particulate and Mineral‐Associated Organic Matter in Paddy Soils** (2025)
+   9 citations · Soil Carbon
 
-6. **Distribution, Storage, and Factors Influencing Particulate and Mineral‐Associated Organic Matter in Paddy Soils** (2025)
-   7 citations · Soil Carbon
+6. **The accumulation and carbon sequestration potential of biogenic silica in coastal salt marshes: Implications for relative sea-level rise** (2023)
+   8 citations · Soil Carbon
 
 7. **Ecological stoichiometry of carbon, nitrogen, phosphorus, and silicon in coastal salt marsh plants and its implications for carbon sink management** (2025)
    2 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Guocui Ren"
 description: "Guocui Ren is a Mid-career Soil Carbon researcher at Institute of Soil Science in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.056192
+date: 2026-08-11T01:33:11.930218
 url: "/cdr-researcher-census/researchers/guocui-ren-a5019496/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Nitrogen fertilization drives bacterial turnover versus fungal persistence for straw-derived C and N stabilization in a wheat-maize rotation** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

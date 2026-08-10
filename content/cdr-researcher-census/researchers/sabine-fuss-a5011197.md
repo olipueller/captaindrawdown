@@ -1,7 +1,7 @@
 ---
 title: "Sabine Fuss"
 description: "Sabine Fuss is an Eminent General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 228 publications and an h-index of 48, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.084160
+date: 2026-08-11T01:33:11.065572
 url: "/cdr-researcher-census/researchers/sabine-fuss-a5011197/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Overconfidence in climate overshoot** (2024)
-   151 citations · General CDR
+   159 citations · General CDR
 
 2. **Atmospheric methane removal: a research agenda** (2021)
    125 citations · General CDR
@@ -60,25 +60,25 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    89 citations · General CDR
 
 4. **The BECCS Implementation Gap–A Swedish Case Study** (2021)
-   60 citations · BECCS
+   61 citations · BECCS
 
 5. **Assessing global urban CO2 removal** (2024)
-   53 citations · General CDR
+   56 citations · General CDR
 
 6. **Ten new insights in climate science 2023** (2023)
-   42 citations · General CDR
+   45 citations · General CDR
 
 7. **A taxonomy to map evidence on the co-benefits, challenges, and limits of carbon dioxide removal** (2024)
    37 citations · General CDR
 
 8. **Understanding the carbon dioxide removal range in 1.5 °C compatible and high overshoot pathways** (2023)
-   36 citations · General CDR
+   37 citations · General CDR
 
 9. **Doing burden-sharing right to deliver natural climate solutions for carbon dioxide removal** (2022)
    17 citations · General CDR
 
 10. **Scientific literature on carbon dioxide removal revealed as much larger through AI-enhanced systematic mapping** (2025)
-   13 citations · General CDR
+   14 citations · General CDR
 
 ## External Profiles
 

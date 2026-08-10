@@ -1,7 +1,7 @@
 ---
 title: "Uchenna Ogbonnaya"
 description: "Uchenna Ogbonnaya is a Mid-career Biochar researcher at Hong Kong Baptist University in HK. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.735869
+date: 2026-08-11T01:33:11.652511
 url: "/cdr-researcher-census/researchers/uchenna-ogbonnaya-a5086659/"
 layout: "researcher"
 hiddenInHomeList: true

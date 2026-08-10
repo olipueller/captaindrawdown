@@ -1,7 +1,7 @@
 ---
 title: "Mikkel Strunge Kany"
 description: "Mikkel Strunge Kany is a Mid-career BECCS researcher at Aalborg University in DK. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.781335
+date: 2026-08-11T01:33:11.693479
 url: "/cdr-researcher-census/researchers/mikkel-strunge-kany-a5069537/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **The role of sustainable bioenergy in a fully decarbonised society** (2022)
-   82 citations · BECCS
+   85 citations · BECCS
 
 ## External Profiles
 

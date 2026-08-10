@@ -1,7 +1,7 @@
 ---
 title: "Priyadarshani Rajput"
 description: "Priyadarshani Rajput is a Mid-career Biochar researcher at Southern Federal University in RU. With 53 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.360504
+date: 2026-08-11T01:33:11.321238
 url: "/cdr-researcher-census/researchers/priyadarshani-rajput-a5060511/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    29 citations · Biochar
 
 2. **Multifaceted Characteristics of Biochar and Its Implementation in Environmental Management in a Sustainable Way** (2024)
-   20 citations · Biochar
+   22 citations · Biochar
 
 3. **Nano-Biochar: A promising tool for sustainable agriculture under climate change era** (2025)
    4 citations · Biochar

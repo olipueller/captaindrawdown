@@ -1,7 +1,7 @@
 ---
 title: "Liying Chen"
 description: "Liying Chen is a Senior Biochar researcher at Qingdao University in CN. With 73 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.190666
+date: 2026-08-11T01:33:11.165237
 url: "/cdr-researcher-census/researchers/liying-chen-a5100692/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Impact of biochar amendment on soil aggregation varied with incubation duration and biochar pyrolysis temperature** (2021)
-   84 citations · Biochar
+   85 citations · Biochar
 
 2. **Polylactic acid microplastics induced negative priming and improved carbon sequestration via microbial processes in different paddy soils** (2024)
-   49 citations · Soil Carbon
+   51 citations · Soil Carbon
 
 3. **Carbon sequestration potential of biochar in soil from the perspective of organic carbon structural modification** (2024)
-   30 citations · Biochar
+   32 citations · Biochar
 
 4. **Quantifying the negative effects of dissolved organic carbon of maize straw-derived biochar on its carbon sequestration potential in a paddy soil** (2024)
    19 citations · Biochar

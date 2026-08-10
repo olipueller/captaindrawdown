@@ -1,7 +1,7 @@
 ---
 title: "Jingmiao Fu"
 description: "Jingmiao Fu is a Mid-career Biochar researcher at Xi'an University of Architecture and Technology in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.929192
+date: 2026-08-11T01:33:11.825586
 url: "/cdr-researcher-census/researchers/jingmiao-fu-a5063597/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Waterworks sludge coupled with biochar and pyrite as wetland substrates for enhanced nitrogen removal and greenhouse gases mitigation: First study on synergistic mechanisms** (2025)
-   3 citations · Biochar
+   7 citations · Biochar
 
 ## External Profiles
 

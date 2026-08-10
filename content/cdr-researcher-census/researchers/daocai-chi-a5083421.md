@@ -1,7 +1,7 @@
 ---
 title: "Daocai Chi"
 description: "Daocai Chi is a Senior Biochar researcher at Shenyang Agricultural University in CN. With 107 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.225259
+date: 2026-08-11T01:33:11.197872
 url: "/cdr-researcher-census/researchers/daocai-chi-a5083421/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Efficient removal of ammonium in aqueous solution by ultrasonic magnesium-modified biochar** (2023)
-   66 citations · Biochar
+   67 citations · Biochar
 
 2. **Soil carbon sequestration increment and carbon-negative emissions in alternate wetting and drying paddy ecosystems through biochar incorporation** (2024)
-   21 citations · Biochar
+   22 citations · Biochar
 
 3. **Effect of acid-modified biochar coupled with alternate wetting and drying on P leaching, soil P retention and plant P uptake in paddy fields** (2023)
-   14 citations · Biochar
+   15 citations · Biochar
 
 4. **Synergistic removal of ammonium and phosphate using ultrasonic Mg-based biochar composite: Mechanism, behavior and green recycling** (2024)
    12 citations · Biochar
 
 5. **Biochar decreased N loss from paddy ecosystem under alternate wetting and drying in the Lower Liaohe River Plain, China** (2024)
-   10 citations · Biochar
+   11 citations · Biochar
 
 6. **How alternate wetting and drying irrigation drives carbon reduction in rice-crab cocultural ecosystem: A quantitative assessment** (2026)
    0 citations

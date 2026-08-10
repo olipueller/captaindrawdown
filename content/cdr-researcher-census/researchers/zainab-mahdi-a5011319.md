@@ -1,7 +1,7 @@
 ---
 title: "Zainab Mahdi"
 description: "Zainab Mahdi is a Mid-career Soil Carbon researcher at Griffith University in AU. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.406755
+date: 2026-08-11T01:33:11.360528
 url: "/cdr-researcher-census/researchers/zainab-mahdi-a5011319/"
 layout: "researcher"
 hiddenInHomeList: true

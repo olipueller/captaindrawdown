@@ -1,7 +1,7 @@
 ---
 title: "Takaharu ITAMI"
 description: "Takaharu ITAMI is a Senior General CDR researcher at Rakuno Gakuen University in JP. With 85 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.548578
+date: 2026-08-11T01:33:11.483701
 url: "/cdr-researcher-census/researchers/takaharu-itami-a5054142/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yuanyuan Fan"
 description: "Yuanyuan Fan is a Mid-career Biochar researcher at Sun Yat-sen University in CN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.857462
+date: 2026-08-11T01:33:11.760155
 url: "/cdr-researcher-census/researchers/yuanyuan-fan-a5014374/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Boosting the denitrification efficiency of iron-based constructed wetlands in-situ via plant biomass-derived biochar: Intensified iron redox cycle and microbial responses** (2024)
-   124 citations · Biochar
+   130 citations · Biochar
 
 ## External Profiles
 

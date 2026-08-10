@@ -1,7 +1,7 @@
 ---
 title: "Michael D. Tyka"
 description: "Michael D. Tyka is a Senior Ocean CDR researcher at Google Inc in US. With 52 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.108315
+date: 2026-08-11T01:33:11.088000
 url: "/cdr-researcher-census/researchers/michael-d-tyka-a5073201/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Limits and CO <sub>2</sub> equilibration of near-coast alkalinity enhancement** (2023)
-   141 citations · Ocean CDR
+   145 citations · Ocean CDR
 
 2. **Toward a consensus framework to evaluate air–sea <scp>CO<sub>2</sub></scp> equilibration for marine <scp>CO<sub>2</sub></scp> removal** (2023)
-   78 citations · General CDR
+   79 citations · General CDR
 
 3. **Mapping the global variation in the efficiency of ocean alkalinity enhancement for carbon dioxide removal** (2024)
-   46 citations · Ocean CDR
+   51 citations · Ocean CDR
 
 4. **Limits and CO2 equilibration of near-coast alkalinity enhancement** (2022)
    25 citations
@@ -66,7 +66,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    22 citations · Ocean CDR
 
 6. **Efficiency metrics for ocean alkalinity enhancements under responsive and prescribed atmospheric <i>p</i> CO <sub>2</sub> conditions** (2025)
-   9 citations · DAC
+   10 citations · DAC
 
 7. **Mapping the global variation in the efficiency of ocean alkalinity enhancement for carbon dioxide removal** (2024)
    9 citations · General CDR

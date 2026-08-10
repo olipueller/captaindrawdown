@@ -1,7 +1,7 @@
 ---
 title: "Cecília Pascelli"
 description: "Cecília Pascelli is a Mid-career Soil Carbon researcher at Australian Institute of Marine Science in AU. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.041421
+date: 2026-08-11T01:33:11.915946
 url: "/cdr-researcher-census/researchers/cecilia-pascelli-a5020831/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Tracing Blue Carbon Flows Across Diverse Seascapes** (2025)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 ## External Profiles
 

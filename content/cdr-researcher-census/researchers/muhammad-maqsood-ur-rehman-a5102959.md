@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Maqsood Ur Rehman"
 description: "Muhammad Maqsood Ur Rehman is a Mid-career Soil Carbon researcher at Khyber Medical College in PK. With 30 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.589758
+date: 2026-08-11T01:33:11.521084
 url: "/cdr-researcher-census/researchers/muhammad-maqsood-ur-rehman-a5102959/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Cereal-legume intercropping stimulates straw decomposition and promotes soil organic carbon stability** (2025)
-   28 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 2. **The interactions between rhizobacteria and arbuscular mycorrhizal fungi enhance global soil carbon sequestration in drylands: A global meta-analysis** (2026)
-   0 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

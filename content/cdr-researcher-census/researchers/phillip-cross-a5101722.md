@@ -1,7 +1,7 @@
 ---
 title: "Phillip Cross"
 description: "Phillip Cross is a Senior DAC researcher at 8 Rivers Capital (United States) in US. With 24 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.716700
+date: 2026-08-11T01:33:11.635545
 url: "/cdr-researcher-census/researchers/phillip-cross-a5101722/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Optimization of a combined power plant CO<sub>2</sub> capture and direct air capture concept for flexible power plant operation** (2024)
-   14 citations · DAC
+   15 citations · DAC
 
 2. **Techno-economic analysis of a combined power plant CO2 capture and direct air capture concept for flexible power plant operation** (2023)
    4 citations · DAC

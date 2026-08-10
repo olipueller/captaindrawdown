@@ -1,7 +1,7 @@
 ---
 title: "Bo Ram Kang"
 description: "Bo Ram Kang is a Mid-career Soil Carbon researcher at Yonsei University in KR. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.802902
+date: 2026-08-11T01:33:11.712628
 url: "/cdr-researcher-census/researchers/bo-ram-kang-a5021461/"
 layout: "researcher"
 hiddenInHomeList: true

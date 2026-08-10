@@ -1,7 +1,7 @@
 ---
 title: "Tandré Oey"
 description: "Tandré Oey is a Senior Enhanced Weathering researcher at Teknologian Tutkimuskeskus VTT in FI. With 31 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.202268
+date: 2026-08-11T01:33:11.176182
 url: "/cdr-researcher-census/researchers/tandre-oey-a5046537/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Feasibility of biochar for low-emission soft clay stabilization using CO2 curing** (2024)
-   24 citations · Biochar
+   25 citations · Biochar
 
 2. **Carbon Absorption and Carbon Absorption Enhancement of Recycled Concrete Aggregate Masses** (2023)
    2 citations · Enhanced Weathering

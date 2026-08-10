@@ -1,7 +1,7 @@
 ---
 title: "Shuo Yin"
 description: "Shuo Yin is a Mid-career Soil Carbon researcher at Peking University in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.637281
+date: 2026-08-11T01:33:11.564035
 url: "/cdr-researcher-census/researchers/shuo-yin-a5018466/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Divergent dynamics and drivers of mass remaining and chemical traits during leaf and fine root litter decomposition in a Chinese estuarine mangrove: Implications for soil carbon sequestration** (2025)
-   1 citations · Ocean CDR
+   2 citations · Ocean CDR
 
 2. **Soil black carbon distribution in a mangrove blue carbon ecosystem** (2026)
    0 citations · Soil Carbon

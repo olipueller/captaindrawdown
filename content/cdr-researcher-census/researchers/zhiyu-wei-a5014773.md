@@ -1,7 +1,7 @@
 ---
 title: "Zhiyu Wei"
 description: "Zhiyu Wei is a Mid-career BECCS researcher at Huazhong University of Science and Technology in CN. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.616045
+date: 2026-08-11T01:33:11.544439
 url: "/cdr-researcher-census/researchers/zhiyu-wei-a5014773/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Prospective contributions of biomass pyrolysis to China’s 2050 carbon reduction and renewable energy goals** (2021)
-   388 citations · BECCS
+   390 citations · BECCS
 
 ## External Profiles
 

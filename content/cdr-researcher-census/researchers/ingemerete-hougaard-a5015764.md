@@ -1,7 +1,7 @@
 ---
 title: "Inge‐Merete Hougaard"
 description: "Inge‐Merete Hougaard is a Mid-career General CDR researcher at University of Copenhagen in DK. With 25 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.035928
+date: 2026-08-11T01:33:11.910964
 url: "/cdr-researcher-census/researchers/ingemerete-hougaard-a5015764/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Is carbon removal delaying emission reductions?** (2023)
-   119 citations · General CDR
+   122 citations · General CDR
 
 2. **Enacting biochar as a climate solution in Denmark** (2023)
-   16 citations · Biochar
+   18 citations · Biochar
 
 3. **Configuring the carbon farmer** (2025)
-   0 citations · Biochar
+   1 citations · Biochar
+
+4. **Undermining climate action? Challenges of public-private co-financing of carbon removal in the Global North** (2026)
+   0 citations · BECCS
 
 ## External Profiles
 

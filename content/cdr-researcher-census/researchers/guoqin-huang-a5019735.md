@@ -1,7 +1,7 @@
 ---
 title: "Guoqin Huang"
 description: "Guoqin Huang is a Senior Soil Carbon researcher at Huaqiao University in CN. With 150 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.243909
+date: 2026-08-11T01:33:11.215217
 url: "/cdr-researcher-census/researchers/guoqin-huang-a5019735/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Winter crop rotation intensification to increase rice yield, soil carbon, and microbial diversity** (2023)
-   26 citations · Soil Carbon
+   27 citations · Soil Carbon
 
 2. **Conversion of farmland to forest or grassland improves soil carbon, nitrogen, and ecosystem multi-functionality in a subtropical karst region of southwest China** (2024)
    19 citations · Soil Carbon
 
 3. **Biochar-Seaweed Fertilizer Blend: A Multifaceted Strategy for Mitigating Nitrous Oxide Emissions, Soil Rejuvenation, and Improving Rice Crop Performance** (2025)
-   2 citations · Biochar
+   3 citations · Biochar
 
 4. **Effects on Soil Aggregates and Organic Carbon Under a Triple-Cropping System in the Middle Reaches of the Yangtze River** (2024)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 5. **Biochar and Sheep Manure with Reduced Nitrogen Application Increases Rice Productivity and Mitigates N2O Emissions in Paddy Fields** (2025)
-   1 citations · Biochar
+   2 citations · Biochar
 
 6. **Winter Crops Rotation Intensification to Increase Rice Yield, Soil Carbon and Microbial Diversity** (2022)
    1 citations · Soil Carbon

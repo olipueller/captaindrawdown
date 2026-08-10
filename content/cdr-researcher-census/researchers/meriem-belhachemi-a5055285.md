@@ -1,7 +1,7 @@
 ---
 title: "Meriem Belhachemi"
 description: "Meriem Belhachemi is a Senior Biochar researcher at Université de Béchar in DZ. With 36 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.271369
+date: 2026-08-11T01:33:11.240108
 url: "/cdr-researcher-census/researchers/meriem-belhachemi-a5055285/"
 layout: "researcher"
 hiddenInHomeList: true

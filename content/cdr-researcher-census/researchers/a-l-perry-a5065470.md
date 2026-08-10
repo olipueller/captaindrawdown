@@ -1,7 +1,7 @@
 ---
 title: "A. L. Perry"
 description: "A. L. Perry is a Mid-career Soil Carbon researcher at University of New Hampshire in US. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.348553
+date: 2026-08-11T01:33:12.213518
 url: "/cdr-researcher-census/researchers/a-l-perry-a5065470/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Initial soil conditions outweigh management in a cool-season dairy farm's carbon sequestration potential** (2021)
-   33 citations · Soil Carbon
+   34 citations · Soil Carbon
 
 2. **Initial soil conditions outweigh management in a cool-season dairy farm's carbon sequestration potential** (2021)
    0 citations

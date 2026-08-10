@@ -1,7 +1,7 @@
 ---
 title: "Qing Liu"
 description: "Qing Liu is a Mid-career Biochar researcher at Guilin University of Technology in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.423876
+date: 2026-08-11T01:33:12.282456
 url: "/cdr-researcher-census/researchers/qing-liu-a5039028/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Asynchronous application of modified biochar and exogenous fungus Scedosporium sp. ZYY for enhanced degradation of oil-contaminated intertidal mudflat sediment** (2024)
-   1 citations · Biochar
+   2 citations · Biochar
 
 2. **Bacterial community response to modified-biochar and exogenous fungi inoculation during degradation of oil-contaminated clayey sediment in slurry phase** (2023)
    0 citations · Biochar

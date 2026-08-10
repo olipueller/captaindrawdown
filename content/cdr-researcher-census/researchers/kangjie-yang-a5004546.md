@@ -1,7 +1,7 @@
 ---
 title: "Kangjie Yang"
 description: "Kangjie Yang is a Mid-career Soil Carbon researcher at Ministry of Agriculture and Rural Affairs in CN. With 13 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.669251
+date: 2026-08-11T01:33:11.592158
 url: "/cdr-researcher-census/researchers/kangjie-yang-a5004546/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon emissions and priming effects derived from crop residues and their responses to nitrogen inputs** (2024)
-   20 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 2. **Additional carbon conversion driven by microbial metabolic limitations in long-term phosphorus-fertilized soil: The role of reactive oxygen species** (2026)
    0 citations · Soil Carbon

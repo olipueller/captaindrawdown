@@ -1,7 +1,7 @@
 ---
 title: "Fadan Lei"
 description: "Fadan Lei is an Early-career Soil Carbon researcher at Institute of Soil and Water Conservation in CN. With 5 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.979626
+date: 2026-08-11T01:33:11.857848
 url: "/cdr-researcher-census/researchers/fadan-lei-a5089376/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,11 +47,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Orchard soils exhibit the highest microbial CO2 fixation potential and contribution to soil organic carbon across land-use types in Qaidam Basin** (2025)
+1. **13C-traced microbial CO2 fixation in grassland topsoil: More bacterial necromass carbon enrichment than shrub and forest soils** (2026)
    1 citations · Soil Carbon
 
-2. **13C-traced microbial CO2 fixation in grassland topsoil: More bacterial necromass carbon enrichment than shrub and forest soils** (2026)
-   0 citations · Soil Carbon
+2. **Orchard soils exhibit the highest microbial CO2 fixation potential and contribution to soil organic carbon across land-use types in Qaidam Basin** (2025)
+   1 citations · Soil Carbon
 
 ## External Profiles
 

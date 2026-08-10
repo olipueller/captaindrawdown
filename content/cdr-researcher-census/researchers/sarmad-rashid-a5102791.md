@@ -1,7 +1,7 @@
 ---
 title: "Sarmad Rashid"
 description: "Sarmad Rashid is an Early-career Biochar researcher at Thapar Institute of Engineering & Technology in IN. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.505294
+date: 2026-08-11T01:33:12.357973
 url: "/cdr-researcher-census/researchers/sarmad-rashid-a5102791/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Synergistic effect of physical modification and accelerated carbonation curing on the cementitious properties and carbon sequestration potential of biochar cement composites** (2025)
-   1 citations · Biochar
+   3 citations · Biochar
 
 2. **Unlocking the Potential of Stubble Waste Biochar for Sustainable Construction: An Integrated Approach** (2026)
    0 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Jixuan Lyu"
 description: "Jixuan Lyu is a Mid-career Soil Carbon researcher at University of Leeds in GB. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.385899
+date: 2026-08-11T01:33:12.247937
 url: "/cdr-researcher-census/researchers/jixuan-lyu-a5059628/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Changes in sedimentary organic carbon sources from rivers to bays and their responses to human activities** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Yong Peng"
 description: "Yong Peng is a Mid-career Soil Carbon researcher at Beijing Botanical Garden in CN. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.644545
+date: 2026-08-11T01:33:11.570389
 url: "/cdr-researcher-census/researchers/yong-peng-a5101954/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Influences of plant functional traits on soil organic carbon stocks: The roles of carbon input quality and diversity** (2025)
-   13 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 ## External Profiles
 

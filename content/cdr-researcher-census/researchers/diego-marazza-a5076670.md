@@ -1,7 +1,7 @@
 ---
 title: "Diego Marazza"
 description: "Diego Marazza is a Senior Biochar researcher at University of Bologna in IT. With 76 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.423208
+date: 2026-08-11T01:33:11.375647
 url: "/cdr-researcher-census/researchers/diego-marazza-a5076670/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Inclusion of biochar in a C dynamics model based on observations from an 8-year field experiment** (2022)
-   27 citations · Biochar
+   29 citations · Biochar
 
 2. **Benchmarking biochar with activated carbon for immobilizing leachable PAH and heterocyclic PAH in contaminated soils** (2023)
-   17 citations · Biochar
+   19 citations · Biochar
 
-3. **The Long-Term Experiment Platform for the Study of Agronomical and Environmental Effects of the Biochar: Methodological Framework** (2022)
-   9 citations · Biochar
+3. **A Modified Version of RothC to Model the Direct and Indirect Effects of Rice Straw Mulching on Soil Carbon Dynamics, Calibrated in Two Valencian Citrus Orchards** (2024)
+   10 citations · General CDR
 
-4. **LTEP-Biochar** (2022)
+4. **The Long-Term Experiment Platform for the Study of Agronomical and Environmental Effects of the Biochar: Methodological Framework** (2022)
+   10 citations · Biochar
+
+5. **LTEP-Biochar** (2022)
    8 citations · Biochar
-
-5. **A Modified Version of RothC to Model the Direct and Indirect Effects of Rice Straw Mulching on Soil Carbon Dynamics, Calibrated in Two Valencian Citrus Orchards** (2024)
-   6 citations · General CDR
 
 6. **Use of soil respiration measurements and RothC modelling show effects of catch crops and precision and traditional agriculture on productivity and soil organic carbon dynamics in a 5 year study in Mediterranean climate** (2023)
    2 citations · Soil Carbon

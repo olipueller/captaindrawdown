@@ -1,7 +1,7 @@
 ---
 title: "Yulin Liao"
 description: "Yulin Liao is a Senior Soil Carbon researcher at Soil and Fertilizer Institute of Hunan Province in CN. With 92 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.166836
+date: 2026-08-11T01:33:11.143126
 url: "/cdr-researcher-census/researchers/yulin-liao-a5103151/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effect of reduced mineral fertilization (NPK) combined with green manure on aggregate stability and soil organic carbon fractions in a fluvo-aquic paddy soil** (2021)
-   86 citations
+   90 citations
 
 2. **The effects of co-utilizing green manure and rice straw on soil aggregates and soil carbon stability in a paddy soil in southern China** (2022)
-   36 citations · Soil Carbon
+   38 citations · Soil Carbon
 
 3. **Effects of substitution of chemical fertilizer by Chinese milk vetch on distribution and composition of aggregates-associated organic carbon fractions in paddy soils** (2022)
-   21 citations
+   22 citations
 
 4. **Paddy fields can gain high productivity with low net global warming potential by utilizing green manure** (2025)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 5. **Aggregate mass and carbon stocks in a paddy soil after long‐term application of chemical or organic fertilizers** (2022)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 6. **Study on the Effects of Reducing Nitrogen Fertilizer: Stabilizing Yield and Carbon Sequestration by Synergistic Utilization of Chinese Milk Vetch and Rice Straw in Double-Cropping Rice Area** (2024)
    5 citations · Soil Carbon

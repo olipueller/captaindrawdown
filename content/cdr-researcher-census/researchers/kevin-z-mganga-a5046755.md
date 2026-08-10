@@ -1,7 +1,7 @@
 ---
 title: "Kevin Z. Mganga"
 description: "Kevin Z. Mganga is a Mid-career Soil Carbon researcher at Universiteit Utrecht in NL. With 86 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.279255
+date: 2026-08-11T01:33:11.247558
 url: "/cdr-researcher-census/researchers/kevin-z-mganga-a5046755/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Biochar reduced the mineralization of native and added soil organic carbon: evidence of negative priming and enhanced microbial carbon use efficiency** (2024)
-   96 citations · Biochar
+   101 citations · Biochar
 
 2. **Legume-based crop diversification reinforces soil health and carbon storage driven by microbial biomass and aggregates** (2023)
-   96 citations · Soil Carbon
+   101 citations · Soil Carbon
 
 3. **High soil salinity reduces straw decomposition but primes soil organic carbon loss** (2025)
-   42 citations · Soil Carbon
+   49 citations · Soil Carbon
 
 4. **Subsurface application of organic ameliorant in saline soils increases microbial necromass accumulation in mineral-associated organic matter** (2025)
    8 citations · Soil Carbon

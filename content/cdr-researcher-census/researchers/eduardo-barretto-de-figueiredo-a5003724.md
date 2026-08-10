@@ -1,7 +1,7 @@
 ---
 title: "Eduardo Barretto de Figueiredo"
 description: "Eduardo Barretto de Figueiredo is a Senior Soil Carbon researcher at Universidade Federal de Sâo Carlos (UFSCar) in BR. With 30 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.279366
+date: 2026-08-11T01:33:11.247669
 url: "/cdr-researcher-census/researchers/eduardo-barretto-de-figueiredo-a5003724/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil carbon stock estimations: methods and a case study of the Maranhão State, Brazil** (2021)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 2. **Carbon Footprint of Crop Rotation Systems and Mitigation Options for Net Zeroing Greenhouse Gas Balance in Farms of Central Brazil** (2025)
    1 citations · General CDR

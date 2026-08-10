@@ -1,7 +1,7 @@
 ---
 title: "Yi Wai Chiang"
 description: "Yi Wai Chiang is a Senior Enhanced Weathering researcher at University of Guelph in CA. With 111 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-12T12:07:29.192319
+date: 2026-08-11T01:33:11.134224
 url: "/cdr-researcher-census/researchers/yi-wai-chiang-a5024380/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,13 +54,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    38 citations · Enhanced Weathering
 
 2. **Constraining the Capacity of Global Croplands to CO<sub>2</sub> Drawdown via Mineral Weathering** (2023)
-   24 citations · Enhanced Weathering
+   25 citations · Enhanced Weathering
 
 3. **Urban Farming with Enhanced Rock Weathering As a Prospective Climate Stabilization Wedge** (2021)
-   22 citations · Enhanced Weathering
+   23 citations · Enhanced Weathering
 
 4. **Fate and migration of enhanced rock weathering products through soil horizons; implications of irrigation and percolation regimes** (2023)
-   18 citations · Enhanced Weathering
+   20 citations · Enhanced Weathering
 
 5. **Pathways, roundabouts, roadblocks, and shortcuts to safe and sustainable deployment of enhanced rock weathering in agriculture** (2023)
    13 citations · Enhanced Weathering

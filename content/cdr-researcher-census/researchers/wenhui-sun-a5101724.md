@@ -1,7 +1,7 @@
 ---
 title: "Wenhui Sun"
 description: "Wenhui Sun is a Mid-career Biochar researcher at Central South University of Forestry and Technology in CN. With 22 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.556473
+date: 2026-08-11T01:33:11.490645
 url: "/cdr-researcher-census/researchers/wenhui-sun-a5101724/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Life cycle assessment of biochar for sustainable agricultural application: A review** (2024)
-   51 citations · Biochar
+   53 citations · Biochar
 
 2. **Cellulose derived biochar: Preparation, characterization and Benzo[a]pyrene adsorption capacity** (2021)
    35 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Zeke Hausfather"
 description: "Zeke Hausfather is a Senior General CDR researcher at Berkeley Earth in US. With 95 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.101320
+date: 2026-08-11T01:33:11.081471
 url: "/cdr-researcher-census/researchers/zeke-hausfather-a5085329/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    57 citations · General CDR
 
 2. **Ten new insights in climate science 2023** (2023)
-   42 citations · General CDR
+   45 citations · General CDR
 
 3. **Cost of cooling: The value of reversible carbon storage in a zero-emissions world** (2025)
    2 citations · DAC

@@ -1,7 +1,7 @@
 ---
 title: "Mark L. Wells"
 description: "Mark L. Wells is an Eminent Ocean CDR researcher at Xiamen University in CN. With 134 publications and an h-index of 44, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.098791
+date: 2026-08-11T01:33:11.079006
 url: "/cdr-researcher-census/researchers/mark-l-wells-a5103089/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Complexities of regulating climate by promoting marine primary production with ocean iron fertilization** (2024)
-   31 citations · General CDR
+   33 citations · General CDR
 
 2. **Next steps for assessing ocean iron fertilization for marine carbon dioxide removal** (2024)
-   12 citations · General CDR
+   15 citations · General CDR
 
 3. **Outwelling of total alkalinity and dissolved inorganic carbon from the Hooghly River to the adjacent coastal Bay of Bengal** (2021)
    12 citations · Ocean CDR
 
 4. **The case for ocean iron fertilization field trials** (2026)
-   2 citations · General CDR
+   4 citations · General CDR
 
 5. **Dusting the rust off ocean iron fertilization research studies for mCDR** (2026)
    0 citations · General CDR

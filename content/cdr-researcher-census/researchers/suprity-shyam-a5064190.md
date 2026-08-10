@@ -1,7 +1,7 @@
 ---
 title: "Suprity Shyam"
 description: "Suprity Shyam is a Mid-career Biochar researcher at Bodoland University in IN. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.104622
+date: 2026-08-11T01:33:11.995437
 url: "/cdr-researcher-census/researchers/suprity-shyam-a5064190/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar as a Soil amendment: implications for soil health, carbon sequestration, and climate resilience** (2025)
-   102 citations · Biochar
+   110 citations · Biochar
 
 2. **Biochar-based electroanalytical materials: Towards sustainable, high-performance electrocatalysts and sensors** (2025)
-   15 citations · Biochar
+   18 citations · Biochar
 
 ## External Profiles
 

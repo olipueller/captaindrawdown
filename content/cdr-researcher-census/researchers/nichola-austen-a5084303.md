@@ -1,7 +1,7 @@
 ---
 title: "Nichola Austen"
 description: "Nichola Austen is a Senior Soil Carbon researcher at University of Illinois Urbana-Champaign in US. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.315550
+date: 2026-08-11T01:33:12.183900
 url: "/cdr-researcher-census/researchers/nichola-austen-a5084303/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,9 +51,12 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Regenerative agriculture effects on biomass, drought resilience and 14C-photosynthate allocation in wheat drilled into ley compared to disc or ploughed arable soil** (2026)
+   0 citations
+
+2. **Regenerative agriculture effects on biomass, drought resilience and 14C-photosynthate allocation in wheat drilled into ley compared to disc or ploughed arable soil** (2026)
    0 citations · Soil Carbon
 
-2. **Regenerative agriculture effects on biomass, drought resilience and <sup>14</sup> C-photosynthate allocation in wheat drilled into ley compared to disc or ploughed arable soil** (2025)
+3. **Regenerative agriculture effects on biomass, drought resilience and <sup>14</sup> C-photosynthate allocation in wheat drilled into ley compared to disc or ploughed arable soil** (2025)
    0 citations · Soil Carbon
 
 ## External Profiles

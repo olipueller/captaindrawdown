@@ -1,7 +1,7 @@
 ---
 title: "Xiaodong Nie"
 description: "Xiaodong Nie is a Senior Soil Carbon researcher at China University of Mining and Technology in CN. With 109 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.126228
+date: 2026-08-11T01:33:11.104923
 url: "/cdr-researcher-census/researchers/xiaodong-nie-a5101202/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    79 citations · General CDR
 
 2. **Land use change induced by the implementation of ecological restoration Programs increases future terrestrial ecosystem carbon sequestration in red soil hilly region of China** (2021)
-   38 citations · General CDR
+   39 citations · General CDR
 
 3. **Sediment organic carbon dynamics response to land use change in diverse watershed anthropogenic activities** (2023)
    36 citations · Soil Carbon
 
 4. **Factors controlling soil organic carbon with depth at the basin scale** (2022)
-   26 citations · Soil Carbon
+   28 citations · Soil Carbon
 
 5. **Erosion-induced recovery CO2 sink offset the horizontal soil organic carbon removal at the basin scale** (2024)
-   9 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 6. **Labile organic matter components drive the accumulation of microbial necromass carbon in seasonal flooded wetland soils** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

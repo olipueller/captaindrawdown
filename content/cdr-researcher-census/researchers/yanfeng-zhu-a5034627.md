@@ -1,7 +1,7 @@
 ---
 title: "Yanfeng Zhu"
 description: "Yanfeng Zhu is a Senior Soil Carbon researcher at Hebei University of Architecture in CN. With 46 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.409823
+date: 2026-08-11T01:33:11.363435
 url: "/cdr-researcher-census/researchers/yanfeng-zhu-a5034627/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Assessment of carbon sequestration potential of mining areas under ecological restoration in China** (2024)
-   26 citations · General CDR
+   28 citations · General CDR
 
 2. **Changes in abundant and rare microbial taxa that dominated the formation of soil carbon pool during short-term dryland-to-paddy conversion** (2023)
-   15 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 3. **[Effects of Vegetation Types on Carbon Cycle Functional Genes in Reclaimed Soil from Open Pit Mines in the Loess Plateau].** (2023)
    5 citations · Soil Carbon

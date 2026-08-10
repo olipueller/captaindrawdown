@@ -1,7 +1,7 @@
 ---
 title: "P. Özge Kaplan"
 description: "P. Özge Kaplan is a Senior General CDR researcher at University of North Carolina at Chapel Hill in US. With 28 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.365192
+date: 2026-08-11T01:33:11.324773
 url: "/cdr-researcher-census/researchers/p-ozge-kaplan-a5002993/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    103 citations · DAC
 
 2. **Is the industrial sector hard to decarbonize or hard to model? A comparative analysis of industrial modeling and net zero carbon dioxide pathways** (2025)
-   11 citations · General CDR
+   13 citations · General CDR
 
 ## External Profiles
 

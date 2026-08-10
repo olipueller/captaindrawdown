@@ -1,7 +1,7 @@
 ---
 title: "Isabelle Kowalewski"
 description: "Isabelle Kowalewski is a Senior Soil Carbon researcher at IFP Énergies nouvelles in FR. With 56 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.601735
+date: 2026-08-11T01:33:11.531578
 url: "/cdr-researcher-census/researchers/isabelle-kowalewski-a5030759/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Adjustments to the Rock-Eval® thermal analysis for soil organic and inorganic carbon quantification** (2023)
-   10 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 2. **Coupling Infrared Isotopic Gas Analysis and Thermal Ramped Analysis to Characterise Soil Organic and Inorganic Carbon** (2025)
    3 citations · Soil Carbon

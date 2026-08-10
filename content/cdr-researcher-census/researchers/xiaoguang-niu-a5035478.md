@@ -1,7 +1,7 @@
 ---
 title: "Xiaoguang Niu"
 description: "Xiaoguang Niu is a Mid-career Soil Carbon researcher at Northeast Agricultural University in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.389688
+date: 2026-08-11T01:33:12.251431
 url: "/cdr-researcher-census/researchers/xiaoguang-niu-a5035478/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Key factors influencing the spatial distribution of soil organic carbon and its fractions in Mollisols** (2024)
-   22 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 2. **Biochar application increased soil carbon sequestration by altering organic carbon components in aggregates** (2025)
-   8 citations · Biochar
+   9 citations · Biochar
 
 3. **Topography and land management influence soil carbon heterogeneity by altering the physicochemical properties of saline–alkaline soil in Northeast China** (2026)
    0 citations · Soil Carbon

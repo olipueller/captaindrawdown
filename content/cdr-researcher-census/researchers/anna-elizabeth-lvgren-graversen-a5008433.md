@@ -1,7 +1,7 @@
 ---
 title: "Anna Elizabeth Løvgren Graversen"
 description: "Anna Elizabeth Løvgren Graversen is a Mid-career Soil Carbon researcher at Aarhus University in DK. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.192870
+date: 2026-08-11T01:33:12.076644
 url: "/cdr-researcher-census/researchers/anna-elizabeth-lvgren-graversen-a5008433/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Region‐specific drivers cause low organic carbon stocks and sequestration rates in the saltmarsh soils of southern <scp>Scandinavia</scp>** (2024)
-   15 citations · General CDR
+   16 citations · General CDR
 
 2. **Dataset used in "Region-specific drivers cause low organic carbon stocks and sequestration rates in the saltmarsh soils of Southern Scandinavia"** (2023)
    0 citations · Soil Carbon

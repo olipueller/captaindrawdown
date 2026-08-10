@@ -1,7 +1,7 @@
 ---
 title: "Shaozu Xu"
 description: "Shaozu Xu is a Mid-career Biochar researcher at Shanxi Agricultural University in CN. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.581449
+date: 2026-08-11T01:33:11.513048
 url: "/cdr-researcher-census/researchers/shaozu-xu-a5027401/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Effect of biochar on antibiotics and antibiotic resistance genes variations during co-composting of pig manure and corn straw** (2022)
-   53 citations · Biochar
+   54 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Jiannan Xiao"
 description: "Jiannan Xiao is a Senior Soil Carbon researcher at Beijing Normal University in CN. With 46 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.289193
+date: 2026-08-11T01:33:11.257013
 url: "/cdr-researcher-census/researchers/jiannan-xiao-a5100620/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil multifunctionality of paddy field is explained by soil pH rather than microbial diversity after 8-years of repeated applications of biochar and nitrogen fertilizer** (2022)
-   80 citations · Biochar
+   82 citations · Biochar
 
 2. **Stabilization of soil organic carbon in the alpine meadow is dependent on the nitrogen deposition level on the Qinghai-Tibetan Plateau** (2021)
-   29 citations · General CDR
+   30 citations · General CDR
 
 3. **Short-term P addition weakens the positive effects of N addition on CH4 uptake in alpine grasslands of the Qinghai-Tibetan Plateau** (2024)
    5 citations · Soil Carbon

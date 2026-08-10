@@ -1,7 +1,7 @@
 ---
 title: "Xingmei Jiang"
 description: "Xingmei Jiang is a Mid-career Biochar researcher at Animal Husbandry & Veterinary in IN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.424083
+date: 2026-08-11T01:33:12.282667
 url: "/cdr-researcher-census/researchers/xingmei-jiang-a5077924/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,6 +48,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Immobilization of Peniophora Incarnata F1 in Pva-Sa-Biochar Matrix and its Degradation Performance and Mechanism for Erythromycin Degradation** (2024)
+   0 citations · Biochar
+
+2. **Immobilization of Peniophora Incarnata  F1 in Pva-Sa-Biochar Matrix and its Degradation Performance and Mechanism for Erythromycin Degradation** (2024)
    0 citations · Biochar
 
 ## External Profiles

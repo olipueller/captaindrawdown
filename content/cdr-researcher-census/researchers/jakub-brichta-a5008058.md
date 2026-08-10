@@ -1,7 +1,7 @@
 ---
 title: "Jakub Brichta"
 description: "Jakub Brichta is a Mid-career Soil Carbon researcher. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.002618
+date: 2026-08-11T01:33:11.879729
 url: "/cdr-researcher-census/researchers/jakub-brichta-a5008058/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Production potential, biodiversity and soil properties of forest reclamations: Opportunities or risk of introduced coniferous tree species under climate change?** (2021)
-   51 citations · General CDR
+   52 citations · General CDR
 
 ## External Profiles
 

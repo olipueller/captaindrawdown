@@ -1,7 +1,7 @@
 ---
 title: "Kerryn Brent"
 description: "Kerryn Brent is a Mid-career General CDR researcher at CSIRO Oceans and Atmosphere in AU. With 51 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.685196
+date: 2026-08-11T01:33:11.606404
 url: "/cdr-researcher-census/researchers/kerryn-brent-a5025199/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,27 +54,30 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    65 citations · General CDR
 
 2. **Navigating stakeholder heterogeneity in carbon dioxide removal governance** (2025)
-   12 citations · General CDR
+   13 citations · General CDR
 
 3. **Hydrogen production in Australia from renewable energy: no doubt green and clean, but is it mean?** (2023)
    9 citations · BECCS
 
-4. **The potential of the BBNJ clearing house mechanism to enhance knowledge pluralism in marine carbon dioxide removal assessment** (2024)
+4. **Stakeholders have knowledge priorities beyond local impacts for responsible marine-based carbon dioxide removal in Tasmania** (2025)
    4 citations · General CDR
 
-5. **Stakeholders have knowledge priorities beyond local impacts for responsible marine-based carbon dioxide removal in Tasmania** (2025)
-   2 citations · General CDR
+5. **Local capacity assessment is integral to stakeholder engagement for responsible marine carbon dioxide removal** (2025)
+   4 citations · General CDR
 
-6. **Local capacity assessment is integral to stakeholder engagement for responsible marine carbon dioxide removal** (2025)
-   2 citations · General CDR
+6. **The potential of the BBNJ clearing house mechanism to enhance knowledge pluralism in marine carbon dioxide removal assessment** (2024)
+   4 citations · General CDR
 
 7. **Beyond environmental identity: Testing public support for novel carbon dioxide removal in Australia using structural modelling** (2025)
-   1 citations · DAC
+   2 citations · DAC
 
-8. **Strategic research priorities for marine climate interventions in Australia** (2026)
+8. **Stories of soil and sea: Comparing narratives of land- and marine-based carbon dioxide removal for responsible deployment** (2026)
+   1 citations · Enhanced Weathering
+
+9. **Strategic research priorities for marine climate interventions in Australia** (2026)
    0 citations · General CDR
 
-9. **Local stakeholders can (and should?) play an active role in place-based deployment of Ocean Alkalinity Enhancement (OAE).** (2025)
+10. **Local stakeholders can (and should?) play an active role in place-based deployment of Ocean Alkalinity Enhancement (OAE).** (2025)
    0 citations · Ocean CDR
 
 ## External Profiles

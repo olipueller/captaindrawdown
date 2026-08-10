@@ -1,7 +1,7 @@
 ---
 title: "Jianwei Zhou"
 description: "Jianwei Zhou is a Mid-career Biochar researcher at Institute of Grassland Research in CN. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.676202
+date: 2026-08-11T01:33:11.598371
 url: "/cdr-researcher-census/researchers/jianwei-zhou-a5046120/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Study on Greenhouse Gas Emissions from the Mounds Produced by Plateau Zokor (Eospalax Baileyi) on Qinghai–Tibet Plateau** (2021)
-   5 citations
+   6 citations
 
 2. **Polarity-driven Fe phase transformation in biochar-based electrocoagulation: Toward selective metal recovery from acid mine drainage** (2026)
    0 citations · Biochar

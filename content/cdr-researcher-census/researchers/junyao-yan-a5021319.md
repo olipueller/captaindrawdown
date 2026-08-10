@@ -1,7 +1,7 @@
 ---
 title: "Junyao Yan"
 description: "Junyao Yan is a Mid-career General CDR researcher at Chinese Academy of Sciences in CN. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.994912
+date: 2026-08-11T01:33:11.872537
 url: "/cdr-researcher-census/researchers/junyao-yan-a5021319/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Carbon sinks associated with biological carbon pump in karst surface waters: Progress, challenges, and prospects** (2024)
-   20 citations · General CDR
+   22 citations · General CDR
 
 2. **Prospecting the engineered environmental carbon sinks and ensuring long-term sustainability of karst areas impacted by heavy metal** (2025)
-   8 citations · General CDR
+   9 citations · General CDR
 
 ## External Profiles
 

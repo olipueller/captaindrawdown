@@ -1,7 +1,7 @@
 ---
 title: "Shiqing Peng"
 description: "Shiqing Peng is a Senior Soil Carbon researcher at Guizhou Academy of Agricultural Sciences in CN. With 30 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.967414
+date: 2026-08-11T01:33:11.846689
 url: "/cdr-researcher-census/researchers/shiqing-peng-a5101550/"
 layout: "researcher"
 hiddenInHomeList: true

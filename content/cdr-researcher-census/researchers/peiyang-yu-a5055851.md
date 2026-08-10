@@ -1,7 +1,7 @@
 ---
 title: "Peiyang Yu"
 description: "Peiyang Yu is a Mid-career Soil Carbon researcher at Beijing Forestry University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.872332
+date: 2026-08-11T01:33:11.774038
 url: "/cdr-researcher-census/researchers/peiyang-yu-a5055851/"
 layout: "researcher"
 hiddenInHomeList: true

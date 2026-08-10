@@ -1,7 +1,7 @@
 ---
 title: "Fangwei Cheng"
 description: "Fangwei Cheng is a Mid-career BECCS researcher at China Agricultural University in CN. With 37 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.317886
+date: 2026-08-11T01:33:11.284227
 url: "/cdr-researcher-census/researchers/fangwei-cheng-a5004607/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **The levelized cost of negative CO2 emissions from thermochemical conversion of biomass coupled with carbon capture and storage** (2021)
-   84 citations · BECCS
+   85 citations · BECCS
 
 2. **Direct air capture integration with low-carbon heat: Process engineering and power system analysis** (2024)
-   15 citations
+   16 citations
 
 3. **Biopower with molten carbonate fuel cell carbon dioxide capture: Performance, cost, and grid-integration evaluations** (2024)
    9 citations · BECCS

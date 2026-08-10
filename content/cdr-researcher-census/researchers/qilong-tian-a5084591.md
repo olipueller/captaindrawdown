@@ -1,7 +1,7 @@
 ---
 title: "Qilong Tian"
 description: "Qilong Tian is a Mid-career Soil Carbon researcher at Air Force Medical University in CN. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.834280
+date: 2026-08-11T01:33:11.739763
 url: "/cdr-researcher-census/researchers/qilong-tian-a5084591/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Plant diversity drives soil carbon sequestration: evidence from 150 years of vegetation restoration in the temperate zone** (2023)
-   33 citations · General CDR
+   34 citations · General CDR
 
 2. **[Carbon Sequestration Characteristics Under Natural Vegetation Restoration in Ziwuling Area of the Loess Plateau].** (2023)
    1 citations · Soil Carbon

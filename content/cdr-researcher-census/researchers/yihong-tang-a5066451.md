@@ -1,7 +1,7 @@
 ---
 title: "Yihong Tang"
 description: "Yihong Tang is a Senior Biochar researcher at Hong Kong University of Science and Technology in HK. With 51 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.293045
+date: 2026-08-11T01:33:11.260544
 url: "/cdr-researcher-census/researchers/yihong-tang-a5066451/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **CO2-sequestering ability of lightweight concrete based on reactive magnesia cement and high-dosage biochar aggregate** (2024)
-   35 citations · Biochar
+   36 citations · Biochar
 
 2. **Enhanced CO2-sequestering capacity and mechanical property of lightweight biochar-dosed reactive MgO cement concrete by recycled pulp** (2025)
    2 citations · Biochar

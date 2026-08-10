@@ -1,7 +1,7 @@
 ---
 title: "Jemal Fito Nure"
 description: "Jemal Fito Nure is a Mid-career Biochar researcher at University of the Witwatersrand in ZA. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.964795
+date: 2026-08-11T01:33:11.844544
 url: "/cdr-researcher-census/researchers/jemal-fito-nure-a5015725/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Sandeep K. Malyan"
 description: "Sandeep K. Malyan is a Senior Biochar researcher at National Institute of Hydrology in IN. With 93 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.117137
+date: 2026-08-11T01:33:11.096399
 url: "/cdr-researcher-census/researchers/sandeep-k-malyan-a5030032/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Towards sustainable agriculture with carbon sequestration, and greenhouse gas mitigation using algal biochar** (2021)
-   187 citations · Biochar
+   188 citations · Biochar
 
 2. **Biochar for environmental sustainability in the energy-water-agroecosystem nexus** (2021)
-   134 citations · Biochar
+   137 citations · Biochar
 
 3. **Greenhouse Gas Emissions from Salt-Affected Soils: Mechanistic Understanding of Interplay Factors and Reclamation Approaches** (2022)
    49 citations · Soil Carbon

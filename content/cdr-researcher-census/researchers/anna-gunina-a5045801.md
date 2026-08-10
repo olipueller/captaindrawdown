@@ -1,7 +1,7 @@
 ---
 title: "Anna Gunina"
 description: "Anna Gunina is a Senior Soil Carbon researcher at University of Kassel in DE. With 154 publications and an h-index of 37, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.112398
+date: 2026-08-11T01:33:11.091789
 url: "/cdr-researcher-census/researchers/anna-gunina-a5045801/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,19 +54,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    119 citations
 
 2. **Carbon stabilization pathways in soil aggregates during long-term forest succession: Implications from δ13C signatures** (2023)
-   96 citations
+   102 citations
 
 3. **Diversified cropping systems benefit soil carbon and nitrogen stocks by increasing aggregate stability: Results of three fractionation methods** (2022)
-   84 citations · Soil Carbon
+   86 citations · Soil Carbon
 
-4. **Mitigation of carbon dioxide by accelerated sequestration from long-term biochar amended paddy soil** (2021)
-   35 citations · Biochar
+4. **Carbon sequestration through straw amendment: multi-pool dynamics within soil organic carbon** (2025)
+   39 citations · Soil Carbon
 
 5. **Unfolding the Potential of Soil Microbial Community Diversity for Accumulation of Necromass Carbon at Large Scale** (2025)
-   33 citations · Soil Carbon
+   38 citations · Soil Carbon
 
-6. **Carbon sequestration through straw amendment: multi-pool dynamics within soil organic carbon** (2025)
-   30 citations · Soil Carbon
+6. **Mitigation of carbon dioxide by accelerated sequestration from long-term biochar amended paddy soil** (2021)
+   37 citations · Biochar
 
 7. **Conversion from double-rice to maize-rice increases iron-bound organic carbon by “iron gate” and “enzyme latch” mechanisms** (2021)
    23 citations · Soil Carbon

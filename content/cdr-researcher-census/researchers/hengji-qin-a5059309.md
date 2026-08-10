@@ -1,7 +1,7 @@
 ---
 title: "Hengji Qin"
 description: "Hengji Qin is a Mid-career Biochar researcher at Hohai University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.528453
+date: 2026-08-11T01:33:12.379703
 url: "/cdr-researcher-census/researchers/hengji-qin-a5059309/"
 layout: "researcher"
 hiddenInHomeList: true

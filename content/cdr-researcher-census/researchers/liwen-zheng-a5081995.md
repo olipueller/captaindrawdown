@@ -1,7 +1,7 @@
 ---
 title: "Liwen Zheng"
 description: "Liwen Zheng is a Senior Ocean CDR researcher at Shandong University in CN. With 43 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.712297
+date: 2026-08-11T01:33:11.631444
 url: "/cdr-researcher-census/researchers/liwen-zheng-a5081995/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **The potential of wastewater treatment on carbon storage through ocean alkalinity enhancement** (2025)
-   16 citations · Enhanced Weathering
+   17 citations · Enhanced Weathering
 
 2. **Sustainable carbon sequestration via olivine based ocean alkalinity enhancement in the east and South China Sea: Adhering to environmental norms for nickel and chromium** (2024)
-   13 citations · Enhanced Weathering
+   14 citations · Enhanced Weathering
 
-3. **Olivine-induced seasonal dynamics of eukaryotic microalgal and bacterial assemblages in mid-latitude nearshore marine ecosystems** (2025)
+3. **Alkalinity factory can achieve positive climate benefits within decades** (2025)
+   4 citations · Enhanced Weathering
+
+4. **Olivine-induced seasonal dynamics of eukaryotic microalgal and bacterial assemblages in mid-latitude nearshore marine ecosystems** (2025)
    3 citations · Ocean CDR
-
-4. **Alkalinity factory can achieve positive climate benefits within decades** (2025)
-   3 citations · Enhanced Weathering
 
 5. **Manganese Oxide-Mediated Reactions with Olivine Dissolution Products: A Double-Edged Sword for Ocean Alkalinity Enhancement** (2026)
    0 citations · Ocean CDR

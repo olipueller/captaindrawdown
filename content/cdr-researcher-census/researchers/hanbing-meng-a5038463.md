@@ -1,7 +1,7 @@
 ---
 title: "Hanbing Meng"
 description: "Hanbing Meng is a Mid-career Soil Carbon researcher at Bethune International Peace Hospital in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.638454
+date: 2026-08-11T01:33:11.565271
 url: "/cdr-researcher-census/researchers/hanbing-meng-a5038463/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Sequestration of Labile Organic Matter by Secondary Fe Minerals from Chemodenitrification: Insight into Mineral Protection Mechanisms** (2024)
-   18 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 ## External Profiles
 

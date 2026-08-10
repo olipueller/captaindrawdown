@@ -1,7 +1,7 @@
 ---
 title: "Yongxing Li"
 description: "Yongxing Li is a Senior Soil Carbon researcher at Wuhan University in CN. With 65 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.222156
+date: 2026-08-11T01:33:11.194835
 url: "/cdr-researcher-census/researchers/yongxing-li-a5010496/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Contributions of plant‐ and microbial‐derived residuals to mangrove soil carbon stocks: Implications for blue carbon sequestration** (2024)
-   86 citations · General CDR
+   91 citations · General CDR
 
 2. **Nitrogen deposition enhances soil organic carbon and microbial residual carbon in a tropical forest** (2022)
-   32 citations · Soil Carbon
+   33 citations · Soil Carbon
 
 3. **Intensified rainfall in the wet season alters the microbial contribution to soil carbon storage** (2022)
    31 citations · Soil Carbon
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · Soil Carbon
 
 5. **Responses of depth-dependence of C:N:P stoichiometry to check dam in mangrove wetlands** (2024)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 6. **The Hare and the Tortoise: Different Responses of Tropical Forest Soil Microorganisms to Changes in Precipitation Patterns** (2021)
    0 citations

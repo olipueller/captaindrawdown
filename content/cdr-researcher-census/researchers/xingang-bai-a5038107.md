@@ -1,7 +1,7 @@
 ---
 title: "Xingang Bai"
 description: "Xingang Bai is a Mid-career Biochar researcher at Henan Normal University in CN. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.017696
+date: 2026-08-11T01:33:11.893887
 url: "/cdr-researcher-census/researchers/xingang-bai-a5038107/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Rotten sugarcane bagasse derived biochars with rich mineral residues for effective Pb (II) removal in wastewater and the tech-economic analysis** (2022)
-   24 citations · Biochar
+   25 citations · Biochar
 
 ## External Profiles
 

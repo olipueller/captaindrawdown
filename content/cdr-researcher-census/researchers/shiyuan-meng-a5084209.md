@@ -1,7 +1,7 @@
 ---
 title: "Shiyuan Meng"
 description: "Shiyuan Meng is a Mid-career Soil Carbon researcher at Beijing Academy of Artificial Intelligence in CN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.257286
+date: 2026-08-11T01:33:12.134790
 url: "/cdr-researcher-census/researchers/shiyuan-meng-a5084209/"
 layout: "researcher"
 hiddenInHomeList: true

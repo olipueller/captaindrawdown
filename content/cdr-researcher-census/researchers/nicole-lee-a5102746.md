@@ -1,7 +1,7 @@
 ---
 title: "Nicole Lee"
 description: "Nicole Lee is a Mid-career Soil Carbon researcher at University of Illinois Urbana-Champaign in US. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.804563
+date: 2026-08-11T01:33:11.714064
 url: "/cdr-researcher-census/researchers/nicole-lee-a5102746/"
 layout: "researcher"
 hiddenInHomeList: true

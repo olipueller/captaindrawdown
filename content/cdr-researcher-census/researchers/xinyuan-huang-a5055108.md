@@ -1,7 +1,7 @@
 ---
 title: "Xinyuan Huang"
 description: "Xinyuan Huang is an Early-career General CDR researcher at Princeton University in US. With 25 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.089637
+date: 2026-08-11T01:33:11.981651
 url: "/cdr-researcher-census/researchers/xinyuan-huang-a5055108/"
 layout: "researcher"
 hiddenInHomeList: true

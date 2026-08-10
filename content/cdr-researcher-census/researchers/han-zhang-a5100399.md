@@ -1,7 +1,7 @@
 ---
 title: "Han Zhang"
 description: "Han Zhang is a Senior Soil Carbon researcher at Tianjin Normal University in CN. With 45 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.306064
+date: 2026-08-11T01:33:11.273092
 url: "/cdr-researcher-census/researchers/han-zhang-a5100399/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    48 citations · Soil Carbon
 
 2. **Spatiotemporal dynamics and driving factors of soil erosion in the Beiluo River Basin, Loess Plateau, China** (2023)
-   24 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 3. **The Oasisization Process Promotes the Transformation of Soil Organic Carbon into Soil Inorganic Carbon** (2024)
    12 citations · Soil Carbon

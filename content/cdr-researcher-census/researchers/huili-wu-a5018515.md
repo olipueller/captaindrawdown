@@ -1,7 +1,7 @@
 ---
 title: "Huili Wu"
 description: "Huili Wu is a Mid-career Soil Carbon researcher at Central South University of Forestry and Technology in CN. With 33 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.340672
+date: 2026-08-11T01:33:11.303579
 url: "/cdr-researcher-census/researchers/huili-wu-a5018515/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Rotation age extension synergistically increases ecosystem carbon storage and timber production of Chinese fir plantations in southern China** (2022)
-   41 citations · Soil Carbon
+   47 citations · Soil Carbon
 
 2. **Tree species diversity promotes soil microbial carbon fixation gene abundance via nutrient-mediated interactions in subtropical forests** (2026)
    1 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Weixue Luo"
 description: "Weixue Luo is a Mid-career Soil Carbon researcher at Southwest University in CN. With 38 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.840476
+date: 2026-08-11T01:33:11.745547
 url: "/cdr-researcher-census/researchers/weixue-luo-a5058541/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Assessing the impact of climate change on three Populus species in China: Distribution patterns and implications** (2024)
-   18 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 2. **Meta-analysis shows global water availability thresholds for the contents of soil organic carbon and its fractions are only partly affected by nitrogen addition** (2025)
    4 citations · Soil Carbon

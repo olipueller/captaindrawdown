@@ -1,7 +1,7 @@
 ---
 title: "Michiel Van Tendeloo"
 description: "Michiel Van Tendeloo is a Mid-career Enhanced Weathering researcher at University of Antwerp in BE. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.829180
+date: 2026-08-11T01:33:11.735742
 url: "/cdr-researcher-census/researchers/michiel-van-tendeloo-a5075775/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -62,11 +62,11 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 4. **Machine learning-based identification of key biotic and abiotic drivers of mineral weathering rate in a complex enhanced weathering experiment** (2025)
    3 citations
 
-5. **Microbial dissolution of Gran Canaria lapilli in small-scale flow through columns: carbon dioxide removal potential** (2025)
+5. **Alkalinity production and carbon capture from dunite weathering: Individual effects of oxalate, citrate, and EDTA salts** (2025)
    1 citations · Enhanced Weathering
 
-6. **Alkalinity production and carbon capture from dunite weathering: Individual effects of oxalate, citrate, and EDTA salts** (2025)
-   0 citations · Enhanced Weathering
+6. **Microbial dissolution of Gran Canaria lapilli in small-scale flow through columns: carbon dioxide removal potential** (2025)
+   1 citations · Enhanced Weathering
 
 7. **Machine learning-based identification of key biotic and abiotic drivers of mineral weathering rate in a complex enhanced weathering experiment** (2025)
    0 citations · Biochar

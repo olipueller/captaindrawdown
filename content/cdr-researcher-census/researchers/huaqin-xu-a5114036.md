@@ -1,7 +1,7 @@
 ---
 title: "Huaqin Xu"
 description: "Huaqin Xu is a Mid-career Soil Carbon researcher at Hunan Agricultural University in CN. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.778894
+date: 2026-08-11T01:33:11.691411
 url: "/cdr-researcher-census/researchers/huaqin-xu-a5114036/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    24 citations · Soil Carbon
 
 2. **Intermittent irrigation as a solution for reduced emissions and increased yields in ratoon rice systems** (2024)
-   10 citations · Soil Carbon
+   11 citations · Soil Carbon
 
 3. **Rice-animal co-culture synergistically enhances soil carbon-nitrogen sequestration while mitigating greenhouse gas intensity in Chinese paddy fields: A meta-analysis** (2026)
    0 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Jianjun Yang"
 description: "Jianjun Yang is a Senior Soil Carbon researcher at Xinjiang University in CN. With 50 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.222488
+date: 2026-08-11T01:33:11.195168
 url: "/cdr-researcher-census/researchers/jianjun-yang-a5002668/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -58,6 +58,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 3. **Maize straw application reduced cadmium and increased arsenic uptake in wheat and enhanced the rhizospheric bacterial communities in alkaline-contaminated soil** (2023)
    10 citations · Soil Carbon
+
+4. **Physicochemical Properties, Molecular Structures, and Stability of Organo-Calcium Carbonate Complexes: The Critical Role of Carbon Sources, Formation Processes, and OC/Ca Ratios** (2026)
+   1 citations
 
 ## External Profiles
 

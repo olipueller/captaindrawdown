@@ -1,7 +1,7 @@
 ---
 title: "Meiling Man"
 description: "Meiling Man is a Mid-career Soil Carbon researcher at University of Toronto in CA. With 29 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.520848
+date: 2026-08-11T01:33:11.458674
 url: "/cdr-researcher-census/researchers/meiling-man-a5056537/"
 layout: "researcher"
 hiddenInHomeList: true

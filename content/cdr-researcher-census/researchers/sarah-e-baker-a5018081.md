@@ -1,7 +1,7 @@
 ---
 title: "Sarah E. Baker"
 description: "Sarah E. Baker is an Eminent General CDR researcher at Lawrence Livermore National Laboratory in US. With 134 publications and an h-index of 41, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.115109
+date: 2026-08-11T01:33:11.094448
 url: "/cdr-researcher-census/researchers/sarah-e-baker-a5018081/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,30 +51,33 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Roads to Removal: Options for Carbon Dioxide Removal in the United States** (2023)
-   60 citations · General CDR
+   61 citations · General CDR
 
 2. **Carbon accounting for carbon dioxide removal** (2024)
    22 citations · General CDR
 
 3. **Net-Zero Ethylene: On the Sustainability, Economics, and Scalability of Synthetic and Fossil Production Pathways** (2025)
-   4 citations · DAC
+   5 citations · DAC
 
 4. **Optimization of direct air capture processes using reactive transport models of adsorption-desorption cycles** (2025)
    3 citations
 
-5. **Energy Emissions Accounting Methods Can Determine Whether Direct Air Capture with Storage Achieves Net Removal** (2026)
-   1 citations · DAC
+5. **Land-based resources for engineered carbon dioxide removal in the United States exceed the expected needs** (2025)
+   2 citations · General CDR
 
-6. **Land-based resources for engineered carbon dioxide removal in the United States exceed the expected needs** (2025)
-   1 citations · General CDR
+6. **Energy Emissions Accounting Methods Can Determine Whether Direct Air Capture with Storage Achieves Net Removal** (2026)
+   1 citations · DAC
 
 7. **Summary Report of the Carbon-Negative Hydrogen Workshop** (2024)
    1 citations · General CDR
 
 8. **Accounting Methods Dictate Carbon Removal Credit Integrity and Outcomes** (2026)
+   0 citations · DAC
+
+9. **Accounting Methods Dictate Carbon Removal Credit Integrity and Outcomes** (2026)
    0 citations · General CDR
 
-9. **Initial Considerations for Large-Scale Carbon Removal in the United States** (2022)
+10. **Initial Considerations for Large-Scale Carbon Removal in the United States** (2022)
    0 citations · General CDR
 
 ## External Profiles

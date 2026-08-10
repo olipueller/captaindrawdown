@@ -1,7 +1,7 @@
 ---
 title: "Moura Mehravar"
 description: "Moura Mehravar is a Mid-career Biochar researcher at University of Birmingham in GB. With 38 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.875692
+date: 2026-08-11T01:33:11.777295
 url: "/cdr-researcher-census/researchers/moura-mehravar-a5023772/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,9 +51,12 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Long-Term Properties of Ternary Cementitious Grout Systems Incorporating Wood-Based Biochar and Fly Ash** (2025)
-   6 citations · Biochar
+   7 citations · Biochar
 
-2. **Influence of Biochar and Industrial By-Products on the Long-Term Performance of Cement Grouts** (2026)
+2. **An interdisciplinary approach for advancing the use of biochar in buildings** (2026)
+   0 citations · Biochar
+
+3. **Influence of Biochar and Industrial By-Products on the Long-Term Performance of Cement Grouts** (2026)
    0 citations · Biochar
 
 ## External Profiles

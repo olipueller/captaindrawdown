@@ -1,7 +1,7 @@
 ---
 title: "Yingxue Xuan"
 description: "Yingxue Xuan is a Mid-career Biochar researcher at Southern Marine Science and Engineering Guangdong Laboratory (Guangzhou) in CN. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.631899
+date: 2026-08-11T01:33:11.558679
 url: "/cdr-researcher-census/researchers/yingxue-xuan-a5004454/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    90 citations · Biochar
 
 2. **Nitrogen biogeochemical cycling in forest ecosystems with the globalization of nitrogen deposition** (2026)
-   0 citations · General CDR
+   1 citations · General CDR
 
 ## External Profiles
 

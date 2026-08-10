@@ -1,7 +1,7 @@
 ---
 title: "Virpi Junttila"
 description: "Virpi Junttila is a Senior BECCS researcher at Finnish Environment Institute in FI. With 38 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.564333
+date: 2026-08-11T01:33:11.498099
 url: "/cdr-researcher-census/researchers/virpi-junttila-a5071231/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    11 citations · Soil Carbon
 
 2. **Bioenergy and Waste** (2025)
-   1 citations · BECCS
+   2 citations · BECCS
 
 3. **Climate Change Impacts on Boreal Forest Growth – Does Nitrogen Limitation Matter?** (2025)
    0 citations

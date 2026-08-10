@@ -1,7 +1,7 @@
 ---
 title: "Marcel Lorenz"
 description: "Marcel Lorenz is a Mid-career Enhanced Weathering researcher at Helmholtz Centre for Environmental Research in DE. With 25 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.981365
+date: 2026-08-11T01:33:11.859565
 url: "/cdr-researcher-census/researchers/marcel-lorenz-a5084559/"
 layout: "researcher"
 hiddenInHomeList: true

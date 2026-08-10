@@ -1,7 +1,7 @@
 ---
 title: "Kimberley T. Davis"
 description: "Kimberley T. Davis is a Senior Soil Carbon researcher at US Forest Service in US. With 46 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.156031
+date: 2026-08-11T01:33:11.132559
 url: "/cdr-researcher-census/researchers/kimberley-t-davis-a5057422/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    55 citations · General CDR
 
 2. **Unintended consequences of planting native and non‐native trees in treeless ecosystems to mitigate climate change** (2024)
-   28 citations · General CDR
+   29 citations · General CDR
 
 3. **Green is the New Black: Outcomes of Post-Fire Tree Planting Across the Us Interior West** (2024)
    4 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Agustín Cavallaro"
 description: "Agustín Cavallaro is a Mid-career Soil Carbon researcher at Consejo Nacional de Investigaciones Científicas y Técnicas in AR. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.161248
+date: 2026-08-11T01:33:12.047711
 url: "/cdr-researcher-census/researchers/agustin-cavallaro-a5102797/"
 layout: "researcher"
 hiddenInHomeList: true

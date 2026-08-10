@@ -1,7 +1,7 @@
 ---
 title: "Nathawat Unsomsri"
 description: "Nathawat Unsomsri is a Mid-career Biochar researcher at Bioenergy Life Science (United States) in US. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.196203
+date: 2026-08-11T01:33:12.079595
 url: "/cdr-researcher-census/researchers/nathawat-unsomsri-a5105052/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Mitigating dust and air pollution from open-field rice straw burning through biochar production using an integrated biomass gasifier and burner** (2025)
-   17 citations · Biochar
+   18 citations · Biochar
 
 2. **Continuous gasification-pyrolysis of fresh palm fruit bunches for biochar production and carbon sequestration** (2025)
    3 citations · Biochar

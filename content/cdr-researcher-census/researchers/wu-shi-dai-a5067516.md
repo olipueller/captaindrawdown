@@ -1,7 +1,7 @@
 ---
 title: "WU Shi-dai"
 description: "WU Shi-dai is a Senior Soil Carbon researcher at Fujian Normal University in CN. With 37 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.501883
+date: 2026-08-11T01:33:11.442129
 url: "/cdr-researcher-census/researchers/wu-shi-dai-a5067516/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Urbanization promotes carbon storage or not? The evidence during the rapid process of China** (2024)
-   58 citations · General CDR
+   59 citations · General CDR
 
 2. **Evaluation of the Impact of Comprehensive Watershed Management on Carbon Sequestration Capacity of Soil and Water Conservation: A Case Study of the Luodi River Watershed in Changting County, Fujian Province** (2024)
    1 citations · General CDR

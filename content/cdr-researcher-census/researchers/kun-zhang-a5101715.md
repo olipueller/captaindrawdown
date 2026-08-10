@@ -1,7 +1,7 @@
 ---
 title: "Kun Zhang"
 description: "Kun Zhang is a Senior Soil Carbon researcher at Northeast Normal University in CN. With 39 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.449958
+date: 2026-08-11T01:33:11.398299
 url: "/cdr-researcher-census/researchers/kun-zhang-a5101715/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Geochemical characteristics and geological significance of humid climate events in the Middle-Late Triassic (Ladinian-Carnian) of the Ordos Basin, central China** (2021)
-   65 citations
+   66 citations
 
 2. **Refining Amino Sugar‐Based Conversion Factors for Quantification of Microbial Necromass Carbon in Soils** (2025)
-   6 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 3. **Soil priming effect in the organic and mineral layers regulated by nitrogen mining mechanism in a temperate forest** (2024)
    3 citations · Soil Carbon

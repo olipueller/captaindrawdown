@@ -1,7 +1,7 @@
 ---
 title: "Vïctor J. Hernández"
 description: "Vïctor J. Hernández is a Mid-career Soil Carbon researcher at Instituto de Ecología in MX. With 7 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.344395
+date: 2026-08-11T01:33:12.209931
 url: "/cdr-researcher-census/researchers/victor-j-hernandez-a5003936/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Pontederia sagittata and Cyperus papyrus contribution to carbon storage in floating treatment wetlands established in subtropical urban ponds** (2022)
-   18 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 ## External Profiles
 

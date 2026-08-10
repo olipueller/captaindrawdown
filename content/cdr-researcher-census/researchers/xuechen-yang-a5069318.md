@@ -1,7 +1,7 @@
 ---
 title: "Xuechen Yang"
 description: "Xuechen Yang is a Mid-career Soil Carbon researcher at Xinjiang Institute of Ecology and Geography in CN. With 78 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.280448
+date: 2026-08-11T01:33:11.248706
 url: "/cdr-researcher-census/researchers/xuechen-yang-a5069318/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,10 +57,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    50 citations · Biochar
 
 3. **Effects of coupled biochar and snow cover on soil carbon components and CO2 emissions in seasonally frozen soil areas under climate change conditions** (2024)
-   11 citations · Biochar
+   12 citations · Biochar
 
 4. **Mowing enhances the positive effects of nitrogen addition on ecosystem carbon fluxes and water use efficiency in a semi-arid meadow steppe** (2022)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 5. **Effects of plastic film mulching and biochar on soil carbon sequestration and soybean yield in cold regions: Based on the pathways of photosynthetic carbon allocation and microbial functional genes regulation** (2025)
    5 citations · Biochar

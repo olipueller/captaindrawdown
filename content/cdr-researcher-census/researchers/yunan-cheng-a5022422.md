@@ -1,7 +1,7 @@
 ---
 title: "Yunan Cheng"
 description: "Yunan Cheng is a Senior Biochar researcher at Sichuan Normal University in CN. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.612823
+date: 2026-08-11T01:33:11.541721
 url: "/cdr-researcher-census/researchers/yunan-cheng-a5022422/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Synergetic effects of pyrrhotite and biochar on simultaneous removal of nitrate and phosphate in autotrophic denitrification system** (2023)
-   5 citations · Biochar
+   6 citations · Biochar
 
 ## External Profiles
 

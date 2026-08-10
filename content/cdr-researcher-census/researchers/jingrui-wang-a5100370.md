@@ -1,7 +1,7 @@
 ---
 title: "Jingrui Wang"
 description: "Jingrui Wang is a Mid-career Biochar researcher at State Grid Corporation of China (China) in CN. With 30 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.580486
+date: 2026-08-11T01:33:11.512176
 url: "/cdr-researcher-census/researchers/jingrui-wang-a5100370/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **The application of machine learning methods for prediction of heavy metal by activated carbons, biochars, and carbon nanotubes** (2024)
-   34 citations · Biochar
+   36 citations · Biochar
 
 2. **The Application of Machine Learning Methods for Prediction of Heavy Metal by Activated Carbons, Biochars, and Carbon Nanotubes** (2023)
    1 citations · Biochar

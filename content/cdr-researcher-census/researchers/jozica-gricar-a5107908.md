@@ -1,7 +1,7 @@
 ---
 title: "Jožica Gričar"
 description: "Jožica Gričar is a Senior Soil Carbon researcher at Slovenian Forestry Institute in SI. With 11 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.373107
+date: 2026-08-11T01:33:11.331817
 url: "/cdr-researcher-census/researchers/jozica-gricar-a5107908/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Temperature and photoperiod interactions influence the cessation of wood growth in three temperate and boreal conifers** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 2. **Temperature and Photoperiod Interactions Regulate the Cessation of Wood Growth in Temperate and Boreal Conifers** (2025)
    0 citations

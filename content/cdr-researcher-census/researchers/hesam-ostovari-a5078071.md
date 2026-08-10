@@ -1,7 +1,7 @@
 ---
 title: "Hesam Ostovari"
 description: "Hesam Ostovari is a Mid-career DAC researcher at RWTH Aachen University in DE. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.622278
+date: 2026-08-11T01:33:11.550033
 url: "/cdr-researcher-census/researchers/hesam-ostovari-a5078071/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **From Unavoidable CO<sub>2</sub> Source to CO<sub>2</sub> Sink? A Cement Industry Based on CO<sub>2</sub> Mineralization** (2021)
-   155 citations · DAC
+   158 citations · DAC
 
 ## External Profiles
 

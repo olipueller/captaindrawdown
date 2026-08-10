@@ -1,7 +1,7 @@
 ---
 title: "Manendra Singh"
 description: "Manendra Singh is an Early-career Soil Carbon researcher at Shree Guru Gobind Singh Tricentenary University in IN. With 28 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.354922
+date: 2026-08-11T01:33:12.218943
 url: "/cdr-researcher-census/researchers/manendra-singh-a5025293/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Biomass Production and Carbon Sequestration Potential of Different Agroforestry Systems in India: A Critical Review** (2022)
-   91 citations · BECCS
+   93 citations · BECCS
 
 2. **Prioritizing Tree Based Land Management Options for Optimizing Carbon Sink in the Indian sub-Himalayan Region** (2023)
    4 citations · General CDR

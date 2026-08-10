@@ -1,7 +1,7 @@
 ---
 title: "Noura Fajraoui"
 description: "Noura Fajraoui is a Mid-career Soil Carbon researcher at AGRIDEA in CH. With 19 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.525188
+date: 2026-08-11T01:33:11.462466
 url: "/cdr-researcher-census/researchers/noura-fajraoui-a5013260/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Satellite-based soil organic carbon mapping on European soils using available datasets and support sampling** (2024)
-   48 citations · General CDR
+   49 citations · General CDR
 
 2. **DORA - A new process and metric to measure ecosystem performance of farms** (2025)
    0 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Zhe Zhao"
 description: "Zhe Zhao is a Senior General CDR researcher at Kunming Medical University in CN. With 38 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.527906
+date: 2026-08-11T01:33:11.464738
 url: "/cdr-researcher-census/researchers/zhe-zhao-a5052864/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Global soil organic carbon changes and economic revenues with biochar application** (2021)
-   58 citations · Biochar
+   59 citations · Biochar
 
 2. **Temperature Changes Induced by Biogeochemical and Biophysical Effects of Bioenergy Crop Cultivation** (2023)
    17 citations · BECCS

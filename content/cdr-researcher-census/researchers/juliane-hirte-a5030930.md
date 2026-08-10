@@ -1,7 +1,7 @@
 ---
 title: "Juliane Hirte"
 description: "Juliane Hirte is a Mid-career Soil Carbon researcher at Agroscope in CH. With 52 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.371380
+date: 2026-08-11T01:33:11.330333
 url: "/cdr-researcher-census/researchers/juliane-hirte-a5030930/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Increasing root biomass derived carbon input to agricultural soils by genotype selection – a review** (2023)
-   50 citations · General CDR
+   51 citations · General CDR
 
 2. **Is it possible to enhance belowground carbon inputs to soil through variety selection? A Case Study in Winter Wheat Using a ¹³CO₂ Multiple-Pulse Labelling Approach** (2026)
    0 citations · Soil Carbon

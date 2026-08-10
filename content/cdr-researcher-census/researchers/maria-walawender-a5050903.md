@@ -1,7 +1,7 @@
 ---
 title: "Maria Walawender"
 description: "Maria Walawender is a Mid-career General CDR researcher at University College London in GB. With 22 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.172584
+date: 2026-08-11T01:33:11.148329
 url: "/cdr-researcher-census/researchers/maria-walawender-a5050903/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    96 citations · General CDR
 
 2. **The 2023 Latin America report of the Lancet Countdown on health and climate change: the imperative for health-centred climate-resilient development** (2024)
-   88 citations · General CDR
+   93 citations · General CDR
 
 ## External Profiles
 

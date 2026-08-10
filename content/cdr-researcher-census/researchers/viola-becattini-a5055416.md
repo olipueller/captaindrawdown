@@ -1,7 +1,7 @@
 ---
 title: "Viola Becattini"
 description: "Viola Becattini is a Mid-career General CDR researcher at ETH Zurich in CH. With 57 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.225115
+date: 2026-08-11T01:33:11.197737
 url: "/cdr-researcher-census/researchers/viola-becattini-a5055416/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,22 +54,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    146 citations · DAC
 
 2. **How to make climate-neutral aviation fly** (2023)
-   122 citations
+   130 citations
 
 3. **Carbon dioxide mineralization in recycled concrete aggregates can contribute immediately to carbon-neutrality** (2022)
-   97 citations · BECCS
+   100 citations · BECCS
 
 4. **Assessment of Potential and Techno-Economic Performance of Solid Sorbent Direct Air Capture with CO<sub>2</sub> Storage in Europe** (2024)
-   57 citations · DAC
+   59 citations · DAC
 
 5. **Cost-Effective Locations for Producing Fuels and Chemicals from Carbon Dioxide and Low-Carbon Hydrogen in the Future** (2024)
    17 citations · DAC
 
-6. **ACCSESS Project: Providing access to cost-efficient, replicable, safe and flexible CCUS** (2022)
-   2 citations · General CDR
+6. **Carbon Dioxide Reduction and Removal toward Net-Zero: A Needed Change of Narrative** (2025)
+   2 citations · BECCS
 
-7. **Carbon Dioxide Reduction and Removal toward Net-Zero: A Needed Change of Narrative** (2025)
-   1 citations · BECCS
+7. **ACCSESS Project: Providing access to cost-efficient, replicable, safe and flexible CCUS** (2022)
+   2 citations · General CDR
 
 8. **Enhanced Oil Recovery using carbon dioxide directly captured from air does not enable carbon-neutral oil** (2025)
    1 citations · DAC

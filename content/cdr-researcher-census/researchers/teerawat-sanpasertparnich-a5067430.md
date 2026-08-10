@@ -1,7 +1,7 @@
 ---
 title: "Teerawat Sanpasertparnich"
 description: "Teerawat Sanpasertparnich is a Senior BECCS researcher. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.746626
+date: 2026-08-11T01:33:11.662230
 url: "/cdr-researcher-census/researchers/teerawat-sanpasertparnich-a5067430/"
 layout: "researcher"
 hiddenInHomeList: true

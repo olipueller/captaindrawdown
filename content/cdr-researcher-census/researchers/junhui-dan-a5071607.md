@@ -1,7 +1,7 @@
 ---
 title: "Junhui Dan"
 description: "Junhui Dan is a Mid-career Biochar researcher at Jiangxi Agricultural University in CN. With 7 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.353928
+date: 2026-08-11T01:33:12.218005
 url: "/cdr-researcher-census/researchers/junhui-dan-a5071607/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Synthesis of corncob biochar with high surface area by <scp>KOH</scp> activation for <scp>VOC</scp> adsorption: effect of <scp>KOH</scp> addition method** (2023)
-   24 citations · Biochar
+   25 citations · Biochar
 
 ## External Profiles
 

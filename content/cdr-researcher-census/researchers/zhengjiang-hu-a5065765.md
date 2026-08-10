@@ -1,7 +1,7 @@
 ---
 title: "Zhengjiang Hu"
 description: "Zhengjiang Hu is a Mid-career Biochar researcher at Agricultural Information Institute in CN. With 6 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.289399
+date: 2026-08-11T01:33:12.161147
 url: "/cdr-researcher-census/researchers/zhengjiang-hu-a5065765/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Feng-Min Li"
 description: "Feng-Min Li is a Mid-career Soil Carbon researcher at Nanjing Agricultural University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.016634
+date: 2026-08-11T01:33:11.892790
 url: "/cdr-researcher-census/researchers/feng-min-li-a5111075/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,10 +53,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 2. **Climate and breeding determined below-ground biomass allocation strategy in wheat** (2023)
    3 citations · Soil Carbon
 
-3. **Plant and microbial pathways driving soil carbon sequestration in dryland leguminous shrublands** (2026)
-   1 citations · Soil Carbon
+3. **Twenty-year field evidence reveals crop-specific impacts of conservation tillage on yield in a rice-wheat system** (2025)
+   2 citations · Soil Carbon
 
-4. **Twenty-year field evidence reveals crop-specific impacts of conservation tillage on yield in a rice-wheat system** (2025)
+4. **Plant and microbial pathways driving soil carbon sequestration in dryland leguminous shrublands** (2026)
    1 citations · Soil Carbon
 
 5. **Sustainable subsoil management promotes soil carbon sequestration while sustaining crop productivity** (2026)

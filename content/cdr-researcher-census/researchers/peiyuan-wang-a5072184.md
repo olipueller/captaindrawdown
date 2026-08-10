@@ -1,7 +1,7 @@
 ---
 title: "Peiyuan Wang"
 description: "Peiyuan Wang is an Early-career Soil Carbon researcher at Dalian Ocean University in CN. With 4 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.238403
+date: 2026-08-11T01:33:12.118078
 url: "/cdr-researcher-census/researchers/peiyuan-wang-a5072184/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Planting Ages Inhibited Soil Respiration and CO2-C Emissions Attribute to Soil Degradation in Gravel-Mulched Land in Arid Areas** (2024)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

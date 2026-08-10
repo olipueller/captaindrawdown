@@ -1,7 +1,7 @@
 ---
 title: "Xin-Ping An"
 description: "Xin-Ping An is a Senior Soil Carbon researcher at Universiti Putra Malaysia in MY. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.454375
+date: 2026-08-11T01:33:12.311365
 url: "/cdr-researcher-census/researchers/xin-ping-an-a5110375/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Hairy Vetch Intercropping Attenuates Mycorrhizal Benefits to Walnut Growth and Soil Organic Carbon Sequestration via Glomalin** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 ## External Profiles
 

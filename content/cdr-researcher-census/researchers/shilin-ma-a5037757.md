@@ -1,7 +1,7 @@
 ---
 title: "Shilin Ma"
 description: "Shilin Ma is a Mid-career Soil Carbon researcher at Sinopec (China) in CN. With 45 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.372132
+date: 2026-08-11T01:33:11.331006
 url: "/cdr-researcher-census/researchers/shilin-ma-a5037757/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    12 citations · Soil Carbon
 
 2. **Mineral-Solubilizing Microbial Inoculums Promote Robinia Pseudoacacia L. Growth By Optimizing Rhizospheric Soil Microbial Community Structure** (2024)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 3. **Mineral-Solubilizing Microbial Inoculums Promote &lt;em&gt;Robinia pseudoacacia&lt;/em&gt; L. Growth by Optimizing the Rhizosphere Soil Microbial Community Structure** (2023)
    1 citations · Enhanced Weathering

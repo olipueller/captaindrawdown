@@ -1,7 +1,7 @@
 ---
 title: "Julia Lübbers"
 description: "Julia Lübbers is a Senior Ocean CDR researcher at University of Algarve in PT. With 47 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-12T12:07:29.567605
+date: 2026-08-11T01:33:11.499525
 url: "/cdr-researcher-census/researchers/julia-lubbers-a5043850/"
 layout: "researcher"
 hiddenInHomeList: true

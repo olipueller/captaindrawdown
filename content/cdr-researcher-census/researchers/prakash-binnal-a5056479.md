@@ -1,7 +1,7 @@
 ---
 title: "Prakash Binnal"
 description: "Prakash Binnal is a Mid-career Biochar researcher at Siddaganga Institute of Technology in IN. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.605081
+date: 2026-08-11T01:33:11.534399
 url: "/cdr-researcher-census/researchers/prakash-binnal-a5056479/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Improving the Quality of Rice Husk Biochar Through Combined Pretreatment of Rice Husk and Copyrolysis with LDPE** (2022)
-   5 citations · Biochar
+   6 citations · Biochar
 
 2. **Upgrading the Rice Husk Biochar Characteristics Through Microwave Assisted Phosphoric Acid Pretreatment Followed by Copyrolysis with Ldpe** (2022)
    2 citations · Biochar

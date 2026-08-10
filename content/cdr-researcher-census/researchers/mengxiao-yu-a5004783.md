@@ -1,7 +1,7 @@
 ---
 title: "Mengxiao Yu"
 description: "Mengxiao Yu is a Mid-career Soil Carbon researcher at South China Botanical Garden in CN. With 40 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.304764
+date: 2026-08-11T01:33:11.271855
 url: "/cdr-researcher-census/researchers/mengxiao-yu-a5004783/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Contributions of plant‐ and microbial‐derived residuals to mangrove soil carbon stocks: Implications for blue carbon sequestration** (2024)
-   86 citations · General CDR
+   91 citations · General CDR
 
 2. **Soil acidification enhanced soil carbon sequestration through increased mineral protection** (2024)
-   42 citations · Soil Carbon
+   46 citations · Soil Carbon
 
 3. **Fiddler crab bioturbation stimulates methane emissions in mangroves: Insights into microbial mechanisms** (2024)
-   38 citations · Soil Carbon
+   39 citations · Soil Carbon
 
 4. **Fate of soil organic carbon in estuarine mangroves: Evidences from stable isotopes and lignin biomarkers** (2024)
-   28 citations · Soil Carbon
+   29 citations · Soil Carbon
 
 5. **Soil Organic Carbon Storage in Urban Green Space and Its Influencing Factors: A Case Study of the 0–20 cm Soil Layer in Guangzhou City** (2022)
    17 citations · Soil Carbon
@@ -68,14 +68,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 6. **Carbon flux variation and associated biomass energy storage economic value implications in the Dinghushan Biosphere Reserve** (2022)
    11 citations · Soil Carbon
 
-7. **The Impact of Impervious Surface Expansion on Soil Organic Carbon: A Case Study of 0–300 cm Soil Layer in Guangzhou City** (2021)
+7. **Analysis of Spatio-Temporal Relationship Between Ecosystem Services and Human Footprints Under Different Human Activity Gradients: A Case Study of Xiangjiang River Basin** (2024)
+   8 citations
+
+8. **The Impact of Impervious Surface Expansion on Soil Organic Carbon: A Case Study of 0–300 cm Soil Layer in Guangzhou City** (2021)
    8 citations · Soil Carbon
 
-8. **Analysis of Spatio-Temporal Relationship Between Ecosystem Services and Human Footprints Under Different Human Activity Gradients: A Case Study of Xiangjiang River Basin** (2024)
-   6 citations
-
 9. **Mangrove sediment carbon burial offset by methane emissions from mangrove tree stems** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 10. **Acid deposition promotes soil carbon sequestration in terrestrial ecosystems of China** (2024)
    2 citations · Soil Carbon

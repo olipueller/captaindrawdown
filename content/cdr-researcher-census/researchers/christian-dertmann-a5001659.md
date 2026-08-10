@@ -1,7 +1,7 @@
 ---
 title: "Christian Dertmann"
 description: "Christian Dertmann is a Mid-career Enhanced Weathering researcher. With 14 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.673954
+date: 2026-08-11T01:33:11.596343
 url: "/cdr-researcher-census/researchers/christian-dertmann-a5001659/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Ex-situ mineral carbonation – A parameter study on carbon mineralisation in an autoclave as part of a large-scale utilisation process** (2022)
-   27 citations · Enhanced Weathering
+   29 citations · Enhanced Weathering
 
 ## External Profiles
 

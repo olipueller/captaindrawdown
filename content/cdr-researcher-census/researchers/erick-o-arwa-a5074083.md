@@ -1,7 +1,7 @@
 ---
 title: "Erick O. Arwa"
 description: "Erick O. Arwa is a Mid-career DAC researcher at Carleton University in CA. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.181086
+date: 2026-08-11T01:33:12.065758
 url: "/cdr-researcher-census/researchers/erick-o-arwa-a5074083/"
 layout: "researcher"
 hiddenInHomeList: true

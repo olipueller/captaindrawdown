@@ -1,7 +1,7 @@
 ---
 title: "Xiaoshuai Zhang"
 description: "Xiaoshuai Zhang is a Senior Soil Carbon researcher at University of Glasgow in GB. With 65 publications and an h-index of 24, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.218043
+date: 2026-08-11T01:33:11.191107
 url: "/cdr-researcher-census/researchers/xiaoshuai-zhang-a5115593/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Seasonal precipitation distribution determines ecosystem <scp>CO<sub>2</sub></scp> and <scp>H<sub>2</sub>O</scp> exchange by regulating spring soil water–salt dynamics in a brackish wetland** (2024)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 2. **Coarse Root Enhancement Increases Soil Organic Carbon While Decreasing Its Stability in a Wetland** (2026)
    3 citations · Soil Carbon

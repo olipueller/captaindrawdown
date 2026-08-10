@@ -1,7 +1,7 @@
 ---
 title: "Lauma Balode"
 description: "Lauma Balode is a Mid-career Soil Carbon researcher at Riga Technical University in LV. With 27 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.977360
+date: 2026-08-11T01:33:11.856007
 url: "/cdr-researcher-census/researchers/lauma-balode-a5012298/"
 layout: "researcher"
 hiddenInHomeList: true

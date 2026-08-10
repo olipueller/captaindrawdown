@@ -1,7 +1,7 @@
 ---
 title: "Yafeng Yuan"
 description: "Yafeng Yuan is a Mid-career Biochar researcher at Jilin Agricultural University in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.104523
+date: 2026-08-11T01:33:11.995346
 url: "/cdr-researcher-census/researchers/yafeng-yuan-a5041916/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **NH2-MIL-125 (Ti)/biochar fibers for enhanced direct dyes adsorption** (2021)
-   39 citations · Biochar
+   41 citations · Biochar
 
 ## External Profiles
 

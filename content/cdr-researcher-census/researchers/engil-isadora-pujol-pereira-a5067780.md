@@ -1,7 +1,7 @@
 ---
 title: "Engil Isadora Pujol Pereira"
 description: "Engil Isadora Pujol Pereira is a Senior Soil Carbon researcher at The University of Texas Rio Grande Valley - Edinburg Campus in US. With 58 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.278590
+date: 2026-08-11T01:33:11.246895
 url: "/cdr-researcher-census/researchers/engil-isadora-pujol-pereira-a5067780/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of Biochar Production Methods and Biomass Types on Lead Removal from Aqueous Solution** (2022)
-   26 citations · Biochar
+   27 citations · Biochar
 
 2. **Carbon sequestration through conservation tillage in sandy soils of arid and semi-arid climates: A meta-analysis** (2024)
-   23 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 3. **Tillage legacy, grasses and soil texture shape soil organic carbon recovery in semi-arid woodland** (2025)
    1 citations · Soil Carbon

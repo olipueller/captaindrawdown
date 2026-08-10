@@ -1,7 +1,7 @@
 ---
 title: "Ruben Seibert"
 description: "Ruben Seibert is a Mid-career BECCS researcher at Justus-Liebig-Universität Gießen in DE. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.782815
+date: 2026-08-11T01:33:11.694714
 url: "/cdr-researcher-census/researchers/ruben-seibert-a5060518/"
 layout: "researcher"
 hiddenInHomeList: true

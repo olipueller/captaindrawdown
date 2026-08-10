@@ -1,7 +1,7 @@
 ---
 title: "Mansoureh Kargar"
 description: "Mansoureh Kargar is a Mid-career Soil Carbon researcher at Soil Conservation and Watershed Management Research in IR. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.175966
+date: 2026-08-11T01:33:12.061082
 url: "/cdr-researcher-census/researchers/mansoureh-kargar-a5042482/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Grazing intensity alters the plant diversity–ecosystem carbon storage relationship in rangelands across topographic and climatic gradients** (2023)
-   33 citations · Soil Carbon
+   34 citations · Soil Carbon
 
 ## External Profiles
 

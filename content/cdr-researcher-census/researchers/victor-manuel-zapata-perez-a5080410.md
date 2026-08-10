@@ -1,7 +1,7 @@
 ---
 title: "Víctor Manuel Zapata-Pérez"
 description: "Víctor Manuel Zapata-Pérez is a Mid-career Soil Carbon researcher at Universidad de Murcia in ES. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.370566
+date: 2026-08-11T01:33:12.233337
 url: "/cdr-researcher-census/researchers/victor-manuel-zapata-perez-a5080410/"
 layout: "researcher"
 hiddenInHomeList: true

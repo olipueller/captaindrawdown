@@ -1,7 +1,7 @@
 ---
 title: "Ram L. Ray"
 description: "Ram L. Ray is a Senior Soil Carbon researcher at Prairie View A&M University in US. With 205 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.116294
+date: 2026-08-11T01:33:11.095569
 url: "/cdr-researcher-census/researchers/ram-l-ray-a5085883/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    55 citations · Biochar
 
 2. **The impacts of biochar on carbon sequestration, soil processes, and microbial communities: a review** (2025)
-   31 citations · Biochar
+   36 citations · Biochar
 
 3. **Carbon sequestration and soil responses to soil amendments – A review** (2025)
-   21 citations · General CDR
+   24 citations · General CDR
 
 4. **Assessing carbon stock and sequestration potential under land use and land cover dynamics in the Upper Blue Nile River Basin, Ethiopia** (2025)
    9 citations

@@ -1,7 +1,7 @@
 ---
 title: "Ulrich Zuberbühler"
 description: "Ulrich Zuberbühler is a Senior DAC researcher at Zentrum für Sonnenenergie- und Wasserstoff-Forschung Baden-Württemberg in DE. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.878205
+date: 2026-08-11T01:33:11.779733
 url: "/cdr-researcher-census/researchers/ulrich-zuberbuhler-a5030559/"
 layout: "researcher"
 hiddenInHomeList: true

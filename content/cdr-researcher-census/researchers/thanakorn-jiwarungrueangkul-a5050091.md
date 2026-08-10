@@ -1,7 +1,7 @@
 ---
 title: "Thanakorn Jiwarungrueangkul"
 description: "Thanakorn Jiwarungrueangkul is a Mid-career Ocean CDR researcher at Prince of Songkla University in TH. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.991773
+date: 2026-08-11T01:33:11.869442
 url: "/cdr-researcher-census/researchers/thanakorn-jiwarungrueangkul-a5050091/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Blue carbon and microplastic dynamics in natural and planted mangroves, Thailand** (2026)
-   0 citations · Ocean CDR
+   1 citations · Ocean CDR
 
 ## External Profiles
 

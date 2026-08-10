@@ -1,7 +1,7 @@
 ---
 title: "Yin Gong"
 description: "Yin Gong is a Mid-career Enhanced Weathering researcher. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.128871
+date: 2026-08-11T01:33:12.018432
 url: "/cdr-researcher-census/researchers/yin-gong-a5011919/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Zinc isotopic evidence for enhanced continental weathering and organic carbon burial in the Early Silurian** (2024)
-   10 citations · Enhanced Weathering
+   11 citations · Enhanced Weathering
 
 ## External Profiles
 

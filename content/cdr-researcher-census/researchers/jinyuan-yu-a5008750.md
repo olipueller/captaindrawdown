@@ -1,7 +1,7 @@
 ---
 title: "Jinyuan Yu"
 description: "Jinyuan Yu is a Mid-career Soil Carbon researcher at Universitat Autònoma de Barcelona in ES. With 25 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.354188
+date: 2026-08-11T01:33:11.315654
 url: "/cdr-researcher-census/researchers/jinyuan-yu-a5008750/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Thinning increases forest ecosystem carbon stocks** (2024)
-   91 citations · Soil Carbon
+   94 citations · Soil Carbon
 
 2. **Vegetation restoration in the coarse‐textured soil area is more conducive to the accumulation of Fe‐associated C** (2024)
    13 citations · Soil Carbon
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    11 citations · Soil Carbon
 
 4. **Long-term vegetation restoration enhances soil carbon sequestration along a 170-year chronosequence** (2026)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

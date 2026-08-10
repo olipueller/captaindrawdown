@@ -1,7 +1,7 @@
 ---
 title: "Fanzhu Qu"
 description: "Fanzhu Qu is a Mid-career Soil Carbon researcher at Ludong University in CN. With 39 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.459611
+date: 2026-08-11T01:33:11.406245
 url: "/cdr-researcher-census/researchers/fanzhu-qu-a5035545/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,10 +50,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Influence of Wetland Intervention Strategies on Typical Biogenic Elements Distribution of Coastal Zone Soils in the Yellow River Delta** (2025)
+1. **Decoupled Carbon and Nitrogen Cycling Across Soil Particle-Size Fractions in Apple Orchards of the Jiaodong Peninsula, China** (2026)
+   0 citations
+
+2. **Influence of Wetland Intervention Strategies on Typical Biogenic Elements Distribution of Coastal Zone Soils in the Yellow River Delta** (2025)
    0 citations · Soil Carbon
 
-2. **Effects of Wetland Restoration Policies on Typical Biogenic Elements Distribution of Coastal Zone Soils in the Yellow River Delta** (2024)
+3. **Effects of Wetland Restoration Policies on Typical Biogenic Elements Distribution of Coastal Zone Soils in the Yellow River Delta** (2024)
    0 citations · Soil Carbon
 
 ## External Profiles

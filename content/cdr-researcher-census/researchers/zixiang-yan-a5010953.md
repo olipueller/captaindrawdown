@@ -1,7 +1,7 @@
 ---
 title: "Zixiang Yan"
 description: "Zixiang Yan is a Mid-career General CDR researcher at Chinese Academy of Sciences in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.944612
+date: 2026-08-11T01:33:11.839900
 url: "/cdr-researcher-census/researchers/zixiang-yan-a5010953/"
 layout: "researcher"
 hiddenInHomeList: true

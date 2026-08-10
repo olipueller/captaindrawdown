@@ -1,7 +1,7 @@
 ---
 title: "Jinghua Feng"
 description: "Jinghua Feng is a Mid-career Biochar researcher at North China Electric Power University in CN. With 10 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.593307
+date: 2026-08-11T01:33:11.524041
 url: "/cdr-researcher-census/researchers/jinghua-feng-a5103971/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A green and economical MgO/biochar composite for the removal of U(VI) from aqueous solutions** (2022)
-   34 citations · Biochar
+   36 citations · Biochar
 
 ## External Profiles
 

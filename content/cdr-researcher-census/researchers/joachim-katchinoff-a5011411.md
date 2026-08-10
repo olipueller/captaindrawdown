@@ -1,7 +1,7 @@
 ---
 title: "Joachim Katchinoff"
 description: "Joachim Katchinoff is a Mid-career General CDR researcher at Yale University in US. With 25 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.588934
+date: 2026-08-11T01:33:11.520449
 url: "/cdr-researcher-census/researchers/joachim-katchinoff-a5011411/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **River chemistry constraints on the carbon capture potential of surficial enhanced rock weathering** (2022)
-   60 citations · Enhanced Weathering
+   61 citations · Enhanced Weathering
 
 2. **Coupling Acid Neutralizationand Resource Recoveryto Scale Ocean Alkalinity Enhancement** (2026)
    0 citations · General CDR

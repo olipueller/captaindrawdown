@@ -1,7 +1,7 @@
 ---
 title: "Yifei Zhu"
 description: "Yifei Zhu is a Mid-career General CDR researcher at Tsinghua–Berkeley Shenzhen Institute in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.877248
+date: 2026-08-11T01:33:11.778804
 url: "/cdr-researcher-census/researchers/yifei-zhu-a5055615/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Utilizing multi-objective optimization in improved green infrastructure for enhanced pollution reduction and carbon mitigation in sponge cities** (2025)
-   8 citations · General CDR
+   10 citations · General CDR
 
 ## External Profiles
 

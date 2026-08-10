@@ -1,7 +1,7 @@
 ---
 title: "Rashmi Sharma"
 description: "Rashmi Sharma is a Senior Biochar researcher at Govind Ballabh Pant University of Agriculture and Technology in IN. With 66 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.382731
+date: 2026-08-11T01:33:11.339331
 url: "/cdr-researcher-census/researchers/rashmi-sharma-a5103020/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar application in constructed wetlands for wastewater treatment: A critical review** (2024)
-   52 citations · Biochar
+   57 citations · Biochar
 
 2. **Biochar Integration Sustaining Carbon-Nutrient Cycling and Soil Restoration** (2025)
    1 citations · Biochar

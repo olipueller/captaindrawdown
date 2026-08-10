@@ -1,7 +1,7 @@
 ---
 title: "Danielle dos Santos Tavares Pereira"
 description: "Danielle dos Santos Tavares Pereira is a Senior Soil Carbon researcher at Universidad Cooperativa de Colombia in CO. With 15 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.301504
+date: 2026-08-11T01:33:12.171926
 url: "/cdr-researcher-census/researchers/danielle-dos-santos-tavares-pereira-a5108693/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Sustainable vineyard management: Assessing the environmental impact of vermicompost compared over mineral fertilizers** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Shiyu Xie"
 description: "Shiyu Xie is a Senior Biochar researcher at Nanjing University of Chinese Medicine in CN. With 38 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.006261
+date: 2026-08-11T01:33:11.883193
 url: "/cdr-researcher-census/researchers/shiyu-xie-a5101104/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Machine learning-enabled optimization of biochar resource utilization and carbon mitigation pathways: mechanisms and challenges** (2025)
-   5 citations · Biochar
+   6 citations · Biochar
 
 2. **Hydrochar Production for Soil Environmental Improvement** (2023)
    0 citations · Biochar

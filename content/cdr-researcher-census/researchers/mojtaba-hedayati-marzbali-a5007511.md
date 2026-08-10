@@ -1,7 +1,7 @@
 ---
 title: "Mojtaba Hedayati Marzbali"
 description: "Mojtaba Hedayati Marzbali is a Mid-career Biochar researcher at MIT University in MK. With 25 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.354077
+date: 2026-08-11T01:33:11.315558
 url: "/cdr-researcher-census/researchers/mojtaba-hedayati-marzbali-a5007511/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Production of H2 and CNM from biogas decomposition using biosolids-derived biochar and the application of the CNM-coated biochar for PFAS adsorption** (2023)
-   27 citations · Biochar
+   29 citations · Biochar
 
 2. **Ammonium nitrogen (NH4+-N) recovery from synthetic wastewater using biosolids-derived biochar** (2023)
-   12 citations · Biochar
+   13 citations · Biochar
+
+3. **Chemical vapour deposition of biogas over biosolids biochar catalyst: Effects of operating conditions, process modelling, and techno-economic assessment** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

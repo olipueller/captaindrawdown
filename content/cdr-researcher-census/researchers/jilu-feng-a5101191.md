@@ -1,7 +1,7 @@
 ---
 title: "Jilu Feng"
 description: "Jilu Feng is a Senior Enhanced Weathering researcher. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.521245
+date: 2026-08-11T01:33:12.372754
 url: "/cdr-researcher-census/researchers/jilu-feng-a5101191/"
 layout: "researcher"
 hiddenInHomeList: true

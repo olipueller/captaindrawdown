@@ -1,7 +1,7 @@
 ---
 title: "Helen Gurney‐Smith"
 description: "Helen Gurney‐Smith is a Senior Ocean CDR researcher at Fisheries and Oceans Canada in CA. With 40 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.322381
+date: 2026-08-11T01:33:11.287717
 url: "/cdr-researcher-census/researchers/helen-gurneysmith-a5034960/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,9 +51,12 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **The importance of engagement with fisheries, aquaculture, and Indigenous communities in the planning and implementation of marine carbon dioxide removal (mCDR)** (2025)
-   3 citations · General CDR
+   4 citations · General CDR
 
 2. **A sequential gated research framework for addressing potential impacts of marine carbon dioxide removal on fisheries, aquaculture, and Indigenous communities** (2026)
+   0 citations · General CDR
+
+3. **A sequential gated research framework for addressing potential impacts of marine carbon dioxide removal on fisheries, aquaculture, and Indigenous communities** (2026)
    0 citations · General CDR
 
 ## External Profiles

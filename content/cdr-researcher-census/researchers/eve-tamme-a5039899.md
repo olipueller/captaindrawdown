@@ -1,7 +1,7 @@
 ---
 title: "Eve Tamme"
 description: "Eve Tamme is a Mid-career General CDR researcher at Princip (Czechia) in CZ. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.393334
+date: 2026-08-11T01:33:12.255129
 url: "/cdr-researcher-census/researchers/eve-tamme-a5039899/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Controversies of carbon dioxide removal** (2023)
-   47 citations · General CDR
+   49 citations · General CDR
 
 2. **European Carbon Dioxide Removal Policy: Current Status and Future Opportunities** (2021)
    28 citations · General CDR
 
 3. **Considering durability in carbon dioxide removal strategies for climate change mitigation** (2025)
-   8 citations · General CDR
+   12 citations · General CDR
 
 ## External Profiles
 

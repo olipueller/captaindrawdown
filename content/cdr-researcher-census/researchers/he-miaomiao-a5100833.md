@@ -1,7 +1,7 @@
 ---
 title: "He Miaomiao"
 description: "He Miaomiao is a Senior Biochar researcher at Liaoning Technical University in CN. With 10 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.417784
+date: 2026-08-11T01:33:12.277009
 url: "/cdr-researcher-census/researchers/he-miaomiao-a5100833/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar and bentonite application improves aeolian sandy soil health and enhances soil carbon sequestration and emission reduction potential** (2025)
-   11 citations · Biochar
+   12 citations · Biochar
 
 2. **Author Correction: Biochar and bentonite application improves aeolian sandy soil health and enhances soil carbon sequestration and emission reduction potential** (2025)
    1 citations · Biochar

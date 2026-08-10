@@ -1,7 +1,7 @@
 ---
 title: "Xinxin Jin"
 description: "Xinxin Jin is a Senior Soil Carbon researcher at Shenyang Agricultural University in CN. With 98 publications and an h-index of 27, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.163150
+date: 2026-08-11T01:33:11.139469
 url: "/cdr-researcher-census/researchers/xinxin-jin-a5101520/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A Review on Carbon Source and Sink in Arable Land Ecosystems** (2022)
-   54 citations · General CDR
+   56 citations · General CDR
 
 2. **Anthropogenic controls over soil organic carbon distribution from the cultivated lands in Northeast China** (2021)
    30 citations · Soil Carbon
@@ -59,14 +59,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **Impact of future climate warming on soil organic carbon stocks in Inner Mongolia, China** (2023)
    10 citations · Soil Carbon
 
-4. **Assessing the carbon sequestration potential and identifying influential factors of cultivated soils in Northeast China** (2023)
+4. **Soil organic carbon decomposition in response to moisture, microbial communities, and biochar addition in Alfisols** (2026)
+   9 citations · Biochar
+
+5. **Assessing the carbon sequestration potential and identifying influential factors of cultivated soils in Northeast China** (2023)
    9 citations · Soil Carbon
 
-5. **Soil organic carbon decomposition in response to moisture, microbial communities, and biochar addition in Alfisols** (2026)
-   5 citations · Biochar
-
 6. **Spatio-Temporal Variations in Soil Organic Carbon Stocks in Different Erosion Zones of Cultivated Land in Northeast China Under Future Climate Change Conditions** (2025)
-   3 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 7. **Long‐term fertilization and plastic film mulching modify temporal incorporation of <scp> <sup>13</sup> C </scp> / <scp> <sup>15</sup> N </scp> ‐labelled particulate organic matter** (2023)
    2 citations · Soil Carbon

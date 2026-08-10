@@ -1,7 +1,7 @@
 ---
 title: "R.J. Pakeman"
 description: "R.J. Pakeman is a Senior Soil Carbon researcher. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.116837
+date: 2026-08-11T01:33:12.007075
 url: "/cdr-researcher-census/researchers/rj-pakeman-a5002961/"
 layout: "researcher"
 hiddenInHomeList: true

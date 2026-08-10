@@ -1,7 +1,7 @@
 ---
 title: "Shasha Li"
 description: "Shasha Li is a Senior Ocean CDR researcher at Xiamen University in CN. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.518082
+date: 2026-08-11T01:33:12.370153
 url: "/cdr-researcher-census/researchers/shasha-li-a5079167/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **The Ballast Effect of Terrigenous Lithogenic Particles From Rivers and Its Influence on POC Fluxes in the Ocean** (2024)
-   4 citations · Ocean CDR
+   5 citations · Ocean CDR
 
 2. **Assessing the efficacy of river-based ocean alkalinity enhancement for carbon sequestration under high emission pathways** (2025)
    1 citations · Ocean CDR

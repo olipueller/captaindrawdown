@@ -1,7 +1,7 @@
 ---
 title: "Aniruddha Acharya"
 description: "Aniruddha Acharya is a Mid-career Soil Carbon researcher at Arkansas Tech University in US. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.204833
+date: 2026-08-11T01:33:12.087258
 url: "/cdr-researcher-census/researchers/aniruddha-acharya-a5016200/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Shuai Chen"
 description: "Shuai Chen is a Senior Soil Carbon researcher at Chongqing Normal University in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.164501
+date: 2026-08-11T01:33:12.050864
 url: "/cdr-researcher-census/researchers/shuai-chen-a5077396/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon sequestration and decreased CO2 emission caused by biological carbon pump effect: Insights from diel hydrochemical variations in subtropical karst reservoirs** (2024)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 ## External Profiles
 

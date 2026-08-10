@@ -1,7 +1,7 @@
 ---
 title: "Maoz Dor"
 description: "Maoz Dor is a Mid-career Soil Carbon researcher at Michigan State University in US. With 35 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.023016
+date: 2026-08-11T01:33:11.899411
 url: "/cdr-researcher-census/researchers/maoz-dor-a5074062/"
 layout: "researcher"
 hiddenInHomeList: true

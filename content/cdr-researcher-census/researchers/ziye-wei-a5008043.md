@@ -1,7 +1,7 @@
 ---
 title: "Ziye Wei"
 description: "Ziye Wei is a Mid-career Biochar researcher at Nanjing Tech University in CN. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.052189
+date: 2026-08-11T01:33:11.926489
 url: "/cdr-researcher-census/researchers/ziye-wei-a5008043/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Mg/Al-layered double hydroxide modified biochar for simultaneous removal phosphate and nitrate from aqueous solution** (2021)
-   56 citations · Biochar
+   57 citations · Biochar
 
 ## External Profiles
 

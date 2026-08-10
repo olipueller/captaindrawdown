@@ -1,7 +1,7 @@
 ---
 title: "Tianqi Guo"
 description: "Tianqi Guo is a Mid-career Soil Carbon researcher at Agriculture and Forestry University in NP. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.817541
+date: 2026-08-11T01:33:11.725566
 url: "/cdr-researcher-census/researchers/tianqi-guo-a5101407/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Changes in soil moisture and organic carbon under deep-rooted trees of different stand ages on the Chinese Loess Plateau** (2022)
-   42 citations · Soil Carbon
+   43 citations · Soil Carbon
 
 2. **Effects of long-term diversified crop rotations on soil carbon dynamics mediated by microbial carbon degradation genes in the Loess Plateau** (2026)
    2 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Yifang Zhu"
 description: "Yifang Zhu is a Senior Ocean CDR researcher at Sichuan Province Orthopedic Hospital in CN. With 40 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.426459
+date: 2026-08-11T01:33:11.378695
 url: "/cdr-researcher-census/researchers/yifang-zhu-a5103175/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Asymmetric Electrosorption in a Bio‐Inspired Reactor Enables Energy Efficient Ocean Carbon Removal** (2025)
-   2 citations · General CDR
+   3 citations · General CDR
 
 2. **Asymmetric Electrosorption in a Bio‐Inspired Reactor Enables Energy Efficient Ocean Carbon Removal** (2025)
    1 citations

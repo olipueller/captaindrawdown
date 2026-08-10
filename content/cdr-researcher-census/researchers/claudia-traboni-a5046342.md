@@ -1,7 +1,7 @@
 ---
 title: "Claudia Traboni"
 description: "Claudia Traboni is a Mid-career Ocean CDR researcher at Stazione Zoologica Anton Dohrn in IT. With 23 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.769129
+date: 2026-08-11T01:33:11.682599
 url: "/cdr-researcher-census/researchers/claudia-traboni-a5046342/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,17 +50,17 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 
 ## Top CDR Publications
 
-1. **The effect of ocean alkalinity enhancement on zooplankton standing stock and community composition in the Eastern Mediterranean Sea: a mesocosm study** (2025)
+1. **Plankton do not care: Minimal effects of ocean liming on plankton growth and grazing in the Eastern Mediterranean** (2025)
+   4 citations · Ocean CDR
+
+2. **The effect of ocean alkalinity enhancement on zooplankton standing stock and community composition in the Eastern Mediterranean Sea: a mesocosm study** (2025)
    3 citations · Ocean CDR
 
-2. **Plankton do not care: Minimal effects of ocean liming on plankton growth and grazing in the Eastern Mediterranean** (2025)
-   3 citations · Ocean CDR
+3. **Exploring the roles of trophic mode and microbial prey size in grazing pathways of tropical oligotrophic waters of the eastern Indian ocean** (2025)
+   1 citations
 
-3. **Ocean liming in the oligotrophic Eastern Mediterranean: impact on the planktonic microbial food web** (2024)
+4. **Ocean liming in the oligotrophic Eastern Mediterranean: impact on the planktonic microbial food web** (2024)
    1 citations · General CDR
-
-4. **Exploring the roles of trophic mode and microbial prey size in grazing pathways of tropical oligotrophic waters of the eastern Indian ocean** (2025)
-   0 citations
 
 5. **Exploring the roles of trophic mode and microbial prey size in grazing pathways of tropical oligotrophic waters of the eastern Indian Ocean** (2025)
    0 citations

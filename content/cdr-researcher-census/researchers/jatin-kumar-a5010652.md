@@ -1,7 +1,7 @@
 ---
 title: "Jatin Kumar"
 description: "Jatin Kumar is a Mid-career Soil Carbon researcher at Dr. Yashwant Singh Parmar University of Horticulture and Forestry in IN. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.459937
+date: 2026-08-11T01:33:12.316439
 url: "/cdr-researcher-census/researchers/jatin-kumar-a5010652/"
 layout: "researcher"
 hiddenInHomeList: true

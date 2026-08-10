@@ -1,7 +1,7 @@
 ---
 title: "Xieyu Fan"
 description: "Xieyu Fan is a Mid-career Soil Carbon researcher at Fujian Agriculture and Forestry University in CN. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.123500
+date: 2026-08-11T01:33:12.013293
 url: "/cdr-researcher-census/researchers/xieyu-fan-a5112965/"
 layout: "researcher"
 hiddenInHomeList: true

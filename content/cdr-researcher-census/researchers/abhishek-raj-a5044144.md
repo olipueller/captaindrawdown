@@ -1,7 +1,7 @@
 ---
 title: "Abhishek Raj"
 description: "Abhishek Raj is a Senior Soil Carbon researcher at Dr. Rajendra Prasad Central Agriculture University in IN. With 160 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.200744
+date: 2026-08-11T01:33:11.174756
 url: "/cdr-researcher-census/researchers/abhishek-raj-a5044144/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Legume-based inter-cropping to achieve the crop, soil, and environmental health security** (2022)
-   77 citations · Soil Carbon
+   80 citations · Soil Carbon
 
 2. **Carbon storage, flux and mitigation potential of tropical Sal mixed deciduous forest ecosystem in Chhattisgarh, India** (2021)
    70 citations · Soil Carbon
@@ -69,7 +69,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    17 citations · General CDR
 
 7. **Agroforestry and Its Services for Soil Management and Sustainability** (2021)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 8. **Forest Biodiversity Conservation and Restoration** (2023)
    13 citations

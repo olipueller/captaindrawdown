@@ -1,7 +1,7 @@
 ---
 title: "Jiaohui Fang"
 description: "Jiaohui Fang is a Mid-career Soil Carbon researcher at Qufu Normal University in CN. With 28 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.304874
+date: 2026-08-11T01:33:11.271968
 url: "/cdr-researcher-census/researchers/jiaohui-fang-a5102355/"
 layout: "researcher"
 hiddenInHomeList: true

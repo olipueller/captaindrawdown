@@ -1,7 +1,7 @@
 ---
 title: "Feng Tao"
 description: "Feng Tao is a Senior General CDR researcher at Pennsylvania State University in US. With 62 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.246625
+date: 2026-08-11T01:33:11.217760
 url: "/cdr-researcher-census/researchers/feng-tao-a5013882/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Inorganic and organic synergies in enhanced weathering to promote carbon dioxide removal** (2024)
-   19 citations · Enhanced Weathering
+   21 citations · Enhanced Weathering
 
 2. **Reply to: Model uncertainty obscures major driver of soil carbon** (2024)
    6 citations

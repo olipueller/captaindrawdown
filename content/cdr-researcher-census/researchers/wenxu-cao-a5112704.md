@@ -1,7 +1,7 @@
 ---
 title: "Wenxu Cao"
 description: "Wenxu Cao is a Mid-career Soil Carbon researcher at Qinghai University for Nationalities in CN. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.334378
+date: 2026-08-11T01:33:12.200944
 url: "/cdr-researcher-census/researchers/wenxu-cao-a5112704/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The effect of agricultural management on soil microbial necromass: A hierarchical meta-analysis** (2024)
-   12 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 2. **The Effect of Agricultural Management on Soil Microbial Necromass ：A Hierarchical Meta-Analysis** (2023)
    0 citations · Soil Carbon

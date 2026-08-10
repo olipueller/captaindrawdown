@@ -1,7 +1,7 @@
 ---
 title: "Changyoon Jeong"
 description: "Changyoon Jeong is a Mid-career Soil Carbon researcher at Louisiana State University in US. With 43 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.514958
+date: 2026-08-11T01:33:11.453635
 url: "/cdr-researcher-census/researchers/changyoon-jeong-a5081655/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    48 citations · Biochar
 
 2. **Assessing the long‐term effects of conservation agriculture on cotton production in Northeast Louisiana using the denitrification–decomposition model** (2024)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 3. **Effects of Microbially Engineered Biochar Pellets on Net Ecosystem Carbon Balance, Greenhouse Gas Emissions, and Clubroot Disease in Organic Cabbage Cultivation** (2026)
    0 citations · Biochar

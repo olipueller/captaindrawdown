@@ -1,7 +1,7 @@
 ---
 title: "Sonali Paul Mazumdar"
 description: "Sonali Paul Mazumdar is a Mid-career Soil Carbon researcher at Indian Council of Agricultural Research in IN. With 52 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.468567
+date: 2026-08-11T01:33:11.413822
 url: "/cdr-researcher-census/researchers/sonali-paul-mazumdar-a5057741/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    10 citations · Soil Carbon
 
 2. **Trade-off between soil aggregate stability and carbon decomposition under 44 years long-term integrated nutrient management in rice-wheat-jute system** (2021)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 3. **Impact of Balanced Fertilization on Carbon and Nutrient Dynamics under Long-Term Jute-Rice-Lentil Cropping System in Alluvial Soils of Eastern India** (2022)
    5 citations · Soil Carbon

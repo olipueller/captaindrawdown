@@ -1,7 +1,7 @@
 ---
 title: "Xiuyuan Peng"
 description: "Xiuyuan Peng is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.529120
+date: 2026-08-11T01:33:11.465815
 url: "/cdr-researcher-census/researchers/xiuyuan-peng-a5077202/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Integrated aggregate turnover and soil organic carbon sequestration using rare earth oxides and 13C isotope as dual tracers** (2022)
-   42 citations · Soil Carbon
+   43 citations · Soil Carbon
 
 2. **Integrated Aggregate Turnover and Soil Organic Carbon Accumulation in Ultisols Using Rare Earth Oxides and 13c Isotope as Dual Tracers** (2022)
    1 citations · Soil Carbon

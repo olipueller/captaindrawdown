@@ -1,7 +1,7 @@
 ---
 title: "Zhihao Pang"
 description: "Zhihao Pang is a Mid-career Soil Carbon researcher at Ministry of Education in NZ. With 30 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.066871
+date: 2026-08-11T01:33:11.960714
 url: "/cdr-researcher-census/researchers/zhihao-pang-a5069327/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Yulai Yang"
 description: "Yulai Yang is a Mid-career Biochar researcher at Coppin State University in US. With 32 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.488740
+date: 2026-08-11T01:33:11.431008
 url: "/cdr-researcher-census/researchers/yulai-yang-a5047326/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar–Hydrogel composites as multifunctional materials for environmental remediation and circular resource recovery** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 2. **Impact of Poultry Litter Biochar on Soil Fertility and Radish Growth: Environmental Health and Water Quality Considerations** (2025)
    0 citations · Biochar

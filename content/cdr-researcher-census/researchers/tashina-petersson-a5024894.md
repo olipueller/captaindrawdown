@@ -1,7 +1,7 @@
 ---
 title: "Tashina Petersson"
 description: "Tashina Petersson is a Mid-career Soil Carbon researcher at CMCC Foundation - Euro-Mediterranean Center on Climate Change in IT. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.125872
+date: 2026-08-11T01:33:12.015550
 url: "/cdr-researcher-census/researchers/tashina-petersson-a5024894/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon farming practices for European cropland: A review on the effect on soil organic carbon** (2024)
-   26 citations · General CDR
+   27 citations · General CDR
 
 2. **The misconception of soil organic carbon sequestration notion: When do we achieve climate benefit?** (2023)
    17 citations · General CDR

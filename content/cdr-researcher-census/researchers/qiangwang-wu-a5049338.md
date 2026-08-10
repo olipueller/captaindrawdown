@@ -1,7 +1,7 @@
 ---
 title: "Qiangwang Wu"
 description: "Qiangwang Wu is a Mid-career Enhanced Weathering researcher at Sinopec (China) in CN. With 16 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.566603
+date: 2026-08-11T01:33:12.410706
 url: "/cdr-researcher-census/researchers/qiangwang-wu-a5049338/"
 layout: "researcher"
 hiddenInHomeList: true

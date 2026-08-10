@@ -1,7 +1,7 @@
 ---
 title: "Michael Wögerer"
 description: "Michael Wögerer is a Mid-career BECCS researcher at International Institute for Applied Systems Analysis in AT. With 29 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.281969
+date: 2026-08-11T01:33:12.155063
 url: "/cdr-researcher-census/researchers/michael-wogerer-a5088505/"
 layout: "researcher"
 hiddenInHomeList: true

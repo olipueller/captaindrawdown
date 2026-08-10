@@ -1,7 +1,7 @@
 ---
 title: "Fangnon Firmin Fangninou"
 description: "Fangnon Firmin Fangninou is a Mid-career Soil Carbon researcher at Shenzhen Polytechnic University in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.074595
+date: 2026-08-11T01:33:11.968329
 url: "/cdr-researcher-census/researchers/fangnon-firmin-fangninou-a5010585/"
 layout: "researcher"
 hiddenInHomeList: true

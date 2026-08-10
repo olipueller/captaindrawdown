@@ -1,7 +1,7 @@
 ---
 title: "Ying‐heng Fei"
 description: "Ying‐heng Fei is a Senior Biochar researcher at Guangzhou University in CN. With 49 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.231485
+date: 2026-08-11T01:33:11.203644
 url: "/cdr-researcher-census/researchers/yingheng-fei-a5007802/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **The pH-sensitive sorption governed reduction of Cr(VI) by sludge derived biochar and the accelerating effect of organic acids** (2021)
-   47 citations · Biochar
+   48 citations · Biochar
 
 2. **Facile and economic Fe-modification of rice straw biochar for efficient removal of Cr(VI): Mechanistic insights and application in real wastewater** (2024)
-   3 citations · Biochar
+   5 citations · Biochar
 
 3. **Hexavalent Chromium Detoxification by Biochars: Influences of Organic and Inorganic Electron Donors** (2024)
    1 citations · Biochar

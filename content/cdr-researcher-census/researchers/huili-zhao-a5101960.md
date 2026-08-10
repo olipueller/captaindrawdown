@@ -1,7 +1,7 @@
 ---
 title: "Huili Zhao"
 description: "Huili Zhao is a Mid-career Soil Carbon researcher at Qingdao University in CN. With 11 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.529765
+date: 2026-08-11T01:33:11.466424
 url: "/cdr-researcher-census/researchers/huili-zhao-a5101960/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Response of Soil Organic Carbon and Bacterial Community to Amendments in Saline‐Alkali Soils of the Yellow River Delta** (2025)
-   72 citations · Soil Carbon
+   83 citations · Soil Carbon
 
 2. **Effect of Straw and Wood Ash on Soil Carbon Sequestration and Bacterial Community in a Calcareous Soil** (2022)
    13 citations
@@ -59,11 +59,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **Distribution of soil organic carbon and nitrogen under reduced nitrogen application in the Guanzhong plain of China<sup>#</sup>** (2021)
    5 citations · Soil Carbon
 
-4. **Effect of Straw And Wood Ash On Soil Carbon Sequestration and Bacterial Community in a Calcareous Soil** (2021)
-   4 citations · Biochar
+4. **Straw plus straw interlayer alter soil organic carbon and bacterial community in a saline-alkali soil from the Yellow River Delta** (2026)
+   4 citations · Soil Carbon
 
-5. **Straw plus straw interlayer alter soil organic carbon and bacterial community in a saline-alkali soil from the Yellow River Delta** (2026)
-   3 citations · Soil Carbon
+5. **Effect of Straw And Wood Ash On Soil Carbon Sequestration and Bacterial Community in a Calcareous Soil** (2021)
+   4 citations · Biochar
 
 6. **Effects of Long-Term Straw-Return Modes on Soil Organic Carbon Content and Carbon Footprint in Wheat–Maize Rotation System** (2021)
    0 citations · Soil Carbon

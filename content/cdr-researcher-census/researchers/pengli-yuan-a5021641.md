@@ -1,7 +1,7 @@
 ---
 title: "Pengli Yuan"
 description: "Pengli Yuan is a Mid-career Soil Carbon researcher at Guangxi University in CN. With 31 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.454248
+date: 2026-08-11T01:33:11.402136
 url: "/cdr-researcher-census/researchers/pengli-yuan-a5021641/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Variations in the profile distribution of soil aggregates and organic carbon under rice-crayfish coculture system in Jianghan Plain, China** (2024)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 2. **Carbon sequestration, emission reduction, and technical strategies of rice-crayfish farming in central China** (2025)
-   6 citations · General CDR
+   7 citations · General CDR
 
 ## External Profiles
 

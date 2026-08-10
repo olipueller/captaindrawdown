@@ -1,7 +1,7 @@
 ---
 title: "Changhua Fan"
 description: "Changhua Fan is a Mid-career Soil Carbon researcher at Chinese Academy of Tropical Agricultural Sciences in CN. With 45 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.242804
+date: 2026-08-11T01:33:11.214106
 url: "/cdr-researcher-census/researchers/changhua-fan-a5016629/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    11 citations · Biochar
 
 2. **Molecular-level insight into the effect of fertilization regimes on the chemodiversity of dissolved organic matter in tropical cropland** (2024)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 3. **[Effects of Combined Application of Chemical Fertilizer and Organic Materials on Organic Carbon Mineralization in Latosol and Associated Driving Factors].** (2025)
    1 citations · Soil Carbon

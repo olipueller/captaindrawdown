@@ -1,7 +1,7 @@
 ---
 title: "Hang-Wei Hu"
 description: "Hang-Wei Hu is a Mid-career Biochar researcher at The University of Melbourne in AU. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.245133
+date: 2026-08-11T01:33:11.216416
 url: "/cdr-researcher-census/researchers/hang-wei-hu-a5061285/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Long-Term Low-Rate Biochar Application Enhances Soil Organic Carbon Without Affecting Sorghum Yield in a Calcaric Cambisol** (2025)
-   3 citations · Biochar
+   4 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Siwen Tan"
 description: "Siwen Tan is a Senior Biochar researcher. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.505093
+date: 2026-08-11T01:33:12.357784
 url: "/cdr-researcher-census/researchers/siwen-tan-a5044990/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Laboratory-Scale Biochar-Aerated Constructed Wetlands for Low C/N Wastewater: Standardization and Legal Cooperation from a Watershed Restoration Perspective** (2025)
-   1 citations · Biochar
+   2 citations · Biochar
 
 ## External Profiles
 

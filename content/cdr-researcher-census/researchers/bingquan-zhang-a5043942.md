@@ -1,7 +1,7 @@
 ---
 title: "Bingquan Zhang"
 description: "Bingquan Zhang is a Senior General CDR researcher at Yale University in US. With 48 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.504795
+date: 2026-08-11T01:33:11.444799
 url: "/cdr-researcher-census/researchers/bingquan-zhang-a5043942/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Roads to Removal: Options for Carbon Dioxide Removal in the United States** (2023)
-   60 citations · General CDR
+   61 citations · General CDR
 
 2. **Techno-Economic and Life Cycle Assessment of Enhanced Rock Weathering: A Case Study from the Midwestern United States** (2023)
    33 citations · Enhanced Weathering
 
 3. **Life Cycle Assessment in the Monitoring, Reporting, and Verification of Land-Based Carbon Dioxide Removal: Gaps and Opportunities** (2025)
-   24 citations · General CDR
+   26 citations · General CDR
 
 4. **Spatially explicit transition pathways for decarbonizing China’s steel industry during 2030–2050** (2025)
    2 citations · BECCS

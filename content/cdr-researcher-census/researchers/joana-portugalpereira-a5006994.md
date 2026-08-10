@@ -1,7 +1,7 @@
 ---
 title: "Joana Portugal‐Pereira"
 description: "Joana Portugal‐Pereira is a Senior General CDR researcher at Instituto de Engenharia de Sistemas e Computadores Investigação e Desenvolvimento in PT. With 77 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.101630
+date: 2026-08-11T01:33:11.081789
 url: "/cdr-researcher-census/researchers/joana-portugalpereira-a5006994/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Bioenergy for climate change mitigation: Scale and sustainability** (2021)
-   134 citations · BECCS
+   139 citations · BECCS
 
 2. **Sustainable intensification and carbon sequestration research in agricultural systems: A systematic review** (2023)
    35 citations · General CDR
@@ -62,11 +62,11 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 4. **The potential of biomass** (2023)
    3 citations · BECCS
 
-5. **Techno-economic and environmental evaluation of building-integrated direct air capture performance** (2026)
-   0 citations · DAC
+5. **Assessing potential implications of the EU's carbon dioxide removal strategy on Brazil's land ecosystems and local communities** (2025)
+   1 citations · General CDR
 
-6. **Assessing potential implications of the EU's carbon dioxide removal strategy on Brazil's land ecosystems and local communities** (2025)
-   0 citations · General CDR
+6. **Techno-economic and environmental evaluation of building-integrated direct air capture performance** (2026)
+   0 citations · DAC
 
 7. **Considering the Cross-Boundary Environmental and Social Implications of the EU’s Carbon Dioxide Removal Strategy in Brazil** (2024)
    0 citations · General CDR

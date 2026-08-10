@@ -1,7 +1,7 @@
 ---
 title: "Leonor Rodrigues"
 description: "Leonor Rodrigues is a Mid-career General CDR researcher at Federal Office for the Environment in CH. With 30 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.485092
+date: 2026-08-11T01:33:11.428125
 url: "/cdr-researcher-census/researchers/leonor-rodrigues-a5046809/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    74 citations · General CDR
 
 2. **The importance of biochar quality and pyrolysis yield for soil carbon sequestration in practice** (2023)
-   61 citations · Biochar
+   63 citations · Biochar
 
 3. **Key processes and timescales of tropical earth formation** (2024)
    13 citations

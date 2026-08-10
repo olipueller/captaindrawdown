@@ -1,7 +1,7 @@
 ---
 title: "Amira L. Shafik"
 description: "Amira L. Shafik is a Mid-career Biochar researcher at Mansoura University in EG. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.372154
+date: 2026-08-11T01:33:12.235004
 url: "/cdr-researcher-census/researchers/amira-l-shafik-a5070147/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Mesoporous magnetic biochar derived from common reed (Phragmites australis) for rapid and efficient removal of methylene blue from aqueous media** (2024)
-   18 citations · Biochar
+   22 citations · Biochar
 
 ## External Profiles
 

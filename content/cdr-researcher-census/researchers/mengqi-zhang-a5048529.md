@@ -1,7 +1,7 @@
 ---
 title: "Mengqi Zhang"
 description: "Mengqi Zhang is an Early-career Soil Carbon researcher at Northwest A&F University in CN. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.580114
+date: 2026-08-11T01:33:12.418609
 url: "/cdr-researcher-census/researchers/mengqi-zhang-a5048529/"
 layout: "researcher"
 hiddenInHomeList: true

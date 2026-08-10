@@ -1,7 +1,7 @@
 ---
 title: "Christophe Moni"
 description: "Christophe Moni is a Senior Soil Carbon researcher at Norwegian Institute of Bioeconomy Research in NO. With 34 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.350944
+date: 2026-08-11T01:33:11.312877
 url: "/cdr-researcher-census/researchers/christophe-moni-a5042585/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Comparison of properties of biochar produced from different types of lignocellulosic biomass by slow pyrolysis at 600 °C** (2022)
-   79 citations · Biochar
+   82 citations · Biochar
 
 2. **The fate of cover crop carbon inputs in a Norwegian soil** (2025)
    0 citations · Soil Carbon

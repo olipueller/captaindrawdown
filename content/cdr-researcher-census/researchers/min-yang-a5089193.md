@@ -1,7 +1,7 @@
 ---
 title: "Min Yang"
 description: "Min Yang is an Early-career Biochar researcher at Shandong Academy of Sciences in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.351912
+date: 2026-08-11T01:33:12.216170
 url: "/cdr-researcher-census/researchers/min-yang-a5089193/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Efficient tetracycline hydrochloride degradation via peroxymonosulfate activation by N doped coagulated sludge based biochar: Insights on the nonradical pathway** (2024)
-   9 citations · Biochar
+   10 citations · Biochar
 
 ## External Profiles
 

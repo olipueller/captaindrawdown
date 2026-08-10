@@ -1,7 +1,7 @@
 ---
 title: "Frédéric Babonneau"
 description: "Frédéric Babonneau is a Senior General CDR researcher at Kedge Business School in CL. With 107 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.300520
+date: 2026-08-11T01:33:11.267729
 url: "/cdr-researcher-census/researchers/frederic-babonneau-a5078881/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Transition to zero-net emissions for Qatar: A policy based on Hydrogen and CO2 capture &amp; storage development** (2022)
-   26 citations · General CDR
+   27 citations · General CDR
 
 2. **Economic assessment of the development of CO2 direct reduction technologies in long-term climate strategies of the Gulf countries** (2021)
    22 citations · DAC
@@ -60,7 +60,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    13 citations · General CDR
 
 4. **Reaching Paris Agreement goal through carbon dioxide removal development: A compact OR model** (2022)
-   8 citations · General CDR
+   9 citations · General CDR
 
 5. **GCC countries strategic options in a global transition to zero-net emissions** (2022)
    5 citations · DAC

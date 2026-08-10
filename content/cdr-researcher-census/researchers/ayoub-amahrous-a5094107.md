@@ -1,7 +1,7 @@
 ---
 title: "Ayoub Amahrous"
 description: "Ayoub Amahrous is a Mid-career Biochar researcher at Université Hassan 1er in MA. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.589449
+date: 2026-08-11T01:33:12.424455
 url: "/cdr-researcher-census/researchers/ayoub-amahrous-a5094107/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **the main types of derivatives of plant matter and agricultural waste used as bio-adsorbents for the removal of heavy metals and dyes: a review** (2024)
-   14 citations · Biochar
+   15 citations · Biochar
 
 ## External Profiles
 

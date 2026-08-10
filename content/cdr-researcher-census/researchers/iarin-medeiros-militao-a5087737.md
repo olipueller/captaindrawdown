@@ -1,7 +1,7 @@
 ---
 title: "Iarin Medeiros Militao"
 description: "Iarin Medeiros Militao is an Early-career Biochar researcher at RMIT University in AU. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.909712
+date: 2026-08-11T01:33:11.808407
 url: "/cdr-researcher-census/researchers/iarin-medeiros-militao-a5087737/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **PFAS removal from water by adsorption with alginate-encapsulated plant albumin and rice straw-derived biochar** (2023)
-   96 citations · Biochar
+   99 citations · Biochar
 
 ## External Profiles
 

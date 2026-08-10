@@ -1,7 +1,7 @@
 ---
 title: "Ebrahim Tangestani"
 description: "Ebrahim Tangestani is a Mid-career Biochar researcher at James Cook University in AU. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.209512
+date: 2026-08-11T01:33:12.091549
 url: "/cdr-researcher-census/researchers/ebrahim-tangestani-a5050477/"
 layout: "researcher"
 hiddenInHomeList: true

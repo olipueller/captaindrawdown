@@ -1,7 +1,7 @@
 ---
 title: "Christina Larkin"
 description: "Christina Larkin is a Mid-career Enhanced Weathering researcher. With 29 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.494755
+date: 2026-08-11T01:33:11.436076
 url: "/cdr-researcher-census/researchers/christina-larkin-a5074798/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,10 +46,10 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Quantification of CO2 removal in a large-scale enhanced weathering field trial on an oil palm plantation in Sabah, Malaysia** (2022)
-   70 citations · Enhanced Weathering
+   71 citations · Enhanced Weathering
 
 2. **A review of measurement for quantification of carbon dioxide removal by enhanced weathering in soil** (2024)
-   51 citations · Enhanced Weathering
+   53 citations · Enhanced Weathering
 
 3. **A Review of Measurement for Quantification of Carbon Dioxide Removal by Enhanced Weathering in Soil** (2023)
    6 citations

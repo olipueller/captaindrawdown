@@ -1,7 +1,7 @@
 ---
 title: "Mark Gino Galang"
 description: "Mark Gino Galang is a Mid-career Ocean CDR researcher at University of Minnesota in US. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.846038
+date: 2026-08-11T01:33:11.749907
 url: "/cdr-researcher-census/researchers/mark-gino-galang-a5027324/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Intelligent predictive modeling for the optimization of advanced algal photobioreactors in greenhouse gas capture and utilization** (2025)
-   6 citations · Ocean CDR
+   7 citations · Ocean CDR
 
 ## External Profiles
 

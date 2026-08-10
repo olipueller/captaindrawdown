@@ -1,7 +1,7 @@
 ---
 title: "Fan Yang"
 description: "Fan Yang is a Senior BECCS researcher at Center for Environmental Health in US. With 24 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.537174
+date: 2026-08-11T01:33:11.473490
 url: "/cdr-researcher-census/researchers/fan-yang-a5114833/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Sustainable aviation fuel pathways: Emissions, costs and uncertainty** (2025)
-   56 citations · BECCS
+   64 citations · BECCS
 
 2. **Harmonized comparison of virgin steel production using biomass with carbon capture and storage for negative emissions** (2021)
-   27 citations · BECCS
+   28 citations · BECCS
 
 3. **Spatially explicit transition pathways for decarbonizing China’s steel industry during 2030–2050** (2025)
    2 citations · BECCS

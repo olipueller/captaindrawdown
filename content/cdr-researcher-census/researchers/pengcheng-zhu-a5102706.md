@@ -1,7 +1,7 @@
 ---
 title: "Pengcheng Zhu"
 description: "Pengcheng Zhu is a Senior Biochar researcher at Army Medical University in CN. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.377389
+date: 2026-08-11T01:33:12.239563
 url: "/cdr-researcher-census/researchers/pengcheng-zhu-a5102706/"
 layout: "researcher"
 hiddenInHomeList: true

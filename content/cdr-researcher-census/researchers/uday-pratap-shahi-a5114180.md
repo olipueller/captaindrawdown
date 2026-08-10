@@ -1,7 +1,7 @@
 ---
 title: "Uday Pratap Shahi"
 description: "Uday Pratap Shahi is a Senior Soil Carbon researcher at Sardar Vallabhbhai Patel University of Agriculture & Technology in IN. With 52 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.903539
+date: 2026-08-11T01:33:11.802675
 url: "/cdr-researcher-census/researchers/uday-pratap-shahi-a5114180/"
 layout: "researcher"
 hiddenInHomeList: true

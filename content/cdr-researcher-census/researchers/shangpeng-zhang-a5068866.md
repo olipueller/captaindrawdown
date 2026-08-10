@@ -1,7 +1,7 @@
 ---
 title: "Shangpeng Zhang"
 description: "Shangpeng Zhang is a Mid-career Soil Carbon researcher at Beijing Normal University in CN. With 22 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.708312
+date: 2026-08-11T01:33:11.627282
 url: "/cdr-researcher-census/researchers/shangpeng-zhang-a5068866/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Ecoenzymatic stoichiometry reveals widespread soil phosphorus limitation to microbial metabolism across Chinese forests** (2022)
-   156 citations · Soil Carbon
+   161 citations · Soil Carbon
 
 2. **Microbial metabolic limitation response to experimental warming along an altitudinal gradient in alpine grasslands, eastern Tibetan Plateau** (2022)
    57 citations
@@ -57,10 +57,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    34 citations
 
 4. **Improving the microenvironment of tracking photovoltaic systems promotes soil organic carbon accumulation by mediating plant carbon inputs and microbial necromass retention** (2025)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 5. **Soil microbial metabolic strategies and the imbalance between available phosphorus and nitrogen controls the root exudate-induced priming effect by grassland tumbleweed (Cleistogenes squarrosa and Saposhnikovia divaricata) root exudates** (2026)
-   2 citations
+   3 citations
 
 6. **Microbial Metabolic Limitation Response to Experimental Warming Along an Altitudinal Gradient in Alpine Grasslands, Eastern Tibetan Plateau** (2022)
    2 citations

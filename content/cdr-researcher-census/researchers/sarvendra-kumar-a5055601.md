@@ -1,7 +1,7 @@
 ---
 title: "Sarvendra Kumar"
 description: "Sarvendra Kumar is a Senior Soil Carbon researcher at SRM Institute of Science and Technology in IN. With 72 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.464942
+date: 2026-08-11T01:33:11.410636
 url: "/cdr-researcher-census/researchers/sarvendra-kumar-a5055601/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Optimizing soil fertility and climate resilience: Superiority of organic farming in enhancing carbon sequestration and nitrogen supply** (2025)
-   4 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 2. **Restricting depletion of soil organic carbon by amending <scp>nutrient‐N</scp> input to soils** (2021)
    3 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Xiaoqiang Feng"
 description: "Xiaoqiang Feng is a Senior Biochar researcher at Hainan University in CN. With 35 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.410167
+date: 2026-08-11T01:33:11.363722
 url: "/cdr-researcher-census/researchers/xiaoqiang-feng-a5109543/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Excellent adsorptive-photocatalytic performance of zinc oxide and biomass derived N, O-contained biochar nanocomposites for dyes and antibiotic removal** (2022)
-   102 citations · Biochar
+   103 citations · Biochar
 
 2. **Photocatalytic degradation performance of antibiotics by peanut shell biochar anchored NiCr-LDH nanocomposites fabricated by one-pot hydrothermal protocol** (2023)
    40 citations · Biochar

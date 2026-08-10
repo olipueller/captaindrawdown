@@ -1,7 +1,7 @@
 ---
 title: "Adetomi O. Adekoya"
 description: "Adetomi O. Adekoya is an Early-career Soil Carbon researcher at University of Ibadan in NG. With 1 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.506159
+date: 2026-08-11T01:33:12.358829
 url: "/cdr-researcher-census/researchers/adetomi-o-adekoya-a5108286/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil carbon sequestration, greenhouse gas emissions, and water pollution under different tillage practices** (2022)
-   111 citations · Soil Carbon
+   113 citations · Soil Carbon
 
 ## External Profiles
 

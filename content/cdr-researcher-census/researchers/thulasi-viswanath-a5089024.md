@@ -1,7 +1,7 @@
 ---
 title: "Thulasi Viswanath"
 description: "Thulasi Viswanath is a Senior Soil Carbon researcher at Kerala Agricultural University in IN. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.466338
+date: 2026-08-11T01:33:12.322761
 url: "/cdr-researcher-census/researchers/thulasi-viswanath-a5089024/"
 layout: "researcher"
 hiddenInHomeList: true

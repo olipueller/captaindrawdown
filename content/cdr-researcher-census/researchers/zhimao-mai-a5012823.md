@@ -1,7 +1,7 @@
 ---
 title: "Zhimao Mai"
 description: "Zhimao Mai is a Mid-career Soil Carbon researcher at South China Sea Institute Of Oceanology in CN. With 39 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.503037
+date: 2026-08-11T01:33:11.443131
 url: "/cdr-researcher-census/researchers/zhimao-mai-a5012823/"
 layout: "researcher"
 hiddenInHomeList: true

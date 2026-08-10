@@ -1,7 +1,7 @@
 ---
 title: "Wen Zhuang"
 description: "Wen Zhuang is a Senior Enhanced Weathering researcher at Shandong University in CN. With 71 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.210703
+date: 2026-08-11T01:33:11.183880
 url: "/cdr-researcher-census/researchers/wen-zhuang-a5017591/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,13 +54,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    34 citations · Enhanced Weathering
 
 2. **Potential Environmental Impacts and Management Strategies for Metal Release during Ocean Alkalinity Enhancement Using Olivine** (2025)
-   13 citations · Enhanced Weathering
+   15 citations · Enhanced Weathering
 
 3. **Sustainable carbon sequestration via olivine based ocean alkalinity enhancement in the east and South China Sea: Adhering to environmental norms for nickel and chromium** (2024)
-   13 citations · Enhanced Weathering
+   14 citations · Enhanced Weathering
 
 4. **Alkalinity factory can achieve positive climate benefits within decades** (2025)
-   3 citations · Enhanced Weathering
+   4 citations · Enhanced Weathering
 
 5. **Alkalinity Factory Can Achieve Positive Climate Benefits Within Decades.** (2025)
    0 citations

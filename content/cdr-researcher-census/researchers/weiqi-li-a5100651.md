@@ -1,7 +1,7 @@
 ---
 title: "Weiqi Li"
 description: "Weiqi Li is a Mid-career Biochar researcher at Shenzhen Baoan High School Group in CN. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.929091
+date: 2026-08-11T01:33:11.825505
 url: "/cdr-researcher-census/researchers/weiqi-li-a5100651/"
 layout: "researcher"
 hiddenInHomeList: true

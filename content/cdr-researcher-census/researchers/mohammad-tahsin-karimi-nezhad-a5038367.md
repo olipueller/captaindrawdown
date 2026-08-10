@@ -1,7 +1,7 @@
 ---
 title: "Mohammad Tahsin Karimi Nezhad"
 description: "Mohammad Tahsin Karimi Nezhad is a Mid-career Soil Carbon researcher. With 25 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.617831
+date: 2026-08-11T01:33:11.545912
 url: "/cdr-researcher-census/researchers/mohammad-tahsin-karimi-nezhad-a5038367/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -55,7 +55,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    6 citations · Soil Carbon
 
 4. **Soil Carbon Sequestration Following Natural Vegetation Recovery on Abandoned European Lands: Review and Research Needs** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

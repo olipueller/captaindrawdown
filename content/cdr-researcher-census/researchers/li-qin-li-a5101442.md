@@ -1,7 +1,7 @@
 ---
 title: "Li-Qin Li"
 description: "Li-Qin Li is a Senior Enhanced Weathering researcher at Xi'an University of Architecture and Technology in CN. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.119041
+date: 2026-08-11T01:33:12.009449
 url: "/cdr-researcher-census/researchers/li-qin-li-a5101442/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Intensified continental chemical weathering and carbon-cycle perturbations linked to volcanism during the Triassic–Jurassic transition** (2022)
-   118 citations · Enhanced Weathering
+   119 citations · Enhanced Weathering
 
 ## External Profiles
 

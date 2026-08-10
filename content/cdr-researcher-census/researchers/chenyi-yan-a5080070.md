@@ -1,7 +1,7 @@
 ---
 title: "Chenyi Yan"
 description: "Chenyi Yan is a Mid-career Soil Carbon researcher at Kunming University of Science and Technology in CN. With 37 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.762101
+date: 2026-08-11T01:33:11.676407
 url: "/cdr-researcher-census/researchers/chenyi-yan-a5080070/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Improving the microenvironment of tracking photovoltaic systems promotes soil organic carbon accumulation by mediating plant carbon inputs and microbial necromass retention** (2025)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 2. **Analysis of the Phosphorus Mobilization, Uptake, Transport, and Utilization Processes of Dominant C3 and C4 Grasses in a Grassland in Northern China Based on a Conceptual Phosphorus–Carbon Economy System** (2025)
    0 citations · Soil Carbon

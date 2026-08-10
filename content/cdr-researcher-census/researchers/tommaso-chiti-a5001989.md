@@ -1,7 +1,7 @@
 ---
 title: "Tommaso Chiti"
 description: "Tommaso Chiti is a Senior Soil Carbon researcher at Università degli Studi della Tuscia Dipartimento per la Innovazione nei sistemi Biologici Agroali­mentari e Forestali in IT. With 86 publications and an h-index of 26, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.229080
+date: 2026-08-11T01:33:11.201336
 url: "/cdr-researcher-census/researchers/tommaso-chiti-a5001989/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Biochar soil amendment as carbon farming practice in a Mediterranean environment** (2023)
-   59 citations · Biochar
+   61 citations · Biochar
 
 2. **Recent advances in regenerative sustainable agricultural strategies for managing soil carbon and mitigating climate change consequences** (2025)
-   32 citations · General CDR
+   34 citations · General CDR
 
 3. **Carbon farming practices for European cropland: A review on the effect on soil organic carbon** (2024)
-   26 citations · General CDR
+   27 citations · General CDR
 
 4. **Carbon sequestration in a bamboo plantation: a case study in a Mediterranean area** (2024)
    24 citations · General CDR
@@ -66,7 +66,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    17 citations · General CDR
 
 6. **Carbon sequestration of hazelnut orchards in central Italy** (2022)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 7. **The potential for an old-growth forest to store carbon in the topsoil: A case study at Sasso Fratino, Italy** (2023)
    9 citations · Soil Carbon

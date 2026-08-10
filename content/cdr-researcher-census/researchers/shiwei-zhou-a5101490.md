@@ -1,7 +1,7 @@
 ---
 title: "Shiwei Zhou"
 description: "Shiwei Zhou is a Senior Soil Carbon researcher at Anhui Water Conservancy and Hydropower Survey and Design Institute in CN. With 55 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.354807
+date: 2026-08-11T01:33:11.316221
 url: "/cdr-researcher-census/researchers/shiwei-zhou-a5101490/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Potentially toxic trace element pollution in long-term fertilized agricultural soils in China: A meta-analysis** (2021)
-   44 citations
+   46 citations
 
 2. **The accumulation of fungal not bacterial residue carbon is management-dependent under conventional and organic practices in apple-orchard soil** (2024)
    6 citations · Soil Carbon

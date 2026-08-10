@@ -1,7 +1,7 @@
 ---
 title: "Lárus Heiðarsson"
 description: "Lárus Heiðarsson is an Early-career Soil Carbon researcher. With 11 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.545851
+date: 2026-08-11T01:33:12.395698
 url: "/cdr-researcher-census/researchers/larus-heiarsson-a5012123/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Growth, biomass and stem volume models for downy birch in Iceland** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

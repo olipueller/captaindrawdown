@@ -1,7 +1,7 @@
 ---
 title: "Sasha Quahe"
 description: "Sasha Quahe is a Mid-career Ocean CDR researcher at Royal Swedish Academy of Sciences in SE. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.278658
+date: 2026-08-11T01:33:12.152455
 url: "/cdr-researcher-census/researchers/sasha-quahe-a5007426/"
 layout: "researcher"
 hiddenInHomeList: true

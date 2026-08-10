@@ -1,7 +1,7 @@
 ---
 title: "Shaofeng Bian"
 description: "Shaofeng Bian is a Senior Soil Carbon researcher at China University of Geosciences in CN. With 16 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.709234
+date: 2026-08-11T01:33:11.628189
 url: "/cdr-researcher-census/researchers/shaofeng-bian-a5037951/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Estimation of maize straw production and appropriate straw return rate in China** (2022)
-   71 citations
+   73 citations
 
 2. **Water-Saving and Yield-Increasing Strategies for Maize Under Drip Irrigation and Straw Mulching in Semi-Arid Regions** (2025)
    1 citations · Soil Carbon

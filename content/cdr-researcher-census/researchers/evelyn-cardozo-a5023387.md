@@ -1,7 +1,7 @@
 ---
 title: "Evelyn Cardozo"
 description: "Evelyn Cardozo is a Mid-career General CDR researcher at Universidad Mayor de San Simón in BO. With 33 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.466535
+date: 2026-08-11T01:33:11.411996
 url: "/cdr-researcher-census/researchers/evelyn-cardozo-a5023387/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Sustainable aviation fuel (SAF) production through power-to-liquid (PtL): A combined techno-economic and life cycle assessment** (2023)
-   150 citations · DAC
+   163 citations · DAC
 
 2. **Bioenergy with carbon capture and storage (BECCS) potential in jet fuel production from forestry residues: A combined Techno-Economic and Life Cycle Assessment approach** (2022)
-   98 citations · BECCS
+   101 citations · BECCS
 
 3. **A techno-economic and life cycle assessment of a new power and biomass to liquids (PBtL) configuration with negative emissions for producing sustainable aviation fuel (SAF)** (2024)
-   6 citations · BECCS
+   7 citations · BECCS
 
 ## External Profiles
 

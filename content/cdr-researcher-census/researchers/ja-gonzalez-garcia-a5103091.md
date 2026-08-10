@@ -1,7 +1,7 @@
 ---
 title: "J.A. González García"
 description: "J.A. González García is a Senior DAC researcher at Prodeval GmbH in DE. With 17 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.532167
+date: 2026-08-11T01:33:11.468562
 url: "/cdr-researcher-census/researchers/ja-gonzalez-garcia-a5103091/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Technical analysis of CO2 capture pathways and technologies** (2022)
-   187 citations · DAC
+   188 citations · DAC
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Arnaud Bouissonnié"
 description: "Arnaud Bouissonnié is a Mid-career Ocean CDR researcher at University of California, Los Angeles in US. With 26 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.030120
+date: 2026-08-11T01:33:11.905821
 url: "/cdr-researcher-census/researchers/arnaud-bouissonnie-a5079423/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Electrolytic Seawater Mineralization and the Mass Balances That Demonstrate Carbon Dioxide Removal** (2023)
-   66 citations · Ocean CDR
+   70 citations · Ocean CDR
 
 2. **Electrolytic seawater mineralization and how it ensures (net) carbon dioxide removal** (2023)
    2 citations · Ocean CDR

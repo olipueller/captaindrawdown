@@ -1,7 +1,7 @@
 ---
 title: "Yann Quilcaille"
 description: "Yann Quilcaille is a Mid-career General CDR researcher at ETH Zurich in CH. With 104 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.260085
+date: 2026-08-11T01:33:11.229788
 url: "/cdr-researcher-census/researchers/yann-quilcaille-a5088021/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Overconfidence in climate overshoot** (2024)
-   151 citations · General CDR
+   159 citations · General CDR
 
 2. **Impact of bioenergy crop expansion on climate–carbon cycle feedbacks in overshoot scenarios** (2022)
-   37 citations · BECCS
+   38 citations · BECCS
 
 3. **Impact of bioenergy crops expansion on climate-carbon cycle feedbacks in overshoot scenarios** (2021)
    16 citations · BECCS

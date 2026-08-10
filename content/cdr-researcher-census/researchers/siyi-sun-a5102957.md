@@ -1,7 +1,7 @@
 ---
 title: "Siyi Sun"
 description: "Siyi Sun is a Senior Soil Carbon researcher at University of Shanghai for Science and Technology in CN. With 58 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.450347
+date: 2026-08-11T01:33:11.398614
 url: "/cdr-researcher-census/researchers/siyi-sun-a5102957/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Contrasting responses of particulate and mineral-associated organic carbon stocks to grazing exclusion in an alpine meadow** (2026)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 2. **Mycorrhiza-mediated distribution of particulate and mineral-associated organic carbon across global forests** (2026)
    0 citations · Soil Carbon

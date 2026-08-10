@@ -1,7 +1,7 @@
 ---
 title: "Michael Hemkemeyer"
 description: "Michael Hemkemeyer is a Mid-career Soil Carbon researcher at University of Wuppertal in DE. With 27 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.319826
+date: 2026-08-11T01:33:11.285710
 url: "/cdr-researcher-census/researchers/michael-hemkemeyer-a5024687/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Functions of elements in soil microorganisms** (2021)
-   155 citations
+   158 citations
 
 2. **Long-term differences in fertilisation type change the bacteria:archaea:fungi ratios and reveal a heterogeneous response of the soil microbial ionome in a Haplic Luvisol** (2022)
    16 citations · Soil Carbon
 
 3. **Disentangling the effects of mineral fertiliser N, P and K on microbial biomass, necromass and ionome in soil from the Askov long-term field experiment** (2024)
-   12 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 ## External Profiles
 

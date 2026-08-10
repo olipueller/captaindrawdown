@@ -1,7 +1,7 @@
 ---
 title: "Gongwen Luo"
 description: "Gongwen Luo is a Senior Soil Carbon researcher at Soil and Fertilizer Institute of Hunan Province in CN. With 76 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.125812
+date: 2026-08-11T01:33:11.104534
 url: "/cdr-researcher-census/researchers/gongwen-luo-a5039288/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Intercropping regulates plant- and microbe-derived carbon accumulation by influencing soil physicochemical and microbial physiological properties** (2024)
-   71 citations · Soil Carbon
+   76 citations · Soil Carbon
 
 2. **Intercropping-driven effects on soil organic carbon mineralization and its temperature sensitivity are associated with soil C-N-P stoichiometry and carbon-acquiring microorganisms and enzymes** (2025)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 3. **Straw Returning Amount and Duration Influence Paddy Soil Organic Carbon Sequestration by Regulating Plant‐ and Microbe‐Derived Carbon Accumulation** (2025)
    5 citations · Soil Carbon

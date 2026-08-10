@@ -1,7 +1,7 @@
 ---
 title: "Jie Chen"
 description: "Jie Chen is a Senior Soil Carbon researcher at Huanggang Normal University in CN. With 63 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.255561
+date: 2026-08-11T01:33:11.225498
 url: "/cdr-researcher-census/researchers/jie-chen-a5100332/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Living and Dead Microorganisms in Mediating Soil Carbon Stocks Under Long-Term Fertilization in a Rice-Wheat Rotation** (2022)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 2. **Successive walnut plantations alter soil carbon quantity and quality by modifying microbial communities and enzyme activities** (2022)
    12 citations · Soil Carbon
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations
 
 5. **Long-Term Phosphorus Addition Alleviates Co2 and N2o Emissions Via Altering Soil Microbial Functions in Secondary Rather Primary Tropical Forests** (2022)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

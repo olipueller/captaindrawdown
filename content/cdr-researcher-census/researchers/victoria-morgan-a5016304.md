@@ -1,7 +1,7 @@
 ---
 title: "Victoria Morgan"
 description: "Victoria Morgan is a Mid-career Biochar researcher at University of Illinois Urbana-Champaign in US. With 21 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.937207
+date: 2026-08-11T01:33:11.833274
 url: "/cdr-researcher-census/researchers/victoria-morgan-a5016304/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Financial Viability and Environmental Sustainability of Fecal Sludge Treatment with Pyrolysis Omni Processors** (2022)
-   26 citations · Biochar
+   30 citations · Biochar
 
 2. **Financial viability and environmental sustainability of fecal sludge treatment with Omni Processors** (2022)
    0 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Sylvie Tremblay"
 description: "Sylvie Tremblay is a Senior Soil Carbon researcher at Ministry of Natural Resources and Wildlife in CA. With 15 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.838694
+date: 2026-08-11T01:33:11.743978
 url: "/cdr-researcher-census/researchers/sylvie-tremblay-a5102829/"
 layout: "researcher"
 hiddenInHomeList: true

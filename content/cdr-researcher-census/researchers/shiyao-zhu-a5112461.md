@@ -1,7 +1,7 @@
 ---
 title: "Shiyao Zhu"
 description: "Shiyao Zhu is a Mid-career General CDR researcher at University of British Columbia in CA. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.573718
+date: 2026-08-11T01:33:11.506397
 url: "/cdr-researcher-census/researchers/shiyao-zhu-a5112461/"
 layout: "researcher"
 hiddenInHomeList: true

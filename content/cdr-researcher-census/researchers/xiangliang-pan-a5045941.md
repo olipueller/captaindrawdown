@@ -1,7 +1,7 @@
 ---
 title: "Xiangliang Pan"
 description: "Xiangliang Pan is a Mid-career Biochar researcher at Zhejiang University of Technology in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.916393
+date: 2026-08-11T01:33:11.814389
 url: "/cdr-researcher-census/researchers/xiangliang-pan-a5045941/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Novel Styrofoam-sludge biochar for Pb and Zn adsorption: Bioavailability and reduction in maize-cultivated contaminated soils** (2026)
-   2 citations · Biochar
+   4 citations · Biochar
 
 ## External Profiles
 

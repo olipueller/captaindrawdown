@@ -1,7 +1,7 @@
 ---
 title: "Jianping Ying"
 description: "Jianping Ying is a Senior Soil Carbon researcher at Hainan Marine Monitoring and Forecasting Center in CN. With 40 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.466421
+date: 2026-08-11T01:33:11.411895
 url: "/cdr-researcher-census/researchers/jianping-ying-a5100813/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of Climate on Variation of Soil Organic Carbon and Alkali-Hydrolyzed Nitrogen in Subtropical Forests: A Case Study of Zhejiang Province, China** (2023)
-   23 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 2. **Effects of Fertilizer Application Intensity on Carbon Accumulation and Greenhouse Gas Emissions in Moso Bamboo Forest–Polygonatum cyrtonema Hua Agroforestry Systems** (2024)
    3 citations · General CDR

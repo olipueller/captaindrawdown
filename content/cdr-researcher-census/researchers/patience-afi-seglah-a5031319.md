@@ -1,7 +1,7 @@
 ---
 title: "Patience Afi Seglah"
 description: "Patience Afi Seglah is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 14 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.782467
+date: 2026-08-11T01:33:11.694454
 url: "/cdr-researcher-census/researchers/patience-afi-seglah-a5031319/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effective nutrient resources and fertilizer substitution potential of root biomass of major crops in China** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 2. **Root biomass and nutrient potential of major crops in China** (2025)
    0 citations · Soil Carbon

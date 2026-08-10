@@ -1,7 +1,7 @@
 ---
 title: "Krishan Kant Mina"
 description: "Krishan Kant Mina is an Early-career General CDR researcher at Banaras Hindu University in IN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.306472
+date: 2026-08-11T01:33:12.176180
 url: "/cdr-researcher-census/researchers/krishan-kant-mina-a5093020/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Diversified cropping modules designed for soil restoration, <scp>CO<sub>2</sub></scp> sequestration, and generating carbon credits** (2024)
-   50 citations · General CDR
+   51 citations · General CDR
 
 2. **Role of Microorganisms in Soil Health Management** (2024)
    4 citations

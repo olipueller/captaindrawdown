@@ -1,7 +1,7 @@
 ---
 title: "Jamie Bowyer"
 description: "Jamie Bowyer is an Early-career Soil Carbon researcher at Government of Western Australia in AU. With 11 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.765236
+date: 2026-08-11T01:33:11.679369
 url: "/cdr-researcher-census/researchers/jamie-bowyer-a5088259/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Regenerative Agriculture—A Literature Review on the Practices and Mechanisms Used to Improve Soil Health** (2023)
-   327 citations · General CDR
+   345 citations · General CDR
 
 ## External Profiles
 

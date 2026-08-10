@@ -1,7 +1,7 @@
 ---
 title: "Jana Poláková"
 description: "Jana Poláková is a Mid-career General CDR researcher at Czech University of Life Sciences Prague in CZ. With 39 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.291080
+date: 2026-08-11T01:33:12.162641
 url: "/cdr-researcher-census/researchers/jana-polakova-a5047696/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Carbon farming: The foundation for carbon farming schemes – lessons learned from 160 European schemes** (2025)
-   11 citations · General CDR
+   13 citations · General CDR
 
 2. **Do agri-environment schemes enhance carbon sequestration? Quantifying the effort in the Czech Republic** (2024)
    4 citations · General CDR

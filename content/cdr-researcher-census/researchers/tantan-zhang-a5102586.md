@@ -1,7 +1,7 @@
 ---
 title: "Tantan Zhang"
 description: "Tantan Zhang is a Mid-career Soil Carbon researcher at Huawei Technologies (China) in CN. With 16 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.192741
+date: 2026-08-11T01:33:12.076540
 url: "/cdr-researcher-census/researchers/tantan-zhang-a5102586/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,13 +48,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Sugarcane/soybean intercropping with reduced nitrogen addition promotes photosynthesized carbon sequestration in the soil** (2023)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 2. **Sugarcane/Soybean Intercropping with Reduced Nitrogen Application Synergistically Increases Plant Carbon Fixation and Soil Organic Carbon Sequestration** (2024)
    10 citations · Soil Carbon
 
 3. **Effects of Straw Returning on Physicochemical Properties and Microbial Characteristics of Agricultural Soil** (2025)
-   1 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

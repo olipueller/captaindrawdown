@@ -1,7 +1,7 @@
 ---
 title: "Hongge Tao"
 description: "Hongge Tao is a Mid-career Biochar researcher at Henan Agricultural University in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.298321
+date: 2026-08-11T01:33:12.169163
 url: "/cdr-researcher-census/researchers/hongge-tao-a5103998/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Preparation of metal-modified carbon-based catalyst and experimental study on catalytic pyrolysis of distillers dried grains with solubles** (2024)
-   7 citations · Biochar
+   10 citations · Biochar
 
 ## External Profiles
 

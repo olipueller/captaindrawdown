@@ -1,7 +1,7 @@
 ---
 title: "Fengming Song"
 description: "Fengming Song is an Early-career Biochar researcher at Ministry of Agriculture in LV. With 13 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.473907
+date: 2026-08-11T01:33:12.329099
 url: "/cdr-researcher-census/researchers/fengming-song-a5108296/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Funmilayo Omotoyosi Fapohunda"
 description: "Funmilayo Omotoyosi Fapohunda is a Mid-career Biochar researcher at Jiangsu University in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.552663
+date: 2026-08-11T01:33:11.487468
 url: "/cdr-researcher-census/researchers/funmilayo-omotoyosi-fapohunda-a5024985/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar-based composites for remediation of polluted wastewater and soil environments: Challenges and prospects** (2022)
-   141 citations · Biochar
+   142 citations · Biochar
 
 ## External Profiles
 

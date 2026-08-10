@@ -1,7 +1,7 @@
 ---
 title: "Moammar Elbidi"
 description: "Moammar Elbidi is a Mid-career Biochar researcher at Universiti Putra Malaysia in MY. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.504310
+date: 2026-08-11T01:33:12.357045
 url: "/cdr-researcher-census/researchers/moammar-elbidi-a5080384/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Comparative study between activated carbon and biochar for phenol removal from aqueous solution** (2021)
-   6 citations · Biochar
+   7 citations · Biochar
 
 ## External Profiles
 

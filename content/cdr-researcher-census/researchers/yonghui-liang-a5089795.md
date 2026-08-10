@@ -1,7 +1,7 @@
 ---
 title: "Yonghui Liang"
 description: "Yonghui Liang is a Mid-career Soil Carbon researcher at Beijing Institute of Technology in CN. With 23 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.071441
+date: 2026-08-11T01:33:11.965630
 url: "/cdr-researcher-census/researchers/yonghui-liang-a5089795/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Multi-objective optimization of saline water irrigation in arid oasis regions: Integrating water-saving, salinity control, yield enhancement, and CO2 emission reduction for sustainable cotton production** (2023)
-   27 citations · General CDR
+   29 citations · General CDR
 
 2. **Synergy between aerated drip and biodegradable film enhances sustainable maize production in arid oasis** (2025)
-   9 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 ## External Profiles
 

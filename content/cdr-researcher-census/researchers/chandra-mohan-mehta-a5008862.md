@@ -1,7 +1,7 @@
 ---
 title: "Chandra Mohan Mehta"
 description: "Chandra Mohan Mehta is a Mid-career Biochar researcher at Lovely Professional University in IN. With 64 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.328267
+date: 2026-08-11T01:33:11.292939
 url: "/cdr-researcher-census/researchers/chandra-mohan-mehta-a5008862/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    5 citations · Biochar
 
 2. **Nanobiochar application and its impact on sustainable agriculture: A concise review** (2024)
-   2 citations · Biochar
+   3 citations · Biochar
 
 3. **Biochar-mediated improvements in soil fertility and wheat (Triticum Aestivum L.) productivity in the Indo-Gangetic Plains** (2026)
    0 citations · Biochar

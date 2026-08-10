@@ -1,7 +1,7 @@
 ---
 title: "Masum Howlader"
 description: "Masum Howlader is a Mid-career Soil Carbon researcher at Mawlana Bhashani Science and Technology University in BD. With 20 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.080245
+date: 2026-08-11T01:33:11.973223
 url: "/cdr-researcher-census/researchers/masum-howlader-a5031500/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Spatial distribution of soil organic carbon and nutrients in the southern Sundarbans of Bangladesh** (2025)
-   5 citations · Soil Carbon
+   6 citations · Soil Carbon
 
 ## External Profiles
 

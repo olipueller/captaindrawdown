@@ -1,7 +1,7 @@
 ---
 title: "Yajing Dong"
 description: "Yajing Dong is a Mid-career Soil Carbon researcher at Hospital of Hebei Province in CN. With 18 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.506841
+date: 2026-08-11T01:33:12.359472
 url: "/cdr-researcher-census/researchers/yajing-dong-a5109589/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Deciphering microbial drivers of soil organic matter mineralization in surface and subsurface soil during long-term vegetation succession** (2024)
-   45 citations · Soil Carbon
+   48 citations · Soil Carbon
 
 2. **Impacts of Afforestation on Soil Organic Carbon Dynamics Along the Aridity Gradient in China** (2026)
    1 citations · Soil Carbon

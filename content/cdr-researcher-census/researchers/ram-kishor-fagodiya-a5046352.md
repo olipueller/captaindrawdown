@@ -1,7 +1,7 @@
 ---
 title: "Ram Kishor Fagodiya"
 description: "Ram Kishor Fagodiya is a Senior Soil Carbon researcher at Central Soil Salinity Research Institute in IN. With 75 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.200078
+date: 2026-08-11T01:33:11.174116
 url: "/cdr-researcher-census/researchers/ram-kishor-fagodiya-a5046352/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Biochar for environmental sustainability in the energy-water-agroecosystem nexus** (2021)
-   134 citations · Biochar
+   137 citations · Biochar
 
 2. **The food-energy-water-carbon nexus of the rice-wheat production system in the western Indo-Gangetic Plain of India: An impact of irrigation system, conservational tillage and residue management** (2022)
-   55 citations · Soil Carbon
+   57 citations · Soil Carbon
 
 3. **Greenhouse Gas Emissions from Salt-Affected Soils: Mechanistic Understanding of Interplay Factors and Reclamation Approaches** (2022)
    49 citations · Soil Carbon

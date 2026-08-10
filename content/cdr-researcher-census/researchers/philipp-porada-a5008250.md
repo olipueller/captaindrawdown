@@ -1,7 +1,7 @@
 ---
 title: "Philipp Porada"
 description: "Philipp Porada is a Senior Soil Carbon researcher at Universität Hamburg in DE. With 115 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.191919
+date: 2026-08-11T01:33:11.166475
 url: "/cdr-researcher-census/researchers/philipp-porada-a5008250/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,13 +54,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    4 citations · Soil Carbon
 
 2. **Long-term carbon dioxide removal potential from the application of wood biochar and basanite rock powder in sandy soil using the LiDELSv2 process-based modeling approach** (2025)
+   3 citations · Biochar
+
+3. **Soil and vegetation responses to biochar application in terms of its feedback on carbon sequestration under different environmental conditions—LiDELS model overview** (2025)
    2 citations · Biochar
 
-3. **A dynamic local scale vegetation model for lycophytes (LYCOm)** (2021)
+4. **A dynamic local scale vegetation model for lycophytes (LYCOm)** (2021)
    2 citations · Soil Carbon
-
-4. **Soil and vegetation responses to biochar application in terms of its feedback on carbon sequestration under different environmental conditions—LiDELS model overview** (2025)
-   1 citations · Biochar
 
 5. **Potential of combining biochar and enhanced weathering and impacts on soil organic carbon and biomass: PyMiCCS project results** (2026)
    0 citations · Biochar

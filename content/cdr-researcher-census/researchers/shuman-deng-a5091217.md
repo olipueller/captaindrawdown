@@ -1,7 +1,7 @@
 ---
 title: "Shuman Deng"
 description: "Shuman Deng is a Mid-career Biochar researcher at Chongqing University in CN. With 38 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.375743
+date: 2026-08-11T01:33:11.333820
 url: "/cdr-researcher-census/researchers/shuman-deng-a5091217/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    12 citations · Biochar
 
 3. **Synergistic remediation of electroplating wastewater contaminated soil and reduction of risk of groundwater contamination by biochar and Pseudomonas hibiscicola strain L1** (2024)
-   1 citations · Biochar
+   2 citations · Biochar
 
 ## External Profiles
 

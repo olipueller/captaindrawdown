@@ -1,7 +1,7 @@
 ---
 title: "Bin Gong"
 description: "Bin Gong is a Mid-career Biochar researcher at Beijing University of Posts and Telecommunications in CN. With 11 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.227138
+date: 2026-08-11T01:33:12.107731
 url: "/cdr-researcher-census/researchers/bin-gong-a5058800/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **In-situ synthesis of biochar-based transition metal oxide composite catalysts for highly photothermal oxidation single- and multi-component indoor VOCs** (2025)
-   1 citations · Biochar
+   2 citations · Biochar
 
 ## External Profiles
 

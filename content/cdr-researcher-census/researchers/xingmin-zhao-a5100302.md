@@ -1,7 +1,7 @@
 ---
 title: "Xingmin Zhao"
 description: "Xingmin Zhao is a Senior Soil Carbon researcher at Ministry of Agriculture and Rural Affairs in CN. With 41 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.372495
+date: 2026-08-11T01:33:11.331280
 url: "/cdr-researcher-census/researchers/xingmin-zhao-a5100302/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    4 citations · Soil Carbon
 
 2. **Does the Biennial Straw Return Have an Identical Characteristic of Soil Organic Carbon Sequestration as the Annual? A Case Study of Cornfield in Northeast China** (2024)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 3. **Deep Plowing Increases Subsoil Carbon Accrual Through Enhancing Macroaggregate Protection in a Mollisol with Two Different Tillage Regimes** (2026)
    0 citations · Soil Carbon

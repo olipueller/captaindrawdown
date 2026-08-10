@@ -1,7 +1,7 @@
 ---
 title: "Kiane de Kleijne"
 description: "Kiane de Kleijne is a Mid-career General CDR researcher at Eindhoven University of Technology in NL. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.414116
+date: 2026-08-11T01:33:11.367461
 url: "/cdr-researcher-census/researchers/kiane-de-kleijne-a5025842/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Prospective environmental burdens and benefits of fast-swing direct air carbon capture and storage** (2024)
-   19 citations · DAC
+   20 citations · DAC
 
 2. **Defining ‘abated’ fossil fuel and industrial process emissions** (2025)
-   4 citations · General CDR
+   6 citations · General CDR
 
 3. **Defining "abated" fossil fuel emissions** (2024)
    0 citations · General CDR

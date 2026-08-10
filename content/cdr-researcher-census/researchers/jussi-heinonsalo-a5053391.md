@@ -1,7 +1,7 @@
 ---
 title: "Jussi Heinonsalo"
 description: "Jussi Heinonsalo is an Eminent Soil Carbon researcher at University of Helsinki in FI. With 232 publications and an h-index of 40, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.134041
+date: 2026-08-11T01:33:11.112448
 url: "/cdr-researcher-census/researchers/jussi-heinonsalo-a5053391/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    39 citations · General CDR
 
 2. **The impact of biochar on wood-inhabiting bacterial community and its function in a boreal pine forest** (2022)
-   18 citations · Biochar
+   19 citations · Biochar
 
 3. **High organic carbon content constricts the potential for stable organic carbon accrual in mineral agricultural soils in Finland** (2024)
    17 citations · Soil Carbon
@@ -68,17 +68,17 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 6. **Towards agricultural soil carbon monitoring, reporting and verification through Field Observatory Network (FiON)** (2021)
    2 citations · General CDR
 
-7. **Effects of biochar, ligneous soil amendments, and a microbial stimulant on soil biological activity, and carbon content and stability after two-years of their application in a boreal cropland** (2025)
+7. **Stocks and stoichiometry of carbon, nitrogen, and phosphorus in agricultural mineral soil profiles with views on the carbon sequestration** (2026)
+   1 citations · Soil Carbon
+
+8. **Effects of biochar, ligneous soil amendments, and a microbial stimulant on soil biological activity, and carbon content and stability after two-years of their application in a boreal cropland** (2025)
    1 citations · Biochar
 
-8. **Implementation and initial calibration of carbon-13 soil organic matter decomposition in Yasso model** (2021)
+9. **Implementation and initial calibration of carbon-13 soil organic matter decomposition in Yasso model** (2021)
    1 citations · Soil Carbon
 
-9. **Soil contents and stoichiometry of carbon, nitrogen, and phosphorus in Finnish farmland and feedbacks on management patterns** (2021)
+10. **Soil contents and stoichiometry of carbon, nitrogen, and phosphorus in Finnish farmland and feedbacks on management patterns** (2021)
    1 citations · Soil Carbon
-
-10. **Stocks and stoichiometry of carbon, nitrogen, and phosphorus in agricultural mineral soil profiles with views on the carbon sequestration** (2026)
-   0 citations · Soil Carbon
 
 ## External Profiles
 

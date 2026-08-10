@@ -1,7 +1,7 @@
 ---
 title: "Travis Banet"
 description: "Travis Banet is a Mid-career Soil Carbon researcher at University of Kentucky in US. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.196423
+date: 2026-08-11T01:33:12.079761
 url: "/cdr-researcher-census/researchers/travis-banet-a5078942/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Litter quality and living roots affected the formation of new mineral-associated organic carbon but did not affect total mineral-associated organic carbon in a short-term incubation** (2022)
-   49 citations · Soil Carbon
+   52 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Claudinei Oliveira dos Santos"
 description: "Claudinei Oliveira dos Santos is a Mid-career General CDR researcher at Renova Life (United States) in US. With 17 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.378417
+date: 2026-08-11T01:33:12.240562
 url: "/cdr-researcher-census/researchers/claudinei-oliveira-dos-santos-a5086751/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Livestock intensification and environmental sustainability: An analysis based on pasture management scenarios in the brazilian savanna** (2024)
-   20 citations
+   21 citations
 
 2. **Livestock Intensification and Environmental Sustainability: An Analysis Based on Pasture Management Scenarios in the Brazilian Savanna** (2023)
    1 citations

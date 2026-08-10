@@ -1,7 +1,7 @@
 ---
 title: "Haitao Ding"
 description: "Haitao Ding is a Senior Biochar researcher at Polar Research Institute of China in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.096717
+date: 2026-08-11T01:33:11.988449
 url: "/cdr-researcher-census/researchers/haitao-ding-a5101580/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    13 citations · Biochar
 
 2. **Multifunctionality changes with plant functional groups in Antarctica** (2026)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 3. **Enhanced Sulfamethoxazole Degradation in Aqueous Media Using a Synergistic System with Dielectric Barrier Discharge Plasma, Biochar-Enriched Iron Concentrate, and Persulfate** (2024)
    0 citations · Biochar

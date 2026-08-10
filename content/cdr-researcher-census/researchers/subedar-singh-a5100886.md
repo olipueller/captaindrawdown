@@ -1,7 +1,7 @@
 ---
 title: "Subedar Singh"
 description: "Subedar Singh is a Mid-career Soil Carbon researcher at Patanjali Research Foundation in IN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.487491
+date: 2026-08-11T01:33:12.341710
 url: "/cdr-researcher-census/researchers/subedar-singh-a5100886/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil fertility management: Role of organic amendments and bio-fertilizers: A review** (2024)
-   14 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 2. **Soil Carbon Sequestration as a Climate Change Mitigation Strategy: A Review** (2026)
    0 citations · Soil Carbon

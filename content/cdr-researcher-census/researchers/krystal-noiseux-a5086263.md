@@ -1,7 +1,7 @@
 ---
 title: "Krystal Noiseux"
 description: "Krystal Noiseux is a Senior General CDR researcher at IIT@MIT in US. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.553305
+date: 2026-08-11T01:33:12.401668
 url: "/cdr-researcher-census/researchers/krystal-noiseux-a5086263/"
 layout: "researcher"
 hiddenInHomeList: true

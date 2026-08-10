@@ -1,7 +1,7 @@
 ---
 title: "Ángel Luigi Guarnizo"
 description: "Ángel Luigi Guarnizo is a Mid-career Soil Carbon researcher at Universidad de Murcia in ES. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.620287
+date: 2026-08-11T01:33:11.548206
 url: "/cdr-researcher-census/researchers/angel-luigi-guarnizo-a5067651/"
 layout: "researcher"
 hiddenInHomeList: true

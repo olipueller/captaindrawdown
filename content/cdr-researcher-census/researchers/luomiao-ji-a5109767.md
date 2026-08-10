@@ -1,7 +1,7 @@
 ---
 title: "Luomiao Ji"
 description: "Luomiao Ji is a Mid-career Biochar researcher at Suzhou University of Science and Technology in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.528646
+date: 2026-08-11T01:33:12.379888
 url: "/cdr-researcher-census/researchers/luomiao-ji-a5109767/"
 layout: "researcher"
 hiddenInHomeList: true

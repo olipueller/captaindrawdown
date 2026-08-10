@@ -1,7 +1,7 @@
 ---
 title: "Jialei Kang"
 description: "Jialei Kang is a Senior Biochar researcher at Qingdao University of Science and Technology in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.583720
+date: 2026-08-11T01:33:12.421313
 url: "/cdr-researcher-census/researchers/jialei-kang-a5054493/"
 layout: "researcher"
 hiddenInHomeList: true

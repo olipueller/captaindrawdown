@@ -1,7 +1,7 @@
 ---
 title: "Guoshuang Chen"
 description: "Guoshuang Chen is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 33 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.717673
+date: 2026-08-11T01:33:11.636267
 url: "/cdr-researcher-census/researchers/guoshuang-chen-a5005191/"
 layout: "researcher"
 hiddenInHomeList: true

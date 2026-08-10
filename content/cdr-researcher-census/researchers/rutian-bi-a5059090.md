@@ -1,7 +1,7 @@
 ---
 title: "Rutian Bi"
 description: "Rutian Bi is a Senior Soil Carbon researcher at Shanxi Agricultural University in CN. With 97 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.418177
+date: 2026-08-11T01:33:11.371125
 url: "/cdr-researcher-census/researchers/rutian-bi-a5059090/"
 layout: "researcher"
 hiddenInHomeList: true

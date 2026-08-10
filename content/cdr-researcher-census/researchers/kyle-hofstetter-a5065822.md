@@ -1,7 +1,7 @@
 ---
 title: "Kyle Hofstetter"
 description: "Kyle Hofstetter is a Mid-career DAC researcher at BP (Canada) in CA. With 19 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.376537
+date: 2026-08-11T01:33:11.334444
 url: "/cdr-researcher-census/researchers/kyle-hofstetter-a5065822/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Industrial scaling of molten carbonate electrolytic carbon capture and production of graphene allotropes** (2025)
-   6 citations
+   7 citations
 
 2. **Large-scale electrolytic molten carbonate carbon capture and transformation to carbon nanotubes and other graphene nanocarbons** (2025)
    1 citations · DAC

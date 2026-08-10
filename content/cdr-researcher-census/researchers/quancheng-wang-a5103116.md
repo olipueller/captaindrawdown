@@ -1,7 +1,7 @@
 ---
 title: "Quancheng Wang"
 description: "Quancheng Wang is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 42 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.481066
+date: 2026-08-11T01:33:11.424506
 url: "/cdr-researcher-census/researchers/quancheng-wang-a5103116/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,10 +54,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    49 citations · Soil Carbon
 
 2. **Elevating water table reduces net ecosystem carbon losses from global drained wetlands** (2024)
-   17 citations
+   21 citations
 
 3. **Soil Bacterial β‐Diversity as a Key Determinant of Belowground Productivity in Warming Alpine Ecosystems** (2025)
-   12 citations
+   13 citations
 
 4. **Restoration recovers plant diversity but changes species composition and biomass allocation in an alpine peatland** (2025)
    9 citations · Soil Carbon

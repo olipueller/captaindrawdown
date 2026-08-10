@@ -1,7 +1,7 @@
 ---
 title: "Juan Pablo Rincon Duarte"
 description: "Juan Pablo Rincon Duarte is a Mid-career General CDR researcher at Deutsches Zentrum für Luft- und Raumfahrt e. V. (DLR) in DE. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.234945
+date: 2026-08-11T01:33:12.115010
 url: "/cdr-researcher-census/researchers/juan-pablo-rincon-duarte-a5026766/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Solar calcium looping cycle for CO2 capturing in a cement plant. Definition of process parameters and reactors selection** (2022)
-   32 citations · General CDR
+   33 citations · General CDR
 
 ## External Profiles
 

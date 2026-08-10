@@ -1,7 +1,7 @@
 ---
 title: "Enqing Hou"
 description: "Enqing Hou is an Eminent Soil Carbon researcher at South China Botanical Garden in CN. With 164 publications and an h-index of 41, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.098545
+date: 2026-08-11T01:33:11.078787
 url: "/cdr-researcher-census/researchers/enqing-hou-a5058149/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Nitrogen addition stimulates soil aggregation and enhances carbon storage in terrestrial ecosystems of China: A meta‐analysis** (2021)
-   219 citations · Soil Carbon
+   224 citations · Soil Carbon
 
 2. **Phosphorus Supply Increases Nitrogen Transformation Rates and Retention in Soil: A Global Meta‐Analysis** (2022)
-   95 citations · Soil Carbon
+   102 citations · Soil Carbon
 
-3. **Divergent responses of primary production to increasing precipitation variability in global drylands** (2021)
+3. **Nitrogen availability mediates soil organic carbon cycling in response to phosphorus supply: A global meta-analysis** (2023)
+   64 citations · Soil Carbon
+
+4. **Divergent responses of primary production to increasing precipitation variability in global drylands** (2021)
    63 citations · Soil Carbon
 
-4. **Nitrogen availability mediates soil organic carbon cycling in response to phosphorus supply: A global meta-analysis** (2023)
-   61 citations · Soil Carbon
-
 5. **Altered soil microbial properties and functions after afforestation increase soil carbon and nitrogen but not phosphorus accumulation** (2023)
-   50 citations · Soil Carbon
+   54 citations · Soil Carbon
 
 6. **Bedrock and climate jointly control the phosphorus status of subtropical forests along two elevational gradients** (2021)
    30 citations
@@ -78,7 +78,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    19 citations · Soil Carbon
 
 10. **Changes in the composition of soil microbial communities and their carbon‐cycle genes following the conversion of primary broadleaf forests to plantations and secondary forests** (2021)
-   18 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 ## External Profiles
 

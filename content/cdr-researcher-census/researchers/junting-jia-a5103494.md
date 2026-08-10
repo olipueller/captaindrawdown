@@ -1,7 +1,7 @@
 ---
 title: "Junting Jia"
 description: "Junting Jia is a Senior Soil Carbon researcher at Hainan Provincial Academy of Agricultural Sciences in CN. With 13 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.109976
+date: 2026-08-11T01:33:12.000528
 url: "/cdr-researcher-census/researchers/junting-jia-a5103494/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Seasonal variation of soil respiration in a tropical coastal shelter forest and its responses to environmental factors** (2026)
-   0 citations · General CDR
+   1 citations · General CDR
 
 ## External Profiles
 

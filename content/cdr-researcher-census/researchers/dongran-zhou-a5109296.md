@@ -1,7 +1,7 @@
 ---
 title: "Dongran Zhou"
 description: "Dongran Zhou is a Senior Soil Carbon researcher at Guizhou University in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.091004
+date: 2026-08-11T01:33:11.982965
 url: "/cdr-researcher-census/researchers/dongran-zhou-a5109296/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Organic amendment application affects the release behaviour, bioavailability, and speciation of heavy metals in zinc smelting slag: Insight into dissolved organic matter** (2023)
-   44 citations · Soil Carbon
+   45 citations · Soil Carbon
 
 2. **Mechanistic insights into organic carbon fraction sequestration in eco-engineered bauxite residue: Roles of aggregate formation and Fe/Al oxide interactions** (2025)
    2 citations · Soil Carbon

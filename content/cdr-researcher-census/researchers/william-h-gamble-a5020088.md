@@ -1,7 +1,7 @@
 ---
 title: "William H. Gamble"
 description: "William H. Gamble is a Senior Ocean CDR researcher at University of Pittsburgh in US. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.863737
+date: 2026-08-11T01:33:11.766212
 url: "/cdr-researcher-census/researchers/william-h-gamble-a5020088/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Demonstration of direct ocean carbon capture using hollow fiber membrane contactors** (2023)
-   22 citations · Ocean CDR
+   23 citations · Ocean CDR
 
 2. **Demonstration of Direct Ocean Carbon Capture Using Hollow Fiber Membrane Contactors** (2023)
    2 citations · Ocean CDR

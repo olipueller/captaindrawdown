@@ -1,7 +1,7 @@
 ---
 title: "Chonghui Cheng"
 description: "Chonghui Cheng is a Mid-career General CDR researcher at Zhejiang University in CN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.324038
+date: 2026-08-11T01:33:12.191682
 url: "/cdr-researcher-census/researchers/chonghui-cheng-a5016465/"
 layout: "researcher"
 hiddenInHomeList: true

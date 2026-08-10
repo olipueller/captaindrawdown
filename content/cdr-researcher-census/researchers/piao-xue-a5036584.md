@@ -1,7 +1,7 @@
 ---
 title: "Piao Xue"
 description: "Piao Xue is an Early-career Soil Carbon researcher at Tokyo University of the Arts in JP. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.355019
+date: 2026-08-11T01:33:12.219047
 url: "/cdr-researcher-census/researchers/piao-xue-a5036584/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Keystone microbial taxa drive the accelerated decompositions of cellulose and lignin by long-term resource enrichments** (2022)
-   48 citations · Soil Carbon
+   51 citations · Soil Carbon
 
 ## External Profiles
 

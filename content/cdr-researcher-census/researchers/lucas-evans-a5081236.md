@@ -1,7 +1,7 @@
 ---
 title: "Lucas Evans"
 description: "Lucas Evans is a Mid-career Soil Carbon researcher. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.122798
+date: 2026-08-11T01:33:12.012746
 url: "/cdr-researcher-census/researchers/lucas-evans-a5081236/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Mineral stabilization of soil carbon is suppressed by live roots, outweighing influences from litter quality or quantity** (2021)
-   59 citations · Soil Carbon
+   60 citations · Soil Carbon
 
 2. **Competing Processes Drive the Resistance of Soil Carbon to Alterations in Organic Inputs** (2021)
    19 citations · Soil Carbon

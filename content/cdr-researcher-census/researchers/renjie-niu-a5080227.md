@@ -1,7 +1,7 @@
 ---
 title: "Renjie Niu"
 description: "Renjie Niu is a Mid-career Biochar researcher at Central South University in CN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.989881
+date: 2026-08-11T01:33:11.867699
 url: "/cdr-researcher-census/researchers/renjie-niu-a5080227/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Exploring effects of novel chemical modification of biochar on soil water retention and crack suppression: towards commercialization of production of biochar for soil remediation** (2021)
-   23 citations · Biochar
+   24 citations · Biochar
 
 2. **Carbon capture ability of biochar-based cement composites** (2026)
    0 citations · Biochar

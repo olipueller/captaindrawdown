@@ -1,7 +1,7 @@
 ---
 title: "Wakana Saso"
 description: "Wakana Saso is a Mid-career Biochar researcher at Waseda University in JP. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.362709
+date: 2026-08-11T01:33:11.323101
 url: "/cdr-researcher-census/researchers/wakana-saso-a5086283/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Coline Deveautour"
 description: "Coline Deveautour is a Mid-career Soil Carbon researcher at Universidade La Salle in BR. With 37 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.721974
+date: 2026-08-11T01:33:11.639937
 url: "/cdr-researcher-census/researchers/coline-deveautour-a5051191/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Establishing a Standardized Approach for Elucidating Glomeromycota Life-History Traits: Advancing Consistency in Mycorrhizal Fungi Research** (2024)
-   5 citations · General CDR
+1. **Enhancing Consistency in Arbuscular Mycorrhizal Trait-Based Research to  Improve Predictions of Function            ** (2025)
+   5 citations · Soil Carbon
 
-2. **Enhancing Consistency in Arbuscular Mycorrhizal Trait-Based Research to  Improve Predictions of Function            ** (2025)
-   4 citations · Soil Carbon
+2. **Establishing a Standardized Approach for Elucidating Glomeromycota Life-History Traits: Advancing Consistency in Mycorrhizal Fungi Research** (2024)
+   5 citations · General CDR
 
 ## External Profiles
 

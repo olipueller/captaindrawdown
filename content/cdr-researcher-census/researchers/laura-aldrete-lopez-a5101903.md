@@ -1,7 +1,7 @@
 ---
 title: "Laura Aldrete Lopez"
 description: "Laura Aldrete Lopez is an Early-career General CDR researcher at ClimateWorks Foundation in US. With 5 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.356354
+date: 2026-08-11T01:33:12.220344
 url: "/cdr-researcher-census/researchers/laura-aldrete-lopez-a5101903/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Ambitious efforts on residual emissions can reduce CO<sub>2</sub> removal and lower peak temperatures in a net-zero future** (2024)
-   27 citations · General CDR
+   28 citations · General CDR
 
 ## External Profiles
 

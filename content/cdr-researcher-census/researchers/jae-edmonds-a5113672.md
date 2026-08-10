@@ -1,7 +1,7 @@
 ---
 title: "JAE EDMONDS"
 description: "JAE EDMONDS is a Mid-career BECCS researcher at Joint Global Change Research Institute in US. With 7 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.415785
+date: 2026-08-11T01:33:12.275050
 url: "/cdr-researcher-census/researchers/jae-edmonds-a5113672/"
 layout: "researcher"
 hiddenInHomeList: true

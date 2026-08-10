@@ -1,7 +1,7 @@
 ---
 title: "Zhongli Yan"
 description: "Zhongli Yan is a Senior Biochar researcher at Tianjin University of Science and Technology in CN. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.214635
+date: 2026-08-11T01:33:12.096361
 url: "/cdr-researcher-census/researchers/zhongli-yan-a5100762/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Synthesis of magnetic biochar-supported Fe-Cu bimetallic catalyst from pulp and paper mill wastes for the Fenton-like removal of rhodamine B dye** (2023)
-   45 citations · Biochar
+   48 citations · Biochar
 
 ## External Profiles
 

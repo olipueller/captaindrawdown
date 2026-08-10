@@ -1,7 +1,7 @@
 ---
 title: "Felicia Störner"
 description: "Felicia Störner is a Mid-career BECCS researcher at Chalmers University of Technology in SE. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.556706
+date: 2026-08-11T01:33:12.403224
 url: "/cdr-researcher-census/researchers/felicia-storner-a5017494/"
 layout: "researcher"
 hiddenInHomeList: true

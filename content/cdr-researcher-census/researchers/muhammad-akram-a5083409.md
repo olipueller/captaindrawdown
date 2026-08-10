@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Akram"
 description: "Muhammad Akram is a Mid-career General CDR researcher at University of Sheffield in GB. With 56 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.349924
+date: 2026-08-11T01:33:11.312088
 url: "/cdr-researcher-census/researchers/muhammad-akram-a5083409/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Sustainable aviation fuel (SAF) production through power-to-liquid (PtL): A combined techno-economic and life cycle assessment** (2023)
-   150 citations · DAC
+   163 citations · DAC
 
 2. **Bioenergy with carbon capture and storage (BECCS) potential in jet fuel production from forestry residues: A combined Techno-Economic and Life Cycle Assessment approach** (2022)
-   98 citations · BECCS
+   101 citations · BECCS
 
 3. **Techno economic and life cycle assessment of olefin production through CO2 hydrogenation within the power-to-X concept** (2024)
-   22 citations · DAC
+   24 citations · DAC
 
 4. **The effect of biomass ashes and potassium salts on MEA degradation for BECCS** (2021)
    8 citations · BECCS

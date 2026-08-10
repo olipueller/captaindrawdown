@@ -1,7 +1,7 @@
 ---
 title: "Franz Mantei"
 description: "Franz Mantei is a Mid-career DAC researcher at Fraunhofer Institute for Solar Energy Systems in DE. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.994414
+date: 2026-08-11T01:33:11.872059
 url: "/cdr-researcher-census/researchers/franz-mantei-a5039271/"
 layout: "researcher"
 hiddenInHomeList: true

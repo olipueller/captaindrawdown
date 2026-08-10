@@ -1,7 +1,7 @@
 ---
 title: "Chengjiao Duan"
 description: "Chengjiao Duan is a Senior Soil Carbon researcher at Shanxi Agricultural University in CN. With 50 publications and an h-index of 29, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.144430
+date: 2026-08-11T01:33:11.122074
 url: "/cdr-researcher-census/researchers/chengjiao-duan-a5103864/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,16 +48,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Efficient removal of Cd(II) by phosphate-modified biochars derived from apple tree branches: Processes, mechanisms, and application** (2022)
-   94 citations · Biochar
+   96 citations · Biochar
 
 2. **Heavy metal pollution increases soil microbial carbon limitation: Evidence from ecological enzyme stoichiometry** (2021)
-   68 citations · Soil Carbon
+   69 citations · Soil Carbon
 
 3. **Biochar addition promotes soil organic carbon sequestration dominantly contributed by macro-aggregates in agricultural ecosystems of China** (2024)
-   60 citations · Biochar
+   61 citations · Biochar
 
 4. **Ecoenzymatic stoichiometry reveals phosphorus addition alleviates microbial nutrient limitation and promotes soil carbon sequestration in agricultural ecosystems** (2021)
-   58 citations · Soil Carbon
+   60 citations · Soil Carbon
 
 5. **Effects of inorganic and organic fertilizers on CO2 and CH4 fluxes from tea plantation soil** (2021)
    34 citations

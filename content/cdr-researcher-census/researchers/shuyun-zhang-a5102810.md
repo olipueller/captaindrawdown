@@ -1,7 +1,7 @@
 ---
 title: "Shuyun Zhang"
 description: "Shuyun Zhang is a Senior Biochar researcher at Tianjin University in CN. With 54 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.583586
+date: 2026-08-11T01:33:11.515019
 url: "/cdr-researcher-census/researchers/shuyun-zhang-a5102810/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Efficacy of nitrate and biochar@birnessite composite microspheres for simultaneous suppression of As(III) mobilization and greenhouse gas emissions in flooded paddy soils** (2025)
-   53 citations · Biochar
+   56 citations · Biochar
 
 2. **Eco‐Friendly Adsorbent: Insights Into the Performance and Adsorption Mechanisms of Banana Fruit Shaft Biochar for the Removal of Mn(II), Cd(II), Pb(II), and Cu(II)** (2025)
-   11 citations · Biochar
+   12 citations · Biochar
 
 3. **Mechanism-driven immobilization of manganese and cadmium by potassium-activated biochar: Insights into the potential mechanisms** (2026)
    0 citations · Biochar

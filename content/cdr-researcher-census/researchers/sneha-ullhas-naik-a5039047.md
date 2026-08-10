@@ -1,7 +1,7 @@
 ---
 title: "Sneha Ullhas Naik"
 description: "Sneha Ullhas Naik is a Mid-career Biochar researcher at M S Ramaiah University of Applied Sciences in IN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.883915
+date: 2026-08-11T01:33:11.784871
 url: "/cdr-researcher-census/researchers/sneha-ullhas-naik-a5039047/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Production and beneficial impact of biochar for environmental application: A review on types of feedstocks, chemical compositions, operating parameters, techno-economic study, and life cycle assessment** (2023)
-   199 citations · Biochar
+   202 citations · Biochar
 
 2. **Production and characterization of magnetic Biochar derived from pyrolysis of waste areca nut husk for removal of methylene blue dye from wastewater** (2025)
-   27 citations · Biochar
+   29 citations · Biochar
 
 ## External Profiles
 

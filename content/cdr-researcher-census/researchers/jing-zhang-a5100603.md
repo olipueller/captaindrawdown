@@ -1,7 +1,7 @@
 ---
 title: "Jing Zhang"
 description: "Jing Zhang is a Senior Soil Carbon researcher at South China Botanical Garden, Chinese Academy of Sciences in CN. With 117 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.167163
+date: 2026-08-11T01:33:11.143395
 url: "/cdr-researcher-census/researchers/jing-zhang-a5100603/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Faster accumulation and greater contribution of glomalin to the soil organic carbon pool than amino sugars do under tropical coastal forest restoration** (2022)
-   100 citations · Soil Carbon
+   102 citations · Soil Carbon
 
 2. **Biochar in Combination with Nitrogen Fertilizer is a Technique: To Enhance Physiological and Morphological Traits of Rice (Oryza sativa L.) by Improving Soil Physio-biochemical Properties** (2021)
-   50 citations · Biochar
+   51 citations · Biochar
 
 3. **Divergent accumulation of amino sugars and lignins mediated by soil functional carbon pools under tropical forest conversion** (2023)
    48 citations · Soil Carbon
@@ -63,18 +63,21 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    45 citations · Soil Carbon
 
 5. **Roots Dominate Over Extraradical Hyphae in Driving Soil Organic Carbon Accumulation During Tropical Forest Succession** (2025)
-   11 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 6. **Partial root-zone drying (PRD) leads to lower carbon retention in the soil-plant systems of alfalfa** (2023)
    8 citations · Soil Carbon
 
 7. **Late-season rice increased the contribution of glomalin rather than amino sugar to soil organic carbon in a double-season paddy soil** (2024)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
-8. **Divergent chemical responses of soil carbon and phosphorus to nutrient addition mediated by functional carbon pools in tropical forests** (2025)
+8. **Seasonal response patterns of plant-derived residue carbon to long-term supplementation of phosphorus and nitrogen in tropical forest soils** (2026)
+   0 citations
+
+9. **Divergent chemical responses of soil carbon and phosphorus to nutrient addition mediated by functional carbon pools in tropical forests** (2025)
    0 citations · Soil Carbon
 
-9. **Nutrient availability and stoichiometry mediate microbial effects on soil carbon sequestration in tropical forests** (2023)
+10. **Nutrient availability and stoichiometry mediate microbial effects on soil carbon sequestration in tropical forests** (2023)
    0 citations · Soil Carbon
 
 ## External Profiles

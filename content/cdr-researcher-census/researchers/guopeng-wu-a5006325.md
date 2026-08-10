@@ -1,7 +1,7 @@
 ---
 title: "Guopeng Wu"
 description: "Guopeng Wu is a Mid-career Soil Carbon researcher at Yuncheng University in CN. With 13 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.370181
+date: 2026-08-11T01:33:12.232934
 url: "/cdr-researcher-census/researchers/guopeng-wu-a5006325/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Elevational patterns of microbial carbon use efficiency in a subtropical mountain forest** (2023)
-   21 citations
+   23 citations
 
 2. **Distribution, characteristics, and importance of particulate and mineral-associated organic carbon in China forest: a meta-analysis** (2025)
-   7 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 3. **Distribution, Characteristics, and Importance of Particulate and Mineral-Associated Organic Carbon in China Forest** (2024)
    1 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Pavithra Narayanan"
 description: "Pavithra Narayanan is a Mid-career BECCS researcher at Georgia Institute of Technology in US. With 17 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.136160
+date: 2026-08-11T01:33:12.025058
 url: "/cdr-researcher-census/researchers/pavithra-narayanan-a5084480/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,13 +54,13 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    16 citations
 
 2. **Self-Supported Branched Poly(ethylenimine) Monoliths from Inverse Template 3D Printing for Direct Air Capture** (2025)
-   14 citations
+   15 citations
 
 3. **Sequential polymer infusion into solid substrates (SPISS): Impact of processing on sorbent CO2 adsorption properties** (2022)
    10 citations
 
 4. **Alumina Incorporation in Self-Supported Poly(ethylenimine) Sorbents for Direct Air Capture** (2024)
-   7 citations
+   9 citations
 
 5. **Evaluating degradation of CO<sub>2</sub> adsorbents in flue gas from bioenergy with carbon capture and storage** (2023)
    3 citations · BECCS

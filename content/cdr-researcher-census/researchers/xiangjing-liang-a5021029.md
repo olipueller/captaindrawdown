@@ -1,7 +1,7 @@
 ---
 title: "Xiangjing Liang"
 description: "Xiangjing Liang is a Mid-career Biochar researcher. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.199477
+date: 2026-08-11T01:33:12.082400
 url: "/cdr-researcher-census/researchers/xiangjing-liang-a5021029/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    54 citations · Biochar
 
 2. **Highly efficient adsorption of chromium on N, S-codoped porous carbon materials derived from paper sludge** (2022)
-   43 citations
+   45 citations
 
 ## External Profiles
 

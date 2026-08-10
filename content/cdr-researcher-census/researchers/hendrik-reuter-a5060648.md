@@ -1,7 +1,7 @@
 ---
 title: "Hendrik Reuter"
 description: "Hendrik Reuter is a Mid-career Soil Carbon researcher at Leibniz Institute of Freshwater Ecology and Inland Fisheries in DE. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.285865
+date: 2026-08-11T01:33:12.158179
 url: "/cdr-researcher-census/researchers/hendrik-reuter-a5060648/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Decomposition of lignin and carbohydrates in a rewetted peatland: a comparative analysis of surface water and anaerobic soil layers** (2023)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 ## External Profiles
 

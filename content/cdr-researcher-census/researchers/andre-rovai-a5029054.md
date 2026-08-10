@@ -1,7 +1,7 @@
 ---
 title: "André Rovai"
 description: "André Rovai is a Senior Soil Carbon researcher at Smithsonian Environmental Research Center in US. With 108 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.187391
+date: 2026-08-11T01:33:11.162053
 url: "/cdr-researcher-census/researchers/andre-rovai-a5029054/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Brazilian Mangroves: Blue Carbon Hotspots of National and Global Relevance to Natural Climate Solutions** (2022)
-   64 citations · General CDR
+   68 citations · General CDR
 
 2. **Deconstructing the mangrove carbon cycle: Gains, transformation, and losses** (2024)
-   60 citations · Soil Carbon
+   63 citations · Soil Carbon
 
 3. **Above- and Belowground Biomass Carbon Stock and Net Primary Productivity Maps for Tidal Herbaceous Marshes of the United States** (2023)
    20 citations
 
 4. **Using loss-on-ignition to estimate total nitrogen content of mangrove soils** (2024)
-   7 citations · General CDR
+   8 citations · General CDR
 
 5. **Gaps, challenges, and opportunities in mangrove blue carbon research: a biogeographic perspective** (2021)
    7 citations · Ocean CDR

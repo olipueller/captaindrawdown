@@ -1,7 +1,7 @@
 ---
 title: "Rafael Gabriel da Rosa"
 description: "Rafael Gabriel da Rosa is a Mid-career BECCS researcher at Universidade Estadual de Campinas (UNICAMP) in BR. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.973056
+date: 2026-08-11T01:33:11.852000
 url: "/cdr-researcher-census/researchers/rafael-gabriel-da-rosa-a5037982/"
 layout: "researcher"
 hiddenInHomeList: true

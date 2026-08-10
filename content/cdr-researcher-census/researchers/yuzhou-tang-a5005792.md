@@ -1,7 +1,7 @@
 ---
 title: "Yuzhou Tang"
 description: "Yuzhou Tang is a Senior General CDR researcher at University of Leeds in GB. With 38 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.321198
+date: 2026-08-11T01:33:11.286808
 url: "/cdr-researcher-census/researchers/yuzhou-tang-a5005792/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 ## Top CDR Publications
 
-1. **A Review of Life Cycle Assessment Methods to Inform the Scale‐Up of Carbon Dioxide Removal Interventions** (2024)
-   7 citations · General CDR
+1. **Environmental and economic assessment of biochar production systems from agricultural residues** (2026)
+   8 citations · Biochar
 
-2. **Environmental and economic assessment of biochar production systems from agricultural residues** (2026)
-   6 citations · Biochar
+2. **A Review of Life Cycle Assessment Methods to Inform the Scale‐Up of Carbon Dioxide Removal Interventions** (2024)
+   8 citations · General CDR
 
 3. **Marginal Cost of Carbon Sequestration Using Straw-Based Biochar in Great Britain** (2026)
    1 citations · Biochar

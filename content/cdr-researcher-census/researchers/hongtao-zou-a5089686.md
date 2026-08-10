@@ -1,7 +1,7 @@
 ---
 title: "Hongtao Zou"
 description: "Hongtao Zou is a Senior Soil Carbon researcher at Shenyang Agricultural University in CN. With 125 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.228165
+date: 2026-08-11T01:33:11.200475
 url: "/cdr-researcher-census/researchers/hongtao-zou-a5089686/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term conservation tillage enhances microbial carbon use efficiency by altering multitrophic interactions in soil** (2024)
-   37 citations · Soil Carbon
+   39 citations · Soil Carbon
 
 2. **Effects of fertilization applications on soil aggregate organic carbon content and assessment of their influencing factors: A meta-analysis** (2024)
    31 citations · Soil Carbon
@@ -59,26 +59,26 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **Increased carbon sequestration of different straw return depths varies temporally** (2025)
    13 citations · Soil Carbon
 
-4. **Organic amendments enhance rhizosphere carbon stabilization in macroaggregates of saline-sodic soils by regulating keystone microbial clusters** (2025)
-   7 citations · Soil Carbon
+4. **Soil organic carbon decomposition in response to moisture, microbial communities, and biochar addition in Alfisols** (2026)
+   9 citations · Biochar
 
-5. **Soil organic carbon decomposition in response to moisture, microbial communities, and biochar addition in Alfisols** (2026)
-   5 citations · Biochar
+5. **Organic amendments enhance rhizosphere carbon stabilization in macroaggregates of saline-sodic soils by regulating keystone microbial clusters** (2025)
+   8 citations · Soil Carbon
 
-6. **Soil Aggregates and Organic Carbon Affected by Bio‑Fertilizer in Greenhouse Soil** (2024)
+6. **Dual mechanisms of mineral-microbial interactions in suppressing organic carbon sequestration in calcareous soils** (2026)
+   3 citations
+
+7. **Soil Aggregates and Organic Carbon Affected by Bio‑Fertilizer in Greenhouse Soil** (2024)
    2 citations
 
-7. **Root traits determine the effects of organic amendments on aggregate organic carbon by regulating microbial multitrophic networks** (2024)
+8. **Root traits determine the effects of organic amendments on aggregate organic carbon by regulating microbial multitrophic networks** (2024)
    2 citations · Soil Carbon
 
-8. **Bio-organic fertilizer improves soil carbon sequestration via macroaggregate formation in intensive tomato cultivation system** (2026)
+9. **Bio-organic fertilizer improves soil carbon sequestration via macroaggregate formation in intensive tomato cultivation system** (2026)
    1 citations · Soil Carbon
 
-9. **Biochar and moisture variability shape soil carbon pools via microbial carbon-degrading genes** (2025)
+10. **Biochar and moisture variability shape soil carbon pools via microbial carbon-degrading genes** (2025)
    1 citations · Biochar
-
-10. **Novel straw burial technique to increase maize yield and stable carbon accumulation on a decadal scale** (2026)
-   0 citations
 
 ## External Profiles
 

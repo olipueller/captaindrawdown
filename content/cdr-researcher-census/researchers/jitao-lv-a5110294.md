@@ -1,7 +1,7 @@
 ---
 title: "Jitao Lv"
 description: "Jitao Lv is a Senior Soil Carbon researcher at Qingdao University of Science and Technology in CN. With 87 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.113972
+date: 2026-08-11T01:33:11.093329
 url: "/cdr-researcher-census/researchers/jitao-lv-a5110294/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,28 +51,28 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon Sequestration Strategies in Soil Using Biochar: Advances, Challenges, and Opportunities** (2023)
-   283 citations · Biochar
+   294 citations · Biochar
 
 2. **Biochar induces mineralization of soil recalcitrant components by activation of biochar responsive bacteria groups** (2022)
-   155 citations · Biochar
+   160 citations · Biochar
 
 3. **Distribution and bioaccessibility of polycyclic aromatic hydrocarbons in industrially contaminated site soils as affected by thermal treatment** (2021)
-   36 citations
+   37 citations
 
 4. **Evaluating soil dissolved organic matter as a proxy for soil organic matter properties across diverse ecosystems** (2025)
-   32 citations · Soil Carbon
+   33 citations · Soil Carbon
 
 5. **Rethinking Organic Carbon Sequestration in Agricultural Soils From the Elemental Stoichiometry Perspective** (2025)
-   27 citations · General CDR
+   32 citations · General CDR
 
 6. **Soil organic matter degradation and methylmercury dynamics in Hg-contaminated soils: Relationships and driving factors** (2024)
-   14 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 7. **Does greater molecular diversity in soil organic matter imply greater persistence: Insights from molecular and multi-property analyses in Western China** (2025)
    8 citations
 
 8. **Effects and mechanisms of warming on the relationship between soil organic matter degradation and methylmercury production in Hg-contaminated soil** (2025)
-   4 citations
+   5 citations
 
 9. **Contrasting carbon processing and stabilization pathways in low- and high-mercury contaminated soils** (2025)
    3 citations · Soil Carbon

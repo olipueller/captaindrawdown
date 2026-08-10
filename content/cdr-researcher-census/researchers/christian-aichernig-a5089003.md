@@ -1,7 +1,7 @@
 ---
 title: "Christian Aichernig"
 description: "Christian Aichernig is a Senior BECCS researcher. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.589170
+date: 2026-08-11T01:33:11.520634
 url: "/cdr-researcher-census/researchers/christian-aichernig-a5089003/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Opportunities and Challenges in Reducing the Complexity of the Fischer–Tropsch Gas Loop of Smaller-Scale Facilities for the Production of Renewable Hydrocarbons** (2025)
-   0 citations · BECCS
+   1 citations · BECCS
 
 ## External Profiles
 

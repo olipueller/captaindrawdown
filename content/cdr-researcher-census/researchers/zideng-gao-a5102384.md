@@ -1,7 +1,7 @@
 ---
 title: "Zideng Gao"
 description: "Zideng Gao is a Mid-career Soil Carbon researcher at China Agricultural University in CN. With 38 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.366433
+date: 2026-08-11T01:33:11.325747
 url: "/cdr-researcher-census/researchers/zideng-gao-a5102384/"
 layout: "researcher"
 hiddenInHomeList: true

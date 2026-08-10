@@ -1,7 +1,7 @@
 ---
 title: "Xinhua Li"
 description: "Xinhua Li is a Senior Soil Carbon researcher at Jilin University in CN. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.836944
+date: 2026-08-11T01:33:11.742428
 url: "/cdr-researcher-census/researchers/xinhua-li-a5100640/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Examining Ecology–Agriculture–Economy Nexus Shifts to Propose Win–Win–Win Pathways for Sustainable Development in Mountainous Areas: Insights From the Greenest City in China** (2025)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 2. **Moving forward from escaping the poverty trap in China's greenest regions: Examining four decades of socioecological evolution to re-orient sustainable development policies** (2024)
    5 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Minghui Xiong"
 description: "Minghui Xiong is a Mid-career Biochar researcher at Huazhong Agricultural University in CN. With 13 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.427609
+date: 2026-08-11T01:33:11.379685
 url: "/cdr-researcher-census/researchers/minghui-xiong-a5016506/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Zihan Wang"
 description: "Zihan Wang is a Mid-career Soil Carbon researcher at North University of China in CN. With 50 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.412851
+date: 2026-08-11T01:33:11.366244
 url: "/cdr-researcher-census/researchers/zihan-wang-a5065878/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Underestimated sequestration of soil organic carbon in China** (2025)
-   24 citations · Soil Carbon
+   25 citations · Soil Carbon
 
-2. **LCA and TEA analyses of bio-jet fuel prepared from Arundo donax** (2025)
+2. **Pursuing zero net greenhouse gas emission in crop production in China** (2025)
+   2 citations · General CDR
+
+3. **LCA and TEA analyses of bio-jet fuel prepared from Arundo donax** (2025)
    2 citations · BECCS
-
-3. **Pursuing zero net greenhouse gas emission in crop production in China** (2025)
-   1 citations · General CDR
 
 4. **Global patterns of soil organic carbon dynamics in the 20–100 cm soil profile for different ecosystems: A global meta-analysis** (2023)
    1 citations · Soil Carbon
+
+5. **Non-additive sorption of carbamazepine in biochar-amended soil: implications for pharmaceutical sequestration and fate assessment** (2026)
+   0 citations · Biochar
 
 ## External Profiles
 

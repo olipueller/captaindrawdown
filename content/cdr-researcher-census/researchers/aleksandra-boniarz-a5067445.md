@@ -1,7 +1,7 @@
 ---
 title: "Aleksandra Błoniarz"
 description: "Aleksandra Błoniarz is a Mid-career Biochar researcher. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.440995
+date: 2026-08-11T01:33:12.298348
 url: "/cdr-researcher-census/researchers/aleksandra-boniarz-a5067445/"
 layout: "researcher"
 hiddenInHomeList: true

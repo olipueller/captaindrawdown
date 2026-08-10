@@ -1,7 +1,7 @@
 ---
 title: "Chenconghai Yang"
 description: "Chenconghai Yang is an Early-career Soil Carbon researcher at Nanjing University in CN. With 8 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.471509
+date: 2026-08-11T01:33:12.327278
 url: "/cdr-researcher-census/researchers/chenconghai-yang-a5027003/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A review on digital mapping of soil carbon in cropland: progress, challenge, and prospect** (2022)
-   66 citations · General CDR
+   67 citations · General CDR
 
 2. **Spatio-temporal mapping reveals changes in soil organic carbon stocks across the contiguous United States since 1955** (2025)
-   10 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 3. **Ecosystem-dependent two-stage changes in soil organic carbon stock across the contiguous United States from 1970 to 2014** (2025)
    0 citations · Soil Carbon

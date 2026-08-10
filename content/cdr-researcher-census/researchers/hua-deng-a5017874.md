@@ -1,7 +1,7 @@
 ---
 title: "Hua Deng"
 description: "Hua Deng is a Senior Biochar researcher at Guangxi Normal University in CN. With 41 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.325456
+date: 2026-08-11T01:33:11.290324
 url: "/cdr-researcher-census/researchers/hua-deng-a5017874/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Effects of magnesium-modified biochar on soil organic carbon mineralization in citrus orchard** (2023)
-   26 citations · Biochar
+   27 citations · Biochar
 
 2. **Effects of Orange Peel Biochar and Cipangopaludina chinensis Shell Powder on Soil Organic Carbon Transformation in Citrus Orchards** (2023)
-   18 citations · Biochar
+   19 citations · Biochar
 
-3. **Effects of bagasse biochar application on soil organic carbon fixation in manganese-contaminated sugarcane fields** (2023)
+3. **Eco‐Friendly Adsorbent: Insights Into the Performance and Adsorption Mechanisms of Banana Fruit Shaft Biochar for the Removal of Mn(II), Cd(II), Pb(II), and Cu(II)** (2025)
    12 citations · Biochar
 
-4. **Eco‐Friendly Adsorbent: Insights Into the Performance and Adsorption Mechanisms of Banana Fruit Shaft Biochar for the Removal of Mn(II), Cd(II), Pb(II), and Cu(II)** (2025)
-   11 citations · Biochar
+4. **Effects of bagasse biochar application on soil organic carbon fixation in manganese-contaminated sugarcane fields** (2023)
+   12 citations · Biochar
 
 5. **Phosphorus-modified biochar regulates CO2 emissions and bacterial communities in an incubation study of manganese-contaminated soils** (2025)
-   6 citations · Biochar
+   7 citations · Biochar
 
 6. **Carbon Sequestration by Potassium-Modified Bagasse Biochar in Manganese-Contaminated Sugarcane Field Soils** (2024)
    2 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Shinichirou Morimoto"
 description: "Shinichirou Morimoto is a Senior General CDR researcher at National Institute of Advanced Industrial Science and Technology in JP. With 39 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.926707
+date: 2026-08-11T01:33:11.823485
 url: "/cdr-researcher-census/researchers/shinichirou-morimoto-a5061382/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Scenario assessment of introducing carbon utilization and carbon removal technologies considering future technological transition based on renewable energy and direct air capture** (2023)
-   20 citations · DAC
+   21 citations · DAC
 
 2. **Advancing e-methanol systems via direct air carbon capture, CO2 hydrogenation, and hydrothermal co-electrolysis** (2025)
-   5 citations · DAC
+   6 citations · DAC
 
 3. **Optimization of a comprehensive carbon capture, utilization, and storage supply network for achieving carbon neutrality in Japan** (2025)
    4 citations · DAC

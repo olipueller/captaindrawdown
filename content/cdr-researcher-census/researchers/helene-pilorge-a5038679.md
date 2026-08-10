@@ -1,7 +1,7 @@
 ---
 title: "Hélène Pilorgé"
 description: "Hélène Pilorgé is a Mid-career General CDR researcher at Université Claude Bernard Lyon 1 in FR. With 42 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.215377
+date: 2026-08-11T01:33:11.188454
 url: "/cdr-researcher-census/researchers/helene-pilorge-a5038679/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The cost of direct air capture and storage can be reduced via strategic deployment but is unlikely to fall below stated cost targets** (2023)
-   191 citations · DAC
+   194 citations · DAC
 
 2. **Roads to Removal: Options for Carbon Dioxide Removal in the United States** (2023)
-   60 citations · General CDR
+   61 citations · General CDR
 
 3. **Direct Air Capture: Assessing Impacts to Enable Responsible Scaling** (2022)
    16 citations · DAC

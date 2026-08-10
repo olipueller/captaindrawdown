@@ -1,7 +1,7 @@
 ---
 title: "Huyen Thuong Bui"
 description: "Huyen Thuong Bui is a Mid-career Biochar researcher at Vietnam Academy of Science and Technology in VN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.103017
+date: 2026-08-11T01:33:11.993883
 url: "/cdr-researcher-census/researchers/huyen-thuong-bui-a5045159/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Preparation and Characterization of Biochar Derived from Agricultural By-Products for Dye Removal** (2021)
-   54 citations · Biochar
+   58 citations · Biochar
 
 ## External Profiles
 

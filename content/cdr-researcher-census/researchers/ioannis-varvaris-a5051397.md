@@ -1,7 +1,7 @@
 ---
 title: "Ioannis Varvaris"
 description: "Ioannis Varvaris is a Mid-career Soil Carbon researcher at Cyprus University of Technology in CY. With 35 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.453568
+date: 2026-08-11T01:33:12.310591
 url: "/cdr-researcher-census/researchers/ioannis-varvaris-a5051397/"
 layout: "researcher"
 hiddenInHomeList: true

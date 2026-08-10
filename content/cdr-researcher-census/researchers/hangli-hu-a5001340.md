@@ -1,7 +1,7 @@
 ---
 title: "Hangli Hu"
 description: "Hangli Hu is a Mid-career Biochar researcher at Shanghai Jiao Tong University in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.094058
+date: 2026-08-11T01:33:11.986108
 url: "/cdr-researcher-census/researchers/hangli-hu-a5001340/"
 layout: "researcher"
 hiddenInHomeList: true

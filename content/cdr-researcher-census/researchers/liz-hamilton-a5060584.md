@@ -1,7 +1,7 @@
 ---
 title: "Liz Hamilton"
 description: "Liz Hamilton is a Senior Soil Carbon researcher at Universities UK in GB. With 56 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.341714
+date: 2026-08-11T01:33:12.207282
 url: "/cdr-researcher-census/researchers/liz-hamilton-a5060584/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Quantification and uncertainty of root growth stimulation by elevated CO2 in a mature temperate deciduous forest** (2022)
-   19 citations
+   20 citations
 
 2. **Quantification and uncertainty of root growth stimulation by elevated CO <sub>2</sub> in mature temperate deciduous forest** (2021)
    3 citations · General CDR
@@ -59,10 +59,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **Temperate Forest of 2050's: carbon and nutrient cycling responses to seven years of elevated CO2 enrichment at BIFoR-FACE** (2024)
    2 citations · Soil Carbon
 
-4. **Informing the potential of mature temperate forests as natural climate solutions: Changed fine root biomass and morphology under elevated CO <sub>2</sub>** (2026)
-   0 citations · Soil Carbon
+4. **Flux of CO2, CH4 and N2O from temperate woodland soil under elevated CO2** (2024)
+   1 citations · Soil Carbon
 
-5. **Flux of CO2, CH4 and N2O from temperate woodland soil under elevated CO2** (2024)
+5. **Informing the potential of mature temperate forests as natural climate solutions: Changed fine root biomass and morphology under elevated CO <sub>2</sub>** (2026)
    0 citations · Soil Carbon
 
 6. **Does elevated CO2 alter root architecture and biomass after 5 years in a mature temperate woodland?** (2023)

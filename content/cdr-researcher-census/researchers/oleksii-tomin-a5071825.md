@@ -1,7 +1,7 @@
 ---
 title: "Oleksii Tomin"
 description: "Oleksii Tomin is a Mid-career Biochar researcher at Aalto University in FI. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.429221
+date: 2026-08-11T01:33:12.287162
 url: "/cdr-researcher-census/researchers/oleksii-tomin-a5071825/"
 layout: "researcher"
 hiddenInHomeList: true

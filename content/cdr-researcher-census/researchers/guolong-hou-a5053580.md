@@ -1,7 +1,7 @@
 ---
 title: "Guolong Hou"
 description: "Guolong Hou is a Mid-career Soil Carbon researcher at South China Normal University in CN. With 17 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.580119
+date: 2026-08-11T01:33:11.511921
 url: "/cdr-researcher-census/researchers/guolong-hou-a5053580/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    14 citations
 
 2. **Carbon sequestration in biomass and soil following reforestation: a case study of the Yangtze River Basin** (2022)
-   9 citations · General CDR
+   10 citations · General CDR
 
 ## External Profiles
 

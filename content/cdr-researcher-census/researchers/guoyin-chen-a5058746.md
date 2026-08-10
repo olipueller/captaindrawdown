@@ -1,7 +1,7 @@
 ---
 title: "Guoyin Chen"
 description: "Guoyin Chen is a Mid-career Soil Carbon researcher at South China Botanical Garden in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.500672
+date: 2026-08-11T01:33:11.441096
 url: "/cdr-researcher-census/researchers/guoyin-chen-a5058746/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · Soil Carbon
 
 3. **Estimating microbial necromass contribution to mineral-associated organic matter: comparison of stoichiometric and biomarker methods** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 4. **Soil Organic Carbon Stock, Source, and Stability after 20-Year Mangrove Afforestation in Southern China** (2023)
    1 citations · Soil Carbon

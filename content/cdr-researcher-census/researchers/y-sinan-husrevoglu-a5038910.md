@@ -1,7 +1,7 @@
 ---
 title: "Y. Sinan Hüsrevoğlu"
 description: "Y. Sinan Hüsrevoğlu is a Senior Ocean CDR researcher at Middle East Technical University in TR. With 18 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.734581
+date: 2026-08-11T01:33:11.651173
 url: "/cdr-researcher-census/researchers/y-sinan-husrevoglu-a5038910/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Future Mangrove Carbon Storage Under Climate Change and Deforestation** (2022)
-   110 citations · Ocean CDR
+   112 citations · Ocean CDR
 
 ## External Profiles
 

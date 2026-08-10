@@ -1,7 +1,7 @@
 ---
 title: "Abdeldjallil Mansouri"
 description: "Abdeldjallil Mansouri is a Mid-career Biochar researcher at Université de Saida Dr.Moulay Tahar in DZ. With 3 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.522525
+date: 2026-08-11T01:33:12.373999
 url: "/cdr-researcher-census/researchers/abdeldjallil-mansouri-a5006736/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar and activated carbon derivatives of lignocellulosic fibers towards adsorptive removal of pollutants from aqueous systems: Critical study and future insight** (2021)
-   98 citations · Biochar
+   100 citations · Biochar
 
 ## External Profiles
 

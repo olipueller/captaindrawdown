@@ -1,7 +1,7 @@
 ---
 title: "Luise Wanner"
 description: "Luise Wanner is a Mid-career Soil Carbon researcher at National Institute of Meteorology in TN. With 38 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.876609
+date: 2026-08-11T01:33:11.778179
 url: "/cdr-researcher-census/researchers/luise-wanner-a5078994/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon fluxes controlled by land management and disturbances at a cluster of long-term ecosystem monitoring sites in Central Europe** (2025)
-   3 citations · General CDR
+   4 citations · General CDR
 
 2. **Carbon Fluxes Controlled by Land Management and Disturbances at a Cluster of Long-Term Ecosystem Monitoring Sites in Central Europe** (2024)
    0 citations · Soil Carbon

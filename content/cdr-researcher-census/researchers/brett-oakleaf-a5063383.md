@@ -1,7 +1,7 @@
 ---
 title: "Brett Oakleaf"
 description: "Brett Oakleaf is a Senior DAC researcher at National Laboratory of the Rockies in US. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.490196
+date: 2026-08-11T01:33:11.432165
 url: "/cdr-researcher-census/researchers/brett-oakleaf-a5063383/"
 layout: "researcher"
 hiddenInHomeList: true

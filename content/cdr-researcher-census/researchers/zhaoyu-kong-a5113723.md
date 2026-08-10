@@ -1,7 +1,7 @@
 ---
 title: "Zhaoyu Kong"
 description: "Zhaoyu Kong is a Senior Soil Carbon researcher at Nanchang University in CN. With 37 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.252585
+date: 2026-08-11T01:33:11.222979
 url: "/cdr-researcher-census/researchers/zhaoyu-kong-a5113723/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term cultivation reduces soil carbon storage by altering microbial network complexity and metabolism activity in macroaggregates** (2024)
-   23 citations · Soil Carbon
+   24 citations · Soil Carbon
 
 2. **Long-Term Cultivation Reduces Soil Organic Carbon Storage by Affecting Microbial-Mediated Carbon Decomposition in Macroaggregates** (2023)
    0 citations · Soil Carbon

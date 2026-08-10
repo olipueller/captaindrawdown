@@ -1,7 +1,7 @@
 ---
 title: "Amitabha Nath"
 description: "Amitabha Nath is a Mid-career Soil Carbon researcher. With 26 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.711973
+date: 2026-08-11T01:33:11.631108
 url: "/cdr-researcher-census/researchers/amitabha-nath-a5104094/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Threats to inland wetlands and uncertainty around global soil carbon stocks and sequestration rates** (2024)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 2. **Determinants of phytolith occluded carbon in bamboo stands across forest types in the eastern Indian Himalayas** (2022)
    13 citations · Soil Carbon

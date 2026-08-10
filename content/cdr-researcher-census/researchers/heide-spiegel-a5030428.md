@@ -1,7 +1,7 @@
 ---
 title: "Heide Spiegel"
 description: "Heide Spiegel is a Senior Soil Carbon researcher at Austrian Agency for Health and Food Safety in AT. With 164 publications and an h-index of 32, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.124896
+date: 2026-08-11T01:33:11.103607
 url: "/cdr-researcher-census/researchers/heide-spiegel-a5030428/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Optimizing Carbon Sequestration in Croplands: A Synthesis** (2021)
-   182 citations · General CDR
+   184 citations · General CDR
 
 2. **Seasonal dynamics of soil microbial growth, respiration, biomass, and carbon use efficiency in temperate soils** (2023)
-   83 citations
+   85 citations
 
 3. **Soil organic carbon sequestration in agricultural long-term field experiments as derived from particulate and mineral-associated organic matter** (2023)
-   72 citations · Soil Carbon
+   73 citations · Soil Carbon
 
 4. **Organic soil carbon in Austria – Status quo and foreseeable trends** (2021)
-   19 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 5. **Forage vs. Grain Legumes: Contrasting Effects on Soil Organic Carbon Stocks–Evidence From 30 European Field Experiments** (2025)
-   8 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 6. **Seasonal Dynamics of Soil Microbial Growth, Respiration, Biomass, and Carbon Use Efficiency** (2022)
    8 citations · Soil Carbon

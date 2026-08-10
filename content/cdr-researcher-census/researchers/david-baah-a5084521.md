@@ -1,7 +1,7 @@
 ---
 title: "David Baah"
 description: "David Baah is a Senior Biochar researcher at Tuskegee University in US. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.567356
+date: 2026-08-11T01:33:11.500490
 url: "/cdr-researcher-census/researchers/david-baah-a5084521/"
 layout: "researcher"
 hiddenInHomeList: true

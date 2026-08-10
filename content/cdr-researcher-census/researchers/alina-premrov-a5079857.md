@@ -1,7 +1,7 @@
 ---
 title: "Alina Premrov"
 description: "Alina Premrov is a Senior Soil Carbon researcher at Trinity College Dublin in IE. With 30 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.803213
+date: 2026-08-11T01:33:11.712888
 url: "/cdr-researcher-census/researchers/alina-premrov-a5079857/"
 layout: "researcher"
 hiddenInHomeList: true

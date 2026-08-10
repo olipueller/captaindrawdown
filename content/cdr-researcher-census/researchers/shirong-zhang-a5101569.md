@@ -1,7 +1,7 @@
 ---
 title: "Shirong Zhang"
 description: "Shirong Zhang is a Senior Soil Carbon researcher at Kunming University of Science and Technology in CN. With 71 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.207298
+date: 2026-08-11T01:33:11.180816
 url: "/cdr-researcher-census/researchers/shirong-zhang-a5101569/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Organic fertilization increased soil organic carbon stability and sequestration by improving aggregate stability and iron oxide transformation in saline-alkaline soil** (2022)
-   114 citations · Soil Carbon
+   116 citations · Soil Carbon
 
 2. **Straw incorporation and nitrogen fertilization enhance soil carbon sequestration by altering soil aggregate and microbial community composition in saline-alkali soil** (2023)
    32 citations · Soil Carbon

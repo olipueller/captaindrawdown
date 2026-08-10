@@ -1,7 +1,7 @@
 ---
 title: "D. Barman"
 description: "D. Barman is a Mid-career Soil Carbon researcher at Central Research Institute for Jute and Allied Fibres in IN. With 71 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.541853
+date: 2026-08-11T01:33:11.477530
 url: "/cdr-researcher-census/researchers/d-barman-a5080410/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Impact of 28 year old agroforestry systems on soil carbon dynamics in Eastern Himalayas** (2021)
-   55 citations · Soil Carbon
+   57 citations · Soil Carbon
 
 2. **Contribution of Mangrove Ecosystem Services to Local Livelihoods in the Indian Sundarbans** (2024)
-   21 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 3. **Trade-off between soil aggregate stability and carbon decomposition under 44 years long-term integrated nutrient management in rice-wheat-jute system** (2021)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 4. **Crop intensification with short-duration pulse crop(mungbean)using climate-smart agriculture technology in northeastern region of Bangladesh** (2021)
    4 citations

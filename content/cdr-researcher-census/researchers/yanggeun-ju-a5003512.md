@@ -1,7 +1,7 @@
 ---
 title: "Yanggeun Ju"
 description: "Yanggeun Ju is an Early-career DAC researcher at Gwangju Institute of Science and Technology in KR. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.508954
+date: 2026-08-11T01:33:12.361296
 url: "/cdr-researcher-census/researchers/yanggeun-ju-a5003512/"
 layout: "researcher"
 hiddenInHomeList: true

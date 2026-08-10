@@ -1,7 +1,7 @@
 ---
 title: "Pascale Cuet"
 description: "Pascale Cuet is a Senior Ocean CDR researcher at University of Reunion Island in RE. With 72 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.322117
+date: 2026-08-11T01:33:11.287498
 url: "/cdr-researcher-census/researchers/pascale-cuet-a5038215/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **An updated synthesis of ocean total alkalinity and dissolved inorganic carbon measurements from 1993 to 2023: the SNAPO-CO <sub>2</sub> -v2 dataset** (2025)
-   6 citations · General CDR
+   8 citations · General CDR
 
 2. **Natural photosynthetic microboring communities produce alkalinity in seawater whereas aragonite saturation state rises up to five** (2022)
    6 citations · Ocean CDR
 
 3. **Contribution of the seagrass Syringodium isoetifolium to the metabolic functioning of a tropical reef lagoon** (2022)
-   3 citations · Ocean CDR
+   4 citations · Ocean CDR
 
 4. **An updated synthesis of ocean total alkalinity and dissolved inorganic carbon measurements from 1993 to 2023: the SNAPO-CO2-v2 dataset** (2024)
    1 citations · General CDR

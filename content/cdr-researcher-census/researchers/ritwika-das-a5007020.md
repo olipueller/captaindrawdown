@@ -1,7 +1,7 @@
 ---
 title: "Ritwika Das"
 description: "Ritwika Das is a Mid-career Soil Carbon researcher at Indian Agricultural Statistics Research Institute in IN. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.355590
+date: 2026-08-11T01:33:12.219609
 url: "/cdr-researcher-census/researchers/ritwika-das-a5007020/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Bamboo for global sustainability: a systematic review of its environmental and ecological implications, climate action, and biodiversity contributions** (2025)
-   20 citations · General CDR
+   25 citations · General CDR
 
 ## External Profiles
 

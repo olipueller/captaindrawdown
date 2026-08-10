@@ -1,7 +1,7 @@
 ---
 title: "Netai Mukaratirwa‐Muchanyereyi"
 description: "Netai Mukaratirwa‐Muchanyereyi is a Mid-career Biochar researcher at Bindura University of Science Education in ZW. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.170860
+date: 2026-08-11T01:33:12.056780
 url: "/cdr-researcher-census/researchers/netai-mukaratirwamuchanyereyi-a5020496/"
 layout: "researcher"
 hiddenInHomeList: true

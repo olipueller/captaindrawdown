@@ -1,7 +1,7 @@
 ---
 title: "Aldis Butlers"
 description: "Aldis Butlers is a Mid-career Soil Carbon researcher at State Forest Research Institute in IN. With 81 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.915366
+date: 2026-08-11T01:33:11.813584
 url: "/cdr-researcher-census/researchers/aldis-butlers-a5019656/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    9 citations
 
 3. **Organic soils can be CO <sub>2</sub> sinks in both drained and undrained hemiboreal peatland forests** (2025)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 4. **Carbon dioxide (CO<sub>2</sub>) emissions from naturally wet and drained nutrient-rich organic forests soils** (2022)
    4 citations
@@ -65,20 +65,20 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 5. **Soil and forest floor carbon balance in drained and undrained hemiboreal peatland forests** (2024)
    3 citations · Soil Carbon
 
-6. **Greenhouse gas emissions from alluvial soils in grassland and cropland in northern part of Europe's temperate climate zone (Latvia)** (2026)
+6. **Ideas and perspectives: Rethinking climate mitigation of afforestation and rewetting of temperate and boreal degraded organic soils** (2026)
    0 citations
 
-7. **Estimation of greenhouse gas emission mitigation and atmospheric carbon dioxide sequestration in restored peatlands (raised bogs) in Latvia** (2025)
-   0 citations · Soil Carbon
-
-8. **Reply on RC1** (2024)
-   0 citations · Soil Carbon
-
-9. **Reply on RC2** (2024)
-   0 citations · Soil Carbon
-
-10. **Siltumnīcefekta gāzu emisiju ietekmējošie faktori eitrofos purvaiņos un kūdreņos = Greenhouse gas emissions and affecting factors in forests with undrained and drained nutrient-rich organic soils** (2023)
+7. **Greenhouse gas emissions from alluvial soils in grassland and cropland in northern part of Europe's temperate climate zone (Latvia)** (2026)
    0 citations
+
+8. **Estimation of greenhouse gas emission mitigation and atmospheric carbon dioxide sequestration in restored peatlands (raised bogs) in Latvia** (2025)
+   0 citations · Soil Carbon
+
+9. **Reply on RC1** (2024)
+   0 citations · Soil Carbon
+
+10. **Reply on RC2** (2024)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

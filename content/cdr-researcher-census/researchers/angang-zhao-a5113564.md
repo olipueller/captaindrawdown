@@ -1,7 +1,7 @@
 ---
 title: "Angang Zhao"
 description: "Angang Zhao is a Senior Biochar researcher at Shanghai Normal University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.132354
+date: 2026-08-11T01:33:12.021602
 url: "/cdr-researcher-census/researchers/angang-zhao-a5113564/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    59 citations
 
 2. **Polydopamine-modified biochar supported polylactic acid and zero-valent iron affects the functional microbial community structure for 1,1,1-trichloroethane removal in simulated groundwater** (2024)
-   5 citations · Biochar
+   6 citations · Biochar
 
 ## External Profiles
 

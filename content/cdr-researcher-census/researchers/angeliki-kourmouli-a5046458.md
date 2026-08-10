@@ -1,7 +1,7 @@
 ---
 title: "Angeliki Kourmouli"
 description: "Angeliki Kourmouli is a Mid-career Soil Carbon researcher at Department for Environment Food and Rural Affairs in GB. With 31 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.929634
+date: 2026-08-11T01:33:11.825999
 url: "/cdr-researcher-census/researchers/angeliki-kourmouli-a5046458/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Quantification and uncertainty of root growth stimulation by elevated CO2 in a mature temperate deciduous forest** (2022)
-   19 citations
+   20 citations
 
 2. **Quantification and uncertainty of root growth stimulation by elevated CO <sub>2</sub> in mature temperate deciduous forest** (2021)
    3 citations · General CDR

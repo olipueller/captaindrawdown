@@ -1,7 +1,7 @@
 ---
 title: "Piotr Wojewódzki"
 description: "Piotr Wojewódzki is a Mid-career Biochar researcher at Bydgoszcz University of Science and Technology in PL. With 19 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.653779
+date: 2026-08-11T01:33:11.578702
 url: "/cdr-researcher-census/researchers/piotr-wojewodzki-a5058027/"
 layout: "researcher"
 hiddenInHomeList: true

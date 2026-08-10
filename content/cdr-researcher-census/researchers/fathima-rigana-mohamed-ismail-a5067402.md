@@ -1,7 +1,7 @@
 ---
 title: "Fathima Rigana Mohamed Ismail"
 description: "Fathima Rigana Mohamed Ismail is a Mid-career Biochar researcher at SRM Institute of Science and Technology in IN. With 2 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.372369
+date: 2026-08-11T01:33:12.235173
 url: "/cdr-researcher-census/researchers/fathima-rigana-mohamed-ismail-a5067402/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **From Biomass to Adsorbent: A Comprehensive Review on Bio-Derived Carbons for Dye Removal** (2026)
-   15 citations · Biochar
+   19 citations · Biochar
 
 ## External Profiles
 

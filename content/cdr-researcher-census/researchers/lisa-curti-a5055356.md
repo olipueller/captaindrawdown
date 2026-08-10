@@ -1,7 +1,7 @@
 ---
 title: "Lisa Curti"
 description: "Lisa Curti is a Mid-career Soil Carbon researcher. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.662118
+date: 2026-08-11T01:33:11.586395
 url: "/cdr-researcher-census/researchers/lisa-curti-a5055356/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carboxyl-richness controls organic carbon preservation during coprecipitation with iron (oxyhydr)oxides in the natural environment** (2021)
-   115 citations · Soil Carbon
+   120 citations · Soil Carbon
 
 ## External Profiles
 

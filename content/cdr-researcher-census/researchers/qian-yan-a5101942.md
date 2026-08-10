@@ -1,7 +1,7 @@
 ---
 title: "Qian Yan"
 description: "Qian Yan is a Mid-career Enhanced Weathering researcher at Beijing Forestry University in CN. With 22 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.640112
+date: 2026-08-11T01:33:11.566585
 url: "/cdr-researcher-census/researchers/qian-yan-a5101942/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Potential Environmental Impacts and Management Strategies for Metal Release during Ocean Alkalinity Enhancement Using Olivine** (2025)
-   13 citations · Enhanced Weathering
+   15 citations · Enhanced Weathering
 
 2. **Alkalinity factory can achieve positive climate benefits within decades** (2025)
-   3 citations · Enhanced Weathering
+   4 citations · Enhanced Weathering
 
 3. **Alkalinity Factory Can Achieve Positive Climate Benefits Within Decades.** (2025)
    0 citations

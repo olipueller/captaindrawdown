@@ -1,7 +1,7 @@
 ---
 title: "Huiping Ou"
 description: "Huiping Ou is a Mid-career Soil Carbon researcher at Shenzhen Polytechnic University in CN. With 32 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.157241
+date: 2026-08-11T01:33:12.044181
 url: "/cdr-researcher-census/researchers/huiping-ou-a5101177/"
 layout: "researcher"
 hiddenInHomeList: true

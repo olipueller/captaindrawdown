@@ -1,7 +1,7 @@
 ---
 title: "Asmaa Zainal Abidin"
 description: "Asmaa Zainal Abidin is a Mid-career Biochar researcher at King Abdulaziz University in SA. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.863921
+date: 2026-08-11T01:33:11.766396
 url: "/cdr-researcher-census/researchers/asmaa-zainal-abidin-a5009732/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **A systematic review on applications of biochar and activated carbon derived from biomass as adsorbents for sustainable remediation of antibiotics from pharmaceutical wastewater** (2024)
-   82 citations · Biochar
+   86 citations · Biochar
 
 2. **A review on carbon-based biowaste and organic polymer materials for sustainable treatment of sulfonamides from pharmaceutical wastewater** (2024)
    20 citations

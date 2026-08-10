@@ -1,7 +1,7 @@
 ---
 title: "Ziqiao Zhou"
 description: "Ziqiao Zhou is a Mid-career General CDR researcher. With 13 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.606004
+date: 2026-08-11T01:33:11.535152
 url: "/cdr-researcher-census/researchers/ziqiao-zhou-a5084641/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Camila Llerena-Cayo"
 description: "Camila Llerena-Cayo is an Early-career General CDR researcher at Universidad Peruana Cayetano Heredia in PE. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.452177
+date: 2026-08-11T01:33:12.309245
 url: "/cdr-researcher-census/researchers/camila-llerena-cayo-a5011647/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **The 2023 Latin America report of the Lancet Countdown on health and climate change: the imperative for health-centred climate-resilient development** (2024)
-   88 citations · General CDR
+   93 citations · General CDR
 
 ## External Profiles
 

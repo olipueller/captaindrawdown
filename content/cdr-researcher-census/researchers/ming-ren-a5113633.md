@@ -1,7 +1,7 @@
 ---
 title: "Ming Ren"
 description: "Ming Ren is a Senior General CDR researcher at China University of Petroleum, Beijing in CN. With 24 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.486686
+date: 2026-08-11T01:33:11.429359
 url: "/cdr-researcher-census/researchers/ming-ren-a5113633/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Enhanced food system efficiency is the key to China’s 2060 carbon neutrality target** (2023)
-   77 citations · General CDR
+   82 citations · General CDR
 
 2. **Negative emission technology is key to decarbonizing China's cement industry** (2022)
    76 citations · General CDR

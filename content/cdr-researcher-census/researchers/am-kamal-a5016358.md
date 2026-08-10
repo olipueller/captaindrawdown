@@ -1,7 +1,7 @@
 ---
 title: "A.M. Kamal"
 description: "A.M. Kamal is a Mid-career Soil Carbon researcher at Quaid-i-Azam University in PK. With 22 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.383122
+date: 2026-08-11T01:33:12.245225
 url: "/cdr-researcher-census/researchers/am-kamal-a5016358/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Optimizing nutrient stoichiometry for enhanced carbon sequestration in agricultural soils** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 2. **Exploration of Soil Carbon Sequestrationin Relation to C:N:P:S Stoichiometryunder Dynamic Cropping Systems** (2024)
    1 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Qingxu Ma"
 description: "Qingxu Ma is a Senior Soil Carbon researcher at Bangor University in GB. With 194 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.131720
+date: 2026-08-11T01:33:11.110229
 url: "/cdr-researcher-census/researchers/qingxu-ma-a5041765/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,24 +51,24 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil carbon sequestration enhanced by long-term nitrogen and phosphorus fertilization** (2025)
-   40 citations · Soil Carbon
+   47 citations · Soil Carbon
 
 2. **Long-term green manuring increases soil carbon sequestration via decreasing qCO2 caused by lower microbial phosphorus limitation in a dry land field** (2024)
-   37 citations · Soil Carbon
+   40 citations · Soil Carbon
 
 3. **Patterns and abiotic drivers of soil organic carbon in perennial tea (Camellia sinensis L.) plantation system of China** (2023)
    24 citations · Soil Carbon
 
 4. **Opposite roles of plant quality and soil exoenzymes in regulation of litter carbon transfer to fungal and bacterial necromass** (2025)
-   13 citations
+   14 citations
 
 5. **Appropriately delayed flooding before rice transplanting increases net ecosystem economic benefit in the winter green manure-rice rotation system** (2024)
    13 citations · Soil Carbon
 
-6. **Meta-analysis of the accumulation and stabilisation of particulate and mineral-associated organic carbon by fertilization** (2025)
-   8 citations · Soil Carbon
+6. **Global Synthesis of Fertilisation‐Induced Changes in the Microbial Entombing Effect** (2025)
+   9 citations · Soil Carbon
 
-7. **Global Synthesis of Fertilisation‐Induced Changes in the Microbial Entombing Effect** (2025)
+7. **Meta-analysis of the accumulation and stabilisation of particulate and mineral-associated organic carbon by fertilization** (2025)
    8 citations · Soil Carbon
 
 8. **Spatial variation in stability of wheat (Triticum aestivum L.) straw phytolith-occluded carbon in China** (2024)

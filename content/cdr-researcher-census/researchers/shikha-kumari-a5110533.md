@@ -1,7 +1,7 @@
 ---
 title: "Shikha Kumari"
 description: "Shikha Kumari is a Mid-career Biochar researcher at Indian Institute of Technology Dharwad in IN. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.389243
+date: 2026-08-11T01:33:12.251018
 url: "/cdr-researcher-census/researchers/shikha-kumari-a5110533/"
 layout: "researcher"
 hiddenInHomeList: true

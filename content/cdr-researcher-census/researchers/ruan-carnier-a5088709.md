@@ -1,7 +1,7 @@
 ---
 title: "Ruan Carnier"
 description: "Ruan Carnier is a Mid-career Biochar researcher at Brazilian Agricultural Research Corporation in BR. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.400669
+date: 2026-08-11T01:33:12.261131
 url: "/cdr-researcher-census/researchers/ruan-carnier-a5088709/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Low-Temperature Slow Pyrolysis: Exploring Biomass-Specific Biochar Characteristics and Potential for Soil Applications** (2025)
-   8 citations · Biochar
+   9 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Christopher A. Walter"
 description: "Christopher A. Walter is a Senior Soil Carbon researcher at University of Minnesota in US. With 29 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.300965
+date: 2026-08-11T01:33:11.268181
 url: "/cdr-researcher-census/researchers/christopher-a-walter-a5048552/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Altered plant carbon partitioning enhanced forest ecosystem carbon storage after 25 years of nitrogen additions** (2021)
-   121 citations · Soil Carbon
+   123 citations · Soil Carbon
 
 2. **Soil carbon stocks in temperate grasslands differ strongly across sites but are insensitive to decade‐long fertilization** (2021)
-   78 citations · Soil Carbon
+   79 citations · Soil Carbon
 
 ## External Profiles
 

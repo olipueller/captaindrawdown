@@ -1,7 +1,7 @@
 ---
 title: "Zhongwei Yuan"
 description: "Zhongwei Yuan is a Mid-career Ocean CDR researcher at Xiamen University in CN. With 22 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.246370
+date: 2026-08-11T01:33:12.125437
 url: "/cdr-researcher-census/researchers/zhongwei-yuan-a5081724/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Effects of ocean alkalinity enhancement on plankton in the Equatorial Pacific** (2025)
-   22 citations · Ocean CDR
+   23 citations · Ocean CDR
 
 2. **Potential drivers and consequences of regional phosphate depletion in the western subtropical North Pacific** (2023)
    20 citations · Ocean CDR

@@ -1,7 +1,7 @@
 ---
 title: "Ayoub Belcaid"
 description: "Ayoub Belcaid is a Mid-career Biochar researcher at Université Hassan 1er in MA. With 6 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.311202
+date: 2026-08-11T01:33:12.180405
 url: "/cdr-researcher-census/researchers/ayoub-belcaid-a5038852/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Insight into adsorptive removal of methylene blue, malachite green, and rhodamine B dyes by cassava peel biochar (Manihot esculenta Crantz) in single, binary, and ternary systems: competitive adsorption study and theoretical calculations** (2022)
-   50 citations · Biochar
+   51 citations · Biochar
 
 2. **Biosorption of cobalt and chromium from wastewater using manganese dioxide and iron oxide nanoparticles loaded on cellulose-based biochar: Modeling and optimization with machine learning (artificial neural network)** (2024)
-   22 citations · Biochar
+   23 citations · Biochar
 
 ## External Profiles
 

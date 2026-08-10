@@ -1,7 +1,7 @@
 ---
 title: "Rafael A. Martinez‐Feria"
 description: "Rafael A. Martinez‐Feria is a Mid-career BECCS researcher at Pivot Bio (United States) in US. With 38 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.235069
+date: 2026-08-11T01:33:11.207195
 url: "/cdr-researcher-census/researchers/rafael-a-martinezferia-a5012900/"
 layout: "researcher"
 hiddenInHomeList: true

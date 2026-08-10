@@ -1,7 +1,7 @@
 ---
 title: "Jack Shepherd"
 description: "Jack Shepherd is an Early-career General CDR researcher at UNSW Sydney in AU. With 4 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.451991
+date: 2026-08-11T01:33:12.309084
 url: "/cdr-researcher-census/researchers/jack-shepherd-a5083856/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **A model for assessing pathways to integrate intermittent renewable energy for e-methanol production** (2023)
-   52 citations · DAC
+   54 citations · DAC
 
 2. **A Model for Assessing Pathways to Integrate Intermittent Renewable Energy for E-Methanol Production** (2023)
    1 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Douglas Eudy"
 description: "Douglas Eudy is a Senior Soil Carbon researcher at Bayer (United States) in US. With 16 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.666445
+date: 2026-08-11T01:33:11.590008
 url: "/cdr-researcher-census/researchers/douglas-eudy-a5113129/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Historical increases in plant density increased vegetative maize biomass while breeding increased reproductive biomass and allocation to ear over stem** (2024)
-   25 citations
+   27 citations
 
 2. **Large increases in maize residue carbon inputs in the US Corn Belt from 1980 to 2020** (2025)
    0 citations · Soil Carbon

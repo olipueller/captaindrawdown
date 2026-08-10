@@ -1,7 +1,7 @@
 ---
 title: "Matthew E. Sherman"
 description: "Matthew E. Sherman is a Senior BECCS researcher at University of Maryland, Baltimore in US. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.158919
+date: 2026-08-11T01:33:12.045755
 url: "/cdr-researcher-census/researchers/matthew-e-sherman-a5046389/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **BECC-engineered live-attenuated Shigella vaccine candidates display reduced endotoxicity with robust immunogenicity in mice** (2025)
-   2 citations
+   3 citations
 
 2. **BECC-engineered live-attenuated Shigella vaccine candidates display reduced endotoxicity with robust immunogenicity in mice** (2024)
    0 citations · BECCS

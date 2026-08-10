@@ -1,7 +1,7 @@
 ---
 title: "Selene Cobo"
 description: "Selene Cobo is a Mid-career General CDR researcher at Universidad de Cantabria in ES. With 33 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.425926
+date: 2026-08-11T01:33:11.378263
 url: "/cdr-researcher-census/researchers/selene-cobo-a5082806/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Delaying carbon dioxide removal in the European Union puts climate targets at risk** (2021)
-   83 citations · BECCS
+   87 citations · BECCS
 
 2. **Sustainable scale-up of negative emissions technologies and practices: where to focus** (2022)
    53 citations · General CDR
@@ -68,17 +68,17 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 6. **Negative emissions technologies and practices could challenge global resource supply and environmental limits** (2026)
    1 citations · BECCS
 
-7. **Negative emissions technologies and practices could challenge global resource supply and environmental limits** (2026)
+7. **Delayed climate benefits and toxicity risks could hinder the sustainable deployment of enhanced weathering** (2026)
+   0 citations · Enhanced Weathering
+
+8. **Negative emissions technologies and practices could challenge global resource supply and environmental limits** (2026)
    0 citations · BECCS
 
-8. **Negative emissions will challenge global resource supply and environmental limits** (2025)
+9. **Negative emissions will challenge global resource supply and environmental limits** (2025)
    0 citations · General CDR
 
-9. **Negative emissions pose trade-offs among human health, planetary boundaries and mineral resources** (2025)
+10. **Negative emissions pose trade-offs among human health, planetary boundaries and mineral resources** (2025)
    0 citations · General CDR
-
-10. **Environmental Sustainability Assessment of Hydrogen from Waste Polymers** (2023)
-   0 citations
 
 ## External Profiles
 

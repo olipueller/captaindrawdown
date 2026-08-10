@@ -1,7 +1,7 @@
 ---
 title: "Hongbo He"
 description: "Hongbo He is an Eminent Soil Carbon researcher at University of Chinese Academy of Sciences in CN. With 157 publications and an h-index of 44, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.110310
+date: 2026-08-11T01:33:11.089822
 url: "/cdr-researcher-census/researchers/hongbo-he-a5109304/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Contrasting pathways of carbon sequestration in paddy and upland soils** (2021)
-   401 citations · Soil Carbon
+   418 citations · Soil Carbon
 
 2. **Stoichiometric imbalance and microbial community regulate microbial elements use efficiencies under nitrogen addition** (2021)
-   210 citations
+   217 citations
 
 3. **Fungi determine increased soil organic carbon more than bacteria through their necromass inputs in conservation tillage croplands** (2022)
    163 citations · Soil Carbon
 
 4. **Spartina alterniflora invasion differentially alters microbial residues and their contribution to soil organic C in coastal marsh and mangrove wetlands** (2023)
-   27 citations · Soil Carbon
+   29 citations · Soil Carbon
 
 5. **Enhancing Sustainable Agriculture in China: A Meta-Analysis of the Impact of Straw and Manure on Crop Yield and Soil Fertility** (2024)
    26 citations · Soil Carbon
@@ -75,10 +75,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    8 citations · Soil Carbon
 
 9. **Biochemical heterogeneity of soil components manipulating long-term organic carbon pool buildup over mineral protection in the mollisol** (2025)
-   6 citations
+   7 citations
 
-10. **Effect of temperature on microbial residue dynamics in a temperate farmland soil** (2021)
-   5 citations · Soil Carbon
+10. **Subsoil Tillage With Straw Mulching Enhances Top‐Down Control of Deep Soil Carbon Accumulation via Fungal Pathways** (2025)
+   6 citations · Soil Carbon
 
 ## External Profiles
 

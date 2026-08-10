@@ -1,7 +1,7 @@
 ---
 title: "Momme Butenschön"
 description: "Momme Butenschön is a Senior General CDR researcher at CMCC Foundation - Euro-Mediterranean Center on Climate Change in IT. With 141 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.140962
+date: 2026-08-11T01:33:11.118864
 url: "/cdr-researcher-census/researchers/momme-butenschon-a5045008/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Alkalinization Scenarios in the Mediterranean Sea for Efficient Removal of Atmospheric CO2 and the Mitigation of Ocean Acidification** (2021)
-   79 citations · General CDR
+   80 citations · General CDR
 
 2. **The representation of alkalinity and the carbonate pump from CMIP5 to CMIP6 Earth system models and implications for the carbon cycle** (2023)
-   40 citations · General CDR
+   41 citations · General CDR
 
 3. **The representation of alkalinity and the carbonate pump from CMIP5 to CMIP6 ESMs and implications for the ocean carbon cycle** (2022)
    9 citations · Ocean CDR

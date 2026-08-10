@@ -1,7 +1,7 @@
 ---
 title: "Cunkang Hao"
 description: "Cunkang Hao is an Early-career Soil Carbon researcher at China Agricultural University in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.813569
+date: 2026-08-11T01:33:11.722304
 url: "/cdr-researcher-census/researchers/cunkang-hao-a5013332/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Intercropping increases soil macroaggregate carbon through root traits induced microbial necromass accumulation** (2023)
-   117 citations · Soil Carbon
+   122 citations · Soil Carbon
 
 ## External Profiles
 

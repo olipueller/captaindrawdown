@@ -1,7 +1,7 @@
 ---
 title: "Mark Mba Wright"
 description: "Mark Mba Wright is a Senior General CDR researcher at Iowa State University in US. With 151 publications and an h-index of 39, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.107953
+date: 2026-08-11T01:33:11.087613
 url: "/cdr-researcher-census/researchers/mark-mba-wright-a5032583/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Roads to Removal: Options for Carbon Dioxide Removal in the United States** (2023)
-   60 citations · General CDR
+   61 citations · General CDR
 
 2. **Techno-economic and environmental impact assessment of using corn stover biochar for manure derived renewable natural gas production** (2022)
    42 citations · Biochar
@@ -60,13 +60,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    7 citations
 
 4. **Achieving negative emissions through combustion-based bioenergy with carbon capture and storage in China: A plant level techno-economic analysis** (2025)
-   5 citations · BECCS
+   6 citations · BECCS
 
 5. **Enhancing carbon removal via scalable on-site pyrolysis and well-plugging systems** (2025)
    5 citations · BECCS
 
 6. **Kinetic-based techno-economic and life cycle assessment of slaughterhouse waste co-digestion for renewable natural gas production** (2026)
-   2 citations · General CDR
+   3 citations · General CDR
 
 7. **Superstructure Optimization of Waste Plastic Pyrolysis,Integrating Thermal, Catalytic, and Plasma Technologies with MachineLearning** (2026)
    0 citations · DAC

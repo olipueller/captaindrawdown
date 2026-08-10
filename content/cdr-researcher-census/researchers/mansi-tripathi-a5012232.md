@@ -1,7 +1,7 @@
 ---
 title: "Mansi Tripathi"
 description: "Mansi Tripathi is a Mid-career Soil Carbon researcher at International Management Institute in IN. With 9 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.575048
+date: 2026-08-11T01:33:11.507470
 url: "/cdr-researcher-census/researchers/mansi-tripathi-a5012232/"
 layout: "researcher"
 hiddenInHomeList: true

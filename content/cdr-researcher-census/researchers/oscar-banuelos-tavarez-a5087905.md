@@ -1,7 +1,7 @@
 ---
 title: "Oscar Bañuelos Tavarez"
 description: "Oscar Bañuelos Tavarez is a Mid-career Soil Carbon researcher at Centro Internacional de Mejoramiento de Maíz Y Trigo in MX. With 8 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.473167
+date: 2026-08-11T01:33:11.417699
 url: "/cdr-researcher-census/researchers/oscar-banuelos-tavarez-a5087905/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Maximizing soil organic carbon stocks under cover cropping: insights from long-term agricultural experiments in North America** (2023)
-   57 citations · General CDR
+   60 citations · General CDR
 
 ## External Profiles
 

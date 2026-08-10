@@ -1,7 +1,7 @@
 ---
 title: "Anatoli Chatzipanagi"
 description: "Anatoli Chatzipanagi is a Senior DAC researcher at Joint Research Centre in IT. With 10 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.890615
+date: 2026-08-11T01:33:11.790996
 url: "/cdr-researcher-census/researchers/anatoli-chatzipanagi-a5065066/"
 layout: "researcher"
 hiddenInHomeList: true

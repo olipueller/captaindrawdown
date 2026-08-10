@@ -1,7 +1,7 @@
 ---
 title: "Maoru Li"
 description: "Maoru Li is a Mid-career Biochar researcher at Yunnan University of Traditional Chinese Medicine in CN. With 20 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.559442
+date: 2026-08-11T01:33:11.493506
 url: "/cdr-researcher-census/researchers/maoru-li-a5069160/"
 layout: "researcher"
 hiddenInHomeList: true

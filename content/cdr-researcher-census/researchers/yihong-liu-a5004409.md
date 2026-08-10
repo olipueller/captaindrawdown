@@ -1,7 +1,7 @@
 ---
 title: "Yihong Liu"
 description: "Yihong Liu is a Mid-career Soil Carbon researcher at Western University in CA. With 31 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.262584
+date: 2026-08-11T01:33:12.138917
 url: "/cdr-researcher-census/researchers/yihong-liu-a5004409/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,14 +50,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Increased mowing intensity reduces soil CH4 uptake but diversely affects CO2 emission in an alpine meadow on the Qinghai-Tibetan Plateau** (2025)
+1. **Higher density of earthworms (Pheretima guillelmi) enhances soil carbon sequestration and carbon pool management index in a subtropical forest** (2026)
    2 citations · Soil Carbon
 
-2. **Temperature-dependent modulation of soil organic carbon by earthworm (Pheretima guillelmi) bioturbation in a subtropical forest: Topsoil versus Subsoil** (2026)
-   1 citations
+2. **Increased mowing intensity reduces soil CH4 uptake but diversely affects CO2 emission in an alpine meadow on the Qinghai-Tibetan Plateau** (2025)
+   2 citations · Soil Carbon
 
-3. **Higher density of earthworms (Pheretima guillelmi) enhances soil carbon sequestration and carbon pool management index in a subtropical forest** (2026)
-   1 citations · Soil Carbon
+3. **Temperature-dependent modulation of soil organic carbon by earthworm (Pheretima guillelmi) bioturbation in a subtropical forest: Topsoil versus Subsoil** (2026)
+   1 citations
 
 ## External Profiles
 

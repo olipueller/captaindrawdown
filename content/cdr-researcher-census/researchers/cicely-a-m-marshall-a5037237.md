@@ -1,7 +1,7 @@
 ---
 title: "Cicely A. M. Marshall"
 description: "Cicely A. M. Marshall is a Mid-career Soil Carbon researcher at University of Cambridge in GB. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.797244
+date: 2026-08-11T01:33:11.707715
 url: "/cdr-researcher-census/researchers/cicely-a-m-marshall-a5037237/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Urban wildflower meadow planting for biodiversity, climate and society: An evaluation at King's College, Cambridge** (2023)
-   33 citations · General CDR
+   35 citations · General CDR
 
 ## External Profiles
 

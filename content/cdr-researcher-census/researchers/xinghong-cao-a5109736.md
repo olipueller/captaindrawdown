@@ -1,7 +1,7 @@
 ---
 title: "Xinghong Cao"
 description: "Xinghong Cao is a Senior Soil Carbon researcher at Beijing Normal University in CN. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.065583
+date: 2026-08-11T01:33:11.959351
 url: "/cdr-researcher-census/researchers/xinghong-cao-a5109736/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Wildfire-Derived Pyrogenic Dissolved Organic Matter (pyDOM) Enhances Riverine DOM Reactivities and Nitrogen Metabolisms** (2025)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 2. **High-Dose Biochar Hinders Micro/Nanoplastic-Induced Soil Positive Priming by Reducing Substrate Quality and Microbial Activity** (2026)
-   5 citations · Soil Carbon
+   7 citations · Soil Carbon
 
 ## External Profiles
 

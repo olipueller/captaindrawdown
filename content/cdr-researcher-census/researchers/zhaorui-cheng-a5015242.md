@@ -1,7 +1,7 @@
 ---
 title: "Zhaorui Cheng"
 description: "Zhaorui Cheng is a Mid-career Soil Carbon researcher at Sun Yat-sen University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.558176
+date: 2026-08-11T01:33:12.404706
 url: "/cdr-researcher-census/researchers/zhaorui-cheng-a5015242/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,13 +48,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Responses of SOC, labile SOC fractions, and amino sugars to different organic amendments in a coastal saline-alkali soil** (2024)
-   45 citations · Soil Carbon
+   48 citations · Soil Carbon
 
 2. **External carbon addition alters soil photosynthetic carbon accumulation and rhizosphere processes of carbon** (2024)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 3. **Effect of Straw Input on Soil Carbon Sequestration in Clay Loam and Sandy Loam Soils in a Wheat-cotton Cropping System** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 4. **Soil carbon sequestration and microbial metabolic limitation under wheat-cotton straw returning with potassium fertilization** (2026)
    0 citations · Soil Carbon

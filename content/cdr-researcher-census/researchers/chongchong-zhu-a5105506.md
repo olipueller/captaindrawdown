@@ -1,7 +1,7 @@
 ---
 title: "Chongchong Zhu"
 description: "Chongchong Zhu is a Mid-career Soil Carbon researcher at Nanjing Normal University in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.465108
+date: 2026-08-11T01:33:12.321444
 url: "/cdr-researcher-census/researchers/chongchong-zhu-a5105506/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Driving factors of soil organic carbon sequestration under straw returning across China's uplands** (2023)
-   65 citations · Soil Carbon
+   67 citations · Soil Carbon
 
 ## External Profiles
 

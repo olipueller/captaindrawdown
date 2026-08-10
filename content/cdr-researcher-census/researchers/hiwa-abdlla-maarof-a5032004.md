@@ -1,7 +1,7 @@
 ---
 title: "Hiwa Abdlla Maarof"
 description: "Hiwa Abdlla Maarof is a Mid-career DAC researcher at University of Halabja in IQ. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.746318
+date: 2026-08-11T01:33:11.661965
 url: "/cdr-researcher-census/researchers/hiwa-abdlla-maarof-a5032004/"
 layout: "researcher"
 hiddenInHomeList: true

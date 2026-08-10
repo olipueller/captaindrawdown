@@ -1,7 +1,7 @@
 ---
 title: "Olga Vizitiu"
 description: "Olga Vizitiu is a Mid-career Soil Carbon researcher. With 30 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.073828
+date: 2026-08-11T01:33:11.967665
 url: "/cdr-researcher-census/researchers/olga-vizitiu-a5086799/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil organic carbon and total nitrogen stocks related to land use and basic environmental properties − assessment of soil carbon sequestration potential in different ecosystems** (2024)
-   36 citations · General CDR
+   37 citations · General CDR
 
 2. **MITIGATION OF GREENHOUSE GAS EMISSIONS IN SOME CULTIVATED MINERAL SOILS FROM ROMANIA** (2022)
    0 citations · Soil Carbon

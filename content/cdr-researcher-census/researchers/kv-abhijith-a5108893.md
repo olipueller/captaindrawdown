@@ -1,7 +1,7 @@
 ---
 title: "K.V. Abhijith"
 description: "K.V. Abhijith is a Mid-career Soil Carbon researcher at University of Surrey in GB. With 18 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.173353
+date: 2026-08-11T01:33:11.149017
 url: "/cdr-researcher-census/researchers/kv-abhijith-a5108893/"
 layout: "researcher"
 hiddenInHomeList: true

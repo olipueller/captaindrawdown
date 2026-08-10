@@ -1,7 +1,7 @@
 ---
 title: "Mirjam Perner"
 description: "Mirjam Perner is a Senior Ocean CDR researcher at GEOMAR Helmholtz-Zentrum für Ozeanforschung Kiel in DE. With 100 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.246753
+date: 2026-08-11T01:33:11.217881
 url: "/cdr-researcher-census/researchers/mirjam-perner-a5015166/"
 layout: "researcher"
 hiddenInHomeList: true

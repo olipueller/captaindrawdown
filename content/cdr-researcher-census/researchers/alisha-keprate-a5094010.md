@@ -1,7 +1,7 @@
 ---
 title: "Alisha Keprate"
 description: "Alisha Keprate is a Mid-career Soil Carbon researcher at Dr. Yashwant Singh Parmar University of Horticulture and Forestry in IN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.261946
+date: 2026-08-11T01:33:12.138415
 url: "/cdr-researcher-census/researchers/alisha-keprate-a5094010/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Climate Resilient Agroforestry Systems for Sustainable Land Use and Livelihood** (2024)
-   37 citations · Soil Carbon
+   38 citations · Soil Carbon
 
 2. **Biomass Partitioning, Carbon Storage, and Pea (Pisum sativum L.) Crop Production under a Grewia optiva-Based Agroforestry System in the Mid-Hills of the Northwestern Himalayas** (2024)
-   4 citations · General CDR
+   5 citations · General CDR
 
 ## External Profiles
 

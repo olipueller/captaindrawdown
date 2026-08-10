@@ -1,7 +1,7 @@
 ---
 title: "Bill Deen"
 description: "Bill Deen is a Senior Soil Carbon researcher at University of Guelph in CA. With 100 publications and an h-index of 36, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.144994
+date: 2026-08-11T01:33:11.122585
 url: "/cdr-researcher-census/researchers/bill-deen-a5091040/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term effects of crop rotation, tillage, and fertilizer nitrogen on soil health indicators and crop productivity in a temperate climate** (2021)
-   133 citations · Soil Carbon
+   137 citations · Soil Carbon
 
 2. **Maximizing soil organic carbon stocks under cover cropping: insights from long-term agricultural experiments in North America** (2023)
-   57 citations · General CDR
+   60 citations · General CDR
 
 3. **Soil organic carbon enhancement in diverse temperate riparian buffer systems in comparison with adjacent agricultural soils** (2021)
    14 citations · Soil Carbon

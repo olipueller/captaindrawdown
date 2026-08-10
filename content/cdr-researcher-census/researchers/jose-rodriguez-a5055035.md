@@ -1,7 +1,7 @@
 ---
 title: "Jose Rodriguez"
 description: "Jose Rodriguez is a Senior Biochar researcher at University of Nottingham in GB. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.696563
+date: 2026-08-11T01:33:11.616855
 url: "/cdr-researcher-census/researchers/jose-rodriguez-a5055035/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Microwave pyrolysis of waste biomass and synthesis of micro-mesoporous activated carbons: The role of textural properties for CO2 and textile dye adsorption** (2024)
-   64 citations
+   68 citations
 
 2. **Microwave Pyrolysis of Waste Biomass and Synthesis of Micro-Mesoporous Activated Carbons. The Role of Textural Properties for Co2 and Textile Dye Adsorption** (2024)
    1 citations · Biochar

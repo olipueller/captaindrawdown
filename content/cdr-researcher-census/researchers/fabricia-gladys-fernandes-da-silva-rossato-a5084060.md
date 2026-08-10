@@ -1,7 +1,7 @@
 ---
 title: "Fabrícia Gladys Fernandes da Silva Rossato"
 description: "Fabrícia Gladys Fernandes da Silva Rossato is a Mid-career General CDR researcher. With 13 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.495784
+date: 2026-08-11T01:33:12.349004
 url: "/cdr-researcher-census/researchers/fabricia-gladys-fernandes-da-silva-rossato-a5084060/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Environmental impacts in integrated production systems: an overview** (2023)
-   12 citations · General CDR
+   13 citations · General CDR
 
 ## External Profiles
 

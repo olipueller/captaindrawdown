@@ -1,7 +1,7 @@
 ---
 title: "M. Pinzón"
 description: "M. Pinzón is a Mid-career Biochar researcher at Ca' Foscari University of Venice in IT. With 15 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.658392
+date: 2026-08-11T01:33:11.582619
 url: "/cdr-researcher-census/researchers/m-pinzon-a5051994/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **From waste to adsorbent: Properties of CO2-activated biochars from pistachio hulls and walnut shells for advanced water remediation** (2025)
-   6 citations · Biochar
+   9 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Luís André Mendes"
 description: "Luís André Mendes is a Senior Soil Carbon researcher at Universidad Politécnica de Madrid in ES. With 31 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.023884
+date: 2026-08-11T01:33:11.900236
 url: "/cdr-researcher-census/researchers/luis-andre-mendes-a5049242/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **What evidence exists relating the impact of different grassland management practices to soil carbon in livestock systems? A systematic map protocol** (2024)
-   4 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 2. **What evidence exists relating the impact of different grassland management practices to soil carbon in livestock systems? A systematic map in progress** (2025)
    0 citations · General CDR

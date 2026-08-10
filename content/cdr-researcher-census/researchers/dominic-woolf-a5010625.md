@@ -1,7 +1,7 @@
 ---
 title: "Dominic Woolf"
 description: "Dominic Woolf is a Senior General CDR researcher at Cornell University in US. With 53 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.111896
+date: 2026-08-11T01:33:11.091347
 url: "/cdr-researcher-census/researchers/dominic-woolf-a5010625/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,31 +51,31 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Biochar in climate change mitigation** (2021)
-   867 citations · Biochar
+   895 citations · Biochar
 
 2. **Global crop production increase by soil organic carbon** (2023)
-   279 citations · General CDR
+   289 citations · General CDR
 
 3. **Greenhouse Gas Inventory Model for Biochar Additions to Soil** (2021)
-   206 citations · Biochar
+   215 citations · Biochar
 
 4. **Potential for biochar carbon sequestration from crop residues: A global spatially explicit assessment** (2023)
-   52 citations · Biochar
+   53 citations · Biochar
 
 5. **Perceptions of naturalness predict US public support for Soil Carbon Storage as a climate solution** (2021)
    37 citations · General CDR
 
 6. **Importance of Terrain and Climate for Predicting Soil Organic Carbon Is Highly Variable across Local to Continental Scales** (2024)
-   24 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 7. **Greenhouse gas mitigation on croplands: clarifying the debate on knowns, unknowns and risks to move forward with effective management interventions** (2024)
-   23 citations · General CDR
+   24 citations · General CDR
 
-8. **Biochar, greenhouse gas accounting, and climate change mitigation** (2024)
-   9 citations · Biochar
+8. **Biochar Permanence—A Policy Commentary** (2025)
+   12 citations · Biochar
 
-9. **Biochar Permanence—A Policy Commentary** (2025)
-   8 citations · Biochar
+9. **Biochar, greenhouse gas accounting, and climate change mitigation** (2024)
+   10 citations · Biochar
 
 10. **Sensationalized soil carbon sequestration estimates excuse further climate inaction** (2023)
    4 citations · General CDR

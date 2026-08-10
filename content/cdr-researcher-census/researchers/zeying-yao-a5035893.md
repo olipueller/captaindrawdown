@@ -1,7 +1,7 @@
 ---
 title: "Zeying Yao"
 description: "Zeying Yao is a Mid-career Soil Carbon researcher at Gansu Agricultural University in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.179094
+date: 2026-08-11T01:33:12.063866
 url: "/cdr-researcher-census/researchers/zeying-yao-a5035893/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Climate factors regulate the depth dependency of soil organic carbon under grazing exclusion in Chinese grasslands: A meta‐analysis** (2023)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 ## External Profiles
 

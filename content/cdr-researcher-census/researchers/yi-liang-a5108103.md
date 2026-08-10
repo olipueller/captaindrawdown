@@ -1,7 +1,7 @@
 ---
 title: "Yi Liang"
 description: "Yi Liang is a Senior Biochar researcher at Shandong University in CN. With 50 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.583485
+date: 2026-08-11T01:33:11.514913
 url: "/cdr-researcher-census/researchers/yi-liang-a5108103/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Construction of adsorption-oxidation bifunction-oriented sludge biochar for non-radical ofloxacin degradation via persulfate: Emphasizing the important role of N-species and graphitized structure** (2024)
-   23 citations · Biochar
+   24 citations · Biochar
 
 2. **Oxidative hydrothermal carbonization to fabricate versatile magnetic biochar for Fenton-like degradation of phenolic compounds** (2024)
    16 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Runze Yu"
 description: "Runze Yu is a Mid-career Soil Carbon researcher at California State University Fresno in US. With 28 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.477415
+date: 2026-08-11T01:33:11.421133
 url: "/cdr-researcher-census/researchers/runze-yu-a5047784/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    31 citations · Soil Carbon
 
 2. **Site characteristics determine the effectiveness of tillage and cover crops on the net ecosystem carbon balance in California vineyard agroecosystems** (2022)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Pedro Rochedo"
 description: "Pedro Rochedo is a Senior General CDR researcher at Khalifa University of Science and Technology in AE. With 127 publications and an h-index of 33, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.136276
+date: 2026-08-11T01:33:11.114645
 url: "/cdr-researcher-census/researchers/pedro-rochedo-a5013873/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    49 citations · General CDR
 
 3. **Nature‐based solutions are critical for putting Brazil on track towards net‐zero emissions by 2050** (2023)
-   30 citations · General CDR
+   31 citations · General CDR
 
 4. **Calcium looping post-combustion CO2 capture in sugarcane bagasse fuelled power plants** (2021)
    26 citations · General CDR

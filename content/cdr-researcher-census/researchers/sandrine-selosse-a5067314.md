@@ -1,7 +1,7 @@
 ---
 title: "Sandrine Selosse"
 description: "Sandrine Selosse is a Senior General CDR researcher at Mines Paris, Université PSL, Centre de Mathématiques Appliquées (CMA) in FR. With 254 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.324825
+date: 2026-08-11T01:33:11.289726
 url: "/cdr-researcher-census/researchers/sandrine-selosse-a5067314/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,16 +54,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    28 citations · DAC
 
 2. **Feasibility, conditions, and opportunities for achieving net-negative emissions in the global cement industry** (2024)
-   11 citations
+   13 citations
 
 3. **The co-benefits of integrating carbon dioxide removal in the energy system: A review from the prism of natural climate solutions** (2025)
-   4 citations · General CDR
+   5 citations · General CDR
 
 4. **Water use in a sustainable net zero energy system: what are the implications of employing bioenergy with carbon capture and storage?** (2024)
    4 citations · BECCS
 
 5. **Life Cycle Assessment and System Integration of Carbon Dioxide Removal: Addressing Challenges in Environmental Evaluation and Model Representation** (2025)
-   2 citations · General CDR
+   3 citations · General CDR
 
 6. **Deploying Direct Air Capture at Scale: How Close to Reality?** (2023)
    2 citations · DAC

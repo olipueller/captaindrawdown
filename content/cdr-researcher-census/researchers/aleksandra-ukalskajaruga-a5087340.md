@@ -1,7 +1,7 @@
 ---
 title: "Aleksandra Ukalska‐Jaruga"
 description: "Aleksandra Ukalska‐Jaruga is a Senior Soil Carbon researcher at Institute of Soil Science and Plant Cultivation in PL. With 67 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.272740
+date: 2026-08-11T01:33:11.241441
 url: "/cdr-researcher-census/researchers/aleksandra-ukalskajaruga-a5087340/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Dissolved organic carbon in cropland soils: A global meta-analysis of management effects** (2024)
-   53 citations · Soil Carbon
+   56 citations · Soil Carbon
 
 2. **Differential impacts of nitrogen addition on soil dissolved organic carbon in humid and non-humid regions: A global meta-analysis** (2025)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 3. **How Does Specialization in Agricultural Production Affect Soil Health?** (2024)
    7 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Kaitlin T. Raimi"
 description: "Kaitlin T. Raimi is a Senior General CDR researcher at University of Michigan in US. With 44 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.155336
+date: 2026-08-11T01:33:11.132078
 url: "/cdr-researcher-census/researchers/kaitlin-t-raimi-a5008628/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -58,6 +58,9 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 
 3. **Communicating carbon removal** (2023)
    21 citations · General CDR
+
+4. **Naturalness catalyzes public support for carbon dioxide removal and low-carbon energy technologies** (2026)
+   0 citations · General CDR
 
 ## External Profiles
 

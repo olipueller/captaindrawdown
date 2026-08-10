@@ -1,7 +1,7 @@
 ---
 title: "Antonis Kavvadias"
 description: "Antonis Kavvadias is an Early-career Soil Carbon researcher at Agricultural University of Athens in GR. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.479291
+date: 2026-08-11T01:33:12.334074
 url: "/cdr-researcher-census/researchers/antonis-kavvadias-a5022354/"
 layout: "researcher"
 hiddenInHomeList: true

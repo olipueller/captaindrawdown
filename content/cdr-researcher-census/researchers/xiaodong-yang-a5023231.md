@@ -1,7 +1,7 @@
 ---
 title: "Xiaodong Yang"
 description: "Xiaodong Yang is a Senior Biochar researcher at Yangzhou University in CN. With 67 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.178227
+date: 2026-08-11T01:33:11.153565
 url: "/cdr-researcher-census/researchers/xiaodong-yang-a5023231/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    28 citations · Biochar
 
 2. **Efficient removal of cationic malachite green using co-pyrolyzed corn straw biochar-montmorillonite composites** (2025)
-   13 citations · Biochar
+   14 citations · Biochar
 
 3. **Efficient removal of anionic Congo red by hickory-chip/peanut-shell biochar and Mg-Al hydrotalcite composites fabricated via modified co-precipitation-hydrothermal and buried carbon pyrolysis approach** (2025)
    1 citations · Biochar

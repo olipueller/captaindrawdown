@@ -1,7 +1,7 @@
 ---
 title: "Saptaparnee Dey"
 description: "Saptaparnee Dey is a Mid-career Biochar researcher at Indian Council of Agricultural Research in IN. With 15 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.328415
+date: 2026-08-11T01:33:12.195450
 url: "/cdr-researcher-census/researchers/saptaparnee-dey-a5023570/"
 layout: "researcher"
 hiddenInHomeList: true

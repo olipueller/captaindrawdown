@@ -1,7 +1,7 @@
 ---
 title: "Gwen‐Aëlle Grelet"
 description: "Gwen‐Aëlle Grelet is a Senior Soil Carbon researcher at Manaaki Whenua - Landcare Research in NZ. With 35 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.218569
+date: 2026-08-11T01:33:11.191601
 url: "/cdr-researcher-census/researchers/gwenaelle-grelet-a5021815/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Labile carbon inputs support the recovery of bacterial communities, but not fungal communities, from a simulated bovine urine event** (2023)
-   12 citations · Soil Carbon
+   13 citations · Soil Carbon
 
 2. **Labile carbon inputs support the recovery of prokaryotic communities, but not fungal communities, from a simulated bovine urine event.** (2022)
    0 citations

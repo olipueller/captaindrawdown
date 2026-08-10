@@ -1,7 +1,7 @@
 ---
 title: "Rashmita Sharma"
 description: "Rashmita Sharma is an Early-career Soil Carbon researcher at Jawaharlal Nehru University in IN. With 7 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.530507
+date: 2026-08-11T01:33:12.381585
 url: "/cdr-researcher-census/researchers/rashmita-sharma-a5027088/"
 layout: "researcher"
 hiddenInHomeList: true

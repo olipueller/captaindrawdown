@@ -1,7 +1,7 @@
 ---
 title: "Harald Cederlund"
 description: "Harald Cederlund is a Senior Biochar researcher at Swedish University of Agricultural Sciences in SE. With 39 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.252027
+date: 2026-08-11T01:33:11.222454
 url: "/cdr-researcher-census/researchers/harald-cederlund-a5078487/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Modelling biochar long-term carbon storage in soil with harmonized analysis of decomposition data** (2023)
-   80 citations · Biochar
+   86 citations · Biochar
 
 2. **Modelling Biochar Long-Term Carbon Storage in Soil with Harmonized Analysis of Incubation Data** (2023)
    1 citations · Biochar

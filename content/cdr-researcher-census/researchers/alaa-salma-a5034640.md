@@ -1,7 +1,7 @@
 ---
 title: "Alaa Salma"
 description: "Alaa Salma is a Mid-career Biochar researcher at École des Métiers de l’Environnement in FR. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.340897
+date: 2026-08-11T01:33:12.206599
 url: "/cdr-researcher-census/researchers/alaa-salma-a5034640/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Biochar: A Key Player in Carbon Credits and Climate Mitigation** (2024)
-   69 citations · Biochar
+   70 citations · Biochar
 
 ## External Profiles
 

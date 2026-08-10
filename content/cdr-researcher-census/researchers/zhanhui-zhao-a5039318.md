@@ -1,7 +1,7 @@
 ---
 title: "Zhanhui Zhao"
 description: "Zhanhui Zhao is a Mid-career Soil Carbon researcher at Henan University of Urban Construction in CN. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.648374
+date: 2026-08-11T01:33:11.573863
 url: "/cdr-researcher-census/researchers/zhanhui-zhao-a5039318/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of different tillage and fertilization management practices on soil organic carbon and aggregates under the rice–wheat rotation system** (2021)
-   67 citations · Soil Carbon
+   69 citations · Soil Carbon
 
 2. **Organic carbon accumulation and aggregate formation in soils under organic and inorganic fertilizer management practices in a rice–wheat cropping system** (2023)
-   62 citations · Soil Carbon
+   66 citations · Soil Carbon
 
 3. **Effects of Organic and Inorganic Fertilization on Soil Organic Carbon and Enzymatic Activities** (2022)
    42 citations · Soil Carbon
@@ -64,6 +64,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 5. **Spatial-Temporal Variability of Soil Organic Carbon Density and Its Related Factors in Fengqiu County of Yellow River Basin, China: A Model and GIS Technique Approach** (2022)
    3 citations · Soil Carbon
+
+6. **Soil Aggregate-Associated Organic Carbon Cascading Process and Priming Mechanism Affected by Tillage and Organic Amendments** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

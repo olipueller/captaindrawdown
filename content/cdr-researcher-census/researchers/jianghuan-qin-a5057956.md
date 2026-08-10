@@ -1,7 +1,7 @@
 ---
 title: "Jianghuan Qin"
 description: "Jianghuan Qin is a Mid-career Soil Carbon researcher at Institute of Forest Resource Information Techniques in CN. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.173211
+date: 2026-08-11T01:33:12.058589
 url: "/cdr-researcher-census/researchers/jianghuan-qin-a5057956/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    4 citations · Soil Carbon
 
 2. **Effect of soil organic carbon sequestration during subtropical forest succession** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 3. **How do stand attributes, climatic conditions, and soil depth jointly drive annual aboveground biomass increment in subtropical evergreen broadleaved secondary forests of China?** (2026)
    0 citations

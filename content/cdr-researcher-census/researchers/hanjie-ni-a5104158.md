@@ -1,7 +1,7 @@
 ---
 title: "Hanjie Ni"
 description: "Hanjie Ni is a Mid-career Soil Carbon researcher at Jiangxi University of Finance and Economics in CN. With 7 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.227723
+date: 2026-08-11T01:33:12.108276
 url: "/cdr-researcher-census/researchers/hanjie-ni-a5104158/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A high-resolution map of soil organic carbon in cropland of Southern China** (2024)
-   56 citations · Soil Carbon
+   59 citations · Soil Carbon
 
 2. **A high-resolution map of soil organic carbon in cropland of Southern Chinas** (2024)
    0 citations · Soil Carbon

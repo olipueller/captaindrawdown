@@ -1,7 +1,7 @@
 ---
 title: "Deisi Navroski"
 description: "Deisi Navroski is a Mid-career Soil Carbon researcher. With 19 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.338499
+date: 2026-08-11T01:33:12.204533
 url: "/cdr-researcher-census/researchers/deisi-navroski-a5036308/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Linking above and belowground carbon sequestration, soil organic matter properties, and soil health in Brazilian Atlantic Forest restoration** (2023)
-   37 citations · General CDR
+   39 citations · General CDR
 
 ## External Profiles
 

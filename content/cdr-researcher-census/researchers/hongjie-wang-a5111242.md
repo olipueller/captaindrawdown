@@ -1,7 +1,7 @@
 ---
 title: "Hongjie Wang"
 description: "Hongjie Wang is a Senior Ocean CDR researcher at University of Rhode Island Narragansett Bay Campus in US. With 32 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.492803
+date: 2026-08-11T01:33:11.434293
 url: "/cdr-researcher-census/researchers/hongjie-wang-a5111242/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Simulated Impact of Ocean Alkalinity Enhancement on Atmospheric CO<sub>2</sub> Removal in the Bering Sea** (2022)
-   95 citations · General CDR
+   97 citations · General CDR
 
 2. **Enhanced removal of Cu-EDTA in a three-dimensional electrolysis system with highly graphitic activated biochar produced via acidic and K2FeO4 treatment** (2021)
    68 citations · Biochar
@@ -63,7 +63,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    3 citations
 
 5. **Harnessing nature's buffer: Assessing the role of bivalve shells in coastal alkalinity regeneration** (2025)
-   1 citations · Ocean CDR
+   2 citations · Ocean CDR
 
 6. **A decade of marine inorganic carbon chemistry observations in the northern Gulf of Alaska – insights into an environment in transition** (2024)
    1 citations · Ocean CDR

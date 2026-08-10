@@ -1,7 +1,7 @@
 ---
 title: "Ahmed B. Azzam"
 description: "Ahmed B. Azzam is a Senior Biochar researcher at Helwan University in EG. With 16 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.711424
+date: 2026-08-11T01:33:11.630573
 url: "/cdr-researcher-census/researchers/ahmed-b-azzam-a5103095/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Construction of porous biochar decorated with NiS for the removal of ciprofloxacin antibiotic from pharmaceutical wastewaters** (2022)
-   62 citations · Biochar
+   63 citations · Biochar
 
 2. **Construction of Porous Biochar Decorated with Nis for the Removal of Ciprofloxacin Antibiotic from Pharmaceutical Wastewaters: Preparations, Characterization, and Adsorption Mechanism Studies** (2022)
    2 citations · Biochar

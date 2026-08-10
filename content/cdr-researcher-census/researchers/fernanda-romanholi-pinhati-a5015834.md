@@ -1,7 +1,7 @@
 ---
 title: "Fernanda Romanholi Pinhati"
 description: "Fernanda Romanholi Pinhati is a Mid-career Biochar researcher. With 18 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.188641
+date: 2026-08-11T01:33:12.072447
 url: "/cdr-researcher-census/researchers/fernanda-romanholi-pinhati-a5015834/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Prospective Life Cycle Assessment Prospective (LCA) of Activated Carbon Production, Derived from Banana Peel Waste for Methylene Blue Removal** (2024)
-   29 citations · Biochar
+   31 citations · Biochar
 
 ## External Profiles
 

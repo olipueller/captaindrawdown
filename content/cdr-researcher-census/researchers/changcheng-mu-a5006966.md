@@ -1,7 +1,7 @@
 ---
 title: "Changcheng Mu"
 description: "Changcheng Mu is a Senior Soil Carbon researcher at Northeast Forestry University in CN. With 61 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.680567
+date: 2026-08-11T01:33:11.602162
 url: "/cdr-researcher-census/researchers/changcheng-mu-a5006966/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Ecosystem carbon storage and sink/source of temperate forested wetlands in Xiaoxing’anling, northeast China** (2021)
-   32 citations · Soil Carbon
+   33 citations · Soil Carbon
 
 2. **Responses of seven wetlands carbon sources and sinks to permafrost degradation in Northeast China** (2022)
    8 citations · Soil Carbon

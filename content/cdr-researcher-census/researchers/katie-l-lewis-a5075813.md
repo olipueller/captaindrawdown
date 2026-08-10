@@ -1,7 +1,7 @@
 ---
 title: "Katie L. Lewis"
 description: "Katie L. Lewis is a Senior Soil Carbon researcher at Texas A&M AgriLife Research in US. With 64 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.275900
+date: 2026-08-11T01:33:11.244366
 url: "/cdr-researcher-census/researchers/katie-l-lewis-a5075813/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,10 +53,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Carbon sequestration and water management in Texas—One size does not fit all** (2023)
    12 citations · General CDR
 
-2. **A Review of Regenerative Agriculture in Cotton Production Systems Across the Semi-Arid Texas High Plains** (2026)
-   0 citations · Soil Carbon
+2. **Mitigating carbon dioxide emissions from Texas Plains cotton production through regenerative agriculture** (2025)
+   1 citations · Soil Carbon
 
-3. **Mitigating carbon dioxide emissions from Texas Plains cotton production through regenerative agriculture** (2025)
+3. **A Review of Regenerative Agriculture in Cotton Production Systems Across the Semi-Arid Texas High Plains** (2026)
    0 citations · Soil Carbon
 
 4. **Mitigating Carbon Dioxide Emissions From Texas Plains Cotton Production Through Regenerative Agriculture** (2025)

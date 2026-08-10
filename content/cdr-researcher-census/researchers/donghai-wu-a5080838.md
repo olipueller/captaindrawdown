@@ -1,7 +1,7 @@
 ---
 title: "Donghai Wu"
 description: "Donghai Wu is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 83 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.105598
+date: 2026-08-11T01:33:11.085315
 url: "/cdr-researcher-census/researchers/donghai-wu-a5080838/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Carbon sequestration and storage capacity of Chinese fir at different stand ages** (2023)
-   56 citations · Soil Carbon
+   58 citations · Soil Carbon
 
 2. **Long‐term warming increased carbon sequestration capacity in a humid subtropical forest** (2023)
-   37 citations
+   38 citations
 
 3. **Roots Dominate Over Extraradical Hyphae in Driving Soil Organic Carbon Accumulation During Tropical Forest Succession** (2025)
-   11 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 4. **Cross-scale spatial variability and associations of carbon pools provide insight into regulating carbon sequestration in tropical montane rainforests** (2024)
    5 citations · Soil Carbon

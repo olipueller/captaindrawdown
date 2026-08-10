@@ -1,7 +1,7 @@
 ---
 title: "Bohan Cheng"
 description: "Bohan Cheng is a Mid-career Soil Carbon researcher at Shandong Academy of Agricultural Sciences in CN. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.723761
+date: 2026-08-11T01:33:11.641533
 url: "/cdr-researcher-census/researchers/bohan-cheng-a5085733/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Enhancing soil organic carbon fixation with modified bentonite composites** (2025)
-   2 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 ## External Profiles
 

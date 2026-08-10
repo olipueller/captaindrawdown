@@ -1,7 +1,7 @@
 ---
 title: "Jitong Lin"
 description: "Jitong Lin is a Mid-career Biochar researcher at Shenzhen Maternity and Child Healthcare Hospital in CN. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.516728
+date: 2026-08-11T01:33:12.369115
 url: "/cdr-researcher-census/researchers/jitong-lin-a5017854/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Interactive effects of warming and drought on soil organic carbon sequestration and methane uptake in straw and biochar amended soils: Mechanisms and global implications** (2025)
-   5 citations · Biochar
+   7 citations · Biochar
 
 ## External Profiles
 

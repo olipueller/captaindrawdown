@@ -1,7 +1,7 @@
 ---
 title: "Zongmu Yao"
 description: "Zongmu Yao is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.757385
+date: 2026-08-11T01:33:11.671800
 url: "/cdr-researcher-census/researchers/zongmu-yao-a5082504/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Positive effect of carbohydrate-metabolizing bacteria determines increasing soil organic carbon during long-term fertilization and straw returning in the black soil region of China** (2023)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 2. **Metagenomic Analysis of Soil Autotrophic Microbial Carbon Fixation in a Maize-Bupleurum Intercropping System** (2026)
    0 citations

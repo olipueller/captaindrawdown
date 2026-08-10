@@ -1,7 +1,7 @@
 ---
 title: "Cassendra P. C. Bong"
 description: "Cassendra P. C. Bong is a Mid-career Biochar researcher at University of Technology Malaysia in MY. With 12 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.697351
+date: 2026-08-11T01:33:11.617601
 url: "/cdr-researcher-census/researchers/cassendra-p-c-bong-a5110655/"
 layout: "researcher"
 hiddenInHomeList: true

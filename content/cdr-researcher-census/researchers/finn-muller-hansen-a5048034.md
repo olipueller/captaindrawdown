@@ -1,7 +1,7 @@
 ---
 title: "Finn Müller-Hansen"
 description: "Finn Müller-Hansen is a Mid-career General CDR researcher at Potsdam Institute for Climate Impact Research in DE. With 70 publications and an h-index of 18, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.207766
+date: 2026-08-11T01:33:11.181203
 url: "/cdr-researcher-census/researchers/finn-muller-hansen-a5048034/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Technological innovation enables low cost climate change mitigation** (2023)
-   49 citations · General CDR
+   54 citations · General CDR
 
 2. **Dataset on the adoption of historical technologies informs the scale-up of emerging carbon dioxide removal measures** (2023)
-   40 citations · General CDR
+   41 citations · General CDR
 
 3. **Scientific literature on carbon dioxide removal revealed as much larger through AI-enhanced systematic mapping** (2025)
-   13 citations · General CDR
+   14 citations · General CDR
 
 4. **Scientific literature on carbon dioxide removal much larger than previously suggested: insights from an AI-enhanced systematic map** (2024)
    7 citations · General CDR
@@ -74,11 +74,11 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 8. **Tweets on carbon dioxide removal** (2023)
    1 citations
 
-9. **Chapter 6: Perceptions and Communication, The State of Carbon Dioxide Removal - 3rd Edition (2026)** (2026)
+9. **Chapter 6: Perceptions and Communication, The State of Carbon Dioxide Removal** (2026)
    0 citations · General CDR
 
-10. **Growth Rates of Technologies in the Historical Adoption of Technologies (HATCH) Dataset** (2023)
-   0 citations
+10. **Chapter 6: Perceptions and Communication, The State of Carbon Dioxide Removal - 3rd Edition (2026)** (2026)
+   0 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Hanna-Mari Ahonen"
 description: "Hanna-Mari Ahonen is a Mid-career General CDR researcher. With 21 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.092508
+date: 2026-08-11T01:33:11.984605
 url: "/cdr-researcher-census/researchers/hanna-mari-ahonen-a5036424/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Who Is Paying for Carbon Dioxide Removal? Designing Policy Instruments for Mobilizing Negative Emissions Technologies** (2021)
-   88 citations · General CDR
+   90 citations · General CDR
 
 2. **Sewage treatment for the skies: mobilising carbon dioxide removal through public policies and private financing** (2021)
    5 citations · General CDR

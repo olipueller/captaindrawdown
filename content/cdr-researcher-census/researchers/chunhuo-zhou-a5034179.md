@@ -1,7 +1,7 @@
 ---
 title: "Chunhuo Zhou"
 description: "Chunhuo Zhou is a Senior Biochar researcher at Ministry of Natural Resources in CN. With 47 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.517631
+date: 2026-08-11T01:33:11.455843
 url: "/cdr-researcher-census/researchers/chunhuo-zhou-a5034179/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Effects of straw returning after anaerobic microbial pretreatment on soil carbon sequestration and emission reduction** (2025)
-   6 citations · Soil Carbon
+   7 citations · Soil Carbon
 
-2. **Selenium-Modified Biochar Synergistically Achieves the Safe Use of Selenium and the Inhibition of Heavy Metal Cadmium** (2025)
-   3 citations · Biochar
+2. **Fungal Necromass Carbon Stabilizes Rhizosphere Soil Organic Carbon: Microbial Degradation Gene Insights Under Straw and Biochar** (2025)
+   4 citations · Biochar
 
-3. **Fungal Necromass Carbon Stabilizes Rhizosphere Soil Organic Carbon: Microbial Degradation Gene Insights Under Straw and Biochar** (2025)
-   2 citations · Biochar
+3. **Selenium-Modified Biochar Synergistically Achieves the Safe Use of Selenium and the Inhibition of Heavy Metal Cadmium** (2025)
+   4 citations · Biochar
 
 ## External Profiles
 

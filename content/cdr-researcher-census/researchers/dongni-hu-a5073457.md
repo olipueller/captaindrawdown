@@ -1,7 +1,7 @@
 ---
 title: "Dongni Hu"
 description: "Dongni Hu is a Mid-career Biochar researcher at Jinan University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.511294
+date: 2026-08-11T01:33:12.363875
 url: "/cdr-researcher-census/researchers/dongni-hu-a5073457/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    26 citations · Biochar
 
 2. **Biochar mitigates greenhouse gas emissions from bulk soil in wheat-corn rotation system by inhibiting biochemical decomposition** (2025)
-   14 citations · Biochar
+   15 citations · Biochar
 
 ## External Profiles
 

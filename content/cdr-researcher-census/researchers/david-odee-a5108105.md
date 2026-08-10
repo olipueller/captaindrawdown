@@ -1,7 +1,7 @@
 ---
 title: "David Odee"
 description: "David Odee is a Senior BECCS researcher at UK Centre for Ecology & Hydrology in GB. With 18 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.278933
+date: 2026-08-11T01:33:11.247201
 url: "/cdr-researcher-census/researchers/david-odee-a5108105/"
 layout: "researcher"
 hiddenInHomeList: true

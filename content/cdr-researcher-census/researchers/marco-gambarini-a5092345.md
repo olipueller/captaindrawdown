@@ -1,7 +1,7 @@
 ---
 title: "Marco Gambarini"
 description: "Marco Gambarini is an Early-career BECCS researcher at Centro Euro-Mediterraneo sui Cambiamenti Climatici in IT. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.194479
+date: 2026-08-11T01:33:12.078179
 url: "/cdr-researcher-census/researchers/marco-gambarini-a5092345/"
 layout: "researcher"
 hiddenInHomeList: true

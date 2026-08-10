@@ -1,7 +1,7 @@
 ---
 title: "Usama Asghar"
 description: "Usama Asghar is an Early-career General CDR researcher at Mirpur University of Science and Technology in PK. With 2 publications and an h-index of 1, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.882898
+date: 2026-08-11T01:33:11.783909
 url: "/cdr-researcher-census/researchers/usama-asghar-a5041003/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Review on the progress in emission control technologies for the abatement of CO2, SOx and NOx from fuel combustion** (2021)
-   280 citations · General CDR
+   284 citations · General CDR
 
 ## External Profiles
 

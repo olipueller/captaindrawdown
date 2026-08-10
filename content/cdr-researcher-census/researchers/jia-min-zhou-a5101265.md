@@ -1,7 +1,7 @@
 ---
 title: "Jia-Min Zhou"
 description: "Jia-Min Zhou is a Mid-career Biochar researcher at Chang'an University in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.093751
+date: 2026-08-11T01:33:11.985800
 url: "/cdr-researcher-census/researchers/jia-min-zhou-a5101265/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Insights into the effect of biochar on single-stage partial denitrification/anaerobic ammonium oxidation process: Nitrogen removal performance and mechanism** (2026)
-   0 citations · Biochar
+   2 citations · Biochar
 
 ## External Profiles
 

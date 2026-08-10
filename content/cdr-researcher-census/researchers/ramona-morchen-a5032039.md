@@ -1,7 +1,7 @@
 ---
 title: "Ramona Mörchen"
 description: "Ramona Mörchen is a Mid-career Soil Carbon researcher at University of Bonn in DE. With 27 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.851048
+date: 2026-08-11T01:33:11.754450
 url: "/cdr-researcher-census/researchers/ramona-morchen-a5032039/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Declining total carbon stocks in carbonate-containing agricultural soils over a 62-year recultivation chronosequence under humid conditions** (2022)
-   14 citations · Soil Carbon
+   15 citations · Soil Carbon
 
 2. **Soil Fertility and Maize Residue Quality All Effect the Exogenous Carbon Sequestration Only in the Short Term in Macroaggregates, but Not in Microaggregates** (2025)
    1 citations · Soil Carbon
+
+3. **Possible fertile island effect influenced by native plants that have differential controls on soil properties in the Atacama Desert** (2026)
+   0 citations
 
 ## External Profiles
 

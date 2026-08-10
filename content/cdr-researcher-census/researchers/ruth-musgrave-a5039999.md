@@ -1,7 +1,7 @@
 ---
 title: "Ruth Musgrave"
 description: "Ruth Musgrave is a Senior Ocean CDR researcher at Dalhousie University in CA. With 59 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.200587
+date: 2026-08-11T01:33:11.174602
 url: "/cdr-researcher-census/researchers/ruth-musgrave-a5039999/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Modelling considerations for research on ocean alkalinity enhancement (OAE)** (2023)
-   37 citations · General CDR
+   38 citations · General CDR
 
 2. **Modeling considerations for research on Ocean Alkalinity Enhancement (OAE)** (2023)
    21 citations · General CDR

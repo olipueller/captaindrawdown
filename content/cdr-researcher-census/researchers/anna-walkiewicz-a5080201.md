@@ -1,7 +1,7 @@
 ---
 title: "Anna Walkiewicz"
 description: "Anna Walkiewicz is a Mid-career Soil Carbon researcher at Institute of Agrophysics, Polish Academy of Sciences in PL. With 51 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.390078
+date: 2026-08-11T01:33:11.346045
 url: "/cdr-researcher-census/researchers/anna-walkiewicz-a5080201/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Variation in methane uptake by grassland soils in the context of climate change – A review of effects and mechanisms** (2023)
-   49 citations · Soil Carbon
+   52 citations · Soil Carbon
 
 2. **Biochar dose determines methane uptake and methanotroph abundance in Haplic Luvisol** (2021)
    45 citations · Biochar
 
 3. **How Can Litter Modify the Fluxes of CO2 and CH4 from Forest Soils? A Mini-Review** (2021)
-   27 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 4. **Variations in Soil Properties and CO2 Emissions of a Temperate Forest Gully Soil along a Topographical Gradient** (2021)
    9 citations · Soil Carbon

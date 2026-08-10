@@ -1,7 +1,7 @@
 ---
 title: "Sarah B. Ørberg"
 description: "Sarah B. Ørberg is a Mid-career Biochar researcher at Aarhus University in DK. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.574163
+date: 2026-08-11T01:33:11.506757
 url: "/cdr-researcher-census/researchers/sarah-b-rberg-a5046332/"
 layout: "researcher"
 hiddenInHomeList: true

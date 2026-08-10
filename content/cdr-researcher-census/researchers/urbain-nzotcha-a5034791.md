@@ -1,7 +1,7 @@
 ---
 title: "Urbain Nzotcha"
 description: "Urbain Nzotcha is a Mid-career General CDR researcher at Forschungszentrum Jülich in DE. With 22 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.716569
+date: 2026-08-11T01:33:11.635428
 url: "/cdr-researcher-census/researchers/urbain-nzotcha-a5034791/"
 layout: "researcher"
 hiddenInHomeList: true

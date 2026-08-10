@@ -1,7 +1,7 @@
 ---
 title: "Jon K. Golla"
 description: "Jon K. Golla is a Mid-career Enhanced Weathering researcher at University of Illinois Urbana-Champaign in US. With 29 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.575074
+date: 2026-08-11T01:33:12.417257
 url: "/cdr-researcher-census/researchers/jon-k-golla-a5056739/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Deep Roots Supply Reactivity and Enhance Silicate Weathering in the Bedrock Vadose Zone** (2025)
-   4 citations · Enhanced Weathering
+   5 citations · Enhanced Weathering
 
 2. **Mineral properties identified as most influential drivers of mineral-associated organic carbon formation using a community-based sorption database** (2026)
    0 citations · Soil Carbon

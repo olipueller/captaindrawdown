@@ -1,7 +1,7 @@
 ---
 title: "Zhiyuan Huang"
 description: "Zhiyuan Huang is a Senior Soil Carbon researcher at National Agricultural Research Institute in PG. With 39 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.666559
+date: 2026-08-11T01:33:11.590090
 url: "/cdr-researcher-census/researchers/zhiyuan-huang-a5009750/"
 layout: "researcher"
 hiddenInHomeList: true

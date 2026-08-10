@@ -1,7 +1,7 @@
 ---
 title: "Klaus Radunsky"
 description: "Klaus Radunsky is a Senior General CDR researcher at Austrian Standards in AT. With 18 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.100107
+date: 2026-08-11T01:33:11.991258
 url: "/cdr-researcher-census/researchers/klaus-radunsky-a5046113/"
 layout: "researcher"
 hiddenInHomeList: true

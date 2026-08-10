@@ -1,7 +1,7 @@
 ---
 title: "Ruiqiang Liu"
 description: "Ruiqiang Liu is a Senior Soil Carbon researcher at Northeast Forestry University in CN. With 86 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.128477
+date: 2026-08-11T01:33:11.107139
 url: "/cdr-researcher-census/researchers/ruiqiang-liu-a5102766/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Temperature and Rainfall Patterns Constrain the Multidimensional Rewilding of Global Forests** (2022)
-   44 citations · Soil Carbon
+   45 citations · Soil Carbon
 
 2. **Antagonistic interaction between biochar and nitrogen addition on soil greenhouse gas fluxes: A global synthesis** (2021)
    29 citations · Biochar

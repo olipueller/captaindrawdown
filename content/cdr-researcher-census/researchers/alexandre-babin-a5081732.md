@@ -1,7 +1,7 @@
 ---
 title: "Alexandre Babin"
 description: "Alexandre Babin is a Mid-career BECCS researcher at Metabolism and Renal Physiology in FR. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.596582
+date: 2026-08-11T01:33:11.527106
 url: "/cdr-researcher-census/researchers/alexandre-babin-a5081732/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Potential and challenges of bioenergy with carbon capture and storage as a carbon-negative energy source: A review** (2021)
-   194 citations · BECCS
+   197 citations · BECCS
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Alan Rodrigues Teixeira Machado"
 description: "Alan Rodrigues Teixeira Machado is a Senior Biochar researcher at Universidade do Estado de Minas Gerais in BR. With 93 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.542211
+date: 2026-08-11T01:33:11.477886
 url: "/cdr-researcher-census/researchers/alan-rodrigues-teixeira-machado-a5039928/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Assessment of the ecotoxicity of extracts from sugarcane bagasse biochars activated with zinc chloride** (2024)
-   11 citations · Biochar
+   12 citations · Biochar
 
 2. **Effect of Pyrolysis Temperature on the Production of Biochar and Biomethanol from Sugarcane Bagasse** (2024)
    7 citations · Biochar
 
 3. **Pilot-scale production of biochar from eucalyptus wood chips for carbon sequestration** (2025)
-   4 citations · Biochar
+   5 citations · Biochar
 
 4. **Pyrolysis converts urban pruning waste into biochar with soil and climate benefits** (2025)
    2 citations · Biochar

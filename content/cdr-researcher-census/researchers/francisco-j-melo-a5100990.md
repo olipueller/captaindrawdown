@@ -1,7 +1,7 @@
 ---
 title: "Francisco J. Melo"
 description: "Francisco J. Melo is a Mid-career Soil Carbon researcher. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.909077
+date: 2026-08-11T01:33:11.807758
 url: "/cdr-researcher-census/researchers/francisco-j-melo-a5100990/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Pontederia sagittata and Cyperus papyrus contribution to carbon storage in floating treatment wetlands established in subtropical urban ponds** (2022)
-   18 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 ## External Profiles
 

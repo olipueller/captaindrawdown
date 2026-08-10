@@ -1,7 +1,7 @@
 ---
 title: "Etelvina Lucas dos Santos"
 description: "Etelvina Lucas dos Santos is a Senior General CDR researcher at Centro Universitário Cesumar in BR. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.857372
+date: 2026-08-11T01:33:11.760061
 url: "/cdr-researcher-census/researchers/etelvina-lucas-dos-santos-a5078250/"
 layout: "researcher"
 hiddenInHomeList: true

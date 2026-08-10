@@ -1,7 +1,7 @@
 ---
 title: "Qinyang Li"
 description: "Qinyang Li is a Mid-career Biochar researcher at China Leather and Footwear Industry Research Institute in CN. With 7 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.444713
+date: 2026-08-11T01:33:12.302696
 url: "/cdr-researcher-census/researchers/qinyang-li-a5066612/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Resource utilization of tannery sludge to prepare biochar as persulfate activators for highly efficient degradation of tetracycline** (2022)
-   25 citations · Biochar
+   26 citations · Biochar
 
 ## External Profiles
 

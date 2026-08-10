@@ -1,7 +1,7 @@
 ---
 title: "Wim Carton"
 description: "Wim Carton is a Senior General CDR researcher at Lund University Samhällsvetenskapliga fakulteten in SE. With 59 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.180063
+date: 2026-08-11T01:33:11.155179
 url: "/cdr-researcher-census/researchers/wim-carton-a5059900/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Why residual emissions matter right now** (2023)
-   180 citations · General CDR
+   183 citations · General CDR
 
 2. **Is carbon removal delaying emission reductions?** (2023)
-   119 citations · General CDR
+   122 citations · General CDR
 
 3. **Net zero and the unexplored politics of residual emissions** (2023)
-   67 citations · General CDR
+   68 citations · General CDR
 
 4. **What ‘climate positive future’? Emerging sociotechnical imaginaries of negative emissions in Sweden** (2021)
-   43 citations · General CDR
+   44 citations · General CDR
 
 5. **Seize the Means of Carbon Removal: The Political Economy of Direct Air Capture** (2021)
    41 citations · DAC
 
 6. **Over-reliance on land for carbon dioxide removal in net-zero climate pledges** (2024)
-   35 citations · General CDR
+   39 citations · General CDR
 
 7. **Why Residual Emissions Matter Right Now** (2022)
    11 citations · General CDR

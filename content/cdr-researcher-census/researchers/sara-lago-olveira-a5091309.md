@@ -1,7 +1,7 @@
 ---
 title: "Sara Lago-Olveira"
 description: "Sara Lago-Olveira is a Mid-career General CDR researcher at Universidade de Santiago de Compostela in ES. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.450099
+date: 2026-08-11T01:33:12.307255
 url: "/cdr-researcher-census/researchers/sara-lago-olveira-a5091309/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
    6 citations · General CDR
 
 3. **Sustainable vineyard management: Assessing the environmental impact of vermicompost compared over mineral fertilizers** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 4. **A comprehensive environmental analysis of olive oil production in Apulia, Italy** (2025)
    1 citations

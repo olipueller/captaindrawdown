@@ -1,7 +1,7 @@
 ---
 title: "Lennel A. Camuy‐Vélez"
 description: "Lennel A. Camuy‐Vélez is a Mid-career Soil Carbon researcher at North Dakota State University in US. With 9 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.098809
+date: 2026-08-11T01:33:11.990155
 url: "/cdr-researcher-census/researchers/lennel-a-camuyvelez-a5058366/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Microbial dynamics during in-situ organic matter decomposition reveals the importance of keystone taxa in the core microbiome** (2024)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 ## External Profiles
 

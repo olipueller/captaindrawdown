@@ -1,7 +1,7 @@
 ---
 title: "Xunzhang Pan"
 description: "Xunzhang Pan is a Senior General CDR researcher at Shenzhen Institute of Information Technology in CN. With 64 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.193534
+date: 2026-08-11T01:33:11.168035
 url: "/cdr-researcher-census/researchers/xunzhang-pan-a5091445/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Accelerating carbon neutrality could help China's energy system align with below 1.5 °C** (2023)
-   41 citations · General CDR
+   42 citations · General CDR
 
 2. **Assessing CCS development uncertainties in China's energy system aligned with carbon neutrality** (2025)
    11 citations · General CDR

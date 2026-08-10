@@ -1,7 +1,7 @@
 ---
 title: "Jubil Joy"
 description: "Jubil Joy is a Mid-career DAC researcher at University of Alberta in CA. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.410615
+date: 2026-08-11T01:33:12.270442
 url: "/cdr-researcher-census/researchers/jubil-joy-a5113404/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -47,7 +47,10 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 
 ## Top CDR Publications
 
-1. **Advancing synthetic fuel technology: A model study for the integration of direct air carbon capture and diesel synthesis** (2026)
+1. **Net-negative emission methanol from direct air capture and water electrolysis: A comprehensive analysis of multiple energy pathways** (2026)
+   0 citations · DAC
+
+2. **Advancing synthetic fuel technology: A model study for the integration of direct air carbon capture and diesel synthesis** (2026)
    0 citations · DAC
 
 ## External Profiles

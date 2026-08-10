@@ -1,7 +1,7 @@
 ---
 title: "Chao Xiao"
 description: "Chao Xiao is a Mid-career Soil Carbon researcher at Ministry of Agriculture and Rural Affairs in CN. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.445801
+date: 2026-08-11T01:33:11.394977
 url: "/cdr-researcher-census/researchers/chao-xiao-a5013389/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Optimizing drip irrigation and nitrogen fertilization regimes to reduce greenhouse gas emissions, increase net ecosystem carbon budget and reduce carbon footprint in saline cotton fields** (2024)
-   57 citations · Soil Carbon
+   61 citations · Soil Carbon
 
 2. **Upland switchgrass enhances phytoremediation and promotes carbon sequestration in cadmium-contaminated soils** (2025)
    0 citations · Soil Carbon

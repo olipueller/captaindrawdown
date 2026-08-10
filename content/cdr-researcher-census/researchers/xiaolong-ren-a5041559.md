@@ -1,7 +1,7 @@
 ---
 title: "Xiaolong Ren"
 description: "Xiaolong Ren is a Mid-career Soil Carbon researcher at Xi'an Polytechnic University in CN. With 32 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.492926
+date: 2026-08-11T01:33:11.434396
 url: "/cdr-researcher-census/researchers/xiaolong-ren-a5041559/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,7 +57,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    18 citations · Soil Carbon
 
 3. **Can straw recycling achieve sustainable agriculture at the smallholder level? A case in a semi-arid region** (2024)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 4. **Enhancing carbon sequestration and greenhouse gas mitigation in semiarid farmland: The promising role of biochar application with biodegradable film mulching** (2023)
    9 citations · Biochar

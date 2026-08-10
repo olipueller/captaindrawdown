@@ -1,7 +1,7 @@
 ---
 title: "Jie Shen"
 description: "Jie Shen is a Senior Soil Carbon researcher at Institute of Soil Science in CN. With 49 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.538410
+date: 2026-08-11T01:33:11.474589
 url: "/cdr-researcher-census/researchers/jie-shen-a5004762/"
 layout: "researcher"
 hiddenInHomeList: true

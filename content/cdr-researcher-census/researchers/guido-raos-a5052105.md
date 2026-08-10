@@ -1,7 +1,7 @@
 ---
 title: "Guido Raos"
 description: "Guido Raos is a Senior Ocean CDR researcher at Politecnico di Milano in IT. With 166 publications and an h-index of 34, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.132041
+date: 2026-08-11T01:33:11.110519
 url: "/cdr-researcher-census/researchers/guido-raos-a5052105/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
    12 citations
 
 2. **Techno-economic evaluation of buffered accelerated weathering of limestone as a CO2 capture and storage option** (2023)
-   10 citations · Enhanced Weathering
+   11 citations · Enhanced Weathering
 
 3. **The response of phytoplankton to pH-equilibrated ocean alkalinization: A mesocosm experiment with harbour waters** (2025)
    6 citations · Ocean CDR
@@ -65,7 +65,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 5. **Ocean liming in eutrophic vs. ultraoligotrophic environments and the response of algal calcifiers** (2024)
    1 citations · General CDR
 
-6. **Bipolar Membrane Electrodialysis for Ocean Alkalinity Enhancement: Configuration feasibility and CO2 injection pathways** (2026)
+6. **Regional seawater-chemistry controls on ocean alkalinity enhancement efficiency: Carbonate precipitation risk under pH-equilibrated OAE** (2026)
    0 citations · Ocean CDR
 
 7. **Bipolar Membrane Electrodialysis for Ocean Alkalinity Enhancement: Configuration feasibility and CO2 injection pathways** (2026)
@@ -77,7 +77,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 9. **Bipolar Membrane Electrodialysis for Ocean Alkalinity Enhancement: Configuration feasibility and CO2 injection pathways** (2026)
    0 citations · Ocean CDR
 
-10. **pH-Equilibrated Ocean Alkalinization: Mesoscale Evaluation of Long-Term Stability ** (2026)
+10. **Bipolar Membrane Electrodialysis for Ocean Alkalinity Enhancement: Configuration feasibility and CO2 injection pathways** (2026)
    0 citations · Ocean CDR
 
 ## External Profiles

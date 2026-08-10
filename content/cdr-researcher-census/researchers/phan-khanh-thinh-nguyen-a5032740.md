@@ -1,7 +1,7 @@
 ---
 title: "Phan Khanh Thinh Nguyen"
 description: "Phan Khanh Thinh Nguyen is a Mid-career Biochar researcher at Gachon University in KR. With 40 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.410481
+date: 2026-08-11T01:33:11.364051
 url: "/cdr-researcher-census/researchers/phan-khanh-thinh-nguyen-a5032740/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Exploring algae-based biochar strategies for adsorptive removal of antibiotics: a green leap towards environmental sustainability** (2025)
-   6 citations · Biochar
+   9 citations · Biochar
 
 2. **Recent advances in biochar-integrated microbial fuel cells for energy recovery and environmental remediation** (2026)
    0 citations · Biochar

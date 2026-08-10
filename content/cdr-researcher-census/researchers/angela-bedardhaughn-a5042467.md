@@ -1,7 +1,7 @@
 ---
 title: "Angela Bedard‐Haughn"
 description: "Angela Bedard‐Haughn is a Senior Soil Carbon researcher at University of Saskatchewan in CA. With 99 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.185686
+date: 2026-08-11T01:33:11.160357
 url: "/cdr-researcher-census/researchers/angela-bedardhaughn-a5042467/"
 layout: "researcher"
 hiddenInHomeList: true

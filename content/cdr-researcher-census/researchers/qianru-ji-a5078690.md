@@ -1,7 +1,7 @@
 ---
 title: "Qianru Ji"
 description: "Qianru Ji is a Mid-career Soil Carbon researcher at Zhejiang A & F University in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.426434
+date: 2026-08-11T01:33:12.284603
 url: "/cdr-researcher-census/researchers/qianru-ji-a5078690/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -59,14 +59,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **Tree diversity-related soil P accumulation in high latitude temperate forests of China is regulated by soil C and N amounts as well as microbial network and denitrification genes** (2025)
    3 citations · Soil Carbon
 
-4. **SOC sequestration, N and P retention in mineral soils depend on arbuscular mycorrhizal tree dominance and soil microbial traits** (2025)
+4. **Tree spatial arrangement and size outweigh species diversity in regulating soil particulate and mineral-associated carbon accrual: mediated by soil properties and microbes** (2026)
+   2 citations
+
+5. **SOC sequestration, N and P retention in mineral soils depend on arbuscular mycorrhizal tree dominance and soil microbial traits** (2025)
    2 citations · Soil Carbon
 
-5. **Tree spatial arrangement and size outweigh species diversity in regulating soil particulate and mineral-associated carbon accrual: mediated by soil properties and microbes** (2026)
-   1 citations
-
 6. **Rhizosphere affects the accrual of aggregate-associated soil organic carbon and its fractions across four dominant tree species in Northeast China** (2025)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 7. **Diverse Litter and Suitable Tree Species Increased Activation Energy for Soil Respiration in Black Soils in China** (2025)
    0 citations · Soil Carbon

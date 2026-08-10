@@ -1,7 +1,7 @@
 ---
 title: "Johanna Hoppe"
 description: "Johanna Hoppe is an Early-career General CDR researcher at Leibniz Association in DE. With 15 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.375951
+date: 2026-08-11T01:33:12.238186
 url: "/cdr-researcher-census/researchers/johanna-hoppe-a5108609/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Multiple pathways towards sustainable development goals and climate targets** (2024)
-   33 citations · General CDR
+   37 citations · General CDR
 
 2. **FEED Study of CarbonCapture Inc DAC and CarbonCure Utilization Technologies Using United States Steel’s Gary Works Plant Waste Heat (Final Report)** (2024)
    1 citations · DAC

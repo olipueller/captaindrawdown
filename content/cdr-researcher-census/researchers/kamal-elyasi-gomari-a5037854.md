@@ -1,7 +1,7 @@
 ---
 title: "Kamal Elyasi Gomari"
 description: "Kamal Elyasi Gomari is a Mid-career Enhanced Weathering researcher at Teesside University in GB. With 9 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.250520
+date: 2026-08-11T01:33:12.129179
 url: "/cdr-researcher-census/researchers/kamal-elyasi-gomari-a5037854/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    59 citations · Enhanced Weathering
 
 2. **Biochar from brown algae: Production, activation, and characterisation** (2023)
-   21 citations · Biochar
+   23 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Sarath C. Gowd"
 description: "Sarath C. Gowd is a Mid-career General CDR researcher at University of Borås in SE. With 35 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.534321
+date: 2026-08-11T01:33:11.470708
 url: "/cdr-researcher-census/researchers/sarath-c-gowd-a5063509/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Bioenergy with carbon capture, storage and utilization: Potential technologies to mitigate climate change** (2023)
-   32 citations · BECCS
+   34 citations · BECCS
 
 2. **RETRACTED: Production of biochar from tropical fruit tree residues and ecofriendly applications – A review** (2023)
    30 citations · Biochar

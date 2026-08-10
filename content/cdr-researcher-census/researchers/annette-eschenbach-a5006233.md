@@ -1,7 +1,7 @@
 ---
 title: "Annette Eschenbach"
 description: "Annette Eschenbach is a Senior Biochar researcher at Universität Hamburg in DE. With 127 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.280898
+date: 2026-08-11T01:33:11.249117
 url: "/cdr-researcher-census/researchers/annette-eschenbach-a5006233/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,18 +51,18 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Factors controlling soil organic carbon stocks in hardwood floodplain forests of the lower middle Elbe River** (2021)
-   31 citations · Soil Carbon
+   32 citations · Soil Carbon
 
 2. **Pyrogenic carbon and carbonating minerals for carbon capture and storage (PyMiCCS) part II: organic and inorganic carbon dioxide removal in an Oxisol** (2025)
    9 citations · Biochar
 
 3. **Long-term carbon dioxide removal potential from the application of wood biochar and basanite rock powder in sandy soil using the LiDELSv2 process-based modeling approach** (2025)
+   3 citations · Biochar
+
+4. **Soil and vegetation responses to biochar application in terms of its feedback on carbon sequestration under different environmental conditions—LiDELS model overview** (2025)
    2 citations · Biochar
 
-4. **Biochar dominated the combined effect of silicate rock powder and biochar application on extracellular enzyme kinetics and nutrient dynamics in a sandy soil** (2026)
-   1 citations · Biochar
-
-5. **Soil and vegetation responses to biochar application in terms of its feedback on carbon sequestration under different environmental conditions—LiDELS model overview** (2025)
+5. **Biochar dominated the combined effect of silicate rock powder and biochar application on extracellular enzyme kinetics and nutrient dynamics in a sandy soil** (2026)
    1 citations · Biochar
 
 6. **Rock-enhanced biochar exhibits similar priming effect as pure biochar application while improving short-term carbon stabilization in agricultural soils** (2026)

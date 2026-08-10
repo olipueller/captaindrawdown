@@ -1,7 +1,7 @@
 ---
 title: "Pablo Serret"
 description: "Pablo Serret is a Senior Ocean CDR researcher at Universidad de Vigo in ES. With 79 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.205185
+date: 2026-08-11T01:33:11.178970
 url: "/cdr-researcher-census/researchers/pablo-serret-a5018116/"
 layout: "researcher"
 hiddenInHomeList: true

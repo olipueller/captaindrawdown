@@ -1,7 +1,7 @@
 ---
 title: "Ximei Wen"
 description: "Ximei Wen is a Mid-career Biochar researcher at Qingdao University of Science and Technology in CN. With 14 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.312950
+date: 2026-08-11T01:33:12.181829
 url: "/cdr-researcher-census/researchers/ximei-wen-a5113983/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Remediation of Soil Contaminated by HeavyMetals Using Biochar: Strategiesand Future Prospects** (2022)
-   22 citations · Biochar
+   23 citations · Biochar
 
 ## External Profiles
 

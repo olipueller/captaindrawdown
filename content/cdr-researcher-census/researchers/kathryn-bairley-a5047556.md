@@ -1,7 +1,7 @@
 ---
 title: "Kathryn Bairley"
 description: "Kathryn Bairley is a Mid-career General CDR researcher. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.096058
+date: 2026-08-11T01:33:11.987861
 url: "/cdr-researcher-census/researchers/kathryn-bairley-a5047556/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -46,7 +46,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Dynamic Evolution from Single-Atom Catalysts to Active Nanograins for CO<sub>2</sub> Reduction** (2025)
-   15 citations · General CDR
+   20 citations · General CDR
 
 ## External Profiles
 

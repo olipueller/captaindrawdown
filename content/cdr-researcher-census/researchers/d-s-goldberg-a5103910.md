@@ -1,7 +1,7 @@
 ---
 title: "D. S. Goldberg"
 description: "D. S. Goldberg is a Senior Enhanced Weathering researcher at Lamont-Doherty Earth Observatory in US. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.992381
+date: 2026-08-11T01:33:11.869993
 url: "/cdr-researcher-census/researchers/d-s-goldberg-a5103910/"
 layout: "researcher"
 hiddenInHomeList: true

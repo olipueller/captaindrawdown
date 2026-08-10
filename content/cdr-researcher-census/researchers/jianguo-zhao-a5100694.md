@@ -1,7 +1,7 @@
 ---
 title: "Jianguo Zhao"
 description: "Jianguo Zhao is a Senior Soil Carbon researcher at Ningbo University in CN. With 20 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.579521
+date: 2026-08-11T01:33:11.511448
 url: "/cdr-researcher-census/researchers/jianguo-zhao-a5100694/"
 layout: "researcher"
 hiddenInHomeList: true

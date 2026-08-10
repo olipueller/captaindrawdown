@@ -1,7 +1,7 @@
 ---
 title: "René Beuschel"
 description: "René Beuschel is a Mid-career Soil Carbon researcher at University of Kassel in DE. With 12 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.005446
+date: 2026-08-11T01:33:11.882396
 url: "/cdr-researcher-census/researchers/rene-beuschel-a5064880/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Multifunctionality of temperate alley-cropping agroforestry outperforms open cropland and grassland** (2023)
-   74 citations · General CDR
+   78 citations · General CDR
 
 ## External Profiles
 

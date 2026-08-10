@@ -1,7 +1,7 @@
 ---
 title: "Jumpei Fukumasu"
 description: "Jumpei Fukumasu is a Mid-career Soil Carbon researcher at National Agriculture and Food Research Organization in JP. With 26 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.944868
+date: 2026-08-11T01:33:11.840111
 url: "/cdr-researcher-census/researchers/jumpei-fukumasu-a5038608/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Relations between soil organic carbon content and the pore size distribution for an arable topsoil with large variations in soil properties** (2022)
-   114 citations · Soil Carbon
+   115 citations · Soil Carbon
 
 2. **Approaches to delineate aggregates in intact soil using X-ray imaging** (2021)
    45 citations
 
 3. **Links between soil pore structure, water flow and solute transport in the topsoil of an arable field: Does soil organic carbon matter?** (2024)
-   25 citations · Soil Carbon
+   26 citations · Soil Carbon
 
 4. **Supplementary material to "O <sub>2</sub> :CO <sub>2</sub> exchange ratio and isotopic composition of atmospheric O <sub>2</sub> measured using soil chambers, and their application to evaluating enhanced rock weathering and the Dole–Morita effect"** (2026)
    0 citations · Enhanced Weathering

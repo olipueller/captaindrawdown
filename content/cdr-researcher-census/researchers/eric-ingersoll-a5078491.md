@@ -1,7 +1,7 @@
 ---
 title: "Eric Ingersoll"
 description: "Eric Ingersoll is a Mid-career BECCS researcher at Lucid Technologies (United States) in US. With 12 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.179262
+date: 2026-08-11T01:33:11.154524
 url: "/cdr-researcher-census/researchers/eric-ingersoll-a5078491/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Replacing All Fossil Fuels With Nuclear-Enabled Hydrogen, Cellulosic Hydrocarbon Biofuels, and Dispatchable Electricity** (2024)
-   7 citations · BECCS
+   8 citations · BECCS
 
 ## External Profiles
 

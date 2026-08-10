@@ -1,7 +1,7 @@
 ---
 title: "Maurice C. Bryson"
 description: "Maurice C. Bryson is a Senior Enhanced Weathering researcher at Institute of Chemistry of Silicates named after I.V. Grebenshchikov in RU. With 49 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.211174
+date: 2026-08-11T01:33:11.184352
 url: "/cdr-researcher-census/researchers/maurice-c-bryson-a5111013/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Enhanced weathering for CO2 removal using carbonate-rich crushed returned concrete; a pilot study from SE Ireland** (2024)
-   17 citations · Enhanced Weathering
+   18 citations · Enhanced Weathering
 
 2. **An investigation of crushed returned concrete (CRC) as a soil amendment for atmospheric CO2 removal** (2022)
    1 citations · Enhanced Weathering

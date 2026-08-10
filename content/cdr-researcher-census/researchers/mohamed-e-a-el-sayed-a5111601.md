@@ -1,7 +1,7 @@
 ---
 title: "Mohamed E. A. El-Sayed"
 description: "Mohamed E. A. El-Sayed is a Mid-career Biochar researcher at Agricultural Research Center in EG. With 40 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.295731
+date: 2026-08-11T01:33:11.262900
 url: "/cdr-researcher-census/researchers/mohamed-e-a-el-sayed-a5111601/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Effect of pyrolysis temperature and heating rate on the physicochemical properties of alkali lignin-derived biochar: A comparative study of fast and slow pyrolysis** (2025)
-   44 citations · Biochar
+   48 citations · Biochar
 
 2. **Characterization of acid-modified corn cob biochar for potential alkaline soil remediation** (2026)
    0 citations · Biochar

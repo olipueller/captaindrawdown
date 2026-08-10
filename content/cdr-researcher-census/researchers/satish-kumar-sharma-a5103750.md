@@ -1,7 +1,7 @@
 ---
 title: "Satish Kumar Sharma"
 description: "Satish Kumar Sharma is a Mid-career General CDR researcher at Glocal University in IN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.441977
+date: 2026-08-11T01:33:12.299424
 url: "/cdr-researcher-census/researchers/satish-kumar-sharma-a5103750/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Role of climate change in disasters occurrences: Forecasting and management options** (2022)
-   8 citations · General CDR
+   10 citations · General CDR
 
 ## External Profiles
 

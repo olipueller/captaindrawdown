@@ -1,7 +1,7 @@
 ---
 title: "Shuilong Kang"
 description: "Shuilong Kang is a Mid-career Ocean CDR researcher at Soochow University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.512308
+date: 2026-08-11T01:33:12.364909
 url: "/cdr-researcher-census/researchers/shuilong-kang-a5104688/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Self‐Biased Electro‐Mineralization via Programmable Field Engineering for Energy‐Efficient Ocean Carbon Removal** (2026)
-   1 citations
+   2 citations
 
 2. **Self‐Biased Electro‐Mineralization via Programmable Field Engineering for Energy‐Efficient Ocean Carbon Removal** (2026)
    0 citations · Ocean CDR

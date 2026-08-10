@@ -1,7 +1,7 @@
 ---
 title: "Chunxiao Wu"
 description: "Chunxiao Wu is a Mid-career Soil Carbon researcher at Hebei University of Engineering in CN. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.334035
+date: 2026-08-11T01:33:12.200594
 url: "/cdr-researcher-census/researchers/chunxiao-wu-a5015480/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Application of organic and chemical fertilizers promoted the accumulation of soil organic carbon in farmland on the Loess Plateau** (2022)
-   19 citations
+   20 citations
 
 2. **Long‐Term Nitrogen and Phosphorus Fertilization Promote Organic Carbon Sequestration in Agricultural Soils by Regulating Crop Root Exudates and Carbon Functional Gene Abundance** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

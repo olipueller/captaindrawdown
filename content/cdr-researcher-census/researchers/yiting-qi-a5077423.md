@@ -1,7 +1,7 @@
 ---
 title: "Yiting Qi"
 description: "Yiting Qi is a Mid-career Biochar researcher at Zhejiang University of Water Resource and Electric Power in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.318131
+date: 2026-08-11T01:33:12.186440
 url: "/cdr-researcher-census/researchers/yiting-qi-a5077423/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Removal of nitrate from agricultural runoff in biochar electrode based biofilm reactor: Performance and enhancement mechanisms** (2022)
-   12 citations · Biochar
+   13 citations · Biochar
 
 ## External Profiles
 

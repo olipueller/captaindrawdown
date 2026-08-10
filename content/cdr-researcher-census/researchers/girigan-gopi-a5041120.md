@@ -1,7 +1,7 @@
 ---
 title: "Girigan Gopi"
 description: "Girigan Gopi is a Mid-career Biochar researcher at M S Swaminathan Research Foundation in IN. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.994810
+date: 2026-08-11T01:33:11.872442
 url: "/cdr-researcher-census/researchers/girigan-gopi-a5041120/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Review of Large-Scale Biochar Field-Trials for Soil Amendment and the Observed Influences on Crop Yield Variations** (2021)
-   152 citations · Biochar
+   160 citations · Biochar
 
 2. **Negative emissions at negative cost-an opportunity for a scalable niche** (2022)
    4 citations · General CDR

@@ -1,7 +1,7 @@
 ---
 title: "Norman Julius Steinert"
 description: "Norman Julius Steinert is a Mid-career General CDR researcher at CICERO Center for International Climate Research in NO. With 129 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.395001
+date: 2026-08-11T01:33:11.350076
 url: "/cdr-researcher-census/researchers/norman-julius-steinert-a5029222/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,22 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Overconfidence in climate overshoot** (2024)
-   151 citations · General CDR
+   159 citations · General CDR
 
 2. **Emit now, mitigate later? Earth system reversibility under overshoots of different magnitudes and durations** (2022)
-   47 citations · General CDR
+   48 citations · General CDR
 
 3. **Ten new insights in climate science 2023** (2023)
-   42 citations · General CDR
+   45 citations · General CDR
 
 4. **Continued permafrost ecosystem carbon loss under net-zero and negative emissions** (2025)
-   11 citations · General CDR
+   15 citations · General CDR
 
 5. **Overconfidence in climate overshoot** (2023)
    7 citations
 
 6. **Irreversible Land Water Availability Changes From a Potential ITCZ Shift During Temperature Overshoot** (2025)
-   4 citations · General CDR
+   5 citations · General CDR
 
 7. **Emit now, mitigate later? Earth system reversibility under overshoots of different magnitude and duration** (2022)
    1 citations · General CDR

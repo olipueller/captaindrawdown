@@ -1,7 +1,7 @@
 ---
 title: "Simon Rufer"
 description: "Simon Rufer is a Mid-career DAC researcher at Massachusetts Institute of Technology in US. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.258724
+date: 2026-08-11T01:33:12.135953
 url: "/cdr-researcher-census/researchers/simon-rufer-a5012886/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,12 +51,24 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Carbonate/Hydroxide Separation Boosts CO<sub>2</sub> Absorption Rate and Electrochemical Release Efficiency** (2025)
-   7 citations
+   9 citations
 
 2. **Thermodynamics of Electrochemical Marine Inorganic Carbon Removal** (2024)
-   2 citations · DAC
+   3 citations · DAC
 
-3. **Electrochemically Modulated CO<sub>2</sub> Removal from Oceanwaters** (2022)
+3. **Bismuth-Driven Flow-Through pH Swing Architecture for Membrane-Free Electrochemical Marine Carbon Removal** (2026)
+   0 citations · General CDR
+
+4. **A Bismuth-Driven Flow-through pH Swing Architecture for Membrane-Free Seawater Carbon Removal** (2026)
+   0 citations · General CDR
+
+5. **pH Swing Systems for Electrified Separation Processes** (2026)
+   0 citations · Ocean CDR
+
+6. **Thermodynamics of Marine Carbon Dioxide Removal** (2026)
+   0 citations · DAC
+
+7. **Electrochemically Modulated CO<sub>2</sub> Removal from Oceanwaters** (2022)
    0 citations
 
 ## External Profiles

@@ -1,7 +1,7 @@
 ---
 title: "Hangxi Liu"
 description: "Hangxi Liu is a Mid-career Soil Carbon researcher at North China Electric Power University in CN. With 18 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.392889
+date: 2026-08-11T01:33:11.348457
 url: "/cdr-researcher-census/researchers/hangxi-liu-a5012711/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Simplified native SynCom enhances phytoremediation, carbon sequestration, and productivity of Artemisia argyi in heavy metal-contaminated soils** (2025)
-   2 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 ## External Profiles
 

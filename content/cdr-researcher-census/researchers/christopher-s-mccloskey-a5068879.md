@@ -1,7 +1,7 @@
 ---
 title: "Christopher S. McCloskey"
 description: "Christopher S. McCloskey is a Senior Soil Carbon researcher at Cranfield University in GB. With 18 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.342437
+date: 2026-08-11T01:33:12.208022
 url: "/cdr-researcher-census/researchers/christopher-s-mccloskey-a5068879/"
 layout: "researcher"
 hiddenInHomeList: true

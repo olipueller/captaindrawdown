@@ -1,7 +1,7 @@
 ---
 title: "Mark Layer"
 description: "Mark Layer is a Mid-career General CDR researcher at Colorado State University in US. With 8 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.120670
+date: 2026-08-11T01:33:12.011016
 url: "/cdr-researcher-census/researchers/mark-layer-a5074883/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Roads to Removal: Options for Carbon Dioxide Removal in the United States** (2023)
-   60 citations · General CDR
+   61 citations · General CDR
 
 ## External Profiles
 

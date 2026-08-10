@@ -1,7 +1,7 @@
 ---
 title: "Julia Kyaschenko"
 description: "Julia Kyaschenko is a Mid-career Soil Carbon researcher at Uppsala University in SE. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.339311
+date: 2026-08-11T01:33:11.302389
 url: "/cdr-researcher-census/researchers/julia-kyaschenko-a5080688/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **A group of ectomycorrhizal fungi restricts organic matter accumulation in boreal forest** (2021)
-   172 citations · Soil Carbon
+   175 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Qingyin Shang"
 description: "Qingyin Shang is a Senior Biochar researcher at Jiangxi Agricultural University in CN. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.342058
+date: 2026-08-11T01:33:11.304787
 url: "/cdr-researcher-census/researchers/qingyin-shang-a5109581/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
    47 citations · Soil Carbon
 
 2. **Serpentine-modified biochar from dual wastes for enhanced copper removal: Performance and mechanism** (2026)
-   1 citations · Biochar
+   2 citations · Biochar
 
 ## External Profiles
 

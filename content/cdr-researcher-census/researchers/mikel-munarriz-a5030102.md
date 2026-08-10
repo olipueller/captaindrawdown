@@ -1,7 +1,7 @@
 ---
 title: "Mikel Munárriz"
 description: "Mikel Munárriz is a Mid-career Biochar researcher at Universidad Publica de Navarra in ES. With 11 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.265918
+date: 2026-08-11T01:33:12.141977
 url: "/cdr-researcher-census/researchers/mikel-munarriz-a5030102/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Life Cycle Assessment of Wheat Straw Pyrolysis with Volatile Fractions Chemical Looping Combustion** (2024)
-   12 citations · Biochar
+   13 citations · Biochar
 
 ## External Profiles
 

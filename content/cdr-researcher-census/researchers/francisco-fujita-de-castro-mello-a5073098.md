@@ -1,7 +1,7 @@
 ---
 title: "Francisco Fujita de Castro Mello"
 description: "Francisco Fujita de Castro Mello is a Senior Soil Carbon researcher at Inter-American Institute in UY. With 13 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.518417
+date: 2026-08-11T01:33:12.370438
 url: "/cdr-researcher-census/researchers/francisco-fujita-de-castro-mello-a5073098/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    7 citations · General CDR
 
 2. **Carbon farming in the living soils of the Americas** (2024)
-   5 citations
+   6 citations
 
 3. **Public Policies and Initiatives to Promote Soil Health and Carbon Sequestration in <scp>B</scp> razil** (2024)
    3 citations · General CDR

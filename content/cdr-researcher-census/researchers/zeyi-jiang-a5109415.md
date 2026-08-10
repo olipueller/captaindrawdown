@@ -1,7 +1,7 @@
 ---
 title: "Zeyi Jiang"
 description: "Zeyi Jiang is a Senior Biochar researcher. With 27 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.750622
+date: 2026-08-11T01:33:11.665798
 url: "/cdr-researcher-census/researchers/zeyi-jiang-a5109415/"
 layout: "researcher"
 hiddenInHomeList: true

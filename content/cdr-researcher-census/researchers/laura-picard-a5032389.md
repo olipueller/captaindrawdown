@@ -1,7 +1,7 @@
 ---
 title: "Laura Picard"
 description: "Laura Picard is a Mid-career Soil Carbon researcher at Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement in FR. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.139701
+date: 2026-08-11T01:33:12.028428
 url: "/cdr-researcher-census/researchers/laura-picard-a5032389/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **3775-year-old wood burial supports “wood vaulting” as a durable carbon removal method** (2024)
-   25 citations · General CDR
+   26 citations · General CDR
 
 ## External Profiles
 

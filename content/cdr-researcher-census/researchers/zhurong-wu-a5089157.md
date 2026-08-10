@@ -1,7 +1,7 @@
 ---
 title: "Zhurong Wu"
 description: "Zhurong Wu is a Mid-career Soil Carbon researcher at Dongguan University of Technology in CN. With 25 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.917414
+date: 2026-08-11T01:33:11.815188
 url: "/cdr-researcher-census/researchers/zhurong-wu-a5089157/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Different characteristics of soil CH4 emissions and methanogenic communities in paddy fields under gradually and abruptly elevated CO2 concentrations** (2023)
-   24 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 2. **Characteristics and influencing factors of carbon fluxes in winter wheat fields under elevated CO2 concentration** (2022)
    17 citations · Soil Carbon

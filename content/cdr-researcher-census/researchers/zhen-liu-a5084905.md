@@ -1,7 +1,7 @@
 ---
 title: "Zhen Liu"
 description: "Zhen Liu is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 100 publications and an h-index of 23, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.240191
+date: 2026-08-11T01:33:11.211509
 url: "/cdr-researcher-census/researchers/zhen-liu-a5084905/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil Microbes Transform Inorganic Carbon Into Organic Carbon by Dark Fixation Pathways in Desert Soil** (2021)
-   30 citations · Soil Carbon
+   31 citations · Soil Carbon
 
 2. **Mitigated Greenhouse Gas Emissions in Cropping Systems by Organic Fertilizer and Tillage Management** (2022)
-   29 citations · Soil Carbon
+   30 citations · Soil Carbon
 
 3. **Continuous crop rotation increases soil organic carbon stocks in river deltas: A 40-year field evidence** (2023)
-   22 citations · Soil Carbon
+   23 citations · Soil Carbon
 
 4. **Soil inorganic carbon stocks increase non-synergistically with soil organic carbon after ecological restoration practices in drylands** (2023)
-   18 citations · Soil Carbon
+   20 citations · Soil Carbon
 
 5. **LEAP model-based analysis to low-carbon transformation path in the power sector: a case study of Guangdong–Hong Kong–Macao Greater Bay Area** (2024)
-   17 citations · General CDR
+   18 citations · General CDR
 
 6. **Crop yield increments will enhance soil carbon sequestration in coastal arable lands by 2100** (2023)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 7. **Soil Microbes from Saline–Alkali Farmland Can Form Carbonate Precipitates** (2023)
    11 citations · Soil Carbon

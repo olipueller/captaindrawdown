@@ -1,7 +1,7 @@
 ---
 title: "Erin L. McParland"
 description: "Erin L. McParland is a Mid-career Ocean CDR researcher at Oregon State University in US. With 17 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.686854
+date: 2026-08-11T01:33:11.608141
 url: "/cdr-researcher-census/researchers/erin-l-mcparland-a5045558/"
 layout: "researcher"
 hiddenInHomeList: true

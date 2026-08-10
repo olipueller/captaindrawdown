@@ -1,7 +1,7 @@
 ---
 title: "Taoufiq Bouzid"
 description: "Taoufiq Bouzid is a Mid-career Biochar researcher at Cadi Ayyad University in MA. With 37 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.361508
+date: 2026-08-11T01:33:11.322103
 url: "/cdr-researcher-census/researchers/taoufiq-bouzid-a5080962/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Synthesis and application of biochar and KOH-Activated carbon from olive mill solid waste for polyphenol removal** (2025)
-   13 citations · Biochar
+   16 citations · Biochar
 
 2. **Optimization, characterization, and DFT study of activated-biochar from lignocellulosic biomass for fluoroquinolone antibiotic adsorption** (2025)
-   12 citations · Biochar
+   14 citations · Biochar
 
 3. **Novel Pennisetum Alopecuroides-derived activated carbon for high-efficiency Tartrazine Removal: Box-Behnken optimization and DFT-assisted mechanistic insights** (2026)
    0 citations

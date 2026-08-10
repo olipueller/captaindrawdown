@@ -1,7 +1,7 @@
 ---
 title: "Xiaoxia Zou"
 description: "Xiaoxia Zou is a Senior Soil Carbon researcher at Qingdao Agricultural University in CN. With 51 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.298034
+date: 2026-08-11T01:33:11.265217
 url: "/cdr-researcher-census/researchers/xiaoxia-zou-a5086792/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The effect of conservation tillage in managing climate change in arid and semiarid areas—a case study in Northwest China** (2021)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 2. **Exploration of the optimal low-carbon peanut rotation system in South China** (2024)
    3 citations · Soil Carbon
@@ -59,10 +59,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 3. **Peanut-Based Rotation Systems Improve Soil Quality by Enhancing Carbon Sequestration and Aggregate Stability** (2025)
    1 citations · Soil Carbon
 
-4. **Peanut-based rotations enhance soil carbon sequestration by improving soil aggregate stability in the Huang-Huai-Hai Plain, China** (2026)
+4. **Effects of peanut-based crop rotations on soil organic carbon sequestration, enzyme activities, and functional gene abundance across different soil depths** (2026)
    0 citations · Soil Carbon
 
-5. **Peanut-based Rotation Systems Improve Soil Quality by Enhancing Carbon Sequestration and Aggregate Stability** (2025)
+5. **Peanut-based rotations enhance soil carbon sequestration by improving soil aggregate stability in the Huang-Huai-Hai Plain, China** (2026)
+   0 citations · Soil Carbon
+
+6. **Peanut-based Rotation Systems Improve Soil Quality by Enhancing Carbon Sequestration and Aggregate Stability** (2025)
    0 citations
 
 ## External Profiles

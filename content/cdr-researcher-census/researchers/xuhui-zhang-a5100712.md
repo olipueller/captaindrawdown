@@ -1,7 +1,7 @@
 ---
 title: "Xuhui Zhang"
 description: "Xuhui Zhang is a Mid-career Biochar researcher at Nanjing Agricultural University in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.052472
+date: 2026-08-11T01:33:11.926771
 url: "/cdr-researcher-census/researchers/xuhui-zhang-a5100712/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Improved ginseng production under continuous cropping through soil health reinforcement and rhizosphere microbial manipulation with biochar: a field study of<i>Panax ginseng</i>from Northeast China** (2022)
-   67 citations · Biochar
+   68 citations · Biochar
 
 2. **The divergent response of fungal and bacterial necromass carbon in soil aggregates under biochar amendment in paddy soil** (2025)
    7 citations · Biochar

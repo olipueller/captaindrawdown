@@ -1,7 +1,7 @@
 ---
 title: "Mathieu Mongin"
 description: "Mathieu Mongin is a Senior Ocean CDR researcher at CSIRO in AU. With 72 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.241013
+date: 2026-08-11T01:33:11.212287
 url: "/cdr-researcher-census/researchers/mathieu-mongin-a5084140/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Leveraging ocean alkalinity, nutrient cycling, or seaweed farming to sequester c
 ## Top CDR Publications
 
 1. **Ocean alkalinity enhancement in a coastal channel: simulating localised dispersion, carbon sequestration and ecosystem impact** (2025)
-   7 citations · General CDR
+   10 citations · General CDR
 
 2. **Alkalinity enhancement with sodium hydroxide in coastal ocean waters** (2025)
-   6 citations · Ocean CDR
+   8 citations · Ocean CDR
 
 3. **Regional ocean dynamics regulate the efficiency of ocean alkalinity enhancement** (2026)
-   0 citations · General CDR
+   1 citations · General CDR
 
 4. **Strategic research priorities for marine climate interventions in Australia** (2026)
    0 citations · General CDR

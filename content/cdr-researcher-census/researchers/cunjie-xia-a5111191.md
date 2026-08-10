@@ -1,7 +1,7 @@
 ---
 title: "Cunjie Xia"
 description: "Cunjie Xia is a Mid-career Biochar researcher at Zhejiang University in CN. With 10 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.305476
+date: 2026-08-11T01:33:12.175419
 url: "/cdr-researcher-census/researchers/cunjie-xia-a5111191/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,6 +48,9 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Valorization of Humins into Fe-Doped Biochar for Efficient Peroxymonosulfate Activation: Interfacial Electron Transfer Governing Radical and Non-Radical Oxidation** (2026)
+   0 citations · Biochar
+
+2. **Valorization of Humins into Fe-Doped Biochar for Efficient Peroxymonosulfate Activation: Interfacial Electron Transfer Governing Radical and Non-Radical Oxidation** (2026)
    0 citations · Biochar
 
 ## External Profiles

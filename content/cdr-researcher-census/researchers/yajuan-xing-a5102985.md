@@ -1,7 +1,7 @@
 ---
 title: "Yajuan Xing"
 description: "Yajuan Xing is a Senior Soil Carbon researcher at Qufu Normal University in CN. With 71 publications and an h-index of 21, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.253226
+date: 2026-08-11T01:33:11.223557
 url: "/cdr-researcher-census/researchers/yajuan-xing-a5102985/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Long-term nitrogen addition further increased carbon sequestration in a boreal forest** (2021)
-   17 citations · Soil Carbon
+1. **Nitrogen deposition enhances soil organic carbon sequestration through plant–soil–microbe synergies** (2025)
+   19 citations · Soil Carbon
 
-2. **Nitrogen deposition enhances soil organic carbon sequestration through plant–soil–microbe synergies** (2025)
-   16 citations · Soil Carbon
+2. **Long-term nitrogen addition further increased carbon sequestration in a boreal forest** (2021)
+   18 citations · Soil Carbon
 
 3. **Exogenous Organic C Inputs Profit Soil C Sequestration Under Different Long-Term N Addition Levels in a Boreal Forest** (2023)
    6 citations · Soil Carbon
@@ -63,7 +63,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    5 citations · Soil Carbon
 
 5. **Long term low-level nitrogen addition enhances microbial carbon use efficiency and turnover rate across different seasons** (2026)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 6. **Effects of Long-Term Nitrogen Addition on Glomalin-Related Soil Protein Dynamics, Soil Aggregate Stability and Organic Carbon Sequestration in the Boreal Forest** (2026)
    0 citations · Soil Carbon

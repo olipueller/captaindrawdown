@@ -1,7 +1,7 @@
 ---
 title: "Bingqian Zhao"
 description: "Bingqian Zhao is a Mid-career Soil Carbon researcher at University of Copenhagen in DK. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.408871
+date: 2026-08-11T01:33:12.268677
 url: "/cdr-researcher-census/researchers/bingqian-zhao-a5113102/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Optimized wetland rewetting strategies can control methane, carbon dioxide, and oxygen responses to water table fluctuations** (2026)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 2. **Quantifying responses of CO2 and CH4 fluxes in a subarctic dry tundra ecosystem to summer warming and snow accumulation** (2026)
    0 citations · Soil Carbon

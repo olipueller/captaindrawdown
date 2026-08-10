@@ -1,7 +1,7 @@
 ---
 title: "Miriam Seifert"
 description: "Miriam Seifert is a Mid-career Ocean CDR researcher at Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung in DE. With 37 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.784311
+date: 2026-08-11T01:33:11.696149
 url: "/cdr-researcher-census/researchers/miriam-seifert-a5036998/"
 layout: "researcher"
 hiddenInHomeList: true

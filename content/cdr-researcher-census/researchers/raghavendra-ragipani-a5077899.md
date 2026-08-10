@@ -1,7 +1,7 @@
 ---
 title: "Raghavendra Ragipani"
 description: "Raghavendra Ragipani is a Mid-career DAC researcher at Indian Institute of Technology Kanpur in IN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.809203
+date: 2026-08-11T01:33:11.717654
 url: "/cdr-researcher-census/researchers/raghavendra-ragipani-a5077899/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Direct Air Capture and Sequestration of CO<sub>2</sub> by Accelerated Indirect Aqueous Mineral Carbonation under Ambient Conditions** (2022)
-   47 citations · DAC
+   49 citations · DAC
 
 ## External Profiles
 

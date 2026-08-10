@@ -1,7 +1,7 @@
 ---
 title: "Pim Vercoulen"
 description: "Pim Vercoulen is a Mid-career Enhanced Weathering researcher at Cambridge Econometrics (United Kingdom) in GB. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.333098
+date: 2026-08-11T01:33:11.297188
 url: "/cdr-researcher-census/researchers/pim-vercoulen-a5031214/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Substantial carbon drawdown potential from enhanced rock weathering in the United Kingdom** (2022)
-   159 citations · Enhanced Weathering
+   162 citations · Enhanced Weathering
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "XU Shuang-qing"
 description: "XU Shuang-qing is a Senior Soil Carbon researcher at Jiangnan University in CN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.726633
+date: 2026-08-11T01:33:11.644263
 url: "/cdr-researcher-census/researchers/xu-shuang-qing-a5100908/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Microplastic pollution threatens mangrove carbon sequestration capacity** (2025)
-   16 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 ## External Profiles
 

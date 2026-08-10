@@ -1,7 +1,7 @@
 ---
 title: "Adam Berger"
 description: "Adam Berger is a Senior DAC researcher at Electric Power Research Institute in US. With 26 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.287975
+date: 2026-08-11T01:33:11.255775
 url: "/cdr-researcher-census/researchers/adam-berger-a5075418/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,11 +53,11 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 1. **A Bench-Scale Demonstration of Direct Air Capture Using an Enhanced Electrochemical System** (2025)
    1 citations
 
-2. **Overcoming Barriers to Deploying Direct Air Capture: Conclusions from a Workshop with Leaders in the Field** (2022)
+2. **Spatiotemporal Adaptive Passive Direct Air Capture** (2024)
    1 citations · DAC
 
-3. **Spatiotemporal Adaptive Passive Direct Air Capture** (2024)
-   0 citations · DAC
+3. **Overcoming Barriers to Deploying Direct Air Capture: Conclusions from a Workshop with Leaders in the Field** (2022)
+   1 citations · DAC
 
 ## External Profiles
 

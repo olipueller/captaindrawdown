@@ -1,7 +1,7 @@
 ---
 title: "Mondina Francesca Lunesu"
 description: "Mondina Francesca Lunesu is a Mid-career General CDR researcher at Post Doc Position in IT. With 36 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.491619
+date: 2026-08-11T01:33:11.433330
 url: "/cdr-researcher-census/researchers/mondina-francesca-lunesu-a5073438/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Applying an indirect method to assess the net carbon footprint of dairy sheep farms with a special focus on suckling lamb** (2025)
-   6 citations · General CDR
+   7 citations · General CDR
 
 2. **Looking for the ecological transition of Mediterranean small ruminant sector. Characterization and main drivers of environmental performance of the Sardinian sheep farming systems** (2024)
-   6 citations · General CDR
+   7 citations · General CDR
 
 3. **CO2 removal to reach net zero warming of global methane and nitrous oxide emissions of livestock: Comparison of two metrics under different 2050 FAO scenarios** (2025)
-   5 citations · General CDR
+   6 citations · General CDR
 
 4. **Role of cultivation intensity in shaping the net carbon footprint of Mediterranean cow-calf systems** (2026)
    1 citations

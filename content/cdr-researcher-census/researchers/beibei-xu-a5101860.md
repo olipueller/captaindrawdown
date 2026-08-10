@@ -1,7 +1,7 @@
 ---
 title: "Beibei Xu"
 description: "Beibei Xu is a Mid-career General CDR researcher at Wenzhou Medical University in CN. With 20 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.390716
+date: 2026-08-11T01:33:12.252502
 url: "/cdr-researcher-census/researchers/beibei-xu-a5101860/"
 layout: "researcher"
 hiddenInHomeList: true

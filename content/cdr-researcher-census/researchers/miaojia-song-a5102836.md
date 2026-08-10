@@ -1,7 +1,7 @@
 ---
 title: "Miaojia Song"
 description: "Miaojia Song is a Senior Soil Carbon researcher at Southeast University in CN. With 18 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.623269
+date: 2026-08-11T01:33:11.551020
 url: "/cdr-researcher-census/researchers/miaojia-song-a5102836/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Michael D. Masters"
 description: "Michael D. Masters is a Senior Enhanced Weathering researcher at University of Illinois System in US. With 67 publications and an h-index of 22, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-12T12:07:29.209983
+date: 2026-08-11T01:33:11.151912
 url: "/cdr-researcher-census/researchers/michael-d-masters-a5031536/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Effects of mineralogy, chemistry and physical properties of basalts on carbon capture potential and plant-nutrient element release via enhanced weathering** (2021)
-   154 citations · Enhanced Weathering
+   156 citations · Enhanced Weathering
 
 2. **Enhanced weathering in the US Corn Belt delivers carbon removal with agronomic benefits** (2024)
-   131 citations
+   134 citations
 
 3. **Improved net carbon budgets in the <scp>US</scp> Midwest through direct measured impacts of enhanced weathering** (2023)
-   84 citations · Enhanced Weathering
+   85 citations · Enhanced Weathering
 
 4. **Improving nitrogen cycling in a land surface model (CLM5) to quantify soil N <sub>2</sub> O, NO, and NH <sub>3</sub> emissions from enhanced rock weathering with croplands** (2023)
    15 citations · Enhanced Weathering

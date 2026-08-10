@@ -1,7 +1,7 @@
 ---
 title: "Xuxin Song"
 description: "Xuxin Song is a Mid-career Soil Carbon researcher at Hebei University of Technology in CN. With 23 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.511128
+date: 2026-08-11T01:33:11.450664
 url: "/cdr-researcher-census/researchers/xuxin-song-a5083778/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Towards a better understanding of the role of Fe cycling in soil for carbon stabilization and degradation** (2022)
-   196 citations · Soil Carbon
+   202 citations · Soil Carbon
 
 2. **Herbivore grazing mitigates the negative effects of nitrogen deposition on soil organic carbon in low‐diversity grassland** (2021)
    17 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Haojie Feng"
 description: "Haojie Feng is a Senior Soil Carbon researcher at Shandong Agricultural University in CN. With 50 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.290393
+date: 2026-08-11T01:33:11.258260
 url: "/cdr-researcher-census/researchers/haojie-feng-a5039706/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    62 citations · Soil Carbon
 
 2. **Straw returning combined with controlled-release nitrogen fertilizer affected organic carbon storage and crop yield by changing humic acid composition and aggregate distribution** (2023)
-   59 citations · Soil Carbon
+   61 citations · Soil Carbon
 
 3. **Effects of straw returning combined with blended controlled-release urea fertilizer on crop yields, greenhouse gas emissions, and net ecosystem economic benefits: A nine-year field trial** (2024)
    28 citations
@@ -63,10 +63,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    13 citations · Soil Carbon
 
 5. **Interactive effects of warming and drought on soil organic carbon sequestration and methane uptake in straw and biochar amended soils: Mechanisms and global implications** (2025)
-   5 citations · Biochar
+   7 citations · Biochar
 
 6. **Divergent carbon sequestration pathways in saline-alkali soils: Dual mechanisms of macroaggregate protection and chemoautotrophic compensation mediated by composted fermented straw amendments** (2025)
    2 citations · Soil Carbon
+
+7. **Straw return combined with controlled-release urea enhances wheat yield and soil fertility by regulating soil organic carbon fractions: a 10-year field experiment** (2026)
+   0 citations
 
 ## External Profiles
 

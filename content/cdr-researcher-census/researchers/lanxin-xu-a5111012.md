@@ -1,7 +1,7 @@
 ---
 title: "Lanxin Xu"
 description: "Lanxin Xu is a Mid-career Biochar researcher at Westlake University in CN. With 17 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.920257
+date: 2026-08-11T01:33:11.817738
 url: "/cdr-researcher-census/researchers/lanxin-xu-a5111012/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Electron transfer tuning for persulfate activation via the radical and non-radical pathways with biochar mediator** (2024)
-   28 citations · Biochar
+   34 citations · Biochar
 
 2. **Electron Transfer Tuning for Persulfate Activation Via the Radical and Non-Radical Pathways with Biochar Mediator** (2024)
    1 citations · Biochar

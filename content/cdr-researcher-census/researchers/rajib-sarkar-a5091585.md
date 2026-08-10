@@ -1,7 +1,7 @@
 ---
 title: "Rajib Sarkar"
 description: "Rajib Sarkar is a Mid-career General CDR researcher at Virginia Commonwealth University in US. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.202753
+date: 2026-08-11T01:33:12.085418
 url: "/cdr-researcher-census/researchers/rajib-sarkar-a5091585/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Silica‐Derived Nanostructured Electrode Materials for ORR, OER, HER, CO<sub>2</sub>RR Electrocatalysis, and Energy Storage Applications: A Review**** (2024)
-   50 citations · General CDR
+   51 citations · General CDR
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Sharon O’Rourke"
 description: "Sharon O’Rourke is a Senior Soil Carbon researcher at University College Dublin in IE. With 34 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.146766
+date: 2026-08-11T01:33:11.124270
 url: "/cdr-researcher-census/researchers/sharon-orourke-a5085697/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Estimating mineral-associated organic carbon saturation and sequestration potential using MIR spectral based local quantile regression** (2025)
-   6 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 2. **Prediction of soil bulk density in agricultural soils using mid-infrared spectroscopy** (2024)
    1 citations · Soil Carbon

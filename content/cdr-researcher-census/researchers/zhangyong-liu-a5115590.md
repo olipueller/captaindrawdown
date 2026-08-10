@@ -1,7 +1,7 @@
 ---
 title: "Zhangyong Liu"
 description: "Zhangyong Liu is a Senior Soil Carbon researcher at Yangtze University in CN. With 55 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.606396
+date: 2026-08-11T01:33:11.535454
 url: "/cdr-researcher-census/researchers/zhangyong-liu-a5115590/"
 layout: "researcher"
 hiddenInHomeList: true

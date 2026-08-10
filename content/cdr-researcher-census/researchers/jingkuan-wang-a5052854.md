@@ -1,7 +1,7 @@
 ---
 title: "Jingkuan Wang"
 description: "Jingkuan Wang is an Eminent Soil Carbon researcher at Shenyang Agricultural University in CN. With 219 publications and an h-index of 41, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.108123
+date: 2026-08-11T01:33:11.087818
 url: "/cdr-researcher-census/researchers/jingkuan-wang-a5052854/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Differential accumulation patterns of microbial necromass induced by maize root vs. shoot residue addition in agricultural Alfisols** (2021)
-   60 citations · Soil Carbon
+   62 citations · Soil Carbon
 
 2. **Influence of environmental factors on soil organic carbon in different soil layers for Chinese Mollisols under intensive maize cropping** (2022)
    24 citations · Soil Carbon
@@ -62,14 +62,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 4. **Crop residue decomposition and nutrient release are independently affected by nitrogen fertilization, plastic film mulching, and residue type** (2022)
    21 citations
 
-5. **Residence time of carbon in paddy soils** (2023)
+5. **Maize residue types and soil fertility levels influence sequestration of newly associated carbon in aggregates with in situ experiments** (2023)
    18 citations · Soil Carbon
 
-6. **Maize residue types and soil fertility levels influence sequestration of newly associated carbon in aggregates with in situ experiments** (2023)
-   17 citations · Soil Carbon
+6. **Residence time of carbon in paddy soils** (2023)
+   18 citations · Soil Carbon
 
 7. **Distributions of straw-derived carbon in Mollisol’s aggregates under different fertilization practices** (2021)
-   12 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 8. **Divergent accumulation of microbial and plant necromass along paddy soil development in a millennium scale** (2023)
    8 citations · Soil Carbon

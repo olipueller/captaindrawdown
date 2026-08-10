@@ -1,7 +1,7 @@
 ---
 title: "Eirini Kostakou"
 description: "Eirini Kostakou is a Mid-career General CDR researcher at Sotiria General Hospital in GR. With 15 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.709044
+date: 2026-08-11T01:33:11.627968
 url: "/cdr-researcher-census/researchers/eirini-kostakou-a5089034/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **A randomised controlled trial of non-invasive ventilation compared with extracorporeal carbon dioxide removal for acute hypercapnic exacerbations of chronic obstructive pulmonary disease** (2022)
-   22 citations
+   23 citations
 
 2. **Physiological Assessment of ECCO <sub>2</sub> R on the Work of Breathing in Exacerbations of COPD** (2024)
    1 citations · General CDR

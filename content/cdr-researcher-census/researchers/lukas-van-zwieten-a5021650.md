@@ -1,7 +1,7 @@
 ---
 title: "Lukas Van Zwieten"
 description: "Lukas Van Zwieten is an Eminent Soil Carbon researcher at NSW Department of Primary Industries in AU. With 280 publications and an h-index of 72, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.081829
+date: 2026-08-11T01:33:11.063074
 url: "/cdr-researcher-census/researchers/lukas-van-zwieten-a5021650/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,34 +51,34 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Towards a better understanding of the role of Fe cycling in soil for carbon stabilization and degradation** (2022)
-   196 citations · Soil Carbon
+   202 citations · Soil Carbon
 
 2. **Storage, patterns and influencing factors for soil organic carbon in coastal wetlands of China** (2022)
-   151 citations · Soil Carbon
+   157 citations · Soil Carbon
 
 3. **<i>Spartina alterniflora</i> invasion controls organic carbon stocks in coastal marsh and mangrove soils across tropics and subtropics** (2021)
-   135 citations · Soil Carbon
+   137 citations · Soil Carbon
 
 4. **Arbuscular mycorrhizal fungi and goethite promote carbon sequestration via hyphal-aggregate mineral interactions** (2021)
-   113 citations · Soil Carbon
+   116 citations · Soil Carbon
 
 5. **Probing the nature of soil organic matter** (2021)
-   109 citations · General CDR
+   111 citations · General CDR
 
 6. **Abiotic and biotic regulation on carbon mineralization and stabilization in paddy soils along iron oxide gradients** (2021)
-   105 citations · Soil Carbon
+   108 citations · Soil Carbon
 
 7. **Priming, stabilization and temperature sensitivity of native SOC is controlled by microbial responses and physicochemical properties of biochar** (2021)
    90 citations · Biochar
 
 8. **Biochar accelerates soil organic carbon mineralization via rhizodeposit-activated Actinobacteria** (2022)
-   77 citations · Biochar
+   80 citations · Biochar
 
 9. **Inducing Inorganic Carbon Accrual in Subsoil through Biochar Application on Calcareous Topsoil** (2023)
-   71 citations · Biochar
+   72 citations · Biochar
 
 10. **Organic blue carbon sequestration in vegetated coastal wetlands: Processes and influencing factors** (2024)
-   59 citations · Soil Carbon
+   64 citations · Soil Carbon
 
 ## External Profiles
 

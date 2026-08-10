@@ -1,7 +1,7 @@
 ---
 title: "Xuesong Ma"
 description: "Xuesong Ma is a Senior Soil Carbon researcher at Shandong University in CN. With 54 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.401794
+date: 2026-08-11T01:33:11.356311
 url: "/cdr-researcher-census/researchers/xuesong-ma-a5101946/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Biochemical heterogeneity of soil components manipulating long-term organic carbon pool buildup over mineral protection in the mollisol** (2025)
-   6 citations
+   7 citations
 
 2. **[Effects of conservation tillage on soil microbial community and the function of soil carbon cycling].** (2021)
    1 citations · Soil Carbon

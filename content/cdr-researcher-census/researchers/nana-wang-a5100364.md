@@ -1,7 +1,7 @@
 ---
 title: "Nana Wang"
 description: "Nana Wang is a Mid-career Biochar researcher at China West Normal University in CN. With 19 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.878107
+date: 2026-08-11T01:33:11.779644
 url: "/cdr-researcher-census/researchers/nana-wang-a5100364/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 
 ## Top CDR Publications
 
-1. **Tree biomass allocation is governed by allometry but modulated by optimization** (2025)
-   8 citations · Soil Carbon
+1. **Engineered biochar for simultaneous removal of heavy metals and organic pollutants from wastewater: mechanisms, efficiency, and applications** (2025)
+   9 citations · Biochar
 
-2. **Engineered biochar for simultaneous removal of heavy metals and organic pollutants from wastewater: mechanisms, efficiency, and applications** (2025)
-   5 citations · Biochar
+2. **Tree biomass allocation is governed by allometry but modulated by optimization** (2025)
+   8 citations · Soil Carbon
 
 ## External Profiles
 

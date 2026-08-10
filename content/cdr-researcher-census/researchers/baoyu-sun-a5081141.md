@@ -1,7 +1,7 @@
 ---
 title: "Baoyu Sun"
 description: "Baoyu Sun is a Senior Soil Carbon researcher at Shanghai University in CN. With 25 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.341765
+date: 2026-08-11T01:33:11.304577
 url: "/cdr-researcher-census/researchers/baoyu-sun-a5081141/"
 layout: "researcher"
 hiddenInHomeList: true

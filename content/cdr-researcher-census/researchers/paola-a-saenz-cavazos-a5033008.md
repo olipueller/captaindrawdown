@@ -1,7 +1,7 @@
 ---
 title: "Paola A. Sáenz-Cavazos"
 description: "Paola A. Sáenz-Cavazos is a Mid-career General CDR researcher at Imperial College London in GB. With 9 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.316709
+date: 2026-08-11T01:33:12.185151
 url: "/cdr-researcher-census/researchers/paola-a-saenz-cavazos-a5033008/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **An ecosystem of carbon dioxide removal reviews – part 1: direct air CO <sub>2</sub> capture and storage** (2025)
-   32 citations · General CDR
+   38 citations · General CDR
 
 2. **Measuring and Modeling Water and Carbon Dioxide Adsorption on Amine Functionalized Alumina under Direct Air Capture Conditions** (2025)
-   21 citations
+   22 citations
 
 3. **Author response for "An Ecosystem of Carbon Dioxide Removal Reviews - Part 1: Direct Air CO2 Capture and Storage"** (2025)
    0 citations

@@ -1,7 +1,7 @@
 ---
 title: "Hao Zheng"
 description: "Hao Zheng is a Mid-career Biochar researcher at Tianjin University in CN. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.821025
+date: 2026-08-11T01:33:11.728565
 url: "/cdr-researcher-census/researchers/hao-zheng-a5004210/"
 layout: "researcher"
 hiddenInHomeList: true

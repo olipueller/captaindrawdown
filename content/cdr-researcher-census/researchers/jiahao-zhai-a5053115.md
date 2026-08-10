@@ -1,7 +1,7 @@
 ---
 title: "Jiahao Zhai"
 description: "Jiahao Zhai is a Mid-career Soil Carbon researcher at Ministry of Ecology and Environment in CN. With 17 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.532304
+date: 2026-08-11T01:33:12.383193
 url: "/cdr-researcher-census/researchers/jiahao-zhai-a5053115/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -57,6 +57,9 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    2 citations
 
 3. **Divergent responses of soil organic and inorganic carbon driven by land use during coastal reclamation** (2026)
+   0 citations · Soil Carbon
+
+4. **Multi-source accumulation pathways and drivers of soil organic carbon in coastal saltmarsh wetlands** (2026)
    0 citations · Soil Carbon
 
 ## External Profiles

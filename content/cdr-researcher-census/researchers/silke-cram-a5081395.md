@@ -1,7 +1,7 @@
 ---
 title: "Silke Cram"
 description: "Silke Cram is a Senior Soil Carbon researcher at Universidad Nacional Autónoma de México in MX. With 56 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.366553
+date: 2026-08-11T01:33:11.325844
 url: "/cdr-researcher-census/researchers/silke-cram-a5081395/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil Ecosystem Services in Urban Parks as a Basis for Better Urban Planning: The Case of Mexico City** (2024)
-   6 citations · General CDR
+   7 citations · General CDR
 
 2. **Soil ecosystem services of an urban park in Mexico as a basis for planning** (2023)
    1 citations · Soil Carbon

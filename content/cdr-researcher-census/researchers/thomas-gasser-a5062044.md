@@ -1,7 +1,7 @@
 ---
 title: "Thomas Gasser"
 description: "Thomas Gasser is an Eminent General CDR researcher at International Institute for Applied Systems Analysis in AT. With 262 publications and an h-index of 48, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.086720
+date: 2026-08-11T01:33:11.067932
 url: "/cdr-researcher-census/researchers/thomas-gasser-a5062044/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Overconfidence in climate overshoot** (2024)
-   151 citations · General CDR
+   159 citations · General CDR
 
 2. **Delayed use of bioenergy crops might threaten climate and food security** (2022)
-   132 citations · BECCS
+   133 citations · BECCS
 
 3. **The carbon dioxide removal gap** (2024)
-   84 citations
+   86 citations
 
 4. **Quantifying global carbon dioxide removal deployment** (2023)
-   56 citations · DAC
+   57 citations · DAC
 
 5. **Impact of bioenergy crop expansion on climate–carbon cycle feedbacks in overshoot scenarios** (2022)
-   37 citations · BECCS
+   38 citations · BECCS
 
 6. **Evaluating the near- and long-term role of carbon dioxide removal in meeting global climate objectives** (2024)
    34 citations · General CDR

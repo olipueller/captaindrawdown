@@ -1,7 +1,7 @@
 ---
 title: "Charlene N. Kelly"
 description: "Charlene N. Kelly is a Senior Soil Carbon researcher at West Virginia University in US. With 40 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.168644
+date: 2026-08-11T01:33:11.144716
 url: "/cdr-researcher-census/researchers/charlene-n-kelly-a5044296/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Altered plant carbon partitioning enhanced forest ecosystem carbon storage after 25 years of nitrogen additions** (2021)
-   121 citations · Soil Carbon
+   123 citations · Soil Carbon
 
 2. **Early production of switchgrass ( <i>Panicum virgatum</i> L.) and willow ( <i>Salix</i> spp.) indicates carbon accumulation potential in Appalachian reclaimed mine and agriculture soil** (2024)
    3 citations · BECCS

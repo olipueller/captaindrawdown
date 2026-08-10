@@ -1,7 +1,7 @@
 ---
 title: "Wolfram Buss"
 description: "Wolfram Buss is a Senior Biochar researcher at Australian National University in AU. With 74 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.130163
+date: 2026-08-11T01:33:11.108707
 url: "/cdr-researcher-census/researchers/wolfram-buss-a5038598/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,22 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Mineral-enriched biochar delivers enhanced nutrient recovery and carbon dioxide removal** (2022)
-   109 citations · Biochar
+   110 citations · Biochar
 
 2. **Pyrolysis Solves the Issue of Organic Contaminants in Sewage Sludge while Retaining Carbon—Making the Case for Sewage Sludge Treatment via Pyrolysis** (2021)
-   81 citations · Biochar
+   84 citations · Biochar
 
 3. **Stabilisation of soil organic matter with rock dust partially counteracted by plants** (2023)
-   62 citations · Enhanced Weathering
+   65 citations · Enhanced Weathering
 
 4. **Applying minerals to soil to draw down atmospheric carbon dioxide through synergistic organic and inorganic pathways** (2024)
-   46 citations · Biochar
+   47 citations · Biochar
 
 5. **The impact of feedstock type and pyrolysis parameters on the physical and chemical properties of biochars for sorption, agricultural and carbon sequestration applications: A meta-analysis** (2025)
-   19 citations · Biochar
+   22 citations · Biochar
 
 6. **Measuring enhanced weathering: inorganic carbon-based approaches may be required to complement cation-based approaches** (2024)
-   16 citations · Enhanced Weathering
+   17 citations · Enhanced Weathering
 
 7. **Enhancing natural cycles in agro-ecosystems to boost plant carbon capture and soil storage** (2021)
    12 citations · Soil Carbon

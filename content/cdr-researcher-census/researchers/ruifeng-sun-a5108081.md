@@ -1,7 +1,7 @@
 ---
 title: "Ruifeng Sun"
 description: "Ruifeng Sun is a Senior Soil Carbon researcher at Yale University in US. With 30 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.749051
+date: 2026-08-11T01:33:11.664384
 url: "/cdr-researcher-census/researchers/ruifeng-sun-a5108081/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    9 citations · Soil Carbon
 
 2. **Seasonal precipitation distribution determines ecosystem <scp>CO<sub>2</sub></scp> and <scp>H<sub>2</sub>O</scp> exchange by regulating spring soil water–salt dynamics in a brackish wetland** (2024)
-   7 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 3. **Coarse Root Enhancement Increases Soil Organic Carbon While Decreasing Its Stability in a Wetland** (2026)
    3 citations · Soil Carbon

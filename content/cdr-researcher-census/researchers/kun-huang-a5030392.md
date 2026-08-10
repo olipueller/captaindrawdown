@@ -1,7 +1,7 @@
 ---
 title: "Kun Huang"
 description: "Kun Huang is a Mid-career Soil Carbon researcher at East China Normal University in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.621140
+date: 2026-08-11T01:33:11.548987
 url: "/cdr-researcher-census/researchers/kun-huang-a5030392/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **TECO-CNP Sv1.0: a coupled carbon-nitrogen-phosphorus model with data assimilation for subtropical forests** (2025)
-   3 citations · Soil Carbon
+   5 citations · Soil Carbon
 
 2. **TECO-CNP Sv1.0: a coupled carbon-nitrogen-phosphorus model  with data assimilation for subtropical forests** (2026)
    0 citations

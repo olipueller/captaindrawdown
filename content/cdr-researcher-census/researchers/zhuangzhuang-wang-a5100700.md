@@ -1,7 +1,7 @@
 ---
 title: "Zhuangzhuang Wang"
 description: "Zhuangzhuang Wang is a Senior Soil Carbon researcher at Shaanxi Normal University in CN. With 64 publications and an h-index of 20, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.260985
+date: 2026-08-11T01:33:11.230646
 url: "/cdr-researcher-census/researchers/zhuangzhuang-wang-a5100700/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Coupling human and natural systems for sustainability: experience from China's Loess Plateau** (2022)
-   163 citations · General CDR
+   164 citations · General CDR
 
-2. **Ecosystem water use efficiency and carbon use efficiency respond oppositely to vegetation greening in China's Loess Plateau** (2025)
-   21 citations · Soil Carbon
+2. **Exploring the interdependencies of ecosystem services and social-ecological factors on the Loess Plateau through network analysis** (2025)
+   24 citations · Soil Carbon
 
-3. **Exploring the interdependencies of ecosystem services and social-ecological factors on the Loess Plateau through network analysis** (2025)
-   21 citations · Soil Carbon
+3. **Ecosystem water use efficiency and carbon use efficiency respond oppositely to vegetation greening in China's Loess Plateau** (2025)
+   23 citations · Soil Carbon
 
 4. **Coupling dynamics and feedback mechanisms between ecosystem service flows and socio-economic systems in the loess plateau** (2025)
    10 citations · General CDR

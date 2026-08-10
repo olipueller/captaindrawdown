@@ -1,7 +1,7 @@
 ---
 title: "Sharu Bhagavathi Kandy"
 description: "Sharu Bhagavathi Kandy is a Mid-career Biochar researcher at National Institute of Technology Calicut in IN. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.558422
+date: 2026-08-11T01:33:12.404902
 url: "/cdr-researcher-census/researchers/sharu-bhagavathi-kandy-a5013681/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Experimental and Theoretical Studies on CO <sub>2</sub> Storage Behaviour of Rice Husk–Based Activated Biochar and Its Mixture With Bitumen** (2025)
-   1 citations · Biochar
+   2 citations · Biochar
 
 ## External Profiles
 

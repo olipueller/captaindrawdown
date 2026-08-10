@@ -1,7 +1,7 @@
 ---
 title: "Holly Rosencranz"
 description: "Holly Rosencranz is a Senior Soil Carbon researcher at University of Illinois Urbana-Champaign in US. With 14 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.349896
+date: 2026-08-11T01:33:12.214589
 url: "/cdr-researcher-census/researchers/holly-rosencranz-a5068517/"
 layout: "researcher"
 hiddenInHomeList: true

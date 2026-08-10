@@ -1,7 +1,7 @@
 ---
 title: "Shunyao Zhuang"
 description: "Shunyao Zhuang is a Senior Soil Carbon researcher at Chinese Academy of Sciences in CN. With 78 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.286903
+date: 2026-08-11T01:33:11.254710
 url: "/cdr-researcher-census/researchers/shunyao-zhuang-a5007069/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,11 +53,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Characterization of controlling factors for soil organic carbon stocks in one Karst region of Southwest China** (2024)
    7 citations · Soil Carbon
 
-2. **Effects of different planting configurations and clones on biomass and carbon storage of a 12-year-old poplar ecosystem in southern China** (2021)
-   7 citations · BECCS
+2. **Higher soil carbon and nitrogen sequestration in rice than non-rice soils following land reclamation** (2023)
+   7 citations · Soil Carbon
 
-3. **Higher soil carbon and nitrogen sequestration in rice than non-rice soils following land reclamation** (2023)
-   6 citations · Soil Carbon
+3. **Effects of different planting configurations and clones on biomass and carbon storage of a 12-year-old poplar ecosystem in southern China** (2021)
+   7 citations · BECCS
 
 4. **Continuous organic mulching enhances the stability of soil organic carbon in Phyllostachys praecox: A 5-year in situ experiment** (2025)
    2 citations · Soil Carbon

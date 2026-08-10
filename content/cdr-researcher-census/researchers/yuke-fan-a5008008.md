@@ -1,7 +1,7 @@
 ---
 title: "Yuke Fan"
 description: "Yuke Fan is a Mid-career Soil Carbon researcher at Huazhong Agricultural University in CN. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.175872
+date: 2026-08-11T01:33:12.061002
 url: "/cdr-researcher-census/researchers/yuke-fan-a5008008/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil organic matter enhances urease-mediated microbially induced carbonate precipitation: Dual benefits for inorganic carbon sequestration and cadmium immobilization** (2025)
-   8 citations · Soil Carbon
+   9 citations · Soil Carbon
 
 2. **Sequestration of Soil Organic and Inorganic Carbon by Dual-Enzymatically Induced Carbonate Precipitation** (2025)
    2 citations · Soil Carbon

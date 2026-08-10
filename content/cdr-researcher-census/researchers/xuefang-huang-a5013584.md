@@ -1,7 +1,7 @@
 ---
 title: "Xuefang Huang"
 description: "Xuefang Huang is an Early-career Soil Carbon researcher at Shanxi Agricultural University in CN. With 12 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.471390
+date: 2026-08-11T01:33:12.327189
 url: "/cdr-researcher-census/researchers/xuefang-huang-a5013584/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Long-term manure applications to increase carbon sequestration and macroaggregate-stabilized carbon** (2022)
-   78 citations · Soil Carbon
+   80 citations · Soil Carbon
 
 ## External Profiles
 

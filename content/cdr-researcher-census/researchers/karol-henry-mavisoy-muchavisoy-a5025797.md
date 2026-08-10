@@ -1,7 +1,7 @@
 ---
 title: "Karol Henry Mavisoy Muchavisoy"
 description: "Karol Henry Mavisoy Muchavisoy is a Mid-career Soil Carbon researcher at University of Lisbon in PT. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.696275
+date: 2026-08-11T01:33:11.616579
 url: "/cdr-researcher-census/researchers/karol-henry-mavisoy-muchavisoy-a5025797/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Agroforestry systems recover tree carbon stock faster than natural succession in Eastern Amazon, Brazil** (2022)
-   29 citations · Soil Carbon
+   31 citations · Soil Carbon
 
 ## External Profiles
 

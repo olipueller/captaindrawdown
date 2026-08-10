@@ -1,7 +1,7 @@
 ---
 title: "Anita Cymann-Sachajdak"
 description: "Anita Cymann-Sachajdak is a Mid-career Biochar researcher at Gdańsk University of Technology in PL. With 10 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.128266
+date: 2026-08-11T01:33:12.017820
 url: "/cdr-researcher-census/researchers/anita-cymann-sachajdak-a5023318/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Conversion of waste biomass to designed and tailored activated chars with valuable properties for adsorption and electrochemical applications** (2023)
-   23 citations · Biochar
+   25 citations · Biochar
 
 ## External Profiles
 

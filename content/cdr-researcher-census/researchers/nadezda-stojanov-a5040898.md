@@ -1,7 +1,7 @@
 ---
 title: "Nadežda Stojanov"
 description: "Nadežda Stojanov is a Mid-career Biochar researcher at Institute of Field and Vegetable Crops in RS. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.313196
+date: 2026-08-11T01:33:12.182033
 url: "/cdr-researcher-census/researchers/nadezda-stojanov-a5040898/"
 layout: "researcher"
 hiddenInHomeList: true

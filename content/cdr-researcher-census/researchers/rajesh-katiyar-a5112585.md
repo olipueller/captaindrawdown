@@ -1,7 +1,7 @@
 ---
 title: "Rajesh Katiyar"
 description: "Rajesh Katiyar is a Mid-career Biochar researcher at Harcourt Butler Technical University in IN. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.937010
+date: 2026-08-11T01:33:11.833097
 url: "/cdr-researcher-census/researchers/rajesh-katiyar-a5112585/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Eco-friendly Fe3O4-biochar nanocomposite from sawdust for efficient chromium removal: A study on adsorption of Cr(VI)** (2025)
-   2 citations · Biochar
+   3 citations · Biochar
 
 ## External Profiles
 

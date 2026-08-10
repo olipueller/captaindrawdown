@@ -1,7 +1,7 @@
 ---
 title: "Chengfang Li"
 description: "Chengfang Li is a Senior Soil Carbon researcher at College of Plant Science and Technology in CN. With 135 publications and an h-index of 31, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.159701
+date: 2026-08-11T01:33:11.136145
 url: "/cdr-researcher-census/researchers/chengfang-li-a5101811/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of long-term no tillage and straw return on greenhouse gas emissions and crop yields from a rice-wheat system in central China** (2021)
-   122 citations · Soil Carbon
+   124 citations · Soil Carbon
 
 2. **Application rates of nitrogen fertilizers change the pattern of soil organic carbon fractions in a rice-wheat rotation system in China** (2022)
    37 citations · Soil Carbon
@@ -60,16 +60,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    18 citations · Soil Carbon
 
 4. **Soil Bacteria Mediate Soil Organic Carbon Sequestration under Different Tillage and Straw Management in Rice-Wheat Cropping Systems** (2022)
-   13 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 5. **Long-term rice–crayfish coculture increases plant lignin but not microbial necromass contribution to soil organic carbon** (2024)
    5 citations · Soil Carbon
 
 6. **Long-term conservation tillage enhances soil organic carbon accumulation in rice-wheat rotation systems by improving aggregate stability and reducing carbon flow from macroaggregates to microaggregates** (2025)
-   1 citations · Soil Carbon
+   3 citations · Soil Carbon
 
 7. **Incorporation of straw from maize and early rice differentiated sequestration and stability of soil organic carbon–A long-term field incubation of 13C-labelled straw under maize -rice and double rice cropping** (2025)
-   1 citations · Soil Carbon
+   2 citations · Soil Carbon
 
 8. **Incorporation of straw from maize and early rice differentiated sequestration and stability of soil organic carbon---A field incubation of 13C-labelled straw under maize -rice and double rice cropping** (2025)
    0 citations · Soil Carbon

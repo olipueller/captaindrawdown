@@ -1,7 +1,7 @@
 ---
 title: "Chloé M. Marcilly"
 description: "Chloé M. Marcilly is an Early-career General CDR researcher at University of Oslo in NO. With 17 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.207595
+date: 2026-08-11T01:33:12.089783
 url: "/cdr-researcher-census/researchers/chloe-m-marcilly-a5047955/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,18 +48,18 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Understanding the early Paleozoic carbon cycle balance and climate change from modelling** (2022)
-   33 citations
+   34 citations
 
 2. **Late Paleozoic climate transition from a long-term carbon cycle modeling perspective** (2025)
-   3 citations
+   6 citations
 
 3. **Revising key parameters for long-term carbon cycle models** (2021)
    2 citations · General CDR
 
-4. **Late Paleozoic climate transition from a long-term climate modelling perspective&amp;#160;** (2025)
-   0 citations
+4. **Late Paleozoic Climate Transition from a Long-Term Climate Modelling Perspective** (2024)
+   1 citations
 
-5. **Late Paleozoic Climate Transition from a Long-Term Climate Modelling Perspective** (2024)
+5. **Late Paleozoic climate transition from a long-term climate modelling perspective&amp;#160;** (2025)
    0 citations
 
 ## External Profiles

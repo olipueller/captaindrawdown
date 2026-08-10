@@ -1,7 +1,7 @@
 ---
 title: "Igor Lapenda Wiesberg"
 description: "Igor Lapenda Wiesberg is a Mid-career General CDR researcher at Universidade Federal do Rio de Janeiro in BR. With 9 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.878413
+date: 2026-08-11T01:33:11.779949
 url: "/cdr-researcher-census/researchers/igor-lapenda-wiesberg-a5022814/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Bioenergy production from sugarcane bagasse with carbon capture and storage: Surrogate models for techno-economic decisions** (2021)
-   35 citations · BECCS
+   36 citations · BECCS
 
 2. **Upgrading exergy utilization and sustainability via supersonic separators: Offshore processing of carbonated natural gas** (2021)
    13 citations · General CDR

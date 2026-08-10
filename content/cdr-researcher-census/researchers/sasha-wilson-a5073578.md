@@ -1,7 +1,7 @@
 ---
 title: "Sasha Wilson"
 description: "Sasha Wilson is a Senior Enhanced Weathering researcher at University of Alberta in CA. With 166 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.110599
+date: 2026-08-11T01:33:11.090081
 url: "/cdr-researcher-census/researchers/sasha-wilson-a5073578/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -66,7 +66,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
    28 citations · Enhanced Weathering
 
 6. **Impact of wet-dry cycles on enhanced rock weathering of brucite, wollastonite, serpentinite and kimberlite: Implications for carbon verification** (2023)
-   16 citations · Enhanced Weathering
+   17 citations · Enhanced Weathering
 
 7. **Weathering and cementation of historic kimberlite residues from South Africa: Implications for residue stabilization and CO2 sequestration** (2024)
    6 citations · Enhanced Weathering

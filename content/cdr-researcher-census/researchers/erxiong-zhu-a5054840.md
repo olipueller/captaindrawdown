@@ -1,7 +1,7 @@
 ---
 title: "Erxiong Zhu"
 description: "Erxiong Zhu is a Senior Soil Carbon researcher at Beijing Botanical Garden in CN. With 47 publications and an h-index of 19, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.305636
+date: 2026-08-11T01:33:11.272663
 url: "/cdr-researcher-census/researchers/erxiong-zhu-a5054840/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Understanding the mechanisms and potential pathways of soil carbon sequestration from the biogeochemistry perspective** (2024)
-   51 citations · Soil Carbon
+   55 citations · Soil Carbon
 
 2. **Enhanced Mineral Preservation Rather Than Microbial Residue Production Dictates the Accrual of Mineral‐Associated Organic Carbon Along a Weathering Gradient** (2024)
-   38 citations · Soil Carbon
+   43 citations · Soil Carbon
 
 3. **Organic Carbon and Lignin Protection by Metal Oxides Versus Silicate Clay: Comparative Study Based on Wetland and Upland Soils** (2023)
-   34 citations · Soil Carbon
+   35 citations · Soil Carbon
 
 4. **Leucaena leucocephala plantations can increase soil organic carbon storage by increasing labile fractions without reducing stability in dry-hot valley savannas** (2025)
    0 citations · Soil Carbon

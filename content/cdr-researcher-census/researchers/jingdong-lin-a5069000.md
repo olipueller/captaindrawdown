@@ -1,7 +1,7 @@
 ---
 title: "Jingdong Lin"
 description: "Jingdong Lin is a Mid-career Soil Carbon researcher at Zhejiang University in CN. With 8 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.129629
+date: 2026-08-11T01:33:12.019129
 url: "/cdr-researcher-census/researchers/jingdong-lin-a5069000/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    23 citations · Soil Carbon
 
 2. **Impact of rhizosphere priming on soil organic carbon dynamics: Insights from the perspective of carbon fractions** (2023)
-   12 citations · Soil Carbon
+   14 citations · Soil Carbon
 
 ## External Profiles
 

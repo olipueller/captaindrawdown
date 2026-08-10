@@ -1,7 +1,7 @@
 ---
 title: "Jian Wang"
 description: "Jian Wang is a Senior Biochar researcher at Jiangsu Provincial Water Survey & Design Institute (China) in CN. With 19 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.342233
+date: 2026-08-11T01:33:12.207814
 url: "/cdr-researcher-census/researchers/jian-wang-a5100729/"
 layout: "researcher"
 hiddenInHomeList: true

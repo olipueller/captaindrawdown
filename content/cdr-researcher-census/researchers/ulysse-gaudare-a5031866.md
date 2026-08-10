@@ -1,7 +1,7 @@
 ---
 title: "Ulysse Gaudaré"
 description: "Ulysse Gaudaré is a Mid-career Soil Carbon researcher at Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement in FR. With 9 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.736072
+date: 2026-08-11T01:33:11.652738
 url: "/cdr-researcher-census/researchers/ulysse-gaudare-a5031866/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,9 +51,12 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Soil organic carbon stocks potentially at risk of decline with organic farming expansion** (2023)
-   58 citations · Soil Carbon
+   60 citations · Soil Carbon
 
-2. **Can an organically farmed world help to mitigate climate change through carbon sequestration?** (2021)
+2. **L’expansion de l’agriculture biologique permettrait-elle d’atténuer les émissions de gaz à effet de serre d’origine agricole ? Une approche systémique à l’échelle mondiale** (2022)
+   0 citations · Soil Carbon
+
+3. **Can an organically farmed world help to mitigate climate change through carbon sequestration?** (2021)
    0 citations · General CDR
 
 ## External Profiles

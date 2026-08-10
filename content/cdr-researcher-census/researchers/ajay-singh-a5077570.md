@@ -1,7 +1,7 @@
 ---
 title: "Ajay Singh"
 description: "Ajay Singh is a Mid-career Soil Carbon researcher at International Crops Research Institute for the Semi-Arid Tropics in IN. With 26 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.546034
+date: 2026-08-11T01:33:11.481444
 url: "/cdr-researcher-census/researchers/ajay-singh-a5077570/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Harnessing the potential of pigeonpea and maize feedstock biochar for carbon sequestration, energy generation, and environmental sustainability** (2024)
-   28 citations
+   32 citations
 
 2. **Comparative Analysis of Pigeonpea Stalk Biochar Characteristics and Energy Use under Different Biochar Production Methods** (2023)
    17 citations · Biochar
@@ -60,7 +60,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    10 citations · Soil Carbon
 
 4. **Biochar‐based nutrient management as a futuristic scalable strategy for C‐sequestration in semiarid tropics** (2023)
-   7 citations · Biochar
+   8 citations · Biochar
 
 5. **Consortium of Management Practices in Long-Run Improves Soil Fertility and Carbon Sequestration in Drylands of Semi-Arid Tropics** (2023)
    4 citations · Soil Carbon

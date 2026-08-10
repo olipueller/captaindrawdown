@@ -1,7 +1,7 @@
 ---
 title: "Tim Repke"
 description: "Tim Repke is a Mid-career General CDR researcher at The London College in GB. With 53 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.608555
+date: 2026-08-11T01:33:11.537449
 url: "/cdr-researcher-census/researchers/tim-repke-a5042348/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **An ecosystem of carbon dioxide removal reviews – part 1: direct air CO <sub>2</sub> capture and storage** (2025)
-   32 citations · General CDR
+   38 citations · General CDR
 
 2. **Scientific literature on carbon dioxide removal revealed as much larger through AI-enhanced systematic mapping** (2025)
-   13 citations · General CDR
+   14 citations · General CDR
 
 3. **Scientific literature on carbon dioxide removal much larger than previously suggested: insights from an AI-enhanced systematic map** (2024)
    7 citations · General CDR
@@ -68,13 +68,16 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 6. **Tweets on carbon dioxide removal** (2023)
    1 citations
 
-7. **Author response for "An Ecosystem of Carbon Dioxide Removal Reviews - Part 1: Direct Air CO2 Capture and Storage"** (2025)
-   0 citations
+7. **An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering** (2026)
+   0 citations · Enhanced Weathering
 
 8. **Author response for "An Ecosystem of Carbon Dioxide Removal Reviews - Part 1: Direct Air CO2 Capture and Storage"** (2025)
+   0 citations
+
+9. **Author response for "An Ecosystem of Carbon Dioxide Removal Reviews - Part 1: Direct Air CO2 Capture and Storage"** (2025)
    0 citations · General CDR
 
-9. **Tweets on carbon dioxide removal** (2023)
+10. **Tweets on carbon dioxide removal** (2023)
    0 citations · General CDR
 
 ## External Profiles

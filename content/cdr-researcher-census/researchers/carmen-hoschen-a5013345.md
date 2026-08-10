@@ -1,7 +1,7 @@
 ---
 title: "Carmen Höschen"
 description: "Carmen Höschen is a Senior Soil Carbon researcher at Technical University of Munich in DE. With 99 publications and an h-index of 25, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.152971
+date: 2026-08-11T01:33:11.129921
 url: "/cdr-researcher-census/researchers/carmen-hoschen-a5013345/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Microscale carbon distribution around pores and particulate organic matter varies with soil moisture regime** (2022)
-   183 citations · Soil Carbon
+   189 citations · Soil Carbon
 
 2. **Association of fresh low-molecular-weight organic compounds with clay-sized mineral fraction in soils of different organic carbon loading** (2021)
-   31 citations
+   32 citations
 
 3. **Organic carbon loading of soils determines the fate of added fresh plant-derived organic matter** (2024)
-   22 citations · Soil Carbon
+   25 citations · Soil Carbon
 
 4. **4D Surface Reconstructions to Study Microscale Structures and Functions in Soil Biogeochemistry** (2021)
    19 citations · Soil Carbon
 
 5. **Increased Retention of Litter‐Derived Organic Carbon With Increasing Initial Carbon Content in Temperate Agricultural Soils** (2025)
-   3 citations · Soil Carbon
+   4 citations · Soil Carbon
 
 6. **Is initial soil organic carbon more important than texture for the fate of carbon inputs into temperate agricultural soils?** (2026)
    0 citations · Soil Carbon

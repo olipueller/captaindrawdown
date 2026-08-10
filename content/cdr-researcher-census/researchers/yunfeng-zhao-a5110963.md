@@ -1,7 +1,7 @@
 ---
 title: "Yunfeng Zhao"
 description: "Yunfeng Zhao is a Senior Soil Carbon researcher at Nanjing Agricultural University in CN. With 31 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.701949
+date: 2026-08-11T01:33:11.621883
 url: "/cdr-researcher-census/researchers/yunfeng-zhao-a5110963/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Moderate precipitation reduction enhances nitrogen cycling and soil nitrous oxide emissions in a semi‐arid grassland** (2023)
-   65 citations · Soil Carbon
+   66 citations · Soil Carbon
 
 2. **Precipitation increase promotes soil organic carbon formation and stability via the mycorrhizal fungal pathway** (2025)
-   13 citations · Soil Carbon
+   17 citations · Soil Carbon
 
 3. **Supplementary original data** (2023)
    0 citations · Soil Carbon

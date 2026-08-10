@@ -1,7 +1,7 @@
 ---
 title: "Josh Hashemi"
 description: "Josh Hashemi is a Mid-career Soil Carbon researcher at Alfred-Wegener-Institut Helmholtz-Zentrum für Polar- und Meeresforschung in DE. With 21 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.719858
+date: 2026-08-11T01:33:11.638024
 url: "/cdr-researcher-census/researchers/josh-hashemi-a5001079/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,10 +51,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **<scp>Pan‐Arctic</scp> soil moisture control on tundra carbon sequestration and plant productivity** (2022)
-   56 citations · General CDR
+   59 citations · General CDR
 
 2. **Earlier snowmelt may lead to late season declines in plant productivity and carbon sequestration in Arctic tundra ecosystems** (2022)
-   38 citations
+   39 citations
 
 3. **Earlier Snowmelt May Lead to Late Season Declines in Plant Productivity and Carbon Sequestration in Arctic Tundra Ecosystems** (2021)
    4 citations · Soil Carbon

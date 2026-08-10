@@ -1,7 +1,7 @@
 ---
 title: "Gunnhild Søgaard"
 description: "Gunnhild Søgaard is a Senior Soil Carbon researcher at Norwegian Institute of Bioeconomy Research in NO. With 50 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.762357
+date: 2026-08-11T01:33:11.676633
 url: "/cdr-researcher-census/researchers/gunnhild-sgaard-a5087827/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Qualitative evaluation of nine agricultural methods for increasing soil carbon storage in Norway** (2024)
-   9 citations · General CDR
+1. **Improved forest management for increased carbon sequestration: An assessment of the most prominent approaches in Norway** (2025)
+   10 citations · General CDR
 
-2. **Improved forest management for increased carbon sequestration: An assessment of the most prominent approaches in Norway** (2025)
-   8 citations · General CDR
+2. **Qualitative evaluation of nine agricultural methods for increasing soil carbon storage in Norway** (2024)
+   9 citations · General CDR
 
 3. **Improved Forest Management for Increased Carbon Sequestration: An Assessment of the Most Prominent Approaches in Norway** (2024)
    0 citations · General CDR

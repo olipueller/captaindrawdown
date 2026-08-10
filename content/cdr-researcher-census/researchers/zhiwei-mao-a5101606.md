@@ -1,7 +1,7 @@
 ---
 title: "Zhiwei Mao"
 description: "Zhiwei Mao is a Mid-career DAC researcher at Oregon State University in US. With 20 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.540219
+date: 2026-08-11T01:33:12.390970
 url: "/cdr-researcher-census/researchers/zhiwei-mao-a5101606/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Carbon Dioxide Capture by Niobium Polyoxometalate Fragmentation** (2024)
-   22 citations
+   23 citations
 
 2. **Implementing vanadium peroxides as direct air carbon capture materials** (2023)
-   13 citations
+   14 citations
 
 3. **Direct observation of carbon dioxide adsorption and binding at the air/aqueous interface** (2025)
-   7 citations · General CDR
+   8 citations · General CDR
 
 4. **Tetraperoxotitanates for High-Capacity Direct Air Capture of Carbon Dioxide** (2024)
    4 citations

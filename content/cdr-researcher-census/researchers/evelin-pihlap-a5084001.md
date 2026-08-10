@@ -1,7 +1,7 @@
 ---
 title: "Evelin Pihlap"
 description: "Evelin Pihlap is a Mid-career Enhanced Weathering researcher at Estonian University of Life Sciences in EE. With 27 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.977240
+date: 2026-08-11T01:33:11.855912
 url: "/cdr-researcher-census/researchers/evelin-pihlap-a5084001/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Mitigation of soil nitrous oxide emissions during maize production with basalt amendments** (2023)
-   35 citations · Enhanced Weathering
+   36 citations · Enhanced Weathering
 
 2. **From waste to soil: Can we create functioning manufactured soils by recycling rock processing waste?** (2024)
    8 citations · Enhanced Weathering
@@ -62,10 +62,13 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 4. **Can we improve soil properties and plant biomass using rock powder as soil amendment?** (2021)
    2 citations · Enhanced Weathering
 
-5. **Spatiotemporal soil fertility responses to enhanced rock weathering along a hillslope catena within a temperate, agricultural watershed** (2026)
+5. **An Ecosystem of Carbon Dioxide Removal Reviews – Part 3: Enhanced Weathering** (2026)
    0 citations · Enhanced Weathering
 
-6. **Effects of enhanced mineral weathering on soil structure and organic carbon storage** (2024)
+6. **Spatiotemporal soil fertility responses to enhanced rock weathering along a hillslope catena within a temperate, agricultural watershed** (2026)
+   0 citations · Enhanced Weathering
+
+7. **Effects of enhanced mineral weathering on soil structure and organic carbon storage** (2024)
    0 citations · Enhanced Weathering
 
 ## External Profiles

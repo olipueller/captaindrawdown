@@ -1,7 +1,7 @@
 ---
 title: "Huiwen Li"
 description: "Huiwen Li is an Early-career Soil Carbon researcher at Northwestern Polytechnical University in CN. With 5 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.064208
+date: 2026-08-11T01:33:11.957971
 url: "/cdr-researcher-census/researchers/huiwen-li-a5049078/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Enhanced Rock Weathering Promotes Soil Organic Carbon Accumulation: A Global Meta‐Analysis Based on Experimental Evidence** (2025)
-   11 citations · Enhanced Weathering
+   14 citations · Enhanced Weathering
 
 2. **Historical and future dynamics of soil organic carbon and driving mechanisms in mountainous soils of China** (2025)
    8 citations · Soil Carbon

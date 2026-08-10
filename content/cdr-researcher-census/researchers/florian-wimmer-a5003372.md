@@ -1,7 +1,7 @@
 ---
 title: "Florian Wimmer"
 description: "Florian Wimmer is a Senior General CDR researcher at University of Kassel in DE. With 56 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.208026
+date: 2026-08-11T01:33:11.181421
 url: "/cdr-researcher-census/researchers/florian-wimmer-a5003372/"
 layout: "researcher"
 hiddenInHomeList: true

@@ -1,7 +1,7 @@
 ---
 title: "Maren Haug Gvein"
 description: "Maren Haug Gvein is an Early-career BECCS researcher at Norwegian University of Science and Technology in NO. With 3 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.362350
+date: 2026-08-11T01:33:12.225908
 url: "/cdr-researcher-census/researchers/maren-haug-gvein-a5036066/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
    94 citations · BECCS
 
 2. **Climate change mitigation potentials of biofuels produced from perennial crops and natural regrowth on abandoned and degraded cropland in Nordic countries** (2022)
-   42 citations · BECCS
+   43 citations · BECCS
 
 ## External Profiles
 

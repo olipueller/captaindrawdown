@@ -1,7 +1,7 @@
 ---
 title: "Baorong Wang"
 description: "Baorong Wang is a Senior Soil Carbon researcher at Northeast Agricultural University in CN. With 117 publications and an h-index of 28, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.130468
+date: 2026-08-11T01:33:11.108989
 url: "/cdr-researcher-census/researchers/baorong-wang-a5016581/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,34 +51,34 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Microbial necromass as the source of soil organic carbon in global ecosystems** (2021)
-   907 citations · Soil Carbon
+   936 citations · Soil Carbon
 
-2. **Initial soil formation by biocrusts: Nitrogen demand and clay protection control microbial necromass accrual and recycling** (2022)
-   201 citations · Soil Carbon
+2. **Increasing contribution of microbial residues to soil organic carbon in grassland restoration chronosequence** (2022)
+   264 citations
 
-3. **Metabolic pathways of CO2 fixing microorganisms determined C-fixation rates in grassland soils along the precipitation gradient** (2022)
-   141 citations · Soil Carbon
+3. **Initial soil formation by biocrusts: Nitrogen demand and clay protection control microbial necromass accrual and recycling** (2022)
+   205 citations · Soil Carbon
 
-4. **The accumulation of microbial necromass carbon from litter to mineral soil and its contribution to soil organic carbon sequestration** (2021)
-   114 citations · Soil Carbon
+4. **Metabolic pathways of CO2 fixing microorganisms determined C-fixation rates in grassland soils along the precipitation gradient** (2022)
+   145 citations · Soil Carbon
 
-5. **Contribution of roots to soil organic carbon: From growth to decomposition experiment** (2023)
-   97 citations · Soil Carbon
+5. **The accumulation of microbial necromass carbon from litter to mineral soil and its contribution to soil organic carbon sequestration** (2021)
+   118 citations · Soil Carbon
 
-6. **Divergent contribution of particulate and mineral-associated organic matter to soil carbon in grassland** (2023)
-   73 citations · Soil Carbon
+6. **Contribution of roots to soil organic carbon: From growth to decomposition experiment** (2023)
+   102 citations · Soil Carbon
 
-7. **Unfolding the Potential of Soil Microbial Community Diversity for Accumulation of Necromass Carbon at Large Scale** (2025)
-   33 citations · Soil Carbon
+7. **Divergent contribution of particulate and mineral-associated organic matter to soil carbon in grassland** (2023)
+   75 citations · Soil Carbon
 
-8. **Arbuscular mycorrhizal fungi hyphal density rather than diversity stimulates microbial necromass accumulation after long-term Robinia pseudoacacia plantations** (2025)
-   25 citations · Soil Carbon
+8. **Unfolding the Potential of Soil Microbial Community Diversity for Accumulation of Necromass Carbon at Large Scale** (2025)
+   38 citations · Soil Carbon
 
 9. **Belowground allocation and fate of tree assimilates in plant–soil–microorganisms system: 13C labeling and tracing under field conditions** (2021)
-   25 citations · Soil Carbon
+   26 citations · Soil Carbon
 
-10. **Root derived C rather than root biomass contributes to the soil organic carbon sequestration in grassland soils with different fencing years** (2021)
-   19 citations · Soil Carbon
+10. **Arbuscular mycorrhizal fungi hyphal density rather than diversity stimulates microbial necromass accumulation after long-term Robinia pseudoacacia plantations** (2025)
+   25 citations · Soil Carbon
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "Chen Zhang"
 description: "Chen Zhang is a Mid-career Soil Carbon researcher at Nanjing Forestry University in CN. With 34 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.673346
+date: 2026-08-11T01:33:11.595802
 url: "/cdr-researcher-census/researchers/chen-zhang-a5100374/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of land clearing for agriculture on soil organic carbon stocks in drylands: A meta‐analysis** (2022)
-   35 citations · Soil Carbon
+   38 citations · Soil Carbon
 
 2. **Long-term nitrogen deposition suppresses microbial necromass carbon with depth- and season-specific patterns in forest soils** (2025)
    6 citations · Soil Carbon

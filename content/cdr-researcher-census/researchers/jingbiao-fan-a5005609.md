@@ -1,7 +1,7 @@
 ---
 title: "Jingbiao Fan"
 description: "Jingbiao Fan is a Mid-career Soil Carbon researcher at North University of China in CN. With 16 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.055571
+date: 2026-08-11T01:33:11.929683
 url: "/cdr-researcher-census/researchers/jingbiao-fan-a5005609/"
 layout: "researcher"
 hiddenInHomeList: true

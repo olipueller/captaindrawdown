@@ -1,7 +1,7 @@
 ---
 title: "Guihua Li"
 description: "Guihua Li is a Mid-career Soil Carbon researcher at Institute of Agricultural Resources and Regional Planning in CN. With 19 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.088913
+date: 2026-08-11T01:33:11.980984
 url: "/cdr-researcher-census/researchers/guihua-li-a5101952/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Nitrogen fertilization affected microbial carbon use efficiency and microbial resource limitations via root exudates** (2024)
-   36 citations · Soil Carbon
+   37 citations · Soil Carbon
 
 2. **Enhancing soil organic carbon sequestration at different depths: The role of chitin-rich organic amendment in salt-affected soils** (2025)
    4 citations · Soil Carbon

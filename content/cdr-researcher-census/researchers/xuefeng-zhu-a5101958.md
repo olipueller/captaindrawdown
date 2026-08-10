@@ -1,7 +1,7 @@
 ---
 title: "Xuefeng Zhu"
 description: "Xuefeng Zhu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 18 publications and an h-index of 12, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.312637
+date: 2026-08-11T01:33:11.279192
 url: "/cdr-researcher-census/researchers/xuefeng-zhu-a5101958/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,22 +51,22 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The soil Microbial Carbon Pump as a new concept for terrestrial carbon sequestration** (2021)
-   171 citations · Soil Carbon
+   175 citations · Soil Carbon
 
 2. **Nitrogen deposition enhances soil organic carbon sequestration through plant–soil–microbe synergies** (2025)
-   16 citations · Soil Carbon
+   19 citations · Soil Carbon
 
 3. **Quantifying asynchrony between microbial necromass and soil organic carbon for sustainable soil carbon management** (2025)
-   12 citations · Soil Carbon
+   18 citations · Soil Carbon
 
 4. **Bacterial community structure and assembly dynamics hinge on plant litter quality** (2023)
-   8 citations
+   9 citations
 
-5. **[Soil microbial carbon pump conceptual framework 2.0].** (2024)
+5. **Subsoil Tillage With Straw Mulching Enhances Top‐Down Control of Deep Soil Carbon Accumulation via Fungal Pathways** (2025)
+   6 citations · Soil Carbon
+
+6. **[Soil microbial carbon pump conceptual framework 2.0].** (2024)
    6 citations · General CDR
-
-6. **Subsoil Tillage With Straw Mulching Enhances Top‐Down Control of Deep Soil Carbon Accumulation via Fungal Pathways** (2025)
-   3 citations · Soil Carbon
 
 7. **Stoichiometry Influences on Microbial Necromass Carbon Contributions to Soil Organic Carbon in A Chinese Fir Plantation Under a 7‐Year Litter Manipulation** (2025)
    1 citations · Soil Carbon

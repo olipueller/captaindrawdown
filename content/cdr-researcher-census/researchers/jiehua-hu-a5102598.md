@@ -1,7 +1,7 @@
 ---
 title: "Jiehua Hu"
 description: "Jiehua Hu is an Early-career Biochar researcher at Xiamen University in CN. With 10 publications and an h-index of 3, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.992867
+date: 2026-08-11T01:33:11.870475
 url: "/cdr-researcher-census/researchers/jiehua-hu-a5102598/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Efficacy of nitrate and biochar@birnessite composite microspheres for simultaneous suppression of As(III) mobilization and greenhouse gas emissions in flooded paddy soils** (2025)
-   53 citations · Biochar
+   56 citations · Biochar
 
 ## External Profiles
 

@@ -1,7 +1,7 @@
 ---
 title: "R. Amutha"
 description: "R. Amutha is a Senior Soil Carbon researcher at Tamil Nadu Agricultural University in IN. With 40 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.332814
+date: 2026-08-11T01:33:12.199568
 url: "/cdr-researcher-census/researchers/r-amutha-a5033034/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Silicon as a key driver of phytolith and phytolith-occluded carbon sequestration for climate change mitigation in rice ecosystems - a review** (2024)
+1. **Integrating soil physical property management to foster chemical and biological resilience in sustainable crop systems** (2025)
    1 citations · Soil Carbon
 
-2. **Integrating soil physical property management to foster chemical and biological resilience in sustainable crop systems** (2025)
-   0 citations · Soil Carbon
+2. **Silicon as a key driver of phytolith and phytolith-occluded carbon sequestration for climate change mitigation in rice ecosystems - a review** (2024)
+   1 citations · Soil Carbon
 
 ## External Profiles
 

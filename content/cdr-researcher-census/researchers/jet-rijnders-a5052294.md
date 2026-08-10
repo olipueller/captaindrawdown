@@ -1,7 +1,7 @@
 ---
 title: "Jet Rijnders"
 description: "Jet Rijnders is a Mid-career Enhanced Weathering researcher at University of Antwerp in BE. With 31 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.764097
+date: 2026-08-11T01:33:11.678419
 url: "/cdr-researcher-census/researchers/jet-rijnders-a5052294/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,16 +51,16 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 ## Top CDR Publications
 
 1. **Is the climate change mitigation effect of enhanced silicate weathering governed by biological processes?** (2021)
-   139 citations · Enhanced Weathering
+   140 citations · Enhanced Weathering
 
 2. **Earthworms in an enhanced weathering mesocosm experiment: Effects on soil carbon sequestration, base cation exchange and soil CO2 efflux** (2024)
-   23 citations · Enhanced Weathering
+   24 citations · Enhanced Weathering
 
-3. **Enhanced Rock Weathering Altered Soil Organic Carbon Fluxes in a Plant Trial** (2025)
-   13 citations · Enhanced Weathering
+3. **Beyond Inorganic C: Soil Organic C as a Key Pathway for Carbon Sequestration in Enhanced Weathering** (2025)
+   15 citations · Enhanced Weathering
 
-4. **Beyond Inorganic C: Soil Organic C as a Key Pathway for Carbon Sequestration in Enhanced Weathering** (2025)
-   13 citations · Enhanced Weathering
+4. **Enhanced Rock Weathering Altered Soil Organic Carbon Fluxes in a Plant Trial** (2025)
+   14 citations · Enhanced Weathering
 
 5. **The effects of dunite fertilization on growth and elemental composition of barley and wheat differ with dunite grain size and rainfall regimes** (2023)
    10 citations · Enhanced Weathering
@@ -68,17 +68,17 @@ Accelerating natural weathering reactions to capture CO₂ and store it in carbo
 6. **Soil Carbon Sequestration and the Role of Earthworms in an Enhanced Weathering Mesocosm Experiment** (2023)
    6 citations · Enhanced Weathering
 
-7. **Weathering without inorganic CDR revealed through cation tracing** (2025)
+7. **Higher Inorganic CO <sub>2</sub> Removal Despite Slower Weathering in an Enhanced Weathering Experiment With Steel Slags and Basalt** (2026)
    3 citations · Enhanced Weathering
 
-8. **Earthworms in an Enhanced Weathering Mesocosm Experiment:Effects on Soil Carbon Sequestration, Base Cation Exchange and Soil Co2 Efflux** (2023)
+8. **Weathering without inorganic CDR revealed through cation tracing** (2025)
    3 citations · Enhanced Weathering
 
-9. **Higher Inorganic CO <sub>2</sub> Removal Despite Slower Weathering in an Enhanced Weathering Experiment With Steel Slags and Basalt** (2026)
-   2 citations · Enhanced Weathering
+9. **Beyond inorganic carbon: Soil organic carbon as key pathway for carbon sequestration in Enhanced Weathering** (2025)
+   3 citations · Enhanced Weathering
 
-10. **Beyond inorganic carbon: Soil organic carbon as key pathway for carbon sequestration in Enhanced Weathering** (2025)
-   2 citations · Enhanced Weathering
+10. **Earthworms in an Enhanced Weathering Mesocosm Experiment:Effects on Soil Carbon Sequestration, Base Cation Exchange and Soil Co2 Efflux** (2023)
+   3 citations · Enhanced Weathering
 
 ## External Profiles
 

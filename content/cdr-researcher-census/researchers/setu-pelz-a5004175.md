@@ -1,7 +1,7 @@
 ---
 title: "Setu Pelz"
 description: "Setu Pelz is a Mid-career General CDR researcher at International Institute for Applied Systems Analysis in AT. With 93 publications and an h-index of 15, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.424523
+date: 2026-08-11T01:33:11.376963
 url: "/cdr-researcher-census/researchers/setu-pelz-a5004175/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Understanding land-based carbon dioxide removal in the context of the Rio Conventions** (2024)
-   12 citations · General CDR
+   14 citations · General CDR
 
 2. **Fair carbon removal obligations under climate response uncertainty** (2025)
    5 citations · General CDR

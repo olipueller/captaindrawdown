@@ -1,7 +1,7 @@
 ---
 title: "Baohua Xie"
 description: "Baohua Xie is a Senior Soil Carbon researcher at Liaocheng University in CN. With 70 publications and an h-index of 30, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.159260
+date: 2026-08-11T01:33:11.135719
 url: "/cdr-researcher-census/researchers/baohua-xie-a5073022/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Spartina alterniflora invasion impacts soil organic carbon sequestration and stability in salt marsh wetlands** (2025)
-   6 citations · Soil Carbon
+   8 citations · Soil Carbon
 
 2. **Moderate nitrogen enrichment increases CO<sub>2</sub> sink strength in a coastal wetland** (2024)
    1 citations · Soil Carbon

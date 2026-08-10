@@ -1,7 +1,7 @@
 ---
 title: "Yash P. Dang"
 description: "Yash P. Dang is a Senior Soil Carbon researcher at The University of Queensland in AU. With 155 publications and an h-index of 38, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.126502
+date: 2026-08-11T01:33:11.105187
 url: "/cdr-researcher-census/researchers/yash-p-dang-a5013229/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Impacts of the components of conservation agriculture on soil organic carbon and total nitrogen storage: A global meta-analysis** (2022)
-   95 citations · Soil Carbon
+   96 citations · Soil Carbon
 
 2. **A comprehensive review of soil organic carbon estimates: Integrating remote sensing and machine learning technologies** (2024)
-   46 citations · General CDR
+   48 citations · General CDR
 
 3. **Optimizing the rate of straw returning to balance trade-offs between carbon emission budget and rice yield in China** (2024)
-   40 citations · Soil Carbon
+   43 citations · Soil Carbon
 
 4. **Effects of conservation agriculture on carbon mineralization: A global meta-analysis** (2023)
    33 citations · Soil Carbon
@@ -68,17 +68,17 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 6. **Enhancing soil ecosystem multifunctionality through combined conservation tillage and legume-based crop rotation in the North China Plain** (2024)
    29 citations · Soil Carbon
 
-7. **Effects of fertilizer application strategies on soil organic carbon and total nitrogen storage under different agronomic practices: A meta‐analysis** (2023)
-   28 citations · General CDR
+7. **Changes in cropland soil carbon through improved management practices in China: A meta-analysis** (2022)
+   29 citations · Soil Carbon
 
-8. **Changes in cropland soil carbon through improved management practices in China: A meta-analysis** (2022)
-   28 citations · Soil Carbon
+8. **Effects of fertilizer application strategies on soil organic carbon and total nitrogen storage under different agronomic practices: A meta‐analysis** (2023)
+   28 citations · General CDR
 
 9. **Conservation tillage increases surface soil organic carbon stock by altering fungal communities and enzyme activity** (2023)
    25 citations · Soil Carbon
 
 10. **Improving soil organic carbon sequestration through conservation tillage incorporating legume-based crop rotations** (2025)
-   11 citations · Soil Carbon
+   12 citations · Soil Carbon
 
 ## External Profiles
 

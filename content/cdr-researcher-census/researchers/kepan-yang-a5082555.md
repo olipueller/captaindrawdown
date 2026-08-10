@@ -1,7 +1,7 @@
 ---
 title: "Kepan Yang"
 description: "Kepan Yang is an Early-career Soil Carbon researcher. With 10 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.364272
+date: 2026-08-11T01:33:12.227412
 url: "/cdr-researcher-census/researchers/kepan-yang-a5082555/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Effects of legume intercropping and nitrogen input on net greenhouse gas balances, intensity, carbon footprint and crop productivity in sweet maize cropland in South China** (2021)
-   76 citations · Soil Carbon
+   78 citations · Soil Carbon
 
 ## External Profiles
 

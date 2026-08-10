@@ -1,7 +1,7 @@
 ---
 title: "Narcisa Smječanin Omerbegović"
 description: "Narcisa Smječanin Omerbegović is an Early-career BECCS researcher at University of Sarajevo in BA. With 11 publications and an h-index of 2, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.274274
+date: 2026-08-11T01:33:12.148669
 url: "/cdr-researcher-census/researchers/narcisa-smjecanin-omerbegovic-a5114542/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Combining biomass energy with carbon capture and storage to achieve negative emi
 ## Top CDR Publications
 
 1. **Cutting-edge biomass gasification technologies for renewable energy generation and achieving net zero emissions** (2024)
-   121 citations · BECCS
+   129 citations · BECCS
 
 2. **Bioenergy with carbon capture and storage technology to achieve net zero emissions–A review** (2024)
-   31 citations · BECCS
+   34 citations · BECCS
 
 ## External Profiles
 

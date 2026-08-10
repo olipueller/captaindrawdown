@@ -1,7 +1,7 @@
 ---
 title: "Carlos Eduardo Pellegrino Cerri"
 description: "Carlos Eduardo Pellegrino Cerri is an Eminent Soil Carbon researcher at University of Sao Paulo in BR. With 551 publications and an h-index of 90, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.082340
+date: 2026-08-11T01:33:11.063550
 url: "/cdr-researcher-census/researchers/carlos-eduardo-pellegrino-cerri-a5082434/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,19 +51,19 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Land Use and Management Effects on Sustainable Sugarcane-Derived Bioenergy** (2021)
-   116 citations
+   119 citations
 
 2. **Potential of no-till agriculture as a nature-based solution for climate-change mitigation in Brazil** (2022)
    59 citations · General CDR
 
 3. **Changes in soil carbon and soil carbon sequestration potential under different types of pasture management in Brazil** (2022)
-   48 citations · Soil Carbon
+   49 citations · Soil Carbon
 
 4. **Potential of soil minerals to sequester soil organic carbon** (2023)
-   40 citations
+   42 citations
 
 5. **Greenhouse gas fluxes in brazilian climate-smart agricultural and livestock systems: A systematic and critical overview** (2024)
-   23 citations · General CDR
+   24 citations · General CDR
 
 6. **Carbon farming initiative: a national-scale public-private partnership to promote regenerative agriculture in Brazil** (2024)
    16 citations · General CDR
@@ -71,11 +71,11 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 7. **Soil carbon allocation, composition, and sequestration changes induced by cropping diversification in tropical systems** (2025)
    15 citations · Soil Carbon
 
-8. **Carbon Farming: Nature-Based Solutions in Brazil** (2023)
-   12 citations · General CDR
+8. **Simulation of changes in C and N stocks with land use and cover in Amazon Forest-Cerrado transition environment** (2021)
+   14 citations · Soil Carbon
 
-9. **Simulation of changes in C and N stocks with land use and cover in Amazon Forest-Cerrado transition environment** (2021)
-   12 citations · Soil Carbon
+9. **Carbon Farming: Nature-Based Solutions in Brazil** (2023)
+   12 citations · General CDR
 
 10. **Carbon balance in the sugarcane sector - Conference Report** (2022)
    11 citations · BECCS

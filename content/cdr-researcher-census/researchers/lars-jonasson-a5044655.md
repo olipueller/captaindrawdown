@@ -1,7 +1,7 @@
 ---
 title: "Lars Jonasson"
 description: "Lars Jonasson is a Senior Soil Carbon researcher. With 20 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.856476
+date: 2026-08-11T01:33:11.759235
 url: "/cdr-researcher-census/researchers/lars-jonasson-a5044655/"
 layout: "researcher"
 hiddenInHomeList: true

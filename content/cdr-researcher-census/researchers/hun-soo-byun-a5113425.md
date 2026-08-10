@@ -1,7 +1,7 @@
 ---
 title: "Hun-Soo Byun"
 description: "Hun-Soo Byun is a Senior Ocean CDR researcher at Chonnam National University in KR. With 14 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.491183
+date: 2026-08-11T01:33:12.345397
 url: "/cdr-researcher-census/researchers/hun-soo-byun-a5113425/"
 layout: "researcher"
 hiddenInHomeList: true

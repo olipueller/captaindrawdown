@@ -1,7 +1,7 @@
 ---
 title: "Mingke Luo"
 description: "Mingke Luo is a Mid-career Biochar researcher at Chinese Research Academy of Environmental Sciences in CN. With 24 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.285187
+date: 2026-08-11T01:33:11.253043
 url: "/cdr-researcher-census/researchers/mingke-luo-a5031822/"
 layout: "researcher"
 hiddenInHomeList: true

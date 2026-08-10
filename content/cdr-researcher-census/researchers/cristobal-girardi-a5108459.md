@@ -1,7 +1,7 @@
 ---
 title: "Cristobal Girardi"
 description: "Cristobal Girardi is a Senior Biochar researcher at Fundación Chile in CL. With 6 publications and an h-index of 4, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.548307
+date: 2026-08-11T01:33:11.483512
 url: "/cdr-researcher-census/researchers/cristobal-girardi-a5108459/"
 layout: "researcher"
 hiddenInHomeList: true

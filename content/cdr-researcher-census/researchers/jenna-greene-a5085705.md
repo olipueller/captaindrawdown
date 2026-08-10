@@ -1,7 +1,7 @@
 ---
 title: "Jenna Greene"
 description: "Jenna Greene is a Mid-career General CDR researcher at University of Wisconsin–Madison in US. With 20 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.206016
+date: 2026-08-11T01:33:12.088362
 url: "/cdr-researcher-census/researchers/jenna-greene-a5085705/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,13 +51,13 @@ Cross-cutting research supporting multiple CDR pathways or the general CDR field
 ## Top CDR Publications
 
 1. **Near-term deployment of novel carbon removal to facilitate longer-term deployment** (2023)
-   46 citations · General CDR
+   47 citations · General CDR
 
 2. **Dataset on the adoption of historical technologies informs the scale-up of emerging carbon dioxide removal measures** (2023)
-   40 citations · General CDR
+   41 citations · General CDR
 
 3. **Modeling direct air carbon capture and storage in a 1.5 °C climate future using historical analogs** (2024)
-   38 citations · DAC
+   40 citations · DAC
 
 4. **Review of Economics and Policies of Carbon Dioxide Removal** (2025)
    14 citations · BECCS

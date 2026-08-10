@@ -1,7 +1,7 @@
 ---
 title: "Fangchao Zhang"
 description: "Fangchao Zhang is a Mid-career Soil Carbon researcher at Peking University in CN. With 15 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.305596
+date: 2026-08-11T01:33:12.175517
 url: "/cdr-researcher-census/researchers/fangchao-zhang-a5022794/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,7 +54,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    8 citations · Soil Carbon
 
 2. **Chemical Recalcitrance Rather Than Soil Microbial Community Determined Short-Term Biochar Stability in a Poplar Plantation Soil** (2024)
-   5 citations · Biochar
+   7 citations · Biochar
 
 ## External Profiles
 

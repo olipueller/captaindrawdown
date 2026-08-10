@@ -1,7 +1,7 @@
 ---
 title: "Liangjie Sun"
 description: "Liangjie Sun is a Mid-career Soil Carbon researcher at Shanghai Institute of Applied Physics in CN. With 39 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.504562
+date: 2026-08-11T01:33:11.444578
 url: "/cdr-researcher-census/researchers/liangjie-sun-a5100914/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -54,16 +54,16 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
    21 citations · Soil Carbon
 
 3. **Conservation tillage enhances both organic and inorganic carbon in dryland: Insights from a 20-year field experiment and meta-analysis** (2025)
-   9 citations · Soil Carbon
+   10 citations · Soil Carbon
 
 4. **Effects of Adding Different Corn Residue Components on Soil and Aggregate Organic Carbon** (2025)
    7 citations · Soil Carbon
 
-5. **Enhancing soil ecological stoichiometry and orchard yield through ground cover management: A meta-analysis across China** (2025)
+5. **Agricultural management-driven soil inorganic carbon dynamics: Evidence from Chinese field experiments** (2025)
    5 citations · Soil Carbon
 
-6. **Agricultural management-driven soil inorganic carbon dynamics: Evidence from Chinese field experiments** (2025)
-   4 citations · Soil Carbon
+6. **Enhancing soil ecological stoichiometry and orchard yield through ground cover management: A meta-analysis across China** (2025)
+   5 citations · Soil Carbon
 
 7. **Cultivating crop reduces microbial necromass carbon accumulation but contributes fungal derived- soil organic carbon formation in fertilized soils with straw addition** (2025)
    3 citations · Soil Carbon

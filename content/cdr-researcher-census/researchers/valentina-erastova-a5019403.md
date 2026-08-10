@@ -1,7 +1,7 @@
 ---
 title: "Valentina Erastova"
 description: "Valentina Erastova is a Senior Biochar researcher at University of Edinburgh in GB. With 57 publications and an h-index of 17, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.295517
+date: 2026-08-11T01:33:11.262689
 url: "/cdr-researcher-census/researchers/valentina-erastova-a5019403/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Development of biochar molecular models with controlled porosity** (2024)
-   31 citations · Biochar
+   34 citations · Biochar
 
 2. **Biochars at the molecular level. Part 2 -- Development of realistic molecular models of biochars** (2023)
    5 citations · Biochar

@@ -1,7 +1,7 @@
 ---
 title: "Jinliu Yan"
 description: "Jinliu Yan is a Mid-career Soil Carbon researcher at Guangxi University in CN. With 5 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.487791
+date: 2026-08-11T01:33:12.342008
 url: "/cdr-researcher-census/researchers/jinliu-yan-a5010110/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Introducing N2-fixing tree species into Eucalyptus plantations promotes soil organic carbon sequestration in aggregates by increasing microbial carbon use efficiency** (2023)
-   36 citations · Soil Carbon
+   37 citations · Soil Carbon
 
 ## External Profiles
 

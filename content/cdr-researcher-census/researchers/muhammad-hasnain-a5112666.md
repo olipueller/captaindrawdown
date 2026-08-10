@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Hasnain"
 description: "Muhammad Hasnain is a Mid-career DAC researcher at Tianjin University in CN. With 29 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.431599
+date: 2026-08-11T01:33:11.382795
 url: "/cdr-researcher-census/researchers/muhammad-hasnain-a5112666/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Removing CO₂ directly from ambient air using chemical sorbents or solvents.
 ## Top CDR Publications
 
 1. **Impact of climate change on agricultural production; Issues, challenges, and opportunities in Asia** (2022)
-   401 citations
+   411 citations
 
 2. **From Screening to Generative Design: Advances in ML-Assisted MOFs for Carbon Capture** (2026)
    0 citations · DAC

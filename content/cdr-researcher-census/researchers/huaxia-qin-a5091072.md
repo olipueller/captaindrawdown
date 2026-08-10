@@ -1,7 +1,7 @@
 ---
 title: "Huaxia Qin"
 description: "Huaxia Qin is a Senior Biochar researcher at Xinjiang Medical University in CN. With 11 publications and an h-index of 5, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.992170
+date: 2026-08-11T01:33:11.869818
 url: "/cdr-researcher-census/researchers/huaxia-qin-a5091072/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Competitive adsorption-degradation of DMP/DBP via peroxydisulfate activation by Fe-biochar composites: performance and reaction mechanisms** (2026)
-   0 citations · Biochar
+   1 citations · Biochar
 
 ## External Profiles
 

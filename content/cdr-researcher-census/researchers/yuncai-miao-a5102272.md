@@ -1,7 +1,7 @@
 ---
 title: "Yuncai Miao"
 description: "Yuncai Miao is a Mid-career Soil Carbon researcher at Institute of Soil Science in CN. With 14 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.741709
+date: 2026-08-11T01:33:11.658168
 url: "/cdr-researcher-census/researchers/yuncai-miao-a5102272/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Field-aged biochar enhances soil organic carbon by increasing recalcitrant organic carbon fractions and making microbial communities more conducive to carbon sequestration** (2022)
-   89 citations · Biochar
+   90 citations · Biochar
 
 2. **Lower microbial carbon use efficiency reduces cellulose-derived carbon retention in soils amended with compost versus mineral fertilizers** (2021)
-   40 citations · Soil Carbon
+   41 citations · Soil Carbon
 
 3. **Long-Term Compost Amendment Spurs Cellulose Decomposition by Driving Shifts in Fungal Community Composition and Promoting Fungal Diversity and Phylogenetic Relatedness** (2022)
    20 citations · Soil Carbon

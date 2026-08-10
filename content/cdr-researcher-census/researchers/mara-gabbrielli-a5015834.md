@@ -1,7 +1,7 @@
 ---
 title: "Mara Gabbrielli"
 description: "Mara Gabbrielli is a Mid-career Soil Carbon researcher at University of Milan in IT. With 15 publications and an h-index of 7, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.563071
+date: 2026-08-11T01:33:12.408630
 url: "/cdr-researcher-census/researchers/mara-gabbrielli-a5015834/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Simulating soil greenhouse gases emissions with the ARMOSA model: calibration with continuous field measures of CO2 and N2O soil fluxes from the AGRESTIC Project.** (2023)
-   0 citations · Soil Carbon
+   1 citations · Soil Carbon
 
 ## External Profiles
 

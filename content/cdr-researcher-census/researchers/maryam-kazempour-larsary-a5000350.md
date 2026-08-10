@@ -1,7 +1,7 @@
 ---
 title: "Maryam Kazempour Larsary"
 description: "Maryam Kazempour Larsary is a Mid-career Soil Carbon researcher at University of Guilan in IR. With 11 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.060669
+date: 2026-08-11T01:33:11.934297
 url: "/cdr-researcher-census/researchers/maryam-kazempour-larsary-a5000350/"
 layout: "researcher"
 hiddenInHomeList: true

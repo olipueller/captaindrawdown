@@ -1,7 +1,7 @@
 ---
 title: "Sarah M. Garvey"
 description: "Sarah M. Garvey is a Mid-career Soil Carbon researcher at University of Maryland Center for Environmental Science in US. With 13 publications and an h-index of 6, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.795716
+date: 2026-08-11T01:33:11.706411
 url: "/cdr-researcher-census/researchers/sarah-m-garvey-a5078583/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -51,7 +51,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Diverging patterns at the forest edge: Soil respiration dynamics of fragmented forests in urban and rural areas** (2022)
-   53 citations · Soil Carbon
+   54 citations · Soil Carbon
 
 ## External Profiles
 

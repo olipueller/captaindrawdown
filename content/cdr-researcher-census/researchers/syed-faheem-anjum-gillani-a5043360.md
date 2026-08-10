@@ -1,7 +1,7 @@
 ---
 title: "Syed Faheem Anjum Gillani"
 description: "Syed Faheem Anjum Gillani is a Mid-career Biochar researcher. With 17 publications and an h-index of 9, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:17.191961
+date: 2026-08-11T01:33:12.075769
 url: "/cdr-researcher-census/researchers/syed-faheem-anjum-gillani-a5043360/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -43,7 +43,7 @@ Producing and deploying biochar — charred biomass that sequesters carbon in so
 ## Top CDR Publications
 
 1. **Exploring the Potential of Straw and Biochar Application on Soil Quality Indicators and Crop Yield in Semi-arid Regions** (2024)
-   25 citations · Biochar
+   26 citations · Biochar
 
 ## External Profiles
 

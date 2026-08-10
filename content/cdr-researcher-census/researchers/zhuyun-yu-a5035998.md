@@ -1,7 +1,7 @@
 ---
 title: "Zhuyun Yu"
 description: "Zhuyun Yu is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 9 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.721878
+date: 2026-08-11T01:33:11.639836
 url: "/cdr-researcher-census/researchers/zhuyun-yu-a5035998/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,7 +48,7 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Chemical Composition of Plant Residues Regulates Soil Organic Carbon Turnover in Typical Soils with Contrasting Textures in Northeast China Plain** (2022)
-   20 citations · Soil Carbon
+   21 citations · Soil Carbon
 
 2. **Temporal and Spatial Variations in Soil Elemental Stoichiometry Coupled with Alterations in Agricultural Land Use Types in the Taihu Lake Basin** (2023)
    5 citations · Soil Carbon

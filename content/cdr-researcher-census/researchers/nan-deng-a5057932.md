@@ -1,7 +1,7 @@
 ---
 title: "Nan Deng"
 description: "Nan Deng is a Mid-career Soil Carbon researcher at Henan Normal University in CN. With 16 publications and an h-index of 11, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.569216
+date: 2026-08-11T01:33:11.502235
 url: "/cdr-researcher-census/researchers/nan-deng-a5057932/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **Assessment of heavy metals distribution and environmental risks in biochar from co-pyrolysis of sewage sludge and mixed municipal waste** (2024)
-   27 citations · Biochar
+   28 citations · Biochar
 
 2. **Tree age affects carbon sequestration potential via altering soil bacterial community composition and function** (2024)
-   15 citations · Soil Carbon
+   16 citations · Soil Carbon
 
 3. **Tree species diversity promotes soil microbial carbon fixation gene abundance via nutrient-mediated interactions in subtropical forests** (2026)
    1 citations · Soil Carbon

@@ -1,7 +1,7 @@
 ---
 title: "Songyu Yang"
 description: "Songyu Yang is a Mid-career Soil Carbon researcher at Biology Centre in CZ. With 35 publications and an h-index of 16, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.384827
+date: 2026-08-11T01:33:11.341242
 url: "/cdr-researcher-census/researchers/songyu-yang-a5077822/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -50,11 +50,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 
 ## Top CDR Publications
 
-1. **Soil organic carbon content and mineralization controlled by the composition, origin and molecular diversity of organic matter: A study in tropical alpine grasslands** (2021)
+1. **Contribution of microbial necromass to soil organic carbon in profile depths exhibited opposite patterns across ecosystems: A global meta-analysis** (2025)
+   68 citations · Soil Carbon
+
+2. **Soil organic carbon content and mineralization controlled by the composition, origin and molecular diversity of organic matter: A study in tropical alpine grasslands** (2021)
    65 citations · Soil Carbon
 
-2. **Contribution of microbial necromass to soil organic carbon in profile depths exhibited opposite patterns across ecosystems: A global meta-analysis** (2025)
-   48 citations · Soil Carbon
+3. **Divergent stabilization pathways shape soil carbon sequestration efficiency in restored forests and grasslands** (2026)
+   0 citations · Soil Carbon
 
 ## External Profiles
 

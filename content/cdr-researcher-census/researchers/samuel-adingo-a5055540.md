@@ -1,7 +1,7 @@
 ---
 title: "Samuel Adingo"
 description: "Samuel Adingo is a Mid-career Soil Carbon researcher at Chinese Academy of Sciences in CN. With 28 publications and an h-index of 8, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.897505
+date: 2026-08-11T01:33:11.797169
 url: "/cdr-researcher-census/researchers/samuel-adingo-a5055540/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -53,14 +53,14 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 1. **Soil organic carbon trade-offs under conservation tillage: Carbon stock versus stability mediated by particulate and mineral-associated fractions** (2025)
    7 citations · Soil Carbon
 
-2. **Crop rotation impacts on SOC fraction contents and stability: Insights from a global meta-analysis** (2025)
+2. **Parent material in controlling mineral-associated organic carbon formation pathways: A mineral sieve mechanism** (2026)
+   1 citations
+
+3. **Crop rotation impacts on SOC fraction contents and stability: Insights from a global meta-analysis** (2025)
    1 citations · Soil Carbon
 
-3. **Vertical dynamics of soil organic carbon sequestration under contrasting groundwater table levels after 35-year straw return** (2025)
+4. **Vertical dynamics of soil organic carbon sequestration under contrasting groundwater table levels after 35-year straw return** (2025)
    1 citations · Soil Carbon
-
-4. **Parent material in controlling mineral-associated organic carbon formation pathways: A mineral sieve mechanism** (2026)
-   0 citations
 
 5. **Parent material modulates land use effects on soil organic carbon fractions but not inorganic carbon in subtropical red soils** (2026)
    0 citations

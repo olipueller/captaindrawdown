@@ -1,7 +1,7 @@
 ---
 title: "Brad Oberle"
 description: "Brad Oberle is a Senior Soil Carbon researcher at New York Botanical Garden in US. With 45 publications and an h-index of 14, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.326698
+date: 2026-08-11T01:33:11.291530
 url: "/cdr-researcher-census/researchers/brad-oberle-a5073678/"
 layout: "researcher"
 hiddenInHomeList: true

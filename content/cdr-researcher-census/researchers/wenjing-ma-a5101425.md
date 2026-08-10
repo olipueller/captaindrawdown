@@ -1,7 +1,7 @@
 ---
 title: "Wenjing Ma"
 description: "Wenjing Ma is a Mid-career Biochar researcher at Shanghai Normal University in CN. With 20 publications and an h-index of 10, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.729700
+date: 2026-08-11T01:33:11.647067
 url: "/cdr-researcher-census/researchers/wenjing-ma-a5101425/"
 layout: "researcher"
 hiddenInHomeList: true

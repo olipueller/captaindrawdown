@@ -1,7 +1,7 @@
 ---
 title: "Yuebo Su"
 description: "Yuebo Su is a Mid-career Soil Carbon researcher at Xishuangbanna Tropical Botanical Garden in CN. With 20 publications and an h-index of 13, they are among the top researchers in carbon dioxide removal."
-date: 2026-07-11T22:39:16.672506
+date: 2026-08-11T01:33:11.595013
 url: "/cdr-researcher-census/researchers/yuebo-su-a5070331/"
 layout: "researcher"
 hiddenInHomeList: true
@@ -48,10 +48,10 @@ Enhancing carbon storage in agricultural and terrestrial soils through managemen
 ## Top CDR Publications
 
 1. **The impact of ecological restoration on ecosystem services change modulated by drought and rising <scp>CO<sub>2</sub></scp>** (2023)
-   55 citations · Soil Carbon
+   58 citations · Soil Carbon
 
 2. **Forest structure predicts aboveground biomass better than community-weighted mean of traits, functional diversity, topography, and soil in a tropical forest across spatial scales** (2024)
-   17 citations
+   18 citations
 
 ## External Profiles
 
