@@ -42,3 +42,4 @@ Suhrhoff's voice matters for the broader CDR conversation because he is doing th
 4. **DOI-resolved paper** — [Kukla & Allen, EarthArXiv](https://doi.org/10.31223/x5421q)
 5. **Bluesky** — [@pfriedling.bsky.social](https://bsky.app/profile/pfriedling.bsky.social/post/3mssoxrbupk2k) — *Bluesky post*
 6. **DOI-resolved paper** — [Guo, Strzepek, Swadling et al.](https://doi.org/10.1594/pangaea.995755)
+7. **Zenodo dataset** — [Enhanced weathering literature list (Suhrhoff)](https://doi.org/10.5281/zenodo.15797187)
