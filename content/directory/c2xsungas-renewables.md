@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://sungasrenewables.com/" target="_blank" rel="noopener">https://sungasrenewables.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sungas-renewables%20/" target="_blank" rel="noopener">sungas-renewables%20 — 3,608 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Employees</th><td>~25 (+14% YoY)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sungas-renewables/" target="_blank" rel="noopener">sungas-renewables — 3,768 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Employees</th><td>~23 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -29,6 +29,7 @@ SunGas Renewables (headquartered in Houston, Texas, and majority-owned by C2X Lt
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://sungasrenewables.com/c2x-to-deliver-3-6-million-metric-tons-of-carbon-removal-to-microsoft-over-12-years/))
@@ -44,7 +45,6 @@ SunGas Renewables (headquartered in Houston, Texas, and majority-owned by C2X Lt
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

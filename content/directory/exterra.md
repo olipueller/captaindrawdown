@@ -5,7 +5,7 @@ type: "directory"
 description: "Uses a proprietary hydrometallurgical LOW™ process to extract reactive metal oxides from asbestos mine tailings, and a ROC™ process that reacts those oxides with CO2 to form stable magnesium/calcium"
 url: "/directory/exterra/"
 pathway: "Mineralization"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,9 +14,9 @@ liveliness: "🟠 Suspect"
   <tr><th>Method</th><td>Mineralization (Other)</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://exterratechnologies.com/" target="_blank" rel="noopener">https://exterratechnologies.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/esgnr/" target="_blank" rel="noopener">esgnr — 3,018 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
-  <tr><th>Employees</th><td>~24</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/exterratechnologies/" target="_blank" rel="noopener">exterratechnologies — 3,156 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~26 (+62% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -30,6 +30,11 @@ Exterra Technologies (formerly Exterra Carbon Solutions, rebranded February 2026
 
 ## History
 
+- **2026-08-15** — refresh: coresignal, liveliness
+- **2026-08-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://enkiai.com/exterra-carbon-solutions-dac-initiatives-for-2025-key-projects-strategies-and-partnerships))
+- **2026-08-07** — news mention: Exterra: Proud to formalize our strategic collaboration with SGS to accelerate the validation and sc ([source](https://www.linkedin.com/company/esgnr/#post-3ecdc57c178d))
+- **2026-07-31** — news mention: Exterra Carbon Solutions: Proud to formalize our strategic collaboration with SGS to accelerate the  ([source](https://www.linkedin.com/company/esgnr/#post-36e21f0b6da7))
+- **2026-07-24** — news mention: Exterra Carbon Solutions: We're in. Exterra got picked for the inaugural MaRS Discovery District Fir ([source](https://www.linkedin.com/company/esgnr/#post-66e583bb13ac))
 - **2026-06-15** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://enkiai.com/exterra-carbon-solutions-dac-initiatives-for-2025-key-projects-strategies-and-partnerships))
 - **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://enkiai.com/exterra-carbon-solutions-dac-initiatives-for-2025-key-projects-strategies-and-partnerships))
 - **2026-05-01** — refresh: screenshot
@@ -57,7 +62,6 @@ Exterra Technologies (formerly Exterra Carbon Solutions, rebranded February 2026
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

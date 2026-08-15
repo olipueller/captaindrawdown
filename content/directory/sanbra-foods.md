@@ -5,7 +5,7 @@ type: "directory"
 description: "Prospective biochar production from agricultural residues in Ghana, listed on Puro.earth in early-development/feasibility phase with no CORCs issued to date."
 url: "/directory/sanbra-foods/"
 pathway: "Biochar"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Country</th><td>Ghana</td></tr>
   <tr><th>Website</th><td><a href="https://sanbrafoods-ghana.com/" target="_blank" rel="noopener">https://sanbrafoods-ghana.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sanbrafoods/" target="_blank" rel="noopener">sanbrafoods</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -28,6 +28,8 @@ Sanbra Foods Ghana is an agricultural services company providing soil testing, p
 
 ## History
 
+- **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/sanbra-foods-biochar-161))
+- **2026-07-27** — news mention: Sanbra Foods: A quick look at the EcoFix Kenya Ltd (EFK) biochar facility as commissioning is offici ([source](https://www.linkedin.com/company/sanbrafoods/#post-f788c2bc9d89))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/sanbra-foods-biochar-161))
@@ -46,7 +48,6 @@ Sanbra Foods Ghana is an agricultural services company providing soil testing, p
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

@@ -5,7 +5,7 @@ type: "directory"
 description: "Develops microbial inoculants that accelerate silicate rock dissolution in agricultural soils, paired with a data platform (Toposight) that matches microbial strains to specific soil/environmental"
 url: "/directory/syntopa/"
 pathway: "Enhanced Weathering"
-liveliness: "🟠 Suspect"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -15,8 +15,8 @@ liveliness: "🟠 Suspect"
   <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://syntopa.com/" target="_blank" rel="noopener">https://syntopa.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/syntopa/" target="_blank" rel="noopener">syntopa — 735 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/syntopa/" target="_blank" rel="noopener">syntopa — 743 followers</a></td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>Employees</th><td>~3 (-57% YoY)</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -32,6 +32,8 @@ Founded in 2023 by Hans Holtan, Syntopa develops microbial products addressing t
 
 ## History
 
+- **2026-08-15** — refresh: coresignal, liveliness
+- **2026-08-15** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://www.carbon-drawdown.de/blog/2025-4-22-portfolio-spotlight-syntopa))
 - **2026-07-15** — refresh: coresignal
 - **2026-07-15** — refresh: coresignal
 - **2026-06-15** — refresh: coresignal
@@ -53,7 +55,6 @@ Founded in 2023 by Hans Holtan, Syntopa develops microbial products addressing t
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

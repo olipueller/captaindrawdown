@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>Biomass Burial</td></tr>
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://www.groupebordet.fr/" target="_blank" rel="noopener">https://www.groupebordet.fr/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/groupe-bordet/" target="_blank" rel="noopener">groupe-bordet — 977 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/groupe-bordet/" target="_blank" rel="noopener">groupe-bordet — 1,117 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Employees</th><td>~11 (+38% YoY)</td></tr>
+  <tr><th>Employees</th><td>~16 (+45% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -33,6 +33,7 @@ Groupe Bordet is a French industrial group based in Leuglay (Burgundy) that has 
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.usinenouvelle.com/article/bordet-construit-une-nouvelle-usine-de-charbon-vegetal-dans-la-nievre.N2233125))
@@ -48,7 +49,6 @@ Groupe Bordet is a French industrial group based in Leuglay (Burgundy) that has 
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

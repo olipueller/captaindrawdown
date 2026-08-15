@@ -5,7 +5,7 @@ type: "directory"
 description: "Uses pressurized/transcritical CO₂ to fracture mining ore from within, cutting comminution energy while mineralizing CO₂ into tailings as stable carbonates."
 url: "/directory/rockburst-technologies/"
 pathway: "Mineralization"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.rockburst.tech/" target="_blank" rel="noopener">https://www.rockburst.tech/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/rockburst-technologies/" target="_blank" rel="noopener">rockburst-technologies — 496 followers</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~4</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,6 +31,8 @@ Rockburst Technologies is a Vancouver-based cleantech startup developing CoreBur
 
 ## History
 
+- **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://foresightcac.com/article/rockburst-technologies-spotlight))
+- **2026-07-25** — news mention: Rockburst Technologies: In a recent Rockburst Technologies webinar, CEO Oscar Malpica shared promisi ([source](https://www.linkedin.com/company/rockburst-technologies/#post-5e274d72cfe3))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://foresightcac.com/article/rockburst-technologies-spotlight))
@@ -49,7 +51,6 @@ Rockburst Technologies is a Vancouver-based cleantech startup developing CoreBur
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

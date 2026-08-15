@@ -43,6 +43,11 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-08-05** — news mention: Ocean pHix: Deduci has partnered with Isometric to launch its first US Carbon Removal Portfolio, fea ([source](https://www.linkedin.com/company/exponential-hq/#post-536fd8f1d0c1))
+- **2026-07-31** — news mention: Pacific Biochar: Isometric has issued Pacific Biochar âs first verified carbon removal credits und ([source](https://www.linkedin.com/company/pacific-biochar/#post-dad9639dd5ad))
+- **2026-07-31** — news mention: Pacific Biochar: Our Humboldt Sawmill project has been generating carbon credits since 2020, and was ([source](https://www.linkedin.com/company/pacific-biochar/#post-811efd2c0c8d))
+- **2026-07-31** — news mention: Pacific Biochar/Wren: Our Humboldt Sawmill project has been generating carbon credits since 2020, an ([source](https://www.linkedin.com/company/pacific-biochar/#post-868b6c3c8758))
+- **2026-07-24** — news mention: Pacific Biochar/Wren: Isometric has issued Pacific Biochar ’s first verified carbon removal credits  ([source](https://www.linkedin.com/company/pacific-biochar/#post-8f5379d4865f))
 - **2026-05-11** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://pacificbiochar.com/carbon-removal-with-co-benefits/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
@@ -68,7 +73,6 @@ Independently verified by carbon-credit registries:
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

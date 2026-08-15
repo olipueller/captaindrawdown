@@ -35,6 +35,10 @@ Seqana is a Berlin-based B2B startup providing satellite and machine-learning-ba
 
 ## History
 
+- **2026-08-06** — news mention: Seqana: Soil health is the next frontier in agricultural risk management — and Seqana is building th ([source](https://www.linkedin.com/company/cquest-ai/#post-a421fc7d76df))
+- **2026-08-06** — news mention: Seqana: 📢 Pymwymic invests in Seqana 📢 And just like that, our 15th company to join Fund II! We're e ([source](https://www.linkedin.com/company/cquest-ai/#post-4a0013222747))
+- **2026-07-30** — news mention: Seqana: 📣  ICYMI:  Seqana closed a EUR 3.2 million fundraising round last week! The round was led by ([source](https://www.linkedin.com/company/cquest-ai/#post-02e668982f76))
+- **2026-07-23** — news mention: Seqana: 🎉🎉 Seqana has closed a EUR 3.2 million financing round, led by Pymwymic and joined by our ex ([source](https://www.linkedin.com/company/cquest-ai/#post-0eaa1d800aa8))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
@@ -50,7 +54,6 @@ Seqana is a Berlin-based B2B startup providing satellite and machine-learning-ba
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

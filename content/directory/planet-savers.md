@@ -34,6 +34,9 @@ Planet Savers is a University of Tokyo spinout founded in July 2023, positioned 
 
 ## History
 
+- **2026-07-25** — news mention: Planet Savers: Europe may be approaching a structural shift in the market for durable carbon removal ([source](https://www.linkedin.com/company/planetsavers/#post-d86813e190a7))
+- **2026-07-25** — news mention: Planet Savers: New National Public Polling: Only 12% of Japanese adults say they fully or mostly und ([source](https://www.linkedin.com/company/planetsavers/#post-d4ce27da684b))
+- **2026-07-25** — news mention: Planet Savers: 日本におけるCO2除去技術（CDR）に対する理解は、まだこれからです。 一方で、正しく説明されることで、多くの人がその必要性と可能性を支持することが明らかになりました。  ([source](https://www.linkedin.com/company/planetsavers/#post-9155f48639b5))
 - **2026-05-17** — news mention: Crew Carbon raised $25M to scale wastewater treatment and CO2 removal tech. https://t.co/2FLGVnJmkj  ([source](https://x.com/geoengineering1/status/2056116633303912735))
 - **2026-05-16** — news mention: This Week in CDR - May 15, 2026 | CDR.fyi ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7461066683122716690/))
 - **2026-05-01** — refresh: screenshot
@@ -51,7 +54,6 @@ Planet Savers is a University of Tokyo spinout founded in July 2023, positioned 
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

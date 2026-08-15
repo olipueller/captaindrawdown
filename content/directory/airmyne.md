@@ -34,6 +34,8 @@ AirMyne is a Berkeley, California-based Direct Air Capture startup founded in 20
 
 ## History
 
+- **2026-08-14** — news mention: 61 Mt is a big bet on supply that mostly doesn't exist yet. Most city plans lean on tree planting an ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mszwhmpqwf2i))
+- **2026-07-24** — news mention: AirMyne: 🇯🇵 Team Japan keeps showing up in carbon removal. This time: ENEOS Group , through its corp ([source](https://www.linkedin.com/company/airmyne/#post-2ac059f0b458))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://decarbonfuse.com/posts/announcing-an-eneos-strategic-investment-in-airmyne-to-advance-dac-technology))
 - **2026-04-19** — refresh: coresignal, screenshot
@@ -49,7 +51,6 @@ AirMyne is a Berkeley, California-based Direct Air Capture startup founded in 20
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

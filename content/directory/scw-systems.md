@@ -5,7 +5,7 @@ type: "directory"
 description: "Supercritical water gasification of wet biomass waste into green methane/hydrogen plus biogenic CO2, with a secondary DAC tower (\"CO2 CleanUp\") for atmospheric CO2 removal and geological storage."
 url: "/directory/scw-systems/"
 pathway: "BECCS"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://www.scwsystems.com/" target="_blank" rel="noopener">https://www.scwsystems.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/scw-systems/" target="_blank" rel="noopener">scw-systems — 3,820 followers</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~72 (-23% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -31,6 +31,9 @@ SCW Systems is a Dutch energy-services company in Alkmaar that operates an indus
 
 ## History
 
+- **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://tracxn.com/d/companies/scw-systems/__hOHKyc6IYxk3Js88F7noQAnbzcnYjmEtfhIalUBdUEY/funding-and-investors))
+- **2026-07-30** — news mention: SCW Systems: PFAS pollution is one of the most pressing environmental challenges of our time—togethe ([source](https://www.linkedin.com/company/scw-systems/#post-289e343bdf45))
+- **2026-07-23** — news mention: SCW Systems B.V.: Steel CleanUp selected for funding from the EU Innovation Fund!   Steel CleanUp ha ([source](https://www.linkedin.com/company/scw-systems/#post-edf084a41ee3))
 - **2026-06-15** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://tracxn.com/d/companies/scw-systems/__hOHKyc6IYxk3Js88F7noQAnbzcnYjmEtfhIalUBdUEY/funding-and-investors))
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://tracxn.com/d/companies/scw-systems/__hOHKyc6IYxk3Js88F7noQAnbzcnYjmEtfhIalUBdUEY/funding-and-investors))
 - **2026-05-01** — refresh: screenshot
@@ -58,7 +61,6 @@ SCW Systems is a Dutch energy-services company in Alkmaar that operates an indus
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

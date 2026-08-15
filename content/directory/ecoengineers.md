@@ -5,7 +5,7 @@ type: "directory"
 description: "Third-party verification, auditing, MRV, and advisory services for low-carbon fuels and carbon removal/offset projects across voluntary and compliance markets."
 url: "/directory/ecoengineers/"
 pathway: "Enabling Tech"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.ecoengineers.us/" target="_blank" rel="noopener">https://www.ecoengineers.us/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ecoengineers/" target="_blank" rel="noopener">ecoengineers — 12,858 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~104 (-25% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -30,6 +30,7 @@ EcoEngineers is a Des Moines, Iowa-based consulting, auditing, and advisory firm
 
 ## History
 
+- **2026-08-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
@@ -49,7 +50,6 @@ EcoEngineers is a Des Moines, Iowa-based consulting, auditing, and advisory firm
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

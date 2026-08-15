@@ -5,7 +5,7 @@ type: "directory"
 description: "University-based research and innovation lab running CDR accelerators, open-innovation programs, and MRV/LCA research rather than performing removals directly."
 url: "/directory/suslab/"
 pathway: "Enabling Tech"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.suslab.ch/" target="_blank" rel="noopener">https://www.suslab.ch/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sustainability-in-business-lab/" target="_blank" rel="noopener">sustainability-in-business-lab — 3,454 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~13</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -30,6 +30,9 @@ sus.lab (Sustainability in Business Lab) is a "think and do tank" at ETH Zurich,
 
 ## History
 
+- **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-08-14** — news mention: sus.lab: â´ï¸ Project Launch!!!! HyShip ð¢ We are excited to be part of HyShip, a European innov ([source](https://www.linkedin.com/company/sustainability-in-business-lab/#post-53d818587da7))
+- **2026-07-23** — news mention: sus.lab: ⛴️ Project Launch!!!! HyShip 🚢 We are excited to be part of HyShip, a European innovation p ([source](https://www.linkedin.com/company/sustainability-in-business-lab/#post-3d2c69f42d30))
 - **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
@@ -46,7 +49,6 @@ sus.lab (Sustainability in Business Lab) is a "think and do tank" at ETH Zurich,
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

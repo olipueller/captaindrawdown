@@ -5,7 +5,7 @@ type: "directory"
 description: "Operates controlled gasification units that convert cashew shell waste and other agricultural residues into biochar for soil amendment and durable carbon removal."
 url: "/directory/revata-carbon-pte-ltd/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Singapore</td></tr>
   <tr><th>Website</th><td><a href="https://revatacarbon.com/" target="_blank" rel="noopener">https://revatacarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/revatacarbon/" target="_blank" rel="noopener">revatacarbon — 1,575 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~6</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,9 @@ Revata Carbon is a Singapore-incorporated biochar project developer that convert
 
 ## History
 
+- **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-07-24** — news mention: Revata Carbon PTE LTD: On 18 June 2026, Valency | Revata Carbon inaugurated its biochar production f ([source](https://www.linkedin.com/company/revatacarbon/#post-3ee1b295c80e))
+- **2026-07-24** — news mention: Revata Carbon PTE LTD: Our first bulk biomass export vessel has sailed. A milestone for Revata Carbo ([source](https://www.linkedin.com/company/revatacarbon/#post-ba374b1957f0))
 - **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
@@ -50,7 +53,6 @@ Revata Carbon is a Singapore-incorporated biochar project developer that convert
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

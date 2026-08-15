@@ -30,36 +30,38 @@ Ocean Visions is a US-based science-focused nonprofit that catalyzes research, r
 
 ## History
 
-- **2026-07-14** — news mention: River alkalinity enhancement for scalable and energy-efficient geochemical carbon dioxide removal: p ([source](https://cdrxiv.org/preprint/539))
-- **2026-07-14** — news mention: USV Completes Multi-Domain Ocean Trial With Modular Payload Integration | UST ([source](https://www.unmannedsystemstechnology.com/2026/07/usv-completes-multi-domain-ocean-trial-with-modular-payload-integration/))
-- **2026-07-13** — news mention: 2,700 heat deaths in England and Wales, with climate change adding 3-4C. David Ho is right: cut emis ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mqjez3djfu2l))
-- **2026-07-10** — news mention: Ocean Carbon Removal Market to Reach $2.41 Billion by 2032 - Exclusive Report by Maximize Market Res ([source](https://www.openpr.com/news/4573725/ocean-carbon-removal-market-to-reach-2-41-billion-by-2032))
-- **2026-07-09** — news mention: EU Ocean Act response | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7480923948344487937/))
-- **2026-07-08** — news mention: RT @Climeworks: What makes carbon removal credible?  Meet our Science Team, the people assessing pro ([source](https://x.com/geoengineering1/status/2074892582723911959))
-- **2026-07-07** — news mention: ACUA Ocean USV Collects 100 Hours of Continuous Multi-Domain Data ([source](https://www.marinelink.com/news/acua-ocean-usv-collects-hours-continuous-541009))
-- **2026-07-05** — news mention: Read the full story 👇 https://t.co/uEZwn4pMNd ([source](https://x.com/CekirdekGLOBAL/status/2073667715387052204))
-- **2026-07-05** — news mention: Good point. The airborne fraction has held near 44% for decades, but recent years show wobble. If la ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpufpr4arw2b))
-- **2026-07-03** — news mention: This is why CDR must cover only hard-to-abate residuals, not substitute for cuts. The study's low-CD ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpqtzuaqmu2p))
-- **2026-07-02** — news mention: Toyota Ventures ([source](https://toyota.ventures/))
-- **2026-07-02** — news mention: Frontiers | Editorial: Environmental engineering perspectives on ocean-based carbon dioxide removal ([source](https://www.frontiersin.org/journals/environmental-engineering/articles/10.3389/fenve.2026.1908453/full))
-- **2026-07-02** — news mention: The carbon market broke because the referees were paid by the players. Isometric raised $40M by maki ([source](https://seriesastories.substack.com/p/the-carbon-market-broke-because-the))
-- **2026-07-01** — news mention: Carbon Removal Buyers Are Pumped About Industrial Waste ([source](https://heatmap.news/carbon-removal/surficial-mineralization))
-- **2026-06-29** — news mention: Congrats on getting close to commissioning. A 0.14 H/C ratio plus EBC Feed Grade puts your output in ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpg4q4r7xy2m))
-- **2026-06-29** — news mention: ProPublica's old charge that capture projects underdeliver against nameplate is back in circulation, ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpfprsqg5n2s))
-- **2026-06-29** — news mention: ProPublica's charge that capture projects underdeliver against nameplate is back in circulation, the ([source](https://x.com/CaptainDrawdown/status/2071460579064107151))
-- **2026-06-29** — news mention: Worth separating CCS (point-source on emitters) from CDR (removing legacy CO2). Geologic storage cap ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpfd25epqt26))
-- **2026-06-28** — news mention: Frontiers | Microbial responses to ocean alkalinity enhancement in seasonally hypoxic coastal sedime ([source](https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1854407/full))
-- **2026-06-26** — news mention: Startup Tests Ocean-Powered Data Centers - DevX ([source](https://www.devx.com/daily-news/startup-tests-ocean-powered-data-centers/))
-- **2026-06-25** — news mention: Assessing Environmental Impact, Structural Integrity, and Circular Economy of Sustainable Concrete M ([source](https://www.mdpi.com/2504-477X/10/7/335))
-- **2026-06-25** — news mention: The Oxford Martin Principles' insistence that net-zero alignment requires permanent storage matching ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mp3ye3k7xg2t))
-- **2026-06-25** — news mention: 16 Winners Will Share The Nearly $30M Award From Tencent’s CarbonX 2.0 Program  Tencent has named 16 ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mp3ntouzts25))
-- **2026-06-24** — news mention: First complete map of world’s seagrass offers warnings and hope for conservation | ASU News ([source](https://news.asu.edu/20260624-environment-and-sustainability-first-complete-map-worlds-seagrass-offers-warnings-and-hope))
-- **2026-06-24** — news mention: NOAA Launches Dual Coastwide Ocean Acidification Research Missions - environment coastal & offshore ([source](https://ecomagazine.com/news/research/noaa-launches-dual-coastwide-ocean-acidification-research-missions/))
-- **2026-06-24** — news mention: Could Electrochemistry Help De-Acidify the Oceans? | Science 2.0 ([source](http://www.science20.com/mark_pierce/20260623/could_electrochemistry_help_de_acidify_the_oceans-73878))
-- **2026-06-23** — news mention: Aquaculture of giant kelp - Wikipedia ([source](https://en.wikipedia.org/wiki/Aquaculture_of_giant_kelp))
-- **2026-06-23** — news mention: Largest Ever U.S. Clean Energy Project Begins Operations - Impakter ([source](https://impakter.com/largest-ever-u-s-clean-energy-project-begins-operations/))
-- **2026-06-23** — news mention: Outrage rescued an important ocean research program. Crucial ones remain at risk. ([source](https://grist.org/oceans/trump-nsf-cuts-ocean-research-senate-amoc/))
-- **2026-06-23** — news mention: @CarbonMeld 450k tonnes across 14 buyers signals real portfolio behavior. Worth noting Climeworks it ([source](https://x.com/CaptainDrawdown/status/2069479305239806366))
+- **2026-08-13** — news mention: Dissolution experiment using a mid-ocean ridge basalt exposed to CO2-enriched water. ([source](https://doi.org/10.5281/zenodo.21721004))
+- **2026-08-13** — news mention: Data from "Olivine, basalt and kimberlite as feedstocks for ocean alkalinity enhancement through mar ([source](https://doi.org/10.5281/zenodo.21808606))
+- **2026-08-13** — news mention: Harnessing Ocean Alkalinity Enhancement (OAE) for CO2 Decomposition and Renewable Energy Production  ([source](https://doi.org/10.12962/j25800914.v8i2.4880))
+- **2026-08-13** — news mention: Jupyter Notebooks referring to the paper titled 'Impacts of simulated coastal ocean alkalinity enhan ([source](https://doi.org/10.5281/zenodo.21874676))
+- **2026-08-13** — news mention: Cascade Climate: We’re launching an open call for research funding for carbon removals and superpoll ([source](https://www.linkedin.com/company/cascade-climate/#post-fe335e01a5a3))
+- **2026-08-13** — news mention: 2026 Carbon to Sea OAE Research Call for Proposals - WIOMSA Blog ([source](https://blog.wiomsa.net/2026/08/12/2026-carbon-to-sea-oae-research-call-for-proposals/))
+- **2026-08-13** — news mention: New open calls for carbon removal are currently accepting applications.
+
+Carbon to Sea Initiative op ([source](https://www.linkedin.com/feed/update/urn:li:share:7493335365731176448/))
+- **2026-08-12** — news mention: Director of Finance and Administration at Ocean Visions, Inc ([source](https://ocean-visions.breezy.hr/p/3a0537bf77a3-director-of-finance-and-administration?state=published))
+- **2026-08-12** — news mention: Google ponies up $6 million for CDR research.  Priority research areas span across Ocean Alkalinity  ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3msvl5kqcbc2j))
+- **2026-08-12** — news mention: Blue carbon - Wikipedia ([source](https://en.wikipedia.org/wiki/Blue_carbon))
+- **2026-08-12** — news mention: Vier verschillende routes naar ocean/brine-CDR in één rijtje: elektrochemie, mineralisatie, fotokata ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3msuojff4bz2q))
+- **2026-08-12** — news mention: CDR.fyi: 📰 This week saw some huge developments in durable CDR, as Microsoft bought 23,602 tonnes of ([source](https://www.linkedin.com/company/cdr-fyi/#post-9bb0bb24022d))
+- **2026-08-10** — news mention: Hope and Pressure Both Accelerating. Which One Wins?  Carbon capture becomes recyclable plastic. Oce ([source](https://bsky.app/profile/ctvr-substack.bsky.social/post/3mspzrciumc2e))
+- **2026-08-09** — news mention: Stephen Chow is sometimes overshadowed by other TVB stars but he’s quite good. ([source](https://bsky.app/profile/davidho.bsky.social/post/3msmgaw6yrk23))
+- **2026-08-09** — news mention: Same energy ([source](https://bsky.app/profile/davidho.bsky.social/post/3msmath7cvs23))
+- **2026-08-07** — news mention: Japan’s first direct ocean capture pilot project set to begin in Okinawa ([source](https://www.indianchemicalnews.com/ccus/japans-first-direct-ocean-capture-pilot-project-set-to-begin-in-okinawa-31420))
+- **2026-08-07** — news mention: Climate change - Latest research and news | Nature ([source](https://www.nature.com/subjects/climate-change))
+- **2026-08-07** — news mention: Trump Promotes Commercial Fishing in Protected Pacific Marine National Monuments ([source](https://insideclimatenews.org/news/07082026/commercial-fishing-in-protected-pacific-marine-national-monuments/))
+- **2026-08-07** — news mention: CarbonPlan's collective case for preprinting in CDR is right: preprints surface results 5 to 15 mont ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mshyra2ki426))
+- **2026-08-07** — news mention: Comment on egusphere-2026-4055 ([source](https://doi.org/10.5194/egusphere-2026-4055-rc1))
+- **2026-08-07** — news mention: Seawater carbonate chemistry and data of microcosm experiment on Ocean Alkalinity Enhancement 2023 ([source](https://doi.org/10.1594/pangaea.995755))
+- **2026-08-07** — news mention: Indirect electrification enables the 2°C goal without reliance on carbon dioxide removal ([source](https://doi.org/10.21203/rs.3.rs-10492629/v1))
+- **2026-08-07** — news mention: Autonomous quantification of kelp biomass on offshore aquaculture installations using side scan sona ([source](https://doi.org/10.3389/fmars.2026.1681822))
+- **2026-08-07** — news mention: Seawater carbonate chemistry and response of seasonal marine microbial communities (phytoplankton, b ([source](https://doi.org/10.1594/pangaea.995819))
+- **2026-08-07** — news mention: River dissolved inorganic carbon losses from the Andes to lowland Amazon via cryptic sedimentary exc ([source](https://doi.org/10.31223/x5wj68))
+- **2026-08-07** — news mention: Seafields Solutions Limited: 🔔 🌊 We've been looking forward to sharing this news for quite some time ([source](https://www.linkedin.com/company/seafieldssl/#post-0930e2933591))
+- **2026-08-07** — news mention: Japan's first pilot project for direct-ocean CO2 capture planned | Page 1 ([source](https://www.chemengonline.com/japans-first-pilot-project-for-direct-ocean-co2-capture-planned/))
+- **2026-08-06** — news mention: National Centre for Earth Observation: 🌊 Understanding long-term changes in phytoplankton is essenti ([source](https://www.linkedin.com/company/nceo/#post-29907c82daae))
+- **2026-08-05** — news mention: Japan tests whether carbon pulled from seawater can fuel planes ([source](https://marketbusinessnews.com/japan-tests-whether-carbon-pulled-from-seawater-can-fuel-planes/450413/))
+- **2026-08-05** — news mention: Captura: Congratulations to our investors Hitachi , Mitsui O.S.K. Lines, Ltd. (MOL), and Japan Airli ([source](https://www.linkedin.com/company/capturaco2/#post-e51be41b5640))
 
 ---
 
@@ -68,7 +70,6 @@ Ocean Visions is a US-based science-focused nonprofit that catalyzes research, r
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

@@ -5,7 +5,7 @@ type: "directory"
 description: "Consulting firm advising biochar/pyrolysis project developers on technology, carbon credit certification (e.g. Puro.earth), commercialization, and brokerage rather than operating its own removal"
 url: "/directory/geca-environment/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://gecaenviro.com/" target="_blank" rel="noopener">https://gecaenviro.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/geca-environnement/" target="_blank" rel="noopener">geca-environnement — 5,861 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~9 (-50% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -31,6 +31,10 @@ GECA Environnement is a Quebec City-based consulting firm specializing in biocha
 
 ## History
 
+- **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-08-13** — news mention: GECA Environment: Stop venting the surplus pyrolysis syngas from your biochar facility — turn it int ([source](https://www.linkedin.com/company/geca-environnement/#post-84e4aab4a7c5))
+- **2026-08-06** — news mention: GECA Environment: Canada just put federal money behind biochar infrastructure — and it's coming from ([source](https://www.linkedin.com/company/geca-environnement/#post-c824f2c12283))
+- **2026-07-23** — news mention: GECA Environment: Carbon Removal Gets You Into the Market. Co-Benefits Command a Premium For years,  ([source](https://www.linkedin.com/company/geca-environnement/#post-69880d829e8b))
 - **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
@@ -56,7 +60,6 @@ GECA Environnement is a Quebec City-based consulting firm specializing in biocha
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

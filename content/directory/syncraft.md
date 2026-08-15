@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Austria</td></tr>
   <tr><th>Website</th><td><a href="https://www.syncraft.at/en/" target="_blank" rel="noopener">https://www.syncraft.at/en/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/syncraft/" target="_blank" rel="noopener">syncraft — 4,295 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/syncraft/" target="_blank" rel="noopener">syncraft — 4,415 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~50 (0% YoY)</td></tr>
   <tr><th>Open roles</th><td>8 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
@@ -35,6 +35,14 @@ Syncraft is an Austrian high-tech company based in Schwaz, Tyrol that builds pat
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
+- **2026-08-11** — news mention: #syncraft #gemeinsam #pflanzenkohle #agrobio #grünerkohlenstoff #klimafittelandwirtschaft #bodenfruc ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7492590604539875329/))
+- **2026-08-08** — news mention: Bioenergie Frauenfeld: 🌱 Bioenergie Frauenfeld AG issues first Credits into Isometric registry🌱 We a ([source](https://www.linkedin.com/company/bioenergie-frauenfeld/#post-2850ac662ad0))
+- **2026-08-06** — news mention: Syncraft: Welcoming Bioenergie Ralph Grauel to the Cula platform! A founder-led operation in Mayen,  ([source](https://www.linkedin.com/company/syncraft/#post-db194c10dd15))
+- **2026-08-06** — news mention: Syncraft: 🌱 Bioenergie Frauenfeld AG issues first Credits into Isometric registry🌱 We are proud to s ([source](https://www.linkedin.com/company/syncraft/#post-4dc6624172c8))
+- **2026-07-29** — news mention: #agrobio #pflanzenkohle #syncraft #pflanzenkohle #agrobio #biokohle #grünerkohlenstoff #klimafittela ([source](https://www.linkedin.com/feed/update/urn:li:share:7487836177392259072/))
+- **2026-07-23** — news mention: Syncraft: Baustart in Weißenbach: Das nächste Rückwärtskraftwerk entsteht!💚 Direkt gegenüber dem bes ([source](https://www.linkedin.com/company/syncraft/#post-bd3c9adf2d2b))
+- **2026-07-21** — news mention: #wärme #strom #pflanzenkohle #klimapositiver #syncraft #rückwärtskraftwerk #klimapositiv #pflanzenko ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7484982477392977920/))
 - **2026-07-15** — refresh: coresignal
 - **2026-07-15** — refresh: coresignal
 - **2026-07-08** — news mention: #teamsyncraft #gemeinsamen #syncraft #teamsyncraft #dienstjubiläum #10jahre | SYNCRAFT ([source](https://www.linkedin.com/feed/update/urn:li:share:7480280849477799936/))
@@ -61,7 +69,6 @@ Syncraft is an Austrian high-tech company based in Schwaz, Tyrol that builds pat
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

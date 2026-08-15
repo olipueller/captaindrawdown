@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://www.cawa.tech/" target="_blank" rel="noopener">https://www.cawa.tech/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cawa-tech/" target="_blank" rel="noopener">cawa-tech — 1,279 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~6 (+100% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -31,6 +31,8 @@ Cawa is an Amsterdam-based software startup (founded 2022) that provides API inf
 
 ## History
 
+- **2026-07-25** — news mention: CAWA: New offtake announcement: IMC x Cawa IMC Trading has just secured 4,000 tonnes of Carboneers b ([source](https://www.linkedin.com/company/cawa-tech/#post-3407f9d64c77))
+- **2026-07-25** — news mention: CAWA: Cawa has been endorsed as a C-Sink Trader. 🌍 Cawa is a carbon removal platform built on financ ([source](https://www.linkedin.com/company/cawa-tech/#post-61883bb56371))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.cawa.tech/))
@@ -44,7 +46,6 @@ Cawa is an Amsterdam-based software startup (founded 2022) that provides API inf
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

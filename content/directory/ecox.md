@@ -5,7 +5,7 @@ type: "directory"
 description: "Early-stage biochar project developer planning a pyrolysis facility in Namibia, paired with community development and rewilding, listed as a future supplier on Puro.earth."
 url: "/directory/ecox/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -13,8 +13,8 @@ liveliness: "🟠 Suspect"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://eco-x.com/" target="_blank" rel="noopener">https://eco-x.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/eco-x-llc/" target="_blank" rel="noopener">eco-x-llc — 41 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/eco-x-llc/" target="_blank" rel="noopener">eco-x-llc — 42 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~1</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,9 @@ ecoX, LLC is a US-based pure-play biochar project developer whose mission is to 
 
 ## History
 
+- **2026-08-15** — refresh: coresignal, liveliness
+- **2026-08-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.linkedin.com/in/david-lion-1280478b/))
+- **2026-08-10** — news mention: ecoX: This week eco-x.com unveils its Biochar Production Facility in Minneapolis at USBI and then ne ([source](https://www.linkedin.com/company/eco-x-llc/#post-1d74a3c111f2))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟠 Suspect ([source](https://eco-x.com/))
@@ -45,7 +48,6 @@ ecoX, LLC is a US-based pure-play biochar project developer whose mission is to 
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

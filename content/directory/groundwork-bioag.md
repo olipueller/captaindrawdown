@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Mineralization (Other)</td></tr>
   <tr><th>Country</th><td>Israel</td></tr>
   <tr><th>Website</th><td><a href="https://groundworkbioag.com/" target="_blank" rel="noopener">https://groundworkbioag.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/groundwork-bioagriculture/" target="_blank" rel="noopener">groundwork-bioagriculture — 8,293 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/groundwork-bioagriculture/" target="_blank" rel="noopener">groundwork-bioagriculture — 9,710 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~53 (+10% YoY)</td></tr>
+  <tr><th>Employees</th><td>~55 (+17% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -31,6 +31,8 @@ Groundwork BioAg is an Israeli bioagriculture company headquartered in Mazor tha
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
+- **2026-07-22** — news mention: Groundwork BioAg: Groundwork BioAg is joining forces with Syngenta Group to scale our mycorrhizal te ([source](https://www.linkedin.com/company/groundwork-bioagriculture/#post-63199ca66a64))
 - **2026-07-14** — news mention: Groundwork BioAg Partners With Syngenta To Market Mycorrhiza-Based Soil Solutions ([source](https://carbonherald.com/groundwork-bioag-partners-with-syngenta-to-market-mycorrhiza-based-soil-solutions/?utm_source=rss&utm_medium=rss&utm_campaign=groundwork-bioag-partners-with-syngenta-to-market-mycorrhiza-based-soil-solutions))
 - **2026-07-01** — news mention: Groundwork BioAg Issues First Soil Carbon Credits | ESG News.earth ([source](https://www.esgnews.earth/latest-news/groundwork-bioag-issues-first-soil-carbon-credits/20330.html))
 - **2026-06-30** — news mention: In potential #CDR news related to sargassum, validated performance of the amendment positions SeaGre ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mpjkcu2drk2b))
@@ -54,7 +56,6 @@ Groundwork BioAg is an Israeli bioagriculture company headquartered in Mazor tha
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

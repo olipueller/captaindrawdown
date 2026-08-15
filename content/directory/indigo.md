@@ -34,6 +34,9 @@ Indigo Ag is a US-based sustainable agriculture company whose core business is b
 
 ## History
 
+- **2026-08-12** — news mention: Grow Indigo: Grow Indigo Punjab Wheat Program Achieves FSA Gold and Silver Performance Levels We are ([source](https://www.linkedin.com/company/grow-indigo-pvt-ltd/#post-5add2ed71a3d))
+- **2026-07-28** — news mention: Indigo: Across 2.5 million acres of U.S. farmland, more than 1,400 farmers are turning healthier soi ([source](https://www.linkedin.com/company/indigoag/#post-b87bcd6b2478))
+- **2026-07-22** — news mention: Grow Indigo: Emergent Ventures India (EVI) has purchased and retired carbon credits on behalf of the ([source](https://www.linkedin.com/company/grow-indigo-pvt-ltd/#post-1e553fb1fad9))
 - **2026-06-24** — news mention: The $1.47 Billion Promise of Carbon Farming — But Is It Too Good to Be True? ([source](https://blog.bccresearch.com/the-1.47-billion-promise-of-carbon-farming))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
@@ -50,7 +53,6 @@ Indigo Ag is a US-based sustainable agriculture company whose core business is b
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

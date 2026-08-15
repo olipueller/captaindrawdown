@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.cardinalethanol.com/" target="_blank" rel="noopener">https://www.cardinalethanol.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cardinal-ethanol-llc/" target="_blank" rel="noopener">cardinal-ethanol-llc — 637 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cardinal-ethanol-llc/" target="_blank" rel="noopener">cardinal-ethanol-llc — 725 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~65 (+16% YoY)</td></tr>
+  <tr><th>Employees</th><td>~68 (+11% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -29,6 +29,7 @@ Cardinal Ethanol is an Indiana-based corn ethanol producer (roughly 135-140 mill
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
 - **2026-07-04** — news mention: First Indiana Carbon Capture And Storage Project Approved, 44.01 Begins Development ([source](https://carbonherald.com/first-indiana-carbon-capture-and-storage-project-approved/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
@@ -45,7 +46,6 @@ Cardinal Ethanol is an Indiana-based corn ethanol producer (roughly 135-140 mill
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

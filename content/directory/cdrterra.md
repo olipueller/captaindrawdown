@@ -31,6 +31,15 @@ CDRterra is a German federal research funding program (BMFTR, formerly BMBF) lau
 
 ## History
 
+- **2026-08-12** — news mention: Meet CDRterra scientists: Tom Schürmann and Miriam Übele for NETPEC | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7492871104533901313/))
+- **2026-08-11** — news mention: Great work by Mohammad Sadr, Danial Esmaeili, Matthias Jordan,
+Ronja Wollnik, Daniela Thrän. Their s ([source](https://www.linkedin.com/feed/update/urn:li:share:7492889244089200641/))
+- **2026-08-07** — news mention: CDRterra: 🌱New paper out: “Combining biochar and basanite rock powder enhances carbon dioxide remova ([source](https://www.linkedin.com/company/cdrterra/#post-e4f2b8d926b2))
+- **2026-08-07** — news mention: CDRterra: How can different CDR approaches be combined effectively? A study from our Phase 1 project ([source](https://www.linkedin.com/company/cdrterra/#post-ca3322893d5a))
+- **2026-08-06** — news mention: Frontiers | Combining biochar and basanite rock powder enhances carbon dioxide removal by carbonate  ([source](https://www.linkedin.com/feed/update/urn:li:share:7490701047317815296/))
+- **2026-07-28** — news mention: Meet CDRterra scientists: Anikendra Das and Finn Haberkost for RESET | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7487814957787418625/))
+- **2026-07-24** — news mention: CDRterra: How can carbon dioxide removal (CDR) policies be designed to be not only effective, but al ([source](https://www.linkedin.com/company/cdrterra/#post-144aab44c262))
+- **2026-07-24** — news mention: CDRterra: Wie viel Platz braucht CO₂-Entnahme eigentlich – und was bedeutet das für die Landnutzung  ([source](https://www.linkedin.com/company/cdrterra/#post-82798dbe8556))
 - **2026-07-02** — news mention: CDR: POLICIES AND ETHICS | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7478387791521959936/))
 - **2026-06-27** — news mention: #cdrterra #carbondioxideremoval #cdr #climateresearch | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7476209175195222016/))
 - **2026-06-24** — news mention: #carbondioxideremoval #cdrterra #carbondioxideremoval #cdr #climateresearch #netzero #beccs #daccs # ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7475555039118417921/))
@@ -54,7 +63,6 @@ CDRterra is a German federal research funding program (BMFTR, formerly BMBF) lau
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

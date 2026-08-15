@@ -34,6 +34,13 @@ Abatable is a London-based carbon intelligence and procurement platform for the 
 
 ## History
 
+- **2026-08-13** — news mention: In A New RFP, VodafoneThree Is Seeking UK Tech And Nature-Based Removals Via Abatable ([source](https://carbonherald.com/in-a-new-rfp-vodafonethree-is-seeking-uk-tech-and-nature-based-removals-via-abatable/?utm_source=rss&utm_medium=rss&utm_campaign=in-a-new-rfp-vodafonethree-is-seeking-uk-tech-and-nature-based-removals-via-abatable))
+- **2026-08-13** — news mention: New open calls for carbon removal are currently accepting applications.
+
+Carbon to Sea Initiative op ([source](https://www.linkedin.com/feed/update/urn:li:share:7493335365731176448/))
+- **2026-08-12** — news mention: Blog | VodafoneThree launches UK carbon removals RFP with Abatable | Abatable ([source](https://abatable.com/blog/vodafonethree-partners-with-abatable))
+- **2026-08-12** — news mention: Zero Imprint Limited: The Science Based Targets initiative just quietly created a guaranteed carbon  ([source](https://www.linkedin.com/company/abatable/#post-9a007cb6e0ea))
+- **2026-07-29** — news mention: Blog | EU ETS reform: carbon removals and Article 6 credits | Abatable ([source](https://abatable.com/blog/what-do-the-eu-ets-reforms-mean-for-carbon-credit-markets))
 - **2026-07-10** — news mention: Greenhouses in hot-desert climates deliver high yields with minimal water and land footprint but are ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mqchlbizt22k))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
@@ -55,7 +62,6 @@ Abatable is a London-based carbon intelligence and procurement platform for the 
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

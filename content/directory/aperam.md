@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>Afforestation</td></tr>
   <tr><th>Country</th><td>Brazil</td></tr>
   <tr><th>Website</th><td><a href="https://aperambioenergia.com.br/en/biochar/" target="_blank" rel="noopener">https://aperambioenergia.com.br/en/biochar/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aperam-bioenergia-ltda./" target="_blank" rel="noopener">aperam-bioenergia-ltda. — 318 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aperam-bioenergia-ltda./" target="_blank" rel="noopener">aperam-bioenergia-ltda. — 335 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~139 (-4% YoY)</td></tr>
+  <tr><th>Employees</th><td>~139 (-5% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -33,6 +33,7 @@ Aperam BioEnergia is the Brazilian forestry and renewable-energy unit of Luxembo
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
 - **2026-06-11** — news mention: Aperam Site Visit | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7470409314663337984/))
 - **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://carbonherald.com/the-top-10-carbon-removal-suppliers-in-mid-2025/))
 - **2026-05-01** — refresh: screenshot
@@ -59,7 +60,6 @@ Aperam BioEnergia is the Brazilian forestry and renewable-energy unit of Luxembo
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

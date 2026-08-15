@@ -5,7 +5,7 @@ type: "directory"
 description: "Captures biogenic CO2 separated during biogas-to-biomethane upgrading at its Kalundborg Bioenergi plant, liquefies it cryogenically, and ships it for permanent geological storage in depleted North"
 url: "/directory/bigadan-as/"
 pathway: "BECCS"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Website</th><td><a href="https://bigadan.com/" target="_blank" rel="noopener">https://bigadan.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bigadan-a-s/" target="_blank" rel="noopener">bigadan-a-s — 3,772 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~104</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
   <tr><th>Registry-verified</th><td>Isometric</td></tr>
@@ -39,6 +39,17 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-08-14** — news mention: Bigadan A/S: SÅDAN GÅR DET NOGLE GANGE MED STORE MILEPÆLE… I går indviede vi vores nye CO₂-anlæg i K ([source](https://www.linkedin.com/company/bigadan-a-s/#post-4275408bd7b1))
+- **2026-08-07** — news mention: Bigadan A/S: THERE IS A BIG DIFFERENCE BETWEEN BEING ABLE TO CAPTURE CO₂ - AND BUILDING A BUSINESS A ([source](https://www.linkedin.com/company/bigadan-a-s/#post-87e8369aedea))
+- **2026-08-07** — news mention: Bigadan A/S: We are approaching the start of CO₂ storage in the North Sea – an important milestone f ([source](https://www.linkedin.com/company/bigadan-a-s/#post-03f0e1d6d9f7))
+- **2026-07-30** — news mention: Bigadan A/S: A fantastic milestone with the delivery of the first CO₂ to INEOS' CO₂ storage faciliti ([source](https://www.linkedin.com/company/bigadan-a-s/#post-9bda8c25b7b2))
+- **2026-07-30** — news mention: Bigadan A/S: THIS IS MORE THAN A TRANSACTION The Economist has chosen our BECCS project — bioenergy  ([source](https://www.linkedin.com/company/bigadan-a-s/#post-62c2d51f44f2))
+- **2026-07-30** — news mention: Bigadan A/S: VI HAR INDVIET VORES CO2-FANGST ANLÆG. HVAD HAR DET MED FOLKEMØDET AT GØRE? Det her 👇 e ([source](https://www.linkedin.com/company/bigadan-a-s/#post-53666c3fc344))
+- **2026-07-30** — news mention: Bigadan A/S: FOLKEMØDE 🎧 Der blev talt meget om CCS på Folkemødet. Men hvordan går vi fra debat til  ([source](https://www.linkedin.com/company/bigadan-a-s/#post-5e6933c5f13f))
+- **2026-07-23** — news mention: Bigadan A/S: A fantastic milestone with the delivery of the first COâ to INEOS' COâ storage faci ([source](https://www.linkedin.com/company/bigadan-a-s/#post-166a985df98e))
+- **2026-07-23** — news mention: Bigadan A/S: THIS IS MORE THAN A TRANSACTION The Economist has chosen our BECCS project â bioenerg ([source](https://www.linkedin.com/company/bigadan-a-s/#post-3b6c8dd59f0c))
+- **2026-07-23** — news mention: Bigadan A/S: VI HAR INDVIET VORES CO2-FANGST ANLÃG. HVAD HAR DET MED FOLKEMÃDET AT GÃRE? Det her  ([source](https://www.linkedin.com/company/bigadan-a-s/#post-ffb80e391913))
 - **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
@@ -66,7 +77,6 @@ Independently verified by carbon-credit registries:
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.bioenergie-frauenfeld.ch/" target="_blank" rel="noopener">https://www.bioenergie-frauenfeld.ch/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bioenergie-frauenfeld/" target="_blank" rel="noopener">bioenergie-frauenfeld — 956 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bioenergie-frauenfeld/" target="_blank" rel="noopener">bioenergie-frauenfeld — 1,000 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~350 (+17% YoY)</td></tr>
+  <tr><th>Employees</th><td>~30 (-12% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -30,6 +30,11 @@ Bioenergie Frauenfeld AG is a Swiss wood CHP plant operator jointly owned by Ene
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
+- **2026-08-12** — news mention: Isometric: Isometric has certified its first carbon removal project in Switzerland. Bioenergie Fraue ([source](https://www.linkedin.com/company/exponential-hq/#post-7fb5e90ba3e3))
+- **2026-08-08** — news mention: Bioenergie Frauenfeld: 🌱 Bioenergie Frauenfeld AG issues first Credits into Isometric registry🌱 We a ([source](https://www.linkedin.com/company/bioenergie-frauenfeld/#post-2850ac662ad0))
+- **2026-08-06** — news mention: Syncraft: 🌱 Bioenergie Frauenfeld AG issues first Credits into Isometric registry🌱 We are proud to s ([source](https://www.linkedin.com/company/syncraft/#post-4dc6624172c8))
+- **2026-08-06** — news mention: Isometric Issues First Swiss Biochar Certificates to Bioenergie Frauenfeld AG – Biochar Today ([source](https://biochartoday.com/news/isometric-issues-first-swiss-biochar-certificates-to-bioenergie-frauenfeld-ag/))
 - **2026-05-06** — news mention: #climateweekzurich #bioenergie #carbonremoval #cdr #klimapositiveenergie #resilienteenergieversorgun ([source](https://www.linkedin.com/feed/update/urn:li:share:7457433884553576448/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
@@ -46,7 +51,6 @@ Bioenergie Frauenfeld AG is a Swiss wood CHP plant operator jointly owned by Ene
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

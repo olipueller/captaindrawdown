@@ -31,6 +31,7 @@ Nature Broking is a UK-based natural capital brokerage that builds and manages t
 
 ## History
 
+- **2026-07-24** — news mention: Nature Broking: 🌿 Last week we announced the QBE Buyers Club, and in 48 hours the coverage reached j ([source](https://www.linkedin.com/company/nature-broking/#post-11b7e6ae4a98))
 - **2026-06-27** — news mention: Breakfast and Learn | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7476192017988116481/))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot
@@ -45,7 +46,6 @@ Nature Broking is a UK-based natural capital brokerage that builds and manages t
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

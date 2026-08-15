@@ -30,6 +30,9 @@ Climate Impact Partners is a UK/US-based voluntary carbon market specialist form
 
 ## History
 
+- **2026-08-04** — news mention: Climate Impact Partners: 🎉Major milestone for Bondhu Chula clean cooking project in Bangladesh. http ([source](https://www.linkedin.com/company/climate-impact-partners/#post-cafcb6b76954))
+- **2026-08-01** — news mention: Community Climate Solutions: 🎉 Officially Launched: A New Chapter for the Miombo Woodland Project 🌿  ([source](https://www.linkedin.com/company/communityclimatesolutions/#post-e6ff47b521d1))
+- **2026-07-16** — news mention: Climate Impact Partners - 2026 Company Profile, Team, Funding & Competitors - Tracxn ([source](https://tracxn.com/d/companies/climate-impact-partners/__Ykx91Cv5l0v7cK_bBcqQERkALg5HkwZIiBj1I5hgbIU))
 - **2026-06-11** — news mention: Fortune Global 500 Company Invests In 1M Tonnes Of ARR Credits Via Climate Impact Partners ([source](https://carbonherald.com/fortune-global-500-company-invests-in-1m-tonnes-of-arr-credits-via-climate-impact-partners/?utm_source=rss&utm_medium=rss&utm_campaign=fortune-global-500-company-invests-in-1m-tonnes-of-arr-credits-via-climate-impact-partners))
 - **2026-06-10** — news mention: There’s a difference between understanding carbon removal on paper and seeing it in person.
 
@@ -55,7 +58,6 @@ Earlier ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7469957227
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

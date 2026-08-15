@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://aymium.com/" target="_blank" rel="noopener">https://aymium.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aymium/" target="_blank" rel="noopener">aymium — 1,032 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aymium/" target="_blank" rel="noopener">aymium — 1,076 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~125 (+4% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -30,6 +30,7 @@ Aymium is a U.S. biocarbon producer headquartered in Minnesota with 600+ patents
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
 - **2026-05-17** — news mention: CREW Carbon Secures $25M To Scale Its Wastewater Treatment Optimization Technology  CREW Carbon has  ([source](https://x.com/CaptainDrawdown/status/2055903220996714671))
 - **2026-05-17** — news mention: Canada has the geology to lead global CDR. Surficial mineralization in BC, Quebec, and the Prairies  ([source](https://x.com/CaptainDrawdown/status/2055877885995446668))
 - **2026-05-16** — news mention: Explainer: Biochar is the largest delivered CDR pathway today by tonnes issued on registries like ht ([source](https://x.com/CaptainDrawdown/status/2055544229963629021))
@@ -49,7 +50,6 @@ Aymium is a U.S. biocarbon producer headquartered in Minnesota with 600+ patents
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

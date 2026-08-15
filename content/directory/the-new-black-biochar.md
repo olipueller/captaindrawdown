@@ -14,6 +14,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://linktr.ee/thenewblackbiochar" target="_blank" rel="noopener">https://linktr.ee/thenewblackbiochar</a></td></tr>
   <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Employees</th><td>~30003</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -27,6 +28,7 @@ The New Black Biochar is a small Tasmanian grassroots biochar operation co-found
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
 - **2026-05-01** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://linktr.ee/thenewblackbiochar))
@@ -45,7 +47,6 @@ The New Black Biochar is a small Tasmanian grassroots biochar operation co-found
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

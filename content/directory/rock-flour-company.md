@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Website</th><td><a href="https://www.rockflour.co/" target="_blank" rel="noopener">https://www.rockflour.co/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/itinnera-solutions/" target="_blank" rel="noopener">itinnera-solutions — 2,071 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/rockflourcompany/" target="_blank" rel="noopener">rockflourcompany — 2,290 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~9 (0% YoY)</td></tr>
+  <tr><th>Employees</th><td>~10</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -34,6 +34,12 @@ Founded in 2023 by Greenland native and noted geologist Minik Rosing and climate
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
+- **2026-08-01** — news mention: Terrasols Solutions Private Limited: Data transparency is growing in ERW â and that's worth celebr ([source](https://www.linkedin.com/company/greenlife-sustainability/#post-e888ec9e7a59))
+- **2026-07-26** — news mention: Comment on egusphere-2026-2760 ([source](https://doi.org/10.5194/egusphere-2026-2760-rc2))
+- **2026-07-25** — news mention: Terrasols: Data transparency is growing in ERW — and that's worth celebrating! Today we're announcin ([source](https://www.linkedin.com/company/greenlife-sustainability/#post-79f5f4af12aa))
+- **2026-07-24** — news mention: The Rock Flour Company ApS: Finally, we can share some exciting news we got just before Christmas la ([source](https://www.linkedin.com/company/rockflourcompany/#post-183a403ad3a8))
+- **2026-07-24** — news mention: Rock Flour Company: Finally, we can share some exciting news we got just before Christmas last year  ([source](https://www.linkedin.com/company/itinnera-solutions/#post-183a403ad3a8))
 - **2026-07-15** — refresh: coresignal
 - **2026-07-15** — refresh: coresignal
 - **2026-06-15** — refresh: coresignal
@@ -67,7 +73,6 @@ He shared findings from acros ([source](https://www.linkedin.com/feed/update/urn
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

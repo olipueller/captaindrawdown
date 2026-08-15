@@ -35,6 +35,14 @@ Aircapture, headquartered in Berkeley, CA, is a direct air capture company found
 
 ## History
 
+- **2026-08-14** — news mention: PyroCCS: 🏆 From Lab to Scale.....CarbonX 2.0 Winners of $30M are in. 🌍 We at CDR.fyi are thrilled to ([source](https://www.linkedin.com/company/pyroccs/#post-04a10797fc3a))
+- **2026-08-03** — news mention: Flux: 🏆 From Lab to Scale.....CarbonX 2.0 Winners of $30M are in. 🌍 We at CDR.fyi are thrilled to tr ([source](https://www.linkedin.com/company/flux-earth/#post-04a10797fc3a))
+- **2026-07-31** — news mention: PyroCCS: Direct Air Capture (DAC) wins big for 🇰🇪 Kenya!! 📢 Tencent has announced the winners of its ([source](https://www.linkedin.com/company/pyroccs/#post-8e9257525ee9))
+- **2026-07-27** — news mention: Flux: Direct Air Capture (DAC) wins big for 🇰🇪 Kenya!! 📢 Tencent has announced the winners of its ne ([source](https://www.linkedin.com/company/flux-earth/#post-8e9257525ee9))
+- **2026-07-24** — news mention: PyroCCS: Direct Air Capture (DAC) wins big for ð°ðª Kenya!! ð¢ Tencent has announced the winne ([source](https://www.linkedin.com/company/pyroccs/#post-94e66063f6cb))
+- **2026-07-23** — news mention: Aircapture: 🏆 From Lab to Scale.....CarbonX 2.0 Winners of $30M are in. 🌍 We at CDR.fyi are thrilled ([source](https://www.linkedin.com/company/aircapture-llc/#post-cab7b79b16ad))
+- **2026-07-23** — news mention: Aircapture: CDR.fyi broke down Tencent ’s CarbonX 2.0 program: • 16 winners • 660 applicants • 54 co ([source](https://www.linkedin.com/company/aircapture-llc/#post-3c9a31ad6a40))
+- **2026-07-23** — news mention: Aircapture: The Carbon Herald recently covered Aircapture’s selection as a winner in Tencent ’s Carb ([source](https://www.linkedin.com/company/aircapture-llc/#post-83b23b021fab))
 - **2026-06-25** — news mention: Aircapture's Patented Microwave Direct Air Capture Technology Wins Tencent CarbonX 2.0 Award ([source](https://www.prnewswire.com/news-releases/aircaptures-patented-microwave-direct-air-capture-technology-wins-tencent-carbonx-2-0-award-302809973.html))
 - **2026-05-12** — news mention: Aircapture and Almanac Beer Co. Launch World&#039;s First Commercial Beer Carbonated with CO₂ Captur ([source](https://renewable-carbon.eu/news/?p=176646))
 - **2026-05-01** — refresh: coresignal, screenshot
@@ -52,7 +60,6 @@ Aircapture, headquartered in Berkeley, CA, is a direct air capture company found
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

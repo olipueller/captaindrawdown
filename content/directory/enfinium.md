@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://enfinium.co.uk/" target="_blank" rel="noopener">https://enfinium.co.uk/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/enfiniumuk/" target="_blank" rel="noopener">enfiniumuk — 14,899 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Employees</th><td>~258 (+13% YoY)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/enfiniumuk/" target="_blank" rel="noopener">enfiniumuk — 15,484 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~272 (+12% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -29,6 +29,9 @@ enfinium is one of the UK's largest energy-from-waste operators, running six fac
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
+- **2026-08-12** — news mention: Isometric: Isometric has signed its 200th project developer, SDI Biocarbon Solutions, a subsidiary o ([source](https://www.linkedin.com/company/exponential-hq/#post-b8cba20ea10b))
+- **2026-07-22** — news mention: enfinium: 🎉 A major milestone for enfinium Kelvin! This week, our new Kelvin Energy from Waste facil ([source](https://www.linkedin.com/company/enfiniumuk/#post-308bdb42d904))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://enfinium.co.uk/nuadas-next-generation-carbon-capture-technology-goes-live-at-enfiniums-energy-from-waste-plant/))
@@ -52,7 +55,6 @@ enfinium is one of the UK's largest energy-from-waste operators, running six fac
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

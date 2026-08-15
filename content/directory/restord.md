@@ -29,6 +29,11 @@ Restord is a Cornwall-based UK biochar startup founded by Tom Previte that conve
 
 ## History
 
+- **2026-08-08** — news mention: Restord: Something significant happened for UK carbon removal this week. The UK currently supplies l ([source](https://www.linkedin.com/company/restord-earth/#post-823c835e4bb5))
+- **2026-08-08** — news mention: Restord: A couple of weeks ago, we went public with Restord’s £1m financing deal. This week on Groun ([source](https://www.linkedin.com/company/restord-earth/#post-1e272113bb80))
+- **2026-07-31** — news mention: Restord: How a $200,000 pre-purchase helped unlock a £1m bank loan. Terraset have written the story  ([source](https://www.linkedin.com/company/restord-earth/#post-c5acd34b3150))
+- **2026-07-29** — news mention: Our revolving fund as a model for a national carbon bank ([source](https://terraset.substack.com/p/our-revolving-fund-as-a-model-for))
+- **2026-07-24** — news mention: Restord: Restord Secures First-of-a-Kind £1 Million Financing for UK biochar Big News! We are proud  ([source](https://www.linkedin.com/company/restord-earth/#post-ef27972e8af0))
 - **2026-05-17** — news mention: Crew Carbon raised $25M to scale wastewater treatment and CO2 removal tech. https://t.co/2FLGVnJmkj  ([source](https://x.com/geoengineering1/status/2056116633303912735))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
@@ -45,7 +50,6 @@ Restord is a Cornwall-based UK biochar startup founded by Tom Previte that conve
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

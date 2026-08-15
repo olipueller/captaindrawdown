@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://longstraw.earth/" target="_blank" rel="noopener">https://longstraw.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/longstraw-carbon/" target="_blank" rel="noopener">longstraw-carbon — 1,850 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~5 (+25% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,8 @@ Longstraw Carbon is a Delhi, India-based biochar startup founded in 2024 by Utka
 
 ## History
 
+- **2026-08-07** — news mention: Longstraw Carbon: As our followers might be aware by now - At LongStraw Carbon, we're turning rice h ([source](https://www.linkedin.com/company/longstraw-carbon/#post-9495105190bd))
+- **2026-08-02** — news mention: Engrow: Announcing Cohort 2 of our 🇮🇳 India CDR Startup #Accelerator Program 🌟 We continued to be ov ([source](https://www.linkedin.com/company/engrow-group/#post-58e84bdaa764))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://longstraw.earth/))
@@ -50,7 +52,6 @@ Longstraw Carbon is a Delhi, India-based biochar startup founded in 2024 by Utka
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

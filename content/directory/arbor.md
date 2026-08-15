@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://arbor.co/" target="_blank" rel="noopener">https://arbor.co/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/arbor-energy-resources/" target="_blank" rel="noopener">arbor-energy-resources — 8,359 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/arborenergy/" target="_blank" rel="noopener">arborenergy — 9,738 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~48 (+26% YoY)</td></tr>
+  <tr><th>Employees</th><td>~71 (+43% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,6 +29,8 @@ Arbor is a US-based BECCS startup founded in 2022 that converts waste biomass in
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
+- **2026-07-26** — news mention: Naturalness catalyzes public support for carbon dioxide removal and low-carbon energy technologies ([source](https://doi.org/10.1038/s43247-026-03829-w))
 - **2026-07-02** — news mention: Frontier Climate - Wikipedia ([source](https://en.wikipedia.org/wiki/Frontier_Climate))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
@@ -51,7 +53,6 @@ Arbor is a US-based BECCS startup founded in 2022 that converts waste biomass in
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

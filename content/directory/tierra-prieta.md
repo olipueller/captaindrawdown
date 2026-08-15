@@ -41,6 +41,9 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-08-03** — news mention: Tierra Prieta: ðð Latin America Gets A New Carbon Removal Investment Roadmap Carbon Business C ([source](https://www.linkedin.com/company/tierra-prieta/#post-49a6e25d0f32))
+- **2026-07-27** — news mention: Tierra Prieta: Really appreciate the International Biochar Initiative for featuring Tierra Prieta !  ([source](https://www.linkedin.com/company/tierra-prieta/#post-2cd3168ea3d5))
+- **2026-07-27** — news mention: Tierra Prieta: 🌎📘 Latin America Gets A New Carbon Removal Investment Roadmap Carbon Business Council ([source](https://www.linkedin.com/company/tierra-prieta/#post-c00fd4911a62))
 - **2026-05-11** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://biologicalslatam.com/en/tierra-prieta/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
@@ -60,7 +63,6 @@ Independently verified by carbon-credit registries:
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

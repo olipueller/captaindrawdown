@@ -31,6 +31,10 @@ Carbonaires is a London-based carbon asset management and finance firm that stru
 
 ## History
 
+- **2026-07-29** — news mention: Carbonaires: Carbon Pulse covered a deal we're proud to have helped structure. Shoosmiths has signed ([source](https://www.linkedin.com/company/carbonaires/#post-12ae2dbd5497))
+- **2026-07-29** — news mention: Carbonaires: An Important Step on the Net Zero Journey: Shoosmiths commits to long term carbon remov ([source](https://www.linkedin.com/company/carbonaires/#post-3edd310c1265))
+- **2026-07-22** — news mention: Carbonaires: Carbonaires has signed a five-year forward offtake agreement with Shoosmiths and HUSK . ([source](https://www.linkedin.com/company/carbonaires/#post-c8d95b52ff28))
+- **2026-07-22** — news mention: Carbonaires: Shoosmiths has signed a five-year agreement with Carbonaires to pre-purchase biochar ca ([source](https://www.linkedin.com/company/carbonaires/#post-e0d88d0b6880))
 - **2026-07-10** — news mention: Shoosmiths To Invest In HUSK Biochar Credits Via Carbonaires ([source](https://carbonherald.com/shoosmiths-to-invest-in-husk-biochar-credits-via-carbonaires/?utm_source=rss&utm_medium=rss&utm_campaign=shoosmiths-to-invest-in-husk-biochar-credits-via-carbonaires))
 - **2026-05-03** — news mention: Daily digest: W18 picks from 48 candidate stories. Headline signal this week is a five-year scorecar ([source](https://x.com/CaptainDrawdown/status/2050968952516349989))
 - **2026-05-03** — news mention: Daily digest: W18 picks from 48 candidate stories. Headline signal this week is a five-year scorecar ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkxjpttl6227))
@@ -50,7 +54,6 @@ Carbonaires is a London-based carbon asset management and finance firm that stru
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

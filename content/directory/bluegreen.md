@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Marine CDR (Other)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://bluegreenwatertech.com/" target="_blank" rel="noopener">https://bluegreenwatertech.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bluegreen-water-tech/" target="_blank" rel="noopener">bluegreen-water-tech — 5,539 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Employees</th><td>~41 (+2% YoY)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bluegreen-water-tech/" target="_blank" rel="noopener">bluegreen-water-tech — 5,914 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Employees</th><td>~35 (-17% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ BlueGreen Water Technologies is a US-headquartered (Israel R&D) environmental te
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://carbonherald.com/bluegreen-water-technologies-raises-millions-in-series-b-funding-to-accelerate-water-based-co2-removal-at-scale/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
@@ -56,7 +57,6 @@ BlueGreen Water Technologies is a US-headquartered (Israel R&D) environmental te
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

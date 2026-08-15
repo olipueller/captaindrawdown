@@ -5,7 +5,7 @@ type: "directory"
 description: "Operates SynCraft wood-gasification CHP plants for electricity and heat, collecting the solid carbon residue as EBC-certified biochar for soil amendment and construction materials."
 url: "/directory/forest-energy-inc/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Japan</td></tr>
   <tr><th>Website</th><td><a href="https://forestenergy.jp/" target="_blank" rel="noopener">https://forestenergy.jp/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/forest-energy/" target="_blank" rel="noopener">forest-energy — 150 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~13 (-7% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -31,6 +31,9 @@ Forest Energy Inc. is a Tokyo-based company that develops and operates small-sca
 
 ## History
 
+- **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-08-02** — news mention: Forest Energy Inc: 【Volter | 泉佐野市】 大阪府泉佐野市にて、CHP「Volter」の設置が無事完了しました。 本プロジェクトは自治体主導のもと実施され、地域の持続可能なエ ([source](https://www.linkedin.com/company/forest-energy/#post-6602928461a0))
+- **2026-07-26** — news mention: Forest Energy Inc: ãVolter | æ³ä½éå¸ã å¤§éªåºæ³ä½éå¸ã«ã¦ãCHPãVolterãã®è¨­ç½ ([source](https://www.linkedin.com/company/forest-energy/#post-581bbc0d5f8d))
 - **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
@@ -51,7 +54,6 @@ Forest Energy Inc. is a Tokyo-based company that develops and operates small-sca
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

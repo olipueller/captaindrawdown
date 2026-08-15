@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.angloamerican.com" target="_blank" rel="noopener">https://www.angloamerican.com</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/anglo-american/" target="_blank" rel="noopener">anglo-american — 1,421,454 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Employees</th><td>~26627 (+4% YoY)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/anglo-american/" target="_blank" rel="noopener">anglo-american — 1,450,653 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~26823 (+7% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
   <tr><th>Registry-verified</th><td>Isometric</td></tr>
 </table>
@@ -39,6 +39,8 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
+- **2026-08-12** — news mention: Isometric: Isometric has signed its 200th project developer, SDI Biocarbon Solutions, a subsidiary o ([source](https://www.linkedin.com/company/exponential-hq/#post-b8cba20ea10b))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=side_business liveliness=🟢 Active ([source](https://isometric.com/writing-articles/isometric-partners-with-anglo-american-and-zeroex-to-issue-high-quality-cdr-credits))
@@ -54,7 +56,6 @@ Independently verified by carbon-credit registries:
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

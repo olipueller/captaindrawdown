@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Bolivia</td></tr>
   <tr><th>Website</th><td><a href="https://www.empacar.com.bo/" target="_blank" rel="noopener">https://www.empacar.com.bo/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/empacar-s-a/" target="_blank" rel="noopener">empacar-s-a — 55,768 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~277 (+19% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -30,6 +30,7 @@ Empacar S.A. is Bolivia's largest sustainable packaging and recycling company, f
 
 ## History
 
+- **2026-07-22** — news mention: Cercarbono: Cercarbono has opened the public comment period for the Carbon X Bolivia Circular Plasti ([source](https://www.linkedin.com/company/cercarbono/#post-ab224c9a01f7))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://puro.earth/our-blog/368-empacar-to-scale-biochar-as-high-integrity-carbon-dioxide-removal-pathway-in-bolivia))
 - **2026-04-19** — refresh: coresignal
@@ -44,7 +45,6 @@ Empacar S.A. is Bolivia's largest sustainable packaging and recycling company, f
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

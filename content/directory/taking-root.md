@@ -35,6 +35,9 @@ Taking Root co-founded the CommuniTree Carbon Program with local NGO BOSNICA in 
 
 ## History
 
+- **2026-08-13** — news mention: Taking Root: Today we're making an announcement we've been waiting to share. PV Climate is now CCP-E ([source](https://www.linkedin.com/company/takingroot/#post-56d72f5979b3))
+- **2026-08-13** — news mention: Taking Root: Big news from Plan Vivo . PV Climate has been approved as a CCP-Eligible carbon-crediti ([source](https://www.linkedin.com/company/takingroot/#post-affb2ae9b8e8))
+- **2026-08-11** — news mention: A new type of levee is taking root in Northern California ([source](https://grist.org/solutions/a-new-type-of-levee-is-taking-root-in-northern-california/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://takingroot.com/project/communitree/))
@@ -50,7 +53,6 @@ Taking Root co-founded the CommuniTree Carbon Program with local NGO BOSNICA in 
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

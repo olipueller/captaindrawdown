@@ -31,6 +31,13 @@ Cercarbono is a voluntary carbon certification standard established in Colombia 
 
 ## History
 
+- **2026-08-06** — news mention: Puro.earth's CORC issuance jumped over 60% year-on-year. Its retirement buyer base is 4.7x what it w ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3msfblziy5b2y))
+- **2026-08-05** — news mention: Cercarbono: Cercarbono Achieves The Integrity Council for the Voluntary Carbon Market (ICVCM) CCP-El ([source](https://www.linkedin.com/company/cercarbono/#post-6e1a6b01fbcc))
+- **2026-08-04** — news mention: ICVCM Clears BioCarbon Standard, Cercarbono, And Plan Vivo, Pushing CCP Coverage Past 95% ([source](https://carbonherald.com/icvcm-clears-biocarbon-standard-cercarbono-and-plan-vivo-pushing-ccp-coverage-past-95/?utm_source=rss&utm_medium=rss&utm_campaign=icvcm-clears-biocarbon-standard-cercarbono-and-plan-vivo-pushing-ccp-coverage-past-95))
+- **2026-08-03** — news mention: Tierra Prieta: ðð Latin America Gets A New Carbon Removal Investment Roadmap Carbon Business C ([source](https://www.linkedin.com/company/tierra-prieta/#post-49a6e25d0f32))
+- **2026-07-27** — news mention: Tierra Prieta: 🌎📘 Latin America Gets A New Carbon Removal Investment Roadmap Carbon Business Council ([source](https://www.linkedin.com/company/tierra-prieta/#post-c00fd4911a62))
+- **2026-07-23** — news mention: CarbonPlan: OffsetsDB just got bigger. Today, we added two new offset registries — Isometric and Cer ([source](https://www.linkedin.com/company/carbonplan/#post-733584e38031))
+- **2026-07-22** — news mention: Cercarbono: Cercarbono has opened the public comment period for the Carbon X Bolivia Circular Plasti ([source](https://www.linkedin.com/company/cercarbono/#post-ab224c9a01f7))
 - **2026-05-07** — news mention: Welcoming Isometric and Cercarbono to OffsetsDB – CarbonPlan ([source](https://carbonplan.org/blog/offsetsdb-cercarbono-isometric))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
@@ -47,7 +54,6 @@ Cercarbono is a voluntary carbon certification standard established in Colombia 
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

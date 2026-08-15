@@ -34,6 +34,8 @@ CUR8 is an intelligence provider for the carbon removal market, positioned at th
 
 ## History
 
+- **2026-07-29** — news mention: CUR8: Well, itâs finally happened. The European Commission has published its proposal for bringing ([source](https://www.linkedin.com/company/cur8earth/#post-a5ea1dfee971))
+- **2026-07-22** — news mention: CUR8: Well, it’s finally happened. The European Commission has published its proposal for bringing c ([source](https://www.linkedin.com/company/cur8earth/#post-19249493a132))
 - **2026-06-09** — news mention: NATS To Invest Over $600k In A Carbon Removal Portfolio Through CUR8 ([source](https://carbonherald.com/nats-to-invest-over-600k-in-a-carbon-removal-portfolio-through-cur8/?utm_source=rss&utm_medium=rss&utm_campaign=nats-to-invest-over-600k-in-a-carbon-removal-portfolio-through-cur8))
 - **2026-05-15** — news mention: Podcast take: Gabrielle Walker (CUR8) on the CDR Policy Scoop's new long-form spinoff. First 60% is  ([source](https://x.com/CaptainDrawdown/status/2055196781667811467))
 - **2026-05-15** — news mention: DIGGING DEEP with Gabrielle Walker: A Life in Climate | The CDR Policy Scoop ([source](https://shows.acast.com/the-cdr-policy-scoop/episodes/digging-deep-with-gabrielle-walker-a-life-in-climate))
@@ -55,7 +57,6 @@ CUR8 is an intelligence provider for the carbon removal market, positioned at th
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

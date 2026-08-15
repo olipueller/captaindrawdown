@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolyzes coconut shell/husk biomass in the Philippines into stable biochar for long-term carbon storage, selling BCR credits at $199/tonne."
 url: "/directory/biochar-earth/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://biochar.earth" target="_blank" rel="noopener">https://biochar.earth</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biochar-earth/" target="_blank" rel="noopener">biochar-earth — 219 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~1</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,8 @@ Biochar Earth is a biochar carbon removal (BCR) supplier focused on converting c
 
 ## History
 
+- **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.linkedin.com/company/biochar-earth/))
+- **2026-08-09** — news mention: Biochar Earth: The EU just did something historic for carbon removal. And it matters more than most  ([source](https://www.linkedin.com/company/biochar-earth/#post-6b60e60877ae))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
@@ -46,7 +48,6 @@ Biochar Earth is a biochar carbon removal (BCR) supplier focused on converting c
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

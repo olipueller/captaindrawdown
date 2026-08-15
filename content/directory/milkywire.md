@@ -29,6 +29,12 @@ Stockholm-based Milkywire is an impact platform that channels corporate funding 
 
 ## History
 
+- **2026-08-13** — news mention: Planboo: It’s here! Ithaka Institute 's peer-reviewed paper on Kon-Tiki kiln emissions is now publis ([source](https://www.linkedin.com/company/planboo/#post-b0bc7a72e5b6))
+- **2026-08-12** — news mention: Milkywire: Water scarcity is quietly emptying mountain villages. As glaciers retreat, the meltwater  ([source](https://www.linkedin.com/company/milkywire/#post-49b44c895e49))
+- **2026-07-26** — news mention: Karbonetiq: At Karbonetiq, we accelerate natural mineralization to deliver carbon removal that lasts ([source](https://www.linkedin.com/company/karbonetiq-inc/#post-fafc740674fd))
+- **2026-07-25** — news mention: Kairos Carbon: We are very proud to announce Milkywire has completed Salesforce -backed pre-purchase ([source](https://www.linkedin.com/company/kairos-carbon/#post-474172222e8f))
+- **2026-07-22** — news mention: Carbon Business Council: ð£ Applications are open for remove 's first Latin America CDR Accelerato ([source](https://www.linkedin.com/company/carbonbusinesscouncil/#post-d7aec4aa9614))
+- **2026-07-22** — news mention: CDR.fyi: 📣 Applications are open for remove's LATAM CDR Accelerator 🌎 remove has opened applications ([source](https://www.linkedin.com/company/cdr-fyi/#post-db5481b9ccb8))
 - **2026-06-04** — news mention: Milkywire | Build the world your net zero targets assumes ([source](https://milkywire.com/build-the-world-your-net-zero-targets-assumes))
 - **2026-05-09** — news mention: Buyers of Enhanced Rock Weathering credits need to ask for the right type of MRV ([source](https://roberthoglund.medium.com/buyers-of-enhanced-rock-weathering-credits-need-to-ask-for-the-right-type-of-mrv-c109bc7cf100?source=rss-d3dbfac6b1e3------2))
 - **2026-05-09** — news mention: A new lens on corporate net zero ([source](https://roberthoglund.medium.com/a-new-lens-on-corporate-net-zero-e0cf73e65936?source=rss-d3dbfac6b1e3------2))
@@ -50,7 +56,6 @@ Stockholm-based Milkywire is an impact platform that channels corporate funding 
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://jeffries.com.au/" target="_blank" rel="noopener">https://jeffries.com.au/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/jeffries/" target="_blank" rel="noopener">jeffries — 2,456 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/jeffries/" target="_blank" rel="noopener">jeffries — 2,515 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro crediting window through 2028-01-31</small></td></tr>
-  <tr><th>Employees</th><td>~125 (+5% YoY)</td></tr>
+  <tr><th>Employees</th><td>~125 (+2% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2028-01-31)</small></td></tr>
 </table>
@@ -42,6 +42,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://jeffries.com.au/home-gardening/jeffries-culchar/))
@@ -57,7 +58,6 @@ Independently verified by carbon-credit registries:
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

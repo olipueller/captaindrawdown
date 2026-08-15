@@ -5,7 +5,7 @@ type: "directory"
 description: "Produces engineered region-specific biochar blends paired with AI-driven soil diagnostics and MRV software for soil remediation (PFAS, heavy metals) and carbon sequestration."
 url: "/directory/super-biochar/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.superbiochar.com/" target="_blank" rel="noopener">https://www.superbiochar.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/superbiochar/" target="_blank" rel="noopener">superbiochar — 343 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~6</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,9 @@ Super Biochar is a South Norwalk, Connecticut-based climate-tech startup founded
 
 ## History
 
+- **2026-08-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.qcintel.com/carbon/article/super-biochar-ward-labs-announce-partnership-focusing-on-soil-49001.html))
+- **2026-08-03** — news mention: Super Biochar Launch of the Super Biochar India Foundation Expands Soil Restoration and Decarbonizat ([source](https://biochartoday.com/news/super-biochar-launch-of-the-super-biochar-india-foundation-expands-soil-restoration-and-decarbonization-initiatives/))
+- **2026-07-26** — news mention: Super Biochar: ❗ Biochar production in the United States increased from nearly 87 thousand metric to ([source](https://www.linkedin.com/company/superbiochar/#post-3498fe76075f))
 - **2026-06-15** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.qcintel.com/carbon/article/super-biochar-ward-labs-announce-partnership-focusing-on-soil-49001.html))
 - **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.qcintel.com/carbon/article/super-biochar-ward-labs-announce-partnership-focusing-on-soil-49001.html))
 - **2026-05-01** — refresh: screenshot
@@ -49,7 +52,6 @@ Super Biochar is a South Norwalk, Connecticut-based climate-tech startup founded
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

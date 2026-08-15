@@ -30,6 +30,7 @@ Carbon Removal Canada is an independent policy advocacy initiative, a project of
 
 ## History
 
+- **2026-07-30** — news mention: Carbon Removal Canada: 🤿 What do submarines have to do with carbon removal? More than you might thin ([source](https://www.linkedin.com/company/carbon-removal-canada/#post-e2c0d2150843))
 - **2026-07-11** — news mention: #carbonremoval #climatesolutions #partnership #canada #event | Climeworks ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7481313249385336834/))
 - **2026-06-04** — news mention: Yesterday the Carbon Removal Canada team was busy from coast to coast.  Two cities. One team. A whol ([source](https://x.com/carbonremovers/status/2062565310692311227))
 - **2026-06-03** — news mention: Carbon Removal Canada Job Board - Director, Quebec Surficial Mineralization Hub ([source](https://carbonremoval.applytojobs.ca/research/47705))
@@ -56,7 +57,6 @@ Carbon Removal Canada is an independent policy advocacy initiative, a project of
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

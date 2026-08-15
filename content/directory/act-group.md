@@ -5,7 +5,7 @@ type: "directory"
 description: "Environmental commodities brokerage and carbon project development firm that sources, trades, and facilitates sales of carbon credits (including biochar CDR) alongside EACs, biofuels, and compliance"
 url: "/directory/act-group/"
 pathway: "Enabling Tech"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,9 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://www.actgroup.com/" target="_blank" rel="noopener">https://www.actgroup.com/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/actgroup/" target="_blank" rel="noopener">actgroup — 65,429 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Employees</th><td>~624 (+5% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -32,6 +34,8 @@ ACT Group (founded 2009, headquartered in Amsterdam) is a global environmental c
 
 ## History
 
+- **2026-08-15** — refresh: coresignal, liveliness
+- **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://tracxn.com/d/companies/act/__GAJU5-yrR0sqroC2dU8aCTG3YwtV7m-Rp1lslgoR15Y/funding-and-investors))
 - **2026-05-01** — refresh: screenshot
 - **2026-04-19** — merged 1 duplicate(s): ACT
 - **2026-04-19** — refresh: screenshot
@@ -60,7 +64,6 @@ ACT Group (founded 2009, headquartered in Amsterdam) is a global environmental c
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

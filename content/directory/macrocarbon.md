@@ -5,7 +5,7 @@ type: "directory"
 description: "Harvests free-floating Sargassum macroalgae in the open Atlantic and pyrolyzes the biomass into biochar plus bio-oil/SAF precursors for long-term carbon storage."
 url: "/directory/macrocarbon/"
 pathway: "Ocean CDR"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Spain</td></tr>
   <tr><th>Website</th><td><a href="https://www.macrocarbon.world/" target="_blank" rel="noopener">https://www.macrocarbon.world/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/macrocarbon/" target="_blank" rel="noopener">macrocarbon — 1,981 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~7 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,6 +31,8 @@ MacroCarbon SL is a Las Palmas (Gran Canaria) startup spun out of Germany's Alfr
 
 ## History
 
+- **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://climatedrift.substack.com/p/what-if-seaweed-could-build-its-own))
+- **2026-07-24** — news mention: Macrocarbon: Sargassum to SAF Validation ongoing !!! MacroCarbon has secured financial support throu ([source](https://www.linkedin.com/company/macrocarbon/#post-6456ebdda12a))
 - **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://climatedrift.substack.com/p/what-if-seaweed-could-build-its-own))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://climatedrift.substack.com/p/what-if-seaweed-could-build-its-own))
 - **2026-05-01** — refresh: screenshot
@@ -50,7 +52,6 @@ MacroCarbon SL is a Las Palmas (Gran Canaria) startup spun out of Germany's Alfr
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

@@ -31,6 +31,17 @@ Carbon to Sea Initiative is a non-profit research and development effort launche
 
 ## History
 
+- **2026-08-13** — news mention: Carbon to Sea Initiative: 📣 Today, Carbon to Sea is announcing our 2026 OAE Research Call for Propos ([source](https://www.linkedin.com/company/carbontosea/#post-b6500fe59d4c))
+- **2026-08-13** — news mention: 2026 Carbon to Sea OAE Research Call for Proposals - WIOMSA Blog ([source](https://blog.wiomsa.net/2026/08/12/2026-carbon-to-sea-oae-research-call-for-proposals/))
+- **2026-08-13** — news mention: New open calls for carbon removal are currently accepting applications.
+
+Carbon to Sea Initiative op ([source](https://www.linkedin.com/feed/update/urn:li:share:7493335365731176448/))
+- **2026-08-12** — news mention: 2026 OAE Research Call for Proposals - Carbon to Sea Initiative ([source](https://www.carbontosea.org/2026-oae-research-call-for-proposals/))
+- **2026-08-12** — news mention: Carbon To Sea Launches Two New OAE Calls For Proposals ([source](https://carbonherald.com/carbon-to-sea-launches-two-new-oae-calls-for-proposals/?utm_source=rss&utm_medium=rss&utm_campaign=carbon-to-sea-launches-two-new-oae-calls-for-proposals))
+- **2026-07-30** — news mention: Carbon to Sea Initiative: 📣 Today, Carbon to Sea — in partnership with DC Water , HRSD ,  Ocean Sewa ([source](https://www.linkedin.com/company/carbontosea/#post-080a48500a10))
+- **2026-07-29** — news mention: CDR.fyi: ð° This week saw some key developments in durable CDR, as Inherit Carbon Solutions issued ([source](https://www.linkedin.com/company/cdr-fyi/#post-e608dbc98de9))
+- **2026-07-23** — news mention: Carbon to Sea Initiative: A new paper featuring Carbon to Sea co-authors has been published on “Moni ([source](https://www.linkedin.com/company/carbontosea/#post-02ef9501f0cb))
+- **2026-07-23** — news mention: Carbon to Sea Initiative: 📣 Today at the 11th Our Ocean Conference in Kenya, Carbon to Sea announced ([source](https://www.linkedin.com/company/carbontosea/#post-3bdae23ae046))
 - **2026-05-06** — news mention: #mcdr #oae #mrv #carbonremoval #oceanscience #responsibleinnovation | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7457447545053704192/))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
@@ -47,7 +58,6 @@ Carbon to Sea Initiative is a non-profit research and development effort launche
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

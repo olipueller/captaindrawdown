@@ -5,7 +5,7 @@ type: "directory"
 description: "Drives sustainably sourced spruce logs vertically into anoxic clay/peat soils (often as building foundations) to store biogenic carbon for centuries."
 url: "/directory/underground-forest/"
 pathway: "Biomass Burial"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://www.undergroundforest.nl" target="_blank" rel="noopener">https://www.undergroundforest.nl</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/underground-forest-b-v/" target="_blank" rel="noopener">underground-forest-b-v — 94 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~1</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,8 @@ Underground Forest BV is a Rotterdam-based CDR company founded in 2023 by Kees d
 
 ## History
 
+- **2026-08-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.undergroundforest.nl/home/en))
+- **2026-08-03** — news mention: Underground Forest: 20 tonnes of CO₂ permanently stored in buildings. Earlier this month, we reached ([source](https://www.linkedin.com/company/underground-forest-b-v/#post-917801f7aa43))
 - **2026-06-15** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://www.undergroundforest.nl/home/en))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
@@ -48,7 +50,6 @@ Underground Forest BV is a Rotterdam-based CDR company founded in 2023 by Kees d
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

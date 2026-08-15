@@ -33,6 +33,14 @@ TOWING is a Nagoya University spinout founded in February 2020 that develops and
 
 ## History
 
+- **2026-08-08** — news mention: Towing: At Suntory, we believe innovation can help create a more sustainable future. Today, we’re pl ([source](https://www.linkedin.com/company/towing-co-ltd/#post-065881eac92b))
+- **2026-08-08** — news mention: Towing: 農林水産省「みどり加速化GXプラン」の事例としてTOWINGが紹介されました。 TOWING has been featured as a case study in the Mini ([source](https://www.linkedin.com/company/towing-co-ltd/#post-22b6ed456bd8))
+- **2026-08-06** — news mention: TOWING Unveils Japan’s Largest Production Facility to Convert 10,000 Tonnes of Livestock Biomass int ([source](https://biochartoday.com/news/towing-unveils-japans-largest-production-facility-to-convert-10000-tonnes-of-livestock-biomass-into-biochar/))
+- **2026-08-06** — news mention: Electricity grids that deploy a lot of energy storage can become more like "bank accounts" but of co ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3msggw2yh2s2o))
+- **2026-08-06** — news mention: Utilising the underutilised: TOWING opens largest Japan production site with 10,000-tonne biochar fa ([source](https://www.agnavigator.com/Article/2026/08/05/utilising-the-underutilised-towing-opens-largest-japan-production-site-with-10000-tonne-biochar-facility/))
+- **2026-08-01** — news mention: Towing: TOWINGとサントリー、飲料製造残渣を活用した高機能バイオ炭を本格製造開始 https://lnkd.in/g6a8vEie TOWINGとサントリーは、両社で進めてきた高機能バイオ ([source](https://www.linkedin.com/company/towing-co-ltd/#post-2b36b97fd90c))
+- **2026-08-01** — news mention: Towing: TOWINGとアイシン高丘、インドネシアでパーム残さ由来のバイオ炭を活用したカーボンクレジット創出に向けた事業性評価（FS）を開始 https://lnkd.in/gaSzg5TV T ([source](https://www.linkedin.com/company/towing-co-ltd/#post-ff7edea1318b))
+- **2026-07-25** — news mention: Towing: 「宙炭」の海外供給へ向け、米国子会社とタイ製造拠点を設立 https://lnkd.in/guJ_9ctw 高機能バイオ炭「宙炭（そらたん）」のグローバル展開を加速するため、北米および ([source](https://www.linkedin.com/company/towing-co-ltd/#post-a9d793f22eb1))
 - **2026-07-06** — news mention: By 1850 New England was probably 80% deforested, and in some places 90% and 100%, but then they move ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mpy62yyqws2h))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
@@ -50,7 +58,6 @@ TOWING is a Nagoya University spinout founded in February 2020 that develops and
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

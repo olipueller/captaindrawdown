@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Bolivia</td></tr>
   <tr><th>Website</th><td><a href="https://www.exomadgreen.com/" target="_blank" rel="noopener">https://www.exomadgreen.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/exomad-green/" target="_blank" rel="noopener">exomad-green — 7,664 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/exomadgreen/" target="_blank" rel="noopener">exomadgreen — 8,608 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro crediting window through 2029-07-16</small></td></tr>
-  <tr><th>Employees</th><td>~125 (+40% YoY)</td></tr>
+  <tr><th>Employees</th><td>~125 (+33% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2029-07-16)</small></td></tr>
 </table>
@@ -42,6 +42,11 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
+- **2026-08-13** — news mention: Exomad Green: 🚨Milestone Alert🚨 We are proud to announce that Exomad Green has surpassed the milesto ([source](https://www.linkedin.com/company/exomad-green/#post-e3af480a6480))
+- **2026-08-06** — news mention: Exomad Green: ð¨Milestone Alertð¨ We are proud to announce that Exomad Green has surpassed the m ([source](https://www.linkedin.com/company/exomad-green/#post-e26ea95ec848))
+- **2026-08-03** — news mention: Tierra Prieta: ðð Latin America Gets A New Carbon Removal Investment Roadmap Carbon Business C ([source](https://www.linkedin.com/company/tierra-prieta/#post-49a6e25d0f32))
+- **2026-07-27** — news mention: Tierra Prieta: 🌎📘 Latin America Gets A New Carbon Removal Investment Roadmap Carbon Business Council ([source](https://www.linkedin.com/company/tierra-prieta/#post-c00fd4911a62))
 - **2026-06-24** — news mention: #climateweeknyc #carbonremoval #cdr #corcs #newyork #purocdrsummit | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:share:7473721490056609793/))
 - **2026-05-22** — news mention: Senken | Senken Signs Multi-Year Offtake for Tech- and Nature-Based Carbon Removal with Lufthansa Gr ([source](https://www.finanzwire.com/press-release/senken-etr-senken-signs-multi-year-offtake-for-tech-and-nature-based-carbon-removal-with-lufthansa-group-europes-largest-airline-QwmoFEP258J))
 - **2026-05-02** — news mention: Exomad Green and Supercritical taped a 10-min podcast announcing a 3-year, up-to-500k-tonne biochar  ([source](https://x.com/CaptainDrawdown/status/2050590646575006137))
@@ -61,7 +66,6 @@ Independently verified by carbon-credit registries:
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

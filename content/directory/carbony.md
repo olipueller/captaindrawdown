@@ -5,7 +5,7 @@ type: "directory"
 description: "Spreads finely ground silicate rock in managed forest soils in Central/Eastern Europe to accelerate weathering reactions that convert atmospheric CO2 into stable bicarbonate/carbonate minerals."
 url: "/directory/carbony/"
 pathway: "Enhanced Weathering"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,8 +14,8 @@ liveliness: "🟠 Suspect"
   <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
   <tr><th>Country</th><td>Austria</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbony.earth/" target="_blank" rel="noopener">https://www.carbony.earth/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbony/" target="_blank" rel="noopener">carbony — 1,012 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbony/" target="_blank" rel="noopener">carbony — 1,055 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
   <tr><th>Employees</th><td>~5 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,8 @@ Carbony is an Austria-based CDR project developer focused on Enhanced Rock Weath
 
 ## History
 
+- **2026-08-15** — refresh: coresignal, liveliness
+- **2026-08-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.carbonbusinesscouncil.org/news/ewalliance-2025))
 - **2026-06-15** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.carbonbusinesscouncil.org/news/ewalliance-2025))
 - **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.carbonbusinesscouncil.org/news/ewalliance-2025))
 - **2026-05-01** — refresh: screenshot
@@ -49,7 +51,6 @@ Carbony is an Austria-based CDR project developer focused on Enhanced Rock Weath
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

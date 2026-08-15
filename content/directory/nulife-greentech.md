@@ -43,6 +43,9 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-08-01** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-47656d726774))
+- **2026-07-25** — news mention: NULIFE GreenTech: Who would have thought that a bunch of pipes in a snowy Canadian winter equals car ([source](https://www.linkedin.com/company/nulife-greentech/#post-8b0b35e7d985))
+- **2026-07-25** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-ffa67cc8d2be))
 - **2026-05-23** — news mention: In 2024, Frontier buyers became NULIFE GreenTech&amp;#39;s first customers, signing a prepurchase to ([source](https://www.linkedin.com/feed/update/urn:li:share:7463622319115063296/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
@@ -59,7 +62,6 @@ Independently verified by carbon-credit registries:
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

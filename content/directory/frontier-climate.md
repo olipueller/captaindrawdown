@@ -29,6 +29,13 @@ Frontier Climate is an advance market commitment (AMC) that aggregates buyer dem
 
 ## History
 
+- **2026-08-08** — news mention: Frontier Climate: Last week, DG CLIMA officially kicked off the EU Buyers Club at CRCF Days in Bruss ([source](https://www.linkedin.com/company/frontierclimate/#post-00b9a7493194))
+- **2026-07-31** — news mention: Frontier Climate: 🚨 Breaking news: today, Frontier announces $915 million in new funding to accelera ([source](https://www.linkedin.com/company/frontierclimate/#post-f57e83d87fc6))
+- **2026-07-31** — news mention: Frontier Climate: Today we’re announcing that Frontier has raised an additional $915M for carbon rem ([source](https://www.linkedin.com/company/frontierclimate/#post-e3e7a0ff2985))
+- **2026-07-24** — news mention: Frontier Climate: Today Shopify and our fellow Frontier buyers are committing a net new $915 million ([source](https://www.linkedin.com/company/frontierclimate/#post-8ac8fc5f8bb8))
+- **2026-07-24** — news mention: Frontier Climate: When Frontier, the Stripe-led coalition of carbon removal buyers, announced its la ([source](https://www.linkedin.com/company/frontierclimate/#post-ada1541daeb1))
+- **2026-07-24** — news mention: Frontier Climate: Four years ago, it was still an open question whether rocks would weather fast eno ([source](https://www.linkedin.com/company/frontierclimate/#post-60f4d9b90568))
+- **2026-07-24** — news mention: Frontier Climate: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/frontierclimate/#post-38d7c2844441))
 - **2026-07-02** — news mention: Frontier Climate - Wikipedia ([source](https://en.wikipedia.org/wiki/Frontier_Climate))
 - **2026-06-30** — news mention: Based on data from May, the French people appear to not intend to stop purchasing ICE vehicles until ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mpizwtko6k2b))
 - **2026-06-23** — news mention: Frontier Climate adds Anthropic to buyers group, makes new financing pledge | Utility Dive ([source](https://www.utilitydive.com/news/frontier-climate-adds-anthropic-to-CDR-buyers-group-makes-new-financing-pledge/823511/))
@@ -54,7 +61,6 @@ Frontier Climate is an advance market commitment (AMC) that aggregates buyer dem
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

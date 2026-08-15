@@ -13,7 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.altoingredients.com/" target="_blank" rel="noopener">https://www.altoingredients.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/alto-ingredients/" target="_blank" rel="noopener">alto-ingredients — 3,384 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~227 (+2% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -27,6 +29,12 @@ Alto Ingredients (NASDAQ: ALTO), formerly Pacific Ethanol, is a U.S. producer of
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
+- **2026-08-08** — news mention: CARBOLIVA SLU: ð Â¡Que suene la fanfarria! Hoy podemos decirlo en alto: - Primer biochar espaÃ±ol ([source](https://www.linkedin.com/company/carboliva-biocarb%c3%b3n-sostenible/#post-c8ee202c91ca))
+- **2026-08-01** — news mention: Econew: Uma nova era de sustentabilidade começa em Várzea da Palma! 🌱🔥 Temos o prazer de anunciar: o ([source](https://www.linkedin.com/company/econew/#post-fd72061cdec2))
+- **2026-07-31** — news mention: Carboliva: 🔊 ¡Que suene la fanfarria! Hoy podemos decirlo en alto: - Primer biochar español certific ([source](https://www.linkedin.com/company/carboliva-biocarb%c3%b3n-sostenible/#post-581454be7d9b))
+- **2026-07-25** — news mention: Econew: Uma nova era de sustentabilidade comeÃ§a em VÃ¡rzea da Palma! ð±ð¥ Temos o prazer de anu ([source](https://www.linkedin.com/company/econew/#post-ecb9661121e2))
+- **2026-07-22** — news mention: Occidental Carbon Capture 2026, $550M BlackRock Deal - EnkiAI ([source](https://enkiai.com/ai-market-intelligence/occidental-dac-blackrock/))
 - **2026-05-22** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.opentable.com/altobelis-restaurant-and-piano-bar))
 - **2026-05-20** — news mention: Palo Alto Networks Carbon Capture 2025, $25 B Cyber Ark Deal ([source](https://enkiai.com/palo-alto-networks-dac-initiatives-for-2025-key-projects-strategies-and-partnerships/))
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.opentable.com/altobelis-restaurant-and-piano-bar))
@@ -55,7 +63,6 @@ Alto Ingredients (NASDAQ: ALTO), formerly Pacific Ethanol, is a U.S. producer of
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

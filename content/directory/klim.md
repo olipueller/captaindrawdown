@@ -34,6 +34,8 @@ Klim is a Berlin-based agritech company founded in 2020 that operates a digital 
 
 ## History
 
+- **2026-07-30** — news mention: ecoLocked: 🌱 Biochar in Action: Wenn Denkmalschutz auf Klimaschutz trifft ⛪ Wie können historische G ([source](https://www.linkedin.com/company/ecolocked/#post-fd9b39b3a0cf))
+- **2026-07-23** — news mention: Seqana: 🎉🎉 Seqana has closed a EUR 3.2 million financing round, led by Pymwymic and joined by our ex ([source](https://www.linkedin.com/company/cquest-ai/#post-0eaa1d800aa8))
 - **2026-05-22** — news mention: Senken | Senken Signs Multi-Year Offtake for Tech- and Nature-Based Carbon Removal with Lufthansa Gr ([source](https://www.finanzwire.com/press-release/senken-etr-senken-signs-multi-year-offtake-for-tech-and-nature-based-carbon-removal-with-lufthansa-group-europes-largest-airline-QwmoFEP258J))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
@@ -50,7 +52,6 @@ Klim is a Berlin-based agritech company founded in 2020 that operates a digital 
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

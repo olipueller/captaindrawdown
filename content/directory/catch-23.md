@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://catch23.se/" target="_blank" rel="noopener">https://catch23.se/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/catch-23se/" target="_blank" rel="noopener">catch-23se — 80 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~7 (+40% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -31,6 +31,7 @@ Catch 23 AB is a Swedish reseller/broker of carbon removal certificates (CRCs), 
 
 ## History
 
+- **2026-07-26** — news mention: Catch 23: Historic day for carbon removals in Europe! The European Commission today proposed integra ([source](https://www.linkedin.com/company/catch-23se/#post-1e035614cb2b))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
@@ -47,7 +48,6 @@ Catch 23 AB is a Swedish reseller/broker of carbon removal certificates (CRCs), 
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

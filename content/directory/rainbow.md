@@ -30,6 +30,31 @@ Rainbow (formerly Riverse) is a France-based carbon credit standard and registry
 
 ## History
 
+- **2026-08-14** — news mention: Cler-Verts: 📣Une nouvelle avancée pour notre filière biochar ! Notre unité de production de biocha ([source](https://www.linkedin.com/company/cler-verts/#post-78924112fe52))
+- **2026-08-13** — news mention: Carbonapp: Le projet de reconditionnement de matériel IT porté par Largo vient d'émettre pour la deu ([source](https://www.linkedin.com/company/carbonapp-fr/#post-8881a34b4bdf))
+- **2026-08-08** — news mention: Stack Carbon: Today marks a defining milestone for STACK CARBON We are proud to announce that we hav ([source](https://www.linkedin.com/company/stackcarbon/#post-94053f1e64a4))
+- **2026-08-08** — news mention: Tera: High-integrity biochar carbon removal is selling out fast. 🌱 That’s why we’re proud to share t ([source](https://www.linkedin.com/company/teracarbon/#post-660d3236cf2a))
+- **2026-08-07** — news mention: A recent documentary screening at the Royal Automobile Club in London spotlighted Got Ngur, a villag ([source](https://www.linkedin.com/feed/update/urn:li:share:7491040492634230784/))
+- **2026-08-07** — news mention: Cler-Verts: ð£ðð§ð ð§ð¨ð®ð¯ðð¥ð¥ð ðð¯ðð§ððÌð ð©ð ([source](https://www.linkedin.com/company/cler-verts/#post-59cdd4500e4f))
+- **2026-08-06** — news mention: BlueLayer: BlueLayer is now a Rainbow Standard -endorsed dMRV provider. We’ve been selected for the  ([source](https://www.linkedin.com/company/getbluelayer/#post-3463501a5dc5))
+- **2026-08-04** — news mention: Rainbow June &amp;amp; July progress | Rainbow Standard ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7490334838089072640/))
+- **2026-08-04** — news mention: Beston: 🌍 Big News: Beston Group is now a Rainbow Partner for Industrial Pyrolysis Manufacturers! We ([source](https://www.linkedin.com/company/beston-henan-machinery-co-ltd-/#post-02e26714b5f4))
+- **2026-07-31** — news mention: Our bio-oil in asphalt module is now finalised under the BiCRS methodology.
+
+Bio-oil is a co-product ([source](https://www.linkedin.com/feed/update/urn:li:share:7488866058926268416/))
+- **2026-07-30** — news mention: Crystaltrade: ðð¿ðððð®ð¹ð°ðµð®ð¶ð» ð¶ð ð»ð¼ð ð½ð®ð¿ð ([source](https://www.linkedin.com/company/crystalchain/#post-814e0f4db545))
+- **2026-07-30** — news mention: Negative Emissions Platform: ðCDR Momentum, Edition 2 This month brought important milestones acr ([source](https://www.linkedin.com/company/negative-emissions-platform/#post-76f853a73091))
+- **2026-07-28** — news mention: The European Commission has proposed to become the largest buyer of carbon dioxide removal in the wo ([source](https://www.linkedin.com/feed/update/urn:li:share:7487771814404997120/))
+- **2026-07-28** — news mention: Carbonfuture: Suppliers certified under the Rainbow Standard can now transact CDR credits through Ca ([source](https://www.linkedin.com/company/carbonfuture/#post-27c91bdbf2b9))
+- **2026-07-28** — news mention: Beston Group: 🌍 Big News: Beston Group is now a Rainbow Partner for Industrial Pyrolysis Manufacture ([source](https://www.linkedin.com/company/beston-henan-machinery-co-ltd-/#post-c29792934933))
+- **2026-07-23** — news mention: Congratulations to CLER VERTS on their first issuance of Rainbow Carbon Credits for biochar carbon r ([source](https://www.linkedin.com/feed/update/urn:li:share:7485951861796196352/))
+- **2026-07-23** — news mention: Planboo: Distributed biochar is the hardest kind to measure. That is exactly why we build for it. To ([source](https://www.linkedin.com/company/planboo/#post-a99817071edb))
+- **2026-07-23** — news mention: Takachar: Excited to introduce the Rainbow Partner Program, the largest ecosystem of dMRV providers  ([source](https://www.linkedin.com/company/takachar/#post-b8359905ff33))
+- **2026-07-21** — news mention: Introducing the Rainbow Partner Program. 
+
+Great partners are crucial to many carbon removal project ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7485242262659076096/))
+- **2026-07-21** — news mention: #carbonremoval #cdr #rainbow #dmrv #netzero #sustainability | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:share:7485259060120907776/))
+- **2026-07-17** — news mention: Frontier has approved Rainbow&amp;#39;s Biogenic Carbon Capture and Storage (BioCCS) methodology for ([source](https://www.linkedin.com/feed/update/urn:li:share:7483807974143070209/))
 - **2026-07-14** — news mention: We&amp;#39;re joining the International Biochar Initiative on 21 July for a webinar built for biocha ([source](https://www.linkedin.com/feed/update/urn:li:share:7482690374163996672/))
 - **2026-07-09** — news mention: We&amp;#39;re looking for a Science Expert to join us as we scale our work in carbon removal.
 
@@ -47,35 +72,6 @@ The methodology dir ([source](https://www.linkedin.com/feed/update/urn:li:share:
 
 As Richard Dav ([source](https://www.linkedin.com/feed/update/urn:li:share:7477337611133591552/))
 - **2026-06-26** — news mention: A UK biochar project developer told us why he prefers to work with Rainbow as a carbon credit regist ([source](https://www.linkedin.com/feed/update/urn:li:share:7476182098303713280/))
-- **2026-06-25** — news mention: Rainbow is partnering with Clever Offsets, Inc. 
-
-Transparency and traceability of carbon projects a ([source](https://www.linkedin.com/feed/update/urn:li:share:7475805018185601024/))
-- **2026-06-24** — news mention: A few years ago, if you were paying attention to the rise of CDR-native registries, you probably kep ([source](https://www.linkedin.com/feed/update/urn:li:share:7473287845693194241/))
-- **2026-06-24** — news mention: In 2009, ECOERA AB started one of Europe&amp;#39;s earliest industrial biochar projects.
-
-Their firs ([source](https://www.linkedin.com/feed/update/urn:li:share:7474748029082894336/))
-- **2026-06-24** — news mention: On 11 June, Science Based Targets initiative published the final Corporate Net-Zero Standard V2.0.
-
- ([source](https://www.linkedin.com/feed/update/urn:li:share:7475442620803002371/))
-- **2026-06-09** — news mention: Like much of rural Uganda, Got Ngur Village depends on diesel generators and kerosene for power. Mea ([source](https://www.linkedin.com/feed/update/urn:li:share:7470006875640578049/))
-- **2026-06-04** — news mention: Now open: 30-day public consultation on our pioneering bio-oil in asphalt module under the BiCRS met ([source](https://www.linkedin.com/feed/update/urn:li:share:7468194854825525248/))
-- **2026-06-02** — news mention: When every distributed biochar project gets the same credit, prices converge, regardless of how diff ([source](https://www.linkedin.com/feed/update/urn:li:share:7467486853869502464/))
-- **2026-05-29** — news mention: Rainbow Standard: Our team was in New York for @[Carbon Unbound](urn:li:organization:87408149). Two  ([source](https://www.linkedin.com/feed/update/urn:li:share:7466035628409819136/))
-- **2026-05-28** — news mention: Rainbow Standard: Science creates knowledge. Engineering turns it into solutions. It's a clean defin ([source](https://www.linkedin.com/feed/update/urn:li:share:7465323429005766656/))
-- **2026-05-23** — news mention: Weekly link list: this week's connective tissue is infrastructure quietly being rebuilt around CDR.  ([source](https://x.com/CaptainDrawdown/status/2058084297249018276))
-- **2026-05-20** — news mention: 398: Scientists vs. Engineers, &amp; the Commercial Pressure on Carbon Dioxide Removal—w/ Erica Dorr ([source](https://podcasters.spotify.com/pod/show/reversingclimatechange/episodes/398-Scientists-vs--Engineers---the-Commercial-Pressure-on-Carbon-Dioxide-Removalw-Erica-Dorr--Samara-Vantil--Rainbow-e3j0jq0))
-- **2026-05-20** — news mention: Take: 398: Scientists vs. Engineers, & the Commercial Pressure on Carbon Dioxide Removal—w/ Erica Do ([source](https://captaindrawdown.com/posts/podcast-take-398-scientists-vs-engineers-the-commercial-pressure-on-carbo-24d4d76b/))
-- **2026-05-19** — news mention: Last month, our science and certification teams visited CLER VERTS’ biochar project in Occitanie, Fr ([source](https://www.linkedin.com/feed/update/urn:li:share:7462396642541916160/))
-- **2026-05-15** — news mention: Frontier’s Approval of Rainbow Carbon Removal and the Rise of De Facto Registry Gatekeepers · Carbon ([source](https://carbonmeld.com/en/articles/frontier-s-approval-of-rainbow-carbon-removal-and-the-rise-of-de-facto-registry-gatekeepers/))
-- **2026-05-15** — news mention: The most important questions in carbon markets are on the agenda at Carbon Unbound East Coast next w ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7460984850229972992/))
-- **2026-05-15** — news mention: Frontier Approval Positions Rainbow Among Leading Carbon Removal Registries ([source](https://carbonherald.com/frontier-approval-positions-rainbow-among-leading-carbon-removal-registries/?utm_source=rss&utm_medium=rss&utm_campaign=frontier-approval-positions-rainbow-among-leading-carbon-removal-registries))
-- **2026-05-12** — news mention: Most carbon removal founders are trying to prove their technology works. Uzoma Bailey Ayogu and Iken ([source](https://www.linkedin.com/feed/update/urn:li:share:7458441953530060800/))
-- **2026-05-12** — news mention: Frontier has approved Rainbow as a credit issuer.
-
-Now suppliers can now work with Rainbow to certif ([source](https://www.linkedin.com/feed/update/urn:li:share:7459718646110580736/))
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-22** — news mention: #sfcw2026 #carbonremoval #cdr #climateaction #netzero | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7452232565496836096/))
-- **2026-04-19** — refresh: coresignal
 
 ---
 
@@ -84,7 +80,6 @@ Now suppliers can now work with Rainbow to certif ([source](https://www.linkedin
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

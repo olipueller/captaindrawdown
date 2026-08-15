@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>Afforestation</td></tr>
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://engrowfuels.com/" target="_blank" rel="noopener">https://engrowfuels.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/engrow-group/" target="_blank" rel="noopener">engrow-group — 507 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/engrow-group/" target="_blank" rel="noopener">engrow-group — 611 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~14 (+27% YoY)</td></tr>
+  <tr><th>Employees</th><td>~13 (+8% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,8 @@ Engrow Carbon Energy Private Limited is an Indian private limited company incorp
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
+- **2026-08-02** — news mention: Engrow: Announcing Cohort 2 of our 🇮🇳 India CDR Startup #Accelerator Program 🌟 We continued to be ov ([source](https://www.linkedin.com/company/engrow-group/#post-58e84bdaa764))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-22** — news mention: Altitude partners with Engrow for +425,000t CDRs from Biochar Facilities in India ([source](https://www.altitudecarbon.com/news/altitude-partners-with-engrow))
@@ -46,7 +48,6 @@ Engrow Carbon Energy Private Limited is an Indian private limited company incorp
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

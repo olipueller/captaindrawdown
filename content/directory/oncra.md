@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://oncra.org" target="_blank" rel="noopener">https://oncra.org</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/oncra/" target="_blank" rel="noopener">oncra — 746 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~2 (+100% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -31,6 +31,8 @@ Oncra (Open Natural Carbon Removal Accounting) is a carbon-removal certification
 
 ## History
 
+- **2026-07-25** — news mention: Oncra: 466 tonnes of CO₂ sequestered in Dutch soil. 🦋 Arlande , together with Coppa , Hospitality Gr ([source](https://www.linkedin.com/company/oncra/#post-fc3522cbed2c))
+- **2026-07-25** — news mention: Scature: A CO₂ offset isn't a receipt. It's a farm you can walk through. This year, Coppa Group and  ([source](https://www.linkedin.com/company/scature/#post-baf58356f492))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://oncra.org/))
@@ -44,7 +46,6 @@ Oncra (Open Natural Carbon Removal Accounting) is a carbon-removal certification
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

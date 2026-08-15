@@ -30,6 +30,10 @@ Carbon Removal Alliance (CRA) is a US-based policy advocacy coalition founded in
 
 ## History
 
+- **2026-08-07** — news mention: Carbon Removal Alliance: CREW has signed a long-term CO2 removal offtake agreement with Microsoft !  ([source](https://www.linkedin.com/company/carbon-removal-alliance/#post-6efaf88068c2))
+- **2026-08-07** — news mention: Carbon Removal Alliance: CREW is working with Microsoft on our latest carbon removal offtake, announ ([source](https://www.linkedin.com/company/carbon-removal-alliance/#post-c0aeedb271f8))
+- **2026-07-31** — news mention: Carbon Removal Alliance: U.S. mines produce more than 1.8 billion tons of waste every year. With the ([source](https://www.linkedin.com/company/carbon-removal-alliance/#post-26ba708a33a7))
+- **2026-07-31** — news mention: Carbon Removal Alliance: At Tufts Cove in Nova Scotia, Planetary became the first company in the wor ([source](https://www.linkedin.com/company/carbon-removal-alliance/#post-5c486abcd78a))
 - **2026-05-06** — news mention: So what? Buyers can keep signing bigger offtakes, but contracts do not build workers, kilowatt-hours ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3ml5wp2z3i32v))
 - **2026-05-06** — news mention: Five numbers from the past week frame CDR's awkward middle age.  Deal sizes are climbing into six-fi ([source](https://x.com/CaptainDrawdown/status/2051892029567734183))
 - **2026-05-01** — refresh: coresignal, screenshot
@@ -45,7 +49,6 @@ Carbon Removal Alliance (CRA) is a US-based policy advocacy coalition founded in
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

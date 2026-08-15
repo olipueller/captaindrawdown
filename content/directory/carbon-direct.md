@@ -34,6 +34,8 @@ Carbon Direct is a New York-based science-driven carbon management firm that adv
 
 ## History
 
+- **2026-07-31** — news mention: The Wilfried Maas Industrial Decarbonization Internship | Carbon Direct ([source](https://www.carbon-direct.com/insights/the-wilfried-maas-industrial-decarbonization-internship))
+- **2026-07-21** — news mention: Carbon Direct: We’re excited to announce our first agroforestry deal: carbon removal offtakes with T ([source](https://www.linkedin.com/company/carbon-direct/#post-a35d064c1843))
 - **2026-06-30** — news mention: #lcaw2026 #carbonremoval #naturebasedsolutions #decarbonization | Carbon Direct ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7477351430828363776/))
 - **2026-06-24** — news mention: #sbti #netzero #corporateclimate #decarbonization #industrialdecarbonization | Carbon Direct ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7474902750884188160/))
 - **2026-06-11** — news mention: The AI bubble debate misses the point: the bottleneck is physical | Carbon Direct ([source](https://www.carbon-direct.com/insights/the-ai-bubble-debate-misses-the-point-the-bottleneck-is-physical))
@@ -65,7 +67,6 @@ Carbon Direct is a New York-based science-driven carbon management firm that adv
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

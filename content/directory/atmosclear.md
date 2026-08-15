@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://atmosclear.earth/" target="_blank" rel="noopener">https://atmosclear.earth/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/atmosclearearth/" target="_blank" rel="noopener">atmosclearearth</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/atmosclearearth/" target="_blank" rel="noopener">atmosclearearth — 328 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~350</td></tr>
+  <tr><th>Employees</th><td>~350 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
@@ -29,6 +29,7 @@ AtmosClear BR, LLC is a portfolio company of Houston-based Fidelis New Energy de
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
 - **2026-05-22** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://esgnews.com/exxonmobil-secures-contract-to-store-atmosclears-biomass-co%E2%82%82-in-louisiana/))
 - **2026-05-21** — news mention: Microsoft signs seven-year CO2 storage deal with BioCirc | Carbon Capture | gasworld ([source](https://www.gasworld.com/story/microsoft-signs-seven-year-co2-storage-deal-with-biocirc/2250060.article/))
 - **2026-05-01** — refresh: screenshot
@@ -48,7 +49,6 @@ AtmosClear BR, LLC is a portfolio company of Houston-based Fidelis New Energy de
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

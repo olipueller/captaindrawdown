@@ -30,6 +30,7 @@ Substrate Biochar is a UK-registered carbon-removal startup whose leadership com
 
 ## History
 
+- **2026-07-26** — news mention: Substrate Biochar: Big news: Substrate Biochar has secured investment from Okavango Capital Partners ([source](https://www.linkedin.com/company/substrate-biochar/#post-a2c90615b35b))
 - **2026-07-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-07-01** — news mention: Rainbow Standard: For most of the last decade, the carbon world has sorted itself into two camps tha ([source](https://www.linkedin.com/feed/update/urn:li:share:7477997267984035840/))
 - **2026-05-01** — refresh: coresignal, screenshot
@@ -49,7 +50,6 @@ Substrate Biochar is a UK-registered carbon-removal startup whose leadership com
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

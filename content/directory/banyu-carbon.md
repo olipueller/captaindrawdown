@@ -5,7 +5,7 @@ type: "directory"
 description: "Uses reversible photoacids activated by sunlight to release CO2 from seawater, enabling the ocean to reabsorb atmospheric CO2 while storing captured CO2 geologically or in products."
 url: "/directory/banyu-carbon/"
 pathway: "Ocean CDR"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,9 +14,9 @@ liveliness: "🟠 Suspect"
   <tr><th>Method</th><td>Direct Ocean Removal</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.banyucarbon.com/" target="_blank" rel="noopener">https://www.banyucarbon.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/banyu-carbon/" target="_blank" rel="noopener">banyu-carbon — 2,151 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
-  <tr><th>Employees</th><td>~10 (-17% YoY)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/banyu-carbon/" target="_blank" rel="noopener">banyu-carbon — 2,187 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Employees</th><td>~10 (-8% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,8 @@ Banyu Carbon is a Seattle-based ocean CDR startup spun out of the University of 
 
 ## History
 
+- **2026-08-15** — refresh: coresignal, liveliness
+- **2026-08-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.youtube.com/watch?v=eIh_6oiK4U0))
 - **2026-06-15** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.youtube.com/watch?v=eIh_6oiK4U0))
 - **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.youtube.com/watch?v=eIh_6oiK4U0))
 - **2026-05-01** — refresh: screenshot
@@ -49,7 +51,6 @@ Banyu Carbon is a Seattle-based ocean CDR startup spun out of the University of 
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

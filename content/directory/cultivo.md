@@ -35,6 +35,10 @@ Cultivo is a California-based Public Benefit Corporation that develops, operates
 
 ## History
 
+- **2026-07-29** — news mention: Cultivo: Raising the bar for soil carbon quality is crucial for building trust in nature-based solut ([source](https://www.linkedin.com/company/cultivo/#post-82874baa1ca3))
+- **2026-07-22** — news mention: Cultivo: Isometric has certified the Improved Soil Management Protocol. Three leading project develo ([source](https://www.linkedin.com/company/cultivo/#post-dfd71984f6ae))
+- **2026-07-22** — news mention: Loam: Isometric has certified the Improved Soil Management Protocol. Three leading project developer ([source](https://www.linkedin.com/company/soilcarbonco/#post-a3eb7c68bc83))
+- **2026-07-22** — news mention: Ocean pHix: Isometric has certified the Improved Soil Management Protocol. Three leading project dev ([source](https://www.linkedin.com/company/exponential-hq/#post-fd5a1d36135d))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
@@ -51,7 +55,6 @@ Cultivo is a California-based Public Benefit Corporation that develops, operates
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

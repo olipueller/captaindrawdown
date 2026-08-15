@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolysis of orchard prunings, landscaping biomass and forest residues into biochar, with the heat feeding a local heating network at the Kastanienhof site."
 url: "/directory/ais/"
 pathway: "Biochar"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://arbeit-in-selbsthilfe.de/" target="_blank" rel="noopener">https://arbeit-in-selbsthilfe.de/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/arbeit-in-selbsthilfe-ais-ggmbh/" target="_blank" rel="noopener">arbeit-in-selbsthilfe-ais-ggmbh — 7 followers</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
   <tr><th>Employees</th><td>~6 (-25% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -29,6 +29,8 @@ AiS (Arbeit in Selbsthilfe gGmbH) is a German non-profit inclusion enterprise in
 
 ## History
 
+- **2026-08-15** — refresh: coresignal, liveliness
+- **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://arbeit-in-selbsthilfe.de/))
 - **2026-06-15** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://arbeit-in-selbsthilfe.de/))
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://arbeit-in-selbsthilfe.de/))
 - **2026-05-01** — refresh: screenshot
@@ -49,7 +51,6 @@ AiS (Arbeit in Selbsthilfe gGmbH) is a German non-profit inclusion enterprise in
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

@@ -5,7 +5,7 @@ type: "directory"
 description: "Retrofits biomass-fired district heating plants with pyrolysis units (PyCCS) to co-produce biochar alongside heat, steam and electricity."
 url: "/directory/solör-bioenergy/"
 pathway: "Biochar"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://solorbioenergi.com/" target="_blank" rel="noopener">https://solorbioenergi.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sol%c3%b6r-bioenergi-ab/" target="_blank" rel="noopener">sol%c3%b6r-bioenergi-ab — 557 followers</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~63</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -30,6 +30,8 @@ Solör Bioenergy Group is a major Scandinavian renewable energy utility operatin
 
 ## History
 
+- **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://solorbioenergi.com/about-solor-bioenergi/))
+- **2026-08-02** — news mention: Solör Bioenergy: https://lnkd.in/e7muktQE SolÃ¶r Bioenergi Utility Solutions fÃ¶rvÃ¤rvar Trosabygden ([source](https://www.linkedin.com/company/sol%c3%b6r-bioenergi-ab/#post-c5b430940e35))
 - **2026-06-15** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://solorbioenergi.com/about-solor-bioenergi/))
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://solorbioenergi.com/about-solor-bioenergi/))
 - **2026-05-01** — refresh: screenshot
@@ -57,7 +59,6 @@ Solör Bioenergy Group is a major Scandinavian renewable energy utility operatin
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

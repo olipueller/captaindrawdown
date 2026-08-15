@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>BiCRS (Other)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://cowboycleanfuels.com/" target="_blank" rel="noopener">https://cowboycleanfuels.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cowboy-clean-fuels/" target="_blank" rel="noopener">cowboy-clean-fuels — 1,153 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cowboy-clean-fuels/" target="_blank" rel="noopener">cowboy-clean-fuels — 1,276 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~10</td></tr>
+  <tr><th>Employees</th><td>~14 (+8% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,6 +31,13 @@ Cowboy Clean Fuels is a Denver-headquartered climate-tech company spun out of th
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
+- **2026-08-08** — news mention: Absolute Climate: Today, Absolute Climate, Cowboy Clean Fuels , and Evident announced a partnership  ([source](https://www.linkedin.com/company/we-are-absolute-climate/#post-858b925b990d))
+- **2026-08-01** — news mention: C-Capsule: We’re excited to support Cowboy Clean Fuels and Absolute Climate raising the bar for high ([source](https://www.linkedin.com/company/c-capsule/#post-c458964553b1))
+- **2026-07-31** — news mention: Climate Vault Solutions: What happens when a Wyoming company turns sugar beet molasses and abandoned ([source](https://www.linkedin.com/company/climatevault/#post-ac281c83884c))
+- **2026-07-29** — news mention: Evident: Today, Absolute Climate, Cowboy Clean Fuels , and Evident announced a partnership to bring  ([source](https://www.linkedin.com/company/international-rec-services/#post-72161c507b55))
+- **2026-07-25** — news mention: C-Capsule: Today, Absolute Climate, Cowboy Clean Fuels , and Evident announced a partnership to brin ([source](https://www.linkedin.com/company/c-capsule/#post-72161c507b55))
+- **2026-07-22** — news mention: Evident: We’re excited to support Cowboy Clean Fuels and Absolute Climate raising the bar for high-i ([source](https://www.linkedin.com/company/international-rec-services/#post-7c39e486f22e))
 - **2026-05-02** — news mention: Exomad Green and Supercritical taped a 10-min podcast announcing a 3-year, up-to-500k-tonne biochar  ([source](https://x.com/CaptainDrawdown/status/2050590646575006137))
 - **2026-05-02** — news mention: Yes, golf grass clippings can be pyrolyzed into biochar. However, because grass clippings are fine a ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkuz6aywyk2w))
 - **2026-05-01** — refresh: screenshot
@@ -50,7 +57,6 @@ Cowboy Clean Fuels is a Denver-headquartered climate-tech company spun out of th
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

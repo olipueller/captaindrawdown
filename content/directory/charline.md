@@ -5,7 +5,7 @@ type: "directory"
 description: "Produces EBC-certified biochar-based products (feed charcoal, manure char, plant biochar) via pyrolysis of woody residues and grain husks, using pyrolysis technology at the parent Sonnenerde"
 url: "/directory/charline/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -13,9 +13,9 @@ liveliness: "🟡 Moderate"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Austria</td></tr>
   <tr><th>Website</th><td><a href="https://www.char-line.com/" target="_blank" rel="noopener">https://www.char-line.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/charlinegmbh/" target="_blank" rel="noopener">charlinegmbh — 123 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
-  <tr><th>Employees</th><td>~6 (-25% YoY)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/charlinegmbh/" target="_blank" rel="noopener">charlinegmbh — 135 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~5 (-17% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
@@ -29,6 +29,9 @@ CharLine GmbH is an Austrian biochar-products subsidiary of composting company S
 
 ## History
 
+- **2026-08-15** — refresh: coresignal, liveliness
+- **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active ([source](registry_activity))
+- **2026-07-21** — news mention: Integrating experiments and models to unravel interactions between soil organic matter and enhanced  ([source](https://cdrxiv.org/preprint/473))
 - **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate ([source](registry_activity))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](registry_activity))
 - **2026-05-01** — refresh: screenshot
@@ -48,7 +51,6 @@ CharLine GmbH is an Austrian biochar-products subsidiary of composting company S
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

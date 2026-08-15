@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://www.climefi.com/" target="_blank" rel="noopener">https://www.climefi.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonx-world/" target="_blank" rel="noopener">carbonx-world — 9,539 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~31 (+41% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -30,6 +30,8 @@ Carbonx SAS (Paris-based, founded 2022 by Paolo Piffaretti and Sébastien Dewarr
 
 ## History
 
+- **2026-08-12** — news mention: Carbonx SAS: In Q2 this year, seven new buyers made their first carbon removal commitment. Notably,  ([source](https://www.linkedin.com/company/carbonx-world/#post-6b8af173d0db))
+- **2026-07-29** — news mention: Carbonx SAS: ClimeFi is pleased to share that it has published its CDR Market Review for Q2 2026. Mi ([source](https://www.linkedin.com/company/carbonx-world/#post-2ccc88763fcf))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — merged 1 duplicate(s): ClimeFi
 - **2026-04-19** — refresh: coresignal
@@ -48,7 +50,6 @@ Carbonx SAS (Paris-based, founded 2022 by Paolo Piffaretti and Sébastien Dewarr
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

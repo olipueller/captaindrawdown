@@ -5,7 +5,7 @@ type: "directory"
 description: "Carbon project developer partnering with Emisiones Neutras to build biochar pyrolysis facilities in Argentina that convert forestry residues into durable stored carbon, while also developing ARR,"
 url: "/directory/ecogaia/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Argentina</td></tr>
   <tr><th>Website</th><td><a href="https://www.ecogaia.earth/" target="_blank" rel="noopener">https://www.ecogaia.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/eco2gaia/" target="_blank" rel="noopener">eco2gaia — 1,309 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~9 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -31,6 +31,8 @@ EcoGaia is an Argentina-based sustainability consultancy and carbon project deve
 
 ## History
 
+- **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-07-25** — news mention: EcoGaia: Carbon credits are only as good as the measurement behind them. Most soil carbon programs s ([source](https://www.linkedin.com/company/eco2gaia/#post-e6aad02e0cc8))
 - **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
@@ -58,7 +60,6 @@ EcoGaia is an Argentina-based sustainability consultancy and carbon project deve
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

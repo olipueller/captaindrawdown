@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
   <tr><th>Country</th><td>Mexico</td></tr>
   <tr><th>Website</th><td><a href="https://silica.earth" target="_blank" rel="noopener">https://silica.earth</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/silicaearth/" target="_blank" rel="noopener">silicaearth</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/silicaearth/" target="_blank" rel="noopener">silicaearth — 429 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~9 (+80% YoY)</td></tr>
+  <tr><th>Employees</th><td>~10 (+67% YoY)</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Isometric</td></tr>
@@ -40,6 +40,17 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
+- **2026-08-07** — news mention: Bioleaching of olivine and enstatite with formation of Mg-oxalate mediated by engineered Gluconobact ([source](https://doi.org/10.1038/s41598-026-63817-0))
+- **2026-08-01** — news mention: Iron Oxidation Links CO <sub>2</sub> Mineralization to Hydrogen Formation ([source](https://doi.org/10.1021/acs.estlett.6c00308))
+- **2026-07-27** — news mention: Silica: The Carbon Business Council LATAM Working Group has published the Latin America Carbon Remov ([source](https://www.linkedin.com/company/silicaearth/#post-719470418833))
+- **2026-07-26** — news mention: Coupling acid neutralization and resource recovery to scale ocean alkalinity enhancement ([source](https://cdrxiv.org/preprint/401))
+- **2026-07-26** — news mention: Olivine-based marine carbon dioxide removal field trial shows no adverse effects on the benthic comm ([source](https://cdrxiv.org/preprint/327))
+- **2026-07-24** — news mention: Aspiring Materials: Can you replace up to 30% of cement in precast concrete using a locally produced ([source](https://www.linkedin.com/company/aspiring-materials/#post-e578bbbfb96f))
+- **2026-07-24** — news mention: Aspiring Materials: Working with NZ industries is the dream for us at Aspiring Materials and this co ([source](https://www.linkedin.com/company/aspiring-materials/#post-79050d4dd7e6))
+- **2026-07-24** — news mention: Exterra Carbon Solutions: We're in. Exterra got picked for the inaugural MaRS Discovery District Fir ([source](https://www.linkedin.com/company/esgnr/#post-66e583bb13ac))
+- **2026-07-19** — news mention: &lt;b&gt;Techno-economic assessment of low-cost adsorbents for CO₂ capture and mineralization in the ([source](https://doi.org/10.70917/jcc-2026-014))
+- **2026-07-16** — news mention: High-Porosity Silica Aerogel Particles for Direct Air Capture CO₂ Adsorption ([source](https://www.samaterials.com/blog/high-porosity-silica-aerogel-particles-for-direct-air-capture-co-adsorption.html))
 - **2026-07-15** — refresh: coresignal
 - **2026-07-15** — refresh: coresignal
 - **2026-06-26** — news mention: A Tour of Our CDR Greenhouse Experiment ([source](https://carbondrawdown.substack.com/p/a-tour-of-our-cdr-greenhouse-experiment))
@@ -67,7 +78,6 @@ Independently verified by carbon-credit registries:
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

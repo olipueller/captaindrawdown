@@ -5,7 +5,7 @@ type: "directory"
 description: "Full-chain BECCS project capturing biogenic CO2 from Pannonia Bio's fermentation/anaerobic digestion processes and injecting it into an onshore saline aquifer in the Pannonian Basin."
 url: "/directory/danube-carbon-storage/"
 pathway: "BECCS"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -14,7 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Enabling Tech</td></tr>
   <tr><th>Country</th><td>Hungary</td></tr>
   <tr><th>Website</th><td><a href="https://danubecarbon.com/" target="_blank" rel="noopener">https://danubecarbon.com/</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/danube-carbon/" target="_blank" rel="noopener">danube-carbon — 262 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~3</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -28,6 +30,8 @@ Danube Carbon Storage is a Budapest-based project developer formed to create lar
 
 ## History
 
+- **2026-08-15** — refresh: coresignal, liveliness
+- **2026-08-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-11** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-10** — news mention: Danube Carbon Storage joins the Negative Emissions Platform  Danube Carbon Storage has joined the Ne ([source](https://x.com/CaptainDrawdown/status/2053398220026380327))
 - **2026-05-09** — news mention: Danube Carbon Storage joins the Negative Emissions Platform ([source](https://www.negative-emissions.org/updates/danube-carbon-storage-joins-the-negative-emissions-platform))
@@ -48,7 +52,6 @@ Danube Carbon Storage is a Budapest-based project developer formed to create lar
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

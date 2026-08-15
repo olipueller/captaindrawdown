@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.biofinedevelopments.com/" target="_blank" rel="noopener">https://www.biofinedevelopments.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biofine-developments-northeast/" target="_blank" rel="noopener">biofine-developments-northeast — 208 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Employees</th><td>~5 (+67% YoY)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biofine-north-america/" target="_blank" rel="noopener">biofine-north-america — 216 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~6 (+50% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -30,6 +30,8 @@ Biofine Developments Northeast (BDNE) is a Maine-based biorefinery developer com
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
+- **2026-07-26** — news mention: Biofine: Biofine Developments NE  is excited to announce that it has entered into a collaboration ag ([source](https://www.linkedin.com/company/biofine-developments-northeast/#post-a34833f5c98c))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.biofinedevelopments.com/))
@@ -45,7 +47,6 @@ Biofine Developments Northeast (BDNE) is a Maine-based biorefinery developer com
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

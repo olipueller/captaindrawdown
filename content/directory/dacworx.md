@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Austria</td></tr>
   <tr><th>Website</th><td><a href="https://dacworx.eu/" target="_blank" rel="noopener">https://dacworx.eu/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/dacworx-engineering-gmbh/" target="_blank" rel="noopener">dacworx-engineering-gmbh — 81 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~3 (+200% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,10 @@ DACworx is an Austrian direct air capture technology developer that co-designed 
 
 ## History
 
+- **2026-08-10** — news mention: DACworx Engineering: Coming soon to Deep Sky Alpha. Deep Sky Alpha is welcoming DACLAB and its Kelvi ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-b68bdbc18fe2))
+- **2026-08-10** — news mention: DACworx Engineering: Exciting milestone for DACLAB . Our first carbon sequestration project is on th ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-7a3528ae7b8f))
+- **2026-08-03** — news mention: DACworx: Coming soon to Deep Sky Alpha. Deep Sky Alpha is welcoming DACLAB and its Kelvin Tower, a c ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-1bbafa726523))
+- **2026-08-03** — news mention: DACworx: Exciting milestone for DACLAB . Our first carbon sequestration project is on the horizon. L ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-a9811209c702))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
@@ -50,7 +54,6 @@ DACworx is an Austrian direct air capture technology developer that co-designed 
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

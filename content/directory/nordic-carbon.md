@@ -29,6 +29,9 @@ Nordic Carbon is a Danish biochar developer that sources biomass residues and de
 
 ## History
 
+- **2026-08-02** — news mention: Nordic Carbon: Transparency is foundational to credible carbon removal — which is why the public com ([source](https://www.linkedin.com/company/nordic-carbon/#post-24933099e92b))
+- **2026-07-25** — news mention: Nordic Carbon: ð¥ From delivery to deployment â installation underway in Drobonso! Our pyrolysis ([source](https://www.linkedin.com/company/nordic-carbon/#post-2d2551818095))
+- **2026-07-25** — news mention: Nordic Carbon: Transparency is foundational to credible carbon removal â which is why the public c ([source](https://www.linkedin.com/company/nordic-carbon/#post-f734de67301b))
 - **2026-05-22** — news mention: #crcf | Deutscher Verband für negative Emissionen e.V. (DVNE) ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7463474417994575872/))
 - **2026-05-20** — news mention: Earlier today, Carbon Gap contributed input to a closed-door roundtable in Brussels on carbon remova ([source](https://www.linkedin.com/feed/update/urn:li:share:7462505613923651584/))
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.nordiccarbon.dk/projects/drobonsocarbon))
@@ -50,7 +53,6 @@ Nordic Carbon is a Danish biochar developer that sources biomass residues and de
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

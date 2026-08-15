@@ -30,6 +30,7 @@ Beccs Stockholm is the large-scale Bio-Energy Carbon Capture and Storage project
 
 ## History
 
+- **2026-08-13** — news mention: Beccs Stockholm: Stockholm Exergi's reaction to the Commission's proposal on the revised EU ETS. We  ([source](https://www.linkedin.com/company/beccs-stockholm/#post-ddc296180687))
 - **2026-05-14** — news mention: Mammoet to deploy PTC 140 DS at Beccs Stockholm - Heavy Lift & Project Forwarding International ([source](https://www.heavyliftpfi.com/projects/2026/05/13/mammoet-to-deploy-ptc-140-ds-at-beccs-stockholm/))
 - **2026-05-12** — news mention: Mammoet décroche le levage lourd du projet Beccs Stockholm ([source](https://jdlgroupe.com/2026/05/11/mammoet-decroche-le-levage-lourd-du-projet-beccs-stockholm/))
 - **2026-05-12** — news mention: Mammoet awarded heavy-lift scope for Beccs Stockholm | AJOT.COM ([source](https://www.ajot.com/news/mammoet-awarded-heavy-lift-scope-for-beccs-stockholm))
@@ -52,7 +53,6 @@ Beccs Stockholm is the large-scale Bio-Energy Carbon Capture and Storage project
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

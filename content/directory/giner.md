@@ -5,7 +5,7 @@ type: "directory"
 description: "Electrochemical DAC prototype: concentrated KOH absorbs atmospheric CO2 as potassium carbonate, then a hydrogen-assisted carbonate electrolyzer regenerates pure CO2 and recycles the KOH at low"
 url: "/directory/giner/"
 pathway: "DAC"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,9 +15,9 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Method</th><td>DAC (Liquid Solvent)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.ginerinc.com/" target="_blank" rel="noopener">https://www.ginerinc.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/giner-inc/" target="_blank" rel="noopener">giner-inc — 3,528 followers</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
-  <tr><th>Employees</th><td>~125 (-26% YoY)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/giner-inc/" target="_blank" rel="noopener">giner-inc — 3,594 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Employees</th><td>~125 (-23% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -31,6 +31,8 @@ Giner, Inc. (Giner Labs) is a Newton, Massachusetts electrochemical R&D firm fou
 
 ## History
 
+- **2026-08-15** — refresh: coresignal, liveliness
+- **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.linkedin.com/posts/giner-inc_arpa-e-project-anion-exchange-membrane-activity-7075535683221647360-ML1X?trk=public_profile_like_view))
 - **2026-06-15** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.linkedin.com/posts/giner-inc_arpa-e-project-anion-exchange-membrane-activity-7075535683221647360-ML1X?trk=public_profile_like_view))
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.linkedin.com/posts/giner-inc_arpa-e-project-anion-exchange-membrane-activity-7075535683221647360-ML1X?trk=public_profile_like_view))
 - **2026-05-01** — refresh: screenshot
@@ -60,7 +62,6 @@ Giner, Inc. (Giner Labs) is a Newton, Massachusetts electrochemical R&D firm fou
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

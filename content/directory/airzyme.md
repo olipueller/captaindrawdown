@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://airzy.me/" target="_blank" rel="noopener">https://airzy.me/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/airzyme/" target="_blank" rel="noopener">airzyme — 804 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/airzyme/" target="_blank" rel="noopener">airzyme — 837 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~5 (0% YoY)</td></tr>
+  <tr><th>Employees</th><td>~6 (0% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -35,6 +35,7 @@ AirZyme is a Stockholm-based climate tech startup (founded 2022) developing a bi
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.f6s.com/company/airzyme))
@@ -58,7 +59,6 @@ AirZyme is a Stockholm-based climate tech startup (founded 2022) developing a bi
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

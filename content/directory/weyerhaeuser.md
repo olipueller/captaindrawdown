@@ -5,7 +5,7 @@ type: "directory"
 description: "Develops Improved Forest Management (IFM) carbon credits across 200,000+ acres via extended harvest rotations and streamside no-harvest zones, plus subsurface pore-space leases to CCS operators."
 url: "/directory/weyerhaeuser/"
 pathway: "Afforestation"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.weyerhaeuser.com/climate-solutions/" target="_blank" rel="noopener">https://www.weyerhaeuser.com/climate-solutions/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/weyerhaeuser/" target="_blank" rel="noopener">weyerhaeuser — 110,165 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~7258</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -31,6 +31,10 @@ Weyerhaeuser (NYSE: WY) is one of the world's largest private timberland REITs, 
 
 ## History
 
+- **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-08-11** — news mention: Weyerhaeuser: Building a trusted voluntary carbon market starts with developing high-integrity proje ([source](https://www.linkedin.com/company/weyerhaeuser/#post-feeff347938d))
+- **2026-08-07** — news mention: Kodama Systems: Last week at Weyerhaeuser 's Investor Day, SVP of Timberlands Travis Keatley spoke a ([source](https://www.linkedin.com/company/kodama-systems/#post-67732b839070))
+- **2026-07-24** — news mention: Kodama: Kodama is beyond proud to be a key technology partner in Weyerhaeuser’s vision for the futur ([source](https://www.linkedin.com/company/kodama-systems/#post-8f8ec42bd847))
 - **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
@@ -51,7 +55,6 @@ Weyerhaeuser (NYSE: WY) is one of the world's largest private timberland REITs, 
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

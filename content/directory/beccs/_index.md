@@ -8,19 +8,19 @@ url: "/directory/beccs/"
 
 # BECCS — 84 Companies Tracked
 
-**Market pulse for BECCS (updated 2026-07-15).**
+**Market pulse for BECCS (updated 2026-08-15).**
 
 <div class="directory-stats">
   <div class="stat-box"><span class="num">84</span><span class="label">Companies</span></div>
-  <div class="stat-box"><span class="num" style="color:#22c55e">53</span><span class="label">🟢 Active</span></div>
+  <div class="stat-box"><span class="num" style="color:#22c55e">62</span><span class="label">🟢 Active</span></div>
   <div class="stat-box"><span class="num" style="color:#eab308">11</span><span class="label">🟡 Moderate</span></div>
-  <div class="stat-box"><span class="num" style="color:#f97316">10</span><span class="label">🟠 Suspect</span></div>
-  <div class="stat-box"><span class="num" style="color:#ef4444">10</span><span class="label">🔴 Maybe Dead?</span></div>
+  <div class="stat-box"><span class="num" style="color:#f97316">5</span><span class="label">🟠 Suspect</span></div>
+  <div class="stat-box"><span class="num" style="color:#ef4444">6</span><span class="label">🔴 Maybe Dead?</span></div>
 </div>
 
 <div class="directory-stats">
-  <div class="stat-box"><span class="num">107,469</span><span class="label">Total employees (lower bound)</span></div>
-  <div class="stat-box"><span class="num">71/84</span><span class="label">Companies with headcount data</span></div>
+  <div class="stat-box"><span class="num">107,728</span><span class="label">Total employees (lower bound)</span></div>
+  <div class="stat-box"><span class="num">73/84</span><span class="label">Companies with headcount data</span></div>
 </div>
 
 ## Largest companies

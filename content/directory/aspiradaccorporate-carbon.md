@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://www.aspiradac.com/" target="_blank" rel="noopener">https://www.aspiradac.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aspiradac/" target="_blank" rel="noopener">aspiradac — 418 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/aspiradac/" target="_blank" rel="noopener">aspiradac — 449 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Employees</th><td>~5 (+25% YoY)</td></tr>
+  <tr><th>Employees</th><td>~6 (+50% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ AspiraDAC is a wholly-owned subsidiary of Corporate Carbon Group developing Aust
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=division liveliness=🟢 Active ([source](https://www.aspiradac.com/news))
@@ -51,7 +52,6 @@ AspiraDAC is a wholly-owned subsidiary of Corporate Carbon Group developing Aust
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

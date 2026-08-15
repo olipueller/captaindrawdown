@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Mineralization (Other)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.karbonetiq.com/" target="_blank" rel="noopener">https://www.karbonetiq.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/karbonetiq-inc/" target="_blank" rel="noopener">karbonetiq-inc — 121 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/karbonetiq-inc/" target="_blank" rel="noopener">karbonetiq-inc — 161 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro crediting window through 2030-07-31</small></td></tr>
   <tr><th>Employees</th><td>~30</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -42,6 +42,8 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
+- **2026-07-26** — news mention: Karbonetiq: At Karbonetiq, we accelerate natural mineralization to deliver carbon removal that lasts ([source](https://www.linkedin.com/company/karbonetiq-inc/#post-fafc740674fd))
 - **2026-07-02** — news mention: Frontier Climate - Wikipedia ([source](https://en.wikipedia.org/wiki/Frontier_Climate))
 - **2026-05-11** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.karbonetiq.com/))
 - **2026-05-01** — refresh: screenshot
@@ -61,7 +63,6 @@ Independently verified by carbon-credit registries:
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

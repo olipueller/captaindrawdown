@@ -15,9 +15,9 @@ liveliness: "🟠 Suspect"
   <tr><th>Method</th><td>DAC (Other/Undisclosed)</td></tr>
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://alpinex.tech/" target="_blank" rel="noopener">https://alpinex.tech/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon15/" target="_blank" rel="noopener">carbon15 — 241 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/alpinextech/" target="_blank" rel="noopener">alpinextech — 254 followers</a></td></tr>
   <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
-  <tr><th>Employees</th><td>~1 (0% YoY)</td></tr>
+  <tr><th>Employees</th><td>~1 (-100% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ Alpine X is a French deeptech startup based in Val d'Isère developing high-alti
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
 - **2026-05-11** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://carbonherald.com/remove-announces-the-new-cdr-startups-to-join-its-european-accelerator-program/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
@@ -49,7 +50,6 @@ Alpine X is a French deeptech startup based in Val d'Isère developing high-alti
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

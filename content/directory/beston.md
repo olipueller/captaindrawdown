@@ -30,6 +30,10 @@ Beston Group is a Chinese pyrolysis equipment manufacturer based in Zhengzhou/Ji
 
 ## History
 
+- **2026-08-04** — news mention: Beston: 🌍 Big News: Beston Group is now a Rainbow Partner for Industrial Pyrolysis Manufacturers! We ([source](https://www.linkedin.com/company/beston-henan-machinery-co-ltd-/#post-02e26714b5f4))
+- **2026-07-28** — news mention: Beston Group: 🌍 Big News: Beston Group is now a Rainbow Partner for Industrial Pyrolysis Manufacture ([source](https://www.linkedin.com/company/beston-henan-machinery-co-ltd-/#post-c29792934933))
+- **2026-07-25** — news mention: Euthenia Energy: 🌱 Big milestone for Euthenia! We’re proud to announce the successful launch of our  ([source](https://www.linkedin.com/company/euthenia-energy/#post-316fa6916097))
+- **2026-07-23** — news mention: Takachar: Excited to introduce the Rainbow Partner Program, the largest ecosystem of dMRV providers  ([source](https://www.linkedin.com/company/takachar/#post-b8359905ff33))
 - **2026-07-13** — news mention: Beston Group Outlines Pyrolysis Technology Pathways for Global Wildfire Prevention and Forest Biomas ([source](https://biochartoday.com/news/beston-group-outlines-pyrolysis-technology-pathways-for-global-wildfire-prevention-and-forest-biomass-management/))
 - **2026-07-13** — news mention: Arrhenius AG successfully closed a seed funding round which will help the company scale its carbon r ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mqjrfpqfuk2k))
 - **2026-06-24** — news mention: #climateweeknyc #carbonremoval #cdr #corcs #newyork #purocdrsummit | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:share:7473721490056609793/))
@@ -53,7 +57,6 @@ Beston Group is a Chinese pyrolysis equipment manufacturer based in Zhengzhou/Ji
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

@@ -45,6 +45,11 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-08-10** — news mention: Flux: Isometric has reached a major milestone—signing our 100th carbon removal supplier, Flux . Over ([source](https://www.linkedin.com/company/flux-earth/#post-a3091f3c0857))
+- **2026-08-04** — news mention: Varaha Climate AG: Google . PayPal . Airbnb . And now, Varaha has been named a 2026 Technology Pione ([source](https://www.linkedin.com/company/meta-carbontech/#post-ab2dc39d21c7))
+- **2026-08-03** — news mention: Equilibrium Carbon Capture 2026, $25.2M Altitude Deal - EnkiAI ([source](https://enkiai.com/carbon-capture/equilibrium-biochar-project-india/))
+- **2026-07-29** — news mention: The Startup Turning Healthy Soil Into Extra Income for 2 Lakh Farmers ([source](https://thebetterindia.com/farming/varaha-carbon-credits-farmers-regenerative-agriculture-india-12208537))
+- **2026-07-25** — news mention: 350solutions: March was a crazy month for Enhanced Rock Weathering ( #ERW )! The 350 team was busy w ([source](https://www.linkedin.com/company/350solutions/#post-4a43938f1559))
 - **2026-06-27** — news mention: Varaha - 2026 Company Profile, Team, Funding, Competitors & Financials - Tracxn ([source](https://tracxn.com/d/companies/varaha/__pYFx2Y2zYxhtWNdCQOl7mG7XezdedBAk4yh8CL6v_3g))
 - **2026-05-22** — news mention: Supercritical Partners With Varaha To Bring Distributed Biochar Credits To Market ([source](https://carbonherald.com/supercritical-partners-with-varaha-to-bring-distributed-biochar-credits-to-market/?utm_source=rss&utm_medium=rss&utm_campaign=supercritical-partners-with-varaha-to-bring-distributed-biochar-credits-to-market))
 - **2026-05-20** — news mention: #carbonunboundeastcoast #carbonunbound #carbonremoval #climateaction #netzero #decarbonization #carb ([source](https://www.linkedin.com/feed/update/urn:li:share:7462573132252459009/))
@@ -73,7 +78,6 @@ Independently verified by carbon-credit registries:
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

@@ -30,6 +30,11 @@ Xpansiv operates market infrastructure for environmental commodities, including 
 
 ## History
 
+- **2026-08-06** — news mention: Evident: The Xpansiv I-REC Registry has recorded its one billionth I-REC redemption, reflecting I-RE ([source](https://www.linkedin.com/company/international-rec-services/#post-f9a1b8f9b0d2))
+- **2026-07-30** — news mention: C-Capsule Registry - Xpansiv ([source](https://www.xpansiv.com/registries/c-capsule))
+- **2026-07-22** — news mention: Xpansiv: BEVerify is now live An important step forward for carbon markets in the built environment. ([source](https://www.linkedin.com/company/xpansiv-data-systems/#post-6c9087eab2be))
+- **2026-07-22** — news mention: Xpansiv: Nuclear-power emission-free energy certificates (EFECs) from the New England Power Pool (NE ([source](https://www.linkedin.com/company/xpansiv-data-systems/#post-ee33587093f5))
+- **2026-07-22** — news mention: Xpansiv: Xpansiv Power has been approved as a member of PJM, expanding our technology and services f ([source](https://www.linkedin.com/company/xpansiv-data-systems/#post-6e1d7c86ba3a))
 - **2026-07-14** — news mention: BEClimate and Xpansiv Launch BEVerify Registry To Bring Carbon Credits To Buildings ([source](https://carbonherald.com/beclimate-and-xpansiv-launch-beverify-registry-to-bring-carbon-credits-to-buildings/?utm_source=rss&utm_medium=rss&utm_campaign=beclimate-and-xpansiv-launch-beverify-registry-to-bring-carbon-credits-to-buildings))
 - **2026-05-16** — news mention: CDR finance split into two opposite plumbing problems this week.  On the supplier side, GFI deployed ([source](https://x.com/CaptainDrawdown/status/2055516084795478138))
 - **2026-05-16** — news mention: CDR finance just split into two opposite plumbing problems in one week. Suppliers of durable removal ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mlx3fe6pb62i))
@@ -47,7 +52,6 @@ Xpansiv operates market infrastructure for environmental commodities, including 
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

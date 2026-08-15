@@ -30,6 +30,8 @@ ARTi (Advanced Renewable Technology International) is a U.S.-based biochar compa
 
 ## History
 
+- **2026-07-24** — news mention: ARTi: Pyronexus Licenses ARTi Pyrolysis Technology Pyronexus Announces Licensing of ARTi's Pyrolysis ([source](https://www.linkedin.com/company/advanced-renewable-technology-international-inc-artichar-/#post-1fdef19de7b6))
+- **2026-07-21** — news mention: Closing the carbon removal attribution gap requires an objective atmospheric basis ([source](https://cdrxiv.org/preprint/303))
 - **2026-06-02** — news mention: Africa's Great Rift is also a terrific source for rock dust that farmers can use as a soil amendment ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mncxylrtt22l))
 - **2026-06-02** — news mention: Sewage sludge is a major issue towns have to deal with.  Many persistent organic pollutants, pharmac ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mncptvpcr22l))
 - **2026-05-24** — news mention: A few people asked if I'd tried it. I haven't, but it sure does look good although I know I'll proba ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mmmrvvgnyc2v))
@@ -53,7 +55,6 @@ ARTi (Advanced Renewable Technology International) is a U.S.-based biochar compa
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

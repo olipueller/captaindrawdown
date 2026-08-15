@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Ocean Alkalinity Enhancement</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://crewcarbon.com/" target="_blank" rel="noopener">https://crewcarbon.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/crew-carbon/" target="_blank" rel="noopener">crew-carbon</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/crew-carbon/" target="_blank" rel="noopener">crew-carbon — 4,420 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~23 (+53% YoY)</td></tr>
+  <tr><th>Employees</th><td>~28 (+87% YoY)</td></tr>
   <tr><th>Open roles</th><td>8 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -46,6 +46,29 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
+- **2026-08-13** — news mention: Graphyte: Midway through the year and happy to report that the Frontier portfolio has removed 30,600 ([source](https://www.linkedin.com/company/graphytecarbon/#post-98b280ac61ac))
+- **2026-08-12** — news mention: Microsoft Signs Carbon Removal Deal With Crew Carbon ([source](https://impakter.com/microsoft-signs-carbon-removal-deal-with-crew-carbon/))
+- **2026-08-12** — news mention: Microsoft Purchases Carbon Removal Units from Crew Carbon - COINTURK FINANCE ([source](https://finance.coin-turk.com/microsoft-purchases-carbon-removal-units-from-crew-carbon/))
+- **2026-08-12** — news mention: CDR.fyi: 📰 This week saw some huge developments in durable CDR, as Microsoft bought 23,602 tonnes of ([source](https://www.linkedin.com/company/cdr-fyi/#post-9bb0bb24022d))
+- **2026-08-11** — news mention: Microsoft Backs CREW Carbon Wastewater Removal Deal - ESG News ([source](https://esgnews.com/microsoft-backs-crew-carbon-wastewater-removal-deal/))
+- **2026-08-10** — news mention: CREW Carbon: Frontier just committed an additional $915M to carbon dioxide removal — bringing their  ([source](https://www.linkedin.com/company/crew-carbon/#post-0b276c342221))
+- **2026-08-10** — news mention: CREW Carbon: CREW has signed a long-term CO2 removal offtake agreement with Microsoft !   When some  ([source](https://www.linkedin.com/company/crew-carbon/#post-ea42e8b16d24))
+- **2026-08-08** — news mention: Microsoft Secures 23,602 Carbon Removal Credits from CREW Carbon to Diversify Portfolio &#8211; Bioc ([source](https://biochartoday.com/news/microsoft-secures-23602-carbon-removal-credits-from-crew-carbon-to-diversify-portfolio/?utm_source=bluesky&utm_medium=jetpack_social))
+- **2026-08-07** — news mention: Microsoft inks wastewater carbon removal deal with Crew Carbon | BusinessGreen News ([source](https://www.businessgreen.com/news/4534043/microsoft-inks-wastewater-carbon-removal-deal-crew-carbon))
+- **2026-08-07** — news mention: Why Wastewater Carbon Removal Matters for Oceans - CREW Carbon ([source](https://crewcarbon.com/why-wastewater-carbon-removal-matters-for-oceans/))
+- **2026-08-07** — news mention: CarbonPlan's collective case for preprinting in CDR is right: preprints surface results 5 to 15 mont ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mshyra2ki426))
+- **2026-08-07** — news mention: Carbon Drawdown Initiative: Congratulations portfolio company CREW Carbon to their announcement of a ([source](https://www.linkedin.com/company/carbon-drawdown-initiative/#post-e67f5c190fdd))
+- **2026-08-07** — news mention: Carbon Removal Alliance: CREW is working with Microsoft on our latest carbon removal offtake, announ ([source](https://www.linkedin.com/company/carbon-removal-alliance/#post-c0aeedb271f8))
+- **2026-08-05** — news mention: Microsoft Backs Wastewater Carbon Removal With CREW Carbon Offtake Deal ([source](https://carbonherald.com/microsoft-backs-wastewater-carbon-removal-with-crew-carbon-offtake-deal/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-backs-wastewater-carbon-removal-with-crew-carbon-offtake-deal))
+- **2026-08-05** — news mention: CDR.fyi: 🚨 Big CDR Deal Alert! 🚨 🤝 CREW Carbon has signed an offtake agreement with Microsoft for 23 ([source](https://www.linkedin.com/company/cdr-fyi/#post-dbee0e1cdb2d))
+- **2026-08-01** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-47656d726774))
+- **2026-07-31** — news mention: Wastewater treatment plants produce CO₂ continuously — inside enclosed, monitored reactors — as a na ([source](https://www.linkedin.com/feed/update/urn:li:share:7488578005435314177/))
+- **2026-07-30** — news mention: Graphyte: Midway through the year and happy to report that the Frontier portfolio has removed 30,600 ([source](https://www.linkedin.com/company/graphytecarbon/#post-e5a51d894b02))
+- **2026-07-27** — news mention: CREW Carbon: "The CREW system was recently tested at another HRSD plant nearby. It proved so effecti ([source](https://www.linkedin.com/company/crew-carbon/#post-6d68773da812))
+- **2026-07-25** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-ffa67cc8d2be))
+- **2026-07-24** — news mention: Frontier Climate: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/frontierclimate/#post-38d7c2844441))
+- **2026-07-22** — news mention: Charm Industrial: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/charm-industrial/#post-3120c3c1e69a))
 - **2026-07-15** — refresh: coresignal
 - **2026-07-15** — refresh: coresignal
 - **2026-06-24** — news mention: Frontier Commits $915M to Carbon Removal with CREW Carbon | CREW Carbon posted on the topic | Linked ([source](https://www.linkedin.com/feed/update/urn:li:share:7473061590855090177/))
@@ -53,27 +76,6 @@ Independently verified by carbon-credit registries:
 - **2026-06-15** — refresh: coresignal
 - **2026-06-10** — news mention: &amp;quot;The CREW system was recently tested at another HRSD plant nearby. It proved so effective t ([source](https://www.linkedin.com/feed/update/urn:li:share:7470227579673829376/))
 - **2026-05-22** — news mention: Chestnut Carbon Raises $90 Million to Scale Nature-Based Carbon Removal Projects Across the U.S. ([source](https://www.causeartist.com/blog/chestnut-carbon-raises-90-million-to-scale-nature-based-carbon-removal-projects-across-the-u-s))
-- **2026-05-19** — news mention: &amp;quot;Dr. Charles Bott is the technology chief for HRSD, a public water utility in coastal Virgi ([source](https://www.linkedin.com/feed/update/urn:li:share:7462151436521611264/))
-- **2026-05-18** — news mention: CREW Carbon Raises $25 Million to Scale Wastewater Treatment Technology with Verified Carbon Removal ([source](https://onestopesg.com/esg-news/crew-carbon-wastewater-treatment-funding))
-- **2026-05-18** — news mention: The AI Boom Needs Carbon Removal  The CEO of Climeworks argues in Heatmap News that carbon removal s ([source](https://x.com/CaptainDrawdown/status/2056268267589599562))
-- **2026-05-17** — news mention: Japan's Idemitsu invests in US carbon removal firm CREW ([source](https://www.spglobal.com/energy/en/news-research/latest-news/energy-transition/051526-japans-idemitsu-invests-in-us-carbon-removal-firm-crew))
-- **2026-05-17** — news mention: Crew Carbon raised $25M to scale wastewater treatment and CO2 removal tech. https://t.co/2FLGVnJmkj  ([source](https://x.com/geoengineering1/status/2056116633303912735))
-- **2026-05-17** — news mention: CREW Carbon Secures $25M To Scale Its Wastewater Treatment Optimization Technology  CREW Carbon has  ([source](https://x.com/CaptainDrawdown/status/2055903220996714671))
-- **2026-05-17** — news mention: Canada has the geology to lead global CDR. Surficial mineralization in BC, Quebec, and the Prairies  ([source](https://x.com/CaptainDrawdown/status/2055877885995446668))
-- **2026-05-16** — news mention: This Week in CDR - May 15, 2026 | CDR.fyi ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7461066683122716690/))
-- **2026-05-16** — news mention: ✍  from Tom Ferguson at Burnt Island Ventures (link in comments): 
-
-“Wastewater treatment plays a ma ([source](https://www.linkedin.com/feed/update/urn:li:share:7461108784623632384/))
-- **2026-05-15** — news mention: CREW Carbon Secures $25M To Scale Its Wastewater Treatment Optimization Technology ([source](https://carbonherald.com/crew-carbon-secures-25m-to-scale-its-wastewater-treatment-optimization-technology/?utm_source=rss&utm_medium=rss&utm_campaign=crew-carbon-secures-25m-to-scale-its-wastewater-treatment-optimization-technology))
-- **2026-05-06** — news mention: We’re heading to RBTT 2026! CREW will be presenting and highlighting Wastewater Alkalinity Enhanceme ([source](https://www.linkedin.com/feed/update/urn:li:share:7457728391580893184/))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-28** — news mention: Strategic Finance Intern - CREW Carbon ([source](https://crewcarbon.com/jobs/commercial-finance-intern))
-- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://crewcarbon.com/))
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://crewcarbon.com/))
-- **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://crewcarbon.com/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 
@@ -82,7 +84,6 @@ Independently verified by carbon-credit registries:
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

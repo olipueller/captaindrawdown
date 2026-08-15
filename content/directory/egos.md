@@ -5,7 +5,7 @@ type: "directory"
 description: "Operates a BImSchG-permitted pyrolysis plant converting biomass into biochar, feed charcoal and Terra Preta, with syngas-based CO2-negative power and heat cogeneration."
 url: "/directory/egos/"
 pathway: "Biochar"
-liveliness: "🟢 Active"
+liveliness: "🔴 Likely Dead"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.pflanzenkohle24.de/" target="_blank" rel="noopener">https://www.pflanzenkohle24.de/</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -28,6 +28,8 @@ EGoS was founded in 2002 by Theo Houy and has been based at its current site in 
 
 ## History
 
+- **2026-08-15** — refresh: liveliness
+- **2026-08-15** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://gutschein.coupert.com/store/pflanzenkohle24.de))
 - **2026-05-11** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://gutschein.coupert.com/store/pflanzenkohle24.de))
 - **2026-05-10** — news mention: Plugging Away at the Millions of Derelict Oil and Gas Wells in the US ([source](https://insideclimatenews.org/news/10052026/well-done-foundation-plugging-abandoned-oil-gas-wells/))
 - **2026-05-01** — refresh: screenshot
@@ -48,7 +50,6 @@ EGoS was founded in 2002 by Theo Houy and has been based at its current site in 
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

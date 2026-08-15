@@ -5,7 +5,7 @@ type: "directory"
 description: "Carbon credit streaming/royalty finance firm that provides upfront capital to project developers in exchange for rights to future credits, then sells those credits to corporate buyers."
 url: "/directory/carbon-streaming/"
 pathway: "Enabling Tech"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonstreaming.com/" target="_blank" rel="noopener">https://www.carbonstreaming.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-streaming-corp/" target="_blank" rel="noopener">carbon-streaming-corp — 5,759 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>Employees</th><td>~5</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -31,6 +31,7 @@ Carbon Streaming Corporation is a publicly traded (NETZ/OFSTF) carbon credit str
 
 ## History
 
+- **2026-08-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-14** — news mention: Carbon Streaming Announces Financial Results for the Three Months Ended March 31, 2026 | OFSTF Stock ([source](https://www.stocktitan.net/news/OFSTF/carbon-streaming-announces-financial-results-for-the-three-months-84ask4c20q4n.html))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
@@ -46,7 +47,6 @@ Carbon Streaming Corporation is a publicly traded (NETZ/OFSTF) carbon credit str
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Direct Ocean Removal</td></tr>
   <tr><th>Country</th><td>Israel</td></tr>
   <tr><th>Website</th><td><a href="https://carbonblue.cc/" target="_blank" rel="noopener">https://carbonblue.cc/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonblue-cc/" target="_blank" rel="noopener">carbonblue-cc — 3,628 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Employees</th><td>~18 (+20% YoY)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonblue-cc/" target="_blank" rel="noopener">carbonblue-cc — 3,824 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Employees</th><td>~20 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ CarbonBlue is an Israeli climate-tech startup founded in 2022 by Dr. Dan Deviri 
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://finance.yahoo.com/news/carbonblue-launches-world-first-integration-123000206.html))
@@ -46,7 +47,6 @@ CarbonBlue is an Israeli climate-tech startup founded in 2022 by Dr. Dan Deviri 
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

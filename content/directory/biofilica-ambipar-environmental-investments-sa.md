@@ -5,7 +5,7 @@ type: "directory"
 description: "Develops and commercializes nature-based carbon projects in Brazil (REDD+, afforestation/reforestation, agricultural land management, Blue Carbon, biochar) under Verra VCS/CCB standards."
 url: "/directory/biofilica-ambipar-environmental-investments-sa/"
 pathway: "Afforestation"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,9 @@ liveliness: "🟡 Moderate"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Brazil</td></tr>
   <tr><th>Website</th><td><a href="https://biofilica.com.br/en/" target="_blank" rel="noopener">https://biofilica.com.br/en/</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biofilica/" target="_blank" rel="noopener">biofilica — 616 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Employees</th><td>~24</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
@@ -29,6 +31,8 @@ Founded in 2008, Biofílica Ambipar Environment's mission is to establish a stro
 
 ## History
 
+- **2026-08-15** — refresh: coresignal, liveliness
+- **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
@@ -47,7 +51,6 @@ Founded in 2008, Biofílica Ambipar Environment's mission is to establish a stro
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

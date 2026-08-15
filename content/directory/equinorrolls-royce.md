@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Liquid Solvent)</td></tr>
   <tr><th>Country</th><td>Norway</td></tr>
   <tr><th>Website</th><td><a href="https://www.equinor.com/" target="_blank" rel="noopener">https://www.equinor.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/equinor/" target="_blank" rel="noopener">equinor — 1,061,784 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Employees</th><td>~16593 (+1% YoY)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/equinor/" target="_blank" rel="noopener">equinor — 1,096,281 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Employees</th><td>~16757 (-0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ Equinor is a Norwegian state-majority-owned international energy major (oil, gas
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.gov.uk/government/publications/direct-air-capture-and-greenhouse-gas-removal-innovation-programme-selected-projects/direct-air-capture-and-greenhouse-gas-removal-innovation-programme-phase-2-projects))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
@@ -49,7 +50,6 @@ Equinor is a Norwegian state-majority-owned international energy major (oil, gas
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

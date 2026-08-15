@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://terrawatt.earth/" target="_blank" rel="noopener">https://terrawatt.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/terrawatt-sas/" target="_blank" rel="noopener">terrawatt-sas</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~6 (+20% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,8 @@ TerraWatt SAS is a French technology startup (founded 2014, based in Meslay-du-M
 
 ## History
 
+- **2026-07-27** — news mention: TerraWatt: After years of hard work, we are so proud to announce the launch of CARBON-4-LIFE Project ([source](https://www.linkedin.com/company/terrawatt-sas/#post-b6a8f9aef9ca))
+- **2026-07-26** — news mention: CarbonFields: After years of hard work, we are so proud to announce the launch of CARBON-4-LIFE Proj ([source](https://www.linkedin.com/company/carbon-fields/#post-b6a8f9aef9ca))
 - **2026-06-15** — refresh: coresignal, liveliness
 - **2026-06-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.b2e.bzh/membres/transformer-la-biomasse-en-biochar-et-biomethane-terrawatt/))
 - **2026-05-01** — refresh: screenshot
@@ -50,7 +52,6 @@ TerraWatt SAS is a French technology startup (founded 2014, based in Meslay-du-M
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

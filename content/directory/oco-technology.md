@@ -44,6 +44,8 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-08-07** — news mention: O.C.O Technology: What if industrial waste and captured CO₂ could become a valuable resource for the ([source](https://www.linkedin.com/company/o-c-o-technology-ltd/#post-3d55eb14ffe5))
+- **2026-07-24** — news mention: O.C.O Technology: What if industrial waste and captured COâ could become a valuable resource for t ([source](https://www.linkedin.com/company/o-c-o-technology-ltd/#post-0412645508ce))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Mineralization focus=division liveliness=🟢 Active ([source](https://oco.co.uk/news/))
@@ -60,7 +62,6 @@ Independently verified by carbon-credit registries:
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

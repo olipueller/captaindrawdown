@@ -14,7 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Unknown</td></tr>
   <tr><th>Website</th><td><a href="https://www.removecarbontoday.com/" target="_blank" rel="noopener">https://www.removecarbontoday.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/remove-carbon-today/" target="_blank" rel="noopener">remove-carbon-today — 53 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~1</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -28,6 +30,7 @@ Remove Carbon Today is an online retail storefront that enables individuals to p
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
 - **2026-06-27** — news mention: Carbon Removal Tracker ([source](https://www.removecarbontoday.com/pages/carbon-removal-tracker))
 - **2026-05-22** — refresh: liveliness
 - **2026-05-22** — liveliness: 🟡 Moderate → 🟢 Active
@@ -45,7 +48,6 @@ Remove Carbon Today is an online retail storefront that enables individuals to p
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

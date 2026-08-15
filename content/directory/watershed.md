@@ -34,6 +34,18 @@ Watershed is an enterprise sustainability software platform that helps companies
 
 ## History
 
+- **2026-08-04** — news mention: Watershed: 📣 Our July sustainability policy briefing is out from Madhav Seth , Watershed's policy le ([source](https://www.linkedin.com/company/watershedclimate/#post-b5dd8f5d604a))
+- **2026-08-04** — news mention: Watershed: California’s climate disclosure rules are coming into sharper focus. At its latest worksh ([source](https://www.linkedin.com/company/watershedclimate/#post-eae7bc8a8a3d))
+- **2026-07-31** — news mention: Carbon Removal Alliance: At Tufts Cove in Nova Scotia, Planetary became the first company in the wor ([source](https://www.linkedin.com/company/carbon-removal-alliance/#post-5c486abcd78a))
+- **2026-07-29** — news mention: Lithos: The original Frontier AMC has been nothing short of category-defining for CDR. This new Grow ([source](https://www.linkedin.com/company/lithoscarbon/#post-69f1cc3d3ecb))
+- **2026-07-28** — news mention: Watershed: Today we’re releasing a comprehensive open framework for corporate AI emissions measureme ([source](https://www.linkedin.com/company/watershedclimate/#post-2979cae6ea3b))
+- **2026-07-28** — news mention: Indigo: Across 2.5 million acres of U.S. farmland, more than 1,400 farmers are turning healthier soi ([source](https://www.linkedin.com/company/indigoag/#post-b87bcd6b2478))
+- **2026-07-26** — news mention: Direct measurement of carbon dioxide removal due to enhanced weathering ([source](https://cdrxiv.org/preprint/352))
+- **2026-07-23** — news mention: Eion: Eion is excited to announce an offtake purchase with Ripple , facilitated by Watershed , which ([source](https://www.linkedin.com/company/eioncarbon/#post-490511bf6685))
+- **2026-07-22** — news mention: Lithos: 🪨 Lithos has issued our first batch of Isometric -verified carbon removal credits from the e ([source](https://www.linkedin.com/company/lithoscarbon/#post-c72d5d77bc8c))
+- **2026-07-21** — news mention: Spatiotemporal soil fertility responses to an enhanced rock weathering deployment within a temperate ([source](https://cdrxiv.org/preprint/461))
+- **2026-07-21** — news mention: Watershed: At Tufts Cove in Nova Scotia, Planetary became the first company in the world to deliver  ([source](https://www.linkedin.com/company/watershedclimate/#post-a5ddf8177df9))
+- **2026-07-19** — news mention: Staff Embedded Systems Engineer - Copper - greenjobsearch.org ([source](https://greenjobs.greenjobsearch.org/jobs/staff-embedded-systems-engineer-2/))
 - **2026-06-24** — news mention: Frontier AMC Expands with New Growth Partnerships | Lithos Carbon posted on the topic | LinkedIn ([source](https://www.linkedin.com/feed/update/urn:li:share:7473530006678188032/))
 - **2026-06-05** — news mention: For decades, mangroves were a cautionary tale.  Cleared for shrimp ponds. Bulldozed for palm oil. Lo ([source](https://bsky.app/profile/joncors.bsky.social/post/3mnjukio6cs2l))
 - **2026-05-27** — news mention: 🪨 Lithos has issued our first batch of Isometric-verified carbon removal credits from the earliest P ([source](https://www.linkedin.com/feed/update/urn:li:share:7465090193377681408/))
@@ -57,7 +69,6 @@ Watershed is an enterprise sustainability software platform that helps companies
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

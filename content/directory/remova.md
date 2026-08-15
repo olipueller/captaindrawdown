@@ -29,6 +29,10 @@ Remova Carbon Systems Ltd. is a Calgary-based Canadian carbon dioxide removal de
 
 ## History
 
+- **2026-08-03** — news mention: Remova: We want to sincerely congratulate the team at Frontier for the hard work and foresight they’ ([source](https://www.linkedin.com/company/remova-carbon-systems/#post-98e9d1dfa5de))
+- **2026-07-27** — news mention: Remova: Today we’re announcing that Frontier has raised an additional $915M for carbon removal, from ([source](https://www.linkedin.com/company/remova-carbon-systems/#post-e3e7a0ff2985))
+- **2026-07-26** — news mention: Canadian Wollastonite: 🚀 Major Win! Our Canadian Wollastonite Partnership with UNDO won the $5 Milli ([source](https://www.linkedin.com/company/canadian-wollastonite/#post-40da88a85506))
+- **2026-07-22** — news mention: Carbon Business Council: Today, the European Commission released its landmark EU ETS reform, and hig ([source](https://www.linkedin.com/company/carbonbusinesscouncil/#post-8502f867e04a))
 - **2026-07-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-06-24** — news mention: #climateweeknyc #carbonremoval #cdr #corcs #newyork #purocdrsummit | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:share:7473721490056609793/))
 - **2026-05-01** — refresh: screenshot
@@ -54,7 +58,6 @@ Remova Carbon Systems Ltd. is a Calgary-based Canadian carbon dioxide removal de
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

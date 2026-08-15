@@ -5,7 +5,7 @@ type: "directory"
 description: "Digital platform offering equipment selection software, project finance matching, and carbon accounting workflows for biochar project developers; not a physical CDR producer."
 url: "/directory/grain-ecosystem/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://grainecosystem.com/" target="_blank" rel="noopener">https://grainecosystem.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/grain-ecosystem/" target="_blank" rel="noopener">grain-ecosystem — 5,380 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~10 (-17% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -30,6 +30,9 @@ Grain Ecosystem was a Boston-based digital platform (founded 2022) that provided
 
 ## History
 
+- **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-07-23** — news mention: Grain Ecosystem: Today, we’re proud to share an important update in the Grain journey.   Mangrove Sy ([source](https://www.linkedin.com/company/grain-ecosystem/#post-6b24e80dbaec))
+- **2026-07-22** — news mention: CDR.fyi: 🤝 The CDR sector is seeing increasing M&amp;A activity. Airhive recently announced the acqu ([source](https://www.linkedin.com/company/cdr-fyi/#post-76936359736c))
 - **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
@@ -48,7 +51,6 @@ Grain Ecosystem was a Boston-based digital platform (founded 2022) that provided
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

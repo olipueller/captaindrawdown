@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://terradot.earth/" target="_blank" rel="noopener">https://terradot.earth/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/terradot/" target="_blank" rel="noopener">terradot — 8,936 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/terradot/" target="_blank" rel="noopener">terradot — 9,350 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— verified via isometric issuance on 2026-03-17</small></td></tr>
-  <tr><th>Employees</th><td>~85 (+52% YoY)</td></tr>
+  <tr><th>Employees</th><td>~87 (+19% YoY)</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Isometric <small>(last issuance: 2026-03-17)</small></td></tr>
@@ -40,6 +40,17 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
+- **2026-08-05** — news mention: Terradot: ‼️ Just a few moments ago, the European Commission took a major step towards a competitive ([source](https://www.linkedin.com/company/terradot/#post-c3e6ad99a14f))
+- **2026-07-29** — news mention: Lithos Carbon: Four years ago, it was still an open question whether rocks would weather fast enough ([source](https://www.linkedin.com/company/lithoscarbon/#post-60f4d9b90568))
+- **2026-07-29** — news mention: Carbon removals in the ETS, 17 July | Terradot ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7487910136896946176/))
+- **2026-07-25** — news mention: 350solutions: March was a crazy month for Enhanced Rock Weathering ( #ERW )! The 350 team was busy w ([source](https://www.linkedin.com/company/350solutions/#post-4a43938f1559))
+- **2026-07-24** — news mention: Frontier Climate: Four years ago, it was still an open question whether rocks would weather fast eno ([source](https://www.linkedin.com/company/frontierclimate/#post-60f4d9b90568))
+- **2026-07-23** — news mention: Eion: Today we’re excited to share that Eion Carbon is now part of Terradot . Terradot has acquired  ([source](https://www.linkedin.com/company/eioncarbon/#post-b564c1a62365))
+- **2026-07-22** — news mention: Terradot: Scaling Enhanced Rock Weathering to planetary scale depends on scaling how we measure, rep ([source](https://www.linkedin.com/company/terradot/#post-2c19b8e791fc))
+- **2026-07-22** — news mention: Lithos: Four years ago, it was still an open question whether rocks would weather fast enough to rem ([source](https://www.linkedin.com/company/lithoscarbon/#post-2fc3b5595412))
+- **2026-07-21** — news mention: A Direct-Measurement Framework for Enhanced Rock Weathering ([source](https://cdrxiv.org/preprint/309))
+- **2026-07-18** — news mention: #goldschmidt2026 | Terradot ([source](https://www.linkedin.com/feed/update/urn:li:share:7483969592151789568/))
 - **2026-07-15** — refresh: coresignal
 - **2026-07-15** — refresh: coresignal
 - **2026-07-01** — news mention: Terradot: Last week, our team headed back to the Mississippi Delta to walk our US project sites toge ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7477431399520591872/))
@@ -60,7 +71,6 @@ Independently verified by carbon-credit registries:
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.businesswire.com/news/home/20260206062937/en/Terradot-Acquires-Eion-to-Form-Leading-Global-Enhanced-Rock-Weathering-Carbon-Removal-Platform))
 - **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.businesswire.com/news/home/20260206062937/en/Terradot-Acquires-Eion-to-Form-Leading-Global-Enhanced-Rock-Weathering-Carbon-Removal-Platform))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 
@@ -69,7 +79,6 @@ Independently verified by carbon-credit registries:
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

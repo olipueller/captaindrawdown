@@ -30,6 +30,7 @@ Phoenix Energy develops, owns, and operates community-scale Bioenergy with Carbo
 
 ## History
 
+- **2026-07-24** — news mention: Phoenix Energy: ICYMI: USDA allocated $61.24 million to three California companies through its Timbe ([source](https://www.linkedin.com/company/phoenix-energy-1/#post-a4d56a97551f))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-24** — news mention: Biochar so strongly adsorbs heavy metals that it would most likely be safe in reality to use it if m ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mkaprju2x226))
@@ -47,7 +48,6 @@ Phoenix Energy develops, owns, and operates community-scale Bioenergy with Carbo
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

@@ -43,6 +43,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-07-21** — news mention: South Pole: ❓ Confused by the carbon market’s jargon, specialised vocabulary, and endless acronyms?  ([source](https://www.linkedin.com/company/south-pole-/#post-f46e498a7fe7))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
@@ -62,7 +63,6 @@ Independently verified by carbon-credit registries:
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

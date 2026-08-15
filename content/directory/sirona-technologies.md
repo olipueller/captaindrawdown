@@ -34,6 +34,11 @@ Sirona Technologies is a Belgium-based Direct Air Capture startup founded in 202
 
 ## History
 
+- **2026-08-06** — news mention: Cella Mineral Storage: Grateful to Frontier , Stripe , Shopify , and Google for continued confidence ([source](https://www.linkedin.com/company/cellamineral/#post-d32136400c45))
+- **2026-08-06** — news mention: Sirona Technologies: Massive inflection point for our industry 🚀🚀 The EU just proposed to include Di ([source](https://www.linkedin.com/company/sirona-technologies/#post-0b023009f5e5))
+- **2026-07-31** — news mention: Climate Vault Solutions: Built by a former Tesla engineer. Factory-assembled DAC units powered by re ([source](https://www.linkedin.com/company/climatevault/#post-7e2940befcf2))
+- **2026-07-30** — news mention: Sirona Technologies: Big announcement: Sirona Technologies officially unveils Project Furu ð Toda ([source](https://www.linkedin.com/company/sirona-technologies/#post-d38e0fce9cd8))
+- **2026-07-22** — news mention: Sirona Technologies: Big announcement: Sirona Technologies officially unveils Project Furu 🚀 Today w ([source](https://www.linkedin.com/company/sirona-technologies/#post-5a5429a47743))
 - **2026-05-27** — news mention: Sirona Technologies Launches Furu DACCS Project In Norway ([source](https://carbonherald.com/sirona-technologies-launches-furu-daccs-project-in-norway/?utm_source=rss&utm_medium=rss&utm_campaign=sirona-technologies-launches-furu-daccs-project-in-norway))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
@@ -50,7 +55,6 @@ Sirona Technologies is a Belgium-based Direct Air Capture startup founded in 202
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

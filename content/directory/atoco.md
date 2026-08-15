@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://atoco.com/" target="_blank" rel="noopener">https://atoco.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/atoco/" target="_blank" rel="noopener">atoco — 8,855 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/atoco/" target="_blank" rel="noopener">atoco — 10,804 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~30 (+43% YoY)</td></tr>
+  <tr><th>Employees</th><td>~32 (+45% YoY)</td></tr>
   <tr><th>Open roles</th><td>4 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -35,6 +35,10 @@ Atoco is a California-based deep-tech company founded in 2020 by Professor Omar 
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
+- **2026-07-22** — news mention: Built-In Direct Air Capture: The Data Center Opportunity | Atoco ([source](https://atoco.com/white-papers/built-in-direct-air-capture-the-data-center-opportunity/))
+- **2026-07-22** — news mention: In terms of earth science the discovery of the beneficial impact of manufacturing biochar for use as ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mraj37fqps2p))
+- **2026-07-22** — news mention: Atoco: Atoco's carbon capture technology featured in  Global CCS Institute ’s 2026 Technology Compen ([source](https://www.linkedin.com/company/atoco/#post-9e567e1d16ca))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://atoco.com/our-technology/))
@@ -50,7 +54,6 @@ Atoco is a California-based deep-tech company founded in 2020 by Professor Omar 
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

@@ -13,9 +13,9 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Puerto Rico</td></tr>
   <tr><th>Website</th><td><a href="https://bri.earth/" target="_blank" rel="noopener">https://bri.earth/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bio-restorative-ideas-llc/" target="_blank" rel="noopener">bio-restorative-ideas-llc</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bio-restorative-ideas-llc/" target="_blank" rel="noopener">bio-restorative-ideas-llc — 488 followers</a></td></tr>
   <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
-  <tr><th>Employees</th><td>~4</td></tr>
+  <tr><th>Employees</th><td>~4 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,6 +29,7 @@ Bio-Restorative Ideas (BRi) is a Puerto Rico-based biochar producer that transfo
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
 - **2026-05-22** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://tracxn.com/d/companies/bio-restorative-ideas/__izSsxVBTDyidnC5QquHTc8oP4jrX7VY_dlkO7USseoQ))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
@@ -46,7 +47,6 @@ Bio-Restorative Ideas (BRi) is a Puerto Rico-based biochar producer that transfo
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

@@ -35,6 +35,8 @@ Kanop is a Paris-based MRV software company founded in 2021 that uses AI and sat
 
 ## History
 
+- **2026-07-22** — news mention: Kanop: Verra has officially vetted Kanop as a Data Service Provider for VM0047. That makes us the on ([source](https://www.linkedin.com/company/kanop/#post-18b7df4fc3b2))
+- **2026-07-22** — news mention: Kanop: 🌱 The EU just gave carbon farming its rulebook. This week the European Commission adopted thr ([source](https://www.linkedin.com/company/kanop/#post-92456e68dec0))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
@@ -50,7 +52,6 @@ Kanop is a Paris-based MRV software company founded in 2021 that uses AI and sat
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

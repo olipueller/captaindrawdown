@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Marine CDR (Other)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.gigablue.co/" target="_blank" rel="noopener">https://www.gigablue.co/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/gigatontech/" target="_blank" rel="noopener">gigatontech — 3,936 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/gigabluecarbon/" target="_blank" rel="noopener">gigabluecarbon — 4,654 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~34</td></tr>
+  <tr><th>Employees</th><td>~34 (+13% YoY)</td></tr>
   <tr><th>Open roles</th><td>3 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -34,6 +34,8 @@ Founded in 2022, Gigablue develops and deploys a marine carbon removal pathway b
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
+- **2026-07-25** — news mention: Alcove Labs: Innovation and scientific rigor don’t have to compete — Gigablue ’s Microalgae Carbon F ([source](https://www.linkedin.com/company/alcove-io/#post-ea9d152e8ca8))
 - **2026-05-11** — news mention: EU Consultation Reveals Divisions Over Carbon Credits And 2040 Climate Goals  EU consultation on the ([source](https://x.com/CaptainDrawdown/status/2053736345441357895))
 - **2026-05-11** — news mention: Four European CDR modeling papers landed on arXiv in one week. Read together, they expose that DACCS ([source](https://x.com/CaptainDrawdown/status/2053702362162766038))
 - **2026-05-01** — refresh: screenshot
@@ -52,7 +54,6 @@ Founded in 2022, Gigablue develops and deploys a marine carbon removal pathway b
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

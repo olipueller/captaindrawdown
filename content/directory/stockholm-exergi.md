@@ -29,6 +29,19 @@ Stockholm Exergi is the municipal energy utility for the Stockholm region, provi
 
 ## History
 
+- **2026-08-13** — news mention: Beccs Stockholm: Stockholm Exergi's reaction to the Commission's proposal on the revised EU ETS. We  ([source](https://www.linkedin.com/company/beccs-stockholm/#post-ddc296180687))
+- **2026-08-12** — news mention: Carbonx SAS: In Q2 this year, seven new buyers made their first carbon removal commitment. Notably,  ([source](https://www.linkedin.com/company/carbonx-world/#post-6b8af173d0db))
+- **2026-08-12** — news mention: Stockholm Exergi: Cement med nära noll klimatpåverkan? Ja, med hjälp av koldioxidinfångning är det f ([source](https://www.linkedin.com/company/stockholm-exergi/#post-14016e7158d3))
+- **2026-07-31** — news mention: Microsoft Carbon Capture 2026, 1M Tonne Liferaft Deal - EnkiAI ([source](https://enkiai.com/carbon-capture/microsoft-beccs-data-centers/))
+- **2026-07-29** — news mention: Bioenergy with Carbon Capture and Storage (BECCS) Market Size, Growth Trends, and Industry Outlook b ([source](https://cervicorninsights.wordpress.com/2026/07/28/bioenergy-with-carbon-capture-and-storage-beccs-market-size/))
+- **2026-07-29** — news mention: ClimeFi: ClimeFi ’s carbon dioxide removal (CDR) Market Review for Q2 2026 is live, and this quarter ([source](https://www.linkedin.com/company/carbonx-world/#post-198c05da3dcb))
+- **2026-07-29** — news mention: ClimeFi: 📈 ClimeFi's Q2 2026 report shows the carbon dioxide removal (CDR) market broadening beyond  ([source](https://www.linkedin.com/company/carbonx-world/#post-204e56f9460a))
+- **2026-07-29** — news mention: Stockholm Exergi: Stockholm Exergis reaktion på kommissionens förslag till revidering av EU ETS: Vi  ([source](https://www.linkedin.com/company/stockholm-exergi/#post-cf3634446a16))
+- **2026-07-29** — news mention: Northern Lights: Today, Northern Lights is permanently storing CO₂ captured by Heidelberg Materials  ([source](https://www.linkedin.com/company/northern-lights-jv/#post-41d9cb53a855))
+- **2026-07-26** — news mention: Arbon Earth: Stockholm just became the 5th largest buyer of carbon removals in the world! Huge news  ([source](https://www.linkedin.com/company/arbon-earth-ab/#post-db7d274fbea4))
+- **2026-07-25** — news mention: Carbon Impact SAS: Un nouveau levier climatique pour les municipalités françaises ? Le 25 mai 2026,  ([source](https://www.linkedin.com/company/carbon-impact-france/#post-5e771569320c))
+- **2026-07-23** — news mention: Klärwerk als CO₂-Senke: Norwegen zertifiziert erstes BECCS-Projekt ([source](https://www.cleanthinking.de/norwegen-zertifiziert-erstes-beccs-projekt/))
+- **2026-07-22** — news mention: Stockholm Exergi: Axfast AB och Fastpartner AB (FPAR) tecknar avtal om köp av minusutsläpp - Vi är s ([source](https://www.linkedin.com/company/stockholm-exergi/#post-dc81e15ebeff))
 - **2026-06-04** — news mention: Stockholm shows the way: How public buyers can boost the carbon removal market - Carbon Gap ([source](https://carbongap.org/stockholm-shows-the-way-how-public-buyers-can-boost-the-carbon-removal-market/))
 - **2026-06-01** — news mention: Stockholm Exergi's 750kt deal with the City of Stockholm just set the floor for permanent BECCS (bio ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mn7cprsiog2e))
 - **2026-05-27** — news mention: Stockholm Becomes One of World’s Largest Carbon Removal Buyers with New 750,000-Tonne Deal - ESG Tod ([source](https://www.esgtoday.com/stockholm-becomes-one-of-worlds-largest-carbon-removal-buyers-with-new-750000-tonne-deal/))
@@ -54,7 +67,6 @@ Stockholm Exergi is the municipal energy utility for the Stockholm region, provi
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

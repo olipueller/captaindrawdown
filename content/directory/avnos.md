@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.avnos.com/" target="_blank" rel="noopener">https://www.avnos.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/avnos-inc/" target="_blank" rel="noopener">avnos-inc — 3,602 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/avnos-inc/" target="_blank" rel="noopener">avnos-inc — 3,781 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~30 (-6% YoY)</td></tr>
+  <tr><th>Employees</th><td>~28 (-15% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ Los Angeles-based Avnos develops Hybrid Direct Air Capture technology that produ
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
 - **2026-05-28** — news mention: Explainer: Direct Air Capture pulls CO2 out of ambient air at ~425 ppm, which is why it's energy-int ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmvh6b44x32b))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.globenewswire.com/news-release/2026/02/06/3233649/28124/en/Direct-Air-Capture-DAC-Market-Report-2025-2035-Collaborations-New-Clusters-and-Upcoming-Projects-Accelerate-Market-Expansion-Across-Key-Regions.html))
 - **2026-05-01** — refresh: screenshot
@@ -49,7 +50,6 @@ Los Angeles-based Avnos develops Hybrid Direct Air Capture technology that produ
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

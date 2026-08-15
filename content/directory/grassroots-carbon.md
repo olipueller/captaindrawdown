@@ -5,7 +5,7 @@ type: "directory"
 description: "Generates soil carbon removal credits by paying U.S. ranchers to adopt regenerative grazing practices (herd rotation, reduced inputs) that sequester atmospheric carbon in grassland soils, verified"
 url: "/directory/grassroots-carbon/"
 pathway: "Afforestation"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://grassrootscarbon.com" target="_blank" rel="noopener">https://grassrootscarbon.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/grassrootscarbon/" target="_blank" rel="noopener">grassrootscarbon — 5,061 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~44</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,9 @@ Grassroots Carbon is a San Antonio, Texas-based soil carbon removal company foun
 
 ## History
 
+- **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-08-13** — news mention: Grassroots Carbon: We're honored to be mentioned in Boeing 's 2026 Global Sustainability Report. Boe ([source](https://www.linkedin.com/company/grassrootscarbon/#post-67a2ab3824ca))
+- **2026-07-22** — news mention: Former Fair Trade USA Exec Joins Grassroots Carbon In New Value Chain Role ([source](https://carbonherald.com/former-fair-trade-usa-exec-joins-grassroots-carbon-in-new-value-chain-role/?utm_source=rss&utm_medium=rss&utm_campaign=former-fair-trade-usa-exec-joins-grassroots-carbon-in-new-value-chain-role))
 - **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
@@ -49,7 +52,6 @@ Grassroots Carbon is a San Antonio, Texas-based soil carbon removal company foun
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

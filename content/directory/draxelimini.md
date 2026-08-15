@@ -5,7 +5,7 @@ type: "directory"
 description: "Elimini develops bioenergy with carbon capture and storage (BECCS) projects — pairing biomass-fired power generation with CO2 capture and geological storage to produce durable carbon removal credits."
 url: "/directory/draxelimini/"
 pathway: "BECCS"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -13,9 +13,9 @@ liveliness: "🟠 Suspect"
   <tr><th>Pathway</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://elimini.com/" target="_blank" rel="noopener">https://elimini.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/elimini/" target="_blank" rel="noopener">elimini — 2,332 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
-  <tr><th>Employees</th><td>~39 (-38% YoY)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/elimini/" target="_blank" rel="noopener">elimini — 2,403 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~5 (-78% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
 
@@ -29,6 +29,9 @@ Elimini is a wholly-owned US-based subsidiary of UK energy group Drax, launched 
 
 ## History
 
+- **2026-08-15** — refresh: coresignal, liveliness
+- **2026-08-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.drax.com/financial-news/half-year-results-for-the-six-months-ended-30-june-2025/))
+- **2026-07-24** — news mention: Drax/Elimini: 📢The European Commission has finalized its Carbon Removal Certification Framework for  ([source](https://www.linkedin.com/company/elimini/#post-64c2e8099d10))
 - **2026-06-15** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.drax.com/financial-news/half-year-results-for-the-six-months-ended-30-june-2025/))
 - **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.drax.com/financial-news/half-year-results-for-the-six-months-ended-30-june-2025/))
 - **2026-05-01** — refresh: screenshot
@@ -55,7 +58,6 @@ Elimini is a wholly-owned US-based subsidiary of UK energy group Drax, launched 
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>BiCRS (Other)</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonsate.com/" target="_blank" rel="noopener">https://www.carbonsate.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonsate/" target="_blank" rel="noopener">carbonsate</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonsate/" target="_blank" rel="noopener">carbonsate — 2,282 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro crediting window through 2029-12-31</small></td></tr>
   <tr><th>Employees</th><td>~5 (+67% YoY)</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
@@ -43,6 +43,9 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
+- **2026-08-03** — news mention: Carbonsate: Carbonsate is part of the Carbon Business Council’s Direct Biomass Storage Coalition, wh ([source](https://www.linkedin.com/company/carbonsate/#post-c6dbd5ade4d8))
+- **2026-07-27** — news mention: Carbonsate: Carbonsate is part of the Carbon Business Councilâs Direct Biomass Storage Coalition,  ([source](https://www.linkedin.com/company/carbonsate/#post-c15606779150))
 - **2026-07-15** — refresh: coresignal
 - **2026-07-15** — refresh: coresignal
 - **2026-06-24** — news mention: #vivatech #carbonremoval #climatetech #innovation | Carbonsate ([source](https://www.linkedin.com/feed/update/urn:li:share:7474808390699909121/))
@@ -64,7 +67,6 @@ Independently verified by carbon-credit registries:
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

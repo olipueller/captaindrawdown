@@ -42,6 +42,12 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-08-14** — news mention: Pyrocal: PROJECT VIDEO // Inside Stahmann Webster’s new carbonisation facility in Leeton, NSW.🔥 Prou ([source](https://www.linkedin.com/company/pyrocal/#post-79849c5e84fa))
+- **2026-08-07** — news mention: Pyrocal: Canada just put federal money behind biochar infrastructure — and it's coming from wastewat ([source](https://www.linkedin.com/company/pyrocal/#post-c824f2c12283))
+- **2026-08-06** — news mention: GECA Environnement: Canada just put federal money behind biochar infrastructure â and it's coming  ([source](https://www.linkedin.com/company/geca-environnement/#post-ccec5b0d8103))
+- **2026-08-06** — news mention: GECA Environment: Canada just put federal money behind biochar infrastructure — and it's coming from ([source](https://www.linkedin.com/company/geca-environnement/#post-c824f2c12283))
+- **2026-07-31** — news mention: Pyrocal: We’re incredibly proud to announce the successful installation of a new Continuous Carbonis ([source](https://www.linkedin.com/company/pyrocal/#post-647125ea52e9))
+- **2026-07-17** — news mention: Pyrocal And Canada&#039;s Capital Regional District Team Up On Biochar Production ([source](https://carbonherald.com/pyrocalcanadas-capital-regional-district-team-biochar-production/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.pyrocal.com.au/))
@@ -57,7 +63,6 @@ Independently verified by carbon-credit registries:
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.pond.foundation/" target="_blank" rel="noopener">https://www.pond.foundation/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/my-carbon-zero/" target="_blank" rel="noopener">my-carbon-zero — 1,941 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~6 (+100% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -31,6 +31,7 @@ The Pond Foundation is a Swiss-registered non-profit (founded 2021 by Scott Poyn
 
 ## History
 
+- **2026-07-24** — news mention: Pond Foundation: We're proud to share a meaningful milestone in our climate work. Guardian Capital G ([source](https://www.linkedin.com/company/my-carbon-zero/#post-181fb3795854))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
 - **2026-04-19** — liveliness: 🟡 Moderate → 🟢 Active
@@ -45,7 +46,6 @@ The Pond Foundation is a Swiss-registered non-profit (founded 2021 by Scott Poyn
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

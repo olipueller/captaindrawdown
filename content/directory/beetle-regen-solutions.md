@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://www.beetleregen.com/" target="_blank" rel="noopener">https://www.beetleregen.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/beetle-regen-solutions/" target="_blank" rel="noopener">beetle-regen-solutions — 3,271 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~25 (+39% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,6 +31,7 @@ Beetle Regen Solutions is an India-based regenerative agriculture startup founde
 
 ## History
 
+- **2026-08-02** — news mention: Engrow: Announcing Cohort 2 of our 🇮🇳 India CDR Startup #Accelerator Program 🌟 We continued to be ov ([source](https://www.linkedin.com/company/engrow-group/#post-58e84bdaa764))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://thebetterindia.com/startup/agri-startup/beetle-regen-solutions-amol-mishra-hemant-rajput-regenerative-farming-india-farmers-10486138))
 - **2026-04-19** — refresh: coresignal, screenshot
@@ -45,7 +46,6 @@ Beetle Regen Solutions is an India-based regenerative agriculture startup founde
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

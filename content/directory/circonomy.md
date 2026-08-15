@@ -35,6 +35,7 @@ Circonomy is a Singapore-based climate tech startup specialized in carbon remova
 
 ## History
 
+- **2026-08-14** — news mention: Circonomy: The Kongolo Biochar Project in Kenya is officially certified. We built this with our part ([source](https://www.linkedin.com/company/circonomy/#post-d87258ea63c4))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
@@ -57,7 +58,6 @@ Circonomy is a Singapore-based climate tech startup specialized in carbon remova
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

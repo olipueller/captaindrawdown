@@ -34,6 +34,7 @@ Skytree is a Dutch direct air capture technology company founded in 2014 in Amst
 
 ## History
 
+- **2026-07-22** — news mention: Skytree: Skytree has achieved ISO 9001:2015 and ISO/IEC 27001:2022 certifications, confirming our co ([source](https://www.linkedin.com/company/skytree/#post-b3ab9a91c924))
 - **2026-06-08** — news mention: Trade-off analysis matters. Most CDR pathways have land, water, energy, or air-quality footprints th ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mnrjvi5ukl2h))
 - **2026-06-06** — news mention: Skytree Launches First Commercial Skytree Stratus System at Lingezegen Energy to Provide Fossil-Free ([source](https://skytree.tech/en-en/news/skytree-launches-first-commercial-skytree-stratus-system-at-lingezegen-energy))
 - **2026-06-06** — news mention: Within the Sustainable Systems Engineering program, students engage directly with topics like agrivo ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mnmqrrillk27))
@@ -57,7 +58,6 @@ Skytree is a Dutch direct air capture technology company founded in 2014 in Amst
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

@@ -34,6 +34,8 @@ liveliness: "🟢 Active"
 
 ## History
 
+- **2026-08-01** — news mention: 350solutions: Here they are! The first CDR credits issued through Isometric ’s River Alkalinity Enha ([source](https://www.linkedin.com/company/350solutions/#post-e944827d38bf))
+- **2026-07-25** — news mention: 350solutions: March was a crazy month for Enhanced Rock Weathering ( #ERW )! The 350 team was busy w ([source](https://www.linkedin.com/company/350solutions/#post-4a43938f1559))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
@@ -51,7 +53,6 @@ liveliness: "🟢 Active"
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

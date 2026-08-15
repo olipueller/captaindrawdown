@@ -31,6 +31,8 @@ Solid Carbon is a Canadian research initiative led by Ocean Networks Canada (a U
 
 ## History
 
+- **2026-08-13** — news mention: КОМПЛЕКСНА ОЦІНКА ТЕХНОЛОГІЙ ПІРОЛІЗУ АГРАРНОЇ БІОМАСИ: ЕФЕКТИВНІСТЬ, МАСШТАБУВАННЯ ТА ОХОРОНА ПРАЦІ ([source](https://openalex.org/W7172194218))
+- **2026-08-12** — news mention: Meet CDRterra scientists: Tom Schürmann and Miriam Übele for NETPEC | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7492871104533901313/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-20** — news mention: Transforming natural waste into biochar for sustainable environmental remediation | Discover Environ ([source](https://link.springer.com/article/10.1007/s44274-026-00701-8))
@@ -49,7 +51,6 @@ Solid Carbon is a Canadian research initiative led by Ocean Networks Canada (a U
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

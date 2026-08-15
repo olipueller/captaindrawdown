@@ -35,6 +35,8 @@ Timber Finance (Timber Finance Management AG) is a Zurich-based competence cente
 
 ## History
 
+- **2026-08-14** — news mention: Timber Finance: 20 Wohnbauprojekte, jedes mit einem Zwillingsgebäude in der anderen Bauweise verglic ([source](https://www.linkedin.com/company/timberfinance/#post-cd233a300da4))
+- **2026-08-07** — news mention: Timber Finance: Dear everyone, Three recent analyses, one major development for carbon removal in Eu ([source](https://www.linkedin.com/company/timberfinance/#post-72ffa5913dd0))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
@@ -55,7 +57,6 @@ Timber Finance (Timber Finance Management AG) is a Zurich-based competence cente
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

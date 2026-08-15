@@ -30,6 +30,10 @@ Mission Zero Technologies is a UK-based company that develops electrochemical di
 
 ## History
 
+- **2026-08-12** — news mention: Mission Zero: Last Friday, we held our official launch event at Middlesbrough College in Teesside to ([source](https://www.linkedin.com/company/mission-zero/#post-4de13edfacb6))
+- **2026-07-29** — news mention: Mission Zero Technologies: Huge congratulations to our PhD alumni, Shiladitya Ghosh and Jasper Wong  ([source](https://www.linkedin.com/company/mission-zero/#post-c98522899895))
+- **2026-07-24** — news mention: Airhive: We’re joining Progressive Energy and Mission Zero Technologies to form UnionDAC - a nationa ([source](https://www.linkedin.com/company/carbonnet-limited/#post-05330afd51c4))
+- **2026-07-22** — news mention: Mission Zero: Huge congratulations to our PhD alumni, Shiladitya Ghosh and Jasper Wong , on the laun ([source](https://www.linkedin.com/company/mission-zero/#post-8e06b57a5f96))
 - **2026-06-11** — news mention: Mission Zero, Airhive, Progressive Energy To Build World-Class DAC Plant In The UK ([source](https://carbonherald.com/mission-zero-airhive-progressive-energy-to-build-world-class-dac-plant-in-the-uk/?utm_source=rss&utm_medium=rss&utm_campaign=mission-zero-airhive-progressive-energy-to-build-world-class-dac-plant-in-the-uk))
 - **2026-05-28** — news mention: Explainer: Direct Air Capture pulls CO2 out of ambient air at ~425 ppm, which is why it's energy-int ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmvh6b44x32b))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](registry_activity))
@@ -56,7 +60,6 @@ Mission Zero Technologies is a UK-based company that develops electrochemical di
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

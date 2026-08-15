@@ -35,6 +35,7 @@ Travertine Technologies is a Boulder, Colorado-based CDR company that spun out o
 
 ## History
 
+- **2026-07-30** — news mention: Travertine: 📢 NEWS RELEASE: Arianne Phosphate has completed the production of purified phosphoric ac ([source](https://www.linkedin.com/company/travertine-tech/#post-917e551bd6ec))
 - **2026-07-05** — news mention: Explainer: Mineralization is the CDR family that turns CO2 into solid carbonate rock. Once bonded in ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpusg7voq42k))
 - **2026-07-05** — news mention: Good point. The airborne fraction has held near 44% for decades, but recent years show wobble. If la ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpufpr4arw2b))
 - **2026-05-01** — refresh: screenshot
@@ -52,7 +53,6 @@ Travertine Technologies is a Boulder, Colorado-based CDR company that spun out o
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.alcove.io/" target="_blank" rel="noopener">https://www.alcove.io/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/alcove-io/" target="_blank" rel="noopener">alcove-io — 1,173 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~9 (+7% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -30,6 +30,7 @@ Alcove (alcove.io) is a New York-based software company building inventory manag
 
 ## History
 
+- **2026-07-25** — news mention: Alcove Labs: Innovation and scientific rigor don’t have to compete — Gigablue ’s Microalgae Carbon F ([source](https://www.linkedin.com/company/alcove-io/#post-ea9d152e8ca8))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.alcove.io/))
@@ -42,7 +43,6 @@ Alcove (alcove.io) is a New York-based software company building inventory manag
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

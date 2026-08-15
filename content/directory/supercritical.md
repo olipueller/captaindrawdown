@@ -35,6 +35,16 @@ Supercritical is a London-based carbon removal marketplace that sources, vets, a
 
 ## History
 
+- **2026-08-13** — news mention: Research on Enhanced CO2 Sequestration in Deep Saline Aquifers by Integrated Biological and Biomimet ([source](https://doi.org/10.5281/zenodo.21808083))
+- **2026-08-11** — news mention: Supercritical Analyzes Seasonal Procurement Peaks in the Carbon Removal Market &#8211; Biochar Today ([source](https://biochartoday.com/news/supercritical-analyzes-seasonal-procurement-peaks-in-the-carbon-removal-market/?utm_source=bluesky&utm_medium=jetpack_social))
+- **2026-08-05** — news mention: #biochar #carbonremoval #cdr #corcs | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:share:7490393545430843394/))
+- **2026-08-01** — news mention: Assessing CO2 mineralization and sequestration potential in Saudi Arabian basaltic rocks ([source](https://doi.org/10.1007/s40789-025-00839-5))
+- **2026-07-29** — news mention: Liferaft, Microsoft, and Supercritical Finalize 10-Year Offtake Agreement for One Million Carbon Rem ([source](https://biochartoday.com/news/liferaft-microsoft-and-supercritical-finalize-10-year-offtake-agreement-for-one-million-carbon-removal-units/))
+- **2026-07-29** — news mention: In A New Call, Supercritical Is Looking For Biochar Feedstock Data On Behalf Of A Tech Giant ([source](https://carbonherald.com/in-a-new-call-supercritical-is-looking-for-biochar-feedstock-data-on-behalf-of-a-tech-giant/?utm_source=rss&utm_medium=rss&utm_campaign=in-a-new-call-supercritical-is-looking-for-biochar-feedstock-data-on-behalf-of-a-tech-giant))
+- **2026-07-27** — news mention: Opinion: Why Biochar Belongs In Europe’s Carbon Market ([source](https://carbonherald.com/opinion-why-biochar-belongs-in-europes-carbon-market/?utm_source=rss&utm_medium=rss&utm_campaign=opinion-why-biochar-belongs-in-europes-carbon-market))
+- **2026-07-26** — news mention: Coupled Thermo-Hydro-Chemo-Mechanical Processes in Rock Fracture: Implications for Long-Term Subsurf ([source](https://doi.org/10.70425/rml.202603.47))
+- **2026-07-25** — news mention: Kairos Carbon: Happy to announce that I've published more research from my PhD which is available wi ([source](https://www.linkedin.com/company/kairos-carbon/#post-f4f5824ddc1f))
+- **2026-07-19** — news mention: An evaluation of permitting avenues for deploying carbon mineralization projects with and without ac ([source](https://cdrxiv.org/preprint/529))
 - **2026-07-01** — news mention: Negative Emissions Platform: 📈 CDR Momentum, Edition 1 NEP Members are at the heart of this month's  ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7477687816446128129/))
 - **2026-07-01** — news mention: Carbon Business Council: London Climate Action Week 2026 was a marquee event for the global carbon r ([source](https://www.linkedin.com/feed/update/urn:li:share:7477764172060139520/))
 - **2026-06-26** — news mention: #lcaw2026 #carbonremovallondon #cdr2030 | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7475875113821777920/))
@@ -57,16 +67,6 @@ The challenge is no longer just proving th ([source](https://www.linkedin.com/fe
 - **2026-05-04** — news mention: Boeing Expands Carbon Strategy With Biochar And Enhanced Rock Weathering Deals ([source](https://carbonherald.com/boeing-expands-carbon-strategy-with-biochar-and-enhanced-rock-weathering-deals/?utm_source=rss&utm_medium=rss&utm_campaign=boeing-expands-carbon-strategy-with-biochar-and-enhanced-rock-weathering-deals))
 - **2026-05-03** — news mention: Daily digest: W18 picks from 48 candidate stories. Headline signal this week is a five-year scorecar ([source](https://x.com/CaptainDrawdown/status/2050968952516349989))
 - **2026-05-03** — news mention: Daily digest: W18 picks from 48 candidate stories. Headline signal this week is a five-year scorecar ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkxjpttl6227))
-- **2026-05-02** — news mention: Exomad Green and Supercritical taped a 10-min podcast announcing a 3-year, up-to-500k-tonne biochar  ([source](https://x.com/CaptainDrawdown/status/2050590646575006137))
-- **2026-05-01** — news mention: Boeing Secures 20,000 Tonnes of High-Quality Carbon Removal to Tackle Aviation Emissions - ESG News ([source](https://esgnews.com/boeing-secures-20000-tonnes-of-high-quality-carbon-removal-to-tackle-aviation-emissions/))
-- **2026-05-01** — news mention: Boeing Buys 20,000 Tonne Biochar and Enhanced Rock Weathering Carbon Removal Portfolio Through Super ([source](https://onestopesg.com/esg-news/boeing-supercritical-carbon-removal-portfolio))
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-04-20** — news mention: Exomad Green, Supercritical Sign 500,000-Ton Biochar Carbon Removal Agreement - ESG Today ([source](https://www.esgtoday.com/exomad-green-supercritical-sign-500000-ton-biochar-carbon-removal-agreement/))
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://gosupercritical.com/about-us))
-- **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://gosupercritical.com/about-us))
 
 ---
 
@@ -75,7 +75,6 @@ The challenge is no longer just proving th ([source](https://www.linkedin.com/fe
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

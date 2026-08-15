@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Namibia</td></tr>
   <tr><th>Website</th><td><a href="https://www.carboncapital.com.na/" target="_blank" rel="noopener">https://www.carboncapital.com.na/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carboncapitalnamibia/" target="_blank" rel="noopener">carboncapitalnamibia — 405 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carboncapitalnamibia/" target="_blank" rel="noopener">carboncapitalnamibia — 436 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~5</td></tr>
+  <tr><th>Employees</th><td>~1</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,6 +29,9 @@ Carbon Capital is a Namibian bioeconomy company established in 2020 by Cirrus Ca
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
+- **2026-07-26** — news mention: Carbon Capital: We’re excited to share that Farm Gai Kaisa 159 in Namibia has earned an A rating fro ([source](https://www.linkedin.com/company/carboncapitalnamibia/#post-42110b29069a))
+- **2026-07-26** — news mention: Carbon Capital: Credit where credit’s due (literally). Farm Gai Kaisa 159 is now A-rated by Sylvera. ([source](https://www.linkedin.com/company/carboncapitalnamibia/#post-2b4ab7ef0dc5))
 - **2026-07-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://theextractormagazine.com/2025/12/12/carbon-capital-produces-16291-tonnes-of-biochar/))
 - **2026-06-30** — news mention: Market Insights Brief: Carbon Deal Dynamics, June 2026 - Ecosystem Marketplace ([source](https://www.ecosystemmarketplace.com/publications/market-insights-brief-carbon-deal-dynamics-june-2026/))
 - **2026-06-15** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://theextractormagazine.com/2025/12/12/carbon-capital-produces-16291-tonnes-of-biochar/))
@@ -49,7 +52,6 @@ Carbon Capital is a Namibian bioeconomy company established in 2020 by Cirrus Ca
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

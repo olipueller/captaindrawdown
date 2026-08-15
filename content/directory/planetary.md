@@ -43,26 +43,36 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-08-13** — news mention: Significant Scope for Improvement of Soil Acidity Management in US Croplands ([source](https://cdrxiv.org/preprint/535))
+- **2026-08-12** — news mention: Significant yield benefits from basalt soil amendments in the Southeastern US ([source](https://cdrxiv.org/preprint/413))
+- **2026-08-10** — news mention: Flux: Isometric has reached a major milestone—signing our 100th carbon removal supplier, Flux . Over ([source](https://www.linkedin.com/company/flux-earth/#post-a3091f3c0857))
+- **2026-08-01** — news mention: Iron Oxidation Links CO <sub>2</sub> Mineralization to Hydrogen Formation ([source](https://doi.org/10.1021/acs.estlett.6c00308))
+- **2026-07-31** — news mention: Carbon Removal Alliance: At Tufts Cove in Nova Scotia, Planetary became the first company in the wor ([source](https://www.linkedin.com/company/carbon-removal-alliance/#post-5c486abcd78a))
+- **2026-07-26** — news mention: Substantial inter-model variation in OAE efficiency between the CESM2/MARBL and ECCO-Darwin ocean bi ([source](https://doi.org/10.5194/bg-23-4943-2026))
+- **2026-07-26** — news mention: Direct measurement of carbon dioxide removal due to enhanced weathering ([source](https://cdrxiv.org/preprint/352))
+- **2026-07-26** — news mention: Soil cation storage is a key control on the carbon removal dynamics of enhanced weathering ([source](https://cdrxiv.org/preprint/351))
+- **2026-07-26** — news mention: Updated framework and signal-to-noise analysis of soil mass balance approaches for quantifying enhan ([source](https://cdrxiv.org/preprint/390))
+- **2026-07-26** — news mention: Evidence for carbon dioxide removal via enhanced rock weathering with steel slag, though not basalt, ([source](https://cdrxiv.org/preprint/359))
+- **2026-07-26** — news mention: Coupling acid neutralization and resource recovery to scale ocean alkalinity enhancement ([source](https://cdrxiv.org/preprint/401))
+- **2026-07-26** — news mention: Swapping carbonate for silicate in agricultural enhanced rock weathering ([source](https://cdrxiv.org/preprint/304))
+- **2026-07-26** — news mention: Aggregated monitoring of enhanced weathering on agricultural lands ([source](https://cdrxiv.org/preprint/394))
+- **2026-07-26** — news mention: Synergistic effects of enhanced rock weathering and organic inputs  on soil carbon accrual. ([source](https://cdrxiv.org/preprint/418))
+- **2026-07-26** — news mention: Integrity gaps in certification and MRV across  aviation mitigation policies ([source](https://cdrxiv.org/preprint/515))
+- **2026-07-26** — news mention: Increased yields for smallholder farmers from enhanced rock weathering ([source](https://cdrxiv.org/preprint/502))
+- **2026-07-24** — news mention: Exterra Carbon Solutions: We're in. Exterra got picked for the inaugural MaRS Discovery District Fir ([source](https://www.linkedin.com/company/esgnr/#post-66e583bb13ac))
+- **2026-07-22** — news mention: Planetary: At Tufts Cove in Nova Scotia, Planetary became the first company in the world to deliver  ([source](https://www.linkedin.com/company/planetary-hydrogen/#post-a579e522e538))
+- **2026-07-22** — news mention: Terradot: Scaling Enhanced Rock Weathering to planetary scale depends on scaling how we measure, rep ([source](https://www.linkedin.com/company/terradot/#post-2c19b8e791fc))
+- **2026-07-21** — news mention: Assessing CO2 fluxes during enhanced weathering from soils through a mesocosm lens ([source](https://cdrxiv.org/preprint/331))
+- **2026-07-21** — news mention: Spatiotemporal soil fertility responses to an enhanced rock weathering deployment within a temperate ([source](https://cdrxiv.org/preprint/461))
+- **2026-07-21** — news mention: Integrated Thermal and Phyto-Remediation of Agricultural Soils Impacted by PFAS ([source](https://cdrxiv.org/preprint/471))
+- **2026-07-21** — news mention: Enhanced rock weathering for improved smallholder farmer welfare: An at-scale case study for rice ag ([source](https://cdrxiv.org/preprint/483))
+- **2026-07-21** — news mention: Watershed: At Tufts Cove in Nova Scotia, Planetary became the first company in the world to deliver  ([source](https://www.linkedin.com/company/watershedclimate/#post-a5ddf8177df9))
+- **2026-07-19** — news mention: Delayed climate benefits and toxicity risks could hinder the sustainable deployment of enhanced weat ([source](https://cdrxiv.org/preprint/531))
+- **2026-07-19** — news mention: Cation trapping by biochar reduces carbon removal efficiency ([source](https://cdrxiv.org/preprint/533))
 - **2026-05-27** — news mention: In this article, the new CMIP7 Emissions Scenarios reveal how much the world will rely on Carbon Dio ([source](https://bsky.app/profile/drtomharris.bsky.social/post/3mmt24qqaok2s))
 - **2026-05-12** — news mention: Frontier buyers sign $31M deal with Planetary to advance ocean alkalinity enhancement ([source](https://frontierclimate.com/writing/planetary))
 - **2026-05-11** — news mention: 🧵 A $50M ocean startup raised serious money, built real technology, and delivered on every contract  ([source](https://x.com/MickH_W/status/2053804970387075432))
 - **2026-05-11** — news mention: EU Consultation Reveals Divisions Over Carbon Credits And 2040 Climate Goals  EU consultation on the ([source](https://x.com/CaptainDrawdown/status/2053736345441357895))
-- **2026-05-11** — news mention: Take: The Future of Marine CDR: Scaling Ocean Alkalinity Enhancement with Planetary ([source](https://captaindrawdown.com/posts/yt-take-the-future-of-marine-cdr-scaling-ocean-alkalinity-enhancemen-qpq2v2hr/))
-- **2026-05-11** — news mention: Four European CDR modeling papers landed on arXiv in one week. Read together, they expose that DACCS ([source](https://x.com/CaptainDrawdown/status/2053702362162766038))
-- **2026-05-09** — news mention: Soil Carbon Dioxide Removal Estimates from Enhanced Weathering Deployments in the Southeastern Unite ([source](https://pubs.acs.org/doi/10.1021/acs.estlett.5c01172))
-- **2026-05-08** — news mention: New life cycle assessment compared direct air capture (#DAC) systems powered by solar PV, parabolic  ([source](https://x.com/geoengineering1/status/2052780303715111399))
-- **2026-05-02** — news mention: The Carbon Dioxide Removal Roadmap ([source](https://environment.yale.edu/news/article/carbon-dioxide-removal-roadmap))
-- **2026-05-01** — news mention: The idea that removing nearly a trillion tons of atmospheric CO2 by 2100 is plausible, but a forcing ([source](https://x.com/DoctorVive/status/2049962445280510157))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-30** — news mention: RT @joewrote: The left has some good ideas, but they can't win elections outside small deep-blue dis ([source](https://x.com/DoctorVive/status/2049961017078161443))
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.planetarytech.com/the-worlds-first-verified-oae-credits/))
-- **2026-04-19** — news mention: Frontiers | Leveraging soil organic carbon credits to enhance smallholder food security and planetar ([source](https://www.frontiersin.org/journals/sustainable-food-systems/articles/10.3389/fsufs.2026.1800887/full))
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.planetarytech.com/))
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.planetarytech.com/the-worlds-first-verified-oae-credits/))
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://www.planetarytech.com/update_fall_2025/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 
@@ -71,7 +81,6 @@ Independently verified by carbon-credit registries:
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

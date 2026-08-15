@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Ocean Alkalinity Enhancement</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://planeteers.de/" target="_blank" rel="noopener">https://planeteers.de/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/planeteersgmbh/" target="_blank" rel="noopener">planeteersgmbh — 3,905 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/planeteersgmbh/" target="_blank" rel="noopener">planeteersgmbh — 4,145 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~31 (+29% YoY)</td></tr>
+  <tr><th>Employees</th><td>~34 (+31% YoY)</td></tr>
   <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -45,6 +45,15 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
+- **2026-08-14** — news mention: #climatefinance #climateinfrastructure #climatetech #mrv | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7490042511680319488/))
+- **2026-08-07** — news mention: #carboncapture #carbonstorage #climatetech #industrialpartnerships #wastewatertreatment #mrv | Plane ([source](https://www.linkedin.com/feed/update/urn:li:share:7490035124017971200/))
+- **2026-07-31** — news mention: #carbonremoval #carboncaptureandstorage #ccs #mrv #climatetech | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7487770657439739904/))
+- **2026-07-27** — news mention: 🌎 Please join us in welcoming Léo Tambourgi, our newest Planeteer! 💚
+
+Having recently completed his  ([source](https://www.linkedin.com/feed/update/urn:li:share:7487468124733259776/))
+- **2026-07-23** — news mention: #carbonremoval #cdr #carbonmanagement #climatetech | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7485967332159406082/))
+- **2026-07-16** — news mention: #carbonremoval #ccs #cdr #carbonmanagement #climatetech #mrv | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7483430581750407168/))
 - **2026-07-15** — refresh: coresignal
 - **2026-07-15** — refresh: coresignal
 - **2026-07-13** — news mention: #fallingwalls #sciencestartups #innovation #climatetech #sustainability #planeteers | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:share:7482323324782444544/))
@@ -78,10 +87,6 @@ With a Master’s in Geother ([source](https://www.linkedin.com/feed/update/urn:
 With a background in volc ([source](https://www.linkedin.com/feed/update/urn:li:share:7454886286924107776/))
 - **2026-04-21** — news mention: #climatetransition #carbonremoval #ccs #climatetech #partnerships | Planeteers ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7451993267208019968/))
 - **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://planeteers.de/en/company/))
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://planeteers.de/en/))
-- **2026-04-19** — reclassified: pathway=Ocean CDR focus=supplier liveliness=🟢 Active ([source](https://planeteers.de/en/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 
@@ -90,7 +95,6 @@ With a background in volc ([source](https://www.linkedin.com/feed/update/urn:li:
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolyzes biogenic residues (wood, grape pomace, miscanthus, urban lop) at ~400-700°C to produce EBC-certified biochar for soil applications and CDR credits."
 url: "/directory/swiss-biochar/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.swiss-biochar.com/" target="_blank" rel="noopener">https://www.swiss-biochar.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbocontrol/" target="_blank" rel="noopener">carbocontrol — 754 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~1</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,8 @@ Swiss Biochar is a Swiss producer of EBC-certified biochar and soil substrates b
 
 ## History
 
+- **2026-08-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.swiss-biochar.com/?lang=en))
+- **2026-08-06** — news mention: Isometric Issues First Swiss Biochar Certificates to Bioenergie Frauenfeld AG – Biochar Today ([source](https://biochartoday.com/news/isometric-issues-first-swiss-biochar-certificates-to-bioenergie-frauenfeld-ag/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://www.swiss-biochar.com/?lang=en))
@@ -47,7 +49,6 @@ Swiss Biochar is a Swiss producer of EBC-certified biochar and soil substrates b
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

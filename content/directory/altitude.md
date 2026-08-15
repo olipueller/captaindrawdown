@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://www.altitudecarbon.com/" target="_blank" rel="noopener">https://www.altitudecarbon.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/altitude-sustainable/" target="_blank" rel="noopener">altitude-sustainable</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/altitude-sustainable/" target="_blank" rel="noopener">altitude-sustainable — 876 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~2 (+100% YoY)</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
@@ -32,6 +32,13 @@ Altitude is a Switzerland-based carbon removal financier that provides structure
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
+- **2026-08-09** — news mention: Altitude Carbon: What does demand actually look like in the biochar carbon credit market right now?  ([source](https://www.linkedin.com/company/altitude-sustainable/#post-a853dc6a3745))
+- **2026-08-09** — news mention: 377 biochar companies dominate the CDR Directory, and this chart shows their pure-play violin sprawl ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3msm47aprgz22))
+- **2026-08-03** — news mention: Equilibrium Carbon Capture 2026, $25.2M Altitude Deal - EnkiAI ([source](https://enkiai.com/carbon-capture/equilibrium-biochar-project-india/))
+- **2026-08-01** — news mention: Altitude Carbon: India has the potential to become one of the world's most important biochar markets ([source](https://www.linkedin.com/company/altitude-sustainable/#post-f4a3374c27af))
+- **2026-08-01** — news mention: Altitude Carbon Capture 2026, 965k Tonne Equilibrium Deal ([source](https://enkiai.com/carbon-capture/altitude-equilibrium-biochar-india/))
+- **2026-07-25** — news mention: Altitude Carbon: We're partnering with Equilibrium in India for 180.000t CDRs. Thanks to all our par ([source](https://www.linkedin.com/company/altitude-sustainable/#post-7f572fa1583f))
 - **2026-07-15** — refresh: coresignal
 - **2026-07-15** — refresh: coresignal
 - **2026-06-15** — refresh: coresignal
@@ -55,10 +62,6 @@ Altitude is a Switzerland-based carbon removal financier that provides structure
 - **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 - **** — merged duplicate: Altitude Carbon (slug=altitude-carbon)
 - **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate
-- **2026-04-19** — reclassified: pathway=Biochar focus=ecosystem liveliness=🟢 Active ([source](https://www.altitudecarbon.com/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=ecosystem liveliness=🟢 Active ([source](https://www.altitudecarbon.com/))
-- **2026-04-18** — discovered via: news_feed ([source](https://www.qcintel.com/carbon/article/interview-cdr-trader-altitude-eyes-more-biochar-credit-purchases-62435.html))
 
 ---
 
@@ -67,7 +70,6 @@ Altitude is a Switzerland-based carbon removal financier that provides structure
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

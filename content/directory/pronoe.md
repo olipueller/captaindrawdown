@@ -31,6 +31,8 @@ Pronoe is a Paris-based ocean CDR startup developing electrochemical ocean alkal
 
 ## History
 
+- **2026-08-13** — news mention: Cella Mineral Storage: Frontier has facilitated $3.05M of carbon removal prepurchases from PRONOE (F ([source](https://www.linkedin.com/company/cellamineral/#post-03e89769440b))
+- **2026-08-06** — news mention: Cella Mineral Storage: Grateful to Frontier , Stripe , Shopify , and Google for continued confidence ([source](https://www.linkedin.com/company/cellamineral/#post-d32136400c45))
 - **2026-05-22** — news mention: Singapore Management University Launches South-east Asia's First University-Anchored Fund Dedicated  ([source](https://moneycompass.com.my/singapore-management-university-launches-south-east-asias-first-university-anchored-fund-dedicated-to-urban-solutions-sustainability/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
@@ -47,7 +49,6 @@ Pronoe is a Paris-based ocean CDR startup developing electrochemical ocean alkal
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

@@ -28,6 +28,11 @@ CarbonMeld is an independent carbon-credit screening and scoring tool that publi
 
 ## History
 
+- **2026-08-11** — news mention: CarbonMeld: India just committed $2.5 billion to compressed biogas, and carbon market participants s ([source](https://www.linkedin.com/company/carbonmeld/#post-8ba27f207e38))
+- **2026-08-11** — news mention: CarbonMeld: Ecuador's National Assembly has voted to legalise carbon markets for the second time in  ([source](https://www.linkedin.com/company/carbonmeld/#post-fce5fd54d968))
+- **2026-08-11** — news mention: CarbonMeld: China is moving to make green fuels creditable under its national offset programme. The  ([source](https://www.linkedin.com/company/carbonmeld/#post-e812c09d8dc2))
+- **2026-08-11** — news mention: CarbonMeld: Uganda just authorised up to 10 million tonnes of CO2e from a single cookstove project,  ([source](https://www.linkedin.com/company/carbonmeld/#post-815deb33c3b1))
+- **2026-07-27** — news mention: CarbonMeld: Australia will wind down Climate Active after the 24 July 2026 government announcement.  ([source](https://www.linkedin.com/company/carbonmeld/#post-dc5971bd7b4d))
 - **2026-07-11** — news mention: What Google and McKinsey’s Indonesia Offtake Signals About the Next Wave of Carbon Removal Finance · ([source](https://carbonmeld.com/en/articles/what-google-and-mckinsey-s-indonesia-offtake-signals-about-the-next-wave-of-carbon-removal-finance/))
 - **2026-07-09** — news mention: Why Abaxx’s Physically Settled Carbon Futures Matter for the Next Phase of Market Infrastructure · C ([source](https://carbonmeld.com/en/articles/why-abaxx-s-physically-settled-carbon-futures-matter-for-the-next-phase-of-market-infrastructure/))
 - **2026-06-26** — news mention: Why the First Verified Soil-Carbon Credits From Mycorrhizal Fungi Matter for the Next Phase of Agric ([source](https://carbonmeld.com/en/articles/why-the-first-verified-soil-carbon-credits-from-mycorrhizal-fungi-matter-for-the-next-phase-of-agricultural-climate-markets/))
@@ -53,11 +58,6 @@ CarbonMeld is an independent carbon-credit screening and scoring tool that publi
 - **2026-05-20** — news mention: Why Carbon Pricing Is Raising More Money Than Ever and What That Means for Climate Policy, Industry, ([source](https://carbonmeld.com/en/articles/why-carbon-pricing-is-raising-more-money-than-ever-and-what-that-means-for-climate-policy-industry-and-carbon-markets/))
 - **2026-05-20** — news mention: Singapore’s New Carbon Credit Coalition and the Race to Turn Integrity into Demand · CarbonMeld ([source](https://carbonmeld.com/en/articles/singapore-s-new-carbon-credit-coalition-and-the-race-to-turn-integrity-into-demand/))
 - **2026-05-20** — news mention: How FASB’s New Guidance Could Change the Way Global Companies Account for Carbon Credits · CarbonMel ([source](https://carbonmeld.com/en/articles/how-fasb-s-new-guidance-could-change-the-way-global-companies-account-for-carbon-credits/))
-- **2026-05-19** — news mention: Singapore’s Push to Build Corporate Carbon Credit Demand: What It Means for the Voluntary Market’s N ([source](https://carbonmeld.com/en/articles/singapore-s-push-to-build-corporate-carbon-credit-demand-what-it-means-for-the-voluntary-market-s-next-hub/))
-- **2026-05-19** — news mention: Why CATL and Tencent Are Betting on Carbon Credit Demand Just as Singapore Tries to Rebuild Market T ([source](https://carbonmeld.com/en/articles/why-catl-and-tencent-are-betting-on-carbon-credit-demand-just-as-singapore-tries-to-rebuild-market-trust/))
-- **2026-05-18** — news mention: South Korea’s Carbon Asset STO Plans Could Redefine How Tokenized Credits Are Traded Worldwide · Car ([source](https://carbonmeld.com/en/articles/south-korea-s-carbon-asset-sto-plans-could-redefine-how-tokenized-credits-are-traded-worldwide/))
-- **2026-05-15** — news mention: Frontier’s Approval of Rainbow Carbon Removal and the Rise of De Facto Registry Gatekeepers · Carbon ([source](https://carbonmeld.com/en/articles/frontier-s-approval-of-rainbow-carbon-removal-and-the-rise-of-de-facto-registry-gatekeepers/))
-- **2026-05-14** — news mention: Canada’s Carbon Price Deal and the New Politics of Industrial Decarbonisation · CarbonMeld ([source](https://carbonmeld.com/en/articles/canada-s-carbon-price-deal-and-the-new-politics-of-industrial-decarbonisation/))
 
 ---
 
@@ -66,7 +66,6 @@ CarbonMeld is an independent carbon-credit screening and scoring tool that publi
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

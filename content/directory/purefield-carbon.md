@@ -30,6 +30,8 @@ PureField Carbon Capture, LLC is a subsidiary of PureField Ingredients authorize
 
 ## History
 
+- **2026-08-01** — news mention: PureField Carbon: The results are in: injection is successful, and carbon is now being safely stored ([source](https://www.linkedin.com/company/purefield-ingredients/#post-88e1ca766755))
+- **2026-08-01** — news mention: PureField Carbon: Yesterday, PureField Ingredients celebrated the launch of our carbon capture and s ([source](https://www.linkedin.com/company/purefield-ingredients/#post-d19f18d9cc8e))
 - **2026-07-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-07-04** — news mention: EPA Grants First Class VI CCS Permit In Kansas ([source](https://carbonherald.com/epa-grants-first-class-vi-ccs-permit-in-kansas/))
 - **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
@@ -59,7 +61,6 @@ PureField Carbon Capture, LLC is a subsidiary of PureField Ingredients authorize
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

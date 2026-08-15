@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Mineralization (Other)</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://carbicrete.com/" target="_blank" rel="noopener">https://carbicrete.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbicrete/" target="_blank" rel="noopener">carbicrete — 10,057 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbicrete/" target="_blank" rel="noopener">carbicrete — 10,295 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~32 (-22% YoY)</td></tr>
+  <tr><th>Employees</th><td>~31 (-21% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -34,6 +34,9 @@ CarbiCrete is a Montreal-based carbon removal technology company that licenses a
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
+- **2026-07-22** — news mention: CarbiCrete: CarbiCrete is happy to announce we have been awarded $1 million by Innovation, Science a ([source](https://www.linkedin.com/company/carbicrete/#post-1f5a7f9599c3))
+- **2026-07-22** — news mention: CarbiCrete: CAGBC | Canada Green Building Council recently published a low-carbon #concrete procurem ([source](https://www.linkedin.com/company/carbicrete/#post-11517498a9c3))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://carbicrete.com/carbicrete-expands-into-europe-with-point-p-partnership/))
@@ -49,7 +52,6 @@ CarbiCrete is a Montreal-based carbon removal technology company that licenses a
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

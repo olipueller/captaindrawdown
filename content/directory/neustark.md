@@ -34,6 +34,7 @@ Neustark is a Swiss climate-tech company founded in 2019 (ETH Zurich spin-off), 
 
 ## History
 
+- **2026-08-03** — news mention: #carbonremoval #cdr #neustark #vvbs #certification | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7490028785803722752/))
 - **2026-07-05** — news mention: Explainer: Mineralization is the CDR family that turns CO2 into solid carbonate rock. Once bonded in ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpusg7voq42k))
 - **2026-07-05** — news mention: Good point. The airborne fraction has held near 44% for decades, but recent years show wobble. If la ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpufpr4arw2b))
 - **2026-05-01** — refresh: screenshot
@@ -51,7 +52,6 @@ Neustark is a Swiss climate-tech company founded in 2019 (ETH Zurich spin-off), 
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

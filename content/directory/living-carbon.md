@@ -43,6 +43,11 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-08-10** — news mention: Flux: Isometric has reached a major milestone—signing our 100th carbon removal supplier, Flux . Over ([source](https://www.linkedin.com/company/flux-earth/#post-a3091f3c0857))
+- **2026-07-29** — news mention: Living Carbon: Three of the world's most influential companies became Living Carbon customers last w ([source](https://www.linkedin.com/company/living-carbon/#post-b1f27fd3ee6c))
+- **2026-07-22** — news mention: Living Carbon: Octopus Energy Generation is backing Living Carbon with $500M to reforest degraded la ([source](https://www.linkedin.com/company/living-carbon/#post-2fee46eaa649))
+- **2026-07-22** — news mention: Living Carbon: We're excited to share that Octopus Energy Generation is backing Living Carbon with $ ([source](https://www.linkedin.com/company/living-carbon/#post-96738e97cf1c))
+- **2026-07-22** — news mention: Living Carbon: Living Carbon was featured in The Wall Street Journal today, with Yusuf Khan covering ([source](https://www.linkedin.com/company/living-carbon/#post-84adff4af132))
 - **2026-05-14** — news mention: Spotlight on Carbon: Understanding the new wave of CO2 removal projects - On demand | BusinessGreen  ([source](https://www.businessgreen.com/sponsored/4529748/spotlight-carbon-understanding-wave-co2-removal-projects-demand))
 - **2026-05-04** — news mention: $500M Carbon Bet: Octopus Energy Backs Massive U.S. Forest Carbon Removal Projects • Carbon Credits ([source](https://carboncredits.com/500m-carbon-bet-octopus-energy-backs-massive-u-s-forest-carbon-removal-projects/))
 - **2026-05-03** — news mention: RT @HPACoalition: Great effort!  Those most effected is precisely why cooling should start now:  htt ([source](https://x.com/geoengineering1/status/2051027429691641892))
@@ -71,7 +76,6 @@ Independently verified by carbon-credit registries:
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

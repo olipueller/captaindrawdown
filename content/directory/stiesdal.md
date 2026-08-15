@@ -5,7 +5,7 @@ type: "directory"
 description: "Stiesdal SkyClean designs and operates 20 MW updraft pyrolysis plants that convert agricultural and forestry residues into biochar (permanent CO2 storage) plus bio-oil and syngas for"
 url: "/directory/stiesdal/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Website</th><td><a href="https://www.stiesdal.com/skyclean/" target="_blank" rel="noopener">https://www.stiesdal.com/skyclean/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/stiesdal/" target="_blank" rel="noopener">stiesdal — 22,361 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~116 (-13% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
@@ -29,6 +29,8 @@ Stiesdal SkyClean A/S is the biochar/pyrolysis subsidiary of Danish climate-tech
 
 ## History
 
+- **2026-08-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://tracxn.com/d/companies/stiesdal/__h79S2VOWg66WGirOIAPhibfIMmPE3iLgz6ll_MtiuFU))
+- **2026-08-05** — news mention: Stiesdal: We are pleased to introduce our new 6.5 MW HydroGen Electrolyser. The new unit nearly doub ([source](https://www.linkedin.com/company/stiesdal/#post-9c494754d652))
 - **2026-07-15** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://tracxn.com/d/companies/stiesdal/__h79S2VOWg66WGirOIAPhibfIMmPE3iLgz6ll_MtiuFU))
 - **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://tracxn.com/d/companies/stiesdal/__h79S2VOWg66WGirOIAPhibfIMmPE3iLgz6ll_MtiuFU))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://tracxn.com/d/companies/stiesdal/__h79S2VOWg66WGirOIAPhibfIMmPE3iLgz6ll_MtiuFU))
@@ -49,7 +51,6 @@ Stiesdal SkyClean A/S is the biochar/pyrolysis subsidiary of Danish climate-tech
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

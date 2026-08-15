@@ -30,6 +30,9 @@ CO₂RE is the UK's national research hub on Greenhouse Gas Removal, led by the 
 
 ## History
 
+- **2026-07-26** — news mention: Integrity gaps in certification and MRV across  aviation mitigation policies ([source](https://cdrxiv.org/preprint/515))
+- **2026-07-23** — news mention: CO2Re: Today UK Government published its response to the Independent Review of Greenhouse Gas Remova ([source](https://www.linkedin.com/company/co2re/#post-fe9500f60e19))
+- **2026-07-23** — news mention: CO2Re: In 2025, the UK government commissioned an Independent Review of Greenhouse Gas Removals. Res ([source](https://www.linkedin.com/company/co2re/#post-2ec17b341c43))
 - **2026-07-12** — news mention: Lucky second choice on today's #Wordle 1,849 5/6*  ⬜🟨⬜⬜⬜ ⬜⬜🟩🟩🟩 ⬜🟩🟩🟩🟩 ⬜🟩🟩🟩🟩 🟩🟩🟩🟩🟩 ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mqh6prd6ws2k))
 - **2026-07-08** — news mention: Did you miss our recent "Reclaiming Hope, Removing Carbon" event at the University of Bristol Botani ([source](https://bsky.app/profile/co2rehub.bsky.social/post/3mq4znapspc2c))
 - **2026-06-09** — news mention: We're delighted to share the full programme for our "Reclaiming Hope, Removing Carbon" event! Take a ([source](https://bsky.app/profile/co2rehub.bsky.social/post/3mnu27gurlu27))
@@ -50,7 +53,6 @@ CO₂RE is the UK's national research hub on Greenhouse Gas Removal, led by the 
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

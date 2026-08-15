@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://zeromission.se/" target="_blank" rel="noopener">https://zeromission.se/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/zeromission-ab/" target="_blank" rel="noopener">zeromission-ab — 3,774 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~23 (+10% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -31,6 +31,7 @@ ZeroMission AB is a Stockholm-based climate strategy consultancy and carbon cred
 
 ## History
 
+- **2026-08-14** — news mention: ZeroMission AB: 🌍 Historiskt genombrott för klimatfinansiering då ZeroMission var på plats i Zürich  ([source](https://www.linkedin.com/company/zeromission-ab/#post-22104a233d8f))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://zeromission.se/en/))
@@ -43,7 +44,6 @@ ZeroMission AB is a Stockholm-based climate strategy consultancy and carbon cred
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

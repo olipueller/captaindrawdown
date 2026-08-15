@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolyzes wood-chip waste at 1,000°C to produce biochar and steam-activated charcoal, with pyrolysis gas incinerated for thermal energy."
 url: "/directory/adsorb-carbon/"
 pathway: "Biochar"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Country</th><td>South Africa</td></tr>
   <tr><th>Website</th><td><a href="https://adsorb.co.za/" target="_blank" rel="noopener">https://adsorb.co.za/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/adsorb-technologies-pty-ltd/" target="_blank" rel="noopener">adsorb-technologies-pty-ltd — 90 followers</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~4 (-20% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,8 @@ Adsorb is a South African manufacturer of activated carbon operating a plant in 
 
 ## History
 
+- **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://adsorb.co.za/))
+- **2026-07-19** — news mention: Engineered Biochars Enhances Carbon Dioxide Adsorption while Augmenting Soil Carbon Storage and Crop ([source](https://doi.org/10.21203/rs.3.rs-10082624/v1))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: liveliness
 - **2026-05-01** — refresh: liveliness
@@ -49,7 +51,6 @@ Adsorb is a South African manufacturer of activated carbon operating a plant in 
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

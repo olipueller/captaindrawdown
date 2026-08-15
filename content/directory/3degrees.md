@@ -40,6 +40,10 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-08-05** — news mention: CDR.fyi: 📰 This week saw some key developments in durable CDR, as Frontier Infrastructure and Carbon ([source](https://www.linkedin.com/company/cdr-fyi/#post-5abb7ab70e13))
+- **2026-08-04** — news mention: PayPal Expands Its Net Zero Strategy With 3Degrees' Carbon Removal Portfolio ([source](https://carboncredits.com/paypal-expands-its-net-zero-strategy-with-3degrees-carbon-removal-portfolio/))
+- **2026-08-04** — news mention: PayPal and 3Degrees Partner to Direct Corporate Capital Into High-Durability Carbon Removal Projects ([source](https://biochartoday.com/news/paypal-and-3degrees-partner-to-direct-corporate-capital-into-high-durability-carbon-removal-projects/))
+- **2026-07-29** — news mention: 3Degrees: We're pleased to announce a new partnership with 3Degrees to provide biomethane to supplie ([source](https://www.linkedin.com/company/3degrees/#post-e2cbdc51d0c7))
 - **2026-07-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://3degreesinc.com/insights/an-introduction-to-biochar-exploring-this-new-carbon-removal-technology/))
 - **2026-06-25** — news mention: The biochar ecosystem (infographic) | Insights | 3Degrees ([source](https://3degreesinc.com/insights/biochar-ecosystem/))
 - **2026-06-15** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://3degreesinc.com/insights/an-introduction-to-biochar-exploring-this-new-carbon-removal-technology/))
@@ -71,7 +75,6 @@ Independently verified by carbon-credit registries:
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

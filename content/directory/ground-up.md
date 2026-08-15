@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://www.ground-up.in" target="_blank" rel="noopener">https://www.ground-up.in</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ground-zero-in/" target="_blank" rel="noopener">ground-zero-in — 597 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ground-up-in/" target="_blank" rel="noopener">ground-up-in — 820 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— verified via isometric issuance on 2026-04-17</small></td></tr>
-  <tr><th>Employees</th><td>~15</td></tr>
+  <tr><th>Employees</th><td>~21 (+110% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Isometric <small>(last issuance: 2026-04-17)</small></td></tr>
 </table>
@@ -38,6 +38,10 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
+- **2026-08-14** — news mention: Indian Company Ground Up Secures A Pre-Purchase Agreement With remove ([source](https://carbonherald.com/indian-company-ground-up-secures-a-pre-purchase-agreement-with-remove/?utm_source=rss&utm_medium=rss&utm_campaign=indian-company-ground-up-secures-a-pre-purchase-agreement-with-remove))
+- **2026-08-02** — news mention: Engrow: Announcing Cohort 2 of our 🇮🇳 India CDR Startup #Accelerator Program 🌟 We continued to be ov ([source](https://www.linkedin.com/company/engrow-group/#post-58e84bdaa764))
+- **2026-07-26** — news mention: A framework for ground-up life cycle assessment of novel, carbon-storing building materials ([source](https://cdrxiv.org/preprint/342))
 - **2026-05-12** — news mention: Credible carbon removal markets require credible policy frameworks. Few know this better than Puro.e ([source](https://www.linkedin.com/feed/update/urn:li:share:7458114573884170241/))
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.ground-up.in/news-and-resources))
 - **2026-05-01** — refresh: screenshot
@@ -58,7 +62,6 @@ Independently verified by carbon-credit registries:
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

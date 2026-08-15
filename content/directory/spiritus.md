@@ -30,6 +30,8 @@ Spiritus is a Los Alamos National Lab spinout developing low-cost Direct Air Cap
 
 ## History
 
+- **2026-07-24** — news mention: Spiritus: Spiritus has signed a Joint Development Agreement with aramco 's Research &amp; Developmen ([source](https://www.linkedin.com/company/spiritus-cdr/#post-5e339700fa1a))
+- **2026-07-15** — news mention: Three deals in one week redrew the DAC and CCS map. Hyundai-KNOC locked in cross-border CCS. Airhive ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mqnwxdtabs2r))
 - **2026-07-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://tracxn.com/d/companies/spiritus/__z3PyRolR1MDwzsGFzFRDqr6V_IKjzeoZ_ammIbxmtAs))
 - **2026-07-14** — news mention: Saudi Aramco and Spiritus Join Forces to Cut Direct Air Capture Costs and Scale Carbon Removal ([source](https://carboncredits.com/spiritus-aramco-direct-air-capture-carbon-removal/))
 - **2026-07-07** — news mention: Spiritus And Aramco To Advance Next-Scale DAC Tech ([source](https://carbonherald.com/spiritus-and-aramco-to-advance-next-scale-dac-tech/?utm_source=rss&utm_medium=rss&utm_campaign=spiritus-and-aramco-to-advance-next-scale-dac-tech))
@@ -52,7 +54,6 @@ Spiritus is a Los Alamos National Lab spinout developing low-cost Direct Air Cap
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

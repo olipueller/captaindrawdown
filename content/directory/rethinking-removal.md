@@ -5,7 +5,7 @@ type: "directory"
 description: "Non-profit convener and advocacy organisation that works to build demand, narrative, policy, and accounting frameworks for the carbon removal industry; does not itself perform CO2 removal."
 url: "/directory/rethinking-removal/"
 pathway: "Enabling Tech"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://rethinkingremovals.org/" target="_blank" rel="noopener">https://rethinkingremovals.org/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/rethinking-removals/" target="_blank" rel="noopener">rethinking-removals — 1,143 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~5 (-17% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -30,6 +30,8 @@ Rethinking Removals is a UK-based collaborative non-profit organisation focused 
 
 ## History
 
+- **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-07-25** — news mention: Rethinking Removal: What a week for net zero standards. Theyâre like buses. You wait for years and ([source](https://www.linkedin.com/company/rethinking-removals/#post-8522c1eb1298))
 - **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
@@ -52,7 +54,6 @@ Rethinking Removals is a UK-based collaborative non-profit organisation focused 
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

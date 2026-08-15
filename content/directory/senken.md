@@ -30,6 +30,10 @@ Senken is a Berlin-based carbon credit procurement platform and marketplace that
 
 ## History
 
+- **2026-08-07** — news mention: Welcome, senken! | Deutscher Verband für negative Emissionen e.V. (DVNE) ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7490262133469986816/))
+- **2026-08-06** — news mention: Senken: Senken is partnering with Envoria to bring high-quality carbon credits directly to Envoria's ([source](https://www.linkedin.com/company/senken/#post-00e8aee51158))
+- **2026-07-22** — news mention: Senken: Most corporate net zero targets are a press release with a date attached, or not? ISO just p ([source](https://www.linkedin.com/company/senken/#post-a0a72af1e879))
+- **2026-07-22** — news mention: Senken: "Can we still afford carbon removals in 2031?" Your board should be asking this question tod ([source](https://www.linkedin.com/company/senken/#post-a539b38bd296))
 - **2026-06-10** — news mention: Wie Pflanzenkohle Landwirtschaft und Bauindustrie zusammenbringen kann | top agrar ([source](https://www.topagrar.com/energie/news/neues-geschaftsfeld-pflanzenkohle-a-20025927.html))
 - **2026-05-24** — news mention: Two corporate CDR offtakes this week reveal the market splitting in two: Microsoft signed 650kt of B ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmlbzeentl2m))
 - **2026-05-22** — news mention: Lufthansa’s Multi-Year Carbon Removal Bet: What a Mixed Tech-and-Nature Deal Signals for Corporate C ([source](https://carbonmeld.com/en/articles/lufthansa-s-multi-year-carbon-removal-bet-what-a-mixed-tech-and-nature-deal-signals-for-corporate-cdr-buying/))
@@ -57,7 +61,6 @@ Senken is a Berlin-based carbon credit procurement platform and marketplace that
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

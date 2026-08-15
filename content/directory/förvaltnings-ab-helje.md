@@ -5,7 +5,7 @@ type: "directory"
 description: "On-site Biomacon C160-F pyrolysis boiler converts wood chips into EBC-certified biochar used as a peat-replacement growing substrate and sold to agricultural/landscaping customers."
 url: "/directory/förvaltnings-ab-helje/"
 pathway: "Biochar"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -13,9 +13,9 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://essungaplantskola.se/" target="_blank" rel="noopener">https://essungaplantskola.se/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/essunga-plantskola/" target="_blank" rel="noopener">essunga-plantskola — 224 followers</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
-  <tr><th>Employees</th><td>~14 (0% YoY)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/essunga-plantskola/" target="_blank" rel="noopener">essunga-plantskola — 233 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Employees</th><td>~15 (+7% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -29,6 +29,8 @@ Essunga Plantskola (operated by Förvaltnings AB Helje) is a Swedish family-owne
 
 ## History
 
+- **2026-08-15** — refresh: coresignal, liveliness
+- **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://global-c-registry.org/project-view/1111))
 - **2026-06-15** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://global-c-registry.org/project-view/1111))
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://global-c-registry.org/project-view/1111))
 - **2026-05-01** — refresh: screenshot
@@ -50,7 +52,6 @@ Essunga Plantskola (operated by Förvaltnings AB Helje) is a Swedish family-owne
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

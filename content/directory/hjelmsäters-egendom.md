@@ -13,7 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://www.biokol.se/" target="_blank" rel="noopener">https://www.biokol.se/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biokol-se/" target="_blank" rel="noopener">biokol-se — 178 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 65/100) <small>— verified via puro issuance on 2024-03-31</small></td></tr>
+  <tr><th>Employees</th><td>~1</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth <small>(last issuance: 2024-03-31)</small></td></tr>
 </table>
@@ -39,6 +41,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
 - **2026-05-11** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.hjelmsater.se/egendom/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot, liveliness
@@ -68,7 +71,6 @@ Independently verified by carbon-credit registries:
 - **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.hjelmsater.se/egendom/))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/hjelmsaters-egendom))
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://puro.earth/CORC-co2-removal-certificate/biochar-in-sweden-hjelmsaeters-egendom-100026))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 
@@ -77,7 +79,6 @@ Independently verified by carbon-credit registries:
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

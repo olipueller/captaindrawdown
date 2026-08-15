@@ -5,7 +5,7 @@ type: "directory"
 description: "Proprietary electrostatic solid-sorbent Direct Air Capture technology using thin-layer sorbent deployment to cut sorbent use and regeneration energy."
 url: "/directory/neg8-carbon/"
 pathway: "DAC"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>Ireland</td></tr>
   <tr><th>Website</th><td><a href="https://neg8carbon.com/" target="_blank" rel="noopener">https://neg8carbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/trinity-green-energies/" target="_blank" rel="noopener">trinity-green-energies — 3,231 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~11 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,10 @@ NEG8 Carbon is a Waterford, Ireland-based Direct Air Capture company (originally
 
 ## History
 
+- **2026-08-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://neg8carbon.com/solid-sorbent-dac-compared-with-electrochemical-dac/))
+- **2026-08-07** — news mention: NEG8 Carbon: â­ Today marks a major step forward for permanent carbon removal in Europe. The Europe ([source](https://www.linkedin.com/company/trinity-green-energies/#post-ce19db2ff5fc))
+- **2026-07-31** — news mention: NEG8 Carbon: ⭐ Today marks a major step forward for permanent carbon removal in Europe. The European ([source](https://www.linkedin.com/company/trinity-green-energies/#post-bb5a3209c65d))
+- **2026-07-24** — news mention: What the EU ETS Proposal Means for Direct Air Capture - NEG8 Carbon ([source](https://neg8carbon.com/what-the-eu-ets-proposal-means-for-direct-air-capture/))
 - **2026-06-15** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://neg8carbon.com/solid-sorbent-dac-compared-with-electrochemical-dac/))
 - **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://neg8carbon.com/solid-sorbent-dac-compared-with-electrochemical-dac/))
 - **2026-05-01** — refresh: screenshot
@@ -49,7 +53,6 @@ NEG8 Carbon is a Waterford, Ireland-based Direct Air Capture company (originally
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

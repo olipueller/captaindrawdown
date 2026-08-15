@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
   <tr><th>Country</th><td>Ireland</td></tr>
   <tr><th>Website</th><td><a href="https://www.silicatecarbon.com/" target="_blank" rel="noopener">https://www.silicatecarbon.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/silicate-carbon/" target="_blank" rel="noopener">silicate-carbon</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/silicate-carbon/" target="_blank" rel="noopener">silicate-carbon — 3,216 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~6 (-40% YoY)</td></tr>
+  <tr><th>Employees</th><td>~6 (-33% YoY)</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,36 +31,36 @@ Silicate is an Irish enhanced weathering CDR supplier headquartered at NovaUCD i
 
 ## History
 
-- **2026-07-15** — refresh: coresignal
-- **2026-07-15** — refresh: coresignal
-- **2026-07-10** — news mention: Right - DAC pulls CO2 straight from the air, unlike point-source CCS. Per Carbon Engineering's own p ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mqbomczamm2k))
-- **2026-07-09** — news mention: Meta-analysis of the agronomic Benefits | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7480971203046854657/))
-- **2026-07-05** — news mention: Explainer: Mineralization is the CDR family that turns CO2 into solid carbonate rock. Once bonded in ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpusg7voq42k))
-- **2026-07-05** — news mention: Good point. The airborne fraction has held near 44% for decades, but recent years show wobble. If la ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpufpr4arw2b))
-- **2026-06-30** — news mention: Clean power led 2025 supply growth per Carbon Brief. The CDR angle: every gigawatt of fossil generat ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpiox4r6eb26))
-- **2026-06-26** — news mention: Wiemy jak usunąć CO2 z powietrza. Wykorzystamy do tego skały – Adrian Podgórny (Green Sequest) ([source](https://mamstartup.pl/wiemy-jak-usunac-co2-z-powietrza-wykorzystamy-do-tego-skaly-adrian-podgorny-green-sequest/))
-- **2026-06-26** — news mention: A Tour of Our CDR Greenhouse Experiment ([source](https://carbondrawdown.substack.com/p/a-tour-of-our-cdr-greenhouse-experiment))
-- **2026-06-15** — refresh: coresignal
-- **2026-06-15** — refresh: coresignal
-- **2026-06-11** — news mention: @climatejesper.bsky.social is an isotope geochemist at @yalecncc.bsky.social. His research focuses o ([source](https://bsky.app/profile/davidho.bsky.social/post/3mnyxvgxubs2i))
-- **2026-06-11** — news mention: File under: War Crimes ([source](https://bsky.app/profile/davidho.bsky.social/post/3mnysgc7msc2c))
-- **2026-06-06** — news mention: #undocarbon #carbonremoval #enhancedrockweathering #climatetech #cdr #soilhealth #mrv #sustainableag ([source](https://www.linkedin.com/feed/update/urn:li:share:7467927760230043648/))
-- **2026-06-02** — news mention: Beyond Trees: Why Enhanced Rock Weathering Could Reshape Africa’s Carbon Future | Nuvoni Centre for  ([source](https://nuvoniresearch.org/beyond-trees-why-enhanced-rock-weathering-could-reshape-africas-carbon-future/))
-- **2026-05-29** — news mention: Most ERW assessments focus on alkalinity-driven carbon dioxide removal but there may be another inte ([source](https://www.linkedin.com/feed/update/urn:li:share:7466111386818056192/))
-- **2026-05-28** — news mention: That's the core mechanism which is known over geological time scales.  What's less often discussed i ([source](https://x.com/dpaessler/status/2059983386924417137))
-- **2026-05-27** — news mention: Enhanced rock weathering uses silicate rock powders applied to agricultural soils. That raises a que ([source](https://www.linkedin.com/feed/update/urn:li:share:7465025344509669377/))
-- **2026-05-22** — news mention: Molecular Views of Mineral Carbonation: Reaction of CO2 with the Wollastonite (100) Surface ([source](https://pubs.acs.org/doi/10.1021/acsnano.5c19629))
-- **2026-05-22** — news mention: EGU 2026 | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7463202751456374784/))
-- **2026-05-21** — news mention: The supplier set is wider than people think. Lithos, UNDO, Terradot, InPlanet, and Alt Carbon do cro ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mme57ibapp2b))
-- **2026-05-21** — news mention: Pathway 101: Enhanced Weathering ([source](https://captaindrawdown.com/posts/pathway-101-enhanced-weathering/))
-- **2026-05-21** — news mention: Foundation Opens Consultation On CCS EACs Methodology  The Cynthia and George Mitchell Foundation ha ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmdylqaijo2u))
-- **2026-05-13** — news mention: Bedrock Initiative targets ERW ([source](https://www.captaindrawdown.com/posts/bedrock-initiative-cascade-climate/))
-- **2026-05-03** — news mention: 20 Top Environmental Companies in Germany · August 2025 | F6S ([source](https://www.f6s.com/companies/environmental/germany/co))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-24** — news mention: Silicon to Silicate: Understanding the InPlanet-Microsoft Deal ([source](https://remineralize.org/2026/04/silicon-to-silicate-understanding-the-inplanet-microsoft-deal/))
-- **2026-04-22** — news mention: RT @Climate_of_apes: Stratospheric aerosol injection geoengineering has the potential to increase la ([source](https://x.com/geoengineering1/status/2046988170152366434))
-- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.silicatecarbon.com/))
+- **2026-08-15** — refresh: coresignal
+- **2026-08-13** — news mention: Significant Scope for Improvement of Soil Acidity Management in US Croplands ([source](https://cdrxiv.org/preprint/535))
+- **2026-08-13** — news mention: Enhanced Rock Weathering Affects Formation of Mineral-Associated Organic Carbon in Soil ([source](https://doi.org/10.5445/ir/1000196136))
+- **2026-08-10** — news mention: Silicate: Last week, the Greenhouse Gas Protocol (GHG Protocol) published the Land Sector and Remova ([source](https://www.linkedin.com/company/silicate-carbon/#post-0f7bec7159d9))
+- **2026-08-05** — news mention: Enhanced rock weathering buyers are crediting tonnes of CO2 removal without tracking the nickel, chr ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mscqp6ynkv2y))
+- **2026-08-03** — news mention: Silicate: 📢 Today, GHG Protocol launches the Land Sector and Removals Standard, its first global sta ([source](https://www.linkedin.com/company/silicate-carbon/#post-387cf054ca69))
+- **2026-08-01** — news mention: Iron Oxidation Links CO <sub>2</sub> Mineralization to Hydrogen Formation ([source](https://doi.org/10.1021/acs.estlett.6c00308))
+- **2026-08-01** — news mention: Effects of enhanced rock weathering on soil gas fluxes across UK land uses ([source](https://doi.org/10.5194/egusphere-2026-4380))
+- **2026-08-01** — news mention: Comment on egusphere-2026-4145 ([source](https://doi.org/10.5194/egusphere-2026-4145-rc1))
+- **2026-07-30** — news mention: Metal Accumulation Risks in Enhanced Rock Weathering: Risk Assessment Framework and Recommendations ([source](https://cdrxiv.org/preprint/546))
+- **2026-07-28** — news mention: Ho's timeline point is key: the tech is far from profitable, and profit-driven funders lose patience ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mrpb6z7nyn2q))
+- **2026-07-26** — news mention: Coupled Thermo-Hydro-Chemo-Mechanical Processes in Rock Fracture: Implications for Long-Term Subsurf ([source](https://doi.org/10.70425/rml.202603.47))
+- **2026-07-26** — news mention: Comment on egusphere-2026-603 ([source](https://doi.org/10.5194/egusphere-2026-603-rc1))
+- **2026-07-26** — news mention: Direct measurement of carbon dioxide removal due to enhanced weathering ([source](https://cdrxiv.org/preprint/352))
+- **2026-07-26** — news mention: Soil cation storage is a key control on the carbon removal dynamics of enhanced weathering ([source](https://cdrxiv.org/preprint/351))
+- **2026-07-26** — news mention: Mass-Balance MRV for Carbon Dioxide Removal by Enhanced Rock Weathering ([source](https://cdrxiv.org/preprint/379))
+- **2026-07-26** — news mention: Evidence for carbon dioxide removal via enhanced rock weathering with steel slag, though not basalt, ([source](https://cdrxiv.org/preprint/359))
+- **2026-07-26** — news mention: Swapping carbonate for silicate in agricultural enhanced rock weathering ([source](https://cdrxiv.org/preprint/304))
+- **2026-07-26** — news mention: Agronomic Performance of Enhanced Rock Weathering in a Tropical Smallholder System: A Maize Trial in ([source](https://cdrxiv.org/preprint/410))
+- **2026-07-26** — news mention: Synergistic effects of enhanced rock weathering and organic inputs  on soil carbon accrual. ([source](https://cdrxiv.org/preprint/418))
+- **2026-07-26** — news mention: Increased yields for smallholder farmers from enhanced rock weathering ([source](https://cdrxiv.org/preprint/502))
+- **2026-07-25** — news mention: Carbon Neutral Initiative: CNI was glad to contribute to this study by Liam Bullock and colleagues f ([source](https://www.linkedin.com/company/carbon-neutral-initiative/#post-4eada96ffcc6))
+- **2026-07-24** — news mention: Carbon Drawdown Initiative: Tim Jesper Suhrhoff has led a big effort to write a systematic review of ([source](https://www.linkedin.com/company/carbon-drawdown-initiative/#post-5cd3f34c2e5c))
+- **2026-07-24** — news mention: Cover crops plus basalt is a smart pairing: living roots pump CO2 and organic acids into the soil, a ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mrdvuda4t727))
+- **2026-07-22** — news mention: Brimstone: The US needs more aluminum for grid infrastructure, data centers, transportation, defense ([source](https://www.linkedin.com/company/brimstoneenergy/#post-8343c90671ad))
+- **2026-07-21** — news mention: Life Cycle Analysis and Full Carbon Accounting of Enhanced Rock Weathering ([source](https://cdrxiv.org/preprint/314))
+- **2026-07-21** — news mention: Limited impact on oysters in first-of-its-kind field trial of marine carbon dioxide removal (mCDR) s ([source](https://cdrxiv.org/preprint/326))
+- **2026-07-21** — news mention: Photosynthesis in Rivers as a Loss Pathway for ERW-Derived DIC and Alkalinity ([source](https://cdrxiv.org/preprint/329))
+- **2026-07-21** — news mention: Assessing CO2 fluxes during enhanced weathering from soils through a mesocosm lens ([source](https://cdrxiv.org/preprint/331))
+- **2026-07-21** — news mention: A Framework for Integrating Spatial Uncertainty into Solid-Phase Measurement and Verification of Enh ([source](https://cdrxiv.org/preprint/334))
 
 ---
 
@@ -69,7 +69,6 @@ Silicate is an Irish enhanced weathering CDR supplier headquartered at NovaUCD i
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

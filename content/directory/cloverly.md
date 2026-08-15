@@ -5,7 +5,7 @@ type: "directory"
 description: "API-first carbon credit marketplace and SaaS platform (Catalyst) for project developers to manage inventory, distribution, and sales across channels."
 url: "/directory/cloverly/"
 pathway: "Enabling Tech"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.cloverly.com/" target="_blank" rel="noopener">https://www.cloverly.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cloverly/" target="_blank" rel="noopener">cloverly — 9,636 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~30 (-17% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -30,6 +30,9 @@ Cloverly is an Atlanta-based carbon credit marketplace and software platform fou
 
 ## History
 
+- **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-07-29** — news mention: Cloverly: We are pleased to announce that the US SecondCropâ¢ Project has been assigned a Sylvera P ([source](https://www.linkedin.com/company/cloverly/#post-c3d3e540d467))
+- **2026-07-22** — news mention: Cloverly: We are pleased to announce that the US SecondCrop™ Project has been assigned a Sylvera Pre ([source](https://www.linkedin.com/company/cloverly/#post-9bd8e7bd4c8e))
 - **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
@@ -46,7 +49,6 @@ Cloverly is an Atlanta-based carbon credit marketplace and software platform fou
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

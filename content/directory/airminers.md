@@ -5,7 +5,7 @@ type: "directory"
 description: "Nonprofit-style community, education (BootUp) and accelerator (Launchpad) platform supporting early-stage CDR founders across all pathways."
 url: "/directory/airminers/"
 pathway: "Enabling Tech"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -14,7 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://airminers.com/" target="_blank" rel="noopener">https://airminers.com/</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/airminers/" target="_blank" rel="noopener">airminers — 5,129 followers</a></td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Employees</th><td>~4 (-78% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -28,6 +30,8 @@ AirMiners is a community, education, and accelerator organization for the carbon
 
 ## History
 
+- **2026-08-15** — refresh: coresignal, liveliness
+- **2026-08-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-11** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-06** — news mention: So what? Buyers can keep signing bigger offtakes, but contracts do not build workers, kilowatt-hours ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3ml5wp2z3i32v))
 - **2026-05-06** — news mention: Take: AirMiners: What ([source](https://captaindrawdown.com/posts/yt-take-airminers-what-s-hot-in-carbon-doxide-removal-april-2026-gewnepys/))
@@ -46,7 +50,6 @@ AirMiners is a community, education, and accelerator organization for the carbon
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

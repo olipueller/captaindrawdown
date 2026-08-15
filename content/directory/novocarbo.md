@@ -41,6 +41,9 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-08-05** — news mention: Novocarbo: A year ago, we shared insights from our first collaborations testing biochar in asphalt.  ([source](https://www.linkedin.com/company/carbo3-gmbh/#post-761801bb416b))
+- **2026-07-29** — news mention: Novocarbo: 🌱 Böden rücken als Kohlenstoffspeicher zunehmend in den klimapolitischen Fokus. Je nach B ([source](https://www.linkedin.com/company/carbo3-gmbh/#post-e5cd3168fea1))
+- **2026-07-22** — news mention: Novocarbo: ‼️ Just a few moments ago, the European Commission took a major step towards a competitiv ([source](https://www.linkedin.com/company/carbo3-gmbh/#post-266cf5372549))
 - **2026-06-10** — news mention: #cdr #bmukn #lne #germanbiochar #novocarbo #carbonfuture #dvne #klimaschutz | German Biochar e.V. (G ([source](https://www.linkedin.com/feed/update/urn:li:share:7470107511908614144/))
 - **2026-06-02** — news mention: Novocarbo Rhine - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/novocarbo-rhine/))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.novocarbo.com/biochar/green-construction/))
@@ -61,7 +64,6 @@ Independently verified by carbon-credit registries:
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

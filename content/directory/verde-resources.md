@@ -29,6 +29,10 @@ Verde Resources Inc. (OTCQB: VRDR) is a St. Louis-based sustainable infrastructu
 
 ## History
 
+- **2026-07-25** — news mention: Oregon Biochar Solutions: 🌍 Roads that remove carbon? That future is closer. Verde Resources Inc. ha ([source](https://www.linkedin.com/company/oregon-biochar-solutions/#post-2f24e6aab591))
+- **2026-07-25** — news mention: Verde Resources: Isometric , Verde Resources Inc. Move to Scale Carbon Removal Credits Through Infra ([source](https://www.linkedin.com/company/verde-resources-inc-vrdr-/#post-9a3d7f6f16be))
+- **2026-07-25** — news mention: Verde Resources: The road ahead is carbon-smart! Together with Ergon Asphalt &amp; Emulsions, Inc. , ([source](https://www.linkedin.com/company/verde-resources-inc-vrdr-/#post-a57d55990054))
+- **2026-07-24** — news mention: Onnu: Another positive move for the biochar market. 📈 Following an initial collaboration that began  ([source](https://www.linkedin.com/company/onnuhq/#post-195fcc91a427))
 - **2026-07-04** — news mention: Verde Lands 10-Year Biochar Paving Deal With Ergon, Eyes Carbon Credits  Verde Resources (OTCQB: VRD ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpsbpuwbvz26))
 - **2026-07-03** — news mention: Verde Lands 10-Year Biochar Paving Deal With Ergon, Eyes Carbon Credits ([source](https://carbonherald.com/verde-lands-10-year-biochar-paving-deal-with-ergon-eyes-carbon-credits/?utm_source=rss&utm_medium=rss&utm_campaign=verde-lands-10-year-biochar-paving-deal-with-ergon-eyes-carbon-credits))
 - **2026-05-01** — refresh: screenshot
@@ -49,7 +53,6 @@ Verde Resources Inc. (OTCQB: VRDR) is a St. Louis-based sustainable infrastructu
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

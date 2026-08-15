@@ -45,6 +45,24 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
+- **2026-08-14** — news mention: Pol Knops (@polknops.bsky.social) at the Carbon Drawdown Initiative ran basalt-amended plots for nea ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mszeyqycjk2n))
+- **2026-08-13** — news mention: Graphyte: Midway through the year and happy to report that the Frontier portfolio has removed 30,600 ([source](https://www.linkedin.com/company/graphytecarbon/#post-98b280ac61ac))
+- **2026-08-06** — news mention: Cascade Climate: A year ago, we placed a bet: that shared ERW deployment data â not data locked in ([source](https://www.linkedin.com/company/cascade-climate/#post-dfd7eca1a9dd))
+- **2026-08-03** — news mention: Tierra Prieta: ðð Latin America Gets A New Carbon Removal Investment Roadmap Carbon Business C ([source](https://www.linkedin.com/company/tierra-prieta/#post-49a6e25d0f32))
+- **2026-08-01** — news mention: Terrasols Solutions Private Limited: Data transparency is growing in ERW â and that's worth celebr ([source](https://www.linkedin.com/company/greenlife-sustainability/#post-e888ec9e7a59))
+- **2026-08-01** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-47656d726774))
+- **2026-07-30** — news mention: Graphyte: Midway through the year and happy to report that the Frontier portfolio has removed 30,600 ([source](https://www.linkedin.com/company/graphytecarbon/#post-e5a51d894b02))
+- **2026-07-27** — news mention: #londonclimateactionweek #carbonremoval #cdr #climatetech | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7487477847247425536/))
+- **2026-07-27** — news mention: Tierra Prieta: 🌎📘 Latin America Gets A New Carbon Removal Investment Roadmap Carbon Business Council ([source](https://www.linkedin.com/company/tierra-prieta/#post-c00fd4911a62))
+- **2026-07-25** — news mention: Terrasols: Data transparency is growing in ERW — and that's worth celebrating! Today we're announcin ([source](https://www.linkedin.com/company/greenlife-sustainability/#post-79f5f4af12aa))
+- **2026-07-25** — news mention: 350solutions: March was a crazy month for Enhanced Rock Weathering ( #ERW )! The 350 team was busy w ([source](https://www.linkedin.com/company/350solutions/#post-4a43938f1559))
+- **2026-07-25** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-ffa67cc8d2be))
+- **2026-07-24** — news mention: Frontier Climate: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/frontierclimate/#post-38d7c2844441))
+- **2026-07-22** — news mention: Cascade Climate: A year ago, we placed a bet: that shared ERW deployment data — not data locked insi ([source](https://www.linkedin.com/company/cascade-climate/#post-f3f65fcc7aa0))
+- **2026-07-22** — news mention: Charm Industrial: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/charm-industrial/#post-3120c3c1e69a))
+- **2026-07-21** — news mention: InPlanet joins the Negative Emissions Platform ([source](https://www.negative-emissions.org/updates/inplanet-joins-the-negative-emissions-platform))
+- **2026-07-16** — news mention: German Federal Foreign Minister&amp;#39;s visit to Brazil | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7483476897696387072/))
 - **2026-07-15** — refresh: coresignal
 - **2026-07-15** — refresh: coresignal
 - **2026-07-09** — news mention: Meta-analysis of the agronomic Benefits | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7480971203046854657/))
@@ -57,24 +75,6 @@ Independently verified by carbon-credit registries:
 - **2026-06-26** — news mention: A Tour of Our CDR Greenhouse Experiment ([source](https://carbondrawdown.substack.com/p/a-tour-of-our-cdr-greenhouse-experiment))
 - **2026-06-26** — news mention: Carbon Removal London Event | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7475876915485224960/))
 - **2026-06-15** — refresh: coresignal
-- **2026-06-15** — refresh: coresignal
-- **2026-06-06** — news mention: Climeworks Expands Global Carbon Removal Footprint With Brazil Partnership and TD Bank Deal - TipRan ([source](https://www.tipranks.com/news/private-companies/climeworks-expands-global-carbon-removal-footprint-with-brazil-partnership-and-td-bank-deal))
-- **2026-06-04** — news mention: Climeworks Solutions x InPlanet | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7467851045549850624/))
-- **2026-06-03** — news mention: #remineralization #regenerativeagriculture #citrus #agriculture #erw | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7467596025461886977/))
-- **2026-05-27** — news mention: #remineralizacao #agriculturaregenerativa #citros #agro #erw | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7465018493910806528/))
-- **2026-05-22** — news mention: EGU 2026 | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7463202751456374784/))
-- **2026-05-21** — news mention: The supplier set is wider than people think. Lithos, UNDO, Terradot, InPlanet, and Alt Carbon do cro ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mme57ibapp2b))
-- **2026-05-21** — news mention: Foundation Opens Consultation On CCS EACs Methodology  The Cynthia and George Mitchell Foundation ha ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmdylqaijo2u))
-- **2026-05-11** — manual employee_count_override → 70 (inflated by Coresignal — wrong LinkedIn entity. Confidential portfolio data confirms larger headcount; value rounded up to nearest 10.)
-- **2026-05-05** — news mention: #carbonremoval #cdr #climatetech #sustainability #climatefinance | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7457080773632909312/))
-- **2026-05-01** — news mention: #climateweekzurich #durablecdr #carbonremoval #climatetech #netzero | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:share:7455560954865500161/))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-24** — news mention: Silicon to Silicate: Understanding the InPlanet-Microsoft Deal ([source](https://remineralize.org/2026/04/silicon-to-silicate-understanding-the-inplanet-microsoft-deal/))
-- **2026-04-22** — news mention: RT @Climate_of_apes: Stratospheric aerosol injection geoengineering has the potential to increase la ([source](https://x.com/geoengineering1/status/2046988170152366434))
-- **2026-04-19** — restored: Dirk confirmed 80 employees correct; switched linkedin_slug to clean inplanet (was woonderlands parent)
-- **2026-04-19** — nulled Coresignal enrichment — LinkedIn slug 'woonderlands' clearly not the same company; employee count 81 inflated
-- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://inplanet.earth/press/inplanet-secures-agreement-to-deliver-28500-enhanced-rock-weathering-credits-to-microsoft-providing-durable-carbon-removal-and-regenerative-agriculture-benefits-in-brazil/))
 
 ---
 
@@ -83,7 +83,6 @@ Independently verified by carbon-credit registries:
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

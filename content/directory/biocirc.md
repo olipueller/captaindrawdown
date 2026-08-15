@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Website</th><td><a href="https://biocirc.com/" target="_blank" rel="noopener">https://biocirc.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biocirc/" target="_blank" rel="noopener">biocirc — 6,948 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biocirc/" target="_blank" rel="noopener">biocirc — 7,811 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~350 (+9% YoY)</td></tr>
+  <tr><th>Employees</th><td>~350 (-2% YoY)</td></tr>
   <tr><th>Open roles</th><td>2 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -33,6 +33,15 @@ BioCirc is a Danish circular bioeconomy company founded in 2021 that owns and op
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
+- **2026-08-05** — news mention: BioCirc Haderslev CCS K/S - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/biocirc-haderslev-ccs-k-s/))
+- **2026-07-30** — news mention: BioCirc: BioCirc has taken its biomethane business and built a BECCS platform on top of it. Today it ([source](https://www.linkedin.com/company/biocirc/#post-bc2a7c498b10))
+- **2026-07-28** — news mention: Ho's timeline point is key: the tech is far from profitable, and profit-driven funders lose patience ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mrpb6z7nyn2q))
+- **2026-07-28** — news mention: Climeworks: BioCirc is a Danish circular biogas company accelerating the green transition through lo ([source](https://www.linkedin.com/company/climeworks/#post-e04f71832afc))
+- **2026-07-26** — news mention: Solid list. Biochar and enhanced rock weathering deliver verified removals today. One fix upthread:  ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mrivec4ey42q))
+- **2026-07-22** — news mention: BioCirc: BioCirc har i dag indviet verdens største biogasbaserede CCS-anlæg i Vesthimmerland Det er  ([source](https://www.linkedin.com/company/biocirc/#post-1c616f689b2d))
+- **2026-07-21** — news mention: The 650,000 t BioCirc deal, signed in May weeks after the reported pause, matters less for its size  ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mr4rvuqfov2p))
+- **2026-07-21** — news mention: Climeworks Solutions: BioCirc is a Danish circular biogas company accelerating the green transition  ([source](https://www.linkedin.com/company/climeworks/#post-42817c5f5a17))
 - **2026-07-14** — news mention: The 650k-tonne BioCirc deal was signed in May, weeks after the reported pause. The real story: when  ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mql2yjswkl2b))
 - **2026-07-10** — news mention: Nuada deploys capture facility to advance Europe’s biogenic CO2 market | Carbon Capture | gasworld ([source](https://www.gasworld.com/story/nuada-deploys-capture-facility-to-advance-europes-biogenic-co2-market/2254113.article/))
 - **2026-06-29** — news mention: ProPublica's old charge that capture projects underdeliver against nameplate is back in circulation, ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpfprsqg5n2s))
@@ -54,14 +63,6 @@ BioCirc is a Danish circular bioeconomy company founded in 2021 that owns and op
 - **2026-05-20** — news mention: Microsoft Signs 650,000 Carbon Removal Credit Deal with BioCirc’s Denmark BECCS Project • Carbon Cre ([source](https://carboncredits.com/microsoft-signs-650000-carbon-removal-credit-deal-with-biocircs-denmark-beccs-project/))
 - **2026-05-20** — news mention: Microsoft Signs 650,000 Ton BECCS Carbon Removal Deal with Denmark&#x27;s BioCirc Over Seven Years ([source](https://onestopesg.com/esg-news/microsoft-biocirc-beccs-carbon-removal-deal))
 - **2026-05-20** — news mention: Microsoft Signs First Major Carbon Removal Deal Since Reportedly Pausing Purchases - ESG Today ([source](https://www.esgtoday.com/microsoft-announces-first-major-carbon-removal-deal-since-reportedly-exiting-the-market/))
-- **2026-05-19** — news mention: BioCirc indgår 7-årig aftale med Microsoft om permanent lagring af 650.000 ton CO₂ | BioCirc Group ([source](https://via.ritzau.dk/pressemeddelelse/14935858/biocirc-indgar-7-arig-aftale-med-microsoft-om-permanent-lagring-af-650000-ton-co?publisherId=13562415&lang=da))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://biocirc.com/projects))
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://biocirc.com/projects))
-- **2026-04-18** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://biocirc.com/projects))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 
@@ -70,7 +71,6 @@ BioCirc is a Danish circular bioeconomy company founded in 2021 that owns and op
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

@@ -31,6 +31,8 @@ myclimate is a Swiss non-profit climate protection foundation, spun out of ETH Z
 
 ## History
 
+- **2026-07-23** — news mention: Terra Preta (Cotierra): Trust is built on delivery. We’re excited to share a major milestone with  m ([source](https://www.linkedin.com/company/terra-preta-carbon/#post-93bda950f4de))
+- **2026-07-23** — news mention: Terra Preta (Cotierra): Big milestone for the team! We’ve officially delivered our first 1,200 tCO₂e ([source](https://www.linkedin.com/company/terra-preta-carbon/#post-85065fb5ae7e))
 - **2026-05-20** — news mention: The aviation side: Germany's airports handled approximately 200 million passengers in 2024 (Destatis ([source](https://x.com/dpaessler/status/2057084083210002790))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
@@ -50,7 +52,6 @@ myclimate is a Swiss non-profit climate protection foundation, spun out of ETH Z
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://greensand.com/en" target="_blank" rel="noopener">https://greensand.com/en</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/greensand/" target="_blank" rel="noopener">greensand — 1,468 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/greensand/" target="_blank" rel="noopener">greensand — 1,467 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~5 (-17% YoY)</td></tr>
+  <tr><th>Employees</th><td>~5 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,14 @@ greenSand is a Netherlands-based enhanced rock weathering supplier in Enkhuizen,
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
+- **2026-08-07** — news mention: Bigadan A/S: We are approaching the start of CO₂ storage in the North Sea – an important milestone f ([source](https://www.linkedin.com/company/bigadan-a-s/#post-03f0e1d6d9f7))
+- **2026-08-06** — news mention: The Carbon Removers: Great to see The Carbon Removers featured in The Herald Scotland this week talk ([source](https://www.linkedin.com/company/thecarbonremovers/#post-299adcdf6b36))
+- **2026-08-05** — news mention: BioCirc Haderslev CCS K/S - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/biocirc-haderslev-ccs-k-s/))
+- **2026-07-30** — news mention: Bigadan A/S: FOLKEMØDE 🎧 Der blev talt meget om CCS på Folkemødet. Men hvordan går vi fra debat til  ([source](https://www.linkedin.com/company/bigadan-a-s/#post-5e6933c5f13f))
+- **2026-07-24** — news mention: Airfix: Another step forward in cross-border BECCS 🌍 On Tuesday, Airfix visited the Greensand Future ([source](https://www.linkedin.com/company/airfixcarbon/#post-0f96af7d54c8))
+- **2026-07-23** — news mention: Bigadan A/S: A fantastic milestone with the delivery of the first COâ to INEOS' COâ storage faci ([source](https://www.linkedin.com/company/bigadan-a-s/#post-166a985df98e))
+- **2026-07-23** — news mention: Bigadan A/S: VI HAR INDVIET VORES CO2-FANGST ANLÃG. HVAD HAR DET MED FOLKEMÃDET AT GÃRE? Det her  ([source](https://www.linkedin.com/company/bigadan-a-s/#post-ffb80e391913))
 - **2026-07-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://greensand.com/en/blogs/news/greensand-japan))
 - **2026-07-10** — news mention: Nuada deploys capture facility to advance Europe’s biogenic CO2 market | Carbon Capture | gasworld ([source](https://www.gasworld.com/story/nuada-deploys-capture-facility-to-advance-europes-biogenic-co2-market/2254113.article/))
 - **2026-06-23** — news mention: First biogenic CO2 rolls out of Denmark biogas CCS facility | Carbon Capture | gasworld ([source](https://www.gasworld.com/story/first-biogenic-co2-rolls-out-of-denmark-biogas-ccs-facility/2252852.article/))
@@ -53,7 +61,6 @@ greenSand is a Netherlands-based enhanced rock weathering supplier in Enkhuizen,
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

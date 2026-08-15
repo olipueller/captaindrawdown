@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Other/Undisclosed)</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://www.deepskyclimate.com/" target="_blank" rel="noopener">https://www.deepskyclimate.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/deep-sky-climate/" target="_blank" rel="noopener">deep-sky-climate — 24,748 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/deep-sky-climate/" target="_blank" rel="noopener">deep-sky-climate — 26,497 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~48 (+39% YoY)</td></tr>
+  <tr><th>Employees</th><td>~46 (+10% YoY)</td></tr>
   <tr><th>Open roles</th><td>9 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Isometric</td></tr>
@@ -44,6 +44,21 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
+- **2026-08-10** — news mention: Flux: Isometric has reached a major milestone—signing our 100th carbon removal supplier, Flux . Over ([source](https://www.linkedin.com/company/flux-earth/#post-a3091f3c0857))
+- **2026-08-10** — news mention: DACworx Engineering: Coming soon to Deep Sky Alpha. Deep Sky Alpha is welcoming DACLAB and its Kelvi ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-b68bdbc18fe2))
+- **2026-08-10** — news mention: DACworx Engineering: Exciting milestone for DACLAB . Our first carbon sequestration project is on th ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-7a3528ae7b8f))
+- **2026-08-06** — news mention: Phlair: Congrats to Alex Petre and our partner and customer Deep Sky . This is an important mileston ([source](https://www.linkedin.com/company/phlair/#post-ab9934934138))
+- **2026-08-03** — news mention: DACworx: Coming soon to Deep Sky Alpha. Deep Sky Alpha is welcoming DACLAB and its Kelvin Tower, a c ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-1bbafa726523))
+- **2026-08-03** — news mention: DACworx: Exciting milestone for DACLAB . Our first carbon sequestration project is on the horizon. L ([source](https://www.linkedin.com/company/dacworx-engineering-gmbh/#post-a9811209c702))
+- **2026-08-02** — news mention: DACLAB: Coming soon to Deep Sky Alpha. Deep Sky Alpha is welcoming DACLAB and its Kelvin Tower, a co ([source](https://www.linkedin.com/company/daclab-us/#post-1bbafa726523))
+- **2026-07-29** — news mention: CDR.fyi: ð° This week saw some key developments in durable CDR, as Inherit Carbon Solutions issued ([source](https://www.linkedin.com/company/cdr-fyi/#post-e608dbc98de9))
+- **2026-07-29** — news mention: Deep Sky: Coming soon to Deep Sky Alpha. Deep Sky Alpha is welcoming DACLAB and its Kelvin Tower, a  ([source](https://www.linkedin.com/company/deep-sky-climate/#post-7ebecf20a082))
+- **2026-07-29** — news mention: Deep Sky: BientÃ´t Ã Deep Sky Alpha. Deep Sky Alpha accueillera bientÃ´t DACLAB et sa Kelvin Tower,  ([source](https://www.linkedin.com/company/deep-sky-climate/#post-abac5cee2d4a))
+- **2026-07-26** — news mention: DACLAB: Exciting milestone for DACLAB . Our first carbon sequestration project is on the horizon. La ([source](https://www.linkedin.com/company/daclab-us/#post-7a62db6e2cf4))
+- **2026-07-25** — news mention: Skyrenu: Build, prove, deliver. Our partner Deep Sky  just showed the carbon removal industry what e ([source](https://www.linkedin.com/company/skyrenu-technologies/#post-cd925b4c4b2a))
+- **2026-07-22** — news mention: CarbonCapture Inc.: True North Carbon and CarbonCapture, Inc. Announces Project Tamarack: Canada's L ([source](https://www.linkedin.com/company/carbon-capture-inc/#post-ed24c0ca48f1))
+- **2026-07-21** — news mention: Deep Sky: In case you missed it: last month, Deep Sky joined the Team Canada Trade Mission to Japan. ([source](https://www.linkedin.com/company/deep-sky-climate/#post-31285b68bef6))
 - **2026-07-11** — news mention: #carbonremoval #climatesolutions #partnership #canada #event | Climeworks ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7481313249385336834/))
 - **2026-07-09** — news mention: Carbon capture project gains support – Brandon Sun ([source](https://www.brandonsun.com/westman-this-week/2026/07/09/carbon-capture-project-gains-support))
 - **2026-07-04** — news mention: Deep Sky Delivers Certified DAC Credits and Secures Strategic SMBC Investment - TipRanks.com ([source](https://www.tipranks.com/news/private-companies/deep-sky-delivers-certified-dac-credits-and-secures-strategic-smbc-investment))
@@ -59,21 +74,6 @@ Independently verified by carbon-credit registries:
 - **2026-06-29** — news mention: Deep Sky delivers North America’s first certified DAC carbon removal credits | Carbon Capture | gasw ([source](https://www.gasworld.com/story/deep-sky-delivers-north-americas-first-certified-dac-carbon-removal-credits/2253271.article/))
 - **2026-06-29** — news mention: Deep Sky Becomes First In North America To Deliver Direct Air Capture Carbon Credits ([source](https://stratnewsglobal.com/canada/deep-sky-becomes-first-in-north-america-to-deliver-direct-air-capture-carbon-credits/))
 - **2026-06-29** — news mention: Deep Sky Delivers North America's First DAC Carbon Credits - ESG News ([source](https://esgnews.com/deep-sky-delivers-north-americas-first-dac-carbon-credits/))
-- **2026-06-29** — news mention: Deep Sky Delivers North America's First Certified Direct Air Capture Carbon Removal Credits ([source](https://www.prnewswire.com/news-releases/deep-sky-delivers-north-americas-first-certified-direct-air-capture-carbon-removal-credits-302812360.html))
-- **2026-06-29** — news mention: Canadian company delivers North America’s first direct air capture carbon credits ([source](https://www.bnnbloomberg.ca/business/company-news/2026/06/29/canadian-company-delivers-north-americas-first-direct-air-capture-carbon-credits/))
-- **2026-06-29** — news mention: Deep Sky delivers North America’s first direct air capture carbon credits to RBC, Microsoft - The Gl ([source](https://www.theglobeandmail.com/business/article-deep-sky-first-direct-air-capture-carbon-credits-rbc-microsoft/))
-- **2026-06-27** — news mention: Deep Sky Strengthens Canada–Japan Carbon Removal Corridor with SMBC Deal and TD Offtake - TipRanks.c ([source](https://www.tipranks.com/news/private-companies/deep-sky-strengthens-canada-japan-carbon-removal-corridor-with-smbc-deal-and-td-offtake))
-- **2026-06-25** — news mention: SMBC Makes First CDR Investment With Stake in Canada's Deep Sky | IBTimes JP ([source](https://jp.ibtimes.com/smbc-makes-first-cdr-investment-stake-canadas-deep-sky-101976))
-- **2026-06-25** — news mention: Sumitomo Mitsui Banking Corp Invests In Deep Sky To Support DAC And CDR In Japan ([source](https://carbonherald.com/sumitomo-mitsui-banking-corp-invests-in-deep-sky-to-support-dac-and-cdr-in-japan/?utm_source=rss&utm_medium=rss&utm_campaign=sumitomo-mitsui-banking-corp-invests-in-deep-sky-to-support-dac-and-cdr-in-japan))
-- **2026-06-25** — news mention: 16 Winners Will Share The Nearly $30M Award From Tencent’s CarbonX 2.0 Program  Tencent has named 16 ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mp3ntouzts25))
-- **2026-06-11** — news mention: Deep Sky announces direct air capture carbon removal agreement with TD Bank Group | Carbon Capture M ([source](https://carboncapturemagazine.com/articles/deep-sky-announces-direct-air-capture-carbon-removal-agreement-with-td-bank-group))
-- **2026-06-11** — news mention: Deep Sky Carbon Capture 2026, 10k Tonnes, Microsoft - EnkiAI ([source](https://enkiai.com/carbon-capture/deep-sky-dac-td-bank/))
-- **2026-06-11** — news mention: Climeworks Carbon Capture 2026, $10M Swiss Re Deal - EnkiAI ([source](https://enkiai.com/carbon-capture/climeworks-dac-corporate-offtake/))
-- **2026-06-10** — news mention: TD Bank inks 10-year carbon removal deal with Deep Sky | ESG Dive ([source](https://www.esgdive.com/news/td-bank-inks-10-year-carbon-removal-deal-with-deep-sky/822390/))
-- **2026-06-09** — news mention: Climeworks Carbon Capture 2026, 31,000 Ton Schneider Deal - EnkiAI ([source](https://enkiai.com/carbon-capture/climeworks-dac-aviation-offtake/))
-- **2026-06-08** — news mention: TD Bank Signs 10-Year Deal With Deep Sky for 18,000 Direct Air Capture Credits - ESG News ([source](https://esgnews.com/td-bank-signs-10-year-deal-with-deep-sky-for-18000-direct-air-capture-credits/))
-- **2026-06-08** — news mention: TD Signs 10-Year Carbon Removal Deal with Deep Sky - ESG Today ([source](https://www.esgtoday.com/td-signs-10-year-carbon-removal-deal-with-deep-sky/))
-- **2026-06-08** — news mention: Three CDR deals this week. Three different capital stacks. JPMorgan put $20M venture debt into Charm ([source](https://x.com/CaptainDrawdown/status/2063850137978273893))
 
 ---
 
@@ -82,7 +82,6 @@ Independently verified by carbon-credit registries:
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://kodama.ai/" target="_blank" rel="noopener">https://kodama.ai/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/kodama-systems/" target="_blank" rel="noopener">kodama-systems — 2,175 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~18 (+6% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -35,6 +35,7 @@ Kodama Systems is a Sonora, California-based forest management startup, operatin
 
 ## History
 
+- **2026-08-07** — news mention: Kodama Systems: Last week at Weyerhaeuser 's Investor Day, SVP of Timberlands Travis Keatley spoke a ([source](https://www.linkedin.com/company/kodama-systems/#post-67732b839070))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biomass Burial focus=supplier liveliness=🟢 Active ([source](https://kodama.ai/))
@@ -55,7 +56,6 @@ Kodama Systems is a Sonora, California-based forest management startup, operatin
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

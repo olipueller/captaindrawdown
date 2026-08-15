@@ -30,6 +30,7 @@ Carbon Removal Partners (CRP) is a Zurich-based venture capital firm exclusively
 
 ## History
 
+- **2026-08-13** — news mention: Grassroots Carbon: We're honored to be mentioned in Boeing 's 2026 Global Sustainability Report. Boe ([source](https://www.linkedin.com/company/grassrootscarbon/#post-67a2ab3824ca))
 - **2026-06-11** — news mention: We are looking forward to being in London later this month.
 Max Zeller will be attending London Clim ([source](https://www.linkedin.com/feed/update/urn:li:share:7470407565068296192/))
 - **2026-05-21** — news mention: On the ground in APAC.
@@ -48,7 +49,6 @@ This and next week, the Carbon Removal Partners team is spending time across  ([
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

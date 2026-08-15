@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.co-reactive.com/" target="_blank" rel="noopener">https://www.co-reactive.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/co-reactive/" target="_blank" rel="noopener">co-reactive</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/co-reactive/" target="_blank" rel="noopener">co-reactive — 3,439 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~19 (+73% YoY)</td></tr>
+  <tr><th>Employees</th><td>~20 (+43% YoY)</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,6 +31,14 @@ Co-reactive GmbH is a climate-tech startup founded in 2024 as an RWTH Aachen spi
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
+- **2026-08-07** — news mention: #coreactive #teamcoreactive #friendsandfamily #climatetech #sustainableconstruction #carbonnegative  ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7491406887796719617/))
+- **2026-07-29** — news mention: Co-reactive featured on ZDF WISO 🏗️
+
+ZDF WISO, one of Germany&amp;#39;s leading business programmes, ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7487815968396640257/))
+- **2026-07-16** — news mention: Industrial transformation starts in North Rhine-Westphalia (NRW).
+
+We are proud to share that Carbon ([source](https://www.linkedin.com/feed/update/urn:li:share:7483413461209722880/))
 - **2026-07-15** — refresh: coresignal
 - **2026-07-15** — refresh: coresignal
 - **2026-06-25** — news mention: #futurecleantechfestival | Co-reactive ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7475516463739551744/))
@@ -60,7 +68,6 @@ Co-reactive GmbH is a climate-tech startup founded in 2024 as an RWTH Aachen spi
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

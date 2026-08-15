@@ -35,6 +35,11 @@ Klimate is a Copenhagen-based carbon asset management platform founded in 2020 t
 
 ## History
 
+- **2026-08-12** — news mention: Klimate: The EU Commission published its proposed revision of the Emissions Trading System (ETS) â ([source](https://www.linkedin.com/company/klimate-co/#post-b4535fff04e6))
+- **2026-08-07** — news mention: Bigadan A/S: THERE IS A BIG DIFFERENCE BETWEEN BEING ABLE TO CAPTURE CO₂ - AND BUILDING A BUSINESS A ([source](https://www.linkedin.com/company/bigadan-a-s/#post-87e8369aedea))
+- **2026-08-05** — news mention: Klimate: 4️⃣ 4 things you should do to prep for SBTi’s Net Zero Standard 2.0. SBTi released its Corp ([source](https://www.linkedin.com/company/klimate-co/#post-ad6b76222c0f))
+- **2026-08-05** — news mention: Klimate: The EU Commission published its proposed revision of the Emissions Trading System (ETS) — t ([source](https://www.linkedin.com/company/klimate-co/#post-2137b073a1d2))
+- **2026-07-22** — news mention: Klimate: A huge step for durable carbon removal (CDR) development 🇪🇺 On Friday, the EU Commission re ([source](https://www.linkedin.com/company/klimate-co/#post-d18690533fe1))
 - **2026-06-30** — news mention: 44 data points per batch. 63 validation items. Up to 20 evidence documents per site.
 
 As Richard Dav ([source](https://www.linkedin.com/feed/update/urn:li:share:7477337611133591552/))
@@ -53,7 +58,6 @@ As Richard Dav ([source](https://www.linkedin.com/feed/update/urn:li:share:74773
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

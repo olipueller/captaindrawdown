@@ -30,6 +30,8 @@ Oxford Net Zero is an interdisciplinary research initiative based at the Univers
 
 ## History
 
+- **2026-08-12** — news mention: Oxford Net Zero: Our latest Net Zero Tracker blog explores the new opportunities opened up by a deca ([source](https://www.linkedin.com/company/oxfordnetzero/#post-6f1102f47b2f))
+- **2026-07-22** — news mention: Oxford Net Zero: What can we learn from a decade of net zero commitments? The new Net Zero Tracker H ([source](https://www.linkedin.com/company/oxfordnetzero/#post-a5966727475b))
 - **2026-05-12** — news mention: India just became the supply backbone of durable CDR without writing a single CDR law. Microsoft's 5 ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mlmzi6gnpn2v))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
@@ -46,7 +48,6 @@ Oxford Net Zero is an interdisciplinary research initiative based at the Univers
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

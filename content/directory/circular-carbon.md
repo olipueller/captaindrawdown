@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://circular-carbon.com/en/" target="_blank" rel="noopener">https://circular-carbon.com/en/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/circular-carbon/" target="_blank" rel="noopener">circular-carbon — 5,197 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/circular-carbon/" target="_blank" rel="noopener">circular-carbon — 5,250 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~21 (-42% YoY)</td></tr>
+  <tr><th>Employees</th><td>~30 (-71% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -33,6 +33,9 @@ Circular Carbon GmbH, founded in 2018, is a German biochar company and subsidiar
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
+- **2026-08-13** — news mention: Carbon Dioxide Utilization and Removal: Building Circular Carbon Economy ([source](https://doi.org/10.5281/zenodo.21817016))
+- **2026-07-15** — news mention: Toward Circular Carbon Systems: A Comprehensive Review of Bioenergy with Carbon Capture, Utilization ([source](https://www.mdpi.com/2227-9717/14/14/2297))
 - **2026-05-28** — news mention: D-CRBN Raises €17.5 Million to Scale Plasma Technology Converting Industrial CO₂ into Circular Carbo ([source](https://onestopesg.com/esg-news/d-crbn-plasma-co2-circular-carbon-funding))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
@@ -49,7 +52,6 @@ Circular Carbon GmbH, founded in 2018, is a German biochar company and subsidiar
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

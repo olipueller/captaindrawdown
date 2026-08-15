@@ -30,6 +30,15 @@ Inherit Carbon Solutions is a Norwegian carbon removal company founded in 2021 a
 
 ## History
 
+- **2026-08-05** — news mention: CDR.fyi: ✔ Europe's first certified BECCS credits have been issued. 📝 Last week, Inherit announced t ([source](https://www.linkedin.com/company/cdr-fyi/#post-a3f0e3c8a69f))
+- **2026-07-29** — news mention: CDR.fyi: ð° This week saw some key developments in durable CDR, as Inherit Carbon Solutions issued ([source](https://www.linkedin.com/company/cdr-fyi/#post-e608dbc98de9))
+- **2026-07-28** — news mention: Bordet: Puro.earth has certified the world's first permanent carbon removal from biogas production.  ([source](https://www.linkedin.com/company/puro-co2-removal-marketplace/#post-5254139ed902))
+- **2026-07-28** — news mention: Puro: Puro.earth has certified the world's first permanent carbon removal from biogas production. To ([source](https://www.linkedin.com/company/puro-co2-removal-marketplace/#post-95f4c6dcebac))
+- **2026-07-28** — news mention: Puro.earth certifies world's first permanent carbon removal from biogas production, developed by Inh ([source](https://biomassmagazine.com/articles/puroearth-certifies-worlds-first-permanent-carbon-removal-from-biogas-production-developed-by-inherit-carbon-solutions))
+- **2026-07-27** — news mention: Puro.earth certifies first European biogas BECCS carbon removal project | Carbon Capture | gasworld ([source](https://www.gasworld.com/story/puro-certifies-first-european-biogas-beccs-carbon-removal-project/2255433.article/))
+- **2026-07-27** — news mention: Inherit: We have delivered 1,000 tonnes of CO2 to Northern Lights JV for permanent storage under the ([source](https://www.linkedin.com/company/agero-carbon-solutions/#post-95c1548d5aa9))
+- **2026-07-27** — news mention: Inherit: Today we issue Europe's first BECCS credits. Among our clients from this project are Micros ([source](https://www.linkedin.com/company/agero-carbon-solutions/#post-e756bfd2d05b))
+- **2026-07-22** — news mention: Puro.earth Certifies Inherit Carbon Solutions for First Biogas BECCS Carbon Removal in Norway &#8211 ([source](https://biochartoday.com/news/puro-earth-certifies-inherit-carbon-solutions-for-first-biogas-beccs-carbon-removal-in-norway/))
 - **2026-06-15** — refresh: coresignal, liveliness
 - **2026-06-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://esgnews.com/nordea-signs-multi-year-deal-to-remove-68000-tonnes-of-co2-with-inherit-carbon-solutions/))
 - **2026-05-22** — news mention: #crcf | Deutscher Verband für negative Emissionen e.V. (DVNE) ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7463474417994575872/))
@@ -58,7 +67,6 @@ Inherit Carbon Solutions is a Norwegian carbon removal company founded in 2021 a
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

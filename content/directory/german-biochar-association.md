@@ -30,6 +30,9 @@ German Biochar e.V. was founded in 2017, originally as the Fachverband Pflanzenk
 
 ## History
 
+- **2026-08-14** — news mention: #biochar #pflanzenkohle #carbonremoval #cdr #pyrolysis #climatetech #innovation #research | German B ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7493595775680143360/))
+- **2026-07-30** — news mention: German Biochar Association: Concrete and asphalt account for nearly half of embodied carbon in const ([source](https://www.linkedin.com/company/fachverband-pflanzenkohle-e-v/#post-79e5c1b7a79f))
+- **2026-07-23** — news mention: German Biochar Association: 📚 Publikation zur Rolle von Pflanzenkohle im Bauwesen Mit dem Whitepaper ([source](https://www.linkedin.com/company/fachverband-pflanzenkohle-e-v/#post-907f8cfd39b4))
 - **2026-07-02** — news mention: #biocharinaction #germanbiochar #ecolocked #bergerbeton #carbonremoval #nachhaltigesbauen #co2speich ([source](https://www.linkedin.com/feed/update/urn:li:share:7478326844803543043/))
 - **2026-07-01** — news mention: German Biochar e.V. (German Biochar Association): 🌱 𝗠𝗶𝘁𝗴𝗹𝗶𝗲𝗱𝗲𝗿𝘃𝗼𝗿𝘀𝘁𝗲𝗹𝗹𝘂𝗻𝗴: @[Arbeit in Selbsthilfe]( ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7476272902544289792/))
 - **2026-06-24** — news mention: CDR - Experience Tour 2026 | German Biochar e.V. (German Biochar Association) ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473730588957544448/))
@@ -48,7 +51,6 @@ German Biochar e.V. was founded in 2017, originally as the Fachverband Pflanzenk
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

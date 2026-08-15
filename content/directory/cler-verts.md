@@ -5,7 +5,7 @@ type: "directory"
 description: "Operates a pyrolysis unit (installed 2024) that converts woody residues into CHARD'OCC biochar, sold as soil amendment alongside the company's compost, methanization, and biomass activities."
 url: "/directory/cler-verts/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,9 +14,9 @@ liveliness: "🟠 Suspect"
   <tr><th>Secondary pathways</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://www.cler-verts.fr" target="_blank" rel="noopener">https://www.cler-verts.fr</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cler-verts/" target="_blank" rel="noopener">cler-verts — 2,851 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
-  <tr><th>Employees</th><td>~34</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cler-verts/" target="_blank" rel="noopener">cler-verts — 3,094 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~37 (+19% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -30,6 +30,11 @@ CLER VERTS is an organic waste valorization group established in Occitanie, Fran
 
 ## History
 
+- **2026-08-15** — refresh: coresignal, liveliness
+- **2026-08-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://lesjourneesterritoriales.fr/portfolio/cler-verts-terre-dantan/))
+- **2026-08-14** — news mention: Cler-Verts: 📣Une nouvelle avancée pour notre filière biochar ! Notre unité de production de biocha ([source](https://www.linkedin.com/company/cler-verts/#post-78924112fe52))
+- **2026-08-07** — news mention: Cler-Verts: ð£ðð§ð ð§ð¨ð®ð¯ðð¥ð¥ð ðð¯ðð§ððÌð ð©ð ([source](https://www.linkedin.com/company/cler-verts/#post-59cdd4500e4f))
+- **2026-07-31** — news mention: Cler-Verts: ðï¸ ðð§ð ð§ð¨ð®ð¯ðð¥ð¥ð ðð¯ðð§ððÌð ð ([source](https://www.linkedin.com/company/cler-verts/#post-c30dbcab7b30))
 - **2026-06-15** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://lesjourneesterritoriales.fr/portfolio/cler-verts-terre-dantan/))
 - **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://lesjourneesterritoriales.fr/portfolio/cler-verts-terre-dantan/))
 - **2026-05-01** — refresh: screenshot
@@ -49,7 +54,6 @@ CLER VERTS is an organic waste valorization group established in Occitanie, Fran
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

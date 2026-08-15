@@ -30,6 +30,9 @@ Liferaft is a U.S.-headquartered biochar company focused on durable carbon captu
 
 ## History
 
+- **2026-07-31** — news mention: Microsoft Carbon Capture 2026, 1M Tonne Liferaft Deal - EnkiAI ([source](https://enkiai.com/carbon-capture/microsoft-beccs-data-centers/))
+- **2026-07-29** — news mention: Liferaft, Microsoft, and Supercritical Finalize 10-Year Offtake Agreement for One Million Carbon Rem ([source](https://biochartoday.com/news/liferaft-microsoft-and-supercritical-finalize-10-year-offtake-agreement-for-one-million-carbon-removal-units/))
+- **2026-07-27** — news mention: Liferaft: Liferaft is thrilled to announce our partnership with Microsoft on a one million carbon re ([source](https://www.linkedin.com/company/liferaftcc/#post-8eff225af141))
 - **2026-07-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-07-08** — news mention: Microsoft hit pause on carbon removal purchases. Now what? | DeviceDaily.com ([source](https://www.devicedaily.com/pin/microsoft-hit-pause-on-carbon-removal-purchases-now-what/))
 - **2026-05-01** — refresh: coresignal, screenshot
@@ -50,7 +53,6 @@ Liferaft is a U.S.-headquartered biochar company focused on durable carbon captu
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

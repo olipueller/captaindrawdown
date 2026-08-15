@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Mineralization (Other)</td></tr>
   <tr><th>Country</th><td>Canada</td></tr>
   <tr><th>Website</th><td><a href="https://arcaclimate.com/" target="_blank" rel="noopener">https://arcaclimate.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/arcaclimate/" target="_blank" rel="noopener">arcaclimate — 5,571 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/arcaclimate/" target="_blank" rel="noopener">arcaclimate — 6,052 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~33 (-8% YoY)</td></tr>
+  <tr><th>Employees</th><td>~31 (-16% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -33,6 +33,8 @@ Arca Climate Technologies is a UBC spin-off based in Vancouver that works in par
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
+- **2026-07-28** — news mention: Our team was excited to contribute to the conversation during PNW Climate Week last week alongside o ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7487571648573997058/))
 - **2026-07-03** — news mention: EU Mandates Vehicle Circularity | ESG News.earth ([source](https://www.esgnews.earth/latest-news/eu-mandates-vehicle-circularity/20353.html))
 - **2026-05-31** — news mention: Advances in genome editing could significantly enhance plant-based carbon dioxide removal (#CDR) by  ([source](https://x.com/geoengineering1/status/2061143468379107490))
 - **2026-05-03** — news mention: Week in CDR — 2026-W18 ([source](https://captaindrawdown.com/posts/week-in-cdr-2026-w18/))
@@ -58,7 +60,6 @@ Arca Climate Technologies is a UBC spin-off based in Vancouver that works in par
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

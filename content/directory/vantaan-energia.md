@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Finland</td></tr>
   <tr><th>Website</th><td><a href="https://www.vantaanenergia.fi/en/" target="_blank" rel="noopener">https://www.vantaanenergia.fi/en/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/vantaan-energia-oy/" target="_blank" rel="noopener">vantaan-energia-oy — 9,936 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~253 (+5% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
@@ -30,6 +30,8 @@ Vantaan Energia is a Finnish municipal energy utility majority-owned by the City
 
 ## History
 
+- **2026-07-29** — news mention: Vantaan Energia: Rakennamme parhaillaan Vantaan Kuusikonmäkeen Varantoa, maailman suurinta lämmön ka ([source](https://www.linkedin.com/company/vantaan-energia-oy/#post-06ef4d483475))
+- **2026-07-29** — news mention: Vantaan Energia: Suomen suurimman pakastevaraston hukkalämpö lämmittää nyt vantaalaisia koteja ja ki ([source](https://www.linkedin.com/company/vantaan-energia-oy/#post-d038b5f7b10a))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://www.vantaanenergia.fi/en/about-us/projects/vantaa-carbon-capture/))
 - **2026-04-19** — refresh: coresignal
@@ -44,7 +46,6 @@ Vantaan Energia is a Finnish municipal energy utility majority-owned by the City
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

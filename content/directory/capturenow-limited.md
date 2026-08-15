@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.capturenow.ai/" target="_blank" rel="noopener">https://www.capturenow.ai/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/capture-now-ai/" target="_blank" rel="noopener">capture-now-ai</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~30 (+50% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -30,6 +30,7 @@ CaptureNow (legal name CAPTURENOW LIMITED) is a London-based pre-seed startup th
 
 ## History
 
+- **2026-07-28** — news mention: CAPTURENOW LIMITED: Exciting news out of Innovate4Climate at Ecosperity Week: On a panel with Marc R ([source](https://www.linkedin.com/company/capture-now-ai/#post-57ead58d314f))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.capturenow.ai/))
@@ -43,7 +44,6 @@ CaptureNow (legal name CAPTURENOW LIMITED) is a London-based pre-seed startup th
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

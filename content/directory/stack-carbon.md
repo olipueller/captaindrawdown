@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Uganda</td></tr>
   <tr><th>Website</th><td><a href="https://www.stackcarbon.earth/" target="_blank" rel="noopener">https://www.stackcarbon.earth/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/stackcarbon/" target="_blank" rel="noopener">stackcarbon — 961 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~5 (+67% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,6 +31,10 @@ Stack Carbon Investments UG Ltd is a Ugandan climate-tech company developing the
 
 ## History
 
+- **2026-08-12** — news mention: CDR.fyi: 📰 This week saw some huge developments in durable CDR, as Microsoft bought 23,602 tonnes of ([source](https://www.linkedin.com/company/cdr-fyi/#post-9bb0bb24022d))
+- **2026-08-08** — news mention: Stack Carbon: Today marks a defining milestone for STACK CARBON We are proud to announce that we hav ([source](https://www.linkedin.com/company/stackcarbon/#post-94053f1e64a4))
+- **2026-08-03** — news mention: Uganda's Stack Carbon signs major carbon credits deal | Latest Market News ([source](https://www.argusmedia.com/en/news-and-insights/latest-market-news/2860077-uganda-s-stack-carbon-signs-major-carbon-credits-deal))
+- **2026-08-01** — news mention: Stack Carbon: ðð¿ð¼ð»ðð¶ð²ð¿ has announced an additional $ðµð­ð± ðºð¶ð ([source](https://www.linkedin.com/company/stackcarbon/#post-0e0c867695aa))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carbonherald.com/stack-carbon-to-develop-the-first-large-scale-biochar-facility-in-uganda/))
@@ -46,7 +50,6 @@ Stack Carbon Investments UG Ltd is a Ugandan climate-tech company developing the
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

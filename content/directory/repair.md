@@ -30,6 +30,9 @@ Founded in 2020, RepAir Carbon develops an ultra-efficient electrochemical syste
 
 ## History
 
+- **2026-08-08** — news mention: Earth Repair Global: Our one-year-old eats mineral waste, stores CO₂, and has a nameplate capacity o ([source](https://www.linkedin.com/company/earth-repair/#post-05c7fec3bb5c))
+- **2026-07-22** — news mention: RepAir: We're taking the heat out of carbon capture. Our Managing Director, Europe Jean-Philippe Hie ([source](https://www.linkedin.com/company/repair-carbon/#post-7f8934e54093))
+- **2026-07-20** — news mention: Massachusetts bill would end a costly gas pipeline repair program ([source](https://www.canarymedia.com/articles/utilities/massachusetts-gas-pipeline-repair-program))
 - **2026-07-09** — news mention: New Tasmania Natural Asset Trust To Invest $142M In Sustainable Forestry Plantations ([source](https://carbonherald.com/new-tasmania-natural-asset-trust-to-invest-142m-in-sustainable-forestry-plantations/))
 - **2026-07-08** — news mention: Federal Register :: Pipeline Safety: Repair Criteria for Hazardous Liquid and Gas Transmission Pipel ([source](https://www.federalregister.gov/documents/2026/07/08/2026-13805/pipeline-safety-repair-criteria-for-hazardous-liquid-and-gas-transmission-pipelines))
 - **2026-05-28** — news mention: Explainer: Direct Air Capture pulls CO2 out of ambient air at ~425 ppm, which is why it's energy-int ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmvh6b44x32b))
@@ -51,7 +54,6 @@ Founded in 2020, RepAir Carbon develops an ultra-efficient electrochemical syste
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

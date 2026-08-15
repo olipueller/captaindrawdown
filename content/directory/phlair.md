@@ -34,6 +34,9 @@ Phlair (formerly Carbon Atlantis) is a Munich-based Direct Air Capture startup f
 
 ## History
 
+- **2026-08-06** — news mention: Phlair: Congrats to Alex Petre and our partner and customer Deep Sky . This is an important mileston ([source](https://www.linkedin.com/company/phlair/#post-ab9934934138))
+- **2026-08-06** — news mention: Phlair: Interview: EU should reform #ETS to include direct air capture, the “gold standard” for remo ([source](https://www.linkedin.com/company/phlair/#post-9e960680a651))
+- **2026-07-22** — news mention: Phlair: WISAG has kept buildings clean for 60 years. Now they're turning to the CO₂ in the air. WISA ([source](https://www.linkedin.com/company/phlair/#post-4d7db5390021))
 - **2026-06-24** — news mention: #cdrexperiencetour #carbondioxideremoval | Deutscher Verband für negative Emissionen e.V. (DVNE) ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473603880384167936/))
 - **2026-05-28** — news mention: Explainer: Direct Air Capture pulls CO2 out of ambient air at ~425 ppm, which is why it's energy-int ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmvh6b44x32b))
 - **2026-05-01** — refresh: screenshot
@@ -51,7 +54,6 @@ Phlair (formerly Carbon Atlantis) is a Munich-based Direct Air Capture startup f
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

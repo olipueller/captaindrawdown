@@ -30,6 +30,9 @@ CHAR Technologies Ltd. (TSXV:YES) is a Toronto-based cleantech company operating
 
 ## History
 
+- **2026-08-06** — news mention: CHAR Technologies: CHAR Tech and The BMI Group Completes Thorold Kiln Installation As announced in t ([source](https://www.linkedin.com/company/char-technologies/#post-ad7c316a119e))
+- **2026-07-30** — news mention: CHAR Technologies: https://lnkd.in/eA48MMbW Our CEO Andrew White breaks down a major milestone for t ([source](https://www.linkedin.com/company/char-technologies/#post-d6221e9071c7))
+- **2026-07-23** — news mention: CHAR Technologies: ICYMI CEO Andrew White walks through CHAR Tech's latest commercial and operationa ([source](https://www.linkedin.com/company/char-technologies/#post-12cc99c94a16))
 - **2026-07-13** — news mention: CHAR Technologies Ltd. (CVE:YES) | ([source](https://lesechos-comfi.lesechos.fr/press-release/char-technologies-ltd-cve-yes-char-tech-welcomes-quebecs-87-billion-energy-plan-backing-biomass-to-renewable-energy-kCsRF9oBfFH))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
@@ -49,7 +52,6 @@ CHAR Technologies Ltd. (TSXV:YES) is a Toronto-based cleantech company operating
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

@@ -34,6 +34,9 @@ Carbfix is an Icelandic carbon mineralization company, a subsidiary of Reykjaví
 
 ## History
 
+- **2026-08-12** — news mention: Carbon crossroads: Petrochemicals boom tests Indonesia’s climate goals | Dialogue Earth ([source](https://dialogue.earth/en/energy/carbon-crossroads-petrochemicals-boom-tests-indonesias-climate-goals/))
+- **2026-07-29** — news mention: The storage form answers Kevin's leak question: mineralized carbonate and dissolved bicarbonate are  ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mrs326gpwn25))
+- **2026-07-23** — news mention: Cella Mineral Storage: Big milestone for us at Cella: We’ve completed our first CO2 injection test a ([source](https://www.linkedin.com/company/cellamineral/#post-72428974b093))
 - **2026-07-10** — news mention: Since 2012, Iceland has been pumping captured carbon dioxide into volcanic rock so it permanently tu ([source](https://timesofindia.indiatimes.com/world/us/since-2012-iceland-has-been-pumping-captured-carbon-dioxide-into-volcanic-rock-so-it-permanently-turns-into-stone-instead-of-escaping-back-into-the-atmosphere/articleshow/132309507.cms))
 - **2026-07-05** — news mention: Explainer: Mineralization is the CDR family that turns CO2 into solid carbonate rock. Once bonded in ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpusg7voq42k))
 - **2026-07-05** — news mention: Good point. The airborne fraction has held near 44% for decades, but recent years show wobble. If la ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpufpr4arw2b))
@@ -60,7 +63,6 @@ Carbfix is an Icelandic carbon mineralization company, a subsidiary of Reykjaví
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

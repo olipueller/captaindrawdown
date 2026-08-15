@@ -42,6 +42,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-07-23** — news mention: Takachar: Excited to introduce the Rainbow Partner Program, the largest ecosystem of dMRV providers  ([source](https://www.linkedin.com/company/takachar/#post-b8359905ff33))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://takachar.com/))
@@ -57,7 +58,6 @@ Independently verified by carbon-credit registries:
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

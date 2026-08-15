@@ -34,6 +34,10 @@ Pina Earth is a Munich-based forest carbon project developer that converts vulne
 
 ## History
 
+- **2026-08-13** — news mention: International Carbon Registry (ICR): ⏳ Final day to comment: M-ICR015 – Impact Improved Forest Manag ([source](https://www.linkedin.com/company/international-carbon-registry/#post-0e238556699b))
+- **2026-08-06** — news mention: Pina Earth: ð¢ ICR has launched a new public consultation for M-ICR015 â Impact Improved Forest  ([source](https://www.linkedin.com/company/pina-de/#post-b10631a65390))
+- **2026-07-30** — news mention: International Carbon Registry (ICR): The renewed public consultation for M-ICR015 – Impact Improved  ([source](https://www.linkedin.com/company/international-carbon-registry/#post-3dab236d2766))
+- **2026-07-22** — news mention: Pina Earth: 📢 ICR has launched a new public consultation for M-ICR015 – Impact Improved Forest Manag ([source](https://www.linkedin.com/company/pina-de/#post-783fe75a3569))
 - **2026-06-24** — news mention: #cdrexperiencetour #carbondioxideremoval | Deutscher Verband für negative Emissionen e.V. (DVNE) ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473603880384167936/))
 - **2026-06-24** — news mention: #cdrexperiencetour #carbondioxideremoval #cdr #klimaforschung | CDRterra ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473707417059467264/))
 - **2026-05-01** — refresh: coresignal, screenshot
@@ -52,7 +56,6 @@ Pina Earth is a Munich-based forest carbon project developer that converts vulne
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

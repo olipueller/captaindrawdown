@@ -34,6 +34,11 @@ ExxonMobil is one of the world's largest integrated oil and gas companies. Its L
 
 ## History
 
+- **2026-08-11** — news mention: ExxonMobil Challenges EU Carbon Storage Mandates In International Dispute ([source](https://carbonherald.com/exxonmobil-challenges-eu-carbon-storage-mandates-in-international-dispute/?utm_source=rss&utm_medium=rss&utm_campaign=exxonmobil-challenges-eu-carbon-storage-mandates-in-international-dispute))
+- **2026-08-07** — news mention: Carbon Capture's New Advantage Is Now Execution Speed - Environment+Energy Leader ([source](https://environmentenergyleader.com/stories/carbon-captures-new-advantage-is-now-execution-speed,135375))
+- **2026-08-05** — news mention:  Puro.earth has had a 4.7-fold increase in credit retirement buyers between 2020 and 2025, while ann ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3msdnjtm6zk2o))
+- **2026-07-29** — news mention: ExxonMobil Adds Williams To Expanding Carbon Capture Portfolio ([source](https://carbonherald.com/exxonmobil-adds-williams-to-expanding-carbon-capture-portfolio/?utm_source=rss&utm_medium=rss&utm_campaign=exxonmobil-adds-williams-to-expanding-carbon-capture-portfolio))
+- **2026-07-29** — news mention: ExxonMobil Uses Corporate Arbitration System to Challenge Climate Solution It Promotes ([source](https://insideclimatenews.org/news/28072026/exxonmobil-isds-challenge-eu-carbon-capture/))
 - **2026-07-04** — news mention: Yes, rooftop solar is expensive, but one of the anti-PV crowds' favorite argument they use against i ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mptc54c3ps2h))
 - **2026-07-03** — news mention: Why CDR folks should read NOAA climate.gov's explainer: 1997's record El Niño still brought a near-n ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpqaes3jww25))
 - **2026-07-03** — news mention: ExxonMobil Surrenders 850,000 Acres of Gulf Carbon Storage Leases ([source](https://carbonherald.com/exxonmobil-surrenders-850000-acres-of-gulf-carbon-storage-leases/?utm_source=rss&utm_medium=rss&utm_campaign=exxonmobil-surrenders-850000-acres-of-gulf-carbon-storage-leases))
@@ -59,7 +64,6 @@ ExxonMobil is one of the world's largest integrated oil and gas companies. Its L
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

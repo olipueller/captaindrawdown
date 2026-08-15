@@ -5,7 +5,7 @@ type: "directory"
 description: "Carbon project developer and advisory firm that originates, finances, and structures carbon credit projects (NbS, blue carbon, renewables) and supports commercialisation of CDR methodologies (BECCS,"
 url: "/directory/ecosecurities/"
 pathway: "Afforestation"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Switzerland</td></tr>
   <tr><th>Website</th><td><a href="https://ecosecurities.com/" target="_blank" rel="noopener">https://ecosecurities.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ecosecurities/" target="_blank" rel="noopener">ecosecurities — 22,671 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~273 (-2% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -31,6 +31,8 @@ EcoSecurities is a Geneva/Carouge-based carbon project developer and climate adv
 
 ## History
 
+- **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-08-05** — news mention: ecosecurities: 🔍 How can oversight of validation and verification bodies be strengthened to support  ([source](https://www.linkedin.com/company/ecosecurities/#post-f400937e3d97))
 - **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
@@ -47,7 +49,6 @@ EcoSecurities is a Geneva/Carouge-based carbon project developer and climate adv
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

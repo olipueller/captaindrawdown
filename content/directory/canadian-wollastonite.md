@@ -30,6 +30,8 @@ Canadian Wollastonite is an Ontario-based industrial minerals mine near Seeley's
 
 ## History
 
+- **2026-07-26** — news mention: Canadian Wollastonite: Kingston leads Ontario in climate action The City of Kingston has announced a ([source](https://www.linkedin.com/company/canadian-wollastonite/#post-5a7da33a9d98))
+- **2026-07-26** — news mention: Canadian Wollastonite: 🚀 Major Win! Our Canadian Wollastonite Partnership with UNDO won the $5 Milli ([source](https://www.linkedin.com/company/canadian-wollastonite/#post-40da88a85506))
 - **2026-06-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-06-04** — news mention: It is planting season! 🌱 And #carbonremoval can be part of the future of farming. Here’s a cool exam ([source](https://x.com/naimmerchant/status/2062534629153005788))
 - **2026-05-01** — refresh: coresignal, screenshot
@@ -50,7 +52,6 @@ Canadian Wollastonite is an Ontario-based industrial minerals mine near Seeley's
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

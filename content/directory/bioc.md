@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
   <tr><th>Country</th><td>Singapore</td></tr>
   <tr><th>Website</th><td><a href="https://bio-c.com/" target="_blank" rel="noopener">https://bio-c.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bioc-global/" target="_blank" rel="noopener">bioc-global</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bioc-global/" target="_blank" rel="noopener">bioc-global — 4 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~5</td></tr>
+  <tr><th>Employees</th><td>~4 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,10 @@ BioC is a Singapore-based biochar carbon removal supplier that operates PyroCCS 
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
+- **2026-08-01** — news mention: Ibero Massa Florestal, S.A.: Novo artigo científico publicado pela equipa de I&amp;D da Ibero Massa  ([source](https://www.linkedin.com/company/imflorestal/#post-3a5156800d05))
+- **2026-07-30** — news mention: Meva Energy AB: How IKEA’s furniture waste is becoming biochar🪑🪨 At this year’s Biochar Summit, you’ ([source](https://www.linkedin.com/company/meva-energy/#post-edc5b0d7ba7a))
+- **2026-07-25** — news mention: Ibero Massa Florestal: Novo artigo científico publicado pela equipa de I&amp;D da Ibero Massa Flores ([source](https://www.linkedin.com/company/imflorestal/#post-eabb17791263))
 - **2026-07-09** — news mention: We absolutely need to eat less meat and dairy, but it won't happen overnight and we risk alienating  ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mqa5lj2s4s2k))
 - **2026-07-09** — news mention: Results showed a 10% reduction in methane emissions resulting from improved feed conversion when 0.8 ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mqa4zmwsns2k))
 - **2026-06-03** — news mention: For some reason, carbon dioxide polluters have chosen to not offset their pollution putting our chil ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mnex7wwvo22l))
@@ -63,7 +67,6 @@ BioC is a Singapore-based biochar carbon removal supplier that operates PyroCCS 
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

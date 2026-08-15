@@ -5,7 +5,7 @@ type: "directory"
 description: "Short-rotation willow grown on rewetted peatland is pyrolysed in a rotary kiln; biochar (~86% stable carbon) is pumped into a flooded buried repository for permanent storage, with syngas and heat"
 url: "/directory/reverse-coal/"
 pathway: "Biochar"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.reversecoal.co.uk/" target="_blank" rel="noopener">https://www.reversecoal.co.uk/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/lapwing-energy-ltd/" target="_blank" rel="noopener">lapwing-energy-ltd — 256 followers</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>division</td></tr>
 </table>
@@ -30,6 +30,8 @@ Reverse Coal is a UK biochar CDR pilot operated by Lapwing Energy, the renewable
 
 ## History
 
+- **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.greaterlincolnshirelep.co.uk/funding-and-projects/uk-food-valley/uk-food-valley-news/reverse-coal-on-display-at-climate-safe-event/))
+- **2026-07-26** — news mention: Reverse Coal: Turning agricultural biochar into battery anodes! 🚀 I am thrilled to announce that our ([source](https://www.linkedin.com/company/lapwing-energy-ltd/#post-69ceb9a9dc42))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.greaterlincolnshirelep.co.uk/funding-and-projects/uk-food-valley/uk-food-valley-news/reverse-coal-on-display-at-climate-safe-event/))
@@ -48,7 +50,6 @@ Reverse Coal is a UK biochar CDR pilot operated by Lapwing Energy, the renewable
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

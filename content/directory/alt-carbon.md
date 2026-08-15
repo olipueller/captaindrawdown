@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Enhanced Rock Weathering</td></tr>
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://altcarbon.com/" target="_blank" rel="noopener">https://altcarbon.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/alt-carbon/" target="_blank" rel="noopener">alt-carbon — 38,626 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/alt-carbon/" target="_blank" rel="noopener">alt-carbon — 42,093 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~40 (+155% YoY)</td></tr>
+  <tr><th>Employees</th><td>~50 (+47% YoY)</td></tr>
   <tr><th>Open roles</th><td>6 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Isometric <small>(last issuance: 2026-04-29)</small></td></tr>
@@ -44,6 +44,13 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
+- **2026-08-13** — news mention: Graphyte: Midway through the year and happy to report that the Frontier portfolio has removed 30,600 ([source](https://www.linkedin.com/company/graphytecarbon/#post-98b280ac61ac))
+- **2026-08-01** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-47656d726774))
+- **2026-07-30** — news mention: Graphyte: Midway through the year and happy to report that the Frontier portfolio has removed 30,600 ([source](https://www.linkedin.com/company/graphytecarbon/#post-e5a51d894b02))
+- **2026-07-25** — news mention: NULIFE GreenTech: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/nulife-greentech/#post-ffa67cc8d2be))
+- **2026-07-24** — news mention: Frontier Climate: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/frontierclimate/#post-38d7c2844441))
+- **2026-07-22** — news mention: Charm Industrial: Midway through the year and happy to report that the Frontier portfolio has remove ([source](https://www.linkedin.com/company/charm-industrial/#post-3120c3c1e69a))
 - **2026-06-06** — news mention: 9,566 tonnes. One enhanced rock weathering operator in India just delivered the largest ERW credit b ([source](https://x.com/CaptainDrawdown/status/2063125718515491149))
 - **2026-06-06** — news mention: 9,566 tonnes. One enhanced rock weathering operator in India just delivered the largest ERW credit b ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mnlv2ymiqm2b))
 - **2026-06-04** — news mention: Alt Carbon Makes The World’s Largest ERW Issuance With Nearly 10,000t Of Removed CO2 ([source](https://carbonherald.com/alt-carbon-makes-the-worlds-largest-erw-issuance-with-nearly-10000t-of-removed-co2/?utm_source=rss&utm_medium=rss&utm_campaign=alt-carbon-makes-the-worlds-largest-erw-issuance-with-nearly-10000t-of-removed-co2))
@@ -67,7 +74,6 @@ Independently verified by carbon-credit registries:
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

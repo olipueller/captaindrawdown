@@ -34,6 +34,16 @@ UNDO Carbon Ltd. is a UK-based CO2 removal company specializing in enhanced rock
 
 ## History
 
+- **2026-08-04** — news mention: UNDO Impact Update | July 2026 | UNDO ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7489992393862168576/))
+- **2026-07-31** — news mention: #enhancedrockweathering #carbonremoval #cdr #mrv #climatetech #undocarbon #carbonmarkets #climatefin ([source](https://www.linkedin.com/feed/update/urn:li:share:7488600510292316162/))
+- **2026-07-29** — news mention: UNDO: We were proud to see our Senior Geochemist, Dr Millie Dobson , representing UNDO at Goldschmid ([source](https://www.linkedin.com/company/undocarbon/#post-6f3bc99ea309))
+- **2026-07-28** — news mention: #carbonremoval #enhancedrockweathering #mrv #geochemistry #goldschmidt2026 #undocarbon | UNDO ([source](https://www.linkedin.com/feed/update/urn:li:share:7487794840085118978/))
+- **2026-07-26** — news mention: Canadian Wollastonite: Kingston leads Ontario in climate action The City of Kingston has announced a ([source](https://www.linkedin.com/company/canadian-wollastonite/#post-5a7da33a9d98))
+- **2026-07-26** — news mention: Canadian Wollastonite: 🚀 Major Win! Our Canadian Wollastonite Partnership with UNDO won the $5 Milli ([source](https://www.linkedin.com/company/canadian-wollastonite/#post-40da88a85506))
+- **2026-07-26** — news mention: Soil cation storage is a key control on the carbon removal dynamics of enhanced weathering ([source](https://cdrxiv.org/preprint/351))
+- **2026-07-22** — news mention: UNDO: Happy Canada Day 🇨🇦 Two years ago, we began working in Kingston, Ontario. Today, Canada is hom ([source](https://www.linkedin.com/company/undocarbon/#post-00e0521873ee))
+- **2026-07-21** — news mention: Earlier this month, researchers, project developers, verification bodies, and industry partners from ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7485266763698479104/))
+- **2026-07-21** — news mention: A Novel Soil Porewater Extraction Technique for Enhanced Rock Weathering Products: SATuration - Cent ([source](https://cdrxiv.org/preprint/496))
 - **2026-07-14** — news mention: You're right on timescales. Novel CDR removes well under 0.01 Gt CO2/yr today vs ~40 Gt emitted. Eve ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mql6p4ky3a2r))
 - **2026-07-09** — news mention: Inside UNDO&#039;s On-Farm Research: Small Plot Monitoring Sites in Eastern Ontario - UNDO Carbon ([source](https://un-do.com/resources/blog/inside-undos-on-farm-research-small-plot-monitoring-sites-in-eastern-ontario/))
 - **2026-07-06** — news mention: #enhancedrockweathering #carbonremoval #cdr #mrv #climatetech #undocarbon #erw #soilscience #geochem ([source](https://www.linkedin.com/feed/update/urn:li:share:7479831417557000192/))
@@ -54,16 +64,6 @@ UNDO Carbon Ltd. is a UK-based CO2 removal company specializing in enhanced rock
 - **2026-05-21** — news mention: The supplier set is wider than people think. Lithos, UNDO, Terradot, InPlanet, and Alt Carbon do cro ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mme57ibapp2b))
 - **2026-05-21** — news mention: Foundation Opens Consultation On CCS EACs Methodology  The Cynthia and George Mitchell Foundation ha ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmdylqaijo2u))
 - **2026-05-15** — news mention: Enhanced rock weathering is being sold by the ton today while the science to verify those tons is st ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mlukhckpqx2u))
-- **2026-05-14** — news mention: #climatetech #carbonremoval #enhancedrockweathering #climatepolicy #naturetech #sustainablefinance # ([source](https://www.linkedin.com/feed/update/urn:li:share:7460282352494346241/))
-- **2026-05-09** — news mention: If Microsoft is quietly walking back its 2030 climate goals while signing record CDR offtakes, the o ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mlfpgrr25r2m))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-26** — news mention: Prof. Dong-Yeun Koh's team adapted the dry-electrode process used for EV batteries to make a sorbent ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkewfvw6rm27))
-- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://www.globenewswire.com/news-release/2025/11/17/3188971/0/en/Verde-AgriTech-Enters-Exclusive-Carbon-Credit-Partnership-with-UNDO.html))
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://un-do.com/))
-- **2026-04-18** — reclassified: pathway=Enhanced Weathering focus=supplier liveliness=🟢 Active ([source](https://un-do.com/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 
@@ -72,7 +72,6 @@ UNDO Carbon Ltd. is a UK-based CO2 removal company specializing in enhanced rock
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

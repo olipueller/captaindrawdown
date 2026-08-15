@@ -30,6 +30,8 @@ Sustaera is a North Carolina-based Direct Air Capture startup spun out of Susteo
 
 ## History
 
+- **2026-08-14** — news mention: Sustaera: When it comes to direct air capture (DAC), a lot may depend on a small but important detai ([source](https://www.linkedin.com/company/sustaera/#post-c610f18dd9f4))
+- **2026-07-31** — news mention: Sustaera: Today is a big day—not just for Sustaera, but for the entire DAC industry. We have achieve ([source](https://www.linkedin.com/company/sustaera/#post-a70c43c42e18))
 - **2026-05-22** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.manilatimes.net/2026/03/09/tmt-newswire/globenewswire/dac-breakthrough-unlocks-3x-cheaper-carbon-removal-projects/2296131))
 - **2026-05-18** — news mention: Sustaera’s 2026 DAC Future: An Alkaline Sorbent Analysis - EnkiAI ([source](https://enkiai.com/carbon-capture/sustaeras-2026-dac-future-an-alkaline-sorbent-analysis/))
 - **2026-05-01** — refresh: screenshot
@@ -49,7 +51,6 @@ Sustaera is a North Carolina-based Direct Air Capture startup spun out of Susteo
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

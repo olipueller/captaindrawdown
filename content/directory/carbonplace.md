@@ -30,6 +30,7 @@ Carbonplace is a London-based carbon credit transaction and management platform 
 
 ## History
 
+- **2026-07-29** — news mention: Carbonaires: Carbon Pulse covered a deal we're proud to have helped structure. Shoosmiths has signed ([source](https://www.linkedin.com/company/carbonaires/#post-12ae2dbd5497))
 - **2026-07-15** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-06-27** — news mention: Breakfast and Learn | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7476192017988116481/))
 - **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
@@ -48,7 +49,6 @@ Carbonplace is a London-based carbon credit transaction and management platform 
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

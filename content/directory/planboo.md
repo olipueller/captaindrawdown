@@ -40,6 +40,13 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-08-13** — news mention: Planboo: It’s here! Ithaka Institute 's peer-reviewed paper on Kon-Tiki kiln emissions is now publis ([source](https://www.linkedin.com/company/planboo/#post-b0bc7a72e5b6))
+- **2026-08-13** — news mention: Planboo: New Milestone alert! 🚀 We would like to take a moment to celebrate Wongphai - วงษ์ไผ่ 's 10 ([source](https://www.linkedin.com/company/planboo/#post-580ceafcbc76))
+- **2026-08-06** — news mention: Planboo: New Milestone alert! ð We would like to take a moment to celebrate Wongphai - à¸§à¸à¸©à ([source](https://www.linkedin.com/company/planboo/#post-d985bcf03b69))
+- **2026-08-06** — news mention: Planboo: What does it take to prove your premium in an emerging CDR category? Planboo is converting  ([source](https://www.linkedin.com/company/planboo/#post-78e99cad652e))
+- **2026-07-26** — news mention: Carbon Capital: Credit where credit’s due (literally). Farm Gai Kaisa 159 is now A-rated by Sylvera. ([source](https://www.linkedin.com/company/carboncapitalnamibia/#post-2b4ab7ef0dc5))
+- **2026-07-23** — news mention: Planboo: A first for the NARA Climate Community Biochar Project in Turkana, Kenya: its first batch o ([source](https://www.linkedin.com/company/planboo/#post-71bc077a91de))
+- **2026-07-23** — news mention: Planboo: Distributed biochar is the hardest kind to measure. That is exactly why we build for it. To ([source](https://www.linkedin.com/company/planboo/#post-a99817071edb))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://planboo.eco/))
 - **2026-04-19** — refresh: coresignal
@@ -54,7 +61,6 @@ Independently verified by carbon-credit registries:
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

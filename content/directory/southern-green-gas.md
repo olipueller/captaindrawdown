@@ -5,7 +5,7 @@ type: "directory"
 description: "Develops modular, solar-powered direct air capture units using metal-organic framework (MOF) sorbents for CO2 removal and e-fuel feedstock."
 url: "/directory/southern-green-gas/"
 pathway: "DAC"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://www.southerngreengas.com.au/" target="_blank" rel="noopener">https://www.southerngreengas.com.au/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/southern-green-gas/" target="_blank" rel="noopener">southern-green-gas — 891 followers</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~5 (-17% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,8 @@ Southern Green Gas (SGG) is an Australian company extracting CO2 from air using 
 
 ## History
 
+- **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://southerngreengas.com.au/news/southern-green-gas-secures-22m-order-to-develop-renewable-methane-demonstration-project))
+- **2026-08-01** — news mention: Southern Green Gas: After seven years of development, our team has successfully demonstrated our cor ([source](https://www.linkedin.com/company/southern-green-gas/#post-59d76eeb45a8))
 - **2026-06-15** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://southerngreengas.com.au/news/southern-green-gas-secures-22m-order-to-develop-renewable-methane-demonstration-project))
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://southerngreengas.com.au/news/southern-green-gas-secures-22m-order-to-develop-renewable-methane-demonstration-project))
 - **2026-05-01** — refresh: screenshot
@@ -50,7 +52,6 @@ Southern Green Gas (SGG) is an Australian company extracting CO2 from air using 
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

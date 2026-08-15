@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolysis of waste sugarcane bagasse into biochar, applied to smallholder farmers' soils for durable carbon storage."
 url: "/directory/carboneyes/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -13,8 +13,8 @@ liveliness: "🟡 Moderate"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.carboneyes.co/" target="_blank" rel="noopener">https://www.carboneyes.co/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carboneyesltd/" target="_blank" rel="noopener">carboneyesltd</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carboneyesltd/" target="_blank" rel="noopener">carboneyesltd — 67 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~2</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Isometric</td></tr>
@@ -38,6 +38,9 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-08-15** — refresh: coresignal, liveliness
+- **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://linkedin.com/posts/isometric-hq_meet-carboneyesa-new-isometric-supplier-activity-7428007228860772352-DNca))
+- **2026-07-27** — news mention: Carboneyes: Meet Carboneyes —a new Isometric supplier working to remove over 500,000 tonnes of carbo ([source](https://www.linkedin.com/company/carboneyesltd/#post-bc54706b80ec))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://linkedin.com/posts/isometric-hq_meet-carboneyesa-new-isometric-supplier-activity-7428007228860772352-DNca))
@@ -54,7 +57,6 @@ Independently verified by carbon-credit registries:
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

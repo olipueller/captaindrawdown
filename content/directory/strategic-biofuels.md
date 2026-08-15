@@ -30,6 +30,9 @@ Strategic Biofuels is a US project development company building a flagship BECCS
 
 ## History
 
+- **2026-07-31** — news mention: Strategic Biofuels: Strategic Biofuels has reached a major milestone in advancing Louisiana’s next c ([source](https://www.linkedin.com/company/strategic-biofuels/#post-017259d1e341))
+- **2026-07-30** — news mention: Integrating CCS with biomass and cogen - Modern Power Systems ([source](https://www.modernpowersystems.com/analysis/carbon-capture-storage/integrating-ccs-with-biomass-and-cogen/))
+- **2026-07-24** — news mention: Strategic Biofuels: A major milestone for Strategic Biofuels and the future of clean energy in Louis ([source](https://www.linkedin.com/company/strategic-biofuels/#post-f176e3e2d56e))
 - **2026-06-30** — news mention: Strategic Biofuels Secures Landmark Class VI Permit ([source](https://carbonherald.com/strategic-biofuels-secures-landmark-class-vi-permit/?utm_source=rss&utm_medium=rss&utm_campaign=strategic-biofuels-secures-landmark-class-vi-permit))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
@@ -46,7 +49,6 @@ Strategic Biofuels is a US project development company building a flagship BECCS
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

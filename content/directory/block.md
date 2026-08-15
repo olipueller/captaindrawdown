@@ -13,7 +13,7 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://block-pflanzenkohle.de/" target="_blank" rel="noopener">https://block-pflanzenkohle.de/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/block-pflanzenkohle/" target="_blank" rel="noopener">block-pflanzenkohle — 292 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/block-pflanzenkohle/" target="_blank" rel="noopener">block-pflanzenkohle — 315 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~1 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -29,6 +29,17 @@ BLOCK Bio Innovationen GmbH & Co. KG (BLOCK Pflanzenkohle) is a family-run bioch
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
+- **2026-08-13** — news mention: Development and evaluation of biochar formulated fertilizers for climate-smart sustainable crop prod ([source](https://doi.org/10.3389/fsoil.2026.1880824))
+- **2026-08-11** — news mention: Corpus Christi Seeks to Block Referendum on Industrial Water Charge ([source](https://insideclimatenews.org/news/11082026/corpus-christi-fair-water-amendment-industrial-charge/))
+- **2026-08-08** — news mention: Your support for the opposition to solar, wind, and new transmission lines by communities and indivi ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mslhl62ews23))
+- **2026-08-02** — news mention: BECCS power plants should be run as seasonal energy storage facilities on some solar-dominated elect ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3ms436swlrk2x))
+- **2026-07-31** — news mention: Why did the fossil fuel lie and bribe politicians to block climate action?  This is why ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mrx4rllvt22x))
+- **2026-07-26** — news mention: Comment on egusphere-2026-2760 ([source](https://doi.org/10.5194/egusphere-2026-2760-rc2))
+- **2026-07-26** — news mention: On the pH-dependent export of anthropogenic alkalinity in pore water through soil: Implications for  ([source](https://cdrxiv.org/preprint/489))
+- **2026-07-24** — news mention: Federal Judge Orders EPA to Administer Environmental Justice Grants ([source](https://insideclimatenews.org/news/24072026/epa-ordered-to-release-environmental-justice-funds/))
+- **2026-07-23** — news mention: To Block Renewable Energy Projects, Texas Republicans Have Weaponized Conservation Concerns ([source](https://insideclimatenews.org/news/23072026/texas-republicans-weaponize-conservation-to-block-clean-energy/))
+- **2026-07-19** — news mention: What Will It Take To End the Slaughter of Dolphins in the Faroe Islands? ([source](https://insideclimatenews.org/news/18072026/activists-fight-to-end-faroe-islands-dolphin-hunts/))
 - **2026-07-13** — news mention: Brussels adopts first EU carbon farming certification methodologies - H2 Bulletin ([source](https://h2bulletin.com/brussels-adopts-first-eu-carbon-farming-certification-methodologies/))
 - **2026-07-09** — news mention: The rest of the U.S. was on target to catch up to California where over 1 in 20 vehicles on the road ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mq7tubcaek2k))
 - **2026-07-02** — news mention: In Ohio, solar is no big threat to farmland ([source](https://www.canarymedia.com/articles/solar/ohio-land-use-farm-data-seia))
@@ -54,17 +65,6 @@ BLOCK Bio Innovationen GmbH & Co. KG (BLOCK Pflanzenkohle) is a family-run bioch
 - **2026-05-04** — news mention: I doubt that very many people are aware of how much methane is released from the continued use of co ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mkzkbvo4gt23))
 - **2026-05-01** — news mention: It would have reinforced a longstanding precedent and a potential outcome not the same as a legal pr ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mkqwrxxsec2p))
 - **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot, liveliness
-- **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://block.xyz/inside/clean-energy-portfolios))
-- **2026-04-27** — news mention: excellent point, as that is the important consideration  pyrolysis, if done under proper conditions  ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mkhwbvy5ht26))
-- **2026-04-27** — news mention: Climate scientists are raising the volume while CDR debates procurement plumbing.  @leonsimons point ([source](https://x.com/CaptainDrawdown/status/2048628779937853805))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://block-pflanzenkohle.de/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://block-pflanzenkohle.de/))
-- **2026-04-19** — refresh: coresignal, screenshot, liveliness
-- **2026-04-19** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://block.xyz/inside/clean-energy-portfolios))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://block-pflanzenkohle.de/))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟡 Moderate ([source](https://block-pflanzenkohle.de/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 
@@ -73,7 +73,6 @@ BLOCK Bio Innovationen GmbH & Co. KG (BLOCK Pflanzenkohle) is a family-run bioch
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

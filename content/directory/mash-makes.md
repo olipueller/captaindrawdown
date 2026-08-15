@@ -34,6 +34,7 @@ MASH Makes is an Indo-Danish cleantech company that operates India's first large
 
 ## History
 
+- **2026-07-29** — news mention: MASH Makes: Seven seasons. One biochar application. And the crops are STILL outperforming the contro ([source](https://www.linkedin.com/company/mash-energy/#post-d264f58c5c3f))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.mashmakes.com/))
@@ -49,7 +50,6 @@ MASH Makes is an Indo-Danish cleantech company that operates India's first large
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

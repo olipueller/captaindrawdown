@@ -31,6 +31,7 @@ Origen (Origen Power Limited) is a UK/US climate-technology company headquartere
 
 ## History
 
+- **2026-07-23** — news mention: Origen: We’re excited to share that Origen has been selected for Colorado’s Industrial Tax Credit Of ([source](https://www.linkedin.com/company/origen-power/#post-641ae7fdc269))
 - **2026-05-28** — news mention: Explainer: Direct Air Capture pulls CO2 out of ambient air at ~425 ppm, which is why it's energy-int ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmvh6b44x32b))
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.origencarbon.com/news/origen-series-a/))
 - **2026-05-01** — refresh: screenshot
@@ -51,7 +52,6 @@ Origen (Origen Power Limited) is a UK/US climate-technology company headquartere
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

@@ -5,7 +5,7 @@ type: "directory"
 description: "Used patented Accelerated Carbonation Technology (ACT) in a modular CO₂ntainer skid to capture flue-gas CO2 and mineralize it into industrial residues to make carbon-negative aggregates (CircaBuild)"
 url: "/directory/carbon8-systems-limited/"
 pathway: "Mineralization"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbon8.co.uk/" target="_blank" rel="noopener">https://www.carbon8.co.uk/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon8-systems-limited/" target="_blank" rel="noopener">carbon8-systems-limited — 5,706 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~12 (-59% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,9 @@ Carbon8 Systems was a UK-based CCUS/mineralization company spun out of the Unive
 
 ## History
 
+- **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-08-06** — news mention: Carbon8 Systems Limited: 🚀 Carbon8: Accelerating Decarbonisation in Cement We’re proud to share that ([source](https://www.linkedin.com/company/carbon8-systems-limited/#post-95388ee9d5ac))
+- **2026-07-23** — news mention: Carbon8 Systems Limited: ð Carbon8: Accelerating Decarbonisation in Cement Weâre proud to share ([source](https://www.linkedin.com/company/carbon8-systems-limited/#post-191b74c8456d))
 - **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
@@ -50,7 +53,6 @@ Carbon8 Systems was a UK-based CCUS/mineralization company spun out of the Unive
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

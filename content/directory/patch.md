@@ -34,6 +34,8 @@ Patch is a San Francisco-based carbon credit platform that combines software, da
 
 ## History
 
+- **2026-07-30** — news mention: Biggest battery east of the Mississippi will help power AI complex ([source](https://www.canarymedia.com/articles/batteries/eolian-build-pjm-biggest-battery-ai-ohio))
+- **2026-07-26** — news mention: Substantial inter-model variation in OAE efficiency between the CESM2/MARBL and ECCO-Darwin ocean bi ([source](https://doi.org/10.5194/bg-23-4943-2026))
 - **2026-07-10** — news mention: America’s first nuclear plant restart may be near the finish line ([source](https://www.canarymedia.com/articles/nuclear/americas-first-nuclear-plant-restart))
 - **2026-05-31** — news mention: A Georgia Wildlife Haven Forged by Fire and Peat Nears UNESCO Recognition ([source](https://insideclimatenews.org/news/31052026/georgia-okefenokee-swamp-nears-unesco-recognition/))
 - **2026-05-12** — news mention: Zero, one, two, three, five for today's #Wordle 1,788 5/6*  ⬜⬜⬜⬜⬜ 🟨⬜⬜⬜⬜ ⬜🟩🟩⬜⬜ 🟩🟩🟩⬜⬜ 🟩🟩🟩🟩🟩 ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mlnnyfkwdk2p))
@@ -52,7 +54,6 @@ Patch is a San Francisco-based carbon credit platform that combines software, da
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

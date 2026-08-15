@@ -5,7 +5,7 @@ type: "directory"
 description: "Carbon Yards stores woodchips from certified forests in engineered aboveground chambers with halite preservatives issuing Puro Standard CORCs; also provides technical consulting on"
 url: "/directory/ecological-carbon-offset-partners/"
 pathway: "Biomass Burial"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.epcarbon.com/" target="_blank" rel="noopener">https://www.epcarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ecopartners-carbon/" target="_blank" rel="noopener">ecopartners-carbon — 2,925 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~19</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,6 +31,8 @@ EP Carbon (Ecological Carbon Offset Partners LLC) is a US-based carbon project d
 
 ## History
 
+- **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-07-31** — news mention: Ecological Carbon Offset Partners: 📢 We are proud to announce our Carbon Yards project has successfu ([source](https://www.linkedin.com/company/ecopartners-carbon/#post-ceaf4288b2a8))
 - **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
@@ -51,7 +53,6 @@ EP Carbon (Ecological Carbon Offset Partners LLC) is a US-based carbon project d
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

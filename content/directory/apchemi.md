@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>Enabling Tech</td></tr>
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://www.apchemi.com/" target="_blank" rel="noopener">https://www.apchemi.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/apchemi/" target="_blank" rel="noopener">apchemi — 3,387 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Employees</th><td>~48 (+12% YoY)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/apchemi/" target="_blank" rel="noopener">apchemi — 3,480 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~22 (+13% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -30,6 +30,8 @@ APChemi is a Navi Mumbai-based pyrolysis technology company that designs and del
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
+- **2026-08-02** — news mention: Engrow: Announcing Cohort 2 of our 🇮🇳 India CDR Startup #Accelerator Program 🌟 We continued to be ov ([source](https://www.linkedin.com/company/engrow-group/#post-58e84bdaa764))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=side_business liveliness=🟢 Active ([source](https://www.apchemi.com/))
@@ -45,7 +47,6 @@ APChemi is a Navi Mumbai-based pyrolysis technology company that designs and del
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

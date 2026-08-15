@@ -5,7 +5,7 @@ type: "directory"
 description: "Aggregates biogenic CO2 captured at Danish biogas upgrading plants, ships it to offshore depleted oil/gas fields in the North Sea for permanent geological storage, and sells Puro.earth-certified"
 url: "/directory/biocarb-solution/"
 pathway: "BECCS"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,9 +14,9 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Secondary pathways</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Denmark</td></tr>
   <tr><th>Website</th><td><a href="https://biocarb.dk/" target="_blank" rel="noopener">https://biocarb.dk/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biocarb-solution/" target="_blank" rel="noopener">biocarb-solution — 477 followers</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
-  <tr><th>Employees</th><td>~5 (-17% YoY)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biocarb-solution/" target="_blank" rel="noopener">biocarb-solution — 513 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~6 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,10 @@ BioCarb Solution is a Danish BECCS aggregator that collects biogenic CO2 from Da
 
 ## History
 
+- **2026-08-15** — refresh: coresignal, liveliness
+- **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://biocarb.dk/))
+- **2026-08-09** — news mention: BioCarb Solution: Det er ingen hemmelighed at vi over det seneste halvandet år aktivt har søgt efter ([source](https://www.linkedin.com/company/biocarb-solution/#post-3da1dcf2548f))
+- **2026-07-26** — news mention: BioCarb Solution: New ownership – more possibilities and more capital to scale! We are excited to sh ([source](https://www.linkedin.com/company/biocarb-solution/#post-f36dd166517b))
 - **2026-06-15** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://biocarb.dk/))
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://biocarb.dk/))
 - **2026-05-01** — refresh: screenshot
@@ -50,7 +54,6 @@ BioCarb Solution is a Danish BECCS aggregator that collects biogenic CO2 from Da
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

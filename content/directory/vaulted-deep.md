@@ -44,6 +44,9 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-08-12** — news mention: CDR.fyi: 🚨 A slow July with ~22,000 tonnes contracted. 📉 Following a step down in June, July saw a s ([source](https://www.linkedin.com/company/cdr-fyi/#post-5b25ffb6f69d))
+- **2026-08-10** — news mention: Flux: Isometric has reached a major milestone—signing our 100th carbon removal supplier, Flux . Over ([source](https://www.linkedin.com/company/flux-earth/#post-a3091f3c0857))
+- **2026-08-04** — news mention: Varaha Climate AG: Google . PayPal . Airbnb . And now, Varaha has been named a 2026 Technology Pione ([source](https://www.linkedin.com/company/meta-carbontech/#post-ab2dc39d21c7))
 - **2026-06-30** — news mention: Based on data from May, the French people appear to not intend to stop purchasing ICE vehicles until ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mpizwtko6k2b))
 - **2026-05-12** — news mention: Case Study: Vaulted Deep - Isometric ([source](https://isometric.com/case-studies/vaulted-deep))
 - **2026-05-02** — news mention: Exomad Green and Supercritical taped a 10-min podcast announcing a 3-year, up-to-500k-tonne biochar  ([source](https://x.com/CaptainDrawdown/status/2050590646575006137))
@@ -63,7 +66,6 @@ Independently verified by carbon-credit registries:
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

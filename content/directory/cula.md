@@ -35,6 +35,9 @@ Cula Technologies is a digital MRV (Monitoring, Reporting and Verification) soft
 
 ## History
 
+- **2026-08-06** — news mention: Syncraft: Welcoming Bioenergie Ralph Grauel to the Cula platform! A founder-led operation in Mayen,  ([source](https://www.linkedin.com/company/syncraft/#post-db194c10dd15))
+- **2026-07-31** — news mention: Cula: First credits issued! Isometric has certified 2,821 carbon removal certificates for Biochar So ([source](https://www.linkedin.com/company/cula-technologies/#post-3fc5e9092baa))
+- **2026-07-27** — news mention: Tierra Prieta: Really appreciate the International Biochar Initiative for featuring Tierra Prieta !  ([source](https://www.linkedin.com/company/tierra-prieta/#post-2cd3168ea3d5))
 - **2026-06-24** — news mention: #climateweeknyc #carbonremoval #cdr #corcs #newyork #purocdrsummit | Puro.earth ([source](https://www.linkedin.com/feed/update/urn:li:share:7473721490056609793/))
 - **2026-05-12** — news mention: We&amp;#39;re happy to announce that Cula Technologies is a Carbon Removal Leader partner at the Neg ([source](https://www.linkedin.com/feed/update/urn:li:share:7457750344320684033/))
 - **2026-05-05** — news mention: Inkoh, Puro.earth, Cula, and First Climate Demonstrate Scalable Carbon Removal at Climate Week Zuric ([source](https://biochartoday.com/news/inkoh-puro-earth-cula-and-first-climate-demonstrate-scalable-carbon-removal-at-climate-week-zurich/))
@@ -53,7 +56,6 @@ Cula Technologies is a digital MRV (Monitoring, Reporting and Verification) soft
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

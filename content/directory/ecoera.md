@@ -13,7 +13,7 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Sweden</td></tr>
   <tr><th>Website</th><td><a href="https://ecoera.se/" target="_blank" rel="noopener">https://ecoera.se/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ecoera-ab/" target="_blank" rel="noopener">ecoera-ab</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ecoera-ab/" target="_blank" rel="noopener">ecoera-ab — 304 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
@@ -41,6 +41,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
 - **2026-06-24** — news mention: In 2009, ECOERA AB started one of Europe&amp;#39;s earliest industrial biochar projects.
 
 Their firs ([source](https://www.linkedin.com/feed/update/urn:li:share:7474748029082894336/))
@@ -67,7 +68,6 @@ Their firs ([source](https://www.linkedin.com/feed/update/urn:li:share:747474802
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

@@ -34,6 +34,8 @@ A Healthier Earth (AHE) is the UK climate-tech R&D subsidiary of Pure Data Centr
 
 ## History
 
+- **2026-08-02** — news mention: NoviqTech Subsidiary Coralia and A Healthier Earth Partner on Offtake Agreement and Research Pact fo ([source](https://biochartoday.com/news/noviqtech-subsidiary-coralia-and-a-healthier-earth-partner-on-offtake-agreement-and-research-pact-for-great-barrier-reef-project/))
+- **2026-07-24** — news mention: Mangrove Systems: We're excited to share that Mangrove Systems has partnered with A Healthier Earth  ([source](https://www.linkedin.com/company/gomangrove/#post-b39b306039c0))
 - **2026-07-08** — news mention: A Healthier Earth - Negative Emissions Platform | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7479892849916870656/))
 - **2026-07-06** — news mention: A Healthier Earth joins the Negative Emissions Platform ([source](https://www.negative-emissions.org/updates/a-healthier-earth-joins-the-negative-emissions-platform))
 - **2026-05-29** — news mention: A Healthier Earth Launches The World’s First Integrated CDR Platform From The Data Center Sector ([source](https://carbonherald.com/a-healthier-earth-launches-the-worlds-first-integrated-cdr-platform-from-the-data-center-sector/?utm_source=rss&utm_medium=rss&utm_campaign=a-healthier-earth-launches-the-worlds-first-integrated-cdr-platform-from-the-data-center-sector))
@@ -58,7 +60,6 @@ A Healthier Earth (AHE) is the UK climate-tech R&D subsidiary of Pure Data Centr
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

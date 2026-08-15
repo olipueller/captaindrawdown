@@ -5,7 +5,7 @@ type: "directory"
 description: "Supplies amine-scrubbing post-combustion carbon capture as EPC contractor for waste-to-energy plants, capturing mixed biogenic/fossil CO2 from flue gas for permanent geological storage (e.g. via"
 url: "/directory/kanadevia/"
 pathway: "BECCS"
-liveliness: "🟢 Active"
+liveliness: "🟡 Moderate"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Japan</td></tr>
   <tr><th>Website</th><td><a href="https://www.kanadevia.com/english/" target="_blank" rel="noopener">https://www.kanadevia.com/english/</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -29,6 +29,7 @@ Kanadevia Corporation (formerly Hitachi Zosen, rebranded October 2024) is a larg
 
 ## History
 
+- **2026-08-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-01** — refresh: screenshot
 - **2026-04-23** — news mention: April CDR Industry Database Update.  We track ~970 organisations doing carbon removal. But only 570  ([source](https://x.com/CaptainDrawdown/status/2047201161388687652))
 - **2026-04-19** — reclassified: pathway=BECCS focus=side_business liveliness=🟢 Active ([source](https://kanadevia-inova.com/discover/news/encyclis-green-lights-kanadevia-inova-to-build-uks-first-full-scale-carbon-capture-facility-at-protos))
@@ -50,7 +51,6 @@ Kanadevia Corporation (formerly Hitachi Zosen, rebranded October 2024) is a larg
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

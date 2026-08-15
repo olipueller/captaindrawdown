@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Netherlands</td></tr>
   <tr><th>Website</th><td><a href="https://climatecleanup.org" target="_blank" rel="noopener">https://climatecleanup.org</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/climatecleanup/" target="_blank" rel="noopener">climatecleanup — 5,993 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~20 (+18% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -31,6 +31,7 @@ Climate Cleanup Foundation is an Amsterdam-based non-profit (founded 2018) that 
 
 ## History
 
+- **2026-07-23** — news mention: Climate Cleanup Foundation: New scientific report just dropped: State of Carbon Dioxide Removal (3rd ([source](https://www.linkedin.com/company/climatecleanup/#post-713baa6a40f0))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://climatecleanup.org/))
@@ -44,7 +45,6 @@ Climate Cleanup Foundation is an Amsterdam-based non-profit (founded 2018) that 
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

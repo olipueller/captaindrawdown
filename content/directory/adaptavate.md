@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://adaptavate.com/" target="_blank" rel="noopener">https://adaptavate.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/adaptavate-limited/" target="_blank" rel="noopener">adaptavate-limited — 2,804 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~23 (+5% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,6 +31,7 @@ Bristol, UK-based construction materials company developing Breathaboard, a carb
 
 ## History
 
+- **2026-07-24** — news mention: Adaptavate: What does it take to bring material innovation into mainstream use? Performance validati ([source](https://www.linkedin.com/company/adaptavate-limited/#post-fe36166c6f2a))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://adaptavate.com/news/adaptavate-secures-2-7-million-in-a-pre-series-a-round-to-accelerate-global-scale-up-of-low-carbon-construction-technology))
 - **2026-04-19** — refresh: coresignal, screenshot
@@ -46,7 +47,6 @@ Bristol, UK-based construction materials company developing Breathaboard, a carb
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

@@ -13,7 +13,7 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Australia</td></tr>
   <tr><th>Website</th><td><a href="https://www.biocareprojects.com/" target="_blank" rel="noopener">https://www.biocareprojects.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biocare-projects/" target="_blank" rel="noopener">biocare-projects — 1,069 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biocare-projects/" target="_blank" rel="noopener">biocare-projects — 1,087 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~13 (-13% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
@@ -42,6 +42,10 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
+- **2026-07-25** — news mention: Biocare: At Biocare , we are proud to be working on Project Carbonchip: a pioneering initiative in Q ([source](https://www.linkedin.com/company/biocare-projects/#post-234842437edf))
+- **2026-07-25** — news mention: Biocare: I’m proud to share our new publication, Quantifying Inertinite Carbon in Biochar, co-author ([source](https://www.linkedin.com/company/biocare-projects/#post-27ff7aa000b7))
+- **2026-07-25** — news mention: Biocare: 🌱 Advancing Climate Solutions in Argentina Biocare Projects, in partnership with  GMF Natur ([source](https://www.linkedin.com/company/biocare-projects/#post-214ddba4f507))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.biocareprojects.com/))
@@ -57,7 +61,6 @@ Independently verified by carbon-credit registries:
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

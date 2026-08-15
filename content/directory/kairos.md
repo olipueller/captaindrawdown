@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://www.kairoscarbon.com/" target="_blank" rel="noopener">https://www.kairoscarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/kairos-carbon/" target="_blank" rel="noopener">kairos-carbon — 799 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~6 (+50% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,6 +31,9 @@ Kairos Carbon, founded in 2024 and headquartered in Ingatestone, United Kingdom,
 
 ## History
 
+- **2026-08-08** — news mention: Kairos: Check out our lead process engineer Dr. Robbie Sait-Stewart 's latest research on biomass va ([source](https://www.linkedin.com/company/kairos-carbon/#post-96f0e8fd0a20))
+- **2026-07-25** — news mention: Kairos Carbon: We are very proud to announce Milkywire has completed Salesforce -backed pre-purchase ([source](https://www.linkedin.com/company/kairos-carbon/#post-474172222e8f))
+- **2026-07-25** — news mention: Kairos Carbon: Happy to announce that I've published more research from my PhD which is available wi ([source](https://www.linkedin.com/company/kairos-carbon/#post-f4f5824ddc1f))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=BECCS focus=supplier liveliness=🟢 Active ([source](https://www.kairoscarbon.com/))
 - **2026-04-19** — merged 1 duplicate(s): Kairos Carbon
@@ -51,7 +54,6 @@ Kairos Carbon, founded in 2024 and headquartered in Ingatestone, United Kingdom,
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

@@ -35,6 +35,11 @@ Perennial (formerly Cloud Agronomics) is a Boulder, Colorado-based MRV company f
 
 ## History
 
+- **2026-08-13** — news mention: Google Opens 2026 Climate R&D Awards for Carbon Removal - ESG News ([source](https://esgnews.com/google-opens-2026-climate-rd-awards-for-carbon-removal/))
+- **2026-07-22** — news mention: Perennial: Our science team just published its third peer-reviewed study on digital soil mapping — p ([source](https://www.linkedin.com/company/perennial-earth/#post-f2d765f7c634))
+- **2026-07-22** — news mention: Perennial: Thanks to Carbon Herald for covering our team's third peer-reviewed study on digital soil ([source](https://www.linkedin.com/company/perennial-earth/#post-da61de2ab44d))
+- **2026-07-22** — news mention: Perennial: Applying compost to degraded rangelands can rebuild soil health, increase water infiltrat ([source](https://www.linkedin.com/company/perennial-earth/#post-676407c2520f))
+- **2026-07-19** — news mention: Carbon farming strategies for mediterranean agriculture: the role of biochar in climate-smart agroec ([source](https://doi.org/10.1007/s44297-026-00081-8))
 - **2026-07-09** — news mention: Perennial’s New Peer-Reviewed Study Supports Digital Soil Mapping As Reliable MMRV For Soil Carbon ([source](https://carbonherald.com/perennials-new-peer-reviewed-study-supports-digital-soil-mapping-as-reliable-mmrv-for-soil-carbon/?utm_source=rss&utm_medium=rss&utm_campaign=perennials-new-peer-reviewed-study-supports-digital-soil-mapping-as-reliable-mmrv-for-soil-carbon))
 - **2026-05-19** — news mention: Stress-testing our own ERW data - forwards, backwards, upside down. Now you can do it too!
 
@@ -54,7 +59,6 @@ In Enhan ([source](https://www.linkedin.com/feed/update/urn:li:share:74621632557
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

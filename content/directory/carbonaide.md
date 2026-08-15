@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Mineralization (Other)</td></tr>
   <tr><th>Country</th><td>Finland</td></tr>
   <tr><th>Website</th><td><a href="https://carbonaide.com/" target="_blank" rel="noopener">https://carbonaide.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonaide/" target="_blank" rel="noopener">carbonaide — 5,086 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbonaide/" target="_blank" rel="noopener">carbonaide — 5,504 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~13 (+62% YoY)</td></tr>
+  <tr><th>Employees</th><td>~12 (+33% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -34,6 +34,8 @@ Carbonaide is a Finnish VTT spin-out (founded 2022) that has developed an ex-sit
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
+- **2026-07-26** — news mention: Carbonway: [𝘾𝙤𝙢𝙢𝙪𝙣𝙞𝙦𝙪𝙚́ 𝙙𝙚 𝙥𝙧𝙚𝙨𝙨𝙚 𝙁𝙍] - 𝘾𝙖𝙧𝙗𝙤𝙣𝙖𝙞𝙙𝙚 𝙚𝙩 𝘾𝙖𝙧𝙗𝙤𝙣𝙬𝙖𝙮 𝙤𝙣𝙩 𝙘𝙤𝙣𝙘𝙡𝙪 𝙪𝙣 𝙥𝙖𝙧𝙩𝙚𝙣𝙖𝙧𝙞𝙖𝙩 𝙥𝙤𝙪𝙧 𝙙𝙚́𝙥𝙡 ([source](https://www.linkedin.com/company/carbonwayorg/#post-588f6dc5efd3))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Mineralization focus=supplier liveliness=🟢 Active ([source](https://carbonaide.com/news-en/finnish-concrete-producer-lakka-adopts-carbonaides-technology/))
@@ -49,7 +51,6 @@ Carbonaide is a Finnish VTT spin-out (founded 2022) that has developed an ex-sit
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

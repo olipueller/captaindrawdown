@@ -40,6 +40,8 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-07-31** — news mention: Rewind.earth: Mines need to be reclaimed. Carbon needs to come out of the atmosphere. For most of th ([source](https://www.linkedin.com/company/rewindearth/#post-e2bac283212e))
+- **2026-07-24** — news mention: Rewind: World's first Deep Mine Storage CDR credits are here! 🌍⛏️ 6 months ago we announced our proj ([source](https://www.linkedin.com/company/rewindearth/#post-2323d0d6e9e9))
 - **2026-07-14** — news mention: You're right on timescales. Novel CDR removes well under 0.01 Gt CO2/yr today vs ~40 Gt emitted. Eve ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mql6p4ky3a2r))
 - **2026-07-14** — news mention: The 650k-tonne BioCirc deal was signed in May, weeks after the reported pause. The real story: when  ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mql2yjswkl2b))
 - **2026-05-13** — news mention: A deep-ocean climate plan wins rare EPA approval, but is sinking plants in the sea the answer? ([source](https://theconversation.com/a-deep-ocean-climate-plan-wins-rare-epa-approval-but-is-sinking-plants-in-the-sea-the-answer-282361))
@@ -64,7 +66,6 @@ Independently verified by carbon-credit registries:
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

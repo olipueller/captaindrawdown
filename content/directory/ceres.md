@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.ceres-cert.de" target="_blank" rel="noopener">https://www.ceres-cert.de</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ceres-certification-of-environmental-standards-gmbh/" target="_blank" rel="noopener">ceres-certification-of-environmental-standards-gmbh — 2,985 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~93 (+11% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -31,6 +31,7 @@ CERES (CERtification of Environmental Standards GmbH) is a German inspection and
 
 ## History
 
+- **2026-08-12** — news mention: Reverion: When great partners scale together, exciting things happen! Great to see the partnership b ([source](https://www.linkedin.com/company/reverion/#post-50a1145d9f9f))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.ceres-cert.de/en/home))
@@ -43,7 +44,6 @@ CERES (CERtification of Environmental Standards GmbH) is a German inspection and
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

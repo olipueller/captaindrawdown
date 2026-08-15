@@ -5,7 +5,7 @@ type: "directory"
 description: "Vacuum pyrolysis of almond shells and other nutshell/orchard biomass produces biochar for soil amendment plus bio-oil that is sent to Charm Industrial for deep underground injection."
 url: "/directory/corigin/"
 pathway: "Biochar"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,9 +14,9 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Secondary pathways</th><td>Biomass Burial</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.corigin.co/" target="_blank" rel="noopener">https://www.corigin.co/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/corigin-solutions/" target="_blank" rel="noopener">corigin-solutions — 346 followers</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
-  <tr><th>Employees</th><td>~5 (-17% YoY)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/corigin-solutions/" target="_blank" rel="noopener">corigin-solutions — 352 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Employees</th><td>~30 (-17% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Isometric</td></tr>
 </table>
@@ -39,6 +39,8 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-08-15** — refresh: coresignal, liveliness
+- **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.corigin.co/wp-content/uploads/2023/01/Corichar-Biochar-Label-OMRI-CDFA-012323.pdf))
 - **2026-06-15** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.corigin.co/wp-content/uploads/2023/01/Corichar-Biochar-Label-OMRI-CDFA-012323.pdf))
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.corigin.co/wp-content/uploads/2023/01/Corichar-Biochar-Label-OMRI-CDFA-012323.pdf))
 - **2026-05-01** — refresh: screenshot
@@ -67,7 +69,6 @@ Independently verified by carbon-credit registries:
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

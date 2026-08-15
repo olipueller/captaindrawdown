@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://www.growindigo.co.in/" target="_blank" rel="noopener">https://www.growindigo.co.in/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/grow-indigo-pvt-ltd/" target="_blank" rel="noopener">grow-indigo-pvt-ltd — 20,598 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~368 (+16% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,6 +31,8 @@ Grow Indigo is a Mumbai-based joint venture of Mahyco and Indigo Ag, founded in 
 
 ## History
 
+- **2026-08-12** — news mention: Grow Indigo: Grow Indigo Punjab Wheat Program Achieves FSA Gold and Silver Performance Levels We are ([source](https://www.linkedin.com/company/grow-indigo-pvt-ltd/#post-5add2ed71a3d))
+- **2026-07-22** — news mention: Grow Indigo: Emergent Ventures India (EVI) has purchased and retired carbon credits on behalf of the ([source](https://www.linkedin.com/company/grow-indigo-pvt-ltd/#post-1e553fb1fad9))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Afforestation focus=supplier liveliness=🟢 Active ([source](https://www.growindigo.co.in/indian-farmers-unlock-a-new-harvest-as-grow-indigos-first-high-integrity-soil-carbon-credits-reach-issuance/))
 - **2026-04-19** — refresh: coresignal, screenshot
@@ -44,7 +46,6 @@ Grow Indigo is a Mumbai-based joint venture of Mahyco and Indigo Ag, founded in 
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

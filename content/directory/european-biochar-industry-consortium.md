@@ -5,7 +5,7 @@ type: "directory"
 description: "Industry trade association/consortium for the European biochar sector — advocacy, market reports, standards alignment; does not produce biochar itself."
 url: "/directory/european-biochar-industry-consortium/"
 pathway: "Biochar"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.biochareurope.eu/" target="_blank" rel="noopener">https://www.biochareurope.eu/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ebi-consortium/" target="_blank" rel="noopener">ebi-consortium — 8,643 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~125 (-11% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -31,6 +31,9 @@ The European Biochar Industry Consortium (EBI), now operating as Biochar Europe,
 
 ## History
 
+- **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-08-05** — news mention: Novocarbo: A year ago, we shared insights from our first collaborations testing biochar in asphalt.  ([source](https://www.linkedin.com/company/carbo3-gmbh/#post-761801bb416b))
+- **2026-07-23** — news mention: German Biochar Association: 📚 Publikation zur Rolle von Pflanzenkohle im Bauwesen Mit dem Whitepaper ([source](https://www.linkedin.com/company/fachverband-pflanzenkohle-e-v/#post-907f8cfd39b4))
 - **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
@@ -47,7 +50,6 @@ The European Biochar Industry Consortium (EBI), now operating as Biochar Europe,
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

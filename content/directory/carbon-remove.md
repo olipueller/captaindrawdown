@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Brazil</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbonremove.com.br/en" target="_blank" rel="noopener">https://www.carbonremove.com.br/en</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-remove-biochar-solutions/" target="_blank" rel="noopener">carbon-remove-biochar-solutions — 473 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-remove-biochar-solutions/" target="_blank" rel="noopener">carbon-remove-biochar-solutions — 534 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~125</td></tr>
+  <tr><th>Employees</th><td>~125 (-25% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,6 +29,7 @@ Carbon Remove is a small Brazilian biochar startup founded in 2022 and based at 
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
 - **2026-05-22** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.carbonremove.com.br/post/biochar-a-transformative-tool-for-reforestation-and-sustainable-soil-management))
 - **2026-05-21** — news mention: In a series we present you our members and their solutions for carbon dioxide removal (CDR). This ti ([source](https://www.linkedin.com/feed/update/urn:li:share:7462449426238885889/))
 - **2026-05-01** — refresh: screenshot
@@ -49,7 +50,6 @@ Carbon Remove is a small Brazilian biochar startup founded in 2022 and based at 
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

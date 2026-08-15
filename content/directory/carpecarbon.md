@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Other/Undisclosed)</td></tr>
   <tr><th>Country</th><td>Italy</td></tr>
   <tr><th>Website</th><td><a href="https://www.carpecarbon.com/" target="_blank" rel="noopener">https://www.carpecarbon.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carpecarbon/" target="_blank" rel="noopener">carpecarbon — 3,267 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Employees</th><td>~16 (+23% YoY)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carpecarbon/" target="_blank" rel="noopener">carpecarbon — 3,544 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~16 (+33% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,8 @@ CarpeCarbon is a Turin-based Italian climate-tech startup founded in 2022, posit
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
+- **2026-07-24** — news mention: CarpeCarbon: 🚨 The EU just turned Direct Air Capture from a bet into a business case.   The European ([source](https://www.linkedin.com/company/carpecarbon/#post-665e97a1cfcd))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://carpecarbon.com/news-events/different-acronyms-for-different-technologies-it-is-not-easy-to-find-your-way-around-the-world-of-carbon-capture/))
@@ -47,7 +49,6 @@ CarpeCarbon is a Turin-based Italian climate-tech startup founded in 2022, posit
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

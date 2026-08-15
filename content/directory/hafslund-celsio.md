@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>Norway</td></tr>
   <tr><th>Website</th><td><a href="https://www.hafslund.no/en/produkter-og-tjenester/oslo-ccs" target="_blank" rel="noopener">https://www.hafslund.no/en/produkter-og-tjenester/oslo-ccs</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/hafslundeco/" target="_blank" rel="noopener">hafslundeco — 13,382 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/hafslund/" target="_blank" rel="noopener">hafslund — 13,910 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~952 (+23% YoY)</td></tr>
+  <tr><th>Employees</th><td>~965</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -29,6 +29,8 @@ Hafslund Celsio is Norway's largest district heating and waste-to-energy company
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
+- **2026-07-29** — news mention: Northern Lights: Today, Northern Lights is permanently storing CO₂ captured by Heidelberg Materials  ([source](https://www.linkedin.com/company/northern-lights-jv/#post-41d9cb53a855))
 - **2026-05-28** — news mention: Jannicke Gerner Bjerkas, Negative Emissions Summit 2026 | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7465299930388234240/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
@@ -45,7 +47,6 @@ Hafslund Celsio is Norway's largest district heating and waste-to-energy company
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

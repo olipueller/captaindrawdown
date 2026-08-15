@@ -5,7 +5,7 @@ type: "directory"
 description: "Develops improved forest management (IFM) carbon projects in European forests using aerial imagery and AI to create forest digital twins and run MRV for carbon credits."
 url: "/directory/ocell/"
 pathway: "Afforestation"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -16,7 +16,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.ocell.io/" target="_blank" rel="noopener">https://www.ocell.io/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ocell-aero/" target="_blank" rel="noopener">ocell-aero — 7,569 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~50 (-18% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,6 +31,8 @@ OCELL is a Munich-based climate-tech startup that develops IFM carbon projects a
 
 ## History
 
+- **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-07-22** — news mention: Ocell: 🚀 Meilenstein für OCELL und die digitale Forstwirtschaft: Wir sind offiziell nach ISO/IEC 270 ([source](https://www.linkedin.com/company/ocell-aero/#post-df0d72c4d683))
 - **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
@@ -51,7 +53,6 @@ OCELL is a Munich-based climate-tech startup that develops IFM carbon projects a
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

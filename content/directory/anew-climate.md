@@ -15,7 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>BiCRS (Other)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.anewclimate.com/" target="_blank" rel="noopener">https://www.anewclimate.com/</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/anewclimate/" target="_blank" rel="noopener">anewclimate — 25,002 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~231 (+1% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -29,6 +31,8 @@ Anew Climate is a Houston-based carbon project developer and credit marketer, ma
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
+- **2026-07-23** — news mention: Aurora Sustainable Lands: Aurora is excited to announce that our Gotham Woods Forestry Project has b ([source](https://www.linkedin.com/company/aurora-sustainable-lands/#post-b98ef03e3b69))
 - **2026-05-22** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.rngcoalition.com/news/2024/5/10/anew-climate-summit-carbon-solutions-advance-megaton-co2-removal-project))
 - **2026-05-22** — news mention: EFM, Anew Climate And Mast Reforestation Issue  Verified Credits From Henry Creek Project ([source](https://carbonherald.com/efm-anew-climate-and-mast-reforestation-issue-verified-credits-from-henry-creek-project/?utm_source=rss&utm_medium=rss&utm_campaign=efm-anew-climate-and-mast-reforestation-issue-verified-credits-from-henry-creek-project))
 - **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.rngcoalition.com/news/2024/5/10/anew-climate-summit-carbon-solutions-advance-megaton-co2-removal-project))
@@ -50,7 +54,6 @@ Anew Climate is a Houston-based carbon project developer and credit marketer, ma
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

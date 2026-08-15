@@ -35,6 +35,9 @@ Limenet is an Italian climate tech company operating an ocean alkalinity enhance
 
 ## History
 
+- **2026-08-06** — news mention: Limenet: 🔩 Limenet takes another step towards full technology validation.   We have started the cons ([source](https://www.linkedin.com/company/limenet-tech/#post-a86e5d09c8a2))
+- **2026-07-30** — news mention: Limenet: How #sustainable are CO2 removal solutions when evaluated across their entire life cycle? W ([source](https://www.linkedin.com/company/limenet-tech/#post-852e0143900b))
+- **2026-07-23** — news mention: Limenet: Discover more about Limenet’s #calciner and why Fassa Bortolo decided to partner with us.   ([source](https://www.linkedin.com/company/limenet-tech/#post-66d9cf28f433))
 - **2026-07-02** — news mention: Frontier Climate - Wikipedia ([source](https://en.wikipedia.org/wiki/Frontier_Climate))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
@@ -51,7 +54,6 @@ Limenet is an Italian climate tech company operating an ocean alkalinity enhance
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

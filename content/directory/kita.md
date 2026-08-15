@@ -34,6 +34,15 @@ Kita is a UK-based Lloyd's of London coverholder and carbon insurance specialist
 
 ## History
 
+- **2026-08-12** — news mention: Kita: For most of the voluntary carbon market's history, buyers faced a quiet problem: two credits c ([source](https://www.linkedin.com/company/kitaearth/#post-4f1cf04be667))
+- **2026-08-06** — news mention: Tokio Marine Backs Kita To Scale Carbon Market Insurance ([source](https://carbonherald.com/tokio-marine-backs-kita-to-scale-carbon-market-insurance/?utm_source=rss&utm_medium=rss&utm_campaign=tokio-marine-backs-kita-to-scale-carbon-market-insurance))
+- **2026-08-06** — news mention: International Carbon Registry (ICR): For most of the voluntary carbon market's history, buyers faced ([source](https://www.linkedin.com/company/international-carbon-registry/#post-4f1cf04be667))
+- **2026-08-05** — news mention: Kita.Earth: Kita is proud to have supported the AfricaGoGreen Fund with a collaborative carbon insur ([source](https://www.linkedin.com/company/kitaearth/#post-86a158667ccb))
+- **2026-08-05** — news mention: Kita: We are proud to provide the insurance-grade risk assessment for projects on International Carb ([source](https://www.linkedin.com/company/kitaearth/#post-6428452dbf67))
+- **2026-08-05** — news mention: Kita: We are pleased to formally announce a strategic investment from the Tokio Marine Group *, sign ([source](https://www.linkedin.com/company/kitaearth/#post-80db5c79adee))
+- **2026-08-03** — news mention: Tierra Prieta: ðð Latin America Gets A New Carbon Removal Investment Roadmap Carbon Business C ([source](https://www.linkedin.com/company/tierra-prieta/#post-49a6e25d0f32))
+- **2026-07-27** — news mention: Tierra Prieta: 🌎📘 Latin America Gets A New Carbon Removal Investment Roadmap Carbon Business Council ([source](https://www.linkedin.com/company/tierra-prieta/#post-c00fd4911a62))
+- **2026-07-22** — news mention: Kita: Kita is proud to have supported the AfricaGoGreen Fund with a collaborative carbon insurance s ([source](https://www.linkedin.com/company/kitaearth/#post-09a66e7d3235))
 - **2026-05-20** — news mention: Three biochar papers this week expose a pyrolysis-temperature fork the CDR credit market is ignoring ([source](https://x.com/CaptainDrawdown/status/2056964483990380953))
 - **2026-05-19** — news mention: Podcast: Natalia Dorfman (Kita CEO) on The CDR Policy Scoop with Eve Tamme and Sebastian Manhart, wa ([source](https://x.com/CaptainDrawdown/status/2056647673046814755))
 - **2026-05-19** — news mention: Post 1: 569 pure-play CDR companies, ~9,500 people total. This chart plots every one as a dot: found ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mm6tcfptlw27))
@@ -61,7 +70,6 @@ Kita is a UK-based Lloyd's of London coverholder and carbon insurance specialist
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

@@ -29,6 +29,18 @@ The Negative Emissions Platform (NEP) is a Brussels-based non-profit membership 
 
 ## History
 
+- **2026-08-14** — news mention: What will shape Europe&amp;#39;s carbon removal market? | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7493671284963328000/))
+- **2026-08-13** — news mention: Negative Emissions Platform: 📣 It’s official: carbon removal is returning to the Blue Zone at COP. T ([source](https://www.linkedin.com/company/negative-emissions-platform/#post-fee5837e7e65))
+- **2026-08-13** — news mention: Europe’s carbon removal market is being shaped by new policy signals, buyer initiatives and corporat ([source](https://www.linkedin.com/feed/update/urn:li:share:7492878553517076481/))
+- **2026-08-12** — news mention: Emicap joins Negative Emissions Platform ([source](https://www.negative-emissions.org/updates/emicap-joins-negative-emissions-platform))
+- **2026-07-30** — news mention: Negative Emissions Platform: ðCDR Momentum, Edition 2 This month brought important milestones acr ([source](https://www.linkedin.com/company/negative-emissions-platform/#post-76f853a73091))
+- **2026-07-30** — news mention: CDR Momentum Series, Edition II | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7488154993414291456/))
+- **2026-07-29** — news mention: Carbon removals in the ETS, 17 July | Terradot ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7487910136896946176/))
+- **2026-07-23** — news mention: #etsneedsremovals | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:share:7485698136376799232/))
+- **2026-07-22** — news mention: Negative Emissions Platform: ‼️ Just a few moments ago, the European Commission took a major step to ([source](https://www.linkedin.com/company/negative-emissions-platform/#post-266cf5372549))
+- **2026-07-21** — news mention: InPlanet joins the Negative Emissions Platform ([source](https://www.negative-emissions.org/updates/inplanet-joins-the-negative-emissions-platform))
+- **2026-07-21** — news mention: The EU ETS will not be the only demand signal for carbon removals. But it is one of the most importa ([source](https://www.linkedin.com/feed/update/urn:li:share:7484968306538557440/))
+- **2026-07-18** — news mention: Carbon removals in the ETS, 17 July | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7483831188512579584/))
 - **2026-07-13** — news mention: As the European Commission prepares its proposal to reform the EU ETS, the role of permanent carbon  ([source](https://www.linkedin.com/feed/update/urn:li:share:7482359327782129664/))
 - **2026-07-09** — news mention: The European Commission’s consultation on national climate targets after 2030 points ➡️ in the same  ([source](https://www.linkedin.com/feed/update/urn:li:share:7480951668453593089/))
 - **2026-07-08** — news mention: A Healthier Earth - Negative Emissions Platform | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7479892849916870656/))
@@ -50,22 +62,6 @@ We&amp;#39;re looking for p ([source](https://www.linkedin.com/feed/update/urn:l
 - **2026-05-29** — news mention: Tibor Siering, German Energy Agency (dena) | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7466035796622434305/))
 - **2026-05-29** — news mention: Planeteers: Meet us at the @[Negative Emissions Platform](urn:li:organization:69387564) Summit in Br ([source](https://www.linkedin.com/feed/update/urn:li:share:7465662435300003841/))
 - **2026-05-28** — news mention: Jannicke Gerner Bjerkas, Negative Emissions Summit 2026 | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7465299930388234240/))
-- **2026-05-22** — news mention: MEP Niels Flemming Hansen, Negative Emissions Summit | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7463231679315394560/))
-- **2026-05-22** — news mention: David Frank, Microsoft, Negative Emissions Summit 2026 | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7463159082334478336/))
-- **2026-05-20** — news mention: Earlier today, Carbon Gap contributed input to a closed-door roundtable in Brussels on carbon remova ([source](https://www.linkedin.com/feed/update/urn:li:share:7462505613923651584/))
-- **2026-05-18** — news mention: The Negative Emissions Summit 2026 is back. And bigger than ever.
-
-Now in its fourth year, it&amp;#3 ([source](https://www.linkedin.com/feed/update/urn:li:share:7461010922401095680/))
-- **2026-05-15** — news mention: The European Lime Association joins the Negative Emissions Platform ([source](https://www.negative-emissions.org/updates/the-european-lime-association-joins-the-negative-emissions-platform))
-- **2026-05-15** — news mention: Rasha Abdrabu, UNIDO, Negative Emissions Summir 2026 | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7460978054161489920/))
-- **2026-05-14** — news mention: 🗓️ Next week in Brussels. Join us for an evening of connections.
-
-On 20 May, the European Commission ([source](https://www.linkedin.com/feed/update/urn:li:share:7460291817306005504/))
-- **2026-05-13** — news mention: The Negative Emissions Summit 2026 is just weeks away and our 4th edition is shaping up to be our bi ([source](https://www.linkedin.com/feed/update/urn:li:share:7459642942765383680/))
-- **2026-05-12** — news mention: We&amp;#39;re happy to announce that Cula Technologies is a Carbon Removal Leader partner at the Neg ([source](https://www.linkedin.com/feed/update/urn:li:share:7457750344320684033/))
-- **2026-05-12** — news mention: Credible carbon removal markets require credible policy frameworks. Few know this better than Puro.e ([source](https://www.linkedin.com/feed/update/urn:li:share:7458114573884170241/))
-- **2026-05-12** — news mention: #etsneedsremovals | Negative Emissions Platform ([source](https://www.linkedin.com/feed/update/urn:li:share:7458526324568141824/))
-- **2026-05-10** — news mention: Danube Carbon Storage joins the Negative Emissions Platform  Danube Carbon Storage has joined the Ne ([source](https://x.com/CaptainDrawdown/status/2053398220026380327))
 
 ---
 
@@ -74,7 +70,6 @@ On 20 May, the European Commission ([source](https://www.linkedin.com/feed/updat
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

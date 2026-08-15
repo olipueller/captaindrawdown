@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Unknown</td></tr>
   <tr><th>Country</th><td>Austria</td></tr>
   <tr><th>Website</th><td><a href="https://sequestra.tech/" target="_blank" rel="noopener">https://sequestra.tech/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sequestra-tech/" target="_blank" rel="noopener">sequestra-tech</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Employees</th><td>~14 (+56% YoY)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/sequestra-tech/" target="_blank" rel="noopener">sequestra-tech — 1,725 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~14 (+40% YoY)</td></tr>
   <tr><th>CDI Portfolio</th><td>yes</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -31,6 +31,9 @@ Sequestra is a Vienna-based climate tech startup founded in 2024 that develops a
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
+- **2026-07-28** — news mention: Sequestra: Funding news! 📈 We are thrilled to announce that sequestra has been awarded a substantial ([source](https://www.linkedin.com/company/sequestra-tech/#post-e71408a87776))
+- **2026-07-26** — news mention: Enhanced weathering of lizardite-rich sand in seawater: effects of pH and CO₂ pressure on carbonate  ([source](https://doi.org/10.1007/s11356-026-38071-6))
 - **2026-07-15** — refresh: coresignal
 - **2026-07-15** — refresh: coresignal
 - **2026-06-15** — refresh: coresignal
@@ -48,7 +51,6 @@ Sequestra is a Vienna-based climate tech startup founded in 2024 that develops a
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

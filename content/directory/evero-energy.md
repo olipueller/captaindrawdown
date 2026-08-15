@@ -5,7 +5,7 @@ type: "directory"
 description: "Retrofits existing waste-wood biomass power plants with MHI's Advanced KM CDR amine solvent capture, transporting biogenic CO2 via HyNet cluster to depleted Irish Sea gas-field geological storage."
 url: "/directory/evero-energy/"
 pathway: "BECCS"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -13,9 +13,9 @@ liveliness: "🟠 Suspect"
   <tr><th>Pathway</th><td>BECCS</td></tr>
   <tr><th>Country</th><td>United Kingdom</td></tr>
   <tr><th>Website</th><td><a href="https://evero.energy/" target="_blank" rel="noopener">https://evero.energy/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bioenergy-infrastructure-limited/" target="_blank" rel="noopener">bioenergy-infrastructure-limited — 9,370 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
-  <tr><th>Employees</th><td>~103</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/everoenergy/" target="_blank" rel="noopener">everoenergy — 9,641 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~106 (-15% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -29,6 +29,11 @@ Evero Energy (formerly Bioenergy Infrastructure Group) is a UK waste-wood-to-ene
 
 ## History
 
+- **2026-08-15** — refresh: coresignal, liveliness
+- **2026-08-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.bioenergy-news.com/news/everos-inbeccs-project-becomes-uks-first-listed-carbon-removal-facility/))
+- **2026-07-29** — news mention: Evero Energy: Today weâre announcing that Frontier has raised an additional $915M for carbon remov ([source](https://www.linkedin.com/company/bioenergy-infrastructure-limited/#post-e06a045ec830))
+- **2026-07-24** — news mention: Evero Files Planning Proposal For UK’s First BECCS Plant ([source](https://carbonherald.com/evero-files-planning-proposal-for-uks-first-beccs-plant/?utm_source=rss&utm_medium=rss&utm_campaign=evero-files-planning-proposal-for-uks-first-beccs-plant))
+- **2026-07-22** — news mention: Evero Energy: Today we’re announcing that Frontier has raised an additional $915M for carbon removal ([source](https://www.linkedin.com/company/bioenergy-infrastructure-limited/#post-e3e7a0ff2985))
 - **2026-07-15** — liveliness: 🟡 Moderate → 🟠 Suspect ([source](https://www.bioenergy-news.com/news/everos-inbeccs-project-becomes-uks-first-listed-carbon-removal-facility/))
 - **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://www.bioenergy-news.com/news/everos-inbeccs-project-becomes-uks-first-listed-carbon-removal-facility/))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.bioenergy-news.com/news/everos-inbeccs-project-becomes-uks-first-listed-carbon-removal-facility/))
@@ -56,7 +61,6 @@ Evero Energy (formerly Bioenergy Infrastructure Group) is a UK waste-wood-to-ene
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

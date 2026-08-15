@@ -30,6 +30,7 @@ reCap Carbon Inc. is a US-based climate-tech company that converts municipal yar
 
 ## History
 
+- **2026-07-23** — news mention: CO2Re: Today UK Government published its response to the Independent Review of Greenhouse Gas Remova ([source](https://www.linkedin.com/company/co2re/#post-fe9500f60e19))
 - **2026-07-08** — news mention: Durable CDR Market Recap: June 2026 - Key Deals & Trends | CDR.fyi  Isometric raised <strong>$40 mil ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mq4n2me7ua2k))
 - **2026-07-07** — news mention: Durable CDR Market Recap: June 2026 — Key Deals & Trends | CDR.fyi ([source](https://www.cdr.fyi/blog/cdr-monthly-recap-june-2026))
 - **2026-07-07** — news mention: Let That Sink In: The Carbon Gap CDR Recap | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7479858239837306880/))
@@ -58,7 +59,6 @@ reCap Carbon Inc. is a US-based climate-tech company that converts municipal yar
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

@@ -42,6 +42,19 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-08-11** — news mention: Ecologi Action Ltd: ISO 14060 is the new draft ISO standard for organisational net-zero. 🎯 It sets o ([source](https://www.linkedin.com/company/offset-earth/#post-461f4ea6be4a))
+- **2026-08-01** — news mention: Southern Green Gas: After seven years of development, our team has successfully demonstrated our cor ([source](https://www.linkedin.com/company/southern-green-gas/#post-59d76eeb45a8))
+- **2026-08-01** — news mention: PureField Carbon: The results are in: injection is successful, and carbon is now being safely stored ([source](https://www.linkedin.com/company/purefield-ingredients/#post-88e1ca766755))
+- **2026-07-30** — news mention: Bigadan A/S: THIS IS MORE THAN A TRANSACTION The Economist has chosen our BECCS project — bioenergy  ([source](https://www.linkedin.com/company/bigadan-a-s/#post-62c2d51f44f2))
+- **2026-07-28** — news mention: EcoAct SAS: ð¤ SE Advisory Services et Evolution Markets Inc. unissent leurs expertises pour renfo ([source](https://www.linkedin.com/company/ecoact/#post-eda01832eea6))
+- **2026-07-25** — news mention: PureField Ingredients: As the first Class VI well in Kansas, and one of only a few in the nation, Pu ([source](https://www.linkedin.com/company/purefield-ingredients/#post-25e34a83cf30))
+- **2026-07-25** — news mention: PureField Ingredients: The results are in: injection is successful, and carbon is now being safely s ([source](https://www.linkedin.com/company/purefield-ingredients/#post-d8353ca5889d))
+- **2026-07-24** — news mention: Onnu: Another positive move for the biochar market. 📈 Following an initial collaboration that began  ([source](https://www.linkedin.com/company/onnuhq/#post-195fcc91a427))
+- **2026-07-23** — news mention: Bigadan A/S: THIS IS MORE THAN A TRANSACTION The Economist has chosen our BECCS project â bioenerg ([source](https://www.linkedin.com/company/bigadan-a-s/#post-3b6c8dd59f0c))
+- **2026-07-22** — news mention: NetZero: We are thrilled to announce the expansion of our operations to sugarcane – a major mileston ([source](https://www.linkedin.com/company/netzerogreen/#post-414f7da1e205))
+- **2026-07-22** — news mention: NetZero: We are proud to announce the signature of a MOU with Atvos , one of the largest biofuel pro ([source](https://www.linkedin.com/company/netzerogreen/#post-1f61473e373c))
+- **2026-07-22** — news mention: NetZero: Last Friday, NetZero inaugurated its fourth biochar factory. Located in Brazil's largest co ([source](https://www.linkedin.com/company/netzerogreen/#post-d24bc5388ed6))
+- **2026-07-21** — news mention: #carbonremoval #cdr #rainbow #dmrv #netzero #sustainability | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:share:7485259060120907776/))
 - **2026-07-05** — news mention: Read the full story 👇 https://t.co/uEZwn4pMNd ([source](https://x.com/CekirdekGLOBAL/status/2073667715387052204))
 - **2026-07-01** — news mention: #canadaday #carbonremoval #enhancedrockweathering #climatesolutions #netzero #undocarbon #cdr #clima ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7477740297943441409/))
 - **2026-06-29** — news mention: #londonclimateactionweek #climateaction #netzero #carbonremoval | Climeworks ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7477266874024620032/))
@@ -59,18 +72,6 @@ Independently verified by carbon-credit registries:
 - **2026-05-17** — news mention: CREW Carbon Secures $25M To Scale Its Wastewater Treatment Optimization Technology  CREW Carbon has  ([source](https://x.com/CaptainDrawdown/status/2055903220996714671))
 - **2026-05-17** — news mention: Canada has the geology to lead global CDR. Surficial mineralization in BC, Quebec, and the Prairies  ([source](https://x.com/CaptainDrawdown/status/2055877885995446668))
 - **2026-05-16** — news mention: Explainer: Biochar is the largest delivered CDR pathway today by tonnes issued on registries like ht ([source](https://x.com/CaptainDrawdown/status/2055544229963629021))
-- **2026-05-16** — news mention: CDR finance split into two opposite plumbing problems this week.  On the supplier side, GFI deployed ([source](https://x.com/CaptainDrawdown/status/2055516084795478138))
-- **2026-05-08** — news mention: #carbonremoval #cdr #climateweekzurich #cwz2026 #netzero #sustainability | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7458165340045230080/))
-- **2026-05-01** — news mention: #climateweekzurich #durablecdr #carbonremoval #climatetech #netzero | InPlanet ([source](https://www.linkedin.com/feed/update/urn:li:share:7455560954865500161/))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-04-28** — news mention: Plenary Session 10 at #Prakriti2026 highlighted how empowering farmers in the carbon economy through ([source](https://x.com/Prakriti_2026/status/2049020578645107088))
-- **2026-04-22** — news mention: #sfcw2026 #carbonremoval #cdr #climateaction #netzero | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7452232565496836096/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.xprize.org/prizes/carbonremoval/articles/xprize-makes-history-awards-100m-prize-for-groundbreaking-carbon-removal-solutions))
-- **2026-04-19** — refresh: coresignal
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://netzero.green/en/news/press-releases/PR-NetZero-20251031-EN.pdf))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://www.stoainfraenergy.com/en/climate-netzero-raises-18-million-from-impact-fund-stoa/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 
@@ -79,7 +80,6 @@ Independently verified by carbon-credit registries:
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

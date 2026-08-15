@@ -5,7 +5,7 @@ type: "directory"
 description: "Pyrolyzes agricultural biomass residues in India into biochar sold as a soil enhancer and registered as CDR projects via the SunCarbon Saarthi farmer platform."
 url: "/directory/suncarbon/"
 pathway: "Biochar"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Country</th><td>India</td></tr>
   <tr><th>Website</th><td><a href="https://suncarbon.in/" target="_blank" rel="noopener">https://suncarbon.in/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/suncarbon/" target="_blank" rel="noopener">suncarbon — 611 followers</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -28,6 +28,8 @@ SunCarbon is a biochar brand operated by Teo Ventures in India that converts agr
 
 ## History
 
+- **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.youtube.com/watch?v=xM5XyDath98))
+- **2026-08-02** — news mention: Engrow: Announcing Cohort 2 of our 🇮🇳 India CDR Startup #Accelerator Program 🌟 We continued to be ov ([source](https://www.linkedin.com/company/engrow-group/#post-58e84bdaa764))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.youtube.com/watch?v=xM5XyDath98))
@@ -46,7 +48,6 @@ SunCarbon is a biochar brand operated by Teo Ventures in India that converts agr
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

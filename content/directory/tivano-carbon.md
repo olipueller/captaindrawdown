@@ -32,7 +32,7 @@ Tivano Carbon restores Namibia's savanna rangelands by converting invasive encro
 Independently verified by carbon-credit registries:
 
 **Puro.earth**
-- 1 project · Terrestrial Storage of Biomass · crediting period 2025-05-01 → 2030-04-30 (active)
+- 1 project · Terrestrial Storage of Biomass · crediting period 2025-05-01 → 2030-04-30 (active) &nbsp;[↗](https://retired.puro.earth/CORC-co2-removal-certificate/supplier-listing/dragonfly-252)
 
 <small>Data from <a href="https://registry.puro.earth/" rel="noopener">Puro.earth</a> and <a href="https://carbonplan.org/research/offsets-db" rel="noopener">CarbonPlan OffsetsDB</a> (Verra, Gold Standard, ACR, CAR, ART, Cercarbono, Isometric). Refreshed monthly.</small>
 
@@ -54,7 +54,6 @@ Independently verified by carbon-credit registries:
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

@@ -34,6 +34,8 @@ Ucaneo is a Berlin-based direct air capture startup developing a biomimetic elec
 
 ## History
 
+- **2026-07-30** — news mention: Ucaneo: 🏪 Welcome to the CO₂ Store of the Future. The world's first place where you can experience w ([source](https://www.linkedin.com/company/ucaneo/#post-85d8f4875d15))
+- **2026-07-23** — news mention: Ucaneo: The EU just signed up to help us build the carbon economy of the future. 🚀 💫 The European Co ([source](https://www.linkedin.com/company/ucaneo/#post-e343b65c3abf))
 - **2026-07-09** — news mention: Ucaneo Inaugurates Germany's Largest DAC Facility ([source](https://www.process-worldwide.com/ucaneo-inaugurates-germanys-largest-dac-facility-a-91443e483c1f5e73a90a0052f81d4a75/))
 - **2026-07-03** — news mention: Ucaneo Inaugurates Germany’s Largest Direct Air Capture Facility • CHEManager is the market-leading  ([source](https://chemanager-online.com/en/news/inauguration-of-germanys-largest-direct-air-capture-facility))
 - **2026-07-02** — news mention: Siemens und Ucaneo bringen Direct Air Capture auf kommerzielles Niveau ([source](https://prozesstechnik.industrie.de/dekarbonisierung/siemens-und-ucaneo-bringen-direct-air-capture-auf-kommerzielles-niveau/))
@@ -55,7 +57,6 @@ Ucaneo is a Berlin-based direct air capture startup developing a biomimetic elec
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

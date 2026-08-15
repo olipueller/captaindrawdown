@@ -34,6 +34,9 @@ CEEZER is a Berlin-based B2B enterprise platform and marketplace connecting corp
 
 ## History
 
+- **2026-08-05** — news mention: Ceezer: CRCF is moving from paper to practice. Here's what carbon buyers need to know. The EU Carbon ([source](https://www.linkedin.com/company/ceezer/#post-1805d83213dc))
+- **2026-07-22** — news mention: Ceezer: The EU just extended its carbon removal rulebook to nature-based solutions. 🇪🇺 The European  ([source](https://www.linkedin.com/company/ceezer/#post-41c0d03255af))
+- **2026-07-22** — news mention: Ceezer: The global market for durable carbon removal moves about 8 million tonnes a year. Today, the ([source](https://www.linkedin.com/company/ceezer/#post-98bd69249a6b))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot
@@ -48,7 +51,6 @@ CEEZER is a Berlin-based B2B enterprise platform and marketplace connecting corp
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

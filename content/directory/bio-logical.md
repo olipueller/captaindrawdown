@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Kenya</td></tr>
   <tr><th>Website</th><td><a href="https://www.bio-logical.green/" target="_blank" rel="noopener">https://www.bio-logical.green/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bio-logical/" target="_blank" rel="noopener">bio-logical — 5,958 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bio-logical/" target="_blank" rel="noopener">bio-logical — 6,130 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 80/100) <small>— in active puro crediting window through 2029-03-21</small></td></tr>
-  <tr><th>Employees</th><td>~125 (+2% YoY)</td></tr>
+  <tr><th>Employees</th><td>~125 (-20% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
   <tr><th>Registry-verified</th><td>Puro.earth <small>(active crediting window through 2029-03-21)</small></td></tr>
 </table>
@@ -41,6 +41,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://big3africa.org/2025/11/04/bio-logical-uses-biochar-to-fight-climate-change-and-empower-farmers/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
@@ -59,7 +60,6 @@ Independently verified by carbon-credit registries:
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

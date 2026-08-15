@@ -34,6 +34,8 @@ CarbonCure Technologies is a Halifax, Canada-based carbon utilization company th
 
 ## History
 
+- **2026-08-11** — news mention: CarbonCure: The next phase of King Salman International Airport construction is underway. CarbonCure ([source](https://www.linkedin.com/company/carboncure-technologies/#post-203f8271fa2d))
+- **2026-08-07** — news mention: Happy to see that @biochartoday.bsky.social has resumed posting on Bluesky. Please consider followin ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3msixkei77s2o))
 - **2026-07-14** — news mention: Every nonvoter is a fossil fool!  This analysis found that 223 manufacturing and clean energy projec ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mqmd5gfjck2t))
 - **2026-07-05** — news mention: Explainer: Mineralization is the CDR family that turns CO2 into solid carbonate rock. Once bonded in ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpusg7voq42k))
 - **2026-07-05** — news mention: Good point. The airborne fraction has held near 44% for decades, but recent years show wobble. If la ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpufpr4arw2b))
@@ -69,7 +71,6 @@ CarbonCure Technologies is a Halifax, Canada-based carbon utilization company th
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

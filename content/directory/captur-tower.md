@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Other/Undisclosed)</td></tr>
   <tr><th>Country</th><td>Spain</td></tr>
   <tr><th>Website</th><td><a href="https://www.capturtower.com/" target="_blank" rel="noopener">https://www.capturtower.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/captur-tower/" target="_blank" rel="noopener">captur-tower — 501 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/captur-tower/" target="_blank" rel="noopener">captur-tower — 512 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Employees</th><td>~6 (+50% YoY)</td></tr>
+  <tr><th>Employees</th><td>~6 (+20% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,7 @@ Captur Tower is an early-stage Spanish direct air capture startup founded in 202
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://www.linkedin.com/posts/thomas-louagie-7773a44_capturlaunch-dac-directaircapture-activity-7114532240641994752-vmdF?trk=public_profile_like_view))
@@ -47,7 +48,6 @@ Captur Tower is an early-stage Spanish direct air capture startup founded in 202
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

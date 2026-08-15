@@ -31,6 +31,10 @@ The International Biochar Initiative (IBI) is a U.S.-based 501(c)(3) nonprofit m
 
 ## History
 
+- **2026-08-12** — news mention: International Biochar Initiative: The International Biochar Initiative is proud to share that the Th ([source](https://www.linkedin.com/company/international-biochar-initiative/#post-c7881325aa52))
+- **2026-08-05** — news mention: International Biochar Initiative: 🔔 Member Opportunity: Request for Quotation — 🇲🇽 Industrial Biocha ([source](https://www.linkedin.com/company/international-biochar-initiative/#post-a6870dedc510))
+- **2026-07-29** — news mention: International Biochar Initiative: 930 voices from around the world projected 9.3 million metric tonn ([source](https://www.linkedin.com/company/international-biochar-initiative/#post-d26f22cc8922))
+- **2026-07-27** — news mention: Tierra Prieta: Really appreciate the International Biochar Initiative for featuring Tierra Prieta !  ([source](https://www.linkedin.com/company/tierra-prieta/#post-2cd3168ea3d5))
 - **2026-07-14** — news mention: We&amp;#39;re joining the International Biochar Initiative on 21 July for a webinar built for biocha ([source](https://www.linkedin.com/feed/update/urn:li:share:7482690374163996672/))
 - **2026-06-24** — news mention: Bio360 brought its flagship event to Africa for the first time this week and we were glad to be ther ([source](https://www.linkedin.com/feed/update/urn:li:share:7473738964319899649/))
 - **2026-05-01** — refresh: coresignal, screenshot
@@ -47,7 +51,6 @@ The International Biochar Initiative (IBI) is a U.S.-based 501(c)(3) nonprofit m
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

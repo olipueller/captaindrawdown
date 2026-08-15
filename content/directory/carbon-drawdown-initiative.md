@@ -30,6 +30,38 @@ Carbon Drawdown Initiative GmbH is a philanthropically-funded German organizatio
 
 ## History
 
+- **2026-08-14** — news mention: Pol Knops (@polknops.bsky.social) at the Carbon Drawdown Initiative ran basalt-amended plots for nea ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mszeyqycjk2n))
+- **2026-08-14** — news mention: The 1,400-day German basalt trial returning zero measurable CO2 removal isn't just another model-vs- ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mszeynp7fz2e))
+- **2026-08-14** — news mention: Carbon Drawdown Initiative: 1,400 days. Four winters. Twenty pots of basalt-amended soil. That's our ([source](https://www.linkedin.com/company/carbon-drawdown-initiative/#post-c5ca55aba09c))
+- **2026-08-14** — news mention: Carbon Drawdown Initiative: Does more basalt mean more CO₂ removal? Our XXL Lysimeter Experiment say ([source](https://www.linkedin.com/company/carbon-drawdown-initiative/#post-b398856601b9))
+- **2026-08-14** — news mention: Does more basalt mean more CO₂ removal? Our XXL Lysimeter Experiment says: not so fast.
+
+The intuiti ([source](https://www.linkedin.com/feed/update/urn:li:share:7493651331526742016/))
+- **2026-08-13** — news mention: 1,400 days. Four winters. Twenty pots of basalt-amended soil.
+
+That&amp;#39;s our XXL Lysimeter Expe ([source](https://www.linkedin.com/feed/update/urn:li:share:7493289822275432448/))
+- **2026-08-07** — news mention: Enhanced rock weathering has a problem that doesn&amp;#39;t get talked about enough.
+
+It&amp;#39;s n ([source](https://www.linkedin.com/feed/update/urn:li:share:7491115362118258688/))
+- **2026-08-07** — news mention: Carbon Drawdown Initiative: Congratulations portfolio company CREW Carbon to their announcement of a ([source](https://www.linkedin.com/company/carbon-drawdown-initiative/#post-e67f5c190fdd))
+- **2026-08-06** — news mention: Cascade Climate: A year ago, we placed a bet: that shared ERW deployment data â not data locked in ([source](https://www.linkedin.com/company/cascade-climate/#post-dfd7eca1a9dd))
+- **2026-08-06** — news mention: 1 in 10 people working in carbon removal today is connected to a CDI portfolio company.
+
+We&amp;#39; ([source](https://www.linkedin.com/feed/update/urn:li:share:7490741808289845249/))
+- **2026-08-01** — news mention: Terrasols Solutions Private Limited: Data transparency is growing in ERW â and that's worth celebr ([source](https://www.linkedin.com/company/greenlife-sustainability/#post-e888ec9e7a59))
+- **2026-07-31** — news mention: Wastewater treatment plants produce CO₂ continuously — inside enclosed, monitored reactors — as a na ([source](https://www.linkedin.com/feed/update/urn:li:share:7488578005435314177/))
+- **2026-07-30** — news mention: Earth has been dissolving rock to lock away carbon for billions of years. The problem is speed. Natu ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7488237848245125120/))
+- **2026-07-26** — news mention: Carbon Drawdown Initiative 2024 XXL Lysimeter Study ([source](https://cdrxiv.org/preprint/350))
+- **2026-07-25** — news mention: Terrasols: Data transparency is growing in ERW — and that's worth celebrating! Today we're announcin ([source](https://www.linkedin.com/company/greenlife-sustainability/#post-79f5f4af12aa))
+- **2026-07-24** — news mention: Carbon Drawdown Initiative: Tim Jesper Suhrhoff has led a big effort to write a systematic review of ([source](https://www.linkedin.com/company/carbon-drawdown-initiative/#post-5cd3f34c2e5c))
+- **2026-07-23** — news mention: For enhanced rock weathering (ERW), we spread a few tons of rock dust – say, 5 to 40 tons – on a hec ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7485679526149185537/))
+- **2026-07-22** — news mention: Cascade Climate: A year ago, we placed a bet: that shared ERW deployment data — not data locked insi ([source](https://www.linkedin.com/company/cascade-climate/#post-f3f65fcc7aa0))
+- **2026-07-16** — news mention: Nature already captures carbon for free. It just doesn&amp;#39;t know how to store it.
+
+Every log, e ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7483507078578343936/))
+- **2026-07-16** — news mention: Next up from the Carbon Drawdown Symposium: our own greenhouse experiment under the microscope.
+
+CDI ([source](https://www.linkedin.com/feed/update/urn:li:share:7483146070026354688/))
 - **2026-07-09** — news mention: ERW is moving fast – from academic trials to real-world commercial deployments in just a few years.
  ([source](https://www.linkedin.com/feed/update/urn:li:share:7480969674239705088/))
 - **2026-07-01** — news mention: The Carbon Drawdown Symposium brought together some of the sharpest minds in permanent carbon remova ([source](https://www.linkedin.com/feed/update/urn:li:share:7478076380895858688/))
@@ -49,30 +81,6 @@ On 16 June, we will open our measurement dataset on e ([source](https://www.link
 
 300+ lysimeter pots. ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7469735751434440705/))
 - **2026-06-03** — news mention: Two weeks from today, Carbon Drawdown Initiative will open its measurement dataset on enhanced rock  ([source](https://www.linkedin.com/feed/update/urn:li:share:7467560946639495168/))
-- **2026-06-02** — news mention: We hold positions in more than 30 companies working across the carbon removal landscape.
-
-For years, ([source](https://www.linkedin.com/feed/update/urn:li:share:7467198575551311872/))
-- **2026-05-29** — news mention: Most ERW assessments focus on alkalinity-driven carbon dioxide removal but there may be another inte ([source](https://www.linkedin.com/feed/update/urn:li:share:7466111386818056192/))
-- **2026-05-27** — news mention: Enhanced rock weathering uses silicate rock powders applied to agricultural soils. That raises a que ([source](https://www.linkedin.com/feed/update/urn:li:share:7465025344509669377/))
-- **2026-05-23** — news mention: When rock weathers, it releases cations into the soil. But where those cations end up, and for how l ([source](https://www.linkedin.com/feed/update/urn:li:share:7463574572806643712/))
-- **2026-05-20** — news mention: One of the harder questions in enhanced rock weathering is not only how much inorganic carbon is rem ([source](https://www.linkedin.com/feed/update/urn:li:share:7462487428243537920/))
-- **2026-05-18** — news mention: Personal view from a newcomer in CDR about ERW &mdash; Carbon Drawdown Initiative ([source](https://www.carbon-drawdown.de/blog/2026-5-11-personal-view-from-a-newcomer-in-cdr-about-erw))
-- **2026-05-18** — news mention: A fresh perspective on ERW – from someone brand new to the field.
-
-One of our interns just wrapped u ([source](https://www.linkedin.com/feed/update/urn:li:share:7462123329467060224/))
-- **2026-05-14** — news mention: There are moments in a field when years of theory, small-scale experiments, and early deployments ar ([source](https://www.linkedin.com/feed/update/urn:li:share:7460313232323489793/))
-- **2026-05-11** — news mention: Flower power in the greenhouse: Small strips, big impact &mdash; Carbon Drawdown Initiative ([source](https://www.carbon-drawdown.de/blog/2026-5-11-flower-power-in-the-greenhouse-small-strips-big-impact))
-- **2026-05-09** — news mention: Creating An Autonomous AI Agent That Acts as Evangelist for Carbon Dioxide Removal - In One Day &mda ([source](https://www.carbon-drawdown.de/blog/2026-2-26-creating-an-ai-agent-that-acts-as-evangelist-for-carbon-dioxide-removal-in-one-day))
-- **2026-05-07** — news mention: The dataset we&amp;#39;re presenting at the Carbon Drawdown Symposium on 16 June spans multiple fiel ([source](https://www.linkedin.com/feed/update/urn:li:share:7457776306001178624/))
-- **2026-05-04** — news mention: #egu26 | Carbon Drawdown Initiative ([source](https://www.linkedin.com/feed/update/urn:li:share:7456965896474066944/))
-- **2026-05-03** — news mention: Directory feature: cdr-shops.com lists every durable CDR provider that will actually sell you small  ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mkwvlan2ol2v))
-- **2026-05-03** — news mention: Directory feature: https://t.co/fG4sjJDt5e lists every durable CDR provider that will actually sell  ([source](https://x.com/CaptainDrawdown/status/2050878236851089732))
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-05-01** — news mention: Enhanced rock weathering has real potential as a carbon removal pathway. The chemistry is well under ([source](https://www.linkedin.com/feed/update/urn:li:share:7455602010801774592/))
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-04-28** — news mention: We Built an AI Influencer. It Nearly Worked. ([source](https://captaindrawdown.com/posts/captain-v1-nearly-worked))
-- **2026-04-27** — news mention: Announcing Carbon Drawdown Symposium 2026 &mdash; Carbon Drawdown Initiative ([source](https://www.carbon-drawdown.de/blog/2026-4-24-announcing-carbon-drawdown-symposium-2026))
 
 ---
 
@@ -81,7 +89,6 @@ One of our interns just wrapped u ([source](https://www.linkedin.com/feed/update
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

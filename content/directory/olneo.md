@@ -5,7 +5,7 @@ type: "directory"
 description: "Converts agricultural residues into certified biochar via pyrolysis for durable carbon sequestration, paired with soil-restoration benefits and digital MRV."
 url: "/directory/olneo/"
 pathway: "Biochar"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://www.olneo.green/" target="_blank" rel="noopener">https://www.olneo.green/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/olneo-%e2%80%a2-biochar-carbone/" target="_blank" rel="noopener">olneo-%e2%80%a2-biochar-carbone — 55 followers</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~30</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,8 @@ OLNEO is a Paris-based climate deeptech startup developing biochar carbon remova
 
 ## History
 
+- **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.instagram.com/olneo_green/))
+- **2026-07-27** — news mention: OLNEO: 🔷 Annonce Officielle – OLNEO entre dans une nouvelle dimension Depuis notre création, nous av ([source](https://www.linkedin.com/company/olneo-%e2%80%a2-biochar-carbone/#post-b97a2207e05c))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟡 Moderate → 🔴 Likely Dead ([source](https://www.instagram.com/olneo_green/))
@@ -47,7 +49,6 @@ OLNEO is a Paris-based climate deeptech startup developing biochar carbon remova
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

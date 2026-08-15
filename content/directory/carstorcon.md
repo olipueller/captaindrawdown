@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Mineralization (Other)</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://carstorcon.technology/en/" target="_blank" rel="noopener">https://carstorcon.technology/en/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carstorcon-technologies/" target="_blank" rel="noopener">carstorcon-technologies — 964 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
-  <tr><th>Employees</th><td>~5 (+67% YoY)</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carstorcon-technologies/" target="_blank" rel="noopener">carstorcon-technologies — 1,049 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
+  <tr><th>Employees</th><td>~5 (+25% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,6 +31,10 @@ CarStorCon Technologies is a company founded in 2022 in Marienhafe, Germany. Car
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
+- **2026-08-01** — news mention: CarStorCon: Een wereldprimeur in prefab beton! 🚨 Op woningbouwproject Bloei in Barendrecht hebben we ([source](https://www.linkedin.com/company/carstorcon-technologies/#post-9f9c8d6a9b70))
+- **2026-08-01** — news mention: CarStorCon: Vor zwei Monaten hat Geelen Beton die erste Wand mit #ClimAdd vorgestellt, jetzt wurde s ([source](https://www.linkedin.com/company/carstorcon-technologies/#post-e4f9f6aca982))
+- **2026-07-25** — news mention: CarStorCon: ð°ï¸ Zwei Jahre nachdem unsere Technologie erstmalig in der TB-iNFO vorgestellt wurde ([source](https://www.linkedin.com/company/carstorcon-technologies/#post-11ed632a581b))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://carstorcon.technology/en/uber-uns/))
@@ -52,7 +56,6 @@ CarStorCon Technologies is a company founded in 2022 in Marienhafe, Germany. Car
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

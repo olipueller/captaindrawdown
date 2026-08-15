@@ -31,6 +31,10 @@ PYREG GmbH is a German cleantech company founded in 2009 as a TH Bingen Universi
 
 ## History
 
+- **2026-08-06** — news mention: GECA Environnement: Canada just put federal money behind biochar infrastructure â and it's coming  ([source](https://www.linkedin.com/company/geca-environnement/#post-ccec5b0d8103))
+- **2026-07-23** — news mention: Pyreg: New scientific insights on PFAS destruction in biosolids biochar will soon be presented at th ([source](https://www.linkedin.com/company/pyreg-gmbh/#post-755029ca8ca2))
+- **2026-07-23** — news mention: Pyreg: A major milestone for circularity in wastewater treatment!♻️   We are thrilled to see our sta ([source](https://www.linkedin.com/company/pyreg-gmbh/#post-e19253a69034))
+- **2026-07-23** — news mention: Takachar: Excited to introduce the Rainbow Partner Program, the largest ecosystem of dMRV providers  ([source](https://www.linkedin.com/company/takachar/#post-b8359905ff33))
 - **2026-05-17** — news mention: CREW Carbon Secures $25M To Scale Its Wastewater Treatment Optimization Technology  CREW Carbon has  ([source](https://x.com/CaptainDrawdown/status/2055903220996714671))
 - **2026-05-17** — news mention: Canada has the geology to lead global CDR. Surficial mineralization in BC, Quebec, and the Prairies  ([source](https://x.com/CaptainDrawdown/status/2055877885995446668))
 - **2026-05-16** — news mention: Explainer: Biochar is the largest delivered CDR pathway today by tonnes issued on registries like ht ([source](https://x.com/CaptainDrawdown/status/2055544229963629021))
@@ -53,7 +57,6 @@ PYREG GmbH is a German cleantech company founded in 2009 as a TH Bingen Universi
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>BiCRS (Other)</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.ecolocked.com/" target="_blank" rel="noopener">https://www.ecolocked.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ecolocked/" target="_blank" rel="noopener">ecolocked — 6,915 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/ecolocked/" target="_blank" rel="noopener">ecolocked — 7,451 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~24 (-23% YoY)</td></tr>
+  <tr><th>Employees</th><td>~21 (-30% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -31,6 +31,9 @@ ecoLocked is a Berlin-based climate-tech startup founded in 2021 that produces b
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
+- **2026-07-30** — news mention: ecoLocked: 🌱 Biochar in Action: Wenn Denkmalschutz auf Klimaschutz trifft ⛪ Wie können historische G ([source](https://www.linkedin.com/company/ecolocked/#post-fd9b39b3a0cf))
+- **2026-07-22** — news mention: ecoLocked: Carbon-storing concrete in the renovation of a 100+ year-old church ⛪ Berger Beton GmbH , ([source](https://www.linkedin.com/company/ecolocked/#post-018da9382087))
 - **2026-07-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://www.cdr.fyi/blog/this-week-in-cdr-week-17-2025))
 - **2026-07-13** — news mention: Since you have demonstrated how ignorant you are with your bachelor's from an Ivy League school has  ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mqjl5patac2k))
 - **2026-07-02** — news mention: #biocharinaction #germanbiochar #ecolocked #bergerbeton #carbonremoval #nachhaltigesbauen #co2speich ([source](https://www.linkedin.com/feed/update/urn:li:share:7478326844803543043/))
@@ -54,7 +57,6 @@ ecoLocked is a Berlin-based climate-tech startup founded in 2021 that produces b
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

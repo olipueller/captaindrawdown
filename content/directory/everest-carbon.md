@@ -36,6 +36,8 @@ Everest Carbon is a San Francisco- and Linz, Austria-based company that develops
 
 ## History
 
+- **2026-08-03** — news mention: Everest Carbon: Everest Carbon is now Nordran. We built deep expertise in chemical sensing and are n ([source](https://www.linkedin.com/company/everest-carbon/#post-7231fccaf6c4))
+- **2026-07-21** — news mention: Direct In Situ Measurement of Alkalinity Export for Real-Time Enhanced Weathering MRV ([source](https://cdrxiv.org/preprint/456))
 - **2026-06-15** — refresh: coresignal
 - **2026-06-15** — refresh: coresignal
 - **2026-05-01** — refresh: coresignal, screenshot
@@ -54,7 +56,6 @@ Everest Carbon is a San Francisco- and Linz, Austria-based company that develops
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

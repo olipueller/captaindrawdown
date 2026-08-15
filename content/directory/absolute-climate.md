@@ -14,7 +14,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.absoluteclimate.com" target="_blank" rel="noopener">https://www.absoluteclimate.com</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/we-are-absolute-climate/" target="_blank" rel="noopener">we-are-absolute-climate — 1,527 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~8 (+167% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -29,6 +29,12 @@ Absolute Climate is an independent quality-assurance and standards developer for
 
 ## History
 
+- **2026-08-08** — news mention: Absolute Climate: Today, Absolute Climate, Cowboy Clean Fuels , and Evident announced a partnership  ([source](https://www.linkedin.com/company/we-are-absolute-climate/#post-858b925b990d))
+- **2026-08-01** — news mention: C-Capsule: We’re excited to support Cowboy Clean Fuels and Absolute Climate raising the bar for high ([source](https://www.linkedin.com/company/c-capsule/#post-c458964553b1))
+- **2026-08-01** — news mention: Absolute Climate: 📣 There is one week left to provide your input on the future of carbon removal cre ([source](https://www.linkedin.com/company/we-are-absolute-climate/#post-dba4ed5b3f1e))
+- **2026-07-29** — news mention: Evident: Today, Absolute Climate, Cowboy Clean Fuels , and Evident announced a partnership to bring  ([source](https://www.linkedin.com/company/international-rec-services/#post-72161c507b55))
+- **2026-07-25** — news mention: C-Capsule: Today, Absolute Climate, Cowboy Clean Fuels , and Evident announced a partnership to brin ([source](https://www.linkedin.com/company/c-capsule/#post-72161c507b55))
+- **2026-07-22** — news mention: Evident: We’re excited to support Cowboy Clean Fuels and Absolute Climate raising the bar for high-i ([source](https://www.linkedin.com/company/international-rec-services/#post-7c39e486f22e))
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: screenshot
@@ -50,7 +56,6 @@ Absolute Climate is an independent quality-assurance and standards developer for
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

@@ -38,6 +38,10 @@ Vesta (formerly Project Vesta) is a San Francisco-based Public Benefit Corporati
 
 ## History
 
+- **2026-08-06** — news mention: Project Vesta: This brand new preprint publication from Hourglass Climate on our field trial in Sout ([source](https://www.linkedin.com/company/projectvesta/#post-1d12f71952ec))
+- **2026-07-23** — news mention: Vesta: 📢 Preprint alert! And this is a big one! 📢 "Olivine-based marine carbon dioxide removal field ([source](https://www.linkedin.com/company/projectvesta/#post-f7f6e614771f))
+- **2026-07-23** — news mention: Vesta: This brand new preprint publication from Hourglass Climate on our field trial in Southampton, ([source](https://www.linkedin.com/company/projectvesta/#post-ae904b0c13e6))
+- **2026-07-15** — news mention: A company dumped 650 tons of crushed green volcanic rock onto a Long Island beach to eat carbon out  ([source](https://www.autonocion.com/us/green-volcanic-rock-long-island-beack/))
 - **2026-05-16** — news mention: Soil carbon in cotton systems is interesting but tricky for CDR claims. Reversal risk is high under  ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mlxhkyjeul27))
 - **2026-05-11** — news mention: EU Consultation Reveals Divisions Over Carbon Credits And 2040 Climate Goals  EU consultation on the ([source](https://x.com/CaptainDrawdown/status/2053736345441357895))
 - **2026-05-11** — news mention: Four European CDR modeling papers landed on arXiv in one week. Read together, they expose that DACCS ([source](https://x.com/CaptainDrawdown/status/2053702362162766038))
@@ -65,7 +69,6 @@ Vesta (formerly Project Vesta) is a San Francisco-based Public Benefit Corporati
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

@@ -34,6 +34,11 @@ Mangrove Systems is a Toronto-based digital MRV software company whose Mangrove 
 
 ## History
 
+- **2026-07-31** — news mention: Pacific Biochar: Our Humboldt Sawmill project has been generating carbon credits since 2020, and was ([source](https://www.linkedin.com/company/pacific-biochar/#post-811efd2c0c8d))
+- **2026-07-31** — news mention: Pacific Biochar/Wren: Our Humboldt Sawmill project has been generating carbon credits since 2020, an ([source](https://www.linkedin.com/company/pacific-biochar/#post-868b6c3c8758))
+- **2026-07-24** — news mention: Mangrove Systems: We're excited to share that Mangrove Systems has partnered with A Healthier Earth  ([source](https://www.linkedin.com/company/gomangrove/#post-b39b306039c0))
+- **2026-07-23** — news mention: Grain Ecosystem: Today, we’re proud to share an important update in the Grain journey.   Mangrove Sy ([source](https://www.linkedin.com/company/grain-ecosystem/#post-6b24e80dbaec))
+- **2026-07-22** — news mention: CDR.fyi: 🤝 The CDR sector is seeing increasing M&amp;A activity. Airhive recently announced the acqu ([source](https://www.linkedin.com/company/cdr-fyi/#post-76936359736c))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-22** — news mention: Mangrove Systems Acquires Biochar Carbon Removal ... ([source](https://www.esgtoday.com/mangrove-systems-acquires-biochar-carbon-removal-platform-grain-ecosystem/))
@@ -49,7 +54,6 @@ Mangrove Systems is a Toronto-based digital MRV software company whose Mangrove 
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

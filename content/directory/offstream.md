@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.useoffstream.com/" target="_blank" rel="noopener">https://www.useoffstream.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/useoffstream/" target="_blank" rel="noopener">useoffstream — 2,291 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~12 (+100% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
   <tr><th>Registry-verified</th><td>Climate Action Reserve</td></tr>
@@ -40,6 +40,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-08-10** — news mention: ecoX: This week eco-x.com unveils its Biochar Production Facility in Minneapolis at USBI and then ne ([source](https://www.linkedin.com/company/eco-x-llc/#post-1d74a3c111f2))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal, screenshot
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://www.useoffstream.com/))
@@ -52,7 +53,6 @@ Independently verified by carbon-credit registries:
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

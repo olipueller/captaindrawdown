@@ -30,6 +30,19 @@ Gold Standard is a non-profit carbon credit certification standard and registry 
 
 ## History
 
+- **2026-08-13** — news mention: Removall Carbon: 💧 A new milestone for the Pungue Clean Water Project, the project has successfully  ([source](https://www.linkedin.com/company/removall-carbon/#post-d824de93f0d9))
+- **2026-08-12** — news mention: Andes: Weâre excited to share that Gold Standardâs Microbial Carbon Dioxide Mineralisation metho ([source](https://www.linkedin.com/company/andesag/#post-cfd693e3273f))
+- **2026-08-06** — news mention: Phlair: Interview: EU should reform #ETS to include direct air capture, the “gold standard” for remo ([source](https://www.linkedin.com/company/phlair/#post-9e960680a651))
+- **2026-08-04** — news mention: Gold Standard: ð July technical round-up  Carbon markets are evolving quickly, with rising integr ([source](https://www.linkedin.com/company/gold-standard/#post-a76823a92e29))
+- **2026-07-29** — news mention: Andes: New carbon dioxide removal methodology published! Gold Standard has released a Microbial Carb ([source](https://www.linkedin.com/company/andesag/#post-b196a23ec4b5))
+- **2026-07-29** — news mention: Andes: We’re excited to share that Gold Standard’s Microbial Carbon Dioxide Mineralisation methodolo ([source](https://www.linkedin.com/company/andesag/#post-183b4a500557))
+- **2026-07-25** — news mention: Agasco: Agasco’s Nigerian Cookstove Project Awarded Gold Standard’s CCP Label! Agasco is proud to an ([source](https://www.linkedin.com/company/agasco/#post-a207691b9e1d))
+- **2026-07-25** — news mention: Agasco: Gold Standard is pleased to announce that we have labelled the first ICVCM Core Carbon Princ ([source](https://www.linkedin.com/company/agasco/#post-10c27d58b1ad))
+- **2026-07-25** — news mention: Agasco: Agasco is pleased to announce that we have received a Letter of Authorization (LoA) from the ([source](https://www.linkedin.com/company/agasco/#post-3cf9c882f5e6))
+- **2026-07-22** — news mention: Kanop: Verra has officially vetted Kanop as a Data Service Provider for VM0047. That makes us the on ([source](https://www.linkedin.com/company/kanop/#post-18b7df4fc3b2))
+- **2026-07-21** — news mention: FS Fueling Sustainability: Queremos colocar o Brasil na vanguarda do mundo em energia limpa com alta ([source](https://www.linkedin.com/company/fs-bioenergia/#post-b9a66f3cfaa7))
+- **2026-07-21** — news mention: South Pole: ❓ Confused by the carbon market’s jargon, specialised vocabulary, and endless acronyms?  ([source](https://www.linkedin.com/company/south-pole-/#post-f46e498a7fe7))
+- **2026-07-16** — news mention: Carbon Credits Market for Agriculture, Forestry, and Land Use - A Global and Regional Analysis: Focu ([source](https://bisresearch.com/industry-report/carbon-credit-market.html))
 - **2026-07-07** — news mention: Gold Standard Adds First Traditional Political Risk Insurer To CORSIA-Approved List ([source](https://carbonherald.com/gold-standard-adds-first-traditional-political-risk-insurer-to-corsia-approved-list/?utm_source=rss&utm_medium=rss&utm_campaign=gold-standard-adds-first-traditional-political-risk-insurer-to-corsia-approved-list))
 - **2026-07-03** — news mention: Carbon Credits and Clean Energy Certificates: Evolution, Integrity Reset and Prospects for a Rebound ([source](https://joseluischavezcalva.substack.com/p/carbon-credits-and-clean-energy-certificates))
 - **2026-07-03** — news mention: EU should reform carbon market to include direct air capture, the “gold standard” for removals – sta ([source](https://www.cleanenergywire.org/news/eu-should-reform-carbon-market-include-direct-air-capture-gold-standard-removals-start-ceo))
@@ -54,7 +67,6 @@ Gold Standard is a non-profit carbon credit certification standard and registry 
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

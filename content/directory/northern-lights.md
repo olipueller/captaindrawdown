@@ -31,6 +31,19 @@ Northern Lights is a joint venture equally owned by Equinor, Shell, and TotalEne
 
 ## History
 
+- **2026-08-07** — news mention: The world is cooling on carbon capture. Why is Canada still barreling ahead in the oil sands? - The  ([source](https://www.theglobeandmail.com/business/article-norways-northern-lights-carbon-capture-holds-valuable-lessons-for/))
+- **2026-08-05** — news mention: Northern Lights: The CO₂ carrier Northern Purpose has arrived in Norway! With the arrival we have co ([source](https://www.linkedin.com/company/northern-lights-jv/#post-9d6a225b80d5))
+- **2026-07-30** — news mention: Sirona Technologies: Big announcement: Sirona Technologies officially unveils Project Furu ð Toda ([source](https://www.linkedin.com/company/sirona-technologies/#post-d38e0fce9cd8))
+- **2026-07-29** — news mention: Northern Lights: A pleasure to welcome CINEA to Øygarden! Just over a year after Northern Lights was ([source](https://www.linkedin.com/company/northern-lights-jv/#post-ba76027e3acb))
+- **2026-07-29** — news mention: Northern Lights: Today, Northern Lights is permanently storing CO₂ captured by Heidelberg Materials  ([source](https://www.linkedin.com/company/northern-lights-jv/#post-41d9cb53a855))
+- **2026-07-28** — news mention: Bordet: Puro.earth has certified the world's first permanent carbon removal from biogas production.  ([source](https://www.linkedin.com/company/puro-co2-removal-marketplace/#post-5254139ed902))
+- **2026-07-28** — news mention: Puro: Puro.earth has certified the world's first permanent carbon removal from biogas production. To ([source](https://www.linkedin.com/company/puro-co2-removal-marketplace/#post-95f4c6dcebac))
+- **2026-07-27** — news mention: Inherit: We have delivered 1,000 tonnes of CO2 to Northern Lights JV for permanent storage under the ([source](https://www.linkedin.com/company/agero-carbon-solutions/#post-95c1548d5aa9))
+- **2026-07-27** — news mention: Inherit: Today we issue Europe's first BECCS credits. Among our clients from this project are Micros ([source](https://www.linkedin.com/company/agero-carbon-solutions/#post-e756bfd2d05b))
+- **2026-07-25** — news mention: Carbon Impact SAS: “Le pipeline, ce sera peut-être dans dix ans. Mais nous, on peut faire des projet ([source](https://www.linkedin.com/company/carbon-impact-france/#post-2455e62043c8))
+- **2026-07-24** — news mention: Airfix: “Le pipeline, ce sera peut-être dans dix ans. Mais nous, on peut faire des projets aujourd’h ([source](https://www.linkedin.com/company/airfixcarbon/#post-2455e62043c8))
+- **2026-07-22** — news mention: Sirona Technologies: Big announcement: Sirona Technologies officially unveils Project Furu 🚀 Today w ([source](https://www.linkedin.com/company/sirona-technologies/#post-5a5429a47743))
+- **2026-07-21** — news mention: Northern Lights: This short timelapse captures the progress of Northern Lights Phase 2 in Øygarden.  ([source](https://www.linkedin.com/company/northern-lights-jv/#post-6fdc01174fbb))
 - **2026-06-04** — news mention: MISC And K LINE Secure Second Northern Lights Charter For CO2 Carrier ([source](https://carbonherald.com/misc-and-k-line-secure-second-northern-lights-charter-for-co2-carrier/?utm_source=rss&utm_medium=rss&utm_campaign=misc-and-k-line-secure-second-northern-lights-charter-for-co2-carrier))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
@@ -52,7 +65,6 @@ Northern Lights is a joint venture equally owned by Equinor, Shell, and TotalEne
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

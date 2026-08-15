@@ -33,6 +33,8 @@ Reverion is a 2022 spin-off from the Technical University of Munich that has cre
 
 ## History
 
+- **2026-08-12** — news mention: Reverion: Reverion is expanding its partnership with Doosan Fuel Cell for the large-scale supply of  ([source](https://www.linkedin.com/company/reverion/#post-c99717d1ec21))
+- **2026-08-12** — news mention: Reverion: When great partners scale together, exciting things happen! Great to see the partnership b ([source](https://www.linkedin.com/company/reverion/#post-50a1145d9f9f))
 - **2026-06-24** — news mention: #cdrexperiencetour #carbondioxideremoval | Deutscher Verband für negative Emissionen e.V. (DVNE) ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473603880384167936/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
@@ -49,7 +51,6 @@ Reverion is a 2022 spin-off from the Technical University of Munich that has cre
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

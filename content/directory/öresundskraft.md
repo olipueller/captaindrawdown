@@ -32,6 +32,7 @@ liveliness: "🟢 Active"
 
 ## History
 
+- **2026-07-30** — news mention: Sydskånes avfallsaktiebolag (SYSAV): Fyra intensiva dagar för Sysav i Almedalen! Under veckan arrang ([source](https://www.linkedin.com/company/sysav/#post-183898d3e407))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-23** — news mention: April CDR Industry Database Update.  We track ~970 organisations doing carbon removal. But only 570  ([source](https://x.com/CaptainDrawdown/status/2047201161388687652))
@@ -55,7 +56,6 @@ liveliness: "🟢 Active"
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

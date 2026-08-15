@@ -35,6 +35,12 @@ Cascade Climate is a philanthropically-backed US nonprofit (launched June 2023) 
 
 ## History
 
+- **2026-08-13** — news mention: Cascade Climate: We’re launching an open call for research funding for carbon removals and superpoll ([source](https://www.linkedin.com/company/cascade-climate/#post-fe335e01a5a3))
+- **2026-08-06** — news mention: Cascade Climate: A year ago, we placed a bet: that shared ERW deployment data â not data locked in ([source](https://www.linkedin.com/company/cascade-climate/#post-dfd7eca1a9dd))
+- **2026-08-06** — news mention: Cascade Climate: Rocks used in ERW, such as basalt and peridotite (olivine), naturally contain trace ([source](https://www.linkedin.com/company/cascade-climate/#post-75e5a06354c1))
+- **2026-07-30** — news mention: Cascade Climate: Cascade Climate is excited to announce the Bedrock Initiative — a coordinated globa ([source](https://www.linkedin.com/company/cascade-climate/#post-2eb4f47d3486))
+- **2026-07-22** — news mention: Cascade Climate: 🌍 New Global Initiative Aims To Strengthen The Science Behind Enhanced Rock Weather ([source](https://www.linkedin.com/company/cascade-climate/#post-c6e79aeff3b3))
+- **2026-07-22** — news mention: Cascade Climate: A year ago, we placed a bet: that shared ERW deployment data — not data locked insi ([source](https://www.linkedin.com/company/cascade-climate/#post-f3f65fcc7aa0))
 - **2026-07-09** — news mention: Cascade Climate ([source](http://cascadeclimate.org/blog/data-quarry-update-summer-26))
 - **2026-05-23** — news mention: Week in CDR — 2026-W20 ([source](https://www.captaindrawdown.com/posts/week-in-cdr-2026-w20/))
 - **2026-05-23** — news mention: Weekly link list: this week's connective tissue is infrastructure quietly being rebuilt around CDR.  ([source](https://x.com/CaptainDrawdown/status/2058084297249018276))
@@ -60,7 +66,6 @@ Cascade Climate is a philanthropically-backed US nonprofit (launched June 2023) 
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

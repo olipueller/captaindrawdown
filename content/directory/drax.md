@@ -29,6 +29,12 @@ Drax Group plc is a UK-listed energy utility that operates the Drax Power Statio
 
 ## History
 
+- **2026-08-11** — news mention: Drax: Today marks a significant milestone in Drax's growth journey as we complete the acquisition of ([source](https://www.linkedin.com/company/drax-power/#post-70760b4e4e72))
+- **2026-08-07** — news mention: Happy to see that @biochartoday.bsky.social has resumed posting on Bluesky. Please consider followin ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3msixkei77s2o))
+- **2026-08-07** — news mention: Additional carbon drawdown potential by increasing Soil Organic Carbon appears to be significantly h ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3msipznycrk2o))
+- **2026-08-07** — news mention: Drax Secures Environment Agency Permit Variation For Selby Carbon Capture Project ([source](https://carbonherald.com/drax-secures-environment-agency-permit-variation-for-selby-carbon-capture-project/?utm_source=rss&utm_medium=rss&utm_campaign=drax-secures-environment-agency-permit-variation-for-selby-carbon-capture-project))
+- **2026-07-26** — news mention: Biofine: Biofine Developments NE  is excited to announce that it has entered into a collaboration ag ([source](https://www.linkedin.com/company/biofine-developments-northeast/#post-a34833f5c98c))
+- **2026-07-24** — news mention: Drax/Elimini: 📢The European Commission has finalized its Carbon Removal Certification Framework for  ([source](https://www.linkedin.com/company/elimini/#post-64c2e8099d10))
 - **2026-07-04** — news mention: Drax Group plc outlines its role in the energy transition as investors track long-term strategy ([source](https://www.ad-hoc-news.de/boerse/news/ueberblick/drax-group-plc-outlines-its-role-in-the-energy-transition-as-investors/69681472))
 - **2026-06-07** — news mention: Miliband’s Clean Power 2030 Plan Off the Rails ([source](https://davidturver.substack.com/p/miliband-clean-power-2030-plan-off-the-rails))
 - **2026-06-05** — news mention: UK agency backs permit change for Drax carbon capture project - Bioenergy Insight Magazine ([source](https://www.bioenergy-news.com/news/uk-agency-backs-permit-change-for-drax-carbon-capture-project/))
@@ -55,7 +61,6 @@ Drax Group plc is a UK-listed energy utility that operates the Drax Power Statio
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

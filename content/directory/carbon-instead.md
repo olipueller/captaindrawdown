@@ -14,9 +14,9 @@ liveliness: "🟢 Active"
   <tr><th>Secondary pathways</th><td>Mineralization</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://carboninstead.de/" target="_blank" rel="noopener">https://carboninstead.de/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-instead/" target="_blank" rel="noopener">carbon-instead</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-instead/" target="_blank" rel="noopener">carbon-instead — 949 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~3 (+50% YoY)</td></tr>
+  <tr><th>Employees</th><td>~4 (+100% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -30,6 +30,8 @@ Carbon Instead (Carbon Instead Solutions GmbH) is a Germany-based small company 
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
+- **2026-07-31** — news mention: Wastewater treatment plants produce CO₂ continuously — inside enclosed, monitored reactors — as a na ([source](https://www.linkedin.com/feed/update/urn:li:share:7488578005435314177/))
 - **2026-05-13** — news mention: ScienceDaily: Your source for the latest research news ([source](https://www.sciencedaily.com/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
@@ -48,7 +50,6 @@ Carbon Instead (Carbon Instead Solutions GmbH) is a Germany-based small company 
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

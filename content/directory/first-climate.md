@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>BiCRS (Other)</td></tr>
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://www.firstclimate.com/" target="_blank" rel="noopener">https://www.firstclimate.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/first-climate/" target="_blank" rel="noopener">first-climate — 17,309 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~89</td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/first-climate/" target="_blank" rel="noopener">first-climate — 17,763 followers</a></td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 65/100)</td></tr>
+  <tr><th>Employees</th><td>~87 (-9% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
 
@@ -31,6 +31,7 @@ First Climate is a German/Swiss carbon asset manager and climate services firm f
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
 - **2026-05-05** — news mention: Inkoh, Puro.earth, Cula, and First Climate Demonstrate Scalable Carbon Removal at Climate Week Zuric ([source](https://biochartoday.com/news/inkoh-puro-earth-cula-and-first-climate-demonstrate-scalable-carbon-removal-at-climate-week-zurich/))
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://www.firstclimate.com/?lang=en))
 - **2026-05-01** — news mention: Meet the Carbonfuture team at Climate Week Zurich 2026 | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7455555282937532417/))
@@ -51,7 +52,6 @@ First Climate is a German/Swiss carbon asset manager and climate services firm f
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

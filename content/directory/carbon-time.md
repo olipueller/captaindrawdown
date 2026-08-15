@@ -15,7 +15,7 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>Ocean Alkalinity Enhancement</td></tr>
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://www.carbon-time.com/" target="_blank" rel="noopener">https://www.carbon-time.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-time/" target="_blank" rel="noopener">carbon-time — 1,850 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/carbon-time/" target="_blank" rel="noopener">carbon-time — 1,968 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
   <tr><th>Employees</th><td>~2 (0% YoY)</td></tr>
   <tr><th>Open roles</th><td>1 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
@@ -35,6 +35,7 @@ Carbon Time is a Paris-based startup founded in 2021 and led by Ivan Communod th
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot, liveliness
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://tracxn.com/d/companies/carbon-time/__17zs-noFXGmUi1E9rKCypx2b_9Mo8-kdJdKqSYefPb8))
@@ -52,7 +53,6 @@ Carbon Time is a Paris-based startup founded in 2021 and led by Ivan Communod th
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

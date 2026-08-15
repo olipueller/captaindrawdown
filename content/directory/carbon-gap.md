@@ -34,40 +34,40 @@ Carbon Gap is Europe's leading carbon dioxide removal (CDR) advocacy and researc
 
 ## History
 
+- **2026-08-13** — news mention: €20 Billion Carbon Gap Threatens EU Net-Zero Mandate | ESG News.earth ([source](https://www.esgnews.earth/latest-news/e20-billion-carbon-gap-threatens-eu-net-zero-mandate/21327.html))
+- **2026-08-12** — news mention: State of CDR 2 | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7493231051687907329/))
+- **2026-08-12** — news mention: Carbon Gap: Could international carbon credits become part of the EU ETS? A new analysis from Carbon ([source](https://www.linkedin.com/company/carbon-removal-advocacy-europe/#post-c486c352e13d))
+- **2026-08-08** — news mention: Frontier Climate: Last week, DG CLIMA officially kicked off the EU Buyers Club at CRCF Days in Bruss ([source](https://www.linkedin.com/company/frontierclimate/#post-00b9a7493194))
+- **2026-08-07** — news mention: International Credits In The EU ETS: How The 2026 Review Bets On Flexibility And What It Means For C ([source](https://carbonherald.com/international-credits-in-the-eu-ets-how-the-2026-review-bets-on-flexibility-and-what-it-means-for-cdr-at-home-and-abroad/?utm_source=rss&utm_medium=rss&utm_campaign=international-credits-in-the-eu-ets-how-the-2026-review-bets-on-flexibility-and-what-it-means-for-cdr-at-home-and-abroad))
+- **2026-08-07** — news mention: Buyers Club due diligence.pdf | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7491077605715070977/))
+- **2026-08-07** — news mention: Timber Finance: Dear everyone, Three recent analyses, one major development for carbon removal in Eu ([source](https://www.linkedin.com/company/timberfinance/#post-72ffa5913dd0))
+- **2026-08-06** — news mention: Mapping EU CDR Policy | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7490710770960388096/))
+- **2026-08-05** — news mention: Carbon Gap: We are excited to share our reaction to the European Commission's legislative proposal o ([source](https://www.linkedin.com/company/carbon-removal-advocacy-europe/#post-7b658ca27916))
+- **2026-08-04** — news mention: Carbon Removal Policy Summit | Carbon Gap ([source](https://carbongap.org/carbon-removal-policy-summit))
+- **2026-07-29** — news mention: Carbon Gap: 🪜 Not all carbon removal projects are equally ready for commercial procurement. An EU CR ([source](https://www.linkedin.com/company/carbon-removal-advocacy-europe/#post-f984f46b54a7))
+- **2026-07-24** — news mention: Today, Carbon Gap hit 15,000 followers!
+
+Thank you to all those who follow and support us as we advo ([source](https://www.linkedin.com/feed/update/urn:li:share:7486362914090766338/))
+- **2026-07-23** — news mention: 🏭 Following the European Commission&amp;#39;s EU ETS review proposal on 17 July, today Carbon Gap ho ([source](https://www.linkedin.com/feed/update/urn:li:share:7486036744988073985/))
+- **2026-07-23** — news mention: Policy Tools | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7485642254448152576/))
+- **2026-07-23** — news mention: EU CRCF Buyers Club_Carousel 4 | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7485992831929495553/))
+- **2026-07-22** — news mention: Carbon Gap (@CarbonGap) on X ([source](https://x.com/CarbonGap/status/2079494594715082990))
+- **2026-07-22** — news mention: Carbon Gap: Today the European Commission published its proposal to review the EU Emissions Trading  ([source](https://www.linkedin.com/company/carbon-removal-advocacy-europe/#post-5b74fd9ee326))
+- **2026-07-22** — news mention: Carbon Gap: Today the UK Government published its response to the Independent Review on Greenhouse G ([source](https://www.linkedin.com/company/carbon-removal-advocacy-europe/#post-c6a51c39dc5e))
+- **2026-07-21** — news mention: 📢 How do we move carbon dioxide removal (CDR) from ambition to implementation?
+
+On 16 September in B ([source](https://www.linkedin.com/feed/update/urn:li:share:7485260537673650176/))
+- **2026-07-18** — news mention: UK GGR Review | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7483903705503678464/))
+- **2026-07-17** — news mention: Today the European Commission published its proposal to review the EU Emissions Trading System (ETS) ([source](https://www.linkedin.com/feed/update/urn:li:share:7483842349387915265/))
+- **2026-07-17** — news mention: Carbon Gap: The ETS Review Is A Landmark Opportunity To Kickstart CDR In EU - Carbon Herald ([source](https://carbonherald.com/carbon-gap-the-ets-review-is-a-landmark-opportunity-to-kickstart-cdr-in-eu/))
+- **2026-07-16** — news mention: Carbon Gap: The ETS Review Is A Landmark Opportunity To Kickstart CDR In EU ([source](https://carbonherald.com/carbon-gap-the-ets-review-is-a-landmark-opportunity-to-kickstart-cdr-in-eu/?utm_source=rss&utm_medium=rss&utm_campaign=carbon-gap-the-ets-review-is-a-landmark-opportunity-to-kickstart-cdr-in-eu))
+- **2026-07-16** — news mention: EU ETS Review CDR | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7483127234455666688/))
 - **2026-07-09** — news mention: EU Ocean Act response | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7480923948344487937/))
 - **2026-07-09** — news mention: EU CRCF Buyers Club | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7480543715246247936/))
 - **2026-07-07** — news mention: Let That Sink In: The Carbon Gap CDR Recap | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7479858239837306880/))
 - **2026-07-02** — news mention: LCAW Takeaways | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7478378832228687872/))
 - **2026-07-01** — news mention: Carbon Gap: Our own @[Francesca Battersby](urn:li:person:YHmf6ZNX5c) will be speaking on the @[Clean ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7477380235617865728/))
 - **2026-07-01** — news mention: Carbon Gap: Poland has significant untapped potential to deploy carbon dioxide removal \(CDR\) at sc ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7477700296836714497/))
-- **2026-06-26** — news mention: #lcaw2026 #carbonremovallondon #cdr2030 | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7475875113821777920/))
-- **2026-06-24** — news mention: Beyond emissions cuts: Italy&amp;#39;s carbon removal opportunity | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7472990680844410881/))
-- **2026-06-24** — news mention: CRRA recap | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7475122909817217024/))
-- **2026-06-24** — news mention: The design is in the details: What should national permanent CDR targets look like? | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7475483010792996864/))
-- **2026-06-11** — news mention: 👏 We&amp;#39;re delighted to welcome Kaj Seeger  to the Carbon Gap team as our new Advocacy Lead for ([source](https://www.linkedin.com/feed/update/urn:li:share:7470399615628980224/))
-- **2026-06-10** — news mention: Buyers Club carousel.pdf | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7470087058582171649/))
-- **2026-06-09** — news mention: EU Buyers&#039; Club - Carbon Gap - Policy Tracker ([source](https://tracker.carbongap.org/policy/eu-buyers-club/))
-- **2026-06-04** — news mention: Stockholm shows the way: How public buyers can boost the carbon removal market - Carbon Gap ([source](https://carbongap.org/stockholm-shows-the-way-how-public-buyers-can-boost-the-carbon-removal-market/))
-- **2026-06-04** — news mention: Copy of Stockholm shows the way: How public buyers can boost the carbon removal market | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7468239829722492929/))
-- **2026-05-29** — news mention: Poland has significant carbon removal potential but urgently needs policy and infrastructure to matc ([source](https://carbongap.org/poland-has-significant-carbon-removal-potential-but-urgently-needs-policy-and-infrastructure-to-match/))
-- **2026-05-29** — news mention: New Report: Poland Holds Significant CDR Potential, But Urgently Needs Matching Policy & Infrastruct ([source](https://carbonherald.com/new-report-poland-holds-significant-cdr-potential-but-urgently-needs-matching-policy-infrastructure/?utm_source=rss&utm_medium=rss&utm_campaign=new-report-poland-holds-significant-cdr-potential-but-urgently-needs-matching-policy-infrastructure))
-- **2026-05-26** — news mention: 🎉 We&amp;#39;re so pleased to welcome Camille Fessard as our France Advocacy Lead!
-
-Camille joins us ([source](https://www.linkedin.com/feed/update/urn:li:share:7464959266525855744/))
-- **2026-05-22** — news mention: Yesterday, on Day 2 of the CRCF Days, carbon farming was the focus. 
-
-Over the two days, a lot of gr ([source](https://www.linkedin.com/feed/update/urn:li:share:7463535518933319680/))
-- **2026-05-20** — news mention: New Paper Examines How An EU CDR Buyers’ Club Could Drive Demand In This Region ([source](https://carbonherald.com/new-paper-examines-how-an-eu-cdr-buyers-club-could-drive-demand-in-this-region/?utm_source=rss&utm_medium=rss&utm_campaign=new-paper-examines-how-an-eu-cdr-buyers-club-could-drive-demand-in-this-region))
-- **2026-05-20** — news mention: Earlier today, Carbon Gap contributed input to a closed-door roundtable in Brussels on carbon remova ([source](https://www.linkedin.com/feed/update/urn:li:share:7462505613923651584/))
-- **2026-05-19** — news mention: Advancing an EU Carbon Removal's Buyers Club - Carbon Gap ([source](https://carbongap.org/advancing-an-eu-carbon-removals-buyers-club))
-- **2026-05-19** — news mention: Ahead of the CRCF days, a new paper charts how an EU carbon removal Buyers’ Club can drive demand fo ([source](https://carbongap.org/crcf-days-buyers-club-paper))
-- **2026-05-12** — news mention: EU ETS Review 2026 | Carbon Gap ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7458063115021189120/))
-- **2026-05-05** — news mention: National Targets and Flexibilities - Call for evidence response - Carbon Gap ([source](https://carbongap.org/national-targets-and-flexibilities/))
-- **2026-05-01** — news mention: National targets and flexibilities - Carbon Gap ([source](https://carbongap.org/national-targets-and-flexibilities-submission))
-- **2026-05-01** — refresh: coresignal, screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-05-01** — refresh: screenshot
-- **2026-04-25** — news mention: This Week in CDR - April 24, 2026 | CDR.fyi ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7453451962160734208/))
 
 ---
 
@@ -76,7 +76,6 @@ Over the two days, a lot of gr ([source](https://www.linkedin.com/feed/update/ur
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

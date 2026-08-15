@@ -40,6 +40,12 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-08-08** — news mention: Terraton Industrial Inc.: A look inside the EcoFix Kenya Ltd (EFK) facility producing its first batc ([source](https://www.linkedin.com/company/terraton/#post-39dd2c8aa8d5))
+- **2026-08-08** — news mention: Terraton Industrial Inc.: Our second biochar facility, with Tupande in Sagana, Kenya, is taking shap ([source](https://www.linkedin.com/company/terraton/#post-b7ce9afb9b2b))
+- **2026-08-01** — news mention: Terraton: A look inside the EcoFix Kenya Ltd (EFK) facility producing its first batches of biochar.  ([source](https://www.linkedin.com/company/terraton/#post-253c7b43db81))
+- **2026-08-01** — news mention: Terraton: Our second biochar facility, with Tupande in Sagana, Kenya, is taking shape. Equipment ins ([source](https://www.linkedin.com/company/terraton/#post-01994eafd43b))
+- **2026-07-27** — news mention: Sanbra Foods: A quick look at the EcoFix Kenya Ltd (EFK) biochar facility as commissioning is offici ([source](https://www.linkedin.com/company/sanbrafoods/#post-f788c2bc9d89))
+- **2026-07-24** — news mention: Terraton Industrial Inc.: Another milestone at the EcoFix Kenya Ltd (EFK) facility: the site visit f ([source](https://www.linkedin.com/company/terraton/#post-1376ddde6a5d))
 - **2026-05-20** — news mention: #carbonunboundeastcoast #carbonunbound #carbonremoval #climateaction #netzero #decarbonization #carb ([source](https://www.linkedin.com/feed/update/urn:li:share:7462573132252459009/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
@@ -62,7 +68,6 @@ Independently verified by carbon-credit registries:
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

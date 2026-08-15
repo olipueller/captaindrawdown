@@ -5,7 +5,7 @@ type: "directory"
 description: "Job board and talent/industry-data platform focused exclusively on the carbon dioxide removal sector; not a removal supplier."
 url: "/directory/cdrjobs/"
 pathway: "Enabling Tech"
-liveliness: "🟡 Moderate"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🟡 Moderate"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.cdrjobs.earth" target="_blank" rel="noopener">https://www.cdrjobs.earth</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/cdrjobs/" target="_blank" rel="noopener">cdrjobs — 8,838 followers</a></td></tr>
-  <tr><th>Status</th><td>🟡 Moderate (score: 55/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~7</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -30,6 +30,9 @@ CDRjobs is a dedicated jobs board and industry-insights platform for the carbon 
 
 ## History
 
+- **2026-08-15** — liveliness: 🟡 Moderate → 🟢 Active
+- **2026-08-06** — news mention: CDRjobs: Today, we’re excited to announce that the European Innovation Council has selected Paebbl f ([source](https://www.linkedin.com/company/cdrjobs/#post-4ecf1d949537))
+- **2026-08-06** — news mention: CDRjobs: 🎉 Congratulations to Paebbl ! Paebbl has been selected by the European Innovation Council f ([source](https://www.linkedin.com/company/cdrjobs/#post-fce70b881854))
 - **2026-06-15** — liveliness: 🟢 Active → 🟡 Moderate
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active
 - **2026-05-01** — refresh: coresignal, screenshot
@@ -46,7 +49,6 @@ CDRjobs is a dedicated jobs board and industry-insights platform for the carbon 
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

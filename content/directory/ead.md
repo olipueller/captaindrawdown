@@ -14,6 +14,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://ead.darmstadt.de/" target="_blank" rel="noopener">https://ead.darmstadt.de/</a></td></tr>
   <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Employees</th><td>~3000</td></tr>
   <tr><th>CDR Focus</th><td>side_business</td></tr>
 </table>
 
@@ -27,6 +28,7 @@ EAD (Eigenbetrieb für kommunale Aufgaben und Dienstleistungen) is the municipal
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
 - **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://www.hortidaily.com/article/9662190/ead-and-icba-forge-new-partnership-to-bolster-abu-dhabi-s-sustainability-goals/))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
@@ -44,7 +46,6 @@ EAD (Eigenbetrieb für kommunale Aufgaben und Dienstleistungen) is the municipal
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

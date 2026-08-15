@@ -30,6 +30,23 @@ Carbon Cycle GmbH & Co. KG is a biochar producer based in Rieden, Bavaria, Germa
 
 ## History
 
+- **2026-08-13** — news mention: Jupyter Notebooks referring to the paper titled 'Impacts of simulated coastal ocean alkalinity enhan ([source](https://doi.org/10.5281/zenodo.21874676))
+- **2026-08-07** — news mention: Happy to see that @biochartoday.bsky.social has resumed posting on Bluesky. Please consider followin ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3msixkei77s2o))
+- **2026-08-07** — news mention: Carbon Cycle, 001, Rieden, DE - Puro.earth ([source](https://puro.earth/cdr-credit-suppliers/facilities/carbon-cycle-001-rieden-de/))
+- **2026-08-07** — news mention: River dissolved inorganic carbon losses from the Andes to lowland Amazon via cryptic sedimentary exc ([source](https://doi.org/10.31223/x5wj68))
+- **2026-08-06** — news mention: National Centre for Earth Observation: 🌊 Understanding long-term changes in phytoplankton is essenti ([source](https://www.linkedin.com/company/nceo/#post-29907c82daae))
+- **2026-08-01** — news mention: bioDYM: Dynamic material flow analysis for biogenic carbon management and CDR strategy assessment ([source](https://doi.org/10.21203/rs.3.rs-10156871/v1))
+- **2026-07-30** — news mention: Metal Accumulation Risks in Enhanced Rock Weathering: Risk Assessment Framework and Recommendations ([source](https://cdrxiv.org/preprint/546))
+- **2026-07-28** — news mention: Exeter climate conference 5 - Plenary: Carbon cycle ([source](https://suenethercott.substack.com/p/exeter-climate-conference-5-plenary))
+- **2026-07-26** — news mention: Reviews and syntheses: Experimental evidence of phytoplankton responses to Ocean Alkalinity Enhancem ([source](https://doi.org/10.5194/egusphere-2026-4055))
+- **2026-07-26** — news mention: How carbon dioxide removal lost its way: tracing the origin and transformation of the 10-Gt durable  ([source](https://cdrxiv.org/preprint/330))
+- **2026-07-23** — news mention: Frontiers | Harnessing the microbial carbon pump: prospects and challenges for coastal carbon seques ([source](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1897665/full))
+- **2026-07-22** — news mention: In terms of earth science the discovery of the beneficial impact of manufacturing biochar for use as ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mraj37fqps2p))
+- **2026-07-21** — news mention: Bacillus subtilis-mediated weathering of basalt revealed through sporulation ([source](https://cdrxiv.org/preprint/480))
+- **2026-07-19** — news mention: The Marine Carbon Pathway Framework (MCPF): A Standardised Framework for Assessing Natural Marine Ca ([source](https://doi.org/10.5281/zenodo.21410819))
+- **2026-07-18** — news mention: I'll point out to people that these new cleaner NH3 production facilities significantly alter the ma ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mqwftwre622t))
+- **2026-07-17** — news mention: I will point out that it is now possible to purchase 115 kg of CO2 removal via biochar for only $27  ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mqu4mncxlc2t))
+- **2026-07-17** — news mention: Even if the theoretical physics minimum to pull CO2 from air at ~420 ppm of about 20 kJ/mol, roughly ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mqu36rb6jc2t))
 - **2026-07-13** — news mention: Since you have demonstrated how ignorant you are with your bachelor's from an Ivy League school has  ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mqjl5patac2k))
 - **2026-07-05** — news mention: Read the full story 👇 https://t.co/uEZwn4pMNd ([source](https://x.com/CekirdekGLOBAL/status/2073667715387052204))
 - **2026-07-04** — news mention: Most of the opposition to Carbon Dioxide Removal from climate action advocates is because of the fra ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mptrrjk5zs2h))
@@ -43,14 +60,6 @@ Carbon Cycle GmbH & Co. KG is a biochar producer based in Rieden, Bavaria, Germa
 - **2026-05-03** — news mention: When I see the term geological scale, as a geologist, I think of geologic timeframes which most defi ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mkxzveezws23))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: screenshot
-- **2026-04-24** — news mention: Many countries combine GHG emissions and removals to get net emissions. On this accounting, Sweden h ([source](https://bsky.app/profile/glenpeters.bsky.social/post/3mk7vcupg3k24))
-- **2026-04-19** — nulled Coresignal enrichment — LLM-verified mismatch: biochar-zero.com is an industry directory/database that lists Carbon Cycle GmbH & Co. KG as one entry among many biochar producers; it is a separate platform, not the same entity, rename, parent, or s
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/carbon-cycle-001-rieden-de))
-- **2026-04-19** — refresh: liveliness
-- **2026-04-19** — liveliness: 🟢 Active → 🟡 Moderate ([source](https://biochar-zero.com/company/carbon-cycle-gmbh-co-kg/))
-- **2026-04-19** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://puro.earth/CORC-co2-removal-certificate/supplier-listing/carbon-cycle-001-rieden-de))
-- **2026-04-18** — reclassified: pathway=Biochar focus=supplier liveliness=🟢 Active ([source](https://puro.earth/CORC-co2-removal-certificate/carbon-cycle-germany-premium-quality-biochar-100018))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 
@@ -59,7 +68,6 @@ Carbon Cycle GmbH & Co. KG is a biochar producer based in Rieden, Bavaria, Germa
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

@@ -30,36 +30,42 @@ remove is a non-profit accelerator program focused solely on carbon dioxide remo
 
 ## History
 
-- **2026-07-14** — news mention: The Remove carbon dioxide removal (CDR) accelerator has launched its first program in Latin America. ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mqmkbz3qes2t))
-- **2026-07-14** — news mention: remove Launches Its First CDR Accelerator Program In Latin America ([source](https://carbonherald.com/remove-launches-its-first-cdr-accelerator-program-in-latin-america/?utm_source=rss&utm_medium=rss&utm_campaign=remove-launches-its-first-cdr-accelerator-program-in-latin-america))
-- **2026-07-10** — news mention: Nuada deploys capture facility to advance Europe’s biogenic CO2 market | Carbon Capture | gasworld ([source](https://www.gasworld.com/story/nuada-deploys-capture-facility-to-advance-europes-biogenic-co2-market/2254113.article/))
-- **2026-07-08** — news mention: Frontiers | Decarbonising UK industrial clusters: the role of green finance and the risk(s) of lock- ([source](https://www.frontiersin.org/journals/climate/articles/10.3389/fclim.2026.1836939/full))
-- **2026-07-08** — news mention: Microsoft hit pause on carbon removal purchases. Now what? | DeviceDaily.com ([source](https://www.devicedaily.com/pin/microsoft-hit-pause-on-carbon-removal-purchases-now-what/))
-- **2026-07-07** — news mention: remove Looking To Back The Next CDR Cohort In India Through Its Accelerator Program ([source](https://carbonherald.com/remove-looking-to-back-the-next-cdr-cohort-in-india-through-its-accelerator-program/?utm_source=rss&utm_medium=rss&utm_campaign=remove-looking-to-back-the-next-cdr-cohort-in-india-through-its-accelerator-program))
-- **2026-07-07** — news mention: Key line: drought-stressed forests flip from sink to source. Reminder that LULUCF (land use and fore ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mq2c7fdkvh25))
-- **2026-07-03** — news mention: EU Mandates Vehicle Circularity | ESG News.earth ([source](https://www.esgnews.earth/latest-news/eu-mandates-vehicle-circularity/20353.html))
-- **2026-07-02** — news mention: Groundwork says its program delivers 100% carbon dioxide removal rather than avoided emissions. It s ([source](https://bsky.app/profile/kevinleecaster.bsky.social/post/3mpo66j6zcc2b))
-- **2026-07-01** — news mention: Carbon Business Council: London Climate Action Week 2026 was a marquee event for the global carbon r ([source](https://www.linkedin.com/feed/update/urn:li:share:7477764172060139520/))
-- **2026-07-01** — news mention: Amazon backs South Africa land restoration project with 1.95 million carbon credits - Neowin ([source](https://www.neowin.net/news/amazon-backs-south-africa-land-restoration-project-with-195-million-carbon-credits/))
-- **2026-07-01** — news mention: How the Right Investments Remove Carbon and Add Community Trust ([source](https://futureinbloom.substack.com/p/how-the-right-investments-remove))
-- **2026-06-30** — news mention: Clean power led 2025 supply growth per Carbon Brief. The CDR angle: every gigawatt of fossil generat ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpiox4r6eb26))
-- **2026-06-29** — news mention: there’s a continuum, but in this instance I’m mostly talking about image classification, unsupervise ([source](https://bsky.app/profile/costasamaras.com/post/3mpgfy6tews2i))
-- **2026-06-29** — news mention: Congrats on getting close to commissioning. A 0.14 H/C ratio plus EBC Feed Grade puts your output in ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mpg4q4r7xy2m))
-- **2026-06-28** — news mention: disagree, it’s sky trash waste management ([source](https://bsky.app/profile/costasamaras.com/post/3mpefhtlc522d))
-- **2026-06-27** — news mention: Carbon Removal Tracker ([source](https://www.removecarbontoday.com/pages/carbon-removal-tracker))
-- **2026-06-27** — news mention: Needle Flame Test Equipment: IEC 60695 Compliance Guide ([source](https://www.ledphotometer.com/blogs/needle-flame-test-equipment-a-comprehensive-guide-to-iec-60695-compliance-and-fire-safety-testing/))
-- **2026-06-27** — news mention: Gold Standard Unveils a $17 Billion Climate Plan and How Businesses Can Use Carbon Credits With It ([source](https://carboncredits.com/gold-standard-oer-17-billion-climate-finance-carbon-credits/))
-- **2026-06-25** — news mention: Amazon Opens Its Carbon Credit Vault for Hundreds of Companies as High-Quality Offsets Run Short ([source](https://carboncredits.com/amazon-opens-its-carbon-credit-vault-for-hundreds-of-companies-as-high-quality-offsets-run-short/))
-- **2026-06-24** — news mention: decarbonfuse ([source](https://decarbonfuse.com/posts/global-investment-in-carbon-dioxide-removal-reaches-usd-11-5-billion/))
-- **2026-06-24** — news mention: #cdrexperiencetour #carbondioxideremoval | Deutscher Verband für negative Emissionen e.V. (DVNE) ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473603880384167936/))
-- **2026-06-24** — news mention: CDR - Experience Tour 2026 | German Biochar e.V. (German Biochar Association) ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7473730588957544448/))
-- **2026-06-24** — news mention: Arctic Carbon Visual | Carbonfuture ([source](https://www.linkedin.com/feed/update/urn:li:ugcPost:7475477940915474432/))
-- **2026-06-23** — news mention: First biogenic CO2 rolls out of Denmark biogas CCS facility | Carbon Capture | gasworld ([source](https://www.gasworld.com/story/first-biogenic-co2-rolls-out-of-denmark-biogas-ccs-facility/2252852.article/))
-- **2026-06-23** — news mention: A promising natural technique to remove CO2 could backfire | New Scientist ([source](https://www.newscientist.com/article/2531254-a-promising-natural-technique-to-remove-co2-could-backfire/))
-- **2026-06-23** — news mention: Carbon Credit Retirements Hit Record High Despite Falling Supply: What Does This Say About the Marke ([source](https://carboncredits.com/carbon-credit-retirements-hit-record-high-despite-falling-supply-what-does-this-say-about-the-market/))
-- **2026-06-23** — news mention: CarbonCredits.com - Your Source For Carbon Credit News & Opportunities ([source](https://carboncredits.com/))
-- **2026-06-11** — news mention: Mitsubishi Electric And VTT Reach Milestone In Electrochemical DOC Project  Mitsubishi Electric and  ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mnyuylsvos2h))
-- **2026-06-11** — news mention: The AI bubble debate misses the point: the bottleneck is physical | Carbon Direct ([source](https://www.carbon-direct.com/insights/the-ai-bubble-debate-misses-the-point-the-bottleneck-is-physical))
+- **2026-08-14** — news mention: Indian Company Ground Up Secures A Pre-Purchase Agreement With remove ([source](https://carbonherald.com/indian-company-ground-up-secures-a-pre-purchase-agreement-with-remove/?utm_source=rss&utm_medium=rss&utm_campaign=indian-company-ground-up-secures-a-pre-purchase-agreement-with-remove))
+- **2026-08-14** — news mention: Carbon Drawdown Initiative: Does more basalt mean more CO₂ removal? Our XXL Lysimeter Experiment say ([source](https://www.linkedin.com/company/carbon-drawdown-initiative/#post-b398856601b9))
+- **2026-08-14** — news mention: Does more basalt mean more CO₂ removal? Our XXL Lysimeter Experiment says: not so fast.
+
+The intuiti ([source](https://www.linkedin.com/feed/update/urn:li:share:7493651331526742016/))
+- **2026-08-13** — news mention: remove: Pre-purchase announcement: remove has signed a pre-purchase agreement with Carbonway . At re ([source](https://www.linkedin.com/company/cdr-accelerator/#post-818d569495e0))
+- **2026-08-13** — news mention: How cement plants can remove CO₂ from the atmosphere ([source](https://techxplore.com/news/2026-08-cement-atmosphere.html))
+- **2026-08-12** — news mention: Blue carbon - Wikipedia ([source](https://en.wikipedia.org/wiki/Blue_carbon))
+- **2026-08-12** — news mention: CDR.fyi: 📰 This week saw some huge developments in durable CDR, as Microsoft bought 23,602 tonnes of ([source](https://www.linkedin.com/company/cdr-fyi/#post-9bb0bb24022d))
+- **2026-08-10** — news mention: Flux: Isometric has reached a major milestone—signing our 100th carbon removal supplier, Flux . Over ([source](https://www.linkedin.com/company/flux-earth/#post-a3091f3c0857))
+- **2026-08-09** — news mention: People are mad at CNN for this article but we should also be mad about not being able to opt out of  ([source](https://bsky.app/profile/davidho.bsky.social/post/3msms2kjkc22b))
+- **2026-08-09** — news mention: Stephen Chow is sometimes overshadowed by other TVB stars but he’s quite good. ([source](https://bsky.app/profile/davidho.bsky.social/post/3msmgaw6yrk23))
+- **2026-08-09** — news mention: Same energy ([source](https://bsky.app/profile/davidho.bsky.social/post/3msmath7cvs23))
+- **2026-08-09** — news mention: Carbonway: Pre-purchase announcement: remove has signed a pre-purchase agreement with Carbonway . At ([source](https://www.linkedin.com/company/carbonwayorg/#post-9feebbc7ae67))
+- **2026-08-09** — news mention: Carbonway: 𝑻𝒉𝒓𝒊𝒍𝒍𝒆𝒅 𝒕𝒐 𝒔𝒉𝒂𝒓𝒆 𝒕𝒉𝒂𝒕 𝒓𝒆𝒎𝒐𝒗𝒆 𝒉𝒂𝒔 𝒔𝒊𝒈𝒏𝒆𝒅 𝒂 𝒑𝒓𝒆-𝒑𝒖𝒓𝒄𝒉𝒂𝒔𝒆 𝒂𝒈𝒓𝒆𝒆𝒎𝒆𝒏𝒕 𝒇𝒐𝒓 𝑪𝒂𝒓𝒃𝒐𝒏𝒘𝒂𝒚’𝒔 𝒄𝒂𝒓𝒃𝒐𝒏  ([source](https://www.linkedin.com/company/carbonwayorg/#post-06f39b1cf783))
+- **2026-08-08** — news mention: Stack Carbon: Today marks a defining milestone for STACK CARBON We are proud to announce that we hav ([source](https://www.linkedin.com/company/stackcarbon/#post-94053f1e64a4))
+- **2026-08-07** — news mention: World’s largest carbon removal plant to open at the end of 2026 - E&E News by POLITICO ([source](https://www.eenews.net/articles/worlds-largest-carbon-removal-plant-to-open-at-the-end-of-2026-2/))
+- **2026-08-07** — news mention: CarbonPlan's collective case for preprinting in CDR is right: preprints surface results 5 to 15 mont ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mshyra2ki426))
+- **2026-08-07** — news mention: Indirect electrification enables the 2°C goal without reliance on carbon dioxide removal ([source](https://doi.org/10.21203/rs.3.rs-10492629/v1))
+- **2026-08-06** — news mention: The Carbon Removers: Great to see The Carbon Removers featured in The Herald Scotland this week talk ([source](https://www.linkedin.com/company/thecarbonremovers/#post-299adcdf6b36))
+- **2026-08-06** — news mention: Supporting stronger communities takes more than one approach.
+
+At Charm, we&amp;#39;re working to re ([source](https://www.linkedin.com/feed/update/urn:li:share:7490269260112510976/))
+- **2026-08-05** — news mention: Carbon Credit Trading Platform Market Size to Grow $1,345.5 Million by 2035 | Research by SNS Inside ([source](https://www.globenewswire.com/news-release/2026/08/04/3338525/0/en/Carbon-Credit-Trading-Platform-Market-Size-to-Grow-1-345-5-Million-by-2035-Research-by-SNS-Insider.html))
+- **2026-08-05** — news mention: 🎙️ How can pyrolysis help remove carbon from the atmosphere?
+
+Charm&amp;#39;s Head of Market Develop ([source](https://www.linkedin.com/feed/update/urn:li:share:7490457550149136384/))
+- **2026-08-03** — news mention: Tierra Prieta: ðð Latin America Gets A New Carbon Removal Investment Roadmap Carbon Business C ([source](https://www.linkedin.com/company/tierra-prieta/#post-49a6e25d0f32))
+- **2026-08-01** — news mention: Representing Regional Dimensions of Carbon Dioxide Removal in Integrated Assessment Models in Suppor ([source](https://doi.org/10.18130/6tm7-vd85))
+- **2026-08-01** — news mention: bioDYM: Dynamic material flow analysis for biogenic carbon management and CDR strategy assessment ([source](https://doi.org/10.21203/rs.3.rs-10156871/v1))
+- **2026-07-31** — news mention: Wastewater treatment plants produce CO₂ continuously — inside enclosed, monitored reactors — as a na ([source](https://www.linkedin.com/feed/update/urn:li:share:7488578005435314177/))
+- **2026-07-31** — news mention: PyroCCS: 📣 Happy news from our alumni community! During London Climate Action Week, four remove alum ([source](https://www.linkedin.com/company/pyroccs/#post-1fe05f862376))
+- **2026-07-30** — news mention: Metal Accumulation Risks in Enhanced Rock Weathering: Risk Assessment Framework and Recommendations ([source](https://cdrxiv.org/preprint/546))
+- **2026-07-30** — news mention: Remove Is Now Accepting Applications For Cohort 9 Of Its CDR Accelerator In Europe ([source](https://carbonherald.com/remove-is-now-accepting-applications-for-cohort-9-of-its-cdr-accelerator-in-europe/?utm_source=rss&utm_medium=rss&utm_campaign=remove-is-now-accepting-applications-for-cohort-9-of-its-cdr-accelerator-in-europe))
+- **2026-07-30** — news mention: Milestone Environmental: We recently published our 5th Sustainability Report featuring our environme ([source](https://www.linkedin.com/company/milestoneenv/#post-c29274e1d56f))
+- **2026-07-29** — news mention: US scientists poured 16,500 gallons of lye into the Gulf of Maine and dyed the water bright pink to  ([source](https://www.ecoticias.com/en/us-scientists-poured-16500-gallons-of-lye-into-the-gulf-of-maine-and-dyed-the-water-bright-pink-to-track-it-the-first-federally-approved-try-at-reversing-ocean-acidity/35014/))
 
 ---
 
@@ -68,7 +74,6 @@ remove is a non-profit accelerator program focused solely on carbon dioxide remo
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

@@ -13,9 +13,9 @@ liveliness: "🟢 Active"
   <tr><th>Pathway</th><td>Biochar</td></tr>
   <tr><th>Country</th><td>Kenya</td></tr>
   <tr><th>Website</th><td><a href="https://www.biosorra.com/" target="_blank" rel="noopener">https://www.biosorra.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biosorra/" target="_blank" rel="noopener">biosorra — 3,607 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/biosorra/" target="_blank" rel="noopener">biosorra — 3,680 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
-  <tr><th>Employees</th><td>~11 (+22% YoY)</td></tr>
+  <tr><th>Employees</th><td>~12 (+9% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
 
@@ -29,6 +29,7 @@ Biosorra is a female-led Kenyan biochar pure-play operating what it describes as
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
 - **2026-05-28** — news mention: Les principaux fabricants de biochar transforment la santé des sols et l’élimination du carbone ([source](https://www.fortunebusinessinsights.com/blog/top-biochar-companies-11204))
 - **2026-05-01** — refresh: screenshot
 - **2026-05-01** — refresh: coresignal, screenshot
@@ -45,7 +46,6 @@ Biosorra is a female-led Kenyan biochar pure-play operating what it describes as
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

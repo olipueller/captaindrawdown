@@ -15,9 +15,9 @@ liveliness: "🟢 Active"
   <tr><th>Method</th><td>DAC (Solid Sorbent)</td></tr>
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://www.heirloomcarbon.com/" target="_blank" rel="noopener">https://www.heirloomcarbon.com/</a></td></tr>
-  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/heirloom-carbon/" target="_blank" rel="noopener">heirloom-carbon — 35,104 followers</a></td></tr>
+  <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/heirloom-carbon/" target="_blank" rel="noopener">heirloom-carbon — 36,076 followers</a></td></tr>
   <tr><th>Status</th><td>🟢 Active (score: 100/100)</td></tr>
-  <tr><th>Employees</th><td>~173 (-14% YoY)</td></tr>
+  <tr><th>Employees</th><td>~151 (-20% YoY)</td></tr>
   <tr><th>Open roles</th><td>11 on <a href="https://www.cdrjobs.earth/job-board" target="_blank" rel="noopener">cdrjobs</a></td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -35,8 +35,19 @@ Heirloom is a U.S. Direct Air Capture pure-play that uses limestone-based solid 
 
 ## History
 
+- **2026-08-15** — refresh: coresignal
+- **2026-08-13** — news mention: Cómo pueden las fábricas de cemento eliminar el CO₂ de la atmósfera - Un nuevo análisis del ciclo de ([source](https://www.quimica.es/noticias/1189560/como-pueden-las-fabricas-de-cemento-eliminar-el-co-de-la-atmosfera.html))
+- **2026-08-13** — news mention: How cement plants can remove CO₂ from the atmosphere ([source](https://techxplore.com/news/2026-08-cement-atmosphere.html))
+- **2026-08-12** — news mention: Scientists Could Turn Cement Plants Into Giant Carbon Sinks ([source](https://www.techexplorist.com/cement-plants-giant-carbon-removal-machines/103904/))
+- **2026-08-05** — news mention: Top 10 Leading Carbon Capture Companies in 2026 ([source](https://carbelim.io/top-10-carbon-capture-companies/))
+- **2026-07-30** — news mention: Carbon Removal Canada: 🤿 What do submarines have to do with carbon removal? More than you might thin ([source](https://www.linkedin.com/company/carbon-removal-canada/#post-e2c0d2150843))
+- **2026-07-28** — news mention: Heirloom: Congratulations to our partners at TKMS on their successful bid to deliver Canada's next-g ([source](https://www.linkedin.com/company/heirloom-carbon/#post-ee1243450353))
+- **2026-07-21** — news mention: Heirloom: TKMS , Heirloom Carbon Technologies and thyssenkrupp Calvion signed two Memorandums of Und ([source](https://www.linkedin.com/company/heirloom-carbon/#post-9fe62f057777))
+- **2026-07-21** — news mention: Heirloom: Carbon removal is entering its compliance era! Today, the European Commission proposed int ([source](https://www.linkedin.com/company/heirloom-carbon/#post-66a96e7e6880))
+- **2026-07-18** — news mention: Heirloom Blog - Carbon removal is entering the compliance era ([source](https://www.heirloomcarbon.com/news/carbon-removal-is-entering-the-compliance-era))
 - **2026-07-13** — news mention: Marketplace ([source](https://www.marketplace.org/episode/2026/07/13/the-high-cost-of-vacuuming-carbon-from-the-sky))
 - **2026-07-11** — news mention: United States Carbon Removal Technology Market Size, Share & Growth Forecast 2035 | Global Industry  ([source](https://www.openpr.com/news/4574088/united-states-carbon-removal-technology-market-size-share))
+- **2026-07-05** — news mention: Cost of direct air carbon capture to remain higher than hoped | ScienceDaily ([source](https://www.sciencedaily.com/releases/2024/03/240304135808.htm))
 - **2026-06-09** — news mention: Climeworks Carbon Capture 2026, 31,000 Ton Schneider Deal - EnkiAI ([source](https://enkiai.com/carbon-capture/climeworks-dac-aviation-offtake/))
 - **2026-05-28** — news mention: Explainer: Direct Air Capture pulls CO2 out of ambient air at ~425 ppm, which is why it's energy-int ([source](https://bsky.app/profile/captaindrawdown.bsky.social/post/3mmvh6b44x32b))
 - **2026-05-13** — news mention: What 900 carbon-removal social-media posts told me about engagement ([source](https://captaindrawdown.com/posts/what-900-cdr-posts-told-me-about-engagement/))
@@ -54,15 +65,6 @@ Heirloom is a U.S. Direct Air Capture pure-play that uses limestone-based solid 
 - **2026-04-29** — news mention: Climeworks given surprise green light for US plant - SWI swissinfo.ch ([source](https://www.swissinfo.ch/eng/climate-solutions/climeworks-receives-surprising-green-light-for-plant-in-louisiana/91326278))
 - **2026-04-28** — news mention: Trump Administration Preserves Federal Funding For US DAC And Hydrogen Hubs - Renewable Carbon News ([source](https://renewable-carbon.eu/news/?p=176095))
 - **2026-04-24** — news mention: 1PointFive - 2026 Company Profile, Team, Funding & Competitors - Tracxn ([source](https://tracxn.com/d/companies/1pointfive/__j1A8Bl4Dvpqzj2ZoKWjLOq3ugJabICgxasKvcf7xBdY))
-- **2026-04-24** — news mention: Occidental Carbon Capture 2025, $3.5B w/ Carbon Engineering ([source](https://enkiai.com/carbon-capture/direct-air-capture-projects-us/))
-- **2026-04-23** — news mention: Carbon removal, la startup che pietrifica la CO₂ ([source](https://www.startupbusiness.it/carbon-removal-la-startup-che-pietrifica-la-co%E2%82%82/164598/))
-- **2026-04-22** — news mention: Federal funding boost gives state carbon capture project new life ([source](https://www.1012industryreport.com/carbon-capture/federal-funding-boost-gives-state-carbon-capture-project-new-life/))
-- **2026-04-20** — news mention: Louisiana carbon capture project gets new life with federal funding boost ([source](https://www.businessreport.com/article/louisiana-carbon-capture-project-gets-new-life-with-federal-funding-boost))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.heirloomcarbon.com/))
-- **2026-04-19** — refresh: coresignal, screenshot
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.heirloomcarbon.com/))
-- **2026-04-19** — reclassified: pathway=DAC focus=supplier liveliness=🟢 Active ([source](https://www.heirloomcarbon.com/))
-- **2026-04-18** — backfilled from V1 ([source](/posts/how-we-built-the-cdr-directory/))
 
 ---
 
@@ -71,7 +73,6 @@ Heirloom is a U.S. Direct Air Capture pure-play that uses limestone-based solid 
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

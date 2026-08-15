@@ -5,7 +5,7 @@ type: "directory"
 description: "Operates pyrolysis reactors (\"Tlacuache 1\") that convert Caribbean Sargassum seaweed into biochar for use in construction materials and carbon sequestration."
 url: "/directory/rubisco2/"
 pathway: "Biochar"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Country</th><td>Germany</td></tr>
   <tr><th>Website</th><td><a href="https://rubisco2.com/" target="_blank" rel="noopener">https://rubisco2.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/rubisco2/" target="_blank" rel="noopener">rubisco2 — 360 followers</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~6 (-14% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,8 @@ RubisCO2 is an early-stage startup founded by Pablo Navarro Maldonado that trans
 
 ## History
 
+- **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://climaccelerator.climate-kic.org/news/carbon-removal-climaccelerator-start-up-spotlight-rubisco2/))
+- **2026-08-02** — news mention: RubisCO2: 🇲🇽 Today, president Claudia Sheinbaum Pardo , presented Mexico's strategy to turn sargassu ([source](https://www.linkedin.com/company/rubisco2/#post-ae5a5a506a7b))
 - **2026-06-15** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://climaccelerator.climate-kic.org/news/carbon-removal-climaccelerator-start-up-spotlight-rubisco2/))
 - **2026-05-01** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://climaccelerator.climate-kic.org/news/carbon-removal-climaccelerator-start-up-spotlight-rubisco2/))
 - **2026-05-01** — refresh: screenshot
@@ -50,7 +52,6 @@ RubisCO2 is an early-stage startup founded by Pablo Navarro Maldonado that trans
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

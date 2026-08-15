@@ -30,6 +30,7 @@ Earthly is a UK-based nature-based carbon credit marketplace that connects busin
 
 ## History
 
+- **2026-08-05** — news mention: Earthly: Today we're making an announcement we've been waiting to share. PV Climate is now CCP-Eligi ([source](https://www.linkedin.com/company/projectearthly/#post-ef8340d48292))
 - **2026-05-07** — news mention: Earthly Biochar Kiln: Original ([source](https://oldtreesoil.org/products/earthly-biochar-kiln))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-05-01** — refresh: screenshot
@@ -46,7 +47,6 @@ Earthly is a UK-based nature-based carbon credit marketplace that connects busin
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

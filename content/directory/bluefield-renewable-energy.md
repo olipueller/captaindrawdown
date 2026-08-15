@@ -5,7 +5,7 @@ type: "directory"
 description: "Converts waste biomass into biochar via proprietary advanced pyrolysis (thermo-chemical conversion) technology and generates biochar carbon removal credits."
 url: "/directory/bluefield-renewable-energy/"
 pathway: "Biochar"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Country</th><td>Singapore</td></tr>
   <tr><th>Website</th><td><a href="https://bluefieldrenewable.com/" target="_blank" rel="noopener">https://bluefieldrenewable.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/bluefieldrenewable/" target="_blank" rel="noopener">bluefieldrenewable — 1,375 followers</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~30 (-75% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,8 @@ Bluefield Renewable Energy (BRE) was founded in 2014 and is headquartered in Sin
 
 ## History
 
+- **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://bluefieldrenewable.com/))
+- **2026-08-01** — news mention: Bluefield Renewable Energy: https://lnkd.in/gcAZQQRT We can surely use feed grade biochar for all as ([source](https://www.linkedin.com/company/bluefieldrenewable/#post-d20b1de985da))
 - **2026-05-01** — refresh: coresignal
 - **2026-05-01** — refresh: coresignal, liveliness
 - **2026-05-01** — liveliness: 🟢 Active → 🔴 Likely Dead ([source](https://bluefieldrenewable.com/))
@@ -47,7 +49,6 @@ Bluefield Renewable Energy (BRE) was founded in 2014 and is headquartered in Sin
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

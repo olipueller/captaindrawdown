@@ -5,7 +5,7 @@ type: "directory"
 description: "MYNO pyrolyzes forest residuals into biochar at large-scale Carbon Removal Facilities, also producing renewable energy and selling carbon removal credits."
 url: "/directory/myno/"
 pathway: "Biochar"
-liveliness: "🟠 Suspect"
+liveliness: "🟢 Active"
 ---
 
 
@@ -14,7 +14,7 @@ liveliness: "🟠 Suspect"
   <tr><th>Country</th><td>United States</td></tr>
   <tr><th>Website</th><td><a href="https://mynocarbon.com/" target="_blank" rel="noopener">https://mynocarbon.com/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/myno-enterprises/" target="_blank" rel="noopener">myno-enterprises — 1,425 followers</a></td></tr>
-  <tr><th>Status</th><td>🟠 Suspect (score: 40/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~14</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -29,6 +29,8 @@ MYNO Carbon Corp. is a Washington-based biochar company founded in 2020 that is 
 
 ## History
 
+- **2026-08-15** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://mynocarbon.com/))
+- **2026-08-08** — news mention: MYNO: We're excited to share that bp Remediation Management Services Company has selected Myno Carbo ([source](https://www.linkedin.com/company/myno-enterprises/#post-a446768c9e40))
 - **2026-06-15** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://mynocarbon.com/))
 - **2026-05-01** — liveliness: 🟡 Moderate → 🟢 Active ([source](https://mynocarbon.com/))
 - **2026-05-01** — refresh: screenshot
@@ -53,7 +55,6 @@ MYNO Carbon Corp. is a Washington-based biochar company founded in 2020 that is 
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

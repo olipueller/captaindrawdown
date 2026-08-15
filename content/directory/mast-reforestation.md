@@ -44,6 +44,7 @@ Independently verified by carbon-credit registries:
 
 ## History
 
+- **2026-08-02** — news mention: Tau Carbon: Congratulations to Mast Reforestation on selling out MT1 in under six weeks. 🌲 Bain &amp ([source](https://www.linkedin.com/company/tau-carbon/#post-1ba07a1544b4))
 - **2026-05-29** — news mention: #tocw #carbonremoval #netzero | Climeworks ([source](https://www.linkedin.com/feed/update/urn:li:share:7465750358603264000/))
 - **2026-05-22** — news mention: EFM, Anew Climate And Mast Reforestation Issue  Verified Credits From Henry Creek Project ([source](https://carbonherald.com/efm-anew-climate-and-mast-reforestation-issue-verified-credits-from-henry-creek-project/?utm_source=rss&utm_medium=rss&utm_campaign=efm-anew-climate-and-mast-reforestation-issue-verified-credits-from-henry-creek-project))
 - **2026-05-15** — news mention: TOCW Flagship Event - Carbon Solutions: Canada’s Competitive Edge · Luma ([source](https://luma.com/cpz1cjy8?tk=J9B3Hx))
@@ -65,7 +66,6 @@ Independently verified by carbon-credit registries:
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

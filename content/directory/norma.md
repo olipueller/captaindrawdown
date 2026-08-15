@@ -5,7 +5,7 @@ type: "directory"
 description: "Develops supercapacitor-based electrochemical Direct Air Capture that integrates energy storage with CO2 capture to reduce net energy consumption."
 url: "/directory/norma/"
 pathway: "DAC"
-liveliness: "🔴 Likely Dead"
+liveliness: "🟢 Active"
 ---
 
 
@@ -15,7 +15,7 @@ liveliness: "🔴 Likely Dead"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://norma.tech/" target="_blank" rel="noopener">https://norma.tech/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/norma-tech/" target="_blank" rel="noopener">norma-tech — 2,208 followers</a></td></tr>
-  <tr><th>Status</th><td>🔴 Likely Dead (score: 15/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~8</td></tr>
   <tr><th>CDR Focus</th><td>supplier</td></tr>
 </table>
@@ -30,6 +30,9 @@ Norma is a Paris-based climate tech startup building a novel Direct Air Capture 
 
 ## History
 
+- **2026-08-15** — liveliness: 🔴 Likely Dead → 🟢 Active ([source](https://tracxn.com/d/companies/norma/__7Ta33N4VOLT_5pzMqLjX-bXd4Sia2nPCO6RdkJyggkY/funding-and-investors))
+- **2026-08-14** — news mention: Norma: 🇩🇪🥨 We've signed a project with SPRIND - Bundesagentur für Sprunginnovationen 🥨🇩🇪 Germany's F ([source](https://www.linkedin.com/company/norma-tech/#post-fa2c114c5bab))
+- **2026-07-29** — news mention: Marble: 🇩🇪🥨 We've signed a project with SPRIND - Bundesagentur für Sprunginnovationen 🥨🇩🇪 Germany's  ([source](https://www.linkedin.com/company/marble-climate/#post-ecd2cbc06ae0))
 - **2026-07-15** — liveliness: 🟠 Suspect → 🔴 Likely Dead ([source](https://tracxn.com/d/companies/norma/__7Ta33N4VOLT_5pzMqLjX-bXd4Sia2nPCO6RdkJyggkY/funding-and-investors))
 - **2026-06-15** — liveliness: 🟢 Active → 🟠 Suspect ([source](https://tracxn.com/d/companies/norma/__7Ta33N4VOLT_5pzMqLjX-bXd4Sia2nPCO6RdkJyggkY/funding-and-investors))
 - **2026-05-01** — liveliness: 🟠 Suspect → 🟢 Active ([source](https://tracxn.com/d/companies/norma/__7Ta33N4VOLT_5pzMqLjX-bXd4Sia2nPCO6RdkJyggkY/funding-and-investors))
@@ -50,7 +53,6 @@ Norma is a Paris-based climate tech startup building a novel Direct Air Capture 
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).

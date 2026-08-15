@@ -16,7 +16,7 @@ liveliness: "🟢 Active"
   <tr><th>Country</th><td>France</td></tr>
   <tr><th>Website</th><td><a href="https://marble.studio/" target="_blank" rel="noopener">https://marble.studio/</a></td></tr>
   <tr><th>LinkedIn</th><td><a href="https://www.linkedin.com/company/marble-climate/" target="_blank" rel="noopener">marble-climate — 20,775 followers</a></td></tr>
-  <tr><th>Status</th><td>🟢 Active (score: 70/100)</td></tr>
+  <tr><th>Status</th><td>🟢 Active (score: 75/100)</td></tr>
   <tr><th>Employees</th><td>~34 (+53% YoY)</td></tr>
   <tr><th>CDR Focus</th><td>ecosystem</td></tr>
 </table>
@@ -31,6 +31,8 @@ Marble is a Paris-based climate-tech venture studio founded in 2021 by Benjamin 
 
 ## History
 
+- **2026-07-29** — news mention: Marble: 🇩🇪🥨 We've signed a project with SPRIND - Bundesagentur für Sprunginnovationen 🥨🇩🇪 Germany's  ([source](https://www.linkedin.com/company/marble-climate/#post-ecd2cbc06ae0))
+- **2026-07-26** — news mention: Enhanced weathering of lizardite-rich sand in seawater: effects of pH and CO₂ pressure on carbonate  ([source](https://doi.org/10.1007/s11356-026-38071-6))
 - **2026-05-01** — refresh: coresignal, screenshot
 - **2026-04-19** — refresh: coresignal
 - **2026-04-19** — reclassified: pathway=Enabling Tech focus=ecosystem liveliness=🟢 Active ([source](https://marble.studio/about))
@@ -44,7 +46,6 @@ Marble is a Paris-based climate-tech venture studio founded in 2021 by Benjamin 
 > publicly available signals (news, registries, press releases and online
 > search providers). Status ratings and descriptions are estimates — not
 > verified facts. If you spot an error, let us know on
-> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social)
-> or [X](https://x.com/CaptainDrawdown). Data seed derived from
+> [Bluesky](https://bsky.app/profile/captaindrawdown.bsky.social). Data seed derived from
 > [Grant Faber's CDR Company List](https://carbonbasedcommentary.substack.com/p/a-list-of-every-carbon-dioxide-removal)
 > (Jan 2026, CC BY-NC-SA 4.0).
