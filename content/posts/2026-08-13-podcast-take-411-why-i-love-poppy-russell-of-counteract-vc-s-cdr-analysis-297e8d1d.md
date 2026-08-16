@@ -2,7 +2,7 @@
 title: "Take: 411: Why I love Poppy Russell of Counteract VC's CDR analysis"
 date: 2026-08-13T10:00:00+00:00
 slug: "podcast-take-411-why-i-love-poppy-russell-of-counteract-vc-s-cdr-analysis-297e8d1d"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "reversing-climate-change"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"
