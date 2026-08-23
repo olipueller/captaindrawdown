@@ -2,7 +2,7 @@
 title: "Take: Charred for Change"
 date: 2026-08-20T10:00:00+00:00
 slug: "podcast-take-charred-for-change-24e905cb"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "ground-cover"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"

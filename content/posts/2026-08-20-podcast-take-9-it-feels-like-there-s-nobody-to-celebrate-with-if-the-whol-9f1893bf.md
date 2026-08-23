@@ -2,7 +2,7 @@
 title: "Take: #9: it feels like there’s nobody to celebrate with if the whole industry is hurting"
 date: 2026-08-20T10:00:00+00:00
 slug: "podcast-take-9-it-feels-like-there-s-nobody-to-celebrate-with-if-the-whol-9f1893bf"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "carbon-removal-newsroom"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"

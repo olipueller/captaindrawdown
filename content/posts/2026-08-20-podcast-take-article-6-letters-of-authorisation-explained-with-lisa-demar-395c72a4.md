@@ -2,7 +2,7 @@
 title: "Take: Article 6 Letters of Authorisation Explained - with Lisa DeMarco"
 date: 2026-08-20T10:00:00+00:00
 slug: "podcast-take-article-6-letters-of-authorisation-explained-with-lisa-demar-395c72a4"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "the-cdr-policy-scoop"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"
