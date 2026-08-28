@@ -2,7 +2,7 @@
 title: "Take: Interview with Matthew Green"
 date: 2026-08-25T10:00:00+00:00
 slug: "yt-take-interview-with-matthew-green-27j8ney2"
-draft: true
+draft: false
 tags: ["cdr", "youtube-take", "annie-luo"]
 categories: ["youtube-take"]
 content_type: "type11_youtube"
