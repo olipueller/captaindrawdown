@@ -27,7 +27,7 @@ Enhanced rock weathering means grinding a reactive rock (usually basalt, sometim
 
 ## Who's involved?
 
-The Nature study looked at natural basaltic catchments, [finding that critical zone processes limit alkalinity export](https://www.nature.com/articles/s41586-026-10936-3). The [author commentary in Springer Nature Research Communities](https://communities.springernature.com/posts/limitations-on-carbon-dioxide-uptake-by-enhanced-weathering) frames the challenge to ERW directly. Adam Wolf has posted a [statistical defense of the Kantola et al. cropland dataset](https://cdrxiv.org/preprint/339) on CDRXIV, responding to a Derry et al. critique. Maxbauer et al. reported a [midwestern field trial where steel slag showed CDR but basalt did not](https://cdrxiv.org/preprint/359). And Suhrhoff et al. published a [signal-to-noise analysis of the soil mass balance method](https://cdrxiv.org/preprint/390) that most registries lean on. On the commercial side, [Commons and InPlanet just partnered to expand ERW credit distribution](https://carbonherald.com/commons-and-inplanet-team-up-to-expand-access-to-high-integrity-erw-credits/).
+The Nature study looked at natural basaltic catchments, [finding that critical zone processes limit alkalinity export](https://www.nature.com/articles/s41586-026-10936-3). The [author commentary in Springer Nature Research Communities](https://communities.springernature.com/posts/limitations-on-carbon-dioxide-uptake-by-enhanced-weathering) frames the challenge to ERW directly. The measurement fight itself has been running for over a year. In April 2025, Adam Wolf posted a [statistical defense of the Kantola et al. cropland dataset](https://cdrxiv.org/preprint/339) on CDRXIV, responding to a Derry et al. critique. In July 2025, Maxbauer et al. reported a [midwestern field trial where steel slag showed CDR but basalt did not](https://cdrxiv.org/preprint/359). And in June 2025, Suhrhoff et al. published a [signal-to-noise analysis of the soil mass balance method](https://cdrxiv.org/preprint/390) that most registries lean on. On the commercial side, [Commons and InPlanet just partnered to expand ERW credit distribution](https://carbonherald.com/commons-and-inplanet-team-up-to-expand-access-to-high-integrity-erw-credits/).
 
 ## What just happened?
 
@@ -45,8 +45,8 @@ Weighing it honestly: the critique targets the modeled export assumption and the
 ## Further reading
 
 - [Critical zone processes limit alkalinity export](https://www.nature.com/articles/s41586-026-10936-3) (Nature)
-- [Signal-to-noise analysis of soil mass balance for ERW](https://cdrxiv.org/preprint/390) (Suhrhoff et al., CDRXIV)
-- [Steel slag vs. basalt field trial](https://cdrxiv.org/preprint/359) (Maxbauer et al., CDRXIV)
+- [Signal-to-noise analysis of soil mass balance for ERW](https://cdrxiv.org/preprint/390) (Suhrhoff et al., CDRXIV, June 2025)
+- [Steel slag vs. basalt field trial](https://cdrxiv.org/preprint/359) (Maxbauer et al., CDRXIV, July 2025)
 
 The market is signing multi-year offtake on a measurement method the literature is actively arguing about. That is the gap. Ask your supplier which side of it their tonnes sit on.
 
