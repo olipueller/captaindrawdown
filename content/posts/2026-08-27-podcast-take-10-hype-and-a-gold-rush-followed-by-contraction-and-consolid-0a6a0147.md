@@ -2,7 +2,7 @@
 title: "Take: #10: hype and a gold rush followed by contraction and consolidation"
 date: 2026-08-27T10:00:00+00:00
 slug: "podcast-take-10-hype-and-a-gold-rush-followed-by-contraction-and-consolid-0a6a0147"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "carbon-removal-newsroom"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"

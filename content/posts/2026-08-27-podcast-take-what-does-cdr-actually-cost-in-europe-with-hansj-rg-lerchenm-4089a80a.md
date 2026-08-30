@@ -2,7 +2,7 @@
 title: "Take: What Does CDR Actually Cost in Europe? - with Hansjörg Lerchenmüller and Eadbhard Pernot"
 date: 2026-08-27T10:00:00+00:00
 slug: "podcast-take-what-does-cdr-actually-cost-in-europe-with-hansj-rg-lerchenm-4089a80a"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "the-cdr-policy-scoop"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"

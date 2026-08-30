@@ -2,7 +2,7 @@
 title: "Take: Canada’s Next Industrial Play: What It Takes to Earn a Farmer’s Yes"
 date: 2026-08-27T10:00:00+00:00
 slug: "podcast-take-canada-s-next-industrial-play-what-it-takes-to-earn-a-farmer-d871d70f"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "the-carbon-curve"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"
