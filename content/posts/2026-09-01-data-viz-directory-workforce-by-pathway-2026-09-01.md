@@ -1,5 +1,5 @@
 ---
-title: "Biochar leads CDR employment with 377 workers across all pathways"
+title: "Enabling tech dwarfs CDR with 7,783 workers while pure-play producers trail"
 date: 2026-09-01T09:00:00+02:00
 slug: "data-viz-directory-workforce-by-pathway-2026-09-01"
 content_type: "type7_dataviz"
@@ -20,7 +20,7 @@ Read it carefully. Headcount is not tonnage, not revenue, and not durability. A 
 
 ## What the chart shows today
 
-Biochar dominates the directory with 377 companies, more than double DAC's 125 and Enabling Tech's 179. But the focus breakdown tells the real story: of 969 visible orgs, only 35 are dedicated divisions inside larger firms, while 569 are suppliers and another 211 sit in the ecosystem layer around the actual producers. Those 569 pure-plays collectively employ just 9,671 people, meaning the average CDR-native company is a 17-person shop. If you're modeling deployment capacity from headcount, most of the "CDR workforce" you read about lives in ecosystem and side-business orgs, not in the producers actually moving tons.
+7,783 CDR-attributable workers sit in Enabling Tech, and 7,775 of them (99.9%) work at ecosystem players rather than pure-play suppliers, meaning the biggest "CDR workforce" bucket is essentially picks-and-shovels infrastructure. Biochar is the opposite story: 4,792 workers total, with 4,017 at pure-play suppliers actually making the stuff. Afforestation splits down the middle at 1,831 supplier vs 1,559 ecosystem headcount. Across all 22,494 attributable workers, pure-play producers account for just 11,196 - so half the "CDR workforce" is really adjacent infrastructure, and any headline citing the full number is overstating how many people are directly removing carbon.
 
 ---
 
