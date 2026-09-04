@@ -2,7 +2,7 @@
 title: "Take: Why Concrete Is the World’s Biggest Carbon Trap"
 date: 2026-09-01T10:00:00+00:00
 slug: "yt-take-why-concrete-is-the-world-s-biggest-carbon-trap-hltbvu1t"
-draft: true
+draft: false
 tags: ["cdr", "youtube-take", "the-odd-vault"]
 categories: ["youtube-take"]
 content_type: "type11_youtube"
