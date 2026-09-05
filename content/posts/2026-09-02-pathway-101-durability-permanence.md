@@ -2,7 +2,7 @@
 title: "Pathway 101: Durability & Permanence"
 date: 2026-09-02T08:00:00+00:00
 slug: "pathway-101-durability-permanence"
-draft: true
+draft: false
 tags: ["cdr", "pathway-101", "evergreen", "durability-permanence"]
 categories: ["pathway-101"]
 content_type: "type3_long_form"
