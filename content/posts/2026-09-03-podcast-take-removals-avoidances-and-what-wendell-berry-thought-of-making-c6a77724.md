@@ -2,7 +2,7 @@
 title: "Take: Removals, avoidances, and what Wendell Berry thought of making tonnes fungible"
 date: 2026-09-03T10:00:00+00:00
 slug: "podcast-take-removals-avoidances-and-what-wendell-berry-thought-of-making-c6a77724"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "reversing-climate-change"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"

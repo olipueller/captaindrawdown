@@ -2,7 +2,7 @@
 title: "Take: What is really happening to DAC Hubs? - with Grant Faber"
 date: 2026-09-03T10:00:00+00:00
 slug: "podcast-take-what-is-really-happening-to-dac-hubs-with-grant-faber-abc32314"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "the-cdr-policy-scoop"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"

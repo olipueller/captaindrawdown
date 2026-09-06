@@ -2,7 +2,7 @@
 title: "Take: Somebody here needs to say this before an investigative journalist does. I’d rather it be one of us."
 date: 2026-09-03T10:00:00+00:00
 slug: "podcast-take-somebody-here-needs-to-say-this-before-an-investigative-jour-bd52b8ca"
-draft: true
+draft: false
 tags: ["cdr", "podcast-take", "carbon-removal-newsroom"]
 categories: ["podcast-take"]
 content_type: "type12_podcast"
